@@ -1,0 +1,364 @@
+{
+ "startup_id": "truva",
+ "company": {
+  "company_name": {
+   "v": "Truva",
+   "date": "2023",
+   "conf": 0.95,
+   "src": "ET"
+  },
+  "status": {
+   "v": "active",
+   "date": "2026-09",
+   "conf": 0.95,
+   "src": "LinkedIn"
+  },
+  "city": {
+   "v": "Mumbai",
+   "conf": 0.95,
+   "src": "ET"
+  },
+  "primary_sector": {
+   "v": "proptech listings",
+   "conf": 0.9,
+   "src": "ET"
+  },
+  "startup_stage": {
+   "v": "Series A",
+   "date": "2026-01",
+   "conf": 0.9,
+   "src": "Tracxn"
+  },
+  "public_private": {
+   "v": "private",
+   "conf": 0.95,
+   "src": "LinkedIn"
+  },
+  "founded_date": {
+   "v": "2023",
+   "conf": 0.95,
+   "src": "ET"
+  },
+  "legal_name": {
+   "v": "Porch Technologies Private Limited",
+   "conf": 0.8,
+   "src": "LinkedIn"
+  },
+  "cin": {
+   "v": "UNKNOWN",
+   "conf": 0.1,
+   "src": "not found"
+  },
+  "official_website": {
+   "v": "https://www.truva.in",
+   "conf": "high",
+   "src": "https://www.truva.in",
+   "note": "verified live 2026-09-15: name match on own homepage"
+  },
+  "website": "https://www.truva.in",
+  "careers_website": {
+   "v": "https://www.truva.in/about#careers",
+   "conf": "high",
+   "src": "https://www.truva.in",
+   "note": "playwright render 2026-09-15"
+  }
+ },
+ "funding_rounds": [
+  {
+   "round_type": "seed",
+   "announced_date": "2024-08-12",
+   "amount": {
+    "v": 3000000,
+    "currency": "USD"
+   },
+   "lead_investors": [
+    "Stellaris"
+   ],
+   "source_url": "https://economictimes.indiatimes.com/tech/funding/proptech-startup-truva-raises-9-million-from-stellaris-and-orios-venture-partners/articleshow/126533381.cms",
+   "source_title": "Proptech startup Truva raises $9 million",
+   "source_date": "2026-01-15",
+   "tier": "T2",
+   "confidence": 0.85
+  },
+  {
+   "round_type": "series_a",
+   "announced_date": "2026-01-15",
+   "amount": {
+    "v": 7300000,
+    "currency": "USD"
+   },
+   "lead_investors": [
+    "Stellaris",
+    "Orios"
+   ],
+   "all_investors": [
+    "Stellaris",
+    "Orios",
+    "Stride",
+    "Mukesh Bansal",
+    "Ramakant Sharma",
+    "Aakrit Vaish",
+    "Miten Sampat"
+   ],
+   "source_url": "https://economictimes.indiatimes.com/tech/funding/proptech-startup-truva-raises-9-million-from-stellaris-and-orios-venture-partners/articleshow/126533381.cms",
+   "source_title": "Proptech startup Truva raises $9 million",
+   "source_date": "2026-01-15",
+   "tier": "T2",
+   "confidence": 0.9
+  },
+  {
+   "round_type": "venture_debt",
+   "announced_date": "2026-01-15",
+   "amount": {
+    "v": 1700000,
+    "currency": "USD"
+   },
+   "lead_investors": [
+    "Stride"
+   ],
+   "source_url": "https://economictimes.indiatimes.com/tech/funding/proptech-startup-truva-raises-9-million-from-stellaris-and-orios-venture-partners/articleshow/126533381.cms",
+   "source_title": "Proptech startup Truva raises $9 million",
+   "source_date": "2026-01-15",
+   "tier": "T2",
+   "confidence": 0.85
+  }
+ ],
+ "founders": [
+  {
+   "name": {
+    "v": "Monil Singhal",
+    "role": "co-founder",
+    "type": "co-founder",
+    "confidence": 0.95,
+    "src": "ET"
+   }
+  },
+  {
+   "name": {
+    "v": "Puneet Arora",
+    "role": "co-founder",
+    "type": "co-founder",
+    "confidence": 0.95,
+    "src": "ET"
+   }
+  },
+  {
+   "name": {
+    "v": "Ankit Gupta",
+    "role": "co-founder",
+    "type": "co-founder",
+    "confidence": 0.95,
+    "src": "ET"
+   }
+  }
+ ],
+ "people": [],
+ "investor_links": [
+  {
+   "investor": "Stellaris Venture Partners",
+   "investor_type": "VC",
+   "first_seen": "2024-08",
+   "rounds": [
+    "seed",
+    "series_a"
+   ],
+   "lead": true,
+   "source_url": "https://economictimes.indiatimes.com/tech/funding/proptech-startup-truva-raises-9-million-from-stellaris-and-orios-venture-partners/articleshow/126533381.cms",
+   "confidence": 0.9
+  },
+  {
+   "investor": "Orios Venture Partners",
+   "investor_type": "VC",
+   "first_seen": "2026-01",
+   "rounds": [
+    "series_a"
+   ],
+   "lead": true,
+   "source_url": "https://economictimes.indiatimes.com/tech/funding/proptech-startup-truva-raises-9-million-from-stellaris-and-orios-venture-partners/articleshow/126533381.cms",
+   "confidence": 0.9
+  },
+  {
+   "investor": "Stride Ventures",
+   "investor_type": "debt",
+   "first_seen": "2026-01",
+   "rounds": [
+    "venture_debt"
+   ],
+   "source_url": "https://economictimes.indiatimes.com/tech/funding/proptech-startup-truva-raises-9-million-from-stellaris-and-orios-venture-partners/articleshow/126533381.cms",
+   "confidence": 0.85
+  }
+ ],
+ "investors_meta": [
+  {
+   "investor": "Stellaris Venture Partners",
+   "type": "VC",
+   "hq": "Bengaluru",
+   "india_office": "Bengaluru",
+   "notes": "Lead seed and Series A"
+  },
+  {
+   "investor": "Orios Venture Partners",
+   "type": "VC",
+   "hq": "Mumbai",
+   "india_office": "Mumbai",
+   "notes": "Lead Series A"
+  },
+  {
+   "investor": "Stride Ventures",
+   "type": "debt_fund",
+   "hq": "Mumbai",
+   "india_office": "Mumbai",
+   "notes": "Venture debt"
+  }
+ ],
+ "financials": [
+  {
+   "fiscal_year": "FY24",
+   "metric": "operating_revenue",
+   "value": {
+    "v": 108800,
+    "unit": "INR",
+    "value_type": "press-quoted-filing"
+   },
+   "source_url": "https://entrackr.com/snippets/proptech-startup-truva-raises-9-mn-co-led-by-stellaris-and-orios-11000314",
+   "source_title": "Proptech startup Truva raises $9 Mn",
+   "source_date": "2026-01-15",
+   "confidence": 0.7
+  },
+  {
+   "fiscal_year": "FY24",
+   "metric": "net_loss",
+   "value": {
+    "v": 103000,
+    "unit": "INR",
+    "value_type": "press-quoted-filing"
+   },
+   "source_url": "https://entrackr.com/snippets/proptech-startup-truva-raises-9-mn-co-led-by-stellaris-and-orios-11000314",
+   "source_title": "Proptech startup Truva raises $9 Mn",
+   "source_date": "2026-01-15",
+   "confidence": 0.7
+  }
+ ],
+ "products": [
+  {
+   "name": "Truva platform",
+   "description": "Online platform for buying/selling renovated homes",
+   "category": "proptech"
+  }
+ ],
+ "traction": [
+  {
+   "metric": "GMV",
+   "value": {
+    "v": "Rs 300 crore+ sold",
+    "as_of": "2026-01",
+    "source_url": "https://economictimes.indiatimes.com/tech/funding/proptech-startup-truva-raises-9-million-from-stellaris-and-orios-venture-partners/articleshow/126533381.cms",
+    "company_reported": true,
+    "confidence": 0.8
+   }
+  },
+  {
+   "metric": "homes_sold",
+   "value": {
+    "v": "150+",
+    "as_of": "2026-08",
+    "source_url": "https://www.linkedin.com/company/truvahomes",
+    "company_reported": true,
+    "confidence": 0.75
+   }
+  }
+ ],
+ "locations": [
+  {
+   "type": "HQ",
+   "address_or_area": "24-A, Samadhan Chs Ltd, Raheja Township, Malad East",
+   "city": "Mumbai",
+   "state": "Maharashtra",
+   "as_of": "2026",
+   "source_url": "https://tracxn.com/d/companies/truva/__d__u7NwQhTg21aopaNglii3GJgAHZB022cvkSLup1lo",
+   "confidence": 0.9
+  },
+  {
+   "type": "ops",
+   "city": "Bengaluru",
+   "state": "Karnataka",
+   "as_of": "2026-08",
+   "source_url": "https://www.linkedin.com/company/truvahomes",
+   "confidence": 0.8
+  }
+ ],
+ "hiring": [
+  {
+   "fact_type": "headcount",
+   "value": {
+    "v": "112",
+    "as_of": "2026-06",
+    "source_url": "https://www.linkedin.com/company/truvahomes",
+    "confidence": 0.85
+   }
+  }
+ ],
+ "events": [
+  {
+   "date": "2026-01-15",
+   "type": "funding",
+   "headline": "Truva raises $9 million from Stellaris and Orios",
+   "description": "Series A $7.3M + $1.7M venture debt",
+   "source_url": "https://economictimes.indiatimes.com/tech/funding/proptech-startup-truva-raises-9-million-from-stellaris-and-orios-venture-partners/articleshow/126533381.cms",
+   "confidence": 0.9
+  },
+  {
+   "date": "2026-08",
+   "type": "expansion",
+   "headline": "Truva expands to Bengaluru",
+   "description": "Opening Bengaluru office",
+   "source_url": "https://www.linkedin.com/company/truvahomes",
+   "confidence": 0.8
+  }
+ ],
+ "sources": [
+  {
+   "url": "https://economictimes.indiatimes.com/tech/funding/proptech-startup-truva-raises-9-million-from-stellaris-and-orios-venture-partners/articleshow/126533381.cms",
+   "title": "Proptech startup Truva raises $9 million",
+   "publisher": "The Economic Times",
+   "publication_date": "2026-01-15",
+   "tier": "T2",
+   "claim_supported": "funding, founders, city, sector"
+  },
+  {
+   "url": "https://www.linkedin.com/company/truvahomes",
+   "title": "Truva LinkedIn",
+   "publisher": "LinkedIn",
+   "publication_date": "2026-09",
+   "tier": "T3",
+   "claim_supported": "headcount, expansion, status"
+  },
+  {
+   "url": "https://tracxn.com/d/companies/truva/__d__u7NwQhTg21aopaNglii3GJgAHZB022cvkSLup1lo",
+   "title": "Truva - 2026 Company Profile",
+   "publisher": "Tracxn",
+   "publication_date": "2026-08-23",
+   "tier": "T3",
+   "claim_supported": "funding rounds, CIN, address"
+  }
+ ],
+ "gaps": [
+  "CIN not found",
+  "FY25 financials not filed",
+  "Revenue figures are company-reported"
+ ],
+ "completeness_self": {
+  "identity": 7,
+  "founders": 9,
+  "funding": 8,
+  "investors": 7,
+  "financials": 4,
+  "products": 6,
+  "traction": 6,
+  "people": 3,
+  "customers": 2,
+  "legal": 3,
+  "sources": 8
+ },
+ "_merged_session2": true
+}

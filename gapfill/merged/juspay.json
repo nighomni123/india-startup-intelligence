@@ -1,0 +1,42 @@
+{
+ "canonical_key": "juspay",
+ "updates": {
+  "company": {
+   "cin": "U66190KA2012PTC098522",
+   "incorporation_date": "2012-08-29",
+   "legal_name": "Juspay Technologies Private Limited"
+  }
+ },
+ "financials_add": [],
+ "round_supplements": [],
+ "investors_meta": [],
+ "people": [],
+ "sources": [
+  {
+   "url": "https://www.zaubacorp.com/JUSPAY-TECHNOLOGIES-PRIVATE-LIMITED-U74900KA2012PTC098522",
+   "title": "Juspay Technologies Private Limited - ZaubaCorp",
+   "publication_date": null,
+   "fields": [
+    "cin"
+   ],
+   "confidence": "MEDIUM"
+  },
+  {
+   "url": "https://tracxn.com/d/legal-entities/india/juspay-technologies-private-limited/__T2DIRiE3IuehWojuGez9DervUOGvYrEuSnu6p3a_oLs",
+   "title": "Juspay Technologies Private Limited - Tracxn legal entity",
+   "publication_date": null,
+   "fields": [
+    "cin"
+   ],
+   "confidence": "MEDIUM"
+  }
+ ],
+ "log": [
+  {
+   "query": "Juspay CIN",
+   "found": "CIN U66190KA2012PTC098522 (Tracxn/Instafinancials); CONFLICT: ZaubaCorp page slug shows U74900KA2012PTC098522 (NIC-code variant)",
+   "unresolved": "NIC prefix U74900 vs U66190"
+  }
+ ],
+ "still_missing": []
+}

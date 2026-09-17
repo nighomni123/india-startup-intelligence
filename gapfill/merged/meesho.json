@@ -1,0 +1,49 @@
+{
+ "canonical_key": "meesho",
+ "updates": {
+  "company": {
+   "cin": "U74900KA2015PTC082263",
+   "incorporation_date": "2015-01-01",
+   "legal_name": "Fashnear Technologies Private Limited (operating Meesho; 2024 flip entity Meesho Technologies Pvt Ltd U62099KA2024PTC186568)"
+  }
+ },
+ "round_supplements": [],
+ "sources": [
+  {
+   "url": "https://static-assets.meesho.com/docs/AGM%20Notice%202022.pdf",
+   "title": "Meesho AGM Notice 2022 (company-published PDF)",
+   "publication_date": "2022-09",
+   "fields": [
+    "cin",
+    "legal_name"
+   ],
+   "confidence": "high"
+  },
+  {
+   "url": "https://www.tofler.in/meesho-technologies-private-limited/company/U62099KA2024PTC186568",
+   "title": "Meesho Technologies Financials | Company Details",
+   "publication_date": "n.d.",
+   "fields": [
+    "cin"
+   ],
+   "confidence": "medium"
+  }
+ ],
+ "log": [
+  {
+   "query": "Fashnear Technologies Private Limited Meesho CIN incorporated",
+   "found": "operating-company CIN U74900KA2015PTC082263 from Meesho's own AGM notice; founded 2015",
+   "unresolved": "exact incorporation day-month not verified — year 2015 only"
+  },
+  {
+   "query": "Meesho Technologies Private Limited CIN incorporation date",
+   "found": "flip entity incorporated 22 Mar 2024 (Tofler/FalconeBiz)",
+   "unresolved": ""
+  }
+ ],
+ "still_missing": [
+  "Fashnear exact incorporation day-month",
+  "FY25/FY26 filing financials",
+  "round dates/valuations beyond enrich file"
+ ]
+}

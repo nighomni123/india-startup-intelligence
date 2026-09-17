@@ -1,0 +1,43 @@
+{
+ "canonical_key": "yuma energy",
+ "updates": {
+  "company": {
+   "city": "Bengaluru",
+   "state": "Karnataka",
+   "registered_office": "Exora Business Park / Prestige Tech Park II, 2nd Floor Wing A, Bellandur, Outer Ring Road, Bengaluru South, Karnataka (Magna Yuma Pvt Ltd); HSR Layout Sector 6 address also cited"
+  }
+ },
+ "financials_add": [],
+ "round_supplements": [],
+ "investors_meta": [],
+ "people": [],
+ "sources": [
+  {
+   "url": "https://www.zaubacorp.com",
+   "title": "Magna Yuma Private Limited - ZaubaCorp",
+   "publication_date": null,
+   "fields": [
+    "city",
+    "registered_office"
+   ],
+   "confidence": "MEDIUM"
+  },
+  {
+   "url": "https://yourstory.com",
+   "title": "Yuma Energy Company Profile",
+   "publication_date": null,
+   "fields": [
+    "city"
+   ],
+   "confidence": "LOW"
+  }
+ ],
+ "log": [
+  {
+   "query": "Yuma Energy headquarters registered office",
+   "found": "Bengaluru (YourStory HQ + ZaubaCorp/InstaFinancials registered address agree)",
+   "unresolved": "two registered-address variants (Bellandur vs HSR Layout)"
+  }
+ ],
+ "still_missing": []
+}

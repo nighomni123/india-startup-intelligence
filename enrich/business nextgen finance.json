@@ -1,0 +1,207 @@
+{
+ "company": {
+  "business_model": "NBFC secured lending to MSMEs (tech-led underwriting)",
+  "cin": "U64990MH2025PTC443949",
+  "city": "Mumbai",
+  "company_name": "Business Nextgen Finance",
+  "country": "India",
+  "founded_date": "2025",
+  "incorporation_date": "2025-03-26",
+  "legal_name": "BUSINESS NEXTGEN FINANCE PRIVATE LIMITED",
+  "primary_sector": "fintech / NBFC",
+  "public_private": "private",
+  "startup_stage": "seed/first institutional (RBI CoR Sep 2025)",
+  "state": "Maharashtra",
+  "status": "active",
+  "website": "https://bnfl.in",
+  "official_website": {
+   "v": "https://bnfl.in",
+   "conf": "high",
+   "src": "https://bnfl.in",
+   "note": "verified live 2026-09-15: name match on own homepage"
+  },
+  "careers_website": {
+   "v": "https://bnfl.in/career/",
+   "conf": "high",
+   "src": "https://bnfl.in",
+   "note": "careers link found on official homepage, probed live"
+  }
+ },
+ "completeness_self": {
+  "financials": 2,
+  "founders": 7,
+  "funding": 8,
+  "identity": 8,
+  "investors": 8,
+  "legal": 5,
+  "people": 4,
+  "products": 5,
+  "sources": 8,
+  "traction": 3
+ },
+ "conflicts": [
+  {
+   "field": "paid-up capital",
+   "claim_a": "Rs 13.01cr (Tracxn legal-entity page, older snapshot)",
+   "claim_b": "Rs 34.95cr (IndiaFilings MCA-mirror page)",
+   "resolution": "Different snapshots; IndiaFilings newer figure noted, both cited; post-raise Rs 215cr equity will supersede.",
+   "url_a": "https://tracxn.com/d/legal-entities/india/business-nextgen-finance-private-limited/__VWF_zFr10zYAnkzI8JhidxEKmQ23_pvNhmy1l9OoAJc",
+   "url_b": "https://www.indiafilings.com/search/business-nextgen-finance-private-limited-cin-U64990MH2025PTC443949"
+  }
+ ],
+ "events": [
+  {
+   "announced_date": "2026-09-03",
+   "date": "2026-09-03",
+   "description": "Rs 215cr equity led by Beams Fintech (26%+ stake); Baring PE India, Saison Capital, UNLEASH co-invest; RBI prior approval; RBI CoR Sep 2025; founder Pankaj Poddar ex-CRO SBFC.",
+   "headline": "Rs 215cr equity raise led by Beams Fintech",
+   "source_url": "https://www.vccircle.com/nbfcbusiness-nextgen-finance-raises-23-mn-baring-pe-saison-cap-participate",
+   "type": "funding"
+  }
+ ],
+ "financials": [
+  {
+   "currency": "INR",
+   "fiscal_year": "FY25",
+   "metric": "paid-up capital (pre-raise snapshot)",
+   "source_title": "BUSINESS NEXTGEN FINANCE PRIVATE LIMITED | IndiaFilings",
+   "source_url": "https://www.indiafilings.com/search/business-nextgen-finance-private-limited-cin-U64990MH2025PTC443949",
+   "value": "34.95 Cr",
+   "value_type": "press-quoted-filing"
+  }
+ ],
+ "founders": [
+  {
+   "background": "ex-Chief Risk Officer SBFC Finance; ex-Bajaj Finserv (SME/mortgages risk); ex-Standard Chartered (SME risk)",
+   "confidence": "HIGH",
+   "name": "Pankaj Poddar",
+   "role": "Promoter, MD & CEO",
+   "source_url": "https://www.vccircle.com/nbfcbusiness-nextgen-finance-raises-23-mn-baring-pe-saison-cap-participate",
+   "still_active": true,
+   "type": "founder"
+  }
+ ],
+ "funding_rounds": [
+  {
+   "all_investors": [
+    "Beams Fintech Fund (+affiliates)",
+    "Baring PE Partners India",
+    "Saison Capital",
+    "UNLEASH Capital Partners"
+   ],
+   "amount": "2150000000",
+   "announced_date": "2026-09-03",
+   "currency": "INR",
+   "lead_investors": [
+    "Beams Fintech Fund"
+   ],
+   "purpose": "capital base, tech-led secured lending platform scale, underserved MSME expansion",
+   "round_type": "equity (first institutional)",
+   "source_date": "2026-09-03",
+   "source_title": "Beams Fintech leads $23 mn round in non-bank lender Business Nextgen",
+   "source_url": "https://www.vccircle.com/nbfcbusiness-nextgen-finance-raises-23-mn-baring-pe-saison-cap-participate",
+   "tier": "T3"
+  }
+ ],
+ "gaps": [
+  "No operating financials yet (RBI licence Sep 2025; first raise Sep 2026) — expected gap, not a miss.",
+  "Batch city Bengaluru is wrong; evidence shows Mumbai (ROC Mumbai, Mumbai addresses, PTI Mumbai dateline) — corrected.",
+  "AUM/loan-book/disbursement traction nil reported; directors beyond Poddar (Bonani Roychoudhury, Shweta Poddar per IndiaFilings) not role-verified."
+ ],
+ "investor_links": [
+  {
+   "confidence": "HIGH",
+   "investor": "Beams Fintech Fund",
+   "investor_type": "PE (fintech growth)",
+   "lead": true,
+   "rounds": [
+    "equity Sep 2026 (26%+ stake)"
+   ],
+   "source_url": "https://www.vccircle.com/nbfcbusiness-nextgen-finance-raises-23-mn-baring-pe-saison-cap-participate"
+  },
+  {
+   "confidence": "HIGH",
+   "investor": "Baring PE Partners India",
+   "investor_type": "PE",
+   "lead": false,
+   "rounds": [
+    "equity Sep 2026"
+   ],
+   "source_url": "https://www.vccircle.com/nbfcbusiness-nextgen-finance-raises-23-mn-baring-pe-saison-cap-participate"
+  },
+  {
+   "confidence": "HIGH",
+   "investor": "Saison Capital",
+   "investor_type": "VC/corporate",
+   "lead": false,
+   "rounds": [
+    "equity Sep 2026"
+   ],
+   "source_url": "https://www.bwdisrupt.com/article/business-nextgen-finance-secures-rs-215-cr-from-beams-fintech-fund-others-622094"
+  },
+  {
+   "confidence": "MEDIUM",
+   "investor": "UNLEASH Capital Partners",
+   "investor_type": "investor",
+   "lead": false,
+   "rounds": [
+    "equity Sep 2026"
+   ],
+   "source_url": "https://www.bwdisrupt.com/article/business-nextgen-finance-secures-rs-215-cr-from-beams-fintech-fund-others-622094"
+  }
+ ],
+ "research_log": [
+  {
+   "found": "ACTIVE; Rs 215cr Sep 3 2026 Beams-led; founder Pankaj Poddar ex-SBFC CRO; RBI CoR Sep 2025",
+   "query": "Business Nextgen Finance Bengaluru Rs 215 crore funding 2026",
+   "unresolved": "CIN/incorp at that point"
+  },
+  {
+   "found": "CIN U64990MH2025PTC443949, inc Mar 26 2025, ROC Mumbai; Mumbai addresses; directors; Poddar career history",
+   "query": "Business Nextgen Finance Pankaj Poddar founder SBFC RBI registration city",
+   "unresolved": "Operating financials (none expected yet)"
+  }
+ ],
+ "sources": [
+  {
+   "publication_date": "2026-09-03",
+   "publisher": "VCCircle",
+   "retrieved_date": "2026-09-15",
+   "tier": "T3",
+   "title": "Beams Fintech leads $23 mn round in non-bank lender Business Nextgen",
+   "url": "https://www.vccircle.com/nbfcbusiness-nextgen-finance-raises-23-mn-baring-pe-saison-cap-participate"
+  },
+  {
+   "publication_date": "2026-09-04",
+   "publisher": "BW Disrupt",
+   "retrieved_date": "2026-09-15",
+   "tier": "T3",
+   "title": "Business NextGen Finance Secures Rs 215 Cr From Beams Fintech Fund & Others",
+   "url": "https://www.bwdisrupt.com/article/business-nextgen-finance-secures-rs-215-cr-from-beams-fintech-fund-others-622094"
+  },
+  {
+   "publication_date": "2026-09-03",
+   "publisher": "PTI via Rediff Money",
+   "retrieved_date": "2026-09-15",
+   "tier": "T3",
+   "title": "Beams Fintech Leads Rs 215 Cr Investment in Business Nextgen",
+   "url": "http://money.rediff.com/news/market/beams-fintech-leads-rs-215-cr-investment-in-business-nextgen/53710620260903"
+  },
+  {
+   "publisher": "IndiaFilings (MCA mirror)",
+   "retrieved_date": "2026-09-15",
+   "tier": "T2",
+   "title": "BUSINESS NEXTGEN FINANCE PRIVATE LIMITED | IndiaFilings",
+   "url": "https://www.indiafilings.com/search/business-nextgen-finance-private-limited-cin-U64990MH2025PTC443949"
+  },
+  {
+   "publisher": "Tracxn (registry page)",
+   "retrieved_date": "2026-09-15",
+   "tier": "T2",
+   "title": "BUSINESS NEXTGEN FINANCE PRIVATE LIMITED legal entity",
+   "url": "https://tracxn.com/d/legal-entities/india/business-nextgen-finance-private-limited/__VWF_zFr10zYAnkzI8JhidxEKmQ23_pvNhmy1l9OoAJc"
+  }
+ ],
+ "startup_id": "business nextgen finance",
+ "_merged_session2": true
+}

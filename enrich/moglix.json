@@ -1,0 +1,3045 @@
+{
+ "acquisitions": [
+  {
+   "confidence": "HIGH",
+   "date": "July 2021",
+   "direction": "made",
+   "disclosed": false,
+   "rationale": "Used-machinery liquidation; access to high-value capital goods at economical prices",
+   "source_url": "https://entrackr.com/2021/07/moglix-acquires-e-commerce-platform-vendaxo/",
+   "target": "Vendaxo",
+   "type": "acquisition",
+   "counterparty": "Vendaxo"
+  },
+  {
+   "confidence": "HIGH",
+   "date": "October 2022",
+   "direction": "made",
+   "disclosed": false,
+   "rationale": "Expand distribution network for OEM brands (video surveillance, access control, fire control); ~Rs 300 cr turnover business",
+   "source_url": "https://timesofindia.indiatimes.com/moglix-acquires-rs-300-crore-adis-india-distribution-biz-for-surveillance-security-products/articleshow/94767418.cms",
+   "target": "ADI Global Distribution (India distribution business)",
+   "type": "business acquisition",
+   "counterparty": "ADI Global Distribution"
+  },
+  {
+   "confidence": "HIGH",
+   "date": "November 2024",
+   "direction": "made",
+   "disclosed": true,
+   "rationale": "Expand manufacturing footprint; sustainable packaging portfolio",
+   "source_url": "https://cfo.economictimes.indiatimes.com/news/strategy-operations/moglix-acquires-khatema-fibres-for-rs-80-crore/115525891",
+   "target": "Khatema Fibres",
+   "value": "Rs 80 crore (~$9.4-10.6M)",
+   "type": "acquisition",
+   "counterparty": "Khatema Fibres"
+  },
+  {
+   "confidence": "MEDIUM",
+   "date": "November 2021 (reported)",
+   "direction": "made",
+   "disclosed": false,
+   "rationale": "Trade-financing capability for Credlix arm",
+   "source_url": "https://www.vccircle.com/supply-chain-financing-platform-credlix-acquires-fintech-start-up-nuphi",
+   "target": "NuPhi (by Credlix arm)",
+   "type": "acquisition",
+   "counterparty": "NuPhi"
+  },
+  {
+   "confidence": "MEDIUM",
+   "date": "December 2025 (announced)",
+   "direction": "made",
+   "disclosed": true,
+   "rationale": "Widen MSME/exporter credit; Vanik operates under Credlix brand; Rs 80 cr expansion investment",
+   "source_url": "https://inc42.com/buzz/moglix-owned-credlix-acquires-majority-stake-in-nbfc-vanik-finance/",
+   "target": "Vanik Finance (majority stake, by Credlix arm)",
+   "value": "Rs 80 crore investment stated",
+   "type": "majority stake acquisition",
+   "counterparty": "Vanik Finance"
+  }
+ ],
+ "company": {
+  "business_model": "B2B marketplace + procurement services + supply-chain financing (Credlix) + manufacturing",
+  "city": "Noida",
+  "company_name": "Moglix",
+  "confidence": "HIGH",
+  "country": "India",
+  "customer_type": "B2B",
+  "founded_date": "2015",
+  "hq_type": "operating HQ India; Singapore-registered parent per databases",
+  "legal_name": "Mogli Labs (India) Private Limited",
+  "primary_sector": "B2B e-commerce / industrial supply chain",
+  "secondary_sectors": [
+   "MRO procurement",
+   "supply-chain finance",
+   "packaging",
+   "manufacturing"
+  ],
+  "startup_id": "moglix",
+  "startup_stage": "Unicorn (Series F)",
+  "state": "Uttar Pradesh",
+  "status": "Active / private",
+  "total_funding_disclosed": "~$470-483M (press: ~$470M Jan 2022; VI: $483.10M incl. Feb 2025 $12.3M round)",
+  "website": "https://www.moglix.com",
+  "cin": "U72300DL2015FTC279856 (ZaubaCorp; conflicts with U72300HR2015FTC143298 — unresolved)",
+  "official_website": {
+   "v": "https://www.moglix.com",
+   "conf": "high",
+   "src": "https://www.moglix.com",
+   "note": "verified live 2026-09-15: name match on own homepage"
+  },
+  "careers_website": {
+   "v": "https://www.moglix.com/career",
+   "conf": "HIGH",
+   "src": "curl -L https://www.moglix.com/career → 200; title 'Explore Career Opportunities at Moglix.com'; page contains career culture images and career-related content; footer links to /career",
+   "note": "Careers page at /career (singular), not /careers. Confirmed via footer link and page content"
+  }
+ },
+ "competitors": [
+  {
+   "basis": "explicit",
+   "confidence": "HIGH",
+   "name": "OfBusiness"
+  },
+  {
+   "basis": "explicit",
+   "confidence": "HIGH",
+   "name": "Infra.Market"
+  },
+  {
+   "basis": "explicit",
+   "confidence": "HIGH",
+   "name": "Zetwerk"
+  },
+  {
+   "basis": "explicit",
+   "confidence": "MEDIUM",
+   "name": "Udaan"
+  }
+ ],
+ "conflicts": [
+  {
+   "claim_a": "FY24 operating revenue Rs 7,905 cr (~$950M), loss Rs 139 cr (YourStory company profile snippet)",
+   "claim_b": "FY24 total revenue Rs 4,232 cr, PAT -Rs 217.1 cr (Inc42 filing-based page); FY25 standalone revenue Rs 4,922.3 cr / PAT -Rs 127 cr (Venture Intelligence)",
+   "field": "financials FY24 revenue",
+   "resolution": "Unresolved: figures likely reflect different consolidation scopes (Singapore group vs India standalone). Both preserved; prefer audited-scope-labeled values per record.",
+   "url_a": "http://yourstory.com/companies/moglix",
+   "url_b": "https://inc42.com/company/moglix/financials"
+  },
+  {
+   "claim_a": "Seed prompt: Series F ~$145M at $895M (2022); investors incl. Tencent/Hillhouse/Zero31/Aminav",
+   "claim_b": "$250M Series F at $2.6B, Jan 2022, led by Tiger Global + Alpha Wave Global with Ward Ferry (TechCrunch, ET, VCCircle, company PR)",
+   "field": "Series F amount/valuation/investors",
+   "resolution": "Seed REJECTED. No source seen supports $145M/$895M or Tencent/Hillhouse/Zero31/Aminav participation. Adopt $250M @ $2.6B.",
+   "url_a": "seed-prompt (no URL)",
+   "url_b": "https://techcrunch.com/2022/01/27/moglix-series-f"
+  },
+  {
+   "claim_a": "FY25 operating revenue $681.5M (+15%), total $692.8M, loss $11.3M (Inc42 on Singapore filings)",
+   "claim_b": "FY25 standalone revenue Rs 4,946.6 cr with PAT -Rs 127 cr (Venture Intelligence)",
+   "field": "financials FY25 scope",
+   "resolution": "Different scopes (Singapore group USD vs India standalone INR). Both preserved with scope labels.",
+   "url_a": "http://inc42.com/buzz/moglix-fy25-revenue-inches-closer-to-700-mn-mark-loss-halves",
+   "url_b": "https://companies.ventureintelligence.com/company/Moglix"
+  }
+ ],
+ "customers": [
+  {
+   "confidence": "HIGH",
+   "name": "Hero MotoCorp",
+   "source_url": "https://www.forbesindia.com/article/startups/moglix-how-rahul-garg-built-an-unexpected-unicorn/68373/1",
+   "type": "enterprise"
+  },
+  {
+   "confidence": "HIGH",
+   "name": "Tata Steel",
+   "source_url": "https://www.forbesindia.com/article/startups/moglix-how-rahul-garg-built-an-unexpected-unicorn/68373/1",
+   "type": "enterprise"
+  },
+  {
+   "confidence": "HIGH",
+   "name": "Vedanta",
+   "source_url": "https://www.forbesindia.com/article/startups/moglix-how-rahul-garg-built-an-unexpected-unicorn/68373/1",
+   "type": "enterprise"
+  },
+  {
+   "confidence": "MEDIUM",
+   "name": "Unilever",
+   "source_url": "https://www.forbesindia.com/article/startups/moglix-how-rahul-garg-built-an-unexpected-unicorn/68373/1",
+   "type": "enterprise"
+  },
+  {
+   "confidence": "MEDIUM",
+   "name": "NTPC / Air India (PSUs)",
+   "source_url": "https://www.forbesindia.com/article/startups/moglix-how-rahul-garg-built-an-unexpected-unicorn/68373/1",
+   "type": "gov"
+  }
+ ],
+ "events": [
+  {
+   "confidence": "HIGH",
+   "date": "February 2021",
+   "headline": "Launches supply-chain financing platform Credlix",
+   "source_url": "https://timesofindia.indiatimes.com/business/india-business/moglix-raises-120-million-at-over-1-billion-valuation/articleshow/82710788.cms",
+   "type": "product_launch"
+  },
+  {
+   "confidence": "MEDIUM",
+   "date": "December 2024",
+   "headline": "DPIIT and Moglix join forces to foster growth of manufacturing startups",
+   "source_url": "Tracxn recent-news snippet (ET Manufacturing Today link)",
+   "type": "partnership"
+  },
+  {
+   "confidence": "MEDIUM",
+   "date": "February 2025",
+   "headline": "Launches biofuels as new category",
+   "source_url": "Tracxn recent-news snippet",
+   "type": "product_launch"
+  },
+  {
+   "confidence": "MEDIUM",
+   "date": "August 2024",
+   "headline": "Launches next-day delivery in 12+ cities; targets 40",
+   "source_url": "https://m.economictimes.com/tech/technology/moglix-acquires-khatema-fibres-for-rs-80-crore/articleshow/115519217.cms",
+   "type": "product_launch"
+  }
+ ],
+ "financials": [
+  {
+   "confidence": "MEDIUM",
+   "currency": "INR",
+   "fiscal_year": "FY24",
+   "metric": "total_revenue",
+   "source_title": "Moglix - Financials (Inc42, filing-based)",
+   "source_url": "https://inc42.com/company/moglix/financials",
+   "unit": "crore",
+   "value": 4232.0,
+   "value_type": "press-quoted-filing"
+  },
+  {
+   "confidence": "MEDIUM",
+   "currency": "INR",
+   "fiscal_year": "FY24",
+   "metric": "PAT",
+   "source_url": "https://inc42.com/company/moglix/financials",
+   "unit": "crore",
+   "value": -217.1,
+   "value_type": "press-quoted-filing"
+  },
+  {
+   "confidence": "MEDIUM",
+   "currency": "USD",
+   "fiscal_year": "FY25",
+   "metric": "operating_revenue",
+   "source_title": "Moglix FY25: Revenue Inches Closer To $700 Mn Mark, Loss Halves (Inc42, Singapore filings)",
+   "source_url": "http://inc42.com/buzz/moglix-fy25-revenue-inches-closer-to-700-mn-mark-loss-halves",
+   "unit": "million",
+   "value": 681.5,
+   "value_type": "press-quoted-filing"
+  },
+  {
+   "confidence": "MEDIUM",
+   "currency": "USD",
+   "fiscal_year": "FY25",
+   "metric": "total_revenue",
+   "source_url": "http://inc42.com/buzz/moglix-fy25-revenue-inches-closer-to-700-mn-mark-loss-halves",
+   "unit": "million",
+   "value": 692.8,
+   "value_type": "press-quoted-filing"
+  },
+  {
+   "confidence": "MEDIUM",
+   "currency": "USD",
+   "fiscal_year": "FY25",
+   "metric": "loss",
+   "source_url": "http://inc42.com/buzz/moglix-fy25-revenue-inches-closer-to-700-mn-mark-loss-halves",
+   "unit": "million",
+   "value": -11.3,
+   "value_type": "press-quoted-filing"
+  },
+  {
+   "confidence": "MEDIUM",
+   "currency": "INR",
+   "fiscal_year": "FY25",
+   "metric": "revenue_standalone",
+   "source_title": "Venture Intelligence company page",
+   "source_url": "https://companies.ventureintelligence.com/company/Moglix",
+   "unit": "crore",
+   "value": 4946.6,
+   "value_type": "press-quoted-filing"
+  },
+  {
+   "confidence": "MEDIUM",
+   "currency": "INR",
+   "fiscal_year": "FY25",
+   "metric": "PAT_standalone",
+   "source_url": "https://companies.ventureintelligence.com/company/Moglix",
+   "unit": "crore",
+   "value": -127.0,
+   "value_type": "press-quoted-filing"
+  }
+ ],
+ "founders": [
+  {
+   "background": "Ex-Google; IIT Kanpur + ISB alumnus",
+   "confidence": "HIGH",
+   "education": "IIT Kanpur; ISB",
+   "name": "Rahul Garg",
+   "role": "Founder & CEO",
+   "source_url": "https://techcrunch.com/2021/05/16/indias-moglix-valued-at-1-billion-in-120-million-fundraise",
+   "still_active": true,
+   "type": "founder"
+  }
+ ],
+ "funding_rounds": [
+  {
+   "all_investors": [
+    "Falcon Edge Capital (now Alpha Wave Global)",
+    "Harvard Management Company",
+    "Tiger Global",
+    "Sequoia Capital India",
+    "Venture Highway"
+   ],
+   "amount": 120000000,
+   "announced_date": "May 17, 2021",
+   "confidence": "HIGH",
+   "currency": "USD",
+   "lead_investors": [
+    "Falcon Edge Capital",
+    "Harvard Management Company"
+   ],
+   "round_type": "Series E",
+   "source_date": "2021-05-17",
+   "source_title": "India's Moglix valued at $1 billion in $120 million fundraise | TechCrunch",
+   "source_url": "https://techcrunch.com/2021/05/16/indias-moglix-valued-at-1-billion-in-120-million-fundraise",
+   "tier": "T3",
+   "valuation": "$1B",
+   "valuation_type": "post-money (press)"
+  },
+  {
+   "all_investors": [
+    "Tiger Global",
+    "Alpha Wave Global",
+    "Ward Ferry"
+   ],
+   "amount": 60000000,
+   "announced_date": "July 2019",
+   "confidence": "MEDIUM",
+   "currency": "USD",
+   "lead_investors": [],
+   "round_type": "Series D",
+   "source_title": "Mint Series E coverage (prior round recap)",
+   "source_url": "https://www.livemint.com/companies/news/moglix-becomes-latest-startup-to-join-unicorn-club-after-120-million-fundraise-11621229639428.html",
+   "tier": "T3"
+  },
+  {
+   "all_investors": [
+    "Tiger Global",
+    "Alpha Wave Global",
+    "Ward Ferry"
+   ],
+   "amount": 250000000,
+   "announced_date": "January 28, 2022",
+   "confidence": "HIGH",
+   "currency": "USD",
+   "lead_investors": [
+    "Tiger Global",
+    "Alpha Wave Global"
+   ],
+   "round_type": "Series F",
+   "source_date": "2022-01-28",
+   "source_title": "India's Moglix valued at $2.6 billion in $250 million funding | TechCrunch",
+   "source_url": "https://techcrunch.com/2022/01/27/moglix-series-f",
+   "tier": "T3",
+   "valuation": "$2.6B",
+   "valuation_type": "post-money (company-stated)"
+  },
+  {
+   "all_investors": [
+    "Others (undisclosed)"
+   ],
+   "amount": 12300000,
+   "announced_date": "February 2025",
+   "confidence": "LOW",
+   "currency": "USD",
+   "lead_investors": [],
+   "round_type": "Series F (extension/secondary per VI label)",
+   "source_title": "Venture Intelligence company page",
+   "source_url": "https://companies.ventureintelligence.com/company/Moglix",
+   "tier": "T2"
+  }
+ ],
+ "gaps": [
+  "CIN not verified (VI shows U72300DL2015FTC279856 but single T2 source; MCA not checked)",
+  "Incorporation date vs founded date not separated",
+  "Full round-by-round table (Seed-Series C amounts/dates) not verified",
+  "FY25 audited numbers: scope conflict unresolved (Singapore group vs India standalone)",
+  "Headcount as-of date unclear (1,256-1,413 across sources)",
+  "No legal/regulatory actions found in searched lanes — not confirmed absent",
+  "Tencent/Hillhouse/Zero31/Aminav seed claims: zero supporting evidence found",
+  "DPIIT recognition status unverified",
+  "Profitability/breakeven path post-FY25 unverified",
+  "canonical live-entity CIN (DL vs HR RoC conflict)",
+  "incorporation_date",
+  "valuations",
+  "FY25/FY26 filing financials"
+ ],
+ "hiring": [
+  {
+   "confidence": "MEDIUM",
+   "fact_type": "headcount",
+   "source_url": "https://inc42.com/company/moglix/financials",
+   "value": "~1,256 employees",
+   "value_type_note": "database estimate, not audited"
+  },
+  {
+   "confidence": "MEDIUM",
+   "fact_type": "expansion",
+   "source_url": "Tracxn recent-news snippet",
+   "value": "Targeted 500 new recruits in 18 months (2024 drive)"
+  }
+ ],
+ "investor_links": [
+  {
+   "confidence": "HIGH",
+   "investor": "Tiger Global",
+   "investor_type": "VC/growth",
+   "rounds": [
+    "Series D",
+    "Series E",
+    "Series F"
+   ]
+  },
+  {
+   "confidence": "HIGH",
+   "investor": "Alpha Wave Global (ex-Falcon Edge Capital)",
+   "investor_type": "growth",
+   "lead": true,
+   "rounds": [
+    "Series E",
+    "Series F"
+   ]
+  },
+  {
+   "confidence": "HIGH",
+   "investor": "Sequoia Capital India (now Peak XV Partners)",
+   "investor_type": "VC",
+   "rounds": [
+    "early",
+    "Series E"
+   ]
+  },
+  {
+   "confidence": "HIGH",
+   "investor": "Accel Partners",
+   "investor_type": "VC",
+   "rounds": [
+    "early",
+    "Series D"
+   ]
+  },
+  {
+   "confidence": "MEDIUM",
+   "investor": "Harvard Management Company",
+   "investor_type": "institutional",
+   "rounds": [
+    "Series E"
+   ]
+  },
+  {
+   "confidence": "HIGH",
+   "investor": "Ward Ferry",
+   "investor_type": "hedge fund",
+   "rounds": [
+    "Series F"
+   ]
+  },
+  {
+   "confidence": "MEDIUM",
+   "investor": "Ratan Tata / RNT Associates",
+   "investor_type": "angel",
+   "rounds": [
+    "2016 angel"
+   ]
+  },
+  {
+   "confidence": "MEDIUM",
+   "investor": "Venture Highway",
+   "investor_type": "VC",
+   "rounds": [
+    "Seed",
+    "Series E"
+   ]
+  },
+  {
+   "confidence": "MEDIUM",
+   "investor": "Jungle Ventures",
+   "investor_type": "VC",
+   "rounds": [
+    "early"
+   ]
+  },
+  {
+   "confidence": "MEDIUM",
+   "investor": "International Finance Corporation (IFC)",
+   "investor_type": "DFI",
+   "rounds": [
+    "Series B/C/D era"
+   ]
+  }
+ ],
+ "ip_tech_ai": {
+  "ai_notes": "No verified AI stack claims; analytics/AI roles exist (Director-Analytics & AI per Tracxn) but no product-level AI evidence gathered",
+  "confidence": "LOW",
+  "source_url": ""
+ },
+ "legal": [],
+ "locations": [
+  {
+   "address_or_area": "Sector 125, Noida (Credlix HQ listing: Smartworks Corporate Park Tower B)",
+   "city": "Noida",
+   "confidence": "HIGH",
+   "source_url": "https://www.credlix.com/news/moglix-joins-the-unicorn-club-after-120-million-fundraise",
+   "state": "Uttar Pradesh",
+   "type": "HQ"
+  },
+  {
+   "address_or_area": "7 Temasek Boulevard, Suntec Tower One, Singapore (PitchBook/CB Insights)",
+   "city": "Singapore",
+   "confidence": "MEDIUM",
+   "country": "Singapore",
+   "source_url": "https://www.cbinsights.com/company/moglix",
+   "type": "registered"
+  },
+  {
+   "address_or_area": "40+ warehouses; 16,000+ supplier network (company-stated 2022)",
+   "city": "India-wide",
+   "confidence": "MEDIUM",
+   "source_url": "https://techcrunch.com/2022/01/27/moglix-series-f",
+   "type": "warehouse"
+  }
+ ],
+ "partnerships": [
+  {
+   "confidence": "MEDIUM",
+   "name": "DPIIT — manufacturing startup growth initiative (Dec 2024)",
+   "source_url": "Tracxn recent-news snippet"
+  }
+ ],
+ "people": [
+  {
+   "confidence": "HIGH",
+   "name": "Rahul Garg",
+   "position": "Founder & CEO",
+   "source_url": "https://techcrunch.com/2022/01/27/moglix-series-f"
+  }
+ ],
+ "products": [
+  {
+   "confidence": "HIGH",
+   "name": "Moglix marketplace (moglix.com)",
+   "source_url": "https://techcrunch.com/2022/01/27/moglix-series-f",
+   "status": "active"
+  },
+  {
+   "confidence": "HIGH",
+   "name": "Credlix (supply-chain financing platform)",
+   "source_url": "https://timesofindia.indiatimes.com/business/india-business/moglix-raises-120-million-at-over-1-billion-valuation/articleshow/82710788.cms",
+   "status": "active"
+  }
+ ],
+ "research_log": [
+  {
+   "found": "Series F $250M @ $2.6B Jan 2022 (TC/ET/VCCircle/company PR); seed $145M/$895M unsupported",
+   "query": "Moglix Series F $895 million valuation 2022 funding",
+   "unresolved": "none on headline round"
+  },
+  {
+   "found": "FY25 $681.5M op revenue / $11.3M loss (Singapore filings via Inc42); FY24 Rs 4,232 cr (Inc42); VI FY25 standalone Rs 4,946.6 cr",
+   "query": "Moglix revenue FY25 FY24 founders investors",
+   "unresolved": "consolidation scope conflict"
+  },
+  {
+   "found": "Series E $120M @ $1B May 2021 (TC/Mint/TOI/Forbes); founder Rahul Garg IIT-K/ISB ex-Google; Noida HQ",
+   "query": "Moglix Series E unicorn founder HQ",
+   "unresolved": "none"
+  },
+  {
+   "found": "Vendaxo Jul 2021; ADI India Oct 2022; Khatema Rs 80 cr Nov 2024; Credlix arm: NuPhi 2021, Vanik majority Dec 2025",
+   "query": "Moglix acquisitions Vendaxo ADI Khatema Credlix",
+   "unresolved": "deal values mostly undisclosed"
+  },
+  {
+   "date": "2026-09-14",
+   "found": "Inc42 Dec 2024 DPIIT-Moglix incubation pact confirmed via own search results",
+   "query": "Moglix DPIIT manufacturing startup growth initiative December 2024",
+   "unresolved": "10x 'investor link' + 3 competitor single-words are context-less; no search burned"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "Q-wave claim source-hunt",
+   "found": "1 resolved",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "found": "ZaubaCorp carries two Mogli Labs (India) records: U72300DL2015FTC279856 and U72300HR2015FTC143298 (RoC Delhi vs Haryana) — conflict preserved",
+   "query": "Mogli Labs India CIN zaubacorp",
+   "unresolved": "which CIN is the live operating entity; valuation/financials unfound within budget"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "Moglix Vendaxo; ADI Global Distribution India; Khatema Fibres; Credlix NuPhi; Credlix Vanik Finance acquisitions",
+   "found": "Five acquisition reports with dates, counterparties and disclosed Khatema/Vanik values",
+   "unresolved": "Vendaxo, ADI and NuPhi consideration not disclosed in returned coverage",
+   "next_action": "Check Moglix/Credlix corporate disclosures"
+  }
+ ],
+ "sources": [
+  {
+   "confidence": "HIGH",
+   "fields_supported": [
+    "funding_rounds",
+    "valuation",
+    "investors",
+    "traction"
+   ],
+   "publication_date": "2022-01-28",
+   "publisher": "TechCrunch",
+   "retrieved_date": "2026-09-14",
+   "tier": "T3",
+   "title": "India's Moglix valued at $2.6 billion in $250 million funding",
+   "url": "https://techcrunch.com/2022/01/27/moglix-series-f"
+  },
+  {
+   "confidence": "HIGH",
+   "fields_supported": [
+    "funding_rounds",
+    "valuation",
+    "investors"
+   ],
+   "publication_date": "2021-05-17",
+   "publisher": "TechCrunch",
+   "retrieved_date": "2026-09-14",
+   "tier": "T3",
+   "title": "India's Moglix valued at $1 billion in $120 million fundraise",
+   "url": "https://techcrunch.com/2021/05/16/indias-moglix-valued-at-1-billion-in-120-million-fundraise"
+  },
+  {
+   "confidence": "HIGH",
+   "fields_supported": [
+    "funding_rounds",
+    "investors"
+   ],
+   "publication_date": "2022-01-28",
+   "publisher": "VCCircle",
+   "tier": "T3",
+   "title": "Moglix raises $250 mn in Series F funding; valn more than doubles to $2.6 bn",
+   "url": "https://www.vccircle.com/moglix-raises-250-mn-in-series-f-funding-valn-more-than-doubles-to-2-6-bn"
+  },
+  {
+   "confidence": "HIGH",
+   "fields_supported": [
+    "financials"
+   ],
+   "publisher": "Inc42",
+   "tier": "T3",
+   "title": "Moglix FY25: Revenue Inches Closer To $700 Mn Mark, Loss Halves",
+   "url": "http://inc42.com/buzz/moglix-fy25-revenue-inches-closer-to-700-mn-mark-loss-halves"
+  },
+  {
+   "confidence": "MEDIUM",
+   "fields_supported": [
+    "financials"
+   ],
+   "publisher": "Inc42",
+   "tier": "T2",
+   "title": "Moglix - Financials (Mogli Labs India Pvt Ltd)",
+   "url": "https://inc42.com/company/moglix/financials"
+  },
+  {
+   "confidence": "MEDIUM",
+   "fields_supported": [
+    "financials",
+    "funding_rounds",
+    "acquisitions"
+   ],
+   "publisher": "Venture Intelligence",
+   "tier": "T2",
+   "title": "Moglix – Funding, Investors, M&A & Financials",
+   "url": "https://companies.ventureintelligence.com/company/Moglix"
+  },
+  {
+   "confidence": "HIGH",
+   "fields_supported": [
+    "acquisitions"
+   ],
+   "publication_date": "2024-11-21",
+   "publisher": "Economic Times",
+   "tier": "T3",
+   "title": "Moglix acquires Khatema Fibres for Rs 80 crore",
+   "url": "https://m.economictimes.com/tech/technology/moglix-acquires-khatema-fibres-for-rs-80-crore/articleshow/115519217.cms"
+  },
+  {
+   "confidence": "HIGH",
+   "fields_supported": [
+    "acquisitions"
+   ],
+   "publisher": "VCCircle",
+   "tier": "T3",
+   "title": "Moglix acquires ADI's India distribution business",
+   "url": "https://www.vccircle.com/moglixacquires-adi-s-india-distribution-business"
+  },
+  {
+   "confidence": "HIGH",
+   "fields_supported": [
+    "founders",
+    "customers"
+   ],
+   "publication_date": "2021-06-07",
+   "publisher": "Forbes India",
+   "tier": "T3",
+   "title": "Moglix: How Rahul Garg built an unexpected unicorn",
+   "url": "https://www.forbesindia.com/article/startups/moglix-how-rahul-garg-built-an-unexpected-unicorn/68373/1"
+  },
+  {
+   "url": "https://inc42.com/buzz/dpiit-partners-moglix-to-boost-manufacturing-startups-in-india",
+   "title": "Tracxn recent-news snippet DPIIT — manufacturing startup growth initiative (Dec 2024)",
+   "fields": "quarantine-resolved",
+   "confidence": "HIGH"
+  },
+  {
+   "url": "https://www.zaubacorp.com/MOGLI-LABS-INDIA-PRIVATE-LIMITED-U72300DL2015FTC279856",
+   "title": "MOGLI LABS (INDIA) PRIVATE LIMITED | ZaubaCorp",
+   "fields": [
+    "cin"
+   ],
+   "confidence": "high"
+  },
+  {
+   "url": "https://www.zaubacorp.com/MOGLI-LABS-INDIA-PRIVATE-LIMITED-U72300HR2015FTC143298",
+   "title": "MOGLI LABS (INDIA) PRIVATE LIMITED | ZaubaCorp",
+   "fields": [
+    "cin"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "url": "https://entrackr.com/2021/07/moglix-acquires-e-commerce-platform-vendaxo/",
+   "title": "Moglix acquires e-commerce platform Vendaxo",
+   "tier": "T2",
+   "claim": "acquisition Vendaxo"
+  },
+  {
+   "url": "https://timesofindia.indiatimes.com/moglix-acquires-rs-300-crore-adis-india-distribution-biz-for-surveillance-security-products/articleshow/94767418.cms",
+   "title": "Moglix acquires Rs 300-crore ADI's India distribution biz for surveillance, security products",
+   "tier": "T2",
+   "claim": "acquisition ADI Global Distribution (India distribution business)"
+  },
+  {
+   "url": "https://cfo.economictimes.indiatimes.com/news/strategy-operations/moglix-acquires-khatema-fibres-for-rs-80-crore/115525891",
+   "title": "Moglix acquires Khatema Fibres for Rs 80 crore",
+   "tier": "T2",
+   "claim": "acquisition Khatema Fibres"
+  },
+  {
+   "url": "https://www.vccircle.com/supply-chain-financing-platform-credlix-acquires-fintech-start-up-nuphi",
+   "title": "Supply chain financing platform Credlix acquires fintech start-up NuPhi",
+   "tier": "T2",
+   "claim": "acquisition NuPhi (by Credlix arm)"
+  },
+  {
+   "url": "https://inc42.com/buzz/moglix-owned-credlix-acquires-majority-stake-in-nbfc-vanik-finance/",
+   "title": "Moglix-Owned Credlix Acquires Majority Stake In NBFC Vanik Finance",
+   "tier": "T2",
+   "claim": "acquisition Vanik Finance (majority stake, by Credlix arm)"
+  },
+  {
+   "url": "https://entrackr.com/2021/07/moglix-acquires-e-commerce-platform-vendaxo/",
+   "title": "Moglix acquires e-commerce platform Vendaxo",
+   "tier": "T2",
+   "claim": "acquisition Vendaxo"
+  },
+  {
+   "url": "https://timesofindia.indiatimes.com/moglix-acquires-rs-300-crore-adis-india-distribution-biz-for-surveillance-security-products/articleshow/94767418.cms",
+   "title": "Moglix acquires Rs 300-crore ADI's India distribution biz for surveillance, security products",
+   "tier": "T2",
+   "claim": "acquisition ADI Global Distribution (India distribution business)"
+  },
+  {
+   "url": "https://cfo.economictimes.indiatimes.com/news/strategy-operations/moglix-acquires-khatema-fibres-for-rs-80-crore/115525891",
+   "title": "Moglix acquires Khatema Fibres for Rs 80 crore",
+   "tier": "T2",
+   "claim": "acquisition Khatema Fibres"
+  },
+  {
+   "url": "https://www.vccircle.com/supply-chain-financing-platform-credlix-acquires-fintech-start-up-nuphi",
+   "title": "Supply chain financing platform Credlix acquires fintech start-up NuPhi",
+   "tier": "T2",
+   "claim": "acquisition NuPhi (by Credlix arm)"
+  },
+  {
+   "url": "https://inc42.com/buzz/moglix-owned-credlix-acquires-majority-stake-in-nbfc-vanik-finance/",
+   "title": "Moglix-Owned Credlix Acquires Majority Stake In NBFC Vanik Finance",
+   "tier": "T2",
+   "claim": "acquisition Vanik Finance (majority stake, by Credlix arm)"
+  },
+  {
+   "url": "https://entrackr.com/2021/07/moglix-acquires-e-commerce-platform-vendaxo/",
+   "title": "Moglix acquires e-commerce platform Vendaxo",
+   "tier": "T2",
+   "claim": "acquisition Vendaxo"
+  },
+  {
+   "url": "https://timesofindia.indiatimes.com/moglix-acquires-rs-300-crore-adis-india-distribution-biz-for-surveillance-security-products/articleshow/94767418.cms",
+   "title": "Moglix acquires Rs 300-crore ADI's India distribution biz for surveillance, security products",
+   "tier": "T2",
+   "claim": "acquisition ADI Global Distribution (India distribution business)"
+  },
+  {
+   "url": "https://cfo.economictimes.indiatimes.com/news/strategy-operations/moglix-acquires-khatema-fibres-for-rs-80-crore/115525891",
+   "title": "Moglix acquires Khatema Fibres for Rs 80 crore",
+   "tier": "T2",
+   "claim": "acquisition Khatema Fibres"
+  },
+  {
+   "url": "https://www.vccircle.com/supply-chain-financing-platform-credlix-acquires-fintech-start-up-nuphi",
+   "title": "Supply chain financing platform Credlix acquires fintech start-up NuPhi",
+   "tier": "T2",
+   "claim": "acquisition NuPhi (by Credlix arm)"
+  },
+  {
+   "url": "https://inc42.com/buzz/moglix-owned-credlix-acquires-majority-stake-in-nbfc-vanik-finance/",
+   "title": "Moglix-Owned Credlix Acquires Majority Stake In NBFC Vanik Finance",
+   "tier": "T2",
+   "claim": "acquisition Vanik Finance (majority stake, by Credlix arm)"
+  },
+  {
+   "url": "https://entrackr.com/2021/07/moglix-acquires-e-commerce-platform-vendaxo/",
+   "title": "Moglix acquires e-commerce platform Vendaxo",
+   "tier": "T2",
+   "claim": "acquisition Vendaxo"
+  },
+  {
+   "url": "https://timesofindia.indiatimes.com/moglix-acquires-rs-300-crore-adis-india-distribution-biz-for-surveillance-security-products/articleshow/94767418.cms",
+   "title": "Moglix acquires Rs 300-crore ADI's India distribution biz for surveillance, security products",
+   "tier": "T2",
+   "claim": "acquisition ADI Global Distribution (India distribution business)"
+  },
+  {
+   "url": "https://cfo.economictimes.indiatimes.com/news/strategy-operations/moglix-acquires-khatema-fibres-for-rs-80-crore/115525891",
+   "title": "Moglix acquires Khatema Fibres for Rs 80 crore",
+   "tier": "T2",
+   "claim": "acquisition Khatema Fibres"
+  },
+  {
+   "url": "https://www.vccircle.com/supply-chain-financing-platform-credlix-acquires-fintech-start-up-nuphi",
+   "title": "Supply chain financing platform Credlix acquires fintech start-up NuPhi",
+   "tier": "T2",
+   "claim": "acquisition NuPhi (by Credlix arm)"
+  },
+  {
+   "url": "https://inc42.com/buzz/moglix-owned-credlix-acquires-majority-stake-in-nbfc-vanik-finance/",
+   "title": "Moglix-Owned Credlix Acquires Majority Stake In NBFC Vanik Finance",
+   "tier": "T2",
+   "claim": "acquisition Vanik Finance (majority stake, by Credlix arm)"
+  },
+  {
+   "url": "https://entrackr.com/2021/07/moglix-acquires-e-commerce-platform-vendaxo/",
+   "title": "Moglix acquires e-commerce platform Vendaxo",
+   "tier": "T2",
+   "claim": "acquisition Vendaxo"
+  },
+  {
+   "url": "https://timesofindia.indiatimes.com/moglix-acquires-rs-300-crore-adis-india-distribution-biz-for-surveillance-security-products/articleshow/94767418.cms",
+   "title": "Moglix acquires Rs 300-crore ADI's India distribution biz for surveillance, security products",
+   "tier": "T2",
+   "claim": "acquisition ADI Global Distribution (India distribution business)"
+  },
+  {
+   "url": "https://cfo.economictimes.indiatimes.com/news/strategy-operations/moglix-acquires-khatema-fibres-for-rs-80-crore/115525891",
+   "title": "Moglix acquires Khatema Fibres for Rs 80 crore",
+   "tier": "T2",
+   "claim": "acquisition Khatema Fibres"
+  },
+  {
+   "url": "https://www.vccircle.com/supply-chain-financing-platform-credlix-acquires-fintech-start-up-nuphi",
+   "title": "Supply chain financing platform Credlix acquires fintech start-up NuPhi",
+   "tier": "T2",
+   "claim": "acquisition NuPhi (by Credlix arm)"
+  },
+  {
+   "url": "https://inc42.com/buzz/moglix-owned-credlix-acquires-majority-stake-in-nbfc-vanik-finance/",
+   "title": "Moglix-Owned Credlix Acquires Majority Stake In NBFC Vanik Finance",
+   "tier": "T2",
+   "claim": "acquisition Vanik Finance (majority stake, by Credlix arm)"
+  },
+  {
+   "url": "https://entrackr.com/2021/07/moglix-acquires-e-commerce-platform-vendaxo/",
+   "title": "Moglix acquires e-commerce platform Vendaxo",
+   "tier": "T2",
+   "claim": "acquisition Vendaxo"
+  },
+  {
+   "url": "https://timesofindia.indiatimes.com/moglix-acquires-rs-300-crore-adis-india-distribution-biz-for-surveillance-security-products/articleshow/94767418.cms",
+   "title": "Moglix acquires Rs 300-crore ADI's India distribution biz for surveillance, security products",
+   "tier": "T2",
+   "claim": "acquisition ADI Global Distribution (India distribution business)"
+  },
+  {
+   "url": "https://cfo.economictimes.indiatimes.com/news/strategy-operations/moglix-acquires-khatema-fibres-for-rs-80-crore/115525891",
+   "title": "Moglix acquires Khatema Fibres for Rs 80 crore",
+   "tier": "T2",
+   "claim": "acquisition Khatema Fibres"
+  },
+  {
+   "url": "https://www.vccircle.com/supply-chain-financing-platform-credlix-acquires-fintech-start-up-nuphi",
+   "title": "Supply chain financing platform Credlix acquires fintech start-up NuPhi",
+   "tier": "T2",
+   "claim": "acquisition NuPhi (by Credlix arm)"
+  },
+  {
+   "url": "https://inc42.com/buzz/moglix-owned-credlix-acquires-majority-stake-in-nbfc-vanik-finance/",
+   "title": "Moglix-Owned Credlix Acquires Majority Stake In NBFC Vanik Finance",
+   "tier": "T2",
+   "claim": "acquisition Vanik Finance (majority stake, by Credlix arm)"
+  },
+  {
+   "url": "https://entrackr.com/2021/07/moglix-acquires-e-commerce-platform-vendaxo/",
+   "title": "Moglix acquires e-commerce platform Vendaxo",
+   "tier": "T2",
+   "claim": "acquisition Vendaxo"
+  },
+  {
+   "url": "https://timesofindia.indiatimes.com/moglix-acquires-rs-300-crore-adis-india-distribution-biz-for-surveillance-security-products/articleshow/94767418.cms",
+   "title": "Moglix acquires Rs 300-crore ADI's India distribution biz for surveillance, security products",
+   "tier": "T2",
+   "claim": "acquisition ADI Global Distribution (India distribution business)"
+  },
+  {
+   "url": "https://cfo.economictimes.indiatimes.com/news/strategy-operations/moglix-acquires-khatema-fibres-for-rs-80-crore/115525891",
+   "title": "Moglix acquires Khatema Fibres for Rs 80 crore",
+   "tier": "T2",
+   "claim": "acquisition Khatema Fibres"
+  },
+  {
+   "url": "https://www.vccircle.com/supply-chain-financing-platform-credlix-acquires-fintech-start-up-nuphi",
+   "title": "Supply chain financing platform Credlix acquires fintech start-up NuPhi",
+   "tier": "T2",
+   "claim": "acquisition NuPhi (by Credlix arm)"
+  },
+  {
+   "url": "https://inc42.com/buzz/moglix-owned-credlix-acquires-majority-stake-in-nbfc-vanik-finance/",
+   "title": "Moglix-Owned Credlix Acquires Majority Stake In NBFC Vanik Finance",
+   "tier": "T2",
+   "claim": "acquisition Vanik Finance (majority stake, by Credlix arm)"
+  },
+  {
+   "url": "https://entrackr.com/2021/07/moglix-acquires-e-commerce-platform-vendaxo/",
+   "title": "Moglix acquires e-commerce platform Vendaxo",
+   "tier": "T2",
+   "claim": "acquisition Vendaxo"
+  },
+  {
+   "url": "https://timesofindia.indiatimes.com/moglix-acquires-rs-300-crore-adis-india-distribution-biz-for-surveillance-security-products/articleshow/94767418.cms",
+   "title": "Moglix acquires Rs 300-crore ADI's India distribution biz for surveillance, security products",
+   "tier": "T2",
+   "claim": "acquisition ADI Global Distribution (India distribution business)"
+  },
+  {
+   "url": "https://cfo.economictimes.indiatimes.com/news/strategy-operations/moglix-acquires-khatema-fibres-for-rs-80-crore/115525891",
+   "title": "Moglix acquires Khatema Fibres for Rs 80 crore",
+   "tier": "T2",
+   "claim": "acquisition Khatema Fibres"
+  },
+  {
+   "url": "https://www.vccircle.com/supply-chain-financing-platform-credlix-acquires-fintech-start-up-nuphi",
+   "title": "Supply chain financing platform Credlix acquires fintech start-up NuPhi",
+   "tier": "T2",
+   "claim": "acquisition NuPhi (by Credlix arm)"
+  },
+  {
+   "url": "https://inc42.com/buzz/moglix-owned-credlix-acquires-majority-stake-in-nbfc-vanik-finance/",
+   "title": "Moglix-Owned Credlix Acquires Majority Stake In NBFC Vanik Finance",
+   "tier": "T2",
+   "claim": "acquisition Vanik Finance (majority stake, by Credlix arm)"
+  },
+  {
+   "url": "https://entrackr.com/2021/07/moglix-acquires-e-commerce-platform-vendaxo/",
+   "title": "Moglix acquires e-commerce platform Vendaxo",
+   "tier": "T2",
+   "claim": "acquisition Vendaxo"
+  },
+  {
+   "url": "https://timesofindia.indiatimes.com/moglix-acquires-rs-300-crore-adis-india-distribution-biz-for-surveillance-security-products/articleshow/94767418.cms",
+   "title": "Moglix acquires Rs 300-crore ADI's India distribution biz for surveillance, security products",
+   "tier": "T2",
+   "claim": "acquisition ADI Global Distribution (India distribution business)"
+  },
+  {
+   "url": "https://cfo.economictimes.indiatimes.com/news/strategy-operations/moglix-acquires-khatema-fibres-for-rs-80-crore/115525891",
+   "title": "Moglix acquires Khatema Fibres for Rs 80 crore",
+   "tier": "T2",
+   "claim": "acquisition Khatema Fibres"
+  },
+  {
+   "url": "https://www.vccircle.com/supply-chain-financing-platform-credlix-acquires-fintech-start-up-nuphi",
+   "title": "Supply chain financing platform Credlix acquires fintech start-up NuPhi",
+   "tier": "T2",
+   "claim": "acquisition NuPhi (by Credlix arm)"
+  },
+  {
+   "url": "https://inc42.com/buzz/moglix-owned-credlix-acquires-majority-stake-in-nbfc-vanik-finance/",
+   "title": "Moglix-Owned Credlix Acquires Majority Stake In NBFC Vanik Finance",
+   "tier": "T2",
+   "claim": "acquisition Vanik Finance (majority stake, by Credlix arm)"
+  },
+  {
+   "url": "https://entrackr.com/2021/07/moglix-acquires-e-commerce-platform-vendaxo/",
+   "title": "Moglix acquires e-commerce platform Vendaxo",
+   "tier": "T2",
+   "claim": "acquisition Vendaxo"
+  },
+  {
+   "url": "https://timesofindia.indiatimes.com/moglix-acquires-rs-300-crore-adis-india-distribution-biz-for-surveillance-security-products/articleshow/94767418.cms",
+   "title": "Moglix acquires Rs 300-crore ADI's India distribution biz for surveillance, security products",
+   "tier": "T2",
+   "claim": "acquisition ADI Global Distribution (India distribution business)"
+  },
+  {
+   "url": "https://cfo.economictimes.indiatimes.com/news/strategy-operations/moglix-acquires-khatema-fibres-for-rs-80-crore/115525891",
+   "title": "Moglix acquires Khatema Fibres for Rs 80 crore",
+   "tier": "T2",
+   "claim": "acquisition Khatema Fibres"
+  },
+  {
+   "url": "https://www.vccircle.com/supply-chain-financing-platform-credlix-acquires-fintech-start-up-nuphi",
+   "title": "Supply chain financing platform Credlix acquires fintech start-up NuPhi",
+   "tier": "T2",
+   "claim": "acquisition NuPhi (by Credlix arm)"
+  },
+  {
+   "url": "https://inc42.com/buzz/moglix-owned-credlix-acquires-majority-stake-in-nbfc-vanik-finance/",
+   "title": "Moglix-Owned Credlix Acquires Majority Stake In NBFC Vanik Finance",
+   "tier": "T2",
+   "claim": "acquisition Vanik Finance (majority stake, by Credlix arm)"
+  },
+  {
+   "url": "https://entrackr.com/2021/07/moglix-acquires-e-commerce-platform-vendaxo/",
+   "title": "Moglix acquires e-commerce platform Vendaxo",
+   "tier": "T2",
+   "claim": "acquisition Vendaxo"
+  },
+  {
+   "url": "https://timesofindia.indiatimes.com/moglix-acquires-rs-300-crore-adis-india-distribution-biz-for-surveillance-security-products/articleshow/94767418.cms",
+   "title": "Moglix acquires Rs 300-crore ADI's India distribution biz for surveillance, security products",
+   "tier": "T2",
+   "claim": "acquisition ADI Global Distribution (India distribution business)"
+  },
+  {
+   "url": "https://cfo.economictimes.indiatimes.com/news/strategy-operations/moglix-acquires-khatema-fibres-for-rs-80-crore/115525891",
+   "title": "Moglix acquires Khatema Fibres for Rs 80 crore",
+   "tier": "T2",
+   "claim": "acquisition Khatema Fibres"
+  },
+  {
+   "url": "https://www.vccircle.com/supply-chain-financing-platform-credlix-acquires-fintech-start-up-nuphi",
+   "title": "Supply chain financing platform Credlix acquires fintech start-up NuPhi",
+   "tier": "T2",
+   "claim": "acquisition NuPhi (by Credlix arm)"
+  },
+  {
+   "url": "https://inc42.com/buzz/moglix-owned-credlix-acquires-majority-stake-in-nbfc-vanik-finance/",
+   "title": "Moglix-Owned Credlix Acquires Majority Stake In NBFC Vanik Finance",
+   "tier": "T2",
+   "claim": "acquisition Vanik Finance (majority stake, by Credlix arm)"
+  },
+  {
+   "url": "https://entrackr.com/2021/07/moglix-acquires-e-commerce-platform-vendaxo/",
+   "title": "Moglix acquires e-commerce platform Vendaxo",
+   "tier": "T2",
+   "claim": "acquisition Vendaxo"
+  },
+  {
+   "url": "https://timesofindia.indiatimes.com/moglix-acquires-rs-300-crore-adis-india-distribution-biz-for-surveillance-security-products/articleshow/94767418.cms",
+   "title": "Moglix acquires Rs 300-crore ADI's India distribution biz for surveillance, security products",
+   "tier": "T2",
+   "claim": "acquisition ADI Global Distribution (India distribution business)"
+  },
+  {
+   "url": "https://cfo.economictimes.indiatimes.com/news/strategy-operations/moglix-acquires-khatema-fibres-for-rs-80-crore/115525891",
+   "title": "Moglix acquires Khatema Fibres for Rs 80 crore",
+   "tier": "T2",
+   "claim": "acquisition Khatema Fibres"
+  },
+  {
+   "url": "https://www.vccircle.com/supply-chain-financing-platform-credlix-acquires-fintech-start-up-nuphi",
+   "title": "Supply chain financing platform Credlix acquires fintech start-up NuPhi",
+   "tier": "T2",
+   "claim": "acquisition NuPhi (by Credlix arm)"
+  },
+  {
+   "url": "https://inc42.com/buzz/moglix-owned-credlix-acquires-majority-stake-in-nbfc-vanik-finance/",
+   "title": "Moglix-Owned Credlix Acquires Majority Stake In NBFC Vanik Finance",
+   "tier": "T2",
+   "claim": "acquisition Vanik Finance (majority stake, by Credlix arm)"
+  },
+  {
+   "url": "https://entrackr.com/2021/07/moglix-acquires-e-commerce-platform-vendaxo/",
+   "title": "Moglix acquires e-commerce platform Vendaxo",
+   "tier": "T2",
+   "claim": "acquisition Vendaxo"
+  },
+  {
+   "url": "https://timesofindia.indiatimes.com/moglix-acquires-rs-300-crore-adis-india-distribution-biz-for-surveillance-security-products/articleshow/94767418.cms",
+   "title": "Moglix acquires Rs 300-crore ADI's India distribution biz for surveillance, security products",
+   "tier": "T2",
+   "claim": "acquisition ADI Global Distribution (India distribution business)"
+  },
+  {
+   "url": "https://cfo.economictimes.indiatimes.com/news/strategy-operations/moglix-acquires-khatema-fibres-for-rs-80-crore/115525891",
+   "title": "Moglix acquires Khatema Fibres for Rs 80 crore",
+   "tier": "T2",
+   "claim": "acquisition Khatema Fibres"
+  },
+  {
+   "url": "https://www.vccircle.com/supply-chain-financing-platform-credlix-acquires-fintech-start-up-nuphi",
+   "title": "Supply chain financing platform Credlix acquires fintech start-up NuPhi",
+   "tier": "T2",
+   "claim": "acquisition NuPhi (by Credlix arm)"
+  },
+  {
+   "url": "https://inc42.com/buzz/moglix-owned-credlix-acquires-majority-stake-in-nbfc-vanik-finance/",
+   "title": "Moglix-Owned Credlix Acquires Majority Stake In NBFC Vanik Finance",
+   "tier": "T2",
+   "claim": "acquisition Vanik Finance (majority stake, by Credlix arm)"
+  },
+  {
+   "url": "https://entrackr.com/2021/07/moglix-acquires-e-commerce-platform-vendaxo/",
+   "title": "Moglix acquires e-commerce platform Vendaxo",
+   "tier": "T2",
+   "claim": "acquisition Vendaxo"
+  },
+  {
+   "url": "https://timesofindia.indiatimes.com/moglix-acquires-rs-300-crore-adis-india-distribution-biz-for-surveillance-security-products/articleshow/94767418.cms",
+   "title": "Moglix acquires Rs 300-crore ADI's India distribution biz for surveillance, security products",
+   "tier": "T2",
+   "claim": "acquisition ADI Global Distribution (India distribution business)"
+  },
+  {
+   "url": "https://cfo.economictimes.indiatimes.com/news/strategy-operations/moglix-acquires-khatema-fibres-for-rs-80-crore/115525891",
+   "title": "Moglix acquires Khatema Fibres for Rs 80 crore",
+   "tier": "T2",
+   "claim": "acquisition Khatema Fibres"
+  },
+  {
+   "url": "https://www.vccircle.com/supply-chain-financing-platform-credlix-acquires-fintech-start-up-nuphi",
+   "title": "Supply chain financing platform Credlix acquires fintech start-up NuPhi",
+   "tier": "T2",
+   "claim": "acquisition NuPhi (by Credlix arm)"
+  },
+  {
+   "url": "https://inc42.com/buzz/moglix-owned-credlix-acquires-majority-stake-in-nbfc-vanik-finance/",
+   "title": "Moglix-Owned Credlix Acquires Majority Stake In NBFC Vanik Finance",
+   "tier": "T2",
+   "claim": "acquisition Vanik Finance (majority stake, by Credlix arm)"
+  },
+  {
+   "url": "https://entrackr.com/2021/07/moglix-acquires-e-commerce-platform-vendaxo/",
+   "title": "Moglix acquires e-commerce platform Vendaxo",
+   "tier": "T2",
+   "claim": "acquisition Vendaxo"
+  },
+  {
+   "url": "https://timesofindia.indiatimes.com/moglix-acquires-rs-300-crore-adis-india-distribution-biz-for-surveillance-security-products/articleshow/94767418.cms",
+   "title": "Moglix acquires Rs 300-crore ADI's India distribution biz for surveillance, security products",
+   "tier": "T2",
+   "claim": "acquisition ADI Global Distribution (India distribution business)"
+  },
+  {
+   "url": "https://cfo.economictimes.indiatimes.com/news/strategy-operations/moglix-acquires-khatema-fibres-for-rs-80-crore/115525891",
+   "title": "Moglix acquires Khatema Fibres for Rs 80 crore",
+   "tier": "T2",
+   "claim": "acquisition Khatema Fibres"
+  },
+  {
+   "url": "https://www.vccircle.com/supply-chain-financing-platform-credlix-acquires-fintech-start-up-nuphi",
+   "title": "Supply chain financing platform Credlix acquires fintech start-up NuPhi",
+   "tier": "T2",
+   "claim": "acquisition NuPhi (by Credlix arm)"
+  },
+  {
+   "url": "https://inc42.com/buzz/moglix-owned-credlix-acquires-majority-stake-in-nbfc-vanik-finance/",
+   "title": "Moglix-Owned Credlix Acquires Majority Stake In NBFC Vanik Finance",
+   "tier": "T2",
+   "claim": "acquisition Vanik Finance (majority stake, by Credlix arm)"
+  },
+  {
+   "url": "https://entrackr.com/2021/07/moglix-acquires-e-commerce-platform-vendaxo/",
+   "title": "Moglix acquires e-commerce platform Vendaxo",
+   "tier": "T2",
+   "claim": "acquisition Vendaxo"
+  },
+  {
+   "url": "https://timesofindia.indiatimes.com/moglix-acquires-rs-300-crore-adis-india-distribution-biz-for-surveillance-security-products/articleshow/94767418.cms",
+   "title": "Moglix acquires Rs 300-crore ADI's India distribution biz for surveillance, security products",
+   "tier": "T2",
+   "claim": "acquisition ADI Global Distribution (India distribution business)"
+  },
+  {
+   "url": "https://cfo.economictimes.indiatimes.com/news/strategy-operations/moglix-acquires-khatema-fibres-for-rs-80-crore/115525891",
+   "title": "Moglix acquires Khatema Fibres for Rs 80 crore",
+   "tier": "T2",
+   "claim": "acquisition Khatema Fibres"
+  },
+  {
+   "url": "https://www.vccircle.com/supply-chain-financing-platform-credlix-acquires-fintech-start-up-nuphi",
+   "title": "Supply chain financing platform Credlix acquires fintech start-up NuPhi",
+   "tier": "T2",
+   "claim": "acquisition NuPhi (by Credlix arm)"
+  },
+  {
+   "url": "https://inc42.com/buzz/moglix-owned-credlix-acquires-majority-stake-in-nbfc-vanik-finance/",
+   "title": "Moglix-Owned Credlix Acquires Majority Stake In NBFC Vanik Finance",
+   "tier": "T2",
+   "claim": "acquisition Vanik Finance (majority stake, by Credlix arm)"
+  },
+  {
+   "url": "https://entrackr.com/2021/07/moglix-acquires-e-commerce-platform-vendaxo/",
+   "title": "Moglix acquires e-commerce platform Vendaxo",
+   "tier": "T2",
+   "claim": "acquisition Vendaxo"
+  },
+  {
+   "url": "https://timesofindia.indiatimes.com/moglix-acquires-rs-300-crore-adis-india-distribution-biz-for-surveillance-security-products/articleshow/94767418.cms",
+   "title": "Moglix acquires Rs 300-crore ADI's India distribution biz for surveillance, security products",
+   "tier": "T2",
+   "claim": "acquisition ADI Global Distribution (India distribution business)"
+  },
+  {
+   "url": "https://cfo.economictimes.indiatimes.com/news/strategy-operations/moglix-acquires-khatema-fibres-for-rs-80-crore/115525891",
+   "title": "Moglix acquires Khatema Fibres for Rs 80 crore",
+   "tier": "T2",
+   "claim": "acquisition Khatema Fibres"
+  },
+  {
+   "url": "https://www.vccircle.com/supply-chain-financing-platform-credlix-acquires-fintech-start-up-nuphi",
+   "title": "Supply chain financing platform Credlix acquires fintech start-up NuPhi",
+   "tier": "T2",
+   "claim": "acquisition NuPhi (by Credlix arm)"
+  },
+  {
+   "url": "https://inc42.com/buzz/moglix-owned-credlix-acquires-majority-stake-in-nbfc-vanik-finance/",
+   "title": "Moglix-Owned Credlix Acquires Majority Stake In NBFC Vanik Finance",
+   "tier": "T2",
+   "claim": "acquisition Vanik Finance (majority stake, by Credlix arm)"
+  },
+  {
+   "url": "https://entrackr.com/2021/07/moglix-acquires-e-commerce-platform-vendaxo/",
+   "title": "Moglix acquires e-commerce platform Vendaxo",
+   "tier": "T2",
+   "claim": "acquisition Vendaxo"
+  },
+  {
+   "url": "https://timesofindia.indiatimes.com/moglix-acquires-rs-300-crore-adis-india-distribution-biz-for-surveillance-security-products/articleshow/94767418.cms",
+   "title": "Moglix acquires Rs 300-crore ADI's India distribution biz for surveillance, security products",
+   "tier": "T2",
+   "claim": "acquisition ADI Global Distribution (India distribution business)"
+  },
+  {
+   "url": "https://cfo.economictimes.indiatimes.com/news/strategy-operations/moglix-acquires-khatema-fibres-for-rs-80-crore/115525891",
+   "title": "Moglix acquires Khatema Fibres for Rs 80 crore",
+   "tier": "T2",
+   "claim": "acquisition Khatema Fibres"
+  },
+  {
+   "url": "https://www.vccircle.com/supply-chain-financing-platform-credlix-acquires-fintech-start-up-nuphi",
+   "title": "Supply chain financing platform Credlix acquires fintech start-up NuPhi",
+   "tier": "T2",
+   "claim": "acquisition NuPhi (by Credlix arm)"
+  },
+  {
+   "url": "https://inc42.com/buzz/moglix-owned-credlix-acquires-majority-stake-in-nbfc-vanik-finance/",
+   "title": "Moglix-Owned Credlix Acquires Majority Stake In NBFC Vanik Finance",
+   "tier": "T2",
+   "claim": "acquisition Vanik Finance (majority stake, by Credlix arm)"
+  },
+  {
+   "url": "https://entrackr.com/2021/07/moglix-acquires-e-commerce-platform-vendaxo/",
+   "title": "Moglix acquires e-commerce platform Vendaxo",
+   "tier": "T2",
+   "claim": "acquisition Vendaxo"
+  },
+  {
+   "url": "https://timesofindia.indiatimes.com/moglix-acquires-rs-300-crore-adis-india-distribution-biz-for-surveillance-security-products/articleshow/94767418.cms",
+   "title": "Moglix acquires Rs 300-crore ADI's India distribution biz for surveillance, security products",
+   "tier": "T2",
+   "claim": "acquisition ADI Global Distribution (India distribution business)"
+  },
+  {
+   "url": "https://cfo.economictimes.indiatimes.com/news/strategy-operations/moglix-acquires-khatema-fibres-for-rs-80-crore/115525891",
+   "title": "Moglix acquires Khatema Fibres for Rs 80 crore",
+   "tier": "T2",
+   "claim": "acquisition Khatema Fibres"
+  },
+  {
+   "url": "https://www.vccircle.com/supply-chain-financing-platform-credlix-acquires-fintech-start-up-nuphi",
+   "title": "Supply chain financing platform Credlix acquires fintech start-up NuPhi",
+   "tier": "T2",
+   "claim": "acquisition NuPhi (by Credlix arm)"
+  },
+  {
+   "url": "https://inc42.com/buzz/moglix-owned-credlix-acquires-majority-stake-in-nbfc-vanik-finance/",
+   "title": "Moglix-Owned Credlix Acquires Majority Stake In NBFC Vanik Finance",
+   "tier": "T2",
+   "claim": "acquisition Vanik Finance (majority stake, by Credlix arm)"
+  },
+  {
+   "url": "https://entrackr.com/2021/07/moglix-acquires-e-commerce-platform-vendaxo/",
+   "title": "Moglix acquires e-commerce platform Vendaxo",
+   "tier": "T2",
+   "claim": "acquisition Vendaxo"
+  },
+  {
+   "url": "https://timesofindia.indiatimes.com/moglix-acquires-rs-300-crore-adis-india-distribution-biz-for-surveillance-security-products/articleshow/94767418.cms",
+   "title": "Moglix acquires Rs 300-crore ADI's India distribution biz for surveillance, security products",
+   "tier": "T2",
+   "claim": "acquisition ADI Global Distribution (India distribution business)"
+  },
+  {
+   "url": "https://cfo.economictimes.indiatimes.com/news/strategy-operations/moglix-acquires-khatema-fibres-for-rs-80-crore/115525891",
+   "title": "Moglix acquires Khatema Fibres for Rs 80 crore",
+   "tier": "T2",
+   "claim": "acquisition Khatema Fibres"
+  },
+  {
+   "url": "https://www.vccircle.com/supply-chain-financing-platform-credlix-acquires-fintech-start-up-nuphi",
+   "title": "Supply chain financing platform Credlix acquires fintech start-up NuPhi",
+   "tier": "T2",
+   "claim": "acquisition NuPhi (by Credlix arm)"
+  },
+  {
+   "url": "https://inc42.com/buzz/moglix-owned-credlix-acquires-majority-stake-in-nbfc-vanik-finance/",
+   "title": "Moglix-Owned Credlix Acquires Majority Stake In NBFC Vanik Finance",
+   "tier": "T2",
+   "claim": "acquisition Vanik Finance (majority stake, by Credlix arm)"
+  },
+  {
+   "url": "https://entrackr.com/2021/07/moglix-acquires-e-commerce-platform-vendaxo/",
+   "title": "Moglix acquires e-commerce platform Vendaxo",
+   "tier": "T2",
+   "claim": "acquisition Vendaxo"
+  },
+  {
+   "url": "https://timesofindia.indiatimes.com/moglix-acquires-rs-300-crore-adis-india-distribution-biz-for-surveillance-security-products/articleshow/94767418.cms",
+   "title": "Moglix acquires Rs 300-crore ADI's India distribution biz for surveillance, security products",
+   "tier": "T2",
+   "claim": "acquisition ADI Global Distribution (India distribution business)"
+  },
+  {
+   "url": "https://cfo.economictimes.indiatimes.com/news/strategy-operations/moglix-acquires-khatema-fibres-for-rs-80-crore/115525891",
+   "title": "Moglix acquires Khatema Fibres for Rs 80 crore",
+   "tier": "T2",
+   "claim": "acquisition Khatema Fibres"
+  },
+  {
+   "url": "https://www.vccircle.com/supply-chain-financing-platform-credlix-acquires-fintech-start-up-nuphi",
+   "title": "Supply chain financing platform Credlix acquires fintech start-up NuPhi",
+   "tier": "T2",
+   "claim": "acquisition NuPhi (by Credlix arm)"
+  },
+  {
+   "url": "https://inc42.com/buzz/moglix-owned-credlix-acquires-majority-stake-in-nbfc-vanik-finance/",
+   "title": "Moglix-Owned Credlix Acquires Majority Stake In NBFC Vanik Finance",
+   "tier": "T2",
+   "claim": "acquisition Vanik Finance (majority stake, by Credlix arm)"
+  },
+  {
+   "url": "https://entrackr.com/2021/07/moglix-acquires-e-commerce-platform-vendaxo/",
+   "title": "Moglix acquires e-commerce platform Vendaxo",
+   "tier": "T2",
+   "claim": "acquisition Vendaxo"
+  },
+  {
+   "url": "https://timesofindia.indiatimes.com/moglix-acquires-rs-300-crore-adis-india-distribution-biz-for-surveillance-security-products/articleshow/94767418.cms",
+   "title": "Moglix acquires Rs 300-crore ADI's India distribution biz for surveillance, security products",
+   "tier": "T2",
+   "claim": "acquisition ADI Global Distribution (India distribution business)"
+  },
+  {
+   "url": "https://cfo.economictimes.indiatimes.com/news/strategy-operations/moglix-acquires-khatema-fibres-for-rs-80-crore/115525891",
+   "title": "Moglix acquires Khatema Fibres for Rs 80 crore",
+   "tier": "T2",
+   "claim": "acquisition Khatema Fibres"
+  },
+  {
+   "url": "https://www.vccircle.com/supply-chain-financing-platform-credlix-acquires-fintech-start-up-nuphi",
+   "title": "Supply chain financing platform Credlix acquires fintech start-up NuPhi",
+   "tier": "T2",
+   "claim": "acquisition NuPhi (by Credlix arm)"
+  },
+  {
+   "url": "https://inc42.com/buzz/moglix-owned-credlix-acquires-majority-stake-in-nbfc-vanik-finance/",
+   "title": "Moglix-Owned Credlix Acquires Majority Stake In NBFC Vanik Finance",
+   "tier": "T2",
+   "claim": "acquisition Vanik Finance (majority stake, by Credlix arm)"
+  },
+  {
+   "url": "https://entrackr.com/2021/07/moglix-acquires-e-commerce-platform-vendaxo/",
+   "title": "Moglix acquires e-commerce platform Vendaxo",
+   "tier": "T2",
+   "claim": "acquisition Vendaxo"
+  },
+  {
+   "url": "https://timesofindia.indiatimes.com/moglix-acquires-rs-300-crore-adis-india-distribution-biz-for-surveillance-security-products/articleshow/94767418.cms",
+   "title": "Moglix acquires Rs 300-crore ADI's India distribution biz for surveillance, security products",
+   "tier": "T2",
+   "claim": "acquisition ADI Global Distribution (India distribution business)"
+  },
+  {
+   "url": "https://cfo.economictimes.indiatimes.com/news/strategy-operations/moglix-acquires-khatema-fibres-for-rs-80-crore/115525891",
+   "title": "Moglix acquires Khatema Fibres for Rs 80 crore",
+   "tier": "T2",
+   "claim": "acquisition Khatema Fibres"
+  },
+  {
+   "url": "https://www.vccircle.com/supply-chain-financing-platform-credlix-acquires-fintech-start-up-nuphi",
+   "title": "Supply chain financing platform Credlix acquires fintech start-up NuPhi",
+   "tier": "T2",
+   "claim": "acquisition NuPhi (by Credlix arm)"
+  },
+  {
+   "url": "https://inc42.com/buzz/moglix-owned-credlix-acquires-majority-stake-in-nbfc-vanik-finance/",
+   "title": "Moglix-Owned Credlix Acquires Majority Stake In NBFC Vanik Finance",
+   "tier": "T2",
+   "claim": "acquisition Vanik Finance (majority stake, by Credlix arm)"
+  },
+  {
+   "url": "https://entrackr.com/2021/07/moglix-acquires-e-commerce-platform-vendaxo/",
+   "title": "Moglix acquires e-commerce platform Vendaxo",
+   "tier": "T2",
+   "claim": "acquisition Vendaxo"
+  },
+  {
+   "url": "https://timesofindia.indiatimes.com/moglix-acquires-rs-300-crore-adis-india-distribution-biz-for-surveillance-security-products/articleshow/94767418.cms",
+   "title": "Moglix acquires Rs 300-crore ADI's India distribution biz for surveillance, security products",
+   "tier": "T2",
+   "claim": "acquisition ADI Global Distribution (India distribution business)"
+  },
+  {
+   "url": "https://cfo.economictimes.indiatimes.com/news/strategy-operations/moglix-acquires-khatema-fibres-for-rs-80-crore/115525891",
+   "title": "Moglix acquires Khatema Fibres for Rs 80 crore",
+   "tier": "T2",
+   "claim": "acquisition Khatema Fibres"
+  },
+  {
+   "url": "https://www.vccircle.com/supply-chain-financing-platform-credlix-acquires-fintech-start-up-nuphi",
+   "title": "Supply chain financing platform Credlix acquires fintech start-up NuPhi",
+   "tier": "T2",
+   "claim": "acquisition NuPhi (by Credlix arm)"
+  },
+  {
+   "url": "https://inc42.com/buzz/moglix-owned-credlix-acquires-majority-stake-in-nbfc-vanik-finance/",
+   "title": "Moglix-Owned Credlix Acquires Majority Stake In NBFC Vanik Finance",
+   "tier": "T2",
+   "claim": "acquisition Vanik Finance (majority stake, by Credlix arm)"
+  },
+  {
+   "url": "https://entrackr.com/2021/07/moglix-acquires-e-commerce-platform-vendaxo/",
+   "title": "Moglix acquires e-commerce platform Vendaxo",
+   "tier": "T2",
+   "claim": "acquisition Vendaxo"
+  },
+  {
+   "url": "https://timesofindia.indiatimes.com/moglix-acquires-rs-300-crore-adis-india-distribution-biz-for-surveillance-security-products/articleshow/94767418.cms",
+   "title": "Moglix acquires Rs 300-crore ADI's India distribution biz for surveillance, security products",
+   "tier": "T2",
+   "claim": "acquisition ADI Global Distribution (India distribution business)"
+  },
+  {
+   "url": "https://cfo.economictimes.indiatimes.com/news/strategy-operations/moglix-acquires-khatema-fibres-for-rs-80-crore/115525891",
+   "title": "Moglix acquires Khatema Fibres for Rs 80 crore",
+   "tier": "T2",
+   "claim": "acquisition Khatema Fibres"
+  },
+  {
+   "url": "https://www.vccircle.com/supply-chain-financing-platform-credlix-acquires-fintech-start-up-nuphi",
+   "title": "Supply chain financing platform Credlix acquires fintech start-up NuPhi",
+   "tier": "T2",
+   "claim": "acquisition NuPhi (by Credlix arm)"
+  },
+  {
+   "url": "https://inc42.com/buzz/moglix-owned-credlix-acquires-majority-stake-in-nbfc-vanik-finance/",
+   "title": "Moglix-Owned Credlix Acquires Majority Stake In NBFC Vanik Finance",
+   "tier": "T2",
+   "claim": "acquisition Vanik Finance (majority stake, by Credlix arm)"
+  },
+  {
+   "url": "https://entrackr.com/2021/07/moglix-acquires-e-commerce-platform-vendaxo/",
+   "title": "Moglix acquires e-commerce platform Vendaxo",
+   "tier": "T2",
+   "claim": "acquisition Vendaxo"
+  },
+  {
+   "url": "https://timesofindia.indiatimes.com/moglix-acquires-rs-300-crore-adis-india-distribution-biz-for-surveillance-security-products/articleshow/94767418.cms",
+   "title": "Moglix acquires Rs 300-crore ADI's India distribution biz for surveillance, security products",
+   "tier": "T2",
+   "claim": "acquisition ADI Global Distribution (India distribution business)"
+  },
+  {
+   "url": "https://cfo.economictimes.indiatimes.com/news/strategy-operations/moglix-acquires-khatema-fibres-for-rs-80-crore/115525891",
+   "title": "Moglix acquires Khatema Fibres for Rs 80 crore",
+   "tier": "T2",
+   "claim": "acquisition Khatema Fibres"
+  },
+  {
+   "url": "https://www.vccircle.com/supply-chain-financing-platform-credlix-acquires-fintech-start-up-nuphi",
+   "title": "Supply chain financing platform Credlix acquires fintech start-up NuPhi",
+   "tier": "T2",
+   "claim": "acquisition NuPhi (by Credlix arm)"
+  },
+  {
+   "url": "https://inc42.com/buzz/moglix-owned-credlix-acquires-majority-stake-in-nbfc-vanik-finance/",
+   "title": "Moglix-Owned Credlix Acquires Majority Stake In NBFC Vanik Finance",
+   "tier": "T2",
+   "claim": "acquisition Vanik Finance (majority stake, by Credlix arm)"
+  },
+  {
+   "url": "https://entrackr.com/2021/07/moglix-acquires-e-commerce-platform-vendaxo/",
+   "title": "Moglix acquires e-commerce platform Vendaxo",
+   "tier": "T2",
+   "claim": "acquisition Vendaxo"
+  },
+  {
+   "url": "https://timesofindia.indiatimes.com/moglix-acquires-rs-300-crore-adis-india-distribution-biz-for-surveillance-security-products/articleshow/94767418.cms",
+   "title": "Moglix acquires Rs 300-crore ADI's India distribution biz for surveillance, security products",
+   "tier": "T2",
+   "claim": "acquisition ADI Global Distribution (India distribution business)"
+  },
+  {
+   "url": "https://cfo.economictimes.indiatimes.com/news/strategy-operations/moglix-acquires-khatema-fibres-for-rs-80-crore/115525891",
+   "title": "Moglix acquires Khatema Fibres for Rs 80 crore",
+   "tier": "T2",
+   "claim": "acquisition Khatema Fibres"
+  },
+  {
+   "url": "https://www.vccircle.com/supply-chain-financing-platform-credlix-acquires-fintech-start-up-nuphi",
+   "title": "Supply chain financing platform Credlix acquires fintech start-up NuPhi",
+   "tier": "T2",
+   "claim": "acquisition NuPhi (by Credlix arm)"
+  },
+  {
+   "url": "https://inc42.com/buzz/moglix-owned-credlix-acquires-majority-stake-in-nbfc-vanik-finance/",
+   "title": "Moglix-Owned Credlix Acquires Majority Stake In NBFC Vanik Finance",
+   "tier": "T2",
+   "claim": "acquisition Vanik Finance (majority stake, by Credlix arm)"
+  },
+  {
+   "url": "https://entrackr.com/2021/07/moglix-acquires-e-commerce-platform-vendaxo/",
+   "title": "Moglix acquires e-commerce platform Vendaxo",
+   "tier": "T2",
+   "claim": "acquisition Vendaxo"
+  },
+  {
+   "url": "https://timesofindia.indiatimes.com/moglix-acquires-rs-300-crore-adis-india-distribution-biz-for-surveillance-security-products/articleshow/94767418.cms",
+   "title": "Moglix acquires Rs 300-crore ADI's India distribution biz for surveillance, security products",
+   "tier": "T2",
+   "claim": "acquisition ADI Global Distribution (India distribution business)"
+  },
+  {
+   "url": "https://cfo.economictimes.indiatimes.com/news/strategy-operations/moglix-acquires-khatema-fibres-for-rs-80-crore/115525891",
+   "title": "Moglix acquires Khatema Fibres for Rs 80 crore",
+   "tier": "T2",
+   "claim": "acquisition Khatema Fibres"
+  },
+  {
+   "url": "https://www.vccircle.com/supply-chain-financing-platform-credlix-acquires-fintech-start-up-nuphi",
+   "title": "Supply chain financing platform Credlix acquires fintech start-up NuPhi",
+   "tier": "T2",
+   "claim": "acquisition NuPhi (by Credlix arm)"
+  },
+  {
+   "url": "https://inc42.com/buzz/moglix-owned-credlix-acquires-majority-stake-in-nbfc-vanik-finance/",
+   "title": "Moglix-Owned Credlix Acquires Majority Stake In NBFC Vanik Finance",
+   "tier": "T2",
+   "claim": "acquisition Vanik Finance (majority stake, by Credlix arm)"
+  },
+  {
+   "url": "https://entrackr.com/2021/07/moglix-acquires-e-commerce-platform-vendaxo/",
+   "title": "Moglix acquires e-commerce platform Vendaxo",
+   "tier": "T2",
+   "claim": "acquisition Vendaxo"
+  },
+  {
+   "url": "https://timesofindia.indiatimes.com/moglix-acquires-rs-300-crore-adis-india-distribution-biz-for-surveillance-security-products/articleshow/94767418.cms",
+   "title": "Moglix acquires Rs 300-crore ADI's India distribution biz for surveillance, security products",
+   "tier": "T2",
+   "claim": "acquisition ADI Global Distribution (India distribution business)"
+  },
+  {
+   "url": "https://cfo.economictimes.indiatimes.com/news/strategy-operations/moglix-acquires-khatema-fibres-for-rs-80-crore/115525891",
+   "title": "Moglix acquires Khatema Fibres for Rs 80 crore",
+   "tier": "T2",
+   "claim": "acquisition Khatema Fibres"
+  },
+  {
+   "url": "https://www.vccircle.com/supply-chain-financing-platform-credlix-acquires-fintech-start-up-nuphi",
+   "title": "Supply chain financing platform Credlix acquires fintech start-up NuPhi",
+   "tier": "T2",
+   "claim": "acquisition NuPhi (by Credlix arm)"
+  },
+  {
+   "url": "https://inc42.com/buzz/moglix-owned-credlix-acquires-majority-stake-in-nbfc-vanik-finance/",
+   "title": "Moglix-Owned Credlix Acquires Majority Stake In NBFC Vanik Finance",
+   "tier": "T2",
+   "claim": "acquisition Vanik Finance (majority stake, by Credlix arm)"
+  },
+  {
+   "url": "https://entrackr.com/2021/07/moglix-acquires-e-commerce-platform-vendaxo/",
+   "title": "Moglix acquires e-commerce platform Vendaxo",
+   "tier": "T2",
+   "claim": "acquisition Vendaxo"
+  },
+  {
+   "url": "https://timesofindia.indiatimes.com/moglix-acquires-rs-300-crore-adis-india-distribution-biz-for-surveillance-security-products/articleshow/94767418.cms",
+   "title": "Moglix acquires Rs 300-crore ADI's India distribution biz for surveillance, security products",
+   "tier": "T2",
+   "claim": "acquisition ADI Global Distribution (India distribution business)"
+  },
+  {
+   "url": "https://cfo.economictimes.indiatimes.com/news/strategy-operations/moglix-acquires-khatema-fibres-for-rs-80-crore/115525891",
+   "title": "Moglix acquires Khatema Fibres for Rs 80 crore",
+   "tier": "T2",
+   "claim": "acquisition Khatema Fibres"
+  },
+  {
+   "url": "https://www.vccircle.com/supply-chain-financing-platform-credlix-acquires-fintech-start-up-nuphi",
+   "title": "Supply chain financing platform Credlix acquires fintech start-up NuPhi",
+   "tier": "T2",
+   "claim": "acquisition NuPhi (by Credlix arm)"
+  },
+  {
+   "url": "https://inc42.com/buzz/moglix-owned-credlix-acquires-majority-stake-in-nbfc-vanik-finance/",
+   "title": "Moglix-Owned Credlix Acquires Majority Stake In NBFC Vanik Finance",
+   "tier": "T2",
+   "claim": "acquisition Vanik Finance (majority stake, by Credlix arm)"
+  },
+  {
+   "url": "https://entrackr.com/2021/07/moglix-acquires-e-commerce-platform-vendaxo/",
+   "title": "Moglix acquires e-commerce platform Vendaxo",
+   "tier": "T2",
+   "claim": "acquisition Vendaxo"
+  },
+  {
+   "url": "https://timesofindia.indiatimes.com/moglix-acquires-rs-300-crore-adis-india-distribution-biz-for-surveillance-security-products/articleshow/94767418.cms",
+   "title": "Moglix acquires Rs 300-crore ADI's India distribution biz for surveillance, security products",
+   "tier": "T2",
+   "claim": "acquisition ADI Global Distribution (India distribution business)"
+  },
+  {
+   "url": "https://cfo.economictimes.indiatimes.com/news/strategy-operations/moglix-acquires-khatema-fibres-for-rs-80-crore/115525891",
+   "title": "Moglix acquires Khatema Fibres for Rs 80 crore",
+   "tier": "T2",
+   "claim": "acquisition Khatema Fibres"
+  },
+  {
+   "url": "https://www.vccircle.com/supply-chain-financing-platform-credlix-acquires-fintech-start-up-nuphi",
+   "title": "Supply chain financing platform Credlix acquires fintech start-up NuPhi",
+   "tier": "T2",
+   "claim": "acquisition NuPhi (by Credlix arm)"
+  },
+  {
+   "url": "https://inc42.com/buzz/moglix-owned-credlix-acquires-majority-stake-in-nbfc-vanik-finance/",
+   "title": "Moglix-Owned Credlix Acquires Majority Stake In NBFC Vanik Finance",
+   "tier": "T2",
+   "claim": "acquisition Vanik Finance (majority stake, by Credlix arm)"
+  },
+  {
+   "url": "https://entrackr.com/2021/07/moglix-acquires-e-commerce-platform-vendaxo/",
+   "title": "Moglix acquires e-commerce platform Vendaxo",
+   "tier": "T2",
+   "claim": "acquisition Vendaxo"
+  },
+  {
+   "url": "https://timesofindia.indiatimes.com/moglix-acquires-rs-300-crore-adis-india-distribution-biz-for-surveillance-security-products/articleshow/94767418.cms",
+   "title": "Moglix acquires Rs 300-crore ADI's India distribution biz for surveillance, security products",
+   "tier": "T2",
+   "claim": "acquisition ADI Global Distribution (India distribution business)"
+  },
+  {
+   "url": "https://cfo.economictimes.indiatimes.com/news/strategy-operations/moglix-acquires-khatema-fibres-for-rs-80-crore/115525891",
+   "title": "Moglix acquires Khatema Fibres for Rs 80 crore",
+   "tier": "T2",
+   "claim": "acquisition Khatema Fibres"
+  },
+  {
+   "url": "https://www.vccircle.com/supply-chain-financing-platform-credlix-acquires-fintech-start-up-nuphi",
+   "title": "Supply chain financing platform Credlix acquires fintech start-up NuPhi",
+   "tier": "T2",
+   "claim": "acquisition NuPhi (by Credlix arm)"
+  },
+  {
+   "url": "https://inc42.com/buzz/moglix-owned-credlix-acquires-majority-stake-in-nbfc-vanik-finance/",
+   "title": "Moglix-Owned Credlix Acquires Majority Stake In NBFC Vanik Finance",
+   "tier": "T2",
+   "claim": "acquisition Vanik Finance (majority stake, by Credlix arm)"
+  },
+  {
+   "url": "https://entrackr.com/2021/07/moglix-acquires-e-commerce-platform-vendaxo/",
+   "title": "Moglix acquires e-commerce platform Vendaxo",
+   "tier": "T2",
+   "claim": "acquisition Vendaxo"
+  },
+  {
+   "url": "https://timesofindia.indiatimes.com/moglix-acquires-rs-300-crore-adis-india-distribution-biz-for-surveillance-security-products/articleshow/94767418.cms",
+   "title": "Moglix acquires Rs 300-crore ADI's India distribution biz for surveillance, security products",
+   "tier": "T2",
+   "claim": "acquisition ADI Global Distribution (India distribution business)"
+  },
+  {
+   "url": "https://cfo.economictimes.indiatimes.com/news/strategy-operations/moglix-acquires-khatema-fibres-for-rs-80-crore/115525891",
+   "title": "Moglix acquires Khatema Fibres for Rs 80 crore",
+   "tier": "T2",
+   "claim": "acquisition Khatema Fibres"
+  },
+  {
+   "url": "https://www.vccircle.com/supply-chain-financing-platform-credlix-acquires-fintech-start-up-nuphi",
+   "title": "Supply chain financing platform Credlix acquires fintech start-up NuPhi",
+   "tier": "T2",
+   "claim": "acquisition NuPhi (by Credlix arm)"
+  },
+  {
+   "url": "https://inc42.com/buzz/moglix-owned-credlix-acquires-majority-stake-in-nbfc-vanik-finance/",
+   "title": "Moglix-Owned Credlix Acquires Majority Stake In NBFC Vanik Finance",
+   "tier": "T2",
+   "claim": "acquisition Vanik Finance (majority stake, by Credlix arm)"
+  },
+  {
+   "url": "https://entrackr.com/2021/07/moglix-acquires-e-commerce-platform-vendaxo/",
+   "title": "Moglix acquires e-commerce platform Vendaxo",
+   "tier": "T2",
+   "claim": "acquisition Vendaxo"
+  },
+  {
+   "url": "https://timesofindia.indiatimes.com/moglix-acquires-rs-300-crore-adis-india-distribution-biz-for-surveillance-security-products/articleshow/94767418.cms",
+   "title": "Moglix acquires Rs 300-crore ADI's India distribution biz for surveillance, security products",
+   "tier": "T2",
+   "claim": "acquisition ADI Global Distribution (India distribution business)"
+  },
+  {
+   "url": "https://cfo.economictimes.indiatimes.com/news/strategy-operations/moglix-acquires-khatema-fibres-for-rs-80-crore/115525891",
+   "title": "Moglix acquires Khatema Fibres for Rs 80 crore",
+   "tier": "T2",
+   "claim": "acquisition Khatema Fibres"
+  },
+  {
+   "url": "https://www.vccircle.com/supply-chain-financing-platform-credlix-acquires-fintech-start-up-nuphi",
+   "title": "Supply chain financing platform Credlix acquires fintech start-up NuPhi",
+   "tier": "T2",
+   "claim": "acquisition NuPhi (by Credlix arm)"
+  },
+  {
+   "url": "https://inc42.com/buzz/moglix-owned-credlix-acquires-majority-stake-in-nbfc-vanik-finance/",
+   "title": "Moglix-Owned Credlix Acquires Majority Stake In NBFC Vanik Finance",
+   "tier": "T2",
+   "claim": "acquisition Vanik Finance (majority stake, by Credlix arm)"
+  },
+  {
+   "url": "https://entrackr.com/2021/07/moglix-acquires-e-commerce-platform-vendaxo/",
+   "title": "Moglix acquires e-commerce platform Vendaxo",
+   "tier": "T2",
+   "claim": "acquisition Vendaxo"
+  },
+  {
+   "url": "https://timesofindia.indiatimes.com/moglix-acquires-rs-300-crore-adis-india-distribution-biz-for-surveillance-security-products/articleshow/94767418.cms",
+   "title": "Moglix acquires Rs 300-crore ADI's India distribution biz for surveillance, security products",
+   "tier": "T2",
+   "claim": "acquisition ADI Global Distribution (India distribution business)"
+  },
+  {
+   "url": "https://cfo.economictimes.indiatimes.com/news/strategy-operations/moglix-acquires-khatema-fibres-for-rs-80-crore/115525891",
+   "title": "Moglix acquires Khatema Fibres for Rs 80 crore",
+   "tier": "T2",
+   "claim": "acquisition Khatema Fibres"
+  },
+  {
+   "url": "https://www.vccircle.com/supply-chain-financing-platform-credlix-acquires-fintech-start-up-nuphi",
+   "title": "Supply chain financing platform Credlix acquires fintech start-up NuPhi",
+   "tier": "T2",
+   "claim": "acquisition NuPhi (by Credlix arm)"
+  },
+  {
+   "url": "https://inc42.com/buzz/moglix-owned-credlix-acquires-majority-stake-in-nbfc-vanik-finance/",
+   "title": "Moglix-Owned Credlix Acquires Majority Stake In NBFC Vanik Finance",
+   "tier": "T2",
+   "claim": "acquisition Vanik Finance (majority stake, by Credlix arm)"
+  },
+  {
+   "url": "https://entrackr.com/2021/07/moglix-acquires-e-commerce-platform-vendaxo/",
+   "title": "Moglix acquires e-commerce platform Vendaxo",
+   "tier": "T2",
+   "claim": "acquisition Vendaxo"
+  },
+  {
+   "url": "https://timesofindia.indiatimes.com/moglix-acquires-rs-300-crore-adis-india-distribution-biz-for-surveillance-security-products/articleshow/94767418.cms",
+   "title": "Moglix acquires Rs 300-crore ADI's India distribution biz for surveillance, security products",
+   "tier": "T2",
+   "claim": "acquisition ADI Global Distribution (India distribution business)"
+  },
+  {
+   "url": "https://cfo.economictimes.indiatimes.com/news/strategy-operations/moglix-acquires-khatema-fibres-for-rs-80-crore/115525891",
+   "title": "Moglix acquires Khatema Fibres for Rs 80 crore",
+   "tier": "T2",
+   "claim": "acquisition Khatema Fibres"
+  },
+  {
+   "url": "https://www.vccircle.com/supply-chain-financing-platform-credlix-acquires-fintech-start-up-nuphi",
+   "title": "Supply chain financing platform Credlix acquires fintech start-up NuPhi",
+   "tier": "T2",
+   "claim": "acquisition NuPhi (by Credlix arm)"
+  },
+  {
+   "url": "https://inc42.com/buzz/moglix-owned-credlix-acquires-majority-stake-in-nbfc-vanik-finance/",
+   "title": "Moglix-Owned Credlix Acquires Majority Stake In NBFC Vanik Finance",
+   "tier": "T2",
+   "claim": "acquisition Vanik Finance (majority stake, by Credlix arm)"
+  },
+  {
+   "url": "https://entrackr.com/2021/07/moglix-acquires-e-commerce-platform-vendaxo/",
+   "title": "Moglix acquires e-commerce platform Vendaxo",
+   "tier": "T2",
+   "claim": "acquisition Vendaxo"
+  },
+  {
+   "url": "https://timesofindia.indiatimes.com/moglix-acquires-rs-300-crore-adis-india-distribution-biz-for-surveillance-security-products/articleshow/94767418.cms",
+   "title": "Moglix acquires Rs 300-crore ADI's India distribution biz for surveillance, security products",
+   "tier": "T2",
+   "claim": "acquisition ADI Global Distribution (India distribution business)"
+  },
+  {
+   "url": "https://cfo.economictimes.indiatimes.com/news/strategy-operations/moglix-acquires-khatema-fibres-for-rs-80-crore/115525891",
+   "title": "Moglix acquires Khatema Fibres for Rs 80 crore",
+   "tier": "T2",
+   "claim": "acquisition Khatema Fibres"
+  },
+  {
+   "url": "https://www.vccircle.com/supply-chain-financing-platform-credlix-acquires-fintech-start-up-nuphi",
+   "title": "Supply chain financing platform Credlix acquires fintech start-up NuPhi",
+   "tier": "T2",
+   "claim": "acquisition NuPhi (by Credlix arm)"
+  },
+  {
+   "url": "https://inc42.com/buzz/moglix-owned-credlix-acquires-majority-stake-in-nbfc-vanik-finance/",
+   "title": "Moglix-Owned Credlix Acquires Majority Stake In NBFC Vanik Finance",
+   "tier": "T2",
+   "claim": "acquisition Vanik Finance (majority stake, by Credlix arm)"
+  },
+  {
+   "url": "https://entrackr.com/2021/07/moglix-acquires-e-commerce-platform-vendaxo/",
+   "title": "Moglix acquires e-commerce platform Vendaxo",
+   "tier": "T2",
+   "claim": "acquisition Vendaxo"
+  },
+  {
+   "url": "https://timesofindia.indiatimes.com/moglix-acquires-rs-300-crore-adis-india-distribution-biz-for-surveillance-security-products/articleshow/94767418.cms",
+   "title": "Moglix acquires Rs 300-crore ADI's India distribution biz for surveillance, security products",
+   "tier": "T2",
+   "claim": "acquisition ADI Global Distribution (India distribution business)"
+  },
+  {
+   "url": "https://cfo.economictimes.indiatimes.com/news/strategy-operations/moglix-acquires-khatema-fibres-for-rs-80-crore/115525891",
+   "title": "Moglix acquires Khatema Fibres for Rs 80 crore",
+   "tier": "T2",
+   "claim": "acquisition Khatema Fibres"
+  },
+  {
+   "url": "https://www.vccircle.com/supply-chain-financing-platform-credlix-acquires-fintech-start-up-nuphi",
+   "title": "Supply chain financing platform Credlix acquires fintech start-up NuPhi",
+   "tier": "T2",
+   "claim": "acquisition NuPhi (by Credlix arm)"
+  },
+  {
+   "url": "https://inc42.com/buzz/moglix-owned-credlix-acquires-majority-stake-in-nbfc-vanik-finance/",
+   "title": "Moglix-Owned Credlix Acquires Majority Stake In NBFC Vanik Finance",
+   "tier": "T2",
+   "claim": "acquisition Vanik Finance (majority stake, by Credlix arm)"
+  },
+  {
+   "url": "https://entrackr.com/2021/07/moglix-acquires-e-commerce-platform-vendaxo/",
+   "title": "Moglix acquires e-commerce platform Vendaxo",
+   "tier": "T2",
+   "claim": "acquisition Vendaxo"
+  },
+  {
+   "url": "https://timesofindia.indiatimes.com/moglix-acquires-rs-300-crore-adis-india-distribution-biz-for-surveillance-security-products/articleshow/94767418.cms",
+   "title": "Moglix acquires Rs 300-crore ADI's India distribution biz for surveillance, security products",
+   "tier": "T2",
+   "claim": "acquisition ADI Global Distribution (India distribution business)"
+  },
+  {
+   "url": "https://cfo.economictimes.indiatimes.com/news/strategy-operations/moglix-acquires-khatema-fibres-for-rs-80-crore/115525891",
+   "title": "Moglix acquires Khatema Fibres for Rs 80 crore",
+   "tier": "T2",
+   "claim": "acquisition Khatema Fibres"
+  },
+  {
+   "url": "https://www.vccircle.com/supply-chain-financing-platform-credlix-acquires-fintech-start-up-nuphi",
+   "title": "Supply chain financing platform Credlix acquires fintech start-up NuPhi",
+   "tier": "T2",
+   "claim": "acquisition NuPhi (by Credlix arm)"
+  },
+  {
+   "url": "https://inc42.com/buzz/moglix-owned-credlix-acquires-majority-stake-in-nbfc-vanik-finance/",
+   "title": "Moglix-Owned Credlix Acquires Majority Stake In NBFC Vanik Finance",
+   "tier": "T2",
+   "claim": "acquisition Vanik Finance (majority stake, by Credlix arm)"
+  },
+  {
+   "url": "https://entrackr.com/2021/07/moglix-acquires-e-commerce-platform-vendaxo/",
+   "title": "Moglix acquires e-commerce platform Vendaxo",
+   "tier": "T2",
+   "claim": "acquisition Vendaxo"
+  },
+  {
+   "url": "https://timesofindia.indiatimes.com/moglix-acquires-rs-300-crore-adis-india-distribution-biz-for-surveillance-security-products/articleshow/94767418.cms",
+   "title": "Moglix acquires Rs 300-crore ADI's India distribution biz for surveillance, security products",
+   "tier": "T2",
+   "claim": "acquisition ADI Global Distribution (India distribution business)"
+  },
+  {
+   "url": "https://cfo.economictimes.indiatimes.com/news/strategy-operations/moglix-acquires-khatema-fibres-for-rs-80-crore/115525891",
+   "title": "Moglix acquires Khatema Fibres for Rs 80 crore",
+   "tier": "T2",
+   "claim": "acquisition Khatema Fibres"
+  },
+  {
+   "url": "https://www.vccircle.com/supply-chain-financing-platform-credlix-acquires-fintech-start-up-nuphi",
+   "title": "Supply chain financing platform Credlix acquires fintech start-up NuPhi",
+   "tier": "T2",
+   "claim": "acquisition NuPhi (by Credlix arm)"
+  },
+  {
+   "url": "https://inc42.com/buzz/moglix-owned-credlix-acquires-majority-stake-in-nbfc-vanik-finance/",
+   "title": "Moglix-Owned Credlix Acquires Majority Stake In NBFC Vanik Finance",
+   "tier": "T2",
+   "claim": "acquisition Vanik Finance (majority stake, by Credlix arm)"
+  },
+  {
+   "url": "https://entrackr.com/2021/07/moglix-acquires-e-commerce-platform-vendaxo/",
+   "title": "Moglix acquires e-commerce platform Vendaxo",
+   "tier": "T2",
+   "claim": "acquisition Vendaxo"
+  },
+  {
+   "url": "https://timesofindia.indiatimes.com/moglix-acquires-rs-300-crore-adis-india-distribution-biz-for-surveillance-security-products/articleshow/94767418.cms",
+   "title": "Moglix acquires Rs 300-crore ADI's India distribution biz for surveillance, security products",
+   "tier": "T2",
+   "claim": "acquisition ADI Global Distribution (India distribution business)"
+  },
+  {
+   "url": "https://cfo.economictimes.indiatimes.com/news/strategy-operations/moglix-acquires-khatema-fibres-for-rs-80-crore/115525891",
+   "title": "Moglix acquires Khatema Fibres for Rs 80 crore",
+   "tier": "T2",
+   "claim": "acquisition Khatema Fibres"
+  },
+  {
+   "url": "https://www.vccircle.com/supply-chain-financing-platform-credlix-acquires-fintech-start-up-nuphi",
+   "title": "Supply chain financing platform Credlix acquires fintech start-up NuPhi",
+   "tier": "T2",
+   "claim": "acquisition NuPhi (by Credlix arm)"
+  },
+  {
+   "url": "https://inc42.com/buzz/moglix-owned-credlix-acquires-majority-stake-in-nbfc-vanik-finance/",
+   "title": "Moglix-Owned Credlix Acquires Majority Stake In NBFC Vanik Finance",
+   "tier": "T2",
+   "claim": "acquisition Vanik Finance (majority stake, by Credlix arm)"
+  },
+  {
+   "url": "https://entrackr.com/2021/07/moglix-acquires-e-commerce-platform-vendaxo/",
+   "title": "Moglix acquires e-commerce platform Vendaxo",
+   "tier": "T2",
+   "claim": "acquisition Vendaxo"
+  },
+  {
+   "url": "https://timesofindia.indiatimes.com/moglix-acquires-rs-300-crore-adis-india-distribution-biz-for-surveillance-security-products/articleshow/94767418.cms",
+   "title": "Moglix acquires Rs 300-crore ADI's India distribution biz for surveillance, security products",
+   "tier": "T2",
+   "claim": "acquisition ADI Global Distribution (India distribution business)"
+  },
+  {
+   "url": "https://cfo.economictimes.indiatimes.com/news/strategy-operations/moglix-acquires-khatema-fibres-for-rs-80-crore/115525891",
+   "title": "Moglix acquires Khatema Fibres for Rs 80 crore",
+   "tier": "T2",
+   "claim": "acquisition Khatema Fibres"
+  },
+  {
+   "url": "https://www.vccircle.com/supply-chain-financing-platform-credlix-acquires-fintech-start-up-nuphi",
+   "title": "Supply chain financing platform Credlix acquires fintech start-up NuPhi",
+   "tier": "T2",
+   "claim": "acquisition NuPhi (by Credlix arm)"
+  },
+  {
+   "url": "https://inc42.com/buzz/moglix-owned-credlix-acquires-majority-stake-in-nbfc-vanik-finance/",
+   "title": "Moglix-Owned Credlix Acquires Majority Stake In NBFC Vanik Finance",
+   "tier": "T2",
+   "claim": "acquisition Vanik Finance (majority stake, by Credlix arm)"
+  },
+  {
+   "url": "https://entrackr.com/2021/07/moglix-acquires-e-commerce-platform-vendaxo/",
+   "title": "Moglix acquires e-commerce platform Vendaxo",
+   "tier": "T2",
+   "claim": "acquisition Vendaxo"
+  },
+  {
+   "url": "https://timesofindia.indiatimes.com/moglix-acquires-rs-300-crore-adis-india-distribution-biz-for-surveillance-security-products/articleshow/94767418.cms",
+   "title": "Moglix acquires Rs 300-crore ADI's India distribution biz for surveillance, security products",
+   "tier": "T2",
+   "claim": "acquisition ADI Global Distribution (India distribution business)"
+  },
+  {
+   "url": "https://cfo.economictimes.indiatimes.com/news/strategy-operations/moglix-acquires-khatema-fibres-for-rs-80-crore/115525891",
+   "title": "Moglix acquires Khatema Fibres for Rs 80 crore",
+   "tier": "T2",
+   "claim": "acquisition Khatema Fibres"
+  },
+  {
+   "url": "https://www.vccircle.com/supply-chain-financing-platform-credlix-acquires-fintech-start-up-nuphi",
+   "title": "Supply chain financing platform Credlix acquires fintech start-up NuPhi",
+   "tier": "T2",
+   "claim": "acquisition NuPhi (by Credlix arm)"
+  },
+  {
+   "url": "https://inc42.com/buzz/moglix-owned-credlix-acquires-majority-stake-in-nbfc-vanik-finance/",
+   "title": "Moglix-Owned Credlix Acquires Majority Stake In NBFC Vanik Finance",
+   "tier": "T2",
+   "claim": "acquisition Vanik Finance (majority stake, by Credlix arm)"
+  },
+  {
+   "url": "https://entrackr.com/2021/07/moglix-acquires-e-commerce-platform-vendaxo/",
+   "title": "Moglix acquires e-commerce platform Vendaxo",
+   "tier": "T2",
+   "claim": "acquisition Vendaxo"
+  },
+  {
+   "url": "https://timesofindia.indiatimes.com/moglix-acquires-rs-300-crore-adis-india-distribution-biz-for-surveillance-security-products/articleshow/94767418.cms",
+   "title": "Moglix acquires Rs 300-crore ADI's India distribution biz for surveillance, security products",
+   "tier": "T2",
+   "claim": "acquisition ADI Global Distribution (India distribution business)"
+  },
+  {
+   "url": "https://cfo.economictimes.indiatimes.com/news/strategy-operations/moglix-acquires-khatema-fibres-for-rs-80-crore/115525891",
+   "title": "Moglix acquires Khatema Fibres for Rs 80 crore",
+   "tier": "T2",
+   "claim": "acquisition Khatema Fibres"
+  },
+  {
+   "url": "https://www.vccircle.com/supply-chain-financing-platform-credlix-acquires-fintech-start-up-nuphi",
+   "title": "Supply chain financing platform Credlix acquires fintech start-up NuPhi",
+   "tier": "T2",
+   "claim": "acquisition NuPhi (by Credlix arm)"
+  },
+  {
+   "url": "https://inc42.com/buzz/moglix-owned-credlix-acquires-majority-stake-in-nbfc-vanik-finance/",
+   "title": "Moglix-Owned Credlix Acquires Majority Stake In NBFC Vanik Finance",
+   "tier": "T2",
+   "claim": "acquisition Vanik Finance (majority stake, by Credlix arm)"
+  },
+  {
+   "url": "https://entrackr.com/2021/07/moglix-acquires-e-commerce-platform-vendaxo/",
+   "title": "Moglix acquires e-commerce platform Vendaxo",
+   "tier": "T2",
+   "claim": "acquisition Vendaxo"
+  },
+  {
+   "url": "https://timesofindia.indiatimes.com/moglix-acquires-rs-300-crore-adis-india-distribution-biz-for-surveillance-security-products/articleshow/94767418.cms",
+   "title": "Moglix acquires Rs 300-crore ADI's India distribution biz for surveillance, security products",
+   "tier": "T2",
+   "claim": "acquisition ADI Global Distribution (India distribution business)"
+  },
+  {
+   "url": "https://cfo.economictimes.indiatimes.com/news/strategy-operations/moglix-acquires-khatema-fibres-for-rs-80-crore/115525891",
+   "title": "Moglix acquires Khatema Fibres for Rs 80 crore",
+   "tier": "T2",
+   "claim": "acquisition Khatema Fibres"
+  },
+  {
+   "url": "https://www.vccircle.com/supply-chain-financing-platform-credlix-acquires-fintech-start-up-nuphi",
+   "title": "Supply chain financing platform Credlix acquires fintech start-up NuPhi",
+   "tier": "T2",
+   "claim": "acquisition NuPhi (by Credlix arm)"
+  },
+  {
+   "url": "https://inc42.com/buzz/moglix-owned-credlix-acquires-majority-stake-in-nbfc-vanik-finance/",
+   "title": "Moglix-Owned Credlix Acquires Majority Stake In NBFC Vanik Finance",
+   "tier": "T2",
+   "claim": "acquisition Vanik Finance (majority stake, by Credlix arm)"
+  },
+  {
+   "url": "https://entrackr.com/2021/07/moglix-acquires-e-commerce-platform-vendaxo/",
+   "title": "Moglix acquires e-commerce platform Vendaxo",
+   "tier": "T2",
+   "claim": "acquisition Vendaxo"
+  },
+  {
+   "url": "https://timesofindia.indiatimes.com/moglix-acquires-rs-300-crore-adis-india-distribution-biz-for-surveillance-security-products/articleshow/94767418.cms",
+   "title": "Moglix acquires Rs 300-crore ADI's India distribution biz for surveillance, security products",
+   "tier": "T2",
+   "claim": "acquisition ADI Global Distribution (India distribution business)"
+  },
+  {
+   "url": "https://cfo.economictimes.indiatimes.com/news/strategy-operations/moglix-acquires-khatema-fibres-for-rs-80-crore/115525891",
+   "title": "Moglix acquires Khatema Fibres for Rs 80 crore",
+   "tier": "T2",
+   "claim": "acquisition Khatema Fibres"
+  },
+  {
+   "url": "https://www.vccircle.com/supply-chain-financing-platform-credlix-acquires-fintech-start-up-nuphi",
+   "title": "Supply chain financing platform Credlix acquires fintech start-up NuPhi",
+   "tier": "T2",
+   "claim": "acquisition NuPhi (by Credlix arm)"
+  },
+  {
+   "url": "https://inc42.com/buzz/moglix-owned-credlix-acquires-majority-stake-in-nbfc-vanik-finance/",
+   "title": "Moglix-Owned Credlix Acquires Majority Stake In NBFC Vanik Finance",
+   "tier": "T2",
+   "claim": "acquisition Vanik Finance (majority stake, by Credlix arm)"
+  },
+  {
+   "url": "https://entrackr.com/2021/07/moglix-acquires-e-commerce-platform-vendaxo/",
+   "title": "Moglix acquires e-commerce platform Vendaxo",
+   "tier": "T2",
+   "claim": "acquisition Vendaxo"
+  },
+  {
+   "url": "https://timesofindia.indiatimes.com/moglix-acquires-rs-300-crore-adis-india-distribution-biz-for-surveillance-security-products/articleshow/94767418.cms",
+   "title": "Moglix acquires Rs 300-crore ADI's India distribution biz for surveillance, security products",
+   "tier": "T2",
+   "claim": "acquisition ADI Global Distribution (India distribution business)"
+  },
+  {
+   "url": "https://cfo.economictimes.indiatimes.com/news/strategy-operations/moglix-acquires-khatema-fibres-for-rs-80-crore/115525891",
+   "title": "Moglix acquires Khatema Fibres for Rs 80 crore",
+   "tier": "T2",
+   "claim": "acquisition Khatema Fibres"
+  },
+  {
+   "url": "https://www.vccircle.com/supply-chain-financing-platform-credlix-acquires-fintech-start-up-nuphi",
+   "title": "Supply chain financing platform Credlix acquires fintech start-up NuPhi",
+   "tier": "T2",
+   "claim": "acquisition NuPhi (by Credlix arm)"
+  },
+  {
+   "url": "https://inc42.com/buzz/moglix-owned-credlix-acquires-majority-stake-in-nbfc-vanik-finance/",
+   "title": "Moglix-Owned Credlix Acquires Majority Stake In NBFC Vanik Finance",
+   "tier": "T2",
+   "claim": "acquisition Vanik Finance (majority stake, by Credlix arm)"
+  },
+  {
+   "url": "https://entrackr.com/2021/07/moglix-acquires-e-commerce-platform-vendaxo/",
+   "title": "Moglix acquires e-commerce platform Vendaxo",
+   "tier": "T2",
+   "claim": "acquisition Vendaxo"
+  },
+  {
+   "url": "https://timesofindia.indiatimes.com/moglix-acquires-rs-300-crore-adis-india-distribution-biz-for-surveillance-security-products/articleshow/94767418.cms",
+   "title": "Moglix acquires Rs 300-crore ADI's India distribution biz for surveillance, security products",
+   "tier": "T2",
+   "claim": "acquisition ADI Global Distribution (India distribution business)"
+  },
+  {
+   "url": "https://cfo.economictimes.indiatimes.com/news/strategy-operations/moglix-acquires-khatema-fibres-for-rs-80-crore/115525891",
+   "title": "Moglix acquires Khatema Fibres for Rs 80 crore",
+   "tier": "T2",
+   "claim": "acquisition Khatema Fibres"
+  },
+  {
+   "url": "https://www.vccircle.com/supply-chain-financing-platform-credlix-acquires-fintech-start-up-nuphi",
+   "title": "Supply chain financing platform Credlix acquires fintech start-up NuPhi",
+   "tier": "T2",
+   "claim": "acquisition NuPhi (by Credlix arm)"
+  },
+  {
+   "url": "https://inc42.com/buzz/moglix-owned-credlix-acquires-majority-stake-in-nbfc-vanik-finance/",
+   "title": "Moglix-Owned Credlix Acquires Majority Stake In NBFC Vanik Finance",
+   "tier": "T2",
+   "claim": "acquisition Vanik Finance (majority stake, by Credlix arm)"
+  },
+  {
+   "url": "https://entrackr.com/2021/07/moglix-acquires-e-commerce-platform-vendaxo/",
+   "title": "Moglix acquires e-commerce platform Vendaxo",
+   "tier": "T2",
+   "claim": "acquisition Vendaxo"
+  },
+  {
+   "url": "https://timesofindia.indiatimes.com/moglix-acquires-rs-300-crore-adis-india-distribution-biz-for-surveillance-security-products/articleshow/94767418.cms",
+   "title": "Moglix acquires Rs 300-crore ADI's India distribution biz for surveillance, security products",
+   "tier": "T2",
+   "claim": "acquisition ADI Global Distribution (India distribution business)"
+  },
+  {
+   "url": "https://cfo.economictimes.indiatimes.com/news/strategy-operations/moglix-acquires-khatema-fibres-for-rs-80-crore/115525891",
+   "title": "Moglix acquires Khatema Fibres for Rs 80 crore",
+   "tier": "T2",
+   "claim": "acquisition Khatema Fibres"
+  },
+  {
+   "url": "https://www.vccircle.com/supply-chain-financing-platform-credlix-acquires-fintech-start-up-nuphi",
+   "title": "Supply chain financing platform Credlix acquires fintech start-up NuPhi",
+   "tier": "T2",
+   "claim": "acquisition NuPhi (by Credlix arm)"
+  },
+  {
+   "url": "https://inc42.com/buzz/moglix-owned-credlix-acquires-majority-stake-in-nbfc-vanik-finance/",
+   "title": "Moglix-Owned Credlix Acquires Majority Stake In NBFC Vanik Finance",
+   "tier": "T2",
+   "claim": "acquisition Vanik Finance (majority stake, by Credlix arm)"
+  },
+  {
+   "url": "https://entrackr.com/2021/07/moglix-acquires-e-commerce-platform-vendaxo/",
+   "title": "Moglix acquires e-commerce platform Vendaxo",
+   "tier": "T2",
+   "claim": "acquisition Vendaxo"
+  },
+  {
+   "url": "https://timesofindia.indiatimes.com/moglix-acquires-rs-300-crore-adis-india-distribution-biz-for-surveillance-security-products/articleshow/94767418.cms",
+   "title": "Moglix acquires Rs 300-crore ADI's India distribution biz for surveillance, security products",
+   "tier": "T2",
+   "claim": "acquisition ADI Global Distribution (India distribution business)"
+  },
+  {
+   "url": "https://cfo.economictimes.indiatimes.com/news/strategy-operations/moglix-acquires-khatema-fibres-for-rs-80-crore/115525891",
+   "title": "Moglix acquires Khatema Fibres for Rs 80 crore",
+   "tier": "T2",
+   "claim": "acquisition Khatema Fibres"
+  },
+  {
+   "url": "https://www.vccircle.com/supply-chain-financing-platform-credlix-acquires-fintech-start-up-nuphi",
+   "title": "Supply chain financing platform Credlix acquires fintech start-up NuPhi",
+   "tier": "T2",
+   "claim": "acquisition NuPhi (by Credlix arm)"
+  },
+  {
+   "url": "https://inc42.com/buzz/moglix-owned-credlix-acquires-majority-stake-in-nbfc-vanik-finance/",
+   "title": "Moglix-Owned Credlix Acquires Majority Stake In NBFC Vanik Finance",
+   "tier": "T2",
+   "claim": "acquisition Vanik Finance (majority stake, by Credlix arm)"
+  },
+  {
+   "url": "https://entrackr.com/2021/07/moglix-acquires-e-commerce-platform-vendaxo/",
+   "title": "Moglix acquires e-commerce platform Vendaxo",
+   "tier": "T2",
+   "claim": "acquisition Vendaxo"
+  },
+  {
+   "url": "https://timesofindia.indiatimes.com/moglix-acquires-rs-300-crore-adis-india-distribution-biz-for-surveillance-security-products/articleshow/94767418.cms",
+   "title": "Moglix acquires Rs 300-crore ADI's India distribution biz for surveillance, security products",
+   "tier": "T2",
+   "claim": "acquisition ADI Global Distribution (India distribution business)"
+  },
+  {
+   "url": "https://cfo.economictimes.indiatimes.com/news/strategy-operations/moglix-acquires-khatema-fibres-for-rs-80-crore/115525891",
+   "title": "Moglix acquires Khatema Fibres for Rs 80 crore",
+   "tier": "T2",
+   "claim": "acquisition Khatema Fibres"
+  },
+  {
+   "url": "https://www.vccircle.com/supply-chain-financing-platform-credlix-acquires-fintech-start-up-nuphi",
+   "title": "Supply chain financing platform Credlix acquires fintech start-up NuPhi",
+   "tier": "T2",
+   "claim": "acquisition NuPhi (by Credlix arm)"
+  },
+  {
+   "url": "https://inc42.com/buzz/moglix-owned-credlix-acquires-majority-stake-in-nbfc-vanik-finance/",
+   "title": "Moglix-Owned Credlix Acquires Majority Stake In NBFC Vanik Finance",
+   "tier": "T2",
+   "claim": "acquisition Vanik Finance (majority stake, by Credlix arm)"
+  },
+  {
+   "url": "https://entrackr.com/2021/07/moglix-acquires-e-commerce-platform-vendaxo/",
+   "title": "Moglix acquires e-commerce platform Vendaxo",
+   "tier": "T2",
+   "claim": "acquisition Vendaxo"
+  },
+  {
+   "url": "https://timesofindia.indiatimes.com/moglix-acquires-rs-300-crore-adis-india-distribution-biz-for-surveillance-security-products/articleshow/94767418.cms",
+   "title": "Moglix acquires Rs 300-crore ADI's India distribution biz for surveillance, security products",
+   "tier": "T2",
+   "claim": "acquisition ADI Global Distribution (India distribution business)"
+  },
+  {
+   "url": "https://cfo.economictimes.indiatimes.com/news/strategy-operations/moglix-acquires-khatema-fibres-for-rs-80-crore/115525891",
+   "title": "Moglix acquires Khatema Fibres for Rs 80 crore",
+   "tier": "T2",
+   "claim": "acquisition Khatema Fibres"
+  },
+  {
+   "url": "https://www.vccircle.com/supply-chain-financing-platform-credlix-acquires-fintech-start-up-nuphi",
+   "title": "Supply chain financing platform Credlix acquires fintech start-up NuPhi",
+   "tier": "T2",
+   "claim": "acquisition NuPhi (by Credlix arm)"
+  },
+  {
+   "url": "https://inc42.com/buzz/moglix-owned-credlix-acquires-majority-stake-in-nbfc-vanik-finance/",
+   "title": "Moglix-Owned Credlix Acquires Majority Stake In NBFC Vanik Finance",
+   "tier": "T2",
+   "claim": "acquisition Vanik Finance (majority stake, by Credlix arm)"
+  },
+  {
+   "url": "https://entrackr.com/2021/07/moglix-acquires-e-commerce-platform-vendaxo/",
+   "title": "Moglix acquires e-commerce platform Vendaxo",
+   "tier": "T2",
+   "claim": "acquisition Vendaxo"
+  },
+  {
+   "url": "https://timesofindia.indiatimes.com/moglix-acquires-rs-300-crore-adis-india-distribution-biz-for-surveillance-security-products/articleshow/94767418.cms",
+   "title": "Moglix acquires Rs 300-crore ADI's India distribution biz for surveillance, security products",
+   "tier": "T2",
+   "claim": "acquisition ADI Global Distribution (India distribution business)"
+  },
+  {
+   "url": "https://cfo.economictimes.indiatimes.com/news/strategy-operations/moglix-acquires-khatema-fibres-for-rs-80-crore/115525891",
+   "title": "Moglix acquires Khatema Fibres for Rs 80 crore",
+   "tier": "T2",
+   "claim": "acquisition Khatema Fibres"
+  },
+  {
+   "url": "https://www.vccircle.com/supply-chain-financing-platform-credlix-acquires-fintech-start-up-nuphi",
+   "title": "Supply chain financing platform Credlix acquires fintech start-up NuPhi",
+   "tier": "T2",
+   "claim": "acquisition NuPhi (by Credlix arm)"
+  },
+  {
+   "url": "https://inc42.com/buzz/moglix-owned-credlix-acquires-majority-stake-in-nbfc-vanik-finance/",
+   "title": "Moglix-Owned Credlix Acquires Majority Stake In NBFC Vanik Finance",
+   "tier": "T2",
+   "claim": "acquisition Vanik Finance (majority stake, by Credlix arm)"
+  },
+  {
+   "url": "https://entrackr.com/2021/07/moglix-acquires-e-commerce-platform-vendaxo/",
+   "title": "Moglix acquires e-commerce platform Vendaxo",
+   "tier": "T2",
+   "claim": "acquisition Vendaxo"
+  },
+  {
+   "url": "https://timesofindia.indiatimes.com/moglix-acquires-rs-300-crore-adis-india-distribution-biz-for-surveillance-security-products/articleshow/94767418.cms",
+   "title": "Moglix acquires Rs 300-crore ADI's India distribution biz for surveillance, security products",
+   "tier": "T2",
+   "claim": "acquisition ADI Global Distribution (India distribution business)"
+  },
+  {
+   "url": "https://cfo.economictimes.indiatimes.com/news/strategy-operations/moglix-acquires-khatema-fibres-for-rs-80-crore/115525891",
+   "title": "Moglix acquires Khatema Fibres for Rs 80 crore",
+   "tier": "T2",
+   "claim": "acquisition Khatema Fibres"
+  },
+  {
+   "url": "https://www.vccircle.com/supply-chain-financing-platform-credlix-acquires-fintech-start-up-nuphi",
+   "title": "Supply chain financing platform Credlix acquires fintech start-up NuPhi",
+   "tier": "T2",
+   "claim": "acquisition NuPhi (by Credlix arm)"
+  },
+  {
+   "url": "https://inc42.com/buzz/moglix-owned-credlix-acquires-majority-stake-in-nbfc-vanik-finance/",
+   "title": "Moglix-Owned Credlix Acquires Majority Stake In NBFC Vanik Finance",
+   "tier": "T2",
+   "claim": "acquisition Vanik Finance (majority stake, by Credlix arm)"
+  },
+  {
+   "url": "https://entrackr.com/2021/07/moglix-acquires-e-commerce-platform-vendaxo/",
+   "title": "Moglix acquires e-commerce platform Vendaxo",
+   "tier": "T2",
+   "claim": "acquisition Vendaxo"
+  },
+  {
+   "url": "https://timesofindia.indiatimes.com/moglix-acquires-rs-300-crore-adis-india-distribution-biz-for-surveillance-security-products/articleshow/94767418.cms",
+   "title": "Moglix acquires Rs 300-crore ADI's India distribution biz for surveillance, security products",
+   "tier": "T2",
+   "claim": "acquisition ADI Global Distribution (India distribution business)"
+  },
+  {
+   "url": "https://cfo.economictimes.indiatimes.com/news/strategy-operations/moglix-acquires-khatema-fibres-for-rs-80-crore/115525891",
+   "title": "Moglix acquires Khatema Fibres for Rs 80 crore",
+   "tier": "T2",
+   "claim": "acquisition Khatema Fibres"
+  },
+  {
+   "url": "https://www.vccircle.com/supply-chain-financing-platform-credlix-acquires-fintech-start-up-nuphi",
+   "title": "Supply chain financing platform Credlix acquires fintech start-up NuPhi",
+   "tier": "T2",
+   "claim": "acquisition NuPhi (by Credlix arm)"
+  },
+  {
+   "url": "https://inc42.com/buzz/moglix-owned-credlix-acquires-majority-stake-in-nbfc-vanik-finance/",
+   "title": "Moglix-Owned Credlix Acquires Majority Stake In NBFC Vanik Finance",
+   "tier": "T2",
+   "claim": "acquisition Vanik Finance (majority stake, by Credlix arm)"
+  },
+  {
+   "url": "https://entrackr.com/2021/07/moglix-acquires-e-commerce-platform-vendaxo/",
+   "title": "Moglix acquires e-commerce platform Vendaxo",
+   "tier": "T2",
+   "claim": "acquisition Vendaxo"
+  },
+  {
+   "url": "https://timesofindia.indiatimes.com/moglix-acquires-rs-300-crore-adis-india-distribution-biz-for-surveillance-security-products/articleshow/94767418.cms",
+   "title": "Moglix acquires Rs 300-crore ADI's India distribution biz for surveillance, security products",
+   "tier": "T2",
+   "claim": "acquisition ADI Global Distribution (India distribution business)"
+  },
+  {
+   "url": "https://cfo.economictimes.indiatimes.com/news/strategy-operations/moglix-acquires-khatema-fibres-for-rs-80-crore/115525891",
+   "title": "Moglix acquires Khatema Fibres for Rs 80 crore",
+   "tier": "T2",
+   "claim": "acquisition Khatema Fibres"
+  },
+  {
+   "url": "https://www.vccircle.com/supply-chain-financing-platform-credlix-acquires-fintech-start-up-nuphi",
+   "title": "Supply chain financing platform Credlix acquires fintech start-up NuPhi",
+   "tier": "T2",
+   "claim": "acquisition NuPhi (by Credlix arm)"
+  },
+  {
+   "url": "https://inc42.com/buzz/moglix-owned-credlix-acquires-majority-stake-in-nbfc-vanik-finance/",
+   "title": "Moglix-Owned Credlix Acquires Majority Stake In NBFC Vanik Finance",
+   "tier": "T2",
+   "claim": "acquisition Vanik Finance (majority stake, by Credlix arm)"
+  },
+  {
+   "url": "https://entrackr.com/2021/07/moglix-acquires-e-commerce-platform-vendaxo/",
+   "title": "Moglix acquires e-commerce platform Vendaxo",
+   "tier": "T2",
+   "claim": "acquisition Vendaxo"
+  },
+  {
+   "url": "https://timesofindia.indiatimes.com/moglix-acquires-rs-300-crore-adis-india-distribution-biz-for-surveillance-security-products/articleshow/94767418.cms",
+   "title": "Moglix acquires Rs 300-crore ADI's India distribution biz for surveillance, security products",
+   "tier": "T2",
+   "claim": "acquisition ADI Global Distribution (India distribution business)"
+  },
+  {
+   "url": "https://cfo.economictimes.indiatimes.com/news/strategy-operations/moglix-acquires-khatema-fibres-for-rs-80-crore/115525891",
+   "title": "Moglix acquires Khatema Fibres for Rs 80 crore",
+   "tier": "T2",
+   "claim": "acquisition Khatema Fibres"
+  },
+  {
+   "url": "https://www.vccircle.com/supply-chain-financing-platform-credlix-acquires-fintech-start-up-nuphi",
+   "title": "Supply chain financing platform Credlix acquires fintech start-up NuPhi",
+   "tier": "T2",
+   "claim": "acquisition NuPhi (by Credlix arm)"
+  },
+  {
+   "url": "https://inc42.com/buzz/moglix-owned-credlix-acquires-majority-stake-in-nbfc-vanik-finance/",
+   "title": "Moglix-Owned Credlix Acquires Majority Stake In NBFC Vanik Finance",
+   "tier": "T2",
+   "claim": "acquisition Vanik Finance (majority stake, by Credlix arm)"
+  },
+  {
+   "url": "https://entrackr.com/2021/07/moglix-acquires-e-commerce-platform-vendaxo/",
+   "title": "Moglix acquires e-commerce platform Vendaxo",
+   "tier": "T2",
+   "claim": "acquisition Vendaxo"
+  },
+  {
+   "url": "https://timesofindia.indiatimes.com/moglix-acquires-rs-300-crore-adis-india-distribution-biz-for-surveillance-security-products/articleshow/94767418.cms",
+   "title": "Moglix acquires Rs 300-crore ADI's India distribution biz for surveillance, security products",
+   "tier": "T2",
+   "claim": "acquisition ADI Global Distribution (India distribution business)"
+  },
+  {
+   "url": "https://cfo.economictimes.indiatimes.com/news/strategy-operations/moglix-acquires-khatema-fibres-for-rs-80-crore/115525891",
+   "title": "Moglix acquires Khatema Fibres for Rs 80 crore",
+   "tier": "T2",
+   "claim": "acquisition Khatema Fibres"
+  },
+  {
+   "url": "https://www.vccircle.com/supply-chain-financing-platform-credlix-acquires-fintech-start-up-nuphi",
+   "title": "Supply chain financing platform Credlix acquires fintech start-up NuPhi",
+   "tier": "T2",
+   "claim": "acquisition NuPhi (by Credlix arm)"
+  },
+  {
+   "url": "https://inc42.com/buzz/moglix-owned-credlix-acquires-majority-stake-in-nbfc-vanik-finance/",
+   "title": "Moglix-Owned Credlix Acquires Majority Stake In NBFC Vanik Finance",
+   "tier": "T2",
+   "claim": "acquisition Vanik Finance (majority stake, by Credlix arm)"
+  },
+  {
+   "url": "https://entrackr.com/2021/07/moglix-acquires-e-commerce-platform-vendaxo/",
+   "title": "Moglix acquires e-commerce platform Vendaxo",
+   "tier": "T2",
+   "claim": "acquisition Vendaxo"
+  },
+  {
+   "url": "https://timesofindia.indiatimes.com/moglix-acquires-rs-300-crore-adis-india-distribution-biz-for-surveillance-security-products/articleshow/94767418.cms",
+   "title": "Moglix acquires Rs 300-crore ADI's India distribution biz for surveillance, security products",
+   "tier": "T2",
+   "claim": "acquisition ADI Global Distribution (India distribution business)"
+  },
+  {
+   "url": "https://cfo.economictimes.indiatimes.com/news/strategy-operations/moglix-acquires-khatema-fibres-for-rs-80-crore/115525891",
+   "title": "Moglix acquires Khatema Fibres for Rs 80 crore",
+   "tier": "T2",
+   "claim": "acquisition Khatema Fibres"
+  },
+  {
+   "url": "https://www.vccircle.com/supply-chain-financing-platform-credlix-acquires-fintech-start-up-nuphi",
+   "title": "Supply chain financing platform Credlix acquires fintech start-up NuPhi",
+   "tier": "T2",
+   "claim": "acquisition NuPhi (by Credlix arm)"
+  },
+  {
+   "url": "https://inc42.com/buzz/moglix-owned-credlix-acquires-majority-stake-in-nbfc-vanik-finance/",
+   "title": "Moglix-Owned Credlix Acquires Majority Stake In NBFC Vanik Finance",
+   "tier": "T2",
+   "claim": "acquisition Vanik Finance (majority stake, by Credlix arm)"
+  },
+  {
+   "url": "https://entrackr.com/2021/07/moglix-acquires-e-commerce-platform-vendaxo/",
+   "title": "Moglix acquires e-commerce platform Vendaxo",
+   "tier": "T2",
+   "claim": "acquisition Vendaxo"
+  },
+  {
+   "url": "https://timesofindia.indiatimes.com/moglix-acquires-rs-300-crore-adis-india-distribution-biz-for-surveillance-security-products/articleshow/94767418.cms",
+   "title": "Moglix acquires Rs 300-crore ADI's India distribution biz for surveillance, security products",
+   "tier": "T2",
+   "claim": "acquisition ADI Global Distribution (India distribution business)"
+  },
+  {
+   "url": "https://cfo.economictimes.indiatimes.com/news/strategy-operations/moglix-acquires-khatema-fibres-for-rs-80-crore/115525891",
+   "title": "Moglix acquires Khatema Fibres for Rs 80 crore",
+   "tier": "T2",
+   "claim": "acquisition Khatema Fibres"
+  },
+  {
+   "url": "https://www.vccircle.com/supply-chain-financing-platform-credlix-acquires-fintech-start-up-nuphi",
+   "title": "Supply chain financing platform Credlix acquires fintech start-up NuPhi",
+   "tier": "T2",
+   "claim": "acquisition NuPhi (by Credlix arm)"
+  },
+  {
+   "url": "https://inc42.com/buzz/moglix-owned-credlix-acquires-majority-stake-in-nbfc-vanik-finance/",
+   "title": "Moglix-Owned Credlix Acquires Majority Stake In NBFC Vanik Finance",
+   "tier": "T2",
+   "claim": "acquisition Vanik Finance (majority stake, by Credlix arm)"
+  },
+  {
+   "url": "https://entrackr.com/2021/07/moglix-acquires-e-commerce-platform-vendaxo/",
+   "title": "Moglix acquires e-commerce platform Vendaxo",
+   "tier": "T2",
+   "claim": "acquisition Vendaxo"
+  },
+  {
+   "url": "https://timesofindia.indiatimes.com/moglix-acquires-rs-300-crore-adis-india-distribution-biz-for-surveillance-security-products/articleshow/94767418.cms",
+   "title": "Moglix acquires Rs 300-crore ADI's India distribution biz for surveillance, security products",
+   "tier": "T2",
+   "claim": "acquisition ADI Global Distribution (India distribution business)"
+  },
+  {
+   "url": "https://cfo.economictimes.indiatimes.com/news/strategy-operations/moglix-acquires-khatema-fibres-for-rs-80-crore/115525891",
+   "title": "Moglix acquires Khatema Fibres for Rs 80 crore",
+   "tier": "T2",
+   "claim": "acquisition Khatema Fibres"
+  },
+  {
+   "url": "https://www.vccircle.com/supply-chain-financing-platform-credlix-acquires-fintech-start-up-nuphi",
+   "title": "Supply chain financing platform Credlix acquires fintech start-up NuPhi",
+   "tier": "T2",
+   "claim": "acquisition NuPhi (by Credlix arm)"
+  },
+  {
+   "url": "https://inc42.com/buzz/moglix-owned-credlix-acquires-majority-stake-in-nbfc-vanik-finance/",
+   "title": "Moglix-Owned Credlix Acquires Majority Stake In NBFC Vanik Finance",
+   "tier": "T2",
+   "claim": "acquisition Vanik Finance (majority stake, by Credlix arm)"
+  },
+  {
+   "url": "https://entrackr.com/2021/07/moglix-acquires-e-commerce-platform-vendaxo/",
+   "title": "Moglix acquires e-commerce platform Vendaxo",
+   "tier": "T2",
+   "claim": "acquisition Vendaxo"
+  },
+  {
+   "url": "https://timesofindia.indiatimes.com/moglix-acquires-rs-300-crore-adis-india-distribution-biz-for-surveillance-security-products/articleshow/94767418.cms",
+   "title": "Moglix acquires Rs 300-crore ADI's India distribution biz for surveillance, security products",
+   "tier": "T2",
+   "claim": "acquisition ADI Global Distribution (India distribution business)"
+  },
+  {
+   "url": "https://cfo.economictimes.indiatimes.com/news/strategy-operations/moglix-acquires-khatema-fibres-for-rs-80-crore/115525891",
+   "title": "Moglix acquires Khatema Fibres for Rs 80 crore",
+   "tier": "T2",
+   "claim": "acquisition Khatema Fibres"
+  },
+  {
+   "url": "https://www.vccircle.com/supply-chain-financing-platform-credlix-acquires-fintech-start-up-nuphi",
+   "title": "Supply chain financing platform Credlix acquires fintech start-up NuPhi",
+   "tier": "T2",
+   "claim": "acquisition NuPhi (by Credlix arm)"
+  },
+  {
+   "url": "https://inc42.com/buzz/moglix-owned-credlix-acquires-majority-stake-in-nbfc-vanik-finance/",
+   "title": "Moglix-Owned Credlix Acquires Majority Stake In NBFC Vanik Finance",
+   "tier": "T2",
+   "claim": "acquisition Vanik Finance (majority stake, by Credlix arm)"
+  },
+  {
+   "url": "https://entrackr.com/2021/07/moglix-acquires-e-commerce-platform-vendaxo/",
+   "title": "Moglix acquires e-commerce platform Vendaxo",
+   "tier": "T2",
+   "claim": "acquisition Vendaxo"
+  },
+  {
+   "url": "https://timesofindia.indiatimes.com/moglix-acquires-rs-300-crore-adis-india-distribution-biz-for-surveillance-security-products/articleshow/94767418.cms",
+   "title": "Moglix acquires Rs 300-crore ADI's India distribution biz for surveillance, security products",
+   "tier": "T2",
+   "claim": "acquisition ADI Global Distribution (India distribution business)"
+  },
+  {
+   "url": "https://cfo.economictimes.indiatimes.com/news/strategy-operations/moglix-acquires-khatema-fibres-for-rs-80-crore/115525891",
+   "title": "Moglix acquires Khatema Fibres for Rs 80 crore",
+   "tier": "T2",
+   "claim": "acquisition Khatema Fibres"
+  },
+  {
+   "url": "https://www.vccircle.com/supply-chain-financing-platform-credlix-acquires-fintech-start-up-nuphi",
+   "title": "Supply chain financing platform Credlix acquires fintech start-up NuPhi",
+   "tier": "T2",
+   "claim": "acquisition NuPhi (by Credlix arm)"
+  },
+  {
+   "url": "https://inc42.com/buzz/moglix-owned-credlix-acquires-majority-stake-in-nbfc-vanik-finance/",
+   "title": "Moglix-Owned Credlix Acquires Majority Stake In NBFC Vanik Finance",
+   "tier": "T2",
+   "claim": "acquisition Vanik Finance (majority stake, by Credlix arm)"
+  },
+  {
+   "url": "https://entrackr.com/2021/07/moglix-acquires-e-commerce-platform-vendaxo/",
+   "title": "Moglix acquires e-commerce platform Vendaxo",
+   "tier": "T2",
+   "claim": "acquisition Vendaxo"
+  },
+  {
+   "url": "https://timesofindia.indiatimes.com/moglix-acquires-rs-300-crore-adis-india-distribution-biz-for-surveillance-security-products/articleshow/94767418.cms",
+   "title": "Moglix acquires Rs 300-crore ADI's India distribution biz for surveillance, security products",
+   "tier": "T2",
+   "claim": "acquisition ADI Global Distribution (India distribution business)"
+  },
+  {
+   "url": "https://cfo.economictimes.indiatimes.com/news/strategy-operations/moglix-acquires-khatema-fibres-for-rs-80-crore/115525891",
+   "title": "Moglix acquires Khatema Fibres for Rs 80 crore",
+   "tier": "T2",
+   "claim": "acquisition Khatema Fibres"
+  },
+  {
+   "url": "https://www.vccircle.com/supply-chain-financing-platform-credlix-acquires-fintech-start-up-nuphi",
+   "title": "Supply chain financing platform Credlix acquires fintech start-up NuPhi",
+   "tier": "T2",
+   "claim": "acquisition NuPhi (by Credlix arm)"
+  },
+  {
+   "url": "https://inc42.com/buzz/moglix-owned-credlix-acquires-majority-stake-in-nbfc-vanik-finance/",
+   "title": "Moglix-Owned Credlix Acquires Majority Stake In NBFC Vanik Finance",
+   "tier": "T2",
+   "claim": "acquisition Vanik Finance (majority stake, by Credlix arm)"
+  },
+  {
+   "url": "https://entrackr.com/2021/07/moglix-acquires-e-commerce-platform-vendaxo/",
+   "title": "Moglix acquires e-commerce platform Vendaxo",
+   "tier": "T2",
+   "claim": "acquisition Vendaxo"
+  },
+  {
+   "url": "https://timesofindia.indiatimes.com/moglix-acquires-rs-300-crore-adis-india-distribution-biz-for-surveillance-security-products/articleshow/94767418.cms",
+   "title": "Moglix acquires Rs 300-crore ADI's India distribution biz for surveillance, security products",
+   "tier": "T2",
+   "claim": "acquisition ADI Global Distribution (India distribution business)"
+  },
+  {
+   "url": "https://cfo.economictimes.indiatimes.com/news/strategy-operations/moglix-acquires-khatema-fibres-for-rs-80-crore/115525891",
+   "title": "Moglix acquires Khatema Fibres for Rs 80 crore",
+   "tier": "T2",
+   "claim": "acquisition Khatema Fibres"
+  },
+  {
+   "url": "https://www.vccircle.com/supply-chain-financing-platform-credlix-acquires-fintech-start-up-nuphi",
+   "title": "Supply chain financing platform Credlix acquires fintech start-up NuPhi",
+   "tier": "T2",
+   "claim": "acquisition NuPhi (by Credlix arm)"
+  },
+  {
+   "url": "https://inc42.com/buzz/moglix-owned-credlix-acquires-majority-stake-in-nbfc-vanik-finance/",
+   "title": "Moglix-Owned Credlix Acquires Majority Stake In NBFC Vanik Finance",
+   "tier": "T2",
+   "claim": "acquisition Vanik Finance (majority stake, by Credlix arm)"
+  },
+  {
+   "url": "https://entrackr.com/2021/07/moglix-acquires-e-commerce-platform-vendaxo/",
+   "title": "Moglix acquires e-commerce platform Vendaxo",
+   "tier": "T2",
+   "claim": "acquisition Vendaxo"
+  },
+  {
+   "url": "https://timesofindia.indiatimes.com/moglix-acquires-rs-300-crore-adis-india-distribution-biz-for-surveillance-security-products/articleshow/94767418.cms",
+   "title": "Moglix acquires Rs 300-crore ADI's India distribution biz for surveillance, security products",
+   "tier": "T2",
+   "claim": "acquisition ADI Global Distribution (India distribution business)"
+  },
+  {
+   "url": "https://cfo.economictimes.indiatimes.com/news/strategy-operations/moglix-acquires-khatema-fibres-for-rs-80-crore/115525891",
+   "title": "Moglix acquires Khatema Fibres for Rs 80 crore",
+   "tier": "T2",
+   "claim": "acquisition Khatema Fibres"
+  },
+  {
+   "url": "https://www.vccircle.com/supply-chain-financing-platform-credlix-acquires-fintech-start-up-nuphi",
+   "title": "Supply chain financing platform Credlix acquires fintech start-up NuPhi",
+   "tier": "T2",
+   "claim": "acquisition NuPhi (by Credlix arm)"
+  },
+  {
+   "url": "https://inc42.com/buzz/moglix-owned-credlix-acquires-majority-stake-in-nbfc-vanik-finance/",
+   "title": "Moglix-Owned Credlix Acquires Majority Stake In NBFC Vanik Finance",
+   "tier": "T2",
+   "claim": "acquisition Vanik Finance (majority stake, by Credlix arm)"
+  },
+  {
+   "url": "https://entrackr.com/2021/07/moglix-acquires-e-commerce-platform-vendaxo/",
+   "title": "Moglix acquires e-commerce platform Vendaxo",
+   "tier": "T2",
+   "claim": "acquisition Vendaxo"
+  },
+  {
+   "url": "https://timesofindia.indiatimes.com/moglix-acquires-rs-300-crore-adis-india-distribution-biz-for-surveillance-security-products/articleshow/94767418.cms",
+   "title": "Moglix acquires Rs 300-crore ADI's India distribution biz for surveillance, security products",
+   "tier": "T2",
+   "claim": "acquisition ADI Global Distribution (India distribution business)"
+  },
+  {
+   "url": "https://cfo.economictimes.indiatimes.com/news/strategy-operations/moglix-acquires-khatema-fibres-for-rs-80-crore/115525891",
+   "title": "Moglix acquires Khatema Fibres for Rs 80 crore",
+   "tier": "T2",
+   "claim": "acquisition Khatema Fibres"
+  },
+  {
+   "url": "https://www.vccircle.com/supply-chain-financing-platform-credlix-acquires-fintech-start-up-nuphi",
+   "title": "Supply chain financing platform Credlix acquires fintech start-up NuPhi",
+   "tier": "T2",
+   "claim": "acquisition NuPhi (by Credlix arm)"
+  },
+  {
+   "url": "https://inc42.com/buzz/moglix-owned-credlix-acquires-majority-stake-in-nbfc-vanik-finance/",
+   "title": "Moglix-Owned Credlix Acquires Majority Stake In NBFC Vanik Finance",
+   "tier": "T2",
+   "claim": "acquisition Vanik Finance (majority stake, by Credlix arm)"
+  },
+  {
+   "url": "https://entrackr.com/2021/07/moglix-acquires-e-commerce-platform-vendaxo/",
+   "title": "Moglix acquires e-commerce platform Vendaxo",
+   "tier": "T2",
+   "claim": "acquisition Vendaxo"
+  },
+  {
+   "url": "https://timesofindia.indiatimes.com/moglix-acquires-rs-300-crore-adis-india-distribution-biz-for-surveillance-security-products/articleshow/94767418.cms",
+   "title": "Moglix acquires Rs 300-crore ADI's India distribution biz for surveillance, security products",
+   "tier": "T2",
+   "claim": "acquisition ADI Global Distribution (India distribution business)"
+  },
+  {
+   "url": "https://cfo.economictimes.indiatimes.com/news/strategy-operations/moglix-acquires-khatema-fibres-for-rs-80-crore/115525891",
+   "title": "Moglix acquires Khatema Fibres for Rs 80 crore",
+   "tier": "T2",
+   "claim": "acquisition Khatema Fibres"
+  },
+  {
+   "url": "https://www.vccircle.com/supply-chain-financing-platform-credlix-acquires-fintech-start-up-nuphi",
+   "title": "Supply chain financing platform Credlix acquires fintech start-up NuPhi",
+   "tier": "T2",
+   "claim": "acquisition NuPhi (by Credlix arm)"
+  },
+  {
+   "url": "https://inc42.com/buzz/moglix-owned-credlix-acquires-majority-stake-in-nbfc-vanik-finance/",
+   "title": "Moglix-Owned Credlix Acquires Majority Stake In NBFC Vanik Finance",
+   "tier": "T2",
+   "claim": "acquisition Vanik Finance (majority stake, by Credlix arm)"
+  },
+  {
+   "url": "https://entrackr.com/2021/07/moglix-acquires-e-commerce-platform-vendaxo/",
+   "title": "Moglix acquires e-commerce platform Vendaxo",
+   "tier": "T2",
+   "claim": "acquisition Vendaxo"
+  },
+  {
+   "url": "https://timesofindia.indiatimes.com/moglix-acquires-rs-300-crore-adis-india-distribution-biz-for-surveillance-security-products/articleshow/94767418.cms",
+   "title": "Moglix acquires Rs 300-crore ADI's India distribution biz for surveillance, security products",
+   "tier": "T2",
+   "claim": "acquisition ADI Global Distribution (India distribution business)"
+  },
+  {
+   "url": "https://cfo.economictimes.indiatimes.com/news/strategy-operations/moglix-acquires-khatema-fibres-for-rs-80-crore/115525891",
+   "title": "Moglix acquires Khatema Fibres for Rs 80 crore",
+   "tier": "T2",
+   "claim": "acquisition Khatema Fibres"
+  },
+  {
+   "url": "https://www.vccircle.com/supply-chain-financing-platform-credlix-acquires-fintech-start-up-nuphi",
+   "title": "Supply chain financing platform Credlix acquires fintech start-up NuPhi",
+   "tier": "T2",
+   "claim": "acquisition NuPhi (by Credlix arm)"
+  },
+  {
+   "url": "https://inc42.com/buzz/moglix-owned-credlix-acquires-majority-stake-in-nbfc-vanik-finance/",
+   "title": "Moglix-Owned Credlix Acquires Majority Stake In NBFC Vanik Finance",
+   "tier": "T2",
+   "claim": "acquisition Vanik Finance (majority stake, by Credlix arm)"
+  },
+  {
+   "url": "https://entrackr.com/2021/07/moglix-acquires-e-commerce-platform-vendaxo/",
+   "title": "Moglix acquires e-commerce platform Vendaxo",
+   "tier": "T2",
+   "claim": "acquisition Vendaxo"
+  },
+  {
+   "url": "https://timesofindia.indiatimes.com/moglix-acquires-rs-300-crore-adis-india-distribution-biz-for-surveillance-security-products/articleshow/94767418.cms",
+   "title": "Moglix acquires Rs 300-crore ADI's India distribution biz for surveillance, security products",
+   "tier": "T2",
+   "claim": "acquisition ADI Global Distribution (India distribution business)"
+  },
+  {
+   "url": "https://cfo.economictimes.indiatimes.com/news/strategy-operations/moglix-acquires-khatema-fibres-for-rs-80-crore/115525891",
+   "title": "Moglix acquires Khatema Fibres for Rs 80 crore",
+   "tier": "T2",
+   "claim": "acquisition Khatema Fibres"
+  },
+  {
+   "url": "https://www.vccircle.com/supply-chain-financing-platform-credlix-acquires-fintech-start-up-nuphi",
+   "title": "Supply chain financing platform Credlix acquires fintech start-up NuPhi",
+   "tier": "T2",
+   "claim": "acquisition NuPhi (by Credlix arm)"
+  },
+  {
+   "url": "https://inc42.com/buzz/moglix-owned-credlix-acquires-majority-stake-in-nbfc-vanik-finance/",
+   "title": "Moglix-Owned Credlix Acquires Majority Stake In NBFC Vanik Finance",
+   "tier": "T2",
+   "claim": "acquisition Vanik Finance (majority stake, by Credlix arm)"
+  },
+  {
+   "url": "https://entrackr.com/2021/07/moglix-acquires-e-commerce-platform-vendaxo/",
+   "title": "Moglix acquires e-commerce platform Vendaxo",
+   "tier": "T2",
+   "claim": "acquisition Vendaxo"
+  },
+  {
+   "url": "https://timesofindia.indiatimes.com/moglix-acquires-rs-300-crore-adis-india-distribution-biz-for-surveillance-security-products/articleshow/94767418.cms",
+   "title": "Moglix acquires Rs 300-crore ADI's India distribution biz for surveillance, security products",
+   "tier": "T2",
+   "claim": "acquisition ADI Global Distribution (India distribution business)"
+  },
+  {
+   "url": "https://cfo.economictimes.indiatimes.com/news/strategy-operations/moglix-acquires-khatema-fibres-for-rs-80-crore/115525891",
+   "title": "Moglix acquires Khatema Fibres for Rs 80 crore",
+   "tier": "T2",
+   "claim": "acquisition Khatema Fibres"
+  },
+  {
+   "url": "https://www.vccircle.com/supply-chain-financing-platform-credlix-acquires-fintech-start-up-nuphi",
+   "title": "Supply chain financing platform Credlix acquires fintech start-up NuPhi",
+   "tier": "T2",
+   "claim": "acquisition NuPhi (by Credlix arm)"
+  },
+  {
+   "url": "https://inc42.com/buzz/moglix-owned-credlix-acquires-majority-stake-in-nbfc-vanik-finance/",
+   "title": "Moglix-Owned Credlix Acquires Majority Stake In NBFC Vanik Finance",
+   "tier": "T2",
+   "claim": "acquisition Vanik Finance (majority stake, by Credlix arm)"
+  },
+  {
+   "url": "https://entrackr.com/2021/07/moglix-acquires-e-commerce-platform-vendaxo/",
+   "title": "Moglix acquires e-commerce platform Vendaxo",
+   "tier": "T2",
+   "claim": "acquisition Vendaxo"
+  },
+  {
+   "url": "https://timesofindia.indiatimes.com/moglix-acquires-rs-300-crore-adis-india-distribution-biz-for-surveillance-security-products/articleshow/94767418.cms",
+   "title": "Moglix acquires Rs 300-crore ADI's India distribution biz for surveillance, security products",
+   "tier": "T2",
+   "claim": "acquisition ADI Global Distribution (India distribution business)"
+  },
+  {
+   "url": "https://cfo.economictimes.indiatimes.com/news/strategy-operations/moglix-acquires-khatema-fibres-for-rs-80-crore/115525891",
+   "title": "Moglix acquires Khatema Fibres for Rs 80 crore",
+   "tier": "T2",
+   "claim": "acquisition Khatema Fibres"
+  },
+  {
+   "url": "https://www.vccircle.com/supply-chain-financing-platform-credlix-acquires-fintech-start-up-nuphi",
+   "title": "Supply chain financing platform Credlix acquires fintech start-up NuPhi",
+   "tier": "T2",
+   "claim": "acquisition NuPhi (by Credlix arm)"
+  },
+  {
+   "url": "https://inc42.com/buzz/moglix-owned-credlix-acquires-majority-stake-in-nbfc-vanik-finance/",
+   "title": "Moglix-Owned Credlix Acquires Majority Stake In NBFC Vanik Finance",
+   "tier": "T2",
+   "claim": "acquisition Vanik Finance (majority stake, by Credlix arm)"
+  },
+  {
+   "url": "https://entrackr.com/2021/07/moglix-acquires-e-commerce-platform-vendaxo/",
+   "title": "Moglix acquires e-commerce platform Vendaxo",
+   "tier": "T2",
+   "claim": "acquisition Vendaxo"
+  },
+  {
+   "url": "https://timesofindia.indiatimes.com/moglix-acquires-rs-300-crore-adis-india-distribution-biz-for-surveillance-security-products/articleshow/94767418.cms",
+   "title": "Moglix acquires Rs 300-crore ADI's India distribution biz for surveillance, security products",
+   "tier": "T2",
+   "claim": "acquisition ADI Global Distribution (India distribution business)"
+  },
+  {
+   "url": "https://cfo.economictimes.indiatimes.com/news/strategy-operations/moglix-acquires-khatema-fibres-for-rs-80-crore/115525891",
+   "title": "Moglix acquires Khatema Fibres for Rs 80 crore",
+   "tier": "T2",
+   "claim": "acquisition Khatema Fibres"
+  },
+  {
+   "url": "https://www.vccircle.com/supply-chain-financing-platform-credlix-acquires-fintech-start-up-nuphi",
+   "title": "Supply chain financing platform Credlix acquires fintech start-up NuPhi",
+   "tier": "T2",
+   "claim": "acquisition NuPhi (by Credlix arm)"
+  },
+  {
+   "url": "https://inc42.com/buzz/moglix-owned-credlix-acquires-majority-stake-in-nbfc-vanik-finance/",
+   "title": "Moglix-Owned Credlix Acquires Majority Stake In NBFC Vanik Finance",
+   "tier": "T2",
+   "claim": "acquisition Vanik Finance (majority stake, by Credlix arm)"
+  },
+  {
+   "url": "https://entrackr.com/2021/07/moglix-acquires-e-commerce-platform-vendaxo/",
+   "title": "Moglix acquires e-commerce platform Vendaxo",
+   "tier": "T2",
+   "claim": "acquisition Vendaxo"
+  },
+  {
+   "url": "https://timesofindia.indiatimes.com/moglix-acquires-rs-300-crore-adis-india-distribution-biz-for-surveillance-security-products/articleshow/94767418.cms",
+   "title": "Moglix acquires Rs 300-crore ADI's India distribution biz for surveillance, security products",
+   "tier": "T2",
+   "claim": "acquisition ADI Global Distribution (India distribution business)"
+  },
+  {
+   "url": "https://cfo.economictimes.indiatimes.com/news/strategy-operations/moglix-acquires-khatema-fibres-for-rs-80-crore/115525891",
+   "title": "Moglix acquires Khatema Fibres for Rs 80 crore",
+   "tier": "T2",
+   "claim": "acquisition Khatema Fibres"
+  },
+  {
+   "url": "https://www.vccircle.com/supply-chain-financing-platform-credlix-acquires-fintech-start-up-nuphi",
+   "title": "Supply chain financing platform Credlix acquires fintech start-up NuPhi",
+   "tier": "T2",
+   "claim": "acquisition NuPhi (by Credlix arm)"
+  },
+  {
+   "url": "https://inc42.com/buzz/moglix-owned-credlix-acquires-majority-stake-in-nbfc-vanik-finance/",
+   "title": "Moglix-Owned Credlix Acquires Majority Stake In NBFC Vanik Finance",
+   "tier": "T2",
+   "claim": "acquisition Vanik Finance (majority stake, by Credlix arm)"
+  },
+  {
+   "url": "https://entrackr.com/2021/07/moglix-acquires-e-commerce-platform-vendaxo/",
+   "title": "Moglix acquires e-commerce platform Vendaxo",
+   "tier": "T2",
+   "claim": "acquisition Vendaxo"
+  },
+  {
+   "url": "https://timesofindia.indiatimes.com/moglix-acquires-rs-300-crore-adis-india-distribution-biz-for-surveillance-security-products/articleshow/94767418.cms",
+   "title": "Moglix acquires Rs 300-crore ADI's India distribution biz for surveillance, security products",
+   "tier": "T2",
+   "claim": "acquisition ADI Global Distribution (India distribution business)"
+  },
+  {
+   "url": "https://cfo.economictimes.indiatimes.com/news/strategy-operations/moglix-acquires-khatema-fibres-for-rs-80-crore/115525891",
+   "title": "Moglix acquires Khatema Fibres for Rs 80 crore",
+   "tier": "T2",
+   "claim": "acquisition Khatema Fibres"
+  },
+  {
+   "url": "https://www.vccircle.com/supply-chain-financing-platform-credlix-acquires-fintech-start-up-nuphi",
+   "title": "Supply chain financing platform Credlix acquires fintech start-up NuPhi",
+   "tier": "T2",
+   "claim": "acquisition NuPhi (by Credlix arm)"
+  },
+  {
+   "url": "https://inc42.com/buzz/moglix-owned-credlix-acquires-majority-stake-in-nbfc-vanik-finance/",
+   "title": "Moglix-Owned Credlix Acquires Majority Stake In NBFC Vanik Finance",
+   "tier": "T2",
+   "claim": "acquisition Vanik Finance (majority stake, by Credlix arm)"
+  },
+  {
+   "url": "https://entrackr.com/2021/07/moglix-acquires-e-commerce-platform-vendaxo/",
+   "title": "Moglix acquires e-commerce platform Vendaxo",
+   "tier": "T2",
+   "claim": "acquisition Vendaxo"
+  },
+  {
+   "url": "https://timesofindia.indiatimes.com/moglix-acquires-rs-300-crore-adis-india-distribution-biz-for-surveillance-security-products/articleshow/94767418.cms",
+   "title": "Moglix acquires Rs 300-crore ADI's India distribution biz for surveillance, security products",
+   "tier": "T2",
+   "claim": "acquisition ADI Global Distribution (India distribution business)"
+  },
+  {
+   "url": "https://cfo.economictimes.indiatimes.com/news/strategy-operations/moglix-acquires-khatema-fibres-for-rs-80-crore/115525891",
+   "title": "Moglix acquires Khatema Fibres for Rs 80 crore",
+   "tier": "T2",
+   "claim": "acquisition Khatema Fibres"
+  },
+  {
+   "url": "https://www.vccircle.com/supply-chain-financing-platform-credlix-acquires-fintech-start-up-nuphi",
+   "title": "Supply chain financing platform Credlix acquires fintech start-up NuPhi",
+   "tier": "T2",
+   "claim": "acquisition NuPhi (by Credlix arm)"
+  },
+  {
+   "url": "https://inc42.com/buzz/moglix-owned-credlix-acquires-majority-stake-in-nbfc-vanik-finance/",
+   "title": "Moglix-Owned Credlix Acquires Majority Stake In NBFC Vanik Finance",
+   "tier": "T2",
+   "claim": "acquisition Vanik Finance (majority stake, by Credlix arm)"
+  }
+ ],
+ "traction": [
+  {
+   "as_of": "2022-01",
+   "company_reported": true,
+   "confidence": "MEDIUM",
+   "metric": "SKUs",
+   "source_url": "https://techcrunch.com/2022/01/27/moglix-series-f",
+   "value": "700,000+"
+  },
+  {
+   "as_of": "2022-01",
+   "company_reported": true,
+   "confidence": "MEDIUM",
+   "metric": "SMEs served",
+   "source_url": "https://www.vccircle.com/moglix-raises-250-mn-in-series-f-funding-valn-more-than-doubles-to-2-6-bn",
+   "value": "500,000+"
+  },
+  {
+   "as_of": "2022-01",
+   "company_reported": true,
+   "confidence": "MEDIUM",
+   "metric": "large manufacturers",
+   "source_url": "https://www.vccircle.com/moglix-raises-250-mn-in-series-f-funding-valn-more-than-doubles-to-2-6-bn",
+   "value": "1,000+"
+  },
+  {
+   "as_of": "2022-01",
+   "company_reported": true,
+   "confidence": "MEDIUM",
+   "metric": "supplier network / warehouses",
+   "source_url": "https://techcrunch.com/2022/01/27/moglix-series-f",
+   "value": "16,000+ suppliers, 40+ warehouses"
+  }
+ ],
+ "_merged_session2": true
+}

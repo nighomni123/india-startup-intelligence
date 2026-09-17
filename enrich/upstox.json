@@ -1,0 +1,4070 @@
+{
+ "acquisitions": [],
+ "canonical_key": "upstox",
+ "company": {
+  "business_model": "Discount broking (stocks, F&O, IPO, MF) + insurance distribution; NBFC/AMC licenses sought 2026",
+  "city": "Mumbai",
+  "confidence": "HIGH",
+  "country": "India",
+  "customer_type": "B2C retail traders/investors",
+  "founded_date": "2009 (founded as RKSV Securities; Upstox brand later)",
+  "hq_type": "operating",
+  "last_funding_date": "November 2021",
+  "last_funding_round": "Series C extension ($25M Tiger Global tranche; $200M round context)",
+  "last_known_valuation": "~$3-3.5B (Nov 2021, per Moneycontrol/TOI/company-signal)",
+  "last_verified": "2026-09-14",
+  "legal_name": "RKSV Securities (Upstox brand)",
+  "notes": "SEED VERIFIED on city (Mumbai) and unicorn status (Nov 2021). Founders: Ravi Kumar + Shrini Viswanath consistently; third co-founder reported as Raghu Kumar (YourStory/BW) vs Kavitha Subramanian (TOI/company-signal) — preserved as conflict. Founded 2009 (not a 2010s startup).",
+  "primary_sector": "fintech/broking",
+  "secondary_sectors": [
+   "wealthtech",
+   "insurance distribution"
+  ],
+  "startup_id": "upstox",
+  "startup_stage": "unicorn",
+  "state": "Maharashtra",
+  "status": "active",
+  "cin": "U74900DL2009PTC189166",
+  "incorporation_date": "2009-04-06",
+  "official_website": {
+   "v": "https://upstox.com",
+   "conf": "high",
+   "src": "https://upstox.com",
+   "note": "verified live 2026-09-15: name match on own homepage"
+  },
+  "careers_website": {
+   "v": "https://upstox.com/careers/",
+   "conf": "high",
+   "src": "https://upstox.com",
+   "note": "careers link found on official homepage, probed live"
+  },
+  "website": "https://upstox.com",
+  "description": {
+   "v": "India's 4th largest broker by clients; discount broking platform for active traders; backed by Tiger Global and Ratan Tata",
+   "conf": "HIGH",
+   "src": "https://www.livemint.com/companies/news/as-regulators-squeeze-trading-led-growth-upstox-looks-beyond-broking-for-growth-11770536721353.html",
+   "note": "4th largest by clients per Livemint"
+  },
+  "employee_estimate": {
+   "v": 387,
+   "conf": "MEDIUM",
+   "src": "https://tracxn.com/d/legal-entities/india/rksv-securities-india-private-limited/__wAFCr6tO-8IpU7rHEJy6RSAan7u6LGJk0ZcGHQEw648",
+   "note": "Tracxn: 387 employees as of May 1, 2026"
+  },
+  "public_private": {
+   "v": "private",
+   "conf": "HIGH",
+   "src": "https://www.livemint.com/companies/news/as-regulators-squeeze-trading-led-growth-upstox-looks-beyond-broking-for-growth-11770536721353.html",
+   "note": "No IPO; listing on cards but no timeline disclosed"
+  },
+  "registered_office": {
+   "v": "807, New Delhi House, Barakhamba Road, Connaught Place, New Delhi - 110001",
+   "conf": "HIGH",
+   "src": "https://www.upstox.com/terms-of-use-and-privacy-policy/",
+   "note": "Per Upstox T&C"
+  }
+ },
+ "competitors": [
+  {
+   "basis": "explicit",
+   "category": "discount broker",
+   "confidence": "HIGH",
+   "name": "Zerodha"
+  },
+  {
+   "basis": "explicit",
+   "category": "discount broker",
+   "confidence": "HIGH",
+   "name": "Groww"
+  },
+  {
+   "basis": "explicit",
+   "category": "discount broker",
+   "confidence": "HIGH",
+   "name": "Angel One"
+  }
+ ],
+ "completeness_self": {
+  "customers": 3,
+  "financials": 6,
+  "founders": 7,
+  "funding": 8,
+  "identity": 8,
+  "investors": 8,
+  "legal": 3,
+  "people": 4,
+  "products": 7,
+  "sources": 8,
+  "traction": 7
+ },
+ "conflicts": [
+  {
+   "claim_a": "Ravi Kumar, Shrini Viswanath, Raghu Kumar (YourStory, BW Disrupt, Nov 2021)",
+   "claim_b": "Ravi Kumar, Kavitha Subramanian, Shrini Viswanath (TOI; company-signal per Entrackr buyback piece: founders Ravi Kumar and Kavitha Subramanian hold after Tiger 38%)",
+   "field": "third co-founder identity",
+   "resolution": "Unresolved — Ravi Kumar + Shrini Viswanath undisputed; third seat contested between Raghu Kumar and Kavitha Subramanian. Both recorded.",
+   "url_a": "https://yourstory.com/2021/11/fintech-funding-upstox-turns-unicorn-raises-25m-tiger-global",
+   "url_b": "https://timesofindia.indiatimes.com/business/india-business/upstox-valued-at-3bn-is-40th-unicorn-this-year/articleshow/87918871.cms"
+  },
+  {
+   "claim_a": "$3B (TOI headline, Nov 2021)",
+   "claim_b": "$3-3.5B with new round (Moneycredit/Moneycontrol); $3.5B (company press release per Entrackr 2024 buyback piece)",
+   "field": "2021 unicorn valuation",
+   "resolution": "Range $3-3.5B kept; $3.5B is company-claimed later figure. Not averaged.",
+   "url_a": "https://timesofindia.indiatimes.com/business/india-business/upstox-valued-at-3bn-is-40th-unicorn-this-year/articleshow/87918871.cms",
+   "url_b": "https://entrackr.com/2024/10/upstox-delivers-10x-return-to-ratan-tata-following-buyback/"
+  },
+  {
+   "field": "legal_name",
+   "claim_a": "RKSV Securities (Upstox brand)",
+   "url_a": "",
+   "claim_b": "RKSV Securities India Private Limited",
+   "url_b": "",
+   "resolution": "phase3 p3 payload disagrees with existing value; existing kept as preferred pending human review",
+   "resolved_value": "",
+   "reviewed": "p3-merge"
+  },
+  {
+   "field": "business_model",
+   "claim_a": "Discount broking (stocks, F&O, IPO, MF) + insurance distribution; NBFC/AMC licenses sought 2026",
+   "url_a": "",
+   "claim_b": "Discount broking (stocks, F&O, IPO, MF, commodities, currencies) + insurance distribution + lending/NBFC/AMC applications",
+   "url_b": "",
+   "resolution": "phase3 p3 payload disagrees with existing value; existing kept as preferred pending human review",
+   "resolved_value": "",
+   "reviewed": "p3-merge"
+  },
+  {
+   "field": "third co-founder identity",
+   "claim_a": "Raghu Kumar (per Livemint Feb 2026: founded by Kumar, Raghu Kumar, and Shrinivas Viswanath)",
+   "claim_b": "Kavitha Subramanian (per TOI/company-signal per Entrackr 2024 buyback piece)",
+   "resolution": "Livemint Feb 2026 interview with CEO Ravi Kumar names founders as Kumar, Raghu Kumar, and Shrinivas Viswanath. This is the most authoritative source (direct CEO interview). Kavitha Subramanian claim from TOI/company-signal is superseded.",
+   "resolved_value": "Ravi Kumar, Raghu Kumar, Shrinivas Viswanath"
+  },
+  {
+   "field": "2021 unicorn valuation",
+   "claim_a": "$3B (TOI headline, Nov 2021)",
+   "claim_b": "$3.5B (company press release per Entrackr 2024; Livemint 2026)",
+   "resolution": "$3.5B is company-claimed later figure; $3B was TOI headline. Both recorded; $3.5B per company signal.",
+   "resolved_value": "$3-3.5B range; company claims $3.5B"
+  }
+ ],
+ "customers": [
+  {
+   "name": "Retail traders/investors",
+   "type": "B2C",
+   "announced_date": "",
+   "status": "active",
+   "source_url": "https://www.cnbctv18.com/market/nse-active-client-base-falls-fy26-groww-zerodha-icici-sbi-securities-ws-el-19886478.htm",
+   "confidence": "HIGH",
+   "notes": "4th largest broker by NSE active clients; ~2.4M active clients"
+  }
+ ],
+ "events": [
+  {
+   "announced_date": "2019-09-24",
+   "date": "September 2019",
+   "description": "$25M Series B from Tiger Global; profitable 2+ years; 12x client growth in 3 yrs; $120B monthly turnover.",
+   "headline": "Upstox raises $25M Series B from Tiger Global",
+   "source_url": "https://www.prnewswire.com/in/news-releases/india-s-fastest-growing-broker-upstox-raises-usd-25-million-funding-from-tiger-global-817230463.html",
+   "type": "funding"
+  },
+  {
+   "announced_date": "2021-11-25",
+   "date": "November 2021",
+   "description": "$24.7-25M Tiger Global tranche as part of larger round; valuation ~$3-3.5B; unicorn status; 7M+ customers.",
+   "headline": "Upstox turns unicorn on Tiger Global funding",
+   "source_url": "https://www.moneycontrol.com/news/business/startup/upstoxs-valuation-to-soar-to-3-3-5-billion-with-new-funding-round-led-by-tiger-global-7762931.html",
+   "type": "funding"
+  },
+  {
+   "announced_date": "2024-10-03",
+   "date": "October 2024",
+   "description": "Buyback of 5% of Ratan Tata's 2016 holding at 10x; Tata retains 95%; 23,000% total return on $3.5B valuation basis.",
+   "headline": "Upstox buyback delivers 10x to Ratan Tata",
+   "source_url": "https://entrackr.com/2024/10/upstox-delivers-10x-return-to-ratan-tata-following-buyback/",
+   "type": "buyback"
+  },
+  {
+   "announced_date": "2026-02-09",
+   "date": "February 2026",
+   "description": "Seeking NBFC + AMC licenses; FY25 growth flat; profits expected to double in FY26/FY27; ARPU +40%, 90% HVT retention; insurance entry May 2024.",
+   "headline": "Upstox looks beyond broking (NBFC/AMC push)",
+   "source_url": "https://www.livemint.com/companies/news/as-regulators-squeeze-trading-led-growth-upstox-looks-beyond-broking-for-growth-11770536721353.html",
+   "type": "strategy"
+  },
+  {
+   "type": "funding",
+   "headline": "Upstox raises ~$220M from Tiger Global and Kalaari Capital",
+   "date": "2021-11",
+   "description": "Total funding of ~$220M; valued at $3.5B in 2021",
+   "source_url": "https://www.livemint.com/companies/news/as-regulators-squeeze-trading-led-growth-upstox-looks-beyond-broking-for-growth-11770536721353.html",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "buyback",
+   "headline": "Upstox buyback of 5% Ratan Tata holding at 10x return",
+   "date": "2024-10",
+   "description": "Ratan Tata's 2016 investment (1.33% stake) yielded 10x on 5% buyback; 23,000% total return at $3.5B valuation",
+   "source_url": "https://entrackr.com/2024/10/upstox-delivers-10x-return-to-ratan-tata-following-buyback/",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "strategy",
+   "headline": "Upstox applies for NBFC and AMC licenses",
+   "date": "2026-02",
+   "description": "Diversifying beyond broking into lending, asset management, insurance",
+   "source_url": "https://www.livemint.com/companies/news/as-regulators-squeeze-trading-led-growth-upstox-looks-beyond-broking-for-growth-11770536721353.html",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "launch",
+   "headline": "Upstox enters insurance distribution",
+   "date": "2024-05",
+   "description": "Entered insurance distribution business",
+   "source_url": "https://entrackr.com/2024/10/upstox-delivers-10x-return-to-ratan-tata-following-buyback/",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "regulatory",
+   "headline": "SEBI derivatives clampdown impacts broking industry",
+   "date": "2024-ongoing",
+   "description": "SEBI tightens F&O norms; STT increase in Budget 2026-27",
+   "source_url": "https://www.livemint.com/companies/news/as-regulators-squeeze-trading-led-growth-upstox-looks-beyond-broking-for-growth-11770536721353.html",
+   "confidence": "HIGH"
+  }
+ ],
+ "financials": [
+  {
+   "confidence": "MEDIUM",
+   "currency": "INR",
+   "fiscal_year": "FY23",
+   "metric": "operating_revenue",
+   "source_date": "2024-10-03",
+   "source_title": "Upstox delivers 10x return to Ratan Tata following buyback",
+   "source_url": "https://entrackr.com/2024/10/upstox-delivers-10x-return-to-ratan-tata-following-buyback/",
+   "unit": "crore",
+   "value": 1000,
+   "value_type": "press-quoted-filing"
+  },
+  {
+   "fiscal_year": "FY23",
+   "metric": "operating_revenue",
+   "value": 1000,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "press-quoted-filing",
+   "basis": "standalone",
+   "consolidated": "no",
+   "filing_date": "2024-10-03",
+   "source_url": "https://entrackr.com/2024/10/upstox-delivers-10x-return-to-ratan-tata-following-buyback/",
+   "source_title": "Upstox delivers 10x return to Ratan Tata following buyback",
+   "confidence": "MEDIUM",
+   "notes": "Revenue >Rs 1000 crore, 44% YoY growth"
+  },
+  {
+   "fiscal_year": "FY25",
+   "metric": "total_revenue",
+   "value": 1208,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "press-quoted-filing",
+   "basis": "standalone",
+   "consolidated": "no",
+   "filing_date": "2026-02-09",
+   "source_url": "https://www.livemint.com/companies/news/as-regulators-squeeze-trading-led-growth-upstox-looks-beyond-broking-for-growth-11770536721353.html",
+   "source_title": "Upstox looks beyond broking as regulator tames retail mania",
+   "confidence": "HIGH",
+   "notes": "Revenue grew ~9% YoY; FY25 was 'fairly difficult' year"
+  },
+  {
+   "fiscal_year": "FY25",
+   "metric": "net_profit",
+   "value": 215,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "press-quoted-filing",
+   "basis": "standalone",
+   "consolidated": "no",
+   "filing_date": "2026-02-09",
+   "source_url": "https://www.livemint.com/companies/news/as-regulators-squeeze-trading-led-growth-upstox-looks-beyond-broking-for-growth-11770536721353.html",
+   "source_title": "Upstox looks beyond broking as regulator tames retail mania",
+   "confidence": "HIGH",
+   "notes": "PAT ~Rs 215 crore in FY25"
+  },
+  {
+   "fiscal_year": "FY26",
+   "metric": "ebitda_growth",
+   "value": 120,
+   "unit": "percent",
+   "currency": "INR",
+   "value_type": "management",
+   "basis": "standalone",
+   "consolidated": "no",
+   "filing_date": "2026-02-09",
+   "source_url": "https://www.livemint.com/companies/news/as-regulators-squeeze-trading-led-growth-upstox-looks-beyond-broking-for-growth-11770536721353.html",
+   "source_title": "Upstox looks beyond broking as regulator tames retail mania",
+   "confidence": "MEDIUM",
+   "notes": "EBITDA grew ~120% vs FY25, per CEO Ravi Kumar"
+  },
+  {
+   "fiscal_year": "FY26",
+   "metric": "net_profit_multiple",
+   "value": 2.25,
+   "unit": "x",
+   "currency": "INR",
+   "value_type": "management",
+   "basis": "standalone",
+   "consolidated": "no",
+   "filing_date": "2026-02-09",
+   "source_url": "https://www.livemint.com/companies/news/as-regulators-squeeze-trading-led-growth-upstox-looks-beyond-broking-for-growth-11770536721353.html",
+   "source_title": "Upstox looks beyond broking as regulator tames retail mania",
+   "confidence": "MEDIUM",
+   "notes": "PAT tracking 2.25x-2.3x of FY25 (~Rs 484-495 crore)"
+  },
+  {
+   "fiscal_year": "FY25",
+   "metric": "revenue_growth_yoy",
+   "value": 9,
+   "unit": "percent",
+   "currency": "INR",
+   "value_type": "management",
+   "basis": "standalone",
+   "consolidated": "no",
+   "filing_date": "2026-02-09",
+   "source_url": "https://www.livemint.com/companies/news/as-regulators-squeeze-trading-led-growth-upstox-looks-beyond-broking-for-growth-11770536721353.html",
+   "source_title": "Upstox looks beyond broking as regulator tames retail mania",
+   "confidence": "HIGH",
+   "notes": "Revenue grew ~9% YoY in FY25"
+  }
+ ],
+ "founders": [
+  {
+   "confidence": "HIGH",
+   "name": "Ravi Kumar",
+   "role": "Co-founder & CEO",
+   "source_url": "https://www.prnewswire.com/in/news-releases/india-s-fastest-growing-broker-upstox-raises-usd-25-million-funding-from-tiger-global-817230463.html",
+   "still_active": true,
+   "type": "co-founder",
+   "active": "yes"
+  },
+  {
+   "confidence": "HIGH",
+   "name": "Shrini Viswanath",
+   "role": "Co-founder",
+   "source_url": "https://yourstory.com/2021/11/fintech-funding-upstox-turns-unicorn-raises-25m-tiger-global",
+   "still_active": true,
+   "type": "co-founder",
+   "active": "yes"
+  },
+  {
+   "confidence": "MEDIUM",
+   "name": "Raghu Kumar",
+   "role": "Co-founder (per 2021 press; contested — see conflicts)",
+   "source_url": "https://yourstory.com/2021/11/fintech-funding-upstox-turns-unicorn-raises-25m-tiger-global",
+   "still_active": true,
+   "type": "co-founder",
+   "active": "yes"
+  },
+  {
+   "confidence": "MEDIUM",
+   "name": "Kavitha Subramanian",
+   "role": "Co-founder (per TOI/company-signal; contested — see conflicts)",
+   "source_url": "https://timesofindia.indiatimes.com/business/india-business/upstox-valued-at-3bn-is-40th-unicorn-this-year/articleshow/87918871.cms",
+   "still_active": true,
+   "type": "co-founder",
+   "active": "yes"
+  },
+  {
+   "name": "Raghu Kumar",
+   "role": "Co-founder",
+   "background": "Co-founded Upstox as proprietary trading firm in 2009",
+   "education": "",
+   "still_active": true,
+   "source_url": "https://www.livemint.com/companies/news/as-regulators-squeeze-trading-led-growth-upstox-looks-beyond-broking-for-growth-11770536721353.html",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Shrinivas Viswanath",
+   "role": "Co-founder",
+   "background": "Co-founded Upstox as proprietary trading firm in 2009",
+   "education": "",
+   "still_active": true,
+   "source_url": "https://www.livemint.com/companies/news/as-regulators-squeeze-trading-led-growth-upstox-looks-beyond-broking-for-growth-11770536721353.html",
+   "confidence": "HIGH"
+  }
+ ],
+ "funding_rounds": [
+  {
+   "amount": 25,
+   "announced_date": "November 2021",
+   "confidence": "HIGH",
+   "currency": "USD",
+   "lead_investors": [
+    "Tiger Global"
+   ],
+   "purpose": "Growth; take on Groww/Zerodha",
+   "round_type": "Series C (extension tranche; part of ~$200M round context)",
+   "source_date": "2021-11-25",
+   "source_title": "Upstox's valuation to soar to $3-3.5B with new funding round led by Tiger Global",
+   "source_url": "https://www.moneycontrol.com/news/business/startup/upstoxs-valuation-to-soar-to-3-3-5-billion-with-new-funding-round-led-by-tiger-global-7762931.html",
+   "tier": "T3",
+   "valuation": "$3-3.5B",
+   "valuation_type": "post-money (reported)"
+  },
+  {
+   "amount": 25,
+   "announced_date": "2019-09-24",
+   "confidence": "HIGH",
+   "currency": "USD",
+   "lead_investors": [
+    "Tiger Global"
+   ],
+   "purpose": "Discount-broking growth, tech",
+   "round_type": "Series B",
+   "source_date": "2019-09-24",
+   "source_title": "India's Fastest-growing Broker Upstox Raises USD 25 Million Funding From Tiger Global",
+   "source_url": "https://www.prnewswire.com/in/news-releases/india-s-fastest-growing-broker-upstox-raises-usd-25-million-funding-from-tiger-global-817230463.html",
+   "tier": "T1"
+  }
+ ],
+ "gaps": [
+  "Ratan Tata original 2016 stake terms (1.33% per press release) not verified from primary",
+  "Full round history (seed/Series A, $200M Nov-2021 round closure) not reconciled",
+  "FY24/FY25 audited revenue/profit not verified",
+  "CIN/incorporation record not verified",
+  "Headcount not verified",
+  "Third co-founder identity unresolved",
+  "FY25/26 filing financials"
+ ],
+ "hiring": [],
+ "investor_links": [
+  {
+   "confidence": "HIGH",
+   "first_seen": "2019",
+   "investor": "Tiger Global",
+   "investor_type": "growth/hedge-crossover",
+   "lead": true,
+   "rounds": [
+    "Series B",
+    "Series C"
+   ]
+  },
+  {
+   "confidence": "HIGH",
+   "first_seen": "2016",
+   "investor": "Ratan Tata",
+   "investor_type": "angel",
+   "lead": false,
+   "rounds": [
+    "2016 angel (1.33% stake per company release)"
+   ]
+  }
+ ],
+ "investors_meta": [
+  {
+   "hq": "USA",
+   "investor": "Tiger Global",
+   "notes": "Holds ~38% per TheKredible via Entrackr (2024).",
+   "type": "growth"
+  }
+ ],
+ "ip_tech_ai": {},
+ "legal": [
+  {
+   "dates": "2024-ongoing",
+   "regulator": "SEBI / Finance Ministry",
+   "source_url": "https://www.livemint.com/companies/news/as-regulators-squeeze-trading-led-growth-upstox-looks-beyond-broking-for-growth-11770536721353.html",
+   "status": "ongoing",
+   "summary": "SEBI derivatives clampdown (margins, weekly expiries, retail access, broker incentives) clouding broking growth; Upstox diversifying in response.",
+   "type": "notice"
+  },
+  {
+   "type": "regulatory",
+   "entity": "SEBI / Finance Ministry",
+   "date": "2024-ongoing",
+   "status": "ongoing",
+   "description": "SEBI and Finance Ministry clampdown on speculative trading in equities and derivatives: tighter risk norms, higher margins, curtailed weekly options expiries, limited retail access to high-risk products, reworked broker incentives. STT increase on derivatives in Union Budget 2026-27. Industry-wide impact; Upstox diversifying in response.",
+   "source_url": "https://www.livemint.com/companies/news/as-regulators-squeeze-trading-led-growth-upstox-looks-beyond-broking-for-growth-11770536721353.html",
+   "confidence": "HIGH"
+  }
+ ],
+ "locations": [
+  {
+   "as_of": "2024",
+   "city": "Mumbai",
+   "confidence": "HIGH",
+   "source_url": "https://entrackr.com/2024/10/upstox-delivers-10x-return-to-ratan-tata-following-buyback/",
+   "state": "Maharashtra",
+   "type": "HQ"
+  },
+  {
+   "type": "hq",
+   "address_or_area": "30th Floor, Sunshine Tower, Senapati Bapat Marg, Dadar (West)",
+   "city": "Mumbai",
+   "state": "Maharashtra",
+   "country": "India",
+   "as_of": "2026",
+   "source_url": "https://www.upstox.com/terms-of-use-and-privacy-policy/",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "registered_office",
+   "address_or_area": "807, New Delhi House, Barakhamba Road, Connaught Place",
+   "city": "New Delhi",
+   "state": "Delhi",
+   "country": "India",
+   "as_of": "2026",
+   "source_url": "https://www.upstox.com/terms-of-use-and-privacy-policy/",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "office",
+   "address_or_area": "ROC Delhi II registered entity",
+   "city": "New Delhi",
+   "state": "Delhi",
+   "country": "India",
+   "as_of": "2026",
+   "source_url": "https://tracxn.com/d/legal-entities/india/rksv-securities-india-private-limited/__wAFCr6tO-8IpU7rHEJy6RSAan7u6LGJk0ZcGHQEw648",
+   "confidence": "MEDIUM"
+  }
+ ],
+ "partnerships": [],
+ "people": [
+  {
+   "name": "Ravi Kumar",
+   "role": "Co-founder & CEO",
+   "title": "Co-founder and Chief Executive Officer",
+   "current": true,
+   "since": "2009",
+   "prior_role": "Proprietary trading firm co-founder",
+   "source_url": "https://www.livemint.com/companies/news/as-regulators-squeeze-trading-led-growth-upstox-looks-beyond-broking-for-growth-11770536721353.html",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Raghu Kumar",
+   "role": "Co-founder",
+   "title": "Co-founder",
+   "current": true,
+   "since": "2009",
+   "prior_role": "",
+   "source_url": "https://www.livemint.com/companies/news/as-regulators-squeeze-trading-led-growth-upstox-looks-beyond-broking-for-growth-11770536721353.html",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Shrinivas Viswanath",
+   "role": "Co-founder",
+   "title": "Co-founder",
+   "current": true,
+   "since": "2009",
+   "prior_role": "",
+   "source_url": "https://www.livemint.com/companies/news/as-regulators-squeeze-trading-led-growth-upstox-looks-beyond-broking-for-growth-11770536721353.html",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Ravi Chandran Kumar",
+   "role": "Board Director",
+   "title": "Director",
+   "current": true,
+   "since": "",
+   "prior_role": "",
+   "source_url": "https://tracxn.com/d/legal-entities/india/rksv-securities-india-private-limited/__wAFCr6tO-8IpU7rHEJy6RSAan7u6LGJk0ZcGHQEw648",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Shrinivas Viswanath",
+   "role": "Board Director",
+   "title": "Director",
+   "current": true,
+   "since": "",
+   "prior_role": "",
+   "source_url": "https://tracxn.com/d/legal-entities/india/rksv-securities-india-private-limited/__wAFCr6tO-8IpU7rHEJy6RSAan7u6LGJk0ZcGHQEw648",
+   "confidence": "HIGH"
+  }
+ ],
+ "products": [
+  {
+   "category": "brokerage",
+   "confidence": "HIGH",
+   "name": "Stocks/IPO/F&O/commodities/currency trading"
+  },
+  {
+   "category": "wealth",
+   "confidence": "MEDIUM",
+   "name": "Fixed deposits, P2P lending, govt bonds, NCDs, gold, insurance"
+  },
+  {
+   "name": "Upstox Pro",
+   "category": "trading_app",
+   "description": "Flagship trading app with real-time market data, advanced charting, one-click order placement, technical analysis tools",
+   "pricing_model": "Flat Rs 20 per F&O trade; zero brokerage on equity delivery",
+   "launch_date": "",
+   "status": "active",
+   "source_url": "https://www.inventiva.co.in/trends/digital-brokerage-platforms-in-2026/",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Equity/IPO/F&O/Commodities/Currencies trading",
+   "category": "brokerage",
+   "description": "Core discount broking across multiple segments",
+   "pricing_model": "Flat-fee discount broking",
+   "launch_date": "2012",
+   "status": "active",
+   "source_url": "https://www.livemint.com/companies/news/as-regulators-squeeze-trading-led-growth-upstox-looks-beyond-broking-for-growth-11770536721353.html",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Mutual Funds / SIP platform",
+   "category": "wealth",
+   "description": "SIP platform with 35% volume growth in FY26",
+   "pricing_model": "Direct mutual fund investing",
+   "launch_date": "",
+   "status": "active",
+   "source_url": "https://www.livemint.com/companies/news/as-regulators-squeeze-trading-led-growth-upstox-looks-beyond-broking-for-growth-11770536721353.html",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Insurance distribution",
+   "category": "insurance",
+   "description": "Insurance distribution entered May 2024; early stage, no meaningful revenue yet",
+   "pricing_model": "Distribution commissions",
+   "launch_date": "2024-05",
+   "status": "active",
+   "source_url": "https://www.livemint.com/companies/news/as-regulators-squeeze-trading-led-growth-upstox-looks-beyond-broking-for-growth-11770536721353.html",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Algo trading for retail",
+   "category": "trading_tool",
+   "description": "SEBI-approved algo trading for retail investors from April 2026; Upstox building backend infrastructure",
+   "pricing_model": "",
+   "launch_date": "2026-04",
+   "status": "in_development",
+   "source_url": "https://www.livemint.com/companies/news/as-regulators-squeeze-trading-led-growth-upstox-looks-beyond-broking-for-growth-11770536721353.html",
+   "confidence": "MEDIUM"
+  },
+  {
+   "name": "NBFC lending",
+   "category": "lending",
+   "description": "Applied for NBFC license; long-term option, not urgent growth lever",
+   "pricing_model": "",
+   "launch_date": "",
+   "status": "application_pending",
+   "source_url": "https://www.livemint.com/companies/news/as-regulators-squeeze-trading-led-growth-upstox-looks-beyond-broking-for-growth-11770536721353.html",
+   "confidence": "MEDIUM"
+  },
+  {
+   "name": "AMC (Asset Management)",
+   "category": "asset_management",
+   "description": "Applied for AMC license; exploring revenue streams",
+   "pricing_model": "",
+   "launch_date": "",
+   "status": "application_pending",
+   "source_url": "https://www.livemint.com/companies/news/as-regulators-squeeze-trading-led-growth-upstox-looks-beyond-broking-for-growth-11770536721353.html",
+   "confidence": "MEDIUM"
+  }
+ ],
+ "research_log": [
+  {
+   "found": "Series B/C, unicorn valuation range, Tata buyback, FY23 revenue, 2026 NBFC/AMC pivot, competitors",
+   "next_action": "Reconcile $200M round closure + seed/A history; verify FY24/25 filings; resolve third co-founder",
+   "query": "Upstox Mumbai funding valuation founders; Tiger Global Series C; Ratan Tata buyback",
+   "status": "done",
+   "unresolved": "Third co-founder, full round history, FY24/25 financials"
+  },
+  {
+   "date": "2026-09-14",
+   "found": "upstox.com FD page + Play Store listing confirm trading segments and wealth products; P2P lending leg unconfirmed",
+   "query": "Upstox fixed deposits P2P lending bonds gold insurance wealth offerings",
+   "unresolved": "2x 'investor link' + 3 competitor single-words are context-less; no search burned; P2P-lending leg of wealth claim still unsourced"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "Q-wave claim source-hunt",
+   "found": "2 resolved",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "found": "Tracxn: RKSV SECURITIES INDIA PRIVATE LIMITED CIN U74900DL2009PTC189166, inc 06 Apr 2009; upstox.com cites U65100DL2021PTC376860 (GIFT-City branch entity). Both DL-registered (mismatch vs Mumbai HQ)",
+   "query": "RKSV Securities Upstox CIN incorporation",
+   "unresolved": "which DL entity is the main operating company"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox FY25 FY24 revenue profit exchange filing NSE BSE",
+   "status": "done",
+   "found": "FY25 revenue ~Rs 1,208 crore (9% YoY), FY25 PAT ~Rs 215 crore, FY26 EBITDA +120%, PAT 2.25-2.3x",
+   "next_action": "none",
+   "agent": "hyperresearch+websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox registered clients count 2025 2026 crores active traders",
+   "status": "done",
+   "found": "NSE active client share 4.35% (March 2026); ~2.4M active clients per Inventiva; NSE total 4.57 crore",
+   "next_action": "none",
+   "agent": "hyperresearch+websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox Breeze Tradewars Upstox Lite app products",
+   "status": "done",
+   "found": "Upstox Pro app confirmed; no Breeze/Tradewars/Upstox Lite found in search results; products: trading app, MF/SIP, insurance, algo trading (in dev), NBFC/AMC (pending)",
+   "next_action": "none",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox founders Kavimandan Anirudh Sehgal CFO board",
+   "status": "done",
+   "found": "Founders: Ravi Kumar, Raghu Kumar, Shrinivas Viswanath (per Livemint Feb 2026 CEO interview); Board: Ravi Chandran Kumar, Shrinivas Viswanath + 3 more (per Tracxn)",
+   "next_action": "none",
+   "agent": "websearch+hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox SEBI notice penalty regulatory action",
+   "status": "done",
+   "found": "No specific SEBI penalty/notice against Upstox found; industry-wide SEBI F&O clampdown since 2024 (margins, weekly expiries, STT increase)",
+   "next_action": "none",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox customers retail count segments",
+   "status": "done",
+   "found": "4th largest broker by NSE active clients; ~2.4M active clients; B2C retail traders/investors",
+   "next_action": "none",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox FY25 FY24 revenue profit exchange filing NSE BSE",
+   "status": "done",
+   "found": "FY25 revenue ~Rs 1,208 crore (9% YoY), FY25 PAT ~Rs 215 crore, FY26 EBITDA +120%, PAT 2.25-2.3x",
+   "next_action": "none",
+   "agent": "hyperresearch+websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox registered clients count 2025 2026 crores active traders",
+   "status": "done",
+   "found": "NSE active client share 4.35% (March 2026); ~2.4M active clients per Inventiva; NSE total 4.57 crore",
+   "next_action": "none",
+   "agent": "hyperresearch+websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox Breeze Tradewars Upstox Lite app products",
+   "status": "done",
+   "found": "Upstox Pro app confirmed; no Breeze/Tradewars/Upstox Lite found in search results; products: trading app, MF/SIP, insurance, algo trading (in dev), NBFC/AMC (pending)",
+   "next_action": "none",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox founders Kavimandan Anirudh Sehgal CFO board",
+   "status": "done",
+   "found": "Founders: Ravi Kumar, Raghu Kumar, Shrinivas Viswanath (per Livemint Feb 2026 CEO interview); Board: Ravi Chandran Kumar, Shrinivas Viswanath + 3 more (per Tracxn)",
+   "next_action": "none",
+   "agent": "websearch+hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox SEBI notice penalty regulatory action",
+   "status": "done",
+   "found": "No specific SEBI penalty/notice against Upstox found; industry-wide SEBI F&O clampdown since 2024 (margins, weekly expiries, STT increase)",
+   "next_action": "none",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox customers retail count segments",
+   "status": "done",
+   "found": "4th largest broker by NSE active clients; ~2.4M active clients; B2C retail traders/investors",
+   "next_action": "none",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox FY25 FY24 revenue profit exchange filing NSE BSE",
+   "status": "done",
+   "found": "FY25 revenue ~Rs 1,208 crore (9% YoY), FY25 PAT ~Rs 215 crore, FY26 EBITDA +120%, PAT 2.25-2.3x",
+   "next_action": "none",
+   "agent": "hyperresearch+websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox registered clients count 2025 2026 crores active traders",
+   "status": "done",
+   "found": "NSE active client share 4.35% (March 2026); ~2.4M active clients per Inventiva; NSE total 4.57 crore",
+   "next_action": "none",
+   "agent": "hyperresearch+websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox Breeze Tradewars Upstox Lite app products",
+   "status": "done",
+   "found": "Upstox Pro app confirmed; no Breeze/Tradewars/Upstox Lite found in search results; products: trading app, MF/SIP, insurance, algo trading (in dev), NBFC/AMC (pending)",
+   "next_action": "none",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox founders Kavimandan Anirudh Sehgal CFO board",
+   "status": "done",
+   "found": "Founders: Ravi Kumar, Raghu Kumar, Shrinivas Viswanath (per Livemint Feb 2026 CEO interview); Board: Ravi Chandran Kumar, Shrinivas Viswanath + 3 more (per Tracxn)",
+   "next_action": "none",
+   "agent": "websearch+hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox SEBI notice penalty regulatory action",
+   "status": "done",
+   "found": "No specific SEBI penalty/notice against Upstox found; industry-wide SEBI F&O clampdown since 2024 (margins, weekly expiries, STT increase)",
+   "next_action": "none",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox customers retail count segments",
+   "status": "done",
+   "found": "4th largest broker by NSE active clients; ~2.4M active clients; B2C retail traders/investors",
+   "next_action": "none",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox FY25 FY24 revenue profit exchange filing NSE BSE",
+   "status": "done",
+   "found": "FY25 revenue ~Rs 1,208 crore (9% YoY), FY25 PAT ~Rs 215 crore, FY26 EBITDA +120%, PAT 2.25-2.3x",
+   "next_action": "none",
+   "agent": "hyperresearch+websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox registered clients count 2025 2026 crores active traders",
+   "status": "done",
+   "found": "NSE active client share 4.35% (March 2026); ~2.4M active clients per Inventiva; NSE total 4.57 crore",
+   "next_action": "none",
+   "agent": "hyperresearch+websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox Breeze Tradewars Upstox Lite app products",
+   "status": "done",
+   "found": "Upstox Pro app confirmed; no Breeze/Tradewars/Upstox Lite found in search results; products: trading app, MF/SIP, insurance, algo trading (in dev), NBFC/AMC (pending)",
+   "next_action": "none",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox founders Kavimandan Anirudh Sehgal CFO board",
+   "status": "done",
+   "found": "Founders: Ravi Kumar, Raghu Kumar, Shrinivas Viswanath (per Livemint Feb 2026 CEO interview); Board: Ravi Chandran Kumar, Shrinivas Viswanath + 3 more (per Tracxn)",
+   "next_action": "none",
+   "agent": "websearch+hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox SEBI notice penalty regulatory action",
+   "status": "done",
+   "found": "No specific SEBI penalty/notice against Upstox found; industry-wide SEBI F&O clampdown since 2024 (margins, weekly expiries, STT increase)",
+   "next_action": "none",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox customers retail count segments",
+   "status": "done",
+   "found": "4th largest broker by NSE active clients; ~2.4M active clients; B2C retail traders/investors",
+   "next_action": "none",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox FY25 FY24 revenue profit exchange filing NSE BSE",
+   "status": "done",
+   "found": "FY25 revenue ~Rs 1,208 crore (9% YoY), FY25 PAT ~Rs 215 crore, FY26 EBITDA +120%, PAT 2.25-2.3x",
+   "next_action": "none",
+   "agent": "hyperresearch+websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox registered clients count 2025 2026 crores active traders",
+   "status": "done",
+   "found": "NSE active client share 4.35% (March 2026); ~2.4M active clients per Inventiva; NSE total 4.57 crore",
+   "next_action": "none",
+   "agent": "hyperresearch+websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox Breeze Tradewars Upstox Lite app products",
+   "status": "done",
+   "found": "Upstox Pro app confirmed; no Breeze/Tradewars/Upstox Lite found in search results; products: trading app, MF/SIP, insurance, algo trading (in dev), NBFC/AMC (pending)",
+   "next_action": "none",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox founders Kavimandan Anirudh Sehgal CFO board",
+   "status": "done",
+   "found": "Founders: Ravi Kumar, Raghu Kumar, Shrinivas Viswanath (per Livemint Feb 2026 CEO interview); Board: Ravi Chandran Kumar, Shrinivas Viswanath + 3 more (per Tracxn)",
+   "next_action": "none",
+   "agent": "websearch+hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox SEBI notice penalty regulatory action",
+   "status": "done",
+   "found": "No specific SEBI penalty/notice against Upstox found; industry-wide SEBI F&O clampdown since 2024 (margins, weekly expiries, STT increase)",
+   "next_action": "none",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox customers retail count segments",
+   "status": "done",
+   "found": "4th largest broker by NSE active clients; ~2.4M active clients; B2C retail traders/investors",
+   "next_action": "none",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox FY25 FY24 revenue profit exchange filing NSE BSE",
+   "status": "done",
+   "found": "FY25 revenue ~Rs 1,208 crore (9% YoY), FY25 PAT ~Rs 215 crore, FY26 EBITDA +120%, PAT 2.25-2.3x",
+   "next_action": "none",
+   "agent": "hyperresearch+websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox registered clients count 2025 2026 crores active traders",
+   "status": "done",
+   "found": "NSE active client share 4.35% (March 2026); ~2.4M active clients per Inventiva; NSE total 4.57 crore",
+   "next_action": "none",
+   "agent": "hyperresearch+websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox Breeze Tradewars Upstox Lite app products",
+   "status": "done",
+   "found": "Upstox Pro app confirmed; no Breeze/Tradewars/Upstox Lite found in search results; products: trading app, MF/SIP, insurance, algo trading (in dev), NBFC/AMC (pending)",
+   "next_action": "none",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox founders Kavimandan Anirudh Sehgal CFO board",
+   "status": "done",
+   "found": "Founders: Ravi Kumar, Raghu Kumar, Shrinivas Viswanath (per Livemint Feb 2026 CEO interview); Board: Ravi Chandran Kumar, Shrinivas Viswanath + 3 more (per Tracxn)",
+   "next_action": "none",
+   "agent": "websearch+hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox SEBI notice penalty regulatory action",
+   "status": "done",
+   "found": "No specific SEBI penalty/notice against Upstox found; industry-wide SEBI F&O clampdown since 2024 (margins, weekly expiries, STT increase)",
+   "next_action": "none",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox customers retail count segments",
+   "status": "done",
+   "found": "4th largest broker by NSE active clients; ~2.4M active clients; B2C retail traders/investors",
+   "next_action": "none",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox FY25 FY24 revenue profit exchange filing NSE BSE",
+   "status": "done",
+   "found": "FY25 revenue ~Rs 1,208 crore (9% YoY), FY25 PAT ~Rs 215 crore, FY26 EBITDA +120%, PAT 2.25-2.3x",
+   "next_action": "none",
+   "agent": "hyperresearch+websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox registered clients count 2025 2026 crores active traders",
+   "status": "done",
+   "found": "NSE active client share 4.35% (March 2026); ~2.4M active clients per Inventiva; NSE total 4.57 crore",
+   "next_action": "none",
+   "agent": "hyperresearch+websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox Breeze Tradewars Upstox Lite app products",
+   "status": "done",
+   "found": "Upstox Pro app confirmed; no Breeze/Tradewars/Upstox Lite found in search results; products: trading app, MF/SIP, insurance, algo trading (in dev), NBFC/AMC (pending)",
+   "next_action": "none",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox founders Kavimandan Anirudh Sehgal CFO board",
+   "status": "done",
+   "found": "Founders: Ravi Kumar, Raghu Kumar, Shrinivas Viswanath (per Livemint Feb 2026 CEO interview); Board: Ravi Chandran Kumar, Shrinivas Viswanath + 3 more (per Tracxn)",
+   "next_action": "none",
+   "agent": "websearch+hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox SEBI notice penalty regulatory action",
+   "status": "done",
+   "found": "No specific SEBI penalty/notice against Upstox found; industry-wide SEBI F&O clampdown since 2024 (margins, weekly expiries, STT increase)",
+   "next_action": "none",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox customers retail count segments",
+   "status": "done",
+   "found": "4th largest broker by NSE active clients; ~2.4M active clients; B2C retail traders/investors",
+   "next_action": "none",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox FY25 FY24 revenue profit exchange filing NSE BSE",
+   "status": "done",
+   "found": "FY25 revenue ~Rs 1,208 crore (9% YoY), FY25 PAT ~Rs 215 crore, FY26 EBITDA +120%, PAT 2.25-2.3x",
+   "next_action": "none",
+   "agent": "hyperresearch+websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox registered clients count 2025 2026 crores active traders",
+   "status": "done",
+   "found": "NSE active client share 4.35% (March 2026); ~2.4M active clients per Inventiva; NSE total 4.57 crore",
+   "next_action": "none",
+   "agent": "hyperresearch+websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox Breeze Tradewars Upstox Lite app products",
+   "status": "done",
+   "found": "Upstox Pro app confirmed; no Breeze/Tradewars/Upstox Lite found in search results; products: trading app, MF/SIP, insurance, algo trading (in dev), NBFC/AMC (pending)",
+   "next_action": "none",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox founders Kavimandan Anirudh Sehgal CFO board",
+   "status": "done",
+   "found": "Founders: Ravi Kumar, Raghu Kumar, Shrinivas Viswanath (per Livemint Feb 2026 CEO interview); Board: Ravi Chandran Kumar, Shrinivas Viswanath + 3 more (per Tracxn)",
+   "next_action": "none",
+   "agent": "websearch+hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox SEBI notice penalty regulatory action",
+   "status": "done",
+   "found": "No specific SEBI penalty/notice against Upstox found; industry-wide SEBI F&O clampdown since 2024 (margins, weekly expiries, STT increase)",
+   "next_action": "none",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox customers retail count segments",
+   "status": "done",
+   "found": "4th largest broker by NSE active clients; ~2.4M active clients; B2C retail traders/investors",
+   "next_action": "none",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox FY25 FY24 revenue profit exchange filing NSE BSE",
+   "status": "done",
+   "found": "FY25 revenue ~Rs 1,208 crore (9% YoY), FY25 PAT ~Rs 215 crore, FY26 EBITDA +120%, PAT 2.25-2.3x",
+   "next_action": "none",
+   "agent": "hyperresearch+websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox registered clients count 2025 2026 crores active traders",
+   "status": "done",
+   "found": "NSE active client share 4.35% (March 2026); ~2.4M active clients per Inventiva; NSE total 4.57 crore",
+   "next_action": "none",
+   "agent": "hyperresearch+websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox Breeze Tradewars Upstox Lite app products",
+   "status": "done",
+   "found": "Upstox Pro app confirmed; no Breeze/Tradewars/Upstox Lite found in search results; products: trading app, MF/SIP, insurance, algo trading (in dev), NBFC/AMC (pending)",
+   "next_action": "none",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox founders Kavimandan Anirudh Sehgal CFO board",
+   "status": "done",
+   "found": "Founders: Ravi Kumar, Raghu Kumar, Shrinivas Viswanath (per Livemint Feb 2026 CEO interview); Board: Ravi Chandran Kumar, Shrinivas Viswanath + 3 more (per Tracxn)",
+   "next_action": "none",
+   "agent": "websearch+hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox SEBI notice penalty regulatory action",
+   "status": "done",
+   "found": "No specific SEBI penalty/notice against Upstox found; industry-wide SEBI F&O clampdown since 2024 (margins, weekly expiries, STT increase)",
+   "next_action": "none",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox customers retail count segments",
+   "status": "done",
+   "found": "4th largest broker by NSE active clients; ~2.4M active clients; B2C retail traders/investors",
+   "next_action": "none",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox FY25 FY24 revenue profit exchange filing NSE BSE",
+   "status": "done",
+   "found": "FY25 revenue ~Rs 1,208 crore (9% YoY), FY25 PAT ~Rs 215 crore, FY26 EBITDA +120%, PAT 2.25-2.3x",
+   "next_action": "none",
+   "agent": "hyperresearch+websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox registered clients count 2025 2026 crores active traders",
+   "status": "done",
+   "found": "NSE active client share 4.35% (March 2026); ~2.4M active clients per Inventiva; NSE total 4.57 crore",
+   "next_action": "none",
+   "agent": "hyperresearch+websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox Breeze Tradewars Upstox Lite app products",
+   "status": "done",
+   "found": "Upstox Pro app confirmed; no Breeze/Tradewars/Upstox Lite found in search results; products: trading app, MF/SIP, insurance, algo trading (in dev), NBFC/AMC (pending)",
+   "next_action": "none",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox founders Kavimandan Anirudh Sehgal CFO board",
+   "status": "done",
+   "found": "Founders: Ravi Kumar, Raghu Kumar, Shrinivas Viswanath (per Livemint Feb 2026 CEO interview); Board: Ravi Chandran Kumar, Shrinivas Viswanath + 3 more (per Tracxn)",
+   "next_action": "none",
+   "agent": "websearch+hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox SEBI notice penalty regulatory action",
+   "status": "done",
+   "found": "No specific SEBI penalty/notice against Upstox found; industry-wide SEBI F&O clampdown since 2024 (margins, weekly expiries, STT increase)",
+   "next_action": "none",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox customers retail count segments",
+   "status": "done",
+   "found": "4th largest broker by NSE active clients; ~2.4M active clients; B2C retail traders/investors",
+   "next_action": "none",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox FY25 FY24 revenue profit exchange filing NSE BSE",
+   "status": "done",
+   "found": "FY25 revenue ~Rs 1,208 crore (9% YoY), FY25 PAT ~Rs 215 crore, FY26 EBITDA +120%, PAT 2.25-2.3x",
+   "next_action": "none",
+   "agent": "hyperresearch+websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox registered clients count 2025 2026 crores active traders",
+   "status": "done",
+   "found": "NSE active client share 4.35% (March 2026); ~2.4M active clients per Inventiva; NSE total 4.57 crore",
+   "next_action": "none",
+   "agent": "hyperresearch+websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox Breeze Tradewars Upstox Lite app products",
+   "status": "done",
+   "found": "Upstox Pro app confirmed; no Breeze/Tradewars/Upstox Lite found in search results; products: trading app, MF/SIP, insurance, algo trading (in dev), NBFC/AMC (pending)",
+   "next_action": "none",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox founders Kavimandan Anirudh Sehgal CFO board",
+   "status": "done",
+   "found": "Founders: Ravi Kumar, Raghu Kumar, Shrinivas Viswanath (per Livemint Feb 2026 CEO interview); Board: Ravi Chandran Kumar, Shrinivas Viswanath + 3 more (per Tracxn)",
+   "next_action": "none",
+   "agent": "websearch+hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox SEBI notice penalty regulatory action",
+   "status": "done",
+   "found": "No specific SEBI penalty/notice against Upstox found; industry-wide SEBI F&O clampdown since 2024 (margins, weekly expiries, STT increase)",
+   "next_action": "none",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox customers retail count segments",
+   "status": "done",
+   "found": "4th largest broker by NSE active clients; ~2.4M active clients; B2C retail traders/investors",
+   "next_action": "none",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox FY25 FY24 revenue profit exchange filing NSE BSE",
+   "status": "done",
+   "found": "FY25 revenue ~Rs 1,208 crore (9% YoY), FY25 PAT ~Rs 215 crore, FY26 EBITDA +120%, PAT 2.25-2.3x",
+   "next_action": "none",
+   "agent": "hyperresearch+websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox registered clients count 2025 2026 crores active traders",
+   "status": "done",
+   "found": "NSE active client share 4.35% (March 2026); ~2.4M active clients per Inventiva; NSE total 4.57 crore",
+   "next_action": "none",
+   "agent": "hyperresearch+websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox Breeze Tradewars Upstox Lite app products",
+   "status": "done",
+   "found": "Upstox Pro app confirmed; no Breeze/Tradewars/Upstox Lite found in search results; products: trading app, MF/SIP, insurance, algo trading (in dev), NBFC/AMC (pending)",
+   "next_action": "none",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox founders Kavimandan Anirudh Sehgal CFO board",
+   "status": "done",
+   "found": "Founders: Ravi Kumar, Raghu Kumar, Shrinivas Viswanath (per Livemint Feb 2026 CEO interview); Board: Ravi Chandran Kumar, Shrinivas Viswanath + 3 more (per Tracxn)",
+   "next_action": "none",
+   "agent": "websearch+hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox SEBI notice penalty regulatory action",
+   "status": "done",
+   "found": "No specific SEBI penalty/notice against Upstox found; industry-wide SEBI F&O clampdown since 2024 (margins, weekly expiries, STT increase)",
+   "next_action": "none",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox customers retail count segments",
+   "status": "done",
+   "found": "4th largest broker by NSE active clients; ~2.4M active clients; B2C retail traders/investors",
+   "next_action": "none",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox FY25 FY24 revenue profit exchange filing NSE BSE",
+   "status": "done",
+   "found": "FY25 revenue ~Rs 1,208 crore (9% YoY), FY25 PAT ~Rs 215 crore, FY26 EBITDA +120%, PAT 2.25-2.3x",
+   "next_action": "none",
+   "agent": "hyperresearch+websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox registered clients count 2025 2026 crores active traders",
+   "status": "done",
+   "found": "NSE active client share 4.35% (March 2026); ~2.4M active clients per Inventiva; NSE total 4.57 crore",
+   "next_action": "none",
+   "agent": "hyperresearch+websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox Breeze Tradewars Upstox Lite app products",
+   "status": "done",
+   "found": "Upstox Pro app confirmed; no Breeze/Tradewars/Upstox Lite found in search results; products: trading app, MF/SIP, insurance, algo trading (in dev), NBFC/AMC (pending)",
+   "next_action": "none",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox founders Kavimandan Anirudh Sehgal CFO board",
+   "status": "done",
+   "found": "Founders: Ravi Kumar, Raghu Kumar, Shrinivas Viswanath (per Livemint Feb 2026 CEO interview); Board: Ravi Chandran Kumar, Shrinivas Viswanath + 3 more (per Tracxn)",
+   "next_action": "none",
+   "agent": "websearch+hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox SEBI notice penalty regulatory action",
+   "status": "done",
+   "found": "No specific SEBI penalty/notice against Upstox found; industry-wide SEBI F&O clampdown since 2024 (margins, weekly expiries, STT increase)",
+   "next_action": "none",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox customers retail count segments",
+   "status": "done",
+   "found": "4th largest broker by NSE active clients; ~2.4M active clients; B2C retail traders/investors",
+   "next_action": "none",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox FY25 FY24 revenue profit exchange filing NSE BSE",
+   "status": "done",
+   "found": "FY25 revenue ~Rs 1,208 crore (9% YoY), FY25 PAT ~Rs 215 crore, FY26 EBITDA +120%, PAT 2.25-2.3x",
+   "next_action": "none",
+   "agent": "hyperresearch+websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox registered clients count 2025 2026 crores active traders",
+   "status": "done",
+   "found": "NSE active client share 4.35% (March 2026); ~2.4M active clients per Inventiva; NSE total 4.57 crore",
+   "next_action": "none",
+   "agent": "hyperresearch+websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox Breeze Tradewars Upstox Lite app products",
+   "status": "done",
+   "found": "Upstox Pro app confirmed; no Breeze/Tradewars/Upstox Lite found in search results; products: trading app, MF/SIP, insurance, algo trading (in dev), NBFC/AMC (pending)",
+   "next_action": "none",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox founders Kavimandan Anirudh Sehgal CFO board",
+   "status": "done",
+   "found": "Founders: Ravi Kumar, Raghu Kumar, Shrinivas Viswanath (per Livemint Feb 2026 CEO interview); Board: Ravi Chandran Kumar, Shrinivas Viswanath + 3 more (per Tracxn)",
+   "next_action": "none",
+   "agent": "websearch+hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox SEBI notice penalty regulatory action",
+   "status": "done",
+   "found": "No specific SEBI penalty/notice against Upstox found; industry-wide SEBI F&O clampdown since 2024 (margins, weekly expiries, STT increase)",
+   "next_action": "none",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox customers retail count segments",
+   "status": "done",
+   "found": "4th largest broker by NSE active clients; ~2.4M active clients; B2C retail traders/investors",
+   "next_action": "none",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox FY25 FY24 revenue profit exchange filing NSE BSE",
+   "status": "done",
+   "found": "FY25 revenue ~Rs 1,208 crore (9% YoY), FY25 PAT ~Rs 215 crore, FY26 EBITDA +120%, PAT 2.25-2.3x",
+   "next_action": "none",
+   "agent": "hyperresearch+websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox registered clients count 2025 2026 crores active traders",
+   "status": "done",
+   "found": "NSE active client share 4.35% (March 2026); ~2.4M active clients per Inventiva; NSE total 4.57 crore",
+   "next_action": "none",
+   "agent": "hyperresearch+websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox Breeze Tradewars Upstox Lite app products",
+   "status": "done",
+   "found": "Upstox Pro app confirmed; no Breeze/Tradewars/Upstox Lite found in search results; products: trading app, MF/SIP, insurance, algo trading (in dev), NBFC/AMC (pending)",
+   "next_action": "none",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox founders Kavimandan Anirudh Sehgal CFO board",
+   "status": "done",
+   "found": "Founders: Ravi Kumar, Raghu Kumar, Shrinivas Viswanath (per Livemint Feb 2026 CEO interview); Board: Ravi Chandran Kumar, Shrinivas Viswanath + 3 more (per Tracxn)",
+   "next_action": "none",
+   "agent": "websearch+hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox SEBI notice penalty regulatory action",
+   "status": "done",
+   "found": "No specific SEBI penalty/notice against Upstox found; industry-wide SEBI F&O clampdown since 2024 (margins, weekly expiries, STT increase)",
+   "next_action": "none",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox customers retail count segments",
+   "status": "done",
+   "found": "4th largest broker by NSE active clients; ~2.4M active clients; B2C retail traders/investors",
+   "next_action": "none",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox FY25 FY24 revenue profit exchange filing NSE BSE",
+   "status": "done",
+   "found": "FY25 revenue ~Rs 1,208 crore (9% YoY), FY25 PAT ~Rs 215 crore, FY26 EBITDA +120%, PAT 2.25-2.3x",
+   "next_action": "none",
+   "agent": "hyperresearch+websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox registered clients count 2025 2026 crores active traders",
+   "status": "done",
+   "found": "NSE active client share 4.35% (March 2026); ~2.4M active clients per Inventiva; NSE total 4.57 crore",
+   "next_action": "none",
+   "agent": "hyperresearch+websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox Breeze Tradewars Upstox Lite app products",
+   "status": "done",
+   "found": "Upstox Pro app confirmed; no Breeze/Tradewars/Upstox Lite found in search results; products: trading app, MF/SIP, insurance, algo trading (in dev), NBFC/AMC (pending)",
+   "next_action": "none",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox founders Kavimandan Anirudh Sehgal CFO board",
+   "status": "done",
+   "found": "Founders: Ravi Kumar, Raghu Kumar, Shrinivas Viswanath (per Livemint Feb 2026 CEO interview); Board: Ravi Chandran Kumar, Shrinivas Viswanath + 3 more (per Tracxn)",
+   "next_action": "none",
+   "agent": "websearch+hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox SEBI notice penalty regulatory action",
+   "status": "done",
+   "found": "No specific SEBI penalty/notice against Upstox found; industry-wide SEBI F&O clampdown since 2024 (margins, weekly expiries, STT increase)",
+   "next_action": "none",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox customers retail count segments",
+   "status": "done",
+   "found": "4th largest broker by NSE active clients; ~2.4M active clients; B2C retail traders/investors",
+   "next_action": "none",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox FY25 FY24 revenue profit exchange filing NSE BSE",
+   "status": "done",
+   "found": "FY25 revenue ~Rs 1,208 crore (9% YoY), FY25 PAT ~Rs 215 crore, FY26 EBITDA +120%, PAT 2.25-2.3x",
+   "next_action": "none",
+   "agent": "hyperresearch+websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox registered clients count 2025 2026 crores active traders",
+   "status": "done",
+   "found": "NSE active client share 4.35% (March 2026); ~2.4M active clients per Inventiva; NSE total 4.57 crore",
+   "next_action": "none",
+   "agent": "hyperresearch+websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox Breeze Tradewars Upstox Lite app products",
+   "status": "done",
+   "found": "Upstox Pro app confirmed; no Breeze/Tradewars/Upstox Lite found in search results; products: trading app, MF/SIP, insurance, algo trading (in dev), NBFC/AMC (pending)",
+   "next_action": "none",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox founders Kavimandan Anirudh Sehgal CFO board",
+   "status": "done",
+   "found": "Founders: Ravi Kumar, Raghu Kumar, Shrinivas Viswanath (per Livemint Feb 2026 CEO interview); Board: Ravi Chandran Kumar, Shrinivas Viswanath + 3 more (per Tracxn)",
+   "next_action": "none",
+   "agent": "websearch+hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox SEBI notice penalty regulatory action",
+   "status": "done",
+   "found": "No specific SEBI penalty/notice against Upstox found; industry-wide SEBI F&O clampdown since 2024 (margins, weekly expiries, STT increase)",
+   "next_action": "none",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox customers retail count segments",
+   "status": "done",
+   "found": "4th largest broker by NSE active clients; ~2.4M active clients; B2C retail traders/investors",
+   "next_action": "none",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox FY25 FY24 revenue profit exchange filing NSE BSE",
+   "status": "done",
+   "found": "FY25 revenue ~Rs 1,208 crore (9% YoY), FY25 PAT ~Rs 215 crore, FY26 EBITDA +120%, PAT 2.25-2.3x",
+   "next_action": "none",
+   "agent": "hyperresearch+websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox registered clients count 2025 2026 crores active traders",
+   "status": "done",
+   "found": "NSE active client share 4.35% (March 2026); ~2.4M active clients per Inventiva; NSE total 4.57 crore",
+   "next_action": "none",
+   "agent": "hyperresearch+websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox Breeze Tradewars Upstox Lite app products",
+   "status": "done",
+   "found": "Upstox Pro app confirmed; no Breeze/Tradewars/Upstox Lite found in search results; products: trading app, MF/SIP, insurance, algo trading (in dev), NBFC/AMC (pending)",
+   "next_action": "none",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox founders Kavimandan Anirudh Sehgal CFO board",
+   "status": "done",
+   "found": "Founders: Ravi Kumar, Raghu Kumar, Shrinivas Viswanath (per Livemint Feb 2026 CEO interview); Board: Ravi Chandran Kumar, Shrinivas Viswanath + 3 more (per Tracxn)",
+   "next_action": "none",
+   "agent": "websearch+hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox SEBI notice penalty regulatory action",
+   "status": "done",
+   "found": "No specific SEBI penalty/notice against Upstox found; industry-wide SEBI F&O clampdown since 2024 (margins, weekly expiries, STT increase)",
+   "next_action": "none",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox customers retail count segments",
+   "status": "done",
+   "found": "4th largest broker by NSE active clients; ~2.4M active clients; B2C retail traders/investors",
+   "next_action": "none",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox FY25 FY24 revenue profit exchange filing NSE BSE",
+   "status": "done",
+   "found": "FY25 revenue ~Rs 1,208 crore (9% YoY), FY25 PAT ~Rs 215 crore, FY26 EBITDA +120%, PAT 2.25-2.3x",
+   "next_action": "none",
+   "agent": "hyperresearch+websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox registered clients count 2025 2026 crores active traders",
+   "status": "done",
+   "found": "NSE active client share 4.35% (March 2026); ~2.4M active clients per Inventiva; NSE total 4.57 crore",
+   "next_action": "none",
+   "agent": "hyperresearch+websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox Breeze Tradewars Upstox Lite app products",
+   "status": "done",
+   "found": "Upstox Pro app confirmed; no Breeze/Tradewars/Upstox Lite found in search results; products: trading app, MF/SIP, insurance, algo trading (in dev), NBFC/AMC (pending)",
+   "next_action": "none",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox founders Kavimandan Anirudh Sehgal CFO board",
+   "status": "done",
+   "found": "Founders: Ravi Kumar, Raghu Kumar, Shrinivas Viswanath (per Livemint Feb 2026 CEO interview); Board: Ravi Chandran Kumar, Shrinivas Viswanath + 3 more (per Tracxn)",
+   "next_action": "none",
+   "agent": "websearch+hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox SEBI notice penalty regulatory action",
+   "status": "done",
+   "found": "No specific SEBI penalty/notice against Upstox found; industry-wide SEBI F&O clampdown since 2024 (margins, weekly expiries, STT increase)",
+   "next_action": "none",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox customers retail count segments",
+   "status": "done",
+   "found": "4th largest broker by NSE active clients; ~2.4M active clients; B2C retail traders/investors",
+   "next_action": "none",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox FY25 FY24 revenue profit exchange filing NSE BSE",
+   "status": "done",
+   "found": "FY25 revenue ~Rs 1,208 crore (9% YoY), FY25 PAT ~Rs 215 crore, FY26 EBITDA +120%, PAT 2.25-2.3x",
+   "next_action": "none",
+   "agent": "hyperresearch+websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox registered clients count 2025 2026 crores active traders",
+   "status": "done",
+   "found": "NSE active client share 4.35% (March 2026); ~2.4M active clients per Inventiva; NSE total 4.57 crore",
+   "next_action": "none",
+   "agent": "hyperresearch+websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox Breeze Tradewars Upstox Lite app products",
+   "status": "done",
+   "found": "Upstox Pro app confirmed; no Breeze/Tradewars/Upstox Lite found in search results; products: trading app, MF/SIP, insurance, algo trading (in dev), NBFC/AMC (pending)",
+   "next_action": "none",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox founders Kavimandan Anirudh Sehgal CFO board",
+   "status": "done",
+   "found": "Founders: Ravi Kumar, Raghu Kumar, Shrinivas Viswanath (per Livemint Feb 2026 CEO interview); Board: Ravi Chandran Kumar, Shrinivas Viswanath + 3 more (per Tracxn)",
+   "next_action": "none",
+   "agent": "websearch+hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox SEBI notice penalty regulatory action",
+   "status": "done",
+   "found": "No specific SEBI penalty/notice against Upstox found; industry-wide SEBI F&O clampdown since 2024 (margins, weekly expiries, STT increase)",
+   "next_action": "none",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox customers retail count segments",
+   "status": "done",
+   "found": "4th largest broker by NSE active clients; ~2.4M active clients; B2C retail traders/investors",
+   "next_action": "none",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox FY25 FY24 revenue profit exchange filing NSE BSE",
+   "status": "done",
+   "found": "FY25 revenue ~Rs 1,208 crore (9% YoY), FY25 PAT ~Rs 215 crore, FY26 EBITDA +120%, PAT 2.25-2.3x",
+   "next_action": "none",
+   "agent": "hyperresearch+websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox registered clients count 2025 2026 crores active traders",
+   "status": "done",
+   "found": "NSE active client share 4.35% (March 2026); ~2.4M active clients per Inventiva; NSE total 4.57 crore",
+   "next_action": "none",
+   "agent": "hyperresearch+websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox Breeze Tradewars Upstox Lite app products",
+   "status": "done",
+   "found": "Upstox Pro app confirmed; no Breeze/Tradewars/Upstox Lite found in search results; products: trading app, MF/SIP, insurance, algo trading (in dev), NBFC/AMC (pending)",
+   "next_action": "none",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox founders Kavimandan Anirudh Sehgal CFO board",
+   "status": "done",
+   "found": "Founders: Ravi Kumar, Raghu Kumar, Shrinivas Viswanath (per Livemint Feb 2026 CEO interview); Board: Ravi Chandran Kumar, Shrinivas Viswanath + 3 more (per Tracxn)",
+   "next_action": "none",
+   "agent": "websearch+hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox SEBI notice penalty regulatory action",
+   "status": "done",
+   "found": "No specific SEBI penalty/notice against Upstox found; industry-wide SEBI F&O clampdown since 2024 (margins, weekly expiries, STT increase)",
+   "next_action": "none",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox customers retail count segments",
+   "status": "done",
+   "found": "4th largest broker by NSE active clients; ~2.4M active clients; B2C retail traders/investors",
+   "next_action": "none",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox FY25 FY24 revenue profit exchange filing NSE BSE",
+   "status": "done",
+   "found": "FY25 revenue ~Rs 1,208 crore (9% YoY), FY25 PAT ~Rs 215 crore, FY26 EBITDA +120%, PAT 2.25-2.3x",
+   "next_action": "none",
+   "agent": "hyperresearch+websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox registered clients count 2025 2026 crores active traders",
+   "status": "done",
+   "found": "NSE active client share 4.35% (March 2026); ~2.4M active clients per Inventiva; NSE total 4.57 crore",
+   "next_action": "none",
+   "agent": "hyperresearch+websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox Breeze Tradewars Upstox Lite app products",
+   "status": "done",
+   "found": "Upstox Pro app confirmed; no Breeze/Tradewars/Upstox Lite found in search results; products: trading app, MF/SIP, insurance, algo trading (in dev), NBFC/AMC (pending)",
+   "next_action": "none",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox founders Kavimandan Anirudh Sehgal CFO board",
+   "status": "done",
+   "found": "Founders: Ravi Kumar, Raghu Kumar, Shrinivas Viswanath (per Livemint Feb 2026 CEO interview); Board: Ravi Chandran Kumar, Shrinivas Viswanath + 3 more (per Tracxn)",
+   "next_action": "none",
+   "agent": "websearch+hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox SEBI notice penalty regulatory action",
+   "status": "done",
+   "found": "No specific SEBI penalty/notice against Upstox found; industry-wide SEBI F&O clampdown since 2024 (margins, weekly expiries, STT increase)",
+   "next_action": "none",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox customers retail count segments",
+   "status": "done",
+   "found": "4th largest broker by NSE active clients; ~2.4M active clients; B2C retail traders/investors",
+   "next_action": "none",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox FY25 FY24 revenue profit exchange filing NSE BSE",
+   "status": "done",
+   "found": "FY25 revenue ~Rs 1,208 crore (9% YoY), FY25 PAT ~Rs 215 crore, FY26 EBITDA +120%, PAT 2.25-2.3x",
+   "next_action": "none",
+   "agent": "hyperresearch+websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox registered clients count 2025 2026 crores active traders",
+   "status": "done",
+   "found": "NSE active client share 4.35% (March 2026); ~2.4M active clients per Inventiva; NSE total 4.57 crore",
+   "next_action": "none",
+   "agent": "hyperresearch+websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox Breeze Tradewars Upstox Lite app products",
+   "status": "done",
+   "found": "Upstox Pro app confirmed; no Breeze/Tradewars/Upstox Lite found in search results; products: trading app, MF/SIP, insurance, algo trading (in dev), NBFC/AMC (pending)",
+   "next_action": "none",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox founders Kavimandan Anirudh Sehgal CFO board",
+   "status": "done",
+   "found": "Founders: Ravi Kumar, Raghu Kumar, Shrinivas Viswanath (per Livemint Feb 2026 CEO interview); Board: Ravi Chandran Kumar, Shrinivas Viswanath + 3 more (per Tracxn)",
+   "next_action": "none",
+   "agent": "websearch+hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox SEBI notice penalty regulatory action",
+   "status": "done",
+   "found": "No specific SEBI penalty/notice against Upstox found; industry-wide SEBI F&O clampdown since 2024 (margins, weekly expiries, STT increase)",
+   "next_action": "none",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox customers retail count segments",
+   "status": "done",
+   "found": "4th largest broker by NSE active clients; ~2.4M active clients; B2C retail traders/investors",
+   "next_action": "none",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox FY25 FY24 revenue profit exchange filing NSE BSE",
+   "status": "done",
+   "found": "FY25 revenue ~Rs 1,208 crore (9% YoY), FY25 PAT ~Rs 215 crore, FY26 EBITDA +120%, PAT 2.25-2.3x",
+   "next_action": "none",
+   "agent": "hyperresearch+websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox registered clients count 2025 2026 crores active traders",
+   "status": "done",
+   "found": "NSE active client share 4.35% (March 2026); ~2.4M active clients per Inventiva; NSE total 4.57 crore",
+   "next_action": "none",
+   "agent": "hyperresearch+websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox Breeze Tradewars Upstox Lite app products",
+   "status": "done",
+   "found": "Upstox Pro app confirmed; no Breeze/Tradewars/Upstox Lite found in search results; products: trading app, MF/SIP, insurance, algo trading (in dev), NBFC/AMC (pending)",
+   "next_action": "none",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox founders Kavimandan Anirudh Sehgal CFO board",
+   "status": "done",
+   "found": "Founders: Ravi Kumar, Raghu Kumar, Shrinivas Viswanath (per Livemint Feb 2026 CEO interview); Board: Ravi Chandran Kumar, Shrinivas Viswanath + 3 more (per Tracxn)",
+   "next_action": "none",
+   "agent": "websearch+hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox SEBI notice penalty regulatory action",
+   "status": "done",
+   "found": "No specific SEBI penalty/notice against Upstox found; industry-wide SEBI F&O clampdown since 2024 (margins, weekly expiries, STT increase)",
+   "next_action": "none",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox customers retail count segments",
+   "status": "done",
+   "found": "4th largest broker by NSE active clients; ~2.4M active clients; B2C retail traders/investors",
+   "next_action": "none",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox FY25 FY24 revenue profit exchange filing NSE BSE",
+   "status": "done",
+   "found": "FY25 revenue ~Rs 1,208 crore (9% YoY), FY25 PAT ~Rs 215 crore, FY26 EBITDA +120%, PAT 2.25-2.3x",
+   "next_action": "none",
+   "agent": "hyperresearch+websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox registered clients count 2025 2026 crores active traders",
+   "status": "done",
+   "found": "NSE active client share 4.35% (March 2026); ~2.4M active clients per Inventiva; NSE total 4.57 crore",
+   "next_action": "none",
+   "agent": "hyperresearch+websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox Breeze Tradewars Upstox Lite app products",
+   "status": "done",
+   "found": "Upstox Pro app confirmed; no Breeze/Tradewars/Upstox Lite found in search results; products: trading app, MF/SIP, insurance, algo trading (in dev), NBFC/AMC (pending)",
+   "next_action": "none",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox founders Kavimandan Anirudh Sehgal CFO board",
+   "status": "done",
+   "found": "Founders: Ravi Kumar, Raghu Kumar, Shrinivas Viswanath (per Livemint Feb 2026 CEO interview); Board: Ravi Chandran Kumar, Shrinivas Viswanath + 3 more (per Tracxn)",
+   "next_action": "none",
+   "agent": "websearch+hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox SEBI notice penalty regulatory action",
+   "status": "done",
+   "found": "No specific SEBI penalty/notice against Upstox found; industry-wide SEBI F&O clampdown since 2024 (margins, weekly expiries, STT increase)",
+   "next_action": "none",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox customers retail count segments",
+   "status": "done",
+   "found": "4th largest broker by NSE active clients; ~2.4M active clients; B2C retail traders/investors",
+   "next_action": "none",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox FY25 FY24 revenue profit exchange filing NSE BSE",
+   "status": "done",
+   "found": "FY25 revenue ~Rs 1,208 crore (9% YoY), FY25 PAT ~Rs 215 crore, FY26 EBITDA +120%, PAT 2.25-2.3x",
+   "next_action": "none",
+   "agent": "hyperresearch+websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox registered clients count 2025 2026 crores active traders",
+   "status": "done",
+   "found": "NSE active client share 4.35% (March 2026); ~2.4M active clients per Inventiva; NSE total 4.57 crore",
+   "next_action": "none",
+   "agent": "hyperresearch+websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox Breeze Tradewars Upstox Lite app products",
+   "status": "done",
+   "found": "Upstox Pro app confirmed; no Breeze/Tradewars/Upstox Lite found in search results; products: trading app, MF/SIP, insurance, algo trading (in dev), NBFC/AMC (pending)",
+   "next_action": "none",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox founders Kavimandan Anirudh Sehgal CFO board",
+   "status": "done",
+   "found": "Founders: Ravi Kumar, Raghu Kumar, Shrinivas Viswanath (per Livemint Feb 2026 CEO interview); Board: Ravi Chandran Kumar, Shrinivas Viswanath + 3 more (per Tracxn)",
+   "next_action": "none",
+   "agent": "websearch+hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox SEBI notice penalty regulatory action",
+   "status": "done",
+   "found": "No specific SEBI penalty/notice against Upstox found; industry-wide SEBI F&O clampdown since 2024 (margins, weekly expiries, STT increase)",
+   "next_action": "none",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox customers retail count segments",
+   "status": "done",
+   "found": "4th largest broker by NSE active clients; ~2.4M active clients; B2C retail traders/investors",
+   "next_action": "none",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox FY25 FY24 revenue profit exchange filing NSE BSE",
+   "status": "done",
+   "found": "FY25 revenue ~Rs 1,208 crore (9% YoY), FY25 PAT ~Rs 215 crore, FY26 EBITDA +120%, PAT 2.25-2.3x",
+   "next_action": "none",
+   "agent": "hyperresearch+websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox registered clients count 2025 2026 crores active traders",
+   "status": "done",
+   "found": "NSE active client share 4.35% (March 2026); ~2.4M active clients per Inventiva; NSE total 4.57 crore",
+   "next_action": "none",
+   "agent": "hyperresearch+websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox Breeze Tradewars Upstox Lite app products",
+   "status": "done",
+   "found": "Upstox Pro app confirmed; no Breeze/Tradewars/Upstox Lite found in search results; products: trading app, MF/SIP, insurance, algo trading (in dev), NBFC/AMC (pending)",
+   "next_action": "none",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox founders Kavimandan Anirudh Sehgal CFO board",
+   "status": "done",
+   "found": "Founders: Ravi Kumar, Raghu Kumar, Shrinivas Viswanath (per Livemint Feb 2026 CEO interview); Board: Ravi Chandran Kumar, Shrinivas Viswanath + 3 more (per Tracxn)",
+   "next_action": "none",
+   "agent": "websearch+hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox SEBI notice penalty regulatory action",
+   "status": "done",
+   "found": "No specific SEBI penalty/notice against Upstox found; industry-wide SEBI F&O clampdown since 2024 (margins, weekly expiries, STT increase)",
+   "next_action": "none",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox customers retail count segments",
+   "status": "done",
+   "found": "4th largest broker by NSE active clients; ~2.4M active clients; B2C retail traders/investors",
+   "next_action": "none",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox FY25 FY24 revenue profit exchange filing NSE BSE",
+   "status": "done",
+   "found": "FY25 revenue ~Rs 1,208 crore (9% YoY), FY25 PAT ~Rs 215 crore, FY26 EBITDA +120%, PAT 2.25-2.3x",
+   "next_action": "none",
+   "agent": "hyperresearch+websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox registered clients count 2025 2026 crores active traders",
+   "status": "done",
+   "found": "NSE active client share 4.35% (March 2026); ~2.4M active clients per Inventiva; NSE total 4.57 crore",
+   "next_action": "none",
+   "agent": "hyperresearch+websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox Breeze Tradewars Upstox Lite app products",
+   "status": "done",
+   "found": "Upstox Pro app confirmed; no Breeze/Tradewars/Upstox Lite found in search results; products: trading app, MF/SIP, insurance, algo trading (in dev), NBFC/AMC (pending)",
+   "next_action": "none",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox founders Kavimandan Anirudh Sehgal CFO board",
+   "status": "done",
+   "found": "Founders: Ravi Kumar, Raghu Kumar, Shrinivas Viswanath (per Livemint Feb 2026 CEO interview); Board: Ravi Chandran Kumar, Shrinivas Viswanath + 3 more (per Tracxn)",
+   "next_action": "none",
+   "agent": "websearch+hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox SEBI notice penalty regulatory action",
+   "status": "done",
+   "found": "No specific SEBI penalty/notice against Upstox found; industry-wide SEBI F&O clampdown since 2024 (margins, weekly expiries, STT increase)",
+   "next_action": "none",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox customers retail count segments",
+   "status": "done",
+   "found": "4th largest broker by NSE active clients; ~2.4M active clients; B2C retail traders/investors",
+   "next_action": "none",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox FY25 FY24 revenue profit exchange filing NSE BSE",
+   "status": "done",
+   "found": "FY25 revenue ~Rs 1,208 crore (9% YoY), FY25 PAT ~Rs 215 crore, FY26 EBITDA +120%, PAT 2.25-2.3x",
+   "next_action": "none",
+   "agent": "hyperresearch+websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox registered clients count 2025 2026 crores active traders",
+   "status": "done",
+   "found": "NSE active client share 4.35% (March 2026); ~2.4M active clients per Inventiva; NSE total 4.57 crore",
+   "next_action": "none",
+   "agent": "hyperresearch+websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox Breeze Tradewars Upstox Lite app products",
+   "status": "done",
+   "found": "Upstox Pro app confirmed; no Breeze/Tradewars/Upstox Lite found in search results; products: trading app, MF/SIP, insurance, algo trading (in dev), NBFC/AMC (pending)",
+   "next_action": "none",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox founders Kavimandan Anirudh Sehgal CFO board",
+   "status": "done",
+   "found": "Founders: Ravi Kumar, Raghu Kumar, Shrinivas Viswanath (per Livemint Feb 2026 CEO interview); Board: Ravi Chandran Kumar, Shrinivas Viswanath + 3 more (per Tracxn)",
+   "next_action": "none",
+   "agent": "websearch+hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox SEBI notice penalty regulatory action",
+   "status": "done",
+   "found": "No specific SEBI penalty/notice against Upstox found; industry-wide SEBI F&O clampdown since 2024 (margins, weekly expiries, STT increase)",
+   "next_action": "none",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox customers retail count segments",
+   "status": "done",
+   "found": "4th largest broker by NSE active clients; ~2.4M active clients; B2C retail traders/investors",
+   "next_action": "none",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox FY25 FY24 revenue profit exchange filing NSE BSE",
+   "status": "done",
+   "found": "FY25 revenue ~Rs 1,208 crore (9% YoY), FY25 PAT ~Rs 215 crore, FY26 EBITDA +120%, PAT 2.25-2.3x",
+   "next_action": "none",
+   "agent": "hyperresearch+websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox registered clients count 2025 2026 crores active traders",
+   "status": "done",
+   "found": "NSE active client share 4.35% (March 2026); ~2.4M active clients per Inventiva; NSE total 4.57 crore",
+   "next_action": "none",
+   "agent": "hyperresearch+websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox Breeze Tradewars Upstox Lite app products",
+   "status": "done",
+   "found": "Upstox Pro app confirmed; no Breeze/Tradewars/Upstox Lite found in search results; products: trading app, MF/SIP, insurance, algo trading (in dev), NBFC/AMC (pending)",
+   "next_action": "none",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox founders Kavimandan Anirudh Sehgal CFO board",
+   "status": "done",
+   "found": "Founders: Ravi Kumar, Raghu Kumar, Shrinivas Viswanath (per Livemint Feb 2026 CEO interview); Board: Ravi Chandran Kumar, Shrinivas Viswanath + 3 more (per Tracxn)",
+   "next_action": "none",
+   "agent": "websearch+hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox SEBI notice penalty regulatory action",
+   "status": "done",
+   "found": "No specific SEBI penalty/notice against Upstox found; industry-wide SEBI F&O clampdown since 2024 (margins, weekly expiries, STT increase)",
+   "next_action": "none",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox customers retail count segments",
+   "status": "done",
+   "found": "4th largest broker by NSE active clients; ~2.4M active clients; B2C retail traders/investors",
+   "next_action": "none",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox FY25 FY24 revenue profit exchange filing NSE BSE",
+   "status": "done",
+   "found": "FY25 revenue ~Rs 1,208 crore (9% YoY), FY25 PAT ~Rs 215 crore, FY26 EBITDA +120%, PAT 2.25-2.3x",
+   "next_action": "none",
+   "agent": "hyperresearch+websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox registered clients count 2025 2026 crores active traders",
+   "status": "done",
+   "found": "NSE active client share 4.35% (March 2026); ~2.4M active clients per Inventiva; NSE total 4.57 crore",
+   "next_action": "none",
+   "agent": "hyperresearch+websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox Breeze Tradewars Upstox Lite app products",
+   "status": "done",
+   "found": "Upstox Pro app confirmed; no Breeze/Tradewars/Upstox Lite found in search results; products: trading app, MF/SIP, insurance, algo trading (in dev), NBFC/AMC (pending)",
+   "next_action": "none",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox founders Kavimandan Anirudh Sehgal CFO board",
+   "status": "done",
+   "found": "Founders: Ravi Kumar, Raghu Kumar, Shrinivas Viswanath (per Livemint Feb 2026 CEO interview); Board: Ravi Chandran Kumar, Shrinivas Viswanath + 3 more (per Tracxn)",
+   "next_action": "none",
+   "agent": "websearch+hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox SEBI notice penalty regulatory action",
+   "status": "done",
+   "found": "No specific SEBI penalty/notice against Upstox found; industry-wide SEBI F&O clampdown since 2024 (margins, weekly expiries, STT increase)",
+   "next_action": "none",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox customers retail count segments",
+   "status": "done",
+   "found": "4th largest broker by NSE active clients; ~2.4M active clients; B2C retail traders/investors",
+   "next_action": "none",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox FY25 FY24 revenue profit exchange filing NSE BSE",
+   "status": "done",
+   "found": "FY25 revenue ~Rs 1,208 crore (9% YoY), FY25 PAT ~Rs 215 crore, FY26 EBITDA +120%, PAT 2.25-2.3x",
+   "next_action": "none",
+   "agent": "hyperresearch+websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox registered clients count 2025 2026 crores active traders",
+   "status": "done",
+   "found": "NSE active client share 4.35% (March 2026); ~2.4M active clients per Inventiva; NSE total 4.57 crore",
+   "next_action": "none",
+   "agent": "hyperresearch+websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox Breeze Tradewars Upstox Lite app products",
+   "status": "done",
+   "found": "Upstox Pro app confirmed; no Breeze/Tradewars/Upstox Lite found in search results; products: trading app, MF/SIP, insurance, algo trading (in dev), NBFC/AMC (pending)",
+   "next_action": "none",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox founders Kavimandan Anirudh Sehgal CFO board",
+   "status": "done",
+   "found": "Founders: Ravi Kumar, Raghu Kumar, Shrinivas Viswanath (per Livemint Feb 2026 CEO interview); Board: Ravi Chandran Kumar, Shrinivas Viswanath + 3 more (per Tracxn)",
+   "next_action": "none",
+   "agent": "websearch+hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox SEBI notice penalty regulatory action",
+   "status": "done",
+   "found": "No specific SEBI penalty/notice against Upstox found; industry-wide SEBI F&O clampdown since 2024 (margins, weekly expiries, STT increase)",
+   "next_action": "none",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox customers retail count segments",
+   "status": "done",
+   "found": "4th largest broker by NSE active clients; ~2.4M active clients; B2C retail traders/investors",
+   "next_action": "none",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox FY25 FY24 revenue profit exchange filing NSE BSE",
+   "status": "done",
+   "found": "FY25 revenue ~Rs 1,208 crore (9% YoY), FY25 PAT ~Rs 215 crore, FY26 EBITDA +120%, PAT 2.25-2.3x",
+   "next_action": "none",
+   "agent": "hyperresearch+websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox registered clients count 2025 2026 crores active traders",
+   "status": "done",
+   "found": "NSE active client share 4.35% (March 2026); ~2.4M active clients per Inventiva; NSE total 4.57 crore",
+   "next_action": "none",
+   "agent": "hyperresearch+websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox Breeze Tradewars Upstox Lite app products",
+   "status": "done",
+   "found": "Upstox Pro app confirmed; no Breeze/Tradewars/Upstox Lite found in search results; products: trading app, MF/SIP, insurance, algo trading (in dev), NBFC/AMC (pending)",
+   "next_action": "none",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox founders Kavimandan Anirudh Sehgal CFO board",
+   "status": "done",
+   "found": "Founders: Ravi Kumar, Raghu Kumar, Shrinivas Viswanath (per Livemint Feb 2026 CEO interview); Board: Ravi Chandran Kumar, Shrinivas Viswanath + 3 more (per Tracxn)",
+   "next_action": "none",
+   "agent": "websearch+hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox SEBI notice penalty regulatory action",
+   "status": "done",
+   "found": "No specific SEBI penalty/notice against Upstox found; industry-wide SEBI F&O clampdown since 2024 (margins, weekly expiries, STT increase)",
+   "next_action": "none",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox customers retail count segments",
+   "status": "done",
+   "found": "4th largest broker by NSE active clients; ~2.4M active clients; B2C retail traders/investors",
+   "next_action": "none",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox FY25 FY24 revenue profit exchange filing NSE BSE",
+   "status": "done",
+   "found": "FY25 revenue ~Rs 1,208 crore (9% YoY), FY25 PAT ~Rs 215 crore, FY26 EBITDA +120%, PAT 2.25-2.3x",
+   "next_action": "none",
+   "agent": "hyperresearch+websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox registered clients count 2025 2026 crores active traders",
+   "status": "done",
+   "found": "NSE active client share 4.35% (March 2026); ~2.4M active clients per Inventiva; NSE total 4.57 crore",
+   "next_action": "none",
+   "agent": "hyperresearch+websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox Breeze Tradewars Upstox Lite app products",
+   "status": "done",
+   "found": "Upstox Pro app confirmed; no Breeze/Tradewars/Upstox Lite found in search results; products: trading app, MF/SIP, insurance, algo trading (in dev), NBFC/AMC (pending)",
+   "next_action": "none",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox founders Kavimandan Anirudh Sehgal CFO board",
+   "status": "done",
+   "found": "Founders: Ravi Kumar, Raghu Kumar, Shrinivas Viswanath (per Livemint Feb 2026 CEO interview); Board: Ravi Chandran Kumar, Shrinivas Viswanath + 3 more (per Tracxn)",
+   "next_action": "none",
+   "agent": "websearch+hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox SEBI notice penalty regulatory action",
+   "status": "done",
+   "found": "No specific SEBI penalty/notice against Upstox found; industry-wide SEBI F&O clampdown since 2024 (margins, weekly expiries, STT increase)",
+   "next_action": "none",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox customers retail count segments",
+   "status": "done",
+   "found": "4th largest broker by NSE active clients; ~2.4M active clients; B2C retail traders/investors",
+   "next_action": "none",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox FY25 FY24 revenue profit exchange filing NSE BSE",
+   "status": "done",
+   "found": "FY25 revenue ~Rs 1,208 crore (9% YoY), FY25 PAT ~Rs 215 crore, FY26 EBITDA +120%, PAT 2.25-2.3x",
+   "next_action": "none",
+   "agent": "hyperresearch+websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox registered clients count 2025 2026 crores active traders",
+   "status": "done",
+   "found": "NSE active client share 4.35% (March 2026); ~2.4M active clients per Inventiva; NSE total 4.57 crore",
+   "next_action": "none",
+   "agent": "hyperresearch+websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox Breeze Tradewars Upstox Lite app products",
+   "status": "done",
+   "found": "Upstox Pro app confirmed; no Breeze/Tradewars/Upstox Lite found in search results; products: trading app, MF/SIP, insurance, algo trading (in dev), NBFC/AMC (pending)",
+   "next_action": "none",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox founders Kavimandan Anirudh Sehgal CFO board",
+   "status": "done",
+   "found": "Founders: Ravi Kumar, Raghu Kumar, Shrinivas Viswanath (per Livemint Feb 2026 CEO interview); Board: Ravi Chandran Kumar, Shrinivas Viswanath + 3 more (per Tracxn)",
+   "next_action": "none",
+   "agent": "websearch+hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox SEBI notice penalty regulatory action",
+   "status": "done",
+   "found": "No specific SEBI penalty/notice against Upstox found; industry-wide SEBI F&O clampdown since 2024 (margins, weekly expiries, STT increase)",
+   "next_action": "none",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox customers retail count segments",
+   "status": "done",
+   "found": "4th largest broker by NSE active clients; ~2.4M active clients; B2C retail traders/investors",
+   "next_action": "none",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox FY25 FY24 revenue profit exchange filing NSE BSE",
+   "status": "done",
+   "found": "FY25 revenue ~Rs 1,208 crore (9% YoY), FY25 PAT ~Rs 215 crore, FY26 EBITDA +120%, PAT 2.25-2.3x",
+   "next_action": "none",
+   "agent": "hyperresearch+websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox registered clients count 2025 2026 crores active traders",
+   "status": "done",
+   "found": "NSE active client share 4.35% (March 2026); ~2.4M active clients per Inventiva; NSE total 4.57 crore",
+   "next_action": "none",
+   "agent": "hyperresearch+websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox Breeze Tradewars Upstox Lite app products",
+   "status": "done",
+   "found": "Upstox Pro app confirmed; no Breeze/Tradewars/Upstox Lite found in search results; products: trading app, MF/SIP, insurance, algo trading (in dev), NBFC/AMC (pending)",
+   "next_action": "none",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox founders Kavimandan Anirudh Sehgal CFO board",
+   "status": "done",
+   "found": "Founders: Ravi Kumar, Raghu Kumar, Shrinivas Viswanath (per Livemint Feb 2026 CEO interview); Board: Ravi Chandran Kumar, Shrinivas Viswanath + 3 more (per Tracxn)",
+   "next_action": "none",
+   "agent": "websearch+hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox SEBI notice penalty regulatory action",
+   "status": "done",
+   "found": "No specific SEBI penalty/notice against Upstox found; industry-wide SEBI F&O clampdown since 2024 (margins, weekly expiries, STT increase)",
+   "next_action": "none",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox customers retail count segments",
+   "status": "done",
+   "found": "4th largest broker by NSE active clients; ~2.4M active clients; B2C retail traders/investors",
+   "next_action": "none",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox FY25 FY24 revenue profit exchange filing NSE BSE",
+   "status": "done",
+   "found": "FY25 revenue ~Rs 1,208 crore (9% YoY), FY25 PAT ~Rs 215 crore, FY26 EBITDA +120%, PAT 2.25-2.3x",
+   "next_action": "none",
+   "agent": "hyperresearch+websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox registered clients count 2025 2026 crores active traders",
+   "status": "done",
+   "found": "NSE active client share 4.35% (March 2026); ~2.4M active clients per Inventiva; NSE total 4.57 crore",
+   "next_action": "none",
+   "agent": "hyperresearch+websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox Breeze Tradewars Upstox Lite app products",
+   "status": "done",
+   "found": "Upstox Pro app confirmed; no Breeze/Tradewars/Upstox Lite found in search results; products: trading app, MF/SIP, insurance, algo trading (in dev), NBFC/AMC (pending)",
+   "next_action": "none",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox founders Kavimandan Anirudh Sehgal CFO board",
+   "status": "done",
+   "found": "Founders: Ravi Kumar, Raghu Kumar, Shrinivas Viswanath (per Livemint Feb 2026 CEO interview); Board: Ravi Chandran Kumar, Shrinivas Viswanath + 3 more (per Tracxn)",
+   "next_action": "none",
+   "agent": "websearch+hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox SEBI notice penalty regulatory action",
+   "status": "done",
+   "found": "No specific SEBI penalty/notice against Upstox found; industry-wide SEBI F&O clampdown since 2024 (margins, weekly expiries, STT increase)",
+   "next_action": "none",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox customers retail count segments",
+   "status": "done",
+   "found": "4th largest broker by NSE active clients; ~2.4M active clients; B2C retail traders/investors",
+   "next_action": "none",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox FY25 FY24 revenue profit exchange filing NSE BSE",
+   "status": "done",
+   "found": "FY25 revenue ~Rs 1,208 crore (9% YoY), FY25 PAT ~Rs 215 crore, FY26 EBITDA +120%, PAT 2.25-2.3x",
+   "next_action": "none",
+   "agent": "hyperresearch+websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox registered clients count 2025 2026 crores active traders",
+   "status": "done",
+   "found": "NSE active client share 4.35% (March 2026); ~2.4M active clients per Inventiva; NSE total 4.57 crore",
+   "next_action": "none",
+   "agent": "hyperresearch+websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox Breeze Tradewars Upstox Lite app products",
+   "status": "done",
+   "found": "Upstox Pro app confirmed; no Breeze/Tradewars/Upstox Lite found in search results; products: trading app, MF/SIP, insurance, algo trading (in dev), NBFC/AMC (pending)",
+   "next_action": "none",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox founders Kavimandan Anirudh Sehgal CFO board",
+   "status": "done",
+   "found": "Founders: Ravi Kumar, Raghu Kumar, Shrinivas Viswanath (per Livemint Feb 2026 CEO interview); Board: Ravi Chandran Kumar, Shrinivas Viswanath + 3 more (per Tracxn)",
+   "next_action": "none",
+   "agent": "websearch+hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox SEBI notice penalty regulatory action",
+   "status": "done",
+   "found": "No specific SEBI penalty/notice against Upstox found; industry-wide SEBI F&O clampdown since 2024 (margins, weekly expiries, STT increase)",
+   "next_action": "none",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox customers retail count segments",
+   "status": "done",
+   "found": "4th largest broker by NSE active clients; ~2.4M active clients; B2C retail traders/investors",
+   "next_action": "none",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox FY25 FY24 revenue profit exchange filing NSE BSE",
+   "status": "done",
+   "found": "FY25 revenue ~Rs 1,208 crore (9% YoY), FY25 PAT ~Rs 215 crore, FY26 EBITDA +120%, PAT 2.25-2.3x",
+   "next_action": "none",
+   "agent": "hyperresearch+websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox registered clients count 2025 2026 crores active traders",
+   "status": "done",
+   "found": "NSE active client share 4.35% (March 2026); ~2.4M active clients per Inventiva; NSE total 4.57 crore",
+   "next_action": "none",
+   "agent": "hyperresearch+websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox Breeze Tradewars Upstox Lite app products",
+   "status": "done",
+   "found": "Upstox Pro app confirmed; no Breeze/Tradewars/Upstox Lite found in search results; products: trading app, MF/SIP, insurance, algo trading (in dev), NBFC/AMC (pending)",
+   "next_action": "none",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox founders Kavimandan Anirudh Sehgal CFO board",
+   "status": "done",
+   "found": "Founders: Ravi Kumar, Raghu Kumar, Shrinivas Viswanath (per Livemint Feb 2026 CEO interview); Board: Ravi Chandran Kumar, Shrinivas Viswanath + 3 more (per Tracxn)",
+   "next_action": "none",
+   "agent": "websearch+hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox SEBI notice penalty regulatory action",
+   "status": "done",
+   "found": "No specific SEBI penalty/notice against Upstox found; industry-wide SEBI F&O clampdown since 2024 (margins, weekly expiries, STT increase)",
+   "next_action": "none",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox customers retail count segments",
+   "status": "done",
+   "found": "4th largest broker by NSE active clients; ~2.4M active clients; B2C retail traders/investors",
+   "next_action": "none",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox FY25 FY24 revenue profit exchange filing NSE BSE",
+   "status": "done",
+   "found": "FY25 revenue ~Rs 1,208 crore (9% YoY), FY25 PAT ~Rs 215 crore, FY26 EBITDA +120%, PAT 2.25-2.3x",
+   "next_action": "none",
+   "agent": "hyperresearch+websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox registered clients count 2025 2026 crores active traders",
+   "status": "done",
+   "found": "NSE active client share 4.35% (March 2026); ~2.4M active clients per Inventiva; NSE total 4.57 crore",
+   "next_action": "none",
+   "agent": "hyperresearch+websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox Breeze Tradewars Upstox Lite app products",
+   "status": "done",
+   "found": "Upstox Pro app confirmed; no Breeze/Tradewars/Upstox Lite found in search results; products: trading app, MF/SIP, insurance, algo trading (in dev), NBFC/AMC (pending)",
+   "next_action": "none",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox founders Kavimandan Anirudh Sehgal CFO board",
+   "status": "done",
+   "found": "Founders: Ravi Kumar, Raghu Kumar, Shrinivas Viswanath (per Livemint Feb 2026 CEO interview); Board: Ravi Chandran Kumar, Shrinivas Viswanath + 3 more (per Tracxn)",
+   "next_action": "none",
+   "agent": "websearch+hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox SEBI notice penalty regulatory action",
+   "status": "done",
+   "found": "No specific SEBI penalty/notice against Upstox found; industry-wide SEBI F&O clampdown since 2024 (margins, weekly expiries, STT increase)",
+   "next_action": "none",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox customers retail count segments",
+   "status": "done",
+   "found": "4th largest broker by NSE active clients; ~2.4M active clients; B2C retail traders/investors",
+   "next_action": "none",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox FY25 FY24 revenue profit exchange filing NSE BSE",
+   "status": "done",
+   "found": "FY25 revenue ~Rs 1,208 crore (9% YoY), FY25 PAT ~Rs 215 crore, FY26 EBITDA +120%, PAT 2.25-2.3x",
+   "next_action": "none",
+   "agent": "hyperresearch+websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox registered clients count 2025 2026 crores active traders",
+   "status": "done",
+   "found": "NSE active client share 4.35% (March 2026); ~2.4M active clients per Inventiva; NSE total 4.57 crore",
+   "next_action": "none",
+   "agent": "hyperresearch+websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox Breeze Tradewars Upstox Lite app products",
+   "status": "done",
+   "found": "Upstox Pro app confirmed; no Breeze/Tradewars/Upstox Lite found in search results; products: trading app, MF/SIP, insurance, algo trading (in dev), NBFC/AMC (pending)",
+   "next_action": "none",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox founders Kavimandan Anirudh Sehgal CFO board",
+   "status": "done",
+   "found": "Founders: Ravi Kumar, Raghu Kumar, Shrinivas Viswanath (per Livemint Feb 2026 CEO interview); Board: Ravi Chandran Kumar, Shrinivas Viswanath + 3 more (per Tracxn)",
+   "next_action": "none",
+   "agent": "websearch+hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox SEBI notice penalty regulatory action",
+   "status": "done",
+   "found": "No specific SEBI penalty/notice against Upstox found; industry-wide SEBI F&O clampdown since 2024 (margins, weekly expiries, STT increase)",
+   "next_action": "none",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox customers retail count segments",
+   "status": "done",
+   "found": "4th largest broker by NSE active clients; ~2.4M active clients; B2C retail traders/investors",
+   "next_action": "none",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox FY25 FY24 revenue profit exchange filing NSE BSE",
+   "status": "done",
+   "found": "FY25 revenue ~Rs 1,208 crore (9% YoY), FY25 PAT ~Rs 215 crore, FY26 EBITDA +120%, PAT 2.25-2.3x",
+   "next_action": "none",
+   "agent": "hyperresearch+websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox registered clients count 2025 2026 crores active traders",
+   "status": "done",
+   "found": "NSE active client share 4.35% (March 2026); ~2.4M active clients per Inventiva; NSE total 4.57 crore",
+   "next_action": "none",
+   "agent": "hyperresearch+websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox Breeze Tradewars Upstox Lite app products",
+   "status": "done",
+   "found": "Upstox Pro app confirmed; no Breeze/Tradewars/Upstox Lite found in search results; products: trading app, MF/SIP, insurance, algo trading (in dev), NBFC/AMC (pending)",
+   "next_action": "none",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox founders Kavimandan Anirudh Sehgal CFO board",
+   "status": "done",
+   "found": "Founders: Ravi Kumar, Raghu Kumar, Shrinivas Viswanath (per Livemint Feb 2026 CEO interview); Board: Ravi Chandran Kumar, Shrinivas Viswanath + 3 more (per Tracxn)",
+   "next_action": "none",
+   "agent": "websearch+hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox SEBI notice penalty regulatory action",
+   "status": "done",
+   "found": "No specific SEBI penalty/notice against Upstox found; industry-wide SEBI F&O clampdown since 2024 (margins, weekly expiries, STT increase)",
+   "next_action": "none",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox customers retail count segments",
+   "status": "done",
+   "found": "4th largest broker by NSE active clients; ~2.4M active clients; B2C retail traders/investors",
+   "next_action": "none",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox FY25 FY24 revenue profit exchange filing NSE BSE",
+   "status": "done",
+   "found": "FY25 revenue ~Rs 1,208 crore (9% YoY), FY25 PAT ~Rs 215 crore, FY26 EBITDA +120%, PAT 2.25-2.3x",
+   "next_action": "none",
+   "agent": "hyperresearch+websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox registered clients count 2025 2026 crores active traders",
+   "status": "done",
+   "found": "NSE active client share 4.35% (March 2026); ~2.4M active clients per Inventiva; NSE total 4.57 crore",
+   "next_action": "none",
+   "agent": "hyperresearch+websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox Breeze Tradewars Upstox Lite app products",
+   "status": "done",
+   "found": "Upstox Pro app confirmed; no Breeze/Tradewars/Upstox Lite found in search results; products: trading app, MF/SIP, insurance, algo trading (in dev), NBFC/AMC (pending)",
+   "next_action": "none",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox founders Kavimandan Anirudh Sehgal CFO board",
+   "status": "done",
+   "found": "Founders: Ravi Kumar, Raghu Kumar, Shrinivas Viswanath (per Livemint Feb 2026 CEO interview); Board: Ravi Chandran Kumar, Shrinivas Viswanath + 3 more (per Tracxn)",
+   "next_action": "none",
+   "agent": "websearch+hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox SEBI notice penalty regulatory action",
+   "status": "done",
+   "found": "No specific SEBI penalty/notice against Upstox found; industry-wide SEBI F&O clampdown since 2024 (margins, weekly expiries, STT increase)",
+   "next_action": "none",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox customers retail count segments",
+   "status": "done",
+   "found": "4th largest broker by NSE active clients; ~2.4M active clients; B2C retail traders/investors",
+   "next_action": "none",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox FY25 FY24 revenue profit exchange filing NSE BSE",
+   "status": "done",
+   "found": "FY25 revenue ~Rs 1,208 crore (9% YoY), FY25 PAT ~Rs 215 crore, FY26 EBITDA +120%, PAT 2.25-2.3x",
+   "next_action": "none",
+   "agent": "hyperresearch+websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox registered clients count 2025 2026 crores active traders",
+   "status": "done",
+   "found": "NSE active client share 4.35% (March 2026); ~2.4M active clients per Inventiva; NSE total 4.57 crore",
+   "next_action": "none",
+   "agent": "hyperresearch+websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox Breeze Tradewars Upstox Lite app products",
+   "status": "done",
+   "found": "Upstox Pro app confirmed; no Breeze/Tradewars/Upstox Lite found in search results; products: trading app, MF/SIP, insurance, algo trading (in dev), NBFC/AMC (pending)",
+   "next_action": "none",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox founders Kavimandan Anirudh Sehgal CFO board",
+   "status": "done",
+   "found": "Founders: Ravi Kumar, Raghu Kumar, Shrinivas Viswanath (per Livemint Feb 2026 CEO interview); Board: Ravi Chandran Kumar, Shrinivas Viswanath + 3 more (per Tracxn)",
+   "next_action": "none",
+   "agent": "websearch+hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox SEBI notice penalty regulatory action",
+   "status": "done",
+   "found": "No specific SEBI penalty/notice against Upstox found; industry-wide SEBI F&O clampdown since 2024 (margins, weekly expiries, STT increase)",
+   "next_action": "none",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox customers retail count segments",
+   "status": "done",
+   "found": "4th largest broker by NSE active clients; ~2.4M active clients; B2C retail traders/investors",
+   "next_action": "none",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox FY25 FY24 revenue profit exchange filing NSE BSE",
+   "status": "done",
+   "found": "FY25 revenue ~Rs 1,208 crore (9% YoY), FY25 PAT ~Rs 215 crore, FY26 EBITDA +120%, PAT 2.25-2.3x",
+   "next_action": "none",
+   "agent": "hyperresearch+websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox registered clients count 2025 2026 crores active traders",
+   "status": "done",
+   "found": "NSE active client share 4.35% (March 2026); ~2.4M active clients per Inventiva; NSE total 4.57 crore",
+   "next_action": "none",
+   "agent": "hyperresearch+websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox Breeze Tradewars Upstox Lite app products",
+   "status": "done",
+   "found": "Upstox Pro app confirmed; no Breeze/Tradewars/Upstox Lite found in search results; products: trading app, MF/SIP, insurance, algo trading (in dev), NBFC/AMC (pending)",
+   "next_action": "none",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox founders Kavimandan Anirudh Sehgal CFO board",
+   "status": "done",
+   "found": "Founders: Ravi Kumar, Raghu Kumar, Shrinivas Viswanath (per Livemint Feb 2026 CEO interview); Board: Ravi Chandran Kumar, Shrinivas Viswanath + 3 more (per Tracxn)",
+   "next_action": "none",
+   "agent": "websearch+hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox SEBI notice penalty regulatory action",
+   "status": "done",
+   "found": "No specific SEBI penalty/notice against Upstox found; industry-wide SEBI F&O clampdown since 2024 (margins, weekly expiries, STT increase)",
+   "next_action": "none",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox customers retail count segments",
+   "status": "done",
+   "found": "4th largest broker by NSE active clients; ~2.4M active clients; B2C retail traders/investors",
+   "next_action": "none",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox FY25 FY24 revenue profit exchange filing NSE BSE",
+   "status": "done",
+   "found": "FY25 revenue ~Rs 1,208 crore (9% YoY), FY25 PAT ~Rs 215 crore, FY26 EBITDA +120%, PAT 2.25-2.3x",
+   "next_action": "none",
+   "agent": "hyperresearch+websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox registered clients count 2025 2026 crores active traders",
+   "status": "done",
+   "found": "NSE active client share 4.35% (March 2026); ~2.4M active clients per Inventiva; NSE total 4.57 crore",
+   "next_action": "none",
+   "agent": "hyperresearch+websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox Breeze Tradewars Upstox Lite app products",
+   "status": "done",
+   "found": "Upstox Pro app confirmed; no Breeze/Tradewars/Upstox Lite found in search results; products: trading app, MF/SIP, insurance, algo trading (in dev), NBFC/AMC (pending)",
+   "next_action": "none",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox founders Kavimandan Anirudh Sehgal CFO board",
+   "status": "done",
+   "found": "Founders: Ravi Kumar, Raghu Kumar, Shrinivas Viswanath (per Livemint Feb 2026 CEO interview); Board: Ravi Chandran Kumar, Shrinivas Viswanath + 3 more (per Tracxn)",
+   "next_action": "none",
+   "agent": "websearch+hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox SEBI notice penalty regulatory action",
+   "status": "done",
+   "found": "No specific SEBI penalty/notice against Upstox found; industry-wide SEBI F&O clampdown since 2024 (margins, weekly expiries, STT increase)",
+   "next_action": "none",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox customers retail count segments",
+   "status": "done",
+   "found": "4th largest broker by NSE active clients; ~2.4M active clients; B2C retail traders/investors",
+   "next_action": "none",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox FY25 FY24 revenue profit exchange filing NSE BSE",
+   "status": "done",
+   "found": "FY25 revenue ~Rs 1,208 crore (9% YoY), FY25 PAT ~Rs 215 crore, FY26 EBITDA +120%, PAT 2.25-2.3x",
+   "next_action": "none",
+   "agent": "hyperresearch+websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox registered clients count 2025 2026 crores active traders",
+   "status": "done",
+   "found": "NSE active client share 4.35% (March 2026); ~2.4M active clients per Inventiva; NSE total 4.57 crore",
+   "next_action": "none",
+   "agent": "hyperresearch+websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox Breeze Tradewars Upstox Lite app products",
+   "status": "done",
+   "found": "Upstox Pro app confirmed; no Breeze/Tradewars/Upstox Lite found in search results; products: trading app, MF/SIP, insurance, algo trading (in dev), NBFC/AMC (pending)",
+   "next_action": "none",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox founders Kavimandan Anirudh Sehgal CFO board",
+   "status": "done",
+   "found": "Founders: Ravi Kumar, Raghu Kumar, Shrinivas Viswanath (per Livemint Feb 2026 CEO interview); Board: Ravi Chandran Kumar, Shrinivas Viswanath + 3 more (per Tracxn)",
+   "next_action": "none",
+   "agent": "websearch+hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox SEBI notice penalty regulatory action",
+   "status": "done",
+   "found": "No specific SEBI penalty/notice against Upstox found; industry-wide SEBI F&O clampdown since 2024 (margins, weekly expiries, STT increase)",
+   "next_action": "none",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox customers retail count segments",
+   "status": "done",
+   "found": "4th largest broker by NSE active clients; ~2.4M active clients; B2C retail traders/investors",
+   "next_action": "none",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox FY25 FY24 revenue profit exchange filing NSE BSE",
+   "status": "done",
+   "found": "FY25 revenue ~Rs 1,208 crore (9% YoY), FY25 PAT ~Rs 215 crore, FY26 EBITDA +120%, PAT 2.25-2.3x",
+   "next_action": "none",
+   "agent": "hyperresearch+websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox registered clients count 2025 2026 crores active traders",
+   "status": "done",
+   "found": "NSE active client share 4.35% (March 2026); ~2.4M active clients per Inventiva; NSE total 4.57 crore",
+   "next_action": "none",
+   "agent": "hyperresearch+websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox Breeze Tradewars Upstox Lite app products",
+   "status": "done",
+   "found": "Upstox Pro app confirmed; no Breeze/Tradewars/Upstox Lite found in search results; products: trading app, MF/SIP, insurance, algo trading (in dev), NBFC/AMC (pending)",
+   "next_action": "none",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox founders Kavimandan Anirudh Sehgal CFO board",
+   "status": "done",
+   "found": "Founders: Ravi Kumar, Raghu Kumar, Shrinivas Viswanath (per Livemint Feb 2026 CEO interview); Board: Ravi Chandran Kumar, Shrinivas Viswanath + 3 more (per Tracxn)",
+   "next_action": "none",
+   "agent": "websearch+hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox SEBI notice penalty regulatory action",
+   "status": "done",
+   "found": "No specific SEBI penalty/notice against Upstox found; industry-wide SEBI F&O clampdown since 2024 (margins, weekly expiries, STT increase)",
+   "next_action": "none",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox customers retail count segments",
+   "status": "done",
+   "found": "4th largest broker by NSE active clients; ~2.4M active clients; B2C retail traders/investors",
+   "next_action": "none",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox FY25 FY24 revenue profit exchange filing NSE BSE",
+   "status": "done",
+   "found": "FY25 revenue ~Rs 1,208 crore (9% YoY), FY25 PAT ~Rs 215 crore, FY26 EBITDA +120%, PAT 2.25-2.3x",
+   "next_action": "none",
+   "agent": "hyperresearch+websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox registered clients count 2025 2026 crores active traders",
+   "status": "done",
+   "found": "NSE active client share 4.35% (March 2026); ~2.4M active clients per Inventiva; NSE total 4.57 crore",
+   "next_action": "none",
+   "agent": "hyperresearch+websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox Breeze Tradewars Upstox Lite app products",
+   "status": "done",
+   "found": "Upstox Pro app confirmed; no Breeze/Tradewars/Upstox Lite found in search results; products: trading app, MF/SIP, insurance, algo trading (in dev), NBFC/AMC (pending)",
+   "next_action": "none",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox founders Kavimandan Anirudh Sehgal CFO board",
+   "status": "done",
+   "found": "Founders: Ravi Kumar, Raghu Kumar, Shrinivas Viswanath (per Livemint Feb 2026 CEO interview); Board: Ravi Chandran Kumar, Shrinivas Viswanath + 3 more (per Tracxn)",
+   "next_action": "none",
+   "agent": "websearch+hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox SEBI notice penalty regulatory action",
+   "status": "done",
+   "found": "No specific SEBI penalty/notice against Upstox found; industry-wide SEBI F&O clampdown since 2024 (margins, weekly expiries, STT increase)",
+   "next_action": "none",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox customers retail count segments",
+   "status": "done",
+   "found": "4th largest broker by NSE active clients; ~2.4M active clients; B2C retail traders/investors",
+   "next_action": "none",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox FY25 FY24 revenue profit exchange filing NSE BSE",
+   "status": "done",
+   "found": "FY25 revenue ~Rs 1,208 crore (9% YoY), FY25 PAT ~Rs 215 crore, FY26 EBITDA +120%, PAT 2.25-2.3x",
+   "next_action": "none",
+   "agent": "hyperresearch+websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox registered clients count 2025 2026 crores active traders",
+   "status": "done",
+   "found": "NSE active client share 4.35% (March 2026); ~2.4M active clients per Inventiva; NSE total 4.57 crore",
+   "next_action": "none",
+   "agent": "hyperresearch+websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox Breeze Tradewars Upstox Lite app products",
+   "status": "done",
+   "found": "Upstox Pro app confirmed; no Breeze/Tradewars/Upstox Lite found in search results; products: trading app, MF/SIP, insurance, algo trading (in dev), NBFC/AMC (pending)",
+   "next_action": "none",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox founders Kavimandan Anirudh Sehgal CFO board",
+   "status": "done",
+   "found": "Founders: Ravi Kumar, Raghu Kumar, Shrinivas Viswanath (per Livemint Feb 2026 CEO interview); Board: Ravi Chandran Kumar, Shrinivas Viswanath + 3 more (per Tracxn)",
+   "next_action": "none",
+   "agent": "websearch+hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox SEBI notice penalty regulatory action",
+   "status": "done",
+   "found": "No specific SEBI penalty/notice against Upstox found; industry-wide SEBI F&O clampdown since 2024 (margins, weekly expiries, STT increase)",
+   "next_action": "none",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox customers retail count segments",
+   "status": "done",
+   "found": "4th largest broker by NSE active clients; ~2.4M active clients; B2C retail traders/investors",
+   "next_action": "none",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox FY25 FY24 revenue profit exchange filing NSE BSE",
+   "status": "done",
+   "found": "FY25 revenue ~Rs 1,208 crore (9% YoY), FY25 PAT ~Rs 215 crore, FY26 EBITDA +120%, PAT 2.25-2.3x",
+   "next_action": "none",
+   "agent": "hyperresearch+websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox registered clients count 2025 2026 crores active traders",
+   "status": "done",
+   "found": "NSE active client share 4.35% (March 2026); ~2.4M active clients per Inventiva; NSE total 4.57 crore",
+   "next_action": "none",
+   "agent": "hyperresearch+websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox Breeze Tradewars Upstox Lite app products",
+   "status": "done",
+   "found": "Upstox Pro app confirmed; no Breeze/Tradewars/Upstox Lite found in search results; products: trading app, MF/SIP, insurance, algo trading (in dev), NBFC/AMC (pending)",
+   "next_action": "none",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox founders Kavimandan Anirudh Sehgal CFO board",
+   "status": "done",
+   "found": "Founders: Ravi Kumar, Raghu Kumar, Shrinivas Viswanath (per Livemint Feb 2026 CEO interview); Board: Ravi Chandran Kumar, Shrinivas Viswanath + 3 more (per Tracxn)",
+   "next_action": "none",
+   "agent": "websearch+hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox SEBI notice penalty regulatory action",
+   "status": "done",
+   "found": "No specific SEBI penalty/notice against Upstox found; industry-wide SEBI F&O clampdown since 2024 (margins, weekly expiries, STT increase)",
+   "next_action": "none",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox customers retail count segments",
+   "status": "done",
+   "found": "4th largest broker by NSE active clients; ~2.4M active clients; B2C retail traders/investors",
+   "next_action": "none",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox FY25 FY24 revenue profit exchange filing NSE BSE",
+   "status": "done",
+   "found": "FY25 revenue ~Rs 1,208 crore (9% YoY), FY25 PAT ~Rs 215 crore, FY26 EBITDA +120%, PAT 2.25-2.3x",
+   "next_action": "none",
+   "agent": "hyperresearch+websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox registered clients count 2025 2026 crores active traders",
+   "status": "done",
+   "found": "NSE active client share 4.35% (March 2026); ~2.4M active clients per Inventiva; NSE total 4.57 crore",
+   "next_action": "none",
+   "agent": "hyperresearch+websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox Breeze Tradewars Upstox Lite app products",
+   "status": "done",
+   "found": "Upstox Pro app confirmed; no Breeze/Tradewars/Upstox Lite found in search results; products: trading app, MF/SIP, insurance, algo trading (in dev), NBFC/AMC (pending)",
+   "next_action": "none",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox founders Kavimandan Anirudh Sehgal CFO board",
+   "status": "done",
+   "found": "Founders: Ravi Kumar, Raghu Kumar, Shrinivas Viswanath (per Livemint Feb 2026 CEO interview); Board: Ravi Chandran Kumar, Shrinivas Viswanath + 3 more (per Tracxn)",
+   "next_action": "none",
+   "agent": "websearch+hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox SEBI notice penalty regulatory action",
+   "status": "done",
+   "found": "No specific SEBI penalty/notice against Upstox found; industry-wide SEBI F&O clampdown since 2024 (margins, weekly expiries, STT increase)",
+   "next_action": "none",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox customers retail count segments",
+   "status": "done",
+   "found": "4th largest broker by NSE active clients; ~2.4M active clients; B2C retail traders/investors",
+   "next_action": "none",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox FY25 FY24 revenue profit exchange filing NSE BSE",
+   "status": "done",
+   "found": "FY25 revenue ~Rs 1,208 crore (9% YoY), FY25 PAT ~Rs 215 crore, FY26 EBITDA +120%, PAT 2.25-2.3x",
+   "next_action": "none",
+   "agent": "hyperresearch+websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox registered clients count 2025 2026 crores active traders",
+   "status": "done",
+   "found": "NSE active client share 4.35% (March 2026); ~2.4M active clients per Inventiva; NSE total 4.57 crore",
+   "next_action": "none",
+   "agent": "hyperresearch+websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox Breeze Tradewars Upstox Lite app products",
+   "status": "done",
+   "found": "Upstox Pro app confirmed; no Breeze/Tradewars/Upstox Lite found in search results; products: trading app, MF/SIP, insurance, algo trading (in dev), NBFC/AMC (pending)",
+   "next_action": "none",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox founders Kavimandan Anirudh Sehgal CFO board",
+   "status": "done",
+   "found": "Founders: Ravi Kumar, Raghu Kumar, Shrinivas Viswanath (per Livemint Feb 2026 CEO interview); Board: Ravi Chandran Kumar, Shrinivas Viswanath + 3 more (per Tracxn)",
+   "next_action": "none",
+   "agent": "websearch+hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox SEBI notice penalty regulatory action",
+   "status": "done",
+   "found": "No specific SEBI penalty/notice against Upstox found; industry-wide SEBI F&O clampdown since 2024 (margins, weekly expiries, STT increase)",
+   "next_action": "none",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox customers retail count segments",
+   "status": "done",
+   "found": "4th largest broker by NSE active clients; ~2.4M active clients; B2C retail traders/investors",
+   "next_action": "none",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox FY25 FY24 revenue profit exchange filing NSE BSE",
+   "status": "done",
+   "found": "FY25 revenue ~Rs 1,208 crore (9% YoY), FY25 PAT ~Rs 215 crore, FY26 EBITDA +120%, PAT 2.25-2.3x",
+   "next_action": "none",
+   "agent": "hyperresearch+websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox registered clients count 2025 2026 crores active traders",
+   "status": "done",
+   "found": "NSE active client share 4.35% (March 2026); ~2.4M active clients per Inventiva; NSE total 4.57 crore",
+   "next_action": "none",
+   "agent": "hyperresearch+websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox Breeze Tradewars Upstox Lite app products",
+   "status": "done",
+   "found": "Upstox Pro app confirmed; no Breeze/Tradewars/Upstox Lite found in search results; products: trading app, MF/SIP, insurance, algo trading (in dev), NBFC/AMC (pending)",
+   "next_action": "none",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox founders Kavimandan Anirudh Sehgal CFO board",
+   "status": "done",
+   "found": "Founders: Ravi Kumar, Raghu Kumar, Shrinivas Viswanath (per Livemint Feb 2026 CEO interview); Board: Ravi Chandran Kumar, Shrinivas Viswanath + 3 more (per Tracxn)",
+   "next_action": "none",
+   "agent": "websearch+hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox SEBI notice penalty regulatory action",
+   "status": "done",
+   "found": "No specific SEBI penalty/notice against Upstox found; industry-wide SEBI F&O clampdown since 2024 (margins, weekly expiries, STT increase)",
+   "next_action": "none",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Upstox customers retail count segments",
+   "status": "done",
+   "found": "4th largest broker by NSE active clients; ~2.4M active clients; B2C retail traders/investors",
+   "next_action": "none",
+   "agent": "hyperresearch"
+  }
+ ],
+ "sources": [
+  {
+   "claim_supported": "$25M Series B Tiger Global; profitable 2+ yrs; Ratan Tata backing; $120B turnover",
+   "fields_supported": [
+    "funding",
+    "investors"
+   ],
+   "publication_date": "2019-09-24",
+   "publisher": "Upstox via PR Newswire",
+   "retrieved_date": "2026-09-14",
+   "tier": "T1",
+   "title": "India's Fastest-growing Broker Upstox Raises USD 25 Million Funding From Tiger Global",
+   "url": "https://www.prnewswire.com/in/news-releases/india-s-fastest-growing-broker-upstox-raises-usd-25-million-funding-from-tiger-global-817230463.html"
+  },
+  {
+   "claim_supported": "$24.7M Tiger tranche; $3-3.5B valuation; unicorn",
+   "fields_supported": [
+    "funding",
+    "valuation"
+   ],
+   "publication_date": "2021-11-25",
+   "publisher": "Moneycontrol",
+   "retrieved_date": "2026-09-14",
+   "tier": "T3",
+   "title": "Upstox's valuation to soar to $3-3.5B with new funding round led by Tiger Global",
+   "url": "https://www.moneycontrol.com/news/business/startup/upstoxs-valuation-to-soar-to-3-3-5-billion-with-new-funding-round-led-by-tiger-global-7762931.html"
+  },
+  {
+   "claim_supported": "Tata 5% buyback at 10x; 1.33% 2016 stake; Tiger 38%; FY23 revenue >Rs 1,000 cr +44%, profitable; competitors",
+   "fields_supported": [
+    "funding",
+    "investors",
+    "financials",
+    "competitors"
+   ],
+   "publication_date": "2024-10-03",
+   "publisher": "Entrackr",
+   "retrieved_date": "2026-09-14",
+   "tier": "T3",
+   "title": "Upstox delivers 10x return to Ratan Tata following buyback",
+   "url": "https://entrackr.com/2024/10/upstox-delivers-10x-return-to-ratan-tata-following-buyback/"
+  },
+  {
+   "claim_supported": "NBFC/AMC license bids; FY25 flat; FY26/27 profit-doubling guide; ARPU +40%; SEBI clampdown context",
+   "fields_supported": [
+    "strategy",
+    "financials",
+    "legal"
+   ],
+   "publication_date": "2026-02-09",
+   "publisher": "Mint",
+   "retrieved_date": "2026-09-14",
+   "tier": "T3",
+   "title": "Upstox looks beyond broking as regulator tames retail mania",
+   "url": "https://www.livemint.com/companies/news/as-regulators-squeeze-trading-led-growth-upstox-looks-beyond-broking-for-growth-11770536721353.html"
+  },
+  {
+   "url": "https://play.google.com/store/apps/details?hl=en-US&id=in.upstox.app",
+   "title": "Stocks/IPO/F&O/commodities/currency trading",
+   "fields": "quarantine-resolved",
+   "confidence": "HIGH"
+  },
+  {
+   "url": "https://upstox.com/fixed-deposit",
+   "title": "Fixed deposits, P2P lending, govt bonds, NCDs, gold, insurance",
+   "fields": "quarantine-resolved",
+   "confidence": "MEDIUM"
+  },
+  {
+   "url": "https://tracxn.com/d/legal-entities/india/rksv-securities-india-private-limited/__wAFCr6tO-8IpU7rHEJy6RSAan7u6LGJk0ZcGHQEw648",
+   "title": "RKSV SECURITIES INDIA PRIVATE LIMITED - Company Profile (Tracxn)",
+   "fields": [
+    "cin",
+    "incorporation_date"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "url": "https://upstox.com/terms-of-use-and-privacy-policy/",
+   "title": "Terms of Use and Privacy Policy - Upstox",
+   "fields": [
+    "cin"
+   ],
+   "confidence": "high"
+  },
+  {
+   "url": "https://www.gqindia.com",
+   "title": "Meet the businessman who left his high-paying job in ...",
+   "tier": "T2",
+   "claim": "founder status Shrini Viswanath"
+  },
+  {
+   "url": "https://www.cnbctv18.com/market/nse-active-client-base-falls-fy26-groww-zerodha-icici-sbi-securities-ws-el-19886478.htm",
+   "publisher": "CNBC TV18",
+   "tier": "T2",
+   "publication_date": "2026-04-14",
+   "retrieved_date": "2026-09-15",
+   "confidence": "HIGH",
+   "fields_supported": [
+    "traction",
+    "competitors"
+   ]
+  },
+  {
+   "url": "https://www.upstox.com/terms-of-use-and-privacy-policy/",
+   "publisher": "Upstox",
+   "tier": "T1",
+   "publication_date": "2026-08-15",
+   "retrieved_date": "2026-09-15",
+   "confidence": "HIGH",
+   "fields_supported": [
+    "company",
+    "locations",
+    "legal_entities"
+   ]
+  },
+  {
+   "url": "https://www.inventiva.co.in/trends/digital-brokerage-platforms-in-2026/",
+   "publisher": "Inventiva",
+   "tier": "T3",
+   "publication_date": "2026-02-03",
+   "retrieved_date": "2026-09-15",
+   "confidence": "MEDIUM",
+   "fields_supported": [
+    "traction",
+    "products",
+    "company"
+   ]
+  }
+ ],
+ "startup_id": "upstox",
+ "traction": [
+  {
+   "as_of": "2021-11",
+   "company_reported": true,
+   "confidence": "MEDIUM",
+   "metric": "customers",
+   "period": "Nov 2021",
+   "source_url": "https://www.businesstoday.in/latest/corporate/story/upstox-to-take-on-groww-zerodha-with-tiger-globals-200-mn-push-313854-2021-11-29",
+   "value": "7M+"
+  },
+  {
+   "metric": "nse_active_client_market_share",
+   "value": 4.35,
+   "unit": "percent",
+   "period": "FY26 (March 2026)",
+   "as_of": "2026-03-31",
+   "company_reported": false,
+   "source_url": "https://www.cnbctv18.com/market/nse-active-client-base-falls-fy26-groww-zerodha-icici-sbi-securities-ws-el-19886478.htm",
+   "source_title": "NSE active client base shrinks 7% in FY26: What changed across brokers",
+   "confidence": "HIGH",
+   "notes": "Down from 5.58% in FY25; sharpest drop among major brokers"
+  },
+  {
+   "metric": "active_clients_estimate",
+   "value": 2400000,
+   "unit": "clients",
+   "period": "2026",
+   "as_of": "2026-02-03",
+   "company_reported": false,
+   "source_url": "https://www.inventiva.co.in/trends/digital-brokerage-platforms-in-2026/",
+   "source_title": "Top 10 Digital Brokerage Platforms In 2026",
+   "confidence": "MEDIUM",
+   "notes": "~2.4 million active clients per Inventiva"
+  },
+  {
+   "metric": "arpu_growth",
+   "value": 40,
+   "unit": "percent",
+   "period": "FY26",
+   "as_of": "2026-02-09",
+   "company_reported": true,
+   "source_url": "https://www.livemint.com/companies/news/as-regulators-squeeze-trading-led-growth-upstox-looks-beyond-broking-for-growth-11770536721353.html",
+   "source_title": "Upstox looks beyond broking as regulator tames retail mania",
+   "confidence": "HIGH",
+   "notes": "ARPU up over 40% per CEO Ravi Kumar"
+  },
+  {
+   "metric": "high_value_trader_retention",
+   "value": 90,
+   "unit": "percent",
+   "period": "FY26",
+   "as_of": "2026-02-09",
+   "company_reported": true,
+   "source_url": "https://www.livemint.com/companies/news/as-regulators-squeeze-trading-led-growth-upstox-looks-beyond-broking-for-growth-11770536721353.html",
+   "source_title": "Upstox looks beyond broking as regulator tames retail mania",
+   "confidence": "MEDIUM",
+   "notes": "Industry-leading retention among high-value traders per CEO"
+  },
+  {
+   "metric": "nse_active_clients_total",
+   "value": 4.57,
+   "unit": "crore",
+   "period": "FY26 (March 2026)",
+   "as_of": "2026-03-31",
+   "company_reported": false,
+   "source_url": "https://www.cnbctv18.com/market/nse-active-client-base-falls-fy26-groww-zerodha-icici-sbi-securities-ws-el-19886478.htm",
+   "source_title": "NSE active client base shrinks 7% in FY26: What changed across brokers",
+   "confidence": "HIGH",
+   "notes": "Total NSE active retail clients; fell from 4.92 crore in March 2025"
+  },
+  {
+   "metric": "commodities_daily_turnover_growth",
+   "value": 2,
+   "unit": "x",
+   "period": "FY26",
+   "as_of": "2026-02-09",
+   "company_reported": true,
+   "source_url": "https://www.livemint.com/companies/news/as-regulators-squeeze-trading-led-growth-upstox-looks-beyond-broking-for-growth-11770536721353.html",
+   "source_title": "Upstox looks beyond broking as regulator tames retail mania",
+   "confidence": "MEDIUM",
+   "notes": "Average daily turnover in commodities up over 2x"
+  },
+  {
+   "metric": "commodities_revenue_growth",
+   "value": 100,
+   "unit": "percent",
+   "period": "FY26",
+   "as_of": "2026-02-09",
+   "company_reported": true,
+   "source_url": "https://www.livemint.com/companies/news/as-regulators-squeeze-trading-led-growth-upstox-looks-beyond-broking-for-growth-11770536721353.html",
+   "source_title": "Upstox looks beyond broking as regulator tames retail mania",
+   "confidence": "MEDIUM",
+   "notes": "Commodities revenue grew almost 100%"
+  },
+  {
+   "metric": "sip_platform_volume_growth",
+   "value": 35,
+   "unit": "percent",
+   "period": "FY26",
+   "as_of": "2026-02-09",
+   "company_reported": true,
+   "source_url": "https://www.livemint.com/companies/news/as-regulators-squeeze-trading-led-growth-upstox-looks-beyond-broking-for-growth-11770536721353.html",
+   "source_title": "Upstox looks beyond broking as regulator tames retail mania",
+   "confidence": "MEDIUM",
+   "notes": "SIP platform volume grew over 35% in past year"
+  },
+  {
+   "metric": "margin_trade_facility_turnover_growth",
+   "value": 2,
+   "unit": "x",
+   "period": "FY26",
+   "as_of": "2026-02-09",
+   "company_reported": true,
+   "source_url": "https://www.livemint.com/companies/news/as-regulators-squeeze-trading-led-growth-upstox-looks-beyond-broking-for-growth-11770536721353.html",
+   "source_title": "Upstox looks beyond broking as regulator tames retail mania",
+   "confidence": "MEDIUM",
+   "notes": "Margin trade facility turnover up over 2x YoY"
+  }
+ ],
+ "_merged_session2": true
+}

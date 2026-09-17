@@ -1,0 +1,688 @@
+{
+ "acquisitions": [],
+ "canonical_key": "dream11 dream sports",
+ "company": {
+  "business_model": "Sports-tech platform: fantasy sports (Dream11), content/commerce (FanCode), experiences (DreamSetGo), game publishing, venture arm (Dream Capital)",
+  "city": "Mumbai",
+  "confidence": "HIGH",
+  "country": "India",
+  "customer_type": "B2C",
+  "founded_date": "2008",
+  "hq_type": "operating",
+  "incorporation_date": "2007-06-21",
+  "last_funding_date": "2021-11-24",
+  "last_funding_round": "Series F $840M",
+  "last_known_valuation": "$8B (Nov 2021); post-ban valuation unknown",
+  "legal_name": "Dream Sports (parent); Sporta Technologies Pvt Ltd (Dream11 operator; ONE BKC, Bandra East, Mumbai)",
+  "notes": "Canonical key kept as given in batch ('dream11 dream sports') covering Dream11 app + Dream Sports parent.",
+  "primary_sector": "gaming/fantasy sports",
+  "secondary_sectors": [
+   "sports content & commerce",
+   "sports experiences",
+   "game publishing"
+  ],
+  "startup_id": "dream11 dream sports",
+  "startup_stage": "Unicorn",
+  "state": "Maharashtra",
+  "status": "operating-pivoting (RMG shut Aug 2025; free-to-play + non-RMG pivot)",
+  "total_funding_disclosed": "$942M (Tracxn, 6 rounds); Inc42 counts $1.56B+ incl. secondaries",
+  "website": "https://www.dreamsports.group/",
+  "cin": "U72900MH2007PTC171875",
+  "registered_state_note": "MH = Maharashtra (Mumbai); matches HQ."
+ },
+ "competitors": [
+  {
+   "basis": "explicit",
+   "confidence": "HIGH",
+   "name": "Mobile Premier League (MPL)"
+  },
+  {
+   "basis": "explicit",
+   "confidence": "HIGH",
+   "name": "My11Circle (Games24x7)"
+  },
+  {
+   "basis": "explicit",
+   "confidence": "MEDIUM",
+   "name": "Zupee"
+  }
+ ],
+ "conflicts": [
+  {
+   "claim_a": "FY25 operating revenue Rs 6,759.3cr (ET, Feb 2026)",
+   "claim_b": "FY25 revenue Rs 7,374.4cr vs 8,345.9cr FY24 (Mint pivot piece)",
+   "field": "FY25 revenue",
+   "resolution": "Unresolved; both press-quoted filings. ET figure (6759.3cr, loss 478.9cr) used as primary since both outlets agree on loss figure.",
+   "resolved_value": "6759.3",
+   "url_a": "https://m.economictimes.com/tech/technology/dream-sports-swings-to-rs-479-crore-loss-in-fy25-as-revenue-falls-15/articleshow/128118668.cms",
+   "url_b": "http://livemint.com/companies/start-ups/dream11-completes-pivot-to-a-global-sports-engagement-platform-after-real-money-gaming-ban-11787825081003.html"
+  },
+  {
+   "claim_a": "$8B valuation (Moneycontrol, Nov 2021)",
+   "claim_b": "$3.6B valuation after $400M secondary (ET, Apr 2021)",
+   "field": "2021 valuation path",
+   "resolution": "Both kept as a sequence: $2.5B (Sep 2020) -> ~$5B secondary (Mar 2021) -> $8B (Nov 2021). ET's $3.6B likely transaction-specific. No averaging.",
+   "resolved_value": "$8B latest",
+   "url_a": "https://www.moneycontrol.com/news/business/dream11-parent-bags-840-million-funding-at-8-billion-valuation-7757971.html",
+   "url_b": "https://m.economictimes.com/tech/startups/dream11-parent-dream-sports-weighs-1-5-billion-us-listing/articleshow/82136391.cms"
+  }
+ ],
+ "customers": [],
+ "events": [
+  {
+   "announced_date": "2020-09-14",
+   "confidence": "HIGH",
+   "date": "2020-09-14",
+   "description": "$225M primary+secondary led by Tiger Global, TPG; valuation ~$2.5B; Tencent stake reduced.",
+   "headline": "Dream Sports raises $225M at ~$2.5B valuation",
+   "source_url": "https://inc42.com/buzz/dream11-parent-dream-sports-raises-225-mn-led-by-tiger-global-tpg-global-others",
+   "type": "funding"
+  },
+  {
+   "announced_date": "2021-03-25",
+   "confidence": "HIGH",
+   "date": "2021-03-25",
+   "description": "$400M all-secondary round led by TCV, D1, Falcon Edge/Alpha Wave; early investors Multiples, Kalaari sold; users hit 100M.",
+   "headline": "$400M secondary at ~$5B valuation",
+   "source_url": "https://www.dreamsports.group/media-and-blog/dream11s-valuation-nears-5-billion-on-400-million-fund-raise",
+   "type": "funding"
+  },
+  {
+   "announced_date": "2021-11-25",
+   "confidence": "HIGH",
+   "date": "2021-11-24",
+   "description": "$840M led by Falcon Edge/Alpha Wave, DST Global, D1, Redbird, Tiger Global; $8B valuation; 140M users.",
+   "headline": "$840M Series F at $8B valuation",
+   "source_url": "https://www.moneycontrol.com/news/business/dream11-parent-bags-840-million-funding-at-8-billion-valuation-7757971.html",
+   "type": "funding"
+  },
+  {
+   "announced_date": "2025-08-21",
+   "confidence": "HIGH",
+   "date": "2025-08-21",
+   "description": "Parliament passes Promotion and Regulation of Online Gaming Bill 2025 banning all real-money games; Dream Sports, MPL, Zupee, Probo begin shutting RMG ops.",
+   "headline": "Parliament passes Online Gaming Bill 2025 banning real-money games",
+   "source_url": "https://techcrunch.com/2025/08/21/as-india-bans-real-money-games-dream-sports-mpl-start-pulling-the-plug",
+   "type": "regulatory"
+  },
+  {
+   "announced_date": "2025-08-22",
+   "confidence": "HIGH",
+   "date": "2025-08-22",
+   "description": "Stopped all paid contests; pivoted entirely to free-to-play social game; pivot to FanCode, DreamSetGo, Dream Game Studios.",
+   "headline": "Dream11 stops paid contests, goes free-to-play",
+   "source_url": "https://www.cnbctv18.com/sports/dream11-suspends-real-money-games-following-the-passage-of-the-online-gaming-bill-by-parliament-19658154.htm",
+   "type": "pivot"
+  },
+  {
+   "announced_date": "2025-08-25",
+   "confidence": "HIGH",
+   "date": "2025-08-25",
+   "description": "Ends $44M (Rs 358cr) 2023-2026 Team India title-sponsor deal citing revenue hit; BCCI gap.",
+   "headline": "Dream11 exits BCCI Team India title sponsorship",
+   "source_url": "https://www.business-standard.com/sports/business/dream11-bcci-sponsorship-exit-online-gaming-bill-2025-impact-sports-business-125082500089_1.html",
+   "type": "sponsorship_exit"
+  }
+ ],
+ "financials": [
+  {
+   "confidence": "HIGH",
+   "currency": "INR",
+   "fiscal_year": "FY25",
+   "metric": "operating_revenue",
+   "source_date": "2026-02-09",
+   "source_title": "Dream Sports swings to Rs 479 crore loss in FY25",
+   "source_url": "https://m.economictimes.com/tech/technology/dream-sports-swings-to-rs-479-crore-loss-in-fy25-as-revenue-falls-15/articleshow/128118668.cms",
+   "unit": "crore",
+   "value": 6759.3,
+   "value_type": "press-quoted-filing"
+  },
+  {
+   "confidence": "HIGH",
+   "currency": "INR",
+   "fiscal_year": "FY25",
+   "metric": "net_loss",
+   "source_date": "2026-02-09",
+   "source_title": "Dream Sports swings to Rs 479 crore loss in FY25",
+   "source_url": "https://m.economictimes.com/tech/technology/dream-sports-swings-to-rs-479-crore-loss-in-fy25-as-revenue-falls-15/articleshow/128118668.cms",
+   "unit": "crore",
+   "value": -478.9,
+   "value_type": "press-quoted-filing"
+  },
+  {
+   "confidence": "MEDIUM",
+   "currency": "INR",
+   "fiscal_year": "FY24",
+   "metric": "operating_revenue",
+   "source_date": "2026-02-09",
+   "source_title": "Dream Sports swings to Rs 479 crore loss in FY25",
+   "source_url": "https://m.economictimes.com/tech/technology/dream-sports-swings-to-rs-479-crore-loss-in-fy25-as-revenue-falls-15/articleshow/128118668.cms",
+   "unit": "crore",
+   "value": 7933.8,
+   "value_type": "press-quoted-filing"
+  },
+  {
+   "confidence": "MEDIUM",
+   "currency": "INR",
+   "fiscal_year": "FY24",
+   "metric": "net_profit",
+   "source_date": "2026-02-09",
+   "source_title": "Dream Sports swings to Rs 479 crore loss in FY25",
+   "source_url": "https://m.economictimes.com/tech/technology/dream-sports-swings-to-rs-479-crore-loss-in-fy25-as-revenue-falls-15/articleshow/128118668.cms",
+   "unit": "crore",
+   "value": 1295,
+   "value_type": "press-quoted-filing"
+  }
+ ],
+ "founders": [
+  {
+   "background": "CEO, Dream Sports",
+   "confidence": "HIGH",
+   "name": "Harsh Jain",
+   "role": "Co-founder & CEO",
+   "source_url": "https://inc42.com/buzz/dream11-parent-dream-sports-raises-225-mn-led-by-tiger-global-tpg-global-others",
+   "still_active": true,
+   "type": "co-founder"
+  },
+  {
+   "background": "",
+   "confidence": "HIGH",
+   "name": "Bhavit Sheth",
+   "role": "Co-founder",
+   "source_url": "https://www.moneycontrol.com/news/business/dream11-parent-bags-840-million-funding-at-8-billion-valuation-7757971.html",
+   "still_active": true,
+   "type": "co-founder"
+  }
+ ],
+ "funding_rounds": [
+  {
+   "all_investors": [
+    "Kalaari Capital",
+    "Think Investments"
+   ],
+   "amount": null,
+   "announced_date": "2014",
+   "confidence": "LOW",
+   "currency": "USD",
+   "lead_investors": [
+    "Kalaari Capital"
+   ],
+   "purpose": "",
+   "round_date": "2014",
+   "round_type": "Series A",
+   "source_date": "2026-04-09",
+   "source_title": "Dream Sports - 2026 Funding Rounds & List of Investors - Tracxn",
+   "source_url": "https://tracxn.com/d/companies/dreamsports/__K5c3x3hZPtLZJinYH6xLudjVF-hDfVjFyuTHtZLcQpM/funding-and-investors",
+   "tier": "T2",
+   "valuation": "",
+   "valuation_type": ""
+  },
+  {
+   "all_investors": [
+    "Multiples Alternate Asset Management",
+    "Kalaari Capital"
+   ],
+   "amount": 2170000,
+   "announced_date": "2017-01-17",
+   "confidence": "LOW",
+   "currency": "USD",
+   "lead_investors": [
+    "Multiples Alternate Asset Management"
+   ],
+   "purpose": "",
+   "round_date": "2017-01-17",
+   "round_type": "Series C",
+   "source_date": "2026-04-09",
+   "source_title": "Dream Sports - 2026 Funding Rounds & List of Investors - Tracxn",
+   "source_url": "https://tracxn.com/d/companies/dreamsports/__K5c3x3hZPtLZJinYH6xLudjVF-hDfVjFyuTHtZLcQpM/funding-and-investors",
+   "tier": "T2",
+   "valuation": "",
+   "valuation_type": ""
+  },
+  {
+   "all_investors": [
+    "Tencent",
+    "Kalaari Capital",
+    "Multiples Alternate Asset Management",
+    "Think Investments"
+   ],
+   "amount": 100000000,
+   "announced_date": "2018-09-06",
+   "confidence": "MEDIUM",
+   "currency": "USD",
+   "lead_investors": [
+    "Tencent"
+   ],
+   "purpose": "",
+   "round_date": "2018-09-06",
+   "round_type": "Series D",
+   "source_date": "2020-09-14",
+   "source_title": "Dream11 Parent Dream Sports Raises $225 Mn Led By Tiger Global - Inc42",
+   "source_url": "https://inc42.com/buzz/dream11-parent-dream-sports-raises-225-mn-led-by-tiger-global-tpg-global-others",
+   "tier": "T3",
+   "valuation": "",
+   "valuation_type": ""
+  },
+  {
+   "all_investors": [
+    "Tiger Global",
+    "TPG",
+    "ChrysCapital",
+    "Footpath Ventures"
+   ],
+   "amount": 225000000,
+   "announced_date": "2020-09-14",
+   "confidence": "HIGH",
+   "currency": "USD",
+   "lead_investors": [
+    "Tiger Global",
+    "TPG"
+   ],
+   "purpose": "",
+   "round_date": "2020-09-14",
+   "round_type": "Series E",
+   "source_date": "2020-09-14",
+   "source_title": "Dream11 Parent Dream Sports Raises $225 Mn Led By Tiger Global - Inc42",
+   "source_url": "https://inc42.com/buzz/dream11-parent-dream-sports-raises-225-mn-led-by-tiger-global-tpg-global-others",
+   "tier": "T3",
+   "valuation": "~$2.5B",
+   "valuation_type": "post-money"
+  },
+  {
+   "all_investors": [
+    "TCV",
+    "D1 Capital",
+    "Falcon Edge/Alpha Wave",
+    "Tiger Global",
+    "ChrysCapital",
+    "TPG Growth",
+    "Steadview",
+    "Footpath Ventures"
+   ],
+   "amount": 400000000,
+   "announced_date": "2021-03-25",
+   "confidence": "HIGH",
+   "currency": "USD",
+   "lead_investors": [
+    "TCV",
+    "D1 Capital",
+    "Falcon Edge"
+   ],
+   "purpose": "secondary (early investors Multiples, Kalaari sold)",
+   "round_date": "2021-03-25",
+   "round_type": "Secondary",
+   "source_date": null,
+   "source_title": "Dream11's valuation nears $5 billion on $400 million fund-raise",
+   "source_url": "https://www.dreamsports.group/media-and-blog/dream11s-valuation-nears-5-billion-on-400-million-fund-raise",
+   "tier": "T1",
+   "valuation": "~$5B",
+   "valuation_type": "post-money"
+  },
+  {
+   "all_investors": [
+    "Falcon Edge/Alpha Wave",
+    "DST Global",
+    "D1 Capital",
+    "Redbird Capital",
+    "Tiger Global",
+    "TPG",
+    "Footpath Ventures"
+   ],
+   "amount": 840000000,
+   "announced_date": "2021-11-25",
+   "confidence": "HIGH",
+   "currency": "USD",
+   "lead_investors": [
+    "Falcon Edge/Alpha Wave",
+    "DST Global",
+    "D1 Capital",
+    "Redbird Capital",
+    "Tiger Global"
+   ],
+   "purpose": "",
+   "round_date": "2021-11-24",
+   "round_type": "Series F",
+   "source_date": "2021-11-25",
+   "source_title": "Dream11 parent Dream Sports bags $840 million funding at $8 billion valuation",
+   "source_url": "https://www.moneycontrol.com/news/business/dream11-parent-bags-840-million-funding-at-8-billion-valuation-7757971.html",
+   "tier": "T3",
+   "valuation": "$8B",
+   "valuation_type": "post-money"
+  }
+ ],
+ "gaps": [
+  "Legal entity incorporation date / CIN not verified",
+  "Post-ban revenue/valuation unknown; pivot economics unverified",
+  "Dream Capital portfolio details not covered",
+  "Founder education/background not verified",
+  "fresh source URL for $8B Series F valuation (already in enrich without probe this wave)"
+ ],
+ "hiring": [],
+ "investor_links": [
+  {
+   "confidence": "HIGH",
+   "first_seen": "2020-09",
+   "investor": "Tiger Global",
+   "investor_type": "VC",
+   "lead": true,
+   "rounds": [
+    "Series E",
+    "Secondary 2021",
+    "Series F"
+   ],
+   "source_url": "https://inc42.com/buzz/dream11-parent-dream-sports-raises-225-mn-led-by-tiger-global-tpg-global-others"
+  },
+  {
+   "confidence": "MEDIUM",
+   "first_seen": "2018-09",
+   "investor": "Tencent",
+   "investor_type": "corporate",
+   "lead": true,
+   "rounds": [
+    "Series D"
+   ],
+   "source_url": "https://inc42.com/buzz/dream11-parent-dream-sports-raises-225-mn-led-by-tiger-global-tpg-global-others"
+  },
+  {
+   "confidence": "MEDIUM",
+   "first_seen": "2020-09",
+   "investor": "TPG",
+   "investor_type": "PE",
+   "lead": true,
+   "rounds": [
+    "Series E",
+    "Series F"
+   ],
+   "source_url": "https://inc42.com/buzz/dream11-parent-dream-sports-raises-225-mn-led-by-tiger-global-tpg-global-others"
+  },
+  {
+   "confidence": "MEDIUM",
+   "first_seen": "2014",
+   "investor": "Kalaari Capital",
+   "investor_type": "VC",
+   "lead": true,
+   "rounds": [
+    "Series A",
+    "Series C",
+    "Series D"
+   ],
+   "source_url": "https://tracxn.com/d/companies/dreamsports/__K5c3x3hZPtLZJinYH6xLudjVF-hDfVjFyuTHtZLcQpM/funding-and-investors"
+  },
+  {
+   "confidence": "MEDIUM",
+   "first_seen": "2017-01",
+   "investor": "Multiples Alternate Asset Management",
+   "investor_type": "PE",
+   "lead": true,
+   "rounds": [
+    "Series C",
+    "Series D"
+   ],
+   "source_url": "https://tracxn.com/d/companies/dreamsports/__K5c3x3hZPtLZJinYH6xLudjVF-hDfVjFyuTHtZLcQpM/funding-and-investors"
+  },
+  {
+   "confidence": "HIGH",
+   "first_seen": "2021-03",
+   "investor": "Alpha Wave Global (Falcon Edge)",
+   "investor_type": "VC",
+   "lead": true,
+   "rounds": [
+    "Secondary 2021",
+    "Series F"
+   ],
+   "source_url": "https://www.moneycontrol.com/news/business/dream11-parent-bags-840-million-funding-at-8-billion-valuation-7757971.html"
+  }
+ ],
+ "investors_meta": [],
+ "ip_tech_ai": {
+  "confidence": "LOW",
+  "source_url": "",
+  "stack": "Fantasy sports platform + FanCode streaming/commerce + Dream Game Studios publishing"
+ },
+ "legal": [
+  {
+   "confidence": "HIGH",
+   "dates": "Passed Lok Sabha Aug 20, Rajya Sabha Aug 21, 2025",
+   "regulator": "Parliament of India (MeitY minister Ashwini Vaishnaw)",
+   "source_url": "https://techcrunch.com/2025/08/21/as-india-bans-real-money-games-dream-sports-mpl-start-pulling-the-plug",
+   "status": "in force (compliance stated Aug 2025)",
+   "summary": "Promotion and Regulation of Online Gaming Bill 2025: blanket ban on offering/promoting/advertising online money games; banks barred from facilitating funds. Dream11 shut paid contests (~90% of fantasy revenue at stake).",
+   "type": "ruling"
+  }
+ ],
+ "locations": [
+  {
+   "address_or_area": "ONE BKC, G Block, Bandra (E)",
+   "as_of": "2021",
+   "city": "Mumbai",
+   "confidence": "HIGH",
+   "source_url": "https://www.dreamsports.group/media-and-blog/dream11s-valuation-nears-5-billion-on-400-million-fund-raise",
+   "state": "Maharashtra",
+   "type": "HQ"
+  }
+ ],
+ "partnerships": [
+  {
+   "confidence": "HIGH",
+   "name": "BCCI Team India title sponsor 2023-2026 ($44M/Rs 358cr, exited Aug 2025)",
+   "source_url": "https://www.business-standard.com/sports/business/dream11-bcci-sponsorship-exit-online-gaming-bill-2025-impact-sports-business-125082500089_1.html"
+  }
+ ],
+ "people": [],
+ "products": [
+  {
+   "category": "fantasy sports",
+   "description": "Paid contests shut Aug 2025; free-to-play social game",
+   "name": "Dream11",
+   "status": "pivoted (free-to-play)"
+  },
+  {
+   "category": "sports content/commerce",
+   "description": "Multi-sport aggregator: content, commerce, community",
+   "name": "FanCode",
+   "status": "active"
+  },
+  {
+   "category": "sports experiences",
+   "description": "Curated travel packages for sporting events",
+   "name": "DreamSetGo",
+   "status": "active"
+  },
+  {
+   "category": "venture/M&A arm",
+   "description": "$250M earmarked; 10-startup portfolio (Fittr, SoStronk, KheloMore, Elevar)",
+   "name": "Dream Capital",
+   "status": "active"
+  }
+ ],
+ "research_log": [
+  {
+   "found": "Full round path 2014-2021; $8B peak; FY24/FY25 financials; Aug 2025 RMG ban + shutdown + BCCI exit; founders; HQ",
+   "next_action": "Track post-ban pivot revenue and any valuation markdown",
+   "query": "Dream11 funding / FY25 / gaming ban / founders",
+   "unresolved": "FY25 revenue 6759cr vs 7374cr conflict kept; post-ban state"
+  },
+  {
+   "date": "2026-09-14",
+   "found": "dreamsports.group + Dream Sports PRs confirm Dream11/FanCode/DreamSetGo/Dream Capital portfolio membership",
+   "query": "Dream Sports Dream Capital FanCode DreamSetGo portfolio",
+   "unresolved": "3 competitor single-words (MPL/My11Circle/Zupee) are context-less; no search burned"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "Q-wave claim source-hunt",
+   "found": "4 resolved",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "found": "Sporta Technologies CIN U72900MH2007PTC171875, incorp 21 Jun 2007, Mumbai (Tofler/ZaubaCorp/Tracxn)",
+   "query": "Sporta Technologies Dream Sports CIN incorporation date Tofler ZaubaCorp",
+   "unresolved": "fresh $8B valuation source not probed this wave"
+  }
+ ],
+ "sources": [
+  {
+   "claim_supported": "$225M at ~$2.5B; founders; Tencent Series D",
+   "fields_supported": [
+    "funding_rounds",
+    "founders"
+   ],
+   "publication_date": "2020-09-14",
+   "publisher": "Inc42",
+   "retrieved_date": "2026-09-14",
+   "tier": "T3",
+   "title": "Dream11 Parent Dream Sports Raises $225 Mn Led By Tiger Global - Inc42",
+   "url": "https://inc42.com/buzz/dream11-parent-dream-sports-raises-225-mn-led-by-tiger-global-tpg-global-others"
+  },
+  {
+   "claim_supported": "$400M secondary at ~$5B; 100M users",
+   "fields_supported": [
+    "funding_rounds",
+    "traction"
+   ],
+   "publication_date": null,
+   "publisher": "Dream Sports (company)",
+   "retrieved_date": "2026-09-14",
+   "tier": "T1",
+   "title": "Dream11's valuation nears $5 billion on $400 million fund-raise",
+   "url": "https://www.dreamsports.group/media-and-blog/dream11s-valuation-nears-5-billion-on-400-million-fund-raise"
+  },
+  {
+   "claim_supported": "$840M Series F at $8B; portfolio brands",
+   "fields_supported": [
+    "funding_rounds",
+    "products"
+   ],
+   "publication_date": "2021-11-25",
+   "publisher": "Moneycontrol",
+   "retrieved_date": "2026-09-14",
+   "tier": "T3",
+   "title": "Dream11 parent Dream Sports bags $840 million funding at $8 billion valuation",
+   "url": "https://www.moneycontrol.com/news/business/dream11-parent-bags-840-million-funding-at-8-billion-valuation-7757971.html"
+  },
+  {
+   "claim_supported": "RMG ban passage; Dream/MPL shutdown start",
+   "fields_supported": [
+    "legal",
+    "events"
+   ],
+   "publication_date": "2025-08-21",
+   "publisher": "TechCrunch",
+   "retrieved_date": "2026-09-14",
+   "tier": "T3",
+   "title": "As India bans real-money games, Dream Sports, MPL start pulling the plug",
+   "url": "https://techcrunch.com/2025/08/21/as-india-bans-real-money-games-dream-sports-mpl-start-pulling-the-plug"
+  },
+  {
+   "claim_supported": "Paid contests stopped; free-to-play pivot",
+   "fields_supported": [
+    "events",
+    "products"
+   ],
+   "publication_date": "2025-08-23",
+   "publisher": "CNBC TV18",
+   "retrieved_date": "2026-09-14",
+   "tier": "T3",
+   "title": "Dream11 suspends real-money games following passage of Online Gaming Bill",
+   "url": "https://www.cnbctv18.com/sports/dream11-suspends-real-money-games-following-the-passage-of-the-online-gaming-bill-by-parliament-19658154.htm"
+  },
+  {
+   "claim_supported": "BCCI $44M deal exit; 90% revenue at stake",
+   "fields_supported": [
+    "partnerships",
+    "legal"
+   ],
+   "publication_date": "2025-08-25",
+   "publisher": "Business Standard",
+   "retrieved_date": "2026-09-14",
+   "tier": "T3",
+   "title": "Explained: How Dream 11's sports business affected by Online Gaming bill?",
+   "url": "https://www.business-standard.com/sports/business/dream11-bcci-sponsorship-exit-online-gaming-bill-2025-impact-sports-business-125082500089_1.html"
+  },
+  {
+   "claim_supported": "FY25 revenue decline + Rs 479cr loss",
+   "fields_supported": [
+    "financials"
+   ],
+   "publication_date": "2026-02-09",
+   "publisher": "ETtech",
+   "retrieved_date": "2026-09-14",
+   "tier": "T3",
+   "title": "Dream Sports swings to Rs 479 crore loss in FY25",
+   "url": "https://m.economictimes.com/tech/technology/dream-sports-swings-to-rs-479-crore-loss-in-fy25-as-revenue-falls-15/articleshow/128118668.cms"
+  },
+  {
+   "url": "http://dreamsports.group/",
+   "title": "Dream11",
+   "fields": "quarantine-resolved",
+   "confidence": "HIGH"
+  },
+  {
+   "url": "https://www.dreamsports.group/newsroom/fancode-raises-50m-funding-from-parent-dream-sports",
+   "title": "FanCode",
+   "fields": "quarantine-resolved",
+   "confidence": "HIGH"
+  },
+  {
+   "url": "https://www.prnewswire.com/news-releases/falcon-edge-dst-global-d1-capital-and-redbird-capital-lead-840-million-investment-in-dream-sports-at-8-billion-valuation-301431663.html",
+   "title": "Dream Capital",
+   "fields": "quarantine-resolved",
+   "confidence": "HIGH"
+  },
+  {
+   "url": "https://www.zaubacorp.com/SPORTA-TECHNOLOGIES-PRIVATE-LIMITED-U72900MH2007PTC171875",
+   "title": "SPORTA TECHNOLOGIES PRIVATE LIMITED | ZaubaCorp",
+   "fields": [
+    "cin",
+    "incorporation_date"
+   ],
+   "confidence": "high"
+  },
+  {
+   "url": "https://www.tofler.in/sporta-technologies-private-limited/company/U72900MH2007PTC171875",
+   "title": "sporta technologies private limited - Tofler",
+   "fields": [
+    "cin",
+    "incorporation_date"
+   ],
+   "confidence": "high"
+  }
+ ],
+ "startup_id": "dream11 dream sports",
+ "traction": [
+  {
+   "as_of": "2025-08",
+   "company_reported": false,
+   "confidence": "MEDIUM",
+   "metric": "registered users",
+   "period": "cumulative",
+   "source_url": "https://www.cnbctv18.com/business/startup/dream11-prepares-to-shut-real-money-gaming-arm-online-gaming-bill-19657469.htm",
+   "value": "280M+"
+  },
+  {
+   "as_of": "2024",
+   "company_reported": false,
+   "confidence": "MEDIUM",
+   "metric": "FY24 revenue (pre-ban, paid contests)",
+   "period": "FY24",
+   "source_url": "https://www.cnbctv18.com/business/startup/dream11-prepares-to-shut-real-money-gaming-arm-online-gaming-bill-19657469.htm",
+   "value": "Rs 9,600cr+"
+  }
+ ],
+ "completeness_self": {
+  "customers": 3,
+  "financials": 8,
+  "founders": 7,
+  "funding": 9,
+  "identity": 8,
+  "investors": 8,
+  "legal": 9,
+  "people": 2,
+  "products": 8,
+  "sources": 9,
+  "traction": 7
+ },
+ "_merged_session2": true
+}

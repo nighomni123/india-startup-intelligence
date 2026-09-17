@@ -1,0 +1,1548 @@
+{
+ "acquisitions": [
+  {
+   "confidence": "MEDIUM",
+   "date": "2025-06-17",
+   "direction": "made",
+   "disclosed": true,
+   "rationale": "Rewards-first UPI app",
+   "source_url": "https://entrackr.com/news/razorpay-acquires-majority-stake-in-pop-with-30-mn-investment-9370234",
+   "target": "POP",
+   "value": "$30M (per Entrackr snippet)",
+   "type": "acqui-hire / consumer UPI expansion",
+   "counterparty": "POP (POPclub)"
+  }
+ ],
+ "canonical_key": "razorpay",
+ "company": {
+  "city": "Bengaluru",
+  "country": "India",
+  "legal_name": "Razorpay Software Private Limited (converted to public entity Apr 2025; reverse flip completed Mar 2025)",
+  "primary_sector": "fintech infra",
+  "secondary_sectors": [
+   "payments gateway",
+   "business banking (RazorpayX)",
+   "payroll",
+   "POS (Ezetap)"
+  ],
+  "startup_id": "razorpay",
+  "startup_stage": "unicorn / pre-IPO (confidential DRHP Jun 12, 2026)",
+  "status": "active, IPO-bound",
+  "website": "https://razorpay.com",
+  "cin": "U72200KA2013PTC097389",
+  "incorporation_date": "2013-05-24",
+  "official_website": {
+   "v": "https://razorpay.com",
+   "conf": "high",
+   "src": "https://razorpay.com",
+   "note": "verified live 2026-09-15: name match on own homepage"
+  },
+  "careers_website": {
+   "v": "https://razorpay.com/jobs/",
+   "conf": "high",
+   "src": "official homepage nav",
+   "note": "verified 2026-09-15"
+  }
+ },
+ "competitors": [
+  {
+   "basis": "explicit",
+   "confidence": "HIGH",
+   "name": "Paytm",
+   "source_url": "https://startupfeed.in/razorpay-ipo-2026-confidential-filing/"
+  },
+  {
+   "basis": "explicit",
+   "confidence": "MEDIUM",
+   "name": "PayU India",
+   "source_url": "https://startupfeed.in/razorpay-ipo-2026-confidential-filing/"
+  },
+  {
+   "basis": "explicit",
+   "confidence": "MEDIUM",
+   "name": "Cashfree Payments",
+   "source_url": "https://startupfeed.in/razorpay-ipo-2026-confidential-filing/"
+  }
+ ],
+ "completeness_self": {
+  "customers": 6,
+  "financials": 9,
+  "founders": 9,
+  "funding": 9,
+  "identity": 8,
+  "investors": 8,
+  "legal": 3,
+  "people": 5,
+  "products": 7,
+  "sources": 8,
+  "traction": 8
+ },
+ "conflicts": [
+  {
+   "claim_a": "Total raised ~$742-742.5M (trackers)",
+   "claim_b": "Raised over $800M / $741.5M variants incl. YC awkward phrasing",
+   "field": "total funding",
+   "resolution": "Use $741.5-742M tracker consensus; note higher press rounding to $800M includes secondaries/ESOP-adjacent framing.",
+   "resolved_value": "~$742M across 11 rounds",
+   "url_a": "https://www.outlookbusiness.com/news/razorpay-kicks-off-ipo-preparations-for-4500cr-listing-invites-bank-pitches",
+   "url_b": "https://inc42.com/buzz/razorpay-slips-into-red-in-fy25-revenue-zooms-65-yoy/"
+  }
+ ],
+ "customers": [],
+ "events": [
+  {
+   "announced_date": "2026-01-09",
+   "confidence": "MEDIUM",
+   "date": "2026-01-09",
+   "description": "Rs 4,500cr listing prep; Kotak/Axis contenders; pre-IPO secondary possible.",
+   "headline": "Razorpay invites bank pitches for IPO",
+   "source_url": "https://www.outlookbusiness.com/news/razorpay-kicks-off-ipo-preparations-for-4500cr-listing-invites-bank-pitches",
+   "type": "IPO prep"
+  },
+  {
+   "announced_date": "2026-06-16",
+   "confidence": "MEDIUM",
+   "date": "2026-06-12",
+   "description": "Confidential DRHP; raise Rs 5,000-6,000cr at $5-6B valuation (press).",
+   "headline": "Razorpay files confidential DRHP",
+   "source_url": "https://www.outlookmoney.com/invest/razorpay-ipo-fintech-firm-files-draft-papers-via-confidential-filing-route-key-details-investors-must-know",
+   "type": "IPO filing"
+  }
+ ],
+ "financials": [
+  {
+   "confidence": "HIGH",
+   "currency": "INR",
+   "fiscal_year": "FY25",
+   "metric": "consolidated revenue",
+   "source_date": "2025-10-16",
+   "source_title": "Razorpay revenue soars 65% in FY25",
+   "source_url": "https://entrackr.com/fintrackr/razorpay-revenue-soars-65-in-fy25-gross-profit-crosses-rs-1200-cr-10567344",
+   "unit": "crore",
+   "value": 3783.0,
+   "value_type": "management"
+  },
+  {
+   "confidence": "HIGH",
+   "currency": "INR",
+   "fiscal_year": "FY25",
+   "metric": "gross profit",
+   "source_date": "2025-10-16",
+   "source_title": "Razorpay revenue soars 65% in FY25",
+   "source_url": "https://entrackr.com/fintrackr/razorpay-revenue-soars-65-in-fy25-gross-profit-crosses-rs-1200-cr-10567344",
+   "unit": "crore",
+   "value": 1277.0,
+   "value_type": "management"
+  },
+  {
+   "confidence": "HIGH",
+   "currency": "INR",
+   "fiscal_year": "FY25",
+   "metric": "ESOP expense (reverse-flip linked)",
+   "source_date": "2025-10-16",
+   "source_title": "Razorpay Slips Into Red In FY25",
+   "source_url": "https://inc42.com/buzz/razorpay-slips-into-red-in-fy25-revenue-zooms-65-yoy/",
+   "unit": "crore",
+   "value": 1209.0,
+   "value_type": "management"
+  },
+  {
+   "confidence": "HIGH",
+   "currency": "INR",
+   "fiscal_year": "FY24",
+   "metric": "consolidated revenue",
+   "source_date": "2025-10-16",
+   "source_title": "Razorpay revenue soars 65% in FY25",
+   "source_url": "https://entrackr.com/fintrackr/razorpay-revenue-soars-65-in-fy25-gross-profit-crosses-rs-1200-cr-10567344",
+   "unit": "crore",
+   "value": 2296.0,
+   "value_type": "management"
+  },
+  {
+   "confidence": "HIGH",
+   "currency": "INR",
+   "fiscal_year": "FY24",
+   "metric": "gross profit",
+   "source_date": "2025-10-16",
+   "source_title": "Razorpay revenue soars 65% in FY25",
+   "source_url": "https://entrackr.com/fintrackr/razorpay-revenue-soars-65-in-fy25-gross-profit-crosses-rs-1200-cr-10567344",
+   "unit": "crore",
+   "value": 906.0,
+   "value_type": "management"
+  }
+ ],
+ "founders": [
+  {
+   "background": "IIT Roorkee; CEO",
+   "confidence": "HIGH",
+   "name": "Harshil Mathur",
+   "role": "Co-founder & CEO",
+   "source_url": "https://www.ycombinator.com/companies/razorpay",
+   "still_active": true,
+   "type": "co-founder",
+   "active": "yes",
+   "location": "Bengaluru",
+   "linkedin": "https://linkedin.com/in/harshilmathur"
+  },
+  {
+   "background": "IIT Roorkee; MD",
+   "confidence": "HIGH",
+   "name": "Shashank Kumar",
+   "role": "Co-founder (MD)",
+   "source_url": "https://www.ycombinator.com/companies/razorpay",
+   "still_active": true,
+   "type": "co-founder",
+   "active": "yes",
+   "location": "Bengaluru",
+   "linkedin": "https://linkedin.com/in/kumarshashank"
+  }
+ ],
+ "funding_rounds": [
+  {
+   "all_investors": [
+    "Lone Pine Capital",
+    "Alkeon Capital",
+    "TCV",
+    "GIC",
+    "Peak XV Partners",
+    "Tiger Global",
+    "Y Combinator"
+   ],
+   "amount": 375.0,
+   "announced_date": "2021-12-20",
+   "confidence": "HIGH",
+   "currency": "USD",
+   "lead_investors": [
+    "Lone Pine Capital",
+    "Alkeon Capital",
+    "TCV"
+   ],
+   "round_date": "2021-12-20",
+   "round_type": "Series F",
+   "source_title": "Razorpay 2026 Company Profile (Tracxn)",
+   "source_url": "https://tracxn.com/d/companies/razorpay/__ARWa67NVJPe3TC11rYSBnp-0zVHbDAze4xZvzRsZzAI",
+   "tier": "T2",
+   "valuation": 7500000000.0,
+   "valuation_type": "post-money"
+  },
+  {
+   "all_investors": [
+    "GIC",
+    "Peak XV Partners",
+    "Ribbit Capital",
+    "Tiger Global"
+   ],
+   "amount": 160.0,
+   "announced_date": "2021-04-18",
+   "confidence": "HIGH",
+   "currency": "USD",
+   "lead_investors": [
+    "GIC",
+    "Peak XV Partners"
+   ],
+   "round_date": "2021-04-18",
+   "round_type": "Series E",
+   "source_title": "Razorpay funding-and-investors (Tracxn)",
+   "source_url": "https://tracxn.com/d/companies/razorpay/__ARWa67NVJPe3TC11rYSBnp-0zVHbDAze4xZvzRsZzAI/funding-and-investors",
+   "tier": "T2",
+   "valuation": 3000000000.0,
+   "valuation_type": "post-money"
+  },
+  {
+   "all_investors": [
+    "GIC",
+    "Peak XV Partners",
+    "Ribbit Capital",
+    "Tiger Global",
+    "Y Combinator"
+   ],
+   "amount": 100.0,
+   "announced_date": "2020-10-12",
+   "confidence": "HIGH",
+   "currency": "USD",
+   "lead_investors": [
+    "GIC",
+    "Peak XV Partners"
+   ],
+   "round_date": "2020-10-12",
+   "round_type": "Series D",
+   "source_title": "Razorpay funding-and-investors (Tracxn)",
+   "source_url": "https://tracxn.com/d/companies/razorpay/__ARWa67NVJPe3TC11rYSBnp-0zVHbDAze4xZvzRsZzAI/funding-and-investors",
+   "tier": "T2",
+   "valuation": 1000000000.0,
+   "valuation_type": "post-money"
+  },
+  {
+   "all_investors": [
+    "Ribbit Capital",
+    "Peak XV Partners",
+    "Tiger Global",
+    "Y Combinator"
+   ],
+   "amount": 75.0,
+   "announced_date": "2019-06-18",
+   "confidence": "MEDIUM",
+   "currency": "USD",
+   "lead_investors": [
+    "Ribbit Capital",
+    "Peak XV Partners"
+   ],
+   "round_date": "2019-06-18",
+   "round_type": "Series C",
+   "source_title": "Razorpay funding-and-investors (Tracxn)",
+   "source_url": "https://tracxn.com/d/companies/razorpay/__ARWa67NVJPe3TC11rYSBnp-0zVHbDAze4xZvzRsZzAI/funding-and-investors",
+   "tier": "T2",
+   "valuation": 450000000.0,
+   "valuation_type": "post-money"
+  }
+ ],
+ "gaps": [
+  "Audited RoC FY25 loss figure undisclosed (company withheld exact loss)",
+  "CIN not verified",
+  "Pre-IPO secondary details unconfirmed",
+  "RBI cross-border (PA-CB) licence status not verified from primary source",
+  "post-conversion PLC CIN confirmation via MCA",
+  "FY25/FY26 filing financials"
+ ],
+ "hiring": [],
+ "investor_links": [
+  {
+   "confidence": "HIGH",
+   "first_seen": "2021",
+   "investor": "Lone Pine Capital",
+   "investor_type": "hedge/VC",
+   "lead": true,
+   "rounds": [
+    "Series F"
+   ],
+   "source_url": "https://tracxn.com/d/companies/razorpay/__ARWa67NVJPe3TC11rYSBnp-0zVHbDAze4xZvzRsZzAI/funding-and-investors"
+  },
+  {
+   "confidence": "HIGH",
+   "first_seen": "2019",
+   "investor": "Peak XV Partners (Sequoia India)",
+   "investor_type": "VC",
+   "lead": true,
+   "rounds": [
+    "Series C",
+    "Series D",
+    "Series E",
+    "Series F"
+   ],
+   "source_url": "https://tracxn.com/d/companies/razorpay/__ARWa67NVJPe3TC11rYSBnp-0zVHbDAze4xZvzRsZzAI/funding-and-investors"
+  },
+  {
+   "confidence": "HIGH",
+   "first_seen": "2015",
+   "investor": "Tiger Global",
+   "investor_type": "VC",
+   "lead": true,
+   "rounds": [
+    "Series A",
+    "Series B",
+    "Series C+ "
+   ],
+   "source_url": "https://tracxn.com/d/companies/razorpay/__ARWa67NVJPe3TC11rYSBnp-0zVHbDAze4xZvzRsZzAI/funding-and-investors"
+  },
+  {
+   "confidence": "HIGH",
+   "first_seen": "2020",
+   "investor": "GIC",
+   "investor_type": "sovereign",
+   "lead": true,
+   "rounds": [
+    "Series D",
+    "Series E",
+    "Series F"
+   ],
+   "source_url": "https://tracxn.com/d/companies/razorpay/__ARWa67NVJPe3TC11rYSBnp-0zVHbDAze4xZvzRsZzAI/funding-and-investors"
+  },
+  {
+   "confidence": "MEDIUM",
+   "first_seen": "2015",
+   "investor": "Y Combinator",
+   "investor_type": "accelerator",
+   "lead": false,
+   "rounds": [
+    "Seed",
+    "Series F"
+   ],
+   "source_url": "https://www.ycombinator.com/companies/razorpay"
+  }
+ ],
+ "investors_meta": [],
+ "legal": [],
+ "locations": [
+  {
+   "as_of": "2025-01-01",
+   "city": "Bengaluru",
+   "confidence": "HIGH",
+   "source_url": "https://pitchbook.com/profiles/company/110393-29",
+   "state": "Karnataka",
+   "type": "HQ"
+  }
+ ],
+ "partnerships": [],
+ "people": [
+  {
+   "confidence": "MEDIUM",
+   "name": "Arpit Chug",
+   "position": "CFO",
+   "source_url": "https://inc42.com/buzz/razorpay-slips-into-red-in-fy25-revenue-zooms-65-yoy/"
+  }
+ ],
+ "products": [
+  {
+   "category": "payment gateway + banking stack",
+   "description": "Payments, RazorpayX banking/payroll/payouts, POS via Ezetap, international via Curlec",
+   "name": "Razorpay full-stack platform",
+   "status": "active"
+  }
+ ],
+ "research_log": [
+  {
+   "found": "FY25 rev 3,783cr +65%, gross profit 1,277cr, ESOP 1,209cr; reverse flip Mar 2025, public Apr 2025; IPO Rs 4,500-6,000cr targeting $5-6B",
+   "next_action": "Confirm DRHP banker list from primary filing",
+   "query": "Razorpay funding valuation 2025 IPO founders revenue FY25",
+   "unresolved": "Audited FY25 loss quantum"
+  },
+  {
+   "found": "Founders IIT Roorkee; YC W15; round history Seed-$125K through Series F $375M/$7.5B",
+   "next_action": "none",
+   "query": "Razorpay founders investors HQ",
+   "unresolved": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "Razorpay Software Private Limited CIN incorporation date",
+   "found": "as-incorporated CIN U72200KA2013PTC097389; recurclub notes now PLC variant after public conversion",
+   "unresolved": ""
+  },
+  {
+   "date": "2026-09-14",
+   "query": "Razorpay Software Private Limited ZaubaCorp incorporated 2013",
+   "found": "incorporated 24 May 2013, cross-confirmed ET",
+   "unresolved": ""
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  }
+ ],
+ "sources": [
+  {
+   "claim_supported": "FY25 revenue/gross profit/ESOP; reverse flip; FY27 IPO target",
+   "fields_supported": [
+    "financials",
+    "events"
+   ],
+   "publication_date": "2025-10-16",
+   "publisher": "Entrackr",
+   "retrieved_date": "2026-09-14",
+   "tier": "T3",
+   "title": "Razorpay revenue soars 65% in FY25; gross profit crosses Rs 1,200 Cr",
+   "url": "https://entrackr.com/fintrackr/razorpay-revenue-soars-65-in-fy25-gross-profit-crosses-rs-1200-cr-10567344"
+  },
+  {
+   "claim_supported": "Loss framing, CFO FY27 guidance, 10% dilution rule, investor list",
+   "fields_supported": [
+    "financials",
+    "events",
+    "investors"
+   ],
+   "publication_date": "2025-10-16",
+   "publisher": "Inc42",
+   "retrieved_date": "2026-09-14",
+   "tier": "T3",
+   "title": "Razorpay Slips Into Red In FY25, Revenue Zooms 65% YoY",
+   "url": "https://inc42.com/buzz/razorpay-slips-into-red-in-fy25-revenue-zooms-65-yoy/"
+  },
+  {
+   "claim_supported": "Confidential DRHP Jun 12 2026, Rs 5,000-6,000cr raise, $5-6B target vs $7.5B peak",
+   "fields_supported": [
+    "events",
+    "funding"
+   ],
+   "publication_date": "2026-06-16",
+   "publisher": "Outlook Money",
+   "retrieved_date": "2026-09-14",
+   "tier": "T3",
+   "title": "Razorpay Files Draft Papers for IPO via Confidential Route",
+   "url": "https://www.outlookmoney.com/invest/razorpay-ipo-fintech-firm-files-draft-papers-via-confidential-filing-route-key-details-investors-must-know"
+  },
+  {
+   "claim_supported": "Round-by-round amounts, leads, $742M total",
+   "fields_supported": [
+    "funding",
+    "investors"
+   ],
+   "publisher": "Tracxn",
+   "retrieved_date": "2026-09-14",
+   "tier": "T2",
+   "title": "Razorpay funding-and-investors (Tracxn)",
+   "url": "https://tracxn.com/d/companies/razorpay/__ARWa67NVJPe3TC11rYSBnp-0zVHbDAze4xZvzRsZzAI/funding-and-investors"
+  },
+  {
+   "claim_supported": "Founders, YC W15, $741.5M, acquisitions",
+   "fields_supported": [
+    "founders",
+    "identity"
+   ],
+   "publisher": "Y Combinator",
+   "retrieved_date": "2026-09-14",
+   "tier": "T1",
+   "title": "Razorpay (Y Combinator profile)",
+   "url": "https://www.ycombinator.com/companies/razorpay"
+  },
+  {
+   "url": "https://www.zaubacorp.com/RAZORPAY-SOFTWARE-PRIVATE-LIMITED-U72200KA2013PTC097389",
+   "title": "RAZORPAY SOFTWARE PRIVATE LIMITED | ZaubaCorp",
+   "fields": [
+    "cin",
+    "incorporation_date"
+   ],
+   "confidence": "medium-high"
+  },
+  {
+   "url": "https://economictimes.indiatimes.com/company/razorpay-software-private-limited/U72200KA2013PTC097389",
+   "title": "Razorpay Software Private Limited - The Economic Times Company Profile",
+   "fields": [
+    "cin",
+    "incorporation_date"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "url": "https://razorpay.com/newsroom/leadership-team",
+   "title": "Razorpay Leadership Team",
+   "tier": "T2",
+   "claim": "founder status Harshil Mathur"
+  },
+  {
+   "url": "https://entrackr.com/news/razorpay-acquires-majority-stake-in-pop-with-30-mn-investment-9370234",
+   "title": "Razorpay acquires majority stake in POP with $30 Mn investment",
+   "tier": "T2",
+   "claim": "acquisition POP"
+  },
+  {
+   "url": "https://entrackr.com/news/razorpay-acquires-majority-stake-in-pop-with-30-mn-investment-9370234",
+   "title": "Razorpay acquires majority stake in POP with $30 Mn investment",
+   "tier": "T2",
+   "claim": "acquisition POP"
+  },
+  {
+   "url": "https://entrackr.com/news/razorpay-acquires-majority-stake-in-pop-with-30-mn-investment-9370234",
+   "title": "Razorpay acquires majority stake in POP with $30 Mn investment",
+   "tier": "T2",
+   "claim": "acquisition POP"
+  },
+  {
+   "url": "https://entrackr.com/news/razorpay-acquires-majority-stake-in-pop-with-30-mn-investment-9370234",
+   "title": "Razorpay acquires majority stake in POP with $30 Mn investment",
+   "tier": "T2",
+   "claim": "acquisition POP"
+  },
+  {
+   "url": "https://entrackr.com/news/razorpay-acquires-majority-stake-in-pop-with-30-mn-investment-9370234",
+   "title": "Razorpay acquires majority stake in POP with $30 Mn investment",
+   "tier": "T2",
+   "claim": "acquisition POP"
+  },
+  {
+   "url": "https://entrackr.com/news/razorpay-acquires-majority-stake-in-pop-with-30-mn-investment-9370234",
+   "title": "Razorpay acquires majority stake in POP with $30 Mn investment",
+   "tier": "T2",
+   "claim": "acquisition POP"
+  },
+  {
+   "url": "https://entrackr.com/news/razorpay-acquires-majority-stake-in-pop-with-30-mn-investment-9370234",
+   "title": "Razorpay acquires majority stake in POP with $30 Mn investment",
+   "tier": "T2",
+   "claim": "acquisition POP"
+  },
+  {
+   "url": "https://entrackr.com/news/razorpay-acquires-majority-stake-in-pop-with-30-mn-investment-9370234",
+   "title": "Razorpay acquires majority stake in POP with $30 Mn investment",
+   "tier": "T2",
+   "claim": "acquisition POP"
+  },
+  {
+   "url": "https://entrackr.com/news/razorpay-acquires-majority-stake-in-pop-with-30-mn-investment-9370234",
+   "title": "Razorpay acquires majority stake in POP with $30 Mn investment",
+   "tier": "T2",
+   "claim": "acquisition POP"
+  },
+  {
+   "url": "https://entrackr.com/news/razorpay-acquires-majority-stake-in-pop-with-30-mn-investment-9370234",
+   "title": "Razorpay acquires majority stake in POP with $30 Mn investment",
+   "tier": "T2",
+   "claim": "acquisition POP"
+  },
+  {
+   "url": "https://entrackr.com/news/razorpay-acquires-majority-stake-in-pop-with-30-mn-investment-9370234",
+   "title": "Razorpay acquires majority stake in POP with $30 Mn investment",
+   "tier": "T2",
+   "claim": "acquisition POP"
+  },
+  {
+   "url": "https://entrackr.com/news/razorpay-acquires-majority-stake-in-pop-with-30-mn-investment-9370234",
+   "title": "Razorpay acquires majority stake in POP with $30 Mn investment",
+   "tier": "T2",
+   "claim": "acquisition POP"
+  },
+  {
+   "url": "https://entrackr.com/news/razorpay-acquires-majority-stake-in-pop-with-30-mn-investment-9370234",
+   "title": "Razorpay acquires majority stake in POP with $30 Mn investment",
+   "tier": "T2",
+   "claim": "acquisition POP"
+  },
+  {
+   "url": "https://entrackr.com/news/razorpay-acquires-majority-stake-in-pop-with-30-mn-investment-9370234",
+   "title": "Razorpay acquires majority stake in POP with $30 Mn investment",
+   "tier": "T2",
+   "claim": "acquisition POP"
+  },
+  {
+   "url": "https://entrackr.com/news/razorpay-acquires-majority-stake-in-pop-with-30-mn-investment-9370234",
+   "title": "Razorpay acquires majority stake in POP with $30 Mn investment",
+   "tier": "T2",
+   "claim": "acquisition POP"
+  },
+  {
+   "url": "https://entrackr.com/news/razorpay-acquires-majority-stake-in-pop-with-30-mn-investment-9370234",
+   "title": "Razorpay acquires majority stake in POP with $30 Mn investment",
+   "tier": "T2",
+   "claim": "acquisition POP"
+  },
+  {
+   "url": "https://entrackr.com/news/razorpay-acquires-majority-stake-in-pop-with-30-mn-investment-9370234",
+   "title": "Razorpay acquires majority stake in POP with $30 Mn investment",
+   "tier": "T2",
+   "claim": "acquisition POP"
+  },
+  {
+   "url": "https://entrackr.com/news/razorpay-acquires-majority-stake-in-pop-with-30-mn-investment-9370234",
+   "title": "Razorpay acquires majority stake in POP with $30 Mn investment",
+   "tier": "T2",
+   "claim": "acquisition POP"
+  },
+  {
+   "url": "https://entrackr.com/news/razorpay-acquires-majority-stake-in-pop-with-30-mn-investment-9370234",
+   "title": "Razorpay acquires majority stake in POP with $30 Mn investment",
+   "tier": "T2",
+   "claim": "acquisition POP"
+  },
+  {
+   "url": "https://entrackr.com/news/razorpay-acquires-majority-stake-in-pop-with-30-mn-investment-9370234",
+   "title": "Razorpay acquires majority stake in POP with $30 Mn investment",
+   "tier": "T2",
+   "claim": "acquisition POP"
+  },
+  {
+   "url": "https://entrackr.com/news/razorpay-acquires-majority-stake-in-pop-with-30-mn-investment-9370234",
+   "title": "Razorpay acquires majority stake in POP with $30 Mn investment",
+   "tier": "T2",
+   "claim": "acquisition POP"
+  },
+  {
+   "url": "https://entrackr.com/news/razorpay-acquires-majority-stake-in-pop-with-30-mn-investment-9370234",
+   "title": "Razorpay acquires majority stake in POP with $30 Mn investment",
+   "tier": "T2",
+   "claim": "acquisition POP"
+  },
+  {
+   "url": "https://entrackr.com/news/razorpay-acquires-majority-stake-in-pop-with-30-mn-investment-9370234",
+   "title": "Razorpay acquires majority stake in POP with $30 Mn investment",
+   "tier": "T2",
+   "claim": "acquisition POP"
+  },
+  {
+   "url": "https://entrackr.com/news/razorpay-acquires-majority-stake-in-pop-with-30-mn-investment-9370234",
+   "title": "Razorpay acquires majority stake in POP with $30 Mn investment",
+   "tier": "T2",
+   "claim": "acquisition POP"
+  },
+  {
+   "url": "https://entrackr.com/news/razorpay-acquires-majority-stake-in-pop-with-30-mn-investment-9370234",
+   "title": "Razorpay acquires majority stake in POP with $30 Mn investment",
+   "tier": "T2",
+   "claim": "acquisition POP"
+  },
+  {
+   "url": "https://entrackr.com/news/razorpay-acquires-majority-stake-in-pop-with-30-mn-investment-9370234",
+   "title": "Razorpay acquires majority stake in POP with $30 Mn investment",
+   "tier": "T2",
+   "claim": "acquisition POP"
+  },
+  {
+   "url": "https://entrackr.com/news/razorpay-acquires-majority-stake-in-pop-with-30-mn-investment-9370234",
+   "title": "Razorpay acquires majority stake in POP with $30 Mn investment",
+   "tier": "T2",
+   "claim": "acquisition POP"
+  },
+  {
+   "url": "https://entrackr.com/news/razorpay-acquires-majority-stake-in-pop-with-30-mn-investment-9370234",
+   "title": "Razorpay acquires majority stake in POP with $30 Mn investment",
+   "tier": "T2",
+   "claim": "acquisition POP"
+  },
+  {
+   "url": "https://entrackr.com/news/razorpay-acquires-majority-stake-in-pop-with-30-mn-investment-9370234",
+   "title": "Razorpay acquires majority stake in POP with $30 Mn investment",
+   "tier": "T2",
+   "claim": "acquisition POP"
+  },
+  {
+   "url": "https://entrackr.com/news/razorpay-acquires-majority-stake-in-pop-with-30-mn-investment-9370234",
+   "title": "Razorpay acquires majority stake in POP with $30 Mn investment",
+   "tier": "T2",
+   "claim": "acquisition POP"
+  },
+  {
+   "url": "https://entrackr.com/news/razorpay-acquires-majority-stake-in-pop-with-30-mn-investment-9370234",
+   "title": "Razorpay acquires majority stake in POP with $30 Mn investment",
+   "tier": "T2",
+   "claim": "acquisition POP"
+  },
+  {
+   "url": "https://entrackr.com/news/razorpay-acquires-majority-stake-in-pop-with-30-mn-investment-9370234",
+   "title": "Razorpay acquires majority stake in POP with $30 Mn investment",
+   "tier": "T2",
+   "claim": "acquisition POP"
+  },
+  {
+   "url": "https://entrackr.com/news/razorpay-acquires-majority-stake-in-pop-with-30-mn-investment-9370234",
+   "title": "Razorpay acquires majority stake in POP with $30 Mn investment",
+   "tier": "T2",
+   "claim": "acquisition POP"
+  },
+  {
+   "url": "https://entrackr.com/news/razorpay-acquires-majority-stake-in-pop-with-30-mn-investment-9370234",
+   "title": "Razorpay acquires majority stake in POP with $30 Mn investment",
+   "tier": "T2",
+   "claim": "acquisition POP"
+  },
+  {
+   "url": "https://entrackr.com/news/razorpay-acquires-majority-stake-in-pop-with-30-mn-investment-9370234",
+   "title": "Razorpay acquires majority stake in POP with $30 Mn investment",
+   "tier": "T2",
+   "claim": "acquisition POP"
+  },
+  {
+   "url": "https://entrackr.com/news/razorpay-acquires-majority-stake-in-pop-with-30-mn-investment-9370234",
+   "title": "Razorpay acquires majority stake in POP with $30 Mn investment",
+   "tier": "T2",
+   "claim": "acquisition POP"
+  },
+  {
+   "url": "https://entrackr.com/news/razorpay-acquires-majority-stake-in-pop-with-30-mn-investment-9370234",
+   "title": "Razorpay acquires majority stake in POP with $30 Mn investment",
+   "tier": "T2",
+   "claim": "acquisition POP"
+  },
+  {
+   "url": "https://entrackr.com/news/razorpay-acquires-majority-stake-in-pop-with-30-mn-investment-9370234",
+   "title": "Razorpay acquires majority stake in POP with $30 Mn investment",
+   "tier": "T2",
+   "claim": "acquisition POP"
+  },
+  {
+   "url": "https://entrackr.com/news/razorpay-acquires-majority-stake-in-pop-with-30-mn-investment-9370234",
+   "title": "Razorpay acquires majority stake in POP with $30 Mn investment",
+   "tier": "T2",
+   "claim": "acquisition POP"
+  },
+  {
+   "url": "https://entrackr.com/news/razorpay-acquires-majority-stake-in-pop-with-30-mn-investment-9370234",
+   "title": "Razorpay acquires majority stake in POP with $30 Mn investment",
+   "tier": "T2",
+   "claim": "acquisition POP"
+  },
+  {
+   "url": "https://entrackr.com/news/razorpay-acquires-majority-stake-in-pop-with-30-mn-investment-9370234",
+   "title": "Razorpay acquires majority stake in POP with $30 Mn investment",
+   "tier": "T2",
+   "claim": "acquisition POP"
+  },
+  {
+   "url": "https://entrackr.com/news/razorpay-acquires-majority-stake-in-pop-with-30-mn-investment-9370234",
+   "title": "Razorpay acquires majority stake in POP with $30 Mn investment",
+   "tier": "T2",
+   "claim": "acquisition POP"
+  },
+  {
+   "url": "https://entrackr.com/news/razorpay-acquires-majority-stake-in-pop-with-30-mn-investment-9370234",
+   "title": "Razorpay acquires majority stake in POP with $30 Mn investment",
+   "tier": "T2",
+   "claim": "acquisition POP"
+  },
+  {
+   "url": "https://entrackr.com/news/razorpay-acquires-majority-stake-in-pop-with-30-mn-investment-9370234",
+   "title": "Razorpay acquires majority stake in POP with $30 Mn investment",
+   "tier": "T2",
+   "claim": "acquisition POP"
+  },
+  {
+   "url": "https://entrackr.com/news/razorpay-acquires-majority-stake-in-pop-with-30-mn-investment-9370234",
+   "title": "Razorpay acquires majority stake in POP with $30 Mn investment",
+   "tier": "T2",
+   "claim": "acquisition POP"
+  },
+  {
+   "url": "https://entrackr.com/news/razorpay-acquires-majority-stake-in-pop-with-30-mn-investment-9370234",
+   "title": "Razorpay acquires majority stake in POP with $30 Mn investment",
+   "tier": "T2",
+   "claim": "acquisition POP"
+  },
+  {
+   "url": "https://entrackr.com/news/razorpay-acquires-majority-stake-in-pop-with-30-mn-investment-9370234",
+   "title": "Razorpay acquires majority stake in POP with $30 Mn investment",
+   "tier": "T2",
+   "claim": "acquisition POP"
+  },
+  {
+   "url": "https://entrackr.com/news/razorpay-acquires-majority-stake-in-pop-with-30-mn-investment-9370234",
+   "title": "Razorpay acquires majority stake in POP with $30 Mn investment",
+   "tier": "T2",
+   "claim": "acquisition POP"
+  },
+  {
+   "url": "https://entrackr.com/news/razorpay-acquires-majority-stake-in-pop-with-30-mn-investment-9370234",
+   "title": "Razorpay acquires majority stake in POP with $30 Mn investment",
+   "tier": "T2",
+   "claim": "acquisition POP"
+  },
+  {
+   "url": "https://entrackr.com/news/razorpay-acquires-majority-stake-in-pop-with-30-mn-investment-9370234",
+   "title": "Razorpay acquires majority stake in POP with $30 Mn investment",
+   "tier": "T2",
+   "claim": "acquisition POP"
+  },
+  {
+   "url": "https://entrackr.com/news/razorpay-acquires-majority-stake-in-pop-with-30-mn-investment-9370234",
+   "title": "Razorpay acquires majority stake in POP with $30 Mn investment",
+   "tier": "T2",
+   "claim": "acquisition POP"
+  },
+  {
+   "url": "https://entrackr.com/news/razorpay-acquires-majority-stake-in-pop-with-30-mn-investment-9370234",
+   "title": "Razorpay acquires majority stake in POP with $30 Mn investment",
+   "tier": "T2",
+   "claim": "acquisition POP"
+  },
+  {
+   "url": "https://entrackr.com/news/razorpay-acquires-majority-stake-in-pop-with-30-mn-investment-9370234",
+   "title": "Razorpay acquires majority stake in POP with $30 Mn investment",
+   "tier": "T2",
+   "claim": "acquisition POP"
+  },
+  {
+   "url": "https://entrackr.com/news/razorpay-acquires-majority-stake-in-pop-with-30-mn-investment-9370234",
+   "title": "Razorpay acquires majority stake in POP with $30 Mn investment",
+   "tier": "T2",
+   "claim": "acquisition POP"
+  },
+  {
+   "url": "https://entrackr.com/news/razorpay-acquires-majority-stake-in-pop-with-30-mn-investment-9370234",
+   "title": "Razorpay acquires majority stake in POP with $30 Mn investment",
+   "tier": "T2",
+   "claim": "acquisition POP"
+  },
+  {
+   "url": "https://entrackr.com/news/razorpay-acquires-majority-stake-in-pop-with-30-mn-investment-9370234",
+   "title": "Razorpay acquires majority stake in POP with $30 Mn investment",
+   "tier": "T2",
+   "claim": "acquisition POP"
+  },
+  {
+   "url": "https://entrackr.com/news/razorpay-acquires-majority-stake-in-pop-with-30-mn-investment-9370234",
+   "title": "Razorpay acquires majority stake in POP with $30 Mn investment",
+   "tier": "T2",
+   "claim": "acquisition POP"
+  },
+  {
+   "url": "https://entrackr.com/news/razorpay-acquires-majority-stake-in-pop-with-30-mn-investment-9370234",
+   "title": "Razorpay acquires majority stake in POP with $30 Mn investment",
+   "tier": "T2",
+   "claim": "acquisition POP"
+  },
+  {
+   "url": "https://entrackr.com/news/razorpay-acquires-majority-stake-in-pop-with-30-mn-investment-9370234",
+   "title": "Razorpay acquires majority stake in POP with $30 Mn investment",
+   "tier": "T2",
+   "claim": "acquisition POP"
+  },
+  {
+   "url": "https://entrackr.com/news/razorpay-acquires-majority-stake-in-pop-with-30-mn-investment-9370234",
+   "title": "Razorpay acquires majority stake in POP with $30 Mn investment",
+   "tier": "T2",
+   "claim": "acquisition POP"
+  },
+  {
+   "url": "https://entrackr.com/news/razorpay-acquires-majority-stake-in-pop-with-30-mn-investment-9370234",
+   "title": "Razorpay acquires majority stake in POP with $30 Mn investment",
+   "tier": "T2",
+   "claim": "acquisition POP"
+  },
+  {
+   "url": "https://entrackr.com/news/razorpay-acquires-majority-stake-in-pop-with-30-mn-investment-9370234",
+   "title": "Razorpay acquires majority stake in POP with $30 Mn investment",
+   "tier": "T2",
+   "claim": "acquisition POP"
+  },
+  {
+   "url": "https://entrackr.com/news/razorpay-acquires-majority-stake-in-pop-with-30-mn-investment-9370234",
+   "title": "Razorpay acquires majority stake in POP with $30 Mn investment",
+   "tier": "T2",
+   "claim": "acquisition POP"
+  },
+  {
+   "url": "https://entrackr.com/news/razorpay-acquires-majority-stake-in-pop-with-30-mn-investment-9370234",
+   "title": "Razorpay acquires majority stake in POP with $30 Mn investment",
+   "tier": "T2",
+   "claim": "acquisition POP"
+  },
+  {
+   "url": "https://entrackr.com/news/razorpay-acquires-majority-stake-in-pop-with-30-mn-investment-9370234",
+   "title": "Razorpay acquires majority stake in POP with $30 Mn investment",
+   "tier": "T2",
+   "claim": "acquisition POP"
+  },
+  {
+   "url": "https://entrackr.com/news/razorpay-acquires-majority-stake-in-pop-with-30-mn-investment-9370234",
+   "title": "Razorpay acquires majority stake in POP with $30 Mn investment",
+   "tier": "T2",
+   "claim": "acquisition POP"
+  },
+  {
+   "url": "https://entrackr.com/news/razorpay-acquires-majority-stake-in-pop-with-30-mn-investment-9370234",
+   "title": "Razorpay acquires majority stake in POP with $30 Mn investment",
+   "tier": "T2",
+   "claim": "acquisition POP"
+  },
+  {
+   "url": "https://entrackr.com/news/razorpay-acquires-majority-stake-in-pop-with-30-mn-investment-9370234",
+   "title": "Razorpay acquires majority stake in POP with $30 Mn investment",
+   "tier": "T2",
+   "claim": "acquisition POP"
+  },
+  {
+   "url": "https://entrackr.com/news/razorpay-acquires-majority-stake-in-pop-with-30-mn-investment-9370234",
+   "title": "Razorpay acquires majority stake in POP with $30 Mn investment",
+   "tier": "T2",
+   "claim": "acquisition POP"
+  },
+  {
+   "url": "https://entrackr.com/news/razorpay-acquires-majority-stake-in-pop-with-30-mn-investment-9370234",
+   "title": "Razorpay acquires majority stake in POP with $30 Mn investment",
+   "tier": "T2",
+   "claim": "acquisition POP"
+  },
+  {
+   "url": "https://entrackr.com/news/razorpay-acquires-majority-stake-in-pop-with-30-mn-investment-9370234",
+   "title": "Razorpay acquires majority stake in POP with $30 Mn investment",
+   "tier": "T2",
+   "claim": "acquisition POP"
+  },
+  {
+   "url": "https://entrackr.com/news/razorpay-acquires-majority-stake-in-pop-with-30-mn-investment-9370234",
+   "title": "Razorpay acquires majority stake in POP with $30 Mn investment",
+   "tier": "T2",
+   "claim": "acquisition POP"
+  },
+  {
+   "url": "https://entrackr.com/news/razorpay-acquires-majority-stake-in-pop-with-30-mn-investment-9370234",
+   "title": "Razorpay acquires majority stake in POP with $30 Mn investment",
+   "tier": "T2",
+   "claim": "acquisition POP"
+  },
+  {
+   "url": "https://entrackr.com/news/razorpay-acquires-majority-stake-in-pop-with-30-mn-investment-9370234",
+   "title": "Razorpay acquires majority stake in POP with $30 Mn investment",
+   "tier": "T2",
+   "claim": "acquisition POP"
+  },
+  {
+   "url": "https://entrackr.com/news/razorpay-acquires-majority-stake-in-pop-with-30-mn-investment-9370234",
+   "title": "Razorpay acquires majority stake in POP with $30 Mn investment",
+   "tier": "T2",
+   "claim": "acquisition POP"
+  },
+  {
+   "url": "https://entrackr.com/news/razorpay-acquires-majority-stake-in-pop-with-30-mn-investment-9370234",
+   "title": "Razorpay acquires majority stake in POP with $30 Mn investment",
+   "tier": "T2",
+   "claim": "acquisition POP"
+  },
+  {
+   "url": "https://entrackr.com/news/razorpay-acquires-majority-stake-in-pop-with-30-mn-investment-9370234",
+   "title": "Razorpay acquires majority stake in POP with $30 Mn investment",
+   "tier": "T2",
+   "claim": "acquisition POP"
+  }
+ ],
+ "startup_id": "razorpay",
+ "traction": [
+  {
+   "as_of": "2025-01-01",
+   "company_reported": true,
+   "confidence": "MEDIUM",
+   "metric": "merchants served",
+   "period": "point-in-time",
+   "source_url": "https://startupfeed.in/razorpay-ipo-2026-confidential-filing/",
+   "value": "8M+"
+  },
+  {
+   "as_of": "2025-01-01",
+   "company_reported": true,
+   "confidence": "MEDIUM",
+   "metric": "quarterly TPV",
+   "period": "quarterly",
+   "source_url": "https://startupfeed.in/razorpay-ipo-2026-confidential-filing/",
+   "value": "~$45B / ~1B txns"
+  }
+ ],
+ "_merged_session2": true
+}

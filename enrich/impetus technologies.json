@@ -1,0 +1,159 @@
+{
+ "company": {
+  "business_model": "B2B enterprise: data-platform engineering, AI/ML, DevOps, app modernization; software-led Data & AI services",
+  "city": "Bengaluru",
+  "company_name": "Impetus Technologies",
+  "country": "India",
+  "founded_date": "1991",
+  "primary_sector": "enterprise / data & AI services",
+  "public_private": "private",
+  "startup_stage": "growth/private (PE-backed)",
+  "state": "Karnataka",
+  "status": "active",
+  "official_website": {
+   "v": "https://www.impetus.com",
+   "conf": "high",
+   "src": "https://www.impetus.com",
+   "note": "verified live 2026-09-15: name match on own homepage"
+  },
+  "careers_website": {
+   "v": "https://www.impetus.com/careers/",
+   "conf": "high",
+   "src": "https://www.impetus.com",
+   "note": "careers link found on official homepage, probed live"
+  },
+  "website": "https://www.impetus.com"
+ },
+ "completeness_self": {
+  "financials": 5,
+  "founders": 3,
+  "funding": 7,
+  "identity": 6,
+  "investors": 7,
+  "legal": 0,
+  "people": 3,
+  "products": 5,
+  "sources": 7,
+  "traction": 4
+ },
+ "conflicts": [],
+ "events": [
+  {
+   "announced_date": "2025-01-01",
+   "confidence": "MEDIUM",
+   "date": "2025-01-01",
+   "description": "Kedaara Capital strategic investment exceeding $350M in Impetus (EY sole financial advisor); next Data/AI chapter.",
+   "headline": "Kedaara Capital $350M+ strategic investment in Impetus",
+   "source_url": "https://www.impetus.com/press-release/kedaara-capital-announces-a-350mn-strategic-investment-in-impetus-technologies-empowering-the-next-chapter-of-our-data-and-ai-journey/",
+   "type": "strategic_investment"
+  }
+ ],
+ "financials": [
+  {
+   "confidence": "LOW",
+   "currency": "INR",
+   "fiscal_year": "FY25",
+   "metric": "revenue (India entity)",
+   "source_title": "IMPETUS TECHNOLOGIES INDIA PRIVATE LIMITED - Tracxn",
+   "source_url": "https://tracxn.com/d/legal-entities/india/impetus-technologies-india-private-limited/__tkL8wwqOVwaWOybi4HHu8JknXjxWtnpfeMB2xBfFbhE",
+   "unit": "INR Cr",
+   "value": ">1000",
+   "value_type": "press-quoted-filing"
+  }
+ ],
+ "founders": [
+  {
+   "confidence": "LOW",
+   "name": "UNKNOWN",
+   "role": "Founders not verified in LITE pass",
+   "source_url": "",
+   "still_active": true,
+   "type": "founder"
+  }
+ ],
+ "funding_rounds": [
+  {
+   "all_investors": [
+    "Kedaara Capital"
+   ],
+   "amount": "350000000",
+   "announced_date": "2025-01-01",
+   "confidence": "MEDIUM",
+   "currency": "USD",
+   "lead_investors": [
+    "Kedaara Capital"
+   ],
+   "round_date": "2025-01-01",
+   "round_type": "strategic/PE growth",
+   "source_title": "Kedaara Capital Announces a $350mn+ Strategic Investment in Impetus Technologies",
+   "source_url": "https://www.impetus.com/press-release/kedaara-capital-announces-a-350mn-strategic-investment-in-impetus-technologies-empowering-the-next-chapter-of-our-data-and-ai-journey/",
+   "tier": "T1"
+  }
+ ],
+ "gaps": [
+  "Founders/CEO not verified — needs dedicated probe",
+  "CIN/incorporation date not captured",
+  "HQ is Los Gatos CA with Bengaluru India ops — registered-office split unverified",
+  "Audited financials not verified; India-entity revenue is aggregator-quoted",
+  "Note: mature IT-services firm (1991), startup-like only by dataset inclusion"
+ ],
+ "investor_links": [
+  {
+   "confidence": "MEDIUM",
+   "investor": "Kedaara Capital",
+   "investor_type": "PE",
+   "lead": true,
+   "rounds": [
+    "strategic/PE growth"
+   ],
+   "source_url": "https://www.impetus.com/press-release/kedaara-capital-announces-a-350mn-strategic-investment-in-impetus-technologies-empowering-the-next-chapter-of-our-data-and-ai-journey/"
+  }
+ ],
+ "research_log": [
+  {
+   "found": "ACTIVE; $350M+ Kedaara strategic investment; Los Gatos HQ + India ops; India entity FY25 revenue >1000 Cr (aggregator)",
+   "next_action": "Founder/CEO + CIN + audited financials in a gapfill wave",
+   "query": "Impetus status/acquisition; Kedaara/founders probe",
+   "unresolved": "Founders, CIN, HQ split, audited financials"
+  }
+ ],
+ "sources": [
+  {
+   "claim_supported": "$350M+ Kedaara strategic investment",
+   "fields_supported": [
+    "funding",
+    "investors"
+   ],
+   "publisher": "Impetus (company press release)",
+   "retrieved_date": "2026-09-15",
+   "tier": "T1",
+   "title": "Kedaara Capital Announces a $350mn+ Strategic Investment in Impetus Technologies",
+   "url": "https://www.impetus.com/press-release/kedaara-capital-announces-a-350mn-strategic-investment-in-impetus-technologies-empowering-the-next-chapter-of-our-data-and-ai-journey/"
+  },
+  {
+   "claim_supported": "EY sole advisor on $350M+ Kedaara funding",
+   "fields_supported": [
+    "funding"
+   ],
+   "publication_date": "2025-01-01",
+   "publisher": "EY",
+   "retrieved_date": "2026-09-15",
+   "tier": "T2",
+   "title": "Impetus Technologies raises strategic funding exceeding $350m from Kedaara Capital",
+   "url": "https://www.ey.com/en_in/technical/strategy-transactions/deal-alerts/2025/01/impetus-technologies-raises-strategic-funding-exceeding-dollor-350-m-from-kedaara-capital"
+  },
+  {
+   "claim_supported": "India entity FY25 revenue >Rs 1,000 Cr",
+   "fields_supported": [
+    "financials"
+   ],
+   "publisher": "Tracxn (legal entity)",
+   "retrieved_date": "2026-09-15",
+   "tier": "T2",
+   "title": "IMPETUS TECHNOLOGIES INDIA PRIVATE LIMITED - Tracxn",
+   "url": "https://tracxn.com/d/legal-entities/india/impetus-technologies-india-private-limited/__tkL8wwqOVwaWOybi4HHu8JknXjxWtnpfeMB2xBfFbhE"
+  }
+ ],
+ "startup_id": "impetus technologies",
+ "_merged_session2": true
+}

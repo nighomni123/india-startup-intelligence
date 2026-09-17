@@ -1,0 +1,42 @@
+{
+ "canonical_key": "kreditbee",
+ "updates": {
+  "company": {
+   "cin": "U65100KA2016PTC086990",
+   "incorporation_date": "2016-03-16",
+   "legal_name": "KrazyBee Services Private Limited (NBFC arm; converted to KrazyBee Services Limited per InstaFinancials)"
+  }
+ },
+ "sources": [
+  {
+   "url": "https://www.zaubacorp.com",
+   "title": "KRAZYBEE SERVICES PRIVATE LIMITED | ZaubaCorp",
+   "publication_date": "n.d.",
+   "fields": [
+    "cin",
+    "incorporation_date"
+   ],
+   "confidence": "medium-high"
+  },
+  {
+   "url": "https://www.instafinancials.com",
+   "title": "KRAZYBEE SERVICES LIMITED — InstaFinancials profile",
+   "publication_date": "n.d.",
+   "fields": [
+    "cin"
+   ],
+   "confidence": "medium"
+  }
+ ],
+ "log": [
+  {
+   "query": "KrazyBee Services Private Limited CIN incorporation",
+   "found": "CIN U65100KA2016PTC086990, incorporated 16 Mar 2016; PLC variant U65100KA2016PLC086990 after conversion",
+   "unresolved": ""
+  }
+ ],
+ "still_missing": [
+  "Finnovation Tech Solutions / Finnov Private Limited CINs",
+  "FY25/FY26 filing financials"
+ ]
+}

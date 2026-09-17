@@ -1,0 +1,339 @@
+{
+ "company": {
+  "business_model": "B2B/B2G launch services; Razor Crest Mk-1 fully reusable medium-lift vehicle (booster + upper stage recovery)",
+  "cin": "U35300KA2022PTC161867",
+  "city": "Bengaluru",
+  "company_name": "EtherealX (Ethereal Exploration Guild)",
+  "country": "India",
+  "founded_date": "2022",
+  "incorporation_date": "2022-05-30",
+  "legal_name": "Ethereal Exploration Guild Private Limited",
+  "primary_sector": "spacetech launch",
+  "public_private": "private",
+  "secondary_sectors": [
+   "defence-adjacent propulsion"
+  ],
+  "startup_stage": "Series A",
+  "state": "Karnataka",
+  "status": "active",
+  "website": "http://etherealx.space",
+  "official_website": {
+   "v": "https://www.etherealx.space",
+   "conf": "high",
+   "src": "https://www.etherealx.space",
+   "note": "verified live 2026-09-15: name match on own homepage"
+  }
+ },
+ "completeness_self": {
+  "financials": 6,
+  "founders": 8,
+  "funding": 8,
+  "identity": 9,
+  "investors": 7,
+  "legal": 5,
+  "people": 3,
+  "products": 7,
+  "sources": 8,
+  "traction": 5
+ },
+ "conflicts": [
+  {
+   "claim_a": "Founded 2022 (TechCrunch, ET, Tracxn)",
+   "claim_b": "Founded 2023 (UBOS secondary summary)",
+   "field": "founded_year",
+   "resolution": "2022 per primary press + MCA incorporation May 30 2022",
+   "resolved_value": "2022",
+   "url_a": "http://techcrunch.com/2024/08/05/indias-etherealx-puts-5m-seed-toward-fully-reusable-launch-vehicles",
+   "url_b": "https://ubos.tech/news/etherealx-secures-20-5-million-series-a-boosts-valuation-5-5x-indias-reusable-launch-vehicle-momentum"
+  },
+  {
+   "claim_a": "$80.5M post-money valuation (UBOS, Jan 2026)",
+   "claim_b": "No valuation disclosed in TechCrunch/SIA-India coverage",
+   "field": "series_a_valuation",
+   "resolution": "UBOS figure kept as press-quoted secondary only; primary outlets disclosed no valuation",
+   "resolved_value": "$80.5M (secondary, UNVERIFIED)",
+   "url_a": "https://ubos.tech/news/etherealx-secures-20-5-million-series-a-boosts-valuation-5-5x-indias-reusable-launch-vehicle-momentum",
+   "url_b": "http://techcrunch.com/2025/12/18/tdk-ventures-accel-set-to-back-indias-etherealx-in-reusable-launch-vehicle-push-sources"
+  }
+ ],
+ "customers": [],
+ "events": [
+  {
+   "announced_date": "2026-01-15",
+   "confidence": "HIGH",
+   "date": "2026-01",
+   "description": "Series A close announced at ~$20.5M co-led by TDK Ventures and BIG Capital; engine hot-fire tests targeted mid-2026, tech-demo flight late 2027, commercial launches from 2028; $130M customer MoUs reported.",
+   "headline": "EtherealX closes $20.5M Series A",
+   "source_url": "https://techcrunch.com/2026/01/15/etherealx-jumps-5-5x-in-valuation-on-spacex-style-reuse-bet-from-india/",
+   "type": "funding"
+  },
+  {
+   "announced_date": "2024-08-06",
+   "confidence": "HIGH",
+   "date": "2024-08",
+   "description": "$5M seed led by YourNest to build engines for fully reusable medium-lift vehicle; test facility completion + 40kN upper-stage engine qualification.",
+   "headline": "EtherealX raises $5M seed led by YourNest",
+   "source_url": "http://techcrunch.com/2024/08/05/indias-etherealx-puts-5m-seed-toward-fully-reusable-launch-vehicles",
+   "type": "funding"
+  }
+ ],
+ "financials": [
+  {
+   "confidence": "MEDIUM",
+   "currency": "INR",
+   "fiscal_year": "FY25",
+   "metric": "revenue",
+   "source_title": "ETHEREAL EXPLORATION GUILD PRIVATE LIMITED - Company Profile (Tracxn legal-entity page, MCA-derived)",
+   "source_url": "https://tracxn.com/d/legal-entities/india/ethereal-exploration-guild-private-limited/__sHfEP4DrxCZ2jqXqA7i13uPXxOSy0Fv4KW1rNtwcw2g",
+   "unit": "crore",
+   "value": 1.1,
+   "value_type": "press-quoted-filing"
+  }
+ ],
+ "founders": [
+  {
+   "background": "ex-ISRO scientist",
+   "confidence": "HIGH",
+   "name": "Shubhayu Sardar",
+   "role": "Co-founder & COO",
+   "source_url": "http://techcrunch.com/2025/12/18/tdk-ventures-accel-set-to-back-indias-etherealx-in-reusable-launch-vehicle-push-sources",
+   "still_active": true,
+   "type": "co-founder"
+  },
+  {
+   "background": "aerospace engineer",
+   "confidence": "HIGH",
+   "name": "Prashant Sharma",
+   "role": "Co-founder & CTO",
+   "source_url": "http://techcrunch.com/2025/12/18/tdk-ventures-accel-set-to-back-indias-etherealx-in-reusable-launch-vehicle-push-sources",
+   "still_active": true,
+   "type": "co-founder"
+  },
+  {
+   "confidence": "HIGH",
+   "name": "Manu J. Nair",
+   "role": "Co-founder & CEO",
+   "source_url": "http://techcrunch.com/2025/12/18/tdk-ventures-accel-set-to-back-indias-etherealx-in-reusable-launch-vehicle-push-sources",
+   "still_active": true,
+   "type": "co-founder"
+  }
+ ],
+ "funding_rounds": [
+  {
+   "all_investors": [
+    "YourNest",
+    "BIG Global Investments",
+    "BlueHill Capital",
+    "Campus Fund",
+    "Golden Sparrow Ventures"
+   ],
+   "amount": 5,
+   "announced_date": "2024-08-06",
+   "confidence": "HIGH",
+   "currency": "USD",
+   "lead_investors": [
+    "YourNest"
+   ],
+   "round_date": "2024-08",
+   "round_type": "Seed",
+   "source_date": "2024-08-06",
+   "source_title": "India's EtherealX puts $5M seed toward fully reusable launch vehicles | TechCrunch",
+   "source_url": "http://techcrunch.com/2024/08/05/indias-etherealx-puts-5m-seed-toward-fully-reusable-launch-vehicles",
+   "tier": "T3"
+  },
+  {
+   "all_investors": [
+    "TDK Ventures",
+    "BIG Capital",
+    "Accel",
+    "Prosus Ventures",
+    "YourNest Venture Capital",
+    "Bluehill.VC",
+    "Campus Fund",
+    "Riceberg Ventures"
+   ],
+   "amount": 20.5,
+   "announced_date": "2026-01-15",
+   "confidence": "HIGH",
+   "currency": "USD",
+   "lead_investors": [
+    "TDK Ventures",
+    "BIG Capital"
+   ],
+   "notes": "TechCrunch Dec 2025 reported round in progress at ~$20.5M; Jan 2026 close confirmed at $20.5M (~INR 185 Cr per SIA-India).",
+   "round_date": "2026-01",
+   "round_type": "Series A",
+   "source_date": "2026-01-16",
+   "source_title": "Spacetech startup Ethereal Exploration Guild raises $20.5 Mn in Series A round - SIA-India",
+   "source_url": "https://www.sia-india.com/spacetech-startup-ethereal-exploration-guild-raises-20-5-mn-in-series-a-round",
+   "tier": "T3"
+  }
+ ],
+ "gaps": [
+  "Audited MCA financials (P&L, net worth) not verified",
+  "Employee count post-Jul-2025 not verified",
+  "Valuation of Series A not disclosed by primary outlets",
+  "DPIIT recognition status not verified"
+ ],
+ "investor_links": [
+  {
+   "confidence": "HIGH",
+   "first_seen": "2024-08",
+   "investor": "YourNest Venture Capital",
+   "investor_type": "VC",
+   "lead": true,
+   "rounds": [
+    "Seed"
+   ],
+   "source_url": "http://techcrunch.com/2024/08/05/indias-etherealx-puts-5m-seed-toward-fully-reusable-launch-vehicles"
+  },
+  {
+   "confidence": "HIGH",
+   "first_seen": "2026-01",
+   "investor": "TDK Ventures",
+   "investor_type": "CVC",
+   "lead": true,
+   "rounds": [
+    "Series A"
+   ],
+   "source_url": "https://www.sia-india.com/spacetech-startup-ethereal-exploration-guild-raises-20-5-mn-in-series-a-round"
+  },
+  {
+   "confidence": "HIGH",
+   "first_seen": "2024-08",
+   "investor": "Accel",
+   "investor_type": "VC",
+   "lead": false,
+   "rounds": [
+    "Seed",
+    "Series A"
+   ],
+   "source_url": "https://www.sia-india.com/spacetech-startup-ethereal-exploration-guild-raises-20-5-mn-in-series-a-round"
+  },
+  {
+   "confidence": "MEDIUM",
+   "first_seen": "2026-01",
+   "investor": "Prosus Ventures",
+   "investor_type": "VC",
+   "lead": false,
+   "rounds": [
+    "Series A"
+   ],
+   "source_url": "https://www.sia-india.com/spacetech-startup-ethereal-exploration-guild-raises-20-5-mn-in-series-a-round"
+  }
+ ],
+ "investors_meta": [],
+ "legal": [],
+ "locations": [
+  {
+   "address_or_area": "1st Floor, UrbanVault Citrine, Hebbal, Bellary Road, Kodigehalli, Bangalore North",
+   "as_of": "2026-01",
+   "city": "Bengaluru",
+   "confidence": "MEDIUM",
+   "source_url": "https://tracxn.com/d/legal-entities/india/ethereal-exploration-guild-private-limited/__sHfEP4DrxCZ2jqXqA7i13uPXxOSy0Fv4KW1rNtwcw2g",
+   "state": "Karnataka",
+   "type": "registered"
+  }
+ ],
+ "partnerships": [],
+ "people": [],
+ "products": [
+  {
+   "category": "launch vehicle",
+   "description": "Fully reusable medium-lift launch vehicle (Razor Crest Mk-1); booster + upper-stage recovery; Pegasus 2.0 upper-stage engine in development",
+   "name": "Razor Crest Mk-1",
+   "source_url": "http://techcrunch.com/2025/12/18/tdk-ventures-accel-set-to-back-indias-etherealx-in-reusable-launch-vehicle-push-sources",
+   "status": "in-development"
+  }
+ ],
+ "research_log": [
+  {
+   "found": "ACTIVE; Series A $20.5M Jan 2026; CIN U35300KA2022PTC161867; incorp May 30 2022; FY25 revenue Rs 1.1Cr (Tracxn MCA-derived)",
+   "next_action": "Write enrich JSON",
+   "query": "EtherealX status/shutdown/acquisition + funding/valuation/revenue/founders/CIN",
+   "unresolved": "Audited financials; post-2025 headcount; Series A valuation"
+  }
+ ],
+ "sources": [
+  {
+   "fields_supported": [
+    "status",
+    "founders",
+    "funding",
+    "product"
+   ],
+   "publication_date": "2025-12-18",
+   "publisher": "TechCrunch",
+   "retrieved_date": "2026-09-15",
+   "tier": "T3",
+   "title": "TDK Ventures, Accel set to back India's EtherealX in reusable launch vehicle push: Sources",
+   "url": "http://techcrunch.com/2025/12/18/tdk-ventures-accel-set-to-back-indias-etherealx-in-reusable-launch-vehicle-push-sources"
+  },
+  {
+   "fields_supported": [
+    "funding",
+    "investors",
+    "roadmap",
+    "valuation_claim_secondary"
+   ],
+   "publication_date": "2026-01-16",
+   "publisher": "SIA-India",
+   "retrieved_date": "2026-09-15",
+   "tier": "T4",
+   "title": "Spacetech startup Ethereal Exploration Guild raises $20.5 Mn in Series A round",
+   "url": "https://www.sia-india.com/spacetech-startup-ethereal-exploration-guild-raises-20-5-mn-in-series-a-round"
+  },
+  {
+   "fields_supported": [
+    "funding",
+    "founders",
+    "investors"
+   ],
+   "publication_date": "2024-08-06",
+   "publisher": "TechCrunch",
+   "retrieved_date": "2026-09-15",
+   "tier": "T3",
+   "title": "India's EtherealX puts $5M seed toward fully reusable launch vehicles",
+   "url": "http://techcrunch.com/2024/08/05/indias-etherealx-puts-5m-seed-toward-fully-reusable-launch-vehicles"
+  },
+  {
+   "fields_supported": [
+    "cin",
+    "incorporation_date",
+    "registered_office",
+    "revenue"
+   ],
+   "publication_date": "2026-01-15",
+   "publisher": "Tracxn (MCA-derived legal-entity page)",
+   "retrieved_date": "2026-09-15",
+   "tier": "T2",
+   "title": "ETHEREAL EXPLORATION GUILD PRIVATE LIMITED - Company Profile",
+   "url": "https://tracxn.com/d/legal-entities/india/ethereal-exploration-guild-private-limited/__sHfEP4DrxCZ2jqXqA7i13uPXxOSy0Fv4KW1rNtwcw2g"
+  },
+  {
+   "fields_supported": [
+    "funding",
+    "valuation",
+    "roadmap"
+   ],
+   "publication_date": "2026-01-15",
+   "publisher": "TechCrunch",
+   "retrieved_date": "2026-09-15",
+   "tier": "T3",
+   "title": "Indian SpaceX rival EtherealX hits 5x valuation as it readies engine tests (vault-fetched)",
+   "url": "https://techcrunch.com/2026/01/15/etherealx-jumps-5-5x-in-valuation-on-spacex-style-reuse-bet-from-india/"
+  }
+ ],
+ "startup_id": "etherealx ethereal exploration",
+ "traction": [
+  {
+   "as_of": "2026-01",
+   "company_reported": true,
+   "confidence": "MEDIUM",
+   "metric": "signed launch MoUs",
+   "source_url": "https://www.angelone.in/news/unlisted-companies/spacetech-startup-etherealx-secures-20-million-in-funding-led-by-tdk-ventures-and-big-capital",
+   "value": "$130M"
+  }
+ ],
+ "_merged_session2": true
+}

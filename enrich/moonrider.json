@@ -1,0 +1,257 @@
+{
+ "company": {
+  "business_model": "B2B manufacturing + fleet partnerships",
+  "cin": "UNKNOWN",
+  "city": "Bengaluru",
+  "company_name": "Moonrider",
+  "country": "India",
+  "founded_date": "August 2023",
+  "incorporation_date": "UNKNOWN",
+  "primary_sector": "EV tractors / agri-tech",
+  "public_private": "private",
+  "startup_stage": "series-a",
+  "state": "Karnataka",
+  "status": "active",
+  "website": "https://www.moonrider.ai/about-us",
+  "official_website": {
+   "v": "https://www.moonrider.ai",
+   "conf": "high",
+   "src": "https://www.moonrider.ai",
+   "note": "verified live 2026-09-15: name match on own homepage"
+  },
+  "careers_website": {
+   "v": "https://www.moonrider.ai/careers",
+   "conf": "high",
+   "src": "https://www.moonrider.ai",
+   "note": "careers link found on official homepage, probed live"
+  }
+ },
+ "completeness_self": {
+  "financials": 2,
+  "founders": 9,
+  "funding": 9,
+  "identity": 8,
+  "investors": 8,
+  "legal": 5,
+  "people": 4,
+  "products": 7,
+  "sources": 8,
+  "traction": 7
+ },
+ "conflicts": [],
+ "events": [
+  {
+   "announced_date": "2025-01-07",
+   "confidence": "HIGH",
+   "date": "2025-01-07",
+   "description": "$2.2M seed co-led by AdvantEdge Founders and Micelio Technology Fund for vehicle engineering, software, battery tech.",
+   "headline": "Moonrider raises $2.2M seed",
+   "source_url": "https://auto.economictimes.indiatimes.com/news/automotive/moonrider-secures-usd-2-2mn-seed-funding-for-electric-tractors/117021451",
+   "type": "funding"
+  },
+  {
+   "announced_date": "2025-12-10",
+   "confidence": "HIGH",
+   "date": "2025-12-10",
+   "description": "$6M Series A led by PI Ventures with Singularity AMC; first 100 tractors, commercial rollout from Feb 2026; NATRAX approvals for 27/50/75 HP.",
+   "headline": "Moonrider raises $6M Series A",
+   "source_url": "https://www.cnbctv18.com/business/startup/moonrider-series-a-funding-ev-tractor-commercial-rollout-2026-19787858.htm",
+   "type": "funding"
+  },
+  {
+   "announced_date": "2026-08-21",
+   "confidence": "MEDIUM",
+   "date": "2026-08-21",
+   "description": "27HP electric tractor taken to the US in partnership with GoSun; priced $19,995; solar-charging variant.",
+   "headline": "GoSun-Moonrider 27HP launch in US",
+   "source_url": "https://www.cmv360.com/news/gosun-moonrider-27-hp-electric-tractor-heads-to-the-us-with-solar-charging",
+   "type": "partnership + international launch"
+  }
+ ],
+ "financials": [],
+ "founders": [
+  {
+   "background": "Mechanical engineer, Cornell management; Toyota Kirloskar, 9+ yrs Volvo Group global vehicle programmes, Accenture e-mobility, head of product development at Ola",
+   "confidence": "HIGH",
+   "name": "Anoop Srikantaswamy",
+   "role": "Co-founder & CEO",
+   "source_url": "https://economictimes.indiatimes.com/news/new-updates/he-could-have-joined-tesla-instead-this-bengaluru-engineer-quit-toyota-and-volvo-to-build-electric-tractors-for-farmers/articleshow/132726554.cms",
+   "still_active": true,
+   "type": "co-founder"
+  },
+  {
+   "background": "Former Volvo Group colleague of Srikantaswamy",
+   "confidence": "HIGH",
+   "name": "Ravi Kulkarni",
+   "role": "Co-founder & COO",
+   "source_url": "https://www.moonrider.ai/about-us",
+   "still_active": true,
+   "type": "co-founder"
+  }
+ ],
+ "funding_rounds": [
+  {
+   "all_investors": [
+    "AdvantEdge Founders",
+    "Micelio Technology Fund",
+    "angel investors"
+   ],
+   "amount": 2.2,
+   "announced_date": "2025-01-07",
+   "confidence": "HIGH",
+   "currency": "USD",
+   "lead_investors": [
+    "AdvantEdge Founders",
+    "Micelio Technology Fund"
+   ],
+   "purpose": "Vehicle engineering, software, battery technology",
+   "round_date": "2025-01-07",
+   "round_type": "seed",
+   "source_date": "2025-01-07",
+   "source_title": "Moonrider secures USD 2.2mn seed funding for electric tractors",
+   "source_url": "https://auto.economictimes.indiatimes.com/news/automotive/moonrider-secures-usd-2-2mn-seed-funding-for-electric-tractors/117021451",
+   "tier": "T3"
+  },
+  {
+   "all_investors": [
+    "PI Ventures",
+    "Singularity AMC",
+    "existing investors"
+   ],
+   "amount": 6,
+   "announced_date": "2025-12-10",
+   "confidence": "HIGH",
+   "currency": "USD",
+   "lead_investors": [
+    "PI Ventures"
+   ],
+   "purpose": "Deliver first 100 tractors, manufacturing scale-up, field validation, supply chain",
+   "round_date": "2025-12-10",
+   "round_type": "series-a",
+   "source_date": "2025-12-10",
+   "source_title": "Moonrider raises $6 million in Series A round",
+   "source_url": "https://www.cnbctv18.com/business/startup/moonrider-series-a-funding-ev-tractor-commercial-rollout-2026-19787858.htm",
+   "tier": "T3"
+  }
+ ],
+ "gaps": [
+  "CIN/incorporation date not verified via registry aggregator",
+  "No audited revenue/financials",
+  "Angel round $107.5k (Jul 2024, per LinkedIn-derived data) not corroborated by press — excluded from rounds"
+ ],
+ "investor_links": [
+  {
+   "confidence": "HIGH",
+   "first_seen": "2025-01-07",
+   "investor": "AdvantEdge Founders",
+   "investor_type": "VC",
+   "lead": true,
+   "rounds": [
+    "seed"
+   ],
+   "source_url": "https://auto.economictimes.indiatimes.com/news/automotive/moonrider-secures-usd-2-2mn-seed-funding-for-electric-tractors/117021451"
+  },
+  {
+   "confidence": "HIGH",
+   "first_seen": "2025-01-07",
+   "investor": "Micelio Technology Fund",
+   "investor_type": "VC",
+   "lead": true,
+   "rounds": [
+    "seed"
+   ],
+   "source_url": "https://auto.economictimes.indiatimes.com/news/automotive/moonrider-secures-usd-2-2mn-seed-funding-for-electric-tractors/117021451"
+  },
+  {
+   "confidence": "HIGH",
+   "first_seen": "2025-12-10",
+   "investor": "PI Ventures",
+   "investor_type": "VC",
+   "lead": true,
+   "rounds": [
+    "series-a"
+   ],
+   "source_url": "https://www.cnbctv18.com/business/startup/moonrider-series-a-funding-ev-tractor-commercial-rollout-2026-19787858.htm"
+  },
+  {
+   "confidence": "MEDIUM",
+   "first_seen": "2025-12-10",
+   "investor": "Singularity AMC",
+   "investor_type": "VC",
+   "lead": false,
+   "rounds": [
+    "series-a"
+   ],
+   "source_url": "https://www.cnbctv18.com/business/startup/moonrider-series-a-funding-ev-tractor-commercial-rollout-2026-19787858.htm"
+  }
+ ],
+ "research_log": [
+  {
+   "found": "CNBC TV18 Series A $6M detail; ET Jul-2026 founder feature; LinkedIn company stats",
+   "query": "Moonrider EV tractor startup status shutdown acquisition 2025 2026",
+   "unresolved": "Registry data"
+  },
+  {
+   "found": "Seed $2.2M co-leads, founded Aug 2023, founder backgrounds",
+   "query": "Moonrider founders Anoop Srikantaswamy Ravi Kulkarni seed funding",
+   "unresolved": "CIN"
+  }
+ ],
+ "sources": [
+  {
+   "claim_supported": "Series A $6M, PI Ventures lead, 100 tractors, NATRAX, fleet partnerships",
+   "fields_supported": [
+    "funding_rounds",
+    "investor_links",
+    "events"
+   ],
+   "publication_date": "2025-12-10",
+   "publisher": "CNBC TV18",
+   "retrieved_date": "2026-09-15",
+   "tier": "T3",
+   "title": "Moonrider raises $6 million in Series A round",
+   "url": "https://www.cnbctv18.com/business/startup/moonrider-series-a-funding-ev-tractor-commercial-rollout-2026-19787858.htm"
+  },
+  {
+   "claim_supported": "Seed $2.2M, co-leads, founded Aug 2023",
+   "fields_supported": [
+    "funding_rounds",
+    "company",
+    "founders"
+   ],
+   "publication_date": "2025-01-07",
+   "publisher": "ET Auto",
+   "retrieved_date": "2026-09-15",
+   "tier": "T3",
+   "title": "Moonrider secures USD 2.2mn seed funding for electric tractors",
+   "url": "https://auto.economictimes.indiatimes.com/news/automotive/moonrider-secures-usd-2-2mn-seed-funding-for-electric-tractors/117021451"
+  },
+  {
+   "claim_supported": "Founder backgrounds, 27/50/75 HP, ~$8.4M total raised, 6000 commitments",
+   "fields_supported": [
+    "founders",
+    "traction"
+   ],
+   "publication_date": "2026-07-30",
+   "publisher": "Economic Times",
+   "retrieved_date": "2026-09-15",
+   "tier": "T3",
+   "title": "He could have joined Tesla. Instead, this Bengaluru techie quit Toyota and Volvo to build electric tractors",
+   "url": "https://economictimes.indiatimes.com/news/new-updates/he-could-have-joined-tesla-instead-this-bengaluru-engineer-quit-toyota-and-volvo-to-build-electric-tractors-for-farmers/articleshow/132726554.cms"
+  },
+  {
+   "claim_supported": "US launch with GoSun, 27HP specs",
+   "fields_supported": [
+    "events"
+   ],
+   "publication_date": "2026-09-14",
+   "publisher": "CMV360",
+   "retrieved_date": "2026-09-15",
+   "tier": "T3",
+   "title": "GoSun Moonrider 27 HP Electric Tractor With Solar Charging",
+   "url": "https://www.cmv360.com/news/gosun-moonrider-27-hp-electric-tractor-heads-to-the-us-with-solar-charging"
+  }
+ ],
+ "startup_id": "moonrider",
+ "_merged_session2": true
+}

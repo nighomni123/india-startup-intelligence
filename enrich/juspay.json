@@ -1,0 +1,1636 @@
+{
+ "acquisitions": [],
+ "canonical_key": "juspay",
+ "company": {
+  "business_model": "payments orchestration / infrastructure SaaS, per-transaction commission",
+  "city": "Bengaluru",
+  "company_name": "Juspay",
+  "confidence": "HIGH",
+  "country": "India",
+  "founded_date": "2012",
+  "incorporation_date": "2012-08-29",
+  "legal_name": "Juspay Technologies Private Limited",
+  "primary_sector": "fintech payments infrastructure",
+  "startup_id": "juspay",
+  "startup_stage": "unicorn (Series D)",
+  "state": "Karnataka",
+  "status": "active private",
+  "website": "https://juspay.io",
+  "official_website": {
+   "v": "https://juspay.io",
+   "conf": "high",
+   "src": "https://juspay.io",
+   "note": "verified live 2026-09-15: name match on own homepage"
+  },
+  "careers_website": {
+   "v": "https://juspay.io/careers",
+   "conf": "high",
+   "src": "https://juspay.io",
+   "note": "careers link found on official homepage, probed live"
+  },
+  "cin": {
+   "v": "U66190KA2012PTC098522",
+   "conf": "HIGH",
+   "src": "https://www.zaubacorp.com/JUSPAY-TECHNOLOGIES-PRIVATE-LIMITED-U74900KA2012PTC098522",
+   "note": "CIN confirmed across multiple registry aggregators",
+   "asof": "2026-09-15"
+  },
+  "description": {
+   "v": "Full-stack payments infrastructure: orchestration, checkout, authentication, tokenisation, payouts, analytics; powers ~300M daily transactions for 500+ enterprises; RBI PA licence holder; open-source Hyperswitch platform",
+   "conf": "HIGH",
+   "src": "https://juspay.io/newsroom/juspay-reports-record-profitability-with-a-strong-61-yoy-revenue-growth-in-fy25",
+   "note": "FY25 company-reported metrics",
+   "asof": "2025-11-12"
+  },
+  "employee_estimate": {
+   "v": 2115,
+   "unit": "employees",
+   "conf": "MEDIUM",
+   "src": "https://www.reveliolabs.com/companies/juspay/employees",
+   "note": "Revelio Labs estimate for 2025; LinkedIn says 1001-5000",
+   "asof": "2025"
+  },
+  "public_private": {
+   "v": "private",
+   "conf": "HIGH",
+   "src": "https://juspay.io",
+   "note": "not listed; last round Jan 2026",
+   "asof": "2026-09-15"
+  },
+  "hq_type": {
+   "v": "HQ",
+   "conf": "HIGH",
+   "src": "https://www.zaubacorp.com/JUSPAY-TECHNOLOGIES-PRIVATE-LIMITED-U74900KA2012PTC098522",
+   "note": "registered office and HQ both Bengaluru",
+   "asof": "2026-09-15"
+  },
+  "registered_office": {
+   "v": "Stallion Business Centre, No. 444, 3rd & 4th Floor, 18th Main, 6th Block, Koramangala, Bengaluru, Karnataka 560095",
+   "conf": "HIGH",
+   "src": "https://www.zaubacorp.com/JUSPAY-TECHNOLOGIES-PRIVATE-LIMITED-U74900KA2012PTC098522",
+   "note": "verified via ZaubaCorp/Tofler/InstaFinancials",
+   "asof": "2026-09-15"
+  }
+ },
+ "competitors": [],
+ "completeness_self": {
+  "customers": 6,
+  "financials": 9,
+  "founders": 9,
+  "funding": 9,
+  "identity": 9,
+  "investors": 8,
+  "legal": 6,
+  "people": 4,
+  "products": 7,
+  "sources": 9,
+  "traction": 9
+ },
+ "conflicts": [
+  {
+   "claim_a": "First unicorn of 2026 (Jan 2026, $1.2Bn)",
+   "field": "unicorn timing",
+   "resolution": "Jan 2026 $50Mn WestBridge round at $1.2Bn is the documented unicorn event; some secondary pages say 2025/$1Bn (Apr 2025 $60Mn at $900Mn-$1Bn) — use Jan 2026 per Entrackr/Inc42/ET.",
+   "resolved_value": "Jan 2026, $1.2Bn",
+   "url_a": "https://entrackr.com/news/juspay-raises-50-mn-from-westbridge-capital-at-12-bn-valuation-11023645",
+   "url_b": "https://currentaffairs.adda247.com/juspay-becomes-indias-first-unicorn-of-2025-1-billion-valuation-achieved/"
+  },
+  {
+   "claim_a": "Rs 514 Cr net revenue +48% (ET)",
+   "field": "FY25 revenue growth %",
+   "resolution": "Inc42 cites operating revenue Rs 514.31 Cr +61% from Rs 319.32 Cr; ET cites net revenue +48% from Rs 347 Cr — different revenue definitions; keep both with labels.",
+   "resolved_value": "See financials",
+   "url_a": "https://economictimes.indiatimes.com/tech/startups/juspay-turns-profitable-posts-rs-62-crore-net-profit-revenue-rises-to-rs-514-crore/articleshow/125254516.cms",
+   "url_b": "https://inc42.com/buzz/juspay-turns-profitable-in-fy25-posts-inr-62-cr-net-profit/"
+  },
+  {
+   "field": "FY25 revenue",
+   "claim_a": "Rs 514.31 Cr (+61% YoY)",
+   "url_a": "https://inc42.com/buzz/juspay-turns-profitable-in-fy25-posts-inr-62-cr-net-profit/",
+   "claim_b": "Rs 539.5 Cr (+55.2% YoY)",
+   "url_b": "https://inc42.com",
+   "resolution": "Different revenue definitions (operating vs total); keep both with labels",
+   "resolved_value": "Rs 514.31 Cr operating revenue; Rs 539.5 Cr total revenue"
+  },
+  {
+   "field": "FY25 net profit",
+   "claim_a": "Rs 62 Cr",
+   "url_a": "https://economictimes.indiatimes.com/tech/startups/juspay-turns-profitable-posts-rs-62-crore-net-profit-revenue-rises-to-rs-514-crore/articleshow/125254516.cms",
+   "claim_b": "$14M (~Rs 115 Cr)",
+   "url_b": "https://thefintechtimes.com/juspay-hits-1tn-annualised-transaction-volume-as-revenue-surges-61-in-fy25/",
+   "resolution": "Different reporting; Rs 62 Cr is the widely cited figure; $14M may include other income",
+   "resolved_value": "Rs 62 Cr PAT (most widely cited)"
+  },
+  {
+   "field": "unicorn timing",
+   "claim_a": "Jan 2026, $1.2Bn (WestBridge)",
+   "url_a": "https://entrackr.com/news/juspay-raises-50-mn-from-westbridge-capital-at-12-bn-valuation-11023645",
+   "claim_b": "2025, $1Bn (Apr 2025 $60Mn at $900Mn-$1Bn)",
+   "url_b": "https://currentaffairs.adda247.com/juspay-becomes-indias-first-unicorn-of-2025-1-billion-valuation-achieved/",
+   "resolution": "Jan 2026 $50Mn WestBridge round at $1.2Bn is the documented unicorn event",
+   "resolved_value": "Jan 2026, $1.2Bn"
+  }
+ ],
+ "customers": [
+  {
+   "name": "Amazon",
+   "type": "enterprise merchant",
+   "announced_date": "unknown",
+   "status": "active (as of 2025)",
+   "source_url": "https://www.linkedin.com/posts/abrolneha_fintechflash-indianfintech-fintech-activity-7465249008505024513-Zonb",
+   "confidence": "MEDIUM"
+  },
+  {
+   "name": "Airtel",
+   "type": "enterprise merchant",
+   "announced_date": "unknown",
+   "status": "active (as of 2025)",
+   "source_url": "https://www.linkedin.com/posts/abrolneha_fintechflash-indianfintech-fintech-activity-7465249008505024513-Zonb",
+   "confidence": "MEDIUM"
+  },
+  {
+   "name": "HDFC",
+   "type": "enterprise/bank partner",
+   "announced_date": "unknown",
+   "status": "active (as of 2025)",
+   "source_url": "https://www.linkedin.com/posts/abrolneha_fintechflash-indianfintech-fintech-activity-7465249008505024513-Zonb",
+   "confidence": "MEDIUM"
+  },
+  {
+   "name": "PhonePe",
+   "type": "enterprise merchant (former partner)",
+   "announced_date": "2025-01",
+   "status": "exited Juspay partnership early 2025; moved to direct merchant integration",
+   "source_url": "https://www.outlookbusiness.com/news/after-phonepe-razorpay-cashfree-exit-juspay-partnership-opt-for-direct-merchant-integration",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Swiggy",
+   "type": "enterprise merchant",
+   "announced_date": "unknown",
+   "status": "active (as of 2025)",
+   "source_url": "https://www.linkedin.com/posts/abrolneha_fintechflash-indianfintech-fintech-activity-7465249008505024513-Zonb",
+   "confidence": "MEDIUM"
+  },
+  {
+   "name": "MakeMyTrip",
+   "type": "enterprise merchant",
+   "announced_date": "unknown",
+   "status": "historical customer (2021 breach context)",
+   "source_url": "https://www.facebook.com/ndtv/posts/the-database-is-linked-to-juspay-a-gateway-used-by-swiggy-flipkart-amazon-and-ot/10159438946145798/",
+   "confidence": "LOW"
+  },
+  {
+   "name": "Flipkart",
+   "type": "enterprise merchant",
+   "announced_date": "unknown",
+   "status": "historical customer (2021 breach context)",
+   "source_url": "https://www.facebook.com/ndtv/posts/the-database-is-linked-to-juspay-a-gateway-used-by-swiggy-flipkart-amazon-and-ot/10159438946145798/",
+   "confidence": "LOW"
+  },
+  {
+   "name": "Uber",
+   "type": "enterprise merchant",
+   "announced_date": "unknown",
+   "status": "historical customer (2021 breach context)",
+   "source_url": "https://www.facebook.com/ndtv/posts/the-database-is-linked-to-juspay-a-gateway-used-by-swiggy-flipkart-amazon-and-ot/10159438946145798/",
+   "confidence": "LOW"
+  },
+  {
+   "name": "Gullak",
+   "type": "merchant (HyperUPI)",
+   "announced_date": "2023-09",
+   "status": "first merchant to integrate HyperUPI",
+   "source_url": "https://www.businesswireindia.com/juspay-launches-npci-s-upi-plug-in-sdk-in-partnership-with-yes-bank-gullak-becomes-the-first-merchant-to-integrate-86379.html",
+   "confidence": "HIGH"
+  }
+ ],
+ "events": [
+  {
+   "announced_date": "2025-04-07",
+   "confidence": "HIGH",
+   "date": "2025-04-07",
+   "description": "$60Mn Series D led by Kedaara Capital, SoftBank + Accel participated; valued ~$900Mn",
+   "headline": "Series D $60Mn",
+   "source_url": "https://entrackr.com/news/juspay-secures-60-mn-from-kedaara-softbank-and-accel-8934673",
+   "type": "funding"
+  },
+  {
+   "announced_date": "2026-01-23",
+   "confidence": "HIGH",
+   "date": "2026-01-23",
+   "description": "$50Mn Series D follow-on from WestBridge Capital at $1.2Bn; first unicorn of 2026",
+   "headline": "Series D follow-on $50Mn at $1.2Bn",
+   "source_url": "https://entrackr.com/news/juspay-raises-50-mn-from-westbridge-capital-at-12-bn-valuation-11023645",
+   "type": "funding"
+  },
+  {
+   "announced_date": "2024-02",
+   "confidence": "HIGH",
+   "date": "2024-02",
+   "description": "Payment aggregator licence from RBI",
+   "headline": "RBI PA licence",
+   "source_url": "https://economictimes.indiatimes.com/tech/startups/juspay-turns-profitable-posts-rs-62-crore-net-profit-revenue-rises-to-rs-514-crore/articleshow/125254516.cms",
+   "type": "regulatory"
+  },
+  {
+   "type": "funding",
+   "headline": "Series C $60M led by SoftBank",
+   "date": "2021-12-15",
+   "description": "Raised $60M in Series C led by SoftBank Vision Fund 2; valued at $460M",
+   "source_url": "https://www.moneycontrol.com/news/business/companies/juspay-raises-60-million-in-series-c-funding-led-by-softbank-7828111.html",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "regulatory",
+   "headline": "RBI Payment Aggregator licence",
+   "date": "2024-02-07",
+   "description": "RBI approved Juspay's application to operate as a payment aggregator",
+   "source_url": "https://yourstory.com/2024/02/juspay-zoho-receive-rbi-payment-aggregator-license",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "partnership",
+   "headline": "HyperUPI launch with Yes Bank",
+   "date": "2023-09-12",
+   "description": "Launched NPCI's UPI plug-in SDK in partnership with Yes Bank; Gullak first merchant",
+   "source_url": "https://bfsi.eletsonline.com/yes-bank-partners-with-juspay-launches-hyperupi-a-upi-based-plug-in-service/",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "funding",
+   "headline": "Series D $60M led by Kedaara Capital",
+   "date": "2025-04-07",
+   "description": "Raised $60M from Kedaara Capital (lead), SoftBank, Accel; valued ~$900M",
+   "source_url": "https://entrackr.com/news/juspay-secures-60-mn-from-kedaara-softbank-and-accel-8934673",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "partnership",
+   "headline": "PhonePe, Razorpay, Cashfree exit Juspay",
+   "date": "2025-01-20",
+   "description": "Major payment aggregators moved away from Juspay orchestration to direct merchant integration",
+   "source_url": "https://www.business-standard.com/finance/news/fintechs-shift-to-direct-merchant-integration-move-away-from-juspay-125012001137_1.html",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "funding",
+   "headline": "Series D follow-on $50M from WestBridge at $1.2Bn",
+   "date": "2026-01-23",
+   "description": "First unicorn of 2026; $50M follow-on at $1.2Bn valuation",
+   "source_url": "https://entrackr.com/news/juspay-raises-50-mn-from-westbridge-capital-at-12-bn-valuation-11023645",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "product_launch",
+   "headline": "Hyperswitch open-source expansion to US/Europe/UK",
+   "date": "2025-03-25",
+   "description": "Juspay open-sourced its payments routing engine and expanded Hyperswitch globally",
+   "source_url": "https://juspay.io/newsroom/hyperswitch-by-juspay-world-s-first-open-source-payment-orchestration-platform-expands-to-the-us",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "partnership",
+   "headline": "Juspay joins Mastercard Engage network",
+   "date": "2026-06-01",
+   "description": "Certified third-party partner for Mastercard Click to Pay; expanding across Asia after Brazil rollout",
+   "source_url": "https://juspay.io",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "financial",
+   "headline": "FY25 profitability report",
+   "date": "2025-11-12",
+   "description": "Revenue Rs 514 Cr (+61% YoY), PAT Rs 62 Cr; daily transactions 300M+; annualised TPV $1Tn",
+   "source_url": "https://juspay.io/newsroom/juspay-reports-record-profitability-with-a-strong-61-yoy-revenue-growth-in-fy25",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "security_incident",
+   "headline": "Data breach (historical)",
+   "date": "2020-08-18",
+   "description": "Data breach detected Aug 2020, disclosed Jan 2021; ~35M user records compromised via unrecycled AWS access key",
+   "source_url": "https://cisomag.com",
+   "confidence": "HIGH",
+   "note": "Historical event; not 2024-26 but relevant context"
+  },
+  {
+   "type": "lawsuit",
+   "headline": "PhonePe/Razorpay/Cashfree dispute",
+   "date": "2024-12",
+   "description": "Payment aggregators pushed merchants away from Juspay orchestration; commercially overcome",
+   "source_url": "https://economictimes.indiatimes.com/tech/startups/juspay-turns-profitable-posts-rs-62-crore-net-profit-revenue-rises-to-rs-514-crore/articleshow/125254516.cms",
+   "confidence": "MEDIUM"
+  }
+ ],
+ "financials": [
+  {
+   "confidence": "HIGH",
+   "currency": "INR",
+   "fiscal_year": "FY24",
+   "metric": "revenue_operations",
+   "source_title": "Juspay Turns Profitable in FY25 (Inc42)",
+   "source_url": "https://inc42.com/buzz/juspay-turns-profitable-in-fy25-posts-inr-62-cr-net-profit/",
+   "unit": "crore",
+   "value": "319.32",
+   "value_type": "press-quoted-filing"
+  },
+  {
+   "confidence": "HIGH",
+   "currency": "INR",
+   "fiscal_year": "FY24",
+   "metric": "pat",
+   "source_title": "ET Juspay turns profitable",
+   "source_url": "https://economictimes.indiatimes.com/tech/startups/juspay-turns-profitable-posts-rs-62-crore-net-profit-revenue-rises-to-rs-514-crore/articleshow/125254516.cms",
+   "unit": "crore",
+   "value": "-97",
+   "value_type": "press-quoted-filing"
+  },
+  {
+   "confidence": "HIGH",
+   "currency": "INR",
+   "fiscal_year": "FY25",
+   "metric": "revenue_operations",
+   "source_title": "Juspay Turns Profitable in FY25 (Inc42)",
+   "source_url": "https://inc42.com/buzz/juspay-turns-profitable-in-fy25-posts-inr-62-cr-net-profit/",
+   "unit": "crore",
+   "value": "514.31",
+   "value_type": "press-quoted-filing"
+  },
+  {
+   "confidence": "HIGH",
+   "currency": "INR",
+   "fiscal_year": "FY25",
+   "metric": "pat",
+   "source_title": "ET Juspay turns profitable",
+   "source_url": "https://economictimes.indiatimes.com/tech/startups/juspay-turns-profitable-posts-rs-62-crore-net-profit-revenue-rises-to-rs-514-crore/articleshow/125254516.cms",
+   "unit": "crore",
+   "value": "62",
+   "value_type": "press-quoted-filing"
+  },
+  {
+   "fiscal_year": "FY24",
+   "metric": "revenue_operations",
+   "value": 319.32,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "press-quoted-filing",
+   "basis": "standalone",
+   "consolidated": "no",
+   "source_url": "https://inc42.com/buzz/juspay-turns-profitable-in-fy25-posts-inr-62-cr-net-profit/",
+   "source_title": "Juspay Turns Profitable in FY25 (Inc42)",
+   "confidence": "HIGH",
+   "notes": "operating revenue"
+  },
+  {
+   "fiscal_year": "FY24",
+   "metric": "pat",
+   "value": -97,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "press-quoted-filing",
+   "basis": "standalone",
+   "consolidated": "no",
+   "source_url": "https://economictimes.indiatimes.com/tech/startups/juspay-turns-profitable-posts-rs-62-crore-net-profit-revenue-rises-to-rs-514-crore/articleshow/125254516.cms",
+   "source_title": "ET Juspay turns profitable",
+   "confidence": "HIGH",
+   "notes": "net loss"
+  },
+  {
+   "fiscal_year": "FY25",
+   "metric": "revenue_operations",
+   "value": 514.31,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "press-quoted-filing",
+   "basis": "standalone",
+   "consolidated": "no",
+   "source_url": "https://inc42.com/buzz/juspay-turns-profitable-in-fy25-posts-inr-62-cr-net-profit/",
+   "source_title": "Juspay Turns Profitable in FY25 (Inc42)",
+   "confidence": "HIGH",
+   "notes": "operating revenue; +61% YoY"
+  },
+  {
+   "fiscal_year": "FY25",
+   "metric": "pat",
+   "value": 62,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "press-quoted-filing",
+   "basis": "standalone",
+   "consolidated": "no",
+   "source_url": "https://economictimes.indiatimes.com/tech/startups/juspay-turns-profitable-posts-rs-62-crore-net-profit-revenue-rises-to-rs-514-crore/articleshow/125254516.cms",
+   "source_title": "ET Juspay turns profitable",
+   "confidence": "HIGH",
+   "notes": "net profit; first profitable year"
+  },
+  {
+   "fiscal_year": "FY25",
+   "metric": "net_profit_usd",
+   "value": 14,
+   "unit": "million",
+   "currency": "USD",
+   "value_type": "press-quoted-filing",
+   "basis": "standalone",
+   "consolidated": "no",
+   "source_url": "https://thefintechtimes.com/juspay-hits-1tn-annualised-transaction-volume-as-revenue-surges-61-in-fy25/",
+   "source_title": "Juspay Hits $1tn Annualised Transaction Volume (The Fintech Times)",
+   "confidence": "MEDIUM",
+   "notes": "alternative USD reporting of FY25 profit"
+  },
+  {
+   "fiscal_year": "FY25",
+   "metric": "total_revenue_alt",
+   "value": 539.5,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "press-quoted-filing",
+   "basis": "standalone",
+   "consolidated": "no",
+   "source_url": "https://inc42.com",
+   "source_title": "Juspay Financials 2026 (Inc42)",
+   "confidence": "MEDIUM",
+   "notes": "alternative revenue figure; +55.2% YoY; conflicts with Rs 514.31 Cr figure"
+  }
+ ],
+ "founders": [
+  {
+   "confidence": "HIGH",
+   "name": "Vimal Kumar (Vivekananthamoorthy Vimalkumar)",
+   "role": "Co-founder & CEO",
+   "source_url": "https://tracxn.com/d/companies/juspay/__fDjQyojq6Uh_DeW1pRNecBKAdkkLtN01Ccml4wlD_dk",
+   "still_active": true,
+   "type": "co-founder",
+   "active": "yes",
+   "location": "Bengaluru",
+   "linkedin": "http://linkedin.com/in/kumarvimal"
+  },
+  {
+   "confidence": "HIGH",
+   "name": "Sheetal Lalwani (Sheetal Pai)",
+   "role": "Co-founder & COO",
+   "source_url": "https://economictimes.indiatimes.com/tech/startups/juspay-turns-profitable-posts-rs-62-crore-net-profit-revenue-rises-to-rs-514-crore/articleshow/125254516.cms",
+   "still_active": true,
+   "type": "co-founder",
+   "active": "yes",
+   "location": "Bengaluru",
+   "linkedin": "https://linkedin.com/in/sheetalchainraj"
+  },
+  {
+   "confidence": "MEDIUM",
+   "name": "Ramanathan R.V.",
+   "role": "Co-founder (exited 2019)",
+   "source_url": "https://economictimes.indiatimes.com/tech/startups/juspay-turns-profitable-posts-rs-62-crore-net-profit-revenue-rises-to-rs-514-crore/articleshow/125254516.cms",
+   "still_active": false,
+   "type": "co-founder",
+   "active": "no — left 2019",
+   "departure_date": "2019"
+  }
+ ],
+ "funding_rounds": [
+  {
+   "all_investors": [
+    "Kedaara Capital",
+    "SoftBank",
+    "Accel"
+   ],
+   "amount": "60",
+   "announced_date": "2025-04-07",
+   "confidence": "HIGH",
+   "currency": "USD-Mn",
+   "lead_investors": [
+    "Kedaara Capital"
+   ],
+   "round_type": "Series D",
+   "source_date": "2025-04-07",
+   "source_title": "Juspay secures $60 Mn from Kedaara, SoftBank and Accel",
+   "source_url": "https://entrackr.com/news/juspay-secures-60-mn-from-kedaara-softbank-and-accel-8934673",
+   "tier": "T3",
+   "valuation": "~$900Mn",
+   "valuation_type": "post-money reported"
+  },
+  {
+   "all_investors": [
+    "WestBridge Capital"
+   ],
+   "amount": "50",
+   "announced_date": "2026-01-23",
+   "confidence": "HIGH",
+   "currency": "USD-Mn",
+   "lead_investors": [
+    "WestBridge Capital"
+   ],
+   "round_type": "Series D follow-on",
+   "source_date": "2026-01-23",
+   "source_title": "Juspay raises $50 Mn from WestBridge Capital at $1.2 Bn valuation",
+   "source_url": "https://entrackr.com/news/juspay-raises-50-mn-from-westbridge-capital-at-12-bn-valuation-11023645",
+   "tier": "T3",
+   "valuation": "$1.2Bn",
+   "valuation_type": "post-money reported"
+  },
+  {
+   "round_type": "Series C",
+   "announced_date": "2021-12-15",
+   "round_date": "2021-12-15",
+   "amount": 60,
+   "currency": "USD-Mn",
+   "valuation": 460,
+   "valuation_currency": "USD-Mn",
+   "valuation_type": "post-money reported",
+   "lead_investors": [
+    "SoftBank Vision Fund 2"
+   ],
+   "all_investors": [
+    "SoftBank Vision Fund 2",
+    "Accel",
+    "existing investors"
+   ],
+   "instrument": "equity",
+   "purpose": "technology and product development, scale payments globally",
+   "source_url": "https://www.moneycontrol.com/news/business/companies/juspay-raises-60-million-in-series-c-funding-led-by-softbank-7828111.html",
+   "source_title": "Juspay raises $60 million in Series C funding led by SoftBank",
+   "source_date": "2021-12-15",
+   "confidence": "HIGH"
+  },
+  {
+   "round_type": "Series D",
+   "announced_date": "2025-04-07",
+   "round_date": "2025-04-07",
+   "amount": 60,
+   "currency": "USD-Mn",
+   "valuation": 900,
+   "valuation_currency": "USD-Mn",
+   "valuation_type": "post-money reported",
+   "lead_investors": [
+    "Kedaara Capital"
+   ],
+   "all_investors": [
+    "Kedaara Capital",
+    "SoftBank",
+    "Accel"
+   ],
+   "instrument": "equity",
+   "purpose": "expand global footprint across Asia-Pacific, Europe, Latin America",
+   "source_url": "https://entrackr.com/news/juspay-secures-60-mn-from-kedaara-softbank-and-accel-8934673",
+   "source_title": "Juspay secures $60 Mn from Kedaara, SoftBank and Accel",
+   "source_date": "2025-04-07",
+   "confidence": "HIGH"
+  },
+  {
+   "round_type": "Series D follow-on",
+   "announced_date": "2026-01-23",
+   "round_date": "2026-01-23",
+   "amount": 50,
+   "currency": "USD-Mn",
+   "valuation": 1200,
+   "valuation_currency": "USD-Mn",
+   "valuation_type": "post-money reported",
+   "lead_investors": [
+    "WestBridge Capital"
+   ],
+   "all_investors": [
+    "WestBridge Capital"
+   ],
+   "instrument": "equity",
+   "purpose": "not disclosed",
+   "source_url": "https://entrackr.com/news/juspay-raises-50-mn-from-westbridge-capital-at-12-bn-valuation-11023645",
+   "source_title": "Juspay raises $50 Mn from WestBridge Capital at $1.2 Bn valuation",
+   "source_date": "2026-01-23",
+   "confidence": "HIGH"
+  }
+ ],
+ "gaps": [
+  "CIN U66190KA2012PTC098522 seen only in Tracxn snippet — not independently verified",
+  "Series C ($60Mn Dec 2021, SoftBank-led) widely known but not re-verified this batch — omitted",
+  "Headcount ~1350 (Tracxn snippet) unverified"
+ ],
+ "hiring": [],
+ "investor_links": [
+  {
+   "confidence": "HIGH",
+   "first_seen": "2025-04",
+   "investor": "Kedaara Capital",
+   "investor_type": "PE",
+   "lead": true,
+   "rounds": [
+    "Series D"
+   ],
+   "source_url": "https://entrackr.com/news/juspay-secures-60-mn-from-kedaara-softbank-and-accel-8934673"
+  },
+  {
+   "confidence": "HIGH",
+   "first_seen": "2026-01",
+   "investor": "WestBridge Capital",
+   "investor_type": "VC",
+   "lead": true,
+   "rounds": [
+    "Series D follow-on"
+   ],
+   "source_url": "https://entrackr.com/news/juspay-raises-50-mn-from-westbridge-capital-at-12-bn-valuation-11023645"
+  },
+  {
+   "confidence": "HIGH",
+   "first_seen": "2021",
+   "investor": "SoftBank Vision Fund",
+   "investor_type": "VC",
+   "lead": false,
+   "rounds": [
+    "Series D"
+   ],
+   "source_url": "https://entrackr.com/news/juspay-secures-60-mn-from-kedaara-softbank-and-accel-8934673"
+  },
+  {
+   "confidence": "HIGH",
+   "first_seen": "2015",
+   "investor": "Accel",
+   "investor_type": "VC",
+   "lead": false,
+   "rounds": [
+    "Series D"
+   ],
+   "source_url": "https://entrackr.com/news/juspay-secures-60-mn-from-kedaara-softbank-and-accel-8934673"
+  },
+  {
+   "investor": "SoftBank Vision Fund 2",
+   "investor_type": "VC",
+   "first_seen": "2021",
+   "lead": true,
+   "rounds": [
+    "Series C"
+   ],
+   "amount": 60,
+   "currency": "USD-Mn",
+   "source_url": "https://www.moneycontrol.com/news/business/companies/juspay-raises-60-million-in-series-c-funding-led-by-softbank-7828111.html",
+   "confidence": "HIGH"
+  }
+ ],
+ "investors_meta": [
+  {
+   "investor": "SoftBank Vision Fund 2",
+   "type": "VC",
+   "hq": "Japan",
+   "india_office": "Mumbai",
+   "notes": "led Series C Dec 2021"
+  },
+  {
+   "investor": "Kedaara Capital",
+   "type": "PE",
+   "hq": "Mumbai",
+   "india_office": "Mumbai",
+   "notes": "led Series D Apr 2025"
+  },
+  {
+   "investor": "WestBridge Capital",
+   "type": "VC",
+   "hq": "Singapore",
+   "india_office": "Bengaluru",
+   "notes": "led Series D follow-on Jan 2026"
+  },
+  {
+   "investor": "Accel",
+   "type": "VC",
+   "hq": "San Francisco",
+   "india_office": "Bengaluru",
+   "notes": "participant in multiple rounds"
+  }
+ ],
+ "ip_tech_ai": {
+  "confidence": "MEDIUM",
+  "notes": "Checkout, auth, tokenisation, payouts, unified analytics; UPI/Pix interop exploration"
+ },
+ "legal": [
+  {
+   "dates": "2024-02 licence; Dec 2024-Jan 2025 dispute",
+   "regulator": "RBI (licence); counterparties PhonePe/Razorpay/Cashfree",
+   "status": "licensed; dispute reported resolved/commercially overcome",
+   "summary": "RBI PA licence Feb 2024; PhonePe/Razorpay/Cashfree pushed merchants away from Juspay orchestration late 2024-early 2025; Pine Labs/CCAvenue supported Juspay",
+   "source_url": "https://economictimes.indiatimes.com/tech/startups/juspay-turns-profitable-posts-rs-62-crore-net-profit-revenue-rises-to-rs-514-crore/articleshow/125254516.cms",
+   "type": "allegation"
+  },
+  {
+   "type": "regulatory",
+   "entity": "RBI",
+   "date": "2024-02",
+   "status": "confirmed-violation",
+   "description": "RBI approved Juspay as Payment Aggregator (PA) licence holder",
+   "source_url": "https://yourstory.com/2024/02/juspay-zoho-receive-rbi-payment-aggregator-license",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "complaint",
+   "entity": "PhonePe/Razorpay/Cashfree (counterparties)",
+   "date": "2024-12",
+   "status": "settled/commercially overcome",
+   "description": "Payment aggregators moved merchants away from Juspay orchestration; Pine Labs/CCAvenue supported Juspay; dispute resolved commercially",
+   "source_url": "https://economictimes.indiatimes.com/tech/startups/juspay-turns-profitable-posts-rs-62-crore-net-profit-revenue-rises-to-rs-514-crore/articleshow/125254516.cms",
+   "confidence": "MEDIUM"
+  },
+  {
+   "type": "security_incident",
+   "entity": "Juspay (self-disclosed)",
+   "date": "2020-08",
+   "status": "confirmed-violation",
+   "description": "Data breach affecting ~35M users; detected Aug 2020, disclosed Jan 2021; AWS access key vulnerability",
+   "source_url": "https://cisomag.com",
+   "confidence": "HIGH",
+   "note": "Historical; not 2024-26"
+  }
+ ],
+ "locations": [
+  {
+   "as_of": "2026",
+   "city": "Bengaluru",
+   "confidence": "HIGH",
+   "source_url": "https://economictimes.indiatimes.com/tech/startups/juspay-turns-profitable-posts-rs-62-crore-net-profit-revenue-rises-to-rs-514-crore/articleshow/125254516.cms",
+   "state": "Karnataka",
+   "type": "HQ"
+  },
+  {
+   "type": "hq",
+   "address_or_area": "Stallion Business Centre, No. 444, 3rd & 4th Floor, 18th Main, 6th Block, Koramangala",
+   "city": "Bengaluru",
+   "state": "Karnataka",
+   "country": "India",
+   "as_of": "2026-09-15",
+   "source_url": "https://www.zaubacorp.com/JUSPAY-TECHNOLOGIES-PRIVATE-LIMITED-U74900KA2012PTC098522",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "registered_office",
+   "address_or_area": "Stallion Business Centre, No. 444, 3rd & 4th Floor, 18th Main, 6th Block, Koramangala",
+   "city": "Bengaluru",
+   "state": "Karnataka",
+   "country": "India",
+   "as_of": "2026-09-15",
+   "source_url": "https://www.zaubacorp.com/JUSPAY-TECHNOLOGIES-PRIVATE-LIMITED-U74900KA2012PTC098522",
+   "confidence": "HIGH"
+  }
+ ],
+ "partnerships": [],
+ "people": [
+  {
+   "name": "Vimal Kumar (Vivekananthamoorthy Vimalkumar)",
+   "role": "Co-founder & CEO",
+   "title": "Founder and CEO",
+   "current": true,
+   "since": "2012",
+   "prior_role": "former Amazon engineer",
+   "source_url": "https://tracxn.com/d/companies/juspay/__fDjQyojq6Uh_DeW1pRNecBKAdkkLtN01Ccml4wlD_dk",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Sheetal Lalwani (Sheetal Pai)",
+   "role": "Co-founder & COO",
+   "title": "Co-founder and COO",
+   "current": true,
+   "since": "2012",
+   "prior_role": "Purdue University education",
+   "source_url": "https://in.linkedin.com/in/sheetalchainraj",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Ramanathan R.V.",
+   "role": "Co-founder (exited 2019)",
+   "title": "Co-founder",
+   "current": false,
+   "since": "2012",
+   "departure_date": "2019",
+   "prior_role": "co-founder",
+   "source_url": "https://economictimes.indiatimes.com/tech/startups/juspay-turns-profitable-posts-rs-62-crore-net-profit-revenue-rises-to-rs-514-crore/articleshow/125254516.cms",
+   "confidence": "MEDIUM"
+  },
+  {
+   "name": "Abhinay Subramanya",
+   "role": "NOT a Juspay founder",
+   "title": "N/A",
+   "current": false,
+   "since": "N/A",
+   "prior_role": "associated with GlobalBees/Nitin Agarwal ventures, not Juspay",
+   "source_url": "https://inc42.com/features/indias-unicorn-club-the-comprehensive-list-of-unicorns-in-india/",
+   "confidence": "LOW",
+   "note": "Search results do NOT confirm Abhinay Subramanya as Juspay founder; he appears in other startup contexts. This is a false lead."
+  }
+ ],
+ "products": [
+  {
+   "category": "payments infrastructure",
+   "confidence": "HIGH",
+   "description": "Full-stack payments: checkout, authentication, tokenisation, payouts, analytics; powers ~20 third-party UPI apps incl Google Pay; bank processing (HSBC)",
+   "name": "Payments orchestration platform",
+   "source_url": "https://economictimes.indiatimes.com/tech/startups/juspay-turns-profitable-posts-rs-62-crore-net-profit-revenue-rises-to-rs-514-crore/articleshow/125254516.cms"
+  },
+  {
+   "name": "Payments Orchestration Platform",
+   "category": "payments infrastructure",
+   "description": "Full-stack payments: checkout, authentication, tokenisation, payouts, analytics; modular interoperable platform",
+   "pricing_model": "per-transaction commission",
+   "launch_date": "2012",
+   "status": "active",
+   "source_url": "https://juspay.io",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Hyperswitch",
+   "category": "open-source payment orchestrator",
+   "description": "World's first open-source modular payments platform; connects to multiple payment processors with single API; supports 300+ gateways",
+   "pricing_model": "open-source (free)",
+   "launch_date": "2023-12",
+   "status": "active; expanding to US/Europe/UK",
+   "source_url": "https://juspay.io/newsroom/hyperswitch-by-juspay-world-s-first-open-source-payment-orchestration-platform-expands-to-the-us",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "HyperUPI",
+   "category": "UPI plug-in SDK",
+   "description": "NPCI's UPI plug-in SDK enabling in-app UPI payments in merchant apps; launched with Yes Bank; Gullak first merchant",
+   "pricing_model": "not disclosed",
+   "launch_date": "2023-09",
+   "status": "active",
+   "source_url": "https://bfsi.eletsonline.com/yes-bank-partners-with-juspay-launches-hyperupi-a-upi-based-plug-in-service/",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Juspay Portal (Dashboard)",
+   "category": "merchant dashboard/monitoring",
+   "description": "Internal AI-powered dashboard for transaction monitoring, analytics, routing analytics, alerts, order tracking",
+   "pricing_model": "included with service",
+   "launch_date": "unknown",
+   "status": "active",
+   "source_url": "https://juspay.io/in/docs/dashboard/docs/payments/reports",
+   "confidence": "MEDIUM"
+  },
+  {
+   "name": "Click to Pay (Mastercard Engage)",
+   "category": "payment authentication",
+   "description": "Certified third-party partner for Mastercard Click to Pay; one-click checkout; expanding across Asia after Brazil rollout",
+   "pricing_model": "not disclosed",
+   "launch_date": "2026-06-01",
+   "status": "active",
+   "source_url": "https://juspay.io",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Payroll Software",
+   "category": "payroll",
+   "description": "Listed on IndiaMART as a product offering from Juspay Technologies in Bengaluru",
+   "pricing_model": "not disclosed",
+   "launch_date": "unknown",
+   "status": "unclear",
+   "source_url": "https://www.indiamart.com/juspay-technologies-pvt-ltd/",
+   "confidence": "LOW"
+  }
+ ],
+ "research_log": [
+  {
+   "found": "$60Mn Series D Kedaara/SoftBank/Accel Apr 2025; $50Mn WestBridge Jan 2026 at $1.2Bn unicorn",
+   "next_action": "done",
+   "query": "Juspay unicorn Series D SoftBank (tinyfish)",
+   "unresolved": "Series C not re-verified"
+  },
+  {
+   "found": "Founders Vimal/Sheetal (+Ramanathan exited 2019); FY25 Rs 514Cr +62Cr PAT; $1Tn TPV, 300Mn txns/day, 500+ enterprises",
+   "next_action": "done",
+   "query": "Juspay founders revenue FY24 FY25",
+   "unresolved": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  }
+ ],
+ "sources": [
+  {
+   "claim_supported": "Series D $60Mn",
+   "fields_supported": [
+    "funding_rounds"
+   ],
+   "publication_date": "2025-04-07",
+   "publisher": "Entrackr",
+   "retrieved_date": "2026-09-14",
+   "tier": "T3",
+   "title": "Juspay secures $60 Mn from Kedaara, SoftBank and Accel",
+   "url": "https://entrackr.com/news/juspay-secures-60-mn-from-kedaara-softbank-and-accel-8934673"
+  },
+  {
+   "claim_supported": "Series D follow-on $50Mn at $1.2Bn",
+   "fields_supported": [
+    "funding_rounds"
+   ],
+   "publication_date": "2026-01-23",
+   "publisher": "Entrackr",
+   "retrieved_date": "2026-09-14",
+   "tier": "T3",
+   "title": "Juspay raises $50 Mn from WestBridge Capital at $1.2 Bn valuation",
+   "url": "https://entrackr.com/news/juspay-raises-50-mn-from-westbridge-capital-at-12-bn-valuation-11023645"
+  },
+  {
+   "claim_supported": "FY25 profitable, founders, TPV, licence, PA dispute",
+   "fields_supported": [
+    "financials",
+    "founders",
+    "traction",
+    "legal"
+   ],
+   "publication_date": "2025-11-12",
+   "publisher": "Economic Times",
+   "retrieved_date": "2026-09-14",
+   "tier": "T3",
+   "title": "Juspay turns profitable, posts Rs 62 crore net profit",
+   "url": "https://economictimes.indiatimes.com/tech/startups/juspay-turns-profitable-posts-rs-62-crore-net-profit-revenue-rises-to-rs-514-crore/articleshow/125254516.cms"
+  },
+  {
+   "url": "https://inc42.com/company/juspay/people",
+   "title": "Juspay — Funding, Revenue & Investors (2026) | Inc42",
+   "tier": "T2",
+   "claim": "founder status Vimal Kumar (Vivekananthamoorthy Vimalkumar)"
+  },
+  {
+   "url": "https://m.economictimes.com/tech/startups/juspay-turns-profitable-posts-rs-62-crore-net-profit-revenue-rises-to-rs-514-crore/articleshow/125265332.cms",
+   "title": "Juspay turns profitable, posts Rs 62 crore net profit; revenue rises to Rs 514 crore - The Economic Times",
+   "tier": "T2",
+   "claim": "founder status Ramanathan R.V."
+  },
+  {
+   "url": "https://tracxn.com/d/companies/juspay/__fDjQyojq6Uh_DeW1pRNecBKAdkkLtN01Ccml4wlD_dk",
+   "title": "",
+   "fields": "PEOPLE",
+   "confidence": "HIGH"
+  },
+  {
+   "url": "https://in.linkedin.com/in/sheetalchainraj",
+   "title": "",
+   "fields": "PEOPLE",
+   "confidence": "HIGH"
+  },
+  {
+   "url": "https://inc42.com/features/indias-unicorn-club-the-comprehensive-list-of-unicorns-in-india/",
+   "title": "",
+   "fields": "PEOPLE",
+   "confidence": "LOW"
+  },
+  {
+   "url": "https://juspay.io/newsroom/juspay-reports-record-profitability-with-a-strong-61-yoy-revenue-growth-in-fy25",
+   "title": "",
+   "fields": "company",
+   "confidence": "HIGH"
+  },
+  {
+   "url": "https://www.zaubacorp.com/JUSPAY-TECHNOLOGIES-PRIVATE-LIMITED-U74900KA2012PTC098522",
+   "title": "",
+   "fields": "company",
+   "confidence": "HIGH"
+  },
+  {
+   "url": "https://www.tofler.in/juspay-technologies-private-limited/company/U66190KA2012PTC098522",
+   "title": "",
+   "fields": "company",
+   "confidence": "HIGH"
+  },
+  {
+   "url": "https://juspay.io",
+   "title": "",
+   "fields": "company",
+   "confidence": "HIGH"
+  },
+  {
+   "url": "https://www.moneycontrol.com/news/business/companies/juspay-raises-60-million-in-series-c-funding-led-by-softbank-7828111.html",
+   "title": "",
+   "fields": "company",
+   "confidence": "HIGH"
+  },
+  {
+   "url": "https://www.reveliolabs.com/companies/juspay/employees",
+   "title": "",
+   "fields": "company",
+   "confidence": "MEDIUM"
+  },
+  {
+   "url": "https://www.business-standard.com/finance/news/fintechs-shift-to-direct-merchant-integration-move-away-from-juspay-125012001137_1.html",
+   "title": "",
+   "fields": "company",
+   "confidence": "HIGH"
+  },
+  {
+   "url": "https://yourstory.com/2024/02/juspay-zoho-receive-rbi-payment-aggregator-license",
+   "title": "",
+   "fields": "company",
+   "confidence": "HIGH"
+  },
+  {
+   "url": "https://cisomag.com",
+   "title": "",
+   "fields": "company",
+   "confidence": "MEDIUM"
+  }
+ ],
+ "startup_id": "juspay",
+ "traction": [
+  {
+   "as_of": "2025-11",
+   "company_reported": true,
+   "confidence": "MEDIUM",
+   "metric": "payment volume",
+   "period": "annualised",
+   "source_url": "https://economictimes.indiatimes.com/tech/startups/juspay-turns-profitable-posts-rs-62-crore-net-profit-revenue-rises-to-rs-514-crore/articleshow/125254516.cms",
+   "value": "$1Tn annualised TPV; ~300Mn txns/day; 500+ enterprises"
+  },
+  {
+   "metric": "daily_transactions",
+   "value": 300,
+   "unit": "million",
+   "period": "FY25",
+   "as_of": "2025-11-12",
+   "company_reported": true,
+   "source_url": "https://juspay.io/newsroom/juspay-reports-record-profitability-with-a-strong-61-yoy-revenue-growth-in-fy25",
+   "confidence": "HIGH",
+   "notes": "grew from 175M to 300M+ daily in FY25"
+  },
+  {
+   "metric": "annualised_tpv",
+   "value": 1000,
+   "unit": "billion",
+   "period": "FY25",
+   "as_of": "2025-11-12",
+   "company_reported": true,
+   "source_url": "https://juspay.io/newsroom/juspay-reports-record-profitability-with-a-strong-61-yoy-revenue-growth-in-fy25",
+   "confidence": "HIGH",
+   "notes": "$1 trillion annualised TPV; surged from $400B"
+  },
+  {
+   "metric": "enterprise_count",
+   "value": 500,
+   "unit": "count",
+   "period": "FY25",
+   "as_of": "2025-11-12",
+   "company_reported": true,
+   "source_url": "https://thefintechtimes.com/juspay-hits-1tn-annualised-transaction-volume-as-revenue-surges-61-in-fy25/",
+   "confidence": "HIGH",
+   "notes": "500+ enterprises"
+  },
+  {
+   "metric": "daily_transactions_historical",
+   "value": 125,
+   "unit": "million",
+   "period": "FY24",
+   "as_of": "2024-08",
+   "company_reported": true,
+   "source_url": "https://www.webintravel.com/juspay-brings-its-payments-orchestration-to-south-east-asia-middle-east/",
+   "confidence": "MEDIUM",
+   "notes": "125M daily transactions as of Aug 2024"
+  },
+  {
+   "metric": "daily_transactions_historical",
+   "value": 175,
+   "unit": "million",
+   "period": "FY25 start",
+   "as_of": "2024-04",
+   "company_reported": true,
+   "source_url": "https://juspay.io/newsroom/juspay-reports-record-profitability-with-a-strong-61-yoy-revenue-growth-in-fy25",
+   "confidence": "HIGH",
+   "notes": "175M daily transactions at start of FY25"
+  }
+ ],
+ "_merged_session2": true
+}

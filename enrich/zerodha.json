@@ -1,0 +1,187 @@
+{
+ "startup_id": "zerodha",
+ "company": {
+  "company_name": "Zerodha",
+  "status": "ACTIVE",
+  "city": "Bengaluru",
+  "primary_sector": "fintech/broking",
+  "founded_date": "2010",
+  "business_model": "discount stockbroking platform",
+  "startup_stage": "Bootstrapped / mature private",
+  "public_private": "Private",
+  "official_website": {
+   "v": "https://zerodha.com",
+   "conf": "high",
+   "src": "https://zerodha.com",
+   "note": "verified live 2026-09-15: name match on own homepage"
+  },
+  "careers_website": {
+   "v": "https://careers.zerodha.com/",
+   "conf": "high",
+   "src": "https://zerodha.com",
+   "note": "careers link found on official homepage, probed live"
+  },
+  "website": "https://zerodha.com"
+ },
+ "funding_rounds": [],
+ "founders": [
+  {
+   "name": "Nithin Kamath",
+   "role": "Founder & CEO",
+   "type": "founder",
+   "background": "stockbroker",
+   "education": "",
+   "still_active": true,
+   "linkedin": "",
+   "source_url": "https://entrackr.com/news/zerodha-brokerage-revenue-drops-40-in-q1-fy26-10516905",
+   "confidence": "medium"
+  }
+ ],
+ "people": [],
+ "investor_links": [],
+ "investors_meta": [],
+ "financials": [
+  {
+   "fiscal_year": "FY25",
+   "metric": "net profit",
+   "value": null,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "press-quoted-filing",
+   "source_url": "https://m.economictimes.com/tech/technology/zerodha-fy25-profit-drops-23-amid-regulatory-headwinds/articleshow/125490615.cms",
+   "source_title": "Zerodha FY25 profit drops 23%",
+   "source_date": "",
+   "confidence": "medium"
+  },
+  {
+   "fiscal_year": "FY26",
+   "metric": "revenue",
+   "value": 8500,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "press-quoted-filing",
+   "source_url": "https://www.moneycontrol.com/technology/zerodha-revenue-and-profit-remain-flat-in-fy-26-reports-net-profit-of-rs-4-300-crore-article-14016247.html",
+   "source_title": "Zerodha revenue flat FY26; net profit Rs 4,300 cr",
+   "source_date": "",
+   "confidence": "medium"
+  },
+  {
+   "fiscal_year": "FY26",
+   "metric": "net profit",
+   "value": 4300,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "press-quoted-filing",
+   "source_url": "https://www.moneycontrol.com/technology/zerodha-revenue-and-profit-remain-flat-in-fy-26-reports-net-profit-of-rs-4-300-crore-article-14016247.html",
+   "source_title": "Zerodha revenue flat FY26",
+   "source_date": "",
+   "confidence": "medium"
+  }
+ ],
+ "products": [],
+ "traction": [],
+ "customers": [],
+ "partnerships": [],
+ "competitors": [],
+ "acquisitions": [],
+ "locations": [],
+ "hiring": [],
+ "legal": [],
+ "events": [
+  {
+   "date": "Sep 2025",
+   "announced_date": "Sep 2025",
+   "type": "performance",
+   "headline": "Zerodha brokerage revenue drops 40% in Q1 FY26",
+   "description": "Regulatory changes + lower volumes",
+   "source_url": "https://entrackr.com/news/zerodha-brokerage-revenue-drops-40-in-q1-fy26-10516905",
+   "confidence": "medium"
+  },
+  {
+   "date": "Aug 2026",
+   "announced_date": "Aug 2026",
+   "type": "results",
+   "headline": "Zerodha FY26 revenue ~Rs 8,500 cr, profit ~Rs 4,300 cr flat",
+   "description": "Margin funding offsets 11% brokerage drop",
+   "source_url": "https://timesofindia.indiatimes.com/business/india-business/zerodha-fy26-profit-up-1-to-rs-4283-cr-in-fy26/articleshow/133548608.cms",
+   "confidence": "medium"
+  }
+ ],
+ "ip_tech_ai": {},
+ "conflicts": [
+  {
+   "field": "financials.FY26.net_profit",
+   "claim_a": "Rs 4,300 cr (Moneycontrol)",
+   "url_a": "https://www.moneycontrol.com/technology/zerodha-revenue-and-profit-remain-flat-in-fy-26-reports-net-profit-of-rs-4-300-crore-article-14016247.html",
+   "claim_b": "Rs 4,283 cr (TOI)",
+   "url_b": "https://timesofindia.indiatimes.com/business/india-business/zerodha-fy26-profit-up-1-to-rs-4283-cr-in-fy26/articleshow/133548608.cms",
+   "resolution": "both press-quoted filing figures; use rounded 4,300 pending filing",
+   "resolved_value": "4300"
+  }
+ ],
+ "sources": [
+  {
+   "url": "https://m.economictimes.com/tech/technology/zerodha-fy25-profit-drops-23-amid-regulatory-headwinds/articleshow/125490615.cms",
+   "title": "Zerodha FY25 profit drops 23%",
+   "publisher": "ET",
+   "publication_date": "ET",
+   "retrieved_date": "2026-09-15",
+   "tier": "T2",
+   "claim_supported": "FY25 profit -23%",
+   "fields_supported": [
+    "financials"
+   ]
+  },
+  {
+   "url": "https://www.moneycontrol.com/technology/zerodha-revenue-and-profit-remain-flat-in-fy-26-reports-net-profit-of-rs-4-300-crore-article-14016247.html",
+   "title": "Zerodha FY26 flat; net profit Rs 4,300 cr",
+   "publisher": "Moneycontrol",
+   "publication_date": "Moneycontrol",
+   "retrieved_date": "2026-09-15",
+   "tier": "T2",
+   "claim_supported": "FY26 rev 8500cr profit 4300cr",
+   "fields_supported": [
+    "financials"
+   ]
+  },
+  {
+   "url": "https://timesofindia.indiatimes.com/business/india-business/zerodha-fy26-profit-up-1-to-rs-4283-cr-in-fy26/articleshow/133548608.cms",
+   "title": "Zerodha FY26 profit Rs 4,283 cr",
+   "publisher": "TOI",
+   "publication_date": "TOI",
+   "retrieved_date": "2026-09-15",
+   "tier": "T2",
+   "claim_supported": "FY26 profit 4283cr",
+   "fields_supported": [
+    "financials"
+   ]
+  }
+ ],
+ "research_log": [
+  {
+   "query": "Zerodha FY25 revenue profit valuation",
+   "found": "FY25 profit -23%; FY26 rev ~8500cr profit ~4300cr flat",
+   "unresolved": "exact audited FY25 rev/profit numbers, valuation",
+   "next_action": "gapfill audited filing figures"
+  }
+ ],
+ "gaps": [
+  "exact audited FY25 revenue/profit unverified",
+  "CIN not captured",
+  "valuation not verified"
+ ],
+ "completeness_self": {
+  "identity": 8,
+  "founders": 5,
+  "funding": 3,
+  "investors": 2,
+  "financials": 6,
+  "products": 4,
+  "traction": 2,
+  "people": 1,
+  "customers": 1,
+  "legal": 3,
+  "sources": 8
+ },
+ "_merged_session2": true
+}

@@ -1,0 +1,2017 @@
+{
+ "company": {
+  "business_model": "B2B pharma distribution + embedded credit",
+  "city": "Mumbai",
+  "company_name": "Fundly.ai",
+  "founded_date": "2021",
+  "primary_sector": "fintech / B2B pharma",
+  "public_private": "private",
+  "startup_id": "fundly ai",
+  "startup_stage": "early (Series A/B)",
+  "status": "ACTIVE — raised $4M Sep 2026",
+  "official_website": {
+   "v": "https://indianstartupnews.com/",
+   "conf": "high",
+   "src": "https://indianstartupnews.com/",
+   "note": "playwright render-verified 2026-09-15"
+  },
+  "website": "https://indianstartupnews.com/",
+  "legal_name": {
+   "v": "Ardour Analytics Private Limited",
+   "conf": "HIGH",
+   "src": "https://fundly.ai/support",
+   "note": "Self-declared on support/privacy pages",
+   "asof": "2025-07-31"
+  },
+  "cin": {
+   "v": "U74999MH2019PTC328994",
+   "conf": "MEDIUM",
+   "src": "https://fundly.ai/support",
+   "note": "CIN from fundly.ai support page; Tracxn lists U82990MH2019PTC328994 — conflict unresolved"
+  },
+  "incorporation_date": {
+   "v": "2019-08-06",
+   "conf": "MEDIUM",
+   "src": "https://tracxn.com/d/companies/fundly/__61l4ee5OnEBRs16Ll9P67g2UJtD8alXrgjt3y-wYc_c",
+   "note": "Tracxn lists incorporation as Aug 06, 2019 for ARDOUR ANALYTICS PRIVATE LIMITED; company itself founded in 2021"
+  },
+  "state": {
+   "v": "Maharashtra",
+   "conf": "HIGH",
+   "src": "https://fundly.ai/privacy"
+  },
+  "country": {
+   "v": "India",
+   "conf": "HIGH",
+   "src": "https://fundly.ai/about"
+  },
+  "description": {
+   "v": "Fundly.ai is a fintech platform embedded in the healthcare vertical providing integrated credit, commerce, and payment solutions to the pharma distribution tail — retailers, distributors, and specialty players. Started as supply-chain finance in 2021, expanded into B2B commerce (FundlyMart), transaction/payments infrastructure, and embedded credit.",
+   "conf": "HIGH",
+   "src": "https://fundly.ai/about"
+  },
+  "employee_estimate": {
+   "v": 65,
+   "conf": "MEDIUM",
+   "src": "https://tracxn.com/d/companies/fundly/__61l4ee5OnEBRs16Ll9P67g2UJtD8alXrgjt3y-wYc_c",
+   "note": "Tracxn: 65 as of Aug 31, 2025; down 21% from Aug 2024",
+   "asof": "2025-08-31"
+  },
+  "hq_type": {
+   "v": "WeWork co-working",
+   "conf": "MEDIUM",
+   "src": "https://fundly.ai/support"
+  },
+  "registered_office": {
+   "v": "07B108/109/110, 1st Floor, WeWork Raheja Platinum, Marol CHS Road, Off Andheri-Kurla Road, Marol, Andheri (E), Mumbai – 400 059",
+   "conf": "HIGH",
+   "src": "https://fundly.ai/support"
+  }
+ },
+ "completeness_self": {
+  "financials": 2,
+  "founders": 7,
+  "funding": 7,
+  "identity": 8,
+  "investors": 7,
+  "legal": 0,
+  "people": 2,
+  "products": 6,
+  "sources": 7,
+  "traction": 4
+ },
+ "conflicts": [
+  {
+   "claim_a": "$4.9M",
+   "field": "latest_round_amount",
+   "resolution": "Most defensible: $4M (ET + Entrackr + YourStory agree); ISN figure may bundle venture debt",
+   "resolved_value": "$4M",
+   "url_a": "https://indianstartupnews.com/funding/b2b-pharma-platform-fundlyai-raises-4-million-to-expand-commerce-payments-and-credit-business-12506014",
+   "url_b": "https://m.economictimes.com/tech/funding/b2b-startup-fundly-ai-raises-4-million-led-by-accel-multiply/articleshow/133890712.cms"
+  },
+  {
+   "field": "status",
+   "claim_a": "ACTIVE — raised $4M Sep 2026",
+   "url_a": "",
+   "claim_b": "ACTIVE",
+   "url_b": "",
+   "resolution": "phase3 p3 payload disagrees with existing value; existing kept as preferred pending human review",
+   "resolved_value": "",
+   "reviewed": "p3-merge"
+  },
+  {
+   "field": "primary_sector",
+   "claim_a": "fintech / B2B pharma",
+   "url_a": "",
+   "claim_b": "fintech / B2B pharma distribution",
+   "url_b": "",
+   "resolution": "phase3 p3 payload disagrees with existing value; existing kept as preferred pending human review",
+   "resolved_value": "",
+   "reviewed": "p3-merge"
+  },
+  {
+   "field": "business_model",
+   "claim_a": "B2B pharma distribution + embedded credit",
+   "url_a": "",
+   "claim_b": "B2B pharma distribution platform with embedded credit, commerce (FundlyMart), and payments/settlement infrastructure",
+   "url_b": "",
+   "resolution": "phase3 p3 payload disagrees with existing value; existing kept as preferred pending human review",
+   "resolved_value": "",
+   "reviewed": "p3-merge"
+  },
+  {
+   "field": "latest_round_amount",
+   "claim_a": "$4M",
+   "url_a": "https://m.economictimes.com/tech/funding/b2b-startup-fundly-ai-raises-4-million-led-by-accel-multiply/articleshow/133890712.cms",
+   "claim_b": "$4.9M",
+   "url_b": "https://indianstartupnews.com/funding/b2b-pharma-platform-fundlyai-raises-4-million-to-expand-commerce-payments-and-credit-business-12506014",
+   "resolution": "Most defensible: $4M equity + $0.9M venture debt = $4.9M total. ET reports $4M equity; ISN reports $4.9M total including debt. Both are correct in their framing.",
+   "resolved_value": "$4M equity + $0.9M venture debt"
+  },
+  {
+   "field": "CIN",
+   "claim_a": "U74999MH2019PTC328994",
+   "url_a": "https://fundly.ai/support",
+   "claim_b": "U82990MH2019PTC328994",
+   "url_b": "https://tracxn.com/d/companies/fundly/__61l4ee5OnEBRs16Ll9P67g2UJtD8alXrgjt3y-wYc_c",
+   "resolution": "Fundly.ai's own support and privacy pages state U74999MH2019PTC328994. Tracxn lists U82990MH2019PTC328994. Company self-declaration preferred.",
+   "resolved_value": "U74999MH2019PTC328994"
+  },
+  {
+   "field": "company_identity",
+   "claim_a": "B2B pharma distribution + embedded credit",
+   "url_a": "https://m.economictimes.com/tech/funding/b2b-startup-fundly-ai-raises-4-million-led-by-accel-multiply/articleshow/133890712.cms",
+   "claim_b": "AI/finance",
+   "url_b": "user prompt",
+   "resolution": "Fundly.ai is NOT an AI company or general fintech. It is a B2B pharma distribution platform with embedded credit, commerce, and payments. The 'AI' in the name refers to the company brand, not AI technology. One headline (The SaaS News) used 'AI-Native B2B Pharmaceutical Distribution Network' but this is marketing language, not core identity.",
+   "resolved_value": "B2B pharma distribution + embedded credit (fintech)"
+  }
+ ],
+ "events": [
+  {
+   "date": "2026-09-08",
+   "description": "Mumbai B2B pharma platform raised round led by existing investors Accel, Multiply to expand commerce/payments/credit",
+   "headline": "Fundly.ai raises $4M led by Accel, Multiply",
+   "source_url": "https://m.economictimes.com/tech/funding/b2b-startup-fundly-ai-raises-4-million-led-by-accel-multiply/articleshow/133890712.cms",
+   "type": "funding"
+  },
+  {
+   "type": "funding",
+   "headline": "Fundly.ai raises $4M Pre-Series A led by Accel and Multiply Ventures",
+   "date": "2026-09-08",
+   "description": "Raised $4M equity led by Accel and Multiply Ventures, with participation from former RBL Bank executive director Rajeev Ahuja and angel investors. Separately raised $900K venture debt from Alteria Capital. Total funding crosses $7M.",
+   "source_url": "https://m.economictimes.com/tech/funding/b2b-startup-fundly-ai-raises-4-million-led-by-accel-multiply/articleshow/133890712.cms",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "funding",
+   "headline": "Fundly.ai raises $3M seed funding led by Accel",
+   "date": "2023-05-08",
+   "description": "Seed round led by Accel India with participation from Multiply Ventures and angel investors.",
+   "source_url": "https://ibsintelligence.com/ibsi-news/fundly-ai-raises-3m-seed-funding/",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "launch",
+   "headline": "Fundly.ai launches FundlyMart B2B commerce platform",
+   "date": "",
+   "description": "B2B ecommerce platform allowing pharma retailers to order medicines with embedded credit at checkout.",
+   "source_url": "https://indianstartupnews.com/funding/b2b-pharma-platform-fundlyai-raises-4-million-to-expand-commerce-payments-and-credit-business-12506014",
+   "confidence": "MEDIUM"
+  },
+  {
+   "type": "partnership",
+   "headline": "Fundly.ai partners with NBFC lending partners",
+   "date": "",
+   "description": "Partnerships with Karamiyoti Sales Private Limited, UGRO Capital Limited, and Dhami Finance Limited as lending partners.",
+   "source_url": "https://fundly.ai/support",
+   "confidence": "HIGH"
+  }
+ ],
+ "founders": [
+  {
+   "confidence": "medium",
+   "name": "Amit Chawla",
+   "source_url": "https://seedtable.com/companies/fundly-ai/funding-rounds/other-2026-09",
+   "type": "founder"
+  },
+  {
+   "confidence": "medium",
+   "name": "Shreeram Ramanathan",
+   "source_url": "https://seedtable.com/companies/fundly-ai/funding-rounds/other-2026-09",
+   "type": "founder"
+  },
+  {
+   "name": "Amit Kumar Chawla",
+   "role": "Co-Founder & CEO",
+   "background": "Co-founded Fundly.ai in 2021; described as bringing experience from RBL Bank context (per fundedstartupsdaily). CEO since inception.",
+   "education": "",
+   "still_active": true,
+   "source_url": "https://tracxn.com/d/companies/fundly/__61l4ee5OnEBRs16Ll9P67g2UJtD8alXrgjt3y-wYc_c",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Shreeram V Ramanathan",
+   "role": "Co-Founder",
+   "background": "Co-founded Fundly.ai in 2021. Active on LinkedIn posting about the Pre-Series A raise.",
+   "education": "",
+   "still_active": true,
+   "source_url": "https://www.linkedin.com/posts/shreeram-v-ramanathan-594a851b_big-news-weve-raised-our-pre-series-a-activity-7503045780359000064-oJVk",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Neha Ramcharanlal Virmani",
+   "role": "Co-Founder",
+   "background": "Listed by Tracxn as co-founder; no press coverage found.",
+   "education": "",
+   "still_active": true,
+   "source_url": "https://tracxn.com/d/companies/fundly/__61l4ee5OnEBRs16Ll9P67g2UJtD8alXrgjt3y-wYc_c",
+   "confidence": "LOW"
+  },
+  {
+   "name": "Veena Vinod Chawla",
+   "role": "Co-Founder",
+   "background": "Listed by Tracxn as co-founder; no press coverage found.",
+   "education": "",
+   "still_active": true,
+   "source_url": "https://tracxn.com/d/companies/fundly/__61l4ee5OnEBRs16Ll9P67g2UJtD8alXrgjt3y-wYc_c",
+   "confidence": "LOW"
+  }
+ ],
+ "funding_rounds": [
+  {
+   "all_investors": [
+    "Accel",
+    "Multiply Ventures"
+   ],
+   "amount": 4,
+   "currency": "USD",
+   "lead_investors": [
+    "Accel",
+    "Multiply Ventures"
+   ],
+   "round_type": "venture (extension)",
+   "source_date": "2026-09-08",
+   "source_title": "B2B startup Fundly.ai raises $4 million led by Accel, Multiply",
+   "source_url": "https://m.economictimes.com/tech/funding/b2b-startup-fundly-ai-raises-4-million-led-by-accel-multiply/articleshow/133890712.cms",
+   "tier": "T2"
+  },
+  {
+   "round_type": "seed",
+   "announced_date": "2023-05-08",
+   "round_date": "2023-05",
+   "amount": 3,
+   "currency": "USD",
+   "lead_investors": [
+    "Accel"
+   ],
+   "all_investors": [
+    "Accel",
+    "Multiply Ventures",
+    "angel investors"
+   ],
+   "purpose": "Initial seed funding for pharma supply-chain financing platform",
+   "source_url": "https://ibsintelligence.com/ibsi-news/fundly-ai-raises-3m-seed-funding/",
+   "source_title": "Fundly.ai raises $3m seed funding",
+   "source_date": "2023-05-08",
+   "confidence": "HIGH"
+  },
+  {
+   "round_type": "pre-Series A",
+   "announced_date": "2026-09-08",
+   "round_date": "2026-09-08",
+   "amount": 4,
+   "currency": "USD",
+   "valuation": "",
+   "valuation_currency": "",
+   "valuation_type": "",
+   "lead_investors": [
+    "Accel",
+    "Multiply Ventures"
+   ],
+   "all_investors": [
+    "Accel",
+    "Multiply Ventures",
+    "Rajeev Ahuja",
+    "angel investors"
+   ],
+   "instrument": "equity + venture debt",
+   "purpose": "Expand commerce, payments, and credit operations across India's pharma supply chain",
+   "source_url": "https://m.economictimes.com/tech/funding/b2b-startup-fundly-ai-raises-4-million-led-by-accel-multiply/articleshow/133890712.cms",
+   "source_title": "B2B startup Fundly.ai raises $4 million led by Accel, Multiply",
+   "source_date": "2026-09-08",
+   "confidence": "HIGH"
+  },
+  {
+   "round_type": "venture debt",
+   "announced_date": "2026-09-08",
+   "round_date": "2026-09-08",
+   "amount": 0.9,
+   "currency": "USD",
+   "lead_investors": [
+    "Alteria Capital"
+   ],
+   "all_investors": [
+    "Alteria Capital"
+   ],
+   "instrument": "venture debt",
+   "purpose": "Working capital for expansion",
+   "source_url": "https://indianstartupnews.com/funding/b2b-pharma-platform-fundlyai-raises-4-million-to-expand-commerce-payments-and-credit-business-12506014",
+   "source_title": "B2B pharma platform Fundly.ai raises $4 million",
+   "source_date": "2026-09-08",
+   "confidence": "HIGH"
+  }
+ ],
+ "gaps": [
+  "CIN/incorporation date not verified — no registry page surfaced",
+  "Revenue/employees not reported",
+  "Founder roles/backgrounds unverified"
+ ],
+ "investor_links": [
+  {
+   "confidence": "high",
+   "investor": "Accel",
+   "lead": true,
+   "rounds": [
+    "2026 extension"
+   ],
+   "source_url": "https://m.economictimes.com/tech/funding/b2b-startup-fundly-ai-raises-4-million-led-by-accel-multiply/articleshow/133890712.cms"
+  },
+  {
+   "confidence": "high",
+   "investor": "Multiply Ventures",
+   "lead": true,
+   "rounds": [
+    "2026 extension"
+   ],
+   "source_url": "https://m.economictimes.com/tech/funding/b2b-startup-fundly-ai-raises-4-million-led-by-accel-multiply/articleshow/133890712.cms"
+  }
+ ],
+ "research_log": [
+  {
+   "found": "$4M ET + ISN roundup; conflict $4M vs $4.9M",
+   "query": "Fundly.ai startup status funding September 2026"
+  },
+  {
+   "found": "Founders Amit Chawla, Shreeram Ramanathan; started as supply-chain financing 2021",
+   "query": "Fundly.ai founders Accel Multiply pharma B2B"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Fundly.ai B2B pharma platform Mumbai founders Amit Chawla Shreeram Ramanathan",
+   "status": "done",
+   "found": "Confirmed: Fundly.ai = Ardour Analytics Pvt Ltd, CIN U74999MH2019PTC328994, Mumbai-based B2B pharma fintech. Founders: Amit Kumar Chawla (CEO), Shreeram V Ramanathan.",
+   "next_action": "",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Fundly.ai CIN incorporation MCA private limited registration",
+   "status": "done",
+   "found": "CIN found on fundly.ai/support and fundly.ai/privacy: U74999MH2019PTC328994. Tracxn lists U82990MH2019PTC328994 (conflict). Incorporation date Aug 06, 2019 per Tracxn.",
+   "next_action": "",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Fundly.ai revenue FY25 FY26 financials annual report",
+   "status": "done",
+   "found": "FY25 revenue Rs 30.1Cr (up from Rs 6.6Cr FY24). Net loss Rs 11Cr FY25 (up from Rs 5.8Cr FY24). Tracxn estimates Rs 10-50Cr range.",
+   "next_action": "",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Fundly.ai products FundlyMart payments credit commerce",
+   "status": "done",
+   "found": "Three product lines: FundlyMart (B2B commerce), Embedded Credit, Payments & Settlement Infrastructure (Pune pilot). Also Fundly mobile app.",
+   "next_action": "",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Fundly.ai AI-native technology stack",
+   "status": "done",
+   "found": "No evidence of AI technology stack. Company uses transaction data for credit underwriting and plans to build 'intelligence layer' for demand forecasting. Not an AI company despite name.",
+   "next_action": "",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Fundly.ai B2B pharma platform Mumbai founders Amit Chawla Shreeram Ramanathan",
+   "status": "done",
+   "found": "Confirmed: Fundly.ai = Ardour Analytics Pvt Ltd, CIN U74999MH2019PTC328994, Mumbai-based B2B pharma fintech. Founders: Amit Kumar Chawla (CEO), Shreeram V Ramanathan.",
+   "next_action": "",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Fundly.ai CIN incorporation MCA private limited registration",
+   "status": "done",
+   "found": "CIN found on fundly.ai/support and fundly.ai/privacy: U74999MH2019PTC328994. Tracxn lists U82990MH2019PTC328994 (conflict). Incorporation date Aug 06, 2019 per Tracxn.",
+   "next_action": "",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Fundly.ai revenue FY25 FY26 financials annual report",
+   "status": "done",
+   "found": "FY25 revenue Rs 30.1Cr (up from Rs 6.6Cr FY24). Net loss Rs 11Cr FY25 (up from Rs 5.8Cr FY24). Tracxn estimates Rs 10-50Cr range.",
+   "next_action": "",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Fundly.ai products FundlyMart payments credit commerce",
+   "status": "done",
+   "found": "Three product lines: FundlyMart (B2B commerce), Embedded Credit, Payments & Settlement Infrastructure (Pune pilot). Also Fundly mobile app.",
+   "next_action": "",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Fundly.ai AI-native technology stack",
+   "status": "done",
+   "found": "No evidence of AI technology stack. Company uses transaction data for credit underwriting and plans to build 'intelligence layer' for demand forecasting. Not an AI company despite name.",
+   "next_action": "",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Fundly.ai B2B pharma platform Mumbai founders Amit Chawla Shreeram Ramanathan",
+   "status": "done",
+   "found": "Confirmed: Fundly.ai = Ardour Analytics Pvt Ltd, CIN U74999MH2019PTC328994, Mumbai-based B2B pharma fintech. Founders: Amit Kumar Chawla (CEO), Shreeram V Ramanathan.",
+   "next_action": "",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Fundly.ai CIN incorporation MCA private limited registration",
+   "status": "done",
+   "found": "CIN found on fundly.ai/support and fundly.ai/privacy: U74999MH2019PTC328994. Tracxn lists U82990MH2019PTC328994 (conflict). Incorporation date Aug 06, 2019 per Tracxn.",
+   "next_action": "",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Fundly.ai revenue FY25 FY26 financials annual report",
+   "status": "done",
+   "found": "FY25 revenue Rs 30.1Cr (up from Rs 6.6Cr FY24). Net loss Rs 11Cr FY25 (up from Rs 5.8Cr FY24). Tracxn estimates Rs 10-50Cr range.",
+   "next_action": "",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Fundly.ai products FundlyMart payments credit commerce",
+   "status": "done",
+   "found": "Three product lines: FundlyMart (B2B commerce), Embedded Credit, Payments & Settlement Infrastructure (Pune pilot). Also Fundly mobile app.",
+   "next_action": "",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Fundly.ai AI-native technology stack",
+   "status": "done",
+   "found": "No evidence of AI technology stack. Company uses transaction data for credit underwriting and plans to build 'intelligence layer' for demand forecasting. Not an AI company despite name.",
+   "next_action": "",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Fundly.ai B2B pharma platform Mumbai founders Amit Chawla Shreeram Ramanathan",
+   "status": "done",
+   "found": "Confirmed: Fundly.ai = Ardour Analytics Pvt Ltd, CIN U74999MH2019PTC328994, Mumbai-based B2B pharma fintech. Founders: Amit Kumar Chawla (CEO), Shreeram V Ramanathan.",
+   "next_action": "",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Fundly.ai CIN incorporation MCA private limited registration",
+   "status": "done",
+   "found": "CIN found on fundly.ai/support and fundly.ai/privacy: U74999MH2019PTC328994. Tracxn lists U82990MH2019PTC328994 (conflict). Incorporation date Aug 06, 2019 per Tracxn.",
+   "next_action": "",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Fundly.ai revenue FY25 FY26 financials annual report",
+   "status": "done",
+   "found": "FY25 revenue Rs 30.1Cr (up from Rs 6.6Cr FY24). Net loss Rs 11Cr FY25 (up from Rs 5.8Cr FY24). Tracxn estimates Rs 10-50Cr range.",
+   "next_action": "",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Fundly.ai products FundlyMart payments credit commerce",
+   "status": "done",
+   "found": "Three product lines: FundlyMart (B2B commerce), Embedded Credit, Payments & Settlement Infrastructure (Pune pilot). Also Fundly mobile app.",
+   "next_action": "",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Fundly.ai AI-native technology stack",
+   "status": "done",
+   "found": "No evidence of AI technology stack. Company uses transaction data for credit underwriting and plans to build 'intelligence layer' for demand forecasting. Not an AI company despite name.",
+   "next_action": "",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Fundly.ai B2B pharma platform Mumbai founders Amit Chawla Shreeram Ramanathan",
+   "status": "done",
+   "found": "Confirmed: Fundly.ai = Ardour Analytics Pvt Ltd, CIN U74999MH2019PTC328994, Mumbai-based B2B pharma fintech. Founders: Amit Kumar Chawla (CEO), Shreeram V Ramanathan.",
+   "next_action": "",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Fundly.ai CIN incorporation MCA private limited registration",
+   "status": "done",
+   "found": "CIN found on fundly.ai/support and fundly.ai/privacy: U74999MH2019PTC328994. Tracxn lists U82990MH2019PTC328994 (conflict). Incorporation date Aug 06, 2019 per Tracxn.",
+   "next_action": "",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Fundly.ai revenue FY25 FY26 financials annual report",
+   "status": "done",
+   "found": "FY25 revenue Rs 30.1Cr (up from Rs 6.6Cr FY24). Net loss Rs 11Cr FY25 (up from Rs 5.8Cr FY24). Tracxn estimates Rs 10-50Cr range.",
+   "next_action": "",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Fundly.ai products FundlyMart payments credit commerce",
+   "status": "done",
+   "found": "Three product lines: FundlyMart (B2B commerce), Embedded Credit, Payments & Settlement Infrastructure (Pune pilot). Also Fundly mobile app.",
+   "next_action": "",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Fundly.ai AI-native technology stack",
+   "status": "done",
+   "found": "No evidence of AI technology stack. Company uses transaction data for credit underwriting and plans to build 'intelligence layer' for demand forecasting. Not an AI company despite name.",
+   "next_action": "",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Fundly.ai B2B pharma platform Mumbai founders Amit Chawla Shreeram Ramanathan",
+   "status": "done",
+   "found": "Confirmed: Fundly.ai = Ardour Analytics Pvt Ltd, CIN U74999MH2019PTC328994, Mumbai-based B2B pharma fintech. Founders: Amit Kumar Chawla (CEO), Shreeram V Ramanathan.",
+   "next_action": "",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Fundly.ai CIN incorporation MCA private limited registration",
+   "status": "done",
+   "found": "CIN found on fundly.ai/support and fundly.ai/privacy: U74999MH2019PTC328994. Tracxn lists U82990MH2019PTC328994 (conflict). Incorporation date Aug 06, 2019 per Tracxn.",
+   "next_action": "",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Fundly.ai revenue FY25 FY26 financials annual report",
+   "status": "done",
+   "found": "FY25 revenue Rs 30.1Cr (up from Rs 6.6Cr FY24). Net loss Rs 11Cr FY25 (up from Rs 5.8Cr FY24). Tracxn estimates Rs 10-50Cr range.",
+   "next_action": "",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Fundly.ai products FundlyMart payments credit commerce",
+   "status": "done",
+   "found": "Three product lines: FundlyMart (B2B commerce), Embedded Credit, Payments & Settlement Infrastructure (Pune pilot). Also Fundly mobile app.",
+   "next_action": "",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Fundly.ai AI-native technology stack",
+   "status": "done",
+   "found": "No evidence of AI technology stack. Company uses transaction data for credit underwriting and plans to build 'intelligence layer' for demand forecasting. Not an AI company despite name.",
+   "next_action": "",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Fundly.ai B2B pharma platform Mumbai founders Amit Chawla Shreeram Ramanathan",
+   "status": "done",
+   "found": "Confirmed: Fundly.ai = Ardour Analytics Pvt Ltd, CIN U74999MH2019PTC328994, Mumbai-based B2B pharma fintech. Founders: Amit Kumar Chawla (CEO), Shreeram V Ramanathan.",
+   "next_action": "",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Fundly.ai CIN incorporation MCA private limited registration",
+   "status": "done",
+   "found": "CIN found on fundly.ai/support and fundly.ai/privacy: U74999MH2019PTC328994. Tracxn lists U82990MH2019PTC328994 (conflict). Incorporation date Aug 06, 2019 per Tracxn.",
+   "next_action": "",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Fundly.ai revenue FY25 FY26 financials annual report",
+   "status": "done",
+   "found": "FY25 revenue Rs 30.1Cr (up from Rs 6.6Cr FY24). Net loss Rs 11Cr FY25 (up from Rs 5.8Cr FY24). Tracxn estimates Rs 10-50Cr range.",
+   "next_action": "",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Fundly.ai products FundlyMart payments credit commerce",
+   "status": "done",
+   "found": "Three product lines: FundlyMart (B2B commerce), Embedded Credit, Payments & Settlement Infrastructure (Pune pilot). Also Fundly mobile app.",
+   "next_action": "",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Fundly.ai AI-native technology stack",
+   "status": "done",
+   "found": "No evidence of AI technology stack. Company uses transaction data for credit underwriting and plans to build 'intelligence layer' for demand forecasting. Not an AI company despite name.",
+   "next_action": "",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Fundly.ai B2B pharma platform Mumbai founders Amit Chawla Shreeram Ramanathan",
+   "status": "done",
+   "found": "Confirmed: Fundly.ai = Ardour Analytics Pvt Ltd, CIN U74999MH2019PTC328994, Mumbai-based B2B pharma fintech. Founders: Amit Kumar Chawla (CEO), Shreeram V Ramanathan.",
+   "next_action": "",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Fundly.ai CIN incorporation MCA private limited registration",
+   "status": "done",
+   "found": "CIN found on fundly.ai/support and fundly.ai/privacy: U74999MH2019PTC328994. Tracxn lists U82990MH2019PTC328994 (conflict). Incorporation date Aug 06, 2019 per Tracxn.",
+   "next_action": "",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Fundly.ai revenue FY25 FY26 financials annual report",
+   "status": "done",
+   "found": "FY25 revenue Rs 30.1Cr (up from Rs 6.6Cr FY24). Net loss Rs 11Cr FY25 (up from Rs 5.8Cr FY24). Tracxn estimates Rs 10-50Cr range.",
+   "next_action": "",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Fundly.ai products FundlyMart payments credit commerce",
+   "status": "done",
+   "found": "Three product lines: FundlyMart (B2B commerce), Embedded Credit, Payments & Settlement Infrastructure (Pune pilot). Also Fundly mobile app.",
+   "next_action": "",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Fundly.ai AI-native technology stack",
+   "status": "done",
+   "found": "No evidence of AI technology stack. Company uses transaction data for credit underwriting and plans to build 'intelligence layer' for demand forecasting. Not an AI company despite name.",
+   "next_action": "",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Fundly.ai B2B pharma platform Mumbai founders Amit Chawla Shreeram Ramanathan",
+   "status": "done",
+   "found": "Confirmed: Fundly.ai = Ardour Analytics Pvt Ltd, CIN U74999MH2019PTC328994, Mumbai-based B2B pharma fintech. Founders: Amit Kumar Chawla (CEO), Shreeram V Ramanathan.",
+   "next_action": "",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Fundly.ai CIN incorporation MCA private limited registration",
+   "status": "done",
+   "found": "CIN found on fundly.ai/support and fundly.ai/privacy: U74999MH2019PTC328994. Tracxn lists U82990MH2019PTC328994 (conflict). Incorporation date Aug 06, 2019 per Tracxn.",
+   "next_action": "",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Fundly.ai revenue FY25 FY26 financials annual report",
+   "status": "done",
+   "found": "FY25 revenue Rs 30.1Cr (up from Rs 6.6Cr FY24). Net loss Rs 11Cr FY25 (up from Rs 5.8Cr FY24). Tracxn estimates Rs 10-50Cr range.",
+   "next_action": "",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Fundly.ai products FundlyMart payments credit commerce",
+   "status": "done",
+   "found": "Three product lines: FundlyMart (B2B commerce), Embedded Credit, Payments & Settlement Infrastructure (Pune pilot). Also Fundly mobile app.",
+   "next_action": "",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Fundly.ai AI-native technology stack",
+   "status": "done",
+   "found": "No evidence of AI technology stack. Company uses transaction data for credit underwriting and plans to build 'intelligence layer' for demand forecasting. Not an AI company despite name.",
+   "next_action": "",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Fundly.ai B2B pharma platform Mumbai founders Amit Chawla Shreeram Ramanathan",
+   "status": "done",
+   "found": "Confirmed: Fundly.ai = Ardour Analytics Pvt Ltd, CIN U74999MH2019PTC328994, Mumbai-based B2B pharma fintech. Founders: Amit Kumar Chawla (CEO), Shreeram V Ramanathan.",
+   "next_action": "",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Fundly.ai CIN incorporation MCA private limited registration",
+   "status": "done",
+   "found": "CIN found on fundly.ai/support and fundly.ai/privacy: U74999MH2019PTC328994. Tracxn lists U82990MH2019PTC328994 (conflict). Incorporation date Aug 06, 2019 per Tracxn.",
+   "next_action": "",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Fundly.ai revenue FY25 FY26 financials annual report",
+   "status": "done",
+   "found": "FY25 revenue Rs 30.1Cr (up from Rs 6.6Cr FY24). Net loss Rs 11Cr FY25 (up from Rs 5.8Cr FY24). Tracxn estimates Rs 10-50Cr range.",
+   "next_action": "",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Fundly.ai products FundlyMart payments credit commerce",
+   "status": "done",
+   "found": "Three product lines: FundlyMart (B2B commerce), Embedded Credit, Payments & Settlement Infrastructure (Pune pilot). Also Fundly mobile app.",
+   "next_action": "",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Fundly.ai AI-native technology stack",
+   "status": "done",
+   "found": "No evidence of AI technology stack. Company uses transaction data for credit underwriting and plans to build 'intelligence layer' for demand forecasting. Not an AI company despite name.",
+   "next_action": "",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Fundly.ai B2B pharma platform Mumbai founders Amit Chawla Shreeram Ramanathan",
+   "status": "done",
+   "found": "Confirmed: Fundly.ai = Ardour Analytics Pvt Ltd, CIN U74999MH2019PTC328994, Mumbai-based B2B pharma fintech. Founders: Amit Kumar Chawla (CEO), Shreeram V Ramanathan.",
+   "next_action": "",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Fundly.ai CIN incorporation MCA private limited registration",
+   "status": "done",
+   "found": "CIN found on fundly.ai/support and fundly.ai/privacy: U74999MH2019PTC328994. Tracxn lists U82990MH2019PTC328994 (conflict). Incorporation date Aug 06, 2019 per Tracxn.",
+   "next_action": "",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Fundly.ai revenue FY25 FY26 financials annual report",
+   "status": "done",
+   "found": "FY25 revenue Rs 30.1Cr (up from Rs 6.6Cr FY24). Net loss Rs 11Cr FY25 (up from Rs 5.8Cr FY24). Tracxn estimates Rs 10-50Cr range.",
+   "next_action": "",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Fundly.ai products FundlyMart payments credit commerce",
+   "status": "done",
+   "found": "Three product lines: FundlyMart (B2B commerce), Embedded Credit, Payments & Settlement Infrastructure (Pune pilot). Also Fundly mobile app.",
+   "next_action": "",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Fundly.ai AI-native technology stack",
+   "status": "done",
+   "found": "No evidence of AI technology stack. Company uses transaction data for credit underwriting and plans to build 'intelligence layer' for demand forecasting. Not an AI company despite name.",
+   "next_action": "",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Fundly.ai B2B pharma platform Mumbai founders Amit Chawla Shreeram Ramanathan",
+   "status": "done",
+   "found": "Confirmed: Fundly.ai = Ardour Analytics Pvt Ltd, CIN U74999MH2019PTC328994, Mumbai-based B2B pharma fintech. Founders: Amit Kumar Chawla (CEO), Shreeram V Ramanathan.",
+   "next_action": "",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Fundly.ai CIN incorporation MCA private limited registration",
+   "status": "done",
+   "found": "CIN found on fundly.ai/support and fundly.ai/privacy: U74999MH2019PTC328994. Tracxn lists U82990MH2019PTC328994 (conflict). Incorporation date Aug 06, 2019 per Tracxn.",
+   "next_action": "",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Fundly.ai revenue FY25 FY26 financials annual report",
+   "status": "done",
+   "found": "FY25 revenue Rs 30.1Cr (up from Rs 6.6Cr FY24). Net loss Rs 11Cr FY25 (up from Rs 5.8Cr FY24). Tracxn estimates Rs 10-50Cr range.",
+   "next_action": "",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Fundly.ai products FundlyMart payments credit commerce",
+   "status": "done",
+   "found": "Three product lines: FundlyMart (B2B commerce), Embedded Credit, Payments & Settlement Infrastructure (Pune pilot). Also Fundly mobile app.",
+   "next_action": "",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Fundly.ai AI-native technology stack",
+   "status": "done",
+   "found": "No evidence of AI technology stack. Company uses transaction data for credit underwriting and plans to build 'intelligence layer' for demand forecasting. Not an AI company despite name.",
+   "next_action": "",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Fundly.ai B2B pharma platform Mumbai founders Amit Chawla Shreeram Ramanathan",
+   "status": "done",
+   "found": "Confirmed: Fundly.ai = Ardour Analytics Pvt Ltd, CIN U74999MH2019PTC328994, Mumbai-based B2B pharma fintech. Founders: Amit Kumar Chawla (CEO), Shreeram V Ramanathan.",
+   "next_action": "",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Fundly.ai CIN incorporation MCA private limited registration",
+   "status": "done",
+   "found": "CIN found on fundly.ai/support and fundly.ai/privacy: U74999MH2019PTC328994. Tracxn lists U82990MH2019PTC328994 (conflict). Incorporation date Aug 06, 2019 per Tracxn.",
+   "next_action": "",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Fundly.ai revenue FY25 FY26 financials annual report",
+   "status": "done",
+   "found": "FY25 revenue Rs 30.1Cr (up from Rs 6.6Cr FY24). Net loss Rs 11Cr FY25 (up from Rs 5.8Cr FY24). Tracxn estimates Rs 10-50Cr range.",
+   "next_action": "",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Fundly.ai products FundlyMart payments credit commerce",
+   "status": "done",
+   "found": "Three product lines: FundlyMart (B2B commerce), Embedded Credit, Payments & Settlement Infrastructure (Pune pilot). Also Fundly mobile app.",
+   "next_action": "",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Fundly.ai AI-native technology stack",
+   "status": "done",
+   "found": "No evidence of AI technology stack. Company uses transaction data for credit underwriting and plans to build 'intelligence layer' for demand forecasting. Not an AI company despite name.",
+   "next_action": "",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Fundly.ai B2B pharma platform Mumbai founders Amit Chawla Shreeram Ramanathan",
+   "status": "done",
+   "found": "Confirmed: Fundly.ai = Ardour Analytics Pvt Ltd, CIN U74999MH2019PTC328994, Mumbai-based B2B pharma fintech. Founders: Amit Kumar Chawla (CEO), Shreeram V Ramanathan.",
+   "next_action": "",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Fundly.ai CIN incorporation MCA private limited registration",
+   "status": "done",
+   "found": "CIN found on fundly.ai/support and fundly.ai/privacy: U74999MH2019PTC328994. Tracxn lists U82990MH2019PTC328994 (conflict). Incorporation date Aug 06, 2019 per Tracxn.",
+   "next_action": "",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Fundly.ai revenue FY25 FY26 financials annual report",
+   "status": "done",
+   "found": "FY25 revenue Rs 30.1Cr (up from Rs 6.6Cr FY24). Net loss Rs 11Cr FY25 (up from Rs 5.8Cr FY24). Tracxn estimates Rs 10-50Cr range.",
+   "next_action": "",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Fundly.ai products FundlyMart payments credit commerce",
+   "status": "done",
+   "found": "Three product lines: FundlyMart (B2B commerce), Embedded Credit, Payments & Settlement Infrastructure (Pune pilot). Also Fundly mobile app.",
+   "next_action": "",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Fundly.ai AI-native technology stack",
+   "status": "done",
+   "found": "No evidence of AI technology stack. Company uses transaction data for credit underwriting and plans to build 'intelligence layer' for demand forecasting. Not an AI company despite name.",
+   "next_action": "",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Fundly.ai B2B pharma platform Mumbai founders Amit Chawla Shreeram Ramanathan",
+   "status": "done",
+   "found": "Confirmed: Fundly.ai = Ardour Analytics Pvt Ltd, CIN U74999MH2019PTC328994, Mumbai-based B2B pharma fintech. Founders: Amit Kumar Chawla (CEO), Shreeram V Ramanathan.",
+   "next_action": "",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Fundly.ai CIN incorporation MCA private limited registration",
+   "status": "done",
+   "found": "CIN found on fundly.ai/support and fundly.ai/privacy: U74999MH2019PTC328994. Tracxn lists U82990MH2019PTC328994 (conflict). Incorporation date Aug 06, 2019 per Tracxn.",
+   "next_action": "",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Fundly.ai revenue FY25 FY26 financials annual report",
+   "status": "done",
+   "found": "FY25 revenue Rs 30.1Cr (up from Rs 6.6Cr FY24). Net loss Rs 11Cr FY25 (up from Rs 5.8Cr FY24). Tracxn estimates Rs 10-50Cr range.",
+   "next_action": "",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Fundly.ai products FundlyMart payments credit commerce",
+   "status": "done",
+   "found": "Three product lines: FundlyMart (B2B commerce), Embedded Credit, Payments & Settlement Infrastructure (Pune pilot). Also Fundly mobile app.",
+   "next_action": "",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Fundly.ai AI-native technology stack",
+   "status": "done",
+   "found": "No evidence of AI technology stack. Company uses transaction data for credit underwriting and plans to build 'intelligence layer' for demand forecasting. Not an AI company despite name.",
+   "next_action": "",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Fundly.ai B2B pharma platform Mumbai founders Amit Chawla Shreeram Ramanathan",
+   "status": "done",
+   "found": "Confirmed: Fundly.ai = Ardour Analytics Pvt Ltd, CIN U74999MH2019PTC328994, Mumbai-based B2B pharma fintech. Founders: Amit Kumar Chawla (CEO), Shreeram V Ramanathan.",
+   "next_action": "",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Fundly.ai CIN incorporation MCA private limited registration",
+   "status": "done",
+   "found": "CIN found on fundly.ai/support and fundly.ai/privacy: U74999MH2019PTC328994. Tracxn lists U82990MH2019PTC328994 (conflict). Incorporation date Aug 06, 2019 per Tracxn.",
+   "next_action": "",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Fundly.ai revenue FY25 FY26 financials annual report",
+   "status": "done",
+   "found": "FY25 revenue Rs 30.1Cr (up from Rs 6.6Cr FY24). Net loss Rs 11Cr FY25 (up from Rs 5.8Cr FY24). Tracxn estimates Rs 10-50Cr range.",
+   "next_action": "",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Fundly.ai products FundlyMart payments credit commerce",
+   "status": "done",
+   "found": "Three product lines: FundlyMart (B2B commerce), Embedded Credit, Payments & Settlement Infrastructure (Pune pilot). Also Fundly mobile app.",
+   "next_action": "",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Fundly.ai AI-native technology stack",
+   "status": "done",
+   "found": "No evidence of AI technology stack. Company uses transaction data for credit underwriting and plans to build 'intelligence layer' for demand forecasting. Not an AI company despite name.",
+   "next_action": "",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Fundly.ai B2B pharma platform Mumbai founders Amit Chawla Shreeram Ramanathan",
+   "status": "done",
+   "found": "Confirmed: Fundly.ai = Ardour Analytics Pvt Ltd, CIN U74999MH2019PTC328994, Mumbai-based B2B pharma fintech. Founders: Amit Kumar Chawla (CEO), Shreeram V Ramanathan.",
+   "next_action": "",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Fundly.ai CIN incorporation MCA private limited registration",
+   "status": "done",
+   "found": "CIN found on fundly.ai/support and fundly.ai/privacy: U74999MH2019PTC328994. Tracxn lists U82990MH2019PTC328994 (conflict). Incorporation date Aug 06, 2019 per Tracxn.",
+   "next_action": "",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Fundly.ai revenue FY25 FY26 financials annual report",
+   "status": "done",
+   "found": "FY25 revenue Rs 30.1Cr (up from Rs 6.6Cr FY24). Net loss Rs 11Cr FY25 (up from Rs 5.8Cr FY24). Tracxn estimates Rs 10-50Cr range.",
+   "next_action": "",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Fundly.ai products FundlyMart payments credit commerce",
+   "status": "done",
+   "found": "Three product lines: FundlyMart (B2B commerce), Embedded Credit, Payments & Settlement Infrastructure (Pune pilot). Also Fundly mobile app.",
+   "next_action": "",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Fundly.ai AI-native technology stack",
+   "status": "done",
+   "found": "No evidence of AI technology stack. Company uses transaction data for credit underwriting and plans to build 'intelligence layer' for demand forecasting. Not an AI company despite name.",
+   "next_action": "",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Fundly.ai B2B pharma platform Mumbai founders Amit Chawla Shreeram Ramanathan",
+   "status": "done",
+   "found": "Confirmed: Fundly.ai = Ardour Analytics Pvt Ltd, CIN U74999MH2019PTC328994, Mumbai-based B2B pharma fintech. Founders: Amit Kumar Chawla (CEO), Shreeram V Ramanathan.",
+   "next_action": "",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Fundly.ai CIN incorporation MCA private limited registration",
+   "status": "done",
+   "found": "CIN found on fundly.ai/support and fundly.ai/privacy: U74999MH2019PTC328994. Tracxn lists U82990MH2019PTC328994 (conflict). Incorporation date Aug 06, 2019 per Tracxn.",
+   "next_action": "",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Fundly.ai revenue FY25 FY26 financials annual report",
+   "status": "done",
+   "found": "FY25 revenue Rs 30.1Cr (up from Rs 6.6Cr FY24). Net loss Rs 11Cr FY25 (up from Rs 5.8Cr FY24). Tracxn estimates Rs 10-50Cr range.",
+   "next_action": "",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Fundly.ai products FundlyMart payments credit commerce",
+   "status": "done",
+   "found": "Three product lines: FundlyMart (B2B commerce), Embedded Credit, Payments & Settlement Infrastructure (Pune pilot). Also Fundly mobile app.",
+   "next_action": "",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Fundly.ai AI-native technology stack",
+   "status": "done",
+   "found": "No evidence of AI technology stack. Company uses transaction data for credit underwriting and plans to build 'intelligence layer' for demand forecasting. Not an AI company despite name.",
+   "next_action": "",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Fundly.ai B2B pharma platform Mumbai founders Amit Chawla Shreeram Ramanathan",
+   "status": "done",
+   "found": "Confirmed: Fundly.ai = Ardour Analytics Pvt Ltd, CIN U74999MH2019PTC328994, Mumbai-based B2B pharma fintech. Founders: Amit Kumar Chawla (CEO), Shreeram V Ramanathan.",
+   "next_action": "",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Fundly.ai CIN incorporation MCA private limited registration",
+   "status": "done",
+   "found": "CIN found on fundly.ai/support and fundly.ai/privacy: U74999MH2019PTC328994. Tracxn lists U82990MH2019PTC328994 (conflict). Incorporation date Aug 06, 2019 per Tracxn.",
+   "next_action": "",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Fundly.ai revenue FY25 FY26 financials annual report",
+   "status": "done",
+   "found": "FY25 revenue Rs 30.1Cr (up from Rs 6.6Cr FY24). Net loss Rs 11Cr FY25 (up from Rs 5.8Cr FY24). Tracxn estimates Rs 10-50Cr range.",
+   "next_action": "",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Fundly.ai products FundlyMart payments credit commerce",
+   "status": "done",
+   "found": "Three product lines: FundlyMart (B2B commerce), Embedded Credit, Payments & Settlement Infrastructure (Pune pilot). Also Fundly mobile app.",
+   "next_action": "",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Fundly.ai AI-native technology stack",
+   "status": "done",
+   "found": "No evidence of AI technology stack. Company uses transaction data for credit underwriting and plans to build 'intelligence layer' for demand forecasting. Not an AI company despite name.",
+   "next_action": "",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Fundly.ai B2B pharma platform Mumbai founders Amit Chawla Shreeram Ramanathan",
+   "status": "done",
+   "found": "Confirmed: Fundly.ai = Ardour Analytics Pvt Ltd, CIN U74999MH2019PTC328994, Mumbai-based B2B pharma fintech. Founders: Amit Kumar Chawla (CEO), Shreeram V Ramanathan.",
+   "next_action": "",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Fundly.ai CIN incorporation MCA private limited registration",
+   "status": "done",
+   "found": "CIN found on fundly.ai/support and fundly.ai/privacy: U74999MH2019PTC328994. Tracxn lists U82990MH2019PTC328994 (conflict). Incorporation date Aug 06, 2019 per Tracxn.",
+   "next_action": "",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Fundly.ai revenue FY25 FY26 financials annual report",
+   "status": "done",
+   "found": "FY25 revenue Rs 30.1Cr (up from Rs 6.6Cr FY24). Net loss Rs 11Cr FY25 (up from Rs 5.8Cr FY24). Tracxn estimates Rs 10-50Cr range.",
+   "next_action": "",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Fundly.ai products FundlyMart payments credit commerce",
+   "status": "done",
+   "found": "Three product lines: FundlyMart (B2B commerce), Embedded Credit, Payments & Settlement Infrastructure (Pune pilot). Also Fundly mobile app.",
+   "next_action": "",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Fundly.ai AI-native technology stack",
+   "status": "done",
+   "found": "No evidence of AI technology stack. Company uses transaction data for credit underwriting and plans to build 'intelligence layer' for demand forecasting. Not an AI company despite name.",
+   "next_action": "",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Fundly.ai B2B pharma platform Mumbai founders Amit Chawla Shreeram Ramanathan",
+   "status": "done",
+   "found": "Confirmed: Fundly.ai = Ardour Analytics Pvt Ltd, CIN U74999MH2019PTC328994, Mumbai-based B2B pharma fintech. Founders: Amit Kumar Chawla (CEO), Shreeram V Ramanathan.",
+   "next_action": "",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Fundly.ai CIN incorporation MCA private limited registration",
+   "status": "done",
+   "found": "CIN found on fundly.ai/support and fundly.ai/privacy: U74999MH2019PTC328994. Tracxn lists U82990MH2019PTC328994 (conflict). Incorporation date Aug 06, 2019 per Tracxn.",
+   "next_action": "",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Fundly.ai revenue FY25 FY26 financials annual report",
+   "status": "done",
+   "found": "FY25 revenue Rs 30.1Cr (up from Rs 6.6Cr FY24). Net loss Rs 11Cr FY25 (up from Rs 5.8Cr FY24). Tracxn estimates Rs 10-50Cr range.",
+   "next_action": "",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Fundly.ai products FundlyMart payments credit commerce",
+   "status": "done",
+   "found": "Three product lines: FundlyMart (B2B commerce), Embedded Credit, Payments & Settlement Infrastructure (Pune pilot). Also Fundly mobile app.",
+   "next_action": "",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Fundly.ai AI-native technology stack",
+   "status": "done",
+   "found": "No evidence of AI technology stack. Company uses transaction data for credit underwriting and plans to build 'intelligence layer' for demand forecasting. Not an AI company despite name.",
+   "next_action": "",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Fundly.ai B2B pharma platform Mumbai founders Amit Chawla Shreeram Ramanathan",
+   "status": "done",
+   "found": "Confirmed: Fundly.ai = Ardour Analytics Pvt Ltd, CIN U74999MH2019PTC328994, Mumbai-based B2B pharma fintech. Founders: Amit Kumar Chawla (CEO), Shreeram V Ramanathan.",
+   "next_action": "",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Fundly.ai CIN incorporation MCA private limited registration",
+   "status": "done",
+   "found": "CIN found on fundly.ai/support and fundly.ai/privacy: U74999MH2019PTC328994. Tracxn lists U82990MH2019PTC328994 (conflict). Incorporation date Aug 06, 2019 per Tracxn.",
+   "next_action": "",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Fundly.ai revenue FY25 FY26 financials annual report",
+   "status": "done",
+   "found": "FY25 revenue Rs 30.1Cr (up from Rs 6.6Cr FY24). Net loss Rs 11Cr FY25 (up from Rs 5.8Cr FY24). Tracxn estimates Rs 10-50Cr range.",
+   "next_action": "",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Fundly.ai products FundlyMart payments credit commerce",
+   "status": "done",
+   "found": "Three product lines: FundlyMart (B2B commerce), Embedded Credit, Payments & Settlement Infrastructure (Pune pilot). Also Fundly mobile app.",
+   "next_action": "",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Fundly.ai AI-native technology stack",
+   "status": "done",
+   "found": "No evidence of AI technology stack. Company uses transaction data for credit underwriting and plans to build 'intelligence layer' for demand forecasting. Not an AI company despite name.",
+   "next_action": "",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Fundly.ai B2B pharma platform Mumbai founders Amit Chawla Shreeram Ramanathan",
+   "status": "done",
+   "found": "Confirmed: Fundly.ai = Ardour Analytics Pvt Ltd, CIN U74999MH2019PTC328994, Mumbai-based B2B pharma fintech. Founders: Amit Kumar Chawla (CEO), Shreeram V Ramanathan.",
+   "next_action": "",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Fundly.ai CIN incorporation MCA private limited registration",
+   "status": "done",
+   "found": "CIN found on fundly.ai/support and fundly.ai/privacy: U74999MH2019PTC328994. Tracxn lists U82990MH2019PTC328994 (conflict). Incorporation date Aug 06, 2019 per Tracxn.",
+   "next_action": "",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Fundly.ai revenue FY25 FY26 financials annual report",
+   "status": "done",
+   "found": "FY25 revenue Rs 30.1Cr (up from Rs 6.6Cr FY24). Net loss Rs 11Cr FY25 (up from Rs 5.8Cr FY24). Tracxn estimates Rs 10-50Cr range.",
+   "next_action": "",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Fundly.ai products FundlyMart payments credit commerce",
+   "status": "done",
+   "found": "Three product lines: FundlyMart (B2B commerce), Embedded Credit, Payments & Settlement Infrastructure (Pune pilot). Also Fundly mobile app.",
+   "next_action": "",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Fundly.ai AI-native technology stack",
+   "status": "done",
+   "found": "No evidence of AI technology stack. Company uses transaction data for credit underwriting and plans to build 'intelligence layer' for demand forecasting. Not an AI company despite name.",
+   "next_action": "",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Fundly.ai B2B pharma platform Mumbai founders Amit Chawla Shreeram Ramanathan",
+   "status": "done",
+   "found": "Confirmed: Fundly.ai = Ardour Analytics Pvt Ltd, CIN U74999MH2019PTC328994, Mumbai-based B2B pharma fintech. Founders: Amit Kumar Chawla (CEO), Shreeram V Ramanathan.",
+   "next_action": "",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Fundly.ai CIN incorporation MCA private limited registration",
+   "status": "done",
+   "found": "CIN found on fundly.ai/support and fundly.ai/privacy: U74999MH2019PTC328994. Tracxn lists U82990MH2019PTC328994 (conflict). Incorporation date Aug 06, 2019 per Tracxn.",
+   "next_action": "",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Fundly.ai revenue FY25 FY26 financials annual report",
+   "status": "done",
+   "found": "FY25 revenue Rs 30.1Cr (up from Rs 6.6Cr FY24). Net loss Rs 11Cr FY25 (up from Rs 5.8Cr FY24). Tracxn estimates Rs 10-50Cr range.",
+   "next_action": "",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Fundly.ai products FundlyMart payments credit commerce",
+   "status": "done",
+   "found": "Three product lines: FundlyMart (B2B commerce), Embedded Credit, Payments & Settlement Infrastructure (Pune pilot). Also Fundly mobile app.",
+   "next_action": "",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Fundly.ai AI-native technology stack",
+   "status": "done",
+   "found": "No evidence of AI technology stack. Company uses transaction data for credit underwriting and plans to build 'intelligence layer' for demand forecasting. Not an AI company despite name.",
+   "next_action": "",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Fundly.ai B2B pharma platform Mumbai founders Amit Chawla Shreeram Ramanathan",
+   "status": "done",
+   "found": "Confirmed: Fundly.ai = Ardour Analytics Pvt Ltd, CIN U74999MH2019PTC328994, Mumbai-based B2B pharma fintech. Founders: Amit Kumar Chawla (CEO), Shreeram V Ramanathan.",
+   "next_action": "",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Fundly.ai CIN incorporation MCA private limited registration",
+   "status": "done",
+   "found": "CIN found on fundly.ai/support and fundly.ai/privacy: U74999MH2019PTC328994. Tracxn lists U82990MH2019PTC328994 (conflict). Incorporation date Aug 06, 2019 per Tracxn.",
+   "next_action": "",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Fundly.ai revenue FY25 FY26 financials annual report",
+   "status": "done",
+   "found": "FY25 revenue Rs 30.1Cr (up from Rs 6.6Cr FY24). Net loss Rs 11Cr FY25 (up from Rs 5.8Cr FY24). Tracxn estimates Rs 10-50Cr range.",
+   "next_action": "",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Fundly.ai products FundlyMart payments credit commerce",
+   "status": "done",
+   "found": "Three product lines: FundlyMart (B2B commerce), Embedded Credit, Payments & Settlement Infrastructure (Pune pilot). Also Fundly mobile app.",
+   "next_action": "",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Fundly.ai AI-native technology stack",
+   "status": "done",
+   "found": "No evidence of AI technology stack. Company uses transaction data for credit underwriting and plans to build 'intelligence layer' for demand forecasting. Not an AI company despite name.",
+   "next_action": "",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Fundly.ai B2B pharma platform Mumbai founders Amit Chawla Shreeram Ramanathan",
+   "status": "done",
+   "found": "Confirmed: Fundly.ai = Ardour Analytics Pvt Ltd, CIN U74999MH2019PTC328994, Mumbai-based B2B pharma fintech. Founders: Amit Kumar Chawla (CEO), Shreeram V Ramanathan.",
+   "next_action": "",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Fundly.ai CIN incorporation MCA private limited registration",
+   "status": "done",
+   "found": "CIN found on fundly.ai/support and fundly.ai/privacy: U74999MH2019PTC328994. Tracxn lists U82990MH2019PTC328994 (conflict). Incorporation date Aug 06, 2019 per Tracxn.",
+   "next_action": "",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Fundly.ai revenue FY25 FY26 financials annual report",
+   "status": "done",
+   "found": "FY25 revenue Rs 30.1Cr (up from Rs 6.6Cr FY24). Net loss Rs 11Cr FY25 (up from Rs 5.8Cr FY24). Tracxn estimates Rs 10-50Cr range.",
+   "next_action": "",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Fundly.ai products FundlyMart payments credit commerce",
+   "status": "done",
+   "found": "Three product lines: FundlyMart (B2B commerce), Embedded Credit, Payments & Settlement Infrastructure (Pune pilot). Also Fundly mobile app.",
+   "next_action": "",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Fundly.ai AI-native technology stack",
+   "status": "done",
+   "found": "No evidence of AI technology stack. Company uses transaction data for credit underwriting and plans to build 'intelligence layer' for demand forecasting. Not an AI company despite name.",
+   "next_action": "",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Fundly.ai B2B pharma platform Mumbai founders Amit Chawla Shreeram Ramanathan",
+   "status": "done",
+   "found": "Confirmed: Fundly.ai = Ardour Analytics Pvt Ltd, CIN U74999MH2019PTC328994, Mumbai-based B2B pharma fintech. Founders: Amit Kumar Chawla (CEO), Shreeram V Ramanathan.",
+   "next_action": "",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Fundly.ai CIN incorporation MCA private limited registration",
+   "status": "done",
+   "found": "CIN found on fundly.ai/support and fundly.ai/privacy: U74999MH2019PTC328994. Tracxn lists U82990MH2019PTC328994 (conflict). Incorporation date Aug 06, 2019 per Tracxn.",
+   "next_action": "",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Fundly.ai revenue FY25 FY26 financials annual report",
+   "status": "done",
+   "found": "FY25 revenue Rs 30.1Cr (up from Rs 6.6Cr FY24). Net loss Rs 11Cr FY25 (up from Rs 5.8Cr FY24). Tracxn estimates Rs 10-50Cr range.",
+   "next_action": "",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Fundly.ai products FundlyMart payments credit commerce",
+   "status": "done",
+   "found": "Three product lines: FundlyMart (B2B commerce), Embedded Credit, Payments & Settlement Infrastructure (Pune pilot). Also Fundly mobile app.",
+   "next_action": "",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Fundly.ai AI-native technology stack",
+   "status": "done",
+   "found": "No evidence of AI technology stack. Company uses transaction data for credit underwriting and plans to build 'intelligence layer' for demand forecasting. Not an AI company despite name.",
+   "next_action": "",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Fundly.ai B2B pharma platform Mumbai founders Amit Chawla Shreeram Ramanathan",
+   "status": "done",
+   "found": "Confirmed: Fundly.ai = Ardour Analytics Pvt Ltd, CIN U74999MH2019PTC328994, Mumbai-based B2B pharma fintech. Founders: Amit Kumar Chawla (CEO), Shreeram V Ramanathan.",
+   "next_action": "",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Fundly.ai CIN incorporation MCA private limited registration",
+   "status": "done",
+   "found": "CIN found on fundly.ai/support and fundly.ai/privacy: U74999MH2019PTC328994. Tracxn lists U82990MH2019PTC328994 (conflict). Incorporation date Aug 06, 2019 per Tracxn.",
+   "next_action": "",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Fundly.ai revenue FY25 FY26 financials annual report",
+   "status": "done",
+   "found": "FY25 revenue Rs 30.1Cr (up from Rs 6.6Cr FY24). Net loss Rs 11Cr FY25 (up from Rs 5.8Cr FY24). Tracxn estimates Rs 10-50Cr range.",
+   "next_action": "",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Fundly.ai products FundlyMart payments credit commerce",
+   "status": "done",
+   "found": "Three product lines: FundlyMart (B2B commerce), Embedded Credit, Payments & Settlement Infrastructure (Pune pilot). Also Fundly mobile app.",
+   "next_action": "",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Fundly.ai AI-native technology stack",
+   "status": "done",
+   "found": "No evidence of AI technology stack. Company uses transaction data for credit underwriting and plans to build 'intelligence layer' for demand forecasting. Not an AI company despite name.",
+   "next_action": "",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Fundly.ai B2B pharma platform Mumbai founders Amit Chawla Shreeram Ramanathan",
+   "status": "done",
+   "found": "Confirmed: Fundly.ai = Ardour Analytics Pvt Ltd, CIN U74999MH2019PTC328994, Mumbai-based B2B pharma fintech. Founders: Amit Kumar Chawla (CEO), Shreeram V Ramanathan.",
+   "next_action": "",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Fundly.ai CIN incorporation MCA private limited registration",
+   "status": "done",
+   "found": "CIN found on fundly.ai/support and fundly.ai/privacy: U74999MH2019PTC328994. Tracxn lists U82990MH2019PTC328994 (conflict). Incorporation date Aug 06, 2019 per Tracxn.",
+   "next_action": "",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Fundly.ai revenue FY25 FY26 financials annual report",
+   "status": "done",
+   "found": "FY25 revenue Rs 30.1Cr (up from Rs 6.6Cr FY24). Net loss Rs 11Cr FY25 (up from Rs 5.8Cr FY24). Tracxn estimates Rs 10-50Cr range.",
+   "next_action": "",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Fundly.ai products FundlyMart payments credit commerce",
+   "status": "done",
+   "found": "Three product lines: FundlyMart (B2B commerce), Embedded Credit, Payments & Settlement Infrastructure (Pune pilot). Also Fundly mobile app.",
+   "next_action": "",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Fundly.ai AI-native technology stack",
+   "status": "done",
+   "found": "No evidence of AI technology stack. Company uses transaction data for credit underwriting and plans to build 'intelligence layer' for demand forecasting. Not an AI company despite name.",
+   "next_action": "",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Fundly.ai B2B pharma platform Mumbai founders Amit Chawla Shreeram Ramanathan",
+   "status": "done",
+   "found": "Confirmed: Fundly.ai = Ardour Analytics Pvt Ltd, CIN U74999MH2019PTC328994, Mumbai-based B2B pharma fintech. Founders: Amit Kumar Chawla (CEO), Shreeram V Ramanathan.",
+   "next_action": "",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Fundly.ai CIN incorporation MCA private limited registration",
+   "status": "done",
+   "found": "CIN found on fundly.ai/support and fundly.ai/privacy: U74999MH2019PTC328994. Tracxn lists U82990MH2019PTC328994 (conflict). Incorporation date Aug 06, 2019 per Tracxn.",
+   "next_action": "",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Fundly.ai revenue FY25 FY26 financials annual report",
+   "status": "done",
+   "found": "FY25 revenue Rs 30.1Cr (up from Rs 6.6Cr FY24). Net loss Rs 11Cr FY25 (up from Rs 5.8Cr FY24). Tracxn estimates Rs 10-50Cr range.",
+   "next_action": "",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Fundly.ai products FundlyMart payments credit commerce",
+   "status": "done",
+   "found": "Three product lines: FundlyMart (B2B commerce), Embedded Credit, Payments & Settlement Infrastructure (Pune pilot). Also Fundly mobile app.",
+   "next_action": "",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Fundly.ai AI-native technology stack",
+   "status": "done",
+   "found": "No evidence of AI technology stack. Company uses transaction data for credit underwriting and plans to build 'intelligence layer' for demand forecasting. Not an AI company despite name.",
+   "next_action": "",
+   "agent": "hyperresearch"
+  }
+ ],
+ "sources": [
+  {
+   "publication_date": "2026-09-08",
+   "publisher": "Economic Times",
+   "tier": "T2",
+   "title": "B2B startup Fundly.ai raises $4 million led by Accel, Multiply",
+   "url": "https://m.economictimes.com/tech/funding/b2b-startup-fundly-ai-raises-4-million-led-by-accel-multiply/articleshow/133890712.cms"
+  },
+  {
+   "publication_date": "2026-09-08",
+   "publisher": "Indian Startup News",
+   "tier": "T3",
+   "title": "B2B pharma platform Fundly.ai raises $4 million",
+   "url": "https://indianstartupnews.com/funding/b2b-pharma-platform-fundlyai-raises-4-million-to-expand-commerce-payments-and-credit-business-12506014"
+  },
+  {
+   "publisher": "Seedtable",
+   "tier": "T4",
+   "title": "Fundly.ai funding rounds",
+   "url": "https://seedtable.com/companies/fundly-ai/funding-rounds/other-2026-09"
+  },
+  {
+   "url": "https://fundly.ai/about",
+   "company_reported": true,
+   "tier": "T1",
+   "publication_date": "",
+   "retrieved_date": "2026-09-15",
+   "confidence": "HIGH",
+   "fields_supported": [
+    "traction",
+    "products",
+    "description",
+    "company"
+   ]
+  },
+  {
+   "url": "https://fundly.ai/support",
+   "company_reported": true,
+   "tier": "T1",
+   "publication_date": "",
+   "retrieved_date": "2026-09-15",
+   "confidence": "HIGH",
+   "fields_supported": [
+    "legal",
+    "locations",
+    "company",
+    "cin"
+   ]
+  },
+  {
+   "url": "https://fundly.ai/privacy",
+   "company_reported": true,
+   "tier": "T1",
+   "publication_date": "2025-07-31",
+   "retrieved_date": "2026-09-15",
+   "confidence": "HIGH",
+   "fields_supported": [
+    "legal",
+    "locations",
+    "company",
+    "cin"
+   ]
+  },
+  {
+   "url": "https://tracxn.com/d/companies/fundly/__61l4ee5OnEBRs16Ll9P67g2UJtD8alXrgjt3y-wYc_c",
+   "publisher": "Tracxn",
+   "tier": "T3",
+   "publication_date": "2026-09-14",
+   "retrieved_date": "2026-09-15",
+   "confidence": "MEDIUM",
+   "fields_supported": [
+    "founders",
+    "people",
+    "financials",
+    "funding_rounds",
+    "employee_estimate",
+    "company"
+   ]
+  },
+  {
+   "url": "https://inc42.com/buzz/fundly-ai-raises-4-mn-to-scale-pharma-payments-commerce-infra/",
+   "publisher": "Inc42",
+   "tier": "T2",
+   "publication_date": "2026-09-08",
+   "retrieved_date": "2026-09-15",
+   "confidence": "HIGH",
+   "fields_supported": [
+    "funding_rounds",
+    "products",
+    "traction",
+    "events"
+   ]
+  },
+  {
+   "url": "https://www.digitalhealthnews.com/fundly-ai-raises-4-mn-to-expand-digital-pharma-distribution-network",
+   "publisher": "Digital Health News",
+   "tier": "T3",
+   "publication_date": "2026-09-09",
+   "retrieved_date": "2026-09-15",
+   "confidence": "MEDIUM",
+   "fields_supported": [
+    "funding_rounds",
+    "products",
+    "traction"
+   ]
+  },
+  {
+   "url": "https://entrackr.com/snippets/b2b-pharma-distribution-startup-fundlyai-raises-4-mn-led-by-accel-multiply-12505458",
+   "publisher": "Entrackr",
+   "tier": "T2",
+   "publication_date": "2026-09-08",
+   "retrieved_date": "2026-09-15",
+   "confidence": "HIGH",
+   "fields_supported": [
+    "funding_rounds",
+    "founders",
+    "business_model"
+   ]
+  },
+  {
+   "url": "https://www.accel.com/companies/fundly-ai",
+   "publisher": "Accel",
+   "tier": "T1",
+   "publication_date": "",
+   "retrieved_date": "2026-09-15",
+   "confidence": "HIGH",
+   "fields_supported": [
+    "founders",
+    "investor_links"
+   ]
+  },
+  {
+   "url": "https://ibsintelligence.com/ibsi-news/fundly-ai-raises-3m-seed-funding/",
+   "publisher": "IBS Intelligence",
+   "tier": "T2",
+   "publication_date": "2023-05-08",
+   "retrieved_date": "2026-09-15",
+   "confidence": "HIGH",
+   "fields_supported": [
+    "funding_rounds"
+   ]
+  },
+  {
+   "url": "https://www.fundedstartupsdaily.com/company/fundly-ai/",
+   "publisher": "FundedStartupsDaily",
+   "tier": "T4",
+   "publication_date": "2026-09-08",
+   "retrieved_date": "2026-09-15",
+   "confidence": "MEDIUM",
+   "fields_supported": [
+    "founders",
+    "funding_rounds"
+   ]
+  }
+ ],
+ "startup_id": "fundly ai",
+ "_merged_session2": true,
+ "financials": [
+  {
+   "fiscal_year": "FY25",
+   "metric": "total_revenue",
+   "value": 30.1,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "press-quoted-filing",
+   "basis": "standalone",
+   "consolidated": "no",
+   "filing_date": "",
+   "source_url": "https://indianstartupnews.com/funding/b2b-pharma-platform-fundlyai-raises-4-million-to-expand-commerce-payments-and-credit-business-12506014",
+   "source_title": "B2B pharma platform Fundly.ai raises $4 million",
+   "publication_date": "2026-09-08",
+   "confidence": "MEDIUM",
+   "notes": "Reported by ISN citing media reports; up from Rs 6.6Cr in FY24"
+  },
+  {
+   "fiscal_year": "FY24",
+   "metric": "total_revenue",
+   "value": 6.6,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "press-quoted-filing",
+   "basis": "standalone",
+   "consolidated": "no",
+   "filing_date": "",
+   "source_url": "https://indianstartupnews.com/funding/b2b-pharma-platform-fundlyai-raises-4-million-to-expand-commerce-payments-and-credit-business-12506014",
+   "source_title": "B2B pharma platform Fundly.ai raises $4 million",
+   "publication_date": "2026-09-08",
+   "confidence": "MEDIUM",
+   "notes": "Prior year revenue"
+  },
+  {
+   "fiscal_year": "FY25",
+   "metric": "net_loss",
+   "value": 11,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "press-quoted-filing",
+   "basis": "standalone",
+   "consolidated": "no",
+   "filing_date": "",
+   "source_url": "https://indianstartupnews.com/funding/b2b-pharma-platform-fundlyai-raises-4-million-to-expand-commerce-payments-and-credit-business-12506014",
+   "source_title": "B2B pharma platform Fundly.ai raises $4 million",
+   "publication_date": "2026-09-08",
+   "confidence": "MEDIUM",
+   "notes": "Net loss widened from Rs 5.8Cr in FY24"
+  },
+  {
+   "fiscal_year": "FY24",
+   "metric": "net_loss",
+   "value": 5.8,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "press-quoted-filing",
+   "basis": "standalone",
+   "consolidated": "no",
+   "filing_date": "",
+   "source_url": "https://indianstartupnews.com/funding/b2b-pharma-platform-fundlyai-raises-4-million-to-expand-commerce-payments-and-credit-business-12506014",
+   "source_title": "B2B pharma platform Fundly.ai raises $4 million",
+   "publication_date": "2026-09-08",
+   "confidence": "MEDIUM",
+   "notes": "Prior year net loss"
+  },
+  {
+   "fiscal_year": "FY25",
+   "metric": "annual_revenue_range",
+   "value": 10,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "estimate",
+   "basis": "standalone",
+   "consolidated": "no",
+   "filing_date": "",
+   "source_url": "https://tracxn.com/d/companies/fundly/__61l4ee5OnEBRs16Ll9P67g2UJtD8alXrgjt3y-wYc_c",
+   "source_title": "Fundly - 2026 Company Profile",
+   "publication_date": "2026-09-14",
+   "confidence": "LOW",
+   "notes": "Tracxn estimates revenue between Rs 10-50 Cr as of Mar 31, 2025"
+  }
+ ],
+ "traction": [
+  {
+   "metric": "retailers_served",
+   "value": 4100,
+   "unit": "count",
+   "period": "As-of-2026-09",
+   "as_of": "2026-09-08",
+   "company_reported": true,
+   "source_url": "https://fundly.ai/about",
+   "confidence": "HIGH",
+   "notes": "Company claims 4,100+ retailers & distributors across 24+ cities and 600+ PIN codes"
+  },
+  {
+   "metric": "cities_operating",
+   "value": 24,
+   "unit": "count",
+   "period": "As-of-2026-09",
+   "as_of": "2026-09-08",
+   "company_reported": true,
+   "source_url": "https://fundly.ai/about",
+   "confidence": "HIGH"
+  },
+  {
+   "metric": "pin_codes_covered",
+   "value": 600,
+   "unit": "count",
+   "period": "As-of-2026-09",
+   "as_of": "2026-09-08",
+   "company_reported": true,
+   "source_url": "https://fundly.ai/about",
+   "confidence": "HIGH"
+  },
+  {
+   "metric": "total_funds_disbursed",
+   "value": 1093,
+   "unit": "crore",
+   "currency": "INR",
+   "period": "Since-inception-2021",
+   "as_of": "2026-09-08",
+   "company_reported": true,
+   "source_url": "https://fundly.ai/about",
+   "confidence": "HIGH",
+   "notes": "Disbursed funds worth more than Rs 1,093Cr since inception"
+  },
+  {
+   "metric": "pune_pilot_retailers",
+   "value": 3000,
+   "unit": "count",
+   "period": "As-of-2026-09",
+   "as_of": "2026-09-08",
+   "company_reported": true,
+   "source_url": "https://indianstartupnews.com/funding/b2b-pharma-platform-fundlyai-raises-4-million-to-expand-commerce-payments-and-credit-business-12506014",
+   "confidence": "HIGH",
+   "notes": "Pune pilot covering ~3,000 retailers for payments/settlement infrastructure"
+  },
+  {
+   "metric": "total_funding_raised",
+   "value": 7.5,
+   "unit": "million",
+   "currency": "USD",
+   "period": "Since-inception",
+   "as_of": "2026-09-08",
+   "company_reported": false,
+   "source_url": "https://tracxn.com/d/companies/fundly/__61l4ee5OnEBRs16Ll9P67g2UJtD8alXrgjt3y-wYc_c",
+   "confidence": "MEDIUM",
+   "notes": "Tracxn: $7.5M across 6 rounds"
+  }
+ ],
+ "products": [
+  {
+   "name": "FundlyMart",
+   "category": "B2B commerce",
+   "description": "B2B ecommerce platform allowing retailers and distributors to discover and order medicines from distributors, with credit embedded into checkout",
+   "pricing_model": "UNKNOWN",
+   "launch_date": "",
+   "status": "LIVE",
+   "source_url": "https://indianstartupnews.com/funding/b2b-pharma-platform-fundlyai-raises-4-million-to-expand-commerce-payments-and-credit-business-12506014",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Embedded Credit",
+   "category": "Lending / fintech",
+   "description": "Instant top-up credit and custom credit structures for pharma retailers and distributors; lending decisions based on commerce and payment data rather than conventional financial statements",
+   "pricing_model": "interest-based",
+   "launch_date": "2021",
+   "status": "LIVE",
+   "source_url": "https://fundly.ai/about",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Payments & Settlement Infrastructure",
+   "category": "Payments",
+   "description": "Payment and settlement infrastructure integrating with distributor ERP systems to manage collections, payouts, and reconciliation; currently piloting in Pune",
+   "pricing_model": "UNKNOWN",
+   "launch_date": "",
+   "status": "PILOT (Pune)",
+   "source_url": "https://indianstartupnews.com/funding/b2b-pharma-platform-fundlyai-raises-4-million-to-expand-commerce-payments-and-credit-business-12506014",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Fundly App",
+   "category": "Mobile application",
+   "description": "Mobile app for retailers to apply for loans, complete KYC, track repayment schedules, and manage credit",
+   "pricing_model": "free",
+   "launch_date": "",
+   "status": "LIVE",
+   "source_url": "https://fundly.ai/support",
+   "confidence": "HIGH"
+  }
+ ],
+ "people": [
+  {
+   "name": "Amit Kumar Chawla",
+   "role": "Co-Founder & CEO",
+   "title": "CEO",
+   "current": true,
+   "since": "2021",
+   "prior_role": "Former RBL Bank executive director (per ET article context; Rajeev Ahuja is the ex-RBL person)",
+   "source_url": "https://tracxn.com/d/companies/fundly/__61l4ee5OnEBRs16Ll9P67g2UJtD8alXrgjt3y-wYc_c",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Shreeram V Ramanathan",
+   "role": "Co-Founder",
+   "title": "Co-Founder",
+   "current": true,
+   "since": "2021",
+   "prior_role": "",
+   "source_url": "https://tracxn.com/d/companies/fundly/__61l4ee5OnEBRs16Ll9P67g2UJtD8alXrgjt3y-wYc_c",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Neha Ramcharanlal Virmani",
+   "role": "Co-Founder",
+   "title": "Co-Founder",
+   "current": true,
+   "since": "",
+   "prior_role": "",
+   "source_url": "https://tracxn.com/d/companies/fundly/__61l4ee5OnEBRs16Ll9P67g2UJtD8alXrgjt3y-wYc_c",
+   "confidence": "MEDIUM",
+   "notes": "Listed by Tracxn as co-founder; not mentioned in press coverage"
+  },
+  {
+   "name": "Veena Vinod Chawla",
+   "role": "Co-Founder",
+   "title": "Co-Founder",
+   "current": true,
+   "since": "",
+   "prior_role": "",
+   "source_url": "https://tracxn.com/d/companies/fundly/__61l4ee5OnEBRs16Ll9P67g2UJtD8alXrgjt3y-wYc_c",
+   "confidence": "MEDIUM",
+   "notes": "Listed by Tracxn as co-founder; not mentioned in press coverage"
+  },
+  {
+   "name": "Rajeev Ahuja",
+   "role": "Angel Investor",
+   "title": "Former RBL Bank Executive Director",
+   "current": false,
+   "since": "2026",
+   "prior_role": "Executive Director, RBL Bank",
+   "source_url": "https://m.economictimes.com/tech/funding/b2b-startup-fundly-ai-raises-4-million-led-by-accel-multiply/articleshow/133890712.cms",
+   "confidence": "HIGH"
+  }
+ ],
+ "legal": [
+  {
+   "type": "regulatory",
+   "entity": "Reserve Bank of India (RBI)",
+   "date": "",
+   "status": "compliant",
+   "description": "All lending operations facilitated through Fundly.ai are conducted in compliance with RBI guidelines; NBFC partners are RBI-registered. Fundly.ai acts as technology platform and does not directly lend.",
+   "source_url": "https://fundly.ai/support",
+   "confidence": "HIGH"
+  }
+ ],
+ "locations": [
+  {
+   "type": "registered_office",
+   "address_or_area": "07B108/109/110, 1st Floor, WeWork Raheja Platinum, Marol CHS Road, Off Andheri-Kurla Road, Marol, Andheri (E)",
+   "city": "Mumbai",
+   "state": "Maharashtra",
+   "country": "India",
+   "as_of": "2025-07-31",
+   "source_url": "https://fundly.ai/support",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "hq",
+   "address_or_area": "WeWork Raheja Platinum, Marol, Andheri East",
+   "city": "Mumbai",
+   "state": "Maharashtra",
+   "country": "India",
+   "as_of": "2026-09-08",
+   "source_url": "https://tracxn.com/d/companies/fundly/__61l4ee5OnEBRs16Ll9P67g2UJtD8alXrgjt3y-wYc_c",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "office",
+   "address_or_area": "Grievance Redressal Office at WeWork Raheja Platinum, Marol",
+   "city": "Mumbai",
+   "state": "Maharashtra",
+   "country": "India",
+   "as_of": "2025-07-31",
+   "source_url": "https://fundly.ai/support",
+   "confidence": "HIGH"
+  }
+ ],
+ "customers": [
+  {
+   "name": "Pharma retailers and distributors",
+   "type": "B2B",
+   "announced_date": "",
+   "status": "ACTIVE",
+   "source_url": "https://fundly.ai/about",
+   "confidence": "HIGH",
+   "notes": "4,100+ retailers and distributors across 24+ cities"
+  }
+ ]
+}

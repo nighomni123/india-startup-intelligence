@@ -1,0 +1,1411 @@
+fy_record_id,startup_id,fiscal_year,period,metric,value,unit,currency,value_type,basis,consolidated,filing_date,source_id,confidence,notes
+FIN00001,S0001,FY24,,revenue_operations,319.32,crore,INR,press-quoted-filing,,,,SRC00018,HIGH,
+FIN00002,S0001,FY24,,pat,,crore,INR,press-quoted-filing,,,,SRC00003,HIGH,unparseable value text preserved: -97
+FIN00003,S0001,FY25,,revenue_operations,514.31,crore,INR,press-quoted-filing,,,,SRC00018,HIGH,
+FIN00004,S0001,FY25,,pat,62.0,crore,INR,press-quoted-filing,,,,SRC00003,HIGH,
+FIN00005,S0001,FY24,,revenue_operations,319.32,crore,INR,press-quoted-filing,standalone,no,,SRC00018,HIGH,operating revenue
+FIN00006,S0001,FY24,,pat,-97,crore,INR,press-quoted-filing,standalone,no,,SRC00003,HIGH,net loss
+FIN00007,S0001,FY25,,revenue_operations,514.31,crore,INR,press-quoted-filing,standalone,no,,SRC00018,HIGH,operating revenue; +61% YoY
+FIN00008,S0001,FY25,,pat,62,crore,INR,press-quoted-filing,standalone,no,,SRC00003,HIGH,net profit; first profitable year
+FIN00009,S0001,FY25,,net_profit_usd,14,million,USD,press-quoted-filing,standalone,no,,SRC00019,MEDIUM,alternative USD reporting of FY25 profit
+FIN00010,S0001,FY25,,total_revenue_alt,539.5,crore,INR,press-quoted-filing,standalone,no,,SRC00020,MEDIUM,alternative revenue figure; +55.2% YoY; conflicts with Rs 514.31 Cr figure
+FIN00011,S0002,FY24,,"revenue (krazybee nbfc standalone, operating)",1399.0,crore,INR,press-quoted-filing,,,,SRC00034,HIGH,
+FIN00012,S0002,FY24,,pat (krazybee nbfc standalone),200.0,crore,INR,press-quoted-filing,,,,SRC00034,HIGH,
+FIN00013,S0002,FY24,,"pat (consolidated group, care/unaudited)",285.0,crore,INR,press-quoted-filing,,,,SRC00046,HIGH,
+FIN00014,S0002,FY25,,"revenue (consolidated, press-quoted pre-audit)",2712.0,crore,INR,management,,,,SRC00033,MEDIUM,
+FIN00015,S0002,FY25,,"pat (consolidated, press-quoted pre-audit)",473.0,crore,INR,management,,,,SRC00033,MEDIUM,
+FIN00016,S0002,FY25,,operating revenue q3 (dec 2025 quarter),805.0,crore,INR,management,,,,SRC00032,MEDIUM,
+FIN00017,S0002,FY26,,operating_revenue,3025.0,crore,INR,press-quoted-filing,consolidated,yes,2026-06-01,SRC00047,MEDIUM,"ET report citing regulatory filings; up from Rs 2,185 crore in FY25"
+FIN00018,S0002,FY26,,net_profit,478.0,crore,INR,press-quoted-filing,consolidated,yes,2026-06-01,SRC00047,MEDIUM,Highest net profit among digital lenders FY26; more than doubled from Rs 221 crore FY25
+FIN00019,S0002,FY25,,total_revenue,2712.0,crore,INR,press-quoted-filing,consolidated,yes,2025-07-09,SRC00033,MEDIUM,Press-quoted pre-audit; Moneycontrol citing sources who saw data
+FIN00020,S0002,FY25,,net_profit,473.0,crore,INR,press-quoted-filing,consolidated,yes,2025-07-09,SRC00033,MEDIUM,"Press-quoted pre-audit; CARE Ratings confirms PAT Rs 473 crore on total income Rs 2,712 crore"
+FIN00021,S0002,FY25,,revenue_from_operations,589.7,crore,INR,audited,standalone,no,2026-01-30,SRC00048,HIGH,Standalone MCA filing reviewed by MediaNama; revenue declined 7.5% from Rs 637.5 crore FY24
+FIN00022,S0002,FY25,,net_profit,237.0,crore,INR,audited,standalone,no,2026-01-30,SRC00048,HIGH,Standalone MCA filing; PAT Rs 237 crore vs Rs 126.4 crore FY24 (+87%)
+FIN00023,S0002,FY25,,total_income,2712.0,crore,INR,press-quoted-filing,consolidated,yes,2026-03-19,SRC00038,HIGH,"CARE Ratings: PAT Rs 473 crore on total income Rs 2,712 crore in FY25"
+FIN00024,S0002,FY24,,revenue_from_operations,1399.26,crore,INR,audited,standalone,no,2024-09-21,SRC00034,HIGH,"KrazyBee Services Pvt Ltd standalone; revenue Rs 1,39,925.71 lakhs per BSE annual report"
+FIN00025,S0002,FY24,,net_profit,200.36,crore,INR,audited,standalone,no,2024-09-21,SRC00049,HIGH,"PAT Rs 20,035.82 lakhs per BSE filing; 207.82% growth YoY"
+FIN00026,S0002,FY24,,net_profit,285.0,crore,INR,press-quoted-filing,consolidated,yes,2025-07-14,SRC00050,HIGH,CARE Ratings consolidated PAT Rs 285 crore FY24
+FIN00027,S0002,FY24,,total_income,1948.0,crore,INR,press-quoted-filing,consolidated,yes,2025-07-14,SRC00038,HIGH,"CARE Ratings: total income Rs 1,948 crore FY24"
+FIN00028,S0002,9MFY26,,net_profit,341.0,crore,INR,press-quoted-filing,standalone,no,2026-03-19,SRC00038,MEDIUM,"CARE Ratings: PAT Rs 341 crore on total income Rs 2,132 crore in 9MFY26"
+FIN00029,S0002,9MFY25,,net_profit,125.0,crore,INR,press-quoted-filing,standalone,no,2026-03-19,SRC00038,MEDIUM,"CARE Ratings: PAT Rs 125 crore on total income Rs 1,595 crore in 9MFY25"
+FIN00030,S0003,FY25,,revenue from operations,7115.0,crore,INR,press-quoted-filing,,,,SRC00071,HIGH,
+FIN00031,S0003,FY25,,net loss (consolidated),-1727.0,crore,INR,press-quoted-filing,,,,SRC00080,HIGH,
+FIN00032,S0003,FY25,,adjusted pat (ex-esop),630.0,crore,INR,management,,,,SRC00071,MEDIUM,
+FIN00033,S0003,FY24,,revenue from operations,5064.0,crore,INR,press-quoted-filing,,,,SRC00071,MEDIUM,
+FIN00034,S0003,H1-FY26,,"revenue (6 months to sep 2025, +22% yoy)",3918.0,crore,INR,press-quoted-filing,,,,SRC00073,HIGH,
+FIN00035,S0003,FY25,,revenue from operations,7115.0,crore,INR,press-quoted-filing,standalone,no,2025-09-22,SRC00071,HIGH,"40% YoY growth from FY24 Rs 5,064cr"
+FIN00036,S0003,FY25,,net loss (consolidated),-1727.0,crore,INR,press-quoted-filing,consolidated,yes,2025-09-22,SRC00080,HIGH,
+FIN00037,S0003,FY25,,adjusted pat (ex-esop),630.0,crore,INR,management,standalone,no,2025-09-22,SRC00071,MEDIUM,Ex-ESOP adjusted profit
+FIN00038,S0003,FY24,,revenue from operations,5064.0,crore,INR,press-quoted-filing,standalone,no,2025-09-22,SRC00071,HIGH,
+FIN00039,S0003,H1-FY26,,"revenue (6 months to sep 2025, +22% yoy)",3918.0,crore,INR,press-quoted-filing,consolidated,yes,2026-01-22,SRC00073,MEDIUM,H1-FY26 revenue
+FIN00040,S0004,FY25,,consolidated revenue,3783.0,crore,INR,management,,,,SRC00090,HIGH,
+FIN00041,S0004,FY25,,gross profit,1277.0,crore,INR,management,,,,SRC00090,HIGH,
+FIN00042,S0004,FY25,,esop expense (reverse-flip linked),1209.0,crore,INR,management,,,,SRC00091,HIGH,
+FIN00043,S0004,FY24,,consolidated revenue,2296.0,crore,INR,management,,,,SRC00090,HIGH,
+FIN00044,S0004,FY24,,gross profit,906.0,crore,INR,management,,,,SRC00090,HIGH,
+FIN00045,S0005,FY25,,"revenue (roc, +129% yoy)",9669.0,crore,INR,press-quoted-filing,,,,SRC00106,HIGH,
+FIN00046,S0005,FY25,,"net loss (roc, ~3x yoy)",-3367.0,crore,INR,press-quoted-filing,,,,SRC00106,HIGH,
+FIN00047,S0005,FY26-Q1,,"cash on books (mar 31, 2026 company release via forbes)",5681.0,crore,INR,management,,,,SRC00108,MEDIUM,
+FIN00048,S0005,FY24,,total_revenue,4455.0,crore,INR,DRHP,consolidated,yes,2025-12-25,SRC00108,HIGH,Revenue from operations per DRHP
+FIN00049,S0005,FY24,,net_loss,1214.79,crore,INR,DRHP,consolidated,yes,2025-12-25,SRC00108,HIGH,Restated loss per DRHP
+FIN00050,S0005,FY25,,total_revenue,11110.0,crore,INR,DRHP,consolidated,yes,2025-12-25,SRC00108,HIGH,"Revenue from operations per DRHP; ET reported Rs 9,669cr per RoC"
+FIN00051,S0005,FY25,,net_loss,4699.71,crore,INR,DRHP,consolidated,yes,2025-12-25,SRC00108,HIGH,"Restated loss per DRHP; ET reported Rs 3,367cr per RoC"
+FIN00052,S0005,FY26,,total_revenue,22624.0,crore,INR,DRHP,consolidated,yes,2026-08-03,SRC00108,HIGH,Revenue from operations per UDRHP
+FIN00053,S0005,FY26,,net_loss,5905.19,crore,INR,DRHP,consolidated,yes,2026-08-03,SRC00108,HIGH,Restated loss per UDRHP; 26% YoY increase
+FIN00054,S0005,FY24,,cash_balance,1688.0,crore,INR,DRHP,consolidated,yes,2026-08-03,SRC00108,HIGH,Closing cash balance per DRHP
+FIN00055,S0005,FY25,,cash_balance,7441.0,crore,INR,DRHP,consolidated,yes,2026-08-03,SRC00108,HIGH,Closing cash balance per DRHP
+FIN00056,S0005,FY26,,cash_balance,5681.0,crore,INR,management,consolidated,yes,2026-08-03,SRC00108,HIGH,"Cash with no debt as of Mar 31, 2026 per company release"
+FIN00057,S0005,FY26,,operating_cash_flow,-3462.0,crore,INR,DRHP,consolidated,yes,2026-08-03,SRC00108,HIGH,Net cash used in operating activities
+FIN00058,S0005,FY26,,free_cash_flow,-4330.0,crore,INR,DRHP,consolidated,yes,2026-08-03,SRC00108,HIGH,Free cash flow negative
+FIN00059,S0005,FY25,,advertising_revenue,651.2,crore,INR,DRHP,consolidated,yes,2026-08-03,SRC00108,HIGH,Advertising revenue per DRHP
+FIN00060,S0005,FY26,,advertising_revenue,1635.7,crore,INR,DRHP,consolidated,yes,2026-08-03,SRC00108,HIGH,Advertising revenue per UDRHP; 151% YoY increase
+FIN00061,S0005,FY24,,advertising_revenue,49.2,crore,INR,DRHP,consolidated,yes,2026-08-03,SRC00108,HIGH,Advertising revenue per DRHP
+FIN00062,S0006,FY27 (PROJECTED),,revenue,3,x,USD,management,standalone,,,SRC00123,MEDIUM,Company expects revenue to more than triple by FY27; exact base revenue not disclosed
+FIN00063,S0007,FY25,,revenue_from_operations,1163,crore,INR,press-quoted-filing,,,,SRC00140,HIGH,
+FIN00064,S0007,FY25,,pat,-69,crore,INR,press-quoted-filing,,,,SRC00140,HIGH,
+FIN00065,S0007,FY26,,revenue_from_operations,1506,crore,INR,management,,,,SRC00139,HIGH,
+FIN00066,S0007,FY26,,pat,72,crore,INR,management,,,,SRC00139,HIGH,
+FIN00067,S0007,FY24,,revenue_from_operations,879,crore,INR,press-quoted-filing,,,,SRC00140,MEDIUM,
+FIN00068,S0008,FY25,,operating_revenue,2735,crore,INR,management,,,,SRC00147,HIGH,
+FIN00069,S0008,FY25,,operating_loss,298,crore,INR,management,,,,SRC00147,HIGH,
+FIN00070,S0008,FY25,,net_loss,1457,crore,INR,management,,,,SRC00147,HIGH,
+FIN00071,S0008,FY24,,operating_revenue,2473,crore,INR,press-quoted-filing,,,,SRC00148,HIGH,
+FIN00072,S0008,FY24,,net_loss,1644,crore,INR,press-quoted-filing,,,,SRC00148,HIGH,
+FIN00073,S0009,FY24,,total_revenue,392,crore,INR,press-quoted-filing,,,,SRC00155,MEDIUM,
+FIN00074,S0009,FY25,,arr_target,100,million,USD,management,,,,SRC00165,MEDIUM,
+FIN00075,S0010,FY26,,arr_run_rate,100,million,USD,management,,,,SRC00173,MEDIUM,
+FIN00076,S0010,FY26,,arr,120,million,USD,management,,,,SRC00169,MEDIUM,
+FIN00077,S0011,FY25,,total_revenue,4056.0,crore,INR,press-quoted-filing,,,,SRC00176,MEDIUM,
+FIN00078,S0011,FY25,,net_profit,1819.0,crore,INR,press-quoted-filing,,,,SRC00176,MEDIUM,
+FIN00079,S0011,FY24,,net_profit,-805.0,crore,INR,press-quoted-filing,,,,SRC00176,MEDIUM,
+FIN00080,S0011,FY24,,revenue,3145.0,crore,INR,press-quoted-filing,,,,SRC00176,MEDIUM,
+FIN00081,S0011,FY25,,operating_revenue_q3fy26,1216.0,crore,INR,management,,,,SRC00204,HIGH,
+FIN00082,S0011,FY25,,fy25 net profit,1819.0,crore,INR,press-quoted-filing,,,,SRC00181,HIGH,
+FIN00083,S0011,FY25,,fy25 revenue,4056.0,crore,INR,press-quoted-filing,,,,SRC00181,HIGH,
+FIN00084,S0011,FY26,,ipo proceeds,6632.3,crore,INR,press-quoted-filing,,,,SRC00182,HIGH,USD approx $748m per source
+FIN00085,S0011,FY25,,fy25 net profit,1819.0,crore,INR,press-quoted-filing,,,,SRC00181,HIGH,
+FIN00086,S0011,FY25,,fy25 revenue,4056.0,crore,INR,press-quoted-filing,,,,SRC00181,HIGH,
+FIN00087,S0011,FY26,,ipo proceeds,6632.3,crore,INR,press-quoted-filing,,,,SRC00182,HIGH,USD approx $748m per source
+FIN00088,S0011,FY25,,operating_revenue,3901.72,crore,INR,DRHP,,,,SRC00205,HIGH,
+FIN00089,S0011,Q1 FY26,,total_income,9485,million,INR,press-quoted-filing,,,,SRC00194,MEDIUM,
+FIN00090,S0011,Q1 FY26,,revenue_from_operations,904,crore,INR,press-quoted-filing,,,,SRC00193,HIGH,
+FIN00091,S0011,Q1 FY26,,net_profit,378,crore,INR,press-quoted-filing,,,,SRC00193,HIGH,
+FIN00092,S0011,Q2 FY26,,revenue_from_operations,1018.7,crore,INR,press-quoted-filing,,,,SRC00193,HIGH,
+FIN00093,S0011,Q2 FY26,,net_profit,471.3,crore,INR,press-quoted-filing,,,,SRC00193,HIGH,
+FIN00094,S0011,Q2 FY26,,total_income,10708,million,INR,press-quoted-filing,,,,SRC00195,MEDIUM,
+FIN00095,S0011,H1 FY26,,revenue_from_operations,1923,crore,INR,press-quoted-filing,,,,SRC00193,HIGH,
+FIN00096,S0011,H1 FY26,,net_profit,850,crore,INR,press-quoted-filing,,,,SRC00193,HIGH,
+FIN00097,S0011,Q3 FY26,,total_income,12611,million,INR,press-quoted-filing,,,,SRC00194,MEDIUM,
+FIN00098,S0011,Q3 FY26,,net_profit,5469,million,INR,press-quoted-filing,,,,SRC00194,MEDIUM,
+FIN00099,S0011,Q4 FY26,,total_income,15355,million,INR,press-quoted-filing,,,,SRC00194,MEDIUM,
+FIN00100,S0011,Q4 FY26,,revenue_from_operations,14684,million,INR,press-quoted-filing,,,,SRC00194,MEDIUM,
+FIN00101,S0011,Q4 FY26,,net_profit,6864,million,INR,press-quoted-filing,,,,SRC00194,MEDIUM,
+FIN00102,S0011,Q1 FY27,,revenue_from_operations,1501,crore,INR,press-quoted-filing,,,,SRC00197,HIGH,
+FIN00103,S0011,Q1 FY27,,net_profit,735,crore,INR,press-quoted-filing,,,,SRC00197,HIGH,
+FIN00104,S0012,FY25,,revenue (india unit),1943.0,crore,INR,press-quoted-filing,,,,SRC00218,MEDIUM,
+FIN00105,S0012,FY25,,net_profit (india unit),26.0,crore,INR,press-quoted-filing,,,,SRC00218,MEDIUM,
+FIN00106,S0012,FY23,,revenue (india entity),1618.6,crore,INR,press-quoted-filing,,,,SRC00219,MEDIUM,
+FIN00107,S0012,FY25,,india unit fy25 revenue,1943.0,crore,INR,press-quoted-filing,,,,SRC00222,HIGH,
+FIN00108,S0012,FY25,,india unit fy25 net profit,26.0,crore,INR,press-quoted-filing,,,,SRC00222,HIGH,
+FIN00109,S0012,FY24,,global revenue estimate,,USD,USD,estimate,,,,SRC00223,MEDIUM,unparseable value text preserved: $250M (2024)
+FIN00110,S0012,FY25,,india unit fy25 revenue,1943.0,crore,INR,press-quoted-filing,,,,SRC00222,HIGH,
+FIN00111,S0012,FY25,,india unit fy25 net profit,26.0,crore,INR,press-quoted-filing,,,,SRC00222,HIGH,
+FIN00112,S0012,FY24,,global revenue estimate,,USD,USD,estimate,,,,SRC00223,MEDIUM,unparseable value text preserved: $250M (2024)
+FIN00113,S0013,FY26,,revenue,300.0,crore,INR,management,,,,SRC00241,MEDIUM,
+FIN00114,S0013,FY26,,pat margin,10.0,percent,INR,management,,,,SRC00241,MEDIUM,
+FIN00115,S0013,FY24,,revenue (legal entity),3.09,crore,INR,press-quoted-filing,,,,SRC00259,LOW,
+FIN00116,S0013,FY24,,revenue,3.09,crore,INR,press-quoted-filing,standalone,,,SRC00259,LOW,Press-quoted filing figure
+FIN00117,S0013,FY25,,revenue,100.0,crore,INR,estimate,standalone,,,SRC00241,LOW,Implied from 3x FY26 growth statement; ~90% from Ola Group
+FIN00118,S0013,FY26,,total_revenue,300.0,crore,INR,management,standalone,,,SRC00241,MEDIUM,~Rs 300 crore; 3x FY25; ~90% from Ola Group companies
+FIN00119,S0013,FY26,,net_profit,0,crore,INR,management,standalone,,,SRC00241,MEDIUM,First annual net profit; PAT margin >10%
+FIN00120,S0013,FY26,,pat_margin,10.0,percent,INR,management,standalone,,,SRC00241,MEDIUM,First PAT margin >10%
+FIN00121,S0014,FY26,,"turnover (unaudited, per hcltech reg-30 filing)",45.1,crore,INR,management,,,,SRC00266,MEDIUM,
+FIN00122,S0015,FY26,,total_income,1402.7,crore,INR,audited,,,,SRC00277,HIGH,
+FIN00123,S0015,FY26,,pat,48.4,crore,INR,audited,,,,SRC00277,HIGH,
+FIN00124,S0015,FY25,,pat,-216.7,crore,INR,audited,,,,SRC00277,HIGH,
+FIN00125,S0015,FY25,,total_income,603.8,crore,INR,audited,,,,SRC00277,HIGH,
+FIN00126,S0015,FY27-Q1,,total_income,413.8,crore,INR,press-quoted-filing,,,,SRC00285,MEDIUM,
+FIN00127,S0016,FY25,,operating revenue,1569.3,crore,INR,audited,,,,SRC00289,HIGH,
+FIN00128,S0016,FY25,,net loss (pat),-273.7,crore,INR,audited,,,,SRC00289,HIGH,
+FIN00129,S0016,FY25,,"ebitda (ind-as, incl. one-offs)",15,crore,INR,management,,,,SRC00317,MEDIUM,
+FIN00130,S0016,FY26,,"revenue (11-mo provisional, unaudited)",1532,crore,INR,management,,,,SRC00291,LOW,
+FIN00131,S0016,FY25,,total_revenue,1569.3,crore,INR,audited,standalone,no,2025-12-04,SRC00289,HIGH,Operating revenue; +6% YoY
+FIN00132,S0016,FY25,,net_profit,-273.7,crore,INR,audited,standalone,no,2025-12-04,SRC00289,HIGH,Net loss halved YoY
+FIN00133,S0016,FY25,,ebitda,15,crore,INR,management,standalone,no,2025-11-01,SRC00317,MEDIUM,Ind-AS incl. one-offs; first EBITDA-positive year
+FIN00134,S0016,FY25,,gross_revenue,1943,crore,INR,press-quoted-filing,standalone,no,2025-11-01,SRC00317,MEDIUM,Gross revenue; INR 556 cr deferred
+FIN00135,S0016,FY26,,revenue_11mo_provisional,1532,crore,INR,management,standalone,no,2026-05,SRC00291,LOW,11-month provisional unaudited; FY26 full-year not yet available
+FIN00136,S0016,FY26,,pat_provisional,38,crore,INR,management,standalone,no,2026-05,SRC00291,LOW,Provisional PAT per ET-cited report
+FIN00137,S0016,FY25,,deferred_revenue,530,crore,INR,press-quoted-filing,standalone,no,2026-03,SRC00318,LOW,Revenue yet to be recognised in subsequent years
+FIN00138,S0017,FY25,,indian entity standalone revenue,771,crore,INR,press-quoted-filing,,,,SRC00334,HIGH,
+FIN00139,S0017,FY24,,indian entity revenue / pat,682.0,crore,INR,press-quoted-filing,,,,SRC00333,MEDIUM,
+FIN00140,S0017,FY23,,ireland-filings pat on turnover ~$170m,125.0,million,USD,press-quoted-filing,,,,SRC00333,MEDIUM,
+FIN00141,S0017,FY25,,indian entity standalone revenue,771,crore,INR,press-quoted-filing,standalone,no,2026-01-12,SRC00334,HIGH,13% YoY growth; bulk of revenue booked in US/Ireland
+FIN00142,S0017,FY24,,indian entity revenue,682,crore,INR,press-quoted-filing,standalone,no,2025-03-07,SRC00333,MEDIUM,Rs682cr revenue; Rs129cr PAT
+FIN00143,S0017,FY24,,indian entity pat,129,crore,INR,press-quoted-filing,standalone,no,2025-03-07,SRC00333,MEDIUM,~US$15.4M
+FIN00144,S0017,FY23,,ireland-filings pat on turnover,125,million,USD,press-quoted-filing,consolidated,yes,2025-03-07,SRC00333,MEDIUM,Turnover ~$170M; PAT >$125M per Ireland filings
+FIN00145,S0017,,calendar year CY2025,group revenue (estimated),235,million,USD,estimate,consolidated,yes,2026-09-15,SRC00342,MEDIUM,Sacra estimate; 19% YoY from $197M in 2024 | calendar-year source stated as CY2025; no FY mapping inferred
+FIN00146,S0017,,calendar year CY2026,revenue guidance,300,million,USD,management,consolidated,yes,2026-01-12,SRC00334,MEDIUM,CEO Ritesh Arora via ET; company expected to cross $300M | calendar-year source stated as CY2026; no FY mapping inferred
+FIN00147,S0018,FY25,,profit_after_tax,408,crore,INR,press-quoted-filing,,,,SRC00353,HIGH,
+FIN00148,S0018,FY25,,revenue,900,crore,INR,press-quoted-filing,,,,SRC00352,HIGH,
+FIN00149,S0018,FY26,,profit_after_tax,325.8,crore,INR,press-quoted-filing,,,,SRC00355,MEDIUM,
+FIN00150,S0018,FY24,,total_revenue,373,crore,INR,press-quoted-filing,standalone,no,,SRC00352,HIGH,
+FIN00151,S0018,FY24,,net_profit,177,crore,INR,press-quoted-filing,standalone,no,,SRC00352,HIGH,
+FIN00152,S0018,FY25,,total_revenue,876,crore,INR,press-quoted-filing,standalone,no,,SRC00353,HIGH,
+FIN00153,S0018,FY25,,net_profit,408,crore,INR,press-quoted-filing,standalone,no,,SRC00353,HIGH,
+FIN00154,S0018,FY26,,total_revenue,904.9,crore,INR,press-quoted-filing,standalone,no,,SRC00355,HIGH,
+FIN00155,S0018,FY26,,net_profit,325.8,crore,INR,press-quoted-filing,standalone,no,,SRC00355,HIGH,
+FIN00156,S0018,FY26,,net_worth,916.1,crore,INR,press-quoted-filing,standalone,no,,SRC00355,HIGH,
+FIN00157,S0019,FY24,,revenue_from_operations,5664,crore,INR,press-quoted-filing,,,,SRC00369,MEDIUM,
+FIN00158,S0019,FY22,,total_revenue,5729,crore,INR,audited,consolidated,yes,,SRC00387,HIGH,Revenue from operations FY22
+FIN00159,S0019,FY26,,total_revenue,6869,crore,INR,press-quoted-filing,consolidated,yes,,SRC00386,MEDIUM,14.3% YoY growth; first-ever positive EBITDA of Rs 62.5 Cr
+FIN00160,S0019,FY22,,pat,-3993,crore,INR,audited,consolidated,yes,,SRC00387,HIGH,"Includes exceptional items of Rs 1,260 Cr"
+FIN00161,S0019,FY23,,total_revenue,6644,crore,INR,audited,consolidated,yes,,SRC00394,HIGH,Revenue from operations FY23
+FIN00162,S0019,FY23,,pat,-5211,crore,INR,audited,consolidated,yes,,SRC00394,HIGH,"Includes exceptional items of Rs 2,922 Cr (goodwill impairment Rs 2,826 Cr)"
+FIN00163,S0019,FY24,,total_revenue,5664,crore,INR,audited,consolidated,yes,,SRC00382,HIGH,"Revenue from operations FY24; medicines Rs 5,008 Cr + services Rs 652 Cr"
+FIN00164,S0019,FY24,,pat,-2533,crore,INR,audited,consolidated,yes,,SRC00382,HIGH,Net loss halved from FY23; goodwill impairment Rs 582 Cr; NCD early redemption Rs 342 Cr
+FIN00165,S0019,FY25,,total_revenue,5872,crore,INR,audited,consolidated,yes,,SRC00383,HIGH,"3.7% YoY growth; medicines Rs 5,097.5 Cr + services"
+FIN00166,S0019,FY25,,pat,-1572,crore,INR,audited,consolidated,yes,,SRC00387,HIGH,Loss narrowed 38% from FY24; exceptional items Rs 288 Cr
+FIN00167,S0019,FY26,,ebitda,62.5,crore,INR,press-quoted-filing,consolidated,yes,,SRC00386,MEDIUM,First positive EBITDA; margin 0.9%
+FIN00168,S0019,FY24,,gmv,14351,crore,INR,press-quoted-filing,consolidated,yes,,SRC00395,MEDIUM,GMV reported for FY23; FY24 GMV not separately verified in sources
+FIN00169,S0020,FY25,,revenue from operations,158.5,crore,INR,press-quoted-filing,,,,SRC00411,HIGH,Revenue from operations Rs 158.5 Cr FY25 vs Rs 88.5 Cr FY24; net profit Rs 15 Cr FY25 vs loss Rs 33.6 Cr FY24
+FIN00170,S0020,FY24,,revenue from operations,88.5,crore,INR,press-quoted-filing,,,,SRC00411,HIGH,Prior year comparison figure
+FIN00171,S0020,FY25,,latest revenue (tracxn),,USD,USD,database,,,,SRC00412,MEDIUM,"Tracxn platform-reported latest revenue figure | unparseable value text preserved: USD 6,442,129.31"
+FIN00172,S0020,FY26,,revenue target fy26,300.0,INR crore,INR,management,,,,SRC00413,MEDIUM,Founder Nalin Agrawal stated targeting to double revenue in FY26 per ET interview
+FIN00173,S0021,FY23,,operating_revenue,1000,crore,INR,press-quoted-filing,,,,SRC00430,MEDIUM,
+FIN00174,S0021,FY23,,operating_revenue,1000,crore,INR,press-quoted-filing,standalone,no,2024-10-03,SRC00430,MEDIUM,"Revenue >Rs 1000 crore, 44% YoY growth"
+FIN00175,S0021,FY25,,total_revenue,1208,crore,INR,press-quoted-filing,standalone,no,2026-02-09,SRC00431,HIGH,Revenue grew ~9% YoY; FY25 was 'fairly difficult' year
+FIN00176,S0021,FY25,,net_profit,215,crore,INR,press-quoted-filing,standalone,no,2026-02-09,SRC00431,HIGH,PAT ~Rs 215 crore in FY25
+FIN00177,S0021,FY26,,ebitda_growth,120,percent,INR,management,standalone,no,2026-02-09,SRC00431,MEDIUM,"EBITDA grew ~120% vs FY25, per CEO Ravi Kumar"
+FIN00178,S0021,FY26,,net_profit_multiple,2.25,x,INR,management,standalone,no,2026-02-09,SRC00431,MEDIUM,PAT tracking 2.25x-2.3x of FY25 (~Rs 484-495 crore)
+FIN00179,S0021,FY25,,revenue_growth_yoy,9,percent,INR,management,standalone,no,2026-02-09,SRC00431,HIGH,Revenue grew ~9% YoY in FY25
+FIN00180,S0022,FY25,,operating_revenue,4561,crore,INR,press-quoted-filing,,,,SRC00446,HIGH,
+FIN00181,S0022,FY25,,pat,-1055,crore,INR,press-quoted-filing,,,,SRC00446,HIGH,
+FIN00182,S0022,FY24,,operating_revenue,5706.6,crore,INR,press-quoted-filing,,,,SRC00447,MEDIUM,
+FIN00183,S0022,FY24,,pat,-1674.1,crore,INR,press-quoted-filing,,,,SRC00447,MEDIUM,
+FIN00184,S0023,FY25,,operating_revenue,2836.8,crore,INR,press-quoted-filing,,,,SRC00459,HIGH,
+FIN00185,S0023,FY25,,net_loss,-424.4,crore,INR,press-quoted-filing,,,,SRC00459,HIGH,
+FIN00186,S0023,FY24,,operating_revenue,2106.3,crore,INR,press-quoted-filing,,,,SRC00459,HIGH,
+FIN00187,S0023,FY24,,net_loss,-669.9,crore,INR,press-quoted-filing,,,,SRC00459,HIGH,
+FIN00188,S0023,FY25,,fy25 operating revenue,2837.0,crore,INR,press-quoted-filing,,,,SRC00463,HIGH,
+FIN00189,S0023,FY25,,fy25 total income,2887.0,crore,INR,press-quoted-filing,,,,SRC00459,HIGH,
+FIN00190,S0023,FY25,,fy25 net loss,424.0,crore,INR,press-quoted-filing,,,,SRC00459,HIGH,
+FIN00191,S0023,FY24,,fy24 operating revenue,2106.0,crore,INR,press-quoted-filing,,,,SRC00463,HIGH,
+FIN00192,S0023,FY25,,fy25 operating revenue,2837.0,crore,INR,press-quoted-filing,,,,SRC00463,HIGH,
+FIN00193,S0023,FY25,,fy25 total income,2887.0,crore,INR,press-quoted-filing,,,,SRC00459,HIGH,
+FIN00194,S0023,FY25,,fy25 net loss,424.0,crore,INR,press-quoted-filing,,,,SRC00459,HIGH,
+FIN00195,S0023,FY24,,fy24 operating revenue,2106.0,crore,INR,press-quoted-filing,,,,SRC00463,HIGH,
+FIN00196,S0024,FY23,,operating_revenue,45.6,crore,INR,press-quoted-filing,,,,SRC00476,HIGH,
+FIN00197,S0024,FY22,,operating_revenue,248.6,crore,INR,press-quoted-filing,,,,SRC00476,HIGH,
+FIN00198,S0024,FY25,,operating_revenue (singapore parent chain labs),14.6,million,USD,press-quoted-filing,,,,SRC00475,MEDIUM,
+FIN00199,S0024,FY25,,pat (parent),-37.6,million,USD,press-quoted-filing,,,,SRC00475,MEDIUM,
+FIN00200,S0024,FY25,,standalone revenue (venture intelligence),90.81,crore,INR,press-quoted-filing,,,,SRC00484,MEDIUM,
+FIN00201,S0025,FY26,,operating_revenue (drhp),1720.6,crore,INR,audited,,,,SRC00490,HIGH,
+FIN00202,S0025,FY25,,operating_revenue,1215.5,crore,INR,press-quoted-filing,,,,SRC00509,HIGH,
+FIN00203,S0025,FY25,,pat,-480.8,crore,INR,press-quoted-filing,,,,SRC00509,HIGH,
+FIN00204,S0025,FY26,,pat,-252,crore,INR,press-quoted-filing,,,,SRC00510,MEDIUM,
+FIN00205,S0025,FY26,,adjusted ebitda margin,8.41,percent,INR,press-quoted-filing,,,,SRC00490,HIGH,
+FIN00206,S0025,FY26,,revenue from operations,1720.6,crore,INR,press-quoted-filing,,,,SRC00490,HIGH,"Per DRHP filed Jul 6, 2026; 36.3% YoY growth from Rs 1,262.9 Cr FY25"
+FIN00207,S0025,FY25,,revenue from operations,1262.9,crore,INR,press-quoted-filing,,,,SRC00490,HIGH,"Per DRHP; some sources cite Rs 1,215.5 Cr as FY25 base"
+FIN00208,S0025,FY26,,adjusted ebitda margin,8.41,percent,INR,press-quoted-filing,,,,SRC00490,HIGH,Improved from negative 2.76% in FY25
+FIN00209,S0025,FY24,,revenue from operations,927.0,crore,INR,press-quoted-filing,,,,SRC00494,HIGH,Per Business Standard citing DRHP data
+FIN00210,S0025,FY25,,revenue (tracxn/cin u74999ka2016ptc093524),1270.0,crore,INR,database,,,,SRC00495,MEDIUM,"Tracxn reports Rs 1,270 Cr for Curefit Healthcare entity FY25"
+FIN00211,S0025,FY25,,revenue (cultfit healthcare entity),582.38,crore,INR,database,,,,SRC00496,MEDIUM,Subsidiary entity revenue per MCA filings
+FIN00212,S0026,FY24,,revenue_arr,10.9,,USD,estimate,,,,SRC00527,LOW,
+FIN00213,S0026,FY24,,profitability,,,USD,management,,,,SRC00514,MEDIUM,unparseable value text preserved: profitable since 2023 (management claim)
+FIN00214,S0026,FY24,,revenue,,USD,USD,database,,,,SRC00518,MEDIUM,"Tracxn latest estimated revenue figure | unparseable value text preserved: USD 3,255,660"
+FIN00215,S0026,FY24,,revenue,3.7,crore,INR,database,,,,SRC00519,LOW,Inc42 reports revenue Rs 3.7 Cr+ for FY24
+FIN00216,S0026,,calendar year ALL,total funding raised,,USD,USD,database,,,,SRC00520,HIGH,Total disclosed primary funding $19M across Seed and Series A | unparseable value text preserved: USD 19M | calendar-year source stated as ALL; no FY mapping in
+FIN00217,S0028,FY25,,arr,,,USD,press-quoted-filing,,,,SRC00549,MEDIUM,unparseable value text preserved: ~350M (approaching; 300M end-2024)
+FIN00218,S0029,FY24,,operating_revenue,279.2,crore,INR,audited,,,,SRC00559,HIGH,
+FIN00219,S0029,FY24,,net_loss,162.2,crore,INR,audited,,,,SRC00559,HIGH,
+FIN00220,S0029,FY25,,operating_revenue,326.2,crore,INR,audited,,,,SRC00559,HIGH,
+FIN00221,S0029,FY25,,total_income,366.3,crore,INR,audited,,,,SRC00560,HIGH,
+FIN00222,S0029,FY25,,net_loss,89.2,crore,INR,audited,,,,SRC00560,HIGH,
+FIN00223,S0029,FY23,,operating_revenue,200,crore,INR,press-quoted-filing,standalone,no,2023-03-31,SRC00569,MEDIUM,Forbes India states Rs 200Cr in FY22; Forbes says Rs 100Cr FY21 and Rs 200Cr FY22. FY23 not separately confirmed; estimated ~Rs 200Cr+ based on growth trajector
+FIN00224,S0029,FY24,,operating_revenue,279.2,crore,INR,audited,standalone,no,2024-03-31,SRC00559,HIGH,RoC financials; 9% YoY growth in FY24
+FIN00225,S0029,FY24,,net_loss,162.2,crore,INR,audited,standalone,no,2024-03-31,SRC00559,HIGH,RoC financials
+FIN00226,S0029,FY24,,total_income,325.2,crore,INR,audited,standalone,no,2024-03-31,SRC00571,HIGH,Inc42 reports FY24 total income Rs 325.2Cr
+FIN00227,S0029,FY25,,operating_revenue,326.2,crore,INR,audited,standalone,no,2025-03-31,SRC00559,HIGH,RoC financials; 14% YoY growth
+FIN00228,S0029,FY25,,total_income,366.3,crore,INR,audited,standalone,no,2025-03-31,SRC00571,HIGH,Includes Rs 40Cr other income
+FIN00229,S0029,FY25,,net_loss,89.2,crore,INR,audited,standalone,no,2025-03-31,SRC00571,HIGH,45% decline from FY24 loss of Rs 162.2Cr
+FIN00230,S0029,FY25,,total_expenses,454.6,crore,INR,audited,standalone,no,2025-03-31,SRC00571,HIGH,Employee benefits Rs 280.2Cr (61.5% of total); other expenses Rs 156.7Cr; D&A Rs 14.3Cr
+FIN00231,S0029,FY25,,cash_and_bank_balances,362,crore,INR,audited,standalone,no,2025-03-31,SRC00559,HIGH,Down from Rs 423Cr in FY24
+FIN00232,S0029,FY25,,employee_benefits_expense,280.2,crore,INR,audited,standalone,no,2025-03-31,SRC00571,HIGH,8.4% decline from FY24 Rs 306.2Cr
+FIN00233,S0029,FY25,,arr_estimate,279.3,million,USD,estimate,standalone,no,2024-06-30,SRC00574,LOW,GetLatka estimated $279.3M ARR in 2024; not audited; differs from MCA revenue of Rs 279.2Cr (~$33M)
+FIN00234,S0030,FY25,,arr,,,USD,management,,,,SRC00580,MEDIUM,unparseable value text preserved: ~100M (target/tracking)
+FIN00235,S0031,FY25,,revenue_from_operations,2339.1,crore,INR,audited,,,,SRC00591,HIGH,
+FIN00236,S0031,FY25,,pat,240.3,crore,INR,audited,,,,SRC00591,HIGH,
+FIN00237,S0031,FY25,,loan_disbursals,17621,crore,INR,management,,,,SRC00592,MEDIUM,
+FIN00238,S0031,FY25,,aum (dec 2025),19814,crore,INR,management,,,,SRC00592,MEDIUM,
+FIN00239,S0032,FY25,,revenue (estimate),739.7,M,USD,estimate,,,,SRC00598,LOW,
+FIN00240,S0032,FY25,,total_revenue,500,crore,INR,press-quoted-filing,standalone,no,2025-09-29,SRC00602,MEDIUM,Tofler reports operating revenue range Over INR 500 cr for FY ending 31 Mar 2025; revenue band Rs 500-750 cr
+FIN00241,S0032,FY25,,revenue_range_high,750,crore,INR,press-quoted-filing,standalone,no,2025-09-29,SRC00602,MEDIUM,Upper bound of Tofler revenue range
+FIN00242,S0032,FY25,,ebitda_change,-5.33,percent,INR,press-quoted-filing,standalone,no,2025-09-29,SRC00602,MEDIUM,EBITDA decreased 5.33% YoY
+FIN00243,S0032,FY25,,net_profit_change,-33.6,percent,INR,press-quoted-filing,standalone,no,2025-09-29,SRC00602,MEDIUM,Net profit decreased 33.6% YoY
+FIN00244,S0032,FY25,,networth,910.5,crore,INR,press-quoted-filing,standalone,no,2025-09-29,SRC00602,MEDIUM,Reserves FY25 = Rs 910.5 cr; networth increased 0.2% YoY
+FIN00245,S0032,FY25,,total_assets,1341.7,crore,INR,press-quoted-filing,standalone,no,2025-09-29,SRC00602,MEDIUM,"Total assets FY25 = Rs 1,341.7 cr"
+FIN00246,S0032,FY25,,total_liabilities,1341.7,crore,INR,press-quoted-filing,standalone,no,2025-09-29,SRC00602,MEDIUM,"Total liabilities FY25 = Rs 1,341.7 cr"
+FIN00247,S0032,FY25,,borrowings,261.3,crore,INR,press-quoted-filing,standalone,no,2025-09-29,SRC00602,MEDIUM,Total borrowings FY25 = Rs 261.3 cr (down from Rs 278.5 cr FY24)
+FIN00248,S0032,FY25,,trade_receivables,199.6,crore,INR,press-quoted-filing,standalone,no,2025-09-29,SRC00602,MEDIUM,Trade receivables FY25 = Rs 199.6 cr
+FIN00249,S0032,FY25,,cash_and_equivalents,104.9,crore,INR,press-quoted-filing,standalone,no,2025-09-29,SRC00602,MEDIUM,Cash and cash equivalents FY25 = Rs 104.9 cr
+FIN00250,S0032,FY21,,reserves,498.6,crore,INR,press-quoted-filing,standalone,no,,SRC00602,MEDIUM,Reserves FY21 = Rs 498.6 cr
+FIN00251,S0032,FY22,,reserves,830.6,crore,INR,press-quoted-filing,standalone,no,,SRC00602,MEDIUM,Reserves FY22 = Rs 830.6 cr
+FIN00252,S0032,FY23,,reserves,788.2,crore,INR,press-quoted-filing,standalone,no,,SRC00602,MEDIUM,Reserves FY23 = Rs 788.2 cr
+FIN00253,S0032,FY24,,reserves,859.8,crore,INR,press-quoted-filing,standalone,no,,SRC00602,MEDIUM,Reserves FY24 = Rs 859.8 cr
+FIN00254,S0033,FY25,,"revenue (india entity, press-quoted mca)",293.5,crore,INR,press-quoted-filing,,,,SRC00607,LOW,
+FIN00255,S0033,FY25,,"pat (india entity, press-quoted mca)",13.8,crore,INR,press-quoted-filing,,,,SRC00607,LOW,
+FIN00256,S0034,FY24,,revenue,185.7,Cr,USD,press-quoted-filing,,,,SRC00616,MEDIUM,
+FIN00257,S0034,FY24,,total_revenue,185.7,crore,INR,press-quoted-filing,standalone,no,,SRC00616,MEDIUM,Indian entity only; global ARR estimated $120-150M per ET 2024
+FIN00258,S0034,FY24,,revenue_growth,7.26,percent,INR,press-quoted-filing,standalone,no,,SRC00616,MEDIUM,FY24 revenue up 7.26% from FY23 (₹173.2 Cr)
+FIN00259,S0034,FY25,,revenue_range,100,crore,INR,MCA-aggregator,standalone,no,2025-03-31,SRC00615,LOW,"Tracxn shows ₹100-500 Cr range as of Mar 31, 2025; not exact figure"
+FIN00260,S0034,FY24,,arr_estimate,135,million,USD,estimate,consolidated,yes,,SRC00614,MEDIUM,ARR estimated $120-150M per ET sources; midpoint used
+FIN00261,S0035,FY22,,total_revenue,615.05,crore,INR,press-quoted-filing,standalone,no,2022-03-31,SRC00630,HIGH,Better World Technology Pvt Ltd; revenue from operations
+FIN00262,S0035,FY23,,total_revenue,816.2,crore,INR,press-quoted-filing,standalone,no,2023-03-31,SRC00641,MEDIUM,Revenue grew 33% YoY from FY22
+FIN00263,S0035,FY25,,total_revenue,,,INR,,standalone,no,,,LOW,FY25 financials not publicly available as of 2026-09-15; Tracxn estimates INR 500-1000 Cr range
+FIN00264,S0035,FY22,,net_profit,-20.71,crore,INR,press-quoted-filing,standalone,no,2022-03-31,SRC00630,HIGH,Net loss halved from INR 43.01 Cr in FY21
+FIN00265,S0035,FY23,,net_profit,21.94,crore,INR,press-quoted-filing,standalone,no,2023-03-31,SRC00641,MEDIUM,Turned profitable in FY23
+FIN00266,S0035,FY24,,total_revenue,893.12,crore,INR,press-quoted-filing,standalone,no,2024-03-31,SRC00629,HIGH,Revenue rose 9.4% YoY; ~US$93-94 million
+FIN00267,S0035,FY24,,net_profit,119.82,crore,INR,press-quoted-filing,standalone,no,2024-03-31,SRC00629,HIGH,PAT up 5.4x from FY23; ~US$12 million
+FIN00268,S0036,FY21,,total_revenue,7840.4,crore,INR,press-quoted-filing,standalone,no,2021-03-31,SRC00649,HIGH,Tofler standalone P&L
+FIN00269,S0036,FY22,,total_revenue,10476.7,crore,INR,press-quoted-filing,standalone,no,2022-03-31,SRC00649,HIGH,Tofler standalone P&L
+FIN00270,S0036,FY23,,total_revenue,14797.5,crore,INR,press-quoted-filing,standalone,no,2023-03-31,SRC00649,HIGH,Tofler standalone P&L
+FIN00271,S0036,FY24,,total_revenue,17855.1,crore,INR,press-quoted-filing,standalone,no,2024-03-31,SRC00649,HIGH,Tofler standalone P&L
+FIN00272,S0036,FY25,,total_revenue,20433.9,crore,INR,press-quoted-filing,standalone,no,2025-03-31,SRC00649,HIGH,Tofler standalone P&L; revenue >5000 cr per Tofler summary
+FIN00273,S0036,FY21,,ebitda,-2501.3,crore,INR,press-quoted-filing,standalone,no,2021-03-31,SRC00649,HIGH,Operating profit; standalone
+FIN00274,S0036,FY25,,ebitda,-1472.0,crore,INR,press-quoted-filing,standalone,no,2025-03-31,SRC00649,HIGH,Operating profit; standalone; loss narrowing
+FIN00275,S0036,FY25,,net_profit,-1568.6,crore,INR,press-quoted-filing,standalone,no,2025-03-31,SRC00649,HIGH,Net loss; standalone; loss narrowing from FY24 -2296.2
+FIN00276,S0036,FY25,,net_worth,1221.2,crore,INR,press-quoted-filing,standalone,no,2025-03-31,SRC00649,HIGH,Standalone net worth turned positive FY25
+FIN00277,S0036,FY25,,total_assets,12958.0,crore,INR,press-quoted-filing,standalone,no,2025-03-31,SRC00649,HIGH,Standalone total assets
+FIN00278,S0036,FY25,,borrowings,1604.2,crore,INR,press-quoted-filing,standalone,no,2025-03-31,SRC00649,HIGH,Standalone borrowings; 62.88% increase YoY
+FIN00279,S0037,FY25,,revenue_from_operations,4306,Rs crore,INR,press-quoted-filing,,,,SRC00657,MEDIUM,
+FIN00280,S0037,FY25,,profitability,,narrative,INR,press-quoted-filing,,,,SRC00670,LOW,Profit figure needs filing-level verification | unparseable value text preserved: turned profitable (PAT positive; exact figure unverified)
+FIN00281,S0037,FY23,,total_revenue,1737.4,crore,INR,press-quoted-filing,standalone,no,,SRC00665,MEDIUM,Revenue from operations FY23
+FIN00282,S0037,FY24,,total_revenue,2733.7,crore,INR,press-quoted-filing,standalone,no,,SRC00661,HIGH,Revenue from operations FY24
+FIN00283,S0037,FY25,,net_profit,55.2,crore,INR,press-quoted-filing,consolidated,yes,,SRC00658,HIGH,Consolidated net profit FY25; turned profitable from loss of Rs 95.7 Cr in FY24
+FIN00284,S0037,FY23,,net_loss,174.6,crore,INR,press-quoted-filing,standalone,no,,SRC00660,MEDIUM,Net loss FY23
+FIN00285,S0037,FY24,,net_loss,95.7,crore,INR,press-quoted-filing,standalone,no,,SRC00661,HIGH,"Net loss FY24, down 45% from FY23"
+FIN00286,S0037,FY25,,total_revenue,4306.2,crore,INR,press-quoted-filing,standalone,no,,SRC00661,HIGH,Revenue surged ~58% YoY
+FIN00287,S0037,FY25,,revenue_growth,58,percent,INR,press-quoted-filing,standalone,no,,SRC00661,HIGH,Revenue growth YoY FY24 to FY25
+FIN00288,S0038,FY25,,total_income,826,Cr,INR,press-quoted-filing,,,,SRC00673,MEDIUM,Entrackr exclusive; EBITDA losses down 38% YoY
+FIN00289,S0038,FY24,,total_revenue,988.4,Cr,INR,press-quoted-filing,,,,SRC00674,MEDIUM,down 5.33% vs Rs 1044 Cr FY23
+FIN00290,S0038,FY25,,total_revenue,826.3,crore,INR,press-quoted-filing,standalone,no,2025-09-29,SRC00673,MEDIUM,
+FIN00291,S0038,FY25,,net_loss,436,crore,INR,press-quoted-filing,standalone,no,2025-09-29,SRC00673,MEDIUM,
+FIN00292,S0038,FY25,,ebitda_loss,305,crore,INR,press-quoted-filing,standalone,no,2025-09-29,SRC00673,MEDIUM,
+FIN00293,S0038,FY25,,cash_and_equivalents,1238,crore,INR,press-quoted-filing,standalone,no,2025-09-29,SRC00673,MEDIUM,
+FIN00294,S0038,FY25,,total_revenue,455.1,crore,INR,press-quoted-filing,standalone,no,2025-09-07,SRC00688,MEDIUM,
+FIN00295,S0038,FY25,,net_profit,-49.5,crore,INR,press-quoted-filing,standalone,no,2025-09-07,SRC00688,MEDIUM,
+FIN00296,S0038,FY25,,ebitda,-127.9,crore,INR,press-quoted-filing,standalone,no,2025-09-07,SRC00688,MEDIUM,
+FIN00297,S0038,FY25,,networth,2518.3,crore,INR,press-quoted-filing,standalone,no,2025-09-07,SRC00688,MEDIUM,
+FIN00298,S0038,FY24,,total_revenue,988.4,crore,INR,press-quoted-filing,standalone,no,2024-09-26,SRC00674,MEDIUM,
+FIN00299,S0038,FY24,,net_loss,631,crore,INR,press-quoted-filing,standalone,no,2024-09-26,SRC00674,MEDIUM,
+FIN00300,S0038,FY24,,ebitda_loss,489,crore,INR,press-quoted-filing,standalone,no,2024-09-26,SRC00674,MEDIUM,
+FIN00301,S0038,FY24,,cash_and_equivalents,1573,crore,INR,press-quoted-filing,standalone,no,2024-09-26,SRC00674,MEDIUM,
+FIN00302,S0038,FY23,,total_revenue,1044,crore,INR,press-quoted-filing,standalone,no,2024-09-26,SRC00674,MEDIUM,
+FIN00303,S0038,FY23,,net_loss,1678,crore,INR,press-quoted-filing,standalone,no,2024-09-26,SRC00674,MEDIUM,
+FIN00304,S0038,FY23,,ebitda_loss,1553,crore,INR,press-quoted-filing,standalone,no,2024-09-26,SRC00674,MEDIUM,
+FIN00305,S0039,FY25,,revenue_from_operations,227,Rs crore,INR,press-quoted-filing,,,,SRC00697,MEDIUM,Revenue +23% YoY (Rs 185 Cr FY24); losses widened ~25%
+FIN00306,S0039,FY25,,revenue (mca filing),233.64,crore,INR,press-quoted-filing,,,,SRC00698,HIGH,"FY25 revenue Rs 233.64 Cr, up 17% YoY per MCA data"
+FIN00307,S0039,FY24,,operating revenue,185.0,crore,INR,press-quoted-filing,,,,SRC00699,HIGH,FY24 operating revenue rose 21% to Rs 185 Cr per ET
+FIN00308,S0039,FY25,,collections,284.0,crore,INR,press-quoted-filing,,,,SRC00699,HIGH,"FY25 collections Rs 284 Cr, 55% increase YoY"
+FIN00309,S0039,FY24,,net loss,157.0,crore,INR,press-quoted-filing,,,,SRC00699,HIGH,FY24 loss cut by 58% to Rs 157 Cr; company turned profitable in Q4 FY25
+FIN00310,S0039,FY25,,revenue (tracxn),,USD,USD,database,,,,SRC00700,MEDIUM,"Tracxn reported latest revenue figure | unparseable value text preserved: USD 27,637,231.06"
+FIN00311,S0040,FY24,,gmv,17564,Rs crore,INR,press-quoted-filing,,,,SRC00730,MEDIUM,"+35% YoY from Rs 13,050 Cr"
+FIN00312,S0040,FY24,,operating_revenue_growth,,narrative,INR,press-quoted-filing,,,,SRC00713,MEDIUM,unparseable value text preserved: +25% YoY; loss Rs 470 Cr (tripled)
+FIN00313,S0040,FY24,,total_revenue,14443,Rs crore,INR,press-quoted-filing,consolidated,,2025-01,SRC00720,MEDIUM,
+FIN00314,S0040,FY24,,net_loss,918,Rs crore,INR,press-quoted-filing,consolidated,,,SRC00720,MEDIUM,
+FIN00315,S0040,FY25,,total_revenue,11332,Rs crore,INR,DRHP,consolidated,,2026-08-14,SRC00718,HIGH,
+FIN00316,S0040,FY25,,gmv,12798,Rs crore,INR,press-quoted-filing,consolidated,,,SRC00720,MEDIUM,
+FIN00317,S0040,FY25,,net_loss,371,Rs crore,INR,press-quoted-filing,consolidated,,,SRC00720,MEDIUM,
+FIN00318,S0040,FY25,,ebitda,145,Rs crore,INR,press-quoted-filing,consolidated,,,SRC00720,MEDIUM,
+FIN00319,S0040,FY26,,total_revenue,15913,Rs crore,INR,DRHP,consolidated,,2026-08-14,SRC00717,HIGH,
+FIN00320,S0040,FY26,,manufacturing_revenue,9375,Rs crore,INR,DRHP,consolidated,,,SRC00719,HIGH,
+FIN00321,S0040,FY26,,adjusted_ebitda,421,Rs crore,INR,DRHP,consolidated,,,SRC00718,HIGH,
+FIN00322,S0040,FY26,,adjusted_pbt,46,Rs crore,INR,DRHP,consolidated,,,SRC00718,HIGH,
+FIN00323,S0040,FY26,,reported_loss,1606,Rs crore,INR,DRHP,consolidated,,,SRC00719,HIGH,
+FIN00324,S0040,FY26,,order_book,12370,Rs crore,INR,DRHP,consolidated,,,SRC00719,HIGH,
+FIN00325,S0040,FY24,,gmv,17564,Rs crore,INR,press-quoted-filing,,,,SRC00730,MEDIUM,
+FIN00326,S0041,FY25,,operating_revenue,6759.3,crore,INR,press-quoted-filing,,,,SRC00741,HIGH,
+FIN00327,S0041,FY25,,net_loss,-478.9,crore,INR,press-quoted-filing,,,,SRC00741,HIGH,
+FIN00328,S0041,FY24,,operating_revenue,7933.8,crore,INR,press-quoted-filing,,,,SRC00741,MEDIUM,
+FIN00329,S0041,FY24,,net_profit,1295,crore,INR,press-quoted-filing,,,,SRC00741,MEDIUM,
+FIN00330,S0042,FY23,,revenue,281,million,USD,press-quoted-filing,,,,SRC00755,MEDIUM,
+FIN00331,S0042,FY23,,profit,41,million,USD,press-quoted-filing,,,,SRC00755,MEDIUM,
+FIN00332,S0042,FY24,,"total_revenue (group, press-quoted)",600,million,USD,press-quoted-filing,,,,SRC00755,MEDIUM,
+FIN00333,S0042,FY24,,glance operating revenue,614,crore,INR,press-quoted-filing,,,,SRC00753,MEDIUM,
+FIN00334,S0042,FY25,,total_revenue,470.9,crore,INR,audited,standalone,no,2025-03-31,SRC00757,HIGH,Tofler MCA data; ~$56M at ~84 INR/USD
+FIN00335,S0042,FY25,,net_profit,-6.9,crore,INR,audited,standalone,no,2025-03-31,SRC00757,HIGH,Loss-making at standalone entity level
+FIN00336,S0042,FY24,,total_revenue,462.1,crore,INR,audited,standalone,no,2024-03-31,SRC00757,HIGH,Tofler MCA data
+FIN00337,S0042,FY24,,"total_revenue (group, press-quoted)",600,million,USD,press-quoted-filing,consolidated,yes,2025-12-31,SRC00755,MEDIUM,Core adtech >$300M; Glance $73.1M
+FIN00338,S0042,FY24,,glance revenue,73.1,million,USD,press-quoted-filing,standalone,no,2025-01-22,SRC00753,MEDIUM,Up 90% from $38.7M FY23
+FIN00339,S0042,FY23,,total_revenue,281,million,USD,press-quoted-filing,consolidated,yes,2025-01-22,SRC00753,MEDIUM,Up from $275M FY22
+FIN00340,S0042,FY23,,net_profit,41,million,USD,press-quoted-filing,consolidated,yes,2025-01-22,SRC00753,MEDIUM,Down from $50M FY22
+FIN00341,S0042,FY24,,glance operating revenue,614,crore,INR,press-quoted-filing,standalone,no,2025-01-22,SRC00753,MEDIUM,~ $73M
+FIN00342,S0042,FY25,,ebitda,24.3,crore,INR,audited,standalone,no,2025-03-31,SRC00757,HIGH,Up 174.93% YoY
+FIN00343,S0042,FY25,,total_assets,711.3,crore,INR,audited,standalone,no,2025-03-31,SRC00757,HIGH,Tofler MCA data
+FIN00344,S0043,FY21,,net_profit,61.94,crore,INR,audited,,,,SRC00774,HIGH,
+FIN00345,S0043,FY25,,operating_revenue,7950,crore,INR,press-quoted-filing,,,,SRC00778,HIGH,
+FIN00346,S0043,FY25,,net_profit,72,crore,INR,press-quoted-filing,,,,SRC00778,HIGH,
+FIN00347,S0043,FY26,,operating_revenue,10022,crore,INR,press-quoted-filing,,,,SRC00784,MEDIUM,
+FIN00348,S0043,Q1 FY27,,revenue_from_operations,2782,crore,INR,management,,,,SRC00779,HIGH,
+FIN00349,S0043,Q1 FY27,,net_profit,80,crore,INR,management,,,,SRC00779,HIGH,
+FIN00350,S0044,FY25,,operating_revenue,1617.0,crore,INR,press-quoted-filing,,,,SRC00788,HIGH,
+FIN00351,S0044,FY25,,net_loss,336.0,crore,INR,press-quoted-filing,,,,SRC00788,HIGH,
+FIN00352,S0044,FY24,,operating_revenue,1420.0,crore,INR,press-quoted-filing,,,,SRC00789,HIGH,
+FIN00353,S0044,FY24,,net_loss,378.0,crore,INR,press-quoted-filing,,,,SRC00789,HIGH,
+FIN00354,S0044,FY23,,total_revenue,1195,crore,INR,press-quoted-filing,consolidated,yes,,SRC00789,HIGH,FY23 revenue from operations
+FIN00355,S0044,FY23,,net_loss,656,crore,INR,press-quoted-filing,consolidated,yes,,SRC00789,HIGH,FY23 net loss
+FIN00356,S0044,FY24,,total_revenue,1420,crore,INR,press-quoted-filing,consolidated,yes,,SRC00789,HIGH,19% YoY growth from FY23
+FIN00357,S0044,FY24,,net_loss,378,crore,INR,press-quoted-filing,consolidated,yes,,SRC00789,HIGH,42% reduction from FY23 loss of Rs 656 Cr
+FIN00358,S0044,FY25,,total_revenue,1617,crore,INR,press-quoted-filing,consolidated,yes,,SRC00788,HIGH,"14% YoY growth; food product sales Rs 1,565 Cr (97% of revenue)"
+FIN00359,S0044,FY25,,net_loss,336,crore,INR,press-quoted-filing,consolidated,yes,,SRC00788,HIGH,12% reduction from FY24 loss
+FIN00360,S0044,FY25,,total_income,1658,crore,INR,press-quoted-filing,consolidated,yes,,SRC00788,HIGH,Includes non-operating revenue of Rs 41 Cr
+FIN00361,S0044,FY26,,net_loss,282,crore,INR,press-quoted-filing,consolidated,yes,,SRC00792,MEDIUM,From Inc42 sidebar headline; full article behind paywall
+FIN00362,S0044,FY26,,total_revenue,1957,crore,INR,estimate,consolidated,yes,,SRC00792,MEDIUM,"ESTIMATE: 21% growth over FY25's Rs 1,617 Cr = ~Rs 1,957 Cr"
+FIN00363,S0045,FY25,,revenue,932.0,crore,INR,press-quoted-filing,,,,SRC00799,,
+FIN00364,S0045,FY25,,total_revenue,932,crore,INR,press-quoted-filing,standalone,no,2025-03-31,SRC00799,MEDIUM,"Revenue as of Mar 31, 2025; ~$110M USD"
+FIN00365,S0045,FY24,,net_profit,-14,crore,INR,press-quoted-filing,standalone,no,2024-03-31,SRC00804,MEDIUM,Net loss of INR 14 Cr in FY24 vs profit of INR 28 Cr in FY23
+FIN00366,S0045,FY22,,total_revenue,360,crore,INR,press-quoted-filing,standalone,no,2022-03-31,SRC00797,MEDIUM,Turnover Rs 360 crore in FY22
+FIN00367,S0046,FY25,,operating_revenue,2765.0,crore,INR,press-quoted-filing,,,,SRC00817,HIGH,
+FIN00368,S0046,FY25,,pat,220.0,,INR,press-quoted-filing,,,,SRC00817,HIGH,
+FIN00369,S0046,FY26,,operating_revenue,3299.7,crore,INR,press-quoted-filing,,,,SRC00818,HIGH,
+FIN00370,S0046,FY26,,pat,287.0,crore,INR,press-quoted-filing,,,,SRC00818,HIGH,
+FIN00371,S0047,FY24,,revenue,914.0,crore,INR,press-quoted-filing,,,,SRC00831,,
+FIN00372,S0047,FY23,,operating revenue (press),819.0,crore,INR,management,,,,SRC00830,,
+FIN00373,S0047,FY23,,total_revenue,819,crore,INR,press-quoted-filing,standalone,,2024-05,SRC00830,MEDIUM,Revenue from operations grew 2.17X to Rs 819 crore in FY23; losses Rs 264 crore
+FIN00374,S0047,FY23,,net_profit,-264,crore,INR,management,standalone,,2024-05,SRC00830,MEDIUM,Losses more than doubled to Rs 264 crore in FY23
+FIN00375,S0047,FY23,,gmv,2262,crore,INR,company-reported,standalone,,2024-05,SRC00843,HIGH,GMV doubled YoY; profitability achieved in 1/3rd of business
+FIN00376,S0047,FY24,,total_revenue,914,crore,INR,press-quoted-filing,standalone,,2025-05,SRC00831,MEDIUM,Tracxn reports Rs 914Cr revenue for FY24
+FIN00377,S0047,FY25,,total_revenue,725.1,crore,INR,press-quoted-filing,standalone,,2026-01,SRC00841,MEDIUM,Revenue declined 20.6% YoY from FY24 Rs 913.8 Cr to FY25 Rs 725.1 Cr
+FIN00378,S0047,FY25,,net_profit,-161.0,crore,INR,press-quoted-filing,standalone,,2026-01,SRC00841,MEDIUM,Net loss of Rs 161.0 Cr in FY25; improved 41% from prior year
+FIN00379,S0047,FY25,,total_expenses,264.3,crore,INR,press-quoted-filing,standalone,,2026-01,SRC00841,MEDIUM,"Total expenses Rs 264.3 Cr, down 34% YoY"
+FIN00380,S0047,FY25,,ebitda,-128.0,crore,INR,estimate,standalone,,2026-01,SRC00841,LOW,"Estimated EBITDA derived from PBT, finance costs, D&A"
+FIN00381,S0047,FY24,,total_assets,449.4,crore,INR,audited,standalone,,2025-08,SRC00833,HIGH,Tofler balance sheet data Mar 2024
+FIN00382,S0048,FY25,,"operating revenue (singapore consolidated filing, press-quoted)",1460.0,crore,INR,press-quoted-filing,,,,SRC00853,,
+FIN00383,S0048,FY23,,total_revenue,1148,crore,INR,press-quoted-filing,consolidated,yes,,SRC00878,MEDIUM,"Wikipedia cites FY23 revenue Rs 1,148 crore; VCCircle reported ~Rs 1,100 crore from CSO interview"
+FIN00384,S0048,FY23,,ebitda_loss_before_esops,581,crore,INR,management,consolidated,yes,,SRC00865,HIGH,Ebitda margin before ESOPs -50.7% in FY23 vs -95.2% in FY22
+FIN00385,S0048,FY24,,operating_revenue,1185,crore,INR,press-quoted-filing,consolidated,yes,,SRC00853,HIGH,Consolidated Singapore filing; India contributed 85% of operating revenue
+FIN00386,S0048,FY24,,net_loss,416,crore,INR,press-quoted-filing,consolidated,yes,,SRC00858,HIGH,
+FIN00387,S0048,FY25,,operating_revenue,1460,crore,INR,press-quoted-filing,consolidated,yes,,SRC00852,HIGH,"Singapore consolidated filing; including other income Rs 52Cr, total revenue Rs 1,512Cr"
+FIN00388,S0048,FY25,,standalone_revenue,1276.5,crore,INR,press-quoted-filing,standalone,no,,SRC00879,MEDIUM,Standalone India entity revenue; FY24 standalone was Rs 941.4 crore
+FIN00389,S0048,FY25,,net_loss,242,crore,INR,press-quoted-filing,consolidated,yes,,SRC00858,HIGH,Losses narrowed 42% from Rs 416Cr in FY24
+FIN00390,S0048,FY25,,adjusted_ebitda_loss_before_esops,131,crore,INR,management,consolidated,yes,,SRC00852,HIGH,Narrowed 47% from Rs 246Cr in FY24
+FIN00391,S0048,FY25,,gross_profit,752,crore,INR,management,consolidated,yes,,SRC00852,HIGH,Gross margin 51.5%; gross profit grew 26% from Rs 598Cr in FY24
+FIN00392,S0048,FY25,,total_revenue_singapore_sgd,231,million,SGD,press-quoted-filing,consolidated,yes,,SRC00880,MEDIUM,"Singapore parent entity revenue for FY ending Mar 31, 2025"
+FIN00393,S0049,FY24,,"operating revenue (audited, press-quoted)",7615.0,crore,INR,press-quoted-filing,,,,SRC00890,,
+FIN00394,S0049,H1FY26 (6MO TO SEP 30 2025),,"revenue (prospectus, press-quoted)",5578.0,crore,INR,press-quoted-filing,,,,SRC00889,,
+FIN00395,S0049,FY21,,total_revenue,792.8,crore,INR,audited,standalone,,,SRC00893,HIGH,
+FIN00396,S0049,FY21,,net_profit,-498.7,crore,INR,audited,standalone,,,SRC00893,HIGH,
+FIN00397,S0049,FY22,,total_revenue,3232.3,crore,INR,audited,standalone,,,SRC00893,HIGH,
+FIN00398,S0049,FY22,,net_profit,-3247.8,crore,INR,audited,standalone,,,SRC00893,HIGH,
+FIN00399,S0049,FY23,,total_revenue,5734.5,crore,INR,audited,standalone,,,SRC00893,HIGH,
+FIN00400,S0049,FY23,,net_profit,-1675.0,crore,INR,audited,standalone,,,SRC00893,HIGH,
+FIN00401,S0049,FY24,,total_revenue,7614.9,crore,INR,audited,standalone,,,SRC00893,HIGH,
+FIN00402,S0049,FY24,,net_profit,-305.0,crore,INR,audited,standalone,,,SRC00893,HIGH,
+FIN00403,S0049,FY24,,adjusted_loss,53,crore,INR,press-quoted-filing,standalone,,,SRC00894,HIGH,"Excluding ESOP expenses, asset impairments, one-off items"
+FIN00404,S0049,FY25,,total_revenue,9387.5,crore,INR,audited,standalone,,,SRC00893,HIGH,
+FIN00405,S0049,FY25,,net_profit,-3883.4,crore,INR,audited,standalone,,,SRC00893,HIGH,
+FIN00406,S0049,FY25,,ebitda,-555.2,crore,INR,audited,standalone,,,SRC00893,HIGH,
+FIN00407,S0049,H1FY26,,revenue_from_operations,5578,crore,INR,DRHP,standalone,,,SRC00888,HIGH,"Six months ended Sep 30, 2025; per prospectus"
+FIN00408,S0049,H1FY26,,net_merchandise_value,19194,crore,INR,DRHP,standalone,,,SRC00888,HIGH,NMV +44% YoY
+FIN00409,S0049,H1FY26,,loss_before_tax,433,crore,INR,DRHP,standalone,,,SRC00888,HIGH,Restated loss before tax for Sep 2025 half-year
+FIN00410,S0049,FY24,,orders,843,million,INR,press-quoted-filing,standalone,,,SRC00894,HIGH,36% YoY growth
+FIN00411,S0049,FY24,,operating_revenue,7615,crore,INR,press-quoted-filing,standalone,,,SRC00890,HIGH,33% YoY growth
+FIN00412,S0049,FY24,,free_cash_flow,197,crore,INR,press-quoted-filing,standalone,,,SRC00890,HIGH,
+FIN00413,S0050,FY24,,revenue (press-quoted mca filing),2200.0,crore,INR,press-quoted-filing,,,,SRC00910,,
+FIN00414,S0050,FY25,,revenue from operations (consolidated),1171.0,crore,INR,press-quoted-filing,,,,SRC00494,HIGH,"Revenue declined 42% from Rs 2,012 Cr FY24. Consolidated net loss Rs 1,974.7 Cr FY25 vs profit Rs 531.4 Cr FY24."
+FIN00415,S0050,FY24,,revenue from operations (consolidated),2012.0,crore,INR,press-quoted-filing,,,,SRC00494,HIGH,Prior year comparison
+FIN00416,S0050,FY25,,net loss,1974.7,crore,INR,press-quoted-filing,,,,SRC00494,HIGH,"Swing of over Rs 2,500 Cr from FY24 profit"
+FIN00417,S0050,FY25,,core mobility revenue,925.0,crore,INR,press-quoted-filing,,,,SRC00494,HIGH,"Core ride-hailing segment, down 47% from Rs 1,761 Cr FY24"
+FIN00418,S0050,FY25,,revenue (tracxn),,USD,USD,database,,,,SRC00911,MEDIUM,"Tracxn reported latest revenue figure | unparseable value text preserved: USD 278,634,629.59"
+FIN00419,S0050,,calendar year 2025,employee count,3724.0,count,N/A,database,,,,SRC00911,MEDIUM,Tracxn official employee count | calendar-year source stated as 2025; no FY mapping inferred
+FIN00420,S0051,FY25,,"operating revenue (roc filings, press-quoted)",934.44,crore,INR,press-quoted-filing,,,,SRC00927,,
+FIN00421,S0051,FY24,,operating revenue,648.0,crore,INR,press-quoted-filing,,,,SRC00945,,
+FIN00422,S0051,FY24,,operating revenue,648,crore,INR,press-quoted-filing,standalone,,,SRC00945,HIGH,Loss Rs 371Cr
+FIN00423,S0051,FY25,,total revenue (incl other income),1002.87,crore,INR,press-quoted-filing,standalone,,,SRC00944,MEDIUM,Conflict with BS figure of 934.44Cr operating revenue; difference is other income
+FIN00424,S0051,FY25,,revenue (usd),118630766.09,USD,USD,database,standalone,,,SRC00929,MEDIUM,
+FIN00425,S0051,FY25,,operating revenue,934.44,crore,INR,press-quoted-filing,standalone,,,SRC00927,HIGH,+44% YoY; net loss Rs 258Cr
+FIN00426,S0051,FY25,,net loss,258,crore,INR,press-quoted-filing,standalone,,,SRC00927,HIGH,
+FIN00427,S0052,FY25,,operating revenue,723.4,crore,INR,press-quoted-filing,,,,SRC00966,,
+FIN00428,S0052,FY25,,adjusted ebitda loss,,,INR,press-quoted-filing,,,,SRC00986,,unparseable value text preserved: -219 crore
+FIN00429,S0052,FY25,,operating_revenue,723.4,crore,INR,press-quoted-filing,standalone,,2025-10-17,SRC00966,HIGH,0.7% growth vs FY24 Rs 718.1cr
+FIN00430,S0052,FY24,,operating_revenue,718.1,crore,INR,press-quoted-filing,standalone,,,SRC00966,HIGH,
+FIN00431,S0052,FY25,,adjusted_ebitda_loss,-219,crore,INR,press-quoted-filing,standalone,,2025-10-17,SRC00966,HIGH,72% reduction from FY24 Rs 793cr
+FIN00432,S0052,FY25,,advertising_revenue,290,crore,INR,press-quoted-filing,standalone,,2025-10-17,SRC00987,HIGH,8.1% decline YoY due to RMG GST increase
+FIN00433,S0052,FY25,,streaming_revenue,434,crore,INR,press-quoted-filing,standalone,,2025-10-17,SRC00988,HIGH,7.7% growth YoY from Rs 403cr
+FIN00434,S0052,FY24,,adjusted_ebitda_loss,-793,crore,INR,press-quoted-filing,standalone,,,SRC00966,HIGH,
+FIN00435,S0052,FY26_H1,,annualized_revenue_run_rate,1000,crore,INR,management,standalone,,,SRC00975,HIGH,"Crossed Rs 1,000cr ARR by end of H1 FY26"
+FIN00436,S0053,FY25,,operating revenue,122.0,crore,INR,press-quoted-filing,,,,SRC00999,,
+FIN00437,S0053,FY25,,net loss,,,INR,press-quoted-filing,,,,SRC00999,,unparseable value text preserved: -50.1 crore
+FIN00438,S0053,FY25,,operating_revenue,122,crore,INR,press-quoted-filing,consolidated,yes,2025-10-24,SRC00999,HIGH,Down 4% from INR 127.7 Cr in FY24
+FIN00439,S0053,FY25,,net_loss,50.1,crore,INR,press-quoted-filing,consolidated,yes,2025-10-24,SRC00999,HIGH,Down 2.3% from INR 51.3 Cr in FY24
+FIN00440,S0053,FY25,,revenue_recruitment_solutions,57.1,crore,INR,press-quoted-filing,consolidated,yes,2025-10-24,SRC00999,HIGH,Up 61% from INR 35.5 Cr in FY24
+FIN00441,S0053,FY25,,revenue_software_dev_support,63,crore,INR,press-quoted-filing,consolidated,yes,2025-10-24,SRC00999,HIGH,Down 31% from INR 91.5 Cr in FY24
+FIN00442,S0053,FY25,,total_expenses,194,crore,INR,press-quoted-filing,consolidated,yes,2025-10-24,SRC00999,HIGH,Up 2% from INR 191 Cr in FY24
+FIN00443,S0053,FY24,,operating_revenue,127.7,crore,INR,press-quoted-filing,consolidated,yes,,SRC00999,HIGH,Prior year comparison
+FIN00444,S0053,FY24,,net_loss,51.3,crore,INR,press-quoted-filing,consolidated,yes,,SRC00999,HIGH,Prior year comparison
+FIN00445,S0053,FY25,,employee_benefit_expenses,177.3,crore,INR,press-quoted-filing,consolidated,yes,2025-10-24,SRC00999,HIGH,Down 5% from INR 123 Cr in FY24 (per Inc42 text)
+FIN00446,S0053,FY25,,net_worth_change,-37.45,percent,INR,press-quoted-filing,,,,SRC01003,MEDIUM,Tofler reports networth decreased by 37.45%
+FIN00447,S0053,FY25,,revenue_range,100,crore,INR,press-quoted-filing,,,,SRC01003,MEDIUM,Tofler revenue range INR 100-500 Cr for FY ending Mar 2024; INR 100-150 Cr per key metrics
+FIN00448,S0053,FY27,,revenue_target,150,crore,INR,management,,,,SRC01000,MEDIUM,Management guidance; AI-driven expansion target
+FIN00449,S0054,FY25,,operating revenue,1667.0,Cr,INR,press-quoted-filing,,,,SRC01011,HIGH,
+FIN00450,S0054,FY25,,ebitda / pat,,Cr,INR,press-quoted-filing,,,,SRC01011,HIGH,unparseable value text preserved: EBITDA +47 (adj +195.5 ex-ESOP); net loss -88 (vs -492 FY24)
+FIN00451,S0054,FY24,,operating revenue,1486.0,Cr,INR,press-quoted-filing,,,,SRC01013,MEDIUM,
+FIN00452,S0055,FY25,,operating revenue,191.3,crore,INR,press-quoted-filing,,,,SRC01026,,
+FIN00453,S0055,FY25,,net loss,,,INR,press-quoted-filing,,,,SRC01026,,unparseable value text preserved: -200.2 crore
+FIN00454,S0055,FY25,,operating_revenue,191.3,crore,INR,press-quoted-filing,standalone,no,,SRC01026,HIGH,Vehicle sales contributed INR 173.1cr (90% of operating revenue)
+FIN00455,S0055,FY25,,net_profit,-200.2,crore,INR,press-quoted-filing,standalone,no,,SRC01026,HIGH,Net loss trimmed 12% from INR 227cr in FY24
+FIN00456,S0055,FY24,,operating_revenue,170.8,crore,INR,press-quoted-filing,standalone,no,,SRC01025,HIGH,Revenue up 12% to INR 192.26cr in FY25 per ET
+FIN00457,S0055,FY24,,net_profit,-227,crore,INR,press-quoted-filing,standalone,no,,SRC01026,HIGH,FY24 net loss INR 227cr
+FIN00458,S0055,FY26,,operating_revenue,433,crore,INR,press-quoted-filing,standalone,no,,SRC01039,HIGH,Revenue jumped 101% YoY per MCA filings reviewed by Mint
+FIN00459,S0055,FY26,,net_profit,-315,crore,INR,press-quoted-filing,standalone,no,,SRC01039,HIGH,Losses widened from INR 261cr (note: discrepancy with INR 200cr FY25 figure)
+FIN00460,S0055,FY25,,total_revenue,206,crore,INR,press-quoted-filing,standalone,no,,SRC01026,HIGH,Including INR 14.7cr other income
+FIN00461,S0055,FY25,,total_expenses,404.1,crore,INR,press-quoted-filing,standalone,no,,SRC01026,HIGH,Employee benefits INR 74.4cr (+46% YoY)
+FIN00462,S0055,FY25,,authorized_share_capital,30.5,crore,INR,MCA,standalone,no,,SRC01029,HIGH,MCA registered data
+FIN00463,S0055,FY25,,paidup_capital,20.1,crore,INR,MCA,standalone,no,,SRC01029,HIGH,MCA registered data
+FIN00464,S0055,FY25,,borrowings,209.9,crore,INR,MCA,standalone,no,,SRC01029,HIGH,Total borrowings per MCA; +135.55% YoY
+FIN00465,S0055,FY25,,reserves,80.9,crore,INR,MCA,standalone,no,,SRC01029,HIGH,Networth decreased 23.95% YoY
+FIN00466,S0055,FY25,,total_assets,410.2,crore,INR,MCA,standalone,no,,SRC01029,HIGH,Total assets per MCA balance sheet
+FIN00467,S0056,FY24,,revenue (company-shared),,,INR,management,,,,SRC01046,,unparseable value text preserved: ~1000 crore
+FIN00468,S0056,FY24,,net profit (company-shared),,,INR,management,,,,SRC01046,,unparseable value text preserved: ~100 crore
+FIN00469,S0057,FY25,,revenue/arr,,M,USD,management,,,,SRC01055,MEDIUM,"unparseable value text preserved: ~130M revenue FY25; 40%+ growth, cash-flow positive per CEO "
+FIN00470,S0058,FY24,,operating_revenue,30.6,Cr,INR,press-quoted-filing,,,,SRC01067,HIGH,
+FIN00471,S0058,FY24,,pat,-20.4,Cr,INR,press-quoted-filing,,,,SRC01067,HIGH,
+FIN00472,S0058,FY25,,operating_revenue,39.3,Cr,INR,press-quoted-filing,,,,SRC01078,HIGH,
+FIN00473,S0058,FY25,,pat,-30.8,Cr,INR,press-quoted-filing,,,,SRC01060,HIGH,
+FIN00474,S0058,FY25,,total_expenses,67.1,Cr,INR,press-quoted-filing,,,,SRC01060,MEDIUM,
+FIN00475,S0058,FY25,,total_assets,321.8,Cr,INR,press-quoted-filing,,,,SRC01060,MEDIUM,
+FIN00476,S0059,FY25,,net_loss,,,INR,press-quoted-filing,,,,SRC01093,MEDIUM,unparseable value text preserved: ~35 crore (vs ~33cr FY24)
+FIN00477,S0059,FY26,,aum,14.0,billion,INR,management,,,,SRC01092,MEDIUM,
+FIN00478,S0060,FY24,,operating_revenue,358.0,crore,INR,press-quoted-filing,,,,SRC01105,HIGH,
+FIN00479,S0060,FY24,,net_loss,120.6,crore,INR,press-quoted-filing,,,,SRC01115,MEDIUM,
+FIN00480,S0061,FY25,,operating_revenue,96.1,Cr,INR,press-quoted-filing,,,,SRC01120,MEDIUM,
+FIN00481,S0061,FY24,,operating_revenue,48.02,Cr,INR,press-quoted-filing,,,,SRC01134,MEDIUM,
+FIN00482,S0061,FY24,,pat,-14.94,Cr,INR,press-quoted-filing,,,,SRC01134,MEDIUM,
+FIN00483,S0061,FY26-RUN-RATE,,annualised_revenue_run_rate_claim,500,Cr,INR,management,,,,SRC01118,LOW,
+FIN00484,S0061,FY25,,total_revenue,96.1,crore,INR,press-quoted-filing,standalone,no,,SRC01120,MEDIUM,Inc42 Datalabs; +100.02% YoY from FY24
+FIN00485,S0061,FY25,,net_profit,-7.0,crore,INR,press-quoted-filing,standalone,no,,SRC01120,MEDIUM,Inc42 Datalabs; net loss FY25
+FIN00486,S0061,FY25,,total_expenses,103.1,crore,INR,press-quoted-filing,standalone,no,,SRC01120,MEDIUM,
+FIN00487,S0061,FY25,,total_assets,61.3,crore,INR,press-quoted-filing,standalone,no,,SRC01120,MEDIUM,
+FIN00488,S0061,FY24,,total_revenue,48.02,crore,INR,press-quoted-filing,standalone,no,,SRC01134,MEDIUM,
+FIN00489,S0061,FY24,,pat,-14.94,crore,INR,press-quoted-filing,standalone,no,,SRC01134,MEDIUM,
+FIN00490,S0061,FY26-RUN-RATE,,annualised_revenue_run_rate,500,crore,INR,management,,,,SRC01124,LOW,Management claim; grew from Rs 100 Cr in 24 months; not audited
+FIN00491,S0061,FY25,,operating_revenue,96.1,crore,INR,press-quoted-filing,,,,SRC01120,MEDIUM,
+FIN00492,S0062,FY24,,operating_revenue,315,Cr,INR,press-quoted-filing,,,,SRC01140,HIGH,
+FIN00493,S0062,FY24,,net_loss,61,Cr,INR,press-quoted-filing,,,,SRC01140,HIGH,
+FIN00494,S0062,FY25,,revenue_management_claim,500,Cr,INR,management,,,,SRC01138,LOW,
+FIN00495,S0062,FY24,,gross_revenue,315,crore,INR,press-quoted-filing,standalone,no,2025-02-14,SRC01140,HIGH,RoC filing; gross revenue surged 2X from Rs 154 Cr in FY23; medicine/device sales = 98.4% of operating income
+FIN00496,S0062,FY24,,net_loss,61,crore,INR,press-quoted-filing,standalone,no,2025-02-14,SRC01140,HIGH,Loss reduced 9% from Rs 67 Cr in FY23
+FIN00497,S0062,FY24,,operating_revenue,310,crore,INR,press-quoted-filing,standalone,no,2025-02-14,SRC01140,HIGH,Revenue from medicine and medical device sales
+FIN00498,S0062,FY25,,net_revenue,510,crore,INR,press-quoted-filing,standalone,no,2025-08-11,SRC01146,MEDIUM,ET article states 'Truemeds closed FY25 with about Rs 510 crore in net revenue'; conflicts with Inc42 FY25 page showing Rs 8.3 Cr (likely entity mismatch with A
+FIN00499,S0062,FY25,,revenue_management_claim,500,crore,INR,management,standalone,no,,SRC01138,LOW,TechCrunch quotes founder claim of Rs 500 Cr revenue; management claim only
+FIN00500,S0062,FY25,,net_loss,120,crore,INR,press-quoted-filing,standalone,no,2026-05-28,SRC01158,LOW,Inc42 shows FY25 net loss Rs 120 Cr on revenue Rs 8.3 Cr — likely entity mismatch (ANKW subsidiary); do not use as audited fact without verification
+FIN00501,S0062,FY23,,gross_revenue,154,crore,INR,press-quoted-filing,standalone,no,2025-02-14,SRC01140,HIGH,FY23 baseline; revenue doubled to Rs 315 Cr in FY24
+FIN00502,S0062,FY23,,net_loss,67,crore,INR,press-quoted-filing,standalone,no,2025-02-14,SRC01140,HIGH,FY23 loss; reduced 9% to Rs 61 Cr in FY24
+FIN00503,S0063,FY25,,revenue,10.0,Lakh,INR,press-quoted-filing,,,,SRC01172,LOW,
+FIN00504,S0063,FY25,,total_revenue,3886,lakh,INR,press-quoted-filing,standalone,no,2025-03-31,SRC01169,MEDIUM,"Tracxn reports revenue 3886 (in ₹ lakh) for FY ending Mar 31, 2025; also states 'less than ₹10 Cr'"
+FIN00505,S0063,FY25,,net_profit,2582,lakh,INR,press-quoted-filing,standalone,no,2025-03-31,SRC01169,MEDIUM,Tracxn financial statement summary; net profit 2582 lakh
+FIN00506,S0063,FY25,,ebitda,7588,lakh,INR,press-quoted-filing,standalone,no,2025-03-31,SRC01169,MEDIUM,Tracxn EBITDA figure
+FIN00507,S0063,FY25,,total_expenses,9360,lakh,INR,press-quoted-filing,standalone,no,2025-03-31,SRC01169,MEDIUM,Tracxn total expenses
+FIN00508,S0063,FY25,,employee_expenses,8711,lakh,INR,press-quoted-filing,standalone,no,2025-03-31,SRC01169,MEDIUM,Tracxn employee expenses
+FIN00509,S0063,FY25,,total_debt,4013,lakh,INR,press-quoted-filing,standalone,no,2025-03-31,SRC01169,MEDIUM,Tracxn total debt
+FIN00510,S0063,FY25,,paid_up_capital,6626836,rupee,INR,audited,standalone,no,2025-03-31,SRC01173,HIGH,"MCA paid-up capital ₹66,26,83,600 (InstaFinancials) or ₹49.03 Cr (CompanyCheck); discrepancy noted"
+FIN00511,S0063,FY25,,authorised_capital,780000000,rupee,INR,audited,standalone,no,2025-03-31,SRC01173,HIGH,MCA authorised share capital ₹78 Cr
+FIN00512,S0064,FY24,,operating revenue,803.0,crore,INR,press-quoted-filing,,,,SRC01182,,
+FIN00513,S0064,FY24,,net loss,,,INR,press-quoted-filing,,,,SRC01182,,unparseable value text preserved: -411 crore
+FIN00514,S0064,FY24,,operating_revenue,803,crore,INR,press-quoted-filing,standalone,no,2024,SRC01182,HIGH,90% from core real estate rental/listings
+FIN00515,S0064,FY23,,net_loss,-500,crore,INR,press-quoted-filing,standalone,no,2023,SRC01183,MEDIUM,Per Saurabh Garg disclosure to Inc42; not independently verified
+FIN00516,S0064,FY24,,net_loss,-411,crore,INR,press-quoted-filing,standalone,no,2024,SRC01182,HIGH,
+FIN00517,S0064,FY25,,operating_revenue,965,crore,INR,press-quoted-filing,standalone,no,2025,SRC01188,HIGH,Per CEO Amit Kumar Agarwal interview with PTI
+FIN00518,S0066,FY25,,total_revenue,4.7,crore,INR,press-quoted-filing,standalone,no,2025-03-31,SRC01222,MEDIUM,Revenue grew 47.6% YoY from ₹3.2 Cr in FY24; Tracxn reports <₹10 Cr revenue for FY ending Mar 31 2025
+FIN00519,S0066,FY25,,net_profit,-24.0,crore,INR,press-quoted-filing,standalone,no,2025-03-31,SRC01222,MEDIUM,Net loss of ₹24.0 Cr in FY25
+FIN00520,S0067,FY25,,operating_revenue,2236.1,Cr,INR,press-quoted-filing,,,,SRC01230,MEDIUM,
+FIN00521,S0067,FY25,,pat,-64.0,Cr,INR,press-quoted-filing,,,,SRC01230,MEDIUM,
+FIN00522,S0067,FY24,,operating_revenue,2273.5,Cr,INR,press-quoted-filing,,,,SRC01249,MEDIUM,
+FIN00523,S0067,FY21,,operating_revenue,1556.7,Cr,INR,press-quoted-filing,,,,SRC01250,MEDIUM,
+FIN00524,S0067,FY21,,pat,110.0,Cr,INR,press-quoted-filing,,,,SRC01250,MEDIUM,
+FIN00525,S0067,FY22,,operating_revenue,1169,crore,INR,press-quoted-filing,standalone,no,2023-06,SRC01238,HIGH,FY22 = Apr 2021-Mar 2022
+FIN00526,S0067,FY22,,pat,-282.4,crore,INR,press-quoted-filing,standalone,no,2023-06,SRC01238,HIGH,First-ever loss in 12 years
+FIN00527,S0067,FY23,,operating_revenue,1988,crore,INR,press-quoted-filing,standalone,no,2024-06-14,SRC01238,HIGH,70% growth from FY22; FY23 = Apr 2022-Mar 2023
+FIN00528,S0067,FY23,,total_revenue,2023,crore,INR,press-quoted-filing,standalone,no,2024-06-14,SRC01238,HIGH,Per ROC filing via The Kredible
+FIN00529,S0067,FY23,,pat,-199.5,crore,INR,press-quoted-filing,standalone,no,2024-06-14,SRC01238,HIGH,Loss narrowed 29.4% from FY22
+FIN00530,S0067,FY23,,advertising_promotion_expense,1421,crore,INR,press-quoted-filing,standalone,no,2024-06-14,SRC01238,HIGH,Up 61.7% from FY22; includes IPL sponsorship
+FIN00531,S0067,FY23,,employee_benefit_expense,445.6,crore,INR,press-quoted-filing,standalone,no,2024-06-14,SRC01238,HIGH,Up from ₹372.8 Cr in FY22
+FIN00532,S0067,FY24,,operating_revenue,2273.5,crore,INR,press-quoted-filing,standalone,no,2025-06,SRC01230,MEDIUM,FY24 = Apr 2023-Mar 2024
+FIN00533,S0067,FY25,,operating_revenue,2236.1,crore,INR,press-quoted-filing,standalone,no,2026-06,SRC01230,MEDIUM,Down 1.6% YoY from FY24; FY25 = Apr 2024-Mar 2025
+FIN00534,S0067,FY25,,pat,-64.0,crore,INR,press-quoted-filing,standalone,no,2026-06,SRC01230,MEDIUM,Net loss; Inc42 also reports -₹72.7 Cr PAT (63% improvement from FY24)
+FIN00535,S0067,FY25,,ebitda,-41.5,crore,INR,estimate,standalone,no,,SRC01230,LOW,"Estimated EBITDA derived from PBT, finance costs, D&A"
+FIN00536,S0067,FY25,,total_assets,1292.4,crore,INR,press-quoted-filing,standalone,no,2026-06,SRC01230,MEDIUM,Per Inc42 Datalabs
+FIN00537,S0067,FY24,,revenue_tracxn,2270,crore,INR,press-quoted-filing,standalone,no,2025-08,SRC01242,MEDIUM,"Tracxn reports ₹2,270 Cr as on Mar 31, 2024"
+FIN00538,S0068,FY24,,revenue_operations,14530.0,crore,INR,press-quoted-filing,,,,SRC01257,HIGH,
+FIN00539,S0068,FY24,,pat,378.0,crore,INR,press-quoted-filing,,,,SRC01257,HIGH,
+FIN00540,S0068,FY25,,revenue_operations,18472.0,crore,INR,press-quoted-filing,,,,SRC01256,HIGH,
+FIN00541,S0068,FY25,,pat,219.7,crore,INR,press-quoted-filing,,,,SRC01256,HIGH,
+FIN00542,S0068,FY23,,total_revenue,11846,crore,INR,press-quoted-filing,consolidated,yes,2024-03-31,SRC01268,HIGH,Gross revenue; profit dipped ~17% YoY; PAT ~Rs 155 Cr
+FIN00543,S0068,FY23,,pat,155,crore,INR,press-quoted-filing,consolidated,yes,2024-03-31,SRC01257,HIGH,FY23 PAT derived from FY24 PAT being 144% higher than FY23
+FIN00544,S0068,FY24,,revenue_operations,14530,crore,INR,press-quoted-filing,consolidated,yes,2025-01-12,SRC01256,HIGH,RoC-based ET figure; 23% YoY growth
+FIN00545,S0068,FY24,,total_income,14743.4,crore,INR,press-quoted-filing,consolidated,yes,2025-01-12,SRC01257,HIGH,Total revenue including other income
+FIN00546,S0068,FY24,,pat,378,crore,INR,press-quoted-filing,consolidated,yes,2025-01-12,SRC01256,HIGH,144% higher than FY23
+FIN00547,S0068,FY25,,revenue_operations,18472,crore,INR,press-quoted-filing,consolidated,yes,2026-01-12,SRC01256,HIGH,RoC-based; 27% YoY growth; gross revenue
+FIN00548,S0068,FY25,,total_income,18556,crore,INR,press-quoted-filing,consolidated,yes,2026-01-12,SRC01269,HIGH,Total income aided by Rs 84 Cr other income
+FIN00549,S0068,FY25,,pat,219.7,crore,INR,press-quoted-filing,consolidated,yes,2026-01-12,SRC01256,HIGH,42% decline from FY24
+FIN00550,S0068,FY25,,total_expenditure,18249.6,crore,INR,press-quoted-filing,consolidated,yes,2026-01-12,SRC01256,HIGH,"Cost of construction materials Rs 5,402.4 Cr; purchases of stock-in-trade Rs 8,440.7 Cr; employee be"
+FIN00551,S0068,FY25,,cash_and_equivalents,1557,crore,INR,press-quoted-filing,consolidated,yes,2026-01-12,SRC01260,HIGH,"Declined to Rs 1,028 Cr as of Feb 28, 2026"
+FIN00552,S0068,FY25,,debt,6057,crore,INR,press-quoted-filing,consolidated,yes,2026-04-10,SRC01260,HIGH,"As of Feb 28, 2026; net debt ~Rs 5,029 Cr"
+FIN00553,S0068,FY26,,total_revenue,20000,crore,INR,press-quoted-filing,consolidated,yes,2026-09-15,SRC01260,MEDIUM,7% YoY growth; source: Inc42 citing industry sources; not yet audited
+FIN00554,S0068,FY26,,pat,312.5,crore,INR,press-quoted-filing,consolidated,yes,2026-09-15,SRC01260,MEDIUM,Range Rs 300-325 Cr; source: Inc42 citing industry sources
+FIN00555,S0068,FY26,,ebitda,1775,crore,INR,press-quoted-filing,consolidated,yes,2026-09-15,SRC01260,MEDIUM,"Range Rs 1,750-1,800 Cr; EBITDA margin ~9%"
+FIN00556,S0068,FY26,,enterprise_value,28124,crore,INR,management,consolidated,yes,2026-04-10,SRC01260,HIGH,"Valuation report dated April 10, 2026, DCF method, as of Feb 28, 2026"
+FIN00557,S0068,FY26,,equity_value,24620,crore,INR,management,consolidated,yes,2026-04-10,SRC01260,HIGH,Equity value per DCF valuation report; ~$2.8Bn equivalent
+FIN00558,S0069,FY25,,revenue,10.0,,INR,press-quoted-filing,,,,SRC01280,,
+FIN00559,S0070,FY25,,operating revenue,2565.0,crore,INR,press-quoted-filing,,,,SRC01282,,
+FIN00560,S0070,FY25,,net loss,126.0,crore,INR,press-quoted-filing,,,,SRC01282,,
+FIN00561,S0070,FY25,,operating_revenue,2565,crore,INR,press-quoted-filing,consolidated,yes,2025-03-31,SRC01293,HIGH,"Revenue from operations grew 18% YoY from ₹2,180 cr in FY24"
+FIN00562,S0070,FY26,,net_profit,93.3,crore,INR,press-quoted-filing,consolidated,yes,,SRC01298,MEDIUM,"Navi Finserv standalone consolidated profit ₹93.3 cr in FY26, down ~46% YoY"
+FIN00563,S0070,FY25,,personal_loans_disbursed,130206,crore,INR,DRHP,standalone,no,,SRC01290,HIGH,Per Navi Finserv NSE filing FY25
+FIN00564,S0070,FY25,,operating_revenue,2565,crore,INR,press-quoted-filing,,,,SRC01293,HIGH,
+FIN00565,S0070,FY25,,net_loss,126,crore,INR,press-quoted-filing,,,,SRC01293,HIGH,
+FIN00566,S0070,FY26,,total_revenue,3091,crore,INR,press-quoted-filing,,,,SRC01286,HIGH,
+FIN00567,S0070,FY26,,net_loss,466,crore,INR,press-quoted-filing,,,,SRC01286,HIGH,
+FIN00568,S0070,FY26,,net_profit,93.3,crore,INR,press-quoted-filing,,,,SRC01298,MEDIUM,
+FIN00569,S0070,FY26,,operating_revenue,2691.5,crore,INR,press-quoted-filing,,,,SRC01298,MEDIUM,
+FIN00570,S0070,FY25,,personal_loans_disbursed,130206,crore,INR,DRHP,,,,SRC01290,HIGH,
+FIN00571,S0070,FY25,,home_loans_disbursed,4230,crore,INR,DRHP,,,,SRC01290,HIGH,
+FIN00572,S0070,FY25,,total_disbursements,134436,crore,INR,DRHP,,,,SRC01290,HIGH,
+FIN00573,S0070,FY25,,aum,116949.31,crore,INR,DRHP,,,,SRC01290,HIGH,
+FIN00574,S0070,FY25,,pat,2219.6,crore,INR,DRHP,,,,SRC01290,HIGH,
+FIN00575,S0070,FY26,,loan_book_outstanding,13000,crore,INR,management,,,,SRC00082,HIGH,
+FIN00576,S0070,FY26,,home_loan_portfolio,1500,crore,INR,management,,,,SRC00082,HIGH,
+FIN00577,S0070,FY26,,equity_capital,4000,crore,INR,management,,,,SRC00082,HIGH,
+FIN00578,S0070,FY26,,aum,130000000000,INR,INR,press-quoted-filing,,,,SRC01286,HIGH,
+FIN00579,S0070,FY25,,net_worth,31626.94,crore,INR,DRHP,,,,SRC01290,HIGH,
+FIN00580,S0070,FY26,,total_disbursements,23287,crore,INR,management,,,,SRC00082,HIGH,
+FIN00581,S0071,FY25,,operating revenue,1634.0,crore,INR,press-quoted-filing,,,,SRC01309,,
+FIN00582,S0071,FY25,,net loss,256.0,crore,INR,press-quoted-filing,,,,SRC01309,,
+FIN00583,S0071,FY24,,operating_revenue,2000.0,crore,INR,press-quoted-filing,,,,SRC01310,MEDIUM,press-quoted filing; loss down 20%
+FIN00584,S0071,FY25,,total_revenue,1634,crore,INR,press-quoted-filing,standalone,no,,SRC01309,HIGH,"PTI report; operating revenue declined from Rs 2,007 cr in FY24"
+FIN00585,S0071,FY25,,net_loss,256,crore,INR,press-quoted-filing,standalone,no,,SRC01309,HIGH,PTI report; losses largely stable vs Rs 260 cr in FY24
+FIN00586,S0071,FY24,,total_revenue,2002.7,crore,INR,press-quoted-filing,standalone,no,,SRC01310,HIGH,"Up 74% from Rs 1,153.4 cr in FY23"
+FIN00587,S0071,FY24,,net_loss,259.6,crore,INR,press-quoted-filing,standalone,no,,SRC01310,HIGH,Down 20% from Rs 326.3 cr in FY23
+FIN00588,S0071,FY23,,total_revenue,1153.4,crore,INR,press-quoted-filing,standalone,no,,SRC01310,HIGH,
+FIN00589,S0071,FY23,,net_loss,326.3,crore,INR,press-quoted-filing,standalone,no,,SRC01310,HIGH,
+FIN00590,S0071,FY24,,operating_revenue,2007,crore,INR,press-quoted-filing,standalone,no,,SRC01309,HIGH,"PTI states FY25 revenue declined to Rs 1,634 cr from Rs 2,007 cr in FY24"
+FIN00591,S0072,FY25,,revenue,2274,,INR,press-quoted-filing,,,,SRC01324,MEDIUM,
+FIN00592,S0072,FY21,,total_revenue,128054,lakh,INR,press-quoted-filing,,,,SRC01342,MEDIUM,
+FIN00593,S0072,FY23,,total_revenue,13537120,thousand,INR,press-quoted-filing,,,,SRC01343,MEDIUM,
+FIN00594,S0072,FY23,,net_income,-2651450,thousand,INR,press-quoted-filing,,,,SRC01343,MEDIUM,
+FIN00595,S0072,FY24,,total_revenue,14331190,thousand,INR,press-quoted-filing,,,,SRC01343,MEDIUM,
+FIN00596,S0072,FY24,,net_income,-3419030,thousand,INR,press-quoted-filing,,,,SRC01343,MEDIUM,
+FIN00597,S0072,FY24,,total_revenue,130962,lakh,INR,press-quoted-filing,,,,SRC01342,MEDIUM,
+FIN00598,S0072,FY25,,total_revenue,19048060,thousand,INR,press-quoted-filing,,,,SRC01343,MEDIUM,
+FIN00599,S0072,FY25,,total_revenue,2274,crore,INR,press-quoted-filing,,,,SRC01324,MEDIUM,
+FIN00600,S0072,FY25,,net_income,-1454870,thousand,INR,press-quoted-filing,,,,SRC01343,MEDIUM,
+FIN00601,S0072,FY25,,net_income,-145,crore,INR,press-quoted-filing,,,,SRC01324,MEDIUM,
+FIN00602,S0072,FY26,,total_revenue,306754,thousand,USD,press-quoted-filing,,,,SRC01344,MEDIUM,
+FIN00603,S0072,FY26,,net_income,12733,thousand,USD,press-quoted-filing,,,,SRC01344,MEDIUM,
+FIN00604,S0072,FY26,,total_revenue,744,crore,INR,press-quoted-filing,,,,SRC01345,MEDIUM,
+FIN00605,S0072,FY26,,net_income,42.4,crore,INR,press-quoted-filing,,,,SRC01345,MEDIUM,
+FIN00606,S0073,FY26,,revenue growth (company-reported),,,INR,management,,,,SRC01362,,unparseable value text preserved: +330% YoY; ~Rs 100 cr/month run-rate
+FIN00607,S0073,FY25,,fy25 revenue,104.0,crore,INR,press-quoted-filing,,,,SRC01368,HIGH,
+FIN00608,S0073,FY25,,fy25 net loss,176.0,crore,INR,press-quoted-filing,,,,SRC01368,HIGH,
+FIN00609,S0073,FY26,,fy26 revenue growth,,INR,INR,management,,,,SRC01362,HIGH,unparseable value text preserved: +330% YoY
+FIN00610,S0073,FY26,,fy26 revenue (approx),416.0,INR,INR,estimate,,,,SRC01369,MEDIUM,
+FIN00611,S0073,FY25,,fy25 revenue,104.0,crore,INR,press-quoted-filing,,,,SRC01368,HIGH,
+FIN00612,S0073,FY25,,fy25 net loss,176.0,crore,INR,press-quoted-filing,,,,SRC01368,HIGH,
+FIN00613,S0073,FY26,,fy26 revenue growth,,INR,INR,management,,,,SRC01362,HIGH,unparseable value text preserved: +330% YoY
+FIN00614,S0073,FY26,,fy26 revenue (approx),416.0,INR,INR,estimate,,,,SRC01369,MEDIUM,
+FIN00615,S0074,FY26,,revenue trend (company-reported),,,USD,management,,,,SRC01376,,unparseable value text preserved: more than doubled YoY; avg deal size 4.5x since 2023; 750+ c
+FIN00616,S0074,FY26,,revenue trend,,USD,USD,management,,,,SRC01377,HIGH,unparseable value text preserved: More than doubled YoY (FY25-FY26)
+FIN00617,S0074,,calendar year 2023-2026,average deal size growth,4.5,USD,USD,management,,,,SRC01377,HIGH,calendar-year source stated as 2023-2026; no FY mapping inferred
+FIN00618,S0074,,calendar year 2026,estimated arr,,USD,USD,estimate,,,,SRC01378,MEDIUM,unparseable value text preserved: $20-25M (per sources) | calendar-year source stated as 2026; no FY mapping inferred
+FIN00619,S0074,FY26,,revenue trend,,USD,USD,management,,,,SRC01377,HIGH,unparseable value text preserved: More than doubled YoY (FY25-FY26)
+FIN00620,S0074,,calendar year 2023-2026,average deal size growth,4.5,USD,USD,management,,,,SRC01377,HIGH,calendar-year source stated as 2023-2026; no FY mapping inferred
+FIN00621,S0074,,calendar year 2026,estimated arr,,USD,USD,estimate,,,,SRC01378,MEDIUM,unparseable value text preserved: $20-25M (per sources) | calendar-year source stated as 2026; no FY mapping inferred
+FIN00622,S0075,FY25,,operating revenue,565.0,crore,INR,press-quoted-filing,,,,SRC01392,,
+FIN00623,S0075,FY25,,net profit,73.0,crore,INR,management,,,,SRC01391,,USD approx $8.2m per source
+FIN00624,S0075,FY25,,fy25 operating revenue,565.0,crore,INR,press-quoted-filing,,,,SRC01392,HIGH,
+FIN00625,S0075,FY25,,fy25 net profit,73.0,crore,INR,management,,,,SRC01391,HIGH,USD approx $8.2m per source
+FIN00626,S0075,FY26,,fy26 revenue,651.0,crore,INR,press-quoted-filing,,,,SRC01393,HIGH,
+FIN00627,S0075,FY26,,fy26 net loss,176.0,crore,INR,press-quoted-filing,,,,SRC01393,HIGH,
+FIN00628,S0075,,calendar year 2026,annual revenue run rate,,USD,USD,management,,,,SRC01390,HIGH,unparseable value text preserved: $140 million | calendar-year source stated as 2026; no FY mapping inferred
+FIN00629,S0075,FY25,,fy25 operating revenue,565.0,crore,INR,press-quoted-filing,,,,SRC01392,HIGH,
+FIN00630,S0075,FY25,,fy25 net profit,73.0,crore,INR,management,,,,SRC01391,HIGH,USD approx $8.2m per source
+FIN00631,S0075,FY26,,fy26 revenue,651.0,crore,INR,press-quoted-filing,,,,SRC01393,HIGH,
+FIN00632,S0075,FY26,,fy26 net loss,176.0,crore,INR,press-quoted-filing,,,,SRC01393,HIGH,
+FIN00633,S0075,,calendar year 2026,annual revenue run rate,,USD,USD,management,,,,SRC01390,HIGH,unparseable value text preserved: $140 million | calendar-year source stated as 2026; no FY mapping inferred
+FIN00634,S0075,FY24,,operating_revenue,105,crore,INR,press-quoted-filing,standalone,,,SRC01419,HIGH,
+FIN00635,S0075,FY24,,net_loss,39,crore,INR,press-quoted-filing,standalone,,,SRC01419,HIGH,
+FIN00636,S0075,FY25,,operating_revenue,565,crore,INR,press-quoted-filing,standalone,,,SRC01392,HIGH,
+FIN00637,S0075,FY25,,net_profit,73,crore,INR,management,standalone,,,SRC01391,HIGH,
+FIN00638,S0075,FY25,,net_profit_usd,8.2,million,USD,management,standalone,,,SRC01391,HIGH,
+FIN00639,S0075,FY25,,ebitda_margin,8.76,percent,INR,management,standalone,,,SRC01391,HIGH,
+FIN00640,S0075,FY25,,roce,12.9,percent,INR,management,standalone,,,SRC01391,HIGH,
+FIN00641,S0075,FY25,,smart_ring_revenue,516,crore,INR,press-quoted-filing,standalone,,,SRC01419,HIGH,
+FIN00642,S0075,FY25,,subscription_revenue,29,crore,INR,press-quoted-filing,standalone,,,SRC01419,HIGH,
+FIN00643,S0075,FY26,,operating_revenue,651,crore,INR,press-quoted-filing,standalone,,,SRC01393,HIGH,
+FIN00644,S0075,FY26,,net_loss,176,crore,INR,press-quoted-filing,standalone,,,SRC01393,HIGH,
+FIN00645,S0075,,calendar year CY2024,revenue_run_rate,150,million,USD,management,annualized,,,SRC01402,MEDIUM,calendar-year source stated as CY2024; no FY mapping inferred
+FIN00646,S0075,,calendar year CY2026,revenue_run_rate,150,million,USD,management,annualized,,,SRC01390,HIGH,calendar-year source stated as CY2026; no FY mapping inferred
+FIN00647,S0075,FY25,,operating_revenue_usd,64,million,USD,management,standalone,,,SRC01420,HIGH,
+FIN00648,S0075,FY25,,total_income,65.8,million,USD,management,standalone,,,SRC01420,HIGH,
+FIN00649,S0076,FY26,,revenue,,crore,INR,management,,,,SRC01438,MEDIUM,unparseable value text preserved: ~337
+FIN00650,S0076,FY25,,revenue,325.0,crore,INR,press-quoted-filing,,,,SRC01454,MEDIUM,
+FIN00651,S0076,FY25,,total_revenue,268.6,crore,INR,DRHP,standalone,no,,SRC01438,HIGH,Revenue from operations per MCA filings sourced by Tofler; cited by Mint
+FIN00652,S0076,FY25,,net_loss,94.4,crore,INR,DRHP,standalone,no,,SRC01438,HIGH,Loss narrowed from Rs 152.4cr in FY24
+FIN00653,S0076,FY24,,total_revenue,241.3,crore,INR,DRHP,standalone,no,,SRC01438,HIGH,Prior year revenue per MCA filings
+FIN00654,S0076,FY24,,net_loss,152.4,crore,INR,DRHP,standalone,no,,SRC01438,HIGH,Prior year loss
+FIN00655,S0076,FY26,,total_revenue,337,crore,INR,management,standalone,no,,SRC01438,MEDIUM,30% growth; company yet to file audited results as of Aug 2026
+FIN00656,S0076,FY22,,total_revenue,31.75,crore,INR,press-quoted-filing,standalone,no,,SRC01441,MEDIUM,2.7X growth per TheKredible; losses Rs 14.5cr
+FIN00657,S0076,FY23,,total_revenue,31.75,crore,INR,press-quoted-filing,standalone,no,,SRC01441,MEDIUM,Per TheKredible; 2.7X growth; losses Rs 14.5cr. Press-quoted from MCA filing summary.
+FIN00658,S0076,FY25,,revenue_range,100,crore,INR,registry,standalone,no,,SRC01445,MEDIUM,"Tofler states operating revenue range INR 100-500 cr for FY ending Mar 31, 2025 (range, not exact)"
+FIN00659,S0077,FY24,,revenue,90.9,crore,INR,press-quoted-filing,,,,SRC01463,MEDIUM,
+FIN00660,S0077,FY25,,arr guidance (company-claimed),300.0,crore,INR,management,,,,SRC01464,MEDIUM,
+FIN00661,S0078,FY25,,revenue,1410,cr,INR,management,,,,SRC01470,MEDIUM,
+FIN00662,S0078,FY25,,ebitda,46,cr,INR,management,,,,SRC01473,MEDIUM,
+FIN00663,S0078,FY26,,revenue,2086,cr,INR,management,,,,SRC01475,MEDIUM,
+FIN00664,S0078,FY26,,ebitda,176,cr,INR,management,,,,SRC01475,MEDIUM,
+FIN00665,S0078,FY24,,total_revenue,1001,crore,INR,press-quoted-filing,standalone,no,,SRC01470,MEDIUM,"VCCircle reports ~Rs 1,004 cr FY24 revenue; HelloKotPad says Rs 1,001 cr"
+FIN00666,S0078,FY25,,total_revenue,1410,crore,INR,management,standalone,no,,SRC01470,MEDIUM,"Company PR; Inc42 cites Rs 1,417 cr as internal estimate"
+FIN00667,S0078,FY25,,ebitda,46,crore,INR,management,standalone,no,,SRC01473,MEDIUM,First year of operational profitability; FY24 EBITDA was -1.6 cr
+FIN00668,S0078,FY25,,gross_profit,316,crore,INR,management,standalone,no,,SRC01473,MEDIUM,52% YoY growth
+FIN00669,S0078,FY25,,gtv,59093,crore,INR,management,standalone,no,,SRC01473,MEDIUM,"45% YoY growth from Rs 40,825 cr in FY24"
+FIN00670,S0078,FY25,,transactions,186108,count,,management,standalone,no,,SRC01473,MEDIUM,"13% YoY growth from 164,075 in FY24"
+FIN00671,S0078,FY26,,total_revenue,2086,crore,INR,management,standalone,no,,SRC01468,MEDIUM,48% YoY growth; company-reported unaudited
+FIN00672,S0078,FY26,,ebitda,176,crore,INR,management,standalone,no,,SRC01468,MEDIUM,3.7x YoY jump; company-reported unaudited
+FIN00673,S0078,FY26,,loan_disbursal,87831,crore,INR,management,standalone,no,,SRC01468,MEDIUM,"Urban Money facilitated Rs 87,831 cr in FY26 loan disbursals"
+FIN00674,S0078,FY25,,loan_disbursal,61000,crore,INR,management,standalone,no,,SRC01469,MEDIUM,"Urban Money facilitated INR 61,000 Cr in FY25"
+FIN00675,S0079,FY23,,revenue,9.66,crore,INR,press-quoted-filing,,,,SRC01484,MEDIUM,
+FIN00676,S0079,FY23,,loss,,crore,INR,press-quoted-filing,,,,SRC01484,MEDIUM,unparseable value text preserved: -31.24
+FIN00677,S0081,FY25,,revenue,8.9,million,USD,estimate,,,,SRC01495,LOW,
+FIN00678,S0083,FY25,,revenue_from_operations,3070,cr,INR,press-quoted-filing,,,,SRC01505,HIGH,
+FIN00679,S0083,FY25,,pat,61.1,cr,INR,press-quoted-filing,,,,SRC01505,HIGH,
+FIN00680,S0084,FY24,,revenue_from_operations,875.0,cr,INR,audited,,,,SRC01525,HIGH,
+FIN00681,S0084,FY24,,pat,14.1,cr,INR,audited,,,,SRC01525,HIGH,
+FIN00682,S0084,FY25,,revenue_from_operations,1170.2,cr,INR,audited,,,,SRC01525,HIGH,
+FIN00683,S0084,FY25,,pat,-121.3,cr,INR,audited,,,,SRC01525,HIGH,
+FIN00684,S0084,FY26,,revenue_from_operations,1106.5,cr,INR,audited,,,,SRC01526,HIGH,
+FIN00685,S0085,FY26,,consolidated_revenue,20645,crore,INR,management,,,,SRC01530,HIGH,
+FIN00686,S0085,FY26,,pat,724,crore,INR,management,,,,SRC01530,HIGH,
+FIN00687,S0085,FY25,,pat,597,crore,INR,management,,,,SRC01530,MEDIUM,
+FIN00688,S0085,FY25,,consolidated_revenue,22241,crore,INR,estimate,,,,SRC01531,LOW,
+FIN00689,S0085,FY23,,consolidated_revenue,15342,crore,INR,audited,consolidated,yes,2023-10-25,SRC01555,HIGH,"GMV Rs 15,342 cr; trading 82%, manufacturing 25%"
+FIN00690,S0085,FY23,,gmv,15342,crore,INR,audited,consolidated,yes,2023-10-25,SRC01555,HIGH,
+FIN00691,S0085,FY23,,pat,463,crore,INR,audited,consolidated,yes,2023-10-25,SRC01555,HIGH,
+FIN00692,S0085,FY24,,consolidated_revenue,19296,crore,INR,audited,consolidated,yes,2024-07-08,SRC01556,HIGH,
+FIN00693,S0085,FY24,,pat,603,crore,INR,audited,consolidated,yes,2024-07-08,SRC01556,HIGH,
+FIN00694,S0085,FY24,,total_assets,7460,crore,INR,audited,standalone,no,,SRC01557,MEDIUM,
+FIN00695,S0085,FY25,,consolidated_revenue,22241,crore,INR,press-quoted-filing,consolidated,yes,2026-05-14,SRC01531,MEDIUM,VFS report; growth slowed to 15% YoY
+FIN00696,S0085,FY26,,consolidated_revenue,20645,crore,INR,management,consolidated,yes,2026-07-29,SRC01530,HIGH,
+FIN00697,S0085,FY26,,pat,724,crore,INR,management,consolidated,yes,2026-07-29,SRC01530,HIGH,
+FIN00698,S0085,FY25,,pat,597,crore,INR,management,consolidated,yes,,SRC01530,MEDIUM,
+FIN00699,S0085,FY24,,oxyzo_pat,290,crore,INR,audited,standalone,no,2024-05-31,SRC01558,HIGH,
+FIN00700,S0085,FY24,,oxyzo_revenue,903,crore,INR,audited,standalone,no,2024-05-31,SRC01558,HIGH,
+FIN00701,S0085,FY25,,oxyzo_aum,8341,crore,INR,audited,standalone,no,2025-03-31,SRC01538,HIGH,
+FIN00702,S0085,FY25,,oxyzo_borrowings,6028,crore,INR,audited,standalone,no,2025-03-31,SRC01538,HIGH,
+FIN00703,S0085,FY25,,oxyzo_net_worth,2855,crore,INR,audited,standalone,no,2025-03-31,SRC01538,HIGH,
+FIN00704,S0085,FY25,,oxyzo_total_revenue,1129,crore,INR,audited,standalone,no,2025-03-31,SRC01538,HIGH,
+FIN00705,S0085,FY24,,oxyzo_loan_book,6667,crore,INR,audited,standalone,no,2024-05-31,SRC01558,HIGH,
+FIN00706,S0085,FY25,,oxyzo_loan_book,8342,crore,INR,audited,standalone,no,2025-03-31,SRC01538,HIGH,
+FIN00707,S0085,FY25,,oxyzo_gross_npa,1.2,percent,INR,audited,standalone,no,2025-03-31,SRC01537,HIGH,
+FIN00708,S0085,FY23,,oxyzo_pat,197,crore,INR,audited,standalone,no,,SRC01537,HIGH,
+FIN00709,S0085,FY24,,oxyzo_pat,286,crore,INR,audited,standalone,no,,SRC01537,HIGH,
+FIN00710,S0085,FY25,,oxyzo_total_income,1129,crore,INR,audited,standalone,no,2025-03-31,SRC01538,HIGH,
+FIN00711,S0086,FY24,,operating_revenue,600.5,crore,INR,press-quoted-filing,,,,SRC01570,HIGH,
+FIN00712,S0086,FY24,,net_loss,-381,crore,INR,press-quoted-filing,,,,SRC01570,HIGH,
+FIN00713,S0086,FY23,,operating_revenue,452.8,crore,INR,press-quoted-filing,,,,SRC01571,HIGH,
+FIN00714,S0086,FY25,,consolidated_revenue,442,crore,INR,management,,,,SRC01569,MEDIUM,
+FIN00715,S0086,FY25,,consolidated_loss,-168,crore,INR,management,,,,SRC01569,MEDIUM,
+FIN00716,S0087,FY25,,total_revenue,4.17,crore,INR,press-quoted-filing,standalone,no,2025-03-31,SRC01593,MEDIUM,"Tracxn reports revenue of ₹4.17Cr for FY ending Mar 31, 2025; Financial Express corroborates ₹4.2Cr. Company was operational only from ~Jul 2024 (FY25 partial y"
+FIN00717,S0087,FY25,,net_loss,19.1,crore,INR,press-quoted-filing,standalone,no,2025-03-31,SRC01589,MEDIUM,Financial Express cites Tracxn data: FY25 net loss of ₹19.1 Cr.
+FIN00718,S0087,FY26,,total_revenue,490529.82,USD,USD,estimate,standalone,no,,SRC01596,LOW,"Tracxn shows Latest Revenue USD 490,529.82 (likely a monthly or quarterly figure, not annual). Ambiguous period. Founderpin estimates FY26 revenue at ₹200-220 C"
+FIN00719,S0087,FY25,,authorised_capital,25,lakh,INR,audited,standalone,no,,SRC01592,HIGH,"MCA authorised share capital ₹25,00,000 (₹25 Lakhs)"
+FIN00720,S0087,FY25,,paid_up_capital,15.31,lakh,INR,audited,standalone,no,,SRC01592,HIGH,"MCA paid-up capital ₹15,31,100 per InstaFinancials; IndiaFilings shows ₹9,46,800. Discrepancy likely due to different filing dates."
+FIN00721,S0090,FY25,,revenue from operations,114.4,crore,INR,press-quoted-filing,,,,SRC01612,MEDIUM,
+FIN00722,S0090,FY25,,net loss,-42.2,crore,INR,press-quoted-filing,,,,SRC01612,MEDIUM,
+FIN00723,S0090,FY25,,revenue from operations,114.4,crore,INR,press-quoted-filing,standalone,no,2026-06-25,SRC01612,MEDIUM,Revenue rose ~60% YoY from Rs 71.4 cr in FY24
+FIN00724,S0090,FY25,,net loss,-42.2,crore,INR,press-quoted-filing,standalone,no,2026-06-25,SRC01612,MEDIUM,Losses narrowed from Rs 61.4 cr in FY24
+FIN00725,S0090,FY24,,revenue from operations,71.4,crore,INR,press-quoted-filing,standalone,no,2026-06-25,SRC01612,MEDIUM,FY24 revenue per Mint
+FIN00726,S0092,FY24,,total income,3144.38,crore,INR,press-quoted-filing,,,,SRC01637,MEDIUM,
+FIN00727,S0092,FY24,,net loss,-1670.06,crore,INR,press-quoted-filing,,,,SRC01637,MEDIUM,
+FIN00728,S0092,FY24,,total_income,3144.38,crore,INR,press-quoted-filing,standalone,no,2025-02-06,SRC01637,MEDIUM,Total income FY24; up from Rs 777.84 cr in FY23
+FIN00729,S0092,FY24,,net_loss,-1670.06,crore,INR,press-quoted-filing,standalone,no,2025-02-06,SRC01637,MEDIUM,Net loss FY24; up from Rs 744.53 cr in FY23
+FIN00730,S0092,FY25,,total_revenue,4635.7,crore,INR,press-quoted-filing,standalone,no,2025-08-19,SRC01654,MEDIUM,"Revenue FY25; +47.4% from FY24 (Rs 3,144.4 cr)"
+FIN00731,S0092,FY25,,net_loss,-1983,crore,INR,press-quoted-filing,standalone,no,2025-06-30,SRC01655,HIGH,"Standalone net loss FY25; +18.7% YoY; employee costs +36%, maintenance +26.6%, forex +181%"
+FIN00732,S0092,FY26,,total_revenue,4636,crore,INR,press-quoted-filing,consolidated,yes,2026-06-23,SRC01646,HIGH,Operating revenue +37% YoY; capacity +30%; Wikipedia cites Rs 46.36 billion
+FIN00733,S0092,FY26,,net_loss,-2716,crore,INR,press-quoted-filing,consolidated,yes,2026-08-11,SRC01656,HIGH,"Consolidated net loss widened 37% YoY from Rs 1,983.5 cr in FY25; marked-to-market forex loss"
+FIN00734,S0092,FY23,,total_income,777.84,crore,INR,press-quoted-filing,standalone,no,2025-02-06,SRC01637,MEDIUM,"Total income FY23 (partial year, ops started Aug 2022)"
+FIN00735,S0093,FY24,,revenue,515.5,crore,INR,press-quoted-filing,,,,SRC01679,HIGH,
+FIN00736,S0093,FY24,,profit_after_tax,-15.8,crore,INR,press-quoted-filing,,,,SRC01679,HIGH,
+FIN00737,S0093,FY23,,total_revenue,322,crore,INR,estimate,standalone,no,,SRC01682,MEDIUM,Estimated from FY24 revenue being up ~60% YoY (ET article states FY24 rev up almost 60% from year before)
+FIN00738,S0093,FY23,,net_profit,-69,crore,INR,press-quoted-filing,standalone,no,,SRC01682,HIGH,ET: losses Rs 69 crore in FY23
+FIN00739,S0093,FY24,,total_revenue,515.5,crore,INR,press-quoted-filing,standalone,no,2025-07-25,SRC01679,HIGH,Inc42 Datalabs/MCA-derived; also confirmed by ET and Indian Retailer
+FIN00740,S0093,FY24,,net_profit,-15.77,crore,INR,press-quoted-filing,standalone,no,2025-07-25,SRC01682,HIGH,ET: losses dropped 77% to Rs 15.77 crore from Rs 69 crore in FY23
+FIN00741,S0093,FY25,,total_revenue,749.5,crore,INR,press-quoted-filing,standalone,no,,SRC01679,MEDIUM,Inc42 Datalabs; FY24-25; +45.4% YoY from FY24
+FIN00742,S0093,FY25,,net_profit,-14.6,crore,INR,press-quoted-filing,standalone,no,,SRC01679,MEDIUM,Inc42 Datalabs; FY24-25; net loss Rs 14.6 Cr
+FIN00743,S0093,FY25,,ebitda,17.5,crore,INR,estimate,standalone,no,,SRC01679,LOW,Inc42 estimated EBITDA for FY25
+FIN00744,S0093,FY25,,total_assets,237.7,crore,INR,press-quoted-filing,standalone,no,,SRC01679,MEDIUM,Inc42 Datalabs
+FIN00745,S0093,FY24,,total_expenses,531.3,crore,INR,press-quoted-filing,standalone,no,,SRC01679,MEDIUM,Inc42 Datalabs derived from revenue and PAT
+FIN00746,S0093,FY25,,total_expenses,764.1,crore,INR,press-quoted-filing,standalone,no,,SRC01679,MEDIUM,Inc42 Datalabs
+FIN00747,S0094,FY24,,revenue,3733,crore,INR,press-quoted-filing,,,,SRC01690,HIGH,
+FIN00748,S0094,FY24,,ebitda_loss_adj,-69,crore,INR,press-quoted-filing,,,,SRC01690,HIGH,
+FIN00749,S0094,FY24,,total_revenue,3733,crore,INR,press-quoted-filing,standalone,no,2025-04-02,SRC01690,HIGH,12% YoY growth; FY24 = Apr 2023-Mar 2024
+FIN00750,S0094,FY24,,ebitda_loss_adj,-69,crore,INR,press-quoted-filing,standalone,no,2025-04-02,SRC01690,HIGH,EBITDA loss narrowed by 83% YoY
+FIN00751,S0094,FY25,,total_revenue_target,520,million,USD,management,consolidated,yes,,SRC01701,MEDIUM,Target $520-530M in FY25; founder Ashwin Damera quoted Feb 2025
+FIN00752,S0094,FY25,,total_revenue_estimate,450,million,USD,estimate,consolidated,yes,,SRC01711,LOW,"ET reported 15% growth target for FY25 (~Rs 4,500 cr); Tracxn says revenue between $100M-$500M as of Jun 30, 2025"
+FIN00753,S0094,FY25,,deferred_revenue,800,crore,INR,estimate,consolidated,yes,,SRC01709,LOW,₹800 cr deferred revenue entering FY25 per investor report
+FIN00754,S0094,FY25,,revenue_indian_entity,10,crore,INR,press-quoted-filing,standalone,no,2026-07-17,SRC01706,MEDIUM,"Tracxn reports <₹10 Cr revenue for Indian entity (Eruditus Education Pvt Ltd) for FY ending Mar 31, 2025; most revenue flows through Singapore entity"
+FIN00755,S0095,FY25,,revenue,301.4,crore,INR,press-quoted-filing,,,,SRC01722,HIGH,
+FIN00756,S0095,FY25,,net_profit,12.1,crore,INR,press-quoted-filing,,,,SRC01722,HIGH,
+FIN00757,S0095,FY25,,total_revenue,301.4,crore,INR,press-quoted-filing,consolidated,yes,2025-12-17,SRC01729,HIGH,Revenue from operations Rs 299cr + other income Rs 2.34cr = total income Rs 301.4cr; +182% YoY from FY24 Rs 106.8cr
+FIN00758,S0095,FY25,,net_profit,12.1,crore,INR,press-quoted-filing,consolidated,yes,2025-12-17,SRC01722,HIGH,Turned profitable from Rs 12.5cr loss in FY24
+FIN00759,S0095,FY25,,ebitda,3.6,crore,INR,press-quoted-filing,consolidated,yes,2025-12-17,SRC01722,HIGH,EBITDA turned positive from negative Rs 8.65cr in FY24
+FIN00760,S0095,FY25,,marketing_expenditure,136.54,crore,INR,press-quoted-filing,consolidated,yes,2025-12-17,SRC01729,HIGH,2.5X YoY from Rs 54.04cr in FY24; 45%+ of total expenditure
+FIN00761,S0095,FY24,,total_revenue,106.8,crore,INR,press-quoted-filing,consolidated,yes,,SRC01722,HIGH,FY24 revenue; loss of Rs 12.5cr
+FIN00762,S0095,FY23,,operating_revenue,36.53,crore,INR,press-quoted-filing,standalone,,,SRC01723,HIGH,FY23 revenue with loss of Rs 16.87cr
+FIN00763,S0095,FY25,,employee_expense,15,crore,INR,press-quoted-filing,consolidated,yes,,SRC01729,HIGH,5% of total cost
+FIN00764,S0095,FY25,,total_expenses,301,crore,INR,press-quoted-filing,consolidated,yes,,SRC01729,HIGH,Total expenses Rs 301cr
+FIN00765,S0096,FY24,,revenue,175.3,crore,INR,press-quoted-filing,,,,SRC01745,HIGH,
+FIN00766,S0096,FY24,,revenue_growth_yoy,112.25,percent,INR,press-quoted-filing,,,,SRC01745,MEDIUM,
+FIN00767,S0096,FY24,,revenue,175.3,crore,INR,press-quoted-filing,standalone,no,2025-03-31,SRC01745,MEDIUM,Inc42 profile; MCA-derived. Conflicts with Inc42's own FY24 revenue figure of 202.6 Cr
+FIN00768,S0096,FY24,,revenue,202.6,crore,INR,press-quoted-filing,standalone,no,2025-03-31,SRC01745,MEDIUM,Inc42 profile lists FY24 revenue as 202.6 Cr — conflicts with 175.3 Cr figure on same page
+FIN00769,S0096,FY24,,revenue_growth_yoy,112.25,percent,INR,press-quoted-filing,standalone,no,2025-03-31,SRC01745,MEDIUM,Inc42 profile
+FIN00770,S0096,FY25,,ebitda_status,1,boolean,INR,press-quoted-filing,standalone,no,2025-07-02,SRC01751,MEDIUM,Moneycontrol headline confirms EBITDA positive as of Jul 2025; exact figure not available
+FIN00771,S0096,FY25,,annual_revenue_range,10,million,USD,estimate,standalone,no,2025-03-31,SRC01747,LOW,"Tracxn: $10M-$50M annual revenue as of Mar 31, 2025"
+FIN00772,S0097,FY25,,revenue,1623.9,crore,INR,audited,,,,SRC01758,HIGH,
+FIN00773,S0097,FY25,,ebitda,153.5,crore,INR,audited,,,,SRC01758,HIGH,
+FIN00774,S0098,FY25,,annual revenue (tracxn band),50.0,,INR,estimate,,,,SRC01768,,
+FIN00775,S0098,FY25,,annual_revenue,75,crore,INR,estimate,standalone,,,SRC01768,LOW,Tracxn band: Rs 50-100 Cr as on Mar 31 2025; midpoint used
+FIN00776,S0098,FY25,,employee_count,337,count,INR,press-quoted-filing,standalone,,,SRC01768,MEDIUM,Tracxn: 337 as of Aug 31 2025
+FIN00777,S0098,FY26,,total_client_assets,130000,crore,INR,management,standalone,,,SRC01765,MEDIUM,Company-claimed: Rs 1.3 lakh crore as of Jun 30 2026
+FIN00778,S0098,FY26,,arr_aum,50000,crore,INR,management,standalone,,,SRC01765,MEDIUM,"Company-claimed: Rs 50,000 crore ARR AUM as of Jun 30 2026"
+FIN00779,S0098,FY26,,equity_capital_raised,3000,crore,INR,press-quoted-filing,standalone,,,SRC01765,MEDIUM,"ET: Neo has close to Rs 3,000 crore in equity capital"
+FIN00780,S0099,FY24,,revenue (management-quoted),,,INR,management,,,,SRC01778,,unparseable value text preserved: ~360 Cr
+FIN00781,S0099,FY24,,revenue (inc42 company profile),35.6,crore,INR,press-quoted-filing,,,,SRC01781,,
+FIN00782,S0100,FY24,,revenue from operations,504.37,crore,INR,press-quoted-filing,,,,SRC01786,,
+FIN00783,S0100,FY25,,revenue from operations,489.9,crore,INR,press-quoted-filing,,,,SRC01786,,
+FIN00784,S0100,FY26,,revenue from operations,557.83,crore,INR,press-quoted-filing,,,,SRC01786,,
+FIN00785,S0100,FY26,,pat (loss),,,INR,press-quoted-filing,,,,SRC01786,,unparseable value text preserved: -285.39 Cr
+FIN00786,S0100,FY23,,revenue_from_operations,93.08,crore,INR,press-quoted-filing,consolidated,yes,,SRC01787,MEDIUM,Tracxn reports FY23 revenue as 9308 (lakhs) = Rs 93.08 Cr; however this conflicts with Mint article stating gross sales of $60M (~Rs 500Cr) in FY23. Tracxn data
+FIN00787,S0100,FY24,,revenue_from_operations,504.37,crore,INR,press-quoted-filing,consolidated,yes,,SRC01786,HIGH,From DRHP-based reporting at IPO listing
+FIN00788,S0100,FY24,,ebitda,31.63,crore,INR,press-quoted-filing,consolidated,yes,,SRC01786,HIGH,
+FIN00789,S0100,FY24,,pat,-47.71,crore,INR,press-quoted-filing,consolidated,yes,,SRC01786,HIGH,
+FIN00790,S0100,FY25,,revenue_from_operations,489.9,crore,INR,press-quoted-filing,consolidated,yes,,SRC01786,HIGH,Revenue declined 4% YoY per Inc42
+FIN00791,S0100,FY25,,ebitda,41.98,crore,INR,press-quoted-filing,consolidated,yes,,SRC01786,HIGH,
+FIN00792,S0100,FY25,,pat,-188.38,crore,INR,press-quoted-filing,consolidated,yes,,SRC01786,HIGH,Net loss widened 2.95x YoY per Inc42
+FIN00793,S0100,FY25,,net_loss,188.6,crore,INR,press-quoted-filing,consolidated,yes,,SRC01788,HIGH,Inc42 reports FY25 net loss widened 2.95x YoY to INR 188.6 Cr
+FIN00794,S0100,FY26,,revenue_from_operations,557.83,crore,INR,press-quoted-filing,consolidated,yes,,SRC01786,HIGH,FY26 = Apr 2025-Mar 2026; pre-IPO financials
+FIN00795,S0100,FY26,,ebitda,30.37,crore,INR,press-quoted-filing,consolidated,yes,,SRC01786,HIGH,
+FIN00796,S0100,FY26,,pat,-285.39,crore,INR,press-quoted-filing,consolidated,yes,,SRC01786,HIGH,
+FIN00797,S0100,FY25,,revenue_range,4659,lakh,INR,press-quoted-filing,standalone,no,,SRC01787,LOW,Tracxn reports FY25 revenue as 4659 lakhs = Rs 46.59 Cr standalone. Conflicts with consolidated Rs 490 Cr. Tracxn data quality is uncertain; kept as separate da
+FIN00798,S0101,FY24,,revenue (management-quoted),325.0,crore,INR,management,,,,SRC01797,,
+FIN00799,S0101,FY26,,operating revenue (mca-cited),461.0,crore,INR,press-quoted-filing,,,,SRC01794,,
+FIN00800,S0101,FY26,,net loss (mca-cited),,,INR,press-quoted-filing,,,,SRC01794,,unparseable value text preserved: -59.7 Cr
+FIN00801,S0102,FY25,,paid-up capital (pre-raise snapshot),34.95,crore,INR,press-quoted-filing,,,,SRC01803,,
+FIN00802,S0103,FY25,,revenue,1.1,crore,INR,press-quoted-filing,,,,SRC01809,MEDIUM,
+FIN00803,S0104,FY25,,revenue,4794409.82,USD,USD,press-quoted-filing,,,,SRC01826,MEDIUM,
+FIN00804,S0104,FY25,,total_revenue,4794409.82,USD,USD,press-quoted-filing,standalone,no,,SRC01817,MEDIUM,Tracxn MCA-derived; revenue range ₹10-50 Cr per Tracxn
+FIN00805,S0104,FY25,,revenue_range,10,crore,INR,press-quoted-filing,standalone,no,,SRC01817,MEDIUM,"Tracxn states annual revenue between ₹10 Cr and ₹50 Cr as of Mar 31, 2025"
+FIN00806,S0105,FY25,,revenue,36.1,crore,INR,press-quoted-filing,,,,SRC01829,HIGH,
+FIN00807,S0105,FY25,,net_loss,116.3,crore,INR,press-quoted-filing,,,,SRC01829,HIGH,
+FIN00808,S0106,FY25,,operating_revenue,746,crore,INR,press-quoted-filing,,,,SRC01840,HIGH,
+FIN00809,S0106,FY25,,net_loss,170,crore,INR,press-quoted-filing,,,,SRC01840,HIGH,
+FIN00810,S0106,FY23,,total_revenue,411.5,crore,INR,press-quoted-filing,standalone,,,SRC01845,HIGH,
+FIN00811,S0106,FY23,,net_loss,342.7,crore,INR,press-quoted-filing,standalone,,,SRC01845,HIGH,
+FIN00812,S0106,FY24,,operating_revenue,585.1,crore,INR,press-quoted-filing,standalone,,,SRC01844,HIGH,
+FIN00813,S0106,FY24,,total_income,635.09,crore,INR,press-quoted-filing,standalone,,,SRC01845,HIGH,
+FIN00814,S0106,FY24,,net_loss,172.6,crore,INR,press-quoted-filing,standalone,,,SRC01844,HIGH,
+FIN00815,S0106,FY25,,operating_revenue,745.8,crore,INR,DRHP,standalone,,,SRC01843,HIGH,
+FIN00816,S0106,FY25,,net_loss,169.9,crore,INR,DRHP,standalone,,,SRC01843,HIGH,
+FIN00817,S0106,FY25,,total_revenue,775.49,crore,INR,press-quoted-filing,standalone,,,SRC01856,MEDIUM,
+FIN00818,S0107,FY25,,net_revenue (range across wealthtech peer reporting),30,crore,INR,press-quoted-filing,,,,SRC01868,MEDIUM,
+FIN00819,S0108,FY25,,annual_revenue_band,0.0,INR Cr,INR,press-quoted-filing,,,,SRC01872,LOW,
+FIN00820,S0108,FY25,,annual_revenue_band,10,crore,INR,press-quoted-filing,standalone,no,,SRC01872,LOW,Tracxn: Annual Revenue 0 - ₹10 Cr as on Mar 31 2025
+FIN00821,S0108,FY25,,revenue_estimate,,crore,INR,estimate,standalone,no,,SRC01874,LOW,CB Insights shows revenue as 0 FY undefined; no audited MCA financials verified
+FIN00822,S0109,FY25,,operating_revenue,69.5,INR Cr,INR,press-quoted-filing,,,,SRC01878,HIGH,
+FIN00823,S0109,FY25,,net_loss,,INR Cr,INR,press-quoted-filing,,,,SRC01878,HIGH,unparseable value text preserved: -98.5
+FIN00824,S0109,FY24,,operating_revenue,4.8,crore,INR,press-quoted-filing,standalone,no,,SRC01899,MEDIUM,Inc42 Datalabs; FY24 revenue was near-zero as monetisation began May 2024
+FIN00825,S0109,FY24,,net_loss,99.1,crore,INR,press-quoted-filing,standalone,no,,SRC01899,MEDIUM,Inc42 Datalabs
+FIN00826,S0109,FY25,,operating_revenue,69.5,crore,INR,press-quoted-filing,standalone,no,2026-03-31,SRC01878,HIGH,ET report; monetisation began May 2024
+FIN00827,S0109,FY25,,total_revenue,75.8,crore,INR,press-quoted-filing,standalone,no,2026-03-31,SRC01878,HIGH,Includes interest from FDs and profit from asset sales
+FIN00828,S0109,FY25,,net_loss,98.5,crore,INR,press-quoted-filing,standalone,no,2026-03-31,SRC01878,HIGH,Expenses jumped 67% on marketing spends
+FIN00829,S0109,FY25,,marketing_expense,59,crore,INR,press-quoted-filing,standalone,no,2026-03-31,SRC01887,HIGH,Entrackr Fintrackr analysis
+FIN00830,S0109,FY26,,arr,230,million,USD,press-quoted-filing,consolidated,yes,2026-03-31,SRC01877,MEDIUM,Company pitch-deck claim as of Jan 2026; up from ARR $23M at Series B
+FIN00831,S0110,FY25,,operating_revenue,518.0,INR Cr,INR,press-quoted-filing,,,,SRC01912,HIGH,
+FIN00832,S0110,FY25,,net_loss,,INR Cr,INR,press-quoted-filing,,,,SRC01912,HIGH,unparseable value text preserved: -72
+FIN00833,S0110,FY23,,total_revenue,1650000000,INR,INR,press-quoted-filing,standalone,no,2023-03-31,SRC01929,HIGH,Operating revenue Rs 165 Cr; loss Rs 45 Cr
+FIN00834,S0110,FY23,,net_loss,-4500000000,INR,INR,press-quoted-filing,standalone,no,2023-03-31,SRC01929,HIGH,Loss widened 2.36X from Rs 19 Cr in FY22
+FIN00835,S0110,FY24,,operating_revenue,2736000000,INR,INR,press-quoted-filing,standalone,no,2024-03-31,SRC01916,HIGH,Revenue Rs 273.6 Cr; loss Rs 58.6 Cr
+FIN00836,S0110,FY24,,net_loss,-5860000000,INR,INR,press-quoted-filing,standalone,no,2024-03-31,SRC01916,HIGH,Net loss widened 29.6%
+FIN00837,S0110,FY25,,operating_revenue,5180000000,INR,INR,press-quoted-filing,standalone,no,2025-03-31,SRC01912,HIGH,Revenue +89% YoY from Rs 274 Cr
+FIN00838,S0110,FY25,,total_income,5230000000,INR,INR,press-quoted-filing,standalone,no,2025-03-31,SRC01930,HIGH,Total income Rs 523 Cr (incl other income)
+FIN00839,S0110,FY25,,net_loss,-7200000000,INR,INR,press-quoted-filing,standalone,no,2025-03-31,SRC01912,HIGH,Loss widened 22% from FY24
+FIN00840,S0110,FY25,,current_assets,2910000000,INR,INR,press-quoted-filing,standalone,no,2025-03-31,SRC01930,HIGH,Including cash and bank balances of Rs 37 Cr
+FIN00841,S0110,FY26,,revenue_guidance,8500000000,INR,INR,management,standalone,no,,SRC01919,MEDIUM,Guided ~Rs 850 Cr for FY26; not yet filed
+FIN00842,S0111,FY25,,revenue (india entity),,INR Cr,INR,press-quoted-filing,,,,SRC01942,LOW,unparseable value text preserved: >1000
+FIN00843,S0112,FY24,,total_revenue,4232.0,crore,INR,press-quoted-filing,,,,SRC01948,MEDIUM,
+FIN00844,S0112,FY24,,pat,-217.1,crore,INR,press-quoted-filing,,,,SRC01948,MEDIUM,
+FIN00845,S0112,FY25,,operating_revenue,681.5,million,USD,press-quoted-filing,,,,SRC01947,MEDIUM,
+FIN00846,S0112,FY25,,total_revenue,692.8,million,USD,press-quoted-filing,,,,SRC01947,MEDIUM,
+FIN00847,S0112,FY25,,loss,-11.3,million,USD,press-quoted-filing,,,,SRC01947,MEDIUM,
+FIN00848,S0112,FY25,,revenue_standalone,4946.6,crore,INR,press-quoted-filing,,,,SRC01949,MEDIUM,
+FIN00849,S0112,FY25,,pat_standalone,-127.0,crore,INR,press-quoted-filing,,,,SRC01949,MEDIUM,
+FIN00850,S0114,FY26,,revenue from operations,3900.0,crore,INR,audited,,,,SRC01972,HIGH,
+FIN00851,S0114,FY26,,net loss,22.0,crore,INR,press-quoted-filing,,,,SRC01974,HIGH,
+FIN00852,S0114,FY25,,revenue from operations,2886.0,crore,INR,press-quoted-filing,,,,SRC01976,HIGH,
+FIN00853,S0115,,calendar year N/A,revenue,,N/A,INR,UNKNOWN,,,,SRC01979,LOW,unparseable value text preserved: UNKNOWN | calendar-year source stated as N/A; no FY mapping inferred
+FIN00854,S0116,FY26,,revenue from operations,4755.0,crore,INR,press-quoted-filing,,,,SRC01987,HIGH,
+FIN00855,S0116,FY26,,pat (profit after tax),126.0,crore,INR,press-quoted-filing,,,,SRC01987,HIGH,
+FIN00856,S0116,FY25,,revenue from operations,2938.0,crore,INR,press-quoted-filing,,,,SRC01992,HIGH,
+FIN00857,S0116,FY25,,revenue from operations (q1 fy27),1358.0,crore,INR,press-quoted-filing,,,,SRC01983,HIGH,
+FIN00858,S0117,FY24,,revenue,,USD,USD,press-quoted-filing,,,,SRC01999,MEDIUM,unparseable value text preserved: $7.86M
+FIN00859,S0118,FY25,,revenue,126.0,crore,INR,press-quoted-filing,,,,SRC02002,HIGH,
+FIN00860,S0118,FY25,,net profit,4.1,INR,INR,press-quoted-filing,,,,SRC02002,MEDIUM,
+FIN00861,S0118,FY23,,revenue,134.9,crore,INR,press-quoted-filing,,,,SRC02010,MEDIUM,
+FIN00862,S0118,FY23,,total_revenue,1310000000,INR,INR,press-quoted-filing,standalone,no,N/A,SRC02005,MEDIUM,FY23 revenue from operations: ₹131 Cr per Entrackr B1 article
+FIN00863,S0118,FY24,,total_revenue,865000000,INR,INR,press-quoted-filing,standalone,no,N/A,SRC02005,MEDIUM,FY24 revenue declined 34% to ₹86.5 Cr from ₹131 Cr FY23 per Entrackr
+FIN00864,S0118,FY24,,total_revenue,993000000,INR,INR,press-quoted-filing,standalone,no,N/A,SRC02009,MEDIUM,Inc42 Datalabs shows FY24 revenue as ₹99.3 Cr; conflicts with Entrackr's ₹86.5 Cr
+FIN00865,S0118,FY24,,net_profit,-1010000000,INR,INR,press-quoted-filing,standalone,no,N/A,SRC02005,MEDIUM,FY24 losses widened 84% to ₹101 Cr per Entrackr
+FIN00866,S0118,FY25,,total_revenue,1255000000,INR,INR,press-quoted-filing,standalone,no,N/A,SRC02009,MEDIUM,"FY25 revenue ₹125.5 Cr, up 26.4% YoY from ₹99.3 Cr FY24 per Inc42 Datalabs"
+FIN00867,S0118,FY25,,net_profit,346000000,INR,INR,press-quoted-filing,standalone,no,N/A,SRC02009,MEDIUM,FY25 PAT ₹34.6 Cr per Inc42 Datalabs; conflicts with Tracxn's ₹4.1M net profit
+FIN00868,S0118,FY25,,total_expenses,896000000,INR,INR,press-quoted-filing,standalone,no,N/A,SRC02009,MEDIUM,FY25 total expenses ₹89.6 Cr per Inc42 Datalabs
+FIN00869,S0118,FY25,,total_assets,5962000000,INR,INR,press-quoted-filing,standalone,no,N/A,SRC02009,MEDIUM,FY25 total assets ₹596.2 Cr per Inc42 Datalabs
+FIN00870,S0118,FY25,,ebitda,595000000,INR,INR,press-quoted-filing,standalone,no,N/A,SRC02009,MEDIUM,FY25 estimated EBITDA ₹59.5 Cr per Inc42 Datalabs
+FIN00871,S0119,FY25,Apr 2024 - Mar 2025,operating revenue,237.4,crore,INR,press-quoted-filing,,,,SRC02029,HIGH,
+FIN00872,S0119,FY25,Apr 2024 - Mar 2025,total revenue (incl other income),241.9,crore,INR,press-quoted-filing,,,,SRC02014,HIGH,
+FIN00873,S0119,FY25,Apr 2024 - Mar 2025,net loss,,INR Cr,INR,press-quoted-filing,,,,SRC02015,HIGH,unparseable value text preserved: -₹126 Cr
+FIN00874,S0119,FY24,Apr 2023 - Mar 2024,revenue,122.8,crore,INR,press-quoted-filing,,,,SRC02012,HIGH,
+FIN00875,S0119,FY25,,operating revenue,237.4,crore,INR,,,,,SRC02020,HIGH,Up 98% from Rs 120 Cr FY24
+FIN00876,S0119,FY25,,total revenue (incl other income),241.9,crore,INR,,,,,SRC02014,HIGH,Includes Rs 4.53 Cr interest/dividend income
+FIN00877,S0119,FY25,,net loss,-126,crore,INR,,,,,SRC02015,HIGH,Down from Rs 142.8 Cr loss in FY24
+FIN00878,S0119,FY25,,ebitda,-36,crore,INR,,,,,SRC02020,HIGH,"EBITDA margin -15.29%, improved from -80.11% FY24"
+FIN00879,S0119,FY25,,total expenses,350.6,crore,INR,,,,,SRC02020,HIGH,Up 36% from Rs 258.3 Cr FY24
+FIN00880,S0119,FY25,,revenue from rental,201,crore,INR,,,,,SRC02020,HIGH,85% of operating revenue
+FIN00881,S0119,FY25,,revenue from bike sales,22.67,crore,INR,,,,,SRC02020,HIGH,Yulu Wynn sales
+FIN00882,S0119,FY25,,revenue from manpower services,13.24,crore,INR,,,,,SRC02020,HIGH,"Supplying riders, field staff to clients"
+FIN00883,S0119,FY24,,operating revenue,122.79,crore,INR,,,,,SRC02022,HIGH,Up from Rs 46.58 Cr FY23
+FIN00884,S0119,FY24,,net loss,-142.83,crore,INR,,,,,SRC02022,HIGH,Up from Rs 94.88 Cr loss FY23
+FIN00885,S0119,FY23,,operating revenue,46.58,crore,INR,,,,,SRC02012,HIGH,Per VCCircle citing Tracxn
+FIN00886,S0119,FY21,,operating revenue,13.7,crore,INR,,,,,SRC02018,HIGH,Per MCA filings accessed by Mint
+FIN00887,S0120,FY25,UNKNOWN,revenue,,USD,USD,press-quoted-filing,,,,SRC02036,MEDIUM,unparseable value text preserved: $39.77M (₹330 Cr approx)
+FIN00888,S0120,FY25,,total_revenue,336,crore,INR,press-quoted-filing,standalone,no,,SRC02036,MEDIUM,"MCA entity revenue as of Mar 31, 2025"
+FIN00889,S0120,FY25,,total_revenue,39.77,million,USD,press-quoted-filing,standalone,no,,SRC02036,MEDIUM,Latest revenue USD figure
+FIN00890,S0120,FY24,,total_revenue,1100,crore,INR,estimate,standalone,no,,SRC02051,LOW,"Reported revenue up to Rs 1,100 Cr in FY24; net loss ~Rs 50 Cr"
+FIN00891,S0120,,calendar year 2024,arr,174.3,million,USD,estimate,standalone,no,,SRC02050,LOW,ARR estimate from Latka; up from $105.7M in 2023 | calendar-year source stated as 2024; no FY mapping inferred
+FIN00892,S0121,,UNKNOWN,revenue,,USD,USD,press-quoted-filing,,,,SRC02061,MEDIUM,unparseable value text preserved: $11.06M (latest revenue per Tracxn) | calendar-year source stated as UNKNOWN; no FY mapping inferred
+FIN00893,S0122,,UNKNOWN,revenue,,USD,USD,press-quoted-filing,,,,SRC02068,LOW,Very early-stage; revenue likely minimal as company focuses on manufacturing scale-up | unparseable value text preserved: $207K (latest revenue per Tracxn) | ca
+FIN00894,S0123,FY25,Apr 2024 - Mar 2025,revenue,206.0,crore,INR,press-quoted-filing,,,,SRC02076,HIGH,"Annual Revenue as on Mar 31, 2025"
+FIN00895,S0123,FY24,Apr 2023 - Mar 2024,revenue,83.0,INR Cr,INR,press-quoted-filing,,,,SRC02074,HIGH,Revenue grew +486.6% from previous FY
+FIN00896,S0123,FY25,Apr 2024 - Mar 2025,loss,73.0,crore,INR,press-quoted-filing,,,,SRC02076,HIGH,Loss widened 33% YoY
+FIN00897,S0123,FY25,,revenue_from_operations,199,crore,INR,press-quoted-filing,standalone,no,2025-12-26,SRC02082,HIGH,Revenue from operations surged 2.4x from ₹83 Cr in FY24
+FIN00898,S0123,FY25,,total_income,206,crore,INR,press-quoted-filing,standalone,no,2025-12-26,SRC02082,HIGH,Including other income of ₹7 Cr
+FIN00899,S0123,FY25,,net_loss,73,crore,INR,press-quoted-filing,standalone,no,2025-12-26,SRC02082,HIGH,Loss widened 38% from ₹55 Cr in FY24
+FIN00900,S0123,FY25,,total_expenses,279,crore,INR,press-quoted-filing,standalone,no,2025-12-26,SRC02082,HIGH,Marketing was 38% of total expenditure at ₹106 Cr
+FIN00901,S0123,FY24,,revenue_from_operations,83,crore,INR,press-quoted-filing,standalone,no,2025-12-26,SRC02082,HIGH,Prior year revenue
+FIN00902,S0123,FY24,,net_loss,55,crore,INR,press-quoted-filing,standalone,no,2025-12-26,SRC02082,HIGH,Prior year loss
+FIN00903,S0123,FY25,,cash_and_bank_balances,166,crore,INR,press-quoted-filing,standalone,no,2025-12-26,SRC02082,HIGH,Rose from ₹43 Cr in FY24
+FIN00904,S0123,FY25,,marketing_expense,106,crore,INR,press-quoted-filing,standalone,no,2025-12-26,SRC02082,HIGH,38% of total expenditure
+FIN00905,S0123,FY25,,employee_benefit_expenses,31,crore,INR,press-quoted-filing,standalone,no,2025-12-26,SRC02082,HIGH,Increased 55% YoY
+FIN00906,S0126,FY24,,operating revenue,243,crore,INR,press-quoted-filing,,,,SRC02113,MEDIUM,
+FIN00907,S0126,FY25,,operating revenue (management-quoted),520,crore,INR,management,,,,SRC02103,MEDIUM,
+FIN00908,S0126,FY24,,operating revenue,243,crore,INR,press-quoted-filing,standalone,no,2025-06-02,SRC02113,MEDIUM,Rs 243 Cr operating revenue; Rs 4.39 Cr profit per Entrackr
+FIN00909,S0126,FY25,,operating revenue,498,crore,INR,press-quoted-filing,standalone,no,2026-04-11,SRC02106,MEDIUM,Rs 498 Cr per Inc42; Rs 505.75 Cr per Instagram/pedia report; net loss Rs 1.7 Cr in FY25
+FIN00910,S0126,FY25,,net profit,-1.7,crore,INR,management,standalone,no,2026-04-11,SRC02106,MEDIUM,Net loss of Rs 1.7 Cr in FY25 per CEO Siddharth Dungarwal
+FIN00911,S0126,FY26,,operating revenue,900,crore,INR,management,standalone,no,2026-04-11,SRC02106,MEDIUM,Rs 900 Cr unaudited; 80% YoY growth from Rs 498 Cr
+FIN00912,S0126,FY26,,ebitda,22.5,crore,INR,management,standalone,no,2026-04-11,SRC02106,MEDIUM,"EBITDA margin 2-3%, translating to ~Rs 18-27 Cr; midpoint Rs 22.5 Cr"
+FIN00913,S0126,FY27,,revenue target,1400,crore,INR,management,standalone,no,2026-04-11,SRC02106,MEDIUM,"Target of ~Rs 1,400 Cr for FY27 per CEO"
+FIN00914,S0128,FY25,,total_revenue,10,crore,INR,press-quoted-filing,standalone,no,2025-09-27,SRC02127,MEDIUM,"Tofler/MCA: Revenue <₹10 Cr as on Mar 31, 2025; exact figure behind paywall"
+FIN00915,S0128,FY25,,authorized_share_capital,1.15,crore,INR,press-quoted-filing,standalone,no,2025-09-27,SRC02127,HIGH,MCA authorized share capital INR 1.15 cr
+FIN00916,S0128,FY25,,paidup_capital,1.14,crore,INR,press-quoted-filing,standalone,no,2025-09-27,SRC02127,HIGH,MCA paid-up capital INR 1.14 cr
+FIN00917,S0130,FY25,,operating_revenue,238.9,crore,INR,press-quoted-filing,,,,SRC02140,MEDIUM,
+FIN00918,S0130,FY25,,total_revenue,238.9,crore,INR,press-quoted-filing,standalone,no,,SRC02146,HIGH,Revenue grew 33.9% YoY from Rs 178.4cr in FY24
+FIN00919,S0130,FY25,,net_profit,-68.3,crore,INR,press-quoted-filing,standalone,no,,SRC02146,HIGH,Net loss of Rs 68.3cr; not profitable in FY25
+FIN00920,S0130,FY25,,total_expenses,307.2,crore,INR,press-quoted-filing,standalone,no,,SRC02146,MEDIUM,Total expenses Rs 307.2cr per Inc42 Datalabs
+FIN00921,S0130,FY25,,ebitda,-57.7,crore,INR,estimate,standalone,no,,SRC02146,MEDIUM,"Estimated EBITDA derived from profit before tax, finance costs, and D&A"
+FIN00922,S0130,FY24,,total_revenue,177.0,crore,INR,press-quoted-filing,standalone,no,,SRC02145,HIGH,Revenue from operations for FY ending March 2024
+FIN00923,S0130,FY24,,net_profit,-49.65,crore,INR,press-quoted-filing,standalone,no,,SRC02145,HIGH,Loss nearly doubled from FY23
+FIN00924,S0130,FY23,,total_revenue,110.0,crore,INR,press-quoted-filing,standalone,no,,SRC02145,HIGH,Revenue from operations for FY ending March 2023
+FIN00925,S0130,FY25,,total_assets,203.2,crore,INR,press-quoted-filing,standalone,no,,SRC02146,MEDIUM,Total assets per Inc42 Datalabs
+FIN00926,S0130,FY25,,net_profit_margin,-28.6,percent,INR,estimate,standalone,no,,SRC02146,MEDIUM,Net profit margin -28.6%
+FIN00927,S0131,FY25,,operating_revenue,14.42,crore,INR,press-quoted-filing,,,,SRC02160,MEDIUM,
+FIN00928,S0131,FY25,,net_loss,7.17,crore,INR,press-quoted-filing,,,,SRC02160,MEDIUM,
+FIN00929,S0134,,calendar year 2024,revenue,202.6,USD,USD,estimate,,,,SRC02192,LOW,"Third-party estimate, not company-reported; flagged as estimate. | calendar-year source stated as 2024; no FY mapping inferred"
+FIN00930,S0134,FY25,,total_revenue,372.9,crore,INR,press-quoted-filing,standalone,no,2025-09-30,SRC02184,MEDIUM,Inc42 reports Rs 372.9 Cr+ FY24 revenue
+FIN00931,S0134,FY25,,total_revenue,100,crore,INR,estimate,standalone,no,2025-03-31,SRC02178,MEDIUM,"Tracxn: between Rs 100 Cr and Rs 500 Cr for FY ending Mar 31, 2025"
+FIN00932,S0134,,calendar year 2024,arr,202.6,million,USD,estimate,consolidated,yes,2024-10-01,SRC02181,LOW,Third-party estimate; up from $124.4M in 2023 | calendar-year source stated as 2024; no FY mapping inferred
+FIN00933,S0134,,calendar year 2023,arr,124.4,million,USD,estimate,consolidated,yes,2023-11-01,SRC02181,LOW,Third-party estimate | calendar-year source stated as 2023; no FY mapping inferred
+FIN00934,S0134,,calendar year 2022,arr,115.4,million,USD,estimate,consolidated,yes,2022-02-01,SRC02181,LOW,Third-party estimate | calendar-year source stated as 2022; no FY mapping inferred
+FIN00935,S0134,,calendar year 2021,arr,33.7,million,USD,estimate,consolidated,yes,2021-01-01,SRC02181,LOW,Third-party estimate | calendar-year source stated as 2021; no FY mapping inferred
+FIN00936,S0134,,calendar year 2020,arr,24,million,USD,estimate,consolidated,yes,2020-10-01,SRC02181,LOW,Third-party estimate | calendar-year source stated as 2020; no FY mapping inferred
+FIN00937,S0135,FY25,,revenue,8932.0,INR Cr,INR,press-quoted-filing,,,,SRC02212,HIGH,
+FIN00938,S0135,FY25,,pat,162.0,INR Cr,INR,press-quoted-filing,,,,SRC02212,HIGH,First full year of PAT profitability.
+FIN00939,S0135,Q1FY27,,revenue,2931.0,INR Cr,INR,audited,,,,SRC02213,HIGH,
+FIN00940,S0135,FY24,,total_revenue,8142,crore,INR,press-quoted-filing,consolidated,yes,,SRC02212,HIGH,
+FIN00941,S0135,FY24,,net_profit,-249,crore,INR,press-quoted-filing,consolidated,yes,,SRC02212,HIGH,
+FIN00942,S0135,FY24,,ebitda,127,crore,INR,press-quoted-filing,consolidated,yes,,SRC02212,HIGH,
+FIN00943,S0135,FY25,,total_revenue,8932,crore,INR,press-quoted-filing,consolidated,yes,,SRC02212,HIGH,
+FIN00944,S0135,FY25,,net_profit,162,crore,INR,press-quoted-filing,consolidated,yes,,SRC02212,HIGH,
+FIN00945,S0135,FY25,,ebitda,376,crore,INR,press-quoted-filing,consolidated,yes,,SRC02212,HIGH,
+FIN00946,S0135,FY26,,total_revenue,10508,crore,INR,audited,consolidated,yes,,SRC02214,HIGH,
+FIN00947,S0135,FY26,,net_profit,153,crore,INR,audited,consolidated,yes,,SRC02214,HIGH,
+FIN00948,S0135,FY26,,ebitda,640,crore,INR,audited,consolidated,yes,,SRC02214,HIGH,
+FIN00949,S0135,Q1FY26,,total_revenue,2294,crore,INR,press-quoted-filing,consolidated,yes,,SRC02226,HIGH,
+FIN00950,S0135,Q1FY26,,net_profit,91,crore,INR,press-quoted-filing,consolidated,yes,,SRC02226,HIGH,
+FIN00951,S0135,Q2FY26,,total_revenue,2559,crore,INR,press-quoted-filing,consolidated,yes,,SRC02222,HIGH,
+FIN00952,S0135,Q2FY26,,net_profit,-50,crore,INR,press-quoted-filing,consolidated,yes,,SRC02222,HIGH,
+FIN00953,S0135,Q3FY26,,total_revenue,2798,crore,INR,press-quoted-filing,consolidated,yes,,SRC02216,HIGH,
+FIN00954,S0135,Q3FY26,,net_profit,40,crore,INR,press-quoted-filing,consolidated,yes,,SRC02216,HIGH,
+FIN00955,S0135,Q3FY26,,ebitda,234,crore,INR,press-quoted-filing,consolidated,yes,,SRC02216,HIGH,
+FIN00956,S0135,Q4FY26,,total_revenue,2850,crore,INR,audited,consolidated,yes,,SRC02214,HIGH,
+FIN00957,S0135,Q4FY26,,net_profit,72,crore,INR,audited,consolidated,yes,,SRC02214,HIGH,
+FIN00958,S0135,Q4FY26,,ebitda,214,crore,INR,audited,consolidated,yes,,SRC02214,HIGH,
+FIN00959,S0135,Q1FY27,,total_revenue,2931,crore,INR,audited,consolidated,yes,,SRC02213,HIGH,
+FIN00960,S0135,Q1FY27,,net_profit,32,crore,INR,audited,consolidated,yes,,SRC02213,HIGH,
+FIN00961,S0136,FY23,,revenue,4.73,INR Cr,INR,press-quoted-filing,,,,SRC02232,MEDIUM,
+FIN00962,S0137,,calendar year 2025,revenue,838.8,USD M,USD,audited,,,,SRC02241,HIGH,calendar-year source stated as 2025; no FY mapping inferred
+FIN00963,S0137,,calendar year Q4 2025,revenue,222.7,USD M,USD,audited,,,,SRC02241,HIGH,calendar-year source stated as Q4 2025; no FY mapping inferred
+FIN00964,S0138,FY25,,revenue,6463.0,INR Cr,INR,management,,,,SRC02249,HIGH,
+FIN00965,S0138,FY25,,pat,623.0,INR Cr,INR,management,,,,SRC02249,HIGH,
+FIN00966,S0138,FY25,,adjusted ebitda,1132.0,INR Cr,INR,management,,,,SRC02249,HIGH,
+FIN00967,S0138,FY25,,total_revenue,6253,crore,INR,press-quoted-filing,consolidated,yes,2026-02-06,SRC02251,HIGH,MCA filing; revenue grew ~20% YoY
+FIN00968,S0138,FY25,,pat,245,crore,INR,press-quoted-filing,consolidated,yes,2026-02-06,SRC02251,HIGH,Driven by deferred tax gain of ~Rs 767 Cr; loss before tax Rs 500 Cr
+FIN00969,S0138,FY25,,adjusted_ebitda,1132,crore,INR,management,consolidated,yes,,SRC02257,MEDIUM,Management-quoted at townhall; up 27% from Rs 889 Cr FY24
+FIN00970,S0138,FY25,,total_expenses,6660,crore,INR,press-quoted-filing,consolidated,yes,2026-02-06,SRC02251,HIGH,"Up from Rs 5,726 Cr FY24"
+FIN00971,S0138,FY25,,finance_costs,959,crore,INR,press-quoted-filing,consolidated,yes,2026-02-06,SRC02251,HIGH,Up from Rs 844 Cr FY24
+FIN00972,S0138,FY25,,depreciation_amortisation,484,crore,INR,press-quoted-filing,consolidated,yes,2026-02-06,SRC02251,HIGH,Up from Rs 200 Cr FY24
+FIN00973,S0138,FY25,,deferred_tax_gain,767,crore,INR,press-quoted-filing,consolidated,yes,2026-02-06,SRC02251,HIGH,"Key driver of PAT; without it, loss before tax Rs 500 Cr"
+FIN00974,S0138,FY25,,gross_booking_value,16436,crore,INR,management,consolidated,yes,,SRC02257,MEDIUM,54% rise YoY; driven by premium offerings and G6 integration
+FIN00975,S0138,FY24,,pat,229.6,crore,INR,press-quoted-filing,consolidated,yes,,SRC02256,HIGH,First profitable year
+FIN00976,S0138,FY24,,adjusted_ebitda,889,crore,INR,management,consolidated,yes,,SRC02257,MEDIUM,Management-quoted
+FIN00977,S0138,FY26 (9M),,india_gbv,2731.7,crore,INR,DRHP,consolidated,yes,2026-07,SRC02258,HIGH,India <12% of global GBV for 9M FY26
+FIN00978,S0138,FY26 (9M),,us_gbv,12022.5,crore,INR,DRHP,consolidated,yes,2026-07,SRC02258,HIGH,US >52% of global GBV for 9M FY26
+FIN00979,S0138,FY26 (9M),,europe_gbv_share,18,percent,INR,DRHP,consolidated,yes,2026-07,SRC02258,HIGH,Europe ~18% of global GBV
+FIN00980,S0139,FY26,,operating revenue,6794,INR Cr,INR,audited,,,,SRC02272,HIGH,
+FIN00981,S0139,FY26,,pat,670,INR Cr,INR,audited,,,,SRC02272,HIGH,
+FIN00982,S0139,FY26,,total insurance premium,29934,INR Cr,INR,press-quoted-filing,,,,SRC02272,HIGH,
+FIN00983,S0140,FY25,,revenue,,USD,USD,estimate,,,,SRC02279,LOW,
+FIN00984,S0140,,calendar year 2025,total funding raised,898,USD M,USD,press-quoted-filing,,,,SRC02278,HIGH,calendar-year source stated as 2025; no FY mapping inferred
+FIN00985,S0141,FY26,,revenue from operations,528,INR Cr (Q1 FY27),INR,press-quoted-filing,,,,SRC02287,HIGH,
+FIN00986,S0141,FY26,,net loss (q4 fy26),161.2,INR Cr,INR,press-quoted-filing,,,,SRC02288,HIGH,
+FIN00987,S0141,FY26,,"adjusted ebitda (ex instahelp, fy26)",106,INR Cr,INR,press-quoted-filing,,,,SRC02286,HIGH,
+FIN00988,S0142,FY26,,consolidated revenue from operations,54364,INR Cr,INR,audited,,,,SRC02293,HIGH,
+FIN00989,S0142,FY26,,consolidated ebitda,1208,INR Cr,INR,audited,,,,SRC02293,HIGH,
+FIN00990,S0142,FY26,,consolidated pat,366,INR Cr,INR,audited,,,,SRC02293,HIGH,
+FIN00991,S0142,FY26,,b2c nov,95959,INR Cr,INR,press-quoted-filing,,,,SRC02293,HIGH,
+FIN00992,S0143,FY25,,revenue,7.1,INR Cr,INR,press-quoted-filing,,,,SRC02300,MEDIUM,
+FIN00993,S0143,FY24,,revenue,0.018,INR Cr,INR,press-quoted-filing,,,,SRC02300,MEDIUM,
+FIN00994,S0144,,calendar year 2025,annualized_revenue,48.3,,USD,management,,,,SRC02306,,calendar-year source stated as 2025; no FY mapping inferred
+FIN00995,S0144,FY25,,annualized_revenue,26.5,million,USD,management,standalone,,2025-03-31,SRC02316,MEDIUM,"As of March 2025, annualized revenue surpassed $26.5M"
+FIN00996,S0144,FY25,,annualized_revenue,48.3,million,USD,management,standalone,,2025-09-30,SRC02306,MEDIUM,Reported as $48.3M annualized revenue at Sep 2025
+FIN00997,S0144,FY26,,annualized_revenue,85.8,million,USD,management,standalone,,2026-03-31,SRC02310,HIGH,$85.8M annualized platform revenue as of Mar 2026 investor update; trajectory to $150M by Dec 2027
+FIN00998,S0144,FY25,,annualized_revenue,50,crore,INR,estimate,standalone,,2025-03-31,SRC02309,LOW,"Tracxn estimates ₹50-100 Cr revenue as of Mar 31, 2025"
+FIN00999,S0145,FY25,,operating_revenue,141.5,crore,INR,press-quoted-filing,,,,SRC02327,,
+FIN01000,S0145,FY25,,net_loss,38.8,crore,INR,press-quoted-filing,,,,SRC02327,,
+FIN01001,S0145,FY24,,operating_revenue,1150000000,lakh,INR,press-quoted-filing,standalone,no,2025-03-31,SRC02327,HIGH,FY24 revenue Rs 11.5 Cr per Entrackr; 12.3X growth to FY25
+FIN01002,S0145,FY24,,net_loss,485000000,lakh,INR,press-quoted-filing,standalone,no,2025-03-31,SRC02327,MEDIUM,FY24 loss estimated from 8X growth to FY25 loss of Rs 38.8 Cr
+FIN01003,S0145,FY25,,operating_revenue,1415000000,lakh,INR,press-quoted-filing,standalone,no,2026-03-31,SRC02327,HIGH,12.3X YoY growth from FY24 Rs 11.5 Cr; per RoC filing
+FIN01004,S0145,FY25,,net_loss,388000000,lakh,INR,press-quoted-filing,standalone,no,2026-03-31,SRC02327,HIGH,Loss up 8X YoY; marketing spend Rs 134.2 Cr drove losses
+FIN01005,S0145,FY25,,marketing_expense,1342000000,lakh,INR,press-quoted-filing,standalone,no,2026-03-31,SRC02327,HIGH,75% of total expenses; up 11.5X from FY24 Rs 11.6 Cr
+FIN01006,S0145,FY25,,total_expenses,1792000000,lakh,INR,press-quoted-filing,standalone,no,2026-03-31,SRC02327,HIGH,Up 9X from FY24 Rs 19.4 Cr
+FIN01007,S0145,FY25,,employee_benefits,234000000,lakh,INR,press-quoted-filing,standalone,no,2026-03-31,SRC02327,HIGH,Includes SARs worth Rs 14.3 Cr (non-cash)
+FIN01008,S0145,FY25,,content_creation_expense,104000000,lakh,INR,press-quoted-filing,standalone,no,2026-03-31,SRC02327,HIGH,Up 10X from FY24
+FIN01009,S0145,FY25,,cash_and_bank_balance,402000000,lakh,INR,press-quoted-filing,standalone,no,2026-03-31,SRC02327,HIGH,As of March 2025
+FIN01010,S0145,FY25,,current_assets,933000000,lakh,INR,press-quoted-filing,standalone,no,2026-03-31,SRC02327,HIGH,As of March 2025
+FIN01011,S0145,FY25,,total_income,1435000000,lakh,INR,press-quoted-filing,standalone,no,2026-03-31,SRC02327,HIGH,Includes Rs 1.9 Cr non-operating income (interest)
+FIN01012,S0147,FY25,,surgeries facilitated value,150.0,crore,INR,management,,,,SRC02363,,
+FIN01013,S0148,,calendar year 2026,annualized revenue run-rate,300.0,crore,INR,management,,,,SRC02370,,calendar-year source stated as 2026; no FY mapping inferred
+FIN01014,S0148,FY25,,total_revenue,10,crore,INR,press-quoted-filing,standalone,no,2025-03-31,SRC02384,MEDIUM,"MCA21 filing shows <Rs 10Cr for FY ending Mar 31, 2025; company was barely operational"
+FIN01015,S0148,FY26,,annualized_revenue_run_rate,300,crore,INR,management,standalone,no,2026-01-22,SRC02373,MEDIUM,Management-stated ARR as of Jan 2026
+FIN01016,S0148,FY26,,annualized_revenue_run_rate,400,crore,INR,management,standalone,no,2026-06-10,SRC02374,MEDIUM,Management target/stated run rate as of Jun 2026; also ~Rs 175Cr revenue by end of first full year
+FIN01017,S0149,FY26,,"{'v': 'operating revenue', 'value': '327.3 cr', 'unit': 'inr cr', 'value_type': 'audited', 'source_url': 'https://inc42.com/buzz/lendingkart-finances-loss-widens-16-to-%e2%82%b9333-cr-in-fy26-revenue-falls-62/', 'source_title': ""lendingkart finance's loss widens 16% to ₹333 cr in fy26, revenue falls 62%"", 'source_date': '2026-05-29', 'confidence': 0.9}",,,INR,,,,,,,62% YoY decline from FY25
+FIN01018,S0149,FY26,,"{'v': 'net loss', 'value': '333.3 cr', 'unit': 'inr cr', 'value_type': 'audited', 'source_url': 'https://inc42.com/buzz/lendingkart-finances-loss-widens-16-to-%e2%82%b9333-cr-in-fy26-revenue-falls-62/', 'source_title': ""lendingkart finance's loss widens 16% to ₹333 cr in fy26, revenue falls 62%"", 'source_date': '2026-05-29', 'confidence': 0.9}",,,INR,,,,,,,16% YoY increase in loss
+FIN01019,S0149,FY25,,"{'v': 'operating revenue', 'value': '866.9 cr', 'unit': 'inr cr', 'value_type': 'audited', 'source_url': 'https://infomericstorage.blob.core.windows.net/uploads/pr_lending_kartf_4may26_e61b5fba8d.pdf', 'source_title': 'infomerics rating report - lendingkart finance', 'source_date': '2026-05-04', 'confidence': 0.9}",,,INR,,,,,,,
+FIN01020,S0149,FY25,,"{'v': 'net loss', 'value': '288.3 cr', 'unit': 'inr cr', 'value_type': 'audited', 'source_url': 'https://infomericstorage.blob.core.windows.net/uploads/pr_lending_kartf_4may26_e61b5fba8d.pdf', 'source_title': 'infomerics rating report - lendingkart finance', 'source_date': '2026-05-04', 'confidence': 0.9}",,,INR,,,,,,,
+FIN01021,S0149,9MFY26,,"{'v': 'aum', 'value': '2548.37 cr', 'unit': 'inr cr', 'value_type': 'audited', 'source_url': 'https://infomericstorage.blob.core.windows.net/uploads/pr_lending_kartf_4may26_e61b5fba8d.pdf', 'source_title': 'infomerics rating report - lendingkart finance', 'source_date': '2026-05-04', 'confidence': 0.9}",,,INR,,,,,,,Down from 7253 Cr in FY24
+FIN01022,S0150,FY2025,,"{'v': 'revenue', 'value': '<10 cr', 'unit': 'inr cr', 'value_type': 'press-quoted-filing', 'source_url': 'https://tracxn.com/d/legal-entities/india/pb-healthcare-services-private-limited/__zgvp0_ay1p9bbdd0qvxitc1plyjtcpfjeypb8-xiabe', 'source_title': 'pb healthcare services private limited - tracxn', 'source_date': '2026-07-07', 'confidence': 0.8, 'notes': 'incorporated jan 2025, minimal revenue in first year'}",,,INR,,,,,,,
+FIN01023,S0150,FY2025,,"{'v': 'paid-up capital', 'value': '1896.65 cr', 'unit': 'inr cr', 'value_type': 'press-quoted-filing', 'source_url': 'https://www.thecompanycheck.com/company/pb-healthcare-services-private-limited/u86100hr2025ptc127240', 'source_title': 'pb healthcare services private limited - 2026 insights', 'source_date': '2025-12-22', 'confidence': 0.9, 'notes': 'from seed round capital infusion'}",,,INR,,,,,,,
+FIN01024,S0151,FY2025,,"{'v': 'revenue', 'value': 'inr 10-50 cr', 'unit': 'inr cr', 'value_type': 'press-quoted-filing', 'source_url': 'https://tracxn.com/d/companies/augnito/__jasgsbudqdhdjjm4vezpkwkhub91kkgsvk3qyocogs0', 'source_title': 'augnito - 2026 company profile & team', 'source_date': '2026-08-11', 'confidence': 0.7, 'notes': 'range as per tracxn/mca'}",,,INR,,,,,,,
+FIN01025,S0151,FY2024,,"{'v': 'revenue', 'value': 'inr 1-25 cr', 'unit': 'inr cr', 'value_type': 'press-quoted-filing', 'source_url': 'https://www.tofler.in/augnito-india-private-limited/company/u72900mh2022ptc377129', 'source_title': 'augnito india financials | tofler', 'source_date': '2026-07-15', 'confidence': 0.7, 'notes': 'per tofler'}",,,INR,,,,,,,
+FIN01026,S0152,FY2025,,"{'v': 'revenue', 'value': '0-10 cr', 'unit': 'inr cr', 'value_type': 'press-quoted-filing', 'source_url': 'https://tracxn.com/d/companies/c2i-semiconductors/__u09_himqrptui4mgnk0lssahva6lhfoc0txg3qwve-a', 'source_title': 'c2i semiconductors - 2026 company profile', 'source_date': '2026-08-26', 'confidence': 0.7, 'notes': 'pre-revenue stage, product development'}",,,INR,,,,,,,
+FIN01027,S0152,FY2025,,"{'v': 'total funding raised', 'value': '$35.7m', 'unit': 'usd', 'value_type': 'press-quoted-filing', 'source_url': 'https://tracxn.com/d/companies/c2i-semiconductors/__u09_himqrptui4mgnk0lssahva6lhfoc0txg3qwve-a', 'source_title': 'c2i semiconductors - 2026 company profile', 'source_date': '2026-08-26', 'confidence': 0.9, 'notes': 'seed + series a'}",,,INR,,,,,,,
+FIN01028,S0153,FY2025,,"{'v': 'revenue', 'value': '$0-1m (as per mca)', 'unit': 'usd', 'value_type': 'press-quoted-filing', 'source_url': 'https://tracxn.com/d/companies/cynlr/__fargubod0qh_fickfjlxvcfr60xflpmnhmotj8wgiac', 'source_title': 'cynlr - 2026 company profile', 'source_date': '2026-09-05', 'confidence': 0.6, 'notes': 'mca filing shows low revenue; linkedin shows $1.1m annual revenue'}",,,INR,,,,,,,
+FIN01029,S0153,,calendar year 2025,"{'v': 'annual revenue', 'value': '$1.1m', 'unit': 'usd', 'value_type': 'press-quoted-filing', 'source_url': 'https://www.linkedin.com/company/cyn-lr', 'source_title': 'cynlr linkedin', 'source_date': '2026-06-27', 'confidence': 0.7, 'notes': 'linkedin profile data'}",,,INR,,,,,,,calendar-year source stated as 2025; no FY mapping inferred
+FIN01030,S0153,,calendar year 2026,"{'v': 'arr', 'value': '$5.8m', 'unit': 'usd', 'value_type': 'estimate', 'source_url': 'https://www.linkedin.com/company/cyn-lr', 'source_title': 'getlatka via linkedin', 'source_date': '2026-08-13', 'confidence': 0.6, 'notes': 'reported via getlatka on linkedin'}",,,INR,,,,,,,calendar-year source stated as 2026; no FY mapping inferred
+FIN01031,S0153,FY2024,,total_revenue,3100000,INR,INR,audited,standalone,no,2024-03-31,SRC02425,HIGH,MCA records: revenue ₹3.1Cr (₹31M) as on Mar 31 2024; CAGR 174% YoY
+FIN01032,S0153,FY2025,,annual_revenue,1100000,USD,USD,press-quoted-filing,standalone,no,2026-06-27,SRC02420,MEDIUM,LinkedIn profile shows $1.1M annual revenue; conflicts with MCA ₹3.1Cr (~$374K)
+FIN01033,S0153,FY2026,,arr,5800000,USD,USD,estimate,standalone,no,2026-08-13,SRC02420,MEDIUM,Reported via GetLatka on LinkedIn; unverified
+FIN01034,S0153,FY2025,,annual_revenue_usd,650119,USD,USD,press-quoted-filing,standalone,no,2026-09-05,SRC02431,MEDIUM,"Tracxn shows latest revenue USD 650,119.19"
+FIN01035,S0153,FY2025,,revenue_range,2000000,USD,USD,estimate,standalone,no,2026-09-05,SRC02438,MEDIUM,CB Insights estimates 2025 revenue $2M-$3M
+FIN01036,S0154,FY25 (APR 2024-MAR 2025),,revenue,9.1,crore,INR,press-quoted-filing,,,,SRC02445,HIGH,
+FIN01037,S0154,FY25,,net loss,22.3,crore,INR,press-quoted-filing,,,,SRC02445,HIGH,
+FIN01038,S0154,FY24,,revenue,2.3,crore,INR,press-quoted-filing,,,,SRC02445,HIGH,
+FIN01039,S0154,FY25,,total_revenue,9.1,crore,INR,press-quoted-filing,standalone,no,,SRC02445,HIGH,
+FIN01040,S0154,FY25,,net_profit,-22.3,crore,INR,press-quoted-filing,standalone,no,,SRC02445,HIGH,
+FIN01041,S0154,FY24,,total_revenue,2.3,crore,INR,press-quoted-filing,standalone,no,,SRC02445,HIGH,
+FIN01042,S0155,FY25 (APR 2024-MAR 2025),,revenue from operations,67.02,crore,INR,audited,,,,SRC02462,HIGH,
+FIN01043,S0155,FY25,,total income,69.14,crore,INR,audited,,,,SRC02462,HIGH,
+FIN01044,S0155,FY25,,profit after tax,,INR,INR,audited,,,,SRC02462,HIGH,unparseable value text preserved: -₹4.68 Cr
+FIN01045,S0155,FY24,,revenue from operations,45.89,crore,INR,audited,,,,SRC02462,HIGH,
+FIN01046,S0156,FY25 (APR 2024-MAR 2025),,revenue,13.7,crore,INR,audited,,,,SRC02472,HIGH,
+FIN01047,S0156,FY25,,pat (net profit),3.39,crore,INR,audited,,,,SRC02472,HIGH,
+FIN01048,S0156,FY24,,revenue,14.67,crore,INR,audited,,,,SRC02472,HIGH,
+FIN01049,S0156,FY25,,revenue,16.4,crore,INR,press-quoted-filing,,,,SRC02477,MEDIUM,
+FIN01050,S0156,FY25,,total_revenue,13.7,crore,INR,audited,standalone,no,2025-09-30,SRC02472,HIGH,From registered-valuer report; MCA-derived
+FIN01051,S0156,FY25,,net_profit,3.39,crore,INR,audited,standalone,no,2025-09-30,SRC02472,HIGH,PAT from registered-valuer report
+FIN01052,S0156,FY24,,total_revenue,14.67,crore,INR,audited,standalone,no,2025-09-30,SRC02472,HIGH,Peak revenue year; EBITDA margin 43%
+FIN01053,S0156,FY25,,total_revenue,16.4,crore,INR,press-quoted-filing,standalone,no,,SRC02477,MEDIUM,Inc42 Datalabs figure; differs from MCA-registered-valuer figure of Rs 13.70 Cr
+FIN01054,S0156,FY25,,total_expenses,11.8,crore,INR,press-quoted-filing,standalone,no,,SRC02477,MEDIUM,Inc42 Datalabs
+FIN01055,S0156,FY25,,net_profit,3.4,crore,INR,press-quoted-filing,standalone,no,,SRC02477,MEDIUM,Inc42 Datalabs
+FIN01056,S0156,FY25,,total_assets,15.6,crore,INR,press-quoted-filing,standalone,no,,SRC02477,MEDIUM,Inc42 Datalabs
+FIN01057,S0156,FY25,,net_profit_margin,20.7,percent,INR,press-quoted-filing,standalone,no,,SRC02477,MEDIUM,Inc42 Datalabs
+FIN01058,S0156,FY24,,total_revenue,8.614,crore,INR,audited,standalone,no,,SRC02471,MEDIUM,Tracxn financial statement summary (in lakhs: 8614)
+FIN01059,S0157,FY24,,total_revenue,63000000,rupees,INR,press-quoted-filing,standalone,no,2025-05-31,SRC02483,HIGH,₹6.3 Cr revenue in FY24 per Inc42; FY24 = Apr 2023-Mar 2024
+FIN01060,S0157,FY24,,net_profit,-63000000,rupees,INR,press-quoted-filing,standalone,no,2025-05-31,SRC02483,HIGH,Net loss ₹6.3 Cr in FY24 per Inc42
+FIN01061,S0157,FY25,,total_revenue,155000000,rupees,INR,press-quoted-filing,standalone,no,2025-05-31,SRC02483,HIGH,"₹15.5 Cr revenue in FY25, up 143.7% from FY24; FY25 = Apr 2024-Mar 2025"
+FIN01062,S0157,FY25,,net_profit,-133000000,rupees,INR,press-quoted-filing,standalone,no,2025-05-31,SRC02483,HIGH,"Net loss ₹13.3 Cr in FY25, more than doubled from FY24"
+FIN01063,S0158,FY25 (APR 2024-MAR 2025),,operating revenue,404.0,crore,INR,press-quoted-filing,,,,SRC02495,HIGH,
+FIN01064,S0158,FY25,,net loss,135.0,crore,INR,press-quoted-filing,,,,SRC02495,HIGH,
+FIN01065,S0158,FY24,,operating revenue,505.0,crore,INR,press-quoted-filing,,,,SRC02495,HIGH,
+FIN01066,S0158,FY24,,net loss,68.0,crore,INR,press-quoted-filing,,,,SRC02495,HIGH,
+FIN01067,S0158,FY26,,revenue (reported),,INR,INR,press-quoted-filing,,,,SRC02498,MEDIUM,unparseable value text preserved: ~$380 Cr
+FIN01068,S0158,FY25,,total_revenue,4040000000,INR,INR,press-quoted-filing,standalone,no,2026-09-01,SRC02495,HIGH,Operating revenue declined ~20% from FY24
+FIN01069,S0158,FY25,,net_loss,1350000000,INR,INR,press-quoted-filing,standalone,no,2026-09-01,SRC02495,HIGH,Net loss nearly doubled from FY24
+FIN01070,S0158,FY25,,ebitda_loss,1160000000,INR,INR,press-quoted-filing,standalone,no,2026-09-04,SRC02497,HIGH,EBITDA loss more than doubled from FY24's ₹48.5 Cr
+FIN01071,S0158,FY24,,total_revenue,5050000000,INR,INR,press-quoted-filing,standalone,no,2026-09-08,SRC02495,HIGH,
+FIN01072,S0158,FY24,,net_loss,680000000,INR,INR,press-quoted-filing,standalone,no,2026-09-08,SRC02495,HIGH,
+FIN01073,S0158,FY24,,ebitda_loss,485000000,INR,INR,press-quoted-filing,standalone,no,2026-09-04,SRC02497,HIGH,
+FIN01074,S0158,FY26,,total_revenue,3800000000,INR,INR,press-quoted-filing,standalone,no,2026-09-04,SRC02498,MEDIUM,FY26 revenue reported at roughly ₹380 Cr; not yet formally filed as of Sep 2026
+FIN01075,S0158,FY22-FY26,,cumulative_losses,3750000000,INR,INR,press-quoted-filing,standalone,no,2026-09-04,SRC02498,MEDIUM,Cumulative losses across five years run to about ₹375 Cr; no profitable financial year recorded
+FIN01076,S0158,FY25,,valuation_report_date,2026.0,date,,filing,standalone,no,2026-06-30,SRC02497,HIGH,Registered valuer Sayali Deshkar wrote: 'sustained and worsening pattern of financial deterioration over the past two financial years'
+FIN01077,S0159,,calendar year 2025,revenue_est,31.0,,USD,estimate,,,,SRC02518,,calendar-year source stated as 2025; no FY mapping inferred
+FIN01078,S0159,FY25,,total_revenue,31,million,USD,estimate,standalone,no,,SRC02518,MEDIUM,Estimated ARR as of Dec 2025; GetLatka estimate
+FIN01079,S0159,FY25,,gmv_processed,1000,million,USD,press-quoted-filing,standalone,no,,SRC02508,HIGH,$1B+ in live commerce transactions processed
+FIN01080,S0161,FY26,,authorized_share_capital,100000,INR,INR,audited,standalone,no,2025-04-07,SRC02533,HIGH,Authorized capital INR 10.0 L per MCA/Tofler
+FIN01081,S0161,FY26,,paid_up_capital,10000,INR,INR,audited,standalone,no,2025-04-07,SRC02533,HIGH,Paid-up capital INR 1.0 L per MCA/Tofler
+FIN01082,S0162,FY24,,operating_revenue,119.0,crore,INR,press-quoted-filing,,,,SRC02557,,
+FIN01083,S0162,FY22,,operating_revenue,121800000,INR,INR,press-quoted-filing,standalone,no,,SRC02558,MEDIUM,Rs 12.18 crore per Entrackr
+FIN01084,S0162,FY24,,operating_revenue,1174400000,INR,INR,press-quoted-filing,standalone,no,,SRC02551,HIGH,Rs 117.44 crore per RoC filings via Entrackr
+FIN01085,S0162,FY23,,operating_revenue,532700000,INR,INR,press-quoted-filing,standalone,no,,SRC02558,MEDIUM,Rs 53.27 crore per RoC filings
+FIN01086,S0162,FY23,,net_loss,82100000,INR,INR,press-quoted-filing,standalone,no,,SRC02558,MEDIUM,Rs 8.21 crore loss per TheKredible
+FIN01087,S0162,FY24,,net_loss,42400000,INR,INR,press-quoted-filing,standalone,no,,SRC02543,HIGH,Rs 4.24 crore loss per RoC filings
+FIN01088,S0162,FY24,,total_income,1190000000,INR,INR,press-quoted-filing,standalone,no,,SRC02551,MEDIUM,Rs 119 crore total income
+FIN01089,S0162,FY25,,operating_revenue,2301500000,INR,INR,press-quoted-filing,standalone,no,,SRC02551,HIGH,Rs 230.15 crore per RoC filings
+FIN01090,S0162,FY25,,total_income,2400000000,INR,INR,press-quoted-filing,standalone,no,,SRC02551,HIGH,Rs 240 crore total income including Rs 10 crore interest
+FIN01091,S0162,FY25,,net_loss,101800000,INR,INR,press-quoted-filing,standalone,no,,SRC02543,HIGH,Rs 10.18 crore loss per RoC filings
+FIN01092,S0162,FY25,,total_expenses,2510000000,INR,INR,press-quoted-filing,standalone,no,,SRC02551,HIGH,Rs 251 crore total expenses
+FIN01093,S0162,FY25,,cost_of_procurement,1090000000,INR,INR,press-quoted-filing,standalone,no,,SRC02551,HIGH,"Rs 109 crore, 43% of total spend"
+FIN01094,S0162,FY25,,advertising_expense,460000000,INR,INR,press-quoted-filing,standalone,no,,SRC02551,HIGH,"Rs 46 crore, up 88% YoY"
+FIN01095,S0162,FY25,,employee_expense,250000000,INR,INR,press-quoted-filing,standalone,no,,SRC02551,HIGH,"Rs 25 crore, nearly doubled YoY"
+FIN01096,S0162,FY25,,cash_and_bank,725000000,INR,INR,press-quoted-filing,standalone,no,,SRC02551,HIGH,Rs 72.5 crore cash and bank balances
+FIN01097,S0162,FY25,,current_assets,2040000000,INR,INR,press-quoted-filing,standalone,no,,SRC02551,HIGH,Rs 204 crore current assets
+FIN01098,S0162,FY25,,roce,-11.61,percent,INR,press-quoted-filing,standalone,no,,SRC02551,HIGH,ROCE -11.61%
+FIN01099,S0162,FY25,,ebitda_margin,-6.52,percent,INR,press-quoted-filing,standalone,no,,SRC02551,HIGH,EBITDA margin -6.52%
+FIN01100,S0163,FY24,,operating_revenue,2531.0,crore,INR,press-quoted-filing,,,,SRC02562,,
+FIN01101,S0163,FY25,,net_loss,370.0,crore,INR,press-quoted-filing,,,,SRC02563,,
+FIN01102,S0163,FY23,,operating_revenue,2531,crore,INR,press-quoted-filing,consolidated,yes,,SRC02562,HIGH,Per RoC consolidated financials sourced by Entrackr
+FIN01103,S0163,FY24,,operating_revenue,2831,crore,INR,press-quoted-filing,consolidated,yes,,SRC02562,HIGH,"12% YoY growth from FY23 Rs 2,531 Cr"
+FIN01104,S0163,FY24,,net_loss,200,crore,INR,press-quoted-filing,consolidated,yes,,SRC02562,HIGH,Widened from Rs 180 Cr in FY23
+FIN01105,S0163,FY24,,ebitda,5,crore,INR,press-quoted-filing,consolidated,yes,,SRC02562,HIGH,EBITDA positive in FY24; EBITDA margin 0.17%
+FIN01106,S0163,FY24,,warehousing_revenue,48,crore,INR,press-quoted-filing,consolidated,yes,,SRC02562,HIGH,60X jump from Rs 0.77 Cr in FY23
+FIN01107,S0163,FY25,,net_loss,370,crore,INR,press-quoted-filing,consolidated,yes,,SRC02563,MEDIUM,BWDisrupt report; vs Rs 200 Cr FY24
+FIN01108,S0163,FY25,,total_revenue,1000,crore,INR,press-quoted-filing,standalone,no,,SRC02565,LOW,"Tracxn states Rs 1,000+ Cr as of Mar 31, 2025; exact figure unverified"
+FIN01109,S0163,FY24,,total_income,2940,crore,INR,press-quoted-filing,consolidated,yes,,SRC02562,HIGH,Includes Rs 109 Cr non-operating income
+FIN01110,S0164,FY25,,total_revenue,30.1,crore,INR,press-quoted-filing,standalone,no,,SRC02571,MEDIUM,Reported by ISN citing media reports; up from Rs 6.6Cr in FY24
+FIN01111,S0164,FY24,,total_revenue,6.6,crore,INR,press-quoted-filing,standalone,no,,SRC02571,MEDIUM,Prior year revenue
+FIN01112,S0164,FY25,,net_loss,11,crore,INR,press-quoted-filing,standalone,no,,SRC02571,MEDIUM,Net loss widened from Rs 5.8Cr in FY24
+FIN01113,S0164,FY24,,net_loss,5.8,crore,INR,press-quoted-filing,standalone,no,,SRC02571,MEDIUM,Prior year net loss
+FIN01114,S0164,FY25,,annual_revenue_range,10,crore,INR,estimate,standalone,no,,SRC02576,LOW,"Tracxn estimates revenue between Rs 10-50 Cr as of Mar 31, 2025"
+FIN01115,S0165,"FY26 (RUN-RATE, PRESS-QUOTED)",,revenue,,,INR,management,,,,SRC02587,,unparseable value text preserved: nearing 40cr
+FIN01116,S0165,FY25,,total_revenue,40,crore,INR,management,standalone,no,,SRC02587,MEDIUM,Nearing Rs 40 crore revenue per co-founder Sarthak Dubey; press-quoted management figure
+FIN01117,S0167,FY25,,revenue,2660000000,,INR,press-quoted-filing,,,,SRC02606,,
+FIN01118,S0167,FY25,,pat,431000000,,INR,press-quoted-filing,,,,SRC02606,,
+FIN01119,S0167,FY23,,total_revenue,1201.02,million,INR,press-quoted-filing,standalone,no,,SRC02607,HIGH,From DRHP financial table
+FIN01120,S0167,FY23,,pat,44.1,million,INR,press-quoted-filing,standalone,no,,SRC02607,HIGH,From DRHP financial table
+FIN01121,S0167,FY23,,ebitda_margin,42.73,percent,INR,press-quoted-filing,standalone,no,,SRC02607,HIGH,EBITDA margin per DRHP
+FIN01122,S0167,FY24,,total_revenue,1927.01,million,INR,press-quoted-filing,standalone,no,,SRC02607,HIGH,From DRHP financial table
+FIN01123,S0167,FY24,,pat,224.12,million,INR,press-quoted-filing,standalone,no,,SRC02607,HIGH,From DRHP financial table
+FIN01124,S0167,FY24,,ebitda_margin,39.92,percent,INR,press-quoted-filing,standalone,no,,SRC02607,HIGH,EBITDA margin per DRHP
+FIN01125,S0167,FY24,,ebitda,78.23,crore,INR,press-quoted-filing,standalone,no,,SRC02606,HIGH,EBITDA Rs 78.23cr in FY24 per Entrackr
+FIN01126,S0167,FY25,,total_revenue,2659.59,million,INR,press-quoted-filing,standalone,no,,SRC02607,HIGH,Rs 265.96cr per DRHP; Rs 266cr per Entrackr
+FIN01127,S0167,FY25,,pat,431.06,million,INR,press-quoted-filing,standalone,no,,SRC02607,HIGH,Rs 43.11cr per DRHP; Rs 43.1cr per Entrackr
+FIN01128,S0167,FY25,,ebitda,118.41,crore,INR,press-quoted-filing,standalone,no,,SRC02606,HIGH,EBITDA Rs 118.41cr in FY25 per Entrackr
+FIN01129,S0167,FY25,,ebitda_margin,43.55,percent,INR,press-quoted-filing,standalone,no,,SRC02607,HIGH,EBITDA margin per DRHP
+FIN01130,S0167,FY25,,roce,25.1,percent,INR,press-quoted-filing,standalone,no,,SRC02606,HIGH,Return on capital employed per company statement
+FIN01131,S0167,H1-FY26,,total_revenue,1766.1,million,INR,press-quoted-filing,standalone,no,,SRC02608,HIGH,"Six months ended Sep 30, 2025"
+FIN01132,S0167,H1-FY26,,pat,613.8,million,INR,press-quoted-filing,standalone,no,,SRC02608,HIGH,"Six months ended Sep 30, 2025"
+FIN01133,S0167,FY26,,total_revenue,3870,million,INR,press-quoted-filing,standalone,no,,SRC02609,MEDIUM,FY26 operating revenue Rs 387cr (+45.5% YoY) per Inc42
+FIN01134,S0167,FY26,,pat,1043,million,INR,press-quoted-filing,standalone,no,,SRC02609,MEDIUM,FY26 net profit Rs 104.3cr (+142% YoY) per Inc42
+FIN01135,S0168,Q4 FY26,,adjusted ebitda,370000000,,INR,management,,,,SRC02615,,
+FIN01136,S0168,Q4 FY26,,revenue (reported 674% yoy on inventory-model transition),132320000000,,INR,management,,,,SRC02616,,
+FIN01137,S0169,FY26,,total income,804.93,INR Cr,INR,press-quoted-filing,,,,SRC02621,HIGH,
+FIN01138,S0169,FY25,,total income,569.78,INR Cr,INR,press-quoted-filing,,,,SRC02621,HIGH,
+FIN01139,S0169,FY26,,profit after tax,40.46,INR Cr,INR,press-quoted-filing,,,,SRC02621,HIGH,
+FIN01140,S0169,FY26,,ebitda,692.18,INR Cr,INR,press-quoted-filing,,,,SRC02621,HIGH,
+FIN01141,S0169,FY26,,total borrowings,12920.54,INR Cr,INR,press-quoted-filing,,,,SRC02621,HIGH,
+FIN01142,S0170,,calendar year 2026,renewable energy capacity,2900,MW,N/A,management,,,,SRC02623,HIGH,calendar-year source stated as 2026; no FY mapping inferred
+FIN01143,S0170,,calendar year 2026,planned investment rajasthan,100000,INR Cr,INR,management,,,,SRC02628,MEDIUM,calendar-year source stated as 2026; no FY mapping inferred
+FIN01144,S0170,,calendar year 2026,target annual clean energy,50,billion units,N/A,management,,,,SRC02623,MEDIUM,calendar-year source stated as 2026; no FY mapping inferred
+FIN01145,S0171,FY25,,revenue,15226.76,INR Cr,INR,press-quoted-filing,,,,SRC02632,HIGH,
+FIN01146,S0171,FY24,,revenue,11247.39,INR Cr,INR,press-quoted-filing,,,,SRC02632,HIGH,
+FIN01147,S0171,FY23,,revenue,8264.6,INR Cr,INR,press-quoted-filing,,,,SRC02632,HIGH,
+FIN01148,S0171,FY22,,revenue,5704.9,INR Cr,INR,press-quoted-filing,,,,SRC02632,HIGH,
+FIN01149,S0171,FY25,,net loss,3114.23,INR Cr,INR,press-quoted-filing,,,,SRC02632,HIGH,
+FIN01150,S0171,FY24,,net loss,2343.63,INR Cr,INR,press-quoted-filing,,,,SRC02632,HIGH,
+FIN01151,S0171,FY26,,instamart loss,3835,INR Cr,INR,press-quoted-filing,,,,SRC02632,HIGH,
+FIN01152,S0171,FY26,,platform business profit (ex-instamart),416,INR Cr,INR,press-quoted-filing,,,,SRC02632,HIGH,
+FIN01153,S0171,Q2 FY26,,consolidated net loss,1092,INR Cr,INR,press-quoted-filing,,,,SRC02632,HIGH,
+FIN01154,S0172,FY25,,operating revenue,123,INR Cr,INR,press-quoted-filing,,,,SRC02638,HIGH,
+FIN01155,S0172,FY25,,profit,4.3,INR Cr,INR,press-quoted-filing,,,,SRC02638,HIGH,
+FIN01156,S0172,FY25,,revenue growth,23,% YoY,INR,press-quoted-filing,,,,SRC02638,HIGH,
+FIN01157,S0173,,calendar year 2025,funding raised,6.1,USD Mn,USD,press-quoted-filing,,,,SRC02644,HIGH,calendar-year source stated as 2025; no FY mapping inferred
+FIN01158,S0173,,calendar year PRE-2025,seed/bridge funding,1.8,USD Mn,USD,press-quoted-filing,,,,SRC02644,HIGH,calendar-year source stated as PRE-2025; no FY mapping inferred
+FIN01159,S0173,,calendar year 2025,revenue status,,N/A,N/A,management,,,,SRC02644,HIGH,unparseable value text preserved: Pre-revenue | calendar-year source stated as 2025; no FY mapping inferred
+FIN01160,S0174,FY25,,paid-up capital,312300,INR,INR,audited,,,,SRC02651,HIGH,
+FIN01161,S0174,FY26,,total funding raised,9000000,USD,USD,press-quoted-filing,,,,SRC02657,HIGH,
+FIN01162,S0175,FY25,,revenue,10.6,Cr INR,INR,press-quoted-filing,,,,SRC02664,HIGH,
+FIN01163,S0175,FY25,,net loss,983000,INR,INR,press-quoted-filing,,,,SRC02664,HIGH,
+FIN01164,S0175,FY25,,total funding raised,6150000,USD,USD,press-quoted-filing,,,,SRC02662,HIGH,
+FIN01165,S0176,FY24,,operating revenue range,1.0,crore,INR,press-quoted-filing,,,,SRC02667,MEDIUM,
+FIN01166,S0176,FY24,,authorized share capital,5260400000,INR,INR,audited,,,,SRC02673,HIGH,
+FIN01167,S0176,FY24,,paid-up capital,5111000000,INR,INR,audited,,,,SRC02673,HIGH,
+FIN01168,S0176,,calendar year 2026,total funding raised,997.46,Cr INR,INR,press-quoted-filing,,,,SRC02668,HIGH,calendar-year source stated as 2026; no FY mapping inferred
+FIN01169,S0177,FY26,,consolidated revenue,7345.99,Mn INR,INR,audited,,,,SRC02676,HIGH,
+FIN01170,S0177,FY26,,profit after tax,523.88,Mn INR,INR,audited,,,,SRC02676,HIGH,
+FIN01171,S0177,FY25,,consolidated revenue,5982.59,Mn INR,INR,audited,,,,SRC02676,HIGH,
+FIN01172,S0177,FY26,,arr,765,Cr INR,INR,management,,,,SRC02676,HIGH,
+FIN01173,S0177,FY27,,revenue guidance,1065,Cr INR,INR,management,,,,SRC02681,HIGH,
+FIN01174,S0178,,calendar year 2025,total funding raised,19085999,USD,USD,press-quoted-filing,,,,SRC02689,HIGH,calendar-year source stated as 2025; no FY mapping inferred
+FIN01175,S0178,,calendar year 2025,aum,12500,Cr INR,INR,management,,,,SRC02684,HIGH,calendar-year source stated as 2025; no FY mapping inferred
+FIN01176,S0178,,calendar year 2025,paid subscribers,25000,count,INR,management,,,,SRC02686,HIGH,calendar-year source stated as 2025; no FY mapping inferred
+FIN01177,S0178,,calendar year 2025,total customers,500000,count,INR,management,,,,SRC02684,MEDIUM,calendar-year source stated as 2025; no FY mapping inferred
+FIN01178,S0179,FY24,,operating_revenue,,,INR,,,,,SRC02695,MEDIUM,"unparseable value text preserved: {'v': 108800, 'unit': 'INR', 'value_type': 'press-quoted-fil"
+FIN01179,S0179,FY24,,net_loss,,,INR,,,,,SRC02695,MEDIUM,"unparseable value text preserved: {'v': 103000, 'unit': 'INR', 'value_type': 'press-quoted-fil"
+FIN01180,S0181,FY26,,ebitda,,,INR,,,,,,,"unparseable value text preserved: {'v': 'Rs 5,000 crore+', 'value_type': 'press-quoted-filing'"
+FIN01181,S0181,FY28,,ebitda_target,,,INR,,,,,,,"unparseable value text preserved: {'v': 'Rs 12,000 crore', 'value_type': 'management', 'source"
+FIN01182,S0181,FY28,,capacity_target,,,INR,,,,,,,"unparseable value text preserved: {'v': '15 GW IPP + 11 GW solar manufacturing', 'value_type':"
+FIN01183,S0182,FY25,,total_operating_income,,,INR,,,,,,,"unparseable value text preserved: {'v': 2638400000, 'unit': 'INR', 'value_type': 'press-quoted"
+FIN01184,S0182,FY25,,profit,,,INR,,,,,,,"unparseable value text preserved: {'v': 65000000, 'unit': 'INR', 'value_type': 'press-quoted-f"
+FIN01185,S0182,9MFY26,,total_operating_income,,,INR,,,,,,,"unparseable value text preserved: {'v': 126700000, 'unit': 'INR', 'value_type': 'press-quoted-"
+FIN01186,S0182,9MFY26,,net_loss,,,INR,,,,,,,"unparseable value text preserved: {'v': 1836000000, 'unit': 'INR', 'value_type': 'press-quoted"
+FIN01187,S0183,FY25,,revenue,,,INR,,,,,,,"unparseable value text preserved: {'v': 2490000000, 'unit': 'INR', 'value_type': 'press-quoted"
+FIN01188,S0183,FY25,,net_loss,,,INR,,,,,,,"unparseable value text preserved: {'v': 2700000000, 'unit': 'INR', 'value_type': 'press-quoted"
+FIN01189,S0183,FY26,,revenue,,,INR,,,,,,,"unparseable value text preserved: {'v': 3580000000, 'unit': 'INR', 'value_type': 'press-quoted"
+FIN01190,S0183,FY26,,net_loss,,,INR,,,,,,,"unparseable value text preserved: {'v': 2355000000, 'unit': 'INR', 'value_type': 'press-quoted"
+FIN01191,S0183,FY26,,operational_break_even,,,INR,,,,,,,"unparseable value text preserved: {'v': True, 'value_type': 'press-quoted-filing', 'source_url"
+FIN01192,S0185,FY26E,,revenue_target,120,crore,INR,management,,,,SRC02737,MEDIUM,
+FIN01193,S0185,FY25,,total_revenue,17.96,crore,INR,press-quoted-filing,standalone,no,2025-03-31,SRC02729,MEDIUM,"Tracxn reports annual revenue between ₹10-50 Cr as on Mar 31, 2025; specific figure from Tracxn data"
+FIN01194,S0185,FY26E,,annualized_revenue_run_rate,200,crore,INR,management,standalone,no,,SRC02728,MEDIUM,Founder-stated annualized revenue run rate as of Jun 2026
+FIN01195,S0185,FY26E,,revenue_target,120,crore,INR,management,standalone,no,,SRC02737,LOW,BWDisrupt article could not be fetched (403); cited from existing enrich file; may be outdated given ₹200Cr run rate reported Jun 2026
+FIN01196,S0188,FY25,,net profit,,crore,INR,press-quoted-filing,,,,SRC02748,MEDIUM,
+FIN01197,S0188,FY26,,revenue,8500,crore,INR,press-quoted-filing,,,,SRC02749,MEDIUM,
+FIN01198,S0188,FY26,,net profit,4300,crore,INR,press-quoted-filing,,,,SRC02749,MEDIUM,
+FIN01199,S0196,FY25,,manufacturing capacity,15.2,GW,USD,press-quoted-filing,,,,SRC02790,MEDIUM,
+FIN01200,S0197,FY25,,total_revenue,3.83,crore,INR,press-quoted-filing,standalone,no,2025-07-03,SRC02797,HIGH,Operating revenue; flat from FY24 (3.6 Cr)
+FIN01201,S0197,FY25,,net_profit,-64.2,crore,INR,press-quoted-filing,standalone,no,2025-07-03,SRC02797,HIGH,Net loss; zoomed 158.8% from FY24 (24.8 Cr)
+FIN01202,S0197,FY25,,total_income,9.6,crore,INR,press-quoted-filing,standalone,no,2025-07-03,SRC02797,HIGH,Includes other income of 5.8 Cr
+FIN01203,S0197,FY25,,total_expenses,73.8,crore,INR,press-quoted-filing,standalone,no,2025-07-03,SRC02797,HIGH,"Surged 145.2% from FY24 (30.1 Cr); advertising 38.5 Cr, employee benefits 22.7 Cr, software 6 Cr"
+FIN01204,S0197,FY24,,total_revenue,3.6,crore,INR,press-quoted-filing,standalone,no,2025-07-03,SRC02797,HIGH,Operating revenue FY24
+FIN01205,S0197,FY24,,net_profit,-24.8,crore,INR,press-quoted-filing,standalone,no,2025-07-03,SRC02797,HIGH,Net loss FY24
+FIN01206,S0200,FY25,,revenue,285,INR,INR,press-quoted-filing,,,,SRC02828,HIGH,
+FIN01207,S0200,FY25,,net_loss,33.37,INR,INR,press-quoted-filing,,,,SRC02828,HIGH,
+FIN01208,S0200,FY26,,net_profit,0.72,INR,INR,press-quoted-filing,,,,SRC02826,HIGH,
+FIN01209,S0201,FY25,,revenue,,SGD,INR,press-quoted-filing,,,,SRC02834,MEDIUM,unparseable value text preserved: SGD 10M-50M
+FIN01210,S0201,,calendar year 2025,aum,,USD,INR,management,,,,SRC02838,HIGH,unparseable value text preserved: over 10 | calendar-year source stated as 2025; no FY mapping inferred
+FIN01211,S0202,FY23,,revenue_from_operations,128,INR,INR,press-quoted-filing,,,,SRC02844,HIGH,
+FIN01212,S0202,FY24,,revenue_from_operations,166,INR,INR,press-quoted-filing,,,,SRC02844,HIGH,
+FIN01213,S0202,FY25,,revenue,174,INR,INR,press-quoted-filing,,,,SRC02841,HIGH,
+FIN01214,S0202,FY26,,revenue,275,INR,INR,management,,,,SRC02845,MEDIUM,Expected close FY26
+FIN01215,S0209,FY25,,revenue,1000,INR Cr,INR,press-quoted-filing,,,,SRC02875,MEDIUM,
+FIN01216,S0209,FY23,,aum,5357,crore,INR,management,standalone,no,2023-03-31,SRC02877,MEDIUM,AUM at end of March 2023; MD Manoj Nambiar stated
+FIN01217,S0209,FY23,,gross_npa,3,percent,INR,management,standalone,no,2023-03-31,SRC02877,MEDIUM,Gross NPA below 3% after Rs 380 Cr write-offs
+FIN01218,S0209,FY23,,net_npa,0.25,percent,INR,management,standalone,no,2023-03-31,SRC02877,MEDIUM,
+FIN01219,S0209,FY25,,total_revenue,1000,crore,INR,press-quoted-filing,standalone,no,2025-03-31,SRC02875,MEDIUM,"Annual revenue more than Rs 1,000 Cr as on Mar 31, 2025"
+FIN01220,S0209,FY25,,aum,6308,crore,INR,DRHP,standalone,no,2025-12-31,SRC02874,HIGH,AUM as of December 2025 per DRHP
+FIN01221,S0209,FY26,,total_revenue,,crore,INR,estimate,standalone,no,,SRC02875,LOW,FY25-26 annual report available on Arohan website but figures not extracted
+FIN01222,S0210,FY26,,revenue from operations,3671.76,INR Cr,INR,audited,,,,SRC02892,HIGH,
+FIN01223,S0210,FY26,,net loss,517,INR Cr,INR,audited,,,,SRC02897,HIGH,
+FIN01224,S0211,FY25,,total_revenue,994667.64,USD,USD,estimate,standalone,no,,SRC02910,LOW,"Tracxn latest revenue USD 994,667.64; likely FY24-25 partial year"
+FIN01225,S0211,FY25,,aum,23000,crore,INR,press-quoted-filing,standalone,no,,SRC02903,MEDIUM,"LinkedIn disclosure cited by ET, Jun 2026"
+FIN01226,S0211,FY25,,aum,3000000000,USD,USD,press-quoted-filing,standalone,no,,SRC02904,MEDIUM,"Reported Aug 2026; $3B AUM across 1,300+ clients"
+FIN01227,S0211,FY25,,assets_under_advice,5000000000,USD,USD,press-quoted-filing,standalone,no,,SRC02912,MEDIUM,$5B AUA reported alongside $3B AUM
+FIN01228,S0212,Q1 FY27,,revenue growth,34,% YoY,INR,press-quoted-filing,,,,SRC02920,MEDIUM,
+FIN01229,S0213,FY25,,total_revenue,2130000,INR,INR,press-quoted-filing,standalone,no,2025-03-31,SRC02927,MEDIUM,"Annual revenue ~₹2.13 Cr as on Mar 31, 2025 per Tracxn; Inc42 reports ₹2.1 Cr FY25 revenue, 38.9% YoY growth from ₹1.5 Cr FY24"
+FIN01230,S0213,FY25,,employee_expense,285000,INR,INR,press-quoted-filing,standalone,no,2025-03-31,SRC02937,LOW,Paid-up capital ₹2.85L per MCA; employee expense estimate
+FIN01231,S0213,FY25,,net_profit,-616000,INR,INR,press-quoted-filing,standalone,no,2025-03-31,SRC02938,MEDIUM,Net loss of ₹61.6 Lakh in FY25 per Inc42 DataLabs
+FIN01232,S0215,FY26,,assets_under_management,100,crore,INR,company_reported,standalone,no,2026-01-12,SRC02956,MEDIUM,Crossed Rs 100 crore AUM as of Jan 2026; company-reported figure
+FIN01233,S0215,FY26,,vehicle_count,1000,vehicles,,company_reported,standalone,no,2026-01-12,SRC02956,MEDIUM,"Manages over 1,000 vehicles as of Jan 2026"
+FIN01234,S0215,FY26,,revenue_growth_rate,70,percent,,company_reported,standalone,no,2026-01-12,SRC02956,MEDIUM,70% year-on-year growth claimed by company
+FIN01235,S0226,FY24,,total_revenue,7300000,crore,INR,press-quoted-filing,standalone,no,2024-03-31,SRC03022,HIGH,Operating revenue Rs 7.3 crore
+FIN01236,S0226,FY25,,total_revenue,29100000,crore,INR,press-quoted-filing,standalone,no,2025-03-31,SRC03022,HIGH,Operating revenue Rs 29.1 crore; 303% YoY growth
+FIN01237,S0226,FY25,,other_income,2700000,crore,INR,press-quoted-filing,standalone,no,2025-03-31,SRC03022,HIGH,"Other income Rs 2.7 crore (bank interest, tax refunds)"
+FIN01238,S0226,FY25,,net_profit,-4400000,crore,INR,press-quoted-filing,standalone,no,2025-03-31,SRC03022,HIGH,Net loss Rs 4.4 crore (up 120.6% from Rs 2 crore FY24)
+FIN01239,S0226,FY25,,total_expenses,36100000,crore,INR,press-quoted-filing,standalone,no,2025-03-31,SRC03022,HIGH,"Total expenses Rs 36.1 crore; stock-in-trade Rs 18.5 crore, employee Rs 5.1 crore, advertising Rs 9.3 crore"
+FIN01240,S0226,FY26,,total_revenue,,,INR,unknown,standalone,no,,,LOW,FY26 financials not yet filed as of Sep 2026 | unparseable value text preserved: NOT_FILED
+FIN01241,S0227,FY25,,revenue,65.48,billion,INR,press-quoted,,,,SRC03031,MEDIUM,
+FIN01242,S0228,FY22,,net_profit,52.22,crore,INR,press-quoted-filing,standalone,no,,SRC03038,MEDIUM,Livemint citing company financials
+FIN01243,S0228,FY23,,net_profit,30.45,crore,INR,press-quoted-filing,standalone,no,,SRC03038,MEDIUM,Revenue grew 46.3% in FY23
+FIN01244,S0228,FY23,,revenue_growth,46.3,percent,INR,press-quoted-filing,standalone,no,,SRC03038,MEDIUM,Revenue growth rate FY23
+FIN01245,S0228,FY24,,total_revenue,430.55,crore,INR,press-quoted-filing,standalone,no,,SRC03038,MEDIUM,Revenue rose 6.3% YoY
+FIN01246,S0228,FY24,,net_profit,30.41,crore,INR,press-quoted-filing,standalone,no,,SRC03038,MEDIUM,Profit slumped from FY22
+FIN01247,S0228,FY25,,total_revenue,523.1,crore,INR,estimate,standalone,no,,SRC03042,MEDIUM,"Inc42 reports 523.1 Cr+ revenue for FY25, +17.91% prev FY"
+FIN01248,S0228,FY25,,revenue_growth,17.91,percent,INR,estimate,standalone,no,,SRC03042,MEDIUM,Inc42 reports +17.91% prev FY growth
+FIN01249,S0237,FY20,,revenue,88.12,lakh,INR,press-quoted-filing,,,,SRC00693,MEDIUM,
+FIN01250,S0238,FY24,,operating revenue,747,crore,INR,press-quoted-filing,,,,SRC03102,HIGH,
+FIN01251,S0238,FY24,,operating_revenue,747,crore,INR,press-quoted-filing,consolidated,yes,2025-03-31,SRC03102,HIGH,Revenue from operations; product sales 97%
+FIN01252,S0238,FY25,,operating_revenue,853,crore,INR,press-quoted-filing,consolidated,yes,2025-03-31,SRC03107,HIGH,"14.2% YoY growth from FY24 Rs 747 crore; product sales Rs 827 crore (97%), services Rs 13 crore, other operating income Rs 13 crore"
+FIN01253,S0238,FY25,,total_income,864,crore,INR,press-quoted-filing,consolidated,yes,2025-03-31,SRC03107,HIGH,Total income including other income
+FIN01254,S0238,FY25,,net_loss,143.5,crore,INR,press-quoted-filing,consolidated,yes,2025-03-31,SRC03107,HIGH,Loss reduced 56% from Rs 327 crore in FY24; EBITDA margin -7.15%; ROCE -140.48%
+FIN01255,S0238,FY25,,total_expenses,1008,crore,INR,press-quoted-filing,consolidated,yes,2025-03-31,SRC03107,HIGH,"Reduced 7.4% from Rs 1,089 crore in FY24; cost of materials Rs 567 crore (56%), transportation Rs 145.5 crore, employee benefits Rs 108 crore"
+FIN01256,S0238,FY24,,net_loss,327,crore,INR,press-quoted-filing,consolidated,yes,2024-03-31,SRC03107,HIGH,FY24 loss for comparison
+FIN01257,S0238,FY22,,operating_revenue,260,crore,INR,press-quoted-filing,consolidated,yes,2022-03-31,SRC03109,MEDIUM,88% increase from FY21; losses Rs 142 crore in FY22
+FIN01258,S0238,FY24,,revenue,762,crore,INR,press-quoted-filing,standalone,no,2024-03-31,SRC03126,MEDIUM,Tracxn-reported revenue for legal entity; 19% YoY CAGR
+FIN01259,S0241,FY25,,revenue,447.0,crore,INR,press-quoted-filing,,,,SRC03163,MEDIUM,
+FIN01260,S0241,FY23,,net_profit,7.58,crore,INR,press-quoted-filing,,,,SRC03158,MEDIUM,
+FIN01261,S0241,FY24,,net_revenue,360,crore,INR,press-quoted-filing,,,,SRC03158,MEDIUM,
+FIN01262,S0241,FY24,,net_profit,17,crore,INR,press-quoted-filing,,,,SRC03158,MEDIUM,
+FIN01263,S0241,FY25,,net_revenue,450,crore,INR,press-quoted-filing,,,,SRC03150,HIGH,
+FIN01264,S0241,FY25,,net_profit,340,million,INR,press-quoted-filing,,,,SRC03150,HIGH,
+FIN01265,S0241,FY25,,total_revenue,447,crore,INR,press-quoted-filing,,,,SRC03163,MEDIUM,
+FIN01266,S0241,H1-FY26,,net_revenue,300,crore,INR,press-quoted-filing,,,,SRC03156,HIGH,
+FIN01267,S0241,H1-FY26,,net_profit,31.5,crore,INR,press-quoted-filing,,,,SRC03156,HIGH,
+FIN01268,S0241,FY24,,aum,506,crore,INR,DRHP,,,,SRC03159,HIGH,
+FIN01269,S0241,FY24,,cumulative_disbursement,1400,crore,INR,DRHP,,,,SRC03159,HIGH,
+FIN01270,S0241,FY25,,nbfc_disbursement,2000,crore,INR,press-quoted-filing,,,,SRC03153,HIGH,
+FIN01271,S0241,FY25,,total_facilitated_financing,12000,crore,INR,press-quoted-filing,,,,SRC03153,HIGH,
+FIN01272,S0242,FY25,,revenue,10.0,crore,INR,press-quoted-filing,,,,SRC00088,LOW,
+FIN01273,S0246,FY25,,total_revenue,100000,lakh,INR,press-quoted-filing,standalone,no,,SRC03185,MEDIUM,Paid-up capital INR 1.00 lac; revenue not separately disclosed on Tofler free tier
+FIN01274,S0248,FY25,,total_revenue,100,INR,INR,audited,standalone,no,2025-03-31,SRC03202,LOW,MCA FY25 revenue of ₹100 — likely reflects only the corporate shell entity; actual operating revenue is significantly higher per press reports
+FIN01275,S0248,FY24-25,,total_revenue,40,crore,INR,press-quoted-filing,standalone,no,,SRC03200,MEDIUM,Projected revenue of ₹40 crore for FY24-25 per YourStory; company valuation rising to ₹250 crore
+FIN01276,S0248,FY25,,total_revenue,1.18,million,USD,estimate,standalone,no,,SRC03206,LOW,Tracxn latest revenue USD figure; likely reflects MCA filing discrepancy
+FIN01277,S0255,FY25,,total_revenue,123.4,crore,INR,press-quoted-filing,standalone,no,2025-10-24,SRC03234,HIGH,Revenue from operations; Inc42 citing ROC filings
+FIN01278,S0255,FY25,,total_expenses,214,crore,INR,press-quoted-filing,standalone,no,2025-10-24,SRC03234,MEDIUM,Down 15% from Rs 250.7 cr in FY24
+FIN01279,S0255,FY25,,net_profit,-77.8,crore,INR,press-quoted-filing,standalone,no,2025-10-24,SRC03234,HIGH,Net loss narrowed from Rs 143.5 cr in FY24
+FIN01280,S0255,FY24,,total_revenue,93.84,crore,INR,press-quoted-filing,standalone,no,2024-10-30,SRC03242,HIGH,Revenue declined 28.6% YoY
+FIN01281,S0255,FY24,,net_profit,-143.47,crore,INR,press-quoted-filing,standalone,no,2024-10-30,SRC03242,HIGH,
+FIN01282,S0256,FY25,,total_revenue,35,crore,INR,press-quoted-filing,standalone,no,2025-03-31,SRC03265,MEDIUM,"Tracxn states revenue between ₹10 Cr and ₹50 Cr for FY ending Mar 31, 2025; midp"
+FIN01283,S0256,FY24,,total_revenue,13.3,million,USD,estimate,standalone,no,,SRC03271,LOW,"GetLatka estimate; ARR figure, not audited revenue"
+FIN01284,S0256,FY25,,total_revenue,21.1,million,USD,estimate,standalone,no,,SRC03271,LOW,GetLatka ARR estimate for 2024; may correspond to FY25
+FIN01285,S0258,FY25,,revenue_from_operations,1930,,INR,press-quoted-filing,,,2025-09-30,,HIGH,Company press release; audited accounts adopted at AGM
+FIN01286,S0258,FY24,,revenue_from_operations,1261,,INR,press-quoted-filing,,,2025-03-26,,HIGH,"13.5% decline from FY23 Rs 1,457 Cr; company changed revenue recognition methodology"
+FIN01287,S0258,FY23,,revenue_from_operations,1457,,INR,press-quoted-filing,,,2024-08-28,,HIGH,51% growth from FY22 Rs 964.7 Cr
+FIN01288,S0258,FY25,,total_disclosed_funding,1906,,USD,T3 database,,,,,MEDIUM,Tracxn total disclosed funding; ~$1.9B across all rounds
+FIN01289,S0258,FY25,,total_revenue,2071,,INR,press-quoted-filing,,,2025-09-30,,HIGH,Includes non-operating income
+FIN01290,S0258,FY25,,ebitda_burn_excl_non_cash,-738,,INR,press-quoted-filing,,,2025-09-30,,HIGH,20% improvement from FY24 EBITDA burn of Rs 920 Cr
+FIN01291,S0258,FY24,,total_revenue,1261,,INR,press-quoted-filing,,,2025-03-26,,HIGH,"Total revenue Rs 1,493 Cr per Statesman; methodology change noted"
+FIN01292,S0258,FY24,,ebitda_burn_excl_non_cash,-710,,INR,press-quoted-filing,,,2025-03-26,,HIGH,"51% reduction from FY23 EBITDA burn of Rs 1,448 Cr"
+FIN01293,S0258,FY23,,net_loss,-1909,,INR,press-quoted-filing,,,2024-08-28,,HIGH,"25% reduction from FY22 net loss Rs 2,563 Cr"
+FIN01294,S0258,FY22,,revenue_from_operations,964.7,,INR,press-quoted-filing,,,2024-08-28,,HIGH,Company reported $127M revenue in FY22 per VCCircle
+FIN01295,S0258,FY25,,revenue_from_operations,1930,crore,INR,audited,,,,SRC03295,HIGH,"88% YoY growth from FY24 Rs 1,029 Cr"
+FIN01296,S0258,FY25,,total_revenue,2071,crore,INR,audited,,,,SRC03296,HIGH,RoC-sourced consolidated financials
+FIN01297,S0258,FY25,,net_loss,-963,crore,INR,audited,,,,SRC03296,HIGH,Net loss increased 7.5% from FY24 Rs 896 Cr
+FIN01298,S0258,FY25,,ebitda_burn_excl_non_cash,-738,crore,INR,press-quoted-filing,,,,SRC03295,HIGH,20% improvement from FY24 EBITDA burn of Rs 920 Cr
+FIN01299,S0258,FY25,,advertising_revenue,1548,crore,INR,audited,,,,SRC03296,HIGH,~80% of total operating revenue
+FIN01300,S0258,FY25,,subscription_revenue,190,crore,INR,audited,,,,SRC03296,HIGH,New revenue stream; no contribution in FY24
+FIN01301,S0258,FY25,,virtual_assets_revenue,161,crore,INR,audited,,,,SRC03296,HIGH,18X growth from Rs 9 Cr in FY24
+FIN01302,S0258,FY24,,revenue_from_operations,1029,crore,INR,audited,,,,SRC03298,HIGH,"6.7% decline from FY23 Rs 1,046.8 Cr"
+FIN01303,S0258,FY24,,total_revenue,1261,crore,INR,press-quoted-filing,,,,SRC03296,HIGH,Total revenue per RoC
+FIN01304,S0258,FY24,,net_loss,-896,crore,INR,audited,,,,SRC03296,HIGH,Per RoC consolidated financials
+FIN01305,S0258,FY24,,ebitda_burn_excl_non_cash,-920,crore,INR,press-quoted-filing,,,,SRC03295,HIGH,FY24 EBITDA burn
+FIN01306,S0258,FY24,,total_expenses,2148.5,crore,INR,audited,,,,SRC03296,HIGH,Per RoC consolidated financials
+FIN01307,S0258,FY23,,revenue_from_operations,1046.8,crore,INR,audited,,,,SRC03304,HIGH,FY24 operating revenue declined 8.8% from this
+FIN01308,S0258,FY23,,net_loss,-1878.4,crore,INR,audited,,,,SRC03304,HIGH,FY24 net loss narrowed 56% from this
+FIN01309,S0258,FY22,,revenue_from_operations,964.7,crore,INR,press-quoted-filing,,,,SRC03293,HIGH,Company reported $127M revenue in FY22
+FIN01310,S0278,FY23,,total_revenue,97,crore,INR,press-quoted-filing,,,,SRC03377,HIGH,
+FIN01311,S0278,FY24,,total_revenue,428,crore,INR,press-quoted-filing,,,,SRC03376,HIGH,
+FIN01312,S0278,FY25,,total_revenue,469,crore,INR,press-quoted-filing,,,,SRC03376,HIGH,
+FIN01313,S0278,FY25,,net_profit,72.8,crore,INR,press-quoted-filing,,,,SRC03376,HIGH,
+FIN01314,S0278,FY25,,net_profit_margin,15.5,percent,INR,press-quoted-filing,,,,SRC03377,HIGH,
+FIN01315,S0278,FY26,,total_revenue,367.9,crore,INR,press-quoted-filing,,,,SRC03389,MEDIUM,
+FIN01316,S0278,FY26,,net_profit,362.6,crore,INR,press-quoted-filing,,,,SRC03390,MEDIUM,
+FIN01317,S0278,FY26,,operating_revenue,299.9,crore,INR,press-quoted-filing,,,,SRC03390,MEDIUM,
+FIN01318,S0278,FY26,,domestic_sales,337.4,crore,INR,press-quoted-filing,,,,SRC03390,MEDIUM,
+FIN01319,S0278,FY26,,export_sales,20.2,crore,INR,press-quoted-filing,,,,SRC03390,MEDIUM,
+FIN01320,S0280,FY25,,revenue_range,5768,crore,INR,press-quoted-filing,consolidated,yes,2025-03-31,SRC02014,MEDIUM,Parent company YULU BIKES PRIVATE LIMITED revenue; Yuma Energy standalone financials not separately disclosed. Tracxn reports ₹5768 Cr for FY25.
+FIN01321,S0280,FY25,,net_profit,8284,crore,INR,press-quoted-filing,consolidated,yes,2025-03-31,SRC02014,LOW,Tracxn-sourced figure for parent entity; may include non-operating items. Yuma Energy standalone not available.
+FIN01322,S0283,FY25,,total_revenue,1103,crore,INR,press-quoted-filing,consolidated,yes,,SRC03422,HIGH,"Total Income Rs 1,103 Cr; CAGR 35% from FY23"
+FIN01323,S0283,FY25,,ebitda,660,crore,INR,press-quoted-filing,consolidated,yes,,SRC03422,HIGH,EBITDA Rs 660 Cr; RoCE 34.21%
+FIN01324,S0283,FY25,,pat,7.7,crore,INR,press-quoted-filing,consolidated,yes,,SRC03422,HIGH,"PAT positive; income tax paid Rs 7.7 Cr FY24, Rs 8.4 Cr FY25"
+FIN01325,S0283,FY26,,total_revenue,1469,crore,INR,press-quoted-filing,consolidated,yes,,SRC03420,HIGH,"Revenue Rs 1,469 Cr, 37% YoY growth; PAT Rs 125 Cr, 145% YoY growth"
+FIN01326,S0283,FY26,,pat,125,crore,INR,press-quoted-filing,consolidated,yes,,SRC03420,HIGH,"PAT Rs 125 Cr, 145% YoY growth"
+FIN01327,S0283,FY26,,operating_cash_flow,304,crore,INR,press-quoted-filing,consolidated,yes,,SRC03420,HIGH,"OCF Rs 304 Cr, 147% YoY growth"
+FIN01328,S0283,FY24,,total_revenue,867.6,crore,INR,press-quoted-filing,consolidated,yes,,SRC03425,HIGH,FY24 revenue Rs 867.6 Cr vs FY23 Rs 601.2 Cr
+FIN01329,S0283,FY24,,net_loss,341.5,crore,INR,press-quoted-filing,consolidated,yes,,SRC03424,HIGH,Loss widened 72% from Rs 198 Cr in FY23
+FIN01330,S0283,FY26,,employee_expense,93,crore,INR,press-quoted-filing,consolidated,yes,,SRC03420,HIGH,From consolidated financial highlights
+FIN01331,S0284,FY25,,revenue from operations,1374.0,crore,INR,press-quoted-filing,,,,SRC03441,HIGH,
+FIN01332,S0284,FY25,,net loss,63.18,crore,INR,press-quoted-filing,,,,SRC03441,HIGH,
+FIN01333,S0284,FY26 Q4,,revenue,5462.0,million,INR,press-quoted-filing,,,,SRC03436,HIGH,
+FIN01334,S0285,FY25,,revenue growth cagr,75.0,%,INR,press-quoted-filing,,,,SRC03447,HIGH,
+FIN01335,S0285,FY25,,return on capital employed,,%,INR,press-quoted-filing,,,,SRC03447,HIGH,unparseable value text preserved: above 40%
+FIN01336,S0286,FY25,,revenue (ifrs),,USD,USD,press-quoted-filing,,,,SRC03450,HIGH,unparseable value text preserved: $978M
+FIN01337,S0286,FY25,,gross bookings,,USD,USD,press-quoted-filing,,,,SRC03453,HIGH,unparseable value text preserved: $9.8B
+FIN01338,S0286,FY25,,profit,,USD,USD,press-quoted-filing,,,,SRC03453,HIGH,unparseable value text preserved: $95.3M
+FIN01339,S0287,FY25,,operating revenue,4656.1,crore,INR,press-quoted-filing,,,,SRC03455,HIGH,
+FIN01340,S0287,FY25,,net loss,423.8,crore,INR,press-quoted-filing,,,,SRC03456,HIGH,
+FIN01341,S0287,FY26,,revenue (estimated),6000.0,crore,INR,estimate,,,,SRC03455,MEDIUM,
+FIN01342,S0288,FY25,,revenue,1.9,crore,INR,press-quoted-filing,,,,SRC03463,MEDIUM,
+FIN01343,S0288,FY25,,profit after tax,1.6,lakh,INR,press-quoted-filing,,,,SRC03463,MEDIUM,
+FIN01344,S0288,,calendar year 2026,monthly freight spend under management,120.0,crore,INR,company_reported,,,,SRC03462,HIGH,calendar-year source stated as 2026; no FY mapping inferred
+FIN01345,S0289,,calendar year 2026,fleet size,50.0,vehicles,INR,company_reported,,,,SRC03467,HIGH,calendar-year source stated as 2026; no FY mapping inferred
+FIN01346,S0289,,calendar year 2026,rides completed,5000.0,rides,INR,company_reported,,,,SRC03467,HIGH,calendar-year source stated as 2026; no FY mapping inferred
+FIN01347,S0290,,calendar year 2026,annualized revenue run rate,,USD,USD,company_reported,,,,SRC03472,HIGH,unparseable value text preserved: $2M | calendar-year source stated as 2026; no FY mapping inferred
+FIN01348,S0290,,calendar year 2026,users,1.5,users,INR,company_reported,,,,SRC03473,HIGH,calendar-year source stated as 2026; no FY mapping inferred
+FIN01349,S0290,FY26,,annualized_revenue_run_rate,2000000,USD,USD,company_reported,standalone,no,,SRC03472,HIGH,"$2M ARR reached within 3 weeks of launching payments in March 2026; company-reported, not audited"
+FIN01350,S0290,FY26,,registered_users,1700000,users,,company_reported,standalone,no,,SRC03472,HIGH,"1.5M per Inc42/DealStreetAsia; 1.7M per TechCrunch interview; largest markets US, UK, Japan"
+FIN01351,S0290,FY26,,token_usage_90d,1000000000000,tokens,,company_reported,standalone,no,,SRC03472,MEDIUM,1 trillion+ tokens in last 90 days; 60-70% from paying customers
+FIN01352,S0290,,calendar year 2025,authorized_share_capital,1000000,INR,INR,audited,standalone,no,,SRC03477,HIGH,"MCA authorized share capital Rs 10,00,000 | calendar-year source stated as 2025; no FY mapping inferred"
+FIN01353,S0290,,calendar year 2025,paid_up_capital,10000,INR,INR,audited,standalone,no,,SRC03477,HIGH,"MCA paid-up capital Rs 10,000; only 1% of authorized capital utilized | calendar-year source stated as 2025; no FY mapping inferred"
+FIN01354,S0291,FY25,,revenue,,USD,USD,press-quoted-filing,,,,SRC03489,MEDIUM,unparseable value text preserved: $10M-$50M range
+FIN01355,S0291,,calendar year 2026,planned investment,1500.0,crore,INR,company_reported,,,,SRC03490,HIGH,calendar-year source stated as 2026; no FY mapping inferred
+FIN01356,S0292,FY25,,operating revenue,188.5,crore,INR,press-quoted-filing,,,,SRC03495,HIGH,
+FIN01357,S0292,FY25,,net profit,7.8,crore,INR,press-quoted-filing,,,,SRC03495,HIGH,
+FIN01358,S0292,FY24,,net loss,8.8,crore,INR,press-quoted-filing,,,,SRC03495,HIGH,
+FIN01359,S0293,,calendar year 2026,total funding raised,,USD,USD,company_reported,,,,SRC03501,HIGH,unparseable value text preserved: $112M | calendar-year source stated as 2026; no FY mapping inferred
+FIN01360,S0293,,calendar year 2026,employees,100.0,employees,INR,company_reported,,,,SRC03505,HIGH,calendar-year source stated as 2026; no FY mapping inferred
+FIN01361,S0296,,calendar year NONE,revenue/brand scale,177,crore INR,INR,press-quoted-filing,,,,SRC03514,MEDIUM,calendar-year source stated as NONE; no FY mapping inferred
+FIN01362,S0296,FY23,,total_revenue,27,crore,INR,press-quoted-filing,standalone,no,,SRC03512,MEDIUM,FY23 revenue per co-founder interview; ended FY23 at Rs 27 crore
+FIN01363,S0296,FY24,,total_revenue,62.8,crore,INR,press-quoted-filing,standalone,no,,SRC03517,MEDIUM,FY24 revenue per Inc42 Datalabs; 70% growth over FY23
+FIN01364,S0296,FY25,,total_revenue,115.0,crore,INR,press-quoted-filing,standalone,no,,SRC03517,MEDIUM,"FY25 revenue Rs 115 Cr, up 83.1% YoY; net loss Rs 7.7 Cr; total expenses Rs 122.8 Cr"
+FIN01365,S0296,FY25,,net_profit,-7.7,crore,INR,press-quoted-filing,standalone,no,,SRC03517,MEDIUM,Net loss of Rs 7.7 Cr in FY25
+FIN01366,S0296,FY26,,total_revenue,177,crore,INR,press-quoted-filing,standalone,no,,SRC03514,MEDIUM,FY26 revenue per ET interview with co-founder; Rs 177 crore annual revenue
+FIN01367,S0296,FY25,,total_assets,131.6,crore,INR,press-quoted-filing,standalone,no,,SRC03517,MEDIUM,Total assets Rs 131.6 Cr per Inc42
+FIN01368,S0296,FY25,,total_expenses,122.8,crore,INR,press-quoted-filing,standalone,no,,SRC03517,MEDIUM,Total expenses Rs 122.8 Cr per Inc42
+FIN01369,S0303,FY26,,revenue,300,crore INR,INR,management,,,,SRC03549,LOW,
+FIN01370,S0303,FY22,,revenue,142,crore INR,INR,management,,,,SRC03549,LOW,
+FIN01371,S0305,FY25,,revenue,1.08,crore,INR,press-quoted-filing,standalone,no,2025-03-31,SRC03561,MEDIUM,Indian subsidiary revenue only; parent company financials not disclosed
+FIN01372,S0306,FY25,,revenue,47.5,INR Cr,INR,press-quoted-filing,,,,SRC03565,MEDIUM,
+FIN01373,S0309,FY25,,total_revenue,10,crore,INR,estimate,standalone,no,2025-03-31,SRC03586,LOW,"Tracxn reports revenue 0 - ₹10 Cr as on Mar 31, 2025; exact figure not publicly disclosed"
+FIN01374,S0310,FY25,,loss,543.0,crore,INR,press-quoted-filing,,,,SRC03593,HIGH,
+FIN01375,S0310,FY24,,total_revenue,6917,crore,INR,press-quoted-filing,standalone,no,2024-11-26,SRC03598,HIGH,India business revenue; represents ~80% of consolidated revenue
+FIN01376,S0310,FY24,,net_profit_loss,-498,crore,INR,press-quoted-filing,standalone,no,2024-11-26,SRC03598,HIGH,Net loss widened from Rs 468 crore in FY23
+FIN01377,S0310,FY25,,total_revenue,6233,crore,INR,press-quoted-filing,consolidated,yes,2026-02-27,SRC03593,HIGH,Consolidated financial statements filed with RoC; gross revenue declined 10%
+FIN01378,S0310,FY25,,net_profit_loss,-543,crore,INR,press-quoted-filing,consolidated,yes,2026-02-27,SRC03593,HIGH,Net loss increased 9% YoY from Rs 498 crore
+FIN01379,S0310,FY26_H1,,adjusted_net_revenue,651,crore,INR,management,consolidated,yes,2026-01-15,SRC03596,HIGH,H1 FY26 (Apr-Sep 2025); up 18% YoY
+FIN01380,S0310,FY26_H2,,adjusted_net_revenue,760,crore,INR,management,consolidated,yes,2026-05-07,SRC03614,HIGH,H2 FY26 (Oct 2025-Mar 2026); up 37% YoY
+FIN01381,S0310,FY26_H2,,adjusted_ebitda_loss,-38,crore,INR,management,consolidated,yes,2026-05-07,SRC03614,HIGH,Losses narrowed 83% YoY
+FIN01382,S0310,FY26,,adjusted_net_revenue,1411,crore,INR,management,consolidated,yes,2026-05-07,SRC03597,HIGH,Full FY26; 27% YoY growth
+FIN01383,S0310,FY26,,adjusted_ebitda_loss,-357,crore,INR,management,consolidated,yes,2026-05-07,SRC03597,HIGH,Narrowed 36% from Rs 555 crore in FY25
+FIN01384,S0310,FY26_Q4,,adjusted_ebitda_profit,20,crore,INR,management,consolidated,yes,2026-05-07,SRC03600,HIGH,First-ever quarterly EBITDA profit; Q4 FY26 (Jan-Mar 2026)
+FIN01385,S0315,FY25,,net profit,26.1,crore,INR,press-quoted-filing,,,,SRC03640,HIGH,
+FIN01386,S0316,FY24,,total_revenue,170,crore,INR,press-quoted-filing,standalone,no,2024-03-31,SRC03648,HIGH,Revenue from operations grew 31% YoY to Rs 170 crore in FY24
+FIN01387,S0316,FY24,,net_profit,2.21,crore,INR,press-quoted-filing,standalone,no,2024-03-31,SRC03648,HIGH,Net profit of Rs 2.21 crore in FY24
+FIN01388,S0316,FY25,,annual_run_rate,30,million,USD,management,standalone,no,,SRC03648,MEDIUM,ARR for FY25 exceeding $30M; FY25 numbers not yet filed at time of Series B
+FIN01389,S0316,FY24,,reserves,49.8,crore,INR,audited,standalone,no,2024-03-31,SRC03647,MEDIUM,Tofler balance sheet data
+FIN01390,S0316,FY24,,trade_payables,19.1,crore,INR,audited,standalone,no,2024-03-31,SRC03647,MEDIUM,Tofler balance sheet
+FIN01391,S0320,FY25,,total_revenue,10,crore,INR,press-quoted-filing,standalone,no,2026-02-27,SRC03676,MEDIUM,"Tracxn reports ₹10-50 Cr revenue range for FY ending Mar 31, 2025; lower bound used"
+FIN01392,S0322,FY24,,total_revenue,743.6,crore,INR,audited,standalone,no,2024-11-14,SRC03700,HIGH,Revenue from operations; insurance brokerage was 97.7% of operating revenue
+FIN01393,S0322,FY24,,net_profit,85.71,crore,INR,audited,standalone,no,2024-11-14,SRC03700,HIGH,
+FIN01394,S0322,FY23,,net_profit,-51.59,crore,INR,audited,standalone,no,2024-11-14,SRC03700,HIGH,
+FIN01395,S0322,FY25,,total_revenue,1290,crore,INR,press-quoted-filing,standalone,no,2025-09-12,SRC03701,HIGH,Operating revenue grew 73.5% YoY
+FIN01396,S0322,FY25,,net_profit,-47.5,crore,INR,press-quoted-filing,standalone,no,2025-09-12,SRC03701,HIGH,"Loss attributed to strategic investments in tech-first initiatives, AI automation, and new distribution pilots"
+FIN01397,S0322,FY25,,ebitda,-31.9,crore,INR,press-quoted-filing,standalone,no,2025-09-12,SRC03701,HIGH,
+FIN01398,S0322,FY25,,total_expenditure,1352,crore,INR,press-quoted-filing,standalone,no,2025-09-12,SRC03701,HIGH,
+FIN01399,S0322,FY25,,employee_expense,153.7,crore,INR,press-quoted-filing,standalone,no,2025-09-12,SRC03701,HIGH,
+FIN01400,S0322,FY25,,advertisement_expense,258.8,crore,INR,press-quoted-filing,standalone,no,2025-09-12,SRC03701,HIGH,
+FIN01401,S0322,FY25,,point_of_sales_charges,836.8,crore,INR,press-quoted-filing,standalone,no,2025-09-12,SRC03701,HIGH,
+FIN01402,S0322,FY24,,annual_premium_run_rate,3300,crore,INR,management,standalone,no,2025-02-24,SRC03702,MEDIUM,As of March 2024; nearly doubled year-over-year
+FIN01403,S0347,,calendar year 2024,revenue,19.8,USD,USD,estimate,,,,SRC03805,MEDIUM,calendar-year source stated as 2024; no FY mapping inferred
+FIN01404,S0367,FY23,,total_revenue,832,crore,INR,press-quoted-filing,standalone,no,2024-04-22,SRC03936,HIGH,Revenue from operations Rs 832 crore
+FIN01405,S0367,FY23,,net_profit,-36,crore,INR,press-quoted-filing,standalone,no,2024-04-22,SRC03936,HIGH,Loss of Rs 36 crore in FY23
+FIN01406,S0367,FY24,,total_revenue,1123,crore,INR,press-quoted-filing,standalone,no,2025-04-22,SRC03936,HIGH,Revenue grew 34.9% YoY
+FIN01407,S0367,FY24,,net_profit,146,crore,INR,press-quoted-filing,standalone,no,2025-04-22,SRC03936,HIGH,First full-year profitability since inception
+FIN01408,S0367,FY25,,total_revenue,,,INR,estimate,standalone,no,,,LOW,FY25 revenue not publicly disclosed; RMG ban from Aug 2025 likely impacted revenue significantly
+FIN01409,S0367,FY25,,net_profit,,,INR,estimate,standalone,no,,,LOW,Likely loss-making post-RMG ban; not publicly disclosed
+FIN01410,S0368,FY2024,,funding raised,119764,USD,USD,press-quoted-filing,,,,SRC03947,HIGH,

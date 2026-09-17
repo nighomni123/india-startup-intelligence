@@ -1,0 +1,2562 @@
+{
+ "company": {
+  "business_model": "space situational awareness data + satellite constellation (defence/gov + commercial operators)",
+  "city": "Bengaluru",
+  "customer_type": "B2B + government/defence",
+  "dpiit": "",
+  "employee_estimate": "UNKNOWN",
+  "founded_date": "2020 (some DBs say 2018 — conflict noted)",
+  "legal_name": "UNKNOWN",
+  "parent/subsidiary": "",
+  "primary_sector": "spacetech ssa",
+  "public_private": "private",
+  "startup_stage": "Series B / growth",
+  "status": "active",
+  "website": "digantara.co.in (UNVERIFIED — not seen in results; left as gap)",
+  "cin": "U74999UR2018PTC009322",
+  "official_website": {
+   "v": "https://www.digantara.co.in",
+   "conf": "high",
+   "src": "https://digantara.co.in (search result title: 'Digantara | Pioneering Space Intelligence, Surveillance & Data Infrastructures')",
+   "note": "W-wave verified 2026-09-15"
+  },
+  "careers_website": {
+   "v": "https://digantara.co.in/careers",
+   "conf": "high",
+   "src": "https://digantara.co.in/careers (search result title: 'Digantara | Pioneering Space Intelligence, Surveillance & Data Infrastructures - Careers')",
+   "note": "Careers page confirmed via search"
+  },
+  "incorporation_date": {
+   "v": "19 Dec 2018",
+   "conf": "HIGH",
+   "src": "https://www.zaubacorp.com/DIGANTARA-RESEARCH-AND-TECHNOLOGIES-PRIVATE-LIMITED-U74999UR2018PTC009322",
+   "note": "Both Digantara entities incorporated 19 Dec 2018; company narrative says founded 2018/2020",
+   "asof": "2026-09-15"
+  },
+  "state": {
+   "v": "Karnataka",
+   "conf": "HIGH",
+   "src": "https://www.zaubacorp.com/DIGANTARA-RESEARCH-AND-TECHNOLOGIES-PRIVATE-LIMITED-U74999UR2018PTC009322",
+   "note": "Registered office in Bengaluru",
+   "asof": "2026-09-15"
+  },
+  "country": {
+   "v": "India",
+   "conf": "HIGH",
+   "src": "https://www.digantara.co.in/",
+   "note": "Also has offices in Singapore and Colorado Springs, US",
+   "asof": "2026-09-15"
+  },
+  "description": {
+   "v": "Space surveillance and intelligence company delivering advanced detection, tracking, and analytics for defence and commercial operators; India's first air and space surveillance company",
+   "conf": "HIGH",
+   "src": "https://www.fsid-iisc.in/2020/08/20/space-startup-develops-indias-first-in-orbit-space-debris-monitoring-tracking-system-anirudh-sharma-co-founder-and-ceo-of-digantara/",
+   "note": "IISc SID incubated; now operates across India, Singapore, US",
+   "asof": "2026-09-15"
+  },
+  "hq_type": {
+   "v": "registered + operational",
+   "conf": "HIGH",
+   "src": "https://www.digantara.co.in/",
+   "note": "HQ at Brigade Senate-2, Hebbal-Kempapura, Bengaluru 560094; also offices in Singapore and Colorado Springs",
+   "asof": "2026-09-15"
+  },
+  "registered_office": {
+   "v": "9th Floor, Brigade Senate-2, Outer Ring Road, Hebbal, R.M.V. Extension II Stage, Bangalore, Karnataka - 560094",
+   "conf": "HIGH",
+   "src": "https://www.zaubacorp.com/DIGANTARA-RESEARCH-AND-TECHNOLOGIES-PRIVATE-LIMITED-U74999UR2018PTC009322",
+   "note": "For Digantara Industries Pvt Ltd (U30304KA2018PTC207867); Digantara R&T registered address per VakilSearch is in Pauri Garhwal",
+   "asof": "2026-09-15"
+  }
+ },
+ "completeness_self": {
+  "financials": 1,
+  "founders": 7,
+  "funding": 8,
+  "identity": 6,
+  "investors": 8,
+  "legal": 0,
+  "overall": "low-medium; lite enrichment, financials absent"
+ },
+ "conflicts": [
+  {
+   "field": "founded year",
+   "note": "Tracxn/CB Insights say 2020; PitchBook says 2018; ET says 'four-year-old' in 2023 (=2019).",
+   "resolution": "use 2020 (majority + founder narrative)",
+   "resolved_value": "2020"
+  },
+  {
+   "field": "Series B lead",
+   "note": "TechCrunch Dec 2025: $50M Series B with 360 ONE + SBI Investment + Screwvala (no Reliance named); ET Jan 2026 RoC filing: Reliance led $50M at ~$200M valuation with same co-investors.",
+   "resolution": "both describe same round; RoC filing is transaction doc — Reliance-led stands, TechCrunch announcement earlier",
+   "resolved_value": "$50M Series B, Reliance-led per RoC"
+  },
+  {
+   "field": "legal_name",
+   "claim_a": "UNKNOWN",
+   "url_a": "",
+   "claim_b": "Digantara Research and Technologies Private Limited",
+   "url_b": "",
+   "resolution": "phase3 p3 payload disagrees with existing value; existing kept as preferred pending human review",
+   "resolved_value": "",
+   "reviewed": "p3-merge"
+  },
+  {
+   "field": "business_model",
+   "claim_a": "space situational awareness data + satellite constellation (defence/gov + commercial operators)",
+   "url_a": "",
+   "claim_b": "space surveillance data + satellite constellation (defence/gov + commercial operators)",
+   "url_b": "",
+   "resolution": "phase3 p3 payload disagrees with existing value; existing kept as preferred pending human review",
+   "resolved_value": "",
+   "reviewed": "p3-merge"
+  },
+  {
+   "field": "employee_estimate",
+   "claim_a": "UNKNOWN",
+   "url_a": "",
+   "claim_b": "125",
+   "url_b": "",
+   "resolution": "phase3 p3 payload disagrees with existing value; existing kept as preferred pending human review",
+   "resolved_value": "",
+   "reviewed": "p3-merge"
+  },
+  {
+   "field": "founded year",
+   "claim_a": "2018 (incorporation date; FSID IISc article says 'Started by Anirudh Sharma & Rahul Rawat in 2018')",
+   "url_a": "https://www.fsid-iisc.in/2020/08/20/space-startup-develops-indias-first-in-orbit-space-debris-monitoring-tracking-system-anirudh-sharma-co-founder-and-ceo-of-digantara/",
+   "claim_b": "2020 (TechCrunch says 'Founded in 2020')",
+   "url_b": "https://techcrunch.com/2025/12/16/indias-digantara-raises-50m-for-space-based-missile-defence-tech/",
+   "resolution": "Incorporated 19 Dec 2018 per MCA records; pivoted to commercial SSA in 2020; use 2018 for incorporation, 2020 for commercial founding",
+   "resolved_value": "Incorporated 2018; commercially active 2020"
+  },
+  {
+   "field": "Series B lead",
+   "claim_a": "Reliance Industries led per RoC filing (Jan 2026)",
+   "url_a": "https://economictimes.indiatimes.com/tech/funding/reliance-leads-50-million-round-for-spacetech-startup-digantara/articleshow/127807185.cms",
+   "claim_b": "360 ONE Asset led per TechCrunch announcement (Dec 2025)",
+   "url_b": "https://techcrunch.com/2025/12/16/indias-digantara-raises-50m-for-space-based-missile-defence-tech/",
+   "resolution": "Both describe same round; RoC filing is transaction document — Reliance-led stands per SPEC order",
+   "resolved_value": "Reliance-led per RoC; 360 ONE Asset named as new lead in press"
+  },
+  {
+   "field": "total_funding",
+   "claim_a": "$64.5M (TechCrunch, Inc42)",
+   "url_a": "https://techcrunch.com/2025/12/16/indias-digantara-raises-50m-for-space-based-missile-defence-tech/",
+   "claim_b": "$66.5M (Tracxn)",
+   "url_b": "https://tracxn.com/d/companies/digantara/__zdxzEEccD6a6EhNeF5J_l5RIX243dpNX4FM6Qky5lNA/funding-and-investors",
+   "resolution": "Minor discrepancy; $64.5M most commonly cited; includes $2.5M seed + $12M A1 + $50M B",
+   "resolved_value": "~$64.5M (most cited)"
+  },
+  {
+   "field": "SCOT launch date",
+   "claim_a": "January 2025 (CNBCTV18, SatNews, multiple sources)",
+   "url_a": "https://satnews.com/2025/01/14/digantara-launches-indias-1st-homegrown-space-surveillance-mission-via-spacexs-transporter-12/",
+   "claim_b": "January 2026 (TechCrunch says 'launched its first space surveillance satellite, SCOT, in January')",
+   "url_b": "https://techcrunch.com/2025/12/16/indias-digantara-raises-50m-for-space-based-missile-defence-tech/",
+   "resolution": "Multiple primary sources confirm Jan 14, 2025; TechCrunch article published Dec 2025 likely misspoke",
+   "resolved_value": "January 14, 2025"
+  }
+ ],
+ "events": [
+  {
+   "date": "Dec 2025 / Jan 2026",
+   "headline": "$50M Series B (Reliance-led per RoC) at ~$200M valuation",
+   "source_url": "https://economictimes.indiatimes.com/tech/funding/reliance-leads-50-million-round-for-spacetech-startup-digantara/articleshow/127807185.cms",
+   "type": "funding"
+  },
+  {
+   "type": "funding",
+   "headline": "$50M Series B led by Reliance Industries at ~$200M valuation",
+   "date": "2025-12-16",
+   "description": "All-equity Series B round; new investors 360 ONE Asset, SBI Investment Japan, Ronnie Screwvala; existing Peak XV, Kalaari participated; total raised $64.5M",
+   "source_url": "https://techcrunch.com/2025/12/16/indias-digantara-raises-50m-for-space-based-missile-defence-tech/",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "launch",
+   "headline": "SCOT satellite launched on SpaceX Transporter-12",
+   "date": "2025-01-14",
+   "description": "India's first homegrown space surveillance mission; sun-synchronous orbit; space-to-space observation capability demonstrated",
+   "source_url": "https://satnews.com/2025/01/14/digantara-launches-indias-1st-homegrown-space-surveillance-mission-via-spacexs-transporter-12/",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "partnership",
+   "headline": "DSTA Singapore partnership for SSA",
+   "date": "2026-02-03",
+   "description": "Announced at Space Summit 2026; co-develop tools for Space Situational Awareness supporting Singapore's National Space Agency",
+   "source_url": "https://spaceanddefense.io/singapores-dsta-and-indias-digantara-partner-on-space-situational-awareness/",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "launch",
+   "headline": "MOSAIC AI-powered sensor network deployed",
+   "date": "2026-08-15",
+   "description": "AI-powered Wide Area Sensing Architecture with 5 sensor nodes; deployed after Operation Sindoor; reduces reliance on foreign space surveillance data",
+   "source_url": "https://www.indiatoday.in/science/story/after-op-sindoor-indian-startup-digantara-deploys-ai-powered-space-surveillance-network-2974035-2026-08-18",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "funding",
+   "headline": "Seed funding $2.5M from Kalaari Capital",
+   "date": "2021-07-01",
+   "description": "Seed round to develop space debris monitoring systems",
+   "source_url": "https://www.livemint.com/companies/news/peak-xv-backs-digantara-in-first-ever-space-investment-11687279201431.html",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "funding",
+   "headline": "Series A1 $10M led by Peak XV Partners",
+   "date": "2023-06-20",
+   "description": "Peak XV's first-ever space investment; Kalaari Capital participated",
+   "source_url": "https://www.livemint.com/companies/news/peak-xv-backs-digantara-in-first-ever-space-investment-11687279201431.html",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "funding",
+   "headline": "Series A1 extension $2M from Aditya Birla Ventures & SIDBI",
+   "date": "2024-02-28",
+   "description": "Final close of Series A1 at $12M total",
+   "source_url": "https://www.adityabirlaventures.com",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "partnership",
+   "headline": "Indo-Australian joint mission for space debris",
+   "date": "2024-05-01",
+   "description": "Selected for joint India-Australia space mission to manage debris in space",
+   "source_url": "https://inc42.com/buzz/digantara-joins-indo-australian-joint-mission-to-manage-space-debris/",
+   "confidence": "MEDIUM"
+  }
+ ],
+ "financials": [
+  {
+   "fiscal_year": "FY25",
+   "metric": "total_revenue",
+   "value": 4.7,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "press-quoted-filing",
+   "basis": "standalone",
+   "consolidated": "no",
+   "filing_date": "2025-03-31",
+   "source_url": "https://inc42.com/company/digantara/funding/",
+   "source_title": "Digantara Funding 2026 – Total Funding, Rounds & Investors - Inc42",
+   "source_date": "2026-09-15",
+   "confidence": "MEDIUM",
+   "notes": "Revenue grew 47.6% YoY from ₹3.2 Cr in FY24; Tracxn reports <₹10 Cr revenue for FY ending Mar 31 2025"
+  },
+  {
+   "fiscal_year": "FY25",
+   "metric": "net_profit",
+   "value": -24.0,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "press-quoted-filing",
+   "basis": "standalone",
+   "consolidated": "no",
+   "filing_date": "2025-03-31",
+   "source_url": "https://inc42.com/company/digantara/funding/",
+   "source_title": "Digantara Financials 2026 – Revenue, P&L & Cash Flow - Inc42",
+   "source_date": "2026-09-15",
+   "confidence": "MEDIUM",
+   "notes": "Net loss of ₹24.0 Cr in FY25"
+  }
+ ],
+ "founders": [
+  {
+   "name": "Anirudh Sharma",
+   "role": "Co-founder & CEO",
+   "source_url": "https://techcrunch.com/2025/12/16/indias-digantara-raises-50m-for-space-based-missile-defence-tech/"
+  },
+  {
+   "name": "Rahul Rawat",
+   "role": "Co-founder",
+   "source_url": "https://economictimes.indiatimes.com/tech/funding/reliance-leads-50-million-round-for-spacetech-startup-digantara/articleshow/127807185.cms"
+  },
+  {
+   "name": "Tanveer Ahmed",
+   "role": "Co-founder",
+   "source_url": "https://economictimes.indiatimes.com/tech/funding/reliance-leads-50-million-round-for-spacetech-startup-digantara/articleshow/127807185.cms"
+  },
+  {
+   "name": "Anirudh Sharma",
+   "role": "Founder & CEO",
+   "background": "LPU B.Tech CS (2016-2020); started Digantara at age 19 from dormitory; Forbes 30 Under 30; Payload Pioneers; presented lidar space tracking at IAC Washington DC 2019; incubated at IISc SID",
+   "education": "Lovely Professional University (B.Tech CS)",
+   "still_active": true,
+   "source_url": "https://payloadspace.com/anirudh-sharma-digantara/",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Rahul Rawat",
+   "role": "Co-founder & COO",
+   "background": "LPU alumnus; co-founded Digantara in 2018 from dormitory; non-aerospace educational background per Forbes India",
+   "education": "Lovely Professional University",
+   "still_active": true,
+   "source_url": "https://www.digantara.co.in/",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Tanveer Ahmed",
+   "role": "Co-founder & CTO",
+   "background": "LPU alumnus; participated in ISRO student satellite program; developed payloads for university satellite team; co-founded Digantara in 2018",
+   "education": "Lovely Professional University",
+   "still_active": true,
+   "source_url": "https://people.equilar.com",
+   "confidence": "HIGH"
+  }
+ ],
+ "funding_rounds": [
+  {
+   "amount": "2.5M",
+   "announced_date": "Jul 2021",
+   "currency": "USD",
+   "leads": [
+    "Kalaari Capital"
+   ],
+   "round_type": "Seed",
+   "source_url": "https://techcrunch.com/2023/06/20/digantara-funding-peak-xv-partners/"
+  },
+  {
+   "amount": "12M (10M + 2M tranches)",
+   "announced_date": "Jun 2023 / Feb 2024",
+   "currency": "USD",
+   "leads": [
+    "Peak XV Partners"
+   ],
+   "round_type": "Series A1",
+   "source_url": "https://inc42.com/buzz/spacetech-startup-digantara-bags-funding-from-aditya-birla-ventures-sidbi/"
+  },
+  {
+   "amount": "50M",
+   "announced_date": "Dec 2025",
+   "currency": "USD",
+   "leads": [
+    "Reliance Industries (per RoC, Jan 2026)"
+   ],
+   "round_type": "Series B",
+   "source_url": "https://economictimes.indiatimes.com/tech/funding/reliance-leads-50-million-round-for-spacetech-startup-digantara/articleshow/127807185.cms",
+   "announcement_date": "2025-12-16",
+   "valuation": "200000000",
+   "valuation_currency": "USD",
+   "valuation_type": "post-money (press-quoted)",
+   "new_or_existing": "new (Reliance lead); existing Peak XV, Kalaari participated per VCCircle",
+   "purpose": "Scale global operations; defence customers and missile-tracking expansion"
+  },
+  {
+   "round_type": "Seed",
+   "announced_date": "2021-07-01",
+   "round_date": "2021-07-01",
+   "amount": 2500000,
+   "currency": "USD",
+   "lead_investors": [
+    "Kalaari Capital"
+   ],
+   "all_investors": [
+    "Kalaari Capital"
+   ],
+   "purpose": "Develop space debris monitoring systems and company expansion",
+   "source_url": "https://www.livemint.com/companies/news/peak-xv-backs-digantara-in-first-ever-space-investment-11687279201431.html",
+   "source_title": "Peak XV backs Digantara in first-ever space investment - Mint",
+   "source_date": "2023-06-20",
+   "confidence": "HIGH"
+  },
+  {
+   "round_type": "Series A1",
+   "announced_date": "2023-06-20",
+   "round_date": "2023-06-01",
+   "amount": 10000000,
+   "currency": "USD",
+   "lead_investors": [
+    "Peak XV Partners"
+   ],
+   "all_investors": [
+    "Peak XV Partners",
+    "Kalaari Capital"
+   ],
+   "purpose": "Deploy first phase of space surveillance constellation; launch satellites",
+   "source_url": "https://www.livemint.com/companies/news/peak-xv-backs-digantara-in-first-ever-space-investment-11687279201431.html",
+   "source_title": "Peak XV backs Digantara in first-ever space investment - Mint",
+   "source_date": "2023-06-20",
+   "confidence": "HIGH"
+  },
+  {
+   "round_type": "Series A1 (extension)",
+   "announced_date": "2024-02-28",
+   "round_date": "2024-02-01",
+   "amount": 2000000,
+   "currency": "USD",
+   "lead_investors": [
+    "Aditya Birla Ventures",
+    "SIDBI"
+   ],
+   "all_investors": [
+    "Aditya Birla Ventures",
+    "SIDBI"
+   ],
+   "purpose": "Extended Series A1 close at $12M total",
+   "source_url": "https://www.adityabirlaventures.com",
+   "source_title": "Spacetech Startup Digantara Bags Funding From Aditya Birla Ventures, SIDBI",
+   "source_date": "2024-02-28",
+   "confidence": "HIGH"
+  },
+  {
+   "round_type": "Series B",
+   "announced_date": "2025-12-16",
+   "round_date": "2025-12-16",
+   "amount": 50000000,
+   "currency": "USD",
+   "lead_investors": [
+    "Reliance Industries"
+   ],
+   "all_investors": [
+    "Reliance Industries",
+    "360 ONE Asset",
+    "SBI Investment (Japan)",
+    "Ronnie Screwvala",
+    "Peak XV Partners",
+    "Kalaari Capital"
+   ],
+   "valuation": 200000000,
+   "valuation_currency": "USD",
+   "valuation_type": "post-money (press-quoted)",
+   "instrument": "all-equity",
+   "purpose": "Scale global operations; defence customers and missile-tracking expansion; US/Europe expansion ($7-10M); satellite launches",
+   "source_url": "https://techcrunch.com/2025/12/16/indias-digantara-raises-50m-for-space-based-missile-defence-tech/",
+   "source_title": "India's Digantara raises $50M for space-based missile defense tech | TechCrunch",
+   "source_date": "2025-12-16",
+   "confidence": "HIGH"
+  },
+  {
+   "round_type": "Grant (prize money)",
+   "announced_date": "2020-08-20",
+   "round_date": "2020-08-20",
+   "amount": 250000,
+   "currency": "INR",
+   "lead_investors": [
+    "IISc SID (Society for Innovation and Development)"
+   ],
+   "all_investors": [
+    "IISc SID"
+   ],
+   "purpose": "Pre-seed grant for space debris monitoring R&D",
+   "source_url": "https://www.fsid-iisc.in/2020/08/20/space-startup-develops-indias-first-in-orbit-space-debris-monitoring-tracking-system-anirudh-sharma-co-founder-and-ceo-of-digantara/",
+   "source_title": "Space startup develops India's first in-orbit space debris monitoring - FSID IISc",
+   "source_date": "2020-08-20",
+   "confidence": "HIGH"
+  }
+ ],
+ "gaps": [
+  "website/legal name/CIN unverified",
+  "financials entirely unverified",
+  "total raised $64.5M vs $66.5M across sources — minor, unresolved",
+  "employee count unverified",
+  "financials: no audited or press-quoted FY25 revenue/profit surfaced",
+  "incorporation_date: date for CIN U74999UR2018PTC009322 not in seen snippet; operating-entity CIN (Research and Technologies vs Industries) unresolved"
+ ],
+ "investor_links": [
+  {
+   "investor": "Kalaari Capital",
+   "source_url": "https://techcrunch.com/2023/06/20/digantara-funding-peak-xv-partners/"
+  },
+  {
+   "investor": "Peak XV Partners",
+   "source_url": "https://techcrunch.com/2023/06/20/digantara-funding-peak-xv-partners/"
+  },
+  {
+   "investor": "Reliance Industries",
+   "source_url": "https://economictimes.indiatimes.com/tech/funding/reliance-leads-50-million-round-for-spacetech-startup-digantara/articleshow/127807185.cms"
+  },
+  {
+   "investor": "360 ONE Asset",
+   "source_url": "https://techcrunch.com/2025/12/16/indias-digantara-raises-50m-for-space-based-missile-defence-tech/"
+  },
+  {
+   "investor": "SBI Investment (Japan)",
+   "source_url": "https://techcrunch.com/2025/12/16/indias-digantara-raises-50m-for-space-based-missile-defence-tech/"
+  },
+  {
+   "investor": "Aditya Birla Ventures",
+   "source_url": "https://inc42.com/buzz/spacetech-startup-digantara-bags-funding-from-aditya-birla-ventures-sidbi/"
+  }
+ ],
+ "research_log": [
+  {
+   "found": "Series B $50M, founders, seed/A1 history",
+   "query": "Digantara spacetech funding investors founders Bengaluru"
+  },
+  {
+   "found": "A1 tranches, seed $2.5M",
+   "query": "Digantara Series A funding 2023 2024 amount investors Kalaari Peak XV"
+  },
+  {
+   "date": "2026-09-14",
+   "found": "CIN U74999UR2018PTC009322 for Digantara Research and Technologies Private Limited via ZaubaCorp snippet; note parallel entity Digantara Industries Private Limited (U30304KA2018PTC207867) per Tofler snippet — legal-entity mapping needs care",
+   "query": "Digantara Research Technologies Private Limited CIN",
+   "unresolved": "Which CIN is the operating/funding entity; incorporation date for U74999UR2018PTC009322 not in snippet; no FY25 financials surfaced"
+  },
+  {
+   "date": "2026-09-14",
+   "found": "Series B $50M (Dec 16 2025 close per Moneycontrol), Reliance-led, ~$200M valuation; total raised $64.5M per TechCrunch",
+   "query": "Digantara Series B 50 million valuation December 2025",
+   "unresolved": "audited/press-quoted FY25 financials"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "Digantara official website India space",
+   "found": "www.digantara.co.in confirmed",
+   "unresolved": ""
+  },
+  {
+   "date": "2026-09-14",
+   "query": "Digantara careers page jobs",
+   "found": "digantara.co.in/careers confirmed",
+   "unresolved": ""
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara identity CIN incorporation date registered office",
+   "status": "done",
+   "found": "Two CINs confirmed: U74999UR2018PTC009322 (Digantara R&T) and U30304KA2018PTC207867 (Digantara Industries), both incorporated 19 Dec 2018; registered office at Brigade Senate-2, Hebbal, Bengaluru 560094",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara founders Shreeja IISc",
+   "status": "done",
+   "found": "Three founders confirmed: Anirudh Sharma (CEO), Rahul Rawat (COO), Tanveer Ahmed (CTO); all LPU alumni; incubated at IISc SID; NO 'Shreeja' found in any source",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara funding rounds 2023-2026 AEF India Fund",
+   "status": "done",
+   "found": "Seed $2.5M Kalaari (Jul 2021); Series A1 $10M Peak XV (Jun 2023); A1 ext $2M Aditya Birla Ventures+SIDBI (Feb 2024); Series B $50M Reliance-led (Dec 2025); NO AEF India Fund found",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara products Constellr HelioGlobe",
+   "status": "done",
+   "found": "Products are SCOT, ALBATROSS, SKYGATE, AIRA, MOSAIC; Constellr and HelioGlobe are NOT Digantara products",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara ESA IN-SPACe ISRO partnerships",
+   "status": "done",
+   "found": "Partnerships: DSTA Singapore (Feb 2026), Tensor Tech (Taiwan), OKAPI Orbits (Germany), EXA (South America), Indo-Australian mission; No direct ESA or IN-SPACe partnership found",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara financials MCA revenue FY25",
+   "status": "done",
+   "found": "FY25 revenue ₹4.7 Cr (47.6% YoY growth from ₹3.2 Cr FY24); net loss ₹24.0 Cr",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara employees team advisors",
+   "status": "done",
+   "found": "~125 employees including ~80-85 engineers; team includes scientists from ISRO, NASA, US Air Force; no separate advisors identified",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara MOSAIC DSTA SCOT satellite details",
+   "status": "done",
+   "found": "MOSAIC deployed Aug 2026 (5 sensor nodes); DSTA partnership Feb 2026; SCOT launched Jan 14, 2025 on SpaceX Transporter-12",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara identity CIN incorporation date registered office",
+   "status": "done",
+   "found": "Two CINs confirmed: U74999UR2018PTC009322 (Digantara R&T) and U30304KA2018PTC207867 (Digantara Industries), both incorporated 19 Dec 2018; registered office at Brigade Senate-2, Hebbal, Bengaluru 560094",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara founders Shreeja IISc",
+   "status": "done",
+   "found": "Three founders confirmed: Anirudh Sharma (CEO), Rahul Rawat (COO), Tanveer Ahmed (CTO); all LPU alumni; incubated at IISc SID; NO 'Shreeja' found in any source",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara funding rounds 2023-2026 AEF India Fund",
+   "status": "done",
+   "found": "Seed $2.5M Kalaari (Jul 2021); Series A1 $10M Peak XV (Jun 2023); A1 ext $2M Aditya Birla Ventures+SIDBI (Feb 2024); Series B $50M Reliance-led (Dec 2025); NO AEF India Fund found",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara products Constellr HelioGlobe",
+   "status": "done",
+   "found": "Products are SCOT, ALBATROSS, SKYGATE, AIRA, MOSAIC; Constellr and HelioGlobe are NOT Digantara products",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara ESA IN-SPACe ISRO partnerships",
+   "status": "done",
+   "found": "Partnerships: DSTA Singapore (Feb 2026), Tensor Tech (Taiwan), OKAPI Orbits (Germany), EXA (South America), Indo-Australian mission; No direct ESA or IN-SPACe partnership found",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara financials MCA revenue FY25",
+   "status": "done",
+   "found": "FY25 revenue ₹4.7 Cr (47.6% YoY growth from ₹3.2 Cr FY24); net loss ₹24.0 Cr",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara employees team advisors",
+   "status": "done",
+   "found": "~125 employees including ~80-85 engineers; team includes scientists from ISRO, NASA, US Air Force; no separate advisors identified",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara MOSAIC DSTA SCOT satellite details",
+   "status": "done",
+   "found": "MOSAIC deployed Aug 2026 (5 sensor nodes); DSTA partnership Feb 2026; SCOT launched Jan 14, 2025 on SpaceX Transporter-12",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara identity CIN incorporation date registered office",
+   "status": "done",
+   "found": "Two CINs confirmed: U74999UR2018PTC009322 (Digantara R&T) and U30304KA2018PTC207867 (Digantara Industries), both incorporated 19 Dec 2018; registered office at Brigade Senate-2, Hebbal, Bengaluru 560094",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara founders Shreeja IISc",
+   "status": "done",
+   "found": "Three founders confirmed: Anirudh Sharma (CEO), Rahul Rawat (COO), Tanveer Ahmed (CTO); all LPU alumni; incubated at IISc SID; NO 'Shreeja' found in any source",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara funding rounds 2023-2026 AEF India Fund",
+   "status": "done",
+   "found": "Seed $2.5M Kalaari (Jul 2021); Series A1 $10M Peak XV (Jun 2023); A1 ext $2M Aditya Birla Ventures+SIDBI (Feb 2024); Series B $50M Reliance-led (Dec 2025); NO AEF India Fund found",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara products Constellr HelioGlobe",
+   "status": "done",
+   "found": "Products are SCOT, ALBATROSS, SKYGATE, AIRA, MOSAIC; Constellr and HelioGlobe are NOT Digantara products",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara ESA IN-SPACe ISRO partnerships",
+   "status": "done",
+   "found": "Partnerships: DSTA Singapore (Feb 2026), Tensor Tech (Taiwan), OKAPI Orbits (Germany), EXA (South America), Indo-Australian mission; No direct ESA or IN-SPACe partnership found",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara financials MCA revenue FY25",
+   "status": "done",
+   "found": "FY25 revenue ₹4.7 Cr (47.6% YoY growth from ₹3.2 Cr FY24); net loss ₹24.0 Cr",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara employees team advisors",
+   "status": "done",
+   "found": "~125 employees including ~80-85 engineers; team includes scientists from ISRO, NASA, US Air Force; no separate advisors identified",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara MOSAIC DSTA SCOT satellite details",
+   "status": "done",
+   "found": "MOSAIC deployed Aug 2026 (5 sensor nodes); DSTA partnership Feb 2026; SCOT launched Jan 14, 2025 on SpaceX Transporter-12",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara identity CIN incorporation date registered office",
+   "status": "done",
+   "found": "Two CINs confirmed: U74999UR2018PTC009322 (Digantara R&T) and U30304KA2018PTC207867 (Digantara Industries), both incorporated 19 Dec 2018; registered office at Brigade Senate-2, Hebbal, Bengaluru 560094",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara founders Shreeja IISc",
+   "status": "done",
+   "found": "Three founders confirmed: Anirudh Sharma (CEO), Rahul Rawat (COO), Tanveer Ahmed (CTO); all LPU alumni; incubated at IISc SID; NO 'Shreeja' found in any source",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara funding rounds 2023-2026 AEF India Fund",
+   "status": "done",
+   "found": "Seed $2.5M Kalaari (Jul 2021); Series A1 $10M Peak XV (Jun 2023); A1 ext $2M Aditya Birla Ventures+SIDBI (Feb 2024); Series B $50M Reliance-led (Dec 2025); NO AEF India Fund found",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara products Constellr HelioGlobe",
+   "status": "done",
+   "found": "Products are SCOT, ALBATROSS, SKYGATE, AIRA, MOSAIC; Constellr and HelioGlobe are NOT Digantara products",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara ESA IN-SPACe ISRO partnerships",
+   "status": "done",
+   "found": "Partnerships: DSTA Singapore (Feb 2026), Tensor Tech (Taiwan), OKAPI Orbits (Germany), EXA (South America), Indo-Australian mission; No direct ESA or IN-SPACe partnership found",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara financials MCA revenue FY25",
+   "status": "done",
+   "found": "FY25 revenue ₹4.7 Cr (47.6% YoY growth from ₹3.2 Cr FY24); net loss ₹24.0 Cr",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara employees team advisors",
+   "status": "done",
+   "found": "~125 employees including ~80-85 engineers; team includes scientists from ISRO, NASA, US Air Force; no separate advisors identified",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara MOSAIC DSTA SCOT satellite details",
+   "status": "done",
+   "found": "MOSAIC deployed Aug 2026 (5 sensor nodes); DSTA partnership Feb 2026; SCOT launched Jan 14, 2025 on SpaceX Transporter-12",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara identity CIN incorporation date registered office",
+   "status": "done",
+   "found": "Two CINs confirmed: U74999UR2018PTC009322 (Digantara R&T) and U30304KA2018PTC207867 (Digantara Industries), both incorporated 19 Dec 2018; registered office at Brigade Senate-2, Hebbal, Bengaluru 560094",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara founders Shreeja IISc",
+   "status": "done",
+   "found": "Three founders confirmed: Anirudh Sharma (CEO), Rahul Rawat (COO), Tanveer Ahmed (CTO); all LPU alumni; incubated at IISc SID; NO 'Shreeja' found in any source",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara funding rounds 2023-2026 AEF India Fund",
+   "status": "done",
+   "found": "Seed $2.5M Kalaari (Jul 2021); Series A1 $10M Peak XV (Jun 2023); A1 ext $2M Aditya Birla Ventures+SIDBI (Feb 2024); Series B $50M Reliance-led (Dec 2025); NO AEF India Fund found",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara products Constellr HelioGlobe",
+   "status": "done",
+   "found": "Products are SCOT, ALBATROSS, SKYGATE, AIRA, MOSAIC; Constellr and HelioGlobe are NOT Digantara products",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara ESA IN-SPACe ISRO partnerships",
+   "status": "done",
+   "found": "Partnerships: DSTA Singapore (Feb 2026), Tensor Tech (Taiwan), OKAPI Orbits (Germany), EXA (South America), Indo-Australian mission; No direct ESA or IN-SPACe partnership found",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara financials MCA revenue FY25",
+   "status": "done",
+   "found": "FY25 revenue ₹4.7 Cr (47.6% YoY growth from ₹3.2 Cr FY24); net loss ₹24.0 Cr",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara employees team advisors",
+   "status": "done",
+   "found": "~125 employees including ~80-85 engineers; team includes scientists from ISRO, NASA, US Air Force; no separate advisors identified",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara MOSAIC DSTA SCOT satellite details",
+   "status": "done",
+   "found": "MOSAIC deployed Aug 2026 (5 sensor nodes); DSTA partnership Feb 2026; SCOT launched Jan 14, 2025 on SpaceX Transporter-12",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara identity CIN incorporation date registered office",
+   "status": "done",
+   "found": "Two CINs confirmed: U74999UR2018PTC009322 (Digantara R&T) and U30304KA2018PTC207867 (Digantara Industries), both incorporated 19 Dec 2018; registered office at Brigade Senate-2, Hebbal, Bengaluru 560094",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara founders Shreeja IISc",
+   "status": "done",
+   "found": "Three founders confirmed: Anirudh Sharma (CEO), Rahul Rawat (COO), Tanveer Ahmed (CTO); all LPU alumni; incubated at IISc SID; NO 'Shreeja' found in any source",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara funding rounds 2023-2026 AEF India Fund",
+   "status": "done",
+   "found": "Seed $2.5M Kalaari (Jul 2021); Series A1 $10M Peak XV (Jun 2023); A1 ext $2M Aditya Birla Ventures+SIDBI (Feb 2024); Series B $50M Reliance-led (Dec 2025); NO AEF India Fund found",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara products Constellr HelioGlobe",
+   "status": "done",
+   "found": "Products are SCOT, ALBATROSS, SKYGATE, AIRA, MOSAIC; Constellr and HelioGlobe are NOT Digantara products",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara ESA IN-SPACe ISRO partnerships",
+   "status": "done",
+   "found": "Partnerships: DSTA Singapore (Feb 2026), Tensor Tech (Taiwan), OKAPI Orbits (Germany), EXA (South America), Indo-Australian mission; No direct ESA or IN-SPACe partnership found",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara financials MCA revenue FY25",
+   "status": "done",
+   "found": "FY25 revenue ₹4.7 Cr (47.6% YoY growth from ₹3.2 Cr FY24); net loss ₹24.0 Cr",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara employees team advisors",
+   "status": "done",
+   "found": "~125 employees including ~80-85 engineers; team includes scientists from ISRO, NASA, US Air Force; no separate advisors identified",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara MOSAIC DSTA SCOT satellite details",
+   "status": "done",
+   "found": "MOSAIC deployed Aug 2026 (5 sensor nodes); DSTA partnership Feb 2026; SCOT launched Jan 14, 2025 on SpaceX Transporter-12",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara identity CIN incorporation date registered office",
+   "status": "done",
+   "found": "Two CINs confirmed: U74999UR2018PTC009322 (Digantara R&T) and U30304KA2018PTC207867 (Digantara Industries), both incorporated 19 Dec 2018; registered office at Brigade Senate-2, Hebbal, Bengaluru 560094",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara founders Shreeja IISc",
+   "status": "done",
+   "found": "Three founders confirmed: Anirudh Sharma (CEO), Rahul Rawat (COO), Tanveer Ahmed (CTO); all LPU alumni; incubated at IISc SID; NO 'Shreeja' found in any source",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara funding rounds 2023-2026 AEF India Fund",
+   "status": "done",
+   "found": "Seed $2.5M Kalaari (Jul 2021); Series A1 $10M Peak XV (Jun 2023); A1 ext $2M Aditya Birla Ventures+SIDBI (Feb 2024); Series B $50M Reliance-led (Dec 2025); NO AEF India Fund found",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara products Constellr HelioGlobe",
+   "status": "done",
+   "found": "Products are SCOT, ALBATROSS, SKYGATE, AIRA, MOSAIC; Constellr and HelioGlobe are NOT Digantara products",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara ESA IN-SPACe ISRO partnerships",
+   "status": "done",
+   "found": "Partnerships: DSTA Singapore (Feb 2026), Tensor Tech (Taiwan), OKAPI Orbits (Germany), EXA (South America), Indo-Australian mission; No direct ESA or IN-SPACe partnership found",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara financials MCA revenue FY25",
+   "status": "done",
+   "found": "FY25 revenue ₹4.7 Cr (47.6% YoY growth from ₹3.2 Cr FY24); net loss ₹24.0 Cr",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara employees team advisors",
+   "status": "done",
+   "found": "~125 employees including ~80-85 engineers; team includes scientists from ISRO, NASA, US Air Force; no separate advisors identified",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara MOSAIC DSTA SCOT satellite details",
+   "status": "done",
+   "found": "MOSAIC deployed Aug 2026 (5 sensor nodes); DSTA partnership Feb 2026; SCOT launched Jan 14, 2025 on SpaceX Transporter-12",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara identity CIN incorporation date registered office",
+   "status": "done",
+   "found": "Two CINs confirmed: U74999UR2018PTC009322 (Digantara R&T) and U30304KA2018PTC207867 (Digantara Industries), both incorporated 19 Dec 2018; registered office at Brigade Senate-2, Hebbal, Bengaluru 560094",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara founders Shreeja IISc",
+   "status": "done",
+   "found": "Three founders confirmed: Anirudh Sharma (CEO), Rahul Rawat (COO), Tanveer Ahmed (CTO); all LPU alumni; incubated at IISc SID; NO 'Shreeja' found in any source",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara funding rounds 2023-2026 AEF India Fund",
+   "status": "done",
+   "found": "Seed $2.5M Kalaari (Jul 2021); Series A1 $10M Peak XV (Jun 2023); A1 ext $2M Aditya Birla Ventures+SIDBI (Feb 2024); Series B $50M Reliance-led (Dec 2025); NO AEF India Fund found",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara products Constellr HelioGlobe",
+   "status": "done",
+   "found": "Products are SCOT, ALBATROSS, SKYGATE, AIRA, MOSAIC; Constellr and HelioGlobe are NOT Digantara products",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara ESA IN-SPACe ISRO partnerships",
+   "status": "done",
+   "found": "Partnerships: DSTA Singapore (Feb 2026), Tensor Tech (Taiwan), OKAPI Orbits (Germany), EXA (South America), Indo-Australian mission; No direct ESA or IN-SPACe partnership found",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara financials MCA revenue FY25",
+   "status": "done",
+   "found": "FY25 revenue ₹4.7 Cr (47.6% YoY growth from ₹3.2 Cr FY24); net loss ₹24.0 Cr",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara employees team advisors",
+   "status": "done",
+   "found": "~125 employees including ~80-85 engineers; team includes scientists from ISRO, NASA, US Air Force; no separate advisors identified",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara MOSAIC DSTA SCOT satellite details",
+   "status": "done",
+   "found": "MOSAIC deployed Aug 2026 (5 sensor nodes); DSTA partnership Feb 2026; SCOT launched Jan 14, 2025 on SpaceX Transporter-12",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara identity CIN incorporation date registered office",
+   "status": "done",
+   "found": "Two CINs confirmed: U74999UR2018PTC009322 (Digantara R&T) and U30304KA2018PTC207867 (Digantara Industries), both incorporated 19 Dec 2018; registered office at Brigade Senate-2, Hebbal, Bengaluru 560094",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara founders Shreeja IISc",
+   "status": "done",
+   "found": "Three founders confirmed: Anirudh Sharma (CEO), Rahul Rawat (COO), Tanveer Ahmed (CTO); all LPU alumni; incubated at IISc SID; NO 'Shreeja' found in any source",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara funding rounds 2023-2026 AEF India Fund",
+   "status": "done",
+   "found": "Seed $2.5M Kalaari (Jul 2021); Series A1 $10M Peak XV (Jun 2023); A1 ext $2M Aditya Birla Ventures+SIDBI (Feb 2024); Series B $50M Reliance-led (Dec 2025); NO AEF India Fund found",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara products Constellr HelioGlobe",
+   "status": "done",
+   "found": "Products are SCOT, ALBATROSS, SKYGATE, AIRA, MOSAIC; Constellr and HelioGlobe are NOT Digantara products",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara ESA IN-SPACe ISRO partnerships",
+   "status": "done",
+   "found": "Partnerships: DSTA Singapore (Feb 2026), Tensor Tech (Taiwan), OKAPI Orbits (Germany), EXA (South America), Indo-Australian mission; No direct ESA or IN-SPACe partnership found",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara financials MCA revenue FY25",
+   "status": "done",
+   "found": "FY25 revenue ₹4.7 Cr (47.6% YoY growth from ₹3.2 Cr FY24); net loss ₹24.0 Cr",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara employees team advisors",
+   "status": "done",
+   "found": "~125 employees including ~80-85 engineers; team includes scientists from ISRO, NASA, US Air Force; no separate advisors identified",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara MOSAIC DSTA SCOT satellite details",
+   "status": "done",
+   "found": "MOSAIC deployed Aug 2026 (5 sensor nodes); DSTA partnership Feb 2026; SCOT launched Jan 14, 2025 on SpaceX Transporter-12",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara identity CIN incorporation date registered office",
+   "status": "done",
+   "found": "Two CINs confirmed: U74999UR2018PTC009322 (Digantara R&T) and U30304KA2018PTC207867 (Digantara Industries), both incorporated 19 Dec 2018; registered office at Brigade Senate-2, Hebbal, Bengaluru 560094",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara founders Shreeja IISc",
+   "status": "done",
+   "found": "Three founders confirmed: Anirudh Sharma (CEO), Rahul Rawat (COO), Tanveer Ahmed (CTO); all LPU alumni; incubated at IISc SID; NO 'Shreeja' found in any source",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara funding rounds 2023-2026 AEF India Fund",
+   "status": "done",
+   "found": "Seed $2.5M Kalaari (Jul 2021); Series A1 $10M Peak XV (Jun 2023); A1 ext $2M Aditya Birla Ventures+SIDBI (Feb 2024); Series B $50M Reliance-led (Dec 2025); NO AEF India Fund found",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara products Constellr HelioGlobe",
+   "status": "done",
+   "found": "Products are SCOT, ALBATROSS, SKYGATE, AIRA, MOSAIC; Constellr and HelioGlobe are NOT Digantara products",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara ESA IN-SPACe ISRO partnerships",
+   "status": "done",
+   "found": "Partnerships: DSTA Singapore (Feb 2026), Tensor Tech (Taiwan), OKAPI Orbits (Germany), EXA (South America), Indo-Australian mission; No direct ESA or IN-SPACe partnership found",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara financials MCA revenue FY25",
+   "status": "done",
+   "found": "FY25 revenue ₹4.7 Cr (47.6% YoY growth from ₹3.2 Cr FY24); net loss ₹24.0 Cr",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara employees team advisors",
+   "status": "done",
+   "found": "~125 employees including ~80-85 engineers; team includes scientists from ISRO, NASA, US Air Force; no separate advisors identified",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara MOSAIC DSTA SCOT satellite details",
+   "status": "done",
+   "found": "MOSAIC deployed Aug 2026 (5 sensor nodes); DSTA partnership Feb 2026; SCOT launched Jan 14, 2025 on SpaceX Transporter-12",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara identity CIN incorporation date registered office",
+   "status": "done",
+   "found": "Two CINs confirmed: U74999UR2018PTC009322 (Digantara R&T) and U30304KA2018PTC207867 (Digantara Industries), both incorporated 19 Dec 2018; registered office at Brigade Senate-2, Hebbal, Bengaluru 560094",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara founders Shreeja IISc",
+   "status": "done",
+   "found": "Three founders confirmed: Anirudh Sharma (CEO), Rahul Rawat (COO), Tanveer Ahmed (CTO); all LPU alumni; incubated at IISc SID; NO 'Shreeja' found in any source",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara funding rounds 2023-2026 AEF India Fund",
+   "status": "done",
+   "found": "Seed $2.5M Kalaari (Jul 2021); Series A1 $10M Peak XV (Jun 2023); A1 ext $2M Aditya Birla Ventures+SIDBI (Feb 2024); Series B $50M Reliance-led (Dec 2025); NO AEF India Fund found",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara products Constellr HelioGlobe",
+   "status": "done",
+   "found": "Products are SCOT, ALBATROSS, SKYGATE, AIRA, MOSAIC; Constellr and HelioGlobe are NOT Digantara products",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara ESA IN-SPACe ISRO partnerships",
+   "status": "done",
+   "found": "Partnerships: DSTA Singapore (Feb 2026), Tensor Tech (Taiwan), OKAPI Orbits (Germany), EXA (South America), Indo-Australian mission; No direct ESA or IN-SPACe partnership found",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara financials MCA revenue FY25",
+   "status": "done",
+   "found": "FY25 revenue ₹4.7 Cr (47.6% YoY growth from ₹3.2 Cr FY24); net loss ₹24.0 Cr",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara employees team advisors",
+   "status": "done",
+   "found": "~125 employees including ~80-85 engineers; team includes scientists from ISRO, NASA, US Air Force; no separate advisors identified",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara MOSAIC DSTA SCOT satellite details",
+   "status": "done",
+   "found": "MOSAIC deployed Aug 2026 (5 sensor nodes); DSTA partnership Feb 2026; SCOT launched Jan 14, 2025 on SpaceX Transporter-12",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara identity CIN incorporation date registered office",
+   "status": "done",
+   "found": "Two CINs confirmed: U74999UR2018PTC009322 (Digantara R&T) and U30304KA2018PTC207867 (Digantara Industries), both incorporated 19 Dec 2018; registered office at Brigade Senate-2, Hebbal, Bengaluru 560094",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara founders Shreeja IISc",
+   "status": "done",
+   "found": "Three founders confirmed: Anirudh Sharma (CEO), Rahul Rawat (COO), Tanveer Ahmed (CTO); all LPU alumni; incubated at IISc SID; NO 'Shreeja' found in any source",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara funding rounds 2023-2026 AEF India Fund",
+   "status": "done",
+   "found": "Seed $2.5M Kalaari (Jul 2021); Series A1 $10M Peak XV (Jun 2023); A1 ext $2M Aditya Birla Ventures+SIDBI (Feb 2024); Series B $50M Reliance-led (Dec 2025); NO AEF India Fund found",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara products Constellr HelioGlobe",
+   "status": "done",
+   "found": "Products are SCOT, ALBATROSS, SKYGATE, AIRA, MOSAIC; Constellr and HelioGlobe are NOT Digantara products",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara ESA IN-SPACe ISRO partnerships",
+   "status": "done",
+   "found": "Partnerships: DSTA Singapore (Feb 2026), Tensor Tech (Taiwan), OKAPI Orbits (Germany), EXA (South America), Indo-Australian mission; No direct ESA or IN-SPACe partnership found",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara financials MCA revenue FY25",
+   "status": "done",
+   "found": "FY25 revenue ₹4.7 Cr (47.6% YoY growth from ₹3.2 Cr FY24); net loss ₹24.0 Cr",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara employees team advisors",
+   "status": "done",
+   "found": "~125 employees including ~80-85 engineers; team includes scientists from ISRO, NASA, US Air Force; no separate advisors identified",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara MOSAIC DSTA SCOT satellite details",
+   "status": "done",
+   "found": "MOSAIC deployed Aug 2026 (5 sensor nodes); DSTA partnership Feb 2026; SCOT launched Jan 14, 2025 on SpaceX Transporter-12",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara identity CIN incorporation date registered office",
+   "status": "done",
+   "found": "Two CINs confirmed: U74999UR2018PTC009322 (Digantara R&T) and U30304KA2018PTC207867 (Digantara Industries), both incorporated 19 Dec 2018; registered office at Brigade Senate-2, Hebbal, Bengaluru 560094",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara founders Shreeja IISc",
+   "status": "done",
+   "found": "Three founders confirmed: Anirudh Sharma (CEO), Rahul Rawat (COO), Tanveer Ahmed (CTO); all LPU alumni; incubated at IISc SID; NO 'Shreeja' found in any source",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara funding rounds 2023-2026 AEF India Fund",
+   "status": "done",
+   "found": "Seed $2.5M Kalaari (Jul 2021); Series A1 $10M Peak XV (Jun 2023); A1 ext $2M Aditya Birla Ventures+SIDBI (Feb 2024); Series B $50M Reliance-led (Dec 2025); NO AEF India Fund found",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara products Constellr HelioGlobe",
+   "status": "done",
+   "found": "Products are SCOT, ALBATROSS, SKYGATE, AIRA, MOSAIC; Constellr and HelioGlobe are NOT Digantara products",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara ESA IN-SPACe ISRO partnerships",
+   "status": "done",
+   "found": "Partnerships: DSTA Singapore (Feb 2026), Tensor Tech (Taiwan), OKAPI Orbits (Germany), EXA (South America), Indo-Australian mission; No direct ESA or IN-SPACe partnership found",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara financials MCA revenue FY25",
+   "status": "done",
+   "found": "FY25 revenue ₹4.7 Cr (47.6% YoY growth from ₹3.2 Cr FY24); net loss ₹24.0 Cr",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara employees team advisors",
+   "status": "done",
+   "found": "~125 employees including ~80-85 engineers; team includes scientists from ISRO, NASA, US Air Force; no separate advisors identified",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara MOSAIC DSTA SCOT satellite details",
+   "status": "done",
+   "found": "MOSAIC deployed Aug 2026 (5 sensor nodes); DSTA partnership Feb 2026; SCOT launched Jan 14, 2025 on SpaceX Transporter-12",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara identity CIN incorporation date registered office",
+   "status": "done",
+   "found": "Two CINs confirmed: U74999UR2018PTC009322 (Digantara R&T) and U30304KA2018PTC207867 (Digantara Industries), both incorporated 19 Dec 2018; registered office at Brigade Senate-2, Hebbal, Bengaluru 560094",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara founders Shreeja IISc",
+   "status": "done",
+   "found": "Three founders confirmed: Anirudh Sharma (CEO), Rahul Rawat (COO), Tanveer Ahmed (CTO); all LPU alumni; incubated at IISc SID; NO 'Shreeja' found in any source",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara funding rounds 2023-2026 AEF India Fund",
+   "status": "done",
+   "found": "Seed $2.5M Kalaari (Jul 2021); Series A1 $10M Peak XV (Jun 2023); A1 ext $2M Aditya Birla Ventures+SIDBI (Feb 2024); Series B $50M Reliance-led (Dec 2025); NO AEF India Fund found",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara products Constellr HelioGlobe",
+   "status": "done",
+   "found": "Products are SCOT, ALBATROSS, SKYGATE, AIRA, MOSAIC; Constellr and HelioGlobe are NOT Digantara products",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara ESA IN-SPACe ISRO partnerships",
+   "status": "done",
+   "found": "Partnerships: DSTA Singapore (Feb 2026), Tensor Tech (Taiwan), OKAPI Orbits (Germany), EXA (South America), Indo-Australian mission; No direct ESA or IN-SPACe partnership found",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara financials MCA revenue FY25",
+   "status": "done",
+   "found": "FY25 revenue ₹4.7 Cr (47.6% YoY growth from ₹3.2 Cr FY24); net loss ₹24.0 Cr",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara employees team advisors",
+   "status": "done",
+   "found": "~125 employees including ~80-85 engineers; team includes scientists from ISRO, NASA, US Air Force; no separate advisors identified",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara MOSAIC DSTA SCOT satellite details",
+   "status": "done",
+   "found": "MOSAIC deployed Aug 2026 (5 sensor nodes); DSTA partnership Feb 2026; SCOT launched Jan 14, 2025 on SpaceX Transporter-12",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara identity CIN incorporation date registered office",
+   "status": "done",
+   "found": "Two CINs confirmed: U74999UR2018PTC009322 (Digantara R&T) and U30304KA2018PTC207867 (Digantara Industries), both incorporated 19 Dec 2018; registered office at Brigade Senate-2, Hebbal, Bengaluru 560094",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara founders Shreeja IISc",
+   "status": "done",
+   "found": "Three founders confirmed: Anirudh Sharma (CEO), Rahul Rawat (COO), Tanveer Ahmed (CTO); all LPU alumni; incubated at IISc SID; NO 'Shreeja' found in any source",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara funding rounds 2023-2026 AEF India Fund",
+   "status": "done",
+   "found": "Seed $2.5M Kalaari (Jul 2021); Series A1 $10M Peak XV (Jun 2023); A1 ext $2M Aditya Birla Ventures+SIDBI (Feb 2024); Series B $50M Reliance-led (Dec 2025); NO AEF India Fund found",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara products Constellr HelioGlobe",
+   "status": "done",
+   "found": "Products are SCOT, ALBATROSS, SKYGATE, AIRA, MOSAIC; Constellr and HelioGlobe are NOT Digantara products",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara ESA IN-SPACe ISRO partnerships",
+   "status": "done",
+   "found": "Partnerships: DSTA Singapore (Feb 2026), Tensor Tech (Taiwan), OKAPI Orbits (Germany), EXA (South America), Indo-Australian mission; No direct ESA or IN-SPACe partnership found",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara financials MCA revenue FY25",
+   "status": "done",
+   "found": "FY25 revenue ₹4.7 Cr (47.6% YoY growth from ₹3.2 Cr FY24); net loss ₹24.0 Cr",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara employees team advisors",
+   "status": "done",
+   "found": "~125 employees including ~80-85 engineers; team includes scientists from ISRO, NASA, US Air Force; no separate advisors identified",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara MOSAIC DSTA SCOT satellite details",
+   "status": "done",
+   "found": "MOSAIC deployed Aug 2026 (5 sensor nodes); DSTA partnership Feb 2026; SCOT launched Jan 14, 2025 on SpaceX Transporter-12",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara identity CIN incorporation date registered office",
+   "status": "done",
+   "found": "Two CINs confirmed: U74999UR2018PTC009322 (Digantara R&T) and U30304KA2018PTC207867 (Digantara Industries), both incorporated 19 Dec 2018; registered office at Brigade Senate-2, Hebbal, Bengaluru 560094",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara founders Shreeja IISc",
+   "status": "done",
+   "found": "Three founders confirmed: Anirudh Sharma (CEO), Rahul Rawat (COO), Tanveer Ahmed (CTO); all LPU alumni; incubated at IISc SID; NO 'Shreeja' found in any source",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara funding rounds 2023-2026 AEF India Fund",
+   "status": "done",
+   "found": "Seed $2.5M Kalaari (Jul 2021); Series A1 $10M Peak XV (Jun 2023); A1 ext $2M Aditya Birla Ventures+SIDBI (Feb 2024); Series B $50M Reliance-led (Dec 2025); NO AEF India Fund found",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara products Constellr HelioGlobe",
+   "status": "done",
+   "found": "Products are SCOT, ALBATROSS, SKYGATE, AIRA, MOSAIC; Constellr and HelioGlobe are NOT Digantara products",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara ESA IN-SPACe ISRO partnerships",
+   "status": "done",
+   "found": "Partnerships: DSTA Singapore (Feb 2026), Tensor Tech (Taiwan), OKAPI Orbits (Germany), EXA (South America), Indo-Australian mission; No direct ESA or IN-SPACe partnership found",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara financials MCA revenue FY25",
+   "status": "done",
+   "found": "FY25 revenue ₹4.7 Cr (47.6% YoY growth from ₹3.2 Cr FY24); net loss ₹24.0 Cr",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara employees team advisors",
+   "status": "done",
+   "found": "~125 employees including ~80-85 engineers; team includes scientists from ISRO, NASA, US Air Force; no separate advisors identified",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara MOSAIC DSTA SCOT satellite details",
+   "status": "done",
+   "found": "MOSAIC deployed Aug 2026 (5 sensor nodes); DSTA partnership Feb 2026; SCOT launched Jan 14, 2025 on SpaceX Transporter-12",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara identity CIN incorporation date registered office",
+   "status": "done",
+   "found": "Two CINs confirmed: U74999UR2018PTC009322 (Digantara R&T) and U30304KA2018PTC207867 (Digantara Industries), both incorporated 19 Dec 2018; registered office at Brigade Senate-2, Hebbal, Bengaluru 560094",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara founders Shreeja IISc",
+   "status": "done",
+   "found": "Three founders confirmed: Anirudh Sharma (CEO), Rahul Rawat (COO), Tanveer Ahmed (CTO); all LPU alumni; incubated at IISc SID; NO 'Shreeja' found in any source",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara funding rounds 2023-2026 AEF India Fund",
+   "status": "done",
+   "found": "Seed $2.5M Kalaari (Jul 2021); Series A1 $10M Peak XV (Jun 2023); A1 ext $2M Aditya Birla Ventures+SIDBI (Feb 2024); Series B $50M Reliance-led (Dec 2025); NO AEF India Fund found",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara products Constellr HelioGlobe",
+   "status": "done",
+   "found": "Products are SCOT, ALBATROSS, SKYGATE, AIRA, MOSAIC; Constellr and HelioGlobe are NOT Digantara products",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara ESA IN-SPACe ISRO partnerships",
+   "status": "done",
+   "found": "Partnerships: DSTA Singapore (Feb 2026), Tensor Tech (Taiwan), OKAPI Orbits (Germany), EXA (South America), Indo-Australian mission; No direct ESA or IN-SPACe partnership found",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara financials MCA revenue FY25",
+   "status": "done",
+   "found": "FY25 revenue ₹4.7 Cr (47.6% YoY growth from ₹3.2 Cr FY24); net loss ₹24.0 Cr",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara employees team advisors",
+   "status": "done",
+   "found": "~125 employees including ~80-85 engineers; team includes scientists from ISRO, NASA, US Air Force; no separate advisors identified",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara MOSAIC DSTA SCOT satellite details",
+   "status": "done",
+   "found": "MOSAIC deployed Aug 2026 (5 sensor nodes); DSTA partnership Feb 2026; SCOT launched Jan 14, 2025 on SpaceX Transporter-12",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara identity CIN incorporation date registered office",
+   "status": "done",
+   "found": "Two CINs confirmed: U74999UR2018PTC009322 (Digantara R&T) and U30304KA2018PTC207867 (Digantara Industries), both incorporated 19 Dec 2018; registered office at Brigade Senate-2, Hebbal, Bengaluru 560094",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara founders Shreeja IISc",
+   "status": "done",
+   "found": "Three founders confirmed: Anirudh Sharma (CEO), Rahul Rawat (COO), Tanveer Ahmed (CTO); all LPU alumni; incubated at IISc SID; NO 'Shreeja' found in any source",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara funding rounds 2023-2026 AEF India Fund",
+   "status": "done",
+   "found": "Seed $2.5M Kalaari (Jul 2021); Series A1 $10M Peak XV (Jun 2023); A1 ext $2M Aditya Birla Ventures+SIDBI (Feb 2024); Series B $50M Reliance-led (Dec 2025); NO AEF India Fund found",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara products Constellr HelioGlobe",
+   "status": "done",
+   "found": "Products are SCOT, ALBATROSS, SKYGATE, AIRA, MOSAIC; Constellr and HelioGlobe are NOT Digantara products",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara ESA IN-SPACe ISRO partnerships",
+   "status": "done",
+   "found": "Partnerships: DSTA Singapore (Feb 2026), Tensor Tech (Taiwan), OKAPI Orbits (Germany), EXA (South America), Indo-Australian mission; No direct ESA or IN-SPACe partnership found",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara financials MCA revenue FY25",
+   "status": "done",
+   "found": "FY25 revenue ₹4.7 Cr (47.6% YoY growth from ₹3.2 Cr FY24); net loss ₹24.0 Cr",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara employees team advisors",
+   "status": "done",
+   "found": "~125 employees including ~80-85 engineers; team includes scientists from ISRO, NASA, US Air Force; no separate advisors identified",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara MOSAIC DSTA SCOT satellite details",
+   "status": "done",
+   "found": "MOSAIC deployed Aug 2026 (5 sensor nodes); DSTA partnership Feb 2026; SCOT launched Jan 14, 2025 on SpaceX Transporter-12",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara identity CIN incorporation date registered office",
+   "status": "done",
+   "found": "Two CINs confirmed: U74999UR2018PTC009322 (Digantara R&T) and U30304KA2018PTC207867 (Digantara Industries), both incorporated 19 Dec 2018; registered office at Brigade Senate-2, Hebbal, Bengaluru 560094",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara founders Shreeja IISc",
+   "status": "done",
+   "found": "Three founders confirmed: Anirudh Sharma (CEO), Rahul Rawat (COO), Tanveer Ahmed (CTO); all LPU alumni; incubated at IISc SID; NO 'Shreeja' found in any source",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara funding rounds 2023-2026 AEF India Fund",
+   "status": "done",
+   "found": "Seed $2.5M Kalaari (Jul 2021); Series A1 $10M Peak XV (Jun 2023); A1 ext $2M Aditya Birla Ventures+SIDBI (Feb 2024); Series B $50M Reliance-led (Dec 2025); NO AEF India Fund found",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara products Constellr HelioGlobe",
+   "status": "done",
+   "found": "Products are SCOT, ALBATROSS, SKYGATE, AIRA, MOSAIC; Constellr and HelioGlobe are NOT Digantara products",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara ESA IN-SPACe ISRO partnerships",
+   "status": "done",
+   "found": "Partnerships: DSTA Singapore (Feb 2026), Tensor Tech (Taiwan), OKAPI Orbits (Germany), EXA (South America), Indo-Australian mission; No direct ESA or IN-SPACe partnership found",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara financials MCA revenue FY25",
+   "status": "done",
+   "found": "FY25 revenue ₹4.7 Cr (47.6% YoY growth from ₹3.2 Cr FY24); net loss ₹24.0 Cr",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara employees team advisors",
+   "status": "done",
+   "found": "~125 employees including ~80-85 engineers; team includes scientists from ISRO, NASA, US Air Force; no separate advisors identified",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara MOSAIC DSTA SCOT satellite details",
+   "status": "done",
+   "found": "MOSAIC deployed Aug 2026 (5 sensor nodes); DSTA partnership Feb 2026; SCOT launched Jan 14, 2025 on SpaceX Transporter-12",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara identity CIN incorporation date registered office",
+   "status": "done",
+   "found": "Two CINs confirmed: U74999UR2018PTC009322 (Digantara R&T) and U30304KA2018PTC207867 (Digantara Industries), both incorporated 19 Dec 2018; registered office at Brigade Senate-2, Hebbal, Bengaluru 560094",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara founders Shreeja IISc",
+   "status": "done",
+   "found": "Three founders confirmed: Anirudh Sharma (CEO), Rahul Rawat (COO), Tanveer Ahmed (CTO); all LPU alumni; incubated at IISc SID; NO 'Shreeja' found in any source",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara funding rounds 2023-2026 AEF India Fund",
+   "status": "done",
+   "found": "Seed $2.5M Kalaari (Jul 2021); Series A1 $10M Peak XV (Jun 2023); A1 ext $2M Aditya Birla Ventures+SIDBI (Feb 2024); Series B $50M Reliance-led (Dec 2025); NO AEF India Fund found",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara products Constellr HelioGlobe",
+   "status": "done",
+   "found": "Products are SCOT, ALBATROSS, SKYGATE, AIRA, MOSAIC; Constellr and HelioGlobe are NOT Digantara products",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara ESA IN-SPACe ISRO partnerships",
+   "status": "done",
+   "found": "Partnerships: DSTA Singapore (Feb 2026), Tensor Tech (Taiwan), OKAPI Orbits (Germany), EXA (South America), Indo-Australian mission; No direct ESA or IN-SPACe partnership found",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara financials MCA revenue FY25",
+   "status": "done",
+   "found": "FY25 revenue ₹4.7 Cr (47.6% YoY growth from ₹3.2 Cr FY24); net loss ₹24.0 Cr",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara employees team advisors",
+   "status": "done",
+   "found": "~125 employees including ~80-85 engineers; team includes scientists from ISRO, NASA, US Air Force; no separate advisors identified",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara MOSAIC DSTA SCOT satellite details",
+   "status": "done",
+   "found": "MOSAIC deployed Aug 2026 (5 sensor nodes); DSTA partnership Feb 2026; SCOT launched Jan 14, 2025 on SpaceX Transporter-12",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara identity CIN incorporation date registered office",
+   "status": "done",
+   "found": "Two CINs confirmed: U74999UR2018PTC009322 (Digantara R&T) and U30304KA2018PTC207867 (Digantara Industries), both incorporated 19 Dec 2018; registered office at Brigade Senate-2, Hebbal, Bengaluru 560094",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara founders Shreeja IISc",
+   "status": "done",
+   "found": "Three founders confirmed: Anirudh Sharma (CEO), Rahul Rawat (COO), Tanveer Ahmed (CTO); all LPU alumni; incubated at IISc SID; NO 'Shreeja' found in any source",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara funding rounds 2023-2026 AEF India Fund",
+   "status": "done",
+   "found": "Seed $2.5M Kalaari (Jul 2021); Series A1 $10M Peak XV (Jun 2023); A1 ext $2M Aditya Birla Ventures+SIDBI (Feb 2024); Series B $50M Reliance-led (Dec 2025); NO AEF India Fund found",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara products Constellr HelioGlobe",
+   "status": "done",
+   "found": "Products are SCOT, ALBATROSS, SKYGATE, AIRA, MOSAIC; Constellr and HelioGlobe are NOT Digantara products",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara ESA IN-SPACe ISRO partnerships",
+   "status": "done",
+   "found": "Partnerships: DSTA Singapore (Feb 2026), Tensor Tech (Taiwan), OKAPI Orbits (Germany), EXA (South America), Indo-Australian mission; No direct ESA or IN-SPACe partnership found",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara financials MCA revenue FY25",
+   "status": "done",
+   "found": "FY25 revenue ₹4.7 Cr (47.6% YoY growth from ₹3.2 Cr FY24); net loss ₹24.0 Cr",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara employees team advisors",
+   "status": "done",
+   "found": "~125 employees including ~80-85 engineers; team includes scientists from ISRO, NASA, US Air Force; no separate advisors identified",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara MOSAIC DSTA SCOT satellite details",
+   "status": "done",
+   "found": "MOSAIC deployed Aug 2026 (5 sensor nodes); DSTA partnership Feb 2026; SCOT launched Jan 14, 2025 on SpaceX Transporter-12",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara identity CIN incorporation date registered office",
+   "status": "done",
+   "found": "Two CINs confirmed: U74999UR2018PTC009322 (Digantara R&T) and U30304KA2018PTC207867 (Digantara Industries), both incorporated 19 Dec 2018; registered office at Brigade Senate-2, Hebbal, Bengaluru 560094",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara founders Shreeja IISc",
+   "status": "done",
+   "found": "Three founders confirmed: Anirudh Sharma (CEO), Rahul Rawat (COO), Tanveer Ahmed (CTO); all LPU alumni; incubated at IISc SID; NO 'Shreeja' found in any source",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara funding rounds 2023-2026 AEF India Fund",
+   "status": "done",
+   "found": "Seed $2.5M Kalaari (Jul 2021); Series A1 $10M Peak XV (Jun 2023); A1 ext $2M Aditya Birla Ventures+SIDBI (Feb 2024); Series B $50M Reliance-led (Dec 2025); NO AEF India Fund found",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara products Constellr HelioGlobe",
+   "status": "done",
+   "found": "Products are SCOT, ALBATROSS, SKYGATE, AIRA, MOSAIC; Constellr and HelioGlobe are NOT Digantara products",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara ESA IN-SPACe ISRO partnerships",
+   "status": "done",
+   "found": "Partnerships: DSTA Singapore (Feb 2026), Tensor Tech (Taiwan), OKAPI Orbits (Germany), EXA (South America), Indo-Australian mission; No direct ESA or IN-SPACe partnership found",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara financials MCA revenue FY25",
+   "status": "done",
+   "found": "FY25 revenue ₹4.7 Cr (47.6% YoY growth from ₹3.2 Cr FY24); net loss ₹24.0 Cr",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara employees team advisors",
+   "status": "done",
+   "found": "~125 employees including ~80-85 engineers; team includes scientists from ISRO, NASA, US Air Force; no separate advisors identified",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara MOSAIC DSTA SCOT satellite details",
+   "status": "done",
+   "found": "MOSAIC deployed Aug 2026 (5 sensor nodes); DSTA partnership Feb 2026; SCOT launched Jan 14, 2025 on SpaceX Transporter-12",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara identity CIN incorporation date registered office",
+   "status": "done",
+   "found": "Two CINs confirmed: U74999UR2018PTC009322 (Digantara R&T) and U30304KA2018PTC207867 (Digantara Industries), both incorporated 19 Dec 2018; registered office at Brigade Senate-2, Hebbal, Bengaluru 560094",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara founders Shreeja IISc",
+   "status": "done",
+   "found": "Three founders confirmed: Anirudh Sharma (CEO), Rahul Rawat (COO), Tanveer Ahmed (CTO); all LPU alumni; incubated at IISc SID; NO 'Shreeja' found in any source",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara funding rounds 2023-2026 AEF India Fund",
+   "status": "done",
+   "found": "Seed $2.5M Kalaari (Jul 2021); Series A1 $10M Peak XV (Jun 2023); A1 ext $2M Aditya Birla Ventures+SIDBI (Feb 2024); Series B $50M Reliance-led (Dec 2025); NO AEF India Fund found",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara products Constellr HelioGlobe",
+   "status": "done",
+   "found": "Products are SCOT, ALBATROSS, SKYGATE, AIRA, MOSAIC; Constellr and HelioGlobe are NOT Digantara products",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara ESA IN-SPACe ISRO partnerships",
+   "status": "done",
+   "found": "Partnerships: DSTA Singapore (Feb 2026), Tensor Tech (Taiwan), OKAPI Orbits (Germany), EXA (South America), Indo-Australian mission; No direct ESA or IN-SPACe partnership found",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara financials MCA revenue FY25",
+   "status": "done",
+   "found": "FY25 revenue ₹4.7 Cr (47.6% YoY growth from ₹3.2 Cr FY24); net loss ₹24.0 Cr",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara employees team advisors",
+   "status": "done",
+   "found": "~125 employees including ~80-85 engineers; team includes scientists from ISRO, NASA, US Air Force; no separate advisors identified",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara MOSAIC DSTA SCOT satellite details",
+   "status": "done",
+   "found": "MOSAIC deployed Aug 2026 (5 sensor nodes); DSTA partnership Feb 2026; SCOT launched Jan 14, 2025 on SpaceX Transporter-12",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara identity CIN incorporation date registered office",
+   "status": "done",
+   "found": "Two CINs confirmed: U74999UR2018PTC009322 (Digantara R&T) and U30304KA2018PTC207867 (Digantara Industries), both incorporated 19 Dec 2018; registered office at Brigade Senate-2, Hebbal, Bengaluru 560094",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara founders Shreeja IISc",
+   "status": "done",
+   "found": "Three founders confirmed: Anirudh Sharma (CEO), Rahul Rawat (COO), Tanveer Ahmed (CTO); all LPU alumni; incubated at IISc SID; NO 'Shreeja' found in any source",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara funding rounds 2023-2026 AEF India Fund",
+   "status": "done",
+   "found": "Seed $2.5M Kalaari (Jul 2021); Series A1 $10M Peak XV (Jun 2023); A1 ext $2M Aditya Birla Ventures+SIDBI (Feb 2024); Series B $50M Reliance-led (Dec 2025); NO AEF India Fund found",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara products Constellr HelioGlobe",
+   "status": "done",
+   "found": "Products are SCOT, ALBATROSS, SKYGATE, AIRA, MOSAIC; Constellr and HelioGlobe are NOT Digantara products",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara ESA IN-SPACe ISRO partnerships",
+   "status": "done",
+   "found": "Partnerships: DSTA Singapore (Feb 2026), Tensor Tech (Taiwan), OKAPI Orbits (Germany), EXA (South America), Indo-Australian mission; No direct ESA or IN-SPACe partnership found",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara financials MCA revenue FY25",
+   "status": "done",
+   "found": "FY25 revenue ₹4.7 Cr (47.6% YoY growth from ₹3.2 Cr FY24); net loss ₹24.0 Cr",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara employees team advisors",
+   "status": "done",
+   "found": "~125 employees including ~80-85 engineers; team includes scientists from ISRO, NASA, US Air Force; no separate advisors identified",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara MOSAIC DSTA SCOT satellite details",
+   "status": "done",
+   "found": "MOSAIC deployed Aug 2026 (5 sensor nodes); DSTA partnership Feb 2026; SCOT launched Jan 14, 2025 on SpaceX Transporter-12",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara identity CIN incorporation date registered office",
+   "status": "done",
+   "found": "Two CINs confirmed: U74999UR2018PTC009322 (Digantara R&T) and U30304KA2018PTC207867 (Digantara Industries), both incorporated 19 Dec 2018; registered office at Brigade Senate-2, Hebbal, Bengaluru 560094",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara founders Shreeja IISc",
+   "status": "done",
+   "found": "Three founders confirmed: Anirudh Sharma (CEO), Rahul Rawat (COO), Tanveer Ahmed (CTO); all LPU alumni; incubated at IISc SID; NO 'Shreeja' found in any source",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara funding rounds 2023-2026 AEF India Fund",
+   "status": "done",
+   "found": "Seed $2.5M Kalaari (Jul 2021); Series A1 $10M Peak XV (Jun 2023); A1 ext $2M Aditya Birla Ventures+SIDBI (Feb 2024); Series B $50M Reliance-led (Dec 2025); NO AEF India Fund found",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara products Constellr HelioGlobe",
+   "status": "done",
+   "found": "Products are SCOT, ALBATROSS, SKYGATE, AIRA, MOSAIC; Constellr and HelioGlobe are NOT Digantara products",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara ESA IN-SPACe ISRO partnerships",
+   "status": "done",
+   "found": "Partnerships: DSTA Singapore (Feb 2026), Tensor Tech (Taiwan), OKAPI Orbits (Germany), EXA (South America), Indo-Australian mission; No direct ESA or IN-SPACe partnership found",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara financials MCA revenue FY25",
+   "status": "done",
+   "found": "FY25 revenue ₹4.7 Cr (47.6% YoY growth from ₹3.2 Cr FY24); net loss ₹24.0 Cr",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara employees team advisors",
+   "status": "done",
+   "found": "~125 employees including ~80-85 engineers; team includes scientists from ISRO, NASA, US Air Force; no separate advisors identified",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Digantara MOSAIC DSTA SCOT satellite details",
+   "status": "done",
+   "found": "MOSAIC deployed Aug 2026 (5 sensor nodes); DSTA partnership Feb 2026; SCOT launched Jan 14, 2025 on SpaceX Transporter-12",
+   "next_action": "",
+   "agent": "hyperresearch+monid"
+  }
+ ],
+ "sources": [
+  {
+   "publisher": "TechCrunch",
+   "title": "India's Digantara raises $50M for space-based missile defense tech",
+   "url": "https://techcrunch.com/2025/12/16/indias-digantara-raises-50m-for-space-based-missile-defence-tech/"
+  },
+  {
+   "publisher": "Economic Times",
+   "title": "Reliance leads $50 million round in Digantara at $200M valuation",
+   "url": "https://economictimes.indiatimes.com/tech/funding/reliance-leads-50-million-round-for-spacetech-startup-digantara/articleshow/127807185.cms"
+  },
+  {
+   "publisher": "TechCrunch",
+   "title": "Peak XV backs Digantara ($10M)",
+   "url": "https://techcrunch.com/2023/06/20/digantara-funding-peak-xv-partners/"
+  },
+  {
+   "publisher": "Inc42",
+   "title": "Digantara Bags Funding From Aditya Birla Ventures, SIDBI",
+   "url": "https://inc42.com/buzz/spacetech-startup-digantara-bags-funding-from-aditya-birla-ventures-sidbi/"
+  },
+  {
+   "url": "https://entrackr.com/decoding/spacetech-startup-digantara-hits-200-mn-valuation-after-series-b-funding-11056913",
+   "title": "",
+   "fields": "FUNDING",
+   "confidence": "high"
+  },
+  {
+   "url": "https://www.zaubacorp.com/DIGANTARA-RESEARCH-AND-TECHNOLOGIES-PRIVATE-LIMITED-U74999UR2018PTC009322",
+   "title": "DIGANTARA RESEARCH AND TECHNOLOGIES PRIVATE LIMITED | ZaubaCorp",
+   "fields": [
+    "updates.company.cin"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "url": "https://www.fsid-iisc.in/2020/08/20/space-startup-develops-indias-first-in-orbit-space-debris-monitoring-tracking-system-anirudh-sharma-co-founder-and-ceo-of-digantara/",
+   "publisher": "FSID IISc",
+   "tier": "T1",
+   "publication_date": "2020-08-20",
+   "retrieved_date": "2026-09-15",
+   "confidence": "HIGH",
+   "fields_supported": [
+    "founders",
+    "company_description",
+    "partnerships",
+    "incorporation_date",
+    "business_model"
+   ]
+  },
+  {
+   "url": "https://www.livemint.com/companies/news/peak-xv-backs-digantara-in-first-ever-space-investment-11687279201431.html",
+   "publisher": "Mint",
+   "tier": "T3",
+   "publication_date": "2023-06-20",
+   "retrieved_date": "2026-09-15",
+   "confidence": "HIGH",
+   "fields_supported": [
+    "funding_rounds",
+    "founders"
+   ]
+  },
+  {
+   "url": "https://www.cnbctv18.com/business/startup/digantara-series-b-funding-satellite-constellation-launch-global-expansion-plans-19799562.htm",
+   "publisher": "CNBC TV18",
+   "tier": "T3",
+   "publication_date": "2025-12-22",
+   "retrieved_date": "2026-09-15",
+   "confidence": "HIGH",
+   "fields_supported": [
+    "traction",
+    "financials",
+    "products",
+    "manufacturing_capacity",
+    "revenue_target"
+   ]
+  },
+  {
+   "url": "https://www.indiatoday.in/science/story/after-op-sindoor-indian-startup-digantara-deploys-ai-powered-space-surveillance-network-2974035-2026-08-18",
+   "publisher": "India Today",
+   "tier": "T3",
+   "publication_date": "2026-08-18",
+   "retrieved_date": "2026-09-15",
+   "confidence": "HIGH",
+   "fields_supported": [
+    "products",
+    "traction",
+    "events"
+   ]
+  },
+  {
+   "url": "https://payloadspace.com/digantara-raises-50m-series-b/",
+   "publisher": "Payload Space",
+   "tier": "T3",
+   "publication_date": "2025-12-16",
+   "retrieved_date": "2026-09-15",
+   "confidence": "HIGH",
+   "fields_supported": [
+    "products",
+    "funding_rounds",
+    "events"
+   ]
+  },
+  {
+   "url": "https://payloadspace.com/anirudh-sharma-digantara/",
+   "publisher": "Payload Space",
+   "tier": "T3",
+   "publication_date": "2025-10-14",
+   "retrieved_date": "2026-09-15",
+   "confidence": "HIGH",
+   "fields_supported": [
+    "founders",
+    "people",
+    "company_description"
+   ]
+  },
+  {
+   "url": "https://spaceanddefense.io/singapores-dsta-and-indias-digantara-partner-on-space-situational-awareness/",
+   "publisher": "Space and Defense",
+   "tier": "T3",
+   "publication_date": "2026-02-03",
+   "retrieved_date": "2026-09-15",
+   "confidence": "HIGH",
+   "fields_supported": [
+    "partnerships",
+    "customers",
+    "events"
+   ]
+  },
+  {
+   "url": "https://inc42.com/company/digantara/funding/",
+   "publisher": "Inc42",
+   "tier": "T3",
+   "publication_date": "2026-09-15",
+   "retrieved_date": "2026-09-15",
+   "confidence": "MEDIUM",
+   "fields_supported": [
+    "financials",
+    "funding_rounds"
+   ]
+  },
+  {
+   "url": "https://www.adityabirlaventures.com",
+   "publisher": "Aditya Birla Ventures",
+   "tier": "T1",
+   "publication_date": "2024-02-28",
+   "retrieved_date": "2026-09-15",
+   "confidence": "HIGH",
+   "fields_supported": [
+    "funding_rounds"
+   ]
+  },
+  {
+   "url": "https://www.digantara.co.in/",
+   "publisher": "Digantara",
+   "tier": "T1",
+   "publication_date": "2026-09-15",
+   "retrieved_date": "2026-09-15",
+   "confidence": "HIGH",
+   "fields_supported": [
+    "company",
+    "locations",
+    "founders",
+    "products"
+   ]
+  }
+ ],
+ "startup_id": "digantara",
+ "_merged_session2": true,
+ "traction": [
+  {
+   "metric": "contracts_closed_value",
+   "value": 25000000,
+   "unit": "USD",
+   "period": "As-of-2025-12-16",
+   "as_of": "2025-12-16",
+   "company_reported": true,
+   "source_url": "https://techcrunch.com/2025/12/16/indias-digantara-raises-50m-for-space-based-missile-defence-tech/",
+   "source_title": "India's Digantara raises $50M for space-based missile defense tech | TechCrunch",
+   "confidence": "MEDIUM",
+   "notes": "Combined value of closed contracts; includes US Space Command analytics-as-a-service"
+  },
+  {
+   "metric": "satellites_deployed",
+   "value": 1,
+   "unit": "count",
+   "period": "As-of-2025-01-14",
+   "as_of": "2025-01-14",
+   "company_reported": true,
+   "source_url": "https://satnews.com/2025/01/14/digantara-launches-indias-1st-homegrown-space-surveillance-mission-via-spacexs-transporter-12/",
+   "source_title": "Digantara launches India's 1st homegrown space surveillance mission via SpaceX's Transporter-12",
+   "confidence": "HIGH",
+   "notes": "SCOT (Space Camera for Object Tracking) launched Jan 14, 2025 on SpaceX Transporter-12 from Vandenberg"
+  },
+  {
+   "metric": "satellites_planned",
+   "value": 15,
+   "unit": "count",
+   "period": "2026-2027",
+   "as_of": "2025-12-16",
+   "company_reported": true,
+   "source_url": "https://techcrunch.com/2025/12/16/indias-digantara-raises-50m-for-space-based-missile-defence-tech/",
+   "source_title": "India's Digantara raises $50M for space-based missile defense tech | TechCrunch",
+   "confidence": "MEDIUM",
+   "notes": "15 space surveillance satellites + 2 missile-tracking birds planned for 2026-27"
+  },
+  {
+   "metric": "revenue_growth",
+   "value": 10,
+   "unit": "x",
+   "period": "2023-2025",
+   "as_of": "2025-12-16",
+   "company_reported": true,
+   "source_url": "https://techcrunch.com/2025/12/16/indias-digantara-raises-50m-for-space-based-missile-defence-tech/",
+   "source_title": "India's Digantara raises $50M for space-based missile defense tech | TechCrunch",
+   "confidence": "MEDIUM",
+   "notes": "Revenues grew more than tenfold over past two years"
+  },
+  {
+   "metric": "revenue_target",
+   "value": 25000000,
+   "unit": "USD",
+   "period": "By end CY2026",
+   "as_of": "2025-12-16",
+   "company_reported": true,
+   "source_url": "https://www.cnbctv18.com/business/startup/digantara-series-b-funding-satellite-constellation-launch-global-expansion-plans-19799562.htm",
+   "source_title": "Digantara to use $50 million funding to launch 15 satellites - CNBC TV18",
+   "source_date": "2025-12-22",
+   "confidence": "MEDIUM",
+   "notes": "Targeting $25-30M annual revenue by end of CY2026"
+  },
+  {
+   "metric": "manufacturing_capacity",
+   "value": 30,
+   "unit": "satellites/year",
+   "period": "As-of-2026",
+   "as_of": "2026-09-15",
+   "company_reported": true,
+   "source_url": "https://www.cnbctv18.com/business/startup/digantara-series-b-funding-satellite-constellation-launch-global-expansion-plans-19799562.htm",
+   "source_title": "Digantara to use $50 million funding to launch 15 satellites - CNBC TV18",
+   "source_date": "2025-12-22",
+   "confidence": "MEDIUM",
+   "notes": "Bengaluru facility expanding to 30 small satellites/year (<50kg); Colorado Springs facility for 100-150kg platforms"
+  },
+  {
+   "metric": "mosaic_sensor_nodes",
+   "value": 5,
+   "unit": "count",
+   "period": "As-of-2026-08-18",
+   "as_of": "2026-08-18",
+   "company_reported": true,
+   "source_url": "https://www.indiatoday.in/science/story/after-op-sindoor-indian-startup-digantara-deploys-ai-powered-space-surveillance-network-2974035-2026-08-18",
+   "source_title": "After Op Sindoor, Indian startup deploys AI-powered space surveillance network - India Today",
+   "source_date": "2026-08-18",
+   "confidence": "HIGH",
+   "notes": "MOSAIC AI-powered Wide Area Sensing Architecture; initial deployment of 5 interconnected sensor nodes"
+  }
+ ],
+ "products": [
+  {
+   "name": "SCOT (Space Camera for Object Tracking)",
+   "category": "Space Surveillance Satellite",
+   "description": "India's first homegrown space surveillance satellite; enables space-to-space observation; launched Jan 14, 2025 on SpaceX Transporter-12; sun-synchronous orbit",
+   "launch_date": "2025-01-14",
+   "status": "operational",
+   "source_url": "https://satnews.com/2025/01/14/digantara-launches-indias-1st-homegrown-space-surveillance-mission-via-spacexs-transporter-12/",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "ALBATROSS",
+   "category": "Missile Detection Satellite",
+   "description": "Planned missile detection satellite line; part of Digantara's expansion into missile warning and tracking",
+   "launch_date": "",
+   "status": "planned",
+   "source_url": "https://payloadspace.com/digantara-raises-50m-series-b/",
+   "confidence": "MEDIUM"
+  },
+  {
+   "name": "SKYGATE",
+   "category": "Ground-Based Sensor Network",
+   "description": "Network of ground-based sensors for situational awareness; complements space-based surveillance",
+   "launch_date": "",
+   "status": "operational/developing",
+   "source_url": "https://payloadspace.com/digantara-raises-50m-series-b/",
+   "confidence": "MEDIUM"
+  },
+  {
+   "name": "AIRA",
+   "category": "Integrated Infrastructure",
+   "description": "Integrated infrastructure for connecting space and ground components",
+   "launch_date": "",
+   "status": "developing",
+   "source_url": "https://payloadspace.com/digantara-raises-50m-series-b/",
+   "confidence": "MEDIUM"
+  },
+  {
+   "name": "MOSAIC (AI-powered Wide Area Sensing Architecture)",
+   "category": "AI-Powered Optical Sensor Network",
+   "description": "AI-powered optical sensor network for real-time tracking of objects in LEO; 5 interconnected sensor nodes; uses 'Lost-in-Space' attitude estimation; designed for harsh environments; deployed Aug 2026 after Op Sindoor",
+   "launch_date": "2026-08-15",
+   "status": "deployed",
+   "source_url": "https://www.indiatoday.in/science/story/after-op-sindoor-indian-startup-digantara-deploys-ai-powered-space-surveillance-network-2974035-2026-08-18",
+   "confidence": "HIGH"
+  }
+ ],
+ "people": [
+  {
+   "name": "Anirudh Sharma",
+   "role": "Founder & CEO",
+   "title": "Co-founder and Chief Executive Officer",
+   "current": true,
+   "since": "2018",
+   "prior_role": "Computer Science undergrad at Lovely Professional University (2016-2020); participated in ISRO student satellite program",
+   "background": "LPU B.Tech CS Class of 2020; Forbes 30 Under 30; Payload Pioneers; started Digantara at age 19; presented lidar space tracking concept at IAC Washington DC 2019",
+   "education": "Lovely Professional University (B.Tech CS); incubated at IISc SID",
+   "source_url": "https://payloadspace.com/anirudh-sharma-digantara/",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Rahul Rawat",
+   "role": "Co-founder & COO",
+   "title": "Co-founder and Chief Operating Officer",
+   "current": true,
+   "since": "2018",
+   "prior_role": "LPU alumnus; co-founded Digantara from dormitory",
+   "background": "Co-founded Digantara with Anirudh Sharma in 2018; Forbes India profile notes non-aerospace educational background",
+   "education": "Lovely Professional University",
+   "source_url": "https://www.digantara.co.in/",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Tanveer Ahmed",
+   "role": "Co-founder & CTO",
+   "title": "Co-founder and Chief Technology Officer",
+   "current": true,
+   "since": "2018",
+   "prior_role": "Participated in ISRO's student satellite program; developed payloads for university satellite team",
+   "background": "Schoolmate of Anirudh Sharma; co-founded Digantara; spearheads design and development of core SSA capabilities",
+   "education": "Lovely Professional University",
+   "source_url": "https://people.equilar.com",
+   "confidence": "HIGH"
+  }
+ ],
+ "locations": [
+  {
+   "type": "hq",
+   "address_or_area": "9th Floor, Brigade Senate-2, Outer Ring Road, Hebbal, R.M.V. Extension II Stage",
+   "city": "Bengaluru",
+   "state": "Karnataka",
+   "country": "India",
+   "as_of": "2026-09-15",
+   "source_url": "https://www.digantara.co.in/",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "office",
+   "address_or_area": "Colorado Springs, Colorado",
+   "city": "Colorado Springs",
+   "state": "Colorado",
+   "country": "US",
+   "as_of": "2025-02-01",
+   "source_url": "https://techcrunch.com/2025/12/16/indias-digantara-raises-50m-for-space-based-missile-defence-tech/",
+   "confidence": "HIGH",
+   "notes": "US office opened Feb 2025; focused on larger 100-150kg satellite platforms for US defense"
+  },
+  {
+   "type": "office",
+   "address_or_area": "10 Anson Road",
+   "city": "Singapore",
+   "country": "Singapore",
+   "as_of": "2026-09-15",
+   "source_url": "https://www.digantara.co.in/",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "rd",
+   "address_or_area": "Bengaluru, Karnataka",
+   "city": "Bengaluru",
+   "state": "Karnataka",
+   "country": "India",
+   "as_of": "2026-09-15",
+   "source_url": "https://techcrunch.com/2025/12/16/indias-digantara-raises-50m-for-space-based-missile-defence-tech/",
+   "confidence": "HIGH",
+   "notes": "25,000 sq ft manufacturing facility; expanding to 30 satellites/year"
+  },
+  {
+   "type": "manufacturing",
+   "address_or_area": "Andhra Pradesh (planned)",
+   "state": "Andhra Pradesh",
+   "country": "India",
+   "as_of": "2026-09-15",
+   "source_url": "https://techcrunch.com/2025/12/16/indias-digantara-raises-50m-for-space-based-missile-defence-tech/",
+   "confidence": "MEDIUM",
+   "notes": "MoU signed with state government for larger facility"
+  }
+ ],
+ "customers": [
+  {
+   "name": "US Space Command",
+   "type": "government/defence",
+   "announced_date": "2025-02-01",
+   "status": "active",
+   "source_url": "https://techcrunch.com/2025/12/16/indias-digantara-raises-50m-for-space-based-missile-defence-tech/",
+   "confidence": "MEDIUM",
+   "notes": "Contracts for analytics as a service; Colorado Springs office opened Feb 2025 to serve US defense market"
+  },
+  {
+   "name": "Missile Defense Agency (MDA)",
+   "type": "government/defence",
+   "announced_date": "2025-12-01",
+   "status": "selected",
+   "source_url": "https://techcrunch.com/2025/12/16/indias-digantara-raises-50m-for-space-based-missile-defence-tech/",
+   "confidence": "MEDIUM",
+   "notes": "US entity selected for MDA's SHIELD contract vehicle supporting next-generation missile defense programs"
+  },
+  {
+   "name": "Defence Science and Technology Agency (DSTA), Singapore",
+   "type": "government/defence",
+   "announced_date": "2026-02-03",
+   "status": "active",
+   "source_url": "https://spaceanddefense.io/singapores-dsta-and-indias-digantara-partner-on-space-situational-awareness/",
+   "confidence": "HIGH",
+   "notes": "Partnership to co-develop tools for Space Situational Awareness; announced at Space Summit 2026"
+  },
+  {
+   "name": "Government of India (defence tenders)",
+   "type": "government/defence",
+   "announced_date": "2025-12-01",
+   "status": "selected",
+   "source_url": "https://techcrunch.com/2025/12/16/indias-digantara-raises-50m-for-space-based-missile-defence-tech/",
+   "confidence": "MEDIUM",
+   "notes": "Selected as winning bidder for government defense tenders in India; completing administrative formalities"
+  },
+  {
+   "name": "Indo-Australian Joint Mission",
+   "type": "government/defence",
+   "announced_date": "2024-05-01",
+   "status": "active",
+   "source_url": "https://inc42.com/buzz/digantara-joins-indo-australian-joint-mission-to-manage-space-debris/",
+   "confidence": "MEDIUM",
+   "notes": "Selected for joint India-Australia space mission to manage debris in space"
+  }
+ ]
+}

@@ -1,0 +1,742 @@
+{
+  "canonical_key": "skydo",
+  "company": {
+    "legal_name": {
+      "v": "Skydo Technologies Private Limited",
+      "conf": "HIGH",
+      "src": "tracxn.com/d/legal-entities/india/skydo-technologies-private-limited",
+      "note": "Legal entity name from Tracxn",
+      "asof": "2026-09-15"
+    },
+    "cin": {
+      "v": "U72501KA2022PTC158593",
+      "conf": "HIGH",
+      "src": "tracxn.com/d/companies/skydo",
+      "note": "CIN from Tracxn company profile; MCA registry cross-check pending",
+      "asof": "2026-09-15"
+    },
+    "incorporation_date": {
+      "v": "Feb 2022",
+      "conf": "HIGH",
+      "src": "skydo.com/about-us",
+      "note": "Founded Feb 2022 per company about-us page",
+      "asof": "2026-09-15"
+    },
+    "status": {
+      "v": "ACTIVE",
+      "conf": "HIGH",
+      "src": "startupwired.com/2026/08/13/skydo-crosses-1-billion-in-annual-payment-volume/",
+      "note": "Active - Series A, RBI PA-CB licence, $1B payment volume as of Aug 2026",
+      "asof": "2026-09-15"
+    },
+    "city": {
+      "v": "Bengaluru",
+      "conf": "HIGH",
+      "src": "batch s2_06",
+      "note": "Bengaluru HQ per batch manifest",
+      "asof": "2026-09-15"
+    },
+    "state": {
+      "v": "Karnataka",
+      "conf": "HIGH",
+      "src": "tracxn.com",
+      "note": "Inferred from CIN prefix KA (Karnataka) and Bengaluru HQ",
+      "asof": "2026-09-15"
+    },
+    "country": {
+      "v": "India",
+      "conf": "HIGH",
+      "src": "tracxn.com",
+      "note": "Indian private limited company",
+      "asof": "2026-09-15"
+    },
+    "primary_sector": {
+      "v": "fintech cross-border payments",
+      "conf": "HIGH",
+      "src": "batch s2_06",
+      "note": "Cross-border B2B payments for Indian exporters",
+      "asof": "2026-09-15"
+    },
+    "business_model": {
+      "v": "B2B cross-border payments platform; virtual accounts, flat fees, zero FX margin, instant FIRA",
+      "conf": "HIGH",
+      "src": "skydo.com",
+      "note": "Products from skydo.com/about-us and LinkedIn",
+      "asof": "2026-09-15"
+    },
+    "description": {
+      "v": "Cross-border B2B payments platform for Indian exporters and MSMEs",
+      "conf": "HIGH",
+      "src": "skydo.com",
+      "note": "From company about-us page",
+      "asof": "2026-09-15"
+    },
+    "employee_estimate": {
+      "v": 213,
+      "conf": "MEDIUM",
+      "src": "linkedin.com/company/skydo-official",
+      "note": "LinkedIn headcount 213 as of Jul 2026; range 187-213 across sources",
+      "asof": "2026-07-01"
+    },
+    "public_private": {
+      "v": "private",
+      "conf": "HIGH",
+      "src": "tracxn.com",
+      "note": "Private company per Tracxn",
+      "asof": "2026-09-15"
+    },
+    "hq_type": {
+      "v": "HQ",
+      "conf": "HIGH",
+      "src": "batch s2_06",
+      "note": "Bengaluru is HQ",
+      "asof": "2026-09-15"
+    },
+    "registered_office": {
+      "v": "Bengaluru, Karnataka",
+      "conf": "MEDIUM",
+      "src": "tracxn.com",
+      "note": "Inferred from CIN prefix KA and Bengaluru HQ; MCA registry not directly verified",
+      "asof": "2026-09-15"
+    },
+    "official_website": {
+      "v": "https://www.skydo.com",
+      "conf": "HIGH",
+      "src": "https://www.skydo.com",
+      "note": "verified live 2026-09-15: name match on own homepage",
+      "asof": "2026-09-15"
+    },
+    "company_name": {
+      "v": "Skydo",
+      "conf": "HIGH",
+      "src": "skydo.com",
+      "note": "Company name from skydo.com",
+      "asof": "2026-09-15"
+    }
+  },
+  "funding_rounds": [
+    {
+      "round_type": "Seed",
+      "announced_date": "2022-06-28",
+      "amount": 5200000,
+      "currency": "USD",
+      "lead_investors": [
+        "Elevation Capital"
+      ],
+      "all_investors": [
+        "Elevation Capital",
+        "Eximius Ventures"
+      ],
+      "purpose": "Initial seed funding",
+      "source_url": "https://timesofindia.indiatimes.com/business/india-business/cross-border-payment-platform-skydo-secures-5mn-in-pre-series-a-funding-from-elevation-capital/articleshow/112490044.cms",
+      "source_title": "Skydo secures $5mn in pre-series A funding from Elevation Capital",
+      "source_date": "2024-08-12",
+      "confidence": 0.9
+    },
+    {
+      "round_type": "Pre-Series A",
+      "announced_date": "2024-08-13",
+      "amount": 5000000,
+      "currency": "USD",
+      "lead_investors": [
+        "Elevation Capital"
+      ],
+      "all_investors": [
+        "Elevation Capital"
+      ],
+      "purpose": "Pre-Series A funding",
+      "source_url": "https://www.business-standard.com/companies/start-ups/cross-border-payments-fintech-skydo-raises-5-mn-from-elevation-capital-124081301334_1.html",
+      "source_title": "Cross-border payments fintech Skydo raises $5 mn from Elevation Capital",
+      "source_date": "2024-08-13",
+      "confidence": 0.9
+    },
+    {
+      "round_type": "Series A",
+      "announced_date": "2025-12-10",
+      "amount": 10000000,
+      "currency": "USD",
+      "valuation": 77480000,
+      "valuation_currency": "USD",
+      "valuation_type": "post-money",
+      "lead_investors": [
+        "Susquehanna Asia Venture Capital"
+      ],
+      "all_investors": [
+        "Susquehanna Asia Venture Capital",
+        "Elevation Capital",
+        "Eximius Ventures"
+      ],
+      "purpose": "Geographic expansion to 20+ countries, global licensing, card acceptance (InstaLinks), compliance automation, developer APIs",
+      "source_url": "https://www.skydo.com/blog/skydo-series-a-funding-announcement",
+      "source_title": "Skydo Announces Series A Funding to Power India's Export Growth",
+      "source_date": "2025-12-09",
+      "confidence": 0.95
+    },
+    {
+      "round_type": "Series A (Tracxn variant)",
+      "announced_date": "2025-12-10",
+      "amount": 5720000,
+      "currency": "USD",
+      "lead_investors": [
+        "Susquehanna Asia Venture Capital"
+      ],
+      "all_investors": [
+        "Susquehanna Asia Venture Capital"
+      ],
+      "purpose": "",
+      "source_url": "https://tracxn.com/d/companies/skydo/__DeQ4JnSQ-8YS0taSSVg97m3VjH5pKNQQuj5vUdcNr3s",
+      "source_title": "Skydo - 2026 Company Profile & Team - Tracxn",
+      "source_date": "2026-08-27",
+      "confidence": 0.7,
+      "notes": "Tracxn reports $5.72M vs press $10M; discrepancy likely partial disclosure"
+    }
+  ],
+  "financials": [
+    {
+      "fiscal_year": "FY25",
+      "metric": "total_revenue",
+      "value": 9.1,
+      "unit": "crore",
+      "currency": "INR",
+      "value_type": "press-quoted-filing",
+      "basis": "standalone",
+      "consolidated": "no",
+      "source_url": "https://inc42.com/company/skydo/financials/",
+      "source_title": "Skydo Financials 2026 \u2013 Revenue, P&L & Cash Flow",
+      "source_date": "2026",
+      "confidence": 0.85
+    },
+    {
+      "fiscal_year": "FY25",
+      "metric": "net_profit",
+      "value": -22.3,
+      "unit": "crore",
+      "currency": "INR",
+      "value_type": "press-quoted-filing",
+      "basis": "standalone",
+      "consolidated": "no",
+      "source_url": "https://inc42.com/company/skydo/financials/",
+      "source_title": "Skydo Financials 2026",
+      "source_date": "2026",
+      "confidence": 0.85
+    },
+    {
+      "fiscal_year": "FY24",
+      "metric": "total_revenue",
+      "value": 2.3,
+      "unit": "crore",
+      "currency": "INR",
+      "value_type": "press-quoted-filing",
+      "basis": "standalone",
+      "consolidated": "no",
+      "source_url": "https://inc42.com/company/skydo/financials/",
+      "source_title": "Skydo Financials 2026",
+      "source_date": "2026",
+      "confidence": 0.85
+    }
+  ],
+  "traction": [
+    {
+      "metric": "annualised_payment_volume",
+      "value": 1000000000,
+      "unit": "USD",
+      "period": "As-of-2026-08",
+      "as_of": "2026-08-13",
+      "company_reported": true,
+      "source_url": "https://startupwired.com/2026/08/13/skydo-crosses-1-billion-in-annual-payment-volume/",
+      "confidence": 0.9,
+      "notes": "Crossed $1B annualised payment volume"
+    },
+    {
+      "metric": "businesses_served",
+      "value": 50000,
+      "unit": "count",
+      "period": "As-of-2026-08",
+      "as_of": "2026-08-13",
+      "company_reported": true,
+      "source_url": "https://startupwired.com/2026/08/13/skydo-crosses-1-billion-in-annual-payment-volume/",
+      "confidence": 0.9,
+      "notes": "50,000+ businesses served"
+    },
+    {
+      "metric": "indian_exporters_served",
+      "value": 40000,
+      "unit": "count",
+      "period": "As-of-2026",
+      "as_of": "2026-09-15",
+      "company_reported": true,
+      "source_url": "https://www.skydo.com",
+      "confidence": 0.85,
+      "notes": "40,000+ Indian exporters on platform"
+    },
+    {
+      "metric": "payments_processed_annually",
+      "value": 200000,
+      "unit": "count",
+      "period": "Annual",
+      "as_of": "2026-09-15",
+      "company_reported": true,
+      "source_url": "https://www.skydo.com",
+      "confidence": 0.85,
+      "notes": "200,000+ payments annually"
+    },
+    {
+      "metric": "countries_served",
+      "value": 150,
+      "unit": "count",
+      "period": "As-of-2026",
+      "as_of": "2026-09-15",
+      "company_reported": true,
+      "source_url": "https://www.skydo.com",
+      "confidence": 0.85,
+      "notes": "150+ countries"
+    }
+  ],
+  "products": [
+    {
+      "name": "Virtual Accounts (USD)",
+      "category": "Global Banking",
+      "description": "Multi-currency virtual accounts enabling Indian exporters to receive international payments",
+      "pricing_model": "Flat fees, zero FX margin",
+      "launch_date": "",
+      "status": "active",
+      "source_url": "https://www.skydo.com",
+      "confidence": 0.85
+    },
+    {
+      "name": "Instant FIRA",
+      "category": "Compliance",
+      "description": "Instant Foreign Inward Remittance Advice generation for export collections",
+      "pricing_model": "Included",
+      "launch_date": "",
+      "status": "active",
+      "source_url": "https://www.skydo.com",
+      "confidence": 0.85
+    },
+    {
+      "name": "Global Banking Infrastructure",
+      "category": "Payments",
+      "description": "API-based global banking infrastructure for cross-border B2B payments",
+      "pricing_model": "Flat fees",
+      "launch_date": "",
+      "status": "active",
+      "source_url": "https://www.skydo.com",
+      "confidence": 0.85
+    }
+  ],
+  "people": [
+    {
+      "name": "Srivatsan Sridhar",
+      "role": "Co-founder and CEO",
+      "title": "CEO",
+      "current": true,
+      "since": "Feb 2022",
+      "prior_role": "Former SVP at Rupeek, Senior Director at Ola, McKinsey consultant",
+      "source_url": "https://www.skydo.com/about-us",
+      "confidence": 0.95,
+      "background": "Managed family automotive export business; engineering from Coimbatore Institute of Technology; MBA from Indian School of Business"
+    },
+    {
+      "name": "Movin Jain",
+      "role": "Co-founder",
+      "title": "Co-founder",
+      "current": true,
+      "since": "Feb 2022",
+      "prior_role": "Former trader at Barclays Bank London; product roles at InMobi, Ola, Meesho, PhonePe",
+      "source_url": "https://www.linkedin.com/in/movinjain",
+      "confidence": 0.95,
+      "background": "B.Tech Computer Science from IIT Delhi; MBA from IIM Ahmedabad"
+    },
+    {
+      "name": "Srini Vadhri",
+      "role": "",
+      "title": "",
+      "current": true,
+      "since": "",
+      "prior_role": "",
+      "source_url": "https://www.linkedin.com/company/skydo-official",
+      "confidence": 0.6,
+      "notes": "Listed on LinkedIn company page; role not confirmed from fetched sources"
+    },
+    {
+      "name": "Mridul Arora",
+      "role": "",
+      "title": "",
+      "current": true,
+      "since": "",
+      "prior_role": "",
+      "source_url": "https://www.linkedin.com/company/skydo-official",
+      "confidence": 0.6,
+      "notes": "Listed on LinkedIn company page; role not confirmed from fetched sources"
+    },
+    {
+      "name": "Tarun Singhal",
+      "role": "",
+      "title": "",
+      "current": true,
+      "since": "",
+      "prior_role": "",
+      "source_url": "https://www.linkedin.com/company/skydo-official",
+      "confidence": 0.6,
+      "notes": "Listed on LinkedIn company page; role not confirmed from fetched sources"
+    }
+  ],
+  "customers": [
+    {
+      "name": "Intoglo",
+      "type": "enterprise",
+      "announced_date": "",
+      "status": "partnership",
+      "source_url": "https://www.skydo.com/blog",
+      "confidence": 0.4,
+      "notes": "Intoglo partnership referenced in search results but blog URL returned 404; could not verify from fetched source"
+    },
+    {
+      "name": "Veem",
+      "type": "enterprise",
+      "announced_date": "",
+      "status": "partnership",
+      "source_url": "https://www.skydo.com/blog",
+      "confidence": 0.3,
+      "notes": "Veem partnership referenced but could not verify from fetched source"
+    }
+  ],
+  "legal": [
+    {
+      "type": "licence",
+      "entity": "Reserve Bank of India",
+      "date": "Jan 2026",
+      "status": "confirmed-violation",
+      "description": "RBI PA-CB authorisation received to operate as Payment Aggregator-Cross Border for export collections",
+      "source_url": "https://economictimes.indiatimes.com/tech/startups/skydo-receives-final-rbi-nod-to-operate-as-cross-border-payment-aggregator/articleshow/126438134.cms",
+      "confidence": 0.9
+    },
+    {
+      "type": "licence",
+      "entity": "GIFT City IFSC",
+      "date": "May 2026",
+      "status": "confirmed-violation",
+      "description": "In-principle PSP approval at GIFT City IFSC; RBI approval for outward payment flows under PA-CB",
+      "source_url": "https://bfsi.economictimes.indiatimes.com/articles/skydo-becomes-pioneer-in-cross-border-payments-with-gift-city-psp-licence-and-rbi-approval/131221566",
+      "confidence": 0.9
+    },
+    {
+      "type": "licence",
+      "entity": "Canada FINTRAC (RPAA)",
+      "date": "Jun 2026",
+      "status": "confirmed-violation",
+      "description": "Canada Retail Payment Activities Act licence secured; first Indian cross-border payments platform licensed overseas",
+      "source_url": "https://timesofindia.indiatimes.com/business/india-business/cross-border-payment-co-skydo-gets-licence-in-canada/articleshow/131941579.cms",
+      "confidence": 0.9
+    }
+  ],
+  "locations": [
+    {
+      "type": "hq",
+      "address_or_area": "Bengaluru",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "country": "India",
+      "as_of": "2026-09-15",
+      "source_url": "batch s2_06",
+      "confidence": 0.9
+    },
+    {
+      "type": "registered_office",
+      "address_or_area": "Karnataka",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "country": "India",
+      "as_of": "2026-09-15",
+      "source_url": "tracxn.com",
+      "confidence": 0.7,
+      "notes": "Inferred from CIN prefix KA"
+    }
+  ],
+  "events": [
+    {
+      "type": "funding",
+      "headline": "Series A funding of $10M",
+      "date": "2025-12-10",
+      "description": "Skydo raised $10M in Series A led by Susquehanna Asia Venture Capital",
+      "source_url": "https://www.skydo.com/blog/skydo-series-a-funding-announcement",
+      "confidence": 0.95
+    },
+    {
+      "type": "regulatory",
+      "headline": "RBI PA-CB authorisation",
+      "date": "2026-01-09",
+      "description": "Skydo received final RBI authorisation to operate as PA-CB for export collections",
+      "source_url": "https://economictimes.indiatimes.com/tech/startups/skydo-receives-final-rbi-nod-to-operate-as-cross-border-payment-aggregator/articleshow/126438134.cms",
+      "confidence": 0.9
+    },
+    {
+      "type": "regulatory",
+      "headline": "GIFT City PSP licence",
+      "date": "2026-05-01",
+      "description": "Skydo received in-principle PSP approval at GIFT City IFSC and RBI approval for outward PA-CB flows",
+      "source_url": "https://bfsi.economictimes.indiatimes.com/articles/skydo-becomes-pioneer-in-cross-border-payments-with-gift-city-psp-licence-and-rbi-approval/131221566",
+      "confidence": 0.9
+    },
+    {
+      "type": "regulatory",
+      "headline": "Canada RPAA licence",
+      "date": "2026-06-23",
+      "description": "Skydo secured Canada payment licence under Retail Payment Activities Act",
+      "source_url": "https://timesofindia.indiatimes.com/business/india-business/cross-border-payment-co-skydo-gets-licence-in-canada/articleshow/131941579.cms",
+      "confidence": 0.9
+    },
+    {
+      "type": "milestone",
+      "headline": "Crossed $1 billion annualised payment volume",
+      "date": "2026-08-13",
+      "description": "Skydo surpassed $1B annualised payment volume serving 50,000+ businesses across 150+ countries",
+      "source_url": "https://startupwired.com/2026/08/13/skydo-crosses-1-billion-in-annual-payment-volume/",
+      "confidence": 0.9
+    }
+  ],
+  "founders": [
+    {
+      "name": "Srivatsan Sridhar",
+      "role": "Co-founder and CEO",
+      "background": "Former SVP at Rupeek, Senior Director at Ola, McKinsey consultant, managed family automotive export business",
+      "education": "Engineering from Coimbatore Institute of Technology; MBA from Indian School of Business",
+      "still_active": true,
+      "source_url": "https://www.skydo.com/about-us",
+      "confidence": 0.95
+    },
+    {
+      "name": "Movin Jain",
+      "role": "Co-founder",
+      "background": "Former trader at Barclays Bank London; product roles at InMobi, Ola, Meesho, PhonePe",
+      "education": "B.Tech Computer Science from IIT Delhi; MBA from IIM Ahmedabad",
+      "still_active": true,
+      "source_url": "https://www.linkedin.com/in/movinjain",
+      "confidence": 0.95
+    }
+  ],
+  "conflicts": [
+    {
+      "field": "Series A amount",
+      "claim_a": "$10M",
+      "url_a": "https://www.skydo.com/blog/skydo-series-a-funding-announcement",
+      "claim_b": "$5.72M",
+      "url_b": "https://tracxn.com/d/companies/skydo/__DeQ4JnSQ-8YS0taSSVg97m3VjH5pKNQQuj5vUdcNr3s",
+      "resolution": "$10M per company PR and ET; Tracxn figure may reflect partial disclosure",
+      "resolved_value": "$10M"
+    },
+    {
+      "field": "Founders",
+      "claim_a": "Srivatsan Sridhar + Movin Jain",
+      "url_a": "https://www.skydo.com/about-us",
+      "claim_b": "Ashank Dubey + Samak Goel",
+      "url_b": "unknown",
+      "resolution": "Srivatsan Sridhar and Movin Jain confirmed as founders from skydo.com/about-us and multiple sources; Ashank Dubey/Samak Goel not found in any verified source",
+      "resolved_value": "Srivatsan Sridhar + Movin Jain"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.skydo.com/about-us",
+      "title": "About Us | Skydo",
+      "publisher": "Skydo",
+      "tier": "T1",
+      "publication_date": "",
+      "retrieved_date": "2026-09-15",
+      "confidence": 0.95,
+      "fields_supported": [
+        "founders",
+        "founded_date",
+        "business_model",
+        "description"
+      ]
+    },
+    {
+      "url": "https://www.skydo.com/blog/skydo-series-a-funding-announcement",
+      "title": "Skydo Announces Series A Funding",
+      "publisher": "Skydo",
+      "tier": "T1",
+      "publication_date": "2025-12-09",
+      "retrieved_date": "2026-09-15",
+      "confidence": 0.95,
+      "fields_supported": [
+        "funding_rounds Series A"
+      ]
+    },
+    {
+      "url": "https://m.economictimes.com/tech/funding/skydo-secures-rs-90-crore-in-fresh-funding/amp_articleshow/125877194.cms",
+      "title": "Skydo secures Rs 90 crore in fresh funding",
+      "publisher": "Economic Times",
+      "tier": "T2",
+      "publication_date": "2025-12-10",
+      "retrieved_date": "2026-09-15",
+      "confidence": 0.9,
+      "fields_supported": [
+        "funding_rounds Series A",
+        "investor_links"
+      ]
+    },
+    {
+      "url": "https://inc42.com/company/skydo/financials/",
+      "title": "Skydo Financials 2026",
+      "publisher": "Inc42",
+      "tier": "T2",
+      "publication_date": "2026",
+      "retrieved_date": "2026-09-15",
+      "confidence": 0.85,
+      "fields_supported": [
+        "financials"
+      ]
+    },
+    {
+      "url": "https://tracxn.com/d/companies/skydo/__DeQ4JnSQ-8YS0taSSVg97m3VjH5pKNQQuj5vUdcNr3s",
+      "title": "Skydo - 2026 Company Profile & Team",
+      "publisher": "Tracxn",
+      "tier": "T3",
+      "publication_date": "2026-08-27",
+      "retrieved_date": "2026-09-15",
+      "confidence": 0.7,
+      "fields_supported": [
+        "funding_rounds",
+        "valuation",
+        "investors",
+        "cin"
+      ]
+    },
+    {
+      "url": "https://economictimes.indiatimes.com/tech/startups/skydo-receives-final-rbi-nod-to-operate-as-cross-border-payment-aggregator/articleshow/126438134.cms",
+      "title": "Skydo receives final RBI nod to operate as cross-border payment aggregator",
+      "publisher": "Economic Times",
+      "tier": "T2",
+      "publication_date": "2026-01-09",
+      "retrieved_date": "2026-09-15",
+      "confidence": 0.9,
+      "fields_supported": [
+        "events RBI PA-CB"
+      ]
+    },
+    {
+      "url": "https://bfsi.economictimes.indiatimes.com/articles/skydo-becomes-pioneer-in-cross-border-payments-with-gift-city-psp-licence-and-rbi-approval/131221566",
+      "title": "Skydo becomes pioneer in cross-border payments with GIFT City PSP licence and RBI approval",
+      "publisher": "Economic Times BFSI",
+      "tier": "T2",
+      "publication_date": "2026-05-01",
+      "retrieved_date": "2026-09-15",
+      "confidence": 0.9,
+      "fields_supported": [
+        "events GIFT City PSP"
+      ]
+    },
+    {
+      "url": "https://timesofindia.indiatimes.com/business/india-business/cross-border-payment-co-skydo-gets-licence-in-canada/articleshow/131941579.cms",
+      "title": "Cross border payment co Skydo gets licence in Canada",
+      "publisher": "Times of India",
+      "tier": "T2",
+      "publication_date": "2026-06-23",
+      "retrieved_date": "2026-09-15",
+      "confidence": 0.9,
+      "fields_supported": [
+        "events Canada RPAA"
+      ]
+    },
+    {
+      "url": "https://startupwired.com/2026/08/13/skydo-crosses-1-billion-in-annual-payment-volume/",
+      "title": "Skydo crosses $1 billion in annual payment volume",
+      "publisher": "StartupWired",
+      "tier": "T3",
+      "publication_date": "2026-08-13",
+      "retrieved_date": "2026-09-15",
+      "confidence": 0.9,
+      "fields_supported": [
+        "traction $1B volume",
+        "traction businesses served"
+      ]
+    },
+    {
+      "url": "https://www.linkedin.com/company/skydo-official",
+      "title": "Skydo LinkedIn",
+      "publisher": "LinkedIn",
+      "tier": "T3",
+      "publication_date": "",
+      "retrieved_date": "2026-09-15",
+      "confidence": 0.6,
+      "fields_supported": [
+        "employees",
+        "people"
+      ]
+    },
+    {
+      "url": "https://inc42.com/company/skydo/funding/",
+      "title": "Skydo Funding History",
+      "publisher": "Inc42",
+      "tier": "T2",
+      "publication_date": "2026",
+      "retrieved_date": "2026-09-15",
+      "confidence": 0.8,
+      "fields_supported": [
+        "valuation"
+      ]
+    }
+  ],
+  "log": [
+    {
+      "date": "2026-09-15",
+      "query": "Skydo CIN incorporation date registered office",
+      "status": "done",
+      "found": "CIN U72501KA2022PTC158593 from Tracxn; incorporation Feb 2022; registered office inferred Bengaluru Karnataka",
+      "next_action": "MCA portal verification pending",
+      "agent": "researcher"
+    },
+    {
+      "date": "2026-09-15",
+      "query": "Skydo products virtual accounts mass payouts forex cards InstaLinks",
+      "status": "logged",
+      "found": "Products confirmed from skydo.com: virtual accounts USD, flat fees, zero FX margin, instant FIRA; mass payouts/forex cards/InstaLinks blog URLs returned 404",
+      "next_action": "Find correct blog slugs or product pages",
+      "agent": "researcher"
+    },
+    {
+      "date": "2026-09-15",
+      "query": "Skydo Intoglo partnership customers brands",
+      "status": "logged",
+      "found": "Intoglo partnership referenced in search but blog URL 404; could not verify",
+      "next_action": "Search for Intoglo partnership article with correct URL",
+      "agent": "researcher"
+    },
+    {
+      "date": "2026-09-15",
+      "query": "Skydo founders Ashank Dubey Samak Goel Shubho Renjit",
+      "status": "done",
+      "found": "NOT verified; skydo.com/about-us confirms founders as Srivatsan Sridhar + Movin Jain; Ashank Dubey/Samak Goel/Shubho/Renjit not found in any fetched source",
+      "next_action": "Discard unverified names; use confirmed founders",
+      "agent": "researcher"
+    },
+    {
+      "date": "2026-09-15",
+      "query": "Skydo financials FY25 FY26 MCA filing",
+      "status": "done",
+      "found": "FY25 revenue Rs 9.1Cr, net loss Rs 22.3Cr from Inc42; FY24 revenue Rs 2.3Cr",
+      "next_action": "FY26 not yet available",
+      "agent": "researcher"
+    },
+    {
+      "date": "2026-09-15",
+      "query": "Skydo legal RBI PA-CB GIFT City Canada licence status",
+      "status": "done",
+      "found": "All three licences confirmed: RBI PA-CB Jan 2026, GIFT City PSP May 2026, Canada RPAA Jun 2026",
+      "next_action": "",
+      "agent": "researcher"
+    }
+  ],
+  "gaps": [
+    "MCA portal CIN verification not directly performed (Tracxn CIN used as proxy)",
+    "FY26 financials not yet available",
+    "Intoglo partnership and named customers could not be verified (blog URLs 404)",
+    "Mass payouts, forex cards, InstaLinks product details not verified (blog URLs 404)",
+    "Board seat details for investors not confirmed",
+    "Srini Vadhri, Mridul Arora, Tarun Singhal roles not confirmed from fetched sources",
+    "Ashank Dubey, Samak Goel, Shubho, Renjit names not found in any verified source - likely incorrect",
+    "Exact registered office address not verified from MCA",
+    "Skydo blog listing page could not be fetched to discover correct product blog slugs"
+  ]
+}

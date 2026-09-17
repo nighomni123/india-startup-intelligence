@@ -1,0 +1,182 @@
+{
+ "startup_id": "s3_02_10",
+ "company": {
+  "company_name": "Wellbeing Nutrition",
+  "startup_stage": "acquired",
+  "public_private": "private_acquired",
+  "city": "Mumbai",
+  "primary_sector": "d2c wellness",
+  "founded_date": "2019",
+  "business_model": "D2C nutraceutical supplements and wellness brand",
+  "official_website": {
+   "v": "https://wellbeingnutrition.com",
+   "conf": "high",
+   "src": "https://wellbeingnutrition.com",
+   "note": "verified live 2026-09-15: name match on own homepage"
+  },
+  "website": "https://wellbeingnutrition.com",
+  "careers_website": {
+   "v": "https://wellbeingnutrition.com/collections/bone-and-joint-health",
+   "conf": "high",
+   "src": "https://wellbeingnutrition.com",
+   "note": "playwright render 2026-09-15"
+  }
+ },
+ "funding_rounds": [
+  {
+   "round_type": "Acquisition",
+   "announced_date": "2026-02-12",
+   "amount": {
+    "value": 1583,
+    "currency": "INR Cr"
+   },
+   "valuation": {
+    "value": 1600,
+    "currency": "INR Cr"
+   },
+   "lead_investors": [
+    "USV Pharma"
+   ],
+   "all_investors": [
+    "USV Pharma",
+    "Hindustan Unilever (exited)",
+    "Fireside Ventures (exited)"
+   ],
+   "purpose": "USV acquired 79% stake in Wellbeing Nutrition",
+   "source_url": "https://economictimes.indiatimes.com/tech/technology/usv-pharma-buys-79-stake-in-wellbeing-nutrition-for-rs-1583-crore/articleshow/128254600.cms",
+   "title": "USV Pharma buys 79% stake in Wellbeing Nutrition for Rs 1,583 crore",
+   "source_date": "2026-02-12",
+   "tier": "T1",
+   "confidence": 0.95,
+   "notes": "HUL and Fireside exited; founder Avnish Chhabria retains 15%"
+  }
+ ],
+ "founders": [
+  {
+   "name": "Avnish Chhabria",
+   "role": "Founder and CEO",
+   "type": "founder",
+   "background": "Nutraceutical wellness entrepreneur",
+   "education": "UNKNOWN",
+   "still_active": true,
+   "source_url": "https://economictimes.indiatimes.com/tech/technology/usv-pharma-buys-79-stake-in-wellbeing-nutrition-for-rs-1583-crore/articleshow/128254600.cms",
+   "title": "USV Pharma buys 79% stake in Wellbeing Nutrition",
+   "confidence": 0.95
+  },
+  {
+   "name": "Saurabh Kapoor",
+   "role": "Co-founder",
+   "type": "co-founder",
+   "background": "Co-founder, holds 6% via ESOP",
+   "education": "UNKNOWN",
+   "still_active": true,
+   "source_url": "https://www.thehindubusinessline.com/news/not-an-exit-founder-says-usv-deal-signals-pharma-validation-for-nutraceuticals/article70624223.ece",
+   "title": "Not an exit: Founder says USV deal signals pharma validation",
+   "confidence": 0.9
+  }
+ ],
+ "investor_links": [
+  {
+   "investor": "USV Pharma",
+   "investor_type": "strategic_corporate",
+   "first_seen": "2026",
+   "rounds": [
+    "Acquisition"
+   ],
+   "lead": true,
+   "amount": {
+    "value": 1583,
+    "currency": "INR Cr"
+   },
+   "board_seat": "UNKNOWN",
+   "source_url": "https://economictimes.indiatimes.com/tech/technology/usv-pharma-buys-79-stake-in-wellbeing-nutrition-for-rs-1583-crore/articleshow/128254600.cms",
+   "confidence": 0.95
+  },
+  {
+   "investor": "Hindustan Unilever",
+   "investor_type": "strategic_corporate",
+   "first_seen": "2022",
+   "rounds": [
+    "Early investment"
+   ],
+   "lead": false,
+   "amount": {
+    "value": 70,
+    "currency": "INR Cr"
+   },
+   "board_seat": "UNKNOWN",
+   "source_url": "https://economictimes.indiatimes.com/industry/healthcare/biotech/healthcare/hul-turns-70-cr-bet-in-wellbeing-nutrition-into-307-cr-exit/articleshow/128240021.cms",
+   "confidence": 0.9
+  },
+  {
+   "investor": "Fireside Ventures",
+   "investor_type": "vc",
+   "first_seen": "2022",
+   "rounds": [
+    "Early investment"
+   ],
+   "lead": false,
+   "amount": null,
+   "board_seat": "UNKNOWN",
+   "source_url": "https://economictimes.indiatimes.com/tech/technology/usv-pharma-buys-79-stake-in-wellbeing-nutrition-for-rs-1583-crore/articleshow/128254600.cms",
+   "confidence": 0.85
+  }
+ ],
+ "sources": [
+  {
+   "url": "https://economictimes.indiatimes.com/tech/technology/usv-pharma-buys-79-stake-in-wellbeing-nutrition-for-rs-1583-crore/articleshow/128254600.cms",
+   "title": "USV Pharma buys 79% stake in Wellbeing Nutrition for Rs 1,583 crore",
+   "publisher": "Economic Times",
+   "publication_date": "2026-02-12",
+   "tier": "T1",
+   "claim_supported": "Acquisition, founders, valuation",
+   "fields_supported": [
+    "funding_rounds",
+    "founders",
+    "investor_links"
+   ]
+  },
+  {
+   "url": "https://www.thehindubusinessline.com/news/not-an-exit-founder-says-usv-deal-signals-pharma-validation-for-nutraceuticals/article70624223.ece",
+   "title": "Not an exit: Founder says USV deal signals pharma validation",
+   "publisher": "The Hindu BusinessLine",
+   "publication_date": "2026-02-12",
+   "tier": "T1",
+   "claim_supported": "Founder details, stake retention",
+   "fields_supported": [
+    "founders"
+   ]
+  }
+ ],
+ "research_log": [
+  {
+   "query": "Wellbeing Nutrition startup status/shutdown/acquisition 2025 2026",
+   "found": "ACQUIRED - USV Pharma bought 79% stake for Rs 1,583 Cr in Feb 2026",
+   "unresolved": "Exact founding date"
+  },
+  {
+   "query": "Wellbeing Nutrition founders funding",
+   "found": "Avnish Chhabria founded 2019, acquired by USV",
+   "unresolved": "Full investor history"
+  }
+ ],
+ "gaps": [
+  "Exact incorporation date not confirmed",
+  "Full funding history incomplete",
+  "Revenue details limited"
+ ],
+ "completeness_self": {
+  "identity": 8,
+  "founders": 9,
+  "funding": 8,
+  "investors": 8,
+  "financials": 5,
+  "products": 4,
+  "traction": 5,
+  "people": 4,
+  "customers": 3,
+  "legal": 4,
+  "sources": 8
+ },
+ "_merged_session2": true
+}

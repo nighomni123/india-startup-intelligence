@@ -1,0 +1,48 @@
+{
+ "canonical_key": "razorpay",
+ "updates": {
+  "company": {
+   "cin": "U72200KA2013PTC097389",
+   "incorporation_date": "2013-05-24",
+   "legal_name": "Razorpay Software Private Limited (converting/converted to Razorpay Software Limited per company notice)"
+  }
+ },
+ "sources": [
+  {
+   "url": "https://www.zaubacorp.com/RAZORPAY-SOFTWARE-PRIVATE-LIMITED-U72200KA2013PTC097389",
+   "title": "RAZORPAY SOFTWARE PRIVATE LIMITED | ZaubaCorp",
+   "publication_date": "n.d.",
+   "fields": [
+    "cin",
+    "incorporation_date"
+   ],
+   "confidence": "medium-high"
+  },
+  {
+   "url": "https://economictimes.indiatimes.com/company/razorpay-software-private-limited/U72200KA2013PTC097389",
+   "title": "Razorpay Software Private Limited - The Economic Times Company Profile",
+   "publication_date": "n.d.",
+   "fields": [
+    "cin",
+    "incorporation_date"
+   ],
+   "confidence": "medium"
+  }
+ ],
+ "log": [
+  {
+   "query": "Razorpay Software Private Limited CIN incorporation date",
+   "found": "as-incorporated CIN U72200KA2013PTC097389; recurclub notes now PLC variant after public conversion",
+   "unresolved": ""
+  },
+  {
+   "query": "Razorpay Software Private Limited ZaubaCorp incorporated 2013",
+   "found": "incorporated 24 May 2013, cross-confirmed ET",
+   "unresolved": ""
+  }
+ ],
+ "still_missing": [
+  "post-conversion PLC CIN confirmation via MCA",
+  "FY25/FY26 filing financials"
+ ]
+}

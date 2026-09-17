@@ -1,0 +1,233 @@
+{
+ "company": {
+  "business_model": "NBFC-led digital lending (personal loans, BNPL, credit cards, fee financing)",
+  "city": "Pune (batch said Bengaluru — corrected: Pune HQ per all sources)",
+  "customer_type": "consumer",
+  "dpiit": "",
+  "employee_estimate": "510 (Inc42 profile; LinkedIn reports 1063 — UNVERIFIED, conflict noted)",
+  "founded_date": "2015",
+  "legal_name": "Social Worth Technologies Pvt Ltd (alias per LinkedIn; UNVERIFIED)",
+  "parent/subsidiary": "",
+  "primary_sector": "fintech lending",
+  "public_private": "private",
+  "startup_stage": "Series E / IPO-bound (DRHP chatter 2025)",
+  "status": "active",
+  "website": "fibe.in",
+  "cin": "U72200PN2015PLC157014",
+  "official_website": {
+   "v": "https://www.fibe.in",
+   "conf": "high",
+   "src": "https://www.fibe.in",
+   "note": "verified live 2026-09-15: name match on own homepage"
+  },
+  "careers_website": {
+   "v": "https://www.fibe.in/careers/",
+   "conf": "high",
+   "src": "https://www.fibe.in",
+   "note": "careers link found on official homepage, probed live"
+  }
+ },
+ "completeness_self": {
+  "financials": 5,
+  "founders": 7,
+  "funding": 7,
+  "identity": 6,
+  "investors": 7,
+  "legal": 2,
+  "overall": "low-medium; lite enrichment"
+ },
+ "conflicts": [
+  {
+   "field": "headcount",
+   "note": "Inc42 profile says 510 employees; LinkedIn page snippet says 1063 (+35% YoY). LinkedIn headcount is not audited.",
+   "resolution": "keep both, neither as fact",
+   "resolved_value": "UNKNOWN (510 vs 1063)"
+  },
+  {
+   "field": "Series E valuation",
+   "note": "Entrackr/TheKredible est. $590-600M post-money; ET sources peg >$500M vs $270M in 2022.",
+   "resolution": "report range, mark estimate",
+   "resolved_value": "~$500-600M (est.)"
+  }
+ ],
+ "events": [
+  {
+   "date": "Dec 2025 (per Inc42 profile; details unverified)",
+   "headline": "Last funding round reported Dec 2025",
+   "source_url": "https://inc42.com/company/earlysalary/",
+   "type": "funding"
+  }
+ ],
+ "financials": [
+  {
+   "fiscal_year": "FY24",
+   "metric": "revenue (company-shared)",
+   "source_title": "Fibe closes $90 million financing",
+   "source_url": "https://economictimes.indiatimes.com/tech/funding/consumer-lending-startup-fibe-secures-90-million-in-funding-from-tr-capital-others/articleshow/110734791.cms",
+   "value": "~1000 crore",
+   "value_type": "management"
+  },
+  {
+   "fiscal_year": "FY24",
+   "metric": "net profit (company-shared)",
+   "source_title": "Fibe closes $90 million financing",
+   "source_url": "https://economictimes.indiatimes.com/tech/funding/consumer-lending-startup-fibe-secures-90-million-in-funding-from-tr-capital-others/articleshow/110734791.cms",
+   "value": "~100 crore",
+   "value_type": "management"
+  }
+ ],
+ "founders": [
+  {
+   "name": "Akshay Mehrotra",
+   "role": "Co-founder & CEO",
+   "source_url": "https://economictimes.indiatimes.com/tech/funding/consumer-lending-startup-fibe-secures-90-million-in-funding-from-tr-capital-others/articleshow/110734791.cms"
+  },
+  {
+   "name": "Ashish Goyal",
+   "role": "Co-founder & CFO",
+   "source_url": "https://entrackr.com/2024/06/exclusive-consumer-lending-startup-fibe-raises-66-mn/"
+  }
+ ],
+ "funding_rounds": [
+  {
+   "amount": "90M (66M primary + secondary)",
+   "announced_date": "Jun 2024",
+   "currency": "USD",
+   "leads": [
+    "TR Capital (secondary-heavy)",
+    "TPG Rise Fund (primary)"
+   ],
+   "round_type": "Series E",
+   "source_url": "https://economictimes.indiatimes.com/tech/funding/consumer-lending-startup-fibe-secures-90-million-in-funding-from-tr-capital-others/articleshow/110734791.cms",
+   "round_date": "2024-06",
+   "announcement_date": "2024-06",
+   "new_or_existing": "new (Amara) + existing",
+   "purpose": "lending scale-up"
+  },
+  {
+   "amount": "110M",
+   "announced_date": "Aug 2022",
+   "currency": "USD",
+   "leads": [
+    "TPG Rise Fund",
+    "Norwest Venture Partners"
+   ],
+   "round_type": "Series D",
+   "source_url": "https://economictimes.indiatimes.com/tech/funding/consumer-lending-startup-fibe-secures-90-million-in-funding-from-tr-capital-others/articleshow/110734791.cms"
+  },
+  {
+   "round_type": "Series F",
+   "amount": "",
+   "currency": "USD",
+   "round_date": "",
+   "valuation": "",
+   "valuation_currency": "",
+   "valuation_type": "",
+   "lead_investors": [],
+   "all_investors": [],
+   "new_or_existing": "",
+   "purpose": "",
+   "source_url": "https://entrackr.com/news/fibe-raises-35-mn-in-series-f-round-led-by-ifc-10895526",
+   "confidence": "high",
+   "notes": "added session-2 gapfill"
+  }
+ ],
+ "gaps": [
+  "FY25 audited figures unverified",
+  "Dec 2025 round details unverified (Inc42 profile only)",
+  "IPO/DRHP status unverified beyond headlines",
+  "CIN unverified",
+  "Series E/F valuations",
+  "incorporation_date (2015 implied by CIN)"
+ ],
+ "investor_links": [
+  {
+   "investor": "TPG Rise Fund",
+   "source_url": "https://entrackr.com/2024/06/exclusive-consumer-lending-startup-fibe-raises-66-mn/"
+  },
+  {
+   "investor": "Norwest Venture Partners",
+   "source_url": "https://entrackr.com/2024/06/exclusive-consumer-lending-startup-fibe-raises-66-mn/"
+  },
+  {
+   "investor": "Eight Roads Ventures",
+   "source_url": "https://entrackr.com/2024/06/exclusive-consumer-lending-startup-fibe-raises-66-mn/"
+  },
+  {
+   "investor": "TR Capital",
+   "source_url": "https://economictimes.indiatimes.com/tech/funding/consumer-lending-startup-fibe-secures-90-million-in-funding-from-tr-capital-others/articleshow/110734791.cms"
+  },
+  {
+   "investor": "Chiratae Ventures",
+   "source_url": "https://economictimes.indiatimes.com/tech/funding/consumer-lending-startup-fibe-secures-90-million-in-funding-from-tr-capital-others/articleshow/110734791.cms"
+  }
+ ],
+ "research_log": [
+  {
+   "found": "Series E $90M, founders, FY24 mgmt figures, Pune HQ",
+   "query": "Fibe EarlySalary fintech funding valuation founders Pune"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "Q-wave claim source-hunt",
+   "found": "0 resolved",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "found": "CIN U72200PN2015PLC157014 on company site fibe.in; Series E $90M (TR Capital/Trifecta/Amara); Series F $35M led by IFC, total equity >$266M",
+   "query": "Social Worth Technologies CIN + Fibe Series E/F",
+   "unresolved": "valuation figures; incorporation date (2015 implied by CIN, not directly cited)"
+  }
+ ],
+ "sources": [
+  {
+   "publisher": "Entrackr",
+   "title": "Consumer lending startup Fibe raises $90 Mn",
+   "url": "https://entrackr.com/2024/06/exclusive-consumer-lending-startup-fibe-raises-66-mn/"
+  },
+  {
+   "publisher": "Economic Times",
+   "title": "Lending startup Fibe closes $90 million financing",
+   "url": "https://economictimes.indiatimes.com/tech/funding/consumer-lending-startup-fibe-secures-90-million-in-funding-from-tr-capital-others/articleshow/110734791.cms"
+  },
+  {
+   "publisher": "Inc42",
+   "title": "Fibe — Funding, Revenue & Investors",
+   "url": "https://inc42.com/company/earlysalary/"
+  },
+  {
+   "url": "https://www.moneycontrol.com/technology/digital-lending-app-fibe-raises-90-million-in-series-e-round-article-12741750.html",
+   "title": "",
+   "fields": "FUNDING",
+   "confidence": "high"
+  },
+  {
+   "url": "https://entrackr.com/news/fibe-raises-35-mn-in-series-f-round-led-by-ifc-10895526",
+   "title": "",
+   "fields": "FUNDING",
+   "confidence": "high"
+  },
+  {
+   "url": "https://www.fibe.in/contact-us/",
+   "title": "Contact Us | Fibe (formerly EarlySalary)",
+   "fields": [
+    "cin",
+    "registered_office"
+   ],
+   "confidence": "high"
+  }
+ ],
+ "startup_id": "fibe earlysalary",
+ "_merged_session2": true,
+ "investors_meta": [
+  {
+   "hq_geography": "USA (IFC/World Bank)",
+   "india_presence": "active India investor",
+   "investor": "International Finance Corporation (IFC)",
+   "source_url": "https://entrackr.com/news/fibe-raises-35-mn-in-series-f-round-led-by-ifc-10895526",
+   "type": "DFI"
+  }
+ ]
+}

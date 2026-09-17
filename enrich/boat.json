@@ -1,0 +1,392 @@
+{
+ "acquisitions": [],
+ "company": {
+  "business_model": "D2C + offline retail consumer electronics",
+  "city": "Delhi NCR (seed) — CORRECTED: Mumbai/Delhi ops",
+  "company_name": "boAt (Imagine Marketing Limited)",
+  "confidence": "HIGH",
+  "country": "India",
+  "customer_type": "B2C",
+  "founded_date": "2016 (brand launch; company 2013 per UDRHP breakdown)",
+  "hq_type": "Mumbai + Delhi offices (per Warburg PR)",
+  "last_funding_date": "2025-10-29",
+  "last_funding_round": "UDRHP (pre-IPO)",
+  "last_known_valuation": "UNKNOWN (IPO size Rs 1,500 cr)",
+  "legal_name": "Imagine Marketing Limited",
+  "primary_sector": "consumer electronics",
+  "secondary_sectors": [
+   "audio",
+   "wearables",
+   "D2C"
+  ],
+  "startup_id": "boat",
+  "startup_stage": "Late/pre-IPO (UDRHP filed)",
+  "state": "Maharashtra / Delhi",
+  "status": "operating",
+  "total_funding_disclosed": "~$100M Warburg (2021) + $500M-equivalent private placement (2022, Rs 500 cr) + Qualcomm undisclosed",
+  "website": "https://www.boat-lifestyle.com",
+  "cin": "U52300MH2013PLC249758",
+  "incorporation_date": "2013-11-01",
+  "registered_state_note": "MH = Maharashtra (Mumbai); matches ops. Converted Pvt->Public (PTC->PLC); UDRHP filed Oct 2025.",
+  "official_website": {
+   "v": "https://www.boat-lifestyle.com",
+   "conf": "high",
+   "src": "https://www.boat-lifestyle.com",
+   "note": "verified live 2026-09-15: name match on own homepage"
+  },
+  "careers_website": {
+   "v": "https://www.boat-lifestyle.com/pages/boat-careers",
+   "conf": "high",
+   "src": "official homepage nav",
+   "note": "verified 2026-09-15"
+  }
+ },
+ "competitors": [
+  {
+   "basis": "explicit",
+   "category": "wearables/audio",
+   "confidence": "HIGH",
+   "name": "Noise, Fire-Boltt, Xiaomi, OnePlus (per ET UDRHP coverage)",
+   "source_url": "https://economictimes.indiatimes.com/markets/ipos/fpos/boats-parent-gets-regulatory-nod-for-rs-1500-crore-ipo/articleshow/124894852.cms"
+  }
+ ],
+ "completeness_self": {
+  "customers": 3,
+  "financials": 8,
+  "founders": 8,
+  "funding": 8,
+  "identity": 8,
+  "investors": 8,
+  "legal": 3,
+  "people": 5,
+  "products": 7,
+  "sources": 8,
+  "traction": 7
+ },
+ "conflicts": [
+  {
+   "claim_a": "Seed says Delhi NCR",
+   "claim_b": "Warburg PR: offices in Delhi and Mumbai; widely Mumbai-headquartered",
+   "field": "city",
+   "resolution": "Seed city corrected: Mumbai primary, Delhi office; seed 'Delhi NCR' partially right but incomplete",
+   "resolved_value": "Mumbai / Delhi",
+   "url_a": "https://warburgpincus.com/2021/01/05/warburg-pincus-to-invest-100-million-in-boat-indias-1-brand-in-the-personal-audio-category/",
+   "url_b": "https://techcrunch.com/2021/01/05/indian-electronics-and-lifestyle-brand-boat-raises-100-million-from-warburg-pincus/"
+  }
+ ],
+ "customers": [],
+ "events": [
+  {
+   "announced_date": "2021-01-05",
+   "confidence": "HIGH",
+   "date": "2021-01-05",
+   "description": "~$100M Series B at ~$300M post-money; significant minority stake",
+   "headline": "Warburg Pincus $100M Series B",
+   "source_url": "https://techcrunch.com/2021/01/05/indian-electronics-and-lifestyle-brand-boat-raises-100-million-from-warburg-pincus/",
+   "type": "funding"
+  },
+  {
+   "announced_date": "2022",
+   "confidence": "MEDIUM",
+   "date": "2022",
+   "description": "Rs 500 cr private placement from Warburg + Malabar after shelving Rs 2,000 cr IPO (Rs 900 cr fresh + Rs 1,100 cr OFS)",
+   "headline": "2022 IPO shelved; private placement",
+   "source_url": "https://economictimes.indiatimes.com/markets/ipos/fpos/boats-parent-gets-regulatory-nod-for-rs-1500-crore-ipo/articleshow/124894852.cms",
+   "type": "funding"
+  },
+  {
+   "announced_date": "2025-10-29",
+   "confidence": "HIGH",
+   "date": "2025-10-29",
+   "description": "UDRHP: Rs 1,500 cr (Rs 500 cr fresh + Rs 1,000 cr OFS); confidential filing April 2025; approval Aug/Sep 2025; BRLMs ICICI/Goldman/JM/Nomura",
+   "headline": "UDRHP filed Oct 2025",
+   "source_url": "https://www.business-standard.com/markets/ipo/boat-parent-files-updated-drhp-with-sebi-cuts-issue-size-to-1500-crore-125102900766_1.html",
+   "type": "filing"
+  }
+ ],
+ "financials": [
+  {
+   "confidence": "HIGH",
+   "currency": "INR",
+   "fiscal_year": "FY25",
+   "metric": "revenue_from_operations",
+   "source_title": "Boat parent gets regulatory nod (ET/Reuters)",
+   "source_url": "https://economictimes.indiatimes.com/markets/ipos/fpos/boats-parent-gets-regulatory-nod-for-rs-1500-crore-ipo/articleshow/124894852.cms",
+   "value": 3070,
+   "value_type": "press-quoted-filing",
+   "unit": "cr"
+  },
+  {
+   "confidence": "HIGH",
+   "currency": "INR",
+   "fiscal_year": "FY25",
+   "metric": "pat",
+   "source_title": "Boat parent gets regulatory nod (ET/Reuters)",
+   "source_url": "https://economictimes.indiatimes.com/markets/ipos/fpos/boats-parent-gets-regulatory-nod-for-rs-1500-crore-ipo/articleshow/124894852.cms",
+   "value": 61.1,
+   "value_type": "press-quoted-filing",
+   "unit": "cr"
+  }
+ ],
+ "founders": [
+  {
+   "background": "Ex-Harman International director-sales; CMO; Shark Tank India",
+   "confidence": "HIGH",
+   "name": "Aman Gupta",
+   "role": "Co-founder (CMO)",
+   "source_url": "https://techcrunch.com/2021/01/05/indian-electronics-and-lifestyle-brand-boat-raises-100-million-from-warburg-pincus/",
+   "still_active": true,
+   "type": "co-founder"
+  },
+  {
+   "background": "Entrepreneur; operations",
+   "confidence": "HIGH",
+   "name": "Sameer Ashok Mehta",
+   "role": "Co-founder",
+   "source_url": "https://techcrunch.com/2021/01/05/indian-electronics-and-lifestyle-brand-boat-raises-100-million-from-warburg-pincus/",
+   "still_active": true,
+   "type": "co-founder"
+  }
+ ],
+ "funding_rounds": [
+  {
+   "all_investors": [],
+   "amount": 100,
+   "announced_date": "2021-01-05",
+   "confidence": "HIGH",
+   "currency": "USD",
+   "lead_investors": [
+    "Warburg Pincus (South Lake Investment)"
+   ],
+   "notes": "Series B; ~$300M post-money per TechCrunch source; Fireside part-exit",
+   "round_type": "Series B",
+   "source_title": "Boat Lifestyle raises $100M from Warburg Pincus (TechCrunch)",
+   "source_url": "https://techcrunch.com/2021/01/05/indian-electronics-and-lifestyle-brand-boat-raises-100-million-from-warburg-pincus/",
+   "tier": "T3",
+   "valuation": "~$300M post-money"
+  },
+  {
+   "all_investors": [],
+   "amount": null,
+   "announced_date": "2021",
+   "confidence": "MEDIUM",
+   "currency": "USD",
+   "lead_investors": [
+    "Qualcomm Ventures"
+   ],
+   "notes": "Undisclosed amount",
+   "round_type": "Venture",
+   "source_title": "Warburg-backed boAt secures Qualcomm Ventures funding (VCCircle)",
+   "source_url": "https://www.vccircle.com/warburg-pincus-backed-boat-now-secures-funding-from-qualcomm-ventures",
+   "tier": "T3"
+  },
+  {
+   "all_investors": [
+    "Malabar Investments"
+   ],
+   "amount": 500,
+   "announced_date": "2022",
+   "confidence": "MEDIUM",
+   "currency": "INR-cr",
+   "lead_investors": [
+    "Warburg Pincus"
+   ],
+   "notes": "Private placement after shelving 2022 IPO",
+   "round_type": "Private placement",
+   "source_title": "Boat's parent gets regulatory nod (ET)",
+   "source_url": "https://economictimes.indiatimes.com/markets/ipos/fpos/boats-parent-gets-regulatory-nod-for-rs-1500-crore-ipo/articleshow/124894852.cms",
+   "tier": "T3"
+  },
+  {
+   "all_investors": [],
+   "amount": 1500,
+   "announced_date": "2025-10-29",
+   "confidence": "HIGH",
+   "currency": "INR-cr",
+   "lead_investors": [],
+   "notes": "Fresh Rs 500 cr (WC Rs 225 cr + brand Rs 150 cr) + OFS Rs 1,000 cr (Sameer 75, Aman 225, South Lake 500, Fireside 150, Qualcomm 50)",
+   "round_type": "IPO-UDRHP",
+   "source_title": "boAt parent files updated DRHP (Business Standard)",
+   "source_url": "https://www.business-standard.com/markets/ipo/boat-parent-files-updated-drhp-with-sebi-cuts-issue-size-to-1500-crore-125102900766_1.html",
+   "tier": "T3"
+  }
+ ],
+ "gaps": [
+  "CIN/incorporation exact date not verified",
+  "Qualcomm round amount undisclosed",
+  "Pre-2021 rounds (~$3M equity+debt) not reconstructed",
+  "FY25 EBITDA detail not verified from UDRHP",
+  "fresh source URL for ~$300M Series B valuation (already in enrich)"
+ ],
+ "hiring": [],
+ "investor_links": [
+  {
+   "confidence": "HIGH",
+   "first_seen": "2021-01",
+   "investor": "Warburg Pincus (South Lake Investment)",
+   "investor_type": "PE",
+   "lead": true,
+   "rounds": [
+    "Series B 2021",
+    "2022 placement",
+    "OFS Rs 500 cr"
+   ],
+   "source_url": "https://warburgpincus.com/2021/01/05/warburg-pincus-to-invest-100-million-in-boat-indias-1-brand-in-the-personal-audio-category/"
+  },
+  {
+   "confidence": "MEDIUM",
+   "first_seen": "2021",
+   "investor": "Qualcomm Ventures",
+   "investor_type": "CVC",
+   "lead": false,
+   "rounds": [
+    "2021 venture",
+    "OFS Rs 50 cr"
+   ],
+   "source_url": "https://www.vccircle.com/warburg-pincus-backed-boat-now-secures-funding-from-qualcomm-ventures"
+  },
+  {
+   "confidence": "MEDIUM",
+   "first_seen": "2018",
+   "investor": "Fireside Ventures",
+   "investor_type": "VC",
+   "lead": false,
+   "rounds": [
+    "early (Rs 6 cr 2018)",
+    "OFS Rs 150 cr"
+   ],
+   "source_url": "https://economictimes.indiatimes.com/tech/startups/boat-raises-100-million-in-funding-from-warburg-pincus/articleshow/80125590.cms"
+  }
+ ],
+ "investors_meta": [],
+ "ip_tech_ai": {
+  "confidence": "MEDIUM",
+  "source_url": "https://ipocentral.in/boat-ipo-udrhp-full-breakdown/",
+  "stack": "boAt Labs R&D (100+ engineers), Crest OS wearables, Califonix Tech JV with Dixon (30M units/yr)"
+ },
+ "legal": [],
+ "locations": [
+  {
+   "as_of": "2021",
+   "city": "Mumbai / Delhi",
+   "confidence": "MEDIUM",
+   "source_url": "https://warburgpincus.com/2021/01/05/warburg-pincus-to-invest-100-million-in-boat-indias-1-brand-in-the-personal-audio-category/",
+   "state": "Maharashtra / Delhi",
+   "type": "office"
+  }
+ ],
+ "partnerships": [],
+ "people": [],
+ "products": [
+  {
+   "confidence": "HIGH",
+   "name": "boAt audio (headphones/earphones/speakers), wearables (smartwatches), chargers/cables; sub-brands Nirvana/Valour; smart rings pilots",
+   "source_url": "https://www.business-standard.com/markets/ipo/boat-parent-files-updated-drhp-with-sebi-cuts-issue-size-to-1500-crore-125102900766_1.html",
+   "status": "active"
+  }
+ ],
+ "research_log": [
+  {
+   "found": "UDRHP terms, OFS split, BRLMs, FY25 revenue/profit, 2022 shelved IPO",
+   "next_action": "done",
+   "query": "boAt Imagine Marketing IPO DRHP 2025 2026",
+   "unresolved": "CIN"
+  },
+  {
+   "found": "Warburg $100M, founders, Fireside early round, valuation ~$300M",
+   "next_action": "done",
+   "query": "boAt founders funding Warburg Qualcomm",
+   "unresolved": "Qualcomm amount"
+  },
+  {
+   "date": "2026-09-14",
+   "found": "Imagine Marketing CIN U52300MH2013PLC249758 (now PLC; PTC pre-conversion), incorp 01 Nov 2013 Mumbai (ZaubaCorp/Tofler/boat IR page)",
+   "query": "Imagine Marketing boAt CIN incorporation date Tofler ZaubaCorp",
+   "unresolved": "fresh valuation source not probed this wave"
+  }
+ ],
+ "sources": [
+  {
+   "claim_supported": "UDRHP size, fresh/OFS split, sellers, use of proceeds, BRLMs",
+   "fields_supported": [
+    "funding_rounds",
+    "events"
+   ],
+   "publication_date": "2025-10-29",
+   "publisher": "Business Standard",
+   "retrieved_date": "2026-09-14",
+   "tier": "T3",
+   "title": "boAt parent files updated DRHP; cuts issue size to Rs 1,500 cr",
+   "url": "https://www.business-standard.com/markets/ipo/boat-parent-files-updated-drhp-with-sebi-cuts-issue-size-to-1500-crore-125102900766_1.html"
+  },
+  {
+   "claim_supported": "Confidential filing, approval, FY25 revenue Rs 3,000 cr + Rs 61 cr profit, 2022 attempt",
+   "fields_supported": [
+    "events",
+    "financials"
+   ],
+   "publication_date": "2025-10-29",
+   "publisher": "Economic Times/Reuters",
+   "retrieved_date": "2026-09-14",
+   "tier": "T3",
+   "title": "Boat's parent gets regulatory nod for Rs 1,500 cr IPO",
+   "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/boats-parent-gets-regulatory-nod-for-rs-1500-crore-ipo/articleshow/124894852.cms"
+  },
+  {
+   "claim_supported": "$100M Series B, ~$300M valuation, founders, D2C thesis",
+   "fields_supported": [
+    "funding_rounds",
+    "founders"
+   ],
+   "publication_date": "2021-01-05",
+   "publisher": "TechCrunch",
+   "retrieved_date": "2026-09-14",
+   "tier": "T3",
+   "title": "Boat Lifestyle raises $100M from Warburg Pincus",
+   "url": "https://techcrunch.com/2021/01/05/indian-electronics-and-lifestyle-brand-boat-raises-100-million-from-warburg-pincus/"
+  },
+  {
+   "claim_supported": "$100M investment, founders quotes, Make-in-India manufacturing",
+   "fields_supported": [
+    "funding_rounds",
+    "founders"
+   ],
+   "publication_date": "2021-01-05",
+   "publisher": "Warburg Pincus (company PR)",
+   "retrieved_date": "2026-09-14",
+   "tier": "T1",
+   "title": "Warburg Pincus to invest ~$100M in boAt",
+   "url": "https://warburgpincus.com/2021/01/05/warburg-pincus-to-invest-100-million-in-boat-indias-1-brand-in-the-personal-audio-category/"
+  },
+  {
+   "url": "https://www.zaubacorp.com/IMAGINE-MARKETING-LIMITED-U52300MH2013PLC249758",
+   "title": "IMAGINE MARKETING LIMITED | ZaubaCorp",
+   "fields": [
+    "cin",
+    "incorporation_date"
+   ],
+   "confidence": "high"
+  },
+  {
+   "url": "https://www.boat-lifestyle.com/pages/investor-relations?srsltid=AfmBOor-rCGc7A0t0fxztXslKEtyl5cZO1uIr-ibAPcxO9waFTTdQpWh",
+   "title": "boAt Investor Relations | Imagine Marketing Ltd | IR Page",
+   "fields": [
+    "cin"
+   ],
+   "confidence": "high"
+  }
+ ],
+ "startup_id": "boat",
+ "traction": [
+  {
+   "as_of": "FY25",
+   "company_reported": true,
+   "confidence": "MEDIUM",
+   "metric": "market share branded personal audio India",
+   "period": "FY25",
+   "source_url": "https://www.financialexpress.com/market/boat-parent-company-imagine-marketing-files-updated-drhp-plans-rs-1500-crore-ipo-4025255/",
+   "value": "26% value / 34% volume (Redseer via DRHP)"
+  }
+ ],
+ "_merged_session2": true
+}

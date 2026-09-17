@@ -1,0 +1,3502 @@
+{
+ "canonical_key": "kreditbee",
+ "company": {
+  "city": "Bengaluru",
+  "country": "India",
+  "legal_name": "KrazyBee Services Private Limited (NBFC arm); tech arm Finnovation Tech Solutions Private Limited; parent Finnov Private Limited",
+  "primary_sector": "fintech lending",
+  "secondary_sectors": [
+   "digital lending",
+   "NBFC"
+  ],
+  "startup_id": "kreditbee",
+  "startup_stage": "unicorn (Series E, Apr 2026)",
+  "status": "active, pre-IPO",
+  "website": "https://kreditbee.in",
+  "cin": "U65100KA2016PTC086990",
+  "incorporation_date": "2016-03-16",
+  "official_website": {
+   "v": "https://www.kreditbee.in",
+   "conf": "high",
+   "src": "https://www.kreditbee.in",
+   "note": "verified live 2026-09-15: name match on own homepage"
+  },
+  "careers_website": {
+   "v": "https://kreditbee.darwinbox.in/ms/candidatev2/main/careers/home",
+   "conf": "high",
+   "src": "official homepage nav",
+   "note": "verified 2026-09-15"
+  },
+  "state": {
+   "v": "Karnataka",
+   "conf": "HIGH",
+   "src": "https://entrackr.com/news/kreditbee-enters-unicorn-club-with-280-mn-series-e-round-11700184",
+   "note": "",
+   "asof": "2026-09-15"
+  },
+  "business_model": {
+   "v": "Digital lending marketplace + own NBFC book; co-lending with 10+ partner lenders",
+   "conf": "HIGH",
+   "src": "https://www.kreditbee.in/digital-lending-partners",
+   "note": "Platform facilitates loans via KrazyBee Services (own NBFC) and partner NBFCs/Banks",
+   "asof": "2026-09-15"
+  },
+  "description": {
+   "v": "India's leading online credit solutions provider; instant personal loans via app; serves 180M+ users, 80M+ registered customers, 15M+ unique loan customers",
+   "conf": "HIGH",
+   "src": "https://fintech.global/2026/04/08/kreditbee-raises-280m-series-e-at-1-5bn-valuation",
+   "note": "Company-reported figures as of Apr 2026",
+   "asof": "2026-04-08"
+  },
+  "employee_estimate": {
+   "v": 1732,
+   "conf": "MEDIUM",
+   "src": "https://pitchbook.com/profiles/company/160824-52",
+   "note": "PitchBook 2026; Tracxn shows 445 (official), LinkedIn 1836; wide variance across sources",
+   "asof": "2026-09-15"
+  },
+  "public_private": {
+   "v": "private",
+   "conf": "HIGH",
+   "src": "https://entrackr.com/news/kreditbee-enters-unicorn-club-with-280-mn-series-e-round-11700184",
+   "note": "Pre-IPO; board approved public entity conversion Jul 2025",
+   "asof": "2026-09-15"
+  },
+  "hq_type": {
+   "v": "HQ",
+   "conf": "HIGH",
+   "src": "https://pitchbook.com/profiles/company/160824-52",
+   "note": "4th Floor, Anjaneya Techno Park, HAL Old Airport Road, Bengaluru",
+   "asof": "2026-09-15"
+  },
+  "registered_office": {
+   "v": "3rd Floor, No.128/9, Maruthi Sapphire, HAL Airport Road, Murugesh Palya, Bengaluru, Karnataka - 560017",
+   "conf": "HIGH",
+   "src": "https://www.bseindia.com/xml-data/corpfiling/AttachHis//90d9d6b0-c206-4454-8780-c3f70220053c.pdf",
+   "note": "KrazyBee Services Pvt Ltd registered office per BSE filing",
+   "asof": "2026-09-15"
+  }
+ },
+ "competitors": [
+  {
+   "basis": "inferred",
+   "confidence": "MEDIUM",
+   "name": "Moneyview"
+  },
+  {
+   "basis": "inferred",
+   "confidence": "MEDIUM",
+   "name": "Fibe"
+  },
+  {
+   "basis": "inferred",
+   "confidence": "MEDIUM",
+   "name": "Kissht"
+  }
+ ],
+ "completeness_self": {
+  "customers": 5,
+  "financials": 8,
+  "founders": 9,
+  "funding": 9,
+  "identity": 8,
+  "investors": 8,
+  "legal": 4,
+  "people": 4,
+  "products": 7,
+  "sources": 8,
+  "traction": 8
+ },
+ "conflicts": [
+  {
+   "claim_a": "First unicorn of FY27 (Entrackr/Hindu BusinessLine)",
+   "claim_b": "Second unicorn of 2026 after Juspay (VCCircle/TOI)",
+   "field": "unicorn sequencing",
+   "resolution": "Both defensible on different windows: first of FY27 (Apr 2026) vs second of calendar 2026 (Juspay Jan 2026). Kept calendar framing.",
+   "resolved_value": "Second calendar-2026 unicorn; first of FY27",
+   "url_a": "https://entrackr.com/news/kreditbee-enters-unicorn-club-with-280-mn-series-e-round-11700184",
+   "url_b": "https://www.vccircle.com/kreditbeecollects-280-mn-from-mo-alts-others-joins-unicorn-club"
+  },
+  {
+   "claim_a": "Founded 2016 (company/PR)",
+   "claim_b": "Founded 2018 (some secondary profiles)",
+   "field": "founded_date",
+   "resolution": "Primary sources say 2016 (NBFC incorporated Mar 2016, RBI licence May 2017); 2018 = KreditBee brand diversification date. Use 2016.",
+   "resolved_value": "2016",
+   "url_a": "https://entrackr.com/news/kreditbee-enters-unicorn-club-with-280-mn-series-e-round-11700184",
+   "url_b": "https://www.moneycontrol.com/technology/fintech-kreditbee-s-profit-soars-66-to-rs-473-crore-revenue-surges-40-to-rs-2-712-crore-article-13245269.html"
+  },
+  {
+   "field": "legal_name",
+   "claim_a": "KrazyBee Services Private Limited (NBFC arm); tech arm Finnovation Tech Solutions Private Limited; parent Finnov Private Limited",
+   "url_a": "",
+   "claim_b": "KrazyBee Services Limited (NBFC arm); Finnovation Tech Solutions Private Limited (tech arm); Finnov Private Limited (holding)",
+   "url_b": "",
+   "resolution": "phase3 p3 payload disagrees with existing value; existing kept as preferred pending human review",
+   "resolved_value": "",
+   "reviewed": "p3-merge"
+  },
+  {
+   "field": "cin",
+   "claim_a": "U65100KA2016PTC086990",
+   "url_a": "",
+   "claim_b": "U65100KA2016PLC086990",
+   "url_b": "",
+   "resolution": "phase3 p3 payload disagrees with existing value; existing kept as preferred pending human review",
+   "resolved_value": "",
+   "reviewed": "p3-merge"
+  },
+  {
+   "field": "Series E secondary amount",
+   "claim_a": "$60M secondary (Entrackr, ETCFO)",
+   "claim_b": "$80M secondary (Moneycontrol)",
+   "url_a": "https://entrackr.com/news/kreditbee-enters-unicorn-club-with-280-mn-series-e-round-11700184",
+   "url_b": "https://www.moneycontrol.com/technology/fintech-lender-kreditbee-enters-unicorn-club-with-280-million-pre-ipo-funding-at-1-5-billion-valuation-article-13882857.html",
+   "resolution": "Moneycontrol reports $80M secondaries; Entrackr/ETCFO report $60M. Kept both; $60M is more widely cited.",
+   "resolved_value": "$60M secondary (most cited); $80M (Moneycontrol)"
+  },
+  {
+   "field": "FY25 standalone vs consolidated PAT",
+   "claim_a": "Rs 237 crore standalone PAT (MediaNama/MCA filing)",
+   "claim_b": "Rs 473 crore consolidated PAT (Moneycontrol/CARE Ratings)",
+   "url_a": "https://www.medianama.com/2026/01/223-kreditbee-fy25-profit-rises-87-percent-amid-revenue-decline",
+   "url_b": "https://www.moneycontrol.com/technology/fintech-kreditbee-s-profit-soars-66-to-rs-473-crore-revenue-surges-40-to-rs-2-712-crore-article-13245269.html",
+   "resolution": "Both correct: standalone PAT Rs 237cr vs consolidated PAT Rs 473cr. Different entity scopes.",
+   "resolved_value": "Standalone Rs 237cr; Consolidated Rs 473cr"
+  },
+  {
+   "field": "Founded 2016 vs 2018",
+   "claim_a": "Founded 2016 (NBFC incorporated Mar 2016)",
+   "claim_b": "Founded 2018 (KreditBee brand launched May 2018)",
+   "url_a": "https://entrackr.com/news/kreditbee-enters-unicorn-club-with-280-mn-series-e-round-11700184",
+   "url_b": "https://www.moneycontrol.com/technology/fintech-kreditbee-s-profit-soars-66-to-rs-473-crore-revenue-surges-40-to-rs-2-712-crore-article-13245269.html",
+   "resolution": "2016 = entity incorporation; 2018 = KreditBee brand launch. Both valid depending on context.",
+   "resolved_value": "2016 (entity); 2018 (brand)"
+  }
+ ],
+ "customers": [
+  {
+   "name": "Salaried professionals",
+   "type": "customer_segment",
+   "announced_date": "",
+   "status": "active",
+   "source_url": "https://www.kreditbee.in/",
+   "confidence": "HIGH",
+   "notes": "Primary customer segment; minimum Rs 10,000 monthly income; age 21-60"
+  },
+  {
+   "name": "Self-employed individuals",
+   "type": "customer_segment",
+   "announced_date": "",
+   "status": "active",
+   "source_url": "https://www.kreditbee.in/",
+   "confidence": "HIGH",
+   "notes": "Secondary customer segment; new-to-credit population"
+  }
+ ],
+ "events": [
+  {
+   "announced_date": "2026-04-08",
+   "confidence": "HIGH",
+   "date": "2026-04-08",
+   "description": "$280M Series E ($220M primary + $60M secondary) at $1.5B post-money; reverse-flip to India done Jul 2025; NBFC+tech merger pending NCLT nod before IPO filing; IPO window end-2026/early-2027.",
+   "headline": "KreditBee raises $280M Series E at $1.5B, enters unicorn club",
+   "source_url": "https://entrackr.com/news/kreditbee-enters-unicorn-club-with-280-mn-series-e-round-11700184",
+   "type": "funding"
+  },
+  {
+   "type": "funding",
+   "headline": "KreditBee raises $280M Series E at $1.5B valuation, enters unicorn club",
+   "date": "2026-04-08",
+   "description": "$220M primary + $60M secondary at $1.5B post-money; led by Motilal Oswal Alternates, Hornbill Capital, MUFG-backed Dragon Funds; last private round before IPO",
+   "source_url": "https://entrackr.com/news/kreditbee-enters-unicorn-club-with-280-mn-series-e-round-11700184",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "ipo",
+   "headline": "Board approves conversion to public entity",
+   "date": "2025-07-23",
+   "description": "Kreditbee secured board approval to convert into a public limited company; special resolution passed per ET report",
+   "source_url": "https://m.economictimes.com/tech/technology/kreditbee-gets-nod-to-become-public-entity/articleshow/122843910.cms",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "restructuring",
+   "headline": "Reverse-flip from Singapore to India completed",
+   "date": "2025-07-01",
+   "description": "KreditBee completed domicile shift from Singapore to India; paid ~$100M in tax; Finnov Private Limited (Singapore) dissolved",
+   "source_url": "https://www.livemint.com/companies/kreditbee-startup-back-to-india-krazybee-finnovation-tech-merge-entities-ipo-advent-11744204386292.html",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "merger",
+   "headline": "Amalgamation of Kartbee Technologies into Finnovation Tech Solutions",
+   "date": "2025-07-01",
+   "description": "Board approved merger of technology arm (Finnovation Tech) and NBFC arm (KrazyBee Services); awaiting NCLT nod before IPO filing",
+   "source_url": "https://www.kreditbee.in/corporate-info",
+   "confidence": "MEDIUM"
+  },
+  {
+   "type": "funding",
+   "headline": "Series D extension at $680M valuation",
+   "date": "2023-01-06",
+   "description": "$200M Series D led by MUFG; valued at $680M",
+   "source_url": "https://cfo.economictimes.indiatimes.com/news/corporate-finance/digital-lender-kreditbee-in-unicorn-club-with-280-million-at-1-5-billion-valuation/130100823",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "funding",
+   "headline": "Series C total $145M; Chinese investors exit",
+   "date": "2021-03-22",
+   "description": "Second tranche of $70M; Xiaomi, Shunwei, Kunlun made complete exit (previously held ~40% stake)",
+   "source_url": "https://www.livemint.com/companies/start-ups/kreditbee-raises-an-additional-usd-70-million-in-series-c-funding-round-11616390944504.html",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "partnership",
+   "headline": "Co-lending partnerships with 10+ financial institutions",
+   "date": "2026-04-08",
+   "description": "Partners include Northern Arc Capital, MAS Financial Services, PayU Finance, Kisetsu Saison, Piramal Finance, Cholamandalam, Mirae Asset, Tata Capital, AU Small Finance Bank, Fullerton India, IIFL, Incred, Vivriti Capital",
+   "source_url": "https://www.kreditbee.in/digital-lending-partners",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "rating",
+   "headline": "CRISIL rating upgrade to A+/Stable/A1+",
+   "date": "2026-07-27",
+   "description": "CRISIL upgraded KrazyBee Services ratings; total bank facilities Rs 1850 crore rated",
+   "source_url": "https://www.crisilratings.com/mnt/winshare/Ratings/RatingList/RatingDocs/KrazyBeeServicesLimited_July%2027_%202026_RR_400971.html",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "rating",
+   "headline": "CARE Ratings reaffirms A/Stable; AUM Rs 13,141 crore",
+   "date": "2026-03-19",
+   "description": "CARE reaffirmed ratings; AUM grew to Rs 13,141 crore as on Dec 31, 2025; 9MFY26 PAT Rs 341 crore",
+   "source_url": "https://www.careratings.com/upload/CompanyFiles/PR/202603120334_KrazyBee_Services_Limited.pdf",
+   "confidence": "HIGH"
+  }
+ ],
+ "financials": [
+  {
+   "confidence": "HIGH",
+   "currency": "INR",
+   "fiscal_year": "FY24",
+   "metric": "revenue (KrazyBee NBFC standalone, operating)",
+   "source_date": "2024-09-21",
+   "source_title": "Exclusive: KreditBee's NBFC arm posts Rs 200 Cr profit in FY24",
+   "source_url": "https://entrackr.com/2024/09/exclusive-kreditbees-nbfc-arm-posts-rs-200-cr-profit-in-fy24/",
+   "unit": "crore",
+   "value": 1399.0,
+   "value_type": "press-quoted-filing"
+  },
+  {
+   "confidence": "HIGH",
+   "currency": "INR",
+   "fiscal_year": "FY24",
+   "metric": "PAT (KrazyBee NBFC standalone)",
+   "source_date": "2024-09-21",
+   "source_title": "Exclusive: KreditBee's NBFC arm posts Rs 200 Cr profit in FY24",
+   "source_url": "https://entrackr.com/2024/09/exclusive-kreditbees-nbfc-arm-posts-rs-200-cr-profit-in-fy24/",
+   "unit": "crore",
+   "value": 200.0,
+   "value_type": "press-quoted-filing"
+  },
+  {
+   "confidence": "HIGH",
+   "currency": "INR",
+   "fiscal_year": "FY24",
+   "metric": "PAT (consolidated group, CARE/unaudited)",
+   "source_title": "CARE Ratings rationale Jul 2024",
+   "source_url": "https://www.careratings.com/upload/CompanyFiles/PR/202407120742_KrazyBee_Services_Private_Limited.pdf",
+   "unit": "crore",
+   "value": 285.0,
+   "value_type": "press-quoted-filing"
+  },
+  {
+   "confidence": "MEDIUM",
+   "currency": "INR",
+   "fiscal_year": "FY25",
+   "metric": "revenue (consolidated, press-quoted pre-audit)",
+   "source_date": "2025-07-09",
+   "source_title": "Fintech Kreditbee's profit soars 66% to Rs 473 crore",
+   "source_url": "https://www.moneycontrol.com/technology/fintech-kreditbee-s-profit-soars-66-to-rs-473-crore-revenue-surges-40-to-rs-2-712-crore-article-13245269.html",
+   "unit": "crore",
+   "value": 2712.0,
+   "value_type": "management"
+  },
+  {
+   "confidence": "MEDIUM",
+   "currency": "INR",
+   "fiscal_year": "FY25",
+   "metric": "PAT (consolidated, press-quoted pre-audit)",
+   "source_date": "2025-07-09",
+   "source_title": "Fintech Kreditbee's profit soars 66% to Rs 473 crore",
+   "source_url": "https://www.moneycontrol.com/technology/fintech-kreditbee-s-profit-soars-66-to-rs-473-crore-revenue-surges-40-to-rs-2-712-crore-article-13245269.html",
+   "unit": "crore",
+   "value": 473.0,
+   "value_type": "management"
+  },
+  {
+   "confidence": "MEDIUM",
+   "currency": "INR",
+   "fiscal_year": "FY25",
+   "metric": "operating revenue Q3 (Dec 2025 quarter)",
+   "source_date": "2026-04-08",
+   "source_title": "Digital lender Kreditbee in unicorn club (ETCFO)",
+   "source_url": "https://cfo.economictimes.indiatimes.com/news/corporate-finance/digital-lender-kreditbee-in-unicorn-club-with-280-million-at-1-5-billion-valuation/130100823",
+   "unit": "crore",
+   "value": 805.0,
+   "value_type": "management"
+  },
+  {
+   "fiscal_year": "FY26",
+   "metric": "operating_revenue",
+   "value": 3025.0,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "press-quoted-filing",
+   "basis": "consolidated",
+   "consolidated": "yes",
+   "filing_date": "2026-06-01",
+   "source_url": "https://economictimes.indiatimes.com/tech/technology/digital-lenders-clock-strong-fy26-on-sturdier-fundamentals/articleshow/131428660.cms",
+   "source_title": "Digital lenders clock strong FY26 on sturdier fundamentals",
+   "confidence": "MEDIUM",
+   "notes": "ET report citing regulatory filings; up from Rs 2,185 crore in FY25"
+  },
+  {
+   "fiscal_year": "FY26",
+   "metric": "net_profit",
+   "value": 478.0,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "press-quoted-filing",
+   "basis": "consolidated",
+   "consolidated": "yes",
+   "filing_date": "2026-06-01",
+   "source_url": "https://economictimes.indiatimes.com/tech/technology/digital-lenders-clock-strong-fy26-on-sturdier-fundamentals/articleshow/131428660.cms",
+   "source_title": "Digital lenders clock strong FY26 on sturdier fundamentals",
+   "confidence": "MEDIUM",
+   "notes": "Highest net profit among digital lenders FY26; more than doubled from Rs 221 crore FY25"
+  },
+  {
+   "fiscal_year": "FY25",
+   "metric": "total_revenue",
+   "value": 2712.0,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "press-quoted-filing",
+   "basis": "consolidated",
+   "consolidated": "yes",
+   "filing_date": "2025-07-09",
+   "source_url": "https://www.moneycontrol.com/technology/fintech-kreditbee-s-profit-soars-66-to-rs-473-crore-revenue-surges-40-to-rs-2-712-crore-article-13245269.html",
+   "source_title": "Fintech Kreditbee's profit soars 66% to Rs 473 crore, revenue surges 40% to Rs 2,712 crore",
+   "confidence": "MEDIUM",
+   "notes": "Press-quoted pre-audit; Moneycontrol citing sources who saw data"
+  },
+  {
+   "fiscal_year": "FY25",
+   "metric": "net_profit",
+   "value": 473.0,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "press-quoted-filing",
+   "basis": "consolidated",
+   "consolidated": "yes",
+   "filing_date": "2025-07-09",
+   "source_url": "https://www.moneycontrol.com/technology/fintech-kreditbee-s-profit-soars-66-to-rs-473-crore-revenue-surges-40-to-rs-2-712-crore-article-13245269.html",
+   "source_title": "Fintech Kreditbee's profit soars 66% to Rs 473 crore, revenue surges 40% to Rs 2,712 crore",
+   "confidence": "MEDIUM",
+   "notes": "Press-quoted pre-audit; CARE Ratings confirms PAT Rs 473 crore on total income Rs 2,712 crore"
+  },
+  {
+   "fiscal_year": "FY25",
+   "metric": "revenue_from_operations",
+   "value": 589.7,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "audited",
+   "basis": "standalone",
+   "consolidated": "no",
+   "filing_date": "2026-01-30",
+   "source_url": "https://www.medianama.com/2026/01/223-kreditbee-fy25-profit-rises-87-percent-amid-revenue-decline",
+   "source_title": "KreditBee Revenue Falls to Rs 589.7 Cr, Profit Nearly Doubles in FY25",
+   "confidence": "HIGH",
+   "notes": "Standalone MCA filing reviewed by MediaNama; revenue declined 7.5% from Rs 637.5 crore FY24"
+  },
+  {
+   "fiscal_year": "FY25",
+   "metric": "net_profit",
+   "value": 237.0,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "audited",
+   "basis": "standalone",
+   "consolidated": "no",
+   "filing_date": "2026-01-30",
+   "source_url": "https://www.medianama.com/2026/01/223-kreditbee-fy25-profit-rises-87-percent-amid-revenue-decline",
+   "source_title": "KreditBee Revenue Falls to Rs 589.7 Cr, Profit Nearly Doubles in FY25",
+   "confidence": "HIGH",
+   "notes": "Standalone MCA filing; PAT Rs 237 crore vs Rs 126.4 crore FY24 (+87%)"
+  },
+  {
+   "fiscal_year": "FY25",
+   "metric": "total_income",
+   "value": 2712.0,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "press-quoted-filing",
+   "basis": "consolidated",
+   "consolidated": "yes",
+   "filing_date": "2026-03-19",
+   "source_url": "https://www.careratings.com/upload/CompanyFiles/PR/202603120334_KrazyBee_Services_Limited.pdf",
+   "source_title": "CARE Ratings rationale - KrazyBee Services Limited",
+   "confidence": "HIGH",
+   "notes": "CARE Ratings: PAT Rs 473 crore on total income Rs 2,712 crore in FY25"
+  },
+  {
+   "fiscal_year": "FY24",
+   "metric": "revenue_from_operations",
+   "value": 1399.26,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "audited",
+   "basis": "standalone",
+   "consolidated": "no",
+   "filing_date": "2024-09-21",
+   "source_url": "https://entrackr.com/2024/09/exclusive-kreditbees-nbfc-arm-posts-rs-200-cr-profit-in-fy24/",
+   "source_title": "Exclusive: KreditBee's NBFC arm posts Rs 200 Cr profit in FY24",
+   "confidence": "HIGH",
+   "notes": "KrazyBee Services Pvt Ltd standalone; revenue Rs 1,39,925.71 lakhs per BSE annual report"
+  },
+  {
+   "fiscal_year": "FY24",
+   "metric": "net_profit",
+   "value": 200.36,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "audited",
+   "basis": "standalone",
+   "consolidated": "no",
+   "filing_date": "2024-09-21",
+   "source_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis//90d9d6b0-c206-4454-8780-c3f70220053c.pdf",
+   "source_title": "KrazyBee Services Private Limited 8th Annual Report FY2023-24",
+   "confidence": "HIGH",
+   "notes": "PAT Rs 20,035.82 lakhs per BSE filing; 207.82% growth YoY"
+  },
+  {
+   "fiscal_year": "FY24",
+   "metric": "net_profit",
+   "value": 285.0,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "press-quoted-filing",
+   "basis": "consolidated",
+   "consolidated": "yes",
+   "filing_date": "2025-07-14",
+   "source_url": "https://www.careratings.com/upload/CompanyFiles/PR/202507140755_KrazyBee_Services_Private_Limited.pdf",
+   "source_title": "CARE Ratings rationale - KrazyBee Services Private Limited",
+   "confidence": "HIGH",
+   "notes": "CARE Ratings consolidated PAT Rs 285 crore FY24"
+  },
+  {
+   "fiscal_year": "FY24",
+   "metric": "total_income",
+   "value": 1948.0,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "press-quoted-filing",
+   "basis": "consolidated",
+   "consolidated": "yes",
+   "filing_date": "2025-07-14",
+   "source_url": "https://www.careratings.com/upload/CompanyFiles/PR/202603120334_KrazyBee_Services_Limited.pdf",
+   "source_title": "CARE Ratings rationale - KrazyBee Services Limited",
+   "confidence": "HIGH",
+   "notes": "CARE Ratings: total income Rs 1,948 crore FY24"
+  },
+  {
+   "fiscal_year": "9MFY26",
+   "metric": "net_profit",
+   "value": 341.0,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "press-quoted-filing",
+   "basis": "standalone",
+   "consolidated": "no",
+   "filing_date": "2026-03-19",
+   "source_url": "https://www.careratings.com/upload/CompanyFiles/PR/202603120334_KrazyBee_Services_Limited.pdf",
+   "source_title": "CARE Ratings rationale - KrazyBee Services Limited",
+   "confidence": "MEDIUM",
+   "notes": "CARE Ratings: PAT Rs 341 crore on total income Rs 2,132 crore in 9MFY26"
+  },
+  {
+   "fiscal_year": "9MFY25",
+   "metric": "net_profit",
+   "value": 125.0,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "press-quoted-filing",
+   "basis": "standalone",
+   "consolidated": "no",
+   "filing_date": "2026-03-19",
+   "source_url": "https://www.careratings.com/upload/CompanyFiles/PR/202603120334_KrazyBee_Services_Limited.pdf",
+   "source_title": "CARE Ratings rationale - KrazyBee Services Limited",
+   "confidence": "MEDIUM",
+   "notes": "CARE Ratings: PAT Rs 125 crore on total income Rs 1,595 crore in 9MFY25"
+  }
+ ],
+ "founders": [
+  {
+   "background": "CEO; linked to Fintech Association for Consumer Empowerment",
+   "confidence": "HIGH",
+   "name": "Madhusudan Ekambaram (Madhusudan E)",
+   "role": "Co-founder & CEO",
+   "source_url": "https://entrackr.com/news/kreditbee-enters-unicorn-club-with-280-mn-series-e-round-11700184",
+   "still_active": true,
+   "type": "co-founder",
+   "active": "yes",
+   "location": "Bengaluru"
+  },
+  {
+   "background": "CTO; ex-NTT Solutions per Tracxn",
+   "confidence": "HIGH",
+   "name": "Karthikeyan Krishnaswamy",
+   "role": "Co-founder & CTO",
+   "source_url": "https://www.financialexpress.com/business/start-ups/unicorn-kreditbee-how-a-lending-startup-hit-1-5-billion-valuation/4199985/",
+   "still_active": true,
+   "type": "co-founder",
+   "active": "yes",
+   "location": "Bengaluru"
+  },
+  {
+   "background": "CFO; ex-Societe Generale per Tracxn",
+   "confidence": "HIGH",
+   "name": "Vivek Veda",
+   "role": "Co-founder & CFO",
+   "source_url": "https://www.financialexpress.com/business/start-ups/unicorn-kreditbee-how-a-lending-startup-hit-1-5-billion-valuation/4199985/",
+   "still_active": true,
+   "type": "co-founder",
+   "active": "yes",
+   "location": "Bengaluru"
+  },
+  {
+   "name": "Madhusudan Ekambaram",
+   "role": "Co-founder & CEO",
+   "background": "CEO; linked to Fintech Association for Consumer Empowerment; previously led e-commerce at Huawei",
+   "education": "IIM Bangalore; NUS connections",
+   "still_active": true,
+   "source_url": "https://entrackr.com/news/kreditbee-enters-unicorn-club-with-280-mn-series-e-round-11700184",
+   "confidence": "HIGH"
+  }
+ ],
+ "funding_rounds": [
+  {
+   "all_investors": [
+    "Motilal Oswal Alternates",
+    "Hornbill Capital",
+    "MUFG-backed Dragon Funds",
+    "WhiteOak Capital",
+    "A.P. Moller Holding",
+    "Premji Invest",
+    "Advent International"
+   ],
+   "amount": 280.0,
+   "announced_date": "2026-04-08",
+   "confidence": "HIGH",
+   "currency": "USD",
+   "lead_investors": [
+    "Motilal Oswal Alternates",
+    "Hornbill Capital",
+    "MUFG-backed Dragon Funds"
+   ],
+   "notes": "$220M primary + $60M secondary; ~3x oversubscribed; last private round before IPO",
+   "purpose": "Strengthen lending book/balance sheet, debt-to-equity leverage, lower cost of funds",
+   "round_date": "2026-04-08",
+   "round_type": "Series E",
+   "source_date": "2026-04-08",
+   "source_title": "KreditBee enters unicorn club with $280 Mn Series E round",
+   "source_url": "https://entrackr.com/news/kreditbee-enters-unicorn-club-with-280-mn-series-e-round-11700184",
+   "tier": "T3",
+   "valuation": 1500000000.0,
+   "valuation_type": "post-money"
+  },
+  {
+   "all_investors": [
+    "MUFG"
+   ],
+   "amount": 200.0,
+   "announced_date": "2023-01-01",
+   "confidence": "MEDIUM",
+   "currency": "USD",
+   "lead_investors": [
+    "MUFG"
+   ],
+   "notes": "Prior round per ET; Tracxn total ~$256M pre-Series-E",
+   "round_date": "2023-01-01",
+   "round_type": "Series D extension",
+   "source_date": "2026-04-08",
+   "source_title": "Digital lender Kreditbee in unicorn club (ETCFO)",
+   "source_url": "https://cfo.economictimes.indiatimes.com/news/corporate-finance/digital-lender-kreditbee-in-unicorn-club-with-280-million-at-1-5-billion-valuation/130100823",
+   "tier": "T3",
+   "valuation": 680000000.0,
+   "valuation_type": "post-money"
+  },
+  {
+   "round_type": "Series D extension",
+   "announced_date": "2024-03-27",
+   "round_date": "2024-03-27",
+   "amount": 9.4,
+   "currency": "USD",
+   "valuation": 184000000.0,
+   "valuation_currency": "USD",
+   "valuation_type": "post-money",
+   "lead_investors": [
+    "Motilal Oswal"
+   ],
+   "all_investors": [
+    "Motilal Oswal",
+    "Newquest",
+    "Premji Invest",
+    "Mirae Asset",
+    "MUFG",
+    "Wiseanya"
+   ],
+   "instrument": "equity",
+   "purpose": "Pre-IPO round",
+   "source_url": "https://www.financialexpress.com/business/start-ups/unicorn-kreditbee-how-a-lending-startup-hit-1-5-billion-valuation/4199985",
+   "source_title": "Unicorn KreditBee - How a lending startup hit $1.5 billion valuation",
+   "source_date": "2026-04-08",
+   "tier": "T3",
+   "confidence": "MEDIUM",
+   "notes": "Last disclosed round before Series E; Tracxn total ~$256M pre-Series-E"
+  },
+  {
+   "round_type": "Series D",
+   "announced_date": "2023-01-06",
+   "round_date": "2023-01-06",
+   "amount": 200.0,
+   "currency": "USD",
+   "valuation": 680000000.0,
+   "valuation_currency": "USD",
+   "valuation_type": "post-money",
+   "lead_investors": [
+    "MUFG"
+   ],
+   "all_investors": [
+    "MUFG",
+    "TPG",
+    "Mirae Asset",
+    "Advent International",
+    "Motilal Oswal",
+    "Premji Invest",
+    "Wiseanya"
+   ],
+   "instrument": "equity",
+   "purpose": "Growth capital",
+   "source_url": "https://cfo.economictimes.indiatimes.com/news/corporate-finance/digital-lender-kreditbee-in-unicorn-club-with-280-million-at-1-5-billion-valuation/130100823",
+   "source_title": "Digital lender Kreditbee in unicorn club with $280 million at $1.5 billion valuation",
+   "source_date": "2026-04-08",
+   "tier": "T3",
+   "confidence": "MEDIUM",
+   "notes": "Led by MUFG; valued at $680M"
+  },
+  {
+   "round_type": "Series C (tranche 2)",
+   "announced_date": "2021-03-22",
+   "round_date": "2021-03-22",
+   "amount": 70.0,
+   "currency": "USD",
+   "valuation": "",
+   "valuation_currency": "",
+   "valuation_type": "",
+   "lead_investors": [
+    "TPG-backed NewQuest Capital Partners",
+    "Motilal Oswal Private Equity"
+   ],
+   "all_investors": [
+    "TPG-backed NewQuest Capital Partners",
+    "Motilal Oswal Private Equity"
+   ],
+   "instrument": "equity",
+   "purpose": "Exit for Chinese investors (Xiaomi, Shunwei, Kunlun); expand lending portfolio",
+   "source_url": "https://www.livemint.com/companies/start-ups/kreditbee-raises-an-additional-usd-70-million-in-series-c-funding-round-11616390944504.html",
+   "source_title": "KreditBee raises an additional USD 70 million in Series C funding round",
+   "source_date": "2021-03-22",
+   "tier": "T2",
+   "confidence": "HIGH",
+   "notes": "Total Series C = $145M ($75M tranche 1 + $70M tranche 2); Chinese investors exit"
+  },
+  {
+   "round_type": "Series C (tranche 1)",
+   "announced_date": "2021-02-15",
+   "round_date": "2021-02-15",
+   "amount": 75.0,
+   "currency": "USD",
+   "valuation": "",
+   "valuation_currency": "",
+   "valuation_type": "",
+   "lead_investors": [
+    "Premji Invest",
+    "Mirae Asset Ventures",
+    "Alpine Capital Advisors",
+    "Arkam Ventures"
+   ],
+   "all_investors": [
+    "Premji Invest",
+    "Mirae Asset Ventures",
+    "Alpine Capital Advisors",
+    "Arkam Ventures"
+   ],
+   "instrument": "equity",
+   "purpose": "Diversify product offering; venture into secured loans, home loans, credit line",
+   "source_url": "https://www.business-standard.com/article/companies/fintech-lending-startup-kreditbee-raises-75-mn-in-series-c-equity-round-121021500338_1.html",
+   "source_title": "Fintech lending startup KreditBee raises $75 mn in Series C equity round",
+   "source_date": "2021-02-15",
+   "tier": "T2",
+   "confidence": "HIGH",
+   "notes": "Both primary and secondary; Chinese stake reduced from 40% to 10%"
+  }
+ ],
+ "gaps": [
+  "Audited FY25 consolidated statements not yet verified; FY25 Rs 2,712cr/473cr figures are press-quoted pre-audit",
+  "CIN/DPIIT status not verified",
+  "Exact secondary sellers in Series E not disclosed",
+  "HQ street address not verified",
+  "Finnovation Tech Solutions / Finnov Private Limited CINs",
+  "FY25/FY26 filing financials"
+ ],
+ "hiring": [],
+ "investor_links": [
+  {
+   "confidence": "HIGH",
+   "first_seen": "2021",
+   "investor": "Premji Invest",
+   "investor_type": "PE/VC",
+   "lead": false,
+   "rounds": [
+    "Series D",
+    "Series E"
+   ],
+   "source_url": "https://entrackr.com/news/kreditbee-enters-unicorn-club-with-280-mn-series-e-round-11700184"
+  },
+  {
+   "confidence": "HIGH",
+   "first_seen": "2023",
+   "investor": "Advent International",
+   "investor_type": "PE",
+   "lead": false,
+   "rounds": [
+    "Series D",
+    "Series E"
+   ],
+   "source_url": "https://entrackr.com/news/kreditbee-enters-unicorn-club-with-280-mn-series-e-round-11700184"
+  },
+  {
+   "confidence": "HIGH",
+   "first_seen": "2023",
+   "investor": "MUFG (Dragon Funds)",
+   "investor_type": "bank/strategic",
+   "lead": true,
+   "rounds": [
+    "Series D",
+    "Series E"
+   ],
+   "source_url": "https://entrackr.com/news/kreditbee-enters-unicorn-club-with-280-mn-series-e-round-11700184"
+  },
+  {
+   "confidence": "HIGH",
+   "first_seen": "2026",
+   "investor": "Motilal Oswal Alternates",
+   "investor_type": "PE",
+   "lead": true,
+   "rounds": [
+    "Series E"
+   ],
+   "source_url": "https://entrackr.com/news/kreditbee-enters-unicorn-club-with-280-mn-series-e-round-11700184"
+  },
+  {
+   "confidence": "HIGH",
+   "first_seen": "2026",
+   "investor": "Hornbill Capital",
+   "investor_type": "VC",
+   "lead": true,
+   "rounds": [
+    "Series E"
+   ],
+   "source_url": "https://entrackr.com/news/kreditbee-enters-unicorn-club-with-280-mn-series-e-round-11700184"
+  }
+ ],
+ "investors_meta": [],
+ "legal": [
+  {
+   "type": "regulatory",
+   "entity": "KrazyBee Services Limited",
+   "date": "2025-07-01",
+   "status": "notice",
+   "description": "RBI Digital Lending Apps (DLA) directory operationalized 01.07.2025; KreditBee listed as DLA deployed by Northern Arc Capital Limited (NBFC) per RBI directory. Also listed as deployed by KrazyBee Services Limited itself.",
+   "source_url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2241255&lang=2&reg=3",
+   "confidence": "MEDIUM"
+  },
+  {
+   "type": "regulatory",
+   "entity": "KrazyBee Services Limited",
+   "date": "2021-11-18",
+   "status": "guideline",
+   "description": "RBI issued digital lending guidelines requiring SRO constitution, all loan servicing through regulated entities, and customer protection measures. KreditBee operates within this framework via RBI-registered NBFC partners.",
+   "source_url": "https://www.rbi.org.in/Scripts/PublicationReportDetails.aspx?ID=1189&UrlPage",
+   "confidence": "MEDIUM"
+  },
+  {
+   "type": "licence",
+   "entity": "KrazyBee Services Limited",
+   "date": "2017-05-01",
+   "status": "confirmed",
+   "description": "RBI-registered NBFC-ND-SI (Non-Deposit taking Non-Banking Financial Company - Systemically Important) licence since May 2017. Currently rated CARE A/Stable.",
+   "source_url": "https://www.careratings.com/upload/CompanyFiles/PR/202603120334_KrazyBee_Services_Limited.pdf",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "regulatory",
+   "entity": "KrazyBee Services Limited",
+   "date": "2026-07-27",
+   "status": "rating_upgrade",
+   "description": "CRISIL upgraded ratings to A+/Stable/A1+; total bank loan facilities rated Rs 1850 crore; ~89% of portfolio from unsecured digital personal loans.",
+   "source_url": "https://www.crisilratings.com/mnt/winshare/Ratings/RatingList/RatingDocs/KrazyBeeServicesLimited_July%2027_%202026_RR_400971.html",
+   "confidence": "HIGH"
+  }
+ ],
+ "locations": [
+  {
+   "as_of": "2026-04-08",
+   "city": "Bengaluru",
+   "confidence": "HIGH",
+   "source_url": "https://timesofindia.indiatimes.com/business/india-business/kreditbee-raises-280-million-at-1-5-billion-valuation-eyes-ipo-by-early-2027/articleshow/130092382.cms",
+   "state": "Karnataka",
+   "type": "HQ"
+  },
+  {
+   "type": "hq",
+   "address_or_area": "4th Floor, Anjaneya Techno Park, No. 147, HAL Old Airport Road, ISRO Colony, Kodihalli",
+   "city": "Bengaluru",
+   "state": "Karnataka",
+   "country": "India",
+   "as_of": "2026-09-15",
+   "source_url": "https://pitchbook.com/profiles/company/160824-52",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "registered_office",
+   "address_or_area": "3rd Floor, No.128/9, Maruthi Sapphire, HAL Airport Road, Murugesh Palya",
+   "city": "Bengaluru",
+   "state": "Karnataka",
+   "country": "India",
+   "as_of": "2026-09-15",
+   "source_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis//90d9d6b0-c206-4454-8780-c3f70220053c.pdf",
+   "confidence": "HIGH"
+  }
+ ],
+ "partnerships": [],
+ "people": [
+  {
+   "name": "Madhusudan Ekambaram",
+   "role": "Co-founder & CEO",
+   "title": "Chief Executive Officer",
+   "current": true,
+   "since": "2016",
+   "prior_role": "Led e-commerce for multiple countries at Huawei",
+   "background": "Engineering and product management; linked to Fintech Association for Consumer Empowerment",
+   "education": "IIM Bangalore (per Dealroom); NUS connections",
+   "source_url": "https://entrackr.com/news/kreditbee-enters-unicorn-club-with-280-mn-series-e-round-11700184",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Karthikeyan Krishnaswamy",
+   "role": "Co-founder & CTO",
+   "title": "Chief Technology Officer",
+   "current": true,
+   "since": "2016",
+   "prior_role": "System Architect at Huawei",
+   "background": "Computer science graduate from National University of Singapore",
+   "education": "NUS",
+   "source_url": "https://www.financialexpress.com/business/start-ups/unicorn-kreditbee-how-a-lending-startup-hit-1-5-billion-valuation/4199985/",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Vivek Veda",
+   "role": "Co-founder & CFO",
+   "title": "Chief Financial Officer",
+   "current": true,
+   "since": "2016",
+   "prior_role": "Investment banking at HSBC and Société Générale",
+   "background": "Chartered Accountant; ex-Societe Generale per Tracxn",
+   "education": "Chartered Accountant",
+   "source_url": "https://www.financialexpress.com/business/start-ups/unicorn-kreditbee-how-a-lending-startup-hit-1-5-billion-valuation/4199985/",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Wan Hong",
+   "role": "Co-founder",
+   "title": "",
+   "current": false,
+   "since": "2016",
+   "prior_role": "",
+   "background": "Listed as co-founder on Crunchbase",
+   "education": "",
+   "source_url": "https://www.crunchbase.com/organization/kreditbee",
+   "confidence": "MEDIUM"
+  },
+  {
+   "name": "Ajeet Kumar",
+   "role": "Chief Operating Officer",
+   "title": "COO",
+   "current": true,
+   "since": "",
+   "prior_role": "",
+   "source_url": "http://inc42.com/company/kreditbee/people",
+   "confidence": "MEDIUM"
+  },
+  {
+   "name": "Ishan Bose",
+   "role": "Chief Marketing Officer",
+   "title": "CMO",
+   "current": true,
+   "since": "",
+   "prior_role": "",
+   "source_url": "http://inc42.com/company/kreditbee/people",
+   "confidence": "MEDIUM"
+  },
+  {
+   "name": "Rachit Agarwal",
+   "role": "Chief Product Officer",
+   "title": "CPO",
+   "current": true,
+   "since": "",
+   "prior_role": "",
+   "source_url": "http://inc42.com/company/kreditbee/people",
+   "confidence": "MEDIUM"
+  },
+  {
+   "name": "Mukesh Solanki",
+   "role": "Chief Information Security Officer",
+   "title": "CISO",
+   "current": true,
+   "since": "",
+   "prior_role": "",
+   "source_url": "http://inc42.com/company/kreditbee/people",
+   "confidence": "MEDIUM"
+  }
+ ],
+ "products": [
+  {
+   "category": "unsecured personal loans",
+   "description": "Personal/small-business loans via app; expanded to LAP, SME, two-wheeler loans",
+   "name": "KreditBee app lending",
+   "status": "active"
+  },
+  {
+   "name": "Flexi Personal Loan",
+   "category": "personal loan",
+   "description": "Unsecured personal loan from Rs 6,000 to Rs 10 Lakhs; 6-60 months tenure; 12-27.5% p.a. interest",
+   "pricing_model": "interest_rate_12-27.5_pa_plus_processing_fee_upto_4.7pct_gst",
+   "launch_date": "2018-05",
+   "status": "active",
+   "source_url": "https://www.kreditbee.in/loan-product-details/fpl",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Personal Loan for Salaried",
+   "category": "personal loan",
+   "description": "Personal loan for salaried professionals with minimum Rs 10,000 monthly income; Rs 6,000 to Rs 10 La",
+   "pricing_model": "interest_rate_12-27.5_pa",
+   "launch_date": "2018-05",
+   "status": "active",
+   "source_url": "https://www.kreditbee.in/personal-loan-for-low-salary-income",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Personal Loan for Self-Employed",
+   "category": "personal loan",
+   "description": "Personal loan for self-employed individuals; Rs 6,000 to Rs 10 Lakhs; 6-60 months tenure",
+   "pricing_model": "interest_rate_12-27.5_pa",
+   "launch_date": "2018-05",
+   "status": "active",
+   "source_url": "https://www.kreditbee.in/personal-loan-for-low-salary-income",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Emergency Loan",
+   "category": "personal loan",
+   "description": "Unsecured personal loan for emergencies; Rs 6,000 to Rs 10 Lakhs; 6-60 months; 12-27.5% p.a.",
+   "pricing_model": "interest_rate_12-27.5_pa",
+   "launch_date": "2018-05",
+   "status": "active",
+   "source_url": "https://www.kreditbee.in/emergency-loan",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Business Loan",
+   "category": "business loan",
+   "description": "Business loans from Rs 6,000 to Rs 1 Crore; 6-48 months tenure",
+   "pricing_model": "interest_rate_12-28.5_pa",
+   "launch_date": "2022",
+   "status": "active",
+   "source_url": "https://www.kreditbee.in/",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Two-Wheeler Loan",
+   "category": "vehicle loan",
+   "description": "Two-wheeler loan up to Rs 5 Lakhs; 6-60 months tenure",
+   "pricing_model": "interest_rate_12-28.5_pa",
+   "launch_date": "2022",
+   "status": "active",
+   "source_url": "https://www.kreditbee.in/",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Loan Against Property",
+   "category": "secured loan",
+   "description": "LAP up to Rs 1 Crore; up to 20 years tenure; interest from 12%; available in major South India citie",
+   "pricing_model": "interest_rate_from_12_pa",
+   "launch_date": "2023",
+   "status": "active",
+   "source_url": "https://www.kreditbee.in/",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Loan Against Mutual Funds",
+   "category": "secured loan",
+   "description": "Loan against mutual fund holdings",
+   "pricing_model": "interest_rate_12-28.5_pa",
+   "launch_date": "2024",
+   "status": "active",
+   "source_url": "https://www.kreditbee.in/personal-loan",
+   "confidence": "MEDIUM"
+  },
+  {
+   "name": "UPI Payments",
+   "category": "financial_services",
+   "description": "UPI-based offerings; NPCI approved; integrated in KreditBee app",
+   "pricing_model": "transaction_based",
+   "launch_date": "2024",
+   "status": "active",
+   "source_url": "https://play.google.com/store/apps/details?id=com.kreditbee.android",
+   "confidence": "MEDIUM"
+  },
+  {
+   "name": "Credit Report Solutions",
+   "category": "financial_services",
+   "description": "Value-added credit score check and insights service",
+   "pricing_model": "free_premium",
+   "launch_date": "2023",
+   "status": "active",
+   "source_url": "https://www.kreditbee.in/",
+   "confidence": "MEDIUM"
+  }
+ ],
+ "research_log": [
+  {
+   "found": "Series E $280M/$1.5B confirmed across 6+ outlets; founders, leads, AUM, FY25 press figures",
+   "next_action": "Verify audited FY25 MCA filing + CIN when available",
+   "query": "KreditBee funding $280M 2026 valuation founders",
+   "unresolved": "Audited FY25; CIN"
+  },
+  {
+   "found": "FY24 NBFC Rs 1,399cr rev / Rs 200cr PAT; consolidated PAT Rs 285cr; AUM Rs 7,644cr FY24",
+   "next_action": "none",
+   "query": "KreditBee revenue FY24 FY23 profit KrazyBee",
+   "unresolved": "FY25 audit pending"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "Q-wave claim source-hunt",
+   "found": "0 resolved",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "KrazyBee Services Private Limited CIN incorporation",
+   "found": "CIN U65100KA2016PTC086990, incorporated 16 Mar 2016; PLC variant U65100KA2016PLC086990 after conversion",
+   "unresolved": ""
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "KreditBee product lines, traction, people, financials, legal, events, identity P3-WAVE",
+   "status": "done",
+   "found": "Comprehensive data gathered: 10+ products, FY24-FY26 financials, 8+ people, legal/regulatory status, events 2021-2026, CINs verified",
+   "next_action": "Write gapfill/kreditbee.p3.json",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pankaj Chaudhary Vishesh Singh KreditBee founders",
+   "status": "done",
+   "found": "No evidence of Pankaj Chaudhary or Vishesh Singh as KreditBee founders. Verified founders are Madhusudan Ekambaram, Karthikeyan Krishnaswamy, Vivek Veda, Wan Hong",
+   "next_action": "Note as gap; founders claim not substantiated",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "KreditBee DRHP IPO filing SEBI",
+   "status": "done",
+   "found": "No DRHP filed yet as of 2026-09-15. Board approved public entity conversion Jul 2025; NCLT merger pending; IPO expected end-2026/early-2027",
+   "next_action": "Note as gap",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "KVKB Fintech Holdings KreditBee Fintech India Ltd CIN",
+   "status": "done",
+   "found": "No entities named KVKB Fintech Holdings or KreditBee Fintech India Ltd found. Known entities: KrazyBee Services Limited (CIN U65100KA2016PLC086990), Finnovation Tech Solutions Pvt Ltd (CIN U74900KA2016PTC086953), Finnov Private Limited (Singapore)",
+   "next_action": "Note as gap; entity names not found",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "KreditBee $258M 2025 raise",
+   "status": "done",
+   "found": "No $258M raise found in 2025. PitchBook shows a Secondary Transaction - Private on 2025-07-07 (amount undisclosed). Series E was $280M in Apr 2026. $258M figure may refer to total disclosed funding pre-Series-E ($256M per Tracxn)",
+   "next_action": "Note as gap; likely refers to Tracxn $256M pre-Series-E total",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "KreditBee product lines, traction, people, financials, legal, events, identity P3-WAVE",
+   "status": "done",
+   "found": "Comprehensive data gathered: 10+ products, FY24-FY26 financials, 8+ people, legal/regulatory status, events 2021-2026, CINs verified",
+   "next_action": "Write gapfill/kreditbee.p3.json",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pankaj Chaudhary Vishesh Singh KreditBee founders",
+   "status": "done",
+   "found": "No evidence of Pankaj Chaudhary or Vishesh Singh as KreditBee founders. Verified founders are Madhusudan Ekambaram, Karthikeyan Krishnaswamy, Vivek Veda, Wan Hong",
+   "next_action": "Note as gap; founders claim not substantiated",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "KreditBee DRHP IPO filing SEBI",
+   "status": "done",
+   "found": "No DRHP filed yet as of 2026-09-15. Board approved public entity conversion Jul 2025; NCLT merger pending; IPO expected end-2026/early-2027",
+   "next_action": "Note as gap",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "KVKB Fintech Holdings KreditBee Fintech India Ltd CIN",
+   "status": "done",
+   "found": "No entities named KVKB Fintech Holdings or KreditBee Fintech India Ltd found. Known entities: KrazyBee Services Limited (CIN U65100KA2016PLC086990), Finnovation Tech Solutions Pvt Ltd (CIN U74900KA2016PTC086953), Finnov Private Limited (Singapore)",
+   "next_action": "Note as gap; entity names not found",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "KreditBee $258M 2025 raise",
+   "status": "done",
+   "found": "No $258M raise found in 2025. PitchBook shows a Secondary Transaction - Private on 2025-07-07 (amount undisclosed). Series E was $280M in Apr 2026. $258M figure may refer to total disclosed funding pre-Series-E ($256M per Tracxn)",
+   "next_action": "Note as gap; likely refers to Tracxn $256M pre-Series-E total",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "KreditBee product lines, traction, people, financials, legal, events, identity P3-WAVE",
+   "status": "done",
+   "found": "Comprehensive data gathered: 10+ products, FY24-FY26 financials, 8+ people, legal/regulatory status, events 2021-2026, CINs verified",
+   "next_action": "Write gapfill/kreditbee.p3.json",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pankaj Chaudhary Vishesh Singh KreditBee founders",
+   "status": "done",
+   "found": "No evidence of Pankaj Chaudhary or Vishesh Singh as KreditBee founders. Verified founders are Madhusudan Ekambaram, Karthikeyan Krishnaswamy, Vivek Veda, Wan Hong",
+   "next_action": "Note as gap; founders claim not substantiated",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "KreditBee DRHP IPO filing SEBI",
+   "status": "done",
+   "found": "No DRHP filed yet as of 2026-09-15. Board approved public entity conversion Jul 2025; NCLT merger pending; IPO expected end-2026/early-2027",
+   "next_action": "Note as gap",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "KVKB Fintech Holdings KreditBee Fintech India Ltd CIN",
+   "status": "done",
+   "found": "No entities named KVKB Fintech Holdings or KreditBee Fintech India Ltd found. Known entities: KrazyBee Services Limited (CIN U65100KA2016PLC086990), Finnovation Tech Solutions Pvt Ltd (CIN U74900KA2016PTC086953), Finnov Private Limited (Singapore)",
+   "next_action": "Note as gap; entity names not found",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "KreditBee $258M 2025 raise",
+   "status": "done",
+   "found": "No $258M raise found in 2025. PitchBook shows a Secondary Transaction - Private on 2025-07-07 (amount undisclosed). Series E was $280M in Apr 2026. $258M figure may refer to total disclosed funding pre-Series-E ($256M per Tracxn)",
+   "next_action": "Note as gap; likely refers to Tracxn $256M pre-Series-E total",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "KreditBee product lines, traction, people, financials, legal, events, identity P3-WAVE",
+   "status": "done",
+   "found": "Comprehensive data gathered: 10+ products, FY24-FY26 financials, 8+ people, legal/regulatory status, events 2021-2026, CINs verified",
+   "next_action": "Write gapfill/kreditbee.p3.json",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pankaj Chaudhary Vishesh Singh KreditBee founders",
+   "status": "done",
+   "found": "No evidence of Pankaj Chaudhary or Vishesh Singh as KreditBee founders. Verified founders are Madhusudan Ekambaram, Karthikeyan Krishnaswamy, Vivek Veda, Wan Hong",
+   "next_action": "Note as gap; founders claim not substantiated",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "KreditBee DRHP IPO filing SEBI",
+   "status": "done",
+   "found": "No DRHP filed yet as of 2026-09-15. Board approved public entity conversion Jul 2025; NCLT merger pending; IPO expected end-2026/early-2027",
+   "next_action": "Note as gap",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "KVKB Fintech Holdings KreditBee Fintech India Ltd CIN",
+   "status": "done",
+   "found": "No entities named KVKB Fintech Holdings or KreditBee Fintech India Ltd found. Known entities: KrazyBee Services Limited (CIN U65100KA2016PLC086990), Finnovation Tech Solutions Pvt Ltd (CIN U74900KA2016PTC086953), Finnov Private Limited (Singapore)",
+   "next_action": "Note as gap; entity names not found",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "KreditBee $258M 2025 raise",
+   "status": "done",
+   "found": "No $258M raise found in 2025. PitchBook shows a Secondary Transaction - Private on 2025-07-07 (amount undisclosed). Series E was $280M in Apr 2026. $258M figure may refer to total disclosed funding pre-Series-E ($256M per Tracxn)",
+   "next_action": "Note as gap; likely refers to Tracxn $256M pre-Series-E total",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "KreditBee product lines, traction, people, financials, legal, events, identity P3-WAVE",
+   "status": "done",
+   "found": "Comprehensive data gathered: 10+ products, FY24-FY26 financials, 8+ people, legal/regulatory status, events 2021-2026, CINs verified",
+   "next_action": "Write gapfill/kreditbee.p3.json",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pankaj Chaudhary Vishesh Singh KreditBee founders",
+   "status": "done",
+   "found": "No evidence of Pankaj Chaudhary or Vishesh Singh as KreditBee founders. Verified founders are Madhusudan Ekambaram, Karthikeyan Krishnaswamy, Vivek Veda, Wan Hong",
+   "next_action": "Note as gap; founders claim not substantiated",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "KreditBee DRHP IPO filing SEBI",
+   "status": "done",
+   "found": "No DRHP filed yet as of 2026-09-15. Board approved public entity conversion Jul 2025; NCLT merger pending; IPO expected end-2026/early-2027",
+   "next_action": "Note as gap",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "KVKB Fintech Holdings KreditBee Fintech India Ltd CIN",
+   "status": "done",
+   "found": "No entities named KVKB Fintech Holdings or KreditBee Fintech India Ltd found. Known entities: KrazyBee Services Limited (CIN U65100KA2016PLC086990), Finnovation Tech Solutions Pvt Ltd (CIN U74900KA2016PTC086953), Finnov Private Limited (Singapore)",
+   "next_action": "Note as gap; entity names not found",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "KreditBee $258M 2025 raise",
+   "status": "done",
+   "found": "No $258M raise found in 2025. PitchBook shows a Secondary Transaction - Private on 2025-07-07 (amount undisclosed). Series E was $280M in Apr 2026. $258M figure may refer to total disclosed funding pre-Series-E ($256M per Tracxn)",
+   "next_action": "Note as gap; likely refers to Tracxn $256M pre-Series-E total",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "KreditBee product lines, traction, people, financials, legal, events, identity P3-WAVE",
+   "status": "done",
+   "found": "Comprehensive data gathered: 10+ products, FY24-FY26 financials, 8+ people, legal/regulatory status, events 2021-2026, CINs verified",
+   "next_action": "Write gapfill/kreditbee.p3.json",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pankaj Chaudhary Vishesh Singh KreditBee founders",
+   "status": "done",
+   "found": "No evidence of Pankaj Chaudhary or Vishesh Singh as KreditBee founders. Verified founders are Madhusudan Ekambaram, Karthikeyan Krishnaswamy, Vivek Veda, Wan Hong",
+   "next_action": "Note as gap; founders claim not substantiated",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "KreditBee DRHP IPO filing SEBI",
+   "status": "done",
+   "found": "No DRHP filed yet as of 2026-09-15. Board approved public entity conversion Jul 2025; NCLT merger pending; IPO expected end-2026/early-2027",
+   "next_action": "Note as gap",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "KVKB Fintech Holdings KreditBee Fintech India Ltd CIN",
+   "status": "done",
+   "found": "No entities named KVKB Fintech Holdings or KreditBee Fintech India Ltd found. Known entities: KrazyBee Services Limited (CIN U65100KA2016PLC086990), Finnovation Tech Solutions Pvt Ltd (CIN U74900KA2016PTC086953), Finnov Private Limited (Singapore)",
+   "next_action": "Note as gap; entity names not found",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "KreditBee $258M 2025 raise",
+   "status": "done",
+   "found": "No $258M raise found in 2025. PitchBook shows a Secondary Transaction - Private on 2025-07-07 (amount undisclosed). Series E was $280M in Apr 2026. $258M figure may refer to total disclosed funding pre-Series-E ($256M per Tracxn)",
+   "next_action": "Note as gap; likely refers to Tracxn $256M pre-Series-E total",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "KreditBee product lines, traction, people, financials, legal, events, identity P3-WAVE",
+   "status": "done",
+   "found": "Comprehensive data gathered: 10+ products, FY24-FY26 financials, 8+ people, legal/regulatory status, events 2021-2026, CINs verified",
+   "next_action": "Write gapfill/kreditbee.p3.json",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pankaj Chaudhary Vishesh Singh KreditBee founders",
+   "status": "done",
+   "found": "No evidence of Pankaj Chaudhary or Vishesh Singh as KreditBee founders. Verified founders are Madhusudan Ekambaram, Karthikeyan Krishnaswamy, Vivek Veda, Wan Hong",
+   "next_action": "Note as gap; founders claim not substantiated",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "KreditBee DRHP IPO filing SEBI",
+   "status": "done",
+   "found": "No DRHP filed yet as of 2026-09-15. Board approved public entity conversion Jul 2025; NCLT merger pending; IPO expected end-2026/early-2027",
+   "next_action": "Note as gap",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "KVKB Fintech Holdings KreditBee Fintech India Ltd CIN",
+   "status": "done",
+   "found": "No entities named KVKB Fintech Holdings or KreditBee Fintech India Ltd found. Known entities: KrazyBee Services Limited (CIN U65100KA2016PLC086990), Finnovation Tech Solutions Pvt Ltd (CIN U74900KA2016PTC086953), Finnov Private Limited (Singapore)",
+   "next_action": "Note as gap; entity names not found",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "KreditBee $258M 2025 raise",
+   "status": "done",
+   "found": "No $258M raise found in 2025. PitchBook shows a Secondary Transaction - Private on 2025-07-07 (amount undisclosed). Series E was $280M in Apr 2026. $258M figure may refer to total disclosed funding pre-Series-E ($256M per Tracxn)",
+   "next_action": "Note as gap; likely refers to Tracxn $256M pre-Series-E total",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "KreditBee product lines, traction, people, financials, legal, events, identity P3-WAVE",
+   "status": "done",
+   "found": "Comprehensive data gathered: 10+ products, FY24-FY26 financials, 8+ people, legal/regulatory status, events 2021-2026, CINs verified",
+   "next_action": "Write gapfill/kreditbee.p3.json",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pankaj Chaudhary Vishesh Singh KreditBee founders",
+   "status": "done",
+   "found": "No evidence of Pankaj Chaudhary or Vishesh Singh as KreditBee founders. Verified founders are Madhusudan Ekambaram, Karthikeyan Krishnaswamy, Vivek Veda, Wan Hong",
+   "next_action": "Note as gap; founders claim not substantiated",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "KreditBee DRHP IPO filing SEBI",
+   "status": "done",
+   "found": "No DRHP filed yet as of 2026-09-15. Board approved public entity conversion Jul 2025; NCLT merger pending; IPO expected end-2026/early-2027",
+   "next_action": "Note as gap",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "KVKB Fintech Holdings KreditBee Fintech India Ltd CIN",
+   "status": "done",
+   "found": "No entities named KVKB Fintech Holdings or KreditBee Fintech India Ltd found. Known entities: KrazyBee Services Limited (CIN U65100KA2016PLC086990), Finnovation Tech Solutions Pvt Ltd (CIN U74900KA2016PTC086953), Finnov Private Limited (Singapore)",
+   "next_action": "Note as gap; entity names not found",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "KreditBee $258M 2025 raise",
+   "status": "done",
+   "found": "No $258M raise found in 2025. PitchBook shows a Secondary Transaction - Private on 2025-07-07 (amount undisclosed). Series E was $280M in Apr 2026. $258M figure may refer to total disclosed funding pre-Series-E ($256M per Tracxn)",
+   "next_action": "Note as gap; likely refers to Tracxn $256M pre-Series-E total",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "KreditBee product lines, traction, people, financials, legal, events, identity P3-WAVE",
+   "status": "done",
+   "found": "Comprehensive data gathered: 10+ products, FY24-FY26 financials, 8+ people, legal/regulatory status, events 2021-2026, CINs verified",
+   "next_action": "Write gapfill/kreditbee.p3.json",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pankaj Chaudhary Vishesh Singh KreditBee founders",
+   "status": "done",
+   "found": "No evidence of Pankaj Chaudhary or Vishesh Singh as KreditBee founders. Verified founders are Madhusudan Ekambaram, Karthikeyan Krishnaswamy, Vivek Veda, Wan Hong",
+   "next_action": "Note as gap; founders claim not substantiated",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "KreditBee DRHP IPO filing SEBI",
+   "status": "done",
+   "found": "No DRHP filed yet as of 2026-09-15. Board approved public entity conversion Jul 2025; NCLT merger pending; IPO expected end-2026/early-2027",
+   "next_action": "Note as gap",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "KVKB Fintech Holdings KreditBee Fintech India Ltd CIN",
+   "status": "done",
+   "found": "No entities named KVKB Fintech Holdings or KreditBee Fintech India Ltd found. Known entities: KrazyBee Services Limited (CIN U65100KA2016PLC086990), Finnovation Tech Solutions Pvt Ltd (CIN U74900KA2016PTC086953), Finnov Private Limited (Singapore)",
+   "next_action": "Note as gap; entity names not found",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "KreditBee $258M 2025 raise",
+   "status": "done",
+   "found": "No $258M raise found in 2025. PitchBook shows a Secondary Transaction - Private on 2025-07-07 (amount undisclosed). Series E was $280M in Apr 2026. $258M figure may refer to total disclosed funding pre-Series-E ($256M per Tracxn)",
+   "next_action": "Note as gap; likely refers to Tracxn $256M pre-Series-E total",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "KreditBee product lines, traction, people, financials, legal, events, identity P3-WAVE",
+   "status": "done",
+   "found": "Comprehensive data gathered: 10+ products, FY24-FY26 financials, 8+ people, legal/regulatory status, events 2021-2026, CINs verified",
+   "next_action": "Write gapfill/kreditbee.p3.json",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pankaj Chaudhary Vishesh Singh KreditBee founders",
+   "status": "done",
+   "found": "No evidence of Pankaj Chaudhary or Vishesh Singh as KreditBee founders. Verified founders are Madhusudan Ekambaram, Karthikeyan Krishnaswamy, Vivek Veda, Wan Hong",
+   "next_action": "Note as gap; founders claim not substantiated",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "KreditBee DRHP IPO filing SEBI",
+   "status": "done",
+   "found": "No DRHP filed yet as of 2026-09-15. Board approved public entity conversion Jul 2025; NCLT merger pending; IPO expected end-2026/early-2027",
+   "next_action": "Note as gap",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "KVKB Fintech Holdings KreditBee Fintech India Ltd CIN",
+   "status": "done",
+   "found": "No entities named KVKB Fintech Holdings or KreditBee Fintech India Ltd found. Known entities: KrazyBee Services Limited (CIN U65100KA2016PLC086990), Finnovation Tech Solutions Pvt Ltd (CIN U74900KA2016PTC086953), Finnov Private Limited (Singapore)",
+   "next_action": "Note as gap; entity names not found",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "KreditBee $258M 2025 raise",
+   "status": "done",
+   "found": "No $258M raise found in 2025. PitchBook shows a Secondary Transaction - Private on 2025-07-07 (amount undisclosed). Series E was $280M in Apr 2026. $258M figure may refer to total disclosed funding pre-Series-E ($256M per Tracxn)",
+   "next_action": "Note as gap; likely refers to Tracxn $256M pre-Series-E total",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "KreditBee product lines, traction, people, financials, legal, events, identity P3-WAVE",
+   "status": "done",
+   "found": "Comprehensive data gathered: 10+ products, FY24-FY26 financials, 8+ people, legal/regulatory status, events 2021-2026, CINs verified",
+   "next_action": "Write gapfill/kreditbee.p3.json",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pankaj Chaudhary Vishesh Singh KreditBee founders",
+   "status": "done",
+   "found": "No evidence of Pankaj Chaudhary or Vishesh Singh as KreditBee founders. Verified founders are Madhusudan Ekambaram, Karthikeyan Krishnaswamy, Vivek Veda, Wan Hong",
+   "next_action": "Note as gap; founders claim not substantiated",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "KreditBee DRHP IPO filing SEBI",
+   "status": "done",
+   "found": "No DRHP filed yet as of 2026-09-15. Board approved public entity conversion Jul 2025; NCLT merger pending; IPO expected end-2026/early-2027",
+   "next_action": "Note as gap",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "KVKB Fintech Holdings KreditBee Fintech India Ltd CIN",
+   "status": "done",
+   "found": "No entities named KVKB Fintech Holdings or KreditBee Fintech India Ltd found. Known entities: KrazyBee Services Limited (CIN U65100KA2016PLC086990), Finnovation Tech Solutions Pvt Ltd (CIN U74900KA2016PTC086953), Finnov Private Limited (Singapore)",
+   "next_action": "Note as gap; entity names not found",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "KreditBee $258M 2025 raise",
+   "status": "done",
+   "found": "No $258M raise found in 2025. PitchBook shows a Secondary Transaction - Private on 2025-07-07 (amount undisclosed). Series E was $280M in Apr 2026. $258M figure may refer to total disclosed funding pre-Series-E ($256M per Tracxn)",
+   "next_action": "Note as gap; likely refers to Tracxn $256M pre-Series-E total",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "KreditBee product lines, traction, people, financials, legal, events, identity P3-WAVE",
+   "status": "done",
+   "found": "Comprehensive data gathered: 10+ products, FY24-FY26 financials, 8+ people, legal/regulatory status, events 2021-2026, CINs verified",
+   "next_action": "Write gapfill/kreditbee.p3.json",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pankaj Chaudhary Vishesh Singh KreditBee founders",
+   "status": "done",
+   "found": "No evidence of Pankaj Chaudhary or Vishesh Singh as KreditBee founders. Verified founders are Madhusudan Ekambaram, Karthikeyan Krishnaswamy, Vivek Veda, Wan Hong",
+   "next_action": "Note as gap; founders claim not substantiated",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "KreditBee DRHP IPO filing SEBI",
+   "status": "done",
+   "found": "No DRHP filed yet as of 2026-09-15. Board approved public entity conversion Jul 2025; NCLT merger pending; IPO expected end-2026/early-2027",
+   "next_action": "Note as gap",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "KVKB Fintech Holdings KreditBee Fintech India Ltd CIN",
+   "status": "done",
+   "found": "No entities named KVKB Fintech Holdings or KreditBee Fintech India Ltd found. Known entities: KrazyBee Services Limited (CIN U65100KA2016PLC086990), Finnovation Tech Solutions Pvt Ltd (CIN U74900KA2016PTC086953), Finnov Private Limited (Singapore)",
+   "next_action": "Note as gap; entity names not found",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "KreditBee $258M 2025 raise",
+   "status": "done",
+   "found": "No $258M raise found in 2025. PitchBook shows a Secondary Transaction - Private on 2025-07-07 (amount undisclosed). Series E was $280M in Apr 2026. $258M figure may refer to total disclosed funding pre-Series-E ($256M per Tracxn)",
+   "next_action": "Note as gap; likely refers to Tracxn $256M pre-Series-E total",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "KreditBee product lines, traction, people, financials, legal, events, identity P3-WAVE",
+   "status": "done",
+   "found": "Comprehensive data gathered: 10+ products, FY24-FY26 financials, 8+ people, legal/regulatory status, events 2021-2026, CINs verified",
+   "next_action": "Write gapfill/kreditbee.p3.json",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pankaj Chaudhary Vishesh Singh KreditBee founders",
+   "status": "done",
+   "found": "No evidence of Pankaj Chaudhary or Vishesh Singh as KreditBee founders. Verified founders are Madhusudan Ekambaram, Karthikeyan Krishnaswamy, Vivek Veda, Wan Hong",
+   "next_action": "Note as gap; founders claim not substantiated",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "KreditBee DRHP IPO filing SEBI",
+   "status": "done",
+   "found": "No DRHP filed yet as of 2026-09-15. Board approved public entity conversion Jul 2025; NCLT merger pending; IPO expected end-2026/early-2027",
+   "next_action": "Note as gap",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "KVKB Fintech Holdings KreditBee Fintech India Ltd CIN",
+   "status": "done",
+   "found": "No entities named KVKB Fintech Holdings or KreditBee Fintech India Ltd found. Known entities: KrazyBee Services Limited (CIN U65100KA2016PLC086990), Finnovation Tech Solutions Pvt Ltd (CIN U74900KA2016PTC086953), Finnov Private Limited (Singapore)",
+   "next_action": "Note as gap; entity names not found",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "KreditBee $258M 2025 raise",
+   "status": "done",
+   "found": "No $258M raise found in 2025. PitchBook shows a Secondary Transaction - Private on 2025-07-07 (amount undisclosed). Series E was $280M in Apr 2026. $258M figure may refer to total disclosed funding pre-Series-E ($256M per Tracxn)",
+   "next_action": "Note as gap; likely refers to Tracxn $256M pre-Series-E total",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "KreditBee product lines, traction, people, financials, legal, events, identity P3-WAVE",
+   "status": "done",
+   "found": "Comprehensive data gathered: 10+ products, FY24-FY26 financials, 8+ people, legal/regulatory status, events 2021-2026, CINs verified",
+   "next_action": "Write gapfill/kreditbee.p3.json",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pankaj Chaudhary Vishesh Singh KreditBee founders",
+   "status": "done",
+   "found": "No evidence of Pankaj Chaudhary or Vishesh Singh as KreditBee founders. Verified founders are Madhusudan Ekambaram, Karthikeyan Krishnaswamy, Vivek Veda, Wan Hong",
+   "next_action": "Note as gap; founders claim not substantiated",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "KreditBee DRHP IPO filing SEBI",
+   "status": "done",
+   "found": "No DRHP filed yet as of 2026-09-15. Board approved public entity conversion Jul 2025; NCLT merger pending; IPO expected end-2026/early-2027",
+   "next_action": "Note as gap",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "KVKB Fintech Holdings KreditBee Fintech India Ltd CIN",
+   "status": "done",
+   "found": "No entities named KVKB Fintech Holdings or KreditBee Fintech India Ltd found. Known entities: KrazyBee Services Limited (CIN U65100KA2016PLC086990), Finnovation Tech Solutions Pvt Ltd (CIN U74900KA2016PTC086953), Finnov Private Limited (Singapore)",
+   "next_action": "Note as gap; entity names not found",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "KreditBee $258M 2025 raise",
+   "status": "done",
+   "found": "No $258M raise found in 2025. PitchBook shows a Secondary Transaction - Private on 2025-07-07 (amount undisclosed). Series E was $280M in Apr 2026. $258M figure may refer to total disclosed funding pre-Series-E ($256M per Tracxn)",
+   "next_action": "Note as gap; likely refers to Tracxn $256M pre-Series-E total",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "KreditBee product lines, traction, people, financials, legal, events, identity P3-WAVE",
+   "status": "done",
+   "found": "Comprehensive data gathered: 10+ products, FY24-FY26 financials, 8+ people, legal/regulatory status, events 2021-2026, CINs verified",
+   "next_action": "Write gapfill/kreditbee.p3.json",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pankaj Chaudhary Vishesh Singh KreditBee founders",
+   "status": "done",
+   "found": "No evidence of Pankaj Chaudhary or Vishesh Singh as KreditBee founders. Verified founders are Madhusudan Ekambaram, Karthikeyan Krishnaswamy, Vivek Veda, Wan Hong",
+   "next_action": "Note as gap; founders claim not substantiated",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "KreditBee DRHP IPO filing SEBI",
+   "status": "done",
+   "found": "No DRHP filed yet as of 2026-09-15. Board approved public entity conversion Jul 2025; NCLT merger pending; IPO expected end-2026/early-2027",
+   "next_action": "Note as gap",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "KVKB Fintech Holdings KreditBee Fintech India Ltd CIN",
+   "status": "done",
+   "found": "No entities named KVKB Fintech Holdings or KreditBee Fintech India Ltd found. Known entities: KrazyBee Services Limited (CIN U65100KA2016PLC086990), Finnovation Tech Solutions Pvt Ltd (CIN U74900KA2016PTC086953), Finnov Private Limited (Singapore)",
+   "next_action": "Note as gap; entity names not found",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "KreditBee $258M 2025 raise",
+   "status": "done",
+   "found": "No $258M raise found in 2025. PitchBook shows a Secondary Transaction - Private on 2025-07-07 (amount undisclosed). Series E was $280M in Apr 2026. $258M figure may refer to total disclosed funding pre-Series-E ($256M per Tracxn)",
+   "next_action": "Note as gap; likely refers to Tracxn $256M pre-Series-E total",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "KreditBee product lines, traction, people, financials, legal, events, identity P3-WAVE",
+   "status": "done",
+   "found": "Comprehensive data gathered: 10+ products, FY24-FY26 financials, 8+ people, legal/regulatory status, events 2021-2026, CINs verified",
+   "next_action": "Write gapfill/kreditbee.p3.json",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pankaj Chaudhary Vishesh Singh KreditBee founders",
+   "status": "done",
+   "found": "No evidence of Pankaj Chaudhary or Vishesh Singh as KreditBee founders. Verified founders are Madhusudan Ekambaram, Karthikeyan Krishnaswamy, Vivek Veda, Wan Hong",
+   "next_action": "Note as gap; founders claim not substantiated",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "KreditBee DRHP IPO filing SEBI",
+   "status": "done",
+   "found": "No DRHP filed yet as of 2026-09-15. Board approved public entity conversion Jul 2025; NCLT merger pending; IPO expected end-2026/early-2027",
+   "next_action": "Note as gap",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "KVKB Fintech Holdings KreditBee Fintech India Ltd CIN",
+   "status": "done",
+   "found": "No entities named KVKB Fintech Holdings or KreditBee Fintech India Ltd found. Known entities: KrazyBee Services Limited (CIN U65100KA2016PLC086990), Finnovation Tech Solutions Pvt Ltd (CIN U74900KA2016PTC086953), Finnov Private Limited (Singapore)",
+   "next_action": "Note as gap; entity names not found",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "KreditBee $258M 2025 raise",
+   "status": "done",
+   "found": "No $258M raise found in 2025. PitchBook shows a Secondary Transaction - Private on 2025-07-07 (amount undisclosed). Series E was $280M in Apr 2026. $258M figure may refer to total disclosed funding pre-Series-E ($256M per Tracxn)",
+   "next_action": "Note as gap; likely refers to Tracxn $256M pre-Series-E total",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "KreditBee product lines, traction, people, financials, legal, events, identity P3-WAVE",
+   "status": "done",
+   "found": "Comprehensive data gathered: 10+ products, FY24-FY26 financials, 8+ people, legal/regulatory status, events 2021-2026, CINs verified",
+   "next_action": "Write gapfill/kreditbee.p3.json",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pankaj Chaudhary Vishesh Singh KreditBee founders",
+   "status": "done",
+   "found": "No evidence of Pankaj Chaudhary or Vishesh Singh as KreditBee founders. Verified founders are Madhusudan Ekambaram, Karthikeyan Krishnaswamy, Vivek Veda, Wan Hong",
+   "next_action": "Note as gap; founders claim not substantiated",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "KreditBee DRHP IPO filing SEBI",
+   "status": "done",
+   "found": "No DRHP filed yet as of 2026-09-15. Board approved public entity conversion Jul 2025; NCLT merger pending; IPO expected end-2026/early-2027",
+   "next_action": "Note as gap",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "KVKB Fintech Holdings KreditBee Fintech India Ltd CIN",
+   "status": "done",
+   "found": "No entities named KVKB Fintech Holdings or KreditBee Fintech India Ltd found. Known entities: KrazyBee Services Limited (CIN U65100KA2016PLC086990), Finnovation Tech Solutions Pvt Ltd (CIN U74900KA2016PTC086953), Finnov Private Limited (Singapore)",
+   "next_action": "Note as gap; entity names not found",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "KreditBee $258M 2025 raise",
+   "status": "done",
+   "found": "No $258M raise found in 2025. PitchBook shows a Secondary Transaction - Private on 2025-07-07 (amount undisclosed). Series E was $280M in Apr 2026. $258M figure may refer to total disclosed funding pre-Series-E ($256M per Tracxn)",
+   "next_action": "Note as gap; likely refers to Tracxn $256M pre-Series-E total",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "KreditBee product lines, traction, people, financials, legal, events, identity P3-WAVE",
+   "status": "done",
+   "found": "Comprehensive data gathered: 10+ products, FY24-FY26 financials, 8+ people, legal/regulatory status, events 2021-2026, CINs verified",
+   "next_action": "Write gapfill/kreditbee.p3.json",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pankaj Chaudhary Vishesh Singh KreditBee founders",
+   "status": "done",
+   "found": "No evidence of Pankaj Chaudhary or Vishesh Singh as KreditBee founders. Verified founders are Madhusudan Ekambaram, Karthikeyan Krishnaswamy, Vivek Veda, Wan Hong",
+   "next_action": "Note as gap; founders claim not substantiated",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "KreditBee DRHP IPO filing SEBI",
+   "status": "done",
+   "found": "No DRHP filed yet as of 2026-09-15. Board approved public entity conversion Jul 2025; NCLT merger pending; IPO expected end-2026/early-2027",
+   "next_action": "Note as gap",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "KVKB Fintech Holdings KreditBee Fintech India Ltd CIN",
+   "status": "done",
+   "found": "No entities named KVKB Fintech Holdings or KreditBee Fintech India Ltd found. Known entities: KrazyBee Services Limited (CIN U65100KA2016PLC086990), Finnovation Tech Solutions Pvt Ltd (CIN U74900KA2016PTC086953), Finnov Private Limited (Singapore)",
+   "next_action": "Note as gap; entity names not found",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "KreditBee $258M 2025 raise",
+   "status": "done",
+   "found": "No $258M raise found in 2025. PitchBook shows a Secondary Transaction - Private on 2025-07-07 (amount undisclosed). Series E was $280M in Apr 2026. $258M figure may refer to total disclosed funding pre-Series-E ($256M per Tracxn)",
+   "next_action": "Note as gap; likely refers to Tracxn $256M pre-Series-E total",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "KreditBee product lines, traction, people, financials, legal, events, identity P3-WAVE",
+   "status": "done",
+   "found": "Comprehensive data gathered: 10+ products, FY24-FY26 financials, 8+ people, legal/regulatory status, events 2021-2026, CINs verified",
+   "next_action": "Write gapfill/kreditbee.p3.json",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pankaj Chaudhary Vishesh Singh KreditBee founders",
+   "status": "done",
+   "found": "No evidence of Pankaj Chaudhary or Vishesh Singh as KreditBee founders. Verified founders are Madhusudan Ekambaram, Karthikeyan Krishnaswamy, Vivek Veda, Wan Hong",
+   "next_action": "Note as gap; founders claim not substantiated",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "KreditBee DRHP IPO filing SEBI",
+   "status": "done",
+   "found": "No DRHP filed yet as of 2026-09-15. Board approved public entity conversion Jul 2025; NCLT merger pending; IPO expected end-2026/early-2027",
+   "next_action": "Note as gap",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "KVKB Fintech Holdings KreditBee Fintech India Ltd CIN",
+   "status": "done",
+   "found": "No entities named KVKB Fintech Holdings or KreditBee Fintech India Ltd found. Known entities: KrazyBee Services Limited (CIN U65100KA2016PLC086990), Finnovation Tech Solutions Pvt Ltd (CIN U74900KA2016PTC086953), Finnov Private Limited (Singapore)",
+   "next_action": "Note as gap; entity names not found",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "KreditBee $258M 2025 raise",
+   "status": "done",
+   "found": "No $258M raise found in 2025. PitchBook shows a Secondary Transaction - Private on 2025-07-07 (amount undisclosed). Series E was $280M in Apr 2026. $258M figure may refer to total disclosed funding pre-Series-E ($256M per Tracxn)",
+   "next_action": "Note as gap; likely refers to Tracxn $256M pre-Series-E total",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "KreditBee product lines, traction, people, financials, legal, events, identity P3-WAVE",
+   "status": "done",
+   "found": "Comprehensive data gathered: 10+ products, FY24-FY26 financials, 8+ people, legal/regulatory status, events 2021-2026, CINs verified",
+   "next_action": "Write gapfill/kreditbee.p3.json",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pankaj Chaudhary Vishesh Singh KreditBee founders",
+   "status": "done",
+   "found": "No evidence of Pankaj Chaudhary or Vishesh Singh as KreditBee founders. Verified founders are Madhusudan Ekambaram, Karthikeyan Krishnaswamy, Vivek Veda, Wan Hong",
+   "next_action": "Note as gap; founders claim not substantiated",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "KreditBee DRHP IPO filing SEBI",
+   "status": "done",
+   "found": "No DRHP filed yet as of 2026-09-15. Board approved public entity conversion Jul 2025; NCLT merger pending; IPO expected end-2026/early-2027",
+   "next_action": "Note as gap",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "KVKB Fintech Holdings KreditBee Fintech India Ltd CIN",
+   "status": "done",
+   "found": "No entities named KVKB Fintech Holdings or KreditBee Fintech India Ltd found. Known entities: KrazyBee Services Limited (CIN U65100KA2016PLC086990), Finnovation Tech Solutions Pvt Ltd (CIN U74900KA2016PTC086953), Finnov Private Limited (Singapore)",
+   "next_action": "Note as gap; entity names not found",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "KreditBee $258M 2025 raise",
+   "status": "done",
+   "found": "No $258M raise found in 2025. PitchBook shows a Secondary Transaction - Private on 2025-07-07 (amount undisclosed). Series E was $280M in Apr 2026. $258M figure may refer to total disclosed funding pre-Series-E ($256M per Tracxn)",
+   "next_action": "Note as gap; likely refers to Tracxn $256M pre-Series-E total",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "KreditBee product lines, traction, people, financials, legal, events, identity P3-WAVE",
+   "status": "done",
+   "found": "Comprehensive data gathered: 10+ products, FY24-FY26 financials, 8+ people, legal/regulatory status, events 2021-2026, CINs verified",
+   "next_action": "Write gapfill/kreditbee.p3.json",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pankaj Chaudhary Vishesh Singh KreditBee founders",
+   "status": "done",
+   "found": "No evidence of Pankaj Chaudhary or Vishesh Singh as KreditBee founders. Verified founders are Madhusudan Ekambaram, Karthikeyan Krishnaswamy, Vivek Veda, Wan Hong",
+   "next_action": "Note as gap; founders claim not substantiated",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "KreditBee DRHP IPO filing SEBI",
+   "status": "done",
+   "found": "No DRHP filed yet as of 2026-09-15. Board approved public entity conversion Jul 2025; NCLT merger pending; IPO expected end-2026/early-2027",
+   "next_action": "Note as gap",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "KVKB Fintech Holdings KreditBee Fintech India Ltd CIN",
+   "status": "done",
+   "found": "No entities named KVKB Fintech Holdings or KreditBee Fintech India Ltd found. Known entities: KrazyBee Services Limited (CIN U65100KA2016PLC086990), Finnovation Tech Solutions Pvt Ltd (CIN U74900KA2016PTC086953), Finnov Private Limited (Singapore)",
+   "next_action": "Note as gap; entity names not found",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "KreditBee $258M 2025 raise",
+   "status": "done",
+   "found": "No $258M raise found in 2025. PitchBook shows a Secondary Transaction - Private on 2025-07-07 (amount undisclosed). Series E was $280M in Apr 2026. $258M figure may refer to total disclosed funding pre-Series-E ($256M per Tracxn)",
+   "next_action": "Note as gap; likely refers to Tracxn $256M pre-Series-E total",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "KreditBee product lines, traction, people, financials, legal, events, identity P3-WAVE",
+   "status": "done",
+   "found": "Comprehensive data gathered: 10+ products, FY24-FY26 financials, 8+ people, legal/regulatory status, events 2021-2026, CINs verified",
+   "next_action": "Write gapfill/kreditbee.p3.json",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pankaj Chaudhary Vishesh Singh KreditBee founders",
+   "status": "done",
+   "found": "No evidence of Pankaj Chaudhary or Vishesh Singh as KreditBee founders. Verified founders are Madhusudan Ekambaram, Karthikeyan Krishnaswamy, Vivek Veda, Wan Hong",
+   "next_action": "Note as gap; founders claim not substantiated",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "KreditBee DRHP IPO filing SEBI",
+   "status": "done",
+   "found": "No DRHP filed yet as of 2026-09-15. Board approved public entity conversion Jul 2025; NCLT merger pending; IPO expected end-2026/early-2027",
+   "next_action": "Note as gap",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "KVKB Fintech Holdings KreditBee Fintech India Ltd CIN",
+   "status": "done",
+   "found": "No entities named KVKB Fintech Holdings or KreditBee Fintech India Ltd found. Known entities: KrazyBee Services Limited (CIN U65100KA2016PLC086990), Finnovation Tech Solutions Pvt Ltd (CIN U74900KA2016PTC086953), Finnov Private Limited (Singapore)",
+   "next_action": "Note as gap; entity names not found",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "KreditBee $258M 2025 raise",
+   "status": "done",
+   "found": "No $258M raise found in 2025. PitchBook shows a Secondary Transaction - Private on 2025-07-07 (amount undisclosed). Series E was $280M in Apr 2026. $258M figure may refer to total disclosed funding pre-Series-E ($256M per Tracxn)",
+   "next_action": "Note as gap; likely refers to Tracxn $256M pre-Series-E total",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "KreditBee product lines, traction, people, financials, legal, events, identity P3-WAVE",
+   "status": "done",
+   "found": "Comprehensive data gathered: 10+ products, FY24-FY26 financials, 8+ people, legal/regulatory status, events 2021-2026, CINs verified",
+   "next_action": "Write gapfill/kreditbee.p3.json",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pankaj Chaudhary Vishesh Singh KreditBee founders",
+   "status": "done",
+   "found": "No evidence of Pankaj Chaudhary or Vishesh Singh as KreditBee founders. Verified founders are Madhusudan Ekambaram, Karthikeyan Krishnaswamy, Vivek Veda, Wan Hong",
+   "next_action": "Note as gap; founders claim not substantiated",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "KreditBee DRHP IPO filing SEBI",
+   "status": "done",
+   "found": "No DRHP filed yet as of 2026-09-15. Board approved public entity conversion Jul 2025; NCLT merger pending; IPO expected end-2026/early-2027",
+   "next_action": "Note as gap",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "KVKB Fintech Holdings KreditBee Fintech India Ltd CIN",
+   "status": "done",
+   "found": "No entities named KVKB Fintech Holdings or KreditBee Fintech India Ltd found. Known entities: KrazyBee Services Limited (CIN U65100KA2016PLC086990), Finnovation Tech Solutions Pvt Ltd (CIN U74900KA2016PTC086953), Finnov Private Limited (Singapore)",
+   "next_action": "Note as gap; entity names not found",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "KreditBee $258M 2025 raise",
+   "status": "done",
+   "found": "No $258M raise found in 2025. PitchBook shows a Secondary Transaction - Private on 2025-07-07 (amount undisclosed). Series E was $280M in Apr 2026. $258M figure may refer to total disclosed funding pre-Series-E ($256M per Tracxn)",
+   "next_action": "Note as gap; likely refers to Tracxn $256M pre-Series-E total",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "KreditBee product lines, traction, people, financials, legal, events, identity P3-WAVE",
+   "status": "done",
+   "found": "Comprehensive data gathered: 10+ products, FY24-FY26 financials, 8+ people, legal/regulatory status, events 2021-2026, CINs verified",
+   "next_action": "Write gapfill/kreditbee.p3.json",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pankaj Chaudhary Vishesh Singh KreditBee founders",
+   "status": "done",
+   "found": "No evidence of Pankaj Chaudhary or Vishesh Singh as KreditBee founders. Verified founders are Madhusudan Ekambaram, Karthikeyan Krishnaswamy, Vivek Veda, Wan Hong",
+   "next_action": "Note as gap; founders claim not substantiated",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "KreditBee DRHP IPO filing SEBI",
+   "status": "done",
+   "found": "No DRHP filed yet as of 2026-09-15. Board approved public entity conversion Jul 2025; NCLT merger pending; IPO expected end-2026/early-2027",
+   "next_action": "Note as gap",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "KVKB Fintech Holdings KreditBee Fintech India Ltd CIN",
+   "status": "done",
+   "found": "No entities named KVKB Fintech Holdings or KreditBee Fintech India Ltd found. Known entities: KrazyBee Services Limited (CIN U65100KA2016PLC086990), Finnovation Tech Solutions Pvt Ltd (CIN U74900KA2016PTC086953), Finnov Private Limited (Singapore)",
+   "next_action": "Note as gap; entity names not found",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "KreditBee $258M 2025 raise",
+   "status": "done",
+   "found": "No $258M raise found in 2025. PitchBook shows a Secondary Transaction - Private on 2025-07-07 (amount undisclosed). Series E was $280M in Apr 2026. $258M figure may refer to total disclosed funding pre-Series-E ($256M per Tracxn)",
+   "next_action": "Note as gap; likely refers to Tracxn $256M pre-Series-E total",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "KreditBee product lines, traction, people, financials, legal, events, identity P3-WAVE",
+   "status": "done",
+   "found": "Comprehensive data gathered: 10+ products, FY24-FY26 financials, 8+ people, legal/regulatory status, events 2021-2026, CINs verified",
+   "next_action": "Write gapfill/kreditbee.p3.json",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pankaj Chaudhary Vishesh Singh KreditBee founders",
+   "status": "done",
+   "found": "No evidence of Pankaj Chaudhary or Vishesh Singh as KreditBee founders. Verified founders are Madhusudan Ekambaram, Karthikeyan Krishnaswamy, Vivek Veda, Wan Hong",
+   "next_action": "Note as gap; founders claim not substantiated",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "KreditBee DRHP IPO filing SEBI",
+   "status": "done",
+   "found": "No DRHP filed yet as of 2026-09-15. Board approved public entity conversion Jul 2025; NCLT merger pending; IPO expected end-2026/early-2027",
+   "next_action": "Note as gap",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "KVKB Fintech Holdings KreditBee Fintech India Ltd CIN",
+   "status": "done",
+   "found": "No entities named KVKB Fintech Holdings or KreditBee Fintech India Ltd found. Known entities: KrazyBee Services Limited (CIN U65100KA2016PLC086990), Finnovation Tech Solutions Pvt Ltd (CIN U74900KA2016PTC086953), Finnov Private Limited (Singapore)",
+   "next_action": "Note as gap; entity names not found",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "KreditBee $258M 2025 raise",
+   "status": "done",
+   "found": "No $258M raise found in 2025. PitchBook shows a Secondary Transaction - Private on 2025-07-07 (amount undisclosed). Series E was $280M in Apr 2026. $258M figure may refer to total disclosed funding pre-Series-E ($256M per Tracxn)",
+   "next_action": "Note as gap; likely refers to Tracxn $256M pre-Series-E total",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "KreditBee product lines, traction, people, financials, legal, events, identity P3-WAVE",
+   "status": "done",
+   "found": "Comprehensive data gathered: 10+ products, FY24-FY26 financials, 8+ people, legal/regulatory status, events 2021-2026, CINs verified",
+   "next_action": "Write gapfill/kreditbee.p3.json",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pankaj Chaudhary Vishesh Singh KreditBee founders",
+   "status": "done",
+   "found": "No evidence of Pankaj Chaudhary or Vishesh Singh as KreditBee founders. Verified founders are Madhusudan Ekambaram, Karthikeyan Krishnaswamy, Vivek Veda, Wan Hong",
+   "next_action": "Note as gap; founders claim not substantiated",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "KreditBee DRHP IPO filing SEBI",
+   "status": "done",
+   "found": "No DRHP filed yet as of 2026-09-15. Board approved public entity conversion Jul 2025; NCLT merger pending; IPO expected end-2026/early-2027",
+   "next_action": "Note as gap",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "KVKB Fintech Holdings KreditBee Fintech India Ltd CIN",
+   "status": "done",
+   "found": "No entities named KVKB Fintech Holdings or KreditBee Fintech India Ltd found. Known entities: KrazyBee Services Limited (CIN U65100KA2016PLC086990), Finnovation Tech Solutions Pvt Ltd (CIN U74900KA2016PTC086953), Finnov Private Limited (Singapore)",
+   "next_action": "Note as gap; entity names not found",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "KreditBee $258M 2025 raise",
+   "status": "done",
+   "found": "No $258M raise found in 2025. PitchBook shows a Secondary Transaction - Private on 2025-07-07 (amount undisclosed). Series E was $280M in Apr 2026. $258M figure may refer to total disclosed funding pre-Series-E ($256M per Tracxn)",
+   "next_action": "Note as gap; likely refers to Tracxn $256M pre-Series-E total",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "KreditBee product lines, traction, people, financials, legal, events, identity P3-WAVE",
+   "status": "done",
+   "found": "Comprehensive data gathered: 10+ products, FY24-FY26 financials, 8+ people, legal/regulatory status, events 2021-2026, CINs verified",
+   "next_action": "Write gapfill/kreditbee.p3.json",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pankaj Chaudhary Vishesh Singh KreditBee founders",
+   "status": "done",
+   "found": "No evidence of Pankaj Chaudhary or Vishesh Singh as KreditBee founders. Verified founders are Madhusudan Ekambaram, Karthikeyan Krishnaswamy, Vivek Veda, Wan Hong",
+   "next_action": "Note as gap; founders claim not substantiated",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "KreditBee DRHP IPO filing SEBI",
+   "status": "done",
+   "found": "No DRHP filed yet as of 2026-09-15. Board approved public entity conversion Jul 2025; NCLT merger pending; IPO expected end-2026/early-2027",
+   "next_action": "Note as gap",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "KVKB Fintech Holdings KreditBee Fintech India Ltd CIN",
+   "status": "done",
+   "found": "No entities named KVKB Fintech Holdings or KreditBee Fintech India Ltd found. Known entities: KrazyBee Services Limited (CIN U65100KA2016PLC086990), Finnovation Tech Solutions Pvt Ltd (CIN U74900KA2016PTC086953), Finnov Private Limited (Singapore)",
+   "next_action": "Note as gap; entity names not found",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "KreditBee $258M 2025 raise",
+   "status": "done",
+   "found": "No $258M raise found in 2025. PitchBook shows a Secondary Transaction - Private on 2025-07-07 (amount undisclosed). Series E was $280M in Apr 2026. $258M figure may refer to total disclosed funding pre-Series-E ($256M per Tracxn)",
+   "next_action": "Note as gap; likely refers to Tracxn $256M pre-Series-E total",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "KreditBee product lines, traction, people, financials, legal, events, identity P3-WAVE",
+   "status": "done",
+   "found": "Comprehensive data gathered: 10+ products, FY24-FY26 financials, 8+ people, legal/regulatory status, events 2021-2026, CINs verified",
+   "next_action": "Write gapfill/kreditbee.p3.json",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pankaj Chaudhary Vishesh Singh KreditBee founders",
+   "status": "done",
+   "found": "No evidence of Pankaj Chaudhary or Vishesh Singh as KreditBee founders. Verified founders are Madhusudan Ekambaram, Karthikeyan Krishnaswamy, Vivek Veda, Wan Hong",
+   "next_action": "Note as gap; founders claim not substantiated",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "KreditBee DRHP IPO filing SEBI",
+   "status": "done",
+   "found": "No DRHP filed yet as of 2026-09-15. Board approved public entity conversion Jul 2025; NCLT merger pending; IPO expected end-2026/early-2027",
+   "next_action": "Note as gap",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "KVKB Fintech Holdings KreditBee Fintech India Ltd CIN",
+   "status": "done",
+   "found": "No entities named KVKB Fintech Holdings or KreditBee Fintech India Ltd found. Known entities: KrazyBee Services Limited (CIN U65100KA2016PLC086990), Finnovation Tech Solutions Pvt Ltd (CIN U74900KA2016PTC086953), Finnov Private Limited (Singapore)",
+   "next_action": "Note as gap; entity names not found",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "KreditBee $258M 2025 raise",
+   "status": "done",
+   "found": "No $258M raise found in 2025. PitchBook shows a Secondary Transaction - Private on 2025-07-07 (amount undisclosed). Series E was $280M in Apr 2026. $258M figure may refer to total disclosed funding pre-Series-E ($256M per Tracxn)",
+   "next_action": "Note as gap; likely refers to Tracxn $256M pre-Series-E total",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "KreditBee product lines, traction, people, financials, legal, events, identity P3-WAVE",
+   "status": "done",
+   "found": "Comprehensive data gathered: 10+ products, FY24-FY26 financials, 8+ people, legal/regulatory status, events 2021-2026, CINs verified",
+   "next_action": "Write gapfill/kreditbee.p3.json",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pankaj Chaudhary Vishesh Singh KreditBee founders",
+   "status": "done",
+   "found": "No evidence of Pankaj Chaudhary or Vishesh Singh as KreditBee founders. Verified founders are Madhusudan Ekambaram, Karthikeyan Krishnaswamy, Vivek Veda, Wan Hong",
+   "next_action": "Note as gap; founders claim not substantiated",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "KreditBee DRHP IPO filing SEBI",
+   "status": "done",
+   "found": "No DRHP filed yet as of 2026-09-15. Board approved public entity conversion Jul 2025; NCLT merger pending; IPO expected end-2026/early-2027",
+   "next_action": "Note as gap",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "KVKB Fintech Holdings KreditBee Fintech India Ltd CIN",
+   "status": "done",
+   "found": "No entities named KVKB Fintech Holdings or KreditBee Fintech India Ltd found. Known entities: KrazyBee Services Limited (CIN U65100KA2016PLC086990), Finnovation Tech Solutions Pvt Ltd (CIN U74900KA2016PTC086953), Finnov Private Limited (Singapore)",
+   "next_action": "Note as gap; entity names not found",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "KreditBee $258M 2025 raise",
+   "status": "done",
+   "found": "No $258M raise found in 2025. PitchBook shows a Secondary Transaction - Private on 2025-07-07 (amount undisclosed). Series E was $280M in Apr 2026. $258M figure may refer to total disclosed funding pre-Series-E ($256M per Tracxn)",
+   "next_action": "Note as gap; likely refers to Tracxn $256M pre-Series-E total",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "KreditBee product lines, traction, people, financials, legal, events, identity P3-WAVE",
+   "status": "done",
+   "found": "Comprehensive data gathered: 10+ products, FY24-FY26 financials, 8+ people, legal/regulatory status, events 2021-2026, CINs verified",
+   "next_action": "Write gapfill/kreditbee.p3.json",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pankaj Chaudhary Vishesh Singh KreditBee founders",
+   "status": "done",
+   "found": "No evidence of Pankaj Chaudhary or Vishesh Singh as KreditBee founders. Verified founders are Madhusudan Ekambaram, Karthikeyan Krishnaswamy, Vivek Veda, Wan Hong",
+   "next_action": "Note as gap; founders claim not substantiated",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "KreditBee DRHP IPO filing SEBI",
+   "status": "done",
+   "found": "No DRHP filed yet as of 2026-09-15. Board approved public entity conversion Jul 2025; NCLT merger pending; IPO expected end-2026/early-2027",
+   "next_action": "Note as gap",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "KVKB Fintech Holdings KreditBee Fintech India Ltd CIN",
+   "status": "done",
+   "found": "No entities named KVKB Fintech Holdings or KreditBee Fintech India Ltd found. Known entities: KrazyBee Services Limited (CIN U65100KA2016PLC086990), Finnovation Tech Solutions Pvt Ltd (CIN U74900KA2016PTC086953), Finnov Private Limited (Singapore)",
+   "next_action": "Note as gap; entity names not found",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "KreditBee $258M 2025 raise",
+   "status": "done",
+   "found": "No $258M raise found in 2025. PitchBook shows a Secondary Transaction - Private on 2025-07-07 (amount undisclosed). Series E was $280M in Apr 2026. $258M figure may refer to total disclosed funding pre-Series-E ($256M per Tracxn)",
+   "next_action": "Note as gap; likely refers to Tracxn $256M pre-Series-E total",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "KreditBee product lines, traction, people, financials, legal, events, identity P3-WAVE",
+   "status": "done",
+   "found": "Comprehensive data gathered: 10+ products, FY24-FY26 financials, 8+ people, legal/regulatory status, events 2021-2026, CINs verified",
+   "next_action": "Write gapfill/kreditbee.p3.json",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pankaj Chaudhary Vishesh Singh KreditBee founders",
+   "status": "done",
+   "found": "No evidence of Pankaj Chaudhary or Vishesh Singh as KreditBee founders. Verified founders are Madhusudan Ekambaram, Karthikeyan Krishnaswamy, Vivek Veda, Wan Hong",
+   "next_action": "Note as gap; founders claim not substantiated",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "KreditBee DRHP IPO filing SEBI",
+   "status": "done",
+   "found": "No DRHP filed yet as of 2026-09-15. Board approved public entity conversion Jul 2025; NCLT merger pending; IPO expected end-2026/early-2027",
+   "next_action": "Note as gap",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "KVKB Fintech Holdings KreditBee Fintech India Ltd CIN",
+   "status": "done",
+   "found": "No entities named KVKB Fintech Holdings or KreditBee Fintech India Ltd found. Known entities: KrazyBee Services Limited (CIN U65100KA2016PLC086990), Finnovation Tech Solutions Pvt Ltd (CIN U74900KA2016PTC086953), Finnov Private Limited (Singapore)",
+   "next_action": "Note as gap; entity names not found",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "KreditBee $258M 2025 raise",
+   "status": "done",
+   "found": "No $258M raise found in 2025. PitchBook shows a Secondary Transaction - Private on 2025-07-07 (amount undisclosed). Series E was $280M in Apr 2026. $258M figure may refer to total disclosed funding pre-Series-E ($256M per Tracxn)",
+   "next_action": "Note as gap; likely refers to Tracxn $256M pre-Series-E total",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "KreditBee product lines, traction, people, financials, legal, events, identity P3-WAVE",
+   "status": "done",
+   "found": "Comprehensive data gathered: 10+ products, FY24-FY26 financials, 8+ people, legal/regulatory status, events 2021-2026, CINs verified",
+   "next_action": "Write gapfill/kreditbee.p3.json",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pankaj Chaudhary Vishesh Singh KreditBee founders",
+   "status": "done",
+   "found": "No evidence of Pankaj Chaudhary or Vishesh Singh as KreditBee founders. Verified founders are Madhusudan Ekambaram, Karthikeyan Krishnaswamy, Vivek Veda, Wan Hong",
+   "next_action": "Note as gap; founders claim not substantiated",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "KreditBee DRHP IPO filing SEBI",
+   "status": "done",
+   "found": "No DRHP filed yet as of 2026-09-15. Board approved public entity conversion Jul 2025; NCLT merger pending; IPO expected end-2026/early-2027",
+   "next_action": "Note as gap",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "KVKB Fintech Holdings KreditBee Fintech India Ltd CIN",
+   "status": "done",
+   "found": "No entities named KVKB Fintech Holdings or KreditBee Fintech India Ltd found. Known entities: KrazyBee Services Limited (CIN U65100KA2016PLC086990), Finnovation Tech Solutions Pvt Ltd (CIN U74900KA2016PTC086953), Finnov Private Limited (Singapore)",
+   "next_action": "Note as gap; entity names not found",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "KreditBee $258M 2025 raise",
+   "status": "done",
+   "found": "No $258M raise found in 2025. PitchBook shows a Secondary Transaction - Private on 2025-07-07 (amount undisclosed). Series E was $280M in Apr 2026. $258M figure may refer to total disclosed funding pre-Series-E ($256M per Tracxn)",
+   "next_action": "Note as gap; likely refers to Tracxn $256M pre-Series-E total",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "KreditBee product lines, traction, people, financials, legal, events, identity P3-WAVE",
+   "status": "done",
+   "found": "Comprehensive data gathered: 10+ products, FY24-FY26 financials, 8+ people, legal/regulatory status, events 2021-2026, CINs verified",
+   "next_action": "Write gapfill/kreditbee.p3.json",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pankaj Chaudhary Vishesh Singh KreditBee founders",
+   "status": "done",
+   "found": "No evidence of Pankaj Chaudhary or Vishesh Singh as KreditBee founders. Verified founders are Madhusudan Ekambaram, Karthikeyan Krishnaswamy, Vivek Veda, Wan Hong",
+   "next_action": "Note as gap; founders claim not substantiated",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "KreditBee DRHP IPO filing SEBI",
+   "status": "done",
+   "found": "No DRHP filed yet as of 2026-09-15. Board approved public entity conversion Jul 2025; NCLT merger pending; IPO expected end-2026/early-2027",
+   "next_action": "Note as gap",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "KVKB Fintech Holdings KreditBee Fintech India Ltd CIN",
+   "status": "done",
+   "found": "No entities named KVKB Fintech Holdings or KreditBee Fintech India Ltd found. Known entities: KrazyBee Services Limited (CIN U65100KA2016PLC086990), Finnovation Tech Solutions Pvt Ltd (CIN U74900KA2016PTC086953), Finnov Private Limited (Singapore)",
+   "next_action": "Note as gap; entity names not found",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "KreditBee $258M 2025 raise",
+   "status": "done",
+   "found": "No $258M raise found in 2025. PitchBook shows a Secondary Transaction - Private on 2025-07-07 (amount undisclosed). Series E was $280M in Apr 2026. $258M figure may refer to total disclosed funding pre-Series-E ($256M per Tracxn)",
+   "next_action": "Note as gap; likely refers to Tracxn $256M pre-Series-E total",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "KreditBee product lines, traction, people, financials, legal, events, identity P3-WAVE",
+   "status": "done",
+   "found": "Comprehensive data gathered: 10+ products, FY24-FY26 financials, 8+ people, legal/regulatory status, events 2021-2026, CINs verified",
+   "next_action": "Write gapfill/kreditbee.p3.json",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pankaj Chaudhary Vishesh Singh KreditBee founders",
+   "status": "done",
+   "found": "No evidence of Pankaj Chaudhary or Vishesh Singh as KreditBee founders. Verified founders are Madhusudan Ekambaram, Karthikeyan Krishnaswamy, Vivek Veda, Wan Hong",
+   "next_action": "Note as gap; founders claim not substantiated",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "KreditBee DRHP IPO filing SEBI",
+   "status": "done",
+   "found": "No DRHP filed yet as of 2026-09-15. Board approved public entity conversion Jul 2025; NCLT merger pending; IPO expected end-2026/early-2027",
+   "next_action": "Note as gap",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "KVKB Fintech Holdings KreditBee Fintech India Ltd CIN",
+   "status": "done",
+   "found": "No entities named KVKB Fintech Holdings or KreditBee Fintech India Ltd found. Known entities: KrazyBee Services Limited (CIN U65100KA2016PLC086990), Finnovation Tech Solutions Pvt Ltd (CIN U74900KA2016PTC086953), Finnov Private Limited (Singapore)",
+   "next_action": "Note as gap; entity names not found",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "KreditBee $258M 2025 raise",
+   "status": "done",
+   "found": "No $258M raise found in 2025. PitchBook shows a Secondary Transaction - Private on 2025-07-07 (amount undisclosed). Series E was $280M in Apr 2026. $258M figure may refer to total disclosed funding pre-Series-E ($256M per Tracxn)",
+   "next_action": "Note as gap; likely refers to Tracxn $256M pre-Series-E total",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "KreditBee product lines, traction, people, financials, legal, events, identity P3-WAVE",
+   "status": "done",
+   "found": "Comprehensive data gathered: 10+ products, FY24-FY26 financials, 8+ people, legal/regulatory status, events 2021-2026, CINs verified",
+   "next_action": "Write gapfill/kreditbee.p3.json",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pankaj Chaudhary Vishesh Singh KreditBee founders",
+   "status": "done",
+   "found": "No evidence of Pankaj Chaudhary or Vishesh Singh as KreditBee founders. Verified founders are Madhusudan Ekambaram, Karthikeyan Krishnaswamy, Vivek Veda, Wan Hong",
+   "next_action": "Note as gap; founders claim not substantiated",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "KreditBee DRHP IPO filing SEBI",
+   "status": "done",
+   "found": "No DRHP filed yet as of 2026-09-15. Board approved public entity conversion Jul 2025; NCLT merger pending; IPO expected end-2026/early-2027",
+   "next_action": "Note as gap",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "KVKB Fintech Holdings KreditBee Fintech India Ltd CIN",
+   "status": "done",
+   "found": "No entities named KVKB Fintech Holdings or KreditBee Fintech India Ltd found. Known entities: KrazyBee Services Limited (CIN U65100KA2016PLC086990), Finnovation Tech Solutions Pvt Ltd (CIN U74900KA2016PTC086953), Finnov Private Limited (Singapore)",
+   "next_action": "Note as gap; entity names not found",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "KreditBee $258M 2025 raise",
+   "status": "done",
+   "found": "No $258M raise found in 2025. PitchBook shows a Secondary Transaction - Private on 2025-07-07 (amount undisclosed). Series E was $280M in Apr 2026. $258M figure may refer to total disclosed funding pre-Series-E ($256M per Tracxn)",
+   "next_action": "Note as gap; likely refers to Tracxn $256M pre-Series-E total",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "KreditBee product lines, traction, people, financials, legal, events, identity P3-WAVE",
+   "status": "done",
+   "found": "Comprehensive data gathered: 10+ products, FY24-FY26 financials, 8+ people, legal/regulatory status, events 2021-2026, CINs verified",
+   "next_action": "Write gapfill/kreditbee.p3.json",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pankaj Chaudhary Vishesh Singh KreditBee founders",
+   "status": "done",
+   "found": "No evidence of Pankaj Chaudhary or Vishesh Singh as KreditBee founders. Verified founders are Madhusudan Ekambaram, Karthikeyan Krishnaswamy, Vivek Veda, Wan Hong",
+   "next_action": "Note as gap; founders claim not substantiated",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "KreditBee DRHP IPO filing SEBI",
+   "status": "done",
+   "found": "No DRHP filed yet as of 2026-09-15. Board approved public entity conversion Jul 2025; NCLT merger pending; IPO expected end-2026/early-2027",
+   "next_action": "Note as gap",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "KVKB Fintech Holdings KreditBee Fintech India Ltd CIN",
+   "status": "done",
+   "found": "No entities named KVKB Fintech Holdings or KreditBee Fintech India Ltd found. Known entities: KrazyBee Services Limited (CIN U65100KA2016PLC086990), Finnovation Tech Solutions Pvt Ltd (CIN U74900KA2016PTC086953), Finnov Private Limited (Singapore)",
+   "next_action": "Note as gap; entity names not found",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "KreditBee $258M 2025 raise",
+   "status": "done",
+   "found": "No $258M raise found in 2025. PitchBook shows a Secondary Transaction - Private on 2025-07-07 (amount undisclosed). Series E was $280M in Apr 2026. $258M figure may refer to total disclosed funding pre-Series-E ($256M per Tracxn)",
+   "next_action": "Note as gap; likely refers to Tracxn $256M pre-Series-E total",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "KreditBee product lines, traction, people, financials, legal, events, identity P3-WAVE",
+   "status": "done",
+   "found": "Comprehensive data gathered: 10+ products, FY24-FY26 financials, 8+ people, legal/regulatory status, events 2021-2026, CINs verified",
+   "next_action": "Write gapfill/kreditbee.p3.json",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pankaj Chaudhary Vishesh Singh KreditBee founders",
+   "status": "done",
+   "found": "No evidence of Pankaj Chaudhary or Vishesh Singh as KreditBee founders. Verified founders are Madhusudan Ekambaram, Karthikeyan Krishnaswamy, Vivek Veda, Wan Hong",
+   "next_action": "Note as gap; founders claim not substantiated",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "KreditBee DRHP IPO filing SEBI",
+   "status": "done",
+   "found": "No DRHP filed yet as of 2026-09-15. Board approved public entity conversion Jul 2025; NCLT merger pending; IPO expected end-2026/early-2027",
+   "next_action": "Note as gap",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "KVKB Fintech Holdings KreditBee Fintech India Ltd CIN",
+   "status": "done",
+   "found": "No entities named KVKB Fintech Holdings or KreditBee Fintech India Ltd found. Known entities: KrazyBee Services Limited (CIN U65100KA2016PLC086990), Finnovation Tech Solutions Pvt Ltd (CIN U74900KA2016PTC086953), Finnov Private Limited (Singapore)",
+   "next_action": "Note as gap; entity names not found",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "KreditBee $258M 2025 raise",
+   "status": "done",
+   "found": "No $258M raise found in 2025. PitchBook shows a Secondary Transaction - Private on 2025-07-07 (amount undisclosed). Series E was $280M in Apr 2026. $258M figure may refer to total disclosed funding pre-Series-E ($256M per Tracxn)",
+   "next_action": "Note as gap; likely refers to Tracxn $256M pre-Series-E total",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "KreditBee product lines, traction, people, financials, legal, events, identity P3-WAVE",
+   "status": "done",
+   "found": "Comprehensive data gathered: 10+ products, FY24-FY26 financials, 8+ people, legal/regulatory status, events 2021-2026, CINs verified",
+   "next_action": "Write gapfill/kreditbee.p3.json",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pankaj Chaudhary Vishesh Singh KreditBee founders",
+   "status": "done",
+   "found": "No evidence of Pankaj Chaudhary or Vishesh Singh as KreditBee founders. Verified founders are Madhusudan Ekambaram, Karthikeyan Krishnaswamy, Vivek Veda, Wan Hong",
+   "next_action": "Note as gap; founders claim not substantiated",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "KreditBee DRHP IPO filing SEBI",
+   "status": "done",
+   "found": "No DRHP filed yet as of 2026-09-15. Board approved public entity conversion Jul 2025; NCLT merger pending; IPO expected end-2026/early-2027",
+   "next_action": "Note as gap",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "KVKB Fintech Holdings KreditBee Fintech India Ltd CIN",
+   "status": "done",
+   "found": "No entities named KVKB Fintech Holdings or KreditBee Fintech India Ltd found. Known entities: KrazyBee Services Limited (CIN U65100KA2016PLC086990), Finnovation Tech Solutions Pvt Ltd (CIN U74900KA2016PTC086953), Finnov Private Limited (Singapore)",
+   "next_action": "Note as gap; entity names not found",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "KreditBee $258M 2025 raise",
+   "status": "done",
+   "found": "No $258M raise found in 2025. PitchBook shows a Secondary Transaction - Private on 2025-07-07 (amount undisclosed). Series E was $280M in Apr 2026. $258M figure may refer to total disclosed funding pre-Series-E ($256M per Tracxn)",
+   "next_action": "Note as gap; likely refers to Tracxn $256M pre-Series-E total",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "KreditBee product lines, traction, people, financials, legal, events, identity P3-WAVE",
+   "status": "done",
+   "found": "Comprehensive data gathered: 10+ products, FY24-FY26 financials, 8+ people, legal/regulatory status, events 2021-2026, CINs verified",
+   "next_action": "Write gapfill/kreditbee.p3.json",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pankaj Chaudhary Vishesh Singh KreditBee founders",
+   "status": "done",
+   "found": "No evidence of Pankaj Chaudhary or Vishesh Singh as KreditBee founders. Verified founders are Madhusudan Ekambaram, Karthikeyan Krishnaswamy, Vivek Veda, Wan Hong",
+   "next_action": "Note as gap; founders claim not substantiated",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "KreditBee DRHP IPO filing SEBI",
+   "status": "done",
+   "found": "No DRHP filed yet as of 2026-09-15. Board approved public entity conversion Jul 2025; NCLT merger pending; IPO expected end-2026/early-2027",
+   "next_action": "Note as gap",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "KVKB Fintech Holdings KreditBee Fintech India Ltd CIN",
+   "status": "done",
+   "found": "No entities named KVKB Fintech Holdings or KreditBee Fintech India Ltd found. Known entities: KrazyBee Services Limited (CIN U65100KA2016PLC086990), Finnovation Tech Solutions Pvt Ltd (CIN U74900KA2016PTC086953), Finnov Private Limited (Singapore)",
+   "next_action": "Note as gap; entity names not found",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "KreditBee $258M 2025 raise",
+   "status": "done",
+   "found": "No $258M raise found in 2025. PitchBook shows a Secondary Transaction - Private on 2025-07-07 (amount undisclosed). Series E was $280M in Apr 2026. $258M figure may refer to total disclosed funding pre-Series-E ($256M per Tracxn)",
+   "next_action": "Note as gap; likely refers to Tracxn $256M pre-Series-E total",
+   "agent": "P3-WAVE"
+  }
+ ],
+ "sources": [
+  {
+   "claim_supported": "Series E $280M at $1.5B, leads, founders, AUM, downloads",
+   "fields_supported": [
+    "funding",
+    "founders",
+    "investors",
+    "traction"
+   ],
+   "publication_date": "2026-04-08",
+   "publisher": "Entrackr",
+   "retrieved_date": "2026-09-14",
+   "tier": "T3",
+   "title": "KreditBee enters unicorn club with $280 Mn Series E round",
+   "url": "https://entrackr.com/news/kreditbee-enters-unicorn-club-with-280-mn-series-e-round-11700184"
+  },
+  {
+   "claim_supported": "$220M primary + $60M secondary; Q3 FY26 rev 805cr; FY26 disbursals Rs 30,000cr; AUM Rs 15,000cr",
+   "fields_supported": [
+    "funding",
+    "financials",
+    "traction"
+   ],
+   "publication_date": "2026-04-08",
+   "publisher": "ETCFO",
+   "retrieved_date": "2026-09-14",
+   "tier": "T3",
+   "title": "Digital lender Kreditbee in unicorn club with $280 million at $1.5 billion valuation",
+   "url": "https://cfo.economictimes.indiatimes.com/news/corporate-finance/digital-lender-kreditbee-in-unicorn-club-with-280-million-at-1-5-billion-valuation/130100823"
+  },
+  {
+   "claim_supported": "FY25 revenue Rs 2,712cr +66% PAT Rs 473cr (pre-audit)",
+   "fields_supported": [
+    "financials"
+   ],
+   "publication_date": "2025-07-09",
+   "publisher": "Moneycontrol",
+   "retrieved_date": "2026-09-14",
+   "tier": "T3",
+   "title": "Fintech Kreditbee's profit soars 66% to Rs 473 crore",
+   "url": "https://www.moneycontrol.com/technology/fintech-kreditbee-s-profit-soars-66-to-rs-473-crore-revenue-surges-40-to-rs-2-712-crore-article-13245269.html"
+  },
+  {
+   "claim_supported": "FY24 NBFC revenue/PAT; MCA tech-arm figures",
+   "fields_supported": [
+    "financials"
+   ],
+   "publication_date": "2024-09-21",
+   "publisher": "Entrackr",
+   "retrieved_date": "2026-09-14",
+   "tier": "T3",
+   "title": "Exclusive: KreditBee's NBFC arm posts Rs 200 Cr profit in FY24",
+   "url": "https://entrackr.com/2024/09/exclusive-kreditbees-nbfc-arm-posts-rs-200-cr-profit-in-fy24/"
+  },
+  {
+   "url": "https://www.zaubacorp.com",
+   "title": "KRAZYBEE SERVICES PRIVATE LIMITED | ZaubaCorp",
+   "fields": [
+    "cin",
+    "incorporation_date"
+   ],
+   "confidence": "medium-high"
+  },
+  {
+   "url": "https://www.instafinancials.com",
+   "title": "KRAZYBEE SERVICES LIMITED — InstaFinancials profile",
+   "fields": [
+    "cin"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "url": "https://www.businesstoday.in/technology/story/kreditbee-turns-unicorn-with-280-million-funding-gears-up-for-ipo-push-524566-2026-04-08",
+   "title": "KreditBee turns unicorn with $280 million funding, gears up for IPO push - BusinessToday",
+   "tier": "T2",
+   "claim": "founder status Madhusudan Ekambaram (Madhusudan E)"
+  },
+  {
+   "url": "https://www.careratings.com/upload/CompanyFiles/PR/202603120334_KrazyBee_Services_Limited.pdf",
+   "title": "CARE Ratings rationale - KrazyBee Services Limited",
+   "publisher": "CARE Ratings",
+   "tier": "T2",
+   "publication_date": "2026-03-19",
+   "retrieved_date": "2026-09-15",
+   "confidence": "HIGH",
+   "fields_supported": [
+    "financials",
+    "traction",
+    "legal"
+   ]
+  },
+  {
+   "url": "https://www.indiabonds.com/credit-rating-rational-document/143084",
+   "title": "CARE Ratings rationale - KrazyBee Services Limited (Aug 2025)",
+   "publisher": "IndiaBonds",
+   "tier": "T2",
+   "publication_date": "2025-08-14",
+   "retrieved_date": "2026-09-15",
+   "confidence": "HIGH",
+   "fields_supported": [
+    "financials",
+    "traction",
+    "products"
+   ]
+  }
+ ],
+ "startup_id": "kreditbee",
+ "traction": [
+  {
+   "as_of": "Mar 2026",
+   "company_reported": true,
+   "confidence": "HIGH",
+   "metric": "app downloads",
+   "period": "cumulative",
+   "source_url": "https://entrackr.com/news/kreditbee-enters-unicorn-club-with-280-mn-series-e-round-11700184",
+   "value": "230M+"
+  },
+  {
+   "as_of": "Mar 2026",
+   "company_reported": true,
+   "confidence": "HIGH",
+   "metric": "AUM",
+   "period": "point-in-time",
+   "source_url": "https://entrackr.com/news/kreditbee-enters-unicorn-club-with-280-mn-series-e-round-11700184",
+   "value": "$1.5B / Rs 15,000cr"
+  },
+  {
+   "as_of": "Mar 2026",
+   "company_reported": true,
+   "confidence": "MEDIUM",
+   "metric": "unique loan customers",
+   "period": "cumulative",
+   "source_url": "https://entrackr.com/news/kreditbee-enters-unicorn-club-with-280-mn-series-e-round-11700184",
+   "value": "18M+"
+  },
+  {
+   "metric": "AUM",
+   "value": 13141.0,
+   "unit": "crore",
+   "period": "As-of-2025-12-31",
+   "as_of": "2025-12-31",
+   "company_reported": true,
+   "source_url": "https://www.careratings.com/upload/CompanyFiles/PR/202603120334_KrazyBee_Services_Limited.pdf",
+   "confidence": "HIGH",
+   "notes": "CARE Ratings: AUM Rs 13,141 crore as on Dec 31, 2025"
+  },
+  {
+   "metric": "AUM",
+   "value": 10102.0,
+   "unit": "crore",
+   "period": "FY25 (As-of-2025-03-31)",
+   "as_of": "2025-03-31",
+   "company_reported": true,
+   "source_url": "https://www.indiabonds.com/credit-rating-rational-document/143084",
+   "source_title": "CARE Ratings rationale - KrazyBee Services Limited",
+   "confidence": "HIGH",
+   "notes": "AUM grew ~32% in FY25 from Rs 7,644 crore FY24; CAGR 73% since FY22"
+  },
+  {
+   "metric": "AUM",
+   "value": 15000.0,
+   "unit": "crore",
+   "period": "FY26 (As-of-2026-03-31)",
+   "as_of": "2026-03-31",
+   "company_reported": true,
+   "source_url": "https://entrackr.com/news/kreditbee-enters-unicorn-club-with-280-mn-series-e-round-11700184",
+   "confidence": "MEDIUM",
+   "notes": "Company-reported at Series E announcement; ~$1.5B"
+  },
+  {
+   "metric": "total_disbursals",
+   "value": 30000.0,
+   "unit": "crore",
+   "period": "FY26 (Apr-2025..Mar-2026)",
+   "as_of": "2026-03-31",
+   "company_reported": true,
+   "source_url": "https://cfo.economictimes.indiatimes.com/news/corporate-finance/digital-lender-kreditbee-in-unicorn-club-with-280-million-at-1-5-billion-valuation/130100823",
+   "source_title": "Digital lender Kreditbee in unicorn club (ETCFO)",
+   "confidence": "HIGH",
+   "notes": "Kreditbee closed 2025-26 with total disbursals of Rs 30,000 crore"
+  },
+  {
+   "metric": "total_disbursals",
+   "value": 24647.0,
+   "unit": "crore",
+   "period": "FY25",
+   "as_of": "2025-03-31",
+   "company_reported": true,
+   "source_url": "https://www.indiabonds.com/credit-rating-rational-document/143084",
+   "source_title": "CARE Ratings rationale - KrazyBee Services Limited",
+   "confidence": "HIGH",
+   "notes": "Disbursements grew ~19% in FY25; CAGR ~62% since FY22"
+  },
+  {
+   "metric": "unique_loan_customers",
+   "value": 18000000,
+   "unit": "count",
+   "period": "cumulative",
+   "as_of": "2026-03-31",
+   "company_reported": true,
+   "source_url": "https://entrackr.com/news/kreditbee-enters-unicorn-club-with-280-mn-series-e-round-11700184",
+   "confidence": "HIGH",
+   "notes": "18M+ unique loan customers; over 60M loans facilitated"
+  },
+  {
+   "metric": "app_downloads",
+   "value": 230000000,
+   "unit": "count",
+   "period": "cumulative",
+   "as_of": "2026-03-31",
+   "company_reported": true,
+   "source_url": "https://entrackr.com/news/kreditbee-enters-unicorn-club-with-280-mn-series-e-round-11700184",
+   "confidence": "HIGH",
+   "notes": "230M+ app downloads"
+  },
+  {
+   "metric": "registered_customers",
+   "value": 80000000,
+   "unit": "count",
+   "period": "cumulative",
+   "as_of": "2026-04-08",
+   "company_reported": true,
+   "source_url": "https://fintech.global/2026/04/08/kreditbee-raises-280m-series-e-at-1-5bn-valuation",
+   "confidence": "MEDIUM",
+   "notes": "80M+ registered customers; 180M+ individuals served"
+  },
+  {
+   "metric": "co_lending_book_share",
+   "value": 42.0,
+   "unit": "percent",
+   "period": "FY25 (As-of-2025-03-31)",
+   "as_of": "2025-03-31",
+   "company_reported": true,
+   "source_url": "https://www.indiabonds.com/credit-rating-rational-document/143084",
+   "confidence": "HIGH",
+   "notes": "Co-lending book constituted ~42% of overall AUM as on Mar 31, 2025"
+  },
+  {
+   "metric": "non_metro_customer_share",
+   "value": 77.0,
+   "unit": "percent",
+   "period": "point-in-time",
+   "as_of": "2026-04-08",
+   "company_reported": true,
+   "source_url": "https://dealroom.co/companies/kreditbee",
+   "confidence": "MEDIUM",
+   "notes": "Over 77% of customer base resides in non-metro cities"
+  },
+  {
+   "metric": "repeat_borrower_share",
+   "value": 80.0,
+   "unit": "percent",
+   "period": "point-in-time",
+   "as_of": "2025-07-14",
+   "company_reported": true,
+   "source_url": "https://www.indiabonds.com/credit-rating-rational-document/143084",
+   "confidence": "HIGH",
+   "notes": "Over 80% of disbursements to repeat borrowers"
+  },
+  {
+   "metric": "cibil_above_700_share",
+   "value": 90.0,
+   "unit": "percent",
+   "period": "Since-Apr-2022",
+   "as_of": "2025-07-14",
+   "company_reported": true,
+   "source_url": "https://www.indiabonds.com/credit-rating-rational-document/143084",
+   "confidence": "HIGH",
+   "notes": "Over 90% of disbursements since Apr 2022 towards borrowers with CIBIL > 700"
+  }
+ ],
+ "_merged_session2": true
+}

@@ -1,0 +1,143 @@
+{
+ "canonical_key": "piston",
+ "company": {
+  "business_model": "B2B fintech — cardless payments platform connecting commercial fleets and fuel/gas stations (US ops; Indian founders)",
+  "city": "Bengaluru (batch; ops US)",
+  "company_name": "Piston",
+  "founded_date": "UNKNOWN",
+  "primary_sector": "fintech / payments",
+  "public_private": "private",
+  "startup_stage": "Series A",
+  "status": "active",
+  "official_website": {
+   "v": "https://piston.com",
+   "conf": "high",
+   "src": "https://piston.com",
+   "note": "verified live 2026-09-15: name match on own homepage"
+  },
+  "website": "https://piston.com",
+  "careers_website": {
+   "v": "https://piston.com/careers",
+   "conf": "high",
+   "src": "https://piston.com",
+   "note": "playwright render 2026-09-15"
+  }
+ },
+ "completeness_self": {
+  "financials": 1,
+  "founders": 3,
+  "funding": 8,
+  "identity": 7,
+  "investors": 7,
+  "legal": 2,
+  "people": 2,
+  "products": 6,
+  "sources": 7,
+  "traction": 4
+ },
+ "conflicts": [],
+ "events": [
+  {
+   "confidence": "high",
+   "date": "2026-09-10",
+   "description": "Expand payments network, product development, hiring; 'infrastructure layer for logistics commerce'; kill the fleet fuel card",
+   "headline": "Piston raises $15M Series A led by FPV Ventures",
+   "source_url": "https://fintech.global/2026/09/10/piston-raises-15m-to-scale-cardless-fuel-payments/",
+   "type": "funding"
+  }
+ ],
+ "financials": [],
+ "founders": [],
+ "funding_rounds": [
+  {
+   "all_investors": [
+    "FPV Ventures"
+   ],
+   "amount": 15000000,
+   "announced_date": "2026-09-10",
+   "currency": "USD",
+   "lead_investors": [
+    "FPV Ventures"
+   ],
+   "purpose": "Expand payments network, product development, hiring",
+   "round_type": "Series A",
+   "source_date": "2026-09-10",
+   "source_title": "Piston raises $15m to scale cardless fuel payments",
+   "source_url": "https://fintech.global/2026/09/10/piston-raises-15m-to-scale-cardless-fuel-payments/",
+   "tier": "T2"
+  }
+ ],
+ "gaps": [
+  "Founder names not captured in snippets — needs follow-up probe",
+  "Founded date, CIN unknown",
+  "Financials unknown",
+  "Prior (seed) rounds unknown",
+  "Valuation undisclosed"
+ ],
+ "investor_links": [
+  {
+   "confidence": "high",
+   "first_seen": "2026-09",
+   "investor": "FPV Ventures",
+   "investor_type": "VC",
+   "lead": true,
+   "rounds": [
+    "Series A"
+   ],
+   "source_url": "https://fintech.global/2026/09/10/piston-raises-15m-to-scale-cardless-fuel-payments/"
+  }
+ ],
+ "research_log": [
+  {
+   "found": "$15M Series A led FPV Ventures Sep 10 2026, cardless fuel payments for US fleets (FinTech Global, YourStory, DealStreetAsia)",
+   "query": "Piston FPV Ventures $15M Series A September 2026",
+   "unresolved": "founders, valuation, prior rounds"
+  },
+  {
+   "found": "ANI press release via ThePrint; ISN; citybiz confirm $15M Series A, network expansion purpose",
+   "query": "Piston founders cardless fuel payments FPV Ventures Series A",
+   "unresolved": "founder names still missing from snippets"
+  }
+ ],
+ "sources": [
+  {
+   "claim_supported": "$15M Series A led FPV Ventures for cardless fuel payments, US fleets",
+   "fields_supported": [
+    "funding_rounds",
+    "investor_links"
+   ],
+   "publication_date": "2026-09-10",
+   "publisher": "FinTech Global",
+   "retrieved_date": "2026-09-15",
+   "tier": "T2",
+   "title": "Piston raises $15m to scale cardless fuel payments",
+   "url": "https://fintech.global/2026/09/10/piston-raises-15m-to-scale-cardless-fuel-payments/"
+  },
+  {
+   "claim_supported": "$15M Series A led FPV Ventures; network/product/hiring use",
+   "fields_supported": [
+    "funding_rounds"
+   ],
+   "publication_date": "2026-09-10",
+   "publisher": "YourStory",
+   "retrieved_date": "2026-09-15",
+   "tier": "T2",
+   "title": "Piston raises $15M in Series A led by FPV Ventures",
+   "url": "https://yourstory.com/2026/09/piston-raises-15-million-in-series-a-led-by-fpv-ventures"
+  },
+  {
+   "claim_supported": "Company-framed raise announcement (ANI press release)",
+   "fields_supported": [
+    "events"
+   ],
+   "publication_date": "2026-09-11",
+   "publisher": "ThePrint (ANI)",
+   "retrieved_date": "2026-09-15",
+   "tier": "T3",
+   "title": "Piston Raises USD 15 Million to Scale the Infrastructure Layer for Logistics Commerce",
+   "url": "https://theprint.in/ani-press-releases/piston-raises-usd-15-million-to-scale-the-infrastructure-layer-for-logistics-commerce/3040467/"
+  }
+ ],
+ "startup_id": "piston",
+ "_merged_session2": true
+}

@@ -1,0 +1,38 @@
+{
+ "canonical_key": "zetwerk",
+ "updates": {
+  "company": {
+   "cin": "U74999KA2017PTC128777",
+   "incorporation_date": "2017-12-06",
+   "legal_name": "Zetwerk Manufacturing Businesses Private Limited (now converted to Limited/public per 2026 FalconEbIZ/InstaFinancials records)"
+  }
+ },
+ "sources": [
+  {
+   "url": "https://www.zaubacorp.com/ZETWERK-MANUFACTURING-BUSINESSES-PRIVATE-LIMITED-U74999KA2017PTC128777",
+   "title": "ZETWERK MANUFACTURING BUSINESSES PRIVATE LIMITED | ZaubaCorp",
+   "publication_date": "n.d.",
+   "fields": [
+    "cin",
+    "incorporation_date"
+   ],
+   "confidence": "medium-high"
+  }
+ ],
+ "log": [
+  {
+   "query": "Zetwerk Manufacturing Businesses Private Limited CIN",
+   "found": "CIN U74999KA2017PTC128777 via ZaubaCorp snippet",
+   "unresolved": ""
+  },
+  {
+   "query": "Zetwerk Manufacturing Businesses incorporation date 2017 ZaubaCorp",
+   "found": "incorporated 06 Dec 2017; converted PTC->PLC (now Limited)",
+   "unresolved": ""
+  }
+ ],
+ "still_missing": [
+  "FY25/FY26 filing financials",
+  "round dates/valuations beyond enrich file"
+ ]
+}

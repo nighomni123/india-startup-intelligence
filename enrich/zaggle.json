@@ -1,0 +1,113 @@
+{
+ "startup_id": "zaggle",
+ "company": {
+  "company_name": "Zaggle",
+  "city": "Hyderabad",
+  "primary_sector": "fintech/spend management",
+  "founded_date": "",
+  "startup_stage": "Listed",
+  "public_private": "Public",
+  "status": "Active",
+  "official_website": {
+   "v": "https://zaggle.com",
+   "conf": "high",
+   "src": "https://zaggle.com",
+   "note": "verified live 2026-09-15: name match on own homepage"
+  },
+  "website": "https://zaggle.com"
+ },
+ "funding_rounds": [
+  {
+   "round_type": "Post-IPO",
+   "announced_date": "Jan 2023",
+   "amount": "$13.7M total raised",
+   "currency": "USD",
+   "source_url": "https://tracxn.com/d/companies/zaggle/__l13c5sj9i98YrwYeQ8QaqCJKowkY1KOzcOAc5LGRtpU/funding-and-investors",
+   "source_title": "Zaggle - 2026 Funding Rounds & List of Investors",
+   "source_date": "Jan 27, 2023",
+   "tier": "T3",
+   "confidence": 0.7,
+   "notes": "7 funding rounds total: 1 Seed, 2 Early-Stage, 1 Debt, 3 Post IPO"
+  }
+ ],
+ "financials": [
+  {
+   "fiscal_year": "FY25",
+   "metric": "net profit",
+   "value": "Rs 26.1 crore",
+   "unit": "INR",
+   "value_type": "press-quoted-filing",
+   "source_url": "https://m.economictimes.com/tech/startups/zaggle-q1-profit-jumps-56-yoy-to-rs-26-crore-revenue-up-32/articleshow/123308119.cms",
+   "source_title": "Zaggle Q1 profit jumps 56% YoY to Rs 26 crore; revenue up 32%",
+   "source_date": "Aug 14, 2025",
+   "confidence": 0.85
+  }
+ ],
+ "events": [
+  {
+   "date": "Aug 2025",
+   "type": "financial",
+   "headline": "Zaggle Q1 FY26 profit up 56% YoY",
+   "description": "Net profit Rs 26.1 crore, revenue up 32% YoY",
+   "source_url": "https://m.economictimes.com/tech/startups/zaggle-q1-profit-jumps-56-yoy-to-rs-26-crore-revenue-up-32/articleshow/123308119.cms",
+   "confidence": 0.85
+  }
+ ],
+ "sources": [
+  {
+   "url": "https://m.economictimes.com/tech/startups/zaggle-q1-profit-jumps-56-yoy-to-rs-26-crore-revenue-up-32/articleshow/123308119.cms",
+   "title": "Zaggle Q1 profit jumps 56% YoY to Rs 26 crore; revenue up 32%",
+   "publisher": "The Economic Times",
+   "publication_date": "Aug 14, 2025",
+   "tier": "T2",
+   "claim_supported": "financials[0]",
+   "fields_supported": [
+    "financials"
+   ]
+  },
+  {
+   "url": "https://tracxn.com/d/companies/zaggle/__l13c5sj9i98YrwYeQ8QaqCJKowkY1KOzcOAc5LGRtpU/funding-and-investors",
+   "title": "Zaggle - 2026 Funding Rounds & List of Investors",
+   "publisher": "Tracxn",
+   "publication_date": "Jan 27, 2023",
+   "tier": "T3",
+   "claim_supported": "funding_rounds[0]",
+   "fields_supported": [
+    "funding_rounds"
+   ]
+  },
+  {
+   "url": "https://m.economictimes.com/markets/stocks/news/stocks-to-buy-in-2025-for-long-term-zaggle-justdial-among-5-stocks-that-could-give-15-47-return/brokerage-recommendations/slideshow/124565833.cms",
+   "title": "Stocks to buy in 2025 for long term: Zaggle, JustDial among 5 stocks",
+   "publisher": "The Economic Times",
+   "publication_date": "Aug 15, 2025",
+   "tier": "T2",
+   "claim_supported": [
+    "company.status",
+    "company.public_private"
+   ],
+   "fields_supported": [
+    "company"
+   ]
+  }
+ ],
+ "gaps": [
+  "Founded date not verified",
+  "Full funding round details not sourced",
+  "City confirmed as Hyderabad from batch data"
+ ],
+ "completeness_self": {
+  "identity": 7,
+  "founders": 3,
+  "funding": 5,
+  "investors": 4,
+  "financials": 6,
+  "products": 4,
+  "traction": 5,
+  "people": 3,
+  "customers": 3,
+  "legal": 4,
+  "sources": 7
+ },
+ "_merged_session2": true
+}

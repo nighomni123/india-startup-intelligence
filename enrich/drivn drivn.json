@@ -1,0 +1,160 @@
+{
+ "startup_id": "s3_02_07",
+ "company": {
+  "company_name": "Drivn (DRIVN)",
+  "startup_stage": "early_stage",
+  "public_private": "private",
+  "city": "Gurgaon",
+  "primary_sector": "ev/fintech",
+  "founded_date": "2025",
+  "business_model": "Electric commercial vehicle leasing and fleet electrification platform",
+  "official_website": {
+   "v": "https://www.drivn.co.in",
+   "conf": "high",
+   "src": "hyperresearch_fetch",
+   "note": "Verified via hyperresearch fetch; EV commercial vehicle leasing"
+  },
+  "website": "https://www.drivn.co.in"
+ },
+ "funding_rounds": [
+  {
+   "round_type": "Debt Financing",
+   "announced_date": "2026-02",
+   "amount": {
+    "value": 80,
+    "currency": "USD Mn"
+   },
+   "valuation": null,
+   "lead_investors": [
+    "Nomura"
+   ],
+   "all_investors": [
+    "Nomura"
+   ],
+   "purpose": "Roll out electric buses and trucks across India",
+   "source_url": "https://economictimes.indiatimes.com/tech/funding/electric-mobility-startup-drivn-secures-80-million-commitment-from-nomura/articleshow/127862854.cms",
+   "title": "Electric mobility startup Drivn secures $80 million commitment from Nomura",
+   "source_date": "2026-02-02",
+   "tier": "T1",
+   "confidence": 0.9,
+   "notes": "Senior secured debt + equity component"
+  },
+  {
+   "round_type": "Venture",
+   "announced_date": "2026-04",
+   "amount": {
+    "value": 60,
+    "currency": "USD Mn"
+   },
+   "valuation": null,
+   "lead_investors": [],
+   "all_investors": [],
+   "purpose": "Fleet electrification expansion",
+   "source_url": "https://linkedin.com/company/drivn-transition-private-limited",
+   "title": "Drivn LinkedIn Profile",
+   "source_date": "2026-06-24",
+   "tier": "T2",
+   "confidence": 0.75,
+   "notes": "Total funding $140M"
+  }
+ ],
+ "founders": [
+  {
+   "name": "Manav Bansal",
+   "role": "Co-founder",
+   "type": "founder",
+   "background": "Former MD and Head of India at British International Investment",
+   "education": "UNKNOWN",
+   "still_active": true,
+   "source_url": "https://economictimes.indiatimes.com/tech/funding/electric-mobility-startup-drivn-secures-80-million-commitment-from-nomura/articleshow/127862854.cms",
+   "title": "Electric mobility startup Drivn secures $80 million commitment from Nomura",
+   "confidence": 0.9
+  },
+  {
+   "name": "Alpna Jain",
+   "role": "Co-founder",
+   "type": "founder",
+   "background": "Former senior executive at International Finance Corporation",
+   "education": "UNKNOWN",
+   "still_active": true,
+   "source_url": "https://economictimes.indiatimes.com/tech/funding/electric-mobility-startup-drivn-secures-80-million-commitment-from-nomura/articleshow/127862854.cms",
+   "title": "Electric mobility startup Drivn secures $80 million commitment from Nomura",
+   "confidence": 0.9
+  }
+ ],
+ "investor_links": [
+  {
+   "investor": "Nomura",
+   "investor_type": "financial_institution",
+   "first_seen": "2026",
+   "rounds": [
+    "Debt Financing"
+   ],
+   "lead": true,
+   "amount": {
+    "value": 80,
+    "currency": "USD Mn"
+   },
+   "board_seat": "UNKNOWN",
+   "source_url": "https://economictimes.indiatimes.com/tech/funding/electric-mobility-startup-drivn-secures-80-million-commitment-from-nomura/articleshow/127862854.cms",
+   "confidence": 0.9
+  }
+ ],
+ "sources": [
+  {
+   "url": "https://economictimes.indiatimes.com/tech/funding/electric-mobility-startup-drivn-secures-80-million-commitment-from-nomura/articleshow/127862854.cms",
+   "title": "Electric mobility startup Drivn secures $80 million commitment from Nomura",
+   "publisher": "Economic Times",
+   "publication_date": "2026-02-02",
+   "tier": "T1",
+   "claim_supported": "Founders, funding, business model",
+   "fields_supported": [
+    "funding_rounds",
+    "founders",
+    "investor_links"
+   ]
+  },
+  {
+   "url": "https://linkedin.com/company/drivn-transition-private-limited",
+   "title": "Drivn LinkedIn Profile",
+   "publisher": "LinkedIn",
+   "publication_date": "2026-06-24",
+   "tier": "T2",
+   "claim_supported": "Total funding, company details",
+   "fields_supported": [
+    "funding_rounds"
+   ]
+  }
+ ],
+ "research_log": [
+  {
+   "query": "Drivn DRIVN startup status/shutdown/acquisition 2025 2026",
+   "found": "ACTIVE - Indian electric mobility startup, $140M total funding",
+   "unresolved": "Exact incorporation date"
+  },
+  {
+   "query": "Drivn founders funding",
+   "found": "Manav Bansal and Alpna Jain founded 2025, $140M funding",
+   "unresolved": "Full investor list"
+  }
+ ],
+ "gaps": [
+  "Exact incorporation date not confirmed",
+  "Full investor list incomplete",
+  "City not confirmed beyond Gurgaon"
+ ],
+ "completeness_self": {
+  "identity": 7,
+  "founders": 8,
+  "funding": 8,
+  "investors": 6,
+  "financials": 4,
+  "products": 4,
+  "traction": 4,
+  "people": 4,
+  "customers": 3,
+  "legal": 3,
+  "sources": 7
+ },
+ "_merged_session2": true
+}

@@ -1,0 +1,1856 @@
+{
+ "company": {
+  "business_model": "Omnichannel D2C: silver + 14/18K gold + lab-grown diamonds; online + 150-210 stores, franchise-led",
+  "cin": "U74999KA2017PTC104205",
+  "city": "Bengaluru",
+  "company_name": "GIVA",
+  "country": "India",
+  "founded_date": "2019",
+  "incorporation_date": "2017-06-28",
+  "legal_name": "GIVA INNO-VENTURES PRIVATE LIMITED",
+  "primary_sector": "D2C jewellery",
+  "public_private": "private",
+  "startup_stage": "Series C (extended)",
+  "state": "Karnataka",
+  "status": "active",
+  "official_website": {
+   "v": "https://www.giva.co",
+   "conf": "high",
+   "src": "https://www.giva.co (search result title: 'Buy Gold & Lab Grown Diamond Jewellery | Silver Jewellery – GIVA')",
+   "note": "W-wave verified 2026-09-15"
+  },
+  "website": "https://www.giva.co",
+  "careers_website": {
+   "v": "https://www.giva.co/pages/careers",
+   "conf": "high",
+   "src": "https://www.giva.co",
+   "note": "playwright render 2026-09-15"
+  },
+  "description": {
+   "v": "Largest D2C jewellery brand in India; founded 2019; silver-first expanding to gold and lab-grown diamonds",
+   "conf": "HIGH",
+   "src": "https://www.giva.co/pages/about-giva",
+   "note": "Company self-description"
+  },
+  "employee_estimate": {
+   "v": 3227,
+   "conf": "MEDIUM",
+   "src": "https://platform.tracxn.com/a/d/company/5905cfd7e4b0096bd03dfcaa/giva",
+   "note": "Tracxn official count; PitchBook shows 1,305-1,607 range",
+   "asof": "2026"
+  },
+  "hq_type": {
+   "v": "operational",
+   "conf": "HIGH",
+   "src": "https://www.giva.co/pages/about-giva",
+   "note": "HQ in Bengaluru; registered office also in Bengaluru"
+  },
+  "registered_office": {
+   "v": "Plot No. 60, 3rd Floor, Doddakallsandra, Kanakapura Main Road, Bangalore South, Bangalore - 560062, Karnataka",
+   "conf": "HIGH",
+   "src": "https://www.giva.co/pages/privacy-policy",
+   "note": "Indiejewel Fashions Pvt Ltd CIN U51909KA2019PTC218533"
+  }
+ },
+ "completeness_self": {
+  "financials": 8,
+  "founders": 8,
+  "funding": 9,
+  "identity": 9,
+  "investors": 8,
+  "legal": 0,
+  "people": 5,
+  "products": 6,
+  "sources": 9,
+  "traction": 7
+ },
+ "conflicts": [
+  {
+   "claim_a": "Startuppedia/RoC: total revenue 523.3 Cr (incl 5.3 Cr other income); operating revenue 518 Cr",
+   "claim_b": "Inc42/ET: revenue 518 Cr; loss 72 Cr",
+   "field": "FY25 revenue presentation",
+   "resolution": "Both consistent: 518 operating + 5.3 other = 523.3 total; loss 72-72.4 Cr",
+   "resolved_value": "Operating 518; total 523.3; loss ~72",
+   "url_a": "https://startuppedia.in/trending/startup-news/bengaluru-based-d2c-fine-jewellery-brand-giva-surges-87-to-rs-523-cr-revenue-in-fy25-while-losses-widen-to-rs-72-cr-11256123",
+   "url_b": "https://inc42.com/buzz/giva-loss-widens-23-to-%E2%82%B972-cr-in-fy25-revenue-jumps-90/"
+  },
+  {
+   "field": "business_model",
+   "claim_a": "Omnichannel D2C: silver + 14/18K gold + lab-grown diamonds; online + 150-210 stores, franchise-led",
+   "url_a": "",
+   "claim_b": "Omnichannel D2C: 925 silver + 14/18K gold + lab-grown diamonds; online + franchise-led stores",
+   "url_b": "",
+   "resolution": "phase3 p3 payload disagrees with existing value; existing kept as preferred pending human review",
+   "resolved_value": "",
+   "reviewed": "p3-merge"
+  },
+  {
+   "field": "HQ city",
+   "claim_a": "Prompt suggests Chennai as possible HQ",
+   "url_a": "user_prompt",
+   "claim_b": "All sources confirm Bengaluru as HQ",
+   "url_b": "https://www.giva.co/pages/about-giva",
+   "resolution": "Bengaluru confirmed by company website, MCA records, PitchBook, Tracxn, and all press coverage",
+   "resolved_value": "Bengaluru"
+  }
+ ],
+ "events": [
+  {
+   "announced_date": "2025-06-25",
+   "confidence": "HIGH",
+   "date": "2025-06-25",
+   "description": "Rs 530 Cr Series C led by Creaegis with Premji Invest, Epiq Capital, Edelweiss Discovery Fund; valuation ~Rs 4,000 Cr ($374M, +47% vs Oct 2024).",
+   "headline": "GIVA raises Rs 530 Cr Series C led by Creaegis",
+   "source_url": "https://www.thehindubusinessline.com/companies/d2c-jewellery-brand-giva-raises-530-crore-in-series-c-round/article69735082.ece",
+   "type": "funding_announcement"
+  },
+  {
+   "announced_date": "2026-02-19",
+   "confidence": "HIGH",
+   "date": "2026-02-19",
+   "description": "Rs 110 Cr Series C extension led by HPV CC1 Ltd with Premji Invest, Kenro Capital, Titan Capital; valuation ~Rs 4,900 Cr (+22%).",
+   "headline": "GIVA raising Rs 110 Cr Series C extension",
+   "source_url": "https://entrackr.com/exclusive/exclusive-giva-raising-12-mn-in-extended-series-c-round-11132866",
+   "type": "funding_announcement"
+  },
+  {
+   "announced_date": "2026-05-21",
+   "confidence": "MEDIUM",
+   "date": "2026-05-21",
+   "description": "Rs 270 Cr multi-tranche debt (BlackSoil 90, InCred 70, Stride 70, Nuvama 40) for working capital + store capex.",
+   "headline": "GIVA to raise Rs 270 Cr debt",
+   "source_url": "https://entrackr.com/exclusive/exclusive-jewelry-startup-giva-set-to-raise-28-mn-debt-11858162",
+   "type": "debt_raise"
+  },
+  {
+   "type": "funding",
+   "headline": "GIVA raises Rs 110 Cr Series C extension led by HPV CC1 Ltd",
+   "date": "2026-02-19",
+   "description": "Series C extension at ~Rs 4,900 Cr valuation; Premji Invest, Kenro Capital, Titan Capital participate",
+   "source_url": "https://entrackr.com/exclusive/exclusive-giva-raising-12-mn-in-extended-series-c-round-11132866",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "funding",
+   "headline": "GIVA to raise Rs 270 Cr debt from BlackSoil, InCred, Stride, Nuvama",
+   "date": "2026-05-21",
+   "description": "Multi-tranche debt for working capital and store capex",
+   "source_url": "https://entrackr.com/exclusive/exclusive-jewelry-startup-giva-set-to-raise-28-mn-debt-11858162",
+   "confidence": "MEDIUM"
+  },
+  {
+   "type": "funding",
+   "headline": "TPG, Sofina, Multiples in race for $80-100M stake at ~Rs 6,000 Cr valuation",
+   "date": "2026-07-14",
+   "description": "Advanced PE talks reported by Livemint; could value GIVA at ~Rs 6,000 Cr",
+   "source_url": "https://www.livemint.com/companies/giva-funding-valuation-tpg-sofina-multiples-private-equity-jewellery-startup-lab-grown-diamonds/amp-11783995280196.html",
+   "confidence": "MEDIUM"
+  },
+  {
+   "type": "launch",
+   "headline": "GIVA crosses 300 stores with flagship Delhi launch",
+   "date": "2026-04-14",
+   "description": "300th store opened in South Extension, New Delhi",
+   "source_url": "https://pulse.d2cinsider.com/giva-crosses-300-stores-accelerates-omnichannel-d2c-growth-with-flagship-delhi-launch",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "launch",
+   "headline": "GIVA opens 200th store at Forum South Mall Bengaluru",
+   "date": "2025-04-28",
+   "description": "200th store inaugurated by Karisma Kapoor",
+   "source_url": "https://retail.economictimes.indiatimes.com/news/apparel-fashion/jewellery/jewellery-brand-giva-opens-200th-store-in-bengaluru-targets-700-stores-across-60-cities/120703359",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "partnership",
+   "headline": "GIVA launches VEDA, Bangalore's newest premium jewellery destination",
+   "date": "2026-04",
+   "description": "New premium jewellery destination launch",
+   "source_url": "https://businessnewsthisweek.com/news/giva-launches-veda-bangalores-newest-premium-jewellery-destination",
+   "confidence": "MEDIUM"
+  },
+  {
+   "type": "ipo",
+   "headline": "IPO-in-2-3-years plan reported",
+   "date": "2025-05-08",
+   "description": "Founder indicates IPO plans within 2-3 years; single-source claim",
+   "source_url": "https://www.financialexpress.com/business/start-ups/giva-doubles-topline-in-fy25nbsp/3836537",
+   "confidence": "MEDIUM"
+  }
+ ],
+ "financials": [
+  {
+   "confidence": "HIGH",
+   "currency": "INR",
+   "fiscal_year": "FY25",
+   "metric": "operating_revenue",
+   "source_title": "GIVA FY25: Loss Widens 23% To 72 Cr, Revenue Jumps 90%",
+   "source_url": "https://inc42.com/buzz/giva-loss-widens-23-to-%E2%82%B972-cr-in-fy25-revenue-jumps-90/",
+   "unit": "INR Cr",
+   "value": "518",
+   "value_type": "press-quoted-filing"
+  },
+  {
+   "confidence": "HIGH",
+   "currency": "INR",
+   "fiscal_year": "FY25",
+   "metric": "net_loss",
+   "source_title": "GIVA FY25: Loss Widens 23% To 72 Cr, Revenue Jumps 90%",
+   "source_url": "https://inc42.com/buzz/giva-loss-widens-23-to-%E2%82%B972-cr-in-fy25-revenue-jumps-90/",
+   "unit": "INR Cr",
+   "value": "-72",
+   "value_type": "press-quoted-filing"
+  },
+  {
+   "fiscal_year": "FY23",
+   "metric": "total_revenue",
+   "value": 1650000000,
+   "unit": "INR",
+   "currency": "INR",
+   "value_type": "press-quoted-filing",
+   "basis": "standalone",
+   "consolidated": "no",
+   "filing_date": "2023-03-31",
+   "source_url": "https://entrackr.com/2023/11/giva-reports-rs-165-cr-revenue-in-fy23-losses-surge-2-4x",
+   "source_title": "Giva reports Rs 165 Cr revenue in FY23; losses surge 2.4X",
+   "confidence": "HIGH",
+   "notes": "Operating revenue Rs 165 Cr; loss Rs 45 Cr"
+  },
+  {
+   "fiscal_year": "FY23",
+   "metric": "net_loss",
+   "value": -4500000000,
+   "unit": "INR",
+   "currency": "INR",
+   "value_type": "press-quoted-filing",
+   "basis": "standalone",
+   "consolidated": "no",
+   "filing_date": "2023-03-31",
+   "source_url": "https://entrackr.com/2023/11/giva-reports-rs-165-cr-revenue-in-fy23-losses-surge-2-4x",
+   "source_title": "Giva reports Rs 165 Cr revenue in FY23; losses surge 2.4X",
+   "confidence": "HIGH",
+   "notes": "Loss widened 2.36X from Rs 19 Cr in FY22"
+  },
+  {
+   "fiscal_year": "FY24",
+   "metric": "operating_revenue",
+   "value": 2736000000,
+   "unit": "INR",
+   "currency": "INR",
+   "value_type": "press-quoted-filing",
+   "basis": "standalone",
+   "consolidated": "no",
+   "filing_date": "2024-03-31",
+   "source_url": "https://m.economictimes.com/tech/startups/jewellery-brand-givas-revenue-rises-66-in-fy24-losses-widen-30/articleshow/115325793.cms",
+   "source_title": "Jewellery brand Giva's revenue rises 66% in FY24, losses widen 30%",
+   "confidence": "HIGH",
+   "notes": "Revenue Rs 273.6 Cr; loss Rs 58.6 Cr"
+  },
+  {
+   "fiscal_year": "FY24",
+   "metric": "net_loss",
+   "value": -5860000000,
+   "unit": "INR",
+   "currency": "INR",
+   "value_type": "press-quoted-filing",
+   "basis": "standalone",
+   "consolidated": "no",
+   "filing_date": "2024-03-31",
+   "source_url": "https://m.economictimes.com/tech/startups/jewellery-brand-givas-revenue-rises-66-in-fy24-losses-widen-30/articleshow/115325793.cms",
+   "source_title": "Jewellery brand Giva's revenue rises 66% in FY24, losses widen 30%",
+   "confidence": "HIGH",
+   "notes": "Net loss widened 29.6%"
+  },
+  {
+   "fiscal_year": "FY25",
+   "metric": "operating_revenue",
+   "value": 5180000000,
+   "unit": "INR",
+   "currency": "INR",
+   "value_type": "press-quoted-filing",
+   "basis": "standalone",
+   "consolidated": "no",
+   "filing_date": "2025-03-31",
+   "source_url": "https://inc42.com/buzz/giva-loss-widens-23-to-%E2%82%B972-cr-in-fy25-revenue-jumps-90/",
+   "source_title": "GIVA FY25: Loss Widens 23% To 72 Cr, Revenue Jumps 90%",
+   "confidence": "HIGH",
+   "notes": "Revenue +89% YoY from Rs 274 Cr"
+  },
+  {
+   "fiscal_year": "FY25",
+   "metric": "total_income",
+   "value": 5230000000,
+   "unit": "INR",
+   "currency": "INR",
+   "value_type": "press-quoted-filing",
+   "basis": "standalone",
+   "consolidated": "no",
+   "filing_date": "2025-03-31",
+   "source_url": "https://www.indianretailer.com/news/jewellery-startup-giva-posts-89-pc-growth-fy25-expands-store-network",
+   "source_title": "Jewellery Startup GIVA Posts 89 Pc Growth in FY25",
+   "confidence": "HIGH",
+   "notes": "Total income Rs 523 Cr (incl other income)"
+  },
+  {
+   "fiscal_year": "FY25",
+   "metric": "net_loss",
+   "value": -7200000000,
+   "unit": "INR",
+   "currency": "INR",
+   "value_type": "press-quoted-filing",
+   "basis": "standalone",
+   "consolidated": "no",
+   "filing_date": "2025-03-31",
+   "source_url": "https://inc42.com/buzz/giva-loss-widens-23-to-%E2%82%B972-cr-in-fy25-revenue-jumps-90/",
+   "source_title": "GIVA FY25: Loss Widens 23% To 72 Cr, Revenue Jumps 90%",
+   "confidence": "HIGH",
+   "notes": "Loss widened 22% from FY24"
+  },
+  {
+   "fiscal_year": "FY25",
+   "metric": "current_assets",
+   "value": 2910000000,
+   "unit": "INR",
+   "currency": "INR",
+   "value_type": "press-quoted-filing",
+   "basis": "standalone",
+   "consolidated": "no",
+   "filing_date": "2025-03-31",
+   "source_url": "https://www.indianretailer.com/news/jewellery-startup-giva-posts-89-pc-growth-fy25-expands-store-network",
+   "source_title": "Jewellery Startup GIVA Posts 89 Pc Growth in FY25",
+   "confidence": "HIGH",
+   "notes": "Including cash and bank balances of Rs 37 Cr"
+  },
+  {
+   "fiscal_year": "FY26",
+   "metric": "revenue_guidance",
+   "value": 8500000000,
+   "unit": "INR",
+   "currency": "INR",
+   "value_type": "management",
+   "basis": "standalone",
+   "consolidated": "no",
+   "filing_date": "",
+   "source_url": "https://www.financialexpress.com/business/start-ups/giva-doubles-topline-in-fy25nbsp/3836537",
+   "source_title": "GIVA doubles topline in FY25",
+   "confidence": "MEDIUM",
+   "notes": "Guided ~Rs 850 Cr for FY26; not yet filed"
+  }
+ ],
+ "founders": [
+  {
+   "background": "CEO; IIT Kanpur alumnus",
+   "confidence": "HIGH",
+   "name": "Ishendra Agarwal",
+   "role": "Founder & CEO",
+   "source_url": "https://www.thehindubusinessline.com/companies/d2c-jewellery-brand-giva-raises-530-crore-in-series-c-round/article69735082.ece",
+   "still_active": true,
+   "type": "founder"
+  },
+  {
+   "background": "Creative Head; NIFT",
+   "confidence": "MEDIUM",
+   "name": "Nikita Prasad",
+   "role": "Co-founder",
+   "source_url": "https://www.vccircle.com/creaegisleads-series-c-funding-in-jewellery-brand-giva",
+   "still_active": true,
+   "type": "co-founder"
+  },
+  {
+   "background": "COO elevated to co-founder (Jun 2025)",
+   "confidence": "MEDIUM",
+   "name": "Aditya Labroo",
+   "role": "Co-founder & COO",
+   "source_url": "https://www.vccircle.com/creaegisleads-series-c-funding-in-jewellery-brand-giva",
+   "still_active": true,
+   "type": "co-founder"
+  },
+  {
+   "name": "Nikita Prasad",
+   "role": "Co-founder & Creative Head",
+   "background": "NIFT alumnus; jewellery design background",
+   "education": "NIFT",
+   "still_active": true,
+   "source_url": "https://www.giva.co/pages/about-giva",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Sachin Shetty",
+   "role": "Co-founder (ex)",
+   "background": "Original co-founder; no longer listed as active co-founder on current site",
+   "education": "UNKNOWN",
+   "still_active": false,
+   "source_url": "https://www.giva.co/",
+   "confidence": "MEDIUM"
+  }
+ ],
+ "funding_rounds": [
+  {
+   "all_investors": [
+    "Creaegis",
+    "Premji Invest",
+    "Epiq Capital",
+    "Edelweiss Discovery Fund"
+   ],
+   "amount": "5300000000",
+   "announced_date": "2025-06-25",
+   "confidence": "HIGH",
+   "currency": "INR",
+   "lead_investors": [
+    "Creaegis"
+   ],
+   "round_date": "2025-06-25",
+   "round_type": "Series C",
+   "source_date": "2025-06-25",
+   "source_title": "D2C jewellery brand GIVA raises 530 crore in Series C round",
+   "source_url": "https://www.thehindubusinessline.com/companies/d2c-jewellery-brand-giva-raises-530-crore-in-series-c-round/article69735082.ece",
+   "tier": "T3",
+   "valuation": "~INR 4000 Cr"
+  },
+  {
+   "all_investors": [
+    "HPV CC1 Ltd",
+    "Kenro Capital",
+    "Premji Invest",
+    "Titan Capital"
+   ],
+   "amount": "1100000000",
+   "announced_date": "2026-02-19",
+   "confidence": "HIGH",
+   "currency": "INR",
+   "lead_investors": [
+    "HPV CC1 Ltd"
+   ],
+   "round_date": "2026-02-19",
+   "round_type": "Series C extension",
+   "source_date": "2026-02-19",
+   "source_title": "Exclusive: GIVA raising $12 Mn in extended Series C round",
+   "source_url": "https://entrackr.com/exclusive/exclusive-giva-raising-12-mn-in-extended-series-c-round-11132866",
+   "tier": "T3",
+   "valuation": "~INR 4900 Cr"
+  },
+  {
+   "all_investors": [
+    "Premji Invest",
+    "Epiq Capital",
+    "Edelweiss Discovery Fund"
+   ],
+   "amount": "2550000000",
+   "announced_date": "2024-10-01",
+   "confidence": "MEDIUM",
+   "currency": "INR",
+   "lead_investors": [
+    "Premji Invest"
+   ],
+   "round_date": "2024-10-01",
+   "round_type": "Series B extended",
+   "source_title": "Creaegis leads Series C funding in jewellery brand Giva",
+   "source_url": "https://www.vccircle.com/creaegisleads-series-c-funding-in-jewellery-brand-giva",
+   "tier": "T3"
+  },
+  {
+   "round_type": "Series B",
+   "announced_date": "2023-07-05",
+   "round_date": "2023-07-05",
+   "amount": 2000000000,
+   "currency": "INR",
+   "valuation": "",
+   "valuation_currency": "",
+   "valuation_type": "",
+   "lead_investors": [
+    "Premji Invest"
+   ],
+   "all_investors": [
+    "Premji Invest",
+    "Aditya Birla Ventures",
+    "Alteria Capital",
+    "A91 Partners"
+   ],
+   "instrument": "equity",
+   "purpose": "Product innovation and category expansion",
+   "source_url": "https://www.thehindu.com/business/premji-invest-others-invest-200-cr-in-silver-jewellery-brand-giva/article67045507.ece",
+   "source_title": "Premji Invest, others invest ₹200 cr. in silver jewellery brand GIVA",
+   "source_date": "2023-07-05",
+   "tier": "T2",
+   "confidence": "HIGH"
+  },
+  {
+   "round_type": "Series B extended",
+   "announced_date": "2024-09-25",
+   "round_date": "2024-09-25",
+   "amount": 1000000000,
+   "currency": "INR",
+   "valuation": 20000000000,
+   "valuation_currency": "INR",
+   "valuation_type": "estimated",
+   "lead_investors": [
+    "Premji Invest"
+   ],
+   "all_investors": [
+    "Premji Invest (PI Opportunities Fund II)"
+   ],
+   "instrument": "CCPS",
+   "purpose": "Continued expansion; partial exit for A91 Partners and India Quotient",
+   "source_url": "https://entrackr.com/2024/09/exclusive-giva-raises-12-mn-from-premji-invest-in-extended-series-b",
+   "source_title": "Exclusive: Giva raises $12 Mn from Premji Invest in extended Series B",
+   "source_date": "2024-09-25",
+   "tier": "T3",
+   "confidence": "HIGH"
+  },
+  {
+   "round_type": "Series B extended",
+   "announced_date": "2024-10-14",
+   "round_date": "2024-10-14",
+   "amount": 2550000000,
+   "currency": "INR",
+   "valuation": 20000000000,
+   "valuation_currency": "INR",
+   "valuation_type": "estimated",
+   "lead_investors": [
+    "Premji Invest"
+   ],
+   "all_investors": [
+    "Premji Invest",
+    "Epiq Capital",
+    "Edelweiss Discover Fund",
+    "GIVA top management"
+   ],
+   "instrument": "CCPS (35% primary, 65% secondary)",
+   "purpose": "Expansion; partial exit for A91 Partners and India Quotient",
+   "source_url": "https://www.businesstoday.in/latest/corporate/story/small-shops-doing-manmani-why-jewellery-start-up-giva-picked-silver-as-core-segment-418020-2024-02-19",
+   "source_title": "GIVA Jewellery raises Rs 255 cr in extended Series B",
+   "source_date": "2024-10-14",
+   "tier": "T2",
+   "confidence": "HIGH"
+  },
+  {
+   "round_type": "Debt",
+   "announced_date": "2026-05-21",
+   "round_date": "2026-05-21",
+   "amount": 2700000000,
+   "currency": "INR",
+   "valuation": "",
+   "valuation_currency": "",
+   "valuation_type": "",
+   "lead_investors": [
+    "BlackSoil"
+   ],
+   "all_investors": [
+    "BlackSoil (90 Cr)",
+    "InCred (70 Cr)",
+    "Stride (70 Cr)",
+    "Nuvama (40 Cr)"
+   ],
+   "instrument": "debt",
+   "purpose": "Working capital and store capex",
+   "source_url": "https://entrackr.com/exclusive/exclusive-jewelry-startup-giva-set-to-raise-28-mn-debt-11858162",
+   "source_title": "Exclusive: Jewelry startup Giva set to raise $28 Mn debt",
+   "source_date": "2026-05-21",
+   "tier": "T3",
+   "confidence": "MEDIUM"
+  },
+  {
+   "round_type": "PE Growth (rumor)",
+   "announced_date": "2026-07-14",
+   "round_date": "",
+   "amount": 80000000,
+   "currency": "USD",
+   "valuation": 60000000000,
+   "valuation_currency": "INR",
+   "valuation_type": "estimated",
+   "lead_investors": [
+    "TPG",
+    "Sofina",
+    "Multiples"
+   ],
+   "all_investors": [
+    "TPG",
+    "Sofina",
+    "Multiples"
+   ],
+   "instrument": "equity",
+   "purpose": "Growth capital",
+   "source_url": "https://www.livemint.com/companies/giva-funding-valuation-tpg-sofina-multiples-private-equity-jewellery-startup-lab-grown-diamonds/amp-11783995280196.html",
+   "source_title": "TPG, Sofina, Multiples in race to pick up $80-100 million stake in Giva",
+   "source_date": "2026-07-14",
+   "tier": "T2",
+   "confidence": "MEDIUM"
+  }
+ ],
+ "gaps": [
+  "FY26 revenue 800-850 Cr is a guided claim, not filed",
+  "IPO-in-2-3-years plan single-source",
+  "Store count 150 vs 210 across sources/time — needs as-of dating"
+ ],
+ "investor_links": [
+  {
+   "confidence": "HIGH",
+   "investor": "Creaegis",
+   "investor_type": "growth PE",
+   "lead": true,
+   "rounds": [
+    "Series C"
+   ],
+   "source_url": "https://www.thehindubusinessline.com/companies/d2c-jewellery-brand-giva-raises-530-crore-in-series-c-round/article69735082.ece"
+  },
+  {
+   "confidence": "HIGH",
+   "investor": "Premji Invest",
+   "investor_type": "family office",
+   "rounds": [
+    "Series B extended",
+    "Series C",
+    "Series C extension"
+   ],
+   "source_url": "https://www.thehindubusinessline.com/companies/d2c-jewellery-brand-giva-raises-530-crore-in-series-c-round/article69735082.ece"
+  },
+  {
+   "confidence": "MEDIUM",
+   "investor": "Epiq Capital",
+   "investor_type": "VC",
+   "rounds": [
+    "Series B extended",
+    "Series C"
+   ],
+   "source_url": "https://www.vccircle.com/creaegisleads-series-c-funding-in-jewellery-brand-giva"
+  },
+  {
+   "confidence": "MEDIUM",
+   "investor": "A91 Partners",
+   "investor_type": "VC",
+   "rounds": [
+    "Series B"
+   ],
+   "source_url": "https://economictimes.indiatimes.com/tech/funding/giva-in-talks-to-close-rs-150-200-crore-funding-at-rs-4400-crore-valuation/articleshow/127182615.cms"
+  },
+  {
+   "confidence": "MEDIUM",
+   "investor": "Aditya Birla Ventures",
+   "investor_type": "corporate VC",
+   "rounds": [
+    "Series B"
+   ],
+   "source_url": "https://www.vccircle.com/aditya-birla-s-vc-arm-existing-backers-bet-on-silver-jewellery-firm-giva"
+  },
+  {
+   "confidence": "MEDIUM",
+   "investor": "Kenro Capital",
+   "investor_type": "secondaries fund",
+   "rounds": [
+    "Series C extension"
+   ],
+   "source_url": "https://entrackr.com/exclusive/exclusive-giva-raising-12-mn-in-extended-series-c-round-11132866"
+  }
+ ],
+ "research_log": [
+  {
+   "found": "ACTIVE; Series C 530 Cr, C1 110 Cr, debt 270 Cr; FY25 518/72; founders; CIN U74999KA2017PTC104205 inc 28 Jun 2017",
+   "next_action": "FY26 filings + IPO watch in later wave",
+   "query": "GIVA status; Series C/revenue; CIN probe",
+   "unresolved": "Store-count as-of; FY26 guide verification"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "GIVA official website India jewelry",
+   "found": "www.giva.co confirmed",
+   "unresolved": ""
+  },
+  {
+   "date": "2026-09-14",
+   "query": "GIVA careers page jobs",
+   "found": "No dedicated careers page found on giva.co; no careers URL confirmed",
+   "unresolved": "No careers page identified after search"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "GIVA HQ city verification (Chennai vs Bengaluru)",
+   "status": "done",
+   "found": "Bengaluru confirmed by all sources: company website, MCA, PitchBook, Tracxn, press",
+   "next_action": "",
+   "agent": "web_search + webfetch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "GIVA founders verification (Ankit/Nishank/WealthMug vs Ishendra/Nikita/Sachin)",
+   "status": "done",
+   "found": "Founders are Ishendra Agarwal, Nikita Prasad, Sachin Shetty (ex), Aditya Labroo. No evidence of Ankit/Nishank/WealthMug as founders.",
+   "next_action": "",
+   "agent": "web_search + webfetch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "GIVA funding Hero FinCorp verification",
+   "status": "done",
+   "found": "No Hero FinCorp connection. $12M = Rs 110 Cr Series C extension led by HPV CC1 Ltd. Hero FinCorp is separate NBFC.",
+   "next_action": "",
+   "agent": "web_search"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "GIVA FY23-FY25 financials from MCA/filings",
+   "status": "done",
+   "found": "FY23: 165 Cr rev, 45 Cr loss; FY24: 273.6 Cr rev, 58.6 Cr loss; FY25: 518 Cr rev, 72 Cr loss",
+   "next_action": "",
+   "agent": "web_search"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "GIVA BIS hallmark compliance",
+   "status": "done",
+   "found": "BIS hallmark licence HM/C - 6290031216 displayed on giva.co; confirms compliance",
+   "next_action": "",
+   "agent": "webfetch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "GIVA store count and traction",
+   "status": "done",
+   "found": "280 stores Nov 2025; 300+ by Apr 2026; target 340 by Mar 2026; 800-1000 by 2028",
+   "next_action": "",
+   "agent": "web_search"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "GIVA HQ city verification (Chennai vs Bengaluru)",
+   "status": "done",
+   "found": "Bengaluru confirmed by all sources: company website, MCA, PitchBook, Tracxn, press",
+   "next_action": "",
+   "agent": "web_search + webfetch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "GIVA founders verification (Ankit/Nishank/WealthMug vs Ishendra/Nikita/Sachin)",
+   "status": "done",
+   "found": "Founders are Ishendra Agarwal, Nikita Prasad, Sachin Shetty (ex), Aditya Labroo. No evidence of Ankit/Nishank/WealthMug as founders.",
+   "next_action": "",
+   "agent": "web_search + webfetch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "GIVA funding Hero FinCorp verification",
+   "status": "done",
+   "found": "No Hero FinCorp connection. $12M = Rs 110 Cr Series C extension led by HPV CC1 Ltd. Hero FinCorp is separate NBFC.",
+   "next_action": "",
+   "agent": "web_search"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "GIVA FY23-FY25 financials from MCA/filings",
+   "status": "done",
+   "found": "FY23: 165 Cr rev, 45 Cr loss; FY24: 273.6 Cr rev, 58.6 Cr loss; FY25: 518 Cr rev, 72 Cr loss",
+   "next_action": "",
+   "agent": "web_search"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "GIVA BIS hallmark compliance",
+   "status": "done",
+   "found": "BIS hallmark licence HM/C - 6290031216 displayed on giva.co; confirms compliance",
+   "next_action": "",
+   "agent": "webfetch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "GIVA store count and traction",
+   "status": "done",
+   "found": "280 stores Nov 2025; 300+ by Apr 2026; target 340 by Mar 2026; 800-1000 by 2028",
+   "next_action": "",
+   "agent": "web_search"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "GIVA HQ city verification (Chennai vs Bengaluru)",
+   "status": "done",
+   "found": "Bengaluru confirmed by all sources: company website, MCA, PitchBook, Tracxn, press",
+   "next_action": "",
+   "agent": "web_search + webfetch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "GIVA founders verification (Ankit/Nishank/WealthMug vs Ishendra/Nikita/Sachin)",
+   "status": "done",
+   "found": "Founders are Ishendra Agarwal, Nikita Prasad, Sachin Shetty (ex), Aditya Labroo. No evidence of Ankit/Nishank/WealthMug as founders.",
+   "next_action": "",
+   "agent": "web_search + webfetch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "GIVA funding Hero FinCorp verification",
+   "status": "done",
+   "found": "No Hero FinCorp connection. $12M = Rs 110 Cr Series C extension led by HPV CC1 Ltd. Hero FinCorp is separate NBFC.",
+   "next_action": "",
+   "agent": "web_search"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "GIVA FY23-FY25 financials from MCA/filings",
+   "status": "done",
+   "found": "FY23: 165 Cr rev, 45 Cr loss; FY24: 273.6 Cr rev, 58.6 Cr loss; FY25: 518 Cr rev, 72 Cr loss",
+   "next_action": "",
+   "agent": "web_search"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "GIVA BIS hallmark compliance",
+   "status": "done",
+   "found": "BIS hallmark licence HM/C - 6290031216 displayed on giva.co; confirms compliance",
+   "next_action": "",
+   "agent": "webfetch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "GIVA store count and traction",
+   "status": "done",
+   "found": "280 stores Nov 2025; 300+ by Apr 2026; target 340 by Mar 2026; 800-1000 by 2028",
+   "next_action": "",
+   "agent": "web_search"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "GIVA HQ city verification (Chennai vs Bengaluru)",
+   "status": "done",
+   "found": "Bengaluru confirmed by all sources: company website, MCA, PitchBook, Tracxn, press",
+   "next_action": "",
+   "agent": "web_search + webfetch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "GIVA founders verification (Ankit/Nishank/WealthMug vs Ishendra/Nikita/Sachin)",
+   "status": "done",
+   "found": "Founders are Ishendra Agarwal, Nikita Prasad, Sachin Shetty (ex), Aditya Labroo. No evidence of Ankit/Nishank/WealthMug as founders.",
+   "next_action": "",
+   "agent": "web_search + webfetch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "GIVA funding Hero FinCorp verification",
+   "status": "done",
+   "found": "No Hero FinCorp connection. $12M = Rs 110 Cr Series C extension led by HPV CC1 Ltd. Hero FinCorp is separate NBFC.",
+   "next_action": "",
+   "agent": "web_search"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "GIVA FY23-FY25 financials from MCA/filings",
+   "status": "done",
+   "found": "FY23: 165 Cr rev, 45 Cr loss; FY24: 273.6 Cr rev, 58.6 Cr loss; FY25: 518 Cr rev, 72 Cr loss",
+   "next_action": "",
+   "agent": "web_search"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "GIVA BIS hallmark compliance",
+   "status": "done",
+   "found": "BIS hallmark licence HM/C - 6290031216 displayed on giva.co; confirms compliance",
+   "next_action": "",
+   "agent": "webfetch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "GIVA store count and traction",
+   "status": "done",
+   "found": "280 stores Nov 2025; 300+ by Apr 2026; target 340 by Mar 2026; 800-1000 by 2028",
+   "next_action": "",
+   "agent": "web_search"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "GIVA HQ city verification (Chennai vs Bengaluru)",
+   "status": "done",
+   "found": "Bengaluru confirmed by all sources: company website, MCA, PitchBook, Tracxn, press",
+   "next_action": "",
+   "agent": "web_search + webfetch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "GIVA founders verification (Ankit/Nishank/WealthMug vs Ishendra/Nikita/Sachin)",
+   "status": "done",
+   "found": "Founders are Ishendra Agarwal, Nikita Prasad, Sachin Shetty (ex), Aditya Labroo. No evidence of Ankit/Nishank/WealthMug as founders.",
+   "next_action": "",
+   "agent": "web_search + webfetch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "GIVA funding Hero FinCorp verification",
+   "status": "done",
+   "found": "No Hero FinCorp connection. $12M = Rs 110 Cr Series C extension led by HPV CC1 Ltd. Hero FinCorp is separate NBFC.",
+   "next_action": "",
+   "agent": "web_search"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "GIVA FY23-FY25 financials from MCA/filings",
+   "status": "done",
+   "found": "FY23: 165 Cr rev, 45 Cr loss; FY24: 273.6 Cr rev, 58.6 Cr loss; FY25: 518 Cr rev, 72 Cr loss",
+   "next_action": "",
+   "agent": "web_search"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "GIVA BIS hallmark compliance",
+   "status": "done",
+   "found": "BIS hallmark licence HM/C - 6290031216 displayed on giva.co; confirms compliance",
+   "next_action": "",
+   "agent": "webfetch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "GIVA store count and traction",
+   "status": "done",
+   "found": "280 stores Nov 2025; 300+ by Apr 2026; target 340 by Mar 2026; 800-1000 by 2028",
+   "next_action": "",
+   "agent": "web_search"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "GIVA HQ city verification (Chennai vs Bengaluru)",
+   "status": "done",
+   "found": "Bengaluru confirmed by all sources: company website, MCA, PitchBook, Tracxn, press",
+   "next_action": "",
+   "agent": "web_search + webfetch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "GIVA founders verification (Ankit/Nishank/WealthMug vs Ishendra/Nikita/Sachin)",
+   "status": "done",
+   "found": "Founders are Ishendra Agarwal, Nikita Prasad, Sachin Shetty (ex), Aditya Labroo. No evidence of Ankit/Nishank/WealthMug as founders.",
+   "next_action": "",
+   "agent": "web_search + webfetch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "GIVA funding Hero FinCorp verification",
+   "status": "done",
+   "found": "No Hero FinCorp connection. $12M = Rs 110 Cr Series C extension led by HPV CC1 Ltd. Hero FinCorp is separate NBFC.",
+   "next_action": "",
+   "agent": "web_search"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "GIVA FY23-FY25 financials from MCA/filings",
+   "status": "done",
+   "found": "FY23: 165 Cr rev, 45 Cr loss; FY24: 273.6 Cr rev, 58.6 Cr loss; FY25: 518 Cr rev, 72 Cr loss",
+   "next_action": "",
+   "agent": "web_search"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "GIVA BIS hallmark compliance",
+   "status": "done",
+   "found": "BIS hallmark licence HM/C - 6290031216 displayed on giva.co; confirms compliance",
+   "next_action": "",
+   "agent": "webfetch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "GIVA store count and traction",
+   "status": "done",
+   "found": "280 stores Nov 2025; 300+ by Apr 2026; target 340 by Mar 2026; 800-1000 by 2028",
+   "next_action": "",
+   "agent": "web_search"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "GIVA HQ city verification (Chennai vs Bengaluru)",
+   "status": "done",
+   "found": "Bengaluru confirmed by all sources: company website, MCA, PitchBook, Tracxn, press",
+   "next_action": "",
+   "agent": "web_search + webfetch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "GIVA founders verification (Ankit/Nishank/WealthMug vs Ishendra/Nikita/Sachin)",
+   "status": "done",
+   "found": "Founders are Ishendra Agarwal, Nikita Prasad, Sachin Shetty (ex), Aditya Labroo. No evidence of Ankit/Nishank/WealthMug as founders.",
+   "next_action": "",
+   "agent": "web_search + webfetch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "GIVA funding Hero FinCorp verification",
+   "status": "done",
+   "found": "No Hero FinCorp connection. $12M = Rs 110 Cr Series C extension led by HPV CC1 Ltd. Hero FinCorp is separate NBFC.",
+   "next_action": "",
+   "agent": "web_search"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "GIVA FY23-FY25 financials from MCA/filings",
+   "status": "done",
+   "found": "FY23: 165 Cr rev, 45 Cr loss; FY24: 273.6 Cr rev, 58.6 Cr loss; FY25: 518 Cr rev, 72 Cr loss",
+   "next_action": "",
+   "agent": "web_search"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "GIVA BIS hallmark compliance",
+   "status": "done",
+   "found": "BIS hallmark licence HM/C - 6290031216 displayed on giva.co; confirms compliance",
+   "next_action": "",
+   "agent": "webfetch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "GIVA store count and traction",
+   "status": "done",
+   "found": "280 stores Nov 2025; 300+ by Apr 2026; target 340 by Mar 2026; 800-1000 by 2028",
+   "next_action": "",
+   "agent": "web_search"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "GIVA HQ city verification (Chennai vs Bengaluru)",
+   "status": "done",
+   "found": "Bengaluru confirmed by all sources: company website, MCA, PitchBook, Tracxn, press",
+   "next_action": "",
+   "agent": "web_search + webfetch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "GIVA founders verification (Ankit/Nishank/WealthMug vs Ishendra/Nikita/Sachin)",
+   "status": "done",
+   "found": "Founders are Ishendra Agarwal, Nikita Prasad, Sachin Shetty (ex), Aditya Labroo. No evidence of Ankit/Nishank/WealthMug as founders.",
+   "next_action": "",
+   "agent": "web_search + webfetch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "GIVA funding Hero FinCorp verification",
+   "status": "done",
+   "found": "No Hero FinCorp connection. $12M = Rs 110 Cr Series C extension led by HPV CC1 Ltd. Hero FinCorp is separate NBFC.",
+   "next_action": "",
+   "agent": "web_search"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "GIVA FY23-FY25 financials from MCA/filings",
+   "status": "done",
+   "found": "FY23: 165 Cr rev, 45 Cr loss; FY24: 273.6 Cr rev, 58.6 Cr loss; FY25: 518 Cr rev, 72 Cr loss",
+   "next_action": "",
+   "agent": "web_search"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "GIVA BIS hallmark compliance",
+   "status": "done",
+   "found": "BIS hallmark licence HM/C - 6290031216 displayed on giva.co; confirms compliance",
+   "next_action": "",
+   "agent": "webfetch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "GIVA store count and traction",
+   "status": "done",
+   "found": "280 stores Nov 2025; 300+ by Apr 2026; target 340 by Mar 2026; 800-1000 by 2028",
+   "next_action": "",
+   "agent": "web_search"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "GIVA HQ city verification (Chennai vs Bengaluru)",
+   "status": "done",
+   "found": "Bengaluru confirmed by all sources: company website, MCA, PitchBook, Tracxn, press",
+   "next_action": "",
+   "agent": "web_search + webfetch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "GIVA founders verification (Ankit/Nishank/WealthMug vs Ishendra/Nikita/Sachin)",
+   "status": "done",
+   "found": "Founders are Ishendra Agarwal, Nikita Prasad, Sachin Shetty (ex), Aditya Labroo. No evidence of Ankit/Nishank/WealthMug as founders.",
+   "next_action": "",
+   "agent": "web_search + webfetch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "GIVA funding Hero FinCorp verification",
+   "status": "done",
+   "found": "No Hero FinCorp connection. $12M = Rs 110 Cr Series C extension led by HPV CC1 Ltd. Hero FinCorp is separate NBFC.",
+   "next_action": "",
+   "agent": "web_search"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "GIVA FY23-FY25 financials from MCA/filings",
+   "status": "done",
+   "found": "FY23: 165 Cr rev, 45 Cr loss; FY24: 273.6 Cr rev, 58.6 Cr loss; FY25: 518 Cr rev, 72 Cr loss",
+   "next_action": "",
+   "agent": "web_search"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "GIVA BIS hallmark compliance",
+   "status": "done",
+   "found": "BIS hallmark licence HM/C - 6290031216 displayed on giva.co; confirms compliance",
+   "next_action": "",
+   "agent": "webfetch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "GIVA store count and traction",
+   "status": "done",
+   "found": "280 stores Nov 2025; 300+ by Apr 2026; target 340 by Mar 2026; 800-1000 by 2028",
+   "next_action": "",
+   "agent": "web_search"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "GIVA HQ city verification (Chennai vs Bengaluru)",
+   "status": "done",
+   "found": "Bengaluru confirmed by all sources: company website, MCA, PitchBook, Tracxn, press",
+   "next_action": "",
+   "agent": "web_search + webfetch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "GIVA founders verification (Ankit/Nishank/WealthMug vs Ishendra/Nikita/Sachin)",
+   "status": "done",
+   "found": "Founders are Ishendra Agarwal, Nikita Prasad, Sachin Shetty (ex), Aditya Labroo. No evidence of Ankit/Nishank/WealthMug as founders.",
+   "next_action": "",
+   "agent": "web_search + webfetch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "GIVA funding Hero FinCorp verification",
+   "status": "done",
+   "found": "No Hero FinCorp connection. $12M = Rs 110 Cr Series C extension led by HPV CC1 Ltd. Hero FinCorp is separate NBFC.",
+   "next_action": "",
+   "agent": "web_search"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "GIVA FY23-FY25 financials from MCA/filings",
+   "status": "done",
+   "found": "FY23: 165 Cr rev, 45 Cr loss; FY24: 273.6 Cr rev, 58.6 Cr loss; FY25: 518 Cr rev, 72 Cr loss",
+   "next_action": "",
+   "agent": "web_search"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "GIVA BIS hallmark compliance",
+   "status": "done",
+   "found": "BIS hallmark licence HM/C - 6290031216 displayed on giva.co; confirms compliance",
+   "next_action": "",
+   "agent": "webfetch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "GIVA store count and traction",
+   "status": "done",
+   "found": "280 stores Nov 2025; 300+ by Apr 2026; target 340 by Mar 2026; 800-1000 by 2028",
+   "next_action": "",
+   "agent": "web_search"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "GIVA HQ city verification (Chennai vs Bengaluru)",
+   "status": "done",
+   "found": "Bengaluru confirmed by all sources: company website, MCA, PitchBook, Tracxn, press",
+   "next_action": "",
+   "agent": "web_search + webfetch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "GIVA founders verification (Ankit/Nishank/WealthMug vs Ishendra/Nikita/Sachin)",
+   "status": "done",
+   "found": "Founders are Ishendra Agarwal, Nikita Prasad, Sachin Shetty (ex), Aditya Labroo. No evidence of Ankit/Nishank/WealthMug as founders.",
+   "next_action": "",
+   "agent": "web_search + webfetch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "GIVA funding Hero FinCorp verification",
+   "status": "done",
+   "found": "No Hero FinCorp connection. $12M = Rs 110 Cr Series C extension led by HPV CC1 Ltd. Hero FinCorp is separate NBFC.",
+   "next_action": "",
+   "agent": "web_search"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "GIVA FY23-FY25 financials from MCA/filings",
+   "status": "done",
+   "found": "FY23: 165 Cr rev, 45 Cr loss; FY24: 273.6 Cr rev, 58.6 Cr loss; FY25: 518 Cr rev, 72 Cr loss",
+   "next_action": "",
+   "agent": "web_search"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "GIVA BIS hallmark compliance",
+   "status": "done",
+   "found": "BIS hallmark licence HM/C - 6290031216 displayed on giva.co; confirms compliance",
+   "next_action": "",
+   "agent": "webfetch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "GIVA store count and traction",
+   "status": "done",
+   "found": "280 stores Nov 2025; 300+ by Apr 2026; target 340 by Mar 2026; 800-1000 by 2028",
+   "next_action": "",
+   "agent": "web_search"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "GIVA HQ city verification (Chennai vs Bengaluru)",
+   "status": "done",
+   "found": "Bengaluru confirmed by all sources: company website, MCA, PitchBook, Tracxn, press",
+   "next_action": "",
+   "agent": "web_search + webfetch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "GIVA founders verification (Ankit/Nishank/WealthMug vs Ishendra/Nikita/Sachin)",
+   "status": "done",
+   "found": "Founders are Ishendra Agarwal, Nikita Prasad, Sachin Shetty (ex), Aditya Labroo. No evidence of Ankit/Nishank/WealthMug as founders.",
+   "next_action": "",
+   "agent": "web_search + webfetch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "GIVA funding Hero FinCorp verification",
+   "status": "done",
+   "found": "No Hero FinCorp connection. $12M = Rs 110 Cr Series C extension led by HPV CC1 Ltd. Hero FinCorp is separate NBFC.",
+   "next_action": "",
+   "agent": "web_search"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "GIVA FY23-FY25 financials from MCA/filings",
+   "status": "done",
+   "found": "FY23: 165 Cr rev, 45 Cr loss; FY24: 273.6 Cr rev, 58.6 Cr loss; FY25: 518 Cr rev, 72 Cr loss",
+   "next_action": "",
+   "agent": "web_search"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "GIVA BIS hallmark compliance",
+   "status": "done",
+   "found": "BIS hallmark licence HM/C - 6290031216 displayed on giva.co; confirms compliance",
+   "next_action": "",
+   "agent": "webfetch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "GIVA store count and traction",
+   "status": "done",
+   "found": "280 stores Nov 2025; 300+ by Apr 2026; target 340 by Mar 2026; 800-1000 by 2028",
+   "next_action": "",
+   "agent": "web_search"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "GIVA HQ city verification (Chennai vs Bengaluru)",
+   "status": "done",
+   "found": "Bengaluru confirmed by all sources: company website, MCA, PitchBook, Tracxn, press",
+   "next_action": "",
+   "agent": "web_search + webfetch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "GIVA founders verification (Ankit/Nishank/WealthMug vs Ishendra/Nikita/Sachin)",
+   "status": "done",
+   "found": "Founders are Ishendra Agarwal, Nikita Prasad, Sachin Shetty (ex), Aditya Labroo. No evidence of Ankit/Nishank/WealthMug as founders.",
+   "next_action": "",
+   "agent": "web_search + webfetch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "GIVA funding Hero FinCorp verification",
+   "status": "done",
+   "found": "No Hero FinCorp connection. $12M = Rs 110 Cr Series C extension led by HPV CC1 Ltd. Hero FinCorp is separate NBFC.",
+   "next_action": "",
+   "agent": "web_search"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "GIVA FY23-FY25 financials from MCA/filings",
+   "status": "done",
+   "found": "FY23: 165 Cr rev, 45 Cr loss; FY24: 273.6 Cr rev, 58.6 Cr loss; FY25: 518 Cr rev, 72 Cr loss",
+   "next_action": "",
+   "agent": "web_search"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "GIVA BIS hallmark compliance",
+   "status": "done",
+   "found": "BIS hallmark licence HM/C - 6290031216 displayed on giva.co; confirms compliance",
+   "next_action": "",
+   "agent": "webfetch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "GIVA store count and traction",
+   "status": "done",
+   "found": "280 stores Nov 2025; 300+ by Apr 2026; target 340 by Mar 2026; 800-1000 by 2028",
+   "next_action": "",
+   "agent": "web_search"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "GIVA HQ city verification (Chennai vs Bengaluru)",
+   "status": "done",
+   "found": "Bengaluru confirmed by all sources: company website, MCA, PitchBook, Tracxn, press",
+   "next_action": "",
+   "agent": "web_search + webfetch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "GIVA founders verification (Ankit/Nishank/WealthMug vs Ishendra/Nikita/Sachin)",
+   "status": "done",
+   "found": "Founders are Ishendra Agarwal, Nikita Prasad, Sachin Shetty (ex), Aditya Labroo. No evidence of Ankit/Nishank/WealthMug as founders.",
+   "next_action": "",
+   "agent": "web_search + webfetch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "GIVA funding Hero FinCorp verification",
+   "status": "done",
+   "found": "No Hero FinCorp connection. $12M = Rs 110 Cr Series C extension led by HPV CC1 Ltd. Hero FinCorp is separate NBFC.",
+   "next_action": "",
+   "agent": "web_search"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "GIVA FY23-FY25 financials from MCA/filings",
+   "status": "done",
+   "found": "FY23: 165 Cr rev, 45 Cr loss; FY24: 273.6 Cr rev, 58.6 Cr loss; FY25: 518 Cr rev, 72 Cr loss",
+   "next_action": "",
+   "agent": "web_search"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "GIVA BIS hallmark compliance",
+   "status": "done",
+   "found": "BIS hallmark licence HM/C - 6290031216 displayed on giva.co; confirms compliance",
+   "next_action": "",
+   "agent": "webfetch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "GIVA store count and traction",
+   "status": "done",
+   "found": "280 stores Nov 2025; 300+ by Apr 2026; target 340 by Mar 2026; 800-1000 by 2028",
+   "next_action": "",
+   "agent": "web_search"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "GIVA HQ city verification (Chennai vs Bengaluru)",
+   "status": "done",
+   "found": "Bengaluru confirmed by all sources: company website, MCA, PitchBook, Tracxn, press",
+   "next_action": "",
+   "agent": "web_search + webfetch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "GIVA founders verification (Ankit/Nishank/WealthMug vs Ishendra/Nikita/Sachin)",
+   "status": "done",
+   "found": "Founders are Ishendra Agarwal, Nikita Prasad, Sachin Shetty (ex), Aditya Labroo. No evidence of Ankit/Nishank/WealthMug as founders.",
+   "next_action": "",
+   "agent": "web_search + webfetch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "GIVA funding Hero FinCorp verification",
+   "status": "done",
+   "found": "No Hero FinCorp connection. $12M = Rs 110 Cr Series C extension led by HPV CC1 Ltd. Hero FinCorp is separate NBFC.",
+   "next_action": "",
+   "agent": "web_search"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "GIVA FY23-FY25 financials from MCA/filings",
+   "status": "done",
+   "found": "FY23: 165 Cr rev, 45 Cr loss; FY24: 273.6 Cr rev, 58.6 Cr loss; FY25: 518 Cr rev, 72 Cr loss",
+   "next_action": "",
+   "agent": "web_search"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "GIVA BIS hallmark compliance",
+   "status": "done",
+   "found": "BIS hallmark licence HM/C - 6290031216 displayed on giva.co; confirms compliance",
+   "next_action": "",
+   "agent": "webfetch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "GIVA store count and traction",
+   "status": "done",
+   "found": "280 stores Nov 2025; 300+ by Apr 2026; target 340 by Mar 2026; 800-1000 by 2028",
+   "next_action": "",
+   "agent": "web_search"
+  }
+ ],
+ "sources": [
+  {
+   "claim_supported": "Rs 530 Cr Series C, investors, 2019 founding",
+   "fields_supported": [
+    "funding",
+    "identity"
+   ],
+   "publication_date": "2025-06-25",
+   "publisher": "The Hindu BusinessLine",
+   "retrieved_date": "2026-09-15",
+   "tier": "T3",
+   "title": "D2C jewellery brand GIVA raises 530 crore in Series C round",
+   "url": "https://www.thehindubusinessline.com/companies/d2c-jewellery-brand-giva-raises-530-crore-in-series-c-round/article69735082.ece"
+  },
+  {
+   "claim_supported": "Rs 110 Cr C1 terms, valuation 4,900 Cr, FY25 518 Cr / 72 Cr loss",
+   "fields_supported": [
+    "funding",
+    "financials"
+   ],
+   "publication_date": "2026-02-19",
+   "publisher": "Entrackr",
+   "retrieved_date": "2026-09-15",
+   "tier": "T3",
+   "title": "Exclusive: GIVA raising $12 Mn in extended Series C round",
+   "url": "https://entrackr.com/exclusive/exclusive-giva-raising-12-mn-in-extended-series-c-round-11132866"
+  },
+  {
+   "claim_supported": "FY25 loss 72 Cr, revenue +90%, Rs 150-200 Cr talks, FY26 guide 800-850 Cr",
+   "fields_supported": [
+    "financials",
+    "events"
+   ],
+   "publication_date": "2026-02-24",
+   "publisher": "Inc42",
+   "retrieved_date": "2026-09-15",
+   "tier": "T3",
+   "title": "GIVA FY25: Loss Widens 23% To 72 Cr, Revenue Jumps 90%",
+   "url": "https://inc42.com/buzz/giva-loss-widens-23-to-%E2%82%B972-cr-in-fy25-revenue-jumps-90/"
+  },
+  {
+   "claim_supported": "CIN U74999KA2017PTC104205, incorporated 28 Jun 2017",
+   "fields_supported": [
+    "cin",
+    "incorporation_date"
+   ],
+   "publisher": "ZaubaCorp via search snippet",
+   "retrieved_date": "2026-09-15",
+   "tier": "T2",
+   "title": "GIVA INNO-VENTURES PRIVATE LIMITED | ZaubaCorp",
+   "url": "https://www.zaubacorp.com/GIVA-INNO-VENTURES-PRIVATE-LIMITED-U74999KA2017PTC104205"
+  },
+  {
+   "claim_supported": "Rs 270 Cr debt tranches",
+   "fields_supported": [
+    "funding"
+   ],
+   "publication_date": "2026-05-21",
+   "publisher": "Entrackr",
+   "retrieved_date": "2026-09-15",
+   "tier": "T3",
+   "title": "Exclusive: Jewelry startup Giva set to raise $28 Mn debt",
+   "url": "https://entrackr.com/exclusive/exclusive-jewelry-startup-giva-set-to-raise-28-mn-debt-11858162"
+  },
+  {
+   "url": "https://www.giva.co/pages/about-giva",
+   "publisher": "GIVA Official Website",
+   "tier": "T1",
+   "publication_date": "2026-09-15",
+   "retrieved_date": "2026-09-15",
+   "confidence": "HIGH",
+   "fields_supported": [
+    "identity",
+    "founders",
+    "products",
+    "locations",
+    "legal"
+   ]
+  },
+  {
+   "url": "https://m.economictimes.com/tech/startups/jewellery-brand-givas-revenue-rises-66-in-fy24-losses-widen-30/articleshow/115325793.cms",
+   "publisher": "The Economic Times",
+   "tier": "T2",
+   "publication_date": "2024-11-15",
+   "retrieved_date": "2026-09-15",
+   "confidence": "HIGH",
+   "fields_supported": [
+    "financials"
+   ]
+  },
+  {
+   "url": "https://www.thehindubusinessline.com/companies/giva-to-triple-retail-network-targets-1000-stores-across-india-by-2028/article70313871.ece",
+   "publisher": "The Hindu BusinessLine",
+   "tier": "T2",
+   "publication_date": "2025-11-23",
+   "retrieved_date": "2026-09-15",
+   "confidence": "HIGH",
+   "fields_supported": [
+    "traction",
+    "events"
+   ]
+  },
+  {
+   "url": "https://www.livemint.com/companies/giva-funding-valuation-tpg-sofina-multiples-private-equity-jewellery-startup-lab-grown-diamonds/amp-11783995280196.html",
+   "publisher": "Livemint",
+   "tier": "T2",
+   "publication_date": "2026-07-14",
+   "retrieved_date": "2026-09-15",
+   "confidence": "MEDIUM",
+   "fields_supported": [
+    "funding_rounds",
+    "events"
+   ]
+  },
+  {
+   "url": "https://www.financialexpress.com/business/start-ups/giva-doubles-topline-in-fy25nbsp/3836537",
+   "publisher": "Financial Express",
+   "tier": "T2",
+   "publication_date": "2025-05-08",
+   "retrieved_date": "2026-09-15",
+   "confidence": "HIGH",
+   "fields_supported": [
+    "traction",
+    "financials",
+    "events"
+   ]
+  },
+  {
+   "url": "https://platform.tracxn.com/a/d/company/5905cfd7e4b0096bd03dfcaa/giva",
+   "publisher": "Tracxn",
+   "tier": "T2",
+   "publication_date": "2026-05-25",
+   "retrieved_date": "2026-09-15",
+   "confidence": "MEDIUM",
+   "fields_supported": [
+    "founders",
+    "people",
+    "employee_estimate"
+   ]
+  },
+  {
+   "url": "https://www.vccircle.com/creaegisleads-series-c-funding-in-jewellery-brand-giva",
+   "publisher": "VCCircle",
+   "tier": "T3",
+   "publication_date": "2025-06-25",
+   "retrieved_date": "2026-09-15",
+   "confidence": "HIGH",
+   "fields_supported": [
+    "founders",
+    "funding_rounds"
+   ]
+  },
+  {
+   "url": "https://www.premjiinvest.com/partnerships/giva",
+   "publisher": "Premji Invest",
+   "tier": "T1",
+   "publication_date": "",
+   "retrieved_date": "2026-09-15",
+   "confidence": "HIGH",
+   "fields_supported": [
+    "founders",
+    "investor_links"
+   ]
+  }
+ ],
+ "startup_id": "giva",
+ "_merged_session2": true,
+ "traction": [
+  {
+   "metric": "store_count",
+   "value": 300,
+   "unit": "stores",
+   "period": "As-of-2026-04",
+   "as_of": "2026-04-14",
+   "company_reported": true,
+   "source_url": "https://pulse.d2cinsider.com/giva-crosses-300-stores-accelerates-omnichannel-d2c-growth-with-flagship-delhi-launch",
+   "source_title": "GIVA Crosses 300 Stores, Accelerates Omnichannel D2C Growth",
+   "confidence": "HIGH",
+   "notes": "300th store in South Extension, New Delhi"
+  },
+  {
+   "metric": "store_count",
+   "value": 280,
+   "unit": "stores",
+   "period": "As-of-2025-11",
+   "as_of": "2025-11-23",
+   "company_reported": true,
+   "source_url": "https://www.thehindubusinessline.com/companies/giva-to-triple-retail-network-targets-1000-stores-across-india-by-2028/article70313871.ece",
+   "source_title": "GIVA to triple retail network, targets 1,000 stores across India by 2028",
+   "confidence": "HIGH",
+   "notes": "280 stores across 48 cities; Bengaluru 47, Delhi-NCR 72"
+  },
+  {
+   "metric": "store_count_target",
+   "value": 340,
+   "unit": "stores",
+   "period": "FY26 target",
+   "as_of": "2025-11-23",
+   "company_reported": true,
+   "source_url": "https://www.thehindubusinessline.com/companies/giva-to-triple-retail-network-targets-1000-stores-across-india-by-2028/article70313871.ece",
+   "source_title": "GIVA to triple retail network, targets 1,000 stores across India by 2028",
+   "confidence": "HIGH",
+   "notes": "Target 340 by March 2026"
+  },
+  {
+   "metric": "store_count_target",
+   "value": 1000,
+   "unit": "stores",
+   "period": "By 2028",
+   "as_of": "2025-11-23",
+   "company_reported": true,
+   "source_url": "https://www.thehindubusinessline.com/companies/giva-to-triple-retail-network-targets-1000-stores-across-india-by-2028/article70313871.ece",
+   "source_title": "GIVA to triple retail network, targets 1,000 stores across India by 2028",
+   "confidence": "MEDIUM",
+   "notes": "Long-term target 800-1000 stores"
+  },
+  {
+   "metric": "online_offline_split",
+   "value": 50,
+   "unit": "percent",
+   "period": "FY25",
+   "as_of": "2026-02-13",
+   "company_reported": true,
+   "source_url": "https://www.indianretailer.com/news/jewellery-startup-giva-posts-89-pc-growth-fy25-expands-store-network",
+   "source_title": "Jewellery Startup GIVA Posts 89 Pc Growth in FY25",
+   "confidence": "HIGH",
+   "notes": "Roughly equal online and offline revenue contribution"
+  },
+  {
+   "metric": "revenue_run_rate",
+   "value": 8500000000,
+   "unit": "INR",
+   "period": "FY26E",
+   "as_of": "2025-05-08",
+   "company_reported": true,
+   "source_url": "https://www.financialexpress.com/business/start-ups/giva-doubles-topline-in-fy25nbsp/3836537",
+   "source_title": "GIVA doubles topline in FY25",
+   "confidence": "MEDIUM",
+   "notes": "Founder expects ~Rs 850 Cr FY26 topline with positive EBITDA"
+  },
+  {
+   "metric": "same_store_sales_growth",
+   "value": 65,
+   "unit": "percent",
+   "period": "FY25",
+   "as_of": "2025-05-08",
+   "company_reported": true,
+   "source_url": "https://www.financialexpress.com/business/start-ups/giva-doubles-topline-in-fy25nbsp/3836537",
+   "source_title": "GIVA doubles topline in FY25",
+   "confidence": "HIGH",
+   "notes": "Same-store sales growth >65% in FY25"
+  },
+  {
+   "metric": "app_downloads",
+   "value": 8000000,
+   "unit": "downloads",
+   "period": "As-of-2026",
+   "as_of": "2026-09-15",
+   "company_reported": true,
+   "source_url": "https://www.giva.co/blogs/tales",
+   "source_title": "GIVA Jewellery Blog",
+   "confidence": "HIGH",
+   "notes": "8M+ downloads, 4.4 rating"
+  },
+  {
+   "metric": "international_revenue",
+   "value": 1070000000,
+   "unit": "INR",
+   "period": "FY25",
+   "as_of": "2026-02-13",
+   "company_reported": true,
+   "source_url": "https://entrackr.com/fintrackr/givas-revenue-jumps-89-to-rs-518-cr-in-fy25-11103039",
+   "source_title": "GIVA's revenue jumps 89% to Rs 518 Cr in FY25",
+   "confidence": "HIGH",
+   "notes": "Sri Lanka store contributed Rs 10.7 Cr in FY25"
+  }
+ ],
+ "products": [
+  {
+   "name": "Silver Jewellery (925 Sterling Silver)",
+   "category": "Fine Jewellery",
+   "description": "Core category; rings, earrings, necklaces, bracelets, anklets, chains, mangalsutras",
+   "pricing_model": "Fixed price",
+   "launch_date": "2019",
+   "status": "active",
+   "source_url": "https://www.giva.co/",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Gold Jewellery (14K/18K)",
+   "category": "Fine Jewellery",
+   "description": "Expanded from silver; 14K and 18K gold with lab-grown diamonds",
+   "pricing_model": "Fixed price + making charges",
+   "launch_date": "2024",
+   "status": "active",
+   "source_url": "https://www.giva.co/",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Lab-Grown Diamonds",
+   "category": "Fine Jewellery",
+   "description": "Lab-grown diamond jewellery with gold and silver settings",
+   "pricing_model": "Fixed price",
+   "launch_date": "2024",
+   "status": "active",
+   "source_url": "https://www.giva.co/",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "IXIA by GIVA",
+   "category": "Demi-fine Jewellery",
+   "description": "PVD gold-coated surgical-grade stainless steel jewellery for Gen Z/millennials",
+   "pricing_model": "Fixed price",
+   "launch_date": "UNKNOWN",
+   "status": "active",
+   "source_url": "https://www.giva.co/pages/about-giva",
+   "confidence": "MEDIUM"
+  },
+  {
+   "name": "Men's Jewellery",
+   "category": "Fine Jewellery",
+   "description": "Expanded category for male customers",
+   "pricing_model": "Fixed price",
+   "launch_date": "2024",
+   "status": "active",
+   "source_url": "https://www.giva.co/",
+   "confidence": "MEDIUM"
+  },
+  {
+   "name": "Kids Jewellery",
+   "category": "Fine Jewellery",
+   "description": "Children's jewellery collection",
+   "pricing_model": "Fixed price",
+   "launch_date": "2024",
+   "status": "active",
+   "source_url": "https://www.giva.co/",
+   "confidence": "MEDIUM"
+  }
+ ],
+ "people": [
+  {
+   "name": "Ishendra Agarwal",
+   "position": "Founder & CEO",
+   "start": "2019",
+   "current": true,
+   "prior_role": "Investment Professional at Guild Capital; BCG Associate",
+   "source_url": "https://linkedin.com/in/ishendra-agarwal-23a91a55",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Aditya Labroo",
+   "position": "Co-founder & COO",
+   "start": "2019",
+   "current": true,
+   "prior_role": "Finance and venture capital background",
+   "source_url": "https://www.vccircle.com/creaegisleads-series-c-funding-in-jewellery-brand-giva",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Parag Garg",
+   "position": "Vice President Finance",
+   "start": "UNKNOWN",
+   "current": true,
+   "prior_role": "UNKNOWN",
+   "source_url": "https://platform.tracxn.com/a/d/company/5905cfd7e4b0096bd03dfcaa/giva",
+   "confidence": "MEDIUM"
+  },
+  {
+   "name": "Aditya Todi",
+   "position": "CFO",
+   "start": "UNKNOWN",
+   "current": true,
+   "prior_role": "UNKNOWN",
+   "source_url": "https://platform.tracxn.com/a/d/company/5905cfd7e4b0096bd03dfcaa/giva",
+   "confidence": "MEDIUM"
+  },
+  {
+   "name": "Naresh Kachhi",
+   "position": "CTO",
+   "start": "UNKNOWN",
+   "current": true,
+   "prior_role": "UNKNOWN",
+   "source_url": "https://platform.tracxn.com/a/d/company/5905cfd7e4b0096bd03dfcaa/giva",
+   "confidence": "MEDIUM"
+  },
+  {
+   "name": "Anirudh Kudva",
+   "position": "Chief Revenue Officer",
+   "start": "UNKNOWN",
+   "current": true,
+   "prior_role": "UNKNOWN",
+   "source_url": "https://platform.tracxn.com/a/d/company/5905cfd7e4b0096bd03dfcaa/giva",
+   "confidence": "MEDIUM"
+  },
+  {
+   "name": "Resha Jain",
+   "position": "Chief Brand Officer",
+   "start": "UNKNOWN",
+   "current": true,
+   "prior_role": "UNKNOWN",
+   "source_url": "https://platform.tracxn.com/a/d/company/5905cfd7e4b0096bd03dfcaa/giva",
+   "confidence": "MEDIUM"
+  }
+ ],
+ "legal": [
+  {
+   "type": "licence",
+   "entity": "GIVA / Indiejewel Fashions Private Limited",
+   "date": "",
+   "status": "confirmed-violation",
+   "description": "BIS Hallmark certification HM/C - 6290031216 held by GIVA for gold jewellery hallmarking compliance",
+   "source_url": "https://www.giva.co/pages/about-giva",
+   "confidence": "HIGH",
+   "notes": "BIS hallmark licence displayed on website; indicates compliance with BIS Hallmarking Scheme for gold jewellery"
+  }
+ ],
+ "locations": [
+  {
+   "type": "hq",
+   "address_or_area": "Third Floor, Magnum Vista, Raghuvanahalli, Konanakunte",
+   "city": "Bengaluru",
+   "state": "Karnataka",
+   "country": "India",
+   "as_of": "2026-09-15",
+   "source_url": "https://pitchbook.com/profiles/company/454228-93",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "registered_office",
+   "address_or_area": "Plot No. 60, 3rd Floor, Doddakallsandra, Kanakapura Main Road, Bangalore South",
+   "city": "Bengaluru",
+   "state": "Karnataka",
+   "country": "India",
+   "as_of": "2026-09-15",
+   "source_url": "https://www.giva.co/pages/privacy-policy",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "registered_office",
+   "address_or_area": "No 15 Ramaiah Colony Sector C, Vibbuthipura, Basavanagar",
+   "city": "Bengaluru",
+   "state": "Karnataka",
+   "country": "India",
+   "as_of": "2017-06-28",
+   "source_url": "https://www.zaubacorp.com/GIVA-INNO-VENTURES-PRIVATE-LIMITED-U74999KA2017PTC104205",
+   "confidence": "HIGH",
+   "notes": "GIVA INNO-VENTURES entity (CIN U74999KA2017PTC104205)"
+  },
+  {
+   "type": "office",
+   "address_or_area": "JP Nagar Phase 9",
+   "city": "Bengaluru",
+   "state": "Karnataka",
+   "country": "India",
+   "as_of": "2026-09-15",
+   "source_url": "https://giva.co/pages/contact-us",
+   "confidence": "MEDIUM"
+  }
+ ],
+ "customers": [
+  {
+   "name": "Retail consumers (India)",
+   "type": "consumer",
+   "announced_date": "",
+   "status": "active",
+   "source_url": "https://www.giva.co/",
+   "confidence": "HIGH",
+   "notes": "Pan-India D2C customer base; 48 cities"
+  }
+ ]
+}

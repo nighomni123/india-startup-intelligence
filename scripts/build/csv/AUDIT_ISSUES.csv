@@ -1,0 +1,396 @@
+issue_id,severity,sheet,record_id,issue_type,description,suggested_fix,status
+AI0001,MEDIUM,PEOPLE,PEOPLE,duplicate IDs,"37 person_id duplicates [('P0018', 2), ('P0050', 2), ('P0051', 2), ('P0060', 2), ('P0079', 2)] by design (many-per-company)",keep rows; auto-merge only if confirmed duplicate,resolved
+AI0002,HIGH,RESEARCH_LOG,RESEARCH_LOG,duplicate IDs,"2 date duplicates [('2026-09-14', 859), ('2026-09-15', 603)] ",keep rows; auto-merge only if confirmed duplicate,open
+AI0003,HIGH,STARTUPS.total_funding_disclosed,S0001,non-numeric value,"'13962.0 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0004,HIGH,STARTUPS.total_funding_disclosed,S0002,non-numeric value,"'69069.3 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0005,HIGH,STARTUPS.total_funding_disclosed,S0003,non-numeric value,"'74670.0 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0006,HIGH,STARTUPS.total_funding_disclosed,S0004,non-numeric value,"'53707.5 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0007,HIGH,STARTUPS.total_funding_disclosed,S0005,non-numeric value,"'190233.5 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0008,HIGH,STARTUPS.total_funding_disclosed,S0006,non-numeric value,"'108585.0 Mn INR (equity, DERIVED) + 52200.0 Mn INR (debt)' is a string",split into value/unit/currency,open
+AI0009,HIGH,STARTUPS.total_funding_disclosed,S0007,non-numeric value,"'7850.0 Mn INR (equity, DERIVED) | IPO issue 195.05 USDMn (excluded from private equity total)' is a string",split into value/unit/currency,open
+AI0010,HIGH,STARTUPS.total_funding_disclosed,S0008,non-numeric value,"'29689.5 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0011,HIGH,STARTUPS.total_funding_disclosed,S0009,non-numeric value,"'21078.0 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0012,HIGH,STARTUPS.total_funding_disclosed,S0010,non-numeric value,"'19957.0 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0013,HIGH,STARTUPS.total_funding_disclosed,S0011,non-numeric value,"'42753.3 Mn INR (equity, DERIVED) | IPO issue 6632.3 INRMn (excluded from private equity total)' is a string",split into value/unit/currency,open
+AI0014,HIGH,STARTUPS.employee_estimate,S0011,non-numeric value,'1415 (Tracxn official) / ~2610-2655 (Inc42/GetLatka 2025)' is a string,split into value/unit/currency,open
+AI0015,HIGH,STARTUPS.total_funding_disclosed,S0012,non-numeric value,"'30472.0 Mn INR (equity, DERIVED) + 5142.0 Mn INR (debt)' is a string",split into value/unit/currency,open
+AI0016,HIGH,STARTUPS.employee_estimate,S0012,non-numeric value,'~900-963' is a string,split into value/unit/currency,open
+AI0017,HIGH,STARTUPS.total_funding_disclosed,S0013,non-numeric value,"'23896.0 Mn INR (equity, DERIVED) + 1987.2 Mn INR (debt)' is a string",split into value/unit/currency,open
+AI0018,HIGH,STARTUPS.employee_estimate,S0013,non-numeric value,'~222-234 (early 2026; down from ~640-660 mid-2025 post-layoffs)' is a string,split into value/unit/currency,open
+AI0019,HIGH,STARTUPS.total_funding_disclosed,S0014,non-numeric value,"'30277.8 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0020,HIGH,STARTUPS.employee_estimate,S0014,non-numeric value,'~114-168' is a string,split into value/unit/currency,open
+AI0021,HIGH,STARTUPS.total_funding_disclosed,S0015,non-numeric value,"'34504.0 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0022,HIGH,STARTUPS.total_funding_disclosed,S0016,non-numeric value,"'36726.5 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0023,HIGH,STARTUPS.total_funding_disclosed,S0017,non-numeric value,"'19200.0 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0024,HIGH,STARTUPS.total_funding_disclosed,S0018,non-numeric value,"'12011.0 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0025,HIGH,STARTUPS.total_funding_disclosed,S0019,non-numeric value,"'19779.2 Mn INR (equity, DERIVED) + 1700.0 Mn INR (debt)' is a string",split into value/unit/currency,open
+AI0026,HIGH,STARTUPS.total_funding_disclosed,S0020,non-numeric value,"'13867.6 Mn INR (equity, DERIVED) + 3155.1 Mn INR (debt)' is a string",split into value/unit/currency,open
+AI0027,HIGH,STARTUPS.total_funding_disclosed,S0021,non-numeric value,"'4012.5 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0028,HIGH,STARTUPS.total_funding_disclosed,S0022,non-numeric value,"'30117.3 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0029,HIGH,STARTUPS.total_funding_disclosed,S0023,non-numeric value,"'32639.5 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0030,HIGH,STARTUPS.total_funding_disclosed,S0024,non-numeric value,"'22350.0 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0031,HIGH,STARTUPS.total_funding_disclosed,S0025,non-numeric value,"'21821.2 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0032,HIGH,STARTUPS.total_funding_disclosed,S0026,non-numeric value,"'1043.0 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0033,HIGH,STARTUPS.total_funding_disclosed,S0027,non-numeric value,"'10570.2 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0034,HIGH,STARTUPS.total_funding_disclosed,S0028,non-numeric value,"'20135.0 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0035,HIGH,STARTUPS.total_funding_disclosed,S0029,non-numeric value,"'15612.1 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0036,HIGH,STARTUPS.total_funding_disclosed,S0030,non-numeric value,"'30040.5 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0037,HIGH,STARTUPS.total_funding_disclosed,S0031,non-numeric value,"'7253.7 Mn INR (equity, DERIVED) + 977.0 Mn INR (debt)' is a string",split into value/unit/currency,open
+AI0038,HIGH,STARTUPS.total_funding_disclosed,S0032,non-numeric value,"'29494.2 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0039,HIGH,STARTUPS.total_funding_disclosed,S0033,non-numeric value,"'27354.8 Mn INR (equity, DERIVED) + 5102.5 Mn INR (debt)' is a string",split into value/unit/currency,open
+AI0040,HIGH,STARTUPS.total_funding_disclosed,S0034,non-numeric value,"'32934.5 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0041,HIGH,STARTUPS.total_funding_disclosed,S0035,non-numeric value,"'48175.0 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0042,HIGH,STARTUPS.employee_estimate,S0035,non-numeric value,'UNKNOWN' is a string,split into value/unit/currency,open
+AI0043,HIGH,STARTUPS.total_funding_disclosed,S0036,non-numeric value,"'3153712.5 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0044,HIGH,STARTUPS.employee_estimate,S0036,non-numeric value,'UNKNOWN' is a string,split into value/unit/currency,open
+AI0045,HIGH,STARTUPS.total_funding_disclosed,S0037,non-numeric value,"'41317.7 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0046,HIGH,STARTUPS.employee_estimate,S0037,non-numeric value,'UNKNOWN' is a string,split into value/unit/currency,open
+AI0047,HIGH,STARTUPS.total_funding_disclosed,S0038,non-numeric value,"'82022.0 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0048,HIGH,STARTUPS.employee_estimate,S0038,non-numeric value,'UNKNOWN' is a string,split into value/unit/currency,open
+AI0049,HIGH,STARTUPS.total_funding_disclosed,S0039,non-numeric value,"'15792.7 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0050,HIGH,STARTUPS.employee_estimate,S0039,non-numeric value,'UNKNOWN' is a string,split into value/unit/currency,open
+AI0051,HIGH,STARTUPS.total_funding_disclosed,S0040,non-numeric value,"'167220.0 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0052,HIGH,STARTUPS.employee_estimate,S0040,non-numeric value,'UNKNOWN' is a string,split into value/unit/currency,open
+AI0053,HIGH,STARTUPS.total_funding_disclosed,S0041,non-numeric value,"'117816.6 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0054,HIGH,STARTUPS.total_funding_disclosed,S0042,non-numeric value,"'96471.2 Mn INR (equity, DERIVED) + 38365.0 Mn INR (debt)' is a string",split into value/unit/currency,open
+AI0055,HIGH,STARTUPS.employee_estimate,S0042,non-numeric value,'estimated 1000-2000' is a string,split into value/unit/currency,open
+AI0056,HIGH,STARTUPS.total_funding_disclosed,S0043,non-numeric value,' | IPO issue 53520.0 INRMn (excluded from private equity total)' is a string,split into value/unit/currency,open
+AI0057,HIGH,STARTUPS.total_funding_disclosed,S0044,non-numeric value,"'34899.5 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0058,HIGH,STARTUPS.total_funding_disclosed,S0045,non-numeric value,"'4968.0 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0059,HIGH,STARTUPS.employee_estimate,S0045,non-numeric value,'3400-4195 (PitchBook 3400 as of 2025; Tracxn official 4195)' is a string,split into value/unit/currency,open
+AI0060,HIGH,STARTUPS.total_funding_disclosed,S0046,non-numeric value,"'68629.0 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0061,HIGH,STARTUPS.total_funding_disclosed,S0047,non-numeric value,"'27744.0 Mn INR (equity, DERIVED) + 1112.8 Mn INR (debt)' is a string",split into value/unit/currency,open
+AI0062,HIGH,STARTUPS.employee_estimate,S0047,non-numeric value,"'446 (Tracxn official) to ~1435 (Inc42, likely incl. field staff)' is a string",split into value/unit/currency,open
+AI0063,HIGH,STARTUPS.total_funding_disclosed,S0048,non-numeric value,"'56137.9 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0064,HIGH,STARTUPS.employee_estimate,S0048,non-numeric value,'6500 (PitchBook 2026)' is a string,split into value/unit/currency,open
+AI0065,HIGH,STARTUPS.total_funding_disclosed,S0049,non-numeric value,"'98729.8 Mn INR (equity, DERIVED) | IPO issue 606.0 USDMn (excluded from private equity total)' is a string",split into value/unit/currency,open
+AI0066,HIGH,STARTUPS.employee_estimate,S0049,non-numeric value,'2082 (Tracxn official)' is a string,split into value/unit/currency,open
+AI0067,HIGH,STARTUPS.total_funding_disclosed,S0050,non-numeric value,"'47605.5 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0068,HIGH,STARTUPS.employee_estimate,S0050,non-numeric value,"'3724 (Tracxn official); ANI legal entity 306 (Mar 2026, Tracxn)' is a string",split into value/unit/currency,open
+AI0069,HIGH,STARTUPS.total_funding_disclosed,S0051,non-numeric value,"'101276.8 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0070,HIGH,STARTUPS.employee_estimate,S0051,non-numeric value,'817 (Tracxn official)' is a string,split into value/unit/currency,open
+AI0071,HIGH,STARTUPS.total_funding_disclosed,S0052,non-numeric value,"'142593.0 Mn INR (equity, DERIVED) + 26343.0 Mn INR (debt)' is a string",split into value/unit/currency,open
+AI0072,HIGH,STARTUPS.employee_estimate,S0052,non-numeric value,'UNKNOWN' is a string,split into value/unit/currency,open
+AI0073,HIGH,STARTUPS.total_funding_disclosed,S0053,non-numeric value,"'13854.2 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0074,HIGH,STARTUPS.employee_estimate,S0053,non-numeric value,'1605 (PitchBook profile; UNVERIFIED)' is a string,split into value/unit/currency,open
+AI0075,HIGH,STARTUPS.total_funding_disclosed,S0054,non-numeric value,"'41161.0 Mn INR (equity, DERIVED) + 1285.5 Mn INR (debt)' is a string",split into value/unit/currency,open
+AI0076,HIGH,STARTUPS.total_funding_disclosed,S0055,non-numeric value,"'22765.5 Mn INR (equity, DERIVED) + 1964.0 Mn INR (debt)' is a string",split into value/unit/currency,open
+AI0077,HIGH,STARTUPS.employee_estimate,S0055,non-numeric value,'447 (per The Company Check; UNVERIFIED)' is a string,split into value/unit/currency,open
+AI0078,HIGH,STARTUPS.total_funding_disclosed,S0056,non-numeric value,"'8635.0 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0079,HIGH,STARTUPS.employee_estimate,S0056,non-numeric value,"'510 (Inc42 profile; LinkedIn reports 1063 — UNVERIFIED, conflict noted)' is a string",split into value/unit/currency,open
+AI0080,HIGH,STARTUPS.total_funding_disclosed,S0057,non-numeric value,"'42565.0 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0081,HIGH,STARTUPS.total_funding_disclosed,S0058,non-numeric value,"'16196.0 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0082,HIGH,STARTUPS.employee_estimate,S0058,non-numeric value,"'300 (Revelio Labs, Mar 2026) / 387 (Inc42 Datalabs, 2026)' is a string",split into value/unit/currency,open
+AI0083,HIGH,STARTUPS.total_funding_disclosed,S0059,non-numeric value,"'4705.0 Mn INR (equity, DERIVED) + 1305.0 Mn INR (debt)' is a string",split into value/unit/currency,open
+AI0084,HIGH,STARTUPS.total_funding_disclosed,S0060,non-numeric value,"'17666.3 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0085,HIGH,STARTUPS.total_funding_disclosed,S0061,non-numeric value,"'5257.9 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0086,HIGH,STARTUPS.total_funding_disclosed,S0062,non-numeric value,"'14905.6 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0087,HIGH,STARTUPS.total_funding_disclosed,S0063,non-numeric value,"'16019.0 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0088,HIGH,STARTUPS.employee_estimate,S0063,non-numeric value,'UNKNOWN' is a string,split into value/unit/currency,open
+AI0089,HIGH,STARTUPS.total_funding_disclosed,S0064,non-numeric value,"'58519.5 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0090,HIGH,STARTUPS.employee_estimate,S0064,non-numeric value,'1001-5000 (Crunchbase range; UNVERIFIED)' is a string,split into value/unit/currency,open
+AI0091,HIGH,STARTUPS.total_funding_disclosed,S0065,non-numeric value,"'11853.8 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0092,HIGH,STARTUPS.total_funding_disclosed,S0066,non-numeric value,"'5466.9 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0093,HIGH,STARTUPS.employee_estimate,S0066,non-numeric value,'UNKNOWN' is a string,split into value/unit/currency,open
+AI0094,HIGH,STARTUPS.total_funding_disclosed,S0067,non-numeric value,"'20184.9 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0095,HIGH,STARTUPS.total_funding_disclosed,S0068,non-numeric value,"'81369.2 Mn INR (equity, DERIVED) + 19540.0 Mn INR (debt)' is a string",split into value/unit/currency,open
+AI0096,HIGH,STARTUPS.total_funding_disclosed,S0069,non-numeric value,"'2607.5 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0097,HIGH,STARTUPS.employee_estimate,S0069,non-numeric value,'~100' is a string,split into value/unit/currency,open
+AI0098,HIGH,STARTUPS.total_funding_disclosed,S0070,non-numeric value,"'21635.6 Mn INR (equity, DERIVED) + 4935.6 Mn INR (debt)' is a string",split into value/unit/currency,open
+AI0099,HIGH,STARTUPS.total_funding_disclosed,S0071,non-numeric value,"'34269.2 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0100,HIGH,STARTUPS.total_funding_disclosed,S0072,non-numeric value,"'142586.6 Mn INR (equity, DERIVED) | IPO issue 3900.0 USDMn (excluded from private equity total) | IPO issue 2600.0 USDMn (excluded from private equity total)' is a string",split into value/unit/currency,open
+AI0101,HIGH,STARTUPS.total_funding_disclosed,S0073,non-numeric value,"'15030.0 Mn INR (equity, DERIVED) + 10440.0 Mn INR (debt)' is a string",split into value/unit/currency,open
+AI0102,HIGH,STARTUPS.total_funding_disclosed,S0074,non-numeric value,"'8641.8 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0103,HIGH,STARTUPS.total_funding_disclosed,S0075,non-numeric value,"'24783.2 Mn INR (equity, DERIVED) + 100.0 Mn INR (debt)' is a string",split into value/unit/currency,open
+AI0104,HIGH,STARTUPS.total_funding_disclosed,S0076,non-numeric value,"'5809.5 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0105,HIGH,STARTUPS.total_funding_disclosed,S0077,non-numeric value,"'21425.0 Mn INR (equity, DERIVED) + 21425.0 Mn INR (debt)' is a string",split into value/unit/currency,open
+AI0106,HIGH,STARTUPS.total_funding_disclosed,S0078,non-numeric value,"'89676.5 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0107,HIGH,STARTUPS.total_funding_disclosed,S0079,non-numeric value,"'23084.5 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0108,HIGH,STARTUPS.total_funding_disclosed,S0080,non-numeric value,"'3960.3 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0109,HIGH,STARTUPS.total_funding_disclosed,S0081,non-numeric value,"'3187.8 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0110,HIGH,STARTUPS.total_funding_disclosed,S0082,non-numeric value,"'4350.0 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0111,HIGH,STARTUPS.total_funding_disclosed,S0083,non-numeric value,"'175250.0 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0112,HIGH,STARTUPS.total_funding_disclosed,S0084,non-numeric value,"'4300.0 Mn INR (equity, DERIVED) | IPO issue 572.0 USDMn (excluded from private equity total)' is a string",split into value/unit/currency,open
+AI0113,HIGH,STARTUPS.total_funding_disclosed,S0085,non-numeric value,"'236958.7 Mn INR (equity, DERIVED) + 9830.0 Mn INR (debt)' is a string",split into value/unit/currency,open
+AI0114,HIGH,STARTUPS.total_funding_disclosed,S0086,non-numeric value,"'14005.3 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0115,HIGH,STARTUPS.total_funding_disclosed,S0087,non-numeric value,"'8501.2 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0116,HIGH,STARTUPS.total_funding_disclosed,S0088,non-numeric value,"'2784.0 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0117,HIGH,STARTUPS.total_funding_disclosed,S0089,non-numeric value,"'702.7 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0118,HIGH,STARTUPS.total_funding_disclosed,S0090,non-numeric value,"'3308.0 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0119,HIGH,STARTUPS.total_funding_disclosed,S0091,non-numeric value,"'3727.3 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0120,HIGH,STARTUPS.total_funding_disclosed,S0092,non-numeric value,"'58009.5 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0121,HIGH,STARTUPS.total_funding_disclosed,S0093,non-numeric value,"'37044.0 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0122,HIGH,STARTUPS.total_funding_disclosed,S0094,non-numeric value,"'101310.0 Mn INR (equity, DERIVED) + 40330.0 Mn INR (debt)' is a string",split into value/unit/currency,open
+AI0123,HIGH,STARTUPS.total_funding_disclosed,S0095,non-numeric value,"'12234.8 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0124,HIGH,STARTUPS.total_funding_disclosed,S0096,non-numeric value,"'17229.0 Mn INR (equity, DERIVED) + 8570.0 Mn INR (debt)' is a string",split into value/unit/currency,open
+AI0125,HIGH,STARTUPS.total_funding_disclosed,S0097,non-numeric value,"'5171.0 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0126,HIGH,STARTUPS.total_funding_disclosed,S0098,non-numeric value,"'38200.4 Mn INR (equity, DERIVED) + 2571.0 Mn INR (debt)' is a string",split into value/unit/currency,open
+AI0127,HIGH,STARTUPS.total_funding_disclosed,S0099,non-numeric value,"'4721.2 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0128,HIGH,STARTUPS.total_funding_disclosed,S0100,non-numeric value,"'11675.4 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0129,HIGH,STARTUPS.total_funding_disclosed,S0101,non-numeric value,"'3325.5 Mn INR (equity, DERIVED) + 3325.5 Mn INR (debt)' is a string",split into value/unit/currency,open
+AI0130,HIGH,STARTUPS.total_funding_disclosed,S0102,non-numeric value,"'2150.0 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0131,HIGH,STARTUPS.total_funding_disclosed,S0103,non-numeric value,"'2202.0 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0132,HIGH,STARTUPS.total_funding_disclosed,S0104,non-numeric value,"'2170.2 Mn INR (equity, DERIVED) + 150.0 Mn INR (debt)' is a string",split into value/unit/currency,open
+AI0133,HIGH,STARTUPS.total_funding_disclosed,S0105,non-numeric value,"'5656.2 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0134,HIGH,STARTUPS.total_funding_disclosed,S0106,non-numeric value,"'14134.1 Mn INR (equity, DERIVED) + 565.6 Mn INR (debt)' is a string",split into value/unit/currency,open
+AI0135,HIGH,STARTUPS.total_funding_disclosed,S0107,non-numeric value,"'615.0 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0136,HIGH,STARTUPS.total_funding_disclosed,S0108,non-numeric value,"'4371.4 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0137,HIGH,STARTUPS.total_funding_disclosed,S0109,non-numeric value,"'8505.5 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0138,HIGH,STARTUPS.total_funding_disclosed,S0110,non-numeric value,"'18910.0 Mn INR (equity, DERIVED) + 2700.0 Mn INR (debt)' is a string",split into value/unit/currency,open
+AI0139,HIGH,STARTUPS.total_funding_disclosed,S0111,non-numeric value,"'29995.0 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0140,HIGH,STARTUPS.total_funding_disclosed,S0112,non-numeric value,"'34779.1 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0141,HIGH,STARTUPS.total_funding_disclosed,S0113,non-numeric value,"'11175.0 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0142,HIGH,STARTUPS.total_funding_disclosed,S0114,non-numeric value,"'25427.0 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0143,HIGH,STARTUPS.total_funding_disclosed,S0115,non-numeric value,"'5320.0 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0144,HIGH,STARTUPS.employee_estimate,S0115,non-numeric value,'N/A' is a string,split into value/unit/currency,open
+AI0145,HIGH,STARTUPS.total_funding_disclosed,S0116,non-numeric value,"'15463.4 Mn INR (equity, DERIVED) | IPO issue 19070.0 INRMn (excluded from private equity total)' is a string",split into value/unit/currency,open
+AI0146,HIGH,STARTUPS.total_funding_disclosed,S0117,non-numeric value,"'7265.0 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0147,HIGH,STARTUPS.total_funding_disclosed,S0118,non-numeric value,"'8896.6 Mn INR (equity, DERIVED) + 50.0 Mn INR (debt)' is a string",split into value/unit/currency,open
+AI0148,HIGH,STARTUPS.total_funding_disclosed,S0119,non-numeric value,"'26398.6 Mn INR (equity, DERIVED) + 967.0 Mn INR (debt)' is a string",split into value/unit/currency,open
+AI0149,HIGH,STARTUPS.total_funding_disclosed,S0120,non-numeric value,"'56245.5 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0150,HIGH,STARTUPS.total_funding_disclosed,S0121,non-numeric value,"'3915.0 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0151,HIGH,STARTUPS.total_funding_disclosed,S0122,non-numeric value,"'2974.1 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0152,HIGH,STARTUPS.total_funding_disclosed,S0123,non-numeric value,"'5651.2 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0153,HIGH,STARTUPS.total_funding_disclosed,S0124,non-numeric value,"'417.6 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0154,HIGH,STARTUPS.total_funding_disclosed,S0125,non-numeric value,"'7817.0 Mn INR (equity, DERIVED) + 3480.0 Mn INR (debt)' is a string",split into value/unit/currency,open
+AI0155,HIGH,STARTUPS.employee_estimate,S0125,non-numeric value,'UNKNOWN' is a string,split into value/unit/currency,open
+AI0156,HIGH,STARTUPS.total_funding_disclosed,S0126,non-numeric value,"'12419.1 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0157,HIGH,STARTUPS.total_funding_disclosed,S0127,non-numeric value,"'2795.6 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0158,HIGH,STARTUPS.total_funding_disclosed,S0128,non-numeric value,"'1387.5 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0159,HIGH,STARTUPS.total_funding_disclosed,S0129,non-numeric value,"'1621.3 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0160,HIGH,STARTUPS.total_funding_disclosed,S0130,non-numeric value,"'2762.0 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0161,HIGH,STARTUPS.total_funding_disclosed,S0131,non-numeric value,"'1171.2 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0162,HIGH,STARTUPS.total_funding_disclosed,S0132,non-numeric value,"'662.4 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0163,HIGH,STARTUPS.total_funding_disclosed,S0133,non-numeric value,"'1305.0 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0164,HIGH,STARTUPS.total_funding_disclosed,S0134,non-numeric value,"'35221.4 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0165,HIGH,STARTUPS.total_funding_disclosed,S0135,non-numeric value,"'23643.5 Mn INR (equity, DERIVED) | IPO issue 52350.0 INRMn (excluded from private equity total) | IPO issue 5235.0 INRMn (excluded from private equity total)' is a string",split into value/unit/currency,open
+AI0166,HIGH,STARTUPS.total_funding_disclosed,S0136,non-numeric value,"'85700.0 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0167,HIGH,STARTUPS.total_funding_disclosed,S0137,non-numeric value,"'12900.0 Mn INR (equity, DERIVED) | IPO issue 1030.0 USDMn (excluded from private equity total)' is a string",split into value/unit/currency,open
+AI0168,HIGH,STARTUPS.total_funding_disclosed,S0138,non-numeric value,"'73535.0 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0169,HIGH,STARTUPS.employee_estimate,S0138,non-numeric value,'Unknown' is a string,split into value/unit/currency,open
+AI0170,HIGH,STARTUPS.total_funding_disclosed,S0139,non-numeric value,' | IPO issue  INRMn (excluded from private equity total)' is a string,split into value/unit/currency,open
+AI0171,HIGH,STARTUPS.total_funding_disclosed,S0141,non-numeric value,' | IPO issue  INRMn (excluded from private equity total)' is a string,split into value/unit/currency,open
+AI0172,HIGH,STARTUPS.total_funding_disclosed,S0142,non-numeric value,' | IPO issue  INRMn (excluded from private equity total)' is a string,split into value/unit/currency,open
+AI0173,HIGH,STARTUPS.total_funding_disclosed,S0144,non-numeric value,"'5429.2 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0174,HIGH,STARTUPS.total_funding_disclosed,S0145,non-numeric value,"'3317.6 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0175,HIGH,STARTUPS.total_funding_disclosed,S0146,non-numeric value,"'1028.4 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0176,HIGH,STARTUPS.total_funding_disclosed,S0147,non-numeric value,"'1371.1 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0177,HIGH,STARTUPS.total_funding_disclosed,S0148,non-numeric value,"'2603.5 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0178,HIGH,STARTUPS.employee_estimate,S0148,non-numeric value,'Lean team (exact count not disclosed)' is a string,split into value/unit/currency,open
+AI0179,HIGH,STARTUPS.total_funding_disclosed,S0149,non-numeric value,"'2528.2 Mn INR (equity, DERIVED) + 1002.7 Mn INR (debt)' is a string",split into value/unit/currency,open
+AI0180,HIGH,STARTUPS.total_funding_disclosed,S0150,non-numeric value,"'24076.6 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0181,HIGH,STARTUPS.total_funding_disclosed,S0151,non-numeric value,"'617.0 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0182,HIGH,STARTUPS.total_funding_disclosed,S0152,non-numeric value,"'3092.7 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0183,HIGH,STARTUPS.total_funding_disclosed,S0153,non-numeric value,"'1256.9 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0184,HIGH,STARTUPS.total_funding_disclosed,S0154,non-numeric value,"'3082.6 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0185,HIGH,STARTUPS.total_funding_disclosed,S0155,non-numeric value,"'1162.5 Mn INR (equity, DERIVED) + 669.6 Mn INR (debt)' is a string",split into value/unit/currency,open
+AI0186,HIGH,STARTUPS.total_funding_disclosed,S0156,non-numeric value,"'1904.0 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0187,HIGH,STARTUPS.total_funding_disclosed,S0157,non-numeric value,"'1127.0 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0188,HIGH,STARTUPS.total_funding_disclosed,S0158,non-numeric value,"'7103.7 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0189,HIGH,STARTUPS.employee_estimate,S0158,non-numeric value,'UNKNOWN' is a string,split into value/unit/currency,open
+AI0190,HIGH,STARTUPS.total_funding_disclosed,S0159,non-numeric value,"'5950.8 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0191,HIGH,STARTUPS.total_funding_disclosed,S0161,non-numeric value,"'5046.0 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0192,HIGH,STARTUPS.total_funding_disclosed,S0162,non-numeric value,"'3688.6 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0193,HIGH,STARTUPS.total_funding_disclosed,S0163,non-numeric value,"'54198.2 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0194,HIGH,STARTUPS.total_funding_disclosed,S0164,non-numeric value,"'939.2 Mn INR (equity, DERIVED) + 78.3 Mn INR (debt)' is a string",split into value/unit/currency,open
+AI0195,HIGH,STARTUPS.total_funding_disclosed,S0165,non-numeric value,"'3096.1 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0196,HIGH,STARTUPS.total_funding_disclosed,S0166,non-numeric value,"'557.0 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0197,HIGH,STARTUPS.total_funding_disclosed,S0167,non-numeric value,"'2142.5 Mn INR (equity, DERIVED) + 179.5 Mn INR (debt) | IPO issue 1255.57 INRMn (excluded from private equity total)' is a string",split into value/unit/currency,open
+AI0198,HIGH,STARTUPS.employee_estimate,S0167,non-numeric value,'UNKNOWN' is a string,split into value/unit/currency,open
+AI0199,HIGH,STARTUPS.total_funding_disclosed,S0168,non-numeric value,"'48677.6 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0200,HIGH,STARTUPS.total_funding_disclosed,S0169,non-numeric value,' | IPO issue  INRMn (excluded from private equity total)' is a string,split into value/unit/currency,open
+AI0201,HIGH,STARTUPS.total_funding_disclosed,S0171,non-numeric value,' | IPO issue  INRMn (excluded from private equity total)' is a string,split into value/unit/currency,open
+AI0202,HIGH,STARTUPS.total_funding_disclosed,S0172,non-numeric value,"'3000.0 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0203,HIGH,STARTUPS.total_funding_disclosed,S0177,non-numeric value,' | IPO issue  USDMn (excluded from private equity total)' is a string,split into value/unit/currency,open
+AI0204,HIGH,STARTUPS.total_funding_disclosed,S0181,non-numeric value,"'93000.0 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0205,HIGH,STARTUPS.total_funding_disclosed,S0182,non-numeric value,"'4850.0 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0206,HIGH,STARTUPS.total_funding_disclosed,S0183,non-numeric value,"'2515.0 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0207,HIGH,STARTUPS.total_funding_disclosed,S0184,non-numeric value,"'870.0 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0208,HIGH,STARTUPS.total_funding_disclosed,S0185,non-numeric value,"'2144.5 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0209,HIGH,STARTUPS.total_funding_disclosed,S0186,non-numeric value,"'785.0 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0210,HIGH,STARTUPS.total_funding_disclosed,S0187,non-numeric value,"'321.4 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0211,HIGH,STARTUPS.total_funding_disclosed,S0194,non-numeric value,"'257.1 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0212,HIGH,STARTUPS.total_funding_disclosed,S0195,non-numeric value,"'3132.0 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0213,HIGH,STARTUPS.total_funding_disclosed,S0196,non-numeric value,"'14220.0 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0214,HIGH,STARTUPS.total_funding_disclosed,S0197,non-numeric value,"'3610.3 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0215,HIGH,STARTUPS.total_funding_disclosed,S0198,non-numeric value,"'391.5 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0216,HIGH,STARTUPS.total_funding_disclosed,S0199,non-numeric value,"'1500.0 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0217,HIGH,STARTUPS.employee_estimate,S0199,non-numeric value,'UNKNOWN' is a string,split into value/unit/currency,open
+AI0218,HIGH,STARTUPS.total_funding_disclosed,S0203,non-numeric value,"""as-stated(enrich): {'v': '.2 million', 'src': 'Inc42 May 2026'}"" is a string",split into value/unit/currency,open
+AI0219,HIGH,STARTUPS.employee_estimate,S0203,non-numeric value,'UNKNOWN' is a string,split into value/unit/currency,open
+AI0220,HIGH,STARTUPS.total_funding_disclosed,S0208,non-numeric value,"'1170.0 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0221,HIGH,STARTUPS.total_funding_disclosed,S0209,non-numeric value,"'125160.0 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0222,HIGH,STARTUPS.total_funding_disclosed,S0210,non-numeric value,' | IPO issue  INRMn (excluded from private equity total)' is a string,split into value/unit/currency,open
+AI0223,HIGH,STARTUPS.total_funding_disclosed,S0211,non-numeric value,"'3915.0 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0224,HIGH,STARTUPS.employee_estimate,S0211,non-numeric value,'UNKNOWN' is a string,split into value/unit/currency,open
+AI0225,HIGH,STARTUPS.total_funding_disclosed,S0212,non-numeric value,' | IPO issue  INRMn (excluded from private equity total)' is a string,split into value/unit/currency,open
+AI0226,HIGH,STARTUPS.total_funding_disclosed,S0213,non-numeric value,"'47.0 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0227,HIGH,STARTUPS.total_funding_disclosed,S0214,non-numeric value,"'19.0 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0228,HIGH,STARTUPS.total_funding_disclosed,S0215,non-numeric value,"'453.7 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0229,HIGH,STARTUPS.total_funding_disclosed,S0216,non-numeric value,"'157.0 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0230,HIGH,STARTUPS.total_funding_disclosed,S0217,non-numeric value,"'2500.0 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0231,HIGH,STARTUPS.total_funding_disclosed,S0218,non-numeric value,"'418.5 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0232,HIGH,STARTUPS.total_funding_disclosed,S0224,non-numeric value,"'43.5 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0233,HIGH,STARTUPS.total_funding_disclosed,S0225,non-numeric value,"'2175.0 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0234,HIGH,STARTUPS.total_funding_disclosed,S0226,non-numeric value,"'1241.0 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0235,HIGH,STARTUPS.employee_estimate,S0226,non-numeric value,'UNKNOWN' is a string,split into value/unit/currency,open
+AI0236,HIGH,STARTUPS.total_funding_disclosed,S0228,non-numeric value,"'21065.0 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0237,HIGH,STARTUPS.total_funding_disclosed,S0230,non-numeric value,' | IPO issue  USDMn (excluded from private equity total)' is a string,split into value/unit/currency,open
+AI0238,HIGH,STARTUPS.total_funding_disclosed,S0231,non-numeric value,' | IPO issue  USDMn (excluded from private equity total)' is a string,split into value/unit/currency,open
+AI0239,HIGH,STARTUPS.total_funding_disclosed,S0234,non-numeric value,"'5440.5 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0240,HIGH,STARTUPS.total_funding_disclosed,S0235,non-numeric value,"'2740.5 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0241,HIGH,STARTUPS.total_funding_disclosed,S0236,non-numeric value,"'85.7 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0242,HIGH,STARTUPS.total_funding_disclosed,S0237,non-numeric value,"'2366.2 Mn INR (equity, DERIVED) + 1766.2 Mn INR (debt)' is a string",split into value/unit/currency,open
+AI0243,HIGH,STARTUPS.total_funding_disclosed,S0238,non-numeric value,"'20085.4 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0244,HIGH,STARTUPS.total_funding_disclosed,S0239,non-numeric value,"'674.5 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0245,HIGH,STARTUPS.total_funding_disclosed,S0240,non-numeric value,"'104.4 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0246,HIGH,STARTUPS.total_funding_disclosed,S0241,non-numeric value,"'29040.9 Mn INR (equity, DERIVED) + 6922.3 Mn INR (debt)' is a string",split into value/unit/currency,open
+AI0247,HIGH,STARTUPS.total_funding_disclosed,S0242,non-numeric value,"'9312.5 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0248,HIGH,STARTUPS.total_funding_disclosed,S0243,non-numeric value,"'130.5 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0249,HIGH,STARTUPS.total_funding_disclosed,S0244,non-numeric value,"'2571.0 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0250,HIGH,STARTUPS.total_funding_disclosed,S0246,non-numeric value,"'66.0 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0251,HIGH,STARTUPS.total_funding_disclosed,S0247,non-numeric value,"'17.0 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0252,HIGH,STARTUPS.total_funding_disclosed,S0248,non-numeric value,"'94.3 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0253,HIGH,STARTUPS.total_funding_disclosed,S0251,non-numeric value,"'200.0 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0254,HIGH,STARTUPS.total_funding_disclosed,S0252,non-numeric value,"'420.0 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0255,HIGH,STARTUPS.total_funding_disclosed,S0255,non-numeric value,"'14449.2 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0256,HIGH,STARTUPS.total_funding_disclosed,S0256,non-numeric value,"'10800.3 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0257,HIGH,STARTUPS.employee_estimate,S0256,non-numeric value,'200-300' is a string,split into value/unit/currency,open
+AI0258,HIGH,STARTUPS.total_funding_disclosed,S0258,non-numeric value,"'179304.0 Mn INR (equity, DERIVED) + 502.2 Mn INR (debt)' is a string",split into value/unit/currency,open
+AI0259,HIGH,STARTUPS.total_funding_disclosed,S0259,non-numeric value,"'719.9 Mn INR (equity, DERIVED) + 1850.0 Mn INR (debt)' is a string",split into value/unit/currency,open
+AI0260,HIGH,STARTUPS.total_funding_disclosed,S0260,non-numeric value,"'105.0 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0261,HIGH,STARTUPS.total_funding_disclosed,S0261,non-numeric value,"'1044.0 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0262,HIGH,STARTUPS.total_funding_disclosed,S0262,non-numeric value,"'1.1 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0263,HIGH,STARTUPS.total_funding_disclosed,S0263,non-numeric value,"'85.7 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0264,HIGH,STARTUPS.total_funding_disclosed,S0271,non-numeric value,' | IPO issue  INRMn (excluded from private equity total)' is a string,split into value/unit/currency,open
+AI0265,HIGH,STARTUPS.total_funding_disclosed,S0274,non-numeric value,"'1028.4 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0266,HIGH,STARTUPS.total_funding_disclosed,S0275,non-numeric value,"'330.6 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0267,HIGH,STARTUPS.total_funding_disclosed,S0277,non-numeric value,"'1285.5 Mn INR (equity, DERIVED) + 452.4 Mn INR (debt)' is a string",split into value/unit/currency,open
+AI0268,HIGH,STARTUPS.total_funding_disclosed,S0278,non-numeric value,"'4730.4 Mn INR (equity, DERIVED) + 628.0 Mn INR (debt)' is a string",split into value/unit/currency,open
+AI0269,HIGH,STARTUPS.total_funding_disclosed,S0279,non-numeric value,"'22.0 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0270,HIGH,STARTUPS.total_funding_disclosed,S0280,non-numeric value,"'3045.0 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0271,HIGH,STARTUPS.total_funding_disclosed,S0283,non-numeric value,"'5021.9 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0272,HIGH,STARTUPS.total_funding_disclosed,S0284,non-numeric value,"'3830.0 Mn INR (equity, DERIVED) | IPO issue 5825.5 INRMn (excluded from private equity total)' is a string",split into value/unit/currency,open
+AI0273,HIGH,STARTUPS.total_funding_disclosed,S0285,non-numeric value,"'4600.0 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0274,HIGH,STARTUPS.total_funding_disclosed,S0286,non-numeric value,"'119980.0 Mn INR (equity, DERIVED) | IPO issue 80.5 USDMn (excluded from private equity total)' is a string",split into value/unit/currency,open
+AI0275,HIGH,STARTUPS.total_funding_disclosed,S0287,non-numeric value,"'51276.7 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0276,HIGH,STARTUPS.total_funding_disclosed,S0288,non-numeric value,"'85.5 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0277,HIGH,STARTUPS.total_funding_disclosed,S0289,non-numeric value,"'87.0 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0278,HIGH,STARTUPS.total_funding_disclosed,S0290,non-numeric value,"'1827.0 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0279,HIGH,STARTUPS.total_funding_disclosed,S0291,non-numeric value,"'26309.9 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0280,HIGH,STARTUPS.total_funding_disclosed,S0292,non-numeric value,"'12533.9 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0281,HIGH,STARTUPS.total_funding_disclosed,S0293,non-numeric value,"'10000.0 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0282,HIGH,STARTUPS.total_funding_disclosed,S0296,non-numeric value,"'2285.9 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0283,HIGH,STARTUPS.total_funding_disclosed,S0298,non-numeric value,"'448.0 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0284,HIGH,STARTUPS.total_funding_disclosed,S0299,non-numeric value,' | IPO issue 163.0 USDMn (excluded from private equity total)' is a string,split into value/unit/currency,open
+AI0285,HIGH,STARTUPS.total_funding_disclosed,S0300,non-numeric value,"'22.0 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0286,HIGH,STARTUPS.total_funding_disclosed,S0301,non-numeric value,"'8788.5 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0287,HIGH,STARTUPS.total_funding_disclosed,S0302,non-numeric value,"'435.0 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0288,HIGH,STARTUPS.total_funding_disclosed,S0303,non-numeric value,"'300.0 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0289,HIGH,STARTUPS.total_funding_disclosed,S0304,non-numeric value,"'2800.0 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0290,HIGH,STARTUPS.total_funding_disclosed,S0305,non-numeric value,"'1414.2 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0291,HIGH,STARTUPS.total_funding_disclosed,S0306,non-numeric value,"'257.1 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0292,HIGH,STARTUPS.total_funding_disclosed,S0307,non-numeric value,"'862.1 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0293,HIGH,STARTUPS.employee_estimate,S0307,non-numeric value,'UNKNOWN' is a string,split into value/unit/currency,open
+AI0294,HIGH,STARTUPS.total_funding_disclosed,S0308,non-numeric value,"'1740.0 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0295,HIGH,STARTUPS.total_funding_disclosed,S0309,non-numeric value,"'696.0 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0296,HIGH,STARTUPS.total_funding_disclosed,S0310,non-numeric value,"'87229.3 Mn INR (equity, DERIVED) + 7450.0 Mn INR (debt)' is a string",split into value/unit/currency,open
+AI0297,HIGH,STARTUPS.total_funding_disclosed,S0312,non-numeric value,"'1971.1 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0298,HIGH,STARTUPS.total_funding_disclosed,S0313,non-numeric value,"'5142.0 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0299,HIGH,STARTUPS.total_funding_disclosed,S0314,non-numeric value,"'666.6 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0300,HIGH,STARTUPS.total_funding_disclosed,S0315,non-numeric value,"'1134.4 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0301,HIGH,STARTUPS.total_funding_disclosed,S0316,non-numeric value,"'4937.8 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0302,HIGH,STARTUPS.total_funding_disclosed,S0319,non-numeric value,"'120.0 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0303,HIGH,STARTUPS.total_funding_disclosed,S0320,non-numeric value,"'2124.2 Mn INR (equity, DERIVED) + 137.4 Mn INR (debt)' is a string",split into value/unit/currency,open
+AI0304,HIGH,STARTUPS.total_funding_disclosed,S0322,non-numeric value,"'104316.9 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0305,HIGH,STARTUPS.total_funding_disclosed,S0350,non-numeric value,' | IPO issue  USDMn (excluded from private equity total)' is a string,split into value/unit/currency,open
+AI0306,HIGH,STARTUPS.total_funding_disclosed,S0351,non-numeric value,' | IPO issue  USDMn (excluded from private equity total)' is a string,split into value/unit/currency,open
+AI0307,HIGH,STARTUPS.total_funding_disclosed,S0367,non-numeric value,"'18017.9 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0308,HIGH,STARTUPS.total_funding_disclosed,S0368,non-numeric value,"'10.0 Mn INR (equity, DERIVED)' is a string",split into value/unit/currency,open
+AI0309,MEDIUM,PEOPLE,S0029//,odd date,end_date: 'unknown',normalise to ISO or leave blank with note,open
+AI0310,MEDIUM,PEOPLE,S0086//,odd date,start_date: '~2020',normalise to ISO or leave blank with note,open
+AI0311,MEDIUM,PEOPLE,S0110//,odd date,start_date: 'UNKNOWN',normalise to ISO or leave blank with note,open
+AI0312,MEDIUM,PEOPLE,S0110//,odd date,start_date: 'UNKNOWN',normalise to ISO or leave blank with note,open
+AI0313,MEDIUM,PEOPLE,S0110//,odd date,start_date: 'UNKNOWN',normalise to ISO or leave blank with note,open
+AI0314,MEDIUM,PEOPLE,S0110//,odd date,start_date: 'UNKNOWN',normalise to ISO or leave blank with note,open
+AI0315,MEDIUM,PEOPLE,S0110//,odd date,start_date: 'UNKNOWN',normalise to ISO or leave blank with note,open
+AI0316,MEDIUM,PEOPLE,S0125//,odd date,start_date: 'UNKNOWN',normalise to ISO or leave blank with note,open
+AI0317,MEDIUM,PEOPLE,S0138//,odd date,end_date: 'unknown',normalise to ISO or leave blank with note,open
+AI0318,MEDIUM,CUSTOMERS,S0001//,odd date,announced_date: 'unknown',normalise to ISO or leave blank with note,open
+AI0319,MEDIUM,CUSTOMERS,S0001//,odd date,announced_date: 'unknown',normalise to ISO or leave blank with note,open
+AI0320,MEDIUM,CUSTOMERS,S0001//,odd date,announced_date: 'unknown',normalise to ISO or leave blank with note,open
+AI0321,MEDIUM,CUSTOMERS,S0001//,odd date,announced_date: 'unknown',normalise to ISO or leave blank with note,open
+AI0322,MEDIUM,CUSTOMERS,S0001//,odd date,announced_date: 'unknown',normalise to ISO or leave blank with note,open
+AI0323,MEDIUM,CUSTOMERS,S0001//,odd date,announced_date: 'unknown',normalise to ISO or leave blank with note,open
+AI0324,MEDIUM,CUSTOMERS,S0001//,odd date,announced_date: 'unknown',normalise to ISO or leave blank with note,open
+AI0325,MEDIUM,CUSTOMERS,S0037//,odd date,announced_date: 'UNKNOWN',normalise to ISO or leave blank with note,open
+AI0326,MEDIUM,CUSTOMERS,S0052//,odd date,announced_date: 'FY24',normalise to ISO or leave blank with note,open
+AI0327,MEDIUM,CUSTOMERS,S0055//,odd date,announced_date: 'unknown',normalise to ISO or leave blank with note,open
+AI0328,MEDIUM,CUSTOMERS,S0055//,odd date,announced_date: 'unknown',normalise to ISO or leave blank with note,open
+AI0329,MEDIUM,CUSTOMERS,S0063//,odd date,announced_date: 'UNKNOWN',normalise to ISO or leave blank with note,open
+AI0330,MEDIUM,CUSTOMERS,S0064//,odd date,announced_date: 'Unknown',normalise to ISO or leave blank with note,open
+AI0331,MEDIUM,CUSTOMERS,S0064//,odd date,announced_date: 'Unknown',normalise to ISO or leave blank with note,open
+AI0332,MEDIUM,CUSTOMERS,S0064//,odd date,announced_date: 'Unknown',normalise to ISO or leave blank with note,open
+AI0333,MEDIUM,CUSTOMERS,S0120//,odd date,announced_date: 'UNKNOWN',normalise to ISO or leave blank with note,open
+AI0334,MEDIUM,CUSTOMERS,S0120//,odd date,announced_date: 'UNKNOWN',normalise to ISO or leave blank with note,open
+AI0335,MEDIUM,CUSTOMERS,S0120//,odd date,announced_date: 'UNKNOWN',normalise to ISO or leave blank with note,open
+AI0336,MEDIUM,CUSTOMERS,S0120//,odd date,announced_date: 'UNKNOWN',normalise to ISO or leave blank with note,open
+AI0337,MEDIUM,CUSTOMERS,S0120//,odd date,announced_date: 'UNKNOWN',normalise to ISO or leave blank with note,open
+AI0338,MEDIUM,CUSTOMERS,S0120//,odd date,announced_date: 'UNKNOWN',normalise to ISO or leave blank with note,open
+AI0339,MEDIUM,CUSTOMERS,S0120//,odd date,announced_date: 'UNKNOWN',normalise to ISO or leave blank with note,open
+AI0340,MEDIUM,CUSTOMERS,S0120//,odd date,announced_date: 'UNKNOWN',normalise to ISO or leave blank with note,open
+AI0341,MEDIUM,CUSTOMERS,S0120//,odd date,announced_date: 'UNKNOWN',normalise to ISO or leave blank with note,open
+AI0342,MEDIUM,CUSTOMERS,S0120//,odd date,announced_date: 'UNKNOWN',normalise to ISO or leave blank with note,open
+AI0343,MEDIUM,CUSTOMERS,S0120//,odd date,announced_date: 'UNKNOWN',normalise to ISO or leave blank with note,open
+AI0344,MEDIUM,CUSTOMERS,S0120//,odd date,announced_date: 'UNKNOWN',normalise to ISO or leave blank with note,open
+AI0345,MEDIUM,CUSTOMERS,S0120//,odd date,announced_date: 'UNKNOWN',normalise to ISO or leave blank with note,open
+AI0346,MEDIUM,CUSTOMERS,S0120//,odd date,announced_date: 'UNKNOWN',normalise to ISO or leave blank with note,open
+AI0347,MEDIUM,CUSTOMERS,S0120//,odd date,announced_date: 'UNKNOWN',normalise to ISO or leave blank with note,open
+AI0348,MEDIUM,CUSTOMERS,S0120//,odd date,announced_date: 'UNKNOWN',normalise to ISO or leave blank with note,open
+AI0349,MEDIUM,CUSTOMERS,S0120//,odd date,announced_date: 'UNKNOWN',normalise to ISO or leave blank with note,open
+AI0350,MEDIUM,CUSTOMERS,S0120//,odd date,announced_date: 'UNKNOWN',normalise to ISO or leave blank with note,open
+AI0351,MEDIUM,CUSTOMERS,S0157//,odd date,announced_date: 'unknown',normalise to ISO or leave blank with note,open
+AI0352,MEDIUM,CUSTOMERS,S0157//,odd date,announced_date: 'unknown',normalise to ISO or leave blank with note,open
+AI0353,MEDIUM,CUSTOMERS,S0241//,odd date,announced_date: 'As-of-2026-01',normalise to ISO or leave blank with note,open
+AI0354,MEDIUM,CUSTOMERS,S0241//,odd date,announced_date: 'As-of-2026-01',normalise to ISO or leave blank with note,open
+AI0355,MEDIUM,CUSTOMERS,S0283//,odd date,announced_date: 'unknown',normalise to ISO or leave blank with note,open
+AI0356,MEDIUM,CUSTOMERS,S0283//,odd date,announced_date: 'unknown',normalise to ISO or leave blank with note,open
+AI0357,MEDIUM,CUSTOMERS,S0283//,odd date,announced_date: 'unknown',normalise to ISO or leave blank with note,open
+AI0358,MEDIUM,CUSTOMERS,S0283//,odd date,announced_date: 'unknown',normalise to ISO or leave blank with note,open
+AI0359,MEDIUM,CUSTOMERS,S0283//,odd date,announced_date: 'unknown',normalise to ISO or leave blank with note,open
+AI0360,MEDIUM,CUSTOMERS,S0283//,odd date,announced_date: 'unknown',normalise to ISO or leave blank with note,open
+AI0361,MEDIUM,CUSTOMERS,S0283//,odd date,announced_date: 'unknown',normalise to ISO or leave blank with note,open
+AI0362,MEDIUM,CUSTOMERS,S0283//,odd date,announced_date: 'unknown',normalise to ISO or leave blank with note,open
+AI0363,MEDIUM,CUSTOMERS,S0283//,odd date,announced_date: 'unknown',normalise to ISO or leave blank with note,open
+AI0364,MEDIUM,CUSTOMERS,S0283//,odd date,announced_date: 'unknown',normalise to ISO or leave blank with note,open
+AI0365,MEDIUM,CUSTOMERS,S0283//,odd date,announced_date: 'unknown',normalise to ISO or leave blank with note,open
+AI0366,MEDIUM,CUSTOMERS,S0283//,odd date,announced_date: 'unknown',normalise to ISO or leave blank with note,open
+AI0367,MEDIUM,CUSTOMERS,S0283//,odd date,announced_date: 'unknown',normalise to ISO or leave blank with note,open
+AI0368,MEDIUM,CUSTOMERS,S0283//,odd date,announced_date: 'unknown',normalise to ISO or leave blank with note,open
+AI0369,MEDIUM,CUSTOMERS,S0309//,odd date,announced_date: 'Unknown',normalise to ISO or leave blank with note,open
+AI0370,MEDIUM,CUSTOMERS,S0309//,odd date,announced_date: 'Unknown',normalise to ISO or leave blank with note,open
+AI0371,MEDIUM,CUSTOMERS,S0309//,odd date,announced_date: 'Unknown',normalise to ISO or leave blank with note,open
+AI0372,MEDIUM,CUSTOMERS,S0309//,odd date,announced_date: 'Unknown',normalise to ISO or leave blank with note,open
+AI0373,MEDIUM,LEGAL_REGULATORY,S0024//,odd date,dates: 'FY25',normalise to ISO or leave blank with note,open
+AI0374,MEDIUM,LEGAL_REGULATORY,S0055//,odd date,dates: 'FY24-FY25',normalise to ISO or leave blank with note,open
+AI0375,MEDIUM,LEGAL_REGULATORY,S0064//,odd date,dates: 'Unknown',normalise to ISO or leave blank with note,open
+AI0376,MEDIUM,LEGAL_REGULATORY,S0079//,odd date,dates: '2023 approval',normalise to ISO or leave blank with note,open
+AI0377,MEDIUM,LEGAL_REGULATORY,S0098//,odd date,dates: 'UNKNOWN',normalise to ISO or leave blank with note,open
+AI0378,MEDIUM,LEGAL_REGULATORY,S0118//,odd date,dates: 'UNKNOWN',normalise to ISO or leave blank with note,open
+AI0379,MEDIUM,LEGAL_REGULATORY,S0119//,odd date,dates: 'N/A',normalise to ISO or leave blank with note,open
+AI0380,MEDIUM,LEGAL_REGULATORY,S0211//,odd date,dates: 'FY2024-2025',normalise to ISO or leave blank with note,open
+AI0381,MEDIUM,NEWS_EVENTS,S0018//EVT00122,odd date,event_date: 'FY2025',normalise to ISO or leave blank with note,open
+AI0382,MEDIUM,NEWS_EVENTS,S0018//EVT00123,odd date,event_date: 'FY2026',normalise to ISO or leave blank with note,open
+AI0383,MEDIUM,NEWS_EVENTS,S0052//EVT00386,odd date,event_date: '2026 (planned next 12-18 months)',normalise to ISO or leave blank with note,open
+AI0384,MEDIUM,NEWS_EVENTS,S0078//EVT00599,odd date,event_date: 'FY26',normalise to ISO or leave blank with note,open
+AI0385,MEDIUM,NEWS_EVENTS,S0085//EVT00616,odd date,event_date: 'FY26',normalise to ISO or leave blank with note,open
+AI0386,MEDIUM,NEWS_EVENTS,S0096//EVT00704,odd date,event_date: 'unknown',normalise to ISO or leave blank with note,open
+AI0387,MEDIUM,NEWS_EVENTS,S0129//EVT00905,odd date,event_date: 'late 2025',normalise to ISO or leave blank with note,open
+AI0388,MEDIUM,NEWS_EVENTS,S0283//EVT01424,odd date,event_date: 'unknown',normalise to ISO or leave blank with note,open
+AI0389,HIGH,SOURCES,0,invalid URLs,0 malformed,replace or mark dead,open
+AI0390,MEDIUM,SOURCES,0,duplicate URLs,0 URL rows repeated across companies,dedupe by source_id,resolved
+AI0391,LOW,SOURCES,all,source tier mix,"{'T3': 1250, 'T2': 853, 'T5': 122, 'T4': 1326, 'T1': 405}",no action (informational),resolved
+AI0392,MEDIUM,CLAIMS,925,claims without source,evidence not linked,find source or demote,open
+AI0393,LOW,CLAIMS,all,claim evidence tier mix,T1/T2=1574 T3=1708 T4/T5/no=2270,no action (informational),resolved
+AI0394,LOW,CONFLICTS,all,conflict ledger summary,"{'resolved': 304, 'preserved-conflict': 467, 'unresolved': 3}",preserved conflicts stay visible (no averaging),resolved
+AI0395,LOW,RESEARCH_TASKS,all,task/research control reconciliation,"3319 tasks, 2894 open across 318 companies",verify per RESEARCH_CONTROL flags,resolved

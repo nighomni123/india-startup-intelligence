@@ -1,0 +1,1036 @@
+{
+ "acquisitions": [],
+ "company": {
+  "business_model": "Full-stack sovereign AI: frontier models + inference infra + enterprise/gov go-to-market",
+  "city": "Bengaluru (founding reported Chennai/IIT Madras; HQ Bengaluru per 2026 disclosures)",
+  "confidence": "HIGH",
+  "country": "India",
+  "customer_type": "B2B enterprises, developers, government",
+  "employee_estimate": "~114-168",
+  "founded_date": "2023-07 (announced Dec 2023; legal entity Axonwise Pvt Ltd 2023-07-14)",
+  "last_funding_date": "2026-08-04",
+  "last_funding_round": "Series B second tranche ($75M)",
+  "last_known_valuation": "$1.5B post-money (Series B, June 2026)",
+  "legal_name": "Axonwise Private Limited (brand: Sarvam AI)",
+  "primary_sector": "AI / LLMs / sovereign models",
+  "primary_source_id": "sarvam-series-b",
+  "secondary_sectors": [
+   "speech/voice",
+   "document AI",
+   "AI infra"
+  ],
+  "startup_id": "sarvam ai",
+  "startup_stage": "Unicorn (June 2026)",
+  "status": "Private",
+  "total_funding_disclosed": "~$350M (Tracxn: $41M seed+A + $234M first close + $75M tranche)",
+  "website": "https://www.sarvam.ai",
+  "cin": "U62099KA2023PTC176049",
+  "incorporation_date": "2023-07-14",
+  "official_website": {
+   "v": "https://www.sarvam.ai",
+   "conf": "high",
+   "src": "https://www.sarvam.ai",
+   "note": "verified live 2026-09-15: name match on own homepage"
+  },
+  "careers_website": {
+   "v": "https://www.sarvam.ai/careers",
+   "conf": "high",
+   "src": "https://www.sarvam.ai",
+   "note": "careers link found on official homepage, probed live"
+  }
+ },
+ "competitors": [
+  {
+   "basis": "inferred",
+   "confidence": "MEDIUM",
+   "inference_note": "Named together as Indic-LLM builders",
+   "name": "Krutrim"
+  }
+ ],
+ "conflicts": [
+  {
+   "claim_a": "Seed city Bengaluru (batch seed reports Bengaluru)",
+   "claim_b": "Chennai-headquartered at founding (ET Dec 2023); HQ Bengaluru (2026)",
+   "field": "company.city",
+   "resolution": "Founded Chennai (IIT Madras AI4Bharat roots), HQ now Bengaluru; corrected",
+   "resolved_value": "Bengaluru (founding: Chennai)",
+   "url_a": "batch b08.json",
+   "url_b": "https://m.economictimes.com/tech/funding/gen-ai-startup-sarvam-ai-raises-41-million-in-funding-from-lightspeed-peak-xv-and-khosla-ventures/articleshow/105801243.cms"
+  }
+ ],
+ "customers": [],
+ "events": [
+  {
+   "announced_date": "2023-12-07",
+   "confidence": "HIGH",
+   "date": "2023-12-07",
+   "description": "$41M incl. $12M seed (co-led Lightspeed + Peak XV); Series A led by Lightspeed; largest Indian AI Series A at the time",
+   "headline": "Sarvam raises $41M Series A",
+   "source_url": "https://www.sarvam.ai/blogs/announcing-series-a",
+   "type": "funding"
+  },
+  {
+   "announced_date": "2026-06-15",
+   "confidence": "HIGH",
+   "date": "2026-06-15",
+   "description": "First close $234M of $300M Series B @ $1.5B; HCLTech $150M strategic lead (10.46% stake); Bessemer new; Khosla + Peak XV continued",
+   "headline": "Sarvam becomes unicorn with $234M Series B first close",
+   "source_url": "http://sarvam.ai/announcing-series-b",
+   "type": "funding"
+  },
+  {
+   "announced_date": "2026-08-08",
+   "confidence": "MEDIUM",
+   "date": "2026-08-04",
+   "description": "Rs ~698 cr (~$75M) via Nvidia Rs 238 cr, Gaja Rs 95.13 cr, IndiGo Ventures Rs 30.01 cr + Glade Brook + others, per Tofler filings",
+   "headline": "Sarvam raises $75M Series B tranche from Nvidia, Gaja, IndiGo Ventures",
+   "source_url": "http://thehindubusinessline.com/companies/sarvam-raises-75-million-from-nvidia-gaja-capital-indigo-ventures-in-series-b/article71309645.ece",
+   "type": "funding"
+  }
+ ],
+ "financials": [
+  {
+   "confidence": "MEDIUM",
+   "currency": "INR",
+   "fiscal_year": "FY26",
+   "metric": "turnover (unaudited, per HCLTech Reg-30 filing)",
+   "source_date": "2026-06-15",
+   "source_title": "HCLTech Reg 30 disclosure: minority investment in Axonwise (Sarvam AI)",
+   "source_url": "http://hcltech.com/sites/default/files/en/investors/3098/reg-30-se-initmation.pdf",
+   "unit": "crore",
+   "value": 45.1,
+   "value_type": "management"
+  }
+ ],
+ "founders": [
+  {
+   "background": "Ex-UIDAI/Aadhaar (decade+ DPI), EkStep, Khosla Labs; ex-AI4Bharat; IIT Delhi BTech, PhD CMU/ETH",
+   "confidence": "HIGH",
+   "name": "Vivek Raghavan",
+   "role": "Co-founder",
+   "source_url": "https://techcrunch.com/2023/12/06/indias-sarvam-ai-raises-41-million-from-lightspeed-khosla-peak-xv",
+   "still_active": true,
+   "type": "co-founder",
+   "active": "yes",
+   "location": "Bengaluru",
+   "linkedin": "https://linkedin.com/in/vivek-raghavan-16005424"
+  },
+  {
+   "background": "Ex-Microsoft/IBM researcher, IIT Madras faculty, AI4Bharat founder; IIT Bombay BTech, PhD ETH Zurich",
+   "confidence": "HIGH",
+   "name": "Pratyush Kumar",
+   "role": "Co-founder & CEO",
+   "source_url": "https://techcrunch.com/2023/12/06/indias-sarvam-ai-raises-41-million-from-lightspeed-khosla-peak-xv",
+   "still_active": true,
+   "type": "co-founder",
+   "active": "yes",
+   "location": "Bengaluru"
+  }
+ ],
+ "funding_rounds": [
+  {
+   "all_investors": [
+    "Lightspeed",
+    "Peak XV Partners"
+   ],
+   "amount": 12.0,
+   "announced_date": "2023-12-07",
+   "confidence": "HIGH",
+   "currency": "USD",
+   "lead_investors": [
+    "Lightspeed",
+    "Peak XV Partners"
+   ],
+   "round_type": "Seed (disclosed within $41M announcement)",
+   "source_date": "2023-12-07",
+   "source_title": "Gen AI startup Sarvam AI raises $41 million",
+   "source_url": "https://m.economictimes.com/tech/funding/gen-ai-startup-sarvam-ai-raises-41-million-in-funding-from-lightspeed-peak-xv-and-khosla-ventures/articleshow/105801243.cms",
+   "tier": "T3"
+  },
+  {
+   "all_investors": [
+    "Lightspeed",
+    "Peak XV Partners",
+    "Khosla Ventures"
+   ],
+   "amount": 29.0,
+   "announced_date": "2023-12-07",
+   "confidence": "HIGH",
+   "currency": "USD",
+   "lead_investors": [
+    "Lightspeed"
+   ],
+   "round_type": "Series A ($41M total incl. seed)",
+   "source_date": "2023-12-07",
+   "source_title": "Sarvam AI secures a landmark $41 million in Series A funding",
+   "source_url": "https://www.sarvam.ai/blogs/announcing-series-a",
+   "tier": "T1"
+  },
+  {
+   "all_investors": [
+    "HCLTech",
+    "Bessemer Venture Partners",
+    "Khosla Ventures",
+    "Peak XV Partners",
+    "Activate"
+   ],
+   "amount": 234.0,
+   "announced_date": "2026-06-15",
+   "confidence": "HIGH",
+   "currency": "USD",
+   "lead_investors": [
+    "HCLTech"
+   ],
+   "round_type": "Series B first close (of $300M)",
+   "source_date": "2026-06-15",
+   "source_title": "Sarvam raises $234 million in first close of $300 million Series B at $1.5 billion valuation",
+   "source_url": "http://sarvam.ai/announcing-series-b",
+   "tier": "T1",
+   "valuation": "$1.5B post-money"
+  },
+  {
+   "all_investors": [
+    "Nvidia",
+    "Gaja Capital",
+    "IndiGo Ventures",
+    "Glade Brook Capital"
+   ],
+   "amount": 75.0,
+   "announced_date": "2026-08-04",
+   "confidence": "MEDIUM",
+   "currency": "USD",
+   "lead_investors": [
+    "Nvidia"
+   ],
+   "round_type": "Series B second tranche",
+   "source_date": "2026-08-08",
+   "source_title": "Sarvam raises $75 million from Nvidia, Gaja Capital, Indigo Ventures in Series B",
+   "source_url": "http://thehindubusinessline.com/companies/sarvam-raises-75-million-from-nvidia-gaja-capital-indigo-ventures-in-series-b/article71309645.ece",
+   "tier": "T3",
+   "valuation": "$1.5B post-money"
+  },
+  {
+   "round_type": "Series B",
+   "amount": "",
+   "currency": "USD",
+   "round_date": "2026-06",
+   "valuation": "1500000000",
+   "valuation_currency": "USD",
+   "valuation_type": "reported",
+   "lead_investors": [],
+   "all_investors": [],
+   "new_or_existing": "unknown",
+   "purpose": "sovereign AI stack scale-up",
+   "source_url": "https://www.sarvam.ai/announcing-series-b",
+   "confidence": "high",
+   "notes": "added session-2 gapfill"
+  }
+ ],
+ "gaps": [
+  "FY23-FY25 audited revenue/PAT not verified",
+  "Series A 2025-08-11 (Tracxn) round details unknown — possible data artifact",
+  "Customers unnamed (one large fintech with 350k sales force per TC, unnamed)",
+  "Odisha AI datacenter Rs 14,257 cr partnership (CIOL headline) not verified",
+  "FY25/FY26 audited or press-quoted-filing revenue"
+ ],
+ "hiring": [],
+ "investor_links": [
+  {
+   "confidence": "HIGH",
+   "first_seen": "2023",
+   "investor": "Lightspeed Venture Partners",
+   "investor_type": "VC",
+   "lead": true,
+   "rounds": [
+    "Seed",
+    "Series A"
+   ],
+   "source_url": "https://www.sarvam.ai/blogs/announcing-series-a"
+  },
+  {
+   "confidence": "HIGH",
+   "first_seen": "2023",
+   "investor": "Peak XV Partners",
+   "investor_type": "VC",
+   "lead": false,
+   "rounds": [
+    "Seed",
+    "Series A",
+    "Series B"
+   ],
+   "source_url": "https://www.sarvam.ai/blogs/announcing-series-a"
+  },
+  {
+   "confidence": "HIGH",
+   "first_seen": "2023",
+   "investor": "Khosla Ventures",
+   "investor_type": "VC",
+   "lead": false,
+   "rounds": [
+    "Series A",
+    "Series B"
+   ],
+   "source_url": "https://www.sarvam.ai/blogs/announcing-series-a"
+  },
+  {
+   "confidence": "HIGH",
+   "first_seen": "2026",
+   "investor": "HCLTech",
+   "investor_type": "Strategic corporate",
+   "lead": true,
+   "rounds": [
+    "Series B"
+   ],
+   "source_url": "http://sarvam.ai/announcing-series-b"
+  },
+  {
+   "confidence": "HIGH",
+   "first_seen": "2026",
+   "investor": "Bessemer Venture Partners",
+   "investor_type": "VC",
+   "lead": false,
+   "rounds": [
+    "Series B"
+   ],
+   "source_url": "http://sarvam.ai/announcing-series-b"
+  },
+  {
+   "confidence": "MEDIUM",
+   "first_seen": "2026",
+   "investor": "Nvidia",
+   "investor_type": "Strategic corporate",
+   "lead": true,
+   "rounds": [
+    "Series B tranche 2"
+   ],
+   "source_url": "http://thehindubusinessline.com/companies/sarvam-raises-75-million-from-nvidia-gaja-capital-indigo-ventures-in-series-b/article71309645.ece"
+  }
+ ],
+ "investors_meta": [],
+ "ip_tech_ai": {
+  "ai_notes": "OpenHathi Hindi LLM (Dec 2023); 30B/105B open-source models (2026); Sarvam Vision doc-AI; voice-first Indic models; 38k-GPU national compute usage (ET slideshow, unverified)",
+  "confidence": "MEDIUM",
+  "source_url": "https://techcrunch.com/2026/06/15/sarvam-becomes-indias-newest-ai-unicorn-with-234-million-funding-round-led-by-hcltech"
+ },
+ "legal": [],
+ "locations": [
+  {
+   "as_of": "2026",
+   "city": "Bengaluru",
+   "confidence": "HIGH",
+   "source_url": "http://sarvam.ai/announcing-series-b",
+   "state": "Karnataka",
+   "type": "HQ"
+  }
+ ],
+ "partnerships": [
+  {
+   "confidence": "HIGH",
+   "name": "HCLTech (strategic: $150M + enterprise GTM, AI datacenter)",
+   "source_url": "http://sarvam.ai/announcing-series-b"
+  }
+ ],
+ "people": [],
+ "products": [
+  {
+   "category": "models",
+   "name": "Sarvam frontier Indic models (text, speech, vision, documents)"
+  },
+  {
+   "category": "platform",
+   "name": "Sarvam Vision (document intelligence); agentic AI platform; TTS/STT/translation APIs"
+  }
+ ],
+ "research_log": [
+  {
+   "found": "$41M (incl $12M seed) Dec 2023; $234M first close @ $1.5B Jun 2026 (HCLTech $150M/10.46%); $75M tranche Aug 2026 (Nvidia/Gaja/IndiGo/Glade Brook); founders AI4Bharat/Aadhaar; FY26 turnover Rs 45.1 cr unaudited",
+   "next_action": "Done; gaps recorded",
+   "query": "Sarvam AI funding / unicorn / founders / financials",
+   "unresolved": "Audited FYs; unnamed customers; Odisha DC deal"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "Q-wave claim source-hunt",
+   "found": "2 resolved",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "found": "CIN U62099KA2023PTC176049, inc 14 Jul 2023 via ZaubaCorp; Series B $234M first-close co PR 15 Jun 2026, $1.5B valuation press",
+   "query": "Sarvam AI Axonwise CIN zaubacorp + valuation 2025 2026",
+   "unresolved": "Audited FY25 revenue not found"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  }
+ ],
+ "sources": [
+  {
+   "claim_supported": "$234M first close @ $1.5B, investors, use of proceeds",
+   "fields_supported": [
+    "funding_rounds",
+    "investor_links"
+   ],
+   "publication_date": "2026-06-15",
+   "publisher": "Sarvam AI (company)",
+   "retrieved_date": "2026-09-14",
+   "tier": "T1",
+   "title": "Sarvam raises $300M Series B",
+   "url": "http://sarvam.ai/announcing-series-b"
+  },
+  {
+   "claim_supported": "Unicorn status, round structure, traction",
+   "fields_supported": [
+    "company",
+    "funding_rounds"
+   ],
+   "publication_date": "2026-06-15",
+   "publisher": "TechCrunch",
+   "retrieved_date": "2026-09-14",
+   "tier": "T3",
+   "title": "Sarvam becomes India's newest AI unicorn with $234 million funding round led by HCLTech",
+   "url": "https://techcrunch.com/2026/06/15/sarvam-becomes-indias-newest-ai-unicorn-with-234-million-funding-round-led-by-hcltech"
+  },
+  {
+   "claim_supported": "$41M Series A incl $12M seed",
+   "fields_supported": [
+    "funding_rounds",
+    "founders"
+   ],
+   "publication_date": "2023-12-07",
+   "publisher": "Sarvam AI (company blog)",
+   "retrieved_date": "2026-09-14",
+   "tier": "T1",
+   "title": "Announcing Series A",
+   "url": "https://www.sarvam.ai/blogs/announcing-series-a"
+  },
+  {
+   "claim_supported": "$75M second tranche investor split",
+   "fields_supported": [
+    "funding_rounds"
+   ],
+   "publication_date": "2026-08-08",
+   "publisher": "Hindu BusinessLine",
+   "retrieved_date": "2026-09-14",
+   "tier": "T3",
+   "title": "Sarvam raises $75 million from Nvidia, Gaja Capital, Indigo Ventures in Series B",
+   "url": "http://thehindubusinessline.com/companies/sarvam-raises-75-million-from-nvidia-gaja-capital-indigo-ventures-in-series-b/article71309645.ece"
+  },
+  {
+   "claim_supported": "FY26 turnover Rs 45.1 cr; 10.46% stake for Rs 1,427.25 cr",
+   "fields_supported": [
+    "financials",
+    "investor_links"
+   ],
+   "publication_date": "2026-06-15",
+   "publisher": "HCLTech (exchange filing)",
+   "retrieved_date": "2026-09-14",
+   "tier": "T1",
+   "title": "Reg 30 disclosure: minority investment in Axonwise (Sarvam AI)",
+   "url": "http://hcltech.com/sites/default/files/en/investors/3098/reg-30-se-initmation.pdf"
+  },
+  {
+   "url": "https://www.sarvam.ai/models",
+   "title": "Sarvam frontier Indic models (text, speech, vision, documents)",
+   "fields": "quarantine-resolved",
+   "confidence": "HIGH"
+  },
+  {
+   "url": "https://docs.sarvam.ai/api/getting-started/models/sarvam-vision",
+   "title": "Sarvam Vision (document intelligence); agentic AI platform; TTS/STT/translation APIs",
+   "fields": "quarantine-resolved",
+   "confidence": "HIGH"
+  },
+  {
+   "url": "https://www.sarvam.ai/announcing-series-b",
+   "title": "",
+   "fields": "FUNDING",
+   "confidence": "high"
+  },
+  {
+   "url": "https://www.linkedin.com/posts/yourstory-com_sarvamai-aistartup-generativeai-activity-7445749016962953216-ZWjH",
+   "title": "",
+   "fields": "FUNDING",
+   "confidence": "medium"
+  },
+  {
+   "url": "https://www.zaubacorp.com/company/AXONWISE-PRIVATE-LIMITED/U62099KA2023PTC176049",
+   "title": "AXONWISE PRIVATE LIMITED | ZaubaCorp",
+   "fields": [
+    "cin",
+    "incorporation_date",
+    "legal_name"
+   ],
+   "confidence": "high"
+  },
+  {
+   "url": "https://www.sarvam.ai/about-us",
+   "title": "Sarvam AI About Us",
+   "tier": "T2",
+   "claim": "founder status Vivek Raghavan"
+  }
+ ],
+ "startup_id": "sarvam ai",
+ "traction": [
+  {
+   "as_of": "2026-06",
+   "company_reported": true,
+   "confidence": "MEDIUM",
+   "metric": "enterprise deployment",
+   "period": "2026",
+   "source_url": "https://techcrunch.com/2026/06/15/sarvam-becomes-indias-newest-ai-unicorn-with-234-million-funding-round-led-by-hcltech",
+   "value": "Large fintech using agentic AI for 350,000+ sales force (unnamed); banking/insurance/gov/defense deployments"
+  }
+ ],
+ "completeness_self": {
+  "customers": 4,
+  "financials": 5,
+  "founders": 9,
+  "funding": 9,
+  "identity": 8,
+  "investors": 9,
+  "legal": 4,
+  "people": 3,
+  "products": 7,
+  "sources": 9,
+  "traction": 5
+ },
+ "_merged_session2": true
+}

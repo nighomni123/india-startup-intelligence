@@ -1,0 +1,307 @@
+{
+ "startup_id": "tsavorite",
+ "company": {
+  "company_name": {
+   "v": "Tsavorite Scalable Intelligence",
+   "date": "2023",
+   "conf": 0.95,
+   "src": "tsavoritesi.com"
+  },
+  "status": {
+   "v": "active",
+   "date": "2026-09",
+   "conf": 0.95,
+   "src": "ET,Reuters"
+  },
+  "city": {
+   "v": "Bengaluru",
+   "conf": 0.9,
+   "src": "tsavoritesi.com"
+  },
+  "primary_sector": {
+   "v": "AI infra / semiconductor",
+   "conf": 0.95,
+   "src": "ET"
+  },
+  "startup_stage": {
+   "v": "pre-revenue / product development",
+   "date": "2026-05",
+   "conf": 0.85,
+   "src": "ET"
+  },
+  "public_private": {
+   "v": "private",
+   "conf": 0.95,
+   "src": "LinkedIn"
+  },
+  "founded_date": {
+   "v": "2023",
+   "conf": 0.95,
+   "src": "tsavoritesi.com"
+  },
+  "legal_name": {
+   "v": "Tsavorite Scalable Intelligence, Inc.",
+   "conf": 0.8,
+   "src": "LinkedIn"
+  },
+  "cin": {
+   "v": "UNKNOWN",
+   "conf": 0.1,
+   "src": "US-incorporated"
+  },
+  "official_website": {
+   "v": "https://tsavoritesi.com",
+   "conf": "high",
+   "src": "https://tsavoritesi.com",
+   "note": "verified live 2026-09-15: name match on own homepage"
+  },
+  "website": "https://tsavoritesi.com"
+ },
+ "funding_rounds": [
+  {
+   "round_type": "series_unknown",
+   "announced_date": "2026-05-04",
+   "amount": {
+    "v": 5000000,
+    "currency": "USD"
+   },
+   "lead_investors": [
+    "Pavestone"
+   ],
+   "source_url": "https://economictimes.indiatimes.com/tech/funding/ai-compute-startup-tsavorite-raises-5-million-from-pavestone-to-scale-platform/articleshow/130785660.cms",
+   "source_title": "AI compute startup Tsavorite raises $5 million from Pavestone",
+   "source_date": "2026-05-04",
+   "tier": "T2",
+   "confidence": 0.9
+  },
+  {
+   "round_type": "pre_orders",
+   "announced_date": "2025-11-10",
+   "amount": {
+    "v": 100000000,
+    "currency": "USD",
+    "note": "pre-orders"
+   },
+   "source_url": "https://www.reuters.com/technology/tsavorite-secures-more-than-100-million-pre-orders-ai-chips-scale-workflows-2025-11-10/",
+   "source_title": "Tsavorite secures over $100 million in pre-orders",
+   "source_date": "2025-11-10",
+   "tier": "T1",
+   "confidence": 0.95
+  }
+ ],
+ "founders": [
+  {
+   "name": {
+    "v": "Shalesh Thusoo",
+    "role": "Founder, CEO",
+    "type": "founder",
+    "background": "Former Intel/chip veteran",
+    "confidence": 0.9,
+    "src": "tsavoritesi.com"
+   }
+  },
+  {
+   "name": {
+    "v": "Guntram Wolski",
+    "role": "Co-Founder, CDD",
+    "type": "co-founder",
+    "confidence": 0.85,
+    "src": "tsavoritesi.com"
+   }
+  },
+  {
+   "name": {
+    "v": "Mike Uhler",
+    "role": "Co-Founder, COO",
+    "type": "co-founder",
+    "confidence": 0.85,
+    "src": "tsavoritesi.com"
+   }
+  },
+  {
+   "name": {
+    "v": "Sarvagya Kochak",
+    "role": "CTO",
+    "type": "co-founder",
+    "confidence": 0.8,
+    "src": "tsavoritesi.com"
+   }
+  },
+  {
+   "name": {
+    "v": "Shirish Seetharam",
+    "role": "Co-Founder, VP BD",
+    "type": "co-founder",
+    "confidence": 0.8,
+    "src": "tsavoritesi.com"
+   }
+  },
+  {
+   "name": {
+    "v": "Chandra Joshi",
+    "role": "Co-Founder, VP SW",
+    "type": "co-founder",
+    "confidence": 0.8,
+    "src": "tsavoritesi.com"
+   }
+  }
+ ],
+ "people": [],
+ "investor_links": [
+  {
+   "investor": "Pavestone",
+   "investor_type": "VC",
+   "first_seen": "2026-05",
+   "rounds": [
+    "series_unknown"
+   ],
+   "lead": true,
+   "amount": {
+    "v": 5000000,
+    "currency": "USD"
+   },
+   "source_url": "https://economictimes.indiatimes.com/tech/funding/ai-compute-startup-tsavorite-raises-5-million-from-pavestone-to-scale-platform/articleshow/130785660.cms",
+   "confidence": 0.9
+  }
+ ],
+ "investors_meta": [
+  {
+   "investor": "Pavestone",
+   "type": "VC",
+   "hq": "Hyderabad",
+   "india_office": "Hyderabad",
+   "notes": "Deep-tech VC"
+  }
+ ],
+ "financials": [],
+ "products": [
+  {
+   "name": "Omni Processing Unit (OPU)",
+   "description": "Composable AI compute architecture integrating CPU, GPU, memory, connectivity",
+   "category": "AI semiconductor"
+  },
+  {
+   "name": "Agentic Operating Stack (TAOS)",
+   "description": "Software layer for deploying AI models without code rewrites",
+   "category": "AI software"
+  }
+ ],
+ "traction": [
+  {
+   "metric": "pre_orders",
+   "value": {
+    "v": "$100 million+",
+    "as_of": "2025-11",
+    "source_url": "https://www.reuters.com/technology/tsavorite-secures-more-than-100-million-pre-orders-ai-chips-scale-workflows-2025-11-10/",
+    "company_reported": true,
+    "confidence": 0.95
+   }
+  },
+  {
+   "metric": "employees",
+   "value": {
+    "v": "96 (+37.1% YoY)",
+    "as_of": "2026",
+    "source_url": "https://www.linkedin.com/company/tsavorite-scalable-intelligence",
+    "confidence": 0.85
+   }
+  }
+ ],
+ "locations": [
+  {
+   "type": "HQ",
+   "address_or_area": "890 Hillview Ct Suite 300, Milpitas",
+   "city": "Milpitas",
+   "state": "California",
+   "country": "US",
+   "as_of": "2026",
+   "source_url": "https://tsavoritesi.com/",
+   "confidence": 0.9
+  },
+  {
+   "type": "R&D",
+   "address_or_area": "5th Floor, Plot No 77, BHIVE Workspace, JBR Tech Park, EPIP Zone",
+   "city": "Bengaluru",
+   "state": "Karnataka",
+   "country": "India",
+   "as_of": "2026",
+   "source_url": "https://tsavoritesi.com/",
+   "confidence": 0.9
+  }
+ ],
+ "hiring": [
+  {
+   "fact_type": "headcount",
+   "value": {
+    "v": "96 (+37.1% YoY)",
+    "as_of": "2026",
+    "source_url": "https://www.linkedin.com/company/tsavorite-scalable-intelligence",
+    "confidence": 0.85
+   }
+  }
+ ],
+ "events": [
+  {
+   "date": "2025-11-10",
+   "type": "product_launch",
+   "headline": "Tsavorite unveils Omni Processing Unit",
+   "description": "Revealed OPU with $100M in pre-orders",
+   "source_url": "https://www.reuters.com/technology/tsavorite-secures-more-than-100-million-pre-orders-ai-chips-scale-workflows-2025-11-10/",
+   "confidence": 0.95
+  },
+  {
+   "date": "2026-05-04",
+   "type": "funding",
+   "headline": "Tsavorite raises $5M from Pavestone",
+   "description": "Funding to expand composable AI compute platform",
+   "source_url": "https://economictimes.indiatimes.com/tech/funding/ai-compute-startup-tsavorite-raises-5-million-from-pavestone-to-scale-platform/articleshow/130785660.cms",
+   "confidence": 0.9
+  }
+ ],
+ "sources": [
+  {
+   "url": "https://economictimes.indiatimes.com/tech/funding/ai-compute-startup-tsavorite-raises-5-million-from-pavestone-to-scale-platform/articleshow/130785660.cms",
+   "title": "AI compute startup Tsavorite raises $5 million from Pavestone",
+   "publisher": "The Economic Times",
+   "publication_date": "2026-05-04",
+   "tier": "T2",
+   "claim_supported": "funding, product, founders"
+  },
+  {
+   "url": "https://www.reuters.com/technology/tsavorite-secures-more-than-100-million-pre-orders-ai-chips-scale-workflows-2025-11-10/",
+   "title": "Tsavorite secures over $100 million in pre-orders",
+   "publisher": "Reuters",
+   "publication_date": "2025-11-10",
+   "tier": "T1",
+   "claim_supported": "pre-orders, founding, product"
+  },
+  {
+   "url": "https://tsavoritesi.com/",
+   "title": "Tsavorite Scalable Intelligence",
+   "publisher": "Tsavorite",
+   "publication_date": "2026",
+   "tier": "T1",
+   "claim_supported": "founders, locations, product"
+  }
+ ],
+ "gaps": [
+  "CIN not available (US-incorporated)",
+  "Valuation not disclosed",
+  "Revenue not yet generated",
+  "Total funding not fully disclosed"
+ ],
+ "completeness_self": {
+  "identity": 8,
+  "founders": 9,
+  "funding": 7,
+  "investors": 6,
+  "financials": 3,
+  "products": 8,
+  "traction": 7,
+  "people": 5,
+  "customers": 5,
+  "legal": 3,
+  "sources": 9
+ },
+ "_merged_session2": true
+}

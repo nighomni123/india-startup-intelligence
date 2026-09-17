@@ -1,0 +1,240 @@
+{
+ "company": {
+  "business_model": "B2C device + app (D2C at-home diagnostics)",
+  "cin": "UNKNOWN",
+  "city": "Bengaluru",
+  "company_name": "Inito",
+  "country": "India",
+  "founded_date": "2015 (company); fertility monitor launched 2021",
+  "incorporation_date": "UNKNOWN",
+  "primary_sector": "healthtech diagnostics",
+  "public_private": "private",
+  "startup_stage": "series-b",
+  "state": "Karnataka",
+  "status": "active",
+  "website": "https://www.inito.com",
+  "official_website": {
+   "v": "https://www.inito.com",
+   "conf": "high",
+   "src": "https://www.inito.com",
+   "note": "verified live 2026-09-15: name match on own homepage"
+  },
+  "careers_website": {
+   "v": "https://www.inito.com/careers",
+   "conf": "high",
+   "src": "https://www.inito.com",
+   "note": "careers link found on official homepage, probed live"
+  }
+ },
+ "completeness_self": {
+  "financials": 2,
+  "founders": 8,
+  "funding": 8,
+  "identity": 7,
+  "investors": 8,
+  "legal": 5,
+  "people": 4,
+  "products": 7,
+  "sources": 8,
+  "traction": 7
+ },
+ "conflicts": [
+  {
+   "claim_a": "Founded 2021 (company PR / ET B2B Dec 2025 — refers to product launch year)",
+   "claim_b": "Founded 2015 / Jul 2014 operating history (LinkedIn founder profile; YC W19)",
+   "field": "founded_date",
+   "resolution": "2015 founding (company), 2021 first fertility monitor launch; both kept",
+   "resolved_value": "Founded ~2015; product launched 2021",
+   "url_a": "https://blog.inito.com/inito-raises-29m-ai-engineered-antibodies-home-diagnostics/",
+   "url_b": "https://www.linkedin.com/in/aayushinito"
+  }
+ ],
+ "events": [
+  {
+   "announced_date": "2025-12-11",
+   "confidence": "HIGH",
+   "date": "2025-12-11",
+   "description": "$29M Series B led by Bertelsmann India Investments, co-led by Fireside Ventures; total equity $45M; AI-engineered antibodies platform, scale manufacturing, global expansion.",
+   "headline": "Inito raises $29M Series B",
+   "source_url": "https://blog.inito.com/inito-raises-29m-ai-engineered-antibodies-home-diagnostics/",
+   "type": "funding"
+  }
+ ],
+ "financials": [],
+ "founders": [
+  {
+   "background": "IIT Roorkee (BTech IDD ECE); ex-Research Engineer Siemens; Forbes 30 Under 30 Asia 2019; YC W19",
+   "confidence": "HIGH",
+   "name": "Aayush Rai",
+   "role": "Co-founder & CEO",
+   "source_url": "https://www.linkedin.com/in/aayushinito",
+   "still_active": true,
+   "type": "co-founder"
+  },
+  {
+   "confidence": "HIGH",
+   "name": "Varun AV",
+   "role": "Co-founder",
+   "source_url": "https://blog.inito.com/inito-raises-29m-ai-engineered-antibodies-home-diagnostics/",
+   "still_active": true,
+   "type": "co-founder"
+  }
+ ],
+ "funding_rounds": [
+  {
+   "all_investors": [
+    "Bertelsmann India Investments",
+    "Fireside Ventures"
+   ],
+   "amount": 29,
+   "announced_date": "2025-12-11",
+   "confidence": "HIGH",
+   "currency": "USD",
+   "lead_investors": [
+    "Bertelsmann India Investments"
+   ],
+   "purpose": "AI-engineered antibodies R&D, scale manufacturing, global expansion",
+   "round_date": "2025-12-11",
+   "round_type": "series-b",
+   "source_date": "2025-12-12",
+   "source_title": "Inito raises $29M to expand beyond fertility and advance at-home diagnostics",
+   "source_url": "https://blog.inito.com/inito-raises-29m-ai-engineered-antibodies-home-diagnostics/",
+   "tier": "T1"
+  },
+  {
+   "all_investors": [
+    "Fireside Ventures"
+   ],
+   "amount": 6,
+   "announced_date": "2023",
+   "confidence": "MEDIUM",
+   "currency": "USD",
+   "lead_investors": [
+    "Fireside Ventures"
+   ],
+   "round_type": "venture",
+   "source_date": "2025-12-10",
+   "source_title": "Fertility startup Inito wants to use AI-designed antibodies",
+   "source_url": "https://techcrunch.com/2025/12/10/fertility-startup-inito-wants-to-use-ai-designed-antibodies-to-expand-at-home-health-tests/",
+   "tier": "T3"
+  },
+  {
+   "all_investors": [
+    "Y Combinator",
+    "Varsha Rao (ex-Nurx CEO)",
+    "physicians and family offices"
+   ],
+   "amount": 9,
+   "announced_date": "UNKNOWN pre-2023",
+   "confidence": "MEDIUM",
+   "currency": "USD",
+   "round_type": "venture",
+   "source_date": "2025-12-10",
+   "source_title": "Fertility startup Inito wants to use AI-designed antibodies",
+   "source_url": "https://techcrunch.com/2025/12/10/fertility-startup-inito-wants-to-use-ai-designed-antibodies-to-expand-at-home-health-tests/",
+   "tier": "T3"
+  }
+ ],
+ "gaps": [
+  "CIN/incorporation date not verified (no registry aggregator surfaced)",
+  "No audited revenue/financials (LinkedIn band $1-10M annual revenue, UNVERIFIED)",
+  "$6M and $9M earlier rounds lack exact dates",
+  "20+ patents claim (company PR) not independently verified"
+ ],
+ "investor_links": [
+  {
+   "confidence": "HIGH",
+   "first_seen": "2025-12-11",
+   "investor": "Bertelsmann India Investments",
+   "investor_type": "VC/CVC",
+   "lead": true,
+   "rounds": [
+    "series-b"
+   ],
+   "source_url": "https://blog.inito.com/inito-raises-29m-ai-engineered-antibodies-home-diagnostics/"
+  },
+  {
+   "confidence": "HIGH",
+   "first_seen": "2023",
+   "investor": "Fireside Ventures",
+   "investor_type": "VC",
+   "lead": true,
+   "rounds": [
+    "series-b",
+    "venture"
+   ],
+   "source_url": "https://techcrunch.com/2025/12/10/fertility-startup-inito-wants-to-use-ai-designed-antibodies-to-expand-at-home-health-tests/"
+  },
+  {
+   "confidence": "MEDIUM",
+   "first_seen": "2019",
+   "investor": "Y Combinator",
+   "investor_type": "accelerator",
+   "lead": false,
+   "rounds": [
+    "venture"
+   ],
+   "source_url": "https://techcrunch.com/2025/12/10/fertility-startup-inito-wants-to-use-ai-designed-antibodies-to-expand-at-home-health-tests/"
+  }
+ ],
+ "research_log": [
+  {
+   "found": "TechCrunch + company blog + VCCircle confirming $29M Series B Dec 2025; tinyfish gate query returned junk",
+   "query": "Inito startup shutdown acquisition funding 2025 2026",
+   "unresolved": "Registry data"
+  },
+  {
+   "found": "Co-founders Aayush Rai + Varun AV, YC W19, IIT Roorkee, $45M total",
+   "query": "Inito founders Aayush Rai Series B $29 million founders background",
+   "unresolved": "CIN, financials"
+  },
+  {
+   "found": "Company blog PR fetched to vault (note perplexity.md)",
+   "query": "vault fetch blog.inito.com Series B post",
+   "unresolved": "none"
+  }
+ ],
+ "sources": [
+  {
+   "claim_supported": "$29M Series B, leads, $45M total, 30M data points, AI antibodies",
+   "fields_supported": [
+    "funding_rounds",
+    "company",
+    "investor_links"
+   ],
+   "publication_date": "2025-12-12",
+   "publisher": "Inito (company blog)",
+   "retrieved_date": "2026-09-15",
+   "tier": "T1",
+   "title": "Inito raises $29M to expand beyond fertility and advance at-home diagnostics",
+   "url": "https://blog.inito.com/inito-raises-29m-ai-engineered-antibodies-home-diagnostics/"
+  },
+  {
+   "claim_supported": "$29M Series B, $6M + $9M earlier rounds, AI antibodies angle",
+   "fields_supported": [
+    "funding_rounds",
+    "investor_links"
+   ],
+   "publication_date": "2025-12-10",
+   "publisher": "TechCrunch",
+   "retrieved_date": "2026-09-15",
+   "tier": "T3",
+   "title": "Fertility startup Inito wants to use AI-designed antibodies",
+   "url": "https://techcrunch.com/2025/12/10/fertility-startup-inito-wants-to-use-ai-designed-antibodies-to-expand-at-home-health-tests/"
+  },
+  {
+   "claim_supported": "Rs 261 cr figure, Chennai reference, early 2014-2016 rounds via VCCEdge",
+   "fields_supported": [
+    "funding_rounds"
+   ],
+   "publication_date": "2025-12-11",
+   "publisher": "VCCircle",
+   "retrieved_date": "2026-09-15",
+   "tier": "T3",
+   "title": "Fireside Ventures-backed healthtech firm Inito bags $29 mn in Series B",
+   "url": "https://www.vccircle.com/firesideventures-backed-healthtech-firm-inito-bags-29-mn-in-series-b"
+  }
+ ],
+ "startup_id": "inito",
+ "_merged_session2": true
+}

@@ -1,0 +1,3875 @@
+{
+ "company": {
+  "city": "Bengaluru",
+  "company_name": "Graas.ai (Graas)",
+  "founded_date": "2022",
+  "primary_sector": "ai ecommerce growth",
+  "public_private": "Private",
+  "startup_stage": "Series B",
+  "official_website": {
+   "v": "https://www.graas.ai",
+   "conf": "high",
+   "src": "https://www.graas.ai",
+   "note": "verified live 2026-09-15: name match on own homepage"
+  },
+  "website": "https://www.graas.ai",
+  "legal_name": {
+   "v": "Solv Pte Ltd",
+   "conf": "HIGH",
+   "src": "https://www.crunchbase.com/organization/graas",
+   "note": "DBA Graas; also known as Growth-as-a-Service",
+   "asof": "2026-09-15"
+  },
+  "cin": {
+   "v": "202132066C",
+   "conf": "HIGH",
+   "src": "https://www.companies.sg/business/202132066C/SOLV-PTE-LTD-",
+   "note": "Singapore ACRA UEN/CIN",
+   "asof": "2026-09-15"
+  },
+  "incorporation_date": {
+   "v": "2021-09-14",
+   "conf": "HIGH",
+   "src": "https://www.companies.sg/business/202132066C/SOLV-PTE-LTD-",
+   "note": "Incorporated in Singapore",
+   "asof": "2026-09-15"
+  },
+  "status": {
+   "v": "Active",
+   "conf": "HIGH",
+   "src": "https://www.companies.sg/business/202132066C/SOLV-PTE-LTD-",
+   "note": "Live company per ACRA",
+   "asof": "2026-09-15"
+  },
+  "state": {
+   "v": "",
+   "conf": "LOW",
+   "src": "",
+   "note": "Singapore is a city-state; no state subdivision",
+   "asof": "2026-09-15"
+  },
+  "country": {
+   "v": "Singapore",
+   "conf": "HIGH",
+   "src": "https://www.graas.ai",
+   "note": "HQ Singapore; operations in India, Indonesia, Australia, Malaysia, Philippines, Thailand, UAE, Vietnam",
+   "asof": "2026-09-15"
+  },
+  "business_model": {
+   "v": "SaaS subscription + data platform",
+   "conf": "HIGH",
+   "src": "https://www.graas.ai",
+   "note": "Subscription fees for platform and data analytics/AI services",
+   "asof": "2026-09-15"
+  },
+  "description": {
+   "v": "AI-native commerce platform: Commerce Knowledge Graph + Agent Foundry for enterprise retail. Agents converse, recommend, sell across text, voice, vision. Processes $1B+ live commerce transactions.",
+   "conf": "HIGH",
+   "src": "https://www.graas.ai/in-the-news/graas-series-b-trustana-acquisition",
+   "note": "From Graas official Series B press release",
+   "asof": "2026-08-12"
+  },
+  "employee_estimate": {
+   "v": 263,
+   "conf": "MEDIUM",
+   "src": "https://platform.tracxn.com/a/d/company/62ff0eeaabceaa5352997b78/graas",
+   "note": "Tracxn official count as of Jul 2026; LinkedIn shows 262-263",
+   "asof": "2026-07-31"
+  },
+  "hq_type": {
+   "v": "hq",
+   "conf": "HIGH",
+   "src": "https://www.graas.ai",
+   "note": "8 Craig Road, Outram, Singapore 089668",
+   "asof": "2026-09-15"
+  },
+  "registered_office": {
+   "v": "8 Craig Road, #02-01, Singapore 089668",
+   "conf": "HIGH",
+   "src": "https://www.companies.sg/business/202132066C/SOLV-PTE-LTD-",
+   "note": "ACRA registered office",
+   "asof": "2026-09-15"
+  }
+ },
+ "completeness_self": {
+  "financials": 3,
+  "founders": 6,
+  "funding": 7,
+  "identity": 7,
+  "investors": 6,
+  "legal": 5,
+  "products": 6,
+  "sources": 7,
+  "traction": 5
+ },
+ "conflicts": [
+  {
+   "field": "city",
+   "claim_a": "Bengaluru",
+   "url_a": "",
+   "claim_b": "Singapore",
+   "url_b": "",
+   "resolution": "phase3 p3 payload disagrees with existing value; existing kept as preferred pending human review",
+   "resolved_value": "",
+   "reviewed": "p3-merge"
+  },
+  {
+   "field": "primary_sector",
+   "claim_a": "ai ecommerce growth",
+   "url_a": "",
+   "claim_b": "AI commerce / e-commerce analytics",
+   "url_b": "",
+   "resolution": "phase3 p3 payload disagrees with existing value; existing kept as preferred pending human review",
+   "resolved_value": "",
+   "reviewed": "p3-merge"
+  }
+ ],
+ "events": [
+  {
+   "date": "2025-08-11",
+   "headline": "Raised $9M+ pre-Series B led by Tin Men Capital",
+   "source_url": "https://asiatechdaily.com/singapores-graas-ai-secures-9m-series-b-to-scale-ai-powered-agent-foundry/",
+   "type": "funding"
+  },
+  {
+   "date": "2026-08-12",
+   "headline": "Raised $17M Series B and acquired Temasek-backed Trustana",
+   "source_url": "https://www.techtimes.com/articles/324539/20260814/graas-raises-17m-acquires-trustana-temasek-bets-unified-ai-data-asia-retail.htm",
+   "type": "funding_acquisition"
+  },
+  {
+   "type": "funding",
+   "headline": "Raised $40M Series A led by Galaxy (Kejora), Performa, Integra Partners, Yuj Ventures, AJ Capital",
+   "date": "2022-08-17",
+   "description": "First close of Series A; acquired Shoptimize (India) and SELLinALL (SEA) with part of the funds.",
+   "source_url": "https://www.businesstimes.com.sg/startups-tech/startups/e-commerce-solutions-startup-graas-raises-us40m-acquires-2-companies",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "acquisition",
+   "headline": "Acquired Shoptimize India and SELLinALL",
+   "date": "2022-08-17",
+   "description": "Acquired Pune-based D2C platform Shoptimize and SEA marketplace specialist SELLinALL as part of Series A strategy.",
+   "source_url": "https://www.vccircle.com/aibased-e-commerce-startup-graas-makes-first-india-bet",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "funding",
+   "headline": "Raised $9M Pre-Series B led by Tin Men Capital",
+   "date": "2025-08-11",
+   "description": "Pre-Series B round to expand Agent Foundry in India. Participation from Incred Wealth, Orzon, Integra Partners, Yuj Ventures.",
+   "source_url": "https://www.business-standard.com/companies/start-ups/graas-ai-raises-9-million-pre-series-b-agent-foundry-expansion-125081101175_1.html",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "funding",
+   "headline": "Raised $17M Series B led by LemmaTree (Temasek)",
+   "date": "2026-08-12",
+   "description": "Series B fundraise and acquisition of Trustana. Participation from Integra Partners, Tin Men Capital, Xander Group, Incred Wealth, Orzon. Valuation ~$200M per Dealroom.",
+   "source_url": "https://www.graas.ai/in-the-news/graas-series-b-trustana-acquisition",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "acquisition",
+   "headline": "Acquired Trustana",
+   "date": "2026-08-12",
+   "description": "Acquired Singapore-based AI-native product data platform Trustana. Terms undisclosed. Trustana brings David Jones, Chemist Warehouse, Toys\"R\"Us customers.",
+   "source_url": "https://www.graas.ai/in-the-news/graas-series-b-trustana-acquisition",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "partnership",
+   "headline": "Expected first profitable quarter in Q4 2026",
+   "date": "2026-08-12",
+   "description": "Co-founder and CEO Prem Bhatia told DealStreetAsia that Graas expects its first profitable quarter since founding in 2022 by Q4 2026.",
+   "source_url": "https://dealroom.co/news/144581-graas-raises-17m-buys-trustana-in-ai-commerce-push",
+   "confidence": "HIGH"
+  }
+ ],
+ "financials": [
+  {
+   "currency": "USD",
+   "fiscal_year": "2025",
+   "metric": "revenue_est",
+   "source_url": "https://getlatka.com/companies/graas.ai",
+   "value": "31M ARR (Latka estimate, bootstrapped claim conflicts with reported rounds)",
+   "value_type": "estimate"
+  },
+  {
+   "fiscal_year": "FY25",
+   "metric": "total_revenue",
+   "value": 31,
+   "unit": "million",
+   "currency": "USD",
+   "value_type": "estimate",
+   "basis": "standalone",
+   "consolidated": "no",
+   "filing_date": "",
+   "source_url": "https://getlatka.com/companies/graas.ai",
+   "source_title": "GetLatka - Graas Revenue 2025",
+   "confidence": "MEDIUM",
+   "notes": "Estimated ARR as of Dec 2025; GetLatka estimate"
+  },
+  {
+   "fiscal_year": "FY25",
+   "metric": "gmv_processed",
+   "value": 1000,
+   "unit": "million",
+   "currency": "USD",
+   "value_type": "press-quoted-filing",
+   "basis": "standalone",
+   "consolidated": "no",
+   "filing_date": "",
+   "source_url": "https://www.graas.ai/in-the-news/graas-series-b-trustana-acquisition",
+   "source_title": "Graas Series B Press Release",
+   "confidence": "HIGH",
+   "notes": "$1B+ in live commerce transactions processed"
+  }
+ ],
+ "founders": [
+  {
+   "name": "Prem Bhatia",
+   "role": "CEO / Co-founder",
+   "source_url": "https://www.graas.ai",
+   "type": "co-founder"
+  },
+  {
+   "name": "Ashwin Puri",
+   "role": "Co-founder",
+   "source_url": "https://tracxn.com",
+   "type": "co-founder"
+  },
+  {
+   "name": "Prem Bhatia",
+   "role": "Co-founder & CEO",
+   "background": "Serial entrepreneur in advertising, media and technology for 30+ years",
+   "education": "",
+   "still_active": true,
+   "source_url": "https://www.graas.ai/prem",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Ashwin Puri",
+   "role": "Co-founder & CBO",
+   "background": "Former Facebook Asia-Pacific Managing Director",
+   "education": "",
+   "still_active": true,
+   "source_url": "https://platform.tracxn.com/a/d/company/62ff0eeaabceaa5352997b78/graas",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Vivek P.",
+   "role": "Co-founder & CTO",
+   "background": "Founder of Shoptimize; MS and PhD from Carnegie Mellon University",
+   "education": "MS, PhD Carnegie Mellon University; BBS Savitribai Phule Pune University",
+   "still_active": true,
+   "source_url": "https://platform.tracxn.com/a/d/company/62ff0eeaabceaa5352997b78/graas",
+   "confidence": "HIGH"
+  }
+ ],
+ "funding_rounds": [
+  {
+   "amount": "9M+",
+   "announced_date": "Aug 2025",
+   "currency": "USD",
+   "lead_investors": [
+    "Tin Men Capital"
+   ],
+   "round_type": "Pre-Series B",
+   "source_title": "Singapore's Graas.ai Secures $9M Series B to Scale AI-Powered Agent Foundry",
+   "source_url": "https://asiatechdaily.com/singapores-graas-ai-secures-9m-series-b-to-scale-ai-powered-agent-foundry/"
+  },
+  {
+   "amount": "17M",
+   "announced_date": "Aug 2026",
+   "currency": "USD",
+   "round_type": "Series B",
+   "source_title": "Graas Raises $17M and Acquires Trustana",
+   "source_url": "https://www.techtimes.com/articles/324539/20260814/graas-raises-17m-acquires-trustana-temasek-bets-unified-ai-data-asia-retail.htm"
+  },
+  {
+   "round_type": "Seed",
+   "announced_date": "2022-04-01",
+   "amount": 7.14,
+   "currency": "USD",
+   "valuation": "",
+   "valuation_currency": "",
+   "valuation_type": "",
+   "lead_investors": [],
+   "all_investors": [],
+   "instrument": "equity",
+   "purpose": "Initial product development",
+   "source_url": "https://tracxn.com/d/companies/graas/__I2i28CMlfSsawecQuG3kSAKS6ROdKssoIDHFpEFUYJw",
+   "source_title": "Tracxn Graas Funding History",
+   "source_date": "2026-09-15",
+   "confidence": "MEDIUM"
+  },
+  {
+   "round_type": "Series A",
+   "announced_date": "2022-08-17",
+   "round_date": "2022-08-16",
+   "amount": 40,
+   "currency": "USD",
+   "valuation": "",
+   "valuation_currency": "",
+   "valuation_type": "",
+   "lead_investors": [
+    "Galaxy (Kejora-led SPV)",
+    "Performa (European Asset Manager-led SPV)"
+   ],
+   "all_investors": [
+    "Galaxy",
+    "Performa",
+    "Integra Partners",
+    "Yuj Ventures",
+    "AJ Capital"
+   ],
+   "instrument": "equity",
+   "purpose": "Launch Growth-as-a-Service; acquire Shoptimize and SELLinALL",
+   "source_url": "https://www.businesstimes.com.sg/startups-tech/startups/e-commerce-solutions-startup-graas-raises-us40m-acquires-2-companies",
+   "source_title": "E-commerce solutions startup Graas raises US$40m, acquires 2 companies",
+   "source_date": "2022-08-17",
+   "confidence": "HIGH"
+  },
+  {
+   "round_type": "Convertible Note",
+   "announced_date": "2025-01-01",
+   "amount": "",
+   "currency": "USD",
+   "valuation": "",
+   "valuation_currency": "",
+   "valuation_type": "",
+   "lead_investors": [],
+   "all_investors": [],
+   "instrument": "convertible note",
+   "purpose": "Bridge financing",
+   "source_url": "https://www.cbinsights.com/company/graas/financials",
+   "source_title": "Graas Financials - CB Insights",
+   "source_date": "2026-09-15",
+   "confidence": "LOW"
+  },
+  {
+   "round_type": "Pre-Series B",
+   "announced_date": "2025-08-11",
+   "round_date": "2025-08-11",
+   "amount": 9,
+   "currency": "USD",
+   "valuation": "",
+   "valuation_currency": "",
+   "valuation_type": "",
+   "lead_investors": [
+    "Tin Men Capital"
+   ],
+   "all_investors": [
+    "Tin Men Capital",
+    "Incred Wealth",
+    "Orzon",
+    "Integra Partners",
+    "Yuj Ventures"
+   ],
+   "instrument": "equity",
+   "purpose": "Expand Agent Foundry in India",
+   "source_url": "https://www.business-standard.com/companies/start-ups/graas-ai-raises-9-million-pre-series-b-agent-foundry-expansion-125081101175_1.html",
+   "source_title": "Graas.ai raises $9 million to expand AI agent platform Agent Foundry",
+   "source_date": "2025-08-11",
+   "confidence": "HIGH"
+  },
+  {
+   "round_type": "Series B",
+   "announced_date": "2026-08-12",
+   "round_date": "2026-08-12",
+   "amount": 17,
+   "currency": "USD",
+   "valuation": 200,
+   "valuation_currency": "USD",
+   "valuation_type": "post-money",
+   "lead_investors": [
+    "LemmaTree (Temasek-founded)"
+   ],
+   "all_investors": [
+    "LemmaTree",
+    "Integra Partners",
+    "Tin Men Capital",
+    "The Xander Group",
+    "Incred Wealth",
+    "Orzon"
+   ],
+   "instrument": "equity",
+   "purpose": "Agentic commerce platform expansion; Trustana acquisition",
+   "source_url": "https://www.graas.ai/in-the-news/graas-series-b-trustana-acquisition",
+   "source_title": "Graas Raises US$17M Series B and Acquires Trustana",
+   "source_date": "2026-08-12",
+   "confidence": "HIGH"
+  }
+ ],
+ "gaps": [
+  "HQ appears Singapore with India ops; incorporation/CIN not verified",
+  "Trustana deal value undisclosed",
+  "FY audited financials not found"
+ ],
+ "investor_links": [
+  {
+   "investor": "Tin Men Capital",
+   "lead": true,
+   "rounds": [
+    "Pre-Series B"
+   ],
+   "source_url": "https://asiatechdaily.com/singapores-graas-ai-secures-9m-series-b-to-scale-ai-powered-agent-foundry/"
+  }
+ ],
+ "research_log": [
+  {
+   "found": "$9M pre-Series B + $17M Series B + Trustana acquisition",
+   "query": "Graas.ai funding 2025 2026"
+  },
+  {
+   "found": "Prem Bhatia CEO; Tracxn lists Ashwin Puri co-founder",
+   "query": "Graas.ai founders"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai products data sources API sector coverage",
+   "status": "done",
+   "found": "Agent Foundry platform with hoppr, All-e, Extract, Chattr, Cartlyst, Turbo; Commerce Knowledge Graph; Data Connectors; 100+ channels; 100M+ data points daily",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai customers hedge funds banks PE alternative data",
+   "status": "done",
+   "found": "Named enterprise customers: Schneider Electric, DKSH, Mars Wrigley, Puma, Victoria's Secret, Unilever, Canon, PI Industries, Haleon, David Jones, Chemist Warehouse, Toys\"R\"Us, Mitre10, Omron, Paula's Choice. No hedge fund/bank customers found.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai funding round Prime Ventures Marico INCA verify",
+   "status": "done",
+   "found": "No Prime Ventures or Marico INCA investors found. Actual investors: LemmaTree (Temasek), Tin Men Capital, Integra Partners, Xander Group, Incred Wealth, ORZON Ventures, Yuj Ventures, AJ Capital, 500 Global, Arise Ventures.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai founders Prem Bhatia Ashwin Puri executives team",
+   "status": "done",
+   "found": "Prem Bhatia (CEO), Ashwin Puri (CBO), Vivek P. (CTO). Exec team includes Abhishek Jakhotiya (VP Eng), Karuppusamy S (Dir Eng), Sidhant Das (Dir Data & Eng), Harish Talreja (CFO), Gaurav Girotra (CCO).",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai legal compliance data licensing GDPR PDPA",
+   "status": "done",
+   "found": "ISO 27001:2022, SOC-2, GDPR, PDPA compliant. DPA available. No litigation found. Solv Pte Ltd (UEN 202132066C) is the operating entity.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai MCA filing CIN registered office Singapore",
+   "status": "done",
+   "found": "Solv Pte Ltd, UEN/CIN 202132066C, incorporated 2021-09-14, registered at 8 Craig Road #02-01 Singapore 089668. Active per ACRA.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai products data sources API sector coverage",
+   "status": "done",
+   "found": "Agent Foundry platform with hoppr, All-e, Extract, Chattr, Cartlyst, Turbo; Commerce Knowledge Graph; Data Connectors; 100+ channels; 100M+ data points daily",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai customers hedge funds banks PE alternative data",
+   "status": "done",
+   "found": "Named enterprise customers: Schneider Electric, DKSH, Mars Wrigley, Puma, Victoria's Secret, Unilever, Canon, PI Industries, Haleon, David Jones, Chemist Warehouse, Toys\"R\"Us, Mitre10, Omron, Paula's Choice. No hedge fund/bank customers found.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai funding round Prime Ventures Marico INCA verify",
+   "status": "done",
+   "found": "No Prime Ventures or Marico INCA investors found. Actual investors: LemmaTree (Temasek), Tin Men Capital, Integra Partners, Xander Group, Incred Wealth, ORZON Ventures, Yuj Ventures, AJ Capital, 500 Global, Arise Ventures.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai founders Prem Bhatia Ashwin Puri executives team",
+   "status": "done",
+   "found": "Prem Bhatia (CEO), Ashwin Puri (CBO), Vivek P. (CTO). Exec team includes Abhishek Jakhotiya (VP Eng), Karuppusamy S (Dir Eng), Sidhant Das (Dir Data & Eng), Harish Talreja (CFO), Gaurav Girotra (CCO).",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai legal compliance data licensing GDPR PDPA",
+   "status": "done",
+   "found": "ISO 27001:2022, SOC-2, GDPR, PDPA compliant. DPA available. No litigation found. Solv Pte Ltd (UEN 202132066C) is the operating entity.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai MCA filing CIN registered office Singapore",
+   "status": "done",
+   "found": "Solv Pte Ltd, UEN/CIN 202132066C, incorporated 2021-09-14, registered at 8 Craig Road #02-01 Singapore 089668. Active per ACRA.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai products data sources API sector coverage",
+   "status": "done",
+   "found": "Agent Foundry platform with hoppr, All-e, Extract, Chattr, Cartlyst, Turbo; Commerce Knowledge Graph; Data Connectors; 100+ channels; 100M+ data points daily",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai customers hedge funds banks PE alternative data",
+   "status": "done",
+   "found": "Named enterprise customers: Schneider Electric, DKSH, Mars Wrigley, Puma, Victoria's Secret, Unilever, Canon, PI Industries, Haleon, David Jones, Chemist Warehouse, Toys\"R\"Us, Mitre10, Omron, Paula's Choice. No hedge fund/bank customers found.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai funding round Prime Ventures Marico INCA verify",
+   "status": "done",
+   "found": "No Prime Ventures or Marico INCA investors found. Actual investors: LemmaTree (Temasek), Tin Men Capital, Integra Partners, Xander Group, Incred Wealth, ORZON Ventures, Yuj Ventures, AJ Capital, 500 Global, Arise Ventures.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai founders Prem Bhatia Ashwin Puri executives team",
+   "status": "done",
+   "found": "Prem Bhatia (CEO), Ashwin Puri (CBO), Vivek P. (CTO). Exec team includes Abhishek Jakhotiya (VP Eng), Karuppusamy S (Dir Eng), Sidhant Das (Dir Data & Eng), Harish Talreja (CFO), Gaurav Girotra (CCO).",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai legal compliance data licensing GDPR PDPA",
+   "status": "done",
+   "found": "ISO 27001:2022, SOC-2, GDPR, PDPA compliant. DPA available. No litigation found. Solv Pte Ltd (UEN 202132066C) is the operating entity.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai MCA filing CIN registered office Singapore",
+   "status": "done",
+   "found": "Solv Pte Ltd, UEN/CIN 202132066C, incorporated 2021-09-14, registered at 8 Craig Road #02-01 Singapore 089668. Active per ACRA.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai products data sources API sector coverage",
+   "status": "done",
+   "found": "Agent Foundry platform with hoppr, All-e, Extract, Chattr, Cartlyst, Turbo; Commerce Knowledge Graph; Data Connectors; 100+ channels; 100M+ data points daily",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai customers hedge funds banks PE alternative data",
+   "status": "done",
+   "found": "Named enterprise customers: Schneider Electric, DKSH, Mars Wrigley, Puma, Victoria's Secret, Unilever, Canon, PI Industries, Haleon, David Jones, Chemist Warehouse, Toys\"R\"Us, Mitre10, Omron, Paula's Choice. No hedge fund/bank customers found.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai funding round Prime Ventures Marico INCA verify",
+   "status": "done",
+   "found": "No Prime Ventures or Marico INCA investors found. Actual investors: LemmaTree (Temasek), Tin Men Capital, Integra Partners, Xander Group, Incred Wealth, ORZON Ventures, Yuj Ventures, AJ Capital, 500 Global, Arise Ventures.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai founders Prem Bhatia Ashwin Puri executives team",
+   "status": "done",
+   "found": "Prem Bhatia (CEO), Ashwin Puri (CBO), Vivek P. (CTO). Exec team includes Abhishek Jakhotiya (VP Eng), Karuppusamy S (Dir Eng), Sidhant Das (Dir Data & Eng), Harish Talreja (CFO), Gaurav Girotra (CCO).",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai legal compliance data licensing GDPR PDPA",
+   "status": "done",
+   "found": "ISO 27001:2022, SOC-2, GDPR, PDPA compliant. DPA available. No litigation found. Solv Pte Ltd (UEN 202132066C) is the operating entity.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai MCA filing CIN registered office Singapore",
+   "status": "done",
+   "found": "Solv Pte Ltd, UEN/CIN 202132066C, incorporated 2021-09-14, registered at 8 Craig Road #02-01 Singapore 089668. Active per ACRA.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai products data sources API sector coverage",
+   "status": "done",
+   "found": "Agent Foundry platform with hoppr, All-e, Extract, Chattr, Cartlyst, Turbo; Commerce Knowledge Graph; Data Connectors; 100+ channels; 100M+ data points daily",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai customers hedge funds banks PE alternative data",
+   "status": "done",
+   "found": "Named enterprise customers: Schneider Electric, DKSH, Mars Wrigley, Puma, Victoria's Secret, Unilever, Canon, PI Industries, Haleon, David Jones, Chemist Warehouse, Toys\"R\"Us, Mitre10, Omron, Paula's Choice. No hedge fund/bank customers found.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai funding round Prime Ventures Marico INCA verify",
+   "status": "done",
+   "found": "No Prime Ventures or Marico INCA investors found. Actual investors: LemmaTree (Temasek), Tin Men Capital, Integra Partners, Xander Group, Incred Wealth, ORZON Ventures, Yuj Ventures, AJ Capital, 500 Global, Arise Ventures.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai founders Prem Bhatia Ashwin Puri executives team",
+   "status": "done",
+   "found": "Prem Bhatia (CEO), Ashwin Puri (CBO), Vivek P. (CTO). Exec team includes Abhishek Jakhotiya (VP Eng), Karuppusamy S (Dir Eng), Sidhant Das (Dir Data & Eng), Harish Talreja (CFO), Gaurav Girotra (CCO).",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai legal compliance data licensing GDPR PDPA",
+   "status": "done",
+   "found": "ISO 27001:2022, SOC-2, GDPR, PDPA compliant. DPA available. No litigation found. Solv Pte Ltd (UEN 202132066C) is the operating entity.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai MCA filing CIN registered office Singapore",
+   "status": "done",
+   "found": "Solv Pte Ltd, UEN/CIN 202132066C, incorporated 2021-09-14, registered at 8 Craig Road #02-01 Singapore 089668. Active per ACRA.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai products data sources API sector coverage",
+   "status": "done",
+   "found": "Agent Foundry platform with hoppr, All-e, Extract, Chattr, Cartlyst, Turbo; Commerce Knowledge Graph; Data Connectors; 100+ channels; 100M+ data points daily",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai customers hedge funds banks PE alternative data",
+   "status": "done",
+   "found": "Named enterprise customers: Schneider Electric, DKSH, Mars Wrigley, Puma, Victoria's Secret, Unilever, Canon, PI Industries, Haleon, David Jones, Chemist Warehouse, Toys\"R\"Us, Mitre10, Omron, Paula's Choice. No hedge fund/bank customers found.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai funding round Prime Ventures Marico INCA verify",
+   "status": "done",
+   "found": "No Prime Ventures or Marico INCA investors found. Actual investors: LemmaTree (Temasek), Tin Men Capital, Integra Partners, Xander Group, Incred Wealth, ORZON Ventures, Yuj Ventures, AJ Capital, 500 Global, Arise Ventures.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai founders Prem Bhatia Ashwin Puri executives team",
+   "status": "done",
+   "found": "Prem Bhatia (CEO), Ashwin Puri (CBO), Vivek P. (CTO). Exec team includes Abhishek Jakhotiya (VP Eng), Karuppusamy S (Dir Eng), Sidhant Das (Dir Data & Eng), Harish Talreja (CFO), Gaurav Girotra (CCO).",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai legal compliance data licensing GDPR PDPA",
+   "status": "done",
+   "found": "ISO 27001:2022, SOC-2, GDPR, PDPA compliant. DPA available. No litigation found. Solv Pte Ltd (UEN 202132066C) is the operating entity.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai MCA filing CIN registered office Singapore",
+   "status": "done",
+   "found": "Solv Pte Ltd, UEN/CIN 202132066C, incorporated 2021-09-14, registered at 8 Craig Road #02-01 Singapore 089668. Active per ACRA.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai products data sources API sector coverage",
+   "status": "done",
+   "found": "Agent Foundry platform with hoppr, All-e, Extract, Chattr, Cartlyst, Turbo; Commerce Knowledge Graph; Data Connectors; 100+ channels; 100M+ data points daily",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai customers hedge funds banks PE alternative data",
+   "status": "done",
+   "found": "Named enterprise customers: Schneider Electric, DKSH, Mars Wrigley, Puma, Victoria's Secret, Unilever, Canon, PI Industries, Haleon, David Jones, Chemist Warehouse, Toys\"R\"Us, Mitre10, Omron, Paula's Choice. No hedge fund/bank customers found.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai funding round Prime Ventures Marico INCA verify",
+   "status": "done",
+   "found": "No Prime Ventures or Marico INCA investors found. Actual investors: LemmaTree (Temasek), Tin Men Capital, Integra Partners, Xander Group, Incred Wealth, ORZON Ventures, Yuj Ventures, AJ Capital, 500 Global, Arise Ventures.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai founders Prem Bhatia Ashwin Puri executives team",
+   "status": "done",
+   "found": "Prem Bhatia (CEO), Ashwin Puri (CBO), Vivek P. (CTO). Exec team includes Abhishek Jakhotiya (VP Eng), Karuppusamy S (Dir Eng), Sidhant Das (Dir Data & Eng), Harish Talreja (CFO), Gaurav Girotra (CCO).",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai legal compliance data licensing GDPR PDPA",
+   "status": "done",
+   "found": "ISO 27001:2022, SOC-2, GDPR, PDPA compliant. DPA available. No litigation found. Solv Pte Ltd (UEN 202132066C) is the operating entity.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai MCA filing CIN registered office Singapore",
+   "status": "done",
+   "found": "Solv Pte Ltd, UEN/CIN 202132066C, incorporated 2021-09-14, registered at 8 Craig Road #02-01 Singapore 089668. Active per ACRA.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai products data sources API sector coverage",
+   "status": "done",
+   "found": "Agent Foundry platform with hoppr, All-e, Extract, Chattr, Cartlyst, Turbo; Commerce Knowledge Graph; Data Connectors; 100+ channels; 100M+ data points daily",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai customers hedge funds banks PE alternative data",
+   "status": "done",
+   "found": "Named enterprise customers: Schneider Electric, DKSH, Mars Wrigley, Puma, Victoria's Secret, Unilever, Canon, PI Industries, Haleon, David Jones, Chemist Warehouse, Toys\"R\"Us, Mitre10, Omron, Paula's Choice. No hedge fund/bank customers found.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai funding round Prime Ventures Marico INCA verify",
+   "status": "done",
+   "found": "No Prime Ventures or Marico INCA investors found. Actual investors: LemmaTree (Temasek), Tin Men Capital, Integra Partners, Xander Group, Incred Wealth, ORZON Ventures, Yuj Ventures, AJ Capital, 500 Global, Arise Ventures.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai founders Prem Bhatia Ashwin Puri executives team",
+   "status": "done",
+   "found": "Prem Bhatia (CEO), Ashwin Puri (CBO), Vivek P. (CTO). Exec team includes Abhishek Jakhotiya (VP Eng), Karuppusamy S (Dir Eng), Sidhant Das (Dir Data & Eng), Harish Talreja (CFO), Gaurav Girotra (CCO).",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai legal compliance data licensing GDPR PDPA",
+   "status": "done",
+   "found": "ISO 27001:2022, SOC-2, GDPR, PDPA compliant. DPA available. No litigation found. Solv Pte Ltd (UEN 202132066C) is the operating entity.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai MCA filing CIN registered office Singapore",
+   "status": "done",
+   "found": "Solv Pte Ltd, UEN/CIN 202132066C, incorporated 2021-09-14, registered at 8 Craig Road #02-01 Singapore 089668. Active per ACRA.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai products data sources API sector coverage",
+   "status": "done",
+   "found": "Agent Foundry platform with hoppr, All-e, Extract, Chattr, Cartlyst, Turbo; Commerce Knowledge Graph; Data Connectors; 100+ channels; 100M+ data points daily",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai customers hedge funds banks PE alternative data",
+   "status": "done",
+   "found": "Named enterprise customers: Schneider Electric, DKSH, Mars Wrigley, Puma, Victoria's Secret, Unilever, Canon, PI Industries, Haleon, David Jones, Chemist Warehouse, Toys\"R\"Us, Mitre10, Omron, Paula's Choice. No hedge fund/bank customers found.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai funding round Prime Ventures Marico INCA verify",
+   "status": "done",
+   "found": "No Prime Ventures or Marico INCA investors found. Actual investors: LemmaTree (Temasek), Tin Men Capital, Integra Partners, Xander Group, Incred Wealth, ORZON Ventures, Yuj Ventures, AJ Capital, 500 Global, Arise Ventures.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai founders Prem Bhatia Ashwin Puri executives team",
+   "status": "done",
+   "found": "Prem Bhatia (CEO), Ashwin Puri (CBO), Vivek P. (CTO). Exec team includes Abhishek Jakhotiya (VP Eng), Karuppusamy S (Dir Eng), Sidhant Das (Dir Data & Eng), Harish Talreja (CFO), Gaurav Girotra (CCO).",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai legal compliance data licensing GDPR PDPA",
+   "status": "done",
+   "found": "ISO 27001:2022, SOC-2, GDPR, PDPA compliant. DPA available. No litigation found. Solv Pte Ltd (UEN 202132066C) is the operating entity.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai MCA filing CIN registered office Singapore",
+   "status": "done",
+   "found": "Solv Pte Ltd, UEN/CIN 202132066C, incorporated 2021-09-14, registered at 8 Craig Road #02-01 Singapore 089668. Active per ACRA.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai products data sources API sector coverage",
+   "status": "done",
+   "found": "Agent Foundry platform with hoppr, All-e, Extract, Chattr, Cartlyst, Turbo; Commerce Knowledge Graph; Data Connectors; 100+ channels; 100M+ data points daily",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai customers hedge funds banks PE alternative data",
+   "status": "done",
+   "found": "Named enterprise customers: Schneider Electric, DKSH, Mars Wrigley, Puma, Victoria's Secret, Unilever, Canon, PI Industries, Haleon, David Jones, Chemist Warehouse, Toys\"R\"Us, Mitre10, Omron, Paula's Choice. No hedge fund/bank customers found.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai funding round Prime Ventures Marico INCA verify",
+   "status": "done",
+   "found": "No Prime Ventures or Marico INCA investors found. Actual investors: LemmaTree (Temasek), Tin Men Capital, Integra Partners, Xander Group, Incred Wealth, ORZON Ventures, Yuj Ventures, AJ Capital, 500 Global, Arise Ventures.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai founders Prem Bhatia Ashwin Puri executives team",
+   "status": "done",
+   "found": "Prem Bhatia (CEO), Ashwin Puri (CBO), Vivek P. (CTO). Exec team includes Abhishek Jakhotiya (VP Eng), Karuppusamy S (Dir Eng), Sidhant Das (Dir Data & Eng), Harish Talreja (CFO), Gaurav Girotra (CCO).",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai legal compliance data licensing GDPR PDPA",
+   "status": "done",
+   "found": "ISO 27001:2022, SOC-2, GDPR, PDPA compliant. DPA available. No litigation found. Solv Pte Ltd (UEN 202132066C) is the operating entity.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai MCA filing CIN registered office Singapore",
+   "status": "done",
+   "found": "Solv Pte Ltd, UEN/CIN 202132066C, incorporated 2021-09-14, registered at 8 Craig Road #02-01 Singapore 089668. Active per ACRA.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai products data sources API sector coverage",
+   "status": "done",
+   "found": "Agent Foundry platform with hoppr, All-e, Extract, Chattr, Cartlyst, Turbo; Commerce Knowledge Graph; Data Connectors; 100+ channels; 100M+ data points daily",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai customers hedge funds banks PE alternative data",
+   "status": "done",
+   "found": "Named enterprise customers: Schneider Electric, DKSH, Mars Wrigley, Puma, Victoria's Secret, Unilever, Canon, PI Industries, Haleon, David Jones, Chemist Warehouse, Toys\"R\"Us, Mitre10, Omron, Paula's Choice. No hedge fund/bank customers found.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai funding round Prime Ventures Marico INCA verify",
+   "status": "done",
+   "found": "No Prime Ventures or Marico INCA investors found. Actual investors: LemmaTree (Temasek), Tin Men Capital, Integra Partners, Xander Group, Incred Wealth, ORZON Ventures, Yuj Ventures, AJ Capital, 500 Global, Arise Ventures.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai founders Prem Bhatia Ashwin Puri executives team",
+   "status": "done",
+   "found": "Prem Bhatia (CEO), Ashwin Puri (CBO), Vivek P. (CTO). Exec team includes Abhishek Jakhotiya (VP Eng), Karuppusamy S (Dir Eng), Sidhant Das (Dir Data & Eng), Harish Talreja (CFO), Gaurav Girotra (CCO).",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai legal compliance data licensing GDPR PDPA",
+   "status": "done",
+   "found": "ISO 27001:2022, SOC-2, GDPR, PDPA compliant. DPA available. No litigation found. Solv Pte Ltd (UEN 202132066C) is the operating entity.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai MCA filing CIN registered office Singapore",
+   "status": "done",
+   "found": "Solv Pte Ltd, UEN/CIN 202132066C, incorporated 2021-09-14, registered at 8 Craig Road #02-01 Singapore 089668. Active per ACRA.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai products data sources API sector coverage",
+   "status": "done",
+   "found": "Agent Foundry platform with hoppr, All-e, Extract, Chattr, Cartlyst, Turbo; Commerce Knowledge Graph; Data Connectors; 100+ channels; 100M+ data points daily",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai customers hedge funds banks PE alternative data",
+   "status": "done",
+   "found": "Named enterprise customers: Schneider Electric, DKSH, Mars Wrigley, Puma, Victoria's Secret, Unilever, Canon, PI Industries, Haleon, David Jones, Chemist Warehouse, Toys\"R\"Us, Mitre10, Omron, Paula's Choice. No hedge fund/bank customers found.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai funding round Prime Ventures Marico INCA verify",
+   "status": "done",
+   "found": "No Prime Ventures or Marico INCA investors found. Actual investors: LemmaTree (Temasek), Tin Men Capital, Integra Partners, Xander Group, Incred Wealth, ORZON Ventures, Yuj Ventures, AJ Capital, 500 Global, Arise Ventures.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai founders Prem Bhatia Ashwin Puri executives team",
+   "status": "done",
+   "found": "Prem Bhatia (CEO), Ashwin Puri (CBO), Vivek P. (CTO). Exec team includes Abhishek Jakhotiya (VP Eng), Karuppusamy S (Dir Eng), Sidhant Das (Dir Data & Eng), Harish Talreja (CFO), Gaurav Girotra (CCO).",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai legal compliance data licensing GDPR PDPA",
+   "status": "done",
+   "found": "ISO 27001:2022, SOC-2, GDPR, PDPA compliant. DPA available. No litigation found. Solv Pte Ltd (UEN 202132066C) is the operating entity.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai MCA filing CIN registered office Singapore",
+   "status": "done",
+   "found": "Solv Pte Ltd, UEN/CIN 202132066C, incorporated 2021-09-14, registered at 8 Craig Road #02-01 Singapore 089668. Active per ACRA.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai products data sources API sector coverage",
+   "status": "done",
+   "found": "Agent Foundry platform with hoppr, All-e, Extract, Chattr, Cartlyst, Turbo; Commerce Knowledge Graph; Data Connectors; 100+ channels; 100M+ data points daily",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai customers hedge funds banks PE alternative data",
+   "status": "done",
+   "found": "Named enterprise customers: Schneider Electric, DKSH, Mars Wrigley, Puma, Victoria's Secret, Unilever, Canon, PI Industries, Haleon, David Jones, Chemist Warehouse, Toys\"R\"Us, Mitre10, Omron, Paula's Choice. No hedge fund/bank customers found.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai funding round Prime Ventures Marico INCA verify",
+   "status": "done",
+   "found": "No Prime Ventures or Marico INCA investors found. Actual investors: LemmaTree (Temasek), Tin Men Capital, Integra Partners, Xander Group, Incred Wealth, ORZON Ventures, Yuj Ventures, AJ Capital, 500 Global, Arise Ventures.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai founders Prem Bhatia Ashwin Puri executives team",
+   "status": "done",
+   "found": "Prem Bhatia (CEO), Ashwin Puri (CBO), Vivek P. (CTO). Exec team includes Abhishek Jakhotiya (VP Eng), Karuppusamy S (Dir Eng), Sidhant Das (Dir Data & Eng), Harish Talreja (CFO), Gaurav Girotra (CCO).",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai legal compliance data licensing GDPR PDPA",
+   "status": "done",
+   "found": "ISO 27001:2022, SOC-2, GDPR, PDPA compliant. DPA available. No litigation found. Solv Pte Ltd (UEN 202132066C) is the operating entity.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai MCA filing CIN registered office Singapore",
+   "status": "done",
+   "found": "Solv Pte Ltd, UEN/CIN 202132066C, incorporated 2021-09-14, registered at 8 Craig Road #02-01 Singapore 089668. Active per ACRA.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai products data sources API sector coverage",
+   "status": "done",
+   "found": "Agent Foundry platform with hoppr, All-e, Extract, Chattr, Cartlyst, Turbo; Commerce Knowledge Graph; Data Connectors; 100+ channels; 100M+ data points daily",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai customers hedge funds banks PE alternative data",
+   "status": "done",
+   "found": "Named enterprise customers: Schneider Electric, DKSH, Mars Wrigley, Puma, Victoria's Secret, Unilever, Canon, PI Industries, Haleon, David Jones, Chemist Warehouse, Toys\"R\"Us, Mitre10, Omron, Paula's Choice. No hedge fund/bank customers found.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai funding round Prime Ventures Marico INCA verify",
+   "status": "done",
+   "found": "No Prime Ventures or Marico INCA investors found. Actual investors: LemmaTree (Temasek), Tin Men Capital, Integra Partners, Xander Group, Incred Wealth, ORZON Ventures, Yuj Ventures, AJ Capital, 500 Global, Arise Ventures.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai founders Prem Bhatia Ashwin Puri executives team",
+   "status": "done",
+   "found": "Prem Bhatia (CEO), Ashwin Puri (CBO), Vivek P. (CTO). Exec team includes Abhishek Jakhotiya (VP Eng), Karuppusamy S (Dir Eng), Sidhant Das (Dir Data & Eng), Harish Talreja (CFO), Gaurav Girotra (CCO).",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai legal compliance data licensing GDPR PDPA",
+   "status": "done",
+   "found": "ISO 27001:2022, SOC-2, GDPR, PDPA compliant. DPA available. No litigation found. Solv Pte Ltd (UEN 202132066C) is the operating entity.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai MCA filing CIN registered office Singapore",
+   "status": "done",
+   "found": "Solv Pte Ltd, UEN/CIN 202132066C, incorporated 2021-09-14, registered at 8 Craig Road #02-01 Singapore 089668. Active per ACRA.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai products data sources API sector coverage",
+   "status": "done",
+   "found": "Agent Foundry platform with hoppr, All-e, Extract, Chattr, Cartlyst, Turbo; Commerce Knowledge Graph; Data Connectors; 100+ channels; 100M+ data points daily",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai customers hedge funds banks PE alternative data",
+   "status": "done",
+   "found": "Named enterprise customers: Schneider Electric, DKSH, Mars Wrigley, Puma, Victoria's Secret, Unilever, Canon, PI Industries, Haleon, David Jones, Chemist Warehouse, Toys\"R\"Us, Mitre10, Omron, Paula's Choice. No hedge fund/bank customers found.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai funding round Prime Ventures Marico INCA verify",
+   "status": "done",
+   "found": "No Prime Ventures or Marico INCA investors found. Actual investors: LemmaTree (Temasek), Tin Men Capital, Integra Partners, Xander Group, Incred Wealth, ORZON Ventures, Yuj Ventures, AJ Capital, 500 Global, Arise Ventures.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai founders Prem Bhatia Ashwin Puri executives team",
+   "status": "done",
+   "found": "Prem Bhatia (CEO), Ashwin Puri (CBO), Vivek P. (CTO). Exec team includes Abhishek Jakhotiya (VP Eng), Karuppusamy S (Dir Eng), Sidhant Das (Dir Data & Eng), Harish Talreja (CFO), Gaurav Girotra (CCO).",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai legal compliance data licensing GDPR PDPA",
+   "status": "done",
+   "found": "ISO 27001:2022, SOC-2, GDPR, PDPA compliant. DPA available. No litigation found. Solv Pte Ltd (UEN 202132066C) is the operating entity.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai MCA filing CIN registered office Singapore",
+   "status": "done",
+   "found": "Solv Pte Ltd, UEN/CIN 202132066C, incorporated 2021-09-14, registered at 8 Craig Road #02-01 Singapore 089668. Active per ACRA.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai products data sources API sector coverage",
+   "status": "done",
+   "found": "Agent Foundry platform with hoppr, All-e, Extract, Chattr, Cartlyst, Turbo; Commerce Knowledge Graph; Data Connectors; 100+ channels; 100M+ data points daily",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai customers hedge funds banks PE alternative data",
+   "status": "done",
+   "found": "Named enterprise customers: Schneider Electric, DKSH, Mars Wrigley, Puma, Victoria's Secret, Unilever, Canon, PI Industries, Haleon, David Jones, Chemist Warehouse, Toys\"R\"Us, Mitre10, Omron, Paula's Choice. No hedge fund/bank customers found.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai funding round Prime Ventures Marico INCA verify",
+   "status": "done",
+   "found": "No Prime Ventures or Marico INCA investors found. Actual investors: LemmaTree (Temasek), Tin Men Capital, Integra Partners, Xander Group, Incred Wealth, ORZON Ventures, Yuj Ventures, AJ Capital, 500 Global, Arise Ventures.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai founders Prem Bhatia Ashwin Puri executives team",
+   "status": "done",
+   "found": "Prem Bhatia (CEO), Ashwin Puri (CBO), Vivek P. (CTO). Exec team includes Abhishek Jakhotiya (VP Eng), Karuppusamy S (Dir Eng), Sidhant Das (Dir Data & Eng), Harish Talreja (CFO), Gaurav Girotra (CCO).",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai legal compliance data licensing GDPR PDPA",
+   "status": "done",
+   "found": "ISO 27001:2022, SOC-2, GDPR, PDPA compliant. DPA available. No litigation found. Solv Pte Ltd (UEN 202132066C) is the operating entity.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai MCA filing CIN registered office Singapore",
+   "status": "done",
+   "found": "Solv Pte Ltd, UEN/CIN 202132066C, incorporated 2021-09-14, registered at 8 Craig Road #02-01 Singapore 089668. Active per ACRA.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai products data sources API sector coverage",
+   "status": "done",
+   "found": "Agent Foundry platform with hoppr, All-e, Extract, Chattr, Cartlyst, Turbo; Commerce Knowledge Graph; Data Connectors; 100+ channels; 100M+ data points daily",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai customers hedge funds banks PE alternative data",
+   "status": "done",
+   "found": "Named enterprise customers: Schneider Electric, DKSH, Mars Wrigley, Puma, Victoria's Secret, Unilever, Canon, PI Industries, Haleon, David Jones, Chemist Warehouse, Toys\"R\"Us, Mitre10, Omron, Paula's Choice. No hedge fund/bank customers found.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai funding round Prime Ventures Marico INCA verify",
+   "status": "done",
+   "found": "No Prime Ventures or Marico INCA investors found. Actual investors: LemmaTree (Temasek), Tin Men Capital, Integra Partners, Xander Group, Incred Wealth, ORZON Ventures, Yuj Ventures, AJ Capital, 500 Global, Arise Ventures.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai founders Prem Bhatia Ashwin Puri executives team",
+   "status": "done",
+   "found": "Prem Bhatia (CEO), Ashwin Puri (CBO), Vivek P. (CTO). Exec team includes Abhishek Jakhotiya (VP Eng), Karuppusamy S (Dir Eng), Sidhant Das (Dir Data & Eng), Harish Talreja (CFO), Gaurav Girotra (CCO).",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai legal compliance data licensing GDPR PDPA",
+   "status": "done",
+   "found": "ISO 27001:2022, SOC-2, GDPR, PDPA compliant. DPA available. No litigation found. Solv Pte Ltd (UEN 202132066C) is the operating entity.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai MCA filing CIN registered office Singapore",
+   "status": "done",
+   "found": "Solv Pte Ltd, UEN/CIN 202132066C, incorporated 2021-09-14, registered at 8 Craig Road #02-01 Singapore 089668. Active per ACRA.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai products data sources API sector coverage",
+   "status": "done",
+   "found": "Agent Foundry platform with hoppr, All-e, Extract, Chattr, Cartlyst, Turbo; Commerce Knowledge Graph; Data Connectors; 100+ channels; 100M+ data points daily",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai customers hedge funds banks PE alternative data",
+   "status": "done",
+   "found": "Named enterprise customers: Schneider Electric, DKSH, Mars Wrigley, Puma, Victoria's Secret, Unilever, Canon, PI Industries, Haleon, David Jones, Chemist Warehouse, Toys\"R\"Us, Mitre10, Omron, Paula's Choice. No hedge fund/bank customers found.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai funding round Prime Ventures Marico INCA verify",
+   "status": "done",
+   "found": "No Prime Ventures or Marico INCA investors found. Actual investors: LemmaTree (Temasek), Tin Men Capital, Integra Partners, Xander Group, Incred Wealth, ORZON Ventures, Yuj Ventures, AJ Capital, 500 Global, Arise Ventures.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai founders Prem Bhatia Ashwin Puri executives team",
+   "status": "done",
+   "found": "Prem Bhatia (CEO), Ashwin Puri (CBO), Vivek P. (CTO). Exec team includes Abhishek Jakhotiya (VP Eng), Karuppusamy S (Dir Eng), Sidhant Das (Dir Data & Eng), Harish Talreja (CFO), Gaurav Girotra (CCO).",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai legal compliance data licensing GDPR PDPA",
+   "status": "done",
+   "found": "ISO 27001:2022, SOC-2, GDPR, PDPA compliant. DPA available. No litigation found. Solv Pte Ltd (UEN 202132066C) is the operating entity.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai MCA filing CIN registered office Singapore",
+   "status": "done",
+   "found": "Solv Pte Ltd, UEN/CIN 202132066C, incorporated 2021-09-14, registered at 8 Craig Road #02-01 Singapore 089668. Active per ACRA.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai products data sources API sector coverage",
+   "status": "done",
+   "found": "Agent Foundry platform with hoppr, All-e, Extract, Chattr, Cartlyst, Turbo; Commerce Knowledge Graph; Data Connectors; 100+ channels; 100M+ data points daily",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai customers hedge funds banks PE alternative data",
+   "status": "done",
+   "found": "Named enterprise customers: Schneider Electric, DKSH, Mars Wrigley, Puma, Victoria's Secret, Unilever, Canon, PI Industries, Haleon, David Jones, Chemist Warehouse, Toys\"R\"Us, Mitre10, Omron, Paula's Choice. No hedge fund/bank customers found.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai funding round Prime Ventures Marico INCA verify",
+   "status": "done",
+   "found": "No Prime Ventures or Marico INCA investors found. Actual investors: LemmaTree (Temasek), Tin Men Capital, Integra Partners, Xander Group, Incred Wealth, ORZON Ventures, Yuj Ventures, AJ Capital, 500 Global, Arise Ventures.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai founders Prem Bhatia Ashwin Puri executives team",
+   "status": "done",
+   "found": "Prem Bhatia (CEO), Ashwin Puri (CBO), Vivek P. (CTO). Exec team includes Abhishek Jakhotiya (VP Eng), Karuppusamy S (Dir Eng), Sidhant Das (Dir Data & Eng), Harish Talreja (CFO), Gaurav Girotra (CCO).",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai legal compliance data licensing GDPR PDPA",
+   "status": "done",
+   "found": "ISO 27001:2022, SOC-2, GDPR, PDPA compliant. DPA available. No litigation found. Solv Pte Ltd (UEN 202132066C) is the operating entity.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai MCA filing CIN registered office Singapore",
+   "status": "done",
+   "found": "Solv Pte Ltd, UEN/CIN 202132066C, incorporated 2021-09-14, registered at 8 Craig Road #02-01 Singapore 089668. Active per ACRA.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai products data sources API sector coverage",
+   "status": "done",
+   "found": "Agent Foundry platform with hoppr, All-e, Extract, Chattr, Cartlyst, Turbo; Commerce Knowledge Graph; Data Connectors; 100+ channels; 100M+ data points daily",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai customers hedge funds banks PE alternative data",
+   "status": "done",
+   "found": "Named enterprise customers: Schneider Electric, DKSH, Mars Wrigley, Puma, Victoria's Secret, Unilever, Canon, PI Industries, Haleon, David Jones, Chemist Warehouse, Toys\"R\"Us, Mitre10, Omron, Paula's Choice. No hedge fund/bank customers found.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai funding round Prime Ventures Marico INCA verify",
+   "status": "done",
+   "found": "No Prime Ventures or Marico INCA investors found. Actual investors: LemmaTree (Temasek), Tin Men Capital, Integra Partners, Xander Group, Incred Wealth, ORZON Ventures, Yuj Ventures, AJ Capital, 500 Global, Arise Ventures.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai founders Prem Bhatia Ashwin Puri executives team",
+   "status": "done",
+   "found": "Prem Bhatia (CEO), Ashwin Puri (CBO), Vivek P. (CTO). Exec team includes Abhishek Jakhotiya (VP Eng), Karuppusamy S (Dir Eng), Sidhant Das (Dir Data & Eng), Harish Talreja (CFO), Gaurav Girotra (CCO).",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai legal compliance data licensing GDPR PDPA",
+   "status": "done",
+   "found": "ISO 27001:2022, SOC-2, GDPR, PDPA compliant. DPA available. No litigation found. Solv Pte Ltd (UEN 202132066C) is the operating entity.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai MCA filing CIN registered office Singapore",
+   "status": "done",
+   "found": "Solv Pte Ltd, UEN/CIN 202132066C, incorporated 2021-09-14, registered at 8 Craig Road #02-01 Singapore 089668. Active per ACRA.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai products data sources API sector coverage",
+   "status": "done",
+   "found": "Agent Foundry platform with hoppr, All-e, Extract, Chattr, Cartlyst, Turbo; Commerce Knowledge Graph; Data Connectors; 100+ channels; 100M+ data points daily",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai customers hedge funds banks PE alternative data",
+   "status": "done",
+   "found": "Named enterprise customers: Schneider Electric, DKSH, Mars Wrigley, Puma, Victoria's Secret, Unilever, Canon, PI Industries, Haleon, David Jones, Chemist Warehouse, Toys\"R\"Us, Mitre10, Omron, Paula's Choice. No hedge fund/bank customers found.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai funding round Prime Ventures Marico INCA verify",
+   "status": "done",
+   "found": "No Prime Ventures or Marico INCA investors found. Actual investors: LemmaTree (Temasek), Tin Men Capital, Integra Partners, Xander Group, Incred Wealth, ORZON Ventures, Yuj Ventures, AJ Capital, 500 Global, Arise Ventures.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai founders Prem Bhatia Ashwin Puri executives team",
+   "status": "done",
+   "found": "Prem Bhatia (CEO), Ashwin Puri (CBO), Vivek P. (CTO). Exec team includes Abhishek Jakhotiya (VP Eng), Karuppusamy S (Dir Eng), Sidhant Das (Dir Data & Eng), Harish Talreja (CFO), Gaurav Girotra (CCO).",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai legal compliance data licensing GDPR PDPA",
+   "status": "done",
+   "found": "ISO 27001:2022, SOC-2, GDPR, PDPA compliant. DPA available. No litigation found. Solv Pte Ltd (UEN 202132066C) is the operating entity.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai MCA filing CIN registered office Singapore",
+   "status": "done",
+   "found": "Solv Pte Ltd, UEN/CIN 202132066C, incorporated 2021-09-14, registered at 8 Craig Road #02-01 Singapore 089668. Active per ACRA.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai products data sources API sector coverage",
+   "status": "done",
+   "found": "Agent Foundry platform with hoppr, All-e, Extract, Chattr, Cartlyst, Turbo; Commerce Knowledge Graph; Data Connectors; 100+ channels; 100M+ data points daily",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai customers hedge funds banks PE alternative data",
+   "status": "done",
+   "found": "Named enterprise customers: Schneider Electric, DKSH, Mars Wrigley, Puma, Victoria's Secret, Unilever, Canon, PI Industries, Haleon, David Jones, Chemist Warehouse, Toys\"R\"Us, Mitre10, Omron, Paula's Choice. No hedge fund/bank customers found.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai funding round Prime Ventures Marico INCA verify",
+   "status": "done",
+   "found": "No Prime Ventures or Marico INCA investors found. Actual investors: LemmaTree (Temasek), Tin Men Capital, Integra Partners, Xander Group, Incred Wealth, ORZON Ventures, Yuj Ventures, AJ Capital, 500 Global, Arise Ventures.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai founders Prem Bhatia Ashwin Puri executives team",
+   "status": "done",
+   "found": "Prem Bhatia (CEO), Ashwin Puri (CBO), Vivek P. (CTO). Exec team includes Abhishek Jakhotiya (VP Eng), Karuppusamy S (Dir Eng), Sidhant Das (Dir Data & Eng), Harish Talreja (CFO), Gaurav Girotra (CCO).",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai legal compliance data licensing GDPR PDPA",
+   "status": "done",
+   "found": "ISO 27001:2022, SOC-2, GDPR, PDPA compliant. DPA available. No litigation found. Solv Pte Ltd (UEN 202132066C) is the operating entity.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai MCA filing CIN registered office Singapore",
+   "status": "done",
+   "found": "Solv Pte Ltd, UEN/CIN 202132066C, incorporated 2021-09-14, registered at 8 Craig Road #02-01 Singapore 089668. Active per ACRA.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai products data sources API sector coverage",
+   "status": "done",
+   "found": "Agent Foundry platform with hoppr, All-e, Extract, Chattr, Cartlyst, Turbo; Commerce Knowledge Graph; Data Connectors; 100+ channels; 100M+ data points daily",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai customers hedge funds banks PE alternative data",
+   "status": "done",
+   "found": "Named enterprise customers: Schneider Electric, DKSH, Mars Wrigley, Puma, Victoria's Secret, Unilever, Canon, PI Industries, Haleon, David Jones, Chemist Warehouse, Toys\"R\"Us, Mitre10, Omron, Paula's Choice. No hedge fund/bank customers found.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai funding round Prime Ventures Marico INCA verify",
+   "status": "done",
+   "found": "No Prime Ventures or Marico INCA investors found. Actual investors: LemmaTree (Temasek), Tin Men Capital, Integra Partners, Xander Group, Incred Wealth, ORZON Ventures, Yuj Ventures, AJ Capital, 500 Global, Arise Ventures.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai founders Prem Bhatia Ashwin Puri executives team",
+   "status": "done",
+   "found": "Prem Bhatia (CEO), Ashwin Puri (CBO), Vivek P. (CTO). Exec team includes Abhishek Jakhotiya (VP Eng), Karuppusamy S (Dir Eng), Sidhant Das (Dir Data & Eng), Harish Talreja (CFO), Gaurav Girotra (CCO).",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai legal compliance data licensing GDPR PDPA",
+   "status": "done",
+   "found": "ISO 27001:2022, SOC-2, GDPR, PDPA compliant. DPA available. No litigation found. Solv Pte Ltd (UEN 202132066C) is the operating entity.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai MCA filing CIN registered office Singapore",
+   "status": "done",
+   "found": "Solv Pte Ltd, UEN/CIN 202132066C, incorporated 2021-09-14, registered at 8 Craig Road #02-01 Singapore 089668. Active per ACRA.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai products data sources API sector coverage",
+   "status": "done",
+   "found": "Agent Foundry platform with hoppr, All-e, Extract, Chattr, Cartlyst, Turbo; Commerce Knowledge Graph; Data Connectors; 100+ channels; 100M+ data points daily",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai customers hedge funds banks PE alternative data",
+   "status": "done",
+   "found": "Named enterprise customers: Schneider Electric, DKSH, Mars Wrigley, Puma, Victoria's Secret, Unilever, Canon, PI Industries, Haleon, David Jones, Chemist Warehouse, Toys\"R\"Us, Mitre10, Omron, Paula's Choice. No hedge fund/bank customers found.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai funding round Prime Ventures Marico INCA verify",
+   "status": "done",
+   "found": "No Prime Ventures or Marico INCA investors found. Actual investors: LemmaTree (Temasek), Tin Men Capital, Integra Partners, Xander Group, Incred Wealth, ORZON Ventures, Yuj Ventures, AJ Capital, 500 Global, Arise Ventures.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai founders Prem Bhatia Ashwin Puri executives team",
+   "status": "done",
+   "found": "Prem Bhatia (CEO), Ashwin Puri (CBO), Vivek P. (CTO). Exec team includes Abhishek Jakhotiya (VP Eng), Karuppusamy S (Dir Eng), Sidhant Das (Dir Data & Eng), Harish Talreja (CFO), Gaurav Girotra (CCO).",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai legal compliance data licensing GDPR PDPA",
+   "status": "done",
+   "found": "ISO 27001:2022, SOC-2, GDPR, PDPA compliant. DPA available. No litigation found. Solv Pte Ltd (UEN 202132066C) is the operating entity.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai MCA filing CIN registered office Singapore",
+   "status": "done",
+   "found": "Solv Pte Ltd, UEN/CIN 202132066C, incorporated 2021-09-14, registered at 8 Craig Road #02-01 Singapore 089668. Active per ACRA.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai products data sources API sector coverage",
+   "status": "done",
+   "found": "Agent Foundry platform with hoppr, All-e, Extract, Chattr, Cartlyst, Turbo; Commerce Knowledge Graph; Data Connectors; 100+ channels; 100M+ data points daily",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai customers hedge funds banks PE alternative data",
+   "status": "done",
+   "found": "Named enterprise customers: Schneider Electric, DKSH, Mars Wrigley, Puma, Victoria's Secret, Unilever, Canon, PI Industries, Haleon, David Jones, Chemist Warehouse, Toys\"R\"Us, Mitre10, Omron, Paula's Choice. No hedge fund/bank customers found.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai funding round Prime Ventures Marico INCA verify",
+   "status": "done",
+   "found": "No Prime Ventures or Marico INCA investors found. Actual investors: LemmaTree (Temasek), Tin Men Capital, Integra Partners, Xander Group, Incred Wealth, ORZON Ventures, Yuj Ventures, AJ Capital, 500 Global, Arise Ventures.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai founders Prem Bhatia Ashwin Puri executives team",
+   "status": "done",
+   "found": "Prem Bhatia (CEO), Ashwin Puri (CBO), Vivek P. (CTO). Exec team includes Abhishek Jakhotiya (VP Eng), Karuppusamy S (Dir Eng), Sidhant Das (Dir Data & Eng), Harish Talreja (CFO), Gaurav Girotra (CCO).",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai legal compliance data licensing GDPR PDPA",
+   "status": "done",
+   "found": "ISO 27001:2022, SOC-2, GDPR, PDPA compliant. DPA available. No litigation found. Solv Pte Ltd (UEN 202132066C) is the operating entity.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai MCA filing CIN registered office Singapore",
+   "status": "done",
+   "found": "Solv Pte Ltd, UEN/CIN 202132066C, incorporated 2021-09-14, registered at 8 Craig Road #02-01 Singapore 089668. Active per ACRA.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai products data sources API sector coverage",
+   "status": "done",
+   "found": "Agent Foundry platform with hoppr, All-e, Extract, Chattr, Cartlyst, Turbo; Commerce Knowledge Graph; Data Connectors; 100+ channels; 100M+ data points daily",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai customers hedge funds banks PE alternative data",
+   "status": "done",
+   "found": "Named enterprise customers: Schneider Electric, DKSH, Mars Wrigley, Puma, Victoria's Secret, Unilever, Canon, PI Industries, Haleon, David Jones, Chemist Warehouse, Toys\"R\"Us, Mitre10, Omron, Paula's Choice. No hedge fund/bank customers found.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai funding round Prime Ventures Marico INCA verify",
+   "status": "done",
+   "found": "No Prime Ventures or Marico INCA investors found. Actual investors: LemmaTree (Temasek), Tin Men Capital, Integra Partners, Xander Group, Incred Wealth, ORZON Ventures, Yuj Ventures, AJ Capital, 500 Global, Arise Ventures.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai founders Prem Bhatia Ashwin Puri executives team",
+   "status": "done",
+   "found": "Prem Bhatia (CEO), Ashwin Puri (CBO), Vivek P. (CTO). Exec team includes Abhishek Jakhotiya (VP Eng), Karuppusamy S (Dir Eng), Sidhant Das (Dir Data & Eng), Harish Talreja (CFO), Gaurav Girotra (CCO).",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai legal compliance data licensing GDPR PDPA",
+   "status": "done",
+   "found": "ISO 27001:2022, SOC-2, GDPR, PDPA compliant. DPA available. No litigation found. Solv Pte Ltd (UEN 202132066C) is the operating entity.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai MCA filing CIN registered office Singapore",
+   "status": "done",
+   "found": "Solv Pte Ltd, UEN/CIN 202132066C, incorporated 2021-09-14, registered at 8 Craig Road #02-01 Singapore 089668. Active per ACRA.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai products data sources API sector coverage",
+   "status": "done",
+   "found": "Agent Foundry platform with hoppr, All-e, Extract, Chattr, Cartlyst, Turbo; Commerce Knowledge Graph; Data Connectors; 100+ channels; 100M+ data points daily",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai customers hedge funds banks PE alternative data",
+   "status": "done",
+   "found": "Named enterprise customers: Schneider Electric, DKSH, Mars Wrigley, Puma, Victoria's Secret, Unilever, Canon, PI Industries, Haleon, David Jones, Chemist Warehouse, Toys\"R\"Us, Mitre10, Omron, Paula's Choice. No hedge fund/bank customers found.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai funding round Prime Ventures Marico INCA verify",
+   "status": "done",
+   "found": "No Prime Ventures or Marico INCA investors found. Actual investors: LemmaTree (Temasek), Tin Men Capital, Integra Partners, Xander Group, Incred Wealth, ORZON Ventures, Yuj Ventures, AJ Capital, 500 Global, Arise Ventures.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai founders Prem Bhatia Ashwin Puri executives team",
+   "status": "done",
+   "found": "Prem Bhatia (CEO), Ashwin Puri (CBO), Vivek P. (CTO). Exec team includes Abhishek Jakhotiya (VP Eng), Karuppusamy S (Dir Eng), Sidhant Das (Dir Data & Eng), Harish Talreja (CFO), Gaurav Girotra (CCO).",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai legal compliance data licensing GDPR PDPA",
+   "status": "done",
+   "found": "ISO 27001:2022, SOC-2, GDPR, PDPA compliant. DPA available. No litigation found. Solv Pte Ltd (UEN 202132066C) is the operating entity.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai MCA filing CIN registered office Singapore",
+   "status": "done",
+   "found": "Solv Pte Ltd, UEN/CIN 202132066C, incorporated 2021-09-14, registered at 8 Craig Road #02-01 Singapore 089668. Active per ACRA.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai products data sources API sector coverage",
+   "status": "done",
+   "found": "Agent Foundry platform with hoppr, All-e, Extract, Chattr, Cartlyst, Turbo; Commerce Knowledge Graph; Data Connectors; 100+ channels; 100M+ data points daily",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai customers hedge funds banks PE alternative data",
+   "status": "done",
+   "found": "Named enterprise customers: Schneider Electric, DKSH, Mars Wrigley, Puma, Victoria's Secret, Unilever, Canon, PI Industries, Haleon, David Jones, Chemist Warehouse, Toys\"R\"Us, Mitre10, Omron, Paula's Choice. No hedge fund/bank customers found.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai funding round Prime Ventures Marico INCA verify",
+   "status": "done",
+   "found": "No Prime Ventures or Marico INCA investors found. Actual investors: LemmaTree (Temasek), Tin Men Capital, Integra Partners, Xander Group, Incred Wealth, ORZON Ventures, Yuj Ventures, AJ Capital, 500 Global, Arise Ventures.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai founders Prem Bhatia Ashwin Puri executives team",
+   "status": "done",
+   "found": "Prem Bhatia (CEO), Ashwin Puri (CBO), Vivek P. (CTO). Exec team includes Abhishek Jakhotiya (VP Eng), Karuppusamy S (Dir Eng), Sidhant Das (Dir Data & Eng), Harish Talreja (CFO), Gaurav Girotra (CCO).",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai legal compliance data licensing GDPR PDPA",
+   "status": "done",
+   "found": "ISO 27001:2022, SOC-2, GDPR, PDPA compliant. DPA available. No litigation found. Solv Pte Ltd (UEN 202132066C) is the operating entity.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai MCA filing CIN registered office Singapore",
+   "status": "done",
+   "found": "Solv Pte Ltd, UEN/CIN 202132066C, incorporated 2021-09-14, registered at 8 Craig Road #02-01 Singapore 089668. Active per ACRA.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai products data sources API sector coverage",
+   "status": "done",
+   "found": "Agent Foundry platform with hoppr, All-e, Extract, Chattr, Cartlyst, Turbo; Commerce Knowledge Graph; Data Connectors; 100+ channels; 100M+ data points daily",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai customers hedge funds banks PE alternative data",
+   "status": "done",
+   "found": "Named enterprise customers: Schneider Electric, DKSH, Mars Wrigley, Puma, Victoria's Secret, Unilever, Canon, PI Industries, Haleon, David Jones, Chemist Warehouse, Toys\"R\"Us, Mitre10, Omron, Paula's Choice. No hedge fund/bank customers found.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai funding round Prime Ventures Marico INCA verify",
+   "status": "done",
+   "found": "No Prime Ventures or Marico INCA investors found. Actual investors: LemmaTree (Temasek), Tin Men Capital, Integra Partners, Xander Group, Incred Wealth, ORZON Ventures, Yuj Ventures, AJ Capital, 500 Global, Arise Ventures.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai founders Prem Bhatia Ashwin Puri executives team",
+   "status": "done",
+   "found": "Prem Bhatia (CEO), Ashwin Puri (CBO), Vivek P. (CTO). Exec team includes Abhishek Jakhotiya (VP Eng), Karuppusamy S (Dir Eng), Sidhant Das (Dir Data & Eng), Harish Talreja (CFO), Gaurav Girotra (CCO).",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai legal compliance data licensing GDPR PDPA",
+   "status": "done",
+   "found": "ISO 27001:2022, SOC-2, GDPR, PDPA compliant. DPA available. No litigation found. Solv Pte Ltd (UEN 202132066C) is the operating entity.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai MCA filing CIN registered office Singapore",
+   "status": "done",
+   "found": "Solv Pte Ltd, UEN/CIN 202132066C, incorporated 2021-09-14, registered at 8 Craig Road #02-01 Singapore 089668. Active per ACRA.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai products data sources API sector coverage",
+   "status": "done",
+   "found": "Agent Foundry platform with hoppr, All-e, Extract, Chattr, Cartlyst, Turbo; Commerce Knowledge Graph; Data Connectors; 100+ channels; 100M+ data points daily",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai customers hedge funds banks PE alternative data",
+   "status": "done",
+   "found": "Named enterprise customers: Schneider Electric, DKSH, Mars Wrigley, Puma, Victoria's Secret, Unilever, Canon, PI Industries, Haleon, David Jones, Chemist Warehouse, Toys\"R\"Us, Mitre10, Omron, Paula's Choice. No hedge fund/bank customers found.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai funding round Prime Ventures Marico INCA verify",
+   "status": "done",
+   "found": "No Prime Ventures or Marico INCA investors found. Actual investors: LemmaTree (Temasek), Tin Men Capital, Integra Partners, Xander Group, Incred Wealth, ORZON Ventures, Yuj Ventures, AJ Capital, 500 Global, Arise Ventures.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai founders Prem Bhatia Ashwin Puri executives team",
+   "status": "done",
+   "found": "Prem Bhatia (CEO), Ashwin Puri (CBO), Vivek P. (CTO). Exec team includes Abhishek Jakhotiya (VP Eng), Karuppusamy S (Dir Eng), Sidhant Das (Dir Data & Eng), Harish Talreja (CFO), Gaurav Girotra (CCO).",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai legal compliance data licensing GDPR PDPA",
+   "status": "done",
+   "found": "ISO 27001:2022, SOC-2, GDPR, PDPA compliant. DPA available. No litigation found. Solv Pte Ltd (UEN 202132066C) is the operating entity.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai MCA filing CIN registered office Singapore",
+   "status": "done",
+   "found": "Solv Pte Ltd, UEN/CIN 202132066C, incorporated 2021-09-14, registered at 8 Craig Road #02-01 Singapore 089668. Active per ACRA.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai products data sources API sector coverage",
+   "status": "done",
+   "found": "Agent Foundry platform with hoppr, All-e, Extract, Chattr, Cartlyst, Turbo; Commerce Knowledge Graph; Data Connectors; 100+ channels; 100M+ data points daily",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai customers hedge funds banks PE alternative data",
+   "status": "done",
+   "found": "Named enterprise customers: Schneider Electric, DKSH, Mars Wrigley, Puma, Victoria's Secret, Unilever, Canon, PI Industries, Haleon, David Jones, Chemist Warehouse, Toys\"R\"Us, Mitre10, Omron, Paula's Choice. No hedge fund/bank customers found.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai funding round Prime Ventures Marico INCA verify",
+   "status": "done",
+   "found": "No Prime Ventures or Marico INCA investors found. Actual investors: LemmaTree (Temasek), Tin Men Capital, Integra Partners, Xander Group, Incred Wealth, ORZON Ventures, Yuj Ventures, AJ Capital, 500 Global, Arise Ventures.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai founders Prem Bhatia Ashwin Puri executives team",
+   "status": "done",
+   "found": "Prem Bhatia (CEO), Ashwin Puri (CBO), Vivek P. (CTO). Exec team includes Abhishek Jakhotiya (VP Eng), Karuppusamy S (Dir Eng), Sidhant Das (Dir Data & Eng), Harish Talreja (CFO), Gaurav Girotra (CCO).",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai legal compliance data licensing GDPR PDPA",
+   "status": "done",
+   "found": "ISO 27001:2022, SOC-2, GDPR, PDPA compliant. DPA available. No litigation found. Solv Pte Ltd (UEN 202132066C) is the operating entity.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai MCA filing CIN registered office Singapore",
+   "status": "done",
+   "found": "Solv Pte Ltd, UEN/CIN 202132066C, incorporated 2021-09-14, registered at 8 Craig Road #02-01 Singapore 089668. Active per ACRA.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai products data sources API sector coverage",
+   "status": "done",
+   "found": "Agent Foundry platform with hoppr, All-e, Extract, Chattr, Cartlyst, Turbo; Commerce Knowledge Graph; Data Connectors; 100+ channels; 100M+ data points daily",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai customers hedge funds banks PE alternative data",
+   "status": "done",
+   "found": "Named enterprise customers: Schneider Electric, DKSH, Mars Wrigley, Puma, Victoria's Secret, Unilever, Canon, PI Industries, Haleon, David Jones, Chemist Warehouse, Toys\"R\"Us, Mitre10, Omron, Paula's Choice. No hedge fund/bank customers found.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai funding round Prime Ventures Marico INCA verify",
+   "status": "done",
+   "found": "No Prime Ventures or Marico INCA investors found. Actual investors: LemmaTree (Temasek), Tin Men Capital, Integra Partners, Xander Group, Incred Wealth, ORZON Ventures, Yuj Ventures, AJ Capital, 500 Global, Arise Ventures.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai founders Prem Bhatia Ashwin Puri executives team",
+   "status": "done",
+   "found": "Prem Bhatia (CEO), Ashwin Puri (CBO), Vivek P. (CTO). Exec team includes Abhishek Jakhotiya (VP Eng), Karuppusamy S (Dir Eng), Sidhant Das (Dir Data & Eng), Harish Talreja (CFO), Gaurav Girotra (CCO).",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai legal compliance data licensing GDPR PDPA",
+   "status": "done",
+   "found": "ISO 27001:2022, SOC-2, GDPR, PDPA compliant. DPA available. No litigation found. Solv Pte Ltd (UEN 202132066C) is the operating entity.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai MCA filing CIN registered office Singapore",
+   "status": "done",
+   "found": "Solv Pte Ltd, UEN/CIN 202132066C, incorporated 2021-09-14, registered at 8 Craig Road #02-01 Singapore 089668. Active per ACRA.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai products data sources API sector coverage",
+   "status": "done",
+   "found": "Agent Foundry platform with hoppr, All-e, Extract, Chattr, Cartlyst, Turbo; Commerce Knowledge Graph; Data Connectors; 100+ channels; 100M+ data points daily",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai customers hedge funds banks PE alternative data",
+   "status": "done",
+   "found": "Named enterprise customers: Schneider Electric, DKSH, Mars Wrigley, Puma, Victoria's Secret, Unilever, Canon, PI Industries, Haleon, David Jones, Chemist Warehouse, Toys\"R\"Us, Mitre10, Omron, Paula's Choice. No hedge fund/bank customers found.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai funding round Prime Ventures Marico INCA verify",
+   "status": "done",
+   "found": "No Prime Ventures or Marico INCA investors found. Actual investors: LemmaTree (Temasek), Tin Men Capital, Integra Partners, Xander Group, Incred Wealth, ORZON Ventures, Yuj Ventures, AJ Capital, 500 Global, Arise Ventures.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai founders Prem Bhatia Ashwin Puri executives team",
+   "status": "done",
+   "found": "Prem Bhatia (CEO), Ashwin Puri (CBO), Vivek P. (CTO). Exec team includes Abhishek Jakhotiya (VP Eng), Karuppusamy S (Dir Eng), Sidhant Das (Dir Data & Eng), Harish Talreja (CFO), Gaurav Girotra (CCO).",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai legal compliance data licensing GDPR PDPA",
+   "status": "done",
+   "found": "ISO 27001:2022, SOC-2, GDPR, PDPA compliant. DPA available. No litigation found. Solv Pte Ltd (UEN 202132066C) is the operating entity.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai MCA filing CIN registered office Singapore",
+   "status": "done",
+   "found": "Solv Pte Ltd, UEN/CIN 202132066C, incorporated 2021-09-14, registered at 8 Craig Road #02-01 Singapore 089668. Active per ACRA.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai products data sources API sector coverage",
+   "status": "done",
+   "found": "Agent Foundry platform with hoppr, All-e, Extract, Chattr, Cartlyst, Turbo; Commerce Knowledge Graph; Data Connectors; 100+ channels; 100M+ data points daily",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai customers hedge funds banks PE alternative data",
+   "status": "done",
+   "found": "Named enterprise customers: Schneider Electric, DKSH, Mars Wrigley, Puma, Victoria's Secret, Unilever, Canon, PI Industries, Haleon, David Jones, Chemist Warehouse, Toys\"R\"Us, Mitre10, Omron, Paula's Choice. No hedge fund/bank customers found.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai funding round Prime Ventures Marico INCA verify",
+   "status": "done",
+   "found": "No Prime Ventures or Marico INCA investors found. Actual investors: LemmaTree (Temasek), Tin Men Capital, Integra Partners, Xander Group, Incred Wealth, ORZON Ventures, Yuj Ventures, AJ Capital, 500 Global, Arise Ventures.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai founders Prem Bhatia Ashwin Puri executives team",
+   "status": "done",
+   "found": "Prem Bhatia (CEO), Ashwin Puri (CBO), Vivek P. (CTO). Exec team includes Abhishek Jakhotiya (VP Eng), Karuppusamy S (Dir Eng), Sidhant Das (Dir Data & Eng), Harish Talreja (CFO), Gaurav Girotra (CCO).",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai legal compliance data licensing GDPR PDPA",
+   "status": "done",
+   "found": "ISO 27001:2022, SOC-2, GDPR, PDPA compliant. DPA available. No litigation found. Solv Pte Ltd (UEN 202132066C) is the operating entity.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai MCA filing CIN registered office Singapore",
+   "status": "done",
+   "found": "Solv Pte Ltd, UEN/CIN 202132066C, incorporated 2021-09-14, registered at 8 Craig Road #02-01 Singapore 089668. Active per ACRA.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai products data sources API sector coverage",
+   "status": "done",
+   "found": "Agent Foundry platform with hoppr, All-e, Extract, Chattr, Cartlyst, Turbo; Commerce Knowledge Graph; Data Connectors; 100+ channels; 100M+ data points daily",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai customers hedge funds banks PE alternative data",
+   "status": "done",
+   "found": "Named enterprise customers: Schneider Electric, DKSH, Mars Wrigley, Puma, Victoria's Secret, Unilever, Canon, PI Industries, Haleon, David Jones, Chemist Warehouse, Toys\"R\"Us, Mitre10, Omron, Paula's Choice. No hedge fund/bank customers found.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai funding round Prime Ventures Marico INCA verify",
+   "status": "done",
+   "found": "No Prime Ventures or Marico INCA investors found. Actual investors: LemmaTree (Temasek), Tin Men Capital, Integra Partners, Xander Group, Incred Wealth, ORZON Ventures, Yuj Ventures, AJ Capital, 500 Global, Arise Ventures.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai founders Prem Bhatia Ashwin Puri executives team",
+   "status": "done",
+   "found": "Prem Bhatia (CEO), Ashwin Puri (CBO), Vivek P. (CTO). Exec team includes Abhishek Jakhotiya (VP Eng), Karuppusamy S (Dir Eng), Sidhant Das (Dir Data & Eng), Harish Talreja (CFO), Gaurav Girotra (CCO).",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai legal compliance data licensing GDPR PDPA",
+   "status": "done",
+   "found": "ISO 27001:2022, SOC-2, GDPR, PDPA compliant. DPA available. No litigation found. Solv Pte Ltd (UEN 202132066C) is the operating entity.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai MCA filing CIN registered office Singapore",
+   "status": "done",
+   "found": "Solv Pte Ltd, UEN/CIN 202132066C, incorporated 2021-09-14, registered at 8 Craig Road #02-01 Singapore 089668. Active per ACRA.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai products data sources API sector coverage",
+   "status": "done",
+   "found": "Agent Foundry platform with hoppr, All-e, Extract, Chattr, Cartlyst, Turbo; Commerce Knowledge Graph; Data Connectors; 100+ channels; 100M+ data points daily",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai customers hedge funds banks PE alternative data",
+   "status": "done",
+   "found": "Named enterprise customers: Schneider Electric, DKSH, Mars Wrigley, Puma, Victoria's Secret, Unilever, Canon, PI Industries, Haleon, David Jones, Chemist Warehouse, Toys\"R\"Us, Mitre10, Omron, Paula's Choice. No hedge fund/bank customers found.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai funding round Prime Ventures Marico INCA verify",
+   "status": "done",
+   "found": "No Prime Ventures or Marico INCA investors found. Actual investors: LemmaTree (Temasek), Tin Men Capital, Integra Partners, Xander Group, Incred Wealth, ORZON Ventures, Yuj Ventures, AJ Capital, 500 Global, Arise Ventures.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai founders Prem Bhatia Ashwin Puri executives team",
+   "status": "done",
+   "found": "Prem Bhatia (CEO), Ashwin Puri (CBO), Vivek P. (CTO). Exec team includes Abhishek Jakhotiya (VP Eng), Karuppusamy S (Dir Eng), Sidhant Das (Dir Data & Eng), Harish Talreja (CFO), Gaurav Girotra (CCO).",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai legal compliance data licensing GDPR PDPA",
+   "status": "done",
+   "found": "ISO 27001:2022, SOC-2, GDPR, PDPA compliant. DPA available. No litigation found. Solv Pte Ltd (UEN 202132066C) is the operating entity.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai MCA filing CIN registered office Singapore",
+   "status": "done",
+   "found": "Solv Pte Ltd, UEN/CIN 202132066C, incorporated 2021-09-14, registered at 8 Craig Road #02-01 Singapore 089668. Active per ACRA.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai products data sources API sector coverage",
+   "status": "done",
+   "found": "Agent Foundry platform with hoppr, All-e, Extract, Chattr, Cartlyst, Turbo; Commerce Knowledge Graph; Data Connectors; 100+ channels; 100M+ data points daily",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai customers hedge funds banks PE alternative data",
+   "status": "done",
+   "found": "Named enterprise customers: Schneider Electric, DKSH, Mars Wrigley, Puma, Victoria's Secret, Unilever, Canon, PI Industries, Haleon, David Jones, Chemist Warehouse, Toys\"R\"Us, Mitre10, Omron, Paula's Choice. No hedge fund/bank customers found.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai funding round Prime Ventures Marico INCA verify",
+   "status": "done",
+   "found": "No Prime Ventures or Marico INCA investors found. Actual investors: LemmaTree (Temasek), Tin Men Capital, Integra Partners, Xander Group, Incred Wealth, ORZON Ventures, Yuj Ventures, AJ Capital, 500 Global, Arise Ventures.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai founders Prem Bhatia Ashwin Puri executives team",
+   "status": "done",
+   "found": "Prem Bhatia (CEO), Ashwin Puri (CBO), Vivek P. (CTO). Exec team includes Abhishek Jakhotiya (VP Eng), Karuppusamy S (Dir Eng), Sidhant Das (Dir Data & Eng), Harish Talreja (CFO), Gaurav Girotra (CCO).",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai legal compliance data licensing GDPR PDPA",
+   "status": "done",
+   "found": "ISO 27001:2022, SOC-2, GDPR, PDPA compliant. DPA available. No litigation found. Solv Pte Ltd (UEN 202132066C) is the operating entity.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai MCA filing CIN registered office Singapore",
+   "status": "done",
+   "found": "Solv Pte Ltd, UEN/CIN 202132066C, incorporated 2021-09-14, registered at 8 Craig Road #02-01 Singapore 089668. Active per ACRA.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai products data sources API sector coverage",
+   "status": "done",
+   "found": "Agent Foundry platform with hoppr, All-e, Extract, Chattr, Cartlyst, Turbo; Commerce Knowledge Graph; Data Connectors; 100+ channels; 100M+ data points daily",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai customers hedge funds banks PE alternative data",
+   "status": "done",
+   "found": "Named enterprise customers: Schneider Electric, DKSH, Mars Wrigley, Puma, Victoria's Secret, Unilever, Canon, PI Industries, Haleon, David Jones, Chemist Warehouse, Toys\"R\"Us, Mitre10, Omron, Paula's Choice. No hedge fund/bank customers found.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai funding round Prime Ventures Marico INCA verify",
+   "status": "done",
+   "found": "No Prime Ventures or Marico INCA investors found. Actual investors: LemmaTree (Temasek), Tin Men Capital, Integra Partners, Xander Group, Incred Wealth, ORZON Ventures, Yuj Ventures, AJ Capital, 500 Global, Arise Ventures.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai founders Prem Bhatia Ashwin Puri executives team",
+   "status": "done",
+   "found": "Prem Bhatia (CEO), Ashwin Puri (CBO), Vivek P. (CTO). Exec team includes Abhishek Jakhotiya (VP Eng), Karuppusamy S (Dir Eng), Sidhant Das (Dir Data & Eng), Harish Talreja (CFO), Gaurav Girotra (CCO).",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai legal compliance data licensing GDPR PDPA",
+   "status": "done",
+   "found": "ISO 27001:2022, SOC-2, GDPR, PDPA compliant. DPA available. No litigation found. Solv Pte Ltd (UEN 202132066C) is the operating entity.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai MCA filing CIN registered office Singapore",
+   "status": "done",
+   "found": "Solv Pte Ltd, UEN/CIN 202132066C, incorporated 2021-09-14, registered at 8 Craig Road #02-01 Singapore 089668. Active per ACRA.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai products data sources API sector coverage",
+   "status": "done",
+   "found": "Agent Foundry platform with hoppr, All-e, Extract, Chattr, Cartlyst, Turbo; Commerce Knowledge Graph; Data Connectors; 100+ channels; 100M+ data points daily",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai customers hedge funds banks PE alternative data",
+   "status": "done",
+   "found": "Named enterprise customers: Schneider Electric, DKSH, Mars Wrigley, Puma, Victoria's Secret, Unilever, Canon, PI Industries, Haleon, David Jones, Chemist Warehouse, Toys\"R\"Us, Mitre10, Omron, Paula's Choice. No hedge fund/bank customers found.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai funding round Prime Ventures Marico INCA verify",
+   "status": "done",
+   "found": "No Prime Ventures or Marico INCA investors found. Actual investors: LemmaTree (Temasek), Tin Men Capital, Integra Partners, Xander Group, Incred Wealth, ORZON Ventures, Yuj Ventures, AJ Capital, 500 Global, Arise Ventures.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai founders Prem Bhatia Ashwin Puri executives team",
+   "status": "done",
+   "found": "Prem Bhatia (CEO), Ashwin Puri (CBO), Vivek P. (CTO). Exec team includes Abhishek Jakhotiya (VP Eng), Karuppusamy S (Dir Eng), Sidhant Das (Dir Data & Eng), Harish Talreja (CFO), Gaurav Girotra (CCO).",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai legal compliance data licensing GDPR PDPA",
+   "status": "done",
+   "found": "ISO 27001:2022, SOC-2, GDPR, PDPA compliant. DPA available. No litigation found. Solv Pte Ltd (UEN 202132066C) is the operating entity.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai MCA filing CIN registered office Singapore",
+   "status": "done",
+   "found": "Solv Pte Ltd, UEN/CIN 202132066C, incorporated 2021-09-14, registered at 8 Craig Road #02-01 Singapore 089668. Active per ACRA.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai products data sources API sector coverage",
+   "status": "done",
+   "found": "Agent Foundry platform with hoppr, All-e, Extract, Chattr, Cartlyst, Turbo; Commerce Knowledge Graph; Data Connectors; 100+ channels; 100M+ data points daily",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai customers hedge funds banks PE alternative data",
+   "status": "done",
+   "found": "Named enterprise customers: Schneider Electric, DKSH, Mars Wrigley, Puma, Victoria's Secret, Unilever, Canon, PI Industries, Haleon, David Jones, Chemist Warehouse, Toys\"R\"Us, Mitre10, Omron, Paula's Choice. No hedge fund/bank customers found.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai funding round Prime Ventures Marico INCA verify",
+   "status": "done",
+   "found": "No Prime Ventures or Marico INCA investors found. Actual investors: LemmaTree (Temasek), Tin Men Capital, Integra Partners, Xander Group, Incred Wealth, ORZON Ventures, Yuj Ventures, AJ Capital, 500 Global, Arise Ventures.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai founders Prem Bhatia Ashwin Puri executives team",
+   "status": "done",
+   "found": "Prem Bhatia (CEO), Ashwin Puri (CBO), Vivek P. (CTO). Exec team includes Abhishek Jakhotiya (VP Eng), Karuppusamy S (Dir Eng), Sidhant Das (Dir Data & Eng), Harish Talreja (CFO), Gaurav Girotra (CCO).",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai legal compliance data licensing GDPR PDPA",
+   "status": "done",
+   "found": "ISO 27001:2022, SOC-2, GDPR, PDPA compliant. DPA available. No litigation found. Solv Pte Ltd (UEN 202132066C) is the operating entity.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai MCA filing CIN registered office Singapore",
+   "status": "done",
+   "found": "Solv Pte Ltd, UEN/CIN 202132066C, incorporated 2021-09-14, registered at 8 Craig Road #02-01 Singapore 089668. Active per ACRA.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai products data sources API sector coverage",
+   "status": "done",
+   "found": "Agent Foundry platform with hoppr, All-e, Extract, Chattr, Cartlyst, Turbo; Commerce Knowledge Graph; Data Connectors; 100+ channels; 100M+ data points daily",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai customers hedge funds banks PE alternative data",
+   "status": "done",
+   "found": "Named enterprise customers: Schneider Electric, DKSH, Mars Wrigley, Puma, Victoria's Secret, Unilever, Canon, PI Industries, Haleon, David Jones, Chemist Warehouse, Toys\"R\"Us, Mitre10, Omron, Paula's Choice. No hedge fund/bank customers found.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai funding round Prime Ventures Marico INCA verify",
+   "status": "done",
+   "found": "No Prime Ventures or Marico INCA investors found. Actual investors: LemmaTree (Temasek), Tin Men Capital, Integra Partners, Xander Group, Incred Wealth, ORZON Ventures, Yuj Ventures, AJ Capital, 500 Global, Arise Ventures.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai founders Prem Bhatia Ashwin Puri executives team",
+   "status": "done",
+   "found": "Prem Bhatia (CEO), Ashwin Puri (CBO), Vivek P. (CTO). Exec team includes Abhishek Jakhotiya (VP Eng), Karuppusamy S (Dir Eng), Sidhant Das (Dir Data & Eng), Harish Talreja (CFO), Gaurav Girotra (CCO).",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai legal compliance data licensing GDPR PDPA",
+   "status": "done",
+   "found": "ISO 27001:2022, SOC-2, GDPR, PDPA compliant. DPA available. No litigation found. Solv Pte Ltd (UEN 202132066C) is the operating entity.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai MCA filing CIN registered office Singapore",
+   "status": "done",
+   "found": "Solv Pte Ltd, UEN/CIN 202132066C, incorporated 2021-09-14, registered at 8 Craig Road #02-01 Singapore 089668. Active per ACRA.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai products data sources API sector coverage",
+   "status": "done",
+   "found": "Agent Foundry platform with hoppr, All-e, Extract, Chattr, Cartlyst, Turbo; Commerce Knowledge Graph; Data Connectors; 100+ channels; 100M+ data points daily",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai customers hedge funds banks PE alternative data",
+   "status": "done",
+   "found": "Named enterprise customers: Schneider Electric, DKSH, Mars Wrigley, Puma, Victoria's Secret, Unilever, Canon, PI Industries, Haleon, David Jones, Chemist Warehouse, Toys\"R\"Us, Mitre10, Omron, Paula's Choice. No hedge fund/bank customers found.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai funding round Prime Ventures Marico INCA verify",
+   "status": "done",
+   "found": "No Prime Ventures or Marico INCA investors found. Actual investors: LemmaTree (Temasek), Tin Men Capital, Integra Partners, Xander Group, Incred Wealth, ORZON Ventures, Yuj Ventures, AJ Capital, 500 Global, Arise Ventures.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai founders Prem Bhatia Ashwin Puri executives team",
+   "status": "done",
+   "found": "Prem Bhatia (CEO), Ashwin Puri (CBO), Vivek P. (CTO). Exec team includes Abhishek Jakhotiya (VP Eng), Karuppusamy S (Dir Eng), Sidhant Das (Dir Data & Eng), Harish Talreja (CFO), Gaurav Girotra (CCO).",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai legal compliance data licensing GDPR PDPA",
+   "status": "done",
+   "found": "ISO 27001:2022, SOC-2, GDPR, PDPA compliant. DPA available. No litigation found. Solv Pte Ltd (UEN 202132066C) is the operating entity.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai MCA filing CIN registered office Singapore",
+   "status": "done",
+   "found": "Solv Pte Ltd, UEN/CIN 202132066C, incorporated 2021-09-14, registered at 8 Craig Road #02-01 Singapore 089668. Active per ACRA.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai products data sources API sector coverage",
+   "status": "done",
+   "found": "Agent Foundry platform with hoppr, All-e, Extract, Chattr, Cartlyst, Turbo; Commerce Knowledge Graph; Data Connectors; 100+ channels; 100M+ data points daily",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai customers hedge funds banks PE alternative data",
+   "status": "done",
+   "found": "Named enterprise customers: Schneider Electric, DKSH, Mars Wrigley, Puma, Victoria's Secret, Unilever, Canon, PI Industries, Haleon, David Jones, Chemist Warehouse, Toys\"R\"Us, Mitre10, Omron, Paula's Choice. No hedge fund/bank customers found.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai funding round Prime Ventures Marico INCA verify",
+   "status": "done",
+   "found": "No Prime Ventures or Marico INCA investors found. Actual investors: LemmaTree (Temasek), Tin Men Capital, Integra Partners, Xander Group, Incred Wealth, ORZON Ventures, Yuj Ventures, AJ Capital, 500 Global, Arise Ventures.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai founders Prem Bhatia Ashwin Puri executives team",
+   "status": "done",
+   "found": "Prem Bhatia (CEO), Ashwin Puri (CBO), Vivek P. (CTO). Exec team includes Abhishek Jakhotiya (VP Eng), Karuppusamy S (Dir Eng), Sidhant Das (Dir Data & Eng), Harish Talreja (CFO), Gaurav Girotra (CCO).",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai legal compliance data licensing GDPR PDPA",
+   "status": "done",
+   "found": "ISO 27001:2022, SOC-2, GDPR, PDPA compliant. DPA available. No litigation found. Solv Pte Ltd (UEN 202132066C) is the operating entity.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai MCA filing CIN registered office Singapore",
+   "status": "done",
+   "found": "Solv Pte Ltd, UEN/CIN 202132066C, incorporated 2021-09-14, registered at 8 Craig Road #02-01 Singapore 089668. Active per ACRA.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai products data sources API sector coverage",
+   "status": "done",
+   "found": "Agent Foundry platform with hoppr, All-e, Extract, Chattr, Cartlyst, Turbo; Commerce Knowledge Graph; Data Connectors; 100+ channels; 100M+ data points daily",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai customers hedge funds banks PE alternative data",
+   "status": "done",
+   "found": "Named enterprise customers: Schneider Electric, DKSH, Mars Wrigley, Puma, Victoria's Secret, Unilever, Canon, PI Industries, Haleon, David Jones, Chemist Warehouse, Toys\"R\"Us, Mitre10, Omron, Paula's Choice. No hedge fund/bank customers found.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai funding round Prime Ventures Marico INCA verify",
+   "status": "done",
+   "found": "No Prime Ventures or Marico INCA investors found. Actual investors: LemmaTree (Temasek), Tin Men Capital, Integra Partners, Xander Group, Incred Wealth, ORZON Ventures, Yuj Ventures, AJ Capital, 500 Global, Arise Ventures.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai founders Prem Bhatia Ashwin Puri executives team",
+   "status": "done",
+   "found": "Prem Bhatia (CEO), Ashwin Puri (CBO), Vivek P. (CTO). Exec team includes Abhishek Jakhotiya (VP Eng), Karuppusamy S (Dir Eng), Sidhant Das (Dir Data & Eng), Harish Talreja (CFO), Gaurav Girotra (CCO).",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai legal compliance data licensing GDPR PDPA",
+   "status": "done",
+   "found": "ISO 27001:2022, SOC-2, GDPR, PDPA compliant. DPA available. No litigation found. Solv Pte Ltd (UEN 202132066C) is the operating entity.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai MCA filing CIN registered office Singapore",
+   "status": "done",
+   "found": "Solv Pte Ltd, UEN/CIN 202132066C, incorporated 2021-09-14, registered at 8 Craig Road #02-01 Singapore 089668. Active per ACRA.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai products data sources API sector coverage",
+   "status": "done",
+   "found": "Agent Foundry platform with hoppr, All-e, Extract, Chattr, Cartlyst, Turbo; Commerce Knowledge Graph; Data Connectors; 100+ channels; 100M+ data points daily",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai customers hedge funds banks PE alternative data",
+   "status": "done",
+   "found": "Named enterprise customers: Schneider Electric, DKSH, Mars Wrigley, Puma, Victoria's Secret, Unilever, Canon, PI Industries, Haleon, David Jones, Chemist Warehouse, Toys\"R\"Us, Mitre10, Omron, Paula's Choice. No hedge fund/bank customers found.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai funding round Prime Ventures Marico INCA verify",
+   "status": "done",
+   "found": "No Prime Ventures or Marico INCA investors found. Actual investors: LemmaTree (Temasek), Tin Men Capital, Integra Partners, Xander Group, Incred Wealth, ORZON Ventures, Yuj Ventures, AJ Capital, 500 Global, Arise Ventures.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai founders Prem Bhatia Ashwin Puri executives team",
+   "status": "done",
+   "found": "Prem Bhatia (CEO), Ashwin Puri (CBO), Vivek P. (CTO). Exec team includes Abhishek Jakhotiya (VP Eng), Karuppusamy S (Dir Eng), Sidhant Das (Dir Data & Eng), Harish Talreja (CFO), Gaurav Girotra (CCO).",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai legal compliance data licensing GDPR PDPA",
+   "status": "done",
+   "found": "ISO 27001:2022, SOC-2, GDPR, PDPA compliant. DPA available. No litigation found. Solv Pte Ltd (UEN 202132066C) is the operating entity.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai MCA filing CIN registered office Singapore",
+   "status": "done",
+   "found": "Solv Pte Ltd, UEN/CIN 202132066C, incorporated 2021-09-14, registered at 8 Craig Road #02-01 Singapore 089668. Active per ACRA.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai products data sources API sector coverage",
+   "status": "done",
+   "found": "Agent Foundry platform with hoppr, All-e, Extract, Chattr, Cartlyst, Turbo; Commerce Knowledge Graph; Data Connectors; 100+ channels; 100M+ data points daily",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai customers hedge funds banks PE alternative data",
+   "status": "done",
+   "found": "Named enterprise customers: Schneider Electric, DKSH, Mars Wrigley, Puma, Victoria's Secret, Unilever, Canon, PI Industries, Haleon, David Jones, Chemist Warehouse, Toys\"R\"Us, Mitre10, Omron, Paula's Choice. No hedge fund/bank customers found.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai funding round Prime Ventures Marico INCA verify",
+   "status": "done",
+   "found": "No Prime Ventures or Marico INCA investors found. Actual investors: LemmaTree (Temasek), Tin Men Capital, Integra Partners, Xander Group, Incred Wealth, ORZON Ventures, Yuj Ventures, AJ Capital, 500 Global, Arise Ventures.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai founders Prem Bhatia Ashwin Puri executives team",
+   "status": "done",
+   "found": "Prem Bhatia (CEO), Ashwin Puri (CBO), Vivek P. (CTO). Exec team includes Abhishek Jakhotiya (VP Eng), Karuppusamy S (Dir Eng), Sidhant Das (Dir Data & Eng), Harish Talreja (CFO), Gaurav Girotra (CCO).",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai legal compliance data licensing GDPR PDPA",
+   "status": "done",
+   "found": "ISO 27001:2022, SOC-2, GDPR, PDPA compliant. DPA available. No litigation found. Solv Pte Ltd (UEN 202132066C) is the operating entity.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai MCA filing CIN registered office Singapore",
+   "status": "done",
+   "found": "Solv Pte Ltd, UEN/CIN 202132066C, incorporated 2021-09-14, registered at 8 Craig Road #02-01 Singapore 089668. Active per ACRA.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai products data sources API sector coverage",
+   "status": "done",
+   "found": "Agent Foundry platform with hoppr, All-e, Extract, Chattr, Cartlyst, Turbo; Commerce Knowledge Graph; Data Connectors; 100+ channels; 100M+ data points daily",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai customers hedge funds banks PE alternative data",
+   "status": "done",
+   "found": "Named enterprise customers: Schneider Electric, DKSH, Mars Wrigley, Puma, Victoria's Secret, Unilever, Canon, PI Industries, Haleon, David Jones, Chemist Warehouse, Toys\"R\"Us, Mitre10, Omron, Paula's Choice. No hedge fund/bank customers found.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai funding round Prime Ventures Marico INCA verify",
+   "status": "done",
+   "found": "No Prime Ventures or Marico INCA investors found. Actual investors: LemmaTree (Temasek), Tin Men Capital, Integra Partners, Xander Group, Incred Wealth, ORZON Ventures, Yuj Ventures, AJ Capital, 500 Global, Arise Ventures.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai founders Prem Bhatia Ashwin Puri executives team",
+   "status": "done",
+   "found": "Prem Bhatia (CEO), Ashwin Puri (CBO), Vivek P. (CTO). Exec team includes Abhishek Jakhotiya (VP Eng), Karuppusamy S (Dir Eng), Sidhant Das (Dir Data & Eng), Harish Talreja (CFO), Gaurav Girotra (CCO).",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai legal compliance data licensing GDPR PDPA",
+   "status": "done",
+   "found": "ISO 27001:2022, SOC-2, GDPR, PDPA compliant. DPA available. No litigation found. Solv Pte Ltd (UEN 202132066C) is the operating entity.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai MCA filing CIN registered office Singapore",
+   "status": "done",
+   "found": "Solv Pte Ltd, UEN/CIN 202132066C, incorporated 2021-09-14, registered at 8 Craig Road #02-01 Singapore 089668. Active per ACRA.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai products data sources API sector coverage",
+   "status": "done",
+   "found": "Agent Foundry platform with hoppr, All-e, Extract, Chattr, Cartlyst, Turbo; Commerce Knowledge Graph; Data Connectors; 100+ channels; 100M+ data points daily",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai customers hedge funds banks PE alternative data",
+   "status": "done",
+   "found": "Named enterprise customers: Schneider Electric, DKSH, Mars Wrigley, Puma, Victoria's Secret, Unilever, Canon, PI Industries, Haleon, David Jones, Chemist Warehouse, Toys\"R\"Us, Mitre10, Omron, Paula's Choice. No hedge fund/bank customers found.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai funding round Prime Ventures Marico INCA verify",
+   "status": "done",
+   "found": "No Prime Ventures or Marico INCA investors found. Actual investors: LemmaTree (Temasek), Tin Men Capital, Integra Partners, Xander Group, Incred Wealth, ORZON Ventures, Yuj Ventures, AJ Capital, 500 Global, Arise Ventures.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai founders Prem Bhatia Ashwin Puri executives team",
+   "status": "done",
+   "found": "Prem Bhatia (CEO), Ashwin Puri (CBO), Vivek P. (CTO). Exec team includes Abhishek Jakhotiya (VP Eng), Karuppusamy S (Dir Eng), Sidhant Das (Dir Data & Eng), Harish Talreja (CFO), Gaurav Girotra (CCO).",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai legal compliance data licensing GDPR PDPA",
+   "status": "done",
+   "found": "ISO 27001:2022, SOC-2, GDPR, PDPA compliant. DPA available. No litigation found. Solv Pte Ltd (UEN 202132066C) is the operating entity.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai MCA filing CIN registered office Singapore",
+   "status": "done",
+   "found": "Solv Pte Ltd, UEN/CIN 202132066C, incorporated 2021-09-14, registered at 8 Craig Road #02-01 Singapore 089668. Active per ACRA.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai products data sources API sector coverage",
+   "status": "done",
+   "found": "Agent Foundry platform with hoppr, All-e, Extract, Chattr, Cartlyst, Turbo; Commerce Knowledge Graph; Data Connectors; 100+ channels; 100M+ data points daily",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai customers hedge funds banks PE alternative data",
+   "status": "done",
+   "found": "Named enterprise customers: Schneider Electric, DKSH, Mars Wrigley, Puma, Victoria's Secret, Unilever, Canon, PI Industries, Haleon, David Jones, Chemist Warehouse, Toys\"R\"Us, Mitre10, Omron, Paula's Choice. No hedge fund/bank customers found.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai funding round Prime Ventures Marico INCA verify",
+   "status": "done",
+   "found": "No Prime Ventures or Marico INCA investors found. Actual investors: LemmaTree (Temasek), Tin Men Capital, Integra Partners, Xander Group, Incred Wealth, ORZON Ventures, Yuj Ventures, AJ Capital, 500 Global, Arise Ventures.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai founders Prem Bhatia Ashwin Puri executives team",
+   "status": "done",
+   "found": "Prem Bhatia (CEO), Ashwin Puri (CBO), Vivek P. (CTO). Exec team includes Abhishek Jakhotiya (VP Eng), Karuppusamy S (Dir Eng), Sidhant Das (Dir Data & Eng), Harish Talreja (CFO), Gaurav Girotra (CCO).",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai legal compliance data licensing GDPR PDPA",
+   "status": "done",
+   "found": "ISO 27001:2022, SOC-2, GDPR, PDPA compliant. DPA available. No litigation found. Solv Pte Ltd (UEN 202132066C) is the operating entity.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai MCA filing CIN registered office Singapore",
+   "status": "done",
+   "found": "Solv Pte Ltd, UEN/CIN 202132066C, incorporated 2021-09-14, registered at 8 Craig Road #02-01 Singapore 089668. Active per ACRA.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai products data sources API sector coverage",
+   "status": "done",
+   "found": "Agent Foundry platform with hoppr, All-e, Extract, Chattr, Cartlyst, Turbo; Commerce Knowledge Graph; Data Connectors; 100+ channels; 100M+ data points daily",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai customers hedge funds banks PE alternative data",
+   "status": "done",
+   "found": "Named enterprise customers: Schneider Electric, DKSH, Mars Wrigley, Puma, Victoria's Secret, Unilever, Canon, PI Industries, Haleon, David Jones, Chemist Warehouse, Toys\"R\"Us, Mitre10, Omron, Paula's Choice. No hedge fund/bank customers found.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai funding round Prime Ventures Marico INCA verify",
+   "status": "done",
+   "found": "No Prime Ventures or Marico INCA investors found. Actual investors: LemmaTree (Temasek), Tin Men Capital, Integra Partners, Xander Group, Incred Wealth, ORZON Ventures, Yuj Ventures, AJ Capital, 500 Global, Arise Ventures.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai founders Prem Bhatia Ashwin Puri executives team",
+   "status": "done",
+   "found": "Prem Bhatia (CEO), Ashwin Puri (CBO), Vivek P. (CTO). Exec team includes Abhishek Jakhotiya (VP Eng), Karuppusamy S (Dir Eng), Sidhant Das (Dir Data & Eng), Harish Talreja (CFO), Gaurav Girotra (CCO).",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai legal compliance data licensing GDPR PDPA",
+   "status": "done",
+   "found": "ISO 27001:2022, SOC-2, GDPR, PDPA compliant. DPA available. No litigation found. Solv Pte Ltd (UEN 202132066C) is the operating entity.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai MCA filing CIN registered office Singapore",
+   "status": "done",
+   "found": "Solv Pte Ltd, UEN/CIN 202132066C, incorporated 2021-09-14, registered at 8 Craig Road #02-01 Singapore 089668. Active per ACRA.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai products data sources API sector coverage",
+   "status": "done",
+   "found": "Agent Foundry platform with hoppr, All-e, Extract, Chattr, Cartlyst, Turbo; Commerce Knowledge Graph; Data Connectors; 100+ channels; 100M+ data points daily",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai customers hedge funds banks PE alternative data",
+   "status": "done",
+   "found": "Named enterprise customers: Schneider Electric, DKSH, Mars Wrigley, Puma, Victoria's Secret, Unilever, Canon, PI Industries, Haleon, David Jones, Chemist Warehouse, Toys\"R\"Us, Mitre10, Omron, Paula's Choice. No hedge fund/bank customers found.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai funding round Prime Ventures Marico INCA verify",
+   "status": "done",
+   "found": "No Prime Ventures or Marico INCA investors found. Actual investors: LemmaTree (Temasek), Tin Men Capital, Integra Partners, Xander Group, Incred Wealth, ORZON Ventures, Yuj Ventures, AJ Capital, 500 Global, Arise Ventures.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai founders Prem Bhatia Ashwin Puri executives team",
+   "status": "done",
+   "found": "Prem Bhatia (CEO), Ashwin Puri (CBO), Vivek P. (CTO). Exec team includes Abhishek Jakhotiya (VP Eng), Karuppusamy S (Dir Eng), Sidhant Das (Dir Data & Eng), Harish Talreja (CFO), Gaurav Girotra (CCO).",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai legal compliance data licensing GDPR PDPA",
+   "status": "done",
+   "found": "ISO 27001:2022, SOC-2, GDPR, PDPA compliant. DPA available. No litigation found. Solv Pte Ltd (UEN 202132066C) is the operating entity.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai MCA filing CIN registered office Singapore",
+   "status": "done",
+   "found": "Solv Pte Ltd, UEN/CIN 202132066C, incorporated 2021-09-14, registered at 8 Craig Road #02-01 Singapore 089668. Active per ACRA.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai products data sources API sector coverage",
+   "status": "done",
+   "found": "Agent Foundry platform with hoppr, All-e, Extract, Chattr, Cartlyst, Turbo; Commerce Knowledge Graph; Data Connectors; 100+ channels; 100M+ data points daily",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai customers hedge funds banks PE alternative data",
+   "status": "done",
+   "found": "Named enterprise customers: Schneider Electric, DKSH, Mars Wrigley, Puma, Victoria's Secret, Unilever, Canon, PI Industries, Haleon, David Jones, Chemist Warehouse, Toys\"R\"Us, Mitre10, Omron, Paula's Choice. No hedge fund/bank customers found.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai funding round Prime Ventures Marico INCA verify",
+   "status": "done",
+   "found": "No Prime Ventures or Marico INCA investors found. Actual investors: LemmaTree (Temasek), Tin Men Capital, Integra Partners, Xander Group, Incred Wealth, ORZON Ventures, Yuj Ventures, AJ Capital, 500 Global, Arise Ventures.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai founders Prem Bhatia Ashwin Puri executives team",
+   "status": "done",
+   "found": "Prem Bhatia (CEO), Ashwin Puri (CBO), Vivek P. (CTO). Exec team includes Abhishek Jakhotiya (VP Eng), Karuppusamy S (Dir Eng), Sidhant Das (Dir Data & Eng), Harish Talreja (CFO), Gaurav Girotra (CCO).",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai legal compliance data licensing GDPR PDPA",
+   "status": "done",
+   "found": "ISO 27001:2022, SOC-2, GDPR, PDPA compliant. DPA available. No litigation found. Solv Pte Ltd (UEN 202132066C) is the operating entity.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai MCA filing CIN registered office Singapore",
+   "status": "done",
+   "found": "Solv Pte Ltd, UEN/CIN 202132066C, incorporated 2021-09-14, registered at 8 Craig Road #02-01 Singapore 089668. Active per ACRA.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai products data sources API sector coverage",
+   "status": "done",
+   "found": "Agent Foundry platform with hoppr, All-e, Extract, Chattr, Cartlyst, Turbo; Commerce Knowledge Graph; Data Connectors; 100+ channels; 100M+ data points daily",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai customers hedge funds banks PE alternative data",
+   "status": "done",
+   "found": "Named enterprise customers: Schneider Electric, DKSH, Mars Wrigley, Puma, Victoria's Secret, Unilever, Canon, PI Industries, Haleon, David Jones, Chemist Warehouse, Toys\"R\"Us, Mitre10, Omron, Paula's Choice. No hedge fund/bank customers found.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai funding round Prime Ventures Marico INCA verify",
+   "status": "done",
+   "found": "No Prime Ventures or Marico INCA investors found. Actual investors: LemmaTree (Temasek), Tin Men Capital, Integra Partners, Xander Group, Incred Wealth, ORZON Ventures, Yuj Ventures, AJ Capital, 500 Global, Arise Ventures.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai founders Prem Bhatia Ashwin Puri executives team",
+   "status": "done",
+   "found": "Prem Bhatia (CEO), Ashwin Puri (CBO), Vivek P. (CTO). Exec team includes Abhishek Jakhotiya (VP Eng), Karuppusamy S (Dir Eng), Sidhant Das (Dir Data & Eng), Harish Talreja (CFO), Gaurav Girotra (CCO).",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai legal compliance data licensing GDPR PDPA",
+   "status": "done",
+   "found": "ISO 27001:2022, SOC-2, GDPR, PDPA compliant. DPA available. No litigation found. Solv Pte Ltd (UEN 202132066C) is the operating entity.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai MCA filing CIN registered office Singapore",
+   "status": "done",
+   "found": "Solv Pte Ltd, UEN/CIN 202132066C, incorporated 2021-09-14, registered at 8 Craig Road #02-01 Singapore 089668. Active per ACRA.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai products data sources API sector coverage",
+   "status": "done",
+   "found": "Agent Foundry platform with hoppr, All-e, Extract, Chattr, Cartlyst, Turbo; Commerce Knowledge Graph; Data Connectors; 100+ channels; 100M+ data points daily",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai customers hedge funds banks PE alternative data",
+   "status": "done",
+   "found": "Named enterprise customers: Schneider Electric, DKSH, Mars Wrigley, Puma, Victoria's Secret, Unilever, Canon, PI Industries, Haleon, David Jones, Chemist Warehouse, Toys\"R\"Us, Mitre10, Omron, Paula's Choice. No hedge fund/bank customers found.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai funding round Prime Ventures Marico INCA verify",
+   "status": "done",
+   "found": "No Prime Ventures or Marico INCA investors found. Actual investors: LemmaTree (Temasek), Tin Men Capital, Integra Partners, Xander Group, Incred Wealth, ORZON Ventures, Yuj Ventures, AJ Capital, 500 Global, Arise Ventures.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai founders Prem Bhatia Ashwin Puri executives team",
+   "status": "done",
+   "found": "Prem Bhatia (CEO), Ashwin Puri (CBO), Vivek P. (CTO). Exec team includes Abhishek Jakhotiya (VP Eng), Karuppusamy S (Dir Eng), Sidhant Das (Dir Data & Eng), Harish Talreja (CFO), Gaurav Girotra (CCO).",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai legal compliance data licensing GDPR PDPA",
+   "status": "done",
+   "found": "ISO 27001:2022, SOC-2, GDPR, PDPA compliant. DPA available. No litigation found. Solv Pte Ltd (UEN 202132066C) is the operating entity.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai MCA filing CIN registered office Singapore",
+   "status": "done",
+   "found": "Solv Pte Ltd, UEN/CIN 202132066C, incorporated 2021-09-14, registered at 8 Craig Road #02-01 Singapore 089668. Active per ACRA.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai products data sources API sector coverage",
+   "status": "done",
+   "found": "Agent Foundry platform with hoppr, All-e, Extract, Chattr, Cartlyst, Turbo; Commerce Knowledge Graph; Data Connectors; 100+ channels; 100M+ data points daily",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai customers hedge funds banks PE alternative data",
+   "status": "done",
+   "found": "Named enterprise customers: Schneider Electric, DKSH, Mars Wrigley, Puma, Victoria's Secret, Unilever, Canon, PI Industries, Haleon, David Jones, Chemist Warehouse, Toys\"R\"Us, Mitre10, Omron, Paula's Choice. No hedge fund/bank customers found.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai funding round Prime Ventures Marico INCA verify",
+   "status": "done",
+   "found": "No Prime Ventures or Marico INCA investors found. Actual investors: LemmaTree (Temasek), Tin Men Capital, Integra Partners, Xander Group, Incred Wealth, ORZON Ventures, Yuj Ventures, AJ Capital, 500 Global, Arise Ventures.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai founders Prem Bhatia Ashwin Puri executives team",
+   "status": "done",
+   "found": "Prem Bhatia (CEO), Ashwin Puri (CBO), Vivek P. (CTO). Exec team includes Abhishek Jakhotiya (VP Eng), Karuppusamy S (Dir Eng), Sidhant Das (Dir Data & Eng), Harish Talreja (CFO), Gaurav Girotra (CCO).",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai legal compliance data licensing GDPR PDPA",
+   "status": "done",
+   "found": "ISO 27001:2022, SOC-2, GDPR, PDPA compliant. DPA available. No litigation found. Solv Pte Ltd (UEN 202132066C) is the operating entity.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai MCA filing CIN registered office Singapore",
+   "status": "done",
+   "found": "Solv Pte Ltd, UEN/CIN 202132066C, incorporated 2021-09-14, registered at 8 Craig Road #02-01 Singapore 089668. Active per ACRA.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai products data sources API sector coverage",
+   "status": "done",
+   "found": "Agent Foundry platform with hoppr, All-e, Extract, Chattr, Cartlyst, Turbo; Commerce Knowledge Graph; Data Connectors; 100+ channels; 100M+ data points daily",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai customers hedge funds banks PE alternative data",
+   "status": "done",
+   "found": "Named enterprise customers: Schneider Electric, DKSH, Mars Wrigley, Puma, Victoria's Secret, Unilever, Canon, PI Industries, Haleon, David Jones, Chemist Warehouse, Toys\"R\"Us, Mitre10, Omron, Paula's Choice. No hedge fund/bank customers found.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai funding round Prime Ventures Marico INCA verify",
+   "status": "done",
+   "found": "No Prime Ventures or Marico INCA investors found. Actual investors: LemmaTree (Temasek), Tin Men Capital, Integra Partners, Xander Group, Incred Wealth, ORZON Ventures, Yuj Ventures, AJ Capital, 500 Global, Arise Ventures.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai founders Prem Bhatia Ashwin Puri executives team",
+   "status": "done",
+   "found": "Prem Bhatia (CEO), Ashwin Puri (CBO), Vivek P. (CTO). Exec team includes Abhishek Jakhotiya (VP Eng), Karuppusamy S (Dir Eng), Sidhant Das (Dir Data & Eng), Harish Talreja (CFO), Gaurav Girotra (CCO).",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai legal compliance data licensing GDPR PDPA",
+   "status": "done",
+   "found": "ISO 27001:2022, SOC-2, GDPR, PDPA compliant. DPA available. No litigation found. Solv Pte Ltd (UEN 202132066C) is the operating entity.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai MCA filing CIN registered office Singapore",
+   "status": "done",
+   "found": "Solv Pte Ltd, UEN/CIN 202132066C, incorporated 2021-09-14, registered at 8 Craig Road #02-01 Singapore 089668. Active per ACRA.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai products data sources API sector coverage",
+   "status": "done",
+   "found": "Agent Foundry platform with hoppr, All-e, Extract, Chattr, Cartlyst, Turbo; Commerce Knowledge Graph; Data Connectors; 100+ channels; 100M+ data points daily",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai customers hedge funds banks PE alternative data",
+   "status": "done",
+   "found": "Named enterprise customers: Schneider Electric, DKSH, Mars Wrigley, Puma, Victoria's Secret, Unilever, Canon, PI Industries, Haleon, David Jones, Chemist Warehouse, Toys\"R\"Us, Mitre10, Omron, Paula's Choice. No hedge fund/bank customers found.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai funding round Prime Ventures Marico INCA verify",
+   "status": "done",
+   "found": "No Prime Ventures or Marico INCA investors found. Actual investors: LemmaTree (Temasek), Tin Men Capital, Integra Partners, Xander Group, Incred Wealth, ORZON Ventures, Yuj Ventures, AJ Capital, 500 Global, Arise Ventures.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai founders Prem Bhatia Ashwin Puri executives team",
+   "status": "done",
+   "found": "Prem Bhatia (CEO), Ashwin Puri (CBO), Vivek P. (CTO). Exec team includes Abhishek Jakhotiya (VP Eng), Karuppusamy S (Dir Eng), Sidhant Das (Dir Data & Eng), Harish Talreja (CFO), Gaurav Girotra (CCO).",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai legal compliance data licensing GDPR PDPA",
+   "status": "done",
+   "found": "ISO 27001:2022, SOC-2, GDPR, PDPA compliant. DPA available. No litigation found. Solv Pte Ltd (UEN 202132066C) is the operating entity.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai MCA filing CIN registered office Singapore",
+   "status": "done",
+   "found": "Solv Pte Ltd, UEN/CIN 202132066C, incorporated 2021-09-14, registered at 8 Craig Road #02-01 Singapore 089668. Active per ACRA.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai products data sources API sector coverage",
+   "status": "done",
+   "found": "Agent Foundry platform with hoppr, All-e, Extract, Chattr, Cartlyst, Turbo; Commerce Knowledge Graph; Data Connectors; 100+ channels; 100M+ data points daily",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai customers hedge funds banks PE alternative data",
+   "status": "done",
+   "found": "Named enterprise customers: Schneider Electric, DKSH, Mars Wrigley, Puma, Victoria's Secret, Unilever, Canon, PI Industries, Haleon, David Jones, Chemist Warehouse, Toys\"R\"Us, Mitre10, Omron, Paula's Choice. No hedge fund/bank customers found.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai funding round Prime Ventures Marico INCA verify",
+   "status": "done",
+   "found": "No Prime Ventures or Marico INCA investors found. Actual investors: LemmaTree (Temasek), Tin Men Capital, Integra Partners, Xander Group, Incred Wealth, ORZON Ventures, Yuj Ventures, AJ Capital, 500 Global, Arise Ventures.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai founders Prem Bhatia Ashwin Puri executives team",
+   "status": "done",
+   "found": "Prem Bhatia (CEO), Ashwin Puri (CBO), Vivek P. (CTO). Exec team includes Abhishek Jakhotiya (VP Eng), Karuppusamy S (Dir Eng), Sidhant Das (Dir Data & Eng), Harish Talreja (CFO), Gaurav Girotra (CCO).",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai legal compliance data licensing GDPR PDPA",
+   "status": "done",
+   "found": "ISO 27001:2022, SOC-2, GDPR, PDPA compliant. DPA available. No litigation found. Solv Pte Ltd (UEN 202132066C) is the operating entity.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Graas.ai MCA filing CIN registered office Singapore",
+   "status": "done",
+   "found": "Solv Pte Ltd, UEN/CIN 202132066C, incorporated 2021-09-14, registered at 8 Craig Road #02-01 Singapore 089668. Active per ACRA.",
+   "next_action": "",
+   "agent": "P3-WAVE"
+  }
+ ],
+ "sources": [
+  {
+   "publisher": "AsiaTechDaily",
+   "title": "Singapore's Graas.ai Secures $9M Series B",
+   "url": "https://asiatechdaily.com/singapores-graas-ai-secures-9m-series-b-to-scale-ai-powered-agent-foundry/"
+  },
+  {
+   "publisher": "TechTimes",
+   "title": "Graas Raises $17M and Acquires Trustana",
+   "url": "https://www.techtimes.com/articles/324539/20260814/graas-raises-17m-acquires-trustana-temasek-bets-unified-ai-data-asia-retail.htm"
+  },
+  {
+   "url": "https://www.graas.ai/prem",
+   "title": "",
+   "fields": "PEOPLE",
+   "confidence": "HIGH"
+  },
+  {
+   "url": "https://platform.tracxn.com/a/d/company/62ff0eeaabceaa5352997b78/graas",
+   "title": "",
+   "fields": "PEOPLE",
+   "confidence": "HIGH"
+  },
+  {
+   "url": "https://linkedin.com/in/abhishek-jakhotiya",
+   "title": "",
+   "fields": "PEOPLE",
+   "confidence": "MEDIUM"
+  },
+  {
+   "url": "https://linkedin.com/company/graas-ai",
+   "title": "",
+   "fields": "PEOPLE",
+   "confidence": "MEDIUM"
+  },
+  {
+   "url": "https://www.graas.ai/in-the-news/graas-series-b-trustana-acquisition",
+   "title": "",
+   "fields": "PEOPLE",
+   "confidence": "HIGH"
+  },
+  {
+   "url": "https://www.graas.ai",
+   "title": "",
+   "fields": "company",
+   "confidence": "HIGH"
+  },
+  {
+   "url": "https://www.graas.ai/agent-foundry",
+   "title": "",
+   "fields": "company",
+   "confidence": "HIGH"
+  },
+  {
+   "url": "https://www.graas.ai/extract",
+   "title": "",
+   "fields": "company",
+   "confidence": "HIGH"
+  },
+  {
+   "url": "https://www.business-standard.com/companies/start-ups/graas-ai-raises-9-million-pre-series-b-agent-foundry-expansion-125081101175_1.html",
+   "title": "",
+   "fields": "company",
+   "confidence": "HIGH"
+  },
+  {
+   "url": "https://www.businesstimes.com.sg/startups-tech/startups/e-commerce-solutions-startup-graas-raises-us40m-acquires-2-companies",
+   "title": "",
+   "fields": "company",
+   "confidence": "HIGH"
+  },
+  {
+   "url": "https://www.companies.sg/business/202132066C/SOLV-PTE-LTD-",
+   "title": "",
+   "fields": "company",
+   "confidence": "HIGH"
+  },
+  {
+   "url": "https://pitchbook.com/profiles/company/503659-99",
+   "title": "",
+   "fields": "company",
+   "confidence": "MEDIUM"
+  },
+  {
+   "url": "https://www.cbinsights.com/company/graas",
+   "title": "",
+   "fields": "company",
+   "confidence": "MEDIUM"
+  },
+  {
+   "url": "https://dealroom.co/news/144581-graas-raises-17m-buys-trustana-in-ai-commerce-push",
+   "title": "",
+   "fields": "company",
+   "confidence": "HIGH"
+  },
+  {
+   "url": "https://getlatka.com/companies/graas.ai",
+   "title": "",
+   "fields": "company",
+   "confidence": "LOW"
+  },
+  {
+   "url": "https://www.graas.ai/data-security",
+   "title": "",
+   "fields": "company",
+   "confidence": "HIGH"
+  },
+  {
+   "url": "https://www.graas.ai/privacy-policy",
+   "title": "",
+   "fields": "company",
+   "confidence": "HIGH"
+  }
+ ],
+ "startup_id": "graas ai graas",
+ "_merged_session2": true,
+ "people": [
+  {
+   "name": "Prem Bhatia",
+   "role": "Co-founder & CEO",
+   "title": "Chief Executive Officer",
+   "current": true,
+   "since": "2022",
+   "prior_role": "Serial entrepreneur in advertising, media and technology; 30+ years experience",
+   "source_url": "https://www.graas.ai/prem",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Ashwin Puri",
+   "role": "Co-founder & CBO",
+   "title": "Chief Business Officer",
+   "current": true,
+   "since": "2022",
+   "prior_role": "Former Facebook Asia-Pacific Managing Director",
+   "source_url": "https://platform.tracxn.com/a/d/company/62ff0eeaabceaa5352997b78/graas",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Vivek P.",
+   "role": "Co-founder & CTO",
+   "title": "Chief Technology Officer",
+   "current": true,
+   "since": "2022",
+   "prior_role": "Founder of Shoptimize; MS and PhD from Carnegie Mellon University",
+   "source_url": "https://platform.tracxn.com/a/d/company/62ff0eeaabceaa5352997b78/graas",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Abhishek Jakhotiya",
+   "role": "VP of Engineering",
+   "title": "VP Engineering",
+   "current": true,
+   "since": "",
+   "prior_role": "",
+   "source_url": "https://linkedin.com/in/abhishek-jakhotiya",
+   "confidence": "MEDIUM"
+  },
+  {
+   "name": "Karuppusamy S",
+   "role": "Director of Engineering",
+   "title": "Director of Engineering",
+   "current": true,
+   "since": "",
+   "prior_role": "",
+   "source_url": "https://platform.tracxn.com/a/d/company/62ff0eeaabceaa5352997b78/graas",
+   "confidence": "MEDIUM"
+  },
+  {
+   "name": "Sidhant Das",
+   "role": "Director of Data & Engineering",
+   "title": "Director",
+   "current": true,
+   "since": "",
+   "prior_role": "",
+   "source_url": "https://platform.tracxn.com/a/d/company/62ff0eeaabceaa5352997b78/graas",
+   "confidence": "MEDIUM"
+  },
+  {
+   "name": "Harish Talreja",
+   "role": "CFO",
+   "title": "Chief Financial Officer",
+   "current": true,
+   "since": "",
+   "prior_role": "",
+   "source_url": "https://platform.tracxn.com/a/d/company/62ff0eeaabceaa5352997b78/graas",
+   "confidence": "MEDIUM"
+  },
+  {
+   "name": "Gaurav Girotra",
+   "role": "Chief Commercial Officer",
+   "title": "CCO",
+   "current": true,
+   "since": "",
+   "prior_role": "",
+   "source_url": "https://linkedin.com/company/graas-ai",
+   "confidence": "MEDIUM"
+  },
+  {
+   "name": "Rebecca Xing",
+   "role": "Co-founder & CEO of Trustana (acquired)",
+   "title": "CEO Trustana",
+   "current": false,
+   "since": "",
+   "prior_role": "",
+   "source_url": "https://www.graas.ai/in-the-news/graas-series-b-trustana-acquisition",
+   "confidence": "HIGH"
+  }
+ ],
+ "traction": [
+  {
+   "metric": "brands_served",
+   "value": 2000,
+   "unit": "count",
+   "period": "As-of-2026-08",
+   "as_of": "2026-08-12",
+   "company_reported": true,
+   "source_url": "https://www.graas.ai/in-the-news/graas-series-b-trustana-acquisition",
+   "confidence": "HIGH",
+   "notes": "2,000+ brands across India and Southeast Asia"
+  },
+  {
+   "metric": "revenue_arr",
+   "value": 31,
+   "unit": "million USD",
+   "period": "FY25",
+   "as_of": "2025-12-31",
+   "company_reported": false,
+   "source_url": "https://getlatka.com/companies/graas.ai",
+   "confidence": "MEDIUM",
+   "notes": "GetLatka estimated ARR; not company-confirmed"
+  },
+  {
+   "metric": "data_points_processed_daily",
+   "value": 100,
+   "unit": "million",
+   "period": "As-of-2026-09",
+   "as_of": "2026-09-15",
+   "company_reported": true,
+   "source_url": "https://www.graas.ai",
+   "confidence": "HIGH",
+   "notes": "100M+ data points processed daily per Graas about page"
+  },
+  {
+   "metric": "employees",
+   "value": 263,
+   "unit": "count",
+   "period": "As-of-2026-07",
+   "as_of": "2026-07-31",
+   "company_reported": true,
+   "source_url": "https://platform.tracxn.com/a/d/company/62ff0eeaabceaa5352997b78/graas",
+   "confidence": "MEDIUM",
+   "notes": "Tracxn official employee count"
+  },
+  {
+   "metric": "gmv_processed",
+   "value": 1000,
+   "unit": "million USD",
+   "period": "As-of-2026-08",
+   "as_of": "2026-08-12",
+   "company_reported": true,
+   "source_url": "https://www.graas.ai/in-the-news/graas-series-b-trustana-acquisition",
+   "confidence": "HIGH",
+   "notes": "Over $1 billion in live commerce transactions"
+  },
+  {
+   "metric": "revenue_growth_yoy",
+   "value": 50,
+   "unit": "percent",
+   "period": "FY25-FY26",
+   "as_of": "2026-08-12",
+   "company_reported": true,
+   "source_url": "https://dealroom.co/news/144581-graas-raises-17m-buys-trustana-in-ai-commerce-push",
+   "confidence": "HIGH",
+   "notes": "Revenue growing more than 50% year on year per Dealroom/DealStreetAsia"
+  },
+  {
+   "metric": "b2b_agentic_growth_yoy",
+   "value": 100,
+   "unit": "percent",
+   "period": "FY25-FY26",
+   "as_of": "2026-08-12",
+   "company_reported": true,
+   "source_url": "https://dealroom.co/news/144581-graas-raises-17m-buys-trustana-in-ai-commerce-push",
+   "confidence": "HIGH",
+   "notes": "B2B agentic business growing over 100% each year"
+  },
+  {
+   "metric": "skus_tracked_daily",
+   "value": 10,
+   "unit": "million",
+   "period": "As-of-2026-09",
+   "as_of": "2026-09-15",
+   "company_reported": true,
+   "source_url": "https://www.graas.ai/about-us",
+   "confidence": "HIGH",
+   "notes": "10M+ SKUs tracked daily"
+  },
+  {
+   "metric": "connected_channels",
+   "value": 100,
+   "unit": "count",
+   "period": "As-of-2026-09",
+   "as_of": "2026-09-15",
+   "company_reported": true,
+   "source_url": "https://www.graas.ai/about-us",
+   "confidence": "HIGH",
+   "notes": "100+ connected channels"
+  }
+ ],
+ "products": [
+  {
+   "name": "Agent Foundry",
+   "category": "AI Agent Platform",
+   "description": "Framework for building, grounding, and orchestrating domain-specific agents across commerce workflows. Provides standardized tools for data access, schema alignment, reasoning patterns, memory, and safety layers.",
+   "pricing_model": "SaaS subscription",
+   "launch_date": "2025-08-11",
+   "status": "Active",
+   "source_url": "https://www.graas.ai/agent-foundry",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Commerce Knowledge Graph",
+   "category": "Data Platform",
+   "description": "Unified graph connecting product, customer, transaction, inventory, and operational data. Remembers, reasons and acts across every conversation, order, stock movement, invoice and ticket.",
+   "pricing_model": "Platform subscription",
+   "launch_date": "",
+   "status": "Active",
+   "source_url": "https://www.graas.ai",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "hoppr",
+   "category": "Commerce Intelligence Agent",
+   "description": "Enterprise commerce intelligence agent. Connects Shopify, Shopee, Lazada, GA4 & more; asks questions in natural language; gets trusted answers grounded in business data.",
+   "pricing_model": "SaaS subscription",
+   "launch_date": "",
+   "status": "Active",
+   "source_url": "https://hoppr.graas.ai",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "All-e",
+   "category": "General Trade Sales Agent",
+   "description": "Conversational sales agent for general trade. AI sales agent for distributors, retailers and field sales teams. Voice, WhatsApp & Photo-to-Cart ordering; applies pricing, schemes & credit policies; creates ERP-ready orders.",
+   "pricing_model": "SaaS subscription",
+   "launch_date": "",
+   "status": "Active",
+   "source_url": "https://www.graas.ai/agent-foundry",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Extract",
+   "category": "Data Pipeline",
+   "description": "Automated data pipeline for eCommerce. Connects to Shopee, Lazada, Meta Ads, Shopify, Amazon, Zepto; delivers clean structured data to Sheets, Excel, Snowflake, or own database.",
+   "pricing_model": "SaaS subscription",
+   "launch_date": "",
+   "status": "Active",
+   "source_url": "https://www.graas.ai/extract",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Chattr",
+   "category": "Customer Support Agent",
+   "description": "Customer support agent for commerce. Handles queries, order tracking, returns, and product recommendations.",
+   "pricing_model": "SaaS subscription",
+   "launch_date": "",
+   "status": "Active",
+   "source_url": "https://www.graas.ai/agent-foundry",
+   "confidence": "MEDIUM"
+  },
+  {
+   "name": "Cartlyst",
+   "category": "B2B Order Agent",
+   "description": "B2B order specialist agent. Handles order capture, scheme management, and credit checks for distributors and retailers.",
+   "pricing_model": "SaaS subscription",
+   "launch_date": "",
+   "status": "Active",
+   "source_url": "https://www.graas.ai/agent-foundry",
+   "confidence": "MEDIUM"
+  },
+  {
+   "name": "Turbo",
+   "category": "Unified Data Agent",
+   "description": "Brings together sales, advertising, inventory, and operations data in one unified view.",
+   "pricing_model": "SaaS subscription",
+   "launch_date": "",
+   "status": "Active",
+   "source_url": "https://www.graas.ai/agent-foundry",
+   "confidence": "MEDIUM"
+  },
+  {
+   "name": "Data Connectors",
+   "category": "Integration Layer",
+   "description": "Connectors to marketplaces, D2C platforms, ad platforms, CRM, and ERP systems. AES-256 encrypted, ISO 27001 & SOC-2 certified, GDPR & PDPA compliant.",
+   "pricing_model": "Platform subscription",
+   "launch_date": "",
+   "status": "Active",
+   "source_url": "https://www.graas.ai/extract",
+   "confidence": "HIGH"
+  }
+ ],
+ "legal": [
+  {
+   "type": "licence",
+   "entity": "Solv Pte Ltd",
+   "date": "",
+   "status": "confirmed-compliance",
+   "description": "ISO 27001:2022 certified, SOC-2 certified, GDPR compliant, PDPA compliant. Data Processing Agreement available. Data Protection Officer appointed. AES-256 encryption, no raw data stored beyond delivery.",
+   "source_url": "https://www.graas.ai/data-security",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "licence",
+   "entity": "Solv Pte Ltd",
+   "date": "",
+   "status": "confirmed-compliance",
+   "description": "Privacy Policy and Terms of Use published at graas.ai. DPA (Data Processing Agreement) available for EU GDPR compliance. Data retention limited to legitimate legal and business requirements.",
+   "source_url": "https://www.graas.ai/privacy-policy",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "",
+   "entity": "",
+   "date": "",
+   "status": "",
+   "description": "No litigation, regulatory action, or enforcement proceedings found in public sources.",
+   "source_url": "",
+   "confidence": "HIGH"
+  }
+ ],
+ "locations": [
+  {
+   "type": "hq",
+   "address_or_area": "8 Craig Road, #02-01",
+   "city": "Singapore",
+   "state": "",
+   "country": "Singapore",
+   "as_of": "2026-09-15",
+   "source_url": "https://www.companies.sg/business/202132066C/SOLV-PTE-LTD-",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "office",
+   "address_or_area": "",
+   "city": "Bengaluru",
+   "state": "",
+   "country": "India",
+   "as_of": "2026-09-15",
+   "source_url": "https://www.graas.ai",
+   "note": "India office mentioned; Bengaluru referenced in user context",
+   "confidence": "MEDIUM"
+  },
+  {
+   "type": "office",
+   "address_or_area": "",
+   "city": "",
+   "state": "",
+   "country": "Indonesia",
+   "as_of": "2026-09-15",
+   "source_url": "https://www.graas.ai",
+   "confidence": "MEDIUM"
+  },
+  {
+   "type": "office",
+   "address_or_area": "",
+   "city": "",
+   "state": "",
+   "country": "Australia",
+   "as_of": "2026-09-15",
+   "source_url": "https://www.graas.ai",
+   "confidence": "MEDIUM"
+  },
+  {
+   "type": "office",
+   "address_or_area": "",
+   "city": "",
+   "state": "",
+   "country": "Malaysia",
+   "as_of": "2026-09-15",
+   "source_url": "https://www.graas.ai",
+   "confidence": "MEDIUM"
+  },
+  {
+   "type": "office",
+   "address_or_area": "",
+   "city": "",
+   "state": "",
+   "country": "Philippines",
+   "as_of": "2026-09-15",
+   "source_url": "https://www.graas.ai",
+   "confidence": "MEDIUM"
+  },
+  {
+   "type": "office",
+   "address_or_area": "",
+   "city": "",
+   "state": "",
+   "country": "Thailand",
+   "as_of": "2026-09-15",
+   "source_url": "https://www.graas.ai",
+   "confidence": "MEDIUM"
+  },
+  {
+   "type": "office",
+   "address_or_area": "",
+   "city": "",
+   "state": "",
+   "country": "UAE",
+   "as_of": "2026-09-15",
+   "source_url": "https://www.graas.ai",
+   "confidence": "MEDIUM"
+  },
+  {
+   "type": "office",
+   "address_or_area": "",
+   "city": "",
+   "state": "",
+   "country": "Vietnam",
+   "as_of": "2026-09-15",
+   "source_url": "https://www.graas.ai",
+   "confidence": "MEDIUM"
+  }
+ ],
+ "customers": [
+  {
+   "name": "Schneider Electric",
+   "type": "Enterprise (Electrical/Industrial)",
+   "announced_date": "",
+   "status": "Active",
+   "source_url": "https://www.graas.ai/in-the-news/graas-series-b-trustana-acquisition",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "DKSH",
+   "type": "Enterprise (Distribution)",
+   "announced_date": "",
+   "status": "Active",
+   "source_url": "https://www.graas.ai/in-the-news/graas-series-b-trustana-acquisition",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Mars Wrigley",
+   "type": "Enterprise (FMCG)",
+   "announced_date": "",
+   "status": "Active",
+   "source_url": "https://www.graas.ai/in-the-news/graas-series-b-trustana-acquisition",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Puma",
+   "type": "Enterprise (Apparel/Sports)",
+   "announced_date": "",
+   "status": "Active",
+   "source_url": "https://www.graas.ai/in-the-news/graas-series-b-trustana-acquisition",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Victoria's Secret",
+   "type": "Enterprise (Apparel/Retail)",
+   "announced_date": "",
+   "status": "Active",
+   "source_url": "https://www.graas.ai/in-the-news/graas-series-b-trustana-acquisition",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Unilever",
+   "type": "Enterprise (FMCG)",
+   "announced_date": "",
+   "status": "Active",
+   "source_url": "https://www.graas.ai/in-the-news/graas-series-b-trustana-acquisition",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Canon",
+   "type": "Enterprise (Electronics)",
+   "announced_date": "",
+   "status": "Active",
+   "source_url": "https://www.graas.ai/in-the-news/graas-series-b-trustana-acquisition",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "PI Industries",
+   "type": "Enterprise (Agrochemicals)",
+   "announced_date": "",
+   "status": "Active",
+   "source_url": "https://www.graas.ai/in-the-news/graas-series-b-trustana-acquisition",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Haleon",
+   "type": "Enterprise (Consumer Health)",
+   "announced_date": "",
+   "status": "Active",
+   "source_url": "https://www.graas.ai/in-the-news/graas-series-b-trustana-acquisition",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "David Jones",
+   "type": "Retail (Multi-brand)",
+   "announced_date": "2026-08-12",
+   "status": "Active",
+   "source_url": "https://www.graas.ai/in-the-news/graas-series-b-trustana-acquisition",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Chemist Warehouse",
+   "type": "Retail (Pharmacy)",
+   "announced_date": "2026-08-12",
+   "status": "Active",
+   "source_url": "https://www.graas.ai/in-the-news/graas-series-b-trustana-acquisition",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Toys \"R\" Us",
+   "type": "Retail (Toy)",
+   "announced_date": "2026-08-12",
+   "status": "Active",
+   "source_url": "https://www.graas.ai/in-the-news/graas-series-b-trustana-acquisition",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Mitre10",
+   "type": "Retail (Hardware/Building)",
+   "announced_date": "2026-08-12",
+   "status": "Active",
+   "source_url": "https://www.graas.ai/in-the-news/graas-series-b-trustana-acquisition",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Omron",
+   "type": "Enterprise (Industrial Automation)",
+   "announced_date": "",
+   "status": "Active",
+   "source_url": "https://www.graas.ai",
+   "confidence": "MEDIUM"
+  },
+  {
+   "name": "Paula's Choice",
+   "type": "Enterprise (Beauty/Skincare)",
+   "announced_date": "",
+   "status": "Active",
+   "source_url": "https://www.graas.ai",
+   "confidence": "MEDIUM"
+  },
+  {
+   "name": "Bhavani Electricals",
+   "type": "SMB (Electrical)",
+   "announced_date": "",
+   "status": "Active",
+   "source_url": "https://www.graas.ai",
+   "confidence": "LOW"
+  },
+  {
+   "name": "Di Star Traders",
+   "type": "SMB (Retail)",
+   "announced_date": "",
+   "status": "Active",
+   "source_url": "https://www.graas.ai",
+   "confidence": "LOW"
+  }
+ ]
+}

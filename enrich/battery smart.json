@@ -1,0 +1,552 @@
+{
+ "startup_id": "battery smart",
+ "company": {
+  "company_name": {
+   "v": "Battery Smart",
+   "date": "2019-11",
+   "conf": 0.95,
+   "src": "Wikipedia"
+  },
+  "status": {
+   "v": "active",
+   "date": "2026-09",
+   "conf": 0.95,
+   "src": "Freepressjournal,Laffaz"
+  },
+  "city": {
+   "v": "Gurugram",
+   "conf": 0.95,
+   "src": "LinkedIn"
+  },
+  "primary_sector": {
+   "v": "ev battery swapping",
+   "conf": 0.95,
+   "src": "Wikipedia"
+  },
+  "startup_stage": {
+   "v": "Series C / pre-IPO",
+   "date": "2026-08",
+   "conf": 0.9,
+   "src": "Laffaz"
+  },
+  "public_private": {
+   "v": "private",
+   "date": "2026-08",
+   "conf": 0.95,
+   "src": "Laffaz"
+  },
+  "founded_date": {
+   "v": "2019-11",
+   "conf": 0.95,
+   "src": "Wikipedia"
+  },
+  "legal_name": {
+   "v": "Ugrid Solutions Private Limited",
+   "conf": 0.85,
+   "src": "LinkedIn"
+  },
+  "cin": {
+   "v": "U31904DL2019PTC357706",
+   "conf": 0.9,
+   "src": "batterysmart.in/aboutUs"
+  },
+  "incorporation_date": {
+   "v": "2019-11",
+   "conf": 0.9,
+   "src": "Wikipedia"
+  },
+  "official_website": {
+   "v": "https://www.batterysmart.in",
+   "conf": "high",
+   "src": "https://www.batterysmart.in",
+   "note": "verified live 2026-09-15: name match on own homepage"
+  },
+  "careers_website": {
+   "v": "https://www.batterysmart.in/careers",
+   "conf": "high",
+   "src": "https://www.batterysmart.in",
+   "note": "careers link found on official homepage, probed live"
+  },
+  "website": "https://www.batterysmart.in"
+ },
+ "funding_rounds": [
+  {
+   "round_type": "seed",
+   "announced_date": "2020-06",
+   "amount": {
+    "v": "UNKNOWN",
+    "currency": "USD"
+   },
+   "source_url": "https://en.wikipedia.org/wiki/Battery_Smart",
+   "source_title": "Battery Smart - Wikipedia",
+   "source_date": "2023-10-03",
+   "tier": "T2",
+   "confidence": 0.6
+  },
+  {
+   "round_type": "series_b",
+   "announced_date": "2024-06-11",
+   "amount": {
+    "v": 65000000,
+    "currency": "USD"
+   },
+   "source_url": "https://linkedin.com/company/batterysmart",
+   "source_title": "Battery Smart LinkedIn",
+   "source_date": "2026-06-25",
+   "tier": "T3",
+   "confidence": 0.8
+  },
+  {
+   "round_type": "series_b_extended",
+   "announced_date": "2025-06-30",
+   "amount": {
+    "v": 29000000,
+    "currency": "USD"
+   },
+   "source_url": "https://linkedin.com/company/batterysmart",
+   "source_title": "Battery Smart LinkedIn",
+   "source_date": "2026-06-25",
+   "tier": "T3",
+   "confidence": 0.8
+  },
+  {
+   "round_type": "pre_series_c",
+   "announced_date": "2026-03",
+   "amount": {
+    "v": 660000000,
+    "currency": "INR",
+    "note": "Rs 66 crore"
+   },
+   "lead_investors": [
+    "Acacia Inclusion",
+    "Blume Ventures",
+    "PC-SBI Kurashi Visionary Fund"
+   ],
+   "source_url": "https://laffaz.com/battery-smart-185-5-crore-series-c-rising-tide-ventures/",
+   "source_title": "Battery Smart Raises Rs 185.5 Crore Series C",
+   "source_date": "2026-08-30",
+   "tier": "T2",
+   "confidence": 0.85
+  },
+  {
+   "round_type": "debt",
+   "announced_date": "2026-04",
+   "amount": {
+    "v": 15000000,
+    "currency": "USD"
+   },
+   "lead_investors": [
+    "Mirova"
+   ],
+   "source_url": "https://laffaz.com/battery-smart-185-5-crore-series-c-rising-tide-ventures/",
+   "source_title": "Battery Smart Raises Rs 185.5 Crore Series C",
+   "source_date": "2026-08-30",
+   "tier": "T2",
+   "confidence": 0.85
+  },
+  {
+   "round_type": "series_c",
+   "announced_date": "2026-08-30",
+   "amount": {
+    "v": 1855000000,
+    "currency": "INR",
+    "note": "Rs 185.5 crore ($19.5M)"
+   },
+   "lead_investors": [
+    "Rising Tide Ventures"
+   ],
+   "all_investors": [
+    "Rising Tide Ventures",
+    "Ecosystem Integrity Fund",
+    "Blume Ventures"
+   ],
+   "source_url": "https://laffaz.com/battery-smart-185-5-crore-series-c-rising-tide-ventures/",
+   "source_title": "Battery Smart Raises Rs 185.5 Crore Series C",
+   "source_date": "2026-08-30",
+   "tier": "T2",
+   "confidence": 0.9
+  },
+  {
+   "round_type": "debt",
+   "announced_date": "2026-07-01",
+   "amount": {
+    "v": 13000000,
+    "currency": "USD"
+   },
+   "source_url": "https://linkedin.com/company/batterysmart",
+   "source_title": "Battery Smart LinkedIn",
+   "source_date": "2026-06-25",
+   "tier": "T3",
+   "confidence": 0.7
+  }
+ ],
+ "founders": [
+  {
+   "name": {
+    "v": "Pulkit Khurana",
+    "role": "co-founder",
+    "type": "co-founder",
+    "background": "IIT Kanpur alumnus",
+    "confidence": 0.95,
+    "src": "Wikipedia"
+   }
+  },
+  {
+   "name": {
+    "v": "Siddharth Sikka",
+    "role": "co-founder",
+    "type": "co-founder",
+    "background": "IIT Kanpur alumnus",
+    "confidence": 0.95,
+    "src": "Wikipedia"
+   }
+  }
+ ],
+ "people": [],
+ "investor_links": [
+  {
+   "investor": "Tiger Global",
+   "investor_type": "hedge_fund",
+   "first_seen": "2024",
+   "rounds": [
+    "series_b"
+   ],
+   "lead": true,
+   "source_url": "https://www.freepressjournal.in/business/battery-smart-gears-up-for-ipo-as-ev-battery-swapping-network-targets-market-debut",
+   "confidence": 0.85
+  },
+  {
+   "investor": "Blume Ventures",
+   "investor_type": "VC",
+   "first_seen": "2024",
+   "rounds": [
+    "series_b",
+    "pre_series_c",
+    "series_c"
+   ],
+   "source_url": "https://laffaz.com/battery-smart-185-5-crore-series-c-rising-tide-ventures/",
+   "confidence": 0.9
+  },
+  {
+   "investor": "Rising Tide Ventures",
+   "investor_type": "VC",
+   "first_seen": "2025",
+   "rounds": [
+    "series_b_extended",
+    "series_c"
+   ],
+   "lead": true,
+   "source_url": "https://laffaz.com/battery-smart-185-5-crore-series-c-rising-tide-ventures/",
+   "confidence": 0.9
+  },
+  {
+   "investor": "Ecosystem Integrity Fund",
+   "investor_type": "impact_fund",
+   "first_seen": "2026",
+   "rounds": [
+    "series_c"
+   ],
+   "source_url": "https://laffaz.com/battery-smart-185-5-crore-series-c-rising-tide-ventures/",
+   "confidence": 0.85
+  },
+  {
+   "investor": "LeapFrog Investments",
+   "investor_type": "impact_fund",
+   "first_seen": "2024",
+   "source_url": "https://www.freepressjournal.in/business/battery-smart-gears-up-for-ipo-as-ev-battery-swapping-network-targets-market-debut",
+   "confidence": 0.8
+  },
+  {
+   "investor": "Mirova",
+   "investor_type": "debt",
+   "first_seen": "2026-04",
+   "rounds": [
+    "debt"
+   ],
+   "source_url": "https://laffaz.com/battery-smart-185-5-crore-series-c-rising-tide-ventures/",
+   "confidence": 0.85
+  }
+ ],
+ "investors_meta": [
+  {
+   "investor": "Tiger Global",
+   "type": "hedge_fund",
+   "hq": "New York, US",
+   "india_office": "India",
+   "notes": "Lead Series B"
+  },
+  {
+   "investor": "Blume Ventures",
+   "type": "VC",
+   "hq": "Bengaluru",
+   "india_office": "Bengaluru",
+   "notes": "Multiple rounds"
+  },
+  {
+   "investor": "Rising Tide Ventures",
+   "type": "VC",
+   "hq": "India",
+   "india_office": "India",
+   "notes": "Lead Series C"
+  },
+  {
+   "investor": "Ecosystem Integrity Fund",
+   "type": "impact_fund",
+   "hq": "US",
+   "india_office": "India",
+   "notes": "Series C participant"
+  },
+  {
+   "investor": "LeapFrog Investments",
+   "type": "impact_fund",
+   "hq": "London",
+   "india_office": "India",
+   "notes": "Early investor"
+  }
+ ],
+ "financials": [
+  {
+   "fiscal_year": "FY25",
+   "metric": "revenue",
+   "value": {
+    "v": 2490000000,
+    "unit": "INR",
+    "value_type": "press-quoted-filing",
+    "source_url": "https://laffaz.com/battery-smart-185-5-crore-series-c-rising-tide-ventures/",
+    "source_title": "Battery Smart Raises Rs 185.5 Crore Series C",
+    "source_date": "2026-08-30",
+    "confidence": 0.85
+   }
+  },
+  {
+   "fiscal_year": "FY25",
+   "metric": "net_loss",
+   "value": {
+    "v": 2700000000,
+    "unit": "INR",
+    "value_type": "press-quoted-filing",
+    "source_url": "https://laffaz.com/battery-smart-185-5-crore-series-c-rising-tide-ventures/",
+    "source_title": "Battery Smart Raises Rs 185.5 Crore Series C",
+    "source_date": "2026-08-30",
+    "confidence": 0.85
+   }
+  },
+  {
+   "fiscal_year": "FY26",
+   "metric": "revenue",
+   "value": {
+    "v": 3580000000,
+    "unit": "INR",
+    "value_type": "press-quoted-filing",
+    "source_url": "https://laffaz.com/battery-smart-185-5-crore-series-c-rising-tide-ventures/",
+    "source_title": "Battery Smart Raises Rs 185.5 Crore Series C",
+    "source_date": "2026-08-30",
+    "confidence": 0.9
+   }
+  },
+  {
+   "fiscal_year": "FY26",
+   "metric": "net_loss",
+   "value": {
+    "v": 2355000000,
+    "unit": "INR",
+    "value_type": "press-quoted-filing",
+    "source_url": "https://laffaz.com/battery-smart-185-5-crore-series-c-rising-tide-ventures/",
+    "source_title": "Battery Smart Raises Rs 185.5 Crore Series C",
+    "source_date": "2026-08-30",
+    "confidence": 0.9
+   }
+  },
+  {
+   "fiscal_year": "FY26",
+   "metric": "operational_break_even",
+   "value": {
+    "v": true,
+    "value_type": "press-quoted-filing",
+    "source_url": "https://www.freepressjournal.in/business/battery-smart-gears-up-for-ipo-as-ev-battery-swapping-network-targets-market-debut",
+    "source_title": "Battery Smart Gears Up For IPO",
+    "source_date": "2026-08-03",
+    "confidence": 0.85
+   }
+  }
+ ],
+ "products": [
+  {
+   "name": "Battery swapping network",
+   "description": "Battery-as-a-service platform for electric two- and three-wheelers",
+   "category": "EV infrastructure"
+  },
+  {
+   "name": "Swapping stations",
+   "description": "1,500+ stations across 75+ cities",
+   "category": "EV infrastructure"
+  }
+ ],
+ "traction": [
+  {
+   "metric": "swapping_stations",
+   "value": {
+    "v": "1,500+",
+    "as_of": "2026-08",
+    "source_url": "https://www.freepressjournal.in/business/battery-smart-gears-up-for-ipo-as-ev-battery-swapping-network-targets-market-debut",
+    "company_reported": true,
+    "confidence": 0.85
+   }
+  },
+  {
+   "metric": "cities",
+   "value": {
+    "v": "75+",
+    "as_of": "2026-08",
+    "source_url": "https://www.freepressjournal.in/business/battery-smart-gears-up-for-ipo-as-ev-battery-swapping-network-targets-market-debut",
+    "company_reported": true,
+    "confidence": 0.85
+   }
+  },
+  {
+   "metric": "swaps",
+   "value": {
+    "v": "90 million+",
+    "as_of": "2026",
+    "source_url": "https://www.linkedin.com/company/batterysmart",
+    "company_reported": true,
+    "confidence": 0.8
+   }
+  },
+  {
+   "metric": "annual_revenue",
+   "value": {
+    "v": "$65M",
+    "as_of": "2026",
+    "source_url": "https://www.linkedin.com/company/batterysmart",
+    "confidence": 0.8
+   }
+  },
+  {
+   "metric": "employees",
+   "value": {
+    "v": "1,111",
+    "as_of": "2026-06",
+    "source_url": "https://www.linkedin.com/company/batterysmart",
+    "confidence": 0.85
+   }
+  }
+ ],
+ "locations": [
+  {
+   "type": "registered",
+   "address_or_area": "Innov8 Aerocity, Asset-5A Aerocity, JW Marriott Hotel Hospitality District",
+   "city": "New Delhi",
+   "state": "Delhi",
+   "as_of": "2026",
+   "source_url": "https://www.batterysmart.in/aboutUs",
+   "confidence": 0.9
+  },
+  {
+   "type": "HQ",
+   "city": "Gurugram",
+   "state": "Haryana",
+   "as_of": "2026",
+   "source_url": "https://www.linkedin.com/company/batterysmart",
+   "confidence": 0.95
+  }
+ ],
+ "hiring": [
+  {
+   "fact_type": "headcount",
+   "value": {
+    "v": "1,111 (+28.1% YoY)",
+    "as_of": "2026-06",
+    "source_url": "https://www.linkedin.com/company/batterysmart",
+    "confidence": 0.85
+   }
+  }
+ ],
+ "events": [
+  {
+   "date": "2026-08-30",
+   "type": "funding",
+   "headline": "Battery Smart raises Rs 185.5 crore Series C",
+   "description": "Led by Rising Tide Ventures, valued at ~$430M post-money",
+   "source_url": "https://laffaz.com/battery-smart-185-5-crore-series-c-rising-tide-ventures/",
+   "confidence": 0.9
+  },
+  {
+   "date": "2026-08-03",
+   "type": "ipo",
+   "headline": "Battery Smart plans IPO filing for Sept-Oct 2026",
+   "description": "Appointed SBI Capital Markets as lead merchant banker",
+   "source_url": "https://www.freepressjournal.in/business/battery-smart-gears-up-for-ipo-as-ev-battery-swapping-network-targets-market-debut",
+   "confidence": 0.9
+  },
+  {
+   "date": "2026-03",
+   "type": "funding",
+   "headline": "Pre-Series C round of Rs 66 crore",
+   "description": "From Acacia Inclusion, Blume Ventures, PC-SBI Kurashi Visionary Fund",
+   "source_url": "https://laffaz.com/battery-smart-185-5-crore-series-c-rising-tide-ventures/",
+   "confidence": 0.85
+  }
+ ],
+ "sources": [
+  {
+   "url": "https://laffaz.com/battery-smart-185-5-crore-series-c-rising-tide-ventures/",
+   "title": "Battery Smart Raises Rs 185.5 Crore Series C Ahead of IPO Filing",
+   "publisher": "LAFFAZ",
+   "publication_date": "2026-08-30",
+   "tier": "T2",
+   "claim_supported": "Series C details, financials, founders, investors"
+  },
+  {
+   "url": "https://www.freepressjournal.in/business/battery-smart-gears-up-for-ipo-as-ev-battery-swapping-network-targets-market-debut",
+   "title": "Battery Smart Gears Up For IPO As EV Battery-Swapping Network Targets Market Debut",
+   "publisher": "Free Press Journal",
+   "publication_date": "2026-08-03",
+   "tier": "T2",
+   "claim_supported": "IPO plans, traction, investors"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Battery_Smart",
+   "title": "Battery Smart",
+   "publisher": "Wikipedia",
+   "publication_date": "2023-10-03",
+   "tier": "T2",
+   "claim_supported": "founding, founders, HQ"
+  },
+  {
+   "url": "https://www.linkedin.com/company/batterysmart",
+   "title": "Battery Smart LinkedIn",
+   "publisher": "LinkedIn",
+   "publication_date": "2026-06-25",
+   "tier": "T3",
+   "claim_supported": "headcount, revenue, funding history"
+  },
+  {
+   "url": "https://www.batterysmart.in/aboutUs",
+   "title": "About Battery Smart",
+   "publisher": "Battery Smart",
+   "publication_date": "2026",
+   "tier": "T1",
+   "claim_supported": "CIN, registered address"
+  }
+ ],
+ "gaps": [
+  "CIN from aboutUs page but not independently verified via MCA",
+  "Exact Series B lead investor confirmed but specific round amounts from Tiger not disclosed",
+  "Customer names not available"
+ ],
+ "completeness_self": {
+  "identity": 8,
+  "founders": 9,
+  "funding": 9,
+  "investors": 8,
+  "financials": 8,
+  "products": 8,
+  "traction": 8,
+  "people": 5,
+  "customers": 3,
+  "legal": 7,
+  "sources": 9
+ },
+ "_merged_session2": true
+}

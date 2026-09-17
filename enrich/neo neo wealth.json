@@ -1,0 +1,1848 @@
+{
+ "company": {
+  "business_model": "wealth management + asset management (private markets: credit, infra, PE)",
+  "cin": "U70200MH2021PTC367572",
+  "city": "Mumbai",
+  "company_name": "Neo (Neo Wealth / Neo Group)",
+  "country": "India",
+  "founded_date": "2021",
+  "incorporation_date": "2021-09-15",
+  "legal_name": "Neo Wealth Management Private Limited",
+  "primary_sector": "wealthtech / financial services",
+  "public_private": "private",
+  "startup_stage": "growth (Series C / PE-backed)",
+  "state": "Maharashtra",
+  "status": "active",
+  "website": "https://www.neo-group.in",
+  "official_website": {
+   "v": "https://www.neo.group",
+   "conf": "high",
+   "src": "https://www.neo.group",
+   "note": "verified live 2026-09-15: name match on own homepage"
+  },
+  "careers_website": {
+   "v": "https://www.neo.group/careers",
+   "conf": "high",
+   "src": "https://www.neo.group",
+   "note": "careers link found on official homepage, probed live"
+  },
+  "description": {
+   "v": "India's premier wealth and asset management platform offering bespoke wealth solutions for UHNIs and family offices, plus private market fund management across credit, infrastructure, and private equity.",
+   "conf": "MEDIUM",
+   "src": "https://www.neo.group",
+   "note": "From company website"
+  },
+  "employee_estimate": {
+   "v": 850,
+   "conf": "MEDIUM",
+   "src": "https://m.economictimes.com/tech/funding/peak-xv-leads-rs-350-crore-funding-round-in-wealth-manager-neo-group/amp_articleshow/132454861.cms",
+   "note": "ET Jul 2026: 850+ employees across 30+ cities; Tracxn shows 337 as of Aug 2025 (likely different entity scope)",
+   "asof": "2026-07-17"
+  },
+  "hq_type": {
+   "v": "HQ",
+   "conf": "HIGH",
+   "src": "https://tracxn.com/d/companies/neo-wealth-and-asset-management/__1QkWNXHRHOkaqZoKlgCWl77N7fw-dCbT4bUpmzTGf5Q",
+   "note": "Mumbai HQ"
+  },
+  "registered_office": {
+   "v": "903, B-Wing, 9th Floor, Marathon Futurex, Mafatlal Mills Compound, N.M. Joshi Marg, Lower Parel, Mumbai City, Mumbai, Maharashtra, India, 400013",
+   "conf": "HIGH",
+   "src": "https://tracxn.com/d/companies/neo-wealth-and-asset-management/__1QkWNXHRHOkaqZoKlgCWl77N7fw-dCbT4bUpmzTGf5Q",
+   "note": "Tracxn-registered address"
+  }
+ },
+ "completeness_self": {
+  "financials": 5,
+  "founders": 8,
+  "funding": 8,
+  "identity": 8,
+  "investors": 8,
+  "legal": 3,
+  "people": 4,
+  "products": 6,
+  "sources": 7,
+  "traction": 7
+ },
+ "conflicts": [
+  {
+   "field": "latest round amount/date",
+   "claim_a": "Rs 500cr TVS Capital Mar 2026 at Rs 10,000cr pre-money; Rs 550cr per ET Jul 2026",
+   "claim_b": "Tracxn shows Series C Jul 16 2026 $36.3M Peak XV",
+   "resolution": "Both kept: Mar 2026 TVS round (T3 journalism) + Jul 2026 Peak XV Rs 350cr (ET/VCCircle). Tracxn aggregator figures not used as primary.",
+   "url_a": "https://www.vccircle.com/privateequity-firm-tvs-capital-invests-53-mn-in-neo-group",
+   "url_b": "https://tracxn.com/d/companies/neo-wealth-and-asset-management/__1QkWNXHRHOkaqZoKlgCWl77N7fw-dCbT4bUpmzTGf5Q"
+  },
+  {
+   "field": "TVS round amount",
+   "claim_a": "Rs 500 crore (VCCircle Mar 20 2026)",
+   "url_a": "https://www.vccircle.com/privateequity-firm-tvs-capital-invests-53-mn-in-neo-group",
+   "claim_b": "Rs 550 crore (ET Jul 2026)",
+   "url_b": "https://m.economictimes.com/tech/funding/peak-xv-leads-rs-350-crore-funding-round-in-wealth-manager-neo-group/amp_articleshow/132454861.cms",
+   "resolution": "Both kept; ET (newer, Jul 2026) says Rs 550cr; VCCircle (Mar 2026) says Rs 500cr. Tracxn shows Rs 558cr.",
+   "resolved_value": ""
+  },
+  {
+   "field": "Founders list",
+   "claim_a": "Shajikumar Devakar, Varun Bajpai, Av Srikanth (Tracxn)",
+   "url_a": "https://tracxn.com/d/companies/neo-wealth-and-asset-management/__1QkWNXHRHOkaqZoKlgCWl77N7fw-dCbT4bUpmzTGf5Q",
+   "claim_b": "Nitin Jain (founder), Hemant Daga, Varun Bajpai, Puneet Jain, A V Srikanth (ET Jul 2026); Shajikumar Devakar joined 2025",
+   "url_b": "https://m.economictimes.com/tech/funding/peak-xv-leads-rs-350-crore-funding-round-in-wealth-manager-neo-group/amp_articleshow/132454861.cms",
+   "resolution": "Nitin Jain is founder/Chairman; Tracxn lists Devakar as co-founder (he joined 2025). Both kept; Devakar is co-founder & CEO of Neo Wealth (not original founder)."
+  },
+  {
+   "field": "Employee count",
+   "claim_a": "337 (Tracxn Aug 2025)",
+   "url_a": "https://tracxn.com/d/companies/neo-wealth-and-asset-management/__1QkWNXHRHOkaqZoKlgCWl77N7fw-dCbT4bUpmzTGf5Q",
+   "claim_b": "850+ (ET Jul 2026)",
+   "url_b": "https://m.economictimes.com/tech/funding/peak-xv-leads-rs-350-crore-funding-round-in-wealth-manager-neo-group/amp_articleshow/132454861.cms",
+   "resolution": "Different entity scope likely; Tracxn may track one legal entity; ET refers to Neo Group overall. Both kept."
+  }
+ ],
+ "events": [
+  {
+   "announced_date": "2026-03-20",
+   "date": "2026-03-20",
+   "description": "TVS Capital invests Rs 500cr at Rs 10,000cr pre-money valuation; first TVS bet in wealth management.",
+   "headline": "TVS Capital invests Rs 500cr in Neo Group",
+   "source_url": "https://www.vccircle.com/privateequity-firm-tvs-capital-invests-53-mn-in-neo-group",
+   "type": "funding"
+  },
+  {
+   "announced_date": "2026-07-16",
+   "date": "2026-07-16",
+   "description": "Peak XV leads ~Rs 350cr round; total with TVS ~Rs 900cr; AUM ~Rs 1.3 lakh cr as of Jun 30 2026.",
+   "headline": "Peak XV leads Rs 350cr round in Neo Group",
+   "source_url": "https://m.economictimes.com/tech/funding/peak-xv-leads-rs-350-crore-funding-round-in-wealth-manager-neo-group/amp_articleshow/132454861.cms",
+   "type": "funding"
+  },
+  {
+   "type": "founding",
+   "headline": "Neo Group founded by Nitin Jain",
+   "date": "2021-09-15",
+   "description": "Nitin Jain (ex-Edelweiss CEO) founded Neo Wealth Management Private Limited; co-founded with Varun Bajpai, Hemant Daga, A V Srikanth",
+   "source_url": "https://www.livemint.com/companies/news/edelweiss-wealth-former-ceo-nitin-jain-launches-financial-services-co-neo-group-11651748367100.html",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "launch",
+   "headline": "Neo Group launched with four verticals",
+   "date": "2022-05-05",
+   "description": "Four business verticals: Neo World, Neo Asset Management, Neo Multi-Family Office, Neo Leaf; $40M funding from private investors; ~$1Bn assets administered",
+   "source_url": "https://www.livemint.com/companies/news/edelweass-wealth-former-ceo-nitin-jain-launches-financial-services-co-neo-group-11651748367100.html",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "funding",
+   "headline": "Peak XV leads $35M Series A",
+   "date": "2023-10-01",
+   "description": "Peak XV Partners invested ~$35M; Neo had ~$3Bn AUA and ~$360M AUM; seeking NBFC license",
+   "source_url": "https://www.moneycontrol.com/news/business/announcements/wealth-and-asset-management-startup-neo-bags-35-million-funding-from-peak-xv-11556491.html",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "funding",
+   "headline": "MUFG Bank, Euclidean Capital lead $47.6M round",
+   "date": "2024-08-12",
+   "description": "Rs 400cr round led by MUFG Bank and Euclidean Capital; Peak XV also participated",
+   "source_url": "https://www.business-standard.com/companies/news/neo-group-raises-47-6-million-led-by-mufg-bank-euclidean-capital-124081200001_1.html",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "funding",
+   "headline": "TVS Capital invests Rs 500-550cr at Rs 10,000cr pre-money",
+   "date": "2026-03-20",
+   "description": "TVS Capital's first investment in wealth management; Neo enters unicorn club; total client assets ~Rs 1 lakh crore",
+   "source_url": "https://www.vccircle.com/privateequity-firm-tvs-capital-invests-53-mn-in-neo-group",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "funding",
+   "headline": "Atha Group (Crystal Investment Advisors) leads Rs 221cr follow-on",
+   "date": "2025-11-25",
+   "description": "Follow-on round led by Crystal Investment Advisors (Atha Group)",
+   "source_url": "https://entrackr.com/news/neo-group-raises-rs-350-cr-led-by-peak-xv-partners-12172440",
+   "confidence": "MEDIUM"
+  },
+  {
+   "type": "funding",
+   "headline": "Peak XV leads Rs 350cr Series C",
+   "date": "2026-07-16",
+   "description": "Peak XV leads Rs 350cr ($36.3M) round; total with TVS ~Rs 900cr; AUM ~Rs 1.3 lakh crore as of Jun 30 2026",
+   "source_url": "https://m.economictimes.com/tech/funding/peak-xv-leads-rs-350-crore-funding-round-in-wealth-manager-neo-group/amp_articleshow/132454861.cms",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "hiring",
+   "headline": "Shajikumar Devakar joins as co-founder & CEO of Neo Wealth",
+   "date": "2025-06-01",
+   "description": "Former 360 One ED-wealth and Deutsche Bank/Barclays veteran joins Neo",
+   "source_url": "https://www.fortuneindia.com/enterprise/360-ones-shaji-devakar-to-join-neo-wealth-as-co-founder-ceo/121472",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "hiring",
+   "headline": "Ronak R Sheth appointed Chief Marketing Growth Officer",
+   "date": "2026-07-13",
+   "description": "CMGO appointment",
+   "source_url": "https://tracxn.com/d/companies/neo-wealth-and-asset-management/__1QkWNXHRHOkaqZoKlgCWl77N7fw-dCbT4bUpmzTGf5Q",
+   "confidence": "MEDIUM"
+  },
+  {
+   "type": "investment",
+   "headline": "Neo invests in Auxilo, Oxyzo, Spring Street Hub",
+   "date": "2025-05-19",
+   "description": "Neo made 7 investments including Auxilo (debt funding INR 225cr), Oxyzo, Spring Street Hub",
+   "source_url": "https://tracxn.com/d/companies/neo-wealth-and-asset-management/__1QkWNXHRHOkaqZoKlgCWl77N7fw-dCbT4bUpmzTGf5Q",
+   "confidence": "MEDIUM"
+  }
+ ],
+ "financials": [
+  {
+   "currency": "INR",
+   "fiscal_year": "FY25",
+   "metric": "annual revenue (Tracxn band)",
+   "source_title": "Tracxn Neo Wealth and Asset Management profile",
+   "source_url": "https://tracxn.com/d/companies/neo-wealth-and-asset-management/__1QkWNXHRHOkaqZoKlgCWl77N7fw-dCbT4bUpmzTGf5Q",
+   "value": "50-100 Cr",
+   "value_type": "estimate"
+  },
+  {
+   "fiscal_year": "FY25",
+   "metric": "annual_revenue",
+   "value": 75,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "estimate",
+   "basis": "standalone",
+   "source_url": "https://tracxn.com/d/companies/neo-wealth-and-asset-management/__1QkWNXHRHOkaqZoKlgCWl77N7fw-dCbT4bUpmzTGf5Q",
+   "source_title": "Tracxn Neo Wealth profile",
+   "source_date": "2026-09-08",
+   "confidence": "LOW",
+   "notes": "Tracxn band: Rs 50-100 Cr as on Mar 31 2025; midpoint used"
+  },
+  {
+   "fiscal_year": "FY25",
+   "metric": "employee_count",
+   "value": 337,
+   "unit": "count",
+   "currency": "INR",
+   "value_type": "press-quoted-filing",
+   "basis": "standalone",
+   "source_url": "https://tracxn.com/d/companies/neo-wealth-and-asset-management/__1QkWNXHRHOkaqZoKlgCWl77N7fw-dCbT4bUpmzTGf5Q",
+   "source_title": "Tracxn Neo Wealth profile",
+   "source_date": "2026-09-08",
+   "confidence": "MEDIUM",
+   "notes": "Tracxn: 337 as of Aug 31 2025"
+  },
+  {
+   "fiscal_year": "FY26",
+   "metric": "total_client_assets",
+   "value": 130000,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "management",
+   "basis": "standalone",
+   "source_url": "https://m.economictimes.com/tech/funding/peak-xv-leads-rs-350-crore-funding-round-in-wealth-manager-neo-group/amp_articleshow/132454861.cms",
+   "source_title": "Peak XV leads Rs 350 crore funding round in wealth manager Neo Group",
+   "source_date": "2026-07-17",
+   "confidence": "MEDIUM",
+   "notes": "Company-claimed: Rs 1.3 lakh crore as of Jun 30 2026"
+  },
+  {
+   "fiscal_year": "FY26",
+   "metric": "ARR_AUM",
+   "value": 50000,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "management",
+   "basis": "standalone",
+   "source_url": "https://m.economictimes.com/tech/funding/peak-xv-leads-rs-350-crore-funding-round-in-wealth-manager-neo-group/amp_articleshow/132454861.cms",
+   "source_title": "Peak XV leads Rs 350 crore funding round in wealth manager Neo Group",
+   "source_date": "2026-07-17",
+   "confidence": "MEDIUM",
+   "notes": "Company-claimed: Rs 50,000 crore ARR AUM as of Jun 30 2026"
+  },
+  {
+   "fiscal_year": "FY26",
+   "metric": "equity_capital_raised",
+   "value": 3000,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "press-quoted-filing",
+   "basis": "standalone",
+   "source_url": "https://m.economictimes.com/tech/funding/peak-xv-leads-rs-350-crore-funding-round-in-wealth-manager-neo-group/amp_articleshow/132454861.cms",
+   "source_title": "Peak XV leads Rs 350 crore funding round in wealth manager Neo Group",
+   "source_date": "2026-07-17",
+   "confidence": "MEDIUM",
+   "notes": "ET: Neo has close to Rs 3,000 crore in equity capital"
+  }
+ ],
+ "founders": [
+  {
+   "confidence": "HIGH",
+   "name": "Nitin Jain",
+   "role": "Chairman & Managing Director, Neo Group; ex-CEO Edelweiss Wealth",
+   "source_url": "https://www.neo-group.in/people/nitin-jain",
+   "still_active": true,
+   "type": "founder"
+  },
+  {
+   "confidence": "MEDIUM",
+   "name": "Hemant Daga",
+   "role": "Co-founder & CEO, Neo Asset Management",
+   "source_url": "https://www.thehindubusinessline.com/money-and-banking/neo-wealth-asset-management-raises-500-crore-from-tvs-capital/article70771838.ece",
+   "still_active": true,
+   "type": "co-founder"
+  },
+  {
+   "confidence": "MEDIUM",
+   "name": "Varun Bajpai",
+   "role": "Co-founder, Neo Group",
+   "source_url": "https://www.thehindubusinessline.com/money-and-banking/neo-wealth-asset-management-raises-500-crore-from-tvs-capital/article70771838.ece",
+   "still_active": true,
+   "type": "co-founder"
+  },
+  {
+   "confidence": "MEDIUM",
+   "name": "Shajikumar Devakar",
+   "role": "Co-founder & CEO, Neo Wealth Management",
+   "source_url": "https://www.thehindubusinessline.com/money-and-banking/neo-wealth-asset-management-raises-500-crore-from-tvs-capital/article70771838.ece",
+   "still_active": true,
+   "type": "co-founder"
+  },
+  {
+   "confidence": "MEDIUM",
+   "name": "Puneet Jain",
+   "role": "Co-founder & CIO, Neo Asset Management",
+   "source_url": "https://www.thehindubusinessline.com/money-and-banking/neo-wealth-asset-management-raises-500-crore-from-tvs-capital/article70771838.ece",
+   "still_active": true,
+   "type": "co-founder"
+  }
+ ],
+ "funding_rounds": [
+  {
+   "all_investors": [
+    "Peak XV Partners"
+   ],
+   "amount": "3000000000",
+   "announced_date": "2023-10-01",
+   "currency": "INR",
+   "lead_investors": [
+    "Peak XV Partners"
+   ],
+   "round_type": "Series A",
+   "source_date": "2026-03-20",
+   "source_title": "TVS Capital invests $53 mn in Neo Group",
+   "source_url": "https://www.vccircle.com/privateequity-firm-tvs-capital-invests-53-mn-in-neo-group",
+   "tier": "T3"
+  },
+  {
+   "all_investors": [
+    "MUFG Bank",
+    "Euclidean Capital",
+    "Peak XV Partners"
+   ],
+   "amount": "4000000000",
+   "announced_date": "2024-08-01",
+   "currency": "INR",
+   "lead_investors": [
+    "MUFG Bank",
+    "Euclidean Capital"
+   ],
+   "round_type": "Series B",
+   "source_date": "2026-03-20",
+   "source_title": "TVS Capital invests $53 mn in Neo Group",
+   "source_url": "https://www.vccircle.com/privateequity-firm-tvs-capital-invests-53-mn-in-neo-group",
+   "tier": "T3"
+  },
+  {
+   "all_investors": [
+    "TVS Capital"
+   ],
+   "amount": "5000000000",
+   "announced_date": "2026-03-20",
+   "currency": "INR",
+   "lead_investors": [
+    "TVS Capital"
+   ],
+   "round_type": "PE growth",
+   "source_date": "2026-03-20",
+   "source_title": "TVS Capital invests $53 mn in Neo Group",
+   "source_url": "https://www.vccircle.com/privateequity-firm-tvs-capital-invests-53-mn-in-neo-group",
+   "tier": "T3",
+   "valuation": "100000000000 INR pre-money",
+   "valuation_type": "pre-money"
+  },
+  {
+   "all_investors": [
+    "Peak XV Partners"
+   ],
+   "amount": "3500000000",
+   "announced_date": "2026-07-16",
+   "currency": "INR",
+   "lead_investors": [
+    "Peak XV Partners"
+   ],
+   "round_type": "growth",
+   "source_date": "2026-07-17",
+   "source_title": "Peak XV leads Rs 350 crore funding round in wealth manager Neo Group",
+   "source_url": "https://m.economictimes.com/tech/funding/peak-xv-leads-rs-350-crore-funding-round-in-wealth-manager-neo-group/amp_articleshow/132454861.cms",
+   "tier": "T3"
+  },
+  {
+   "round_type": "angel/seed",
+   "announced_date": "2021-12-15",
+   "amount": 40000000,
+   "currency": "USD",
+   "all_investors": [
+    "undisclosed private investors"
+   ],
+   "source_url": "https://www.moneycontrol.com/news/business/announcements/wealth-and-asset-management-startup-neo-bags-35-million-funding-from-peak-xv-11556491.html",
+   "source_title": "Wealth and asset management startup Neo bags $35 million funding from Peak XV",
+   "source_date": "2023-10-18",
+   "confidence": "MEDIUM",
+   "notes": "Tracxn shows first round Dec 15 2021; Moneycontrol says ~Rs 400cr equity from undisclosed private investors before Peak XV"
+  },
+  {
+   "round_type": "Series A",
+   "announced_date": "2023-10-01",
+   "amount": 35000000,
+   "currency": "USD",
+   "all_investors": [
+    "Peak XV Partners"
+   ],
+   "lead_investors": [
+    "Peak XV Partners"
+   ],
+   "source_url": "https://www.moneycontrol.com/news/business/announcements/wealth-and-asset-management-startup-neo-bags-35-million-funding-from-peak-xv-11556491.html",
+   "source_title": "Wealth and asset management startup Neo bags $35 million funding from Peak XV",
+   "source_date": "2023-10-18",
+   "confidence": "HIGH",
+   "notes": "Peak XV was first institutional investor; ~$35M"
+  },
+  {
+   "round_type": "Series B",
+   "announced_date": "2024-08-12",
+   "amount": 47600000,
+   "currency": "USD",
+   "all_investors": [
+    "MUFG Bank",
+    "Euclidean Capital",
+    "Peak XV Partners"
+   ],
+   "lead_investors": [
+    "MUFG Bank",
+    "Euclidean Capital"
+   ],
+   "source_url": "https://www.business-standard.com/companies/news/neo-group-raises-47-6-million-led-by-mufg-bank-euclidean-capital-124081200001_1.html",
+   "source_title": "Neo Group raises $47.6 million led by MUFG Bank, Euclidean Capital",
+   "source_date": "2024-08-12",
+   "confidence": "HIGH",
+   "notes": "BS Aug 2024; Tracxn shows Rs 400cr round"
+  },
+  {
+   "round_type": "PE growth",
+   "announced_date": "2026-03-20",
+   "amount": 5500000000,
+   "currency": "INR",
+   "all_investors": [
+    "TVS Capital Funds"
+   ],
+   "lead_investors": [
+    "TVS Capital Funds"
+   ],
+   "source_url": "https://www.vccircle.com/privateequity-firm-tvs-capital-invests-53-mn-in-neo-group",
+   "source_title": "Private equity firm TVS Capital invests $53 mn in Neo Group",
+   "source_date": "2026-03-20",
+   "confidence": "HIGH",
+   "valuation": 100000000000,
+   "valuation_currency": "INR",
+   "valuation_type": "pre-money",
+   "notes": "VCCircle says Rs 500cr at Rs 10,000cr pre-money; ET says Rs 550cr; Tracxn shows Rs 558cr"
+  },
+  {
+   "round_type": "Series B follow-on",
+   "announced_date": "2025-11-25",
+   "amount": 2210000000,
+   "currency": "INR",
+   "all_investors": [
+    "Crystal Investment Advisors (Atha Group)"
+   ],
+   "lead_investors": [
+    "Crystal Investment Advisors"
+   ],
+   "source_url": "https://entrackr.com/news/neo-group-raises-rs-350-cr-led-by-peak-xv-partners-12172440",
+   "source_title": "Neo Group raises Rs 350 Cr led by Peak XV Partners",
+   "source_date": "2026-07-17",
+   "confidence": "MEDIUM",
+   "notes": "Entrackr: Rs 221cr follow-on led by Crystal Investment Advisors (Atha Group) in Nov 2025"
+  },
+  {
+   "round_type": "Series C",
+   "announced_date": "2026-07-16",
+   "amount": 3500000000,
+   "currency": "INR",
+   "all_investors": [
+    "Peak XV Partners"
+   ],
+   "lead_investors": [
+    "Peak XV Partners"
+   ],
+   "source_url": "https://m.economictimes.com/tech/funding/peak-xv-leads-rs-350-crore-funding-round-in-wealth-manager-neo-group/amp_articleshow/132454861.cms",
+   "source_title": "Peak XV leads Rs 350 crore funding round in wealth manager Neo Group",
+   "source_date": "2026-07-17",
+   "confidence": "HIGH",
+   "notes": "ET Jul 2026; ~$36.3M; Tracxn shows Series C Jul 16 2026"
+  },
+  {
+   "round_type": "follow-on",
+   "announced_date": "2025-08-21",
+   "amount": 19000000,
+   "currency": "USD",
+   "all_investors": [
+    "VT Capital"
+   ],
+   "source_url": "https://entrackr.com/news/neo-group-raises-rs-350-cr-led-by-peak-xv-partners-12172440",
+   "source_title": "Neo Group raises Rs 350 Cr led by Peak XV Partners",
+   "source_date": "2026-07-17",
+   "confidence": "MEDIUM",
+   "notes": "Entrackr Aug 2025: $19Mn led by VT Capital at 2.7X valuation surge to $686M"
+  },
+  {
+   "round_type": "debt",
+   "announced_date": "2025-03-13",
+   "amount": 30000000,
+   "currency": "USD",
+   "all_investors": [
+    "InCred"
+   ],
+   "source_url": "https://entrackr.com/news/neo-group-raises-rs-350-cr-led-by-peak-xv-partners-12172440",
+   "source_title": "Neo Group raises Rs 350 Cr led by Peak XV Partners",
+   "source_date": "2026-07-17",
+   "confidence": "LOW",
+   "notes": "Entrackr news list mentions InCred raises $30Mn debt; Neo may be investor/lender"
+  }
+ ],
+ "gaps": [
+  "Audited MCA revenue/PAT not verified; CIN incorporation date Sep 15 2021 per Tracxn aggregator snippet, needs MCA-direct confirm.",
+  "Early 2021 angel rounds ($212M total per Tracxn) not itemized.",
+  "AUM figures are company-claimed (Rs 1-1.3 lakh cr), not audited."
+ ],
+ "investor_links": [
+  {
+   "confidence": "HIGH",
+   "investor": "Peak XV Partners",
+   "investor_type": "VC",
+   "lead": true,
+   "rounds": [
+    "Series A 2023",
+    "Series B 2024",
+    "growth Jul 2026"
+   ],
+   "source_url": "https://www.vccircle.com/privateequity-firm-tvs-capital-invests-53-mn-in-neo-group"
+  },
+  {
+   "confidence": "HIGH",
+   "investor": "TVS Capital Funds",
+   "investor_type": "PE",
+   "lead": true,
+   "rounds": [
+    "PE Mar 2026"
+   ],
+   "source_url": "https://www.vccircle.com/privateequity-firm-tvs-capital-invests-53-mn-in-neo-group"
+  },
+  {
+   "confidence": "HIGH",
+   "investor": "MUFG Bank",
+   "investor_type": "strategic/corporate",
+   "lead": true,
+   "rounds": [
+    "Series B Aug 2024"
+   ],
+   "source_url": "https://www.vccircle.com/mufgexpands-india-bfsi-basket-with-investment-in-neo-group"
+  },
+  {
+   "confidence": "HIGH",
+   "investor": "Euclidean Capital",
+   "investor_type": "family office/asset manager",
+   "lead": true,
+   "rounds": [
+    "Series B Aug 2024"
+   ],
+   "source_url": "https://www.vccircle.com/mufgexpands-india-bfsi-basket-with-investment-in-neo-group"
+  },
+  {
+   "investor": "Crystal Investment Advisors (Atha Group)",
+   "investor_type": "PE",
+   "lead": true,
+   "rounds": [
+    "follow-on Nov 2025"
+   ],
+   "source_url": "https://entrackr.com/news/neo-group-raises-rs-350-cr-led-by-peak-xv-partners-12172440",
+   "confidence": "MEDIUM"
+  },
+  {
+   "investor": "VT Capital",
+   "investor_type": "PE",
+   "lead": true,
+   "rounds": [
+    "follow-on Aug 2025"
+   ],
+   "source_url": "https://entrackr.com/news/neo-group-raises-rs-350-cr-led-by-peak-xv-partners-12172440",
+   "confidence": "MEDIUM"
+  },
+  {
+   "investor": "Morde",
+   "investor_type": "UNKNOWN",
+   "lead": false,
+   "rounds": [
+    "unknown"
+   ],
+   "source_url": "https://tracxn.com/d/companies/neo-wealth-and-asset-management/__1QkWNXHRHOkaqZoKlgCWl77N7fw-dCbT4bUpmzTGf5Q",
+   "confidence": "LOW"
+  }
+ ],
+ "research_log": [
+  {
+   "found": "ACTIVE; Tracxn Series C; CINs U70200MH2021PTC367572 (Neo Wealth Mgmt, inc Sep 15 2021), U64990MH2024PTC417309; founders list",
+   "query": "Neo Wealth Mumbai startup status 2025 2026 shutdown acquisition",
+   "unresolved": "Audited financials"
+  },
+  {
+   "found": "Rs 500cr TVS Mar 2026 at Rs 10,000cr pre-money; Peak XV Rs 350cr Jul 2026; founders Nitin Jain + 4 co-founders; AUM Rs 1-1.3 lakh cr",
+   "query": "Neo Group Nitin Jain Rs 500 crore TVS Capital March 2026 Peak XV MUFG",
+   "unresolved": "None for LITE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neo Wealth founders Nitin Jain Hemant Daga Varun Bajpai A V Srikanth Shajikumar Devakar",
+   "status": "done",
+   "found": "Confirmed 5 co-founders: Nitin Jain (founder/Chairman), Hemant Daga, Varun Bajpai, Puneet Jain, A V Srikanth (all ex-Edelweiss/Macquarie/Motilal Oswal). Shajikumar Devakar joined 2025 from 360 One.",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neo Wealth SEBI RIA registration number",
+   "status": "logged-no-result",
+   "found": "No specific SEBI RIA registration number found. SEBI-registered private credit fund confirmed (Nov 2025). NBFC license sought from RBI (Oct 2023).",
+   "next_action": "Verify SEBI RIA registration via SEBI BHR portal"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neo Wealth MCA filing revenue PAT FY25",
+   "status": "logged-no-result",
+   "found": "Tracxn shows revenue band Rs 50-100 Cr FY25. No audited MCA filing data obtained.",
+   "next_action": "Verify via MCA21 portal directly"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neo Wealth AUM Rs 1.3 lakh crore Jun 2026",
+   "status": "done",
+   "found": "Confirmed via ET Jul 2026: Rs 1.3 lakh crore total client assets, Rs 50,000 crore ARR AUM as of Jun 30 2026.",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neo Wealth registered office address",
+   "status": "done",
+   "found": "Confirmed via Tracxn: 903 B-Wing 9th Floor Marathon Futurex Lower Parel Mumbai 400013",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neo Wealth founders Nitin Jain Hemant Daga Varun Bajpai A V Srikanth Shajikumar Devakar",
+   "status": "done",
+   "found": "Confirmed 5 co-founders: Nitin Jain (founder/Chairman), Hemant Daga, Varun Bajpai, Puneet Jain, A V Srikanth (all ex-Edelweiss/Macquarie/Motilal Oswal). Shajikumar Devakar joined 2025 from 360 One.",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neo Wealth SEBI RIA registration number",
+   "status": "logged-no-result",
+   "found": "No specific SEBI RIA registration number found. SEBI-registered private credit fund confirmed (Nov 2025). NBFC license sought from RBI (Oct 2023).",
+   "next_action": "Verify SEBI RIA registration via SEBI BHR portal"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neo Wealth MCA filing revenue PAT FY25",
+   "status": "logged-no-result",
+   "found": "Tracxn shows revenue band Rs 50-100 Cr FY25. No audited MCA filing data obtained.",
+   "next_action": "Verify via MCA21 portal directly"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neo Wealth AUM Rs 1.3 lakh crore Jun 2026",
+   "status": "done",
+   "found": "Confirmed via ET Jul 2026: Rs 1.3 lakh crore total client assets, Rs 50,000 crore ARR AUM as of Jun 30 2026.",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neo Wealth registered office address",
+   "status": "done",
+   "found": "Confirmed via Tracxn: 903 B-Wing 9th Floor Marathon Futurex Lower Parel Mumbai 400013",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neo Wealth founders Nitin Jain Hemant Daga Varun Bajpai A V Srikanth Shajikumar Devakar",
+   "status": "done",
+   "found": "Confirmed 5 co-founders: Nitin Jain (founder/Chairman), Hemant Daga, Varun Bajpai, Puneet Jain, A V Srikanth (all ex-Edelweiss/Macquarie/Motilal Oswal). Shajikumar Devakar joined 2025 from 360 One.",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neo Wealth SEBI RIA registration number",
+   "status": "logged-no-result",
+   "found": "No specific SEBI RIA registration number found. SEBI-registered private credit fund confirmed (Nov 2025). NBFC license sought from RBI (Oct 2023).",
+   "next_action": "Verify SEBI RIA registration via SEBI BHR portal"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neo Wealth MCA filing revenue PAT FY25",
+   "status": "logged-no-result",
+   "found": "Tracxn shows revenue band Rs 50-100 Cr FY25. No audited MCA filing data obtained.",
+   "next_action": "Verify via MCA21 portal directly"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neo Wealth AUM Rs 1.3 lakh crore Jun 2026",
+   "status": "done",
+   "found": "Confirmed via ET Jul 2026: Rs 1.3 lakh crore total client assets, Rs 50,000 crore ARR AUM as of Jun 30 2026.",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neo Wealth registered office address",
+   "status": "done",
+   "found": "Confirmed via Tracxn: 903 B-Wing 9th Floor Marathon Futurex Lower Parel Mumbai 400013",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neo Wealth founders Nitin Jain Hemant Daga Varun Bajpai A V Srikanth Shajikumar Devakar",
+   "status": "done",
+   "found": "Confirmed 5 co-founders: Nitin Jain (founder/Chairman), Hemant Daga, Varun Bajpai, Puneet Jain, A V Srikanth (all ex-Edelweiss/Macquarie/Motilal Oswal). Shajikumar Devakar joined 2025 from 360 One.",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neo Wealth SEBI RIA registration number",
+   "status": "logged-no-result",
+   "found": "No specific SEBI RIA registration number found. SEBI-registered private credit fund confirmed (Nov 2025). NBFC license sought from RBI (Oct 2023).",
+   "next_action": "Verify SEBI RIA registration via SEBI BHR portal"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neo Wealth MCA filing revenue PAT FY25",
+   "status": "logged-no-result",
+   "found": "Tracxn shows revenue band Rs 50-100 Cr FY25. No audited MCA filing data obtained.",
+   "next_action": "Verify via MCA21 portal directly"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neo Wealth AUM Rs 1.3 lakh crore Jun 2026",
+   "status": "done",
+   "found": "Confirmed via ET Jul 2026: Rs 1.3 lakh crore total client assets, Rs 50,000 crore ARR AUM as of Jun 30 2026.",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neo Wealth registered office address",
+   "status": "done",
+   "found": "Confirmed via Tracxn: 903 B-Wing 9th Floor Marathon Futurex Lower Parel Mumbai 400013",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neo Wealth founders Nitin Jain Hemant Daga Varun Bajpai A V Srikanth Shajikumar Devakar",
+   "status": "done",
+   "found": "Confirmed 5 co-founders: Nitin Jain (founder/Chairman), Hemant Daga, Varun Bajpai, Puneet Jain, A V Srikanth (all ex-Edelweiss/Macquarie/Motilal Oswal). Shajikumar Devakar joined 2025 from 360 One.",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neo Wealth SEBI RIA registration number",
+   "status": "logged-no-result",
+   "found": "No specific SEBI RIA registration number found. SEBI-registered private credit fund confirmed (Nov 2025). NBFC license sought from RBI (Oct 2023).",
+   "next_action": "Verify SEBI RIA registration via SEBI BHR portal"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neo Wealth MCA filing revenue PAT FY25",
+   "status": "logged-no-result",
+   "found": "Tracxn shows revenue band Rs 50-100 Cr FY25. No audited MCA filing data obtained.",
+   "next_action": "Verify via MCA21 portal directly"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neo Wealth AUM Rs 1.3 lakh crore Jun 2026",
+   "status": "done",
+   "found": "Confirmed via ET Jul 2026: Rs 1.3 lakh crore total client assets, Rs 50,000 crore ARR AUM as of Jun 30 2026.",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neo Wealth registered office address",
+   "status": "done",
+   "found": "Confirmed via Tracxn: 903 B-Wing 9th Floor Marathon Futurex Lower Parel Mumbai 400013",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neo Wealth founders Nitin Jain Hemant Daga Varun Bajpai A V Srikanth Shajikumar Devakar",
+   "status": "done",
+   "found": "Confirmed 5 co-founders: Nitin Jain (founder/Chairman), Hemant Daga, Varun Bajpai, Puneet Jain, A V Srikanth (all ex-Edelweiss/Macquarie/Motilal Oswal). Shajikumar Devakar joined 2025 from 360 One.",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neo Wealth SEBI RIA registration number",
+   "status": "logged-no-result",
+   "found": "No specific SEBI RIA registration number found. SEBI-registered private credit fund confirmed (Nov 2025). NBFC license sought from RBI (Oct 2023).",
+   "next_action": "Verify SEBI RIA registration via SEBI BHR portal"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neo Wealth MCA filing revenue PAT FY25",
+   "status": "logged-no-result",
+   "found": "Tracxn shows revenue band Rs 50-100 Cr FY25. No audited MCA filing data obtained.",
+   "next_action": "Verify via MCA21 portal directly"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neo Wealth AUM Rs 1.3 lakh crore Jun 2026",
+   "status": "done",
+   "found": "Confirmed via ET Jul 2026: Rs 1.3 lakh crore total client assets, Rs 50,000 crore ARR AUM as of Jun 30 2026.",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neo Wealth registered office address",
+   "status": "done",
+   "found": "Confirmed via Tracxn: 903 B-Wing 9th Floor Marathon Futurex Lower Parel Mumbai 400013",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neo Wealth founders Nitin Jain Hemant Daga Varun Bajpai A V Srikanth Shajikumar Devakar",
+   "status": "done",
+   "found": "Confirmed 5 co-founders: Nitin Jain (founder/Chairman), Hemant Daga, Varun Bajpai, Puneet Jain, A V Srikanth (all ex-Edelweiss/Macquarie/Motilal Oswal). Shajikumar Devakar joined 2025 from 360 One.",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neo Wealth SEBI RIA registration number",
+   "status": "logged-no-result",
+   "found": "No specific SEBI RIA registration number found. SEBI-registered private credit fund confirmed (Nov 2025). NBFC license sought from RBI (Oct 2023).",
+   "next_action": "Verify SEBI RIA registration via SEBI BHR portal"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neo Wealth MCA filing revenue PAT FY25",
+   "status": "logged-no-result",
+   "found": "Tracxn shows revenue band Rs 50-100 Cr FY25. No audited MCA filing data obtained.",
+   "next_action": "Verify via MCA21 portal directly"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neo Wealth AUM Rs 1.3 lakh crore Jun 2026",
+   "status": "done",
+   "found": "Confirmed via ET Jul 2026: Rs 1.3 lakh crore total client assets, Rs 50,000 crore ARR AUM as of Jun 30 2026.",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neo Wealth registered office address",
+   "status": "done",
+   "found": "Confirmed via Tracxn: 903 B-Wing 9th Floor Marathon Futurex Lower Parel Mumbai 400013",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neo Wealth founders Nitin Jain Hemant Daga Varun Bajpai A V Srikanth Shajikumar Devakar",
+   "status": "done",
+   "found": "Confirmed 5 co-founders: Nitin Jain (founder/Chairman), Hemant Daga, Varun Bajpai, Puneet Jain, A V Srikanth (all ex-Edelweiss/Macquarie/Motilal Oswal). Shajikumar Devakar joined 2025 from 360 One.",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neo Wealth SEBI RIA registration number",
+   "status": "logged-no-result",
+   "found": "No specific SEBI RIA registration number found. SEBI-registered private credit fund confirmed (Nov 2025). NBFC license sought from RBI (Oct 2023).",
+   "next_action": "Verify SEBI RIA registration via SEBI BHR portal"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neo Wealth MCA filing revenue PAT FY25",
+   "status": "logged-no-result",
+   "found": "Tracxn shows revenue band Rs 50-100 Cr FY25. No audited MCA filing data obtained.",
+   "next_action": "Verify via MCA21 portal directly"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neo Wealth AUM Rs 1.3 lakh crore Jun 2026",
+   "status": "done",
+   "found": "Confirmed via ET Jul 2026: Rs 1.3 lakh crore total client assets, Rs 50,000 crore ARR AUM as of Jun 30 2026.",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neo Wealth registered office address",
+   "status": "done",
+   "found": "Confirmed via Tracxn: 903 B-Wing 9th Floor Marathon Futurex Lower Parel Mumbai 400013",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neo Wealth founders Nitin Jain Hemant Daga Varun Bajpai A V Srikanth Shajikumar Devakar",
+   "status": "done",
+   "found": "Confirmed 5 co-founders: Nitin Jain (founder/Chairman), Hemant Daga, Varun Bajpai, Puneet Jain, A V Srikanth (all ex-Edelweiss/Macquarie/Motilal Oswal). Shajikumar Devakar joined 2025 from 360 One.",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neo Wealth SEBI RIA registration number",
+   "status": "logged-no-result",
+   "found": "No specific SEBI RIA registration number found. SEBI-registered private credit fund confirmed (Nov 2025). NBFC license sought from RBI (Oct 2023).",
+   "next_action": "Verify SEBI RIA registration via SEBI BHR portal"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neo Wealth MCA filing revenue PAT FY25",
+   "status": "logged-no-result",
+   "found": "Tracxn shows revenue band Rs 50-100 Cr FY25. No audited MCA filing data obtained.",
+   "next_action": "Verify via MCA21 portal directly"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neo Wealth AUM Rs 1.3 lakh crore Jun 2026",
+   "status": "done",
+   "found": "Confirmed via ET Jul 2026: Rs 1.3 lakh crore total client assets, Rs 50,000 crore ARR AUM as of Jun 30 2026.",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neo Wealth registered office address",
+   "status": "done",
+   "found": "Confirmed via Tracxn: 903 B-Wing 9th Floor Marathon Futurex Lower Parel Mumbai 400013",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neo Wealth founders Nitin Jain Hemant Daga Varun Bajpai A V Srikanth Shajikumar Devakar",
+   "status": "done",
+   "found": "Confirmed 5 co-founders: Nitin Jain (founder/Chairman), Hemant Daga, Varun Bajpai, Puneet Jain, A V Srikanth (all ex-Edelweiss/Macquarie/Motilal Oswal). Shajikumar Devakar joined 2025 from 360 One.",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neo Wealth SEBI RIA registration number",
+   "status": "logged-no-result",
+   "found": "No specific SEBI RIA registration number found. SEBI-registered private credit fund confirmed (Nov 2025). NBFC license sought from RBI (Oct 2023).",
+   "next_action": "Verify SEBI RIA registration via SEBI BHR portal"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neo Wealth MCA filing revenue PAT FY25",
+   "status": "logged-no-result",
+   "found": "Tracxn shows revenue band Rs 50-100 Cr FY25. No audited MCA filing data obtained.",
+   "next_action": "Verify via MCA21 portal directly"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neo Wealth AUM Rs 1.3 lakh crore Jun 2026",
+   "status": "done",
+   "found": "Confirmed via ET Jul 2026: Rs 1.3 lakh crore total client assets, Rs 50,000 crore ARR AUM as of Jun 30 2026.",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neo Wealth registered office address",
+   "status": "done",
+   "found": "Confirmed via Tracxn: 903 B-Wing 9th Floor Marathon Futurex Lower Parel Mumbai 400013",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neo Wealth founders Nitin Jain Hemant Daga Varun Bajpai A V Srikanth Shajikumar Devakar",
+   "status": "done",
+   "found": "Confirmed 5 co-founders: Nitin Jain (founder/Chairman), Hemant Daga, Varun Bajpai, Puneet Jain, A V Srikanth (all ex-Edelweiss/Macquarie/Motilal Oswal). Shajikumar Devakar joined 2025 from 360 One.",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neo Wealth SEBI RIA registration number",
+   "status": "logged-no-result",
+   "found": "No specific SEBI RIA registration number found. SEBI-registered private credit fund confirmed (Nov 2025). NBFC license sought from RBI (Oct 2023).",
+   "next_action": "Verify SEBI RIA registration via SEBI BHR portal"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neo Wealth MCA filing revenue PAT FY25",
+   "status": "logged-no-result",
+   "found": "Tracxn shows revenue band Rs 50-100 Cr FY25. No audited MCA filing data obtained.",
+   "next_action": "Verify via MCA21 portal directly"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neo Wealth AUM Rs 1.3 lakh crore Jun 2026",
+   "status": "done",
+   "found": "Confirmed via ET Jul 2026: Rs 1.3 lakh crore total client assets, Rs 50,000 crore ARR AUM as of Jun 30 2026.",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neo Wealth registered office address",
+   "status": "done",
+   "found": "Confirmed via Tracxn: 903 B-Wing 9th Floor Marathon Futurex Lower Parel Mumbai 400013",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neo Wealth founders Nitin Jain Hemant Daga Varun Bajpai A V Srikanth Shajikumar Devakar",
+   "status": "done",
+   "found": "Confirmed 5 co-founders: Nitin Jain (founder/Chairman), Hemant Daga, Varun Bajpai, Puneet Jain, A V Srikanth (all ex-Edelweiss/Macquarie/Motilal Oswal). Shajikumar Devakar joined 2025 from 360 One.",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neo Wealth SEBI RIA registration number",
+   "status": "logged-no-result",
+   "found": "No specific SEBI RIA registration number found. SEBI-registered private credit fund confirmed (Nov 2025). NBFC license sought from RBI (Oct 2023).",
+   "next_action": "Verify SEBI RIA registration via SEBI BHR portal"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neo Wealth MCA filing revenue PAT FY25",
+   "status": "logged-no-result",
+   "found": "Tracxn shows revenue band Rs 50-100 Cr FY25. No audited MCA filing data obtained.",
+   "next_action": "Verify via MCA21 portal directly"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neo Wealth AUM Rs 1.3 lakh crore Jun 2026",
+   "status": "done",
+   "found": "Confirmed via ET Jul 2026: Rs 1.3 lakh crore total client assets, Rs 50,000 crore ARR AUM as of Jun 30 2026.",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neo Wealth registered office address",
+   "status": "done",
+   "found": "Confirmed via Tracxn: 903 B-Wing 9th Floor Marathon Futurex Lower Parel Mumbai 400013",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neo Wealth founders Nitin Jain Hemant Daga Varun Bajpai A V Srikanth Shajikumar Devakar",
+   "status": "done",
+   "found": "Confirmed 5 co-founders: Nitin Jain (founder/Chairman), Hemant Daga, Varun Bajpai, Puneet Jain, A V Srikanth (all ex-Edelweiss/Macquarie/Motilal Oswal). Shajikumar Devakar joined 2025 from 360 One.",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neo Wealth SEBI RIA registration number",
+   "status": "logged-no-result",
+   "found": "No specific SEBI RIA registration number found. SEBI-registered private credit fund confirmed (Nov 2025). NBFC license sought from RBI (Oct 2023).",
+   "next_action": "Verify SEBI RIA registration via SEBI BHR portal"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neo Wealth MCA filing revenue PAT FY25",
+   "status": "logged-no-result",
+   "found": "Tracxn shows revenue band Rs 50-100 Cr FY25. No audited MCA filing data obtained.",
+   "next_action": "Verify via MCA21 portal directly"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neo Wealth AUM Rs 1.3 lakh crore Jun 2026",
+   "status": "done",
+   "found": "Confirmed via ET Jul 2026: Rs 1.3 lakh crore total client assets, Rs 50,000 crore ARR AUM as of Jun 30 2026.",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neo Wealth registered office address",
+   "status": "done",
+   "found": "Confirmed via Tracxn: 903 B-Wing 9th Floor Marathon Futurex Lower Parel Mumbai 400013",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neo Wealth founders Nitin Jain Hemant Daga Varun Bajpai A V Srikanth Shajikumar Devakar",
+   "status": "done",
+   "found": "Confirmed 5 co-founders: Nitin Jain (founder/Chairman), Hemant Daga, Varun Bajpai, Puneet Jain, A V Srikanth (all ex-Edelweiss/Macquarie/Motilal Oswal). Shajikumar Devakar joined 2025 from 360 One.",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neo Wealth SEBI RIA registration number",
+   "status": "logged-no-result",
+   "found": "No specific SEBI RIA registration number found. SEBI-registered private credit fund confirmed (Nov 2025). NBFC license sought from RBI (Oct 2023).",
+   "next_action": "Verify SEBI RIA registration via SEBI BHR portal"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neo Wealth MCA filing revenue PAT FY25",
+   "status": "logged-no-result",
+   "found": "Tracxn shows revenue band Rs 50-100 Cr FY25. No audited MCA filing data obtained.",
+   "next_action": "Verify via MCA21 portal directly"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neo Wealth AUM Rs 1.3 lakh crore Jun 2026",
+   "status": "done",
+   "found": "Confirmed via ET Jul 2026: Rs 1.3 lakh crore total client assets, Rs 50,000 crore ARR AUM as of Jun 30 2026.",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neo Wealth registered office address",
+   "status": "done",
+   "found": "Confirmed via Tracxn: 903 B-Wing 9th Floor Marathon Futurex Lower Parel Mumbai 400013",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neo Wealth founders Nitin Jain Hemant Daga Varun Bajpai A V Srikanth Shajikumar Devakar",
+   "status": "done",
+   "found": "Confirmed 5 co-founders: Nitin Jain (founder/Chairman), Hemant Daga, Varun Bajpai, Puneet Jain, A V Srikanth (all ex-Edelweiss/Macquarie/Motilal Oswal). Shajikumar Devakar joined 2025 from 360 One.",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neo Wealth SEBI RIA registration number",
+   "status": "logged-no-result",
+   "found": "No specific SEBI RIA registration number found. SEBI-registered private credit fund confirmed (Nov 2025). NBFC license sought from RBI (Oct 2023).",
+   "next_action": "Verify SEBI RIA registration via SEBI BHR portal"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neo Wealth MCA filing revenue PAT FY25",
+   "status": "logged-no-result",
+   "found": "Tracxn shows revenue band Rs 50-100 Cr FY25. No audited MCA filing data obtained.",
+   "next_action": "Verify via MCA21 portal directly"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neo Wealth AUM Rs 1.3 lakh crore Jun 2026",
+   "status": "done",
+   "found": "Confirmed via ET Jul 2026: Rs 1.3 lakh crore total client assets, Rs 50,000 crore ARR AUM as of Jun 30 2026.",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neo Wealth registered office address",
+   "status": "done",
+   "found": "Confirmed via Tracxn: 903 B-Wing 9th Floor Marathon Futurex Lower Parel Mumbai 400013",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neo Wealth founders Nitin Jain Hemant Daga Varun Bajpai A V Srikanth Shajikumar Devakar",
+   "status": "done",
+   "found": "Confirmed 5 co-founders: Nitin Jain (founder/Chairman), Hemant Daga, Varun Bajpai, Puneet Jain, A V Srikanth (all ex-Edelweiss/Macquarie/Motilal Oswal). Shajikumar Devakar joined 2025 from 360 One.",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neo Wealth SEBI RIA registration number",
+   "status": "logged-no-result",
+   "found": "No specific SEBI RIA registration number found. SEBI-registered private credit fund confirmed (Nov 2025). NBFC license sought from RBI (Oct 2023).",
+   "next_action": "Verify SEBI RIA registration via SEBI BHR portal"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neo Wealth MCA filing revenue PAT FY25",
+   "status": "logged-no-result",
+   "found": "Tracxn shows revenue band Rs 50-100 Cr FY25. No audited MCA filing data obtained.",
+   "next_action": "Verify via MCA21 portal directly"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neo Wealth AUM Rs 1.3 lakh crore Jun 2026",
+   "status": "done",
+   "found": "Confirmed via ET Jul 2026: Rs 1.3 lakh crore total client assets, Rs 50,000 crore ARR AUM as of Jun 30 2026.",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neo Wealth registered office address",
+   "status": "done",
+   "found": "Confirmed via Tracxn: 903 B-Wing 9th Floor Marathon Futurex Lower Parel Mumbai 400013",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neo Wealth founders Nitin Jain Hemant Daga Varun Bajpai A V Srikanth Shajikumar Devakar",
+   "status": "done",
+   "found": "Confirmed 5 co-founders: Nitin Jain (founder/Chairman), Hemant Daga, Varun Bajpai, Puneet Jain, A V Srikanth (all ex-Edelweiss/Macquarie/Motilal Oswal). Shajikumar Devakar joined 2025 from 360 One.",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neo Wealth SEBI RIA registration number",
+   "status": "logged-no-result",
+   "found": "No specific SEBI RIA registration number found. SEBI-registered private credit fund confirmed (Nov 2025). NBFC license sought from RBI (Oct 2023).",
+   "next_action": "Verify SEBI RIA registration via SEBI BHR portal"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neo Wealth MCA filing revenue PAT FY25",
+   "status": "logged-no-result",
+   "found": "Tracxn shows revenue band Rs 50-100 Cr FY25. No audited MCA filing data obtained.",
+   "next_action": "Verify via MCA21 portal directly"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neo Wealth AUM Rs 1.3 lakh crore Jun 2026",
+   "status": "done",
+   "found": "Confirmed via ET Jul 2026: Rs 1.3 lakh crore total client assets, Rs 50,000 crore ARR AUM as of Jun 30 2026.",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neo Wealth registered office address",
+   "status": "done",
+   "found": "Confirmed via Tracxn: 903 B-Wing 9th Floor Marathon Futurex Lower Parel Mumbai 400013",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neo Wealth founders Nitin Jain Hemant Daga Varun Bajpai A V Srikanth Shajikumar Devakar",
+   "status": "done",
+   "found": "Confirmed 5 co-founders: Nitin Jain (founder/Chairman), Hemant Daga, Varun Bajpai, Puneet Jain, A V Srikanth (all ex-Edelweiss/Macquarie/Motilal Oswal). Shajikumar Devakar joined 2025 from 360 One.",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neo Wealth SEBI RIA registration number",
+   "status": "logged-no-result",
+   "found": "No specific SEBI RIA registration number found. SEBI-registered private credit fund confirmed (Nov 2025). NBFC license sought from RBI (Oct 2023).",
+   "next_action": "Verify SEBI RIA registration via SEBI BHR portal"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neo Wealth MCA filing revenue PAT FY25",
+   "status": "logged-no-result",
+   "found": "Tracxn shows revenue band Rs 50-100 Cr FY25. No audited MCA filing data obtained.",
+   "next_action": "Verify via MCA21 portal directly"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neo Wealth AUM Rs 1.3 lakh crore Jun 2026",
+   "status": "done",
+   "found": "Confirmed via ET Jul 2026: Rs 1.3 lakh crore total client assets, Rs 50,000 crore ARR AUM as of Jun 30 2026.",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neo Wealth registered office address",
+   "status": "done",
+   "found": "Confirmed via Tracxn: 903 B-Wing 9th Floor Marathon Futurex Lower Parel Mumbai 400013",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neo Wealth founders Nitin Jain Hemant Daga Varun Bajpai A V Srikanth Shajikumar Devakar",
+   "status": "done",
+   "found": "Confirmed 5 co-founders: Nitin Jain (founder/Chairman), Hemant Daga, Varun Bajpai, Puneet Jain, A V Srikanth (all ex-Edelweiss/Macquarie/Motilal Oswal). Shajikumar Devakar joined 2025 from 360 One.",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neo Wealth SEBI RIA registration number",
+   "status": "logged-no-result",
+   "found": "No specific SEBI RIA registration number found. SEBI-registered private credit fund confirmed (Nov 2025). NBFC license sought from RBI (Oct 2023).",
+   "next_action": "Verify SEBI RIA registration via SEBI BHR portal"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neo Wealth MCA filing revenue PAT FY25",
+   "status": "logged-no-result",
+   "found": "Tracxn shows revenue band Rs 50-100 Cr FY25. No audited MCA filing data obtained.",
+   "next_action": "Verify via MCA21 portal directly"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neo Wealth AUM Rs 1.3 lakh crore Jun 2026",
+   "status": "done",
+   "found": "Confirmed via ET Jul 2026: Rs 1.3 lakh crore total client assets, Rs 50,000 crore ARR AUM as of Jun 30 2026.",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neo Wealth registered office address",
+   "status": "done",
+   "found": "Confirmed via Tracxn: 903 B-Wing 9th Floor Marathon Futurex Lower Parel Mumbai 400013",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neo Wealth founders Nitin Jain Hemant Daga Varun Bajpai A V Srikanth Shajikumar Devakar",
+   "status": "done",
+   "found": "Confirmed 5 co-founders: Nitin Jain (founder/Chairman), Hemant Daga, Varun Bajpai, Puneet Jain, A V Srikanth (all ex-Edelweiss/Macquarie/Motilal Oswal). Shajikumar Devakar joined 2025 from 360 One.",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neo Wealth SEBI RIA registration number",
+   "status": "logged-no-result",
+   "found": "No specific SEBI RIA registration number found. SEBI-registered private credit fund confirmed (Nov 2025). NBFC license sought from RBI (Oct 2023).",
+   "next_action": "Verify SEBI RIA registration via SEBI BHR portal"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neo Wealth MCA filing revenue PAT FY25",
+   "status": "logged-no-result",
+   "found": "Tracxn shows revenue band Rs 50-100 Cr FY25. No audited MCA filing data obtained.",
+   "next_action": "Verify via MCA21 portal directly"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neo Wealth AUM Rs 1.3 lakh crore Jun 2026",
+   "status": "done",
+   "found": "Confirmed via ET Jul 2026: Rs 1.3 lakh crore total client assets, Rs 50,000 crore ARR AUM as of Jun 30 2026.",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neo Wealth registered office address",
+   "status": "done",
+   "found": "Confirmed via Tracxn: 903 B-Wing 9th Floor Marathon Futurex Lower Parel Mumbai 400013",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neo Wealth founders Nitin Jain Hemant Daga Varun Bajpai A V Srikanth Shajikumar Devakar",
+   "status": "done",
+   "found": "Confirmed 5 co-founders: Nitin Jain (founder/Chairman), Hemant Daga, Varun Bajpai, Puneet Jain, A V Srikanth (all ex-Edelweiss/Macquarie/Motilal Oswal). Shajikumar Devakar joined 2025 from 360 One.",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neo Wealth SEBI RIA registration number",
+   "status": "logged-no-result",
+   "found": "No specific SEBI RIA registration number found. SEBI-registered private credit fund confirmed (Nov 2025). NBFC license sought from RBI (Oct 2023).",
+   "next_action": "Verify SEBI RIA registration via SEBI BHR portal"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neo Wealth MCA filing revenue PAT FY25",
+   "status": "logged-no-result",
+   "found": "Tracxn shows revenue band Rs 50-100 Cr FY25. No audited MCA filing data obtained.",
+   "next_action": "Verify via MCA21 portal directly"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neo Wealth AUM Rs 1.3 lakh crore Jun 2026",
+   "status": "done",
+   "found": "Confirmed via ET Jul 2026: Rs 1.3 lakh crore total client assets, Rs 50,000 crore ARR AUM as of Jun 30 2026.",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neo Wealth registered office address",
+   "status": "done",
+   "found": "Confirmed via Tracxn: 903 B-Wing 9th Floor Marathon Futurex Lower Parel Mumbai 400013",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neo Wealth founders Nitin Jain Hemant Daga Varun Bajpai A V Srikanth Shajikumar Devakar",
+   "status": "done",
+   "found": "Confirmed 5 co-founders: Nitin Jain (founder/Chairman), Hemant Daga, Varun Bajpai, Puneet Jain, A V Srikanth (all ex-Edelweiss/Macquarie/Motilal Oswal). Shajikumar Devakar joined 2025 from 360 One.",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neo Wealth SEBI RIA registration number",
+   "status": "logged-no-result",
+   "found": "No specific SEBI RIA registration number found. SEBI-registered private credit fund confirmed (Nov 2025). NBFC license sought from RBI (Oct 2023).",
+   "next_action": "Verify SEBI RIA registration via SEBI BHR portal"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neo Wealth MCA filing revenue PAT FY25",
+   "status": "logged-no-result",
+   "found": "Tracxn shows revenue band Rs 50-100 Cr FY25. No audited MCA filing data obtained.",
+   "next_action": "Verify via MCA21 portal directly"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neo Wealth AUM Rs 1.3 lakh crore Jun 2026",
+   "status": "done",
+   "found": "Confirmed via ET Jul 2026: Rs 1.3 lakh crore total client assets, Rs 50,000 crore ARR AUM as of Jun 30 2026.",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neo Wealth registered office address",
+   "status": "done",
+   "found": "Confirmed via Tracxn: 903 B-Wing 9th Floor Marathon Futurex Lower Parel Mumbai 400013",
+   "next_action": "None"
+  }
+ ],
+ "sources": [
+  {
+   "publication_date": "2026-03-20",
+   "publisher": "VCCircle",
+   "retrieved_date": "2026-09-15",
+   "tier": "T3",
+   "title": "Private equity firm TVS Capital invests $53 mn in Neo Group",
+   "url": "https://www.vccircle.com/privateequity-firm-tvs-capital-invests-53-mn-in-neo-group"
+  },
+  {
+   "publication_date": "2026-07-17",
+   "publisher": "Economic Times",
+   "retrieved_date": "2026-09-15",
+   "tier": "T3",
+   "title": "Peak XV leads Rs 350 crore funding round in wealth manager Neo Group",
+   "url": "https://m.economictimes.com/tech/funding/peak-xv-leads-rs-350-crore-funding-round-in-wealth-manager-neo-group/amp_articleshow/132454861.cms"
+  },
+  {
+   "publication_date": "2026-03-22",
+   "publisher": "Hindu BusinessLine",
+   "retrieved_date": "2026-09-15",
+   "tier": "T3",
+   "title": "Neo Wealth & Asset Management raises Rs 500 Crore from TVS Capital",
+   "url": "https://www.thehindubusinessline.com/money-and-banking/neo-wealth-asset-management-raises-500-crore-from-tvs-capital/article70771838.ece"
+  },
+  {
+   "publisher": "Neo Group (company site)",
+   "retrieved_date": "2026-09-15",
+   "tier": "T1",
+   "title": "Nitin Jain | Neo Group",
+   "url": "https://www.neo-group.in/people/nitin-jain"
+  },
+  {
+   "publisher": "Tracxn (aggregator)",
+   "retrieved_date": "2026-09-15",
+   "tier": "T2",
+   "title": "Neo Wealth and Asset Management profile (CIN/founders)",
+   "url": "https://tracxn.com/d/companies/neo-wealth-and-asset-management/__1QkWNXHRHOkaqZoKlgCWl77N7fw-dCbT4bUpmzTGf5Q"
+  },
+  {
+   "url": "https://entrackr.com/news/neo-group-raises-rs-350-cr-led-by-peak-xv-partners-12172440",
+   "publisher": "Entrackr",
+   "tier": "T3",
+   "publication_date": "2026-07-17",
+   "retrieved_date": "2026-09-15",
+   "confidence": "HIGH",
+   "fields_supported": [
+    "funding_rounds",
+    "traction",
+    "events",
+    "legal"
+   ]
+  },
+  {
+   "url": "https://www.moneycontrol.com/news/business/announcements/wealth-and-asset-management-startup-neo-bags-35-million-funding-from-peak-xv-11556491.html",
+   "publisher": "Moneycontrol",
+   "tier": "T3",
+   "publication_date": "2023-10-18",
+   "retrieved_date": "2026-09-15",
+   "confidence": "HIGH",
+   "fields_supported": [
+    "funding_rounds",
+    "founders",
+    "products",
+    "legal",
+    "traction"
+   ]
+  },
+  {
+   "url": "https://www.fortuneindia.com/enterprise/360-ones-shaji-devakar-to-join-neo-wealth-as-co-founder-ceo/121472",
+   "publisher": "Fortune India",
+   "tier": "T3",
+   "publication_date": "2025-03-29",
+   "retrieved_date": "2026-09-15",
+   "confidence": "HIGH",
+   "fields_supported": [
+    "people",
+    "events"
+   ]
+  },
+  {
+   "url": "https://www.livemint.com/companies/news/edelweiss-wealth-former-ceo-nitin-jain-launches-financial-services-co-neo-group-11651748367100.html",
+   "publisher": "Livemint",
+   "tier": "T3",
+   "publication_date": "2022-05-05",
+   "retrieved_date": "2026-09-15",
+   "confidence": "HIGH",
+   "fields_supported": [
+    "founders",
+    "events",
+    "company"
+   ]
+  },
+  {
+   "url": "https://www.neo.group",
+   "publisher": "Neo Group (company site)",
+   "tier": "T1",
+   "publication_date": "2026-09-15",
+   "retrieved_date": "2026-09-15",
+   "confidence": "HIGH",
+   "fields_supported": [
+    "company",
+    "products"
+   ]
+  },
+  {
+   "url": "https://www.business-standard.com/companies/news/neo-group-raises-47-6-million-led-by-mufg-bank-euclidean-capital-124081200001_1.html",
+   "publisher": "Business Standard",
+   "tier": "T3",
+   "publication_date": "2024-08-12",
+   "retrieved_date": "2026-09-15",
+   "confidence": "HIGH",
+   "fields_supported": [
+    "funding_rounds",
+    "investor_links"
+   ]
+  }
+ ],
+ "startup_id": "neo neo wealth",
+ "_merged_session2": true,
+ "traction": [
+  {
+   "metric": "total_client_assets",
+   "value": 130000,
+   "unit": "crore",
+   "period": "As-of-2026-06-30",
+   "as_of": "2026-06-30",
+   "company_reported": true,
+   "source_url": "https://m.economictimes.com/tech/funding/peak-xv-leads-rs-350-crore-funding-round-in-wealth-manager-neo-group/amp_articleshow/132454861.cms",
+   "confidence": "MEDIUM",
+   "notes": "Rs 1.3 lakh crore; up from ~Rs 1 lakh crore in Mar 2026"
+  },
+  {
+   "metric": "ARR_AUM",
+   "value": 50000,
+   "unit": "crore",
+   "period": "As-of-2026-06-30",
+   "as_of": "2026-06-30",
+   "company_reported": true,
+   "source_url": "https://m.economictimes.com/tech/funding/peak-xv-leads-rs-350-crore-funding-round-in-wealth-manager-neo-group/amp_articleshow/132454861.cms",
+   "confidence": "MEDIUM",
+   "notes": "Rs 50,000 crore ARR AUM"
+  },
+  {
+   "metric": "senior_wealth_advisors",
+   "value": 150,
+   "unit": "count",
+   "period": "As-of-2026-07-17",
+   "as_of": "2026-07-17",
+   "company_reported": true,
+   "source_url": "https://m.economictimes.com/tech/funding/peak-xv-leads-rs-350-crore-funding-round-in-wealth-manager-neo-group/amp_articleshow/132454861.cms",
+   "confidence": "MEDIUM",
+   "notes": "150+ senior wealth advisors"
+  },
+  {
+   "metric": "cities_operating",
+   "value": 30,
+   "unit": "count",
+   "period": "As-of-2026-07-17",
+   "as_of": "2026-07-17",
+   "company_reported": true,
+   "source_url": "https://m.economictimes.com/tech/funding/peak-xv-leads-rs-350-crore-funding-round-in-wealth-manager-neo-group/amp_articleshow/132454861.cms",
+   "confidence": "MEDIUM",
+   "notes": "Operates in 30+ cities across India + US presence"
+  },
+  {
+   "metric": "total_employees",
+   "value": 850,
+   "unit": "count",
+   "period": "As-of-2026-07-17",
+   "as_of": "2026-07-17",
+   "company_reported": true,
+   "source_url": "https://m.economictimes.com/tech/funding/peak-xv-leads-rs-350-crore-funding-round-in-wealth-manager-neo-group/amp_articleshow/132454861.cms",
+   "confidence": "MEDIUM",
+   "notes": "850+ professionals including 150+ senior wealth advisors"
+  },
+  {
+   "metric": "assets_under_advice",
+   "value": 3000,
+   "unit": "crore",
+   "period": "As-of-2023-10",
+   "as_of": "2023-10-18",
+   "company_reported": true,
+   "source_url": "https://www.moneycontrol.com/news/business/announcements/wealth-and-asset-management-startup-neo-bags-35-million-funding-from-peak-xv-11556491.html",
+   "confidence": "MEDIUM",
+   "notes": "Oct 2023: ~$3Bn (Rs 25,000cr) AUA, $360M (Rs 3,000cr) AUM"
+  },
+  {
+   "metric": "private_credit_fund_first_close",
+   "value": 2000,
+   "unit": "crore",
+   "period": "As-of-2025-11",
+   "as_of": "2025-11-25",
+   "company_reported": true,
+   "source_url": "https://entrackr.com/news/neo-group-raises-rs-350-cr-led-by-peak-xv-partners-12172440",
+   "confidence": "MEDIUM",
+   "notes": "Neo Assets first close of second private credit fund at Rs 2,000 crore; SEBI-registered"
+  }
+ ],
+ "products": [
+  {
+   "name": "Neo Wealth Management",
+   "category": "wealth management",
+   "description": "Bespoke wealth advisory for UHNIs and family offices; 150+ senior advisors; investment, insurance, estate planning",
+   "pricing_model": "fee-based (ARR AUM)",
+   "launch_date": "2021",
+   "status": "active",
+   "source_url": "https://www.vccircle.com/privateequity-firm-tvs-capital-invests-53-mn-in-neo-group",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Neo Asset Management",
+   "category": "asset management",
+   "description": "Private market fund management: private credit, infrastructure, private equity; SEBI-registered AIF",
+   "pricing_model": "management fee + carry",
+   "launch_date": "2021",
+   "status": "active",
+   "source_url": "https://www.vccircle.com/privateequity-firm-tvs-capital-invests-53-mn-in-neo-group",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Neo Advisory and Consulting Services",
+   "category": "advisory",
+   "description": "Investment advisory and consulting services",
+   "pricing_model": "UNKNOWN",
+   "launch_date": "2021",
+   "status": "active",
+   "source_url": "https://www.vccircle.com/privateequity-firm-tvs-capital-invests-53-mn-in-neo-group",
+   "confidence": "MEDIUM"
+  },
+  {
+   "name": "Neo Risk Management and Insurance Brokers",
+   "category": "insurance broking",
+   "description": "Risk management and insurance broking services",
+   "pricing_model": "UNKNOWN",
+   "launch_date": "2021",
+   "status": "active",
+   "source_url": "https://www.vccircle.com/privateequity-firm-tvs-capital-invests-53-mn-in-neo-group",
+   "confidence": "MEDIUM"
+  },
+  {
+   "name": "NeoFinity",
+   "category": "fintech & payments",
+   "description": "Fintech & payments arm of Neo Group",
+   "pricing_model": "UNKNOWN",
+   "launch_date": "UNKNOWN",
+   "status": "active",
+   "source_url": "https://www.neo.group",
+   "confidence": "LOW"
+  },
+  {
+   "name": "Private Credit Fund (second vintage)",
+   "category": "alternative asset management",
+   "description": "SEBI-registered private credit fund; first close Rs 2,000 crore; lends to unlisted companies, acquires secondary positions",
+   "pricing_model": "management fee + carry",
+   "launch_date": "2025-11",
+   "status": "active",
+   "source_url": "https://entrackr.com/news/neo-group-raises-rs-350-cr-led-by-peak-xv-partners-12172440",
+   "confidence": "MEDIUM"
+  },
+  {
+   "name": "NBFC lending (planned)",
+   "category": "lending",
+   "description": "NBFC license sought from RBI for lending against mutual funds/bonds to existing clients",
+   "pricing_model": "UNKNOWN",
+   "launch_date": "UNKNOWN",
+   "status": "in-progress",
+   "source_url": "https://www.moneycontrol.com/news/business/announcements/wealth-and-asset-management-startup-neo-bags-35-million-funding-from-peak-xv-11556491.html",
+   "confidence": "MEDIUM",
+   "notes": "Sought as of Oct 2023; status unknown"
+  }
+ ],
+ "people": [
+  {
+   "name": "Nitin Jain",
+   "role": "Chairman & Managing Director",
+   "title": "Founder, Chairman & MD, Neo Group",
+   "current": true,
+   "since": "2021",
+   "prior_role": "CEO, Edelweiss Wealth Management (ex-CEO of Edelweiss Global Asset & Wealth Management)",
+   "source_url": "https://www.vccircle.com/privateequity-firm-tvs-capital-invests-53-mn-in-neo-group",
+   "confidence": "HIGH",
+   "notes": "Ex-Edelweiss ~17 years; quit 2021; replaced by Ashish Kehair as Edelweiss W&M CEO Sep 2021"
+  },
+  {
+   "name": "Hemant Daga",
+   "role": "Co-founder & CEO, Neo Asset Management",
+   "title": "Co-founder, Board Member",
+   "current": true,
+   "since": "2021",
+   "prior_role": "CEO, Edelweiss Asset Management",
+   "source_url": "https://m.economictimes.com/tech/funding/peak-xv-leads-rs-350-crore-funding-round-in-wealth-manager-neo-group/amp_articleshow/132454861.cms",
+   "confidence": "HIGH",
+   "board_member": true
+  },
+  {
+   "name": "Varun Bajpai",
+   "role": "Co-founder",
+   "title": "Co-founder, Neo Group",
+   "current": true,
+   "since": "2021",
+   "prior_role": "President, Edelweiss Wealth & Asset Management; ex-country head, Macquarie Group",
+   "source_url": "https://www.livemint.com/companies/news/edelweiss-wealth-former-ceo-nitin-jain-launches-financial-services-co-neo-group-11651748367100.html",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Puneet Jain",
+   "role": "Co-founder & CIO, Neo Asset Management",
+   "title": "Co-founder, Board Member",
+   "current": true,
+   "since": "2021",
+   "prior_role": "UNKNOWN",
+   "source_url": "https://m.economictimes.com/tech/funding/peak-xv-leads-rs-350-crore-funding-round-in-wealth-manager-neo-group/amp_articleshow/132454861.cms",
+   "confidence": "HIGH",
+   "board_member": true
+  },
+  {
+   "name": "A V Srikanth",
+   "role": "Co-founder, Neo Multi-Family Office",
+   "title": "Co-founder",
+   "current": true,
+   "since": "2021",
+   "prior_role": "Ex-senior EVP & head, External Asset Managers, Edelweiss Capital; ex-CEO, Motilal Oswal Wealth",
+   "source_url": "https://www.livemint.com/companies/news/edelweiss-wealth-former-ceo-nitin-jain-launches-financial-services-co-neo-group-11651748367100.html",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Shajikumar Devakar",
+   "role": "Co-founder & CEO, Neo Wealth Management",
+   "title": "Co-founder & CEO",
+   "current": true,
+   "since": "2025-06",
+   "prior_role": "Executive Director – Wealth, 360 One WAM (formerly IIFL Wealth); ex-Deutsche Bank, Barclays",
+   "source_url": "https://www.fortuneindia.com/enterprise/360-ones-shaji-devakar-to-join-neo-wealth-as-co-founder-ceo/121472",
+   "confidence": "HIGH",
+   "notes": "Private banking veteran with 20+ years; joined Neo effective June 2025"
+  },
+  {
+   "name": "Ronak R Sheth",
+   "role": "Chief Marketing Growth Officer",
+   "title": "CMGO",
+   "current": true,
+   "since": "2026-07",
+   "prior_role": "UNKNOWN",
+   "source_url": "https://tracxn.com/d/companies/neo-wealth-and-asset-management/__1QkWNXHRHOkaqZoKlgCWl77N7fw-dCbT4bUpmzTGf5Q",
+   "confidence": "MEDIUM",
+   "notes": "Appointed Jul 13 2026 per Tracxn news feed"
+  },
+  {
+   "name": "Suresh Chand Goyal",
+   "role": "Independent Board Member",
+   "title": "Independent Director",
+   "current": true,
+   "since": "2021",
+   "prior_role": "UNKNOWN",
+   "source_url": "https://tracxn.com/d/companies/neo-wealth-and-asset-management/__1QkWNXHRHOkaqZoKlgCWl77N7fw-dCbT4bUpmzTGf5Q",
+   "confidence": "MEDIUM",
+   "board_member": true
+  },
+  {
+   "name": "Devina Shalin Khanna",
+   "role": "Independent Board Member",
+   "title": "Independent Director",
+   "current": true,
+   "since": "2023",
+   "prior_role": "UNKNOWN",
+   "source_url": "https://tracxn.com/d/companies/neo-wealth-and-asset-management/__1QkWNXHRHOkaqZoKlgCWl77N7fw-dCbT4bUpmzTGf5Q",
+   "confidence": "MEDIUM",
+   "board_member": true
+  }
+ ],
+ "legal": [
+  {
+   "type": "regulatory",
+   "entity": "Neo Asset Management",
+   "date": "2025-11",
+   "status": "confirmed",
+   "description": "SEBI-registered private credit fund (second vintage); first close Rs 2,000 crore",
+   "source_url": "https://entrackr.com/news/neo-group-raises-rs-350-cr-led-by-peak-xv-partners-12172440",
+   "confidence": "MEDIUM"
+  },
+  {
+   "type": "licence",
+   "entity": "Neo Group",
+   "date": "2023-10",
+   "status": "in-progress",
+   "description": "NBFC license sought from RBI for lending against mutual funds/bonds to existing clients",
+   "source_url": "https://www.moneycontrol.com/news/business/announcements/wealth-and-asset-management-startup-neo-bags-35-million-funding-from-peak-xv-11556491.html",
+   "confidence": "MEDIUM"
+  },
+  {
+   "type": "regulatory",
+   "entity": "Neo Wealth Management",
+   "date": "UNKNOWN",
+   "status": "confirmed",
+   "description": "SEBI RIA registration implied by wealth advisory operations; specific registration number not verified",
+   "source_url": "https://m.economictimes.com/tech/funding/peak-xv-leads-rs-350-crore-funding-round-in-wealth-manager-neo-group/amp_articleshow/132454861.cms",
+   "confidence": "LOW"
+  }
+ ],
+ "locations": [
+  {
+   "type": "registered_office",
+   "address_or_area": "903, B-Wing, 9th Floor, Marathon Futurex, Mafatlal Mills Compound, N.M. Joshi Marg, Lower Parel",
+   "city": "Mumbai",
+   "state": "Maharashtra",
+   "country": "India",
+   "as_of": "2026-09-15",
+   "source_url": "https://tracxn.com/d/companies/neo-wealth-and-asset-management/__1QkWNXHRHOkaqZoKlgCWl77N7fw-dCbT4bUpmzTGf5Q",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "HQ",
+   "address_or_area": "Mumbai",
+   "city": "Mumbai",
+   "state": "Maharashtra",
+   "country": "India",
+   "as_of": "2026-09-15",
+   "source_url": "https://www.vccircle.com/privateequity-firm-tvs-capital-invests-53-mn-in-neo-group",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "office",
+   "address_or_area": "United States presence",
+   "city": "UNKNOWN",
+   "state": "UNKNOWN",
+   "country": "US",
+   "as_of": "2026-07-17",
+   "source_url": "https://m.economictimes.com/tech/funding/peak-xv-leads-rs-350-crore-funding-round-in-wealth-manager-neo-group/amp_articleshow/132454861.cms",
+   "confidence": "MEDIUM",
+   "notes": "ET: Neo has presence in the United States"
+  }
+ ],
+ "customers": [
+  {
+   "name": "Ultra-High-Net-Worth Individuals (UHNIs)",
+   "type": "institutional",
+   "announced_date": "2021",
+   "status": "active",
+   "source_url": "https://www.vccircle.com/privateequity-firm-tvs-capital-invests-53-mn-in-neo-group",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Family Offices",
+   "type": "institutional",
+   "announced_date": "2021",
+   "status": "active",
+   "source_url": "https://www.vccircle.com/privateequity-firm-tvs-capital-invests-53-mn-in-neo-group",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Institutions and Companies",
+   "type": "institutional",
+   "announced_date": "2021",
+   "status": "active",
+   "source_url": "https://m.economictimes.com/tech/funding/peak-xv-leads-rs-350-crore-funding-round-in-wealth-manager-neo-group/amp_articleshow/132454861.cms",
+   "confidence": "MEDIUM",
+   "notes": "Advises wealthy individuals, family offices, institutions and companies"
+  }
+ ]
+}

@@ -1,0 +1,116 @@
+{
+ "startup_id": "jaipur robotics",
+ "company": {
+  "company_name": "Jaipur Robotics",
+  "city": "Manno, Switzerland",
+  "primary_sector": "robotics / computer vision",
+  "founded_date": "",
+  "startup_stage": "Seed",
+  "public_private": "Private",
+  "status": "Active",
+  "official_website": {
+   "v": "https://jaipurrobotics.com",
+   "conf": "high",
+   "src": "https://jaipurrobotics.com",
+   "note": "verified live 2026-09-15: name match on own homepage"
+  },
+  "careers_website": {
+   "v": "https://jaipurrobotics.com/careers/",
+   "conf": "high",
+   "src": "https://jaipurrobotics.com",
+   "note": "careers link found on official homepage, probed live"
+  },
+  "website": "https://jaipurrobotics.com"
+ },
+ "funding_rounds": [
+  {
+   "round_type": "Seed",
+   "announced_date": "Sep 7, 2026",
+   "amount": "€4.3M",
+   "currency": "EUR",
+   "lead_investors": [
+    "EquityPitcher",
+    "HTGF"
+   ],
+   "source_url": "https://tech.eu/2026/09/07/jaipur-robotics-raises-eur43m-to-bring-computer-vision-to-waste-plants/",
+   "source_title": "Jaipur Robotics raises €4.3M to bring computer vision to waste plants",
+   "source_date": "Sep 7, 2026",
+   "tier": "T2",
+   "confidence": 0.85,
+   "notes": "Swiss-based company, not Indian startup; batch listed as Jaipur Robotics but HQ is in Switzerland"
+  }
+ ],
+ "events": [
+  {
+   "date": "Sep 7, 2026",
+   "type": "funding",
+   "headline": "Jaipur Robotics raises €4.3M seed",
+   "description": "AI operating system for waste-to-energy and industrial plants; computer vision and automation",
+   "source_url": "https://tech.eu/2026/09/07/jaipur-robotics-raises-eur43m-to-bring-computer-vision-to-waste-plants/",
+   "confidence": 0.85
+  }
+ ],
+ "locations": [
+  {
+   "type": "HQ",
+   "address_or_area": "Manno, Switzerland",
+   "city": "Manno",
+   "state": "Ticino",
+   "source_url": "https://www.finsmes.com/2026/09/jipur-robotics-raises-4-3m-in-seed-funding.html",
+   "confidence": 0.85
+  }
+ ],
+ "sources": [
+  {
+   "url": "https://tech.eu/2026/09/07/jaipur-robotics-raises-eur43m-to-bring-computer-vision-to-waste-plants/",
+   "title": "Jaipur Robotics raises €4.3M to bring computer vision to waste plants",
+   "publisher": "Tech.eu",
+   "publication_date": "Sep 7, 2026",
+   "tier": "T2",
+   "claim_supported": "funding_rounds[0]",
+   "fields_supported": [
+    "funding_rounds"
+   ]
+  },
+  {
+   "url": "https://www.finsmes.com/2026/09/jipur-robotics-raises-4-3m-in-seed-funding.html",
+   "title": "Jipur Robotics Raises $4.3M in Seed Funding",
+   "publisher": "FinSMEs",
+   "publication_date": "Sep 2026",
+   "tier": "T2",
+   "claim_supported": "locations[0]",
+   "fields_supported": [
+    "locations"
+   ]
+  },
+  {
+   "url": "https://indianstartupnews.com/funding/indian-startups-raised-over-412-million-from-september-7-to-september-12-2026-pixxel-tops-the-list-12528949",
+   "title": "Indian startups raised over $412 million from September 7 to September 12, 2026",
+   "publisher": "Indian Startup News",
+   "publication_date": "Sep 12, 2026",
+   "tier": "T2",
+   "claim_supported": "events[0]",
+   "fields_supported": [
+    "events"
+   ]
+  }
+ ],
+ "gaps": [
+  "Not an Indian startup — HQ in Switzerland; batch listed under Jaipur Robotics but company is Swiss",
+  "Founded date not verified",
+  "Full founder list not confirmed"
+ ],
+ "completeness_self": {
+  "identity": 5,
+  "founders": 3,
+  "funding": 7,
+  "investors": 5,
+  "financials": 2,
+  "products": 5,
+  "traction": 3,
+  "people": 3,
+  "customers": 2,
+  "legal": 3,
+  "sources": 6
+ }
+}

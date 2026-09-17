@@ -1,0 +1,2431 @@
+{
+ "company": {
+  "business_model": "B2B marketplace + logistics + fintech working capital + J24 retail network",
+  "city": "Bengaluru, Karnataka",
+  "customer_type": "B2B (kiranas, MSMEs, brands)",
+  "dpiit": "",
+  "employee_estimate": "446 (Tracxn official) to ~1435 (Inc42, likely incl. field staff)",
+  "founded_date": "2015-11-04 (incorporation; Tracxn founded year 2015)",
+  "legal_name": "Jumbotail Technologies Private Limited",
+  "parent_subsidiary": "Independent; acquired Solv India (2025, CCI-approved)",
+  "primary_sector": "B2B ecommerce (food & grocery)",
+  "public_private": "Private",
+  "startup_stage": "Unicorn (Series D, June 2025, >$1B post-money)",
+  "status": "Active",
+  "website": "https://jumbotail.com",
+  "cin": "U72200KA2015PTC083865",
+  "incorporation_date": "2015-11-04",
+  "registered_state_note": "KA = Karnataka (Bengaluru); matches HQ.",
+  "official_website": {
+   "v": "https://jumbotail.com",
+   "conf": "high",
+   "src": "https://jumbotail.com",
+   "note": "verified live 2026-09-15: name match on own homepage"
+  },
+  "careers_website": {
+   "v": "https://jumbotail.com/careers/",
+   "conf": "high",
+   "src": "https://jumbotail.com",
+   "note": "careers link found on official homepage, probed live"
+  },
+  "state": {
+   "v": "Karnataka",
+   "conf": "HIGH",
+   "src": "https://www.tofler.in/jumbotail-technologies-private-limited/company/U72200KA2015PTC083865",
+   "note": "Registered in Karnataka per MCA",
+   "asof": "2026-09-15"
+  },
+  "country": {
+   "v": "India",
+   "conf": "HIGH",
+   "src": "https://jumbotail.com/news-room/jumbotail-raises-120m-series-d-funding",
+   "note": "Indian company",
+   "asof": "2026-09-15"
+  },
+  "description": {
+   "v": "India's leading B2B marketplace and New Retail platform for food and grocery, serving kirana stores and MSMEs",
+   "conf": "HIGH",
+   "src": "https://jumbotail.com/news-room/jumbotail-raises-120m-series-d-funding",
+   "note": "Company self-description from Series D press release",
+   "asof": "2026-09-15"
+  },
+  "hq_type": {
+   "v": "HQ",
+   "conf": "HIGH",
+   "src": "https://www.tofler.in/jumbotail-technologies-private-limited/company/U72200KA2015PTC083865",
+   "note": "Registered office and HQ in Bengaluru",
+   "asof": "2026-09-15"
+  },
+  "registered_office": {
+   "v": "Eastland Citadel, 6th Floor, No.102, Hosur Road, Madiwala Check post, Bangalore, Karnataka - 560029",
+   "conf": "HIGH",
+   "src": "https://www.tofler.in/jumbotail-technologies-private-limited/company/U72200KA2015PTC083865",
+   "note": "Tofler MCA registered address",
+   "asof": "2026-09-15"
+  }
+ },
+ "completeness_self": {
+  "financials": 6,
+  "founders": 8,
+  "funding": 8,
+  "identity": 8,
+  "investors": 7,
+  "overall": "low-medium; LITE core layer only"
+ },
+ "conflicts": [
+  {
+   "claim_a": "Total raised $263M (company statement June 2025)",
+   "claim_b": "Total disclosed $276-287M (Tracxn/Inc42 incl. debt/secondaries)",
+   "field": "total funding",
+   "resolution": "Use company $263M as primary; note DB higher figures include debt/secondary",
+   "url_a": "http://jumbotail.com/jumbotail-raises-120m-series-d-funding",
+   "url_b": "https://inc42.com/company/jumbotail"
+  },
+  {
+   "field": "city",
+   "claim_a": "Bengaluru, Karnataka",
+   "url_a": "",
+   "claim_b": "Bengaluru",
+   "url_b": "",
+   "resolution": "phase3 p3 payload disagrees with existing value; existing kept as preferred pending human review",
+   "resolved_value": "",
+   "reviewed": "p3-merge"
+  },
+  {
+   "field": "business_model",
+   "claim_a": "B2B marketplace + logistics + fintech working capital + J24 retail network",
+   "url_a": "",
+   "claim_b": "B2B marketplace + logistics + fintech working capital + J24 retail network + GoldenEye Retail OS",
+   "url_b": "",
+   "resolution": "phase3 p3 payload disagrees with existing value; existing kept as preferred pending human review",
+   "resolved_value": "",
+   "reviewed": "p3-merge"
+  },
+  {
+   "field": "employee_estimate",
+   "claim_a": "446 (Tracxn official) to ~1435 (Inc42, likely incl. field staff)",
+   "url_a": "",
+   "claim_b": "1435",
+   "url_b": "",
+   "resolution": "phase3 p3 payload disagrees with existing value; existing kept as preferred pending human review",
+   "resolved_value": "",
+   "reviewed": "p3-merge"
+  },
+  {
+   "field": "total funding raised",
+   "claim_a": "Total raised $263M (company statement June 2025)",
+   "url_a": "https://jumbotail.com/news-room/jumbotail-raises-120m-series-d-funding",
+   "claim_b": "Total disclosed $276-287M (Tracxn/Inc42 incl. debt/secondaries)",
+   "url_b": "https://inc42.com/company/jumbotail",
+   "resolution": "Use company $263M as primary; note higher figures include debt rounds and secondary transactions",
+   "resolved_value": "$263M (company-stated)"
+  },
+  {
+   "field": "FY24 revenue",
+   "claim_a": "Rs 914Cr (Tracxn)",
+   "url_a": "https://tracxn.com/d/legal-entities/india/jumbotail-technologies-private-limited/___07BUaNuwet7rTvuaQEwU9KCB-L2YnUboaWXFyvqlIA",
+   "claim_b": "Rs 913.8Cr (Inc42)",
+   "url_b": "http://inc42.com/company/jumbotail/financials",
+   "resolution": "Tracxn rounds to 914Cr; Inc42 gives precise 913.8Cr; essentially same figure",
+   "resolved_value": "Rs 913.8-914Cr"
+  },
+  {
+   "field": "FY25 revenue",
+   "claim_a": "Rs 725.1Cr (Inc42)",
+   "url_a": "http://inc42.com/company/jumbotail/financials",
+   "claim_b": "Rs 103.8Cr+ (Inc42 financials page - likely different metric)",
+   "url_b": "http://inc42.com/company/jumbotail/financials",
+   "resolution": "725.1Cr is total revenue; 103.8Cr may be operating revenue or different classification",
+   "resolved_value": "Rs 725.1Cr total revenue FY25"
+  }
+ ],
+ "events": [
+  {
+   "date": "2025-06-30",
+   "headline": "Raised $120M Series D led by SC Ventures; completed Solv India acquisition; unicorn",
+   "source_url": "http://jumbotail.com/jumbotail-raises-120m-series-d-funding",
+   "type": "funding/acquisition"
+  },
+  {
+   "type": "partnership",
+   "headline": "NEC Corporation strategic collaboration and investment",
+   "date": "2026-03-03",
+   "description": "NEC to make strategic investment in Jumbotail; AI and retail technology integration for 19M kirana stores",
+   "source_url": "https://jumbotail.com/news-room/jumbotail-and-nec-announce-strategic-collaboration",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "acquisition",
+   "headline": "Acquired Solv India from SC Ventures",
+   "date": "2025-06-30",
+   "description": "CCI approved May 27, 2025; deal completed June 30, 2025; Solv specializes in non-grocery B2B commerce",
+   "source_url": "https://jumbotail.com/news-room/jumbotail-raises-120m-series-d-funding",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "funding",
+   "headline": "Raised Rs 151 crore ($18.2M) Series C3 led by Artal Asia",
+   "date": "2024-03-18",
+   "description": "Series C3 equity round; plans to scale GTM products for brands and kirana expansion",
+   "source_url": "https://www.business-standard.com/companies/start-ups/jumbotail-raises-rs-151-crore-in-series-c3-equity-round-led-by-artal-asia-124031800622_1.html",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "funding",
+   "headline": "Raised $69.8M Series C led by Invus and Artal Asia",
+   "date": "2021-12-20",
+   "description": "Series C at $283M valuation; expanded to 50+ new cities post-raise",
+   "source_url": "https://tracxn.com/d/companies/jumbotail/__kvicGfcrACJPdacCOq_7ovz4ikP2sBU1917OdLG29x4/funding-and-investors",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "funding",
+   "headline": "Raised $25.1M Series B",
+   "date": "2020-10-20",
+   "description": "Series B at $85.9M valuation; led by Heron Rock and JumboFund",
+   "source_url": "https://tracxn.com/d/companies/jumbotail/__kvicGfcrACJPdacCOq_7ovz4ikP2sBU1917OdLG29x4/funding-and-investors",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "funding",
+   "headline": "Raised $15.8M Series B",
+   "date": "2019-01-04",
+   "description": "Series B at $53.8M valuation; led by Heron Rock",
+   "source_url": "https://tracxn.com/d/companies/jumbotail/__kvicGfcrACJPdacCOq_7ovz4ikP2sBU1917OdLG29x4/funding-and-investors",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "funding",
+   "headline": "Raised $11.4M Series A led by Nexus Venture Partners",
+   "date": "2017-05-15",
+   "description": "Series A at $29.8M valuation; Kalaari Capital co-investor",
+   "source_url": "https://tracxn.com/d/companies/jumbotail/__kvicGfcrACJPdacCOq_7ovz4ikP2sBU1917OdLG29x4/funding-and-investors",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "funding",
+   "headline": "Raised $1.97M Seed round led by Nexus Venture Partners",
+   "date": "2015-12-16",
+   "description": "Seed at $10.4M valuation",
+   "source_url": "https://tracxn.com/d/companies/jumbotail/__kvicGfcrACJPdacCOq_7ovz4ikP2sBU1917OdLG29x4/funding-and-investors",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "launch",
+   "headline": "Jumbotail doubles GMV to Rs 2262 crores in FY23",
+   "date": "2024-05",
+   "description": "100% YoY GMV growth; profitability achieved in 1/3rd of business; 250,000+ kirana stores across 50+ cities",
+   "source_url": "https://jumbotail.com/news-room/jumbotail-doubles-gmv-to-rs-2262-crore-in-fy23",
+   "confidence": "HIGH"
+  }
+ ],
+ "financials": [
+  {
+   "currency": "INR",
+   "fiscal_year": "FY24",
+   "metric": "revenue",
+   "source_title": "JUMBOTAIL TECHNOLOGIES PRIVATE LIMITED - Company Profile - Tracxn",
+   "source_url": "https://tracxn.com/d/legal-entities/india/jumbotail-technologies-private-limited/___07BUaNuwet7rTvuaQEwU9KCB-L2YnUboaWXFyvqlIA",
+   "value": "914Cr",
+   "value_type": "press-quoted-filing"
+  },
+  {
+   "currency": "INR",
+   "fiscal_year": "FY23",
+   "metric": "operating revenue (press)",
+   "source_title": "Jumbotail hits $1 billion valuation - ET",
+   "source_url": "http://m.economictimes.com/tech/funding/b2b-ecommerce-firm-jumbotail-raises-120-million-from-standard-chartereds-investment-arm-others/articleshow/122156577.cms",
+   "value": "819Cr; loss Rs 264Cr",
+   "value_type": "management"
+  },
+  {
+   "fiscal_year": "FY23",
+   "metric": "total_revenue",
+   "value": 819,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "press-quoted-filing",
+   "basis": "standalone",
+   "filing_date": "2024-05",
+   "source_url": "http://m.economictimes.com/tech/funding/b2b-ecommerce-firm-jumbotail-raises-120-million-from-standard-chartereds-investment-arm-others/articleshow/122156577.cms",
+   "source_title": "Economic Times - Jumbotail hits $1 billion valuation",
+   "source_date": "2025-06-30",
+   "confidence": "MEDIUM",
+   "notes": "Revenue from operations grew 2.17X to Rs 819 crore in FY23; losses Rs 264 crore"
+  },
+  {
+   "fiscal_year": "FY23",
+   "metric": "net_profit",
+   "value": -264,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "management",
+   "basis": "standalone",
+   "filing_date": "2024-05",
+   "source_url": "http://m.economictimes.com/tech/funding/b2b-ecommerce-firm-jumbotail-raises-120-million-from-standard-chartereds-investment-arm-others/articleshow/122156577.cms",
+   "source_title": "Economic Times - Jumbotail hits $1 billion valuation",
+   "source_date": "2025-06-30",
+   "confidence": "MEDIUM",
+   "notes": "Losses more than doubled to Rs 264 crore in FY23"
+  },
+  {
+   "fiscal_year": "FY23",
+   "metric": "gmv",
+   "value": 2262,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "company-reported",
+   "basis": "standalone",
+   "filing_date": "2024-05",
+   "source_url": "https://jumbotail.com/news-room/jumbotail-doubles-gmv-to-rs-2262-crore-in-fy23",
+   "source_title": "Jumbotail doubles GMV to Rs 2262 crores in FY23",
+   "source_date": "2024-05",
+   "confidence": "HIGH",
+   "notes": "GMV doubled YoY; profitability achieved in 1/3rd of business"
+  },
+  {
+   "fiscal_year": "FY24",
+   "metric": "total_revenue",
+   "value": 914,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "press-quoted-filing",
+   "basis": "standalone",
+   "filing_date": "2025-05",
+   "source_url": "https://tracxn.com/d/legal-entities/india/jumbotail-technologies-private-limited/___07BUaNuwet7rTvuaQEwU9KCB-L2YnUboaWXFyvqlIA",
+   "source_title": "Tracxn - Jumbotail Company Profile",
+   "source_date": "2026-03-20",
+   "confidence": "MEDIUM",
+   "notes": "Tracxn reports Rs 914Cr revenue for FY24"
+  },
+  {
+   "fiscal_year": "FY25",
+   "metric": "total_revenue",
+   "value": 725.1,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "press-quoted-filing",
+   "basis": "standalone",
+   "filing_date": "2026-01",
+   "source_url": "http://inc42.com/company/jumbotail/financials",
+   "source_title": "Inc42 - Jumbotail Financials 2026",
+   "source_date": "2026-01-24",
+   "confidence": "MEDIUM",
+   "notes": "Revenue declined 20.6% YoY from FY24 Rs 913.8 Cr to FY25 Rs 725.1 Cr"
+  },
+  {
+   "fiscal_year": "FY25",
+   "metric": "net_profit",
+   "value": -161.0,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "press-quoted-filing",
+   "basis": "standalone",
+   "filing_date": "2026-01",
+   "source_url": "http://inc42.com/company/jumbotail/financials",
+   "source_title": "Inc42 - Jumbotail Financials 2026",
+   "source_date": "2026-01-24",
+   "confidence": "MEDIUM",
+   "notes": "Net loss of Rs 161.0 Cr in FY25; improved 41% from prior year"
+  },
+  {
+   "fiscal_year": "FY25",
+   "metric": "total_expenses",
+   "value": 264.3,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "press-quoted-filing",
+   "basis": "standalone",
+   "filing_date": "2026-01",
+   "source_url": "http://inc42.com/company/jumbotail/financials",
+   "source_title": "Inc42 - Jumbotail Financials 2026",
+   "source_date": "2026-01-24",
+   "confidence": "MEDIUM",
+   "notes": "Total expenses Rs 264.3 Cr, down 34% YoY"
+  },
+  {
+   "fiscal_year": "FY25",
+   "metric": "ebitda",
+   "value": -128.0,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "estimate",
+   "basis": "standalone",
+   "filing_date": "2026-01",
+   "source_url": "http://inc42.com/company/jumbotail/financials",
+   "source_title": "Inc42 - Jumbotail Financials 2026",
+   "source_date": "2026-01-24",
+   "confidence": "LOW",
+   "notes": "Estimated EBITDA derived from PBT, finance costs, D&A"
+  },
+  {
+   "fiscal_year": "FY24",
+   "metric": "total_assets",
+   "value": 449.4,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "audited",
+   "basis": "standalone",
+   "filing_date": "2025-08",
+   "source_url": "https://www.tofler.in/jumbotail-technologies-private-limited/company/U72200KA2015PTC083865",
+   "source_title": "Tofler - Jumbotail Balance Sheet",
+   "source_date": "2025-08-17",
+   "confidence": "HIGH",
+   "notes": "Tofler balance sheet data Mar 2024"
+  }
+ ],
+ "founders": [
+  {
+   "name": "S. Karthik Venkateswaran",
+   "role": "Co-founder & CEO",
+   "source_url": "https://www.vccircle.com/jumbotailraises-120-mn-in-series-d-enters-unicorn-club",
+   "still_active": true,
+   "type": "co-founder"
+  },
+  {
+   "name": "Ashish Jhina",
+   "role": "Co-founder & COO",
+   "source_url": "https://www.vccircle.com/jumbotailraises-120-mn-in-series-d-enters-unicorn-club",
+   "still_active": true,
+   "type": "co-founder"
+  }
+ ],
+ "funding_rounds": [
+  {
+   "amount": "85M",
+   "announced_date": "2021-12-20",
+   "currency": "USD",
+   "lead_investors": [
+    "Artal Asia (Invus affiliate)"
+   ],
+   "round_type": "Series C",
+   "source_url": "https://jumbotail.com/news-room/"
+  },
+  {
+   "amount": "120M",
+   "announced_date": "2025-06-30",
+   "currency": "USD",
+   "lead_investors": [
+    "SC Ventures (Standard Chartered)"
+   ],
+   "round_type": "Series D",
+   "source_url": "http://jumbotail.com/jumbotail-raises-120m-series-d-funding",
+   "valuation": " >$1B post-money (incl. Solv merger)",
+   "announcement_date": "2025-06-30",
+   "valuation_currency": "USD",
+   "valuation_type": "post-money",
+   "new_or_existing": "new (SC Ventures-led) + Solv acquisition close",
+   "purpose": "scale, Solv merger completion"
+  },
+  {
+   "round_type": "Seed",
+   "announced_date": "2015-12-16",
+   "round_date": "2015-12-16",
+   "amount": 1970000,
+   "currency": "USD",
+   "valuation": 10400000,
+   "valuation_currency": "USD",
+   "valuation_type": "post-money",
+   "lead_investors": [
+    "Nexus Venture Partners"
+   ],
+   "all_investors": [
+    "Nexus Venture Partners"
+   ],
+   "purpose": "Initial funding",
+   "source_url": "https://tracxn.com/d/companies/jumbotail/__kvicGfcrACJPdacCOq_7ovz4ikP2sBU1917OdLG29x4/funding-and-investors",
+   "source_title": "Tracxn - Jumbotail Funding Rounds",
+   "source_date": "2026-09-02",
+   "confidence": "HIGH"
+  },
+  {
+   "round_type": "Series A",
+   "announced_date": "2017-05-15",
+   "round_date": "2017-05-15",
+   "amount": 11400000,
+   "currency": "USD",
+   "valuation": 29800000,
+   "valuation_currency": "USD",
+   "valuation_type": "post-money",
+   "lead_investors": [
+    "Nexus Venture Partners"
+   ],
+   "all_investors": [
+    "Nexus Venture Partners",
+    "Kalaari Capital"
+   ],
+   "purpose": "Marketplace expansion",
+   "source_url": "https://tracxn.com/d/companies/jumbotail/__kvicGfcrACJPdacCOq_7ovz4ikP2sBU1917OdLG29x4/funding-and-investors",
+   "source_title": "Tracxn - Jumbotail Funding Rounds",
+   "source_date": "2026-09-02",
+   "confidence": "HIGH"
+  },
+  {
+   "round_type": "Series B",
+   "announced_date": "2019-01-04",
+   "round_date": "2019-01-04",
+   "amount": 15800000,
+   "currency": "USD",
+   "valuation": 53800000,
+   "valuation_currency": "USD",
+   "valuation_type": "post-money",
+   "lead_investors": [
+    "Heron Rock"
+   ],
+   "all_investors": [
+    "Heron Rock",
+    "William R Jarvis",
+    "Kalaari Capital",
+    "Nexus Venture Partners",
+    "Capria",
+    "BNK Ventures"
+   ],
+   "purpose": "Scale kirana network",
+   "source_url": "https://tracxn.com/d/companies/jumbotail/__kvicGfcrACJPdacCOq_7ovz4ikP2sBU1917OdLG29x4/funding-and-investors",
+   "source_title": "Tracxn - Jumbotail Funding Rounds",
+   "source_date": "2026-09-02",
+   "confidence": "HIGH"
+  },
+  {
+   "round_type": "Series B",
+   "announced_date": "2020-10-20",
+   "round_date": "2020-10-20",
+   "amount": 25100000,
+   "currency": "USD",
+   "valuation": 85900000,
+   "valuation_currency": "USD",
+   "valuation_type": "post-money",
+   "lead_investors": [
+    "Heron Rock",
+    "JumboFund"
+   ],
+   "all_investors": [
+    "Heron Rock",
+    "JumboFund",
+    "Jarvis Family Investments",
+    "Nexus Venture Partners",
+    "Siddhi Capital",
+    "William Jarvis",
+    "Capria",
+    "Kalaari Capital",
+    "SEE",
+    "e Analytics Partners",
+    "Reaction",
+    "Vikas Aggarwal",
+    "Radha B G",
+    "Anjana Aggarwal",
+    "Abheek Singhi",
+    "Rubal Jain",
+    "Janmejaya Sinha",
+    "Raman Aggarwal",
+    "Sudhir Menon",
+    "Sachin Nandgaonkar",
+    "Rohan Lamba",
+    "Bhago Mobility",
+    "Pimpernel Holdings",
+    "Compaa de Galletas Noel",
+    "Natesan Synchrocones",
+    "Alpesh Shah",
+    "Srinivasan Raman",
+    "Ravi Srivastava",
+    "Arindam Kumar Bhattacharya",
+    "Veronorte",
+    "The Peter Crosby Estate Discretionary",
+    "Euthymia",
+    "Klinkert Investments",
+    "VII Ventures",
+    "Alteria Capital",
+    "Shyam Narayan Viswanathan",
+    "Ganesh Guruswamy",
+    "Venkateshwaran Balaram",
+    "Rishikeshvakula Varadarajan",
+    "Discovery Ventures",
+    "Natesan"
+   ],
+   "purpose": "Pan-India kirana expansion",
+   "source_url": "https://tracxn.com/d/companies/jumbotail/__kvicGfcrACJPdacCOq_7ovz4ikP2sBU1917OdLG29x4/funding-and-investors",
+   "source_title": "Tracxn - Jumbotail Funding Rounds",
+   "source_date": "2026-09-02",
+   "confidence": "HIGH"
+  },
+  {
+   "round_type": "Series C",
+   "announced_date": "2021-12-20",
+   "round_date": "2021-12-20",
+   "amount": 69800000,
+   "currency": "USD",
+   "valuation": 283000000,
+   "valuation_currency": "USD",
+   "valuation_type": "post-money",
+   "lead_investors": [
+    "Invus",
+    "Artal Asia"
+   ],
+   "all_investors": [
+    "Invus",
+    "Artal Asia",
+    "Nexus Venture Partners",
+    "Kalaari Capital",
+    "Ajax Partners"
+   ],
+   "purpose": "Scale kirana network, expand cities",
+   "source_url": "https://tracxn.com/d/companies/jumbotail/__kvicGfcrACJPdacCOq_7ovz4ikP2sBU1917OdLG29x4/funding-and-investors",
+   "source_title": "Tracxn - Jumbotail Funding Rounds",
+   "source_date": "2026-09-02",
+   "confidence": "HIGH"
+  },
+  {
+   "round_type": "Venture Debt",
+   "announced_date": "2021-06-04",
+   "round_date": "2021-06-04",
+   "amount": 4790000,
+   "currency": "USD",
+   "lead_investors": [
+    "Alteria Capital"
+   ],
+   "all_investors": [
+    "Alteria Capital"
+   ],
+   "purpose": "Working capital",
+   "source_url": "https://tracxn.com/d/companies/jumbotail/__kvicGfcrACJPdacCOq_7ovz4ikP2sBU1917OdLG29x4/funding-and-investors",
+   "source_title": "Tracxn - Jumbotail Funding Rounds",
+   "source_date": "2026-09-02",
+   "confidence": "HIGH"
+  },
+  {
+   "round_type": "Venture Debt",
+   "announced_date": "2023-03-14",
+   "round_date": "2023-03-14",
+   "amount": 9130000,
+   "currency": "USD",
+   "lead_investors": [
+    "Alteria Capital",
+    "Innoven Capital"
+   ],
+   "all_investors": [
+    "Alteria Capital",
+    "Innoven Capital"
+   ],
+   "purpose": "Working capital",
+   "source_url": "https://tracxn.com/d/companies/jumbotail/__kvicGfcrACJPdacCOq_7ovz4ikP2sBU1917OdLG29x4/funding-and-investors",
+   "source_title": "Tracxn - Jumbotail Funding Rounds",
+   "source_date": "2026-09-02",
+   "confidence": "HIGH"
+  },
+  {
+   "round_type": "Series C3",
+   "announced_date": "2024-03-18",
+   "round_date": "2024-03-18",
+   "amount": 18200000,
+   "currency": "USD",
+   "valuation": 287000000,
+   "valuation_currency": "USD",
+   "valuation_type": "post-money",
+   "lead_investors": [
+    "Artal Asia"
+   ],
+   "all_investors": [
+    "Artal Asia",
+    "Heron Rock",
+    "Reaction",
+    "VII Ventures",
+    "Jarvis Reserve Fund",
+    "Sabre Investment",
+    "Arkam Ventures",
+    "W250 Venture Fund",
+    "Siddhi Capital",
+    "Veronorte",
+    "Discovery Ventures",
+    "Dfosg",
+    "Arindam Kumar Bhattacharya",
+    "Venkateshwaran Balaram",
+    "Yogesh Chaudhary",
+    "Alok Kumar Ramsisaria",
+    "Sameer Jain",
+    "Vasudha Karthik",
+    "Sampat Singh Ahluwalia",
+    "Chitranjan Agarwal",
+    "Sabre Investment Consultants",
+    "Jarvis",
+    "Abhinav Bhalaik",
+    "Ramesh Gopal",
+    "Kashish Bhatia"
+   ],
+   "purpose": "Scale GTM products for brands, kirana expansion",
+   "source_url": "https://www.business-standard.com/companies/start-ups/jumbotail-raises-rs-151-crore-in-series-c3-equity-round-led-by-artal-asia-124031800622_1.html",
+   "source_title": "Business Standard - Jumbotail raises Rs 151 crore in Series C3",
+   "source_date": "2024-03-18",
+   "confidence": "HIGH"
+  },
+  {
+   "round_type": "Series C",
+   "announced_date": "2023-05-26",
+   "round_date": "2023-05-26",
+   "amount": 459000,
+   "currency": "USD",
+   "valuation": 275000000,
+   "valuation_currency": "USD",
+   "lead_investors": [
+    "Alteria Capital",
+    "Innoven Capital"
+   ],
+   "all_investors": [
+    "Alteria Capital",
+    "Innoven Capital"
+   ],
+   "purpose": "Debt-related",
+   "source_url": "https://tracxn.com/d/companies/jumbotail/__kvicGfcrACJPdacCOq_7ovz4ikP2sBU1917OdLG29x4/funding-and-investors",
+   "source_title": "Tracxn - Jumbotail Funding Rounds",
+   "source_date": "2026-09-02",
+   "confidence": "MEDIUM"
+  },
+  {
+   "round_type": "Series D",
+   "announced_date": "2025-06-30",
+   "round_date": "2025-06-26",
+   "amount": 120000000,
+   "currency": "USD",
+   "valuation": 1000000000,
+   "valuation_currency": "USD",
+   "valuation_type": "post-money",
+   "lead_investors": [
+    "SC Ventures"
+   ],
+   "all_investors": [
+    "SC Ventures",
+    "Artal Asia"
+   ],
+   "instrument": "equity",
+   "purpose": "Scale AI-native products, expand supply chain and logistics, scale fintech, Solv acquisition completion",
+   "source_url": "https://jumbotail.com/news-room/jumbotail-raises-120m-series-d-funding",
+   "source_title": "Jumbotail raises $120M Series D funding; completes acquisition of Solv",
+   "source_date": "2025-06-30",
+   "confidence": "HIGH"
+  },
+  {
+   "round_type": "Strategic Investment",
+   "announced_date": "2026-03-03",
+   "round_date": "2026-03-03",
+   "amount": null,
+   "currency": "USD",
+   "valuation": null,
+   "valuation_currency": "USD",
+   "lead_investors": [
+    "NEC Corporation"
+   ],
+   "all_investors": [
+    "NEC Corporation"
+   ],
+   "instrument": "strategic investment (undisclosed amount)",
+   "purpose": "AI and retail technology integration for kirana stores, J24 expansion",
+   "source_url": "https://jumbotail.com/news-room/jumbotail-and-nec-announce-strategic-collaboration",
+   "source_title": "Jumbotail and NEC Announce Strategic Collaboration",
+   "source_date": "2026-03-03",
+   "confidence": "HIGH"
+  }
+ ],
+ "gaps": [
+  "FY25 financials not yet filed at time of search",
+  "CIN unverified from primary MCA (seen only via Tracxn snippet, omitted)",
+  "DPIIT status unverified"
+ ],
+ "investor_links": [
+  {
+   "investor": "SC Ventures",
+   "lead": true,
+   "rounds": [
+    "Series D 2025"
+   ],
+   "source_url": "http://jumbotail.com/jumbotail-raises-120m-series-d-funding"
+  },
+  {
+   "investor": "Artal Asia (Invus)",
+   "lead": true,
+   "rounds": [
+    "Series C 2021",
+    "Series D 2025"
+   ],
+   "source_url": "https://www.vccircle.com/jumbotailraises-120-mn-in-series-d-enters-unicorn-club"
+  },
+  {
+   "investor": "Nexus Venture Partners, Kalaari Capital",
+   "lead": false,
+   "rounds": [
+    "early Series A/B"
+   ],
+   "source_url": "https://www.vccircle.com/b2b-grocery-delivery-startup-jumbotail-completes-25-mn-funding-round"
+  }
+ ],
+ "research_log": [
+  {
+   "found": "Series C/D, founders, FY23/FY24 revenue, Solv acquisition",
+   "next_action": "None at LITE scope",
+   "query": "Jumbotail funding/founders/revenue",
+   "unresolved": "FY25 filings; CIN"
+  },
+  {
+   "date": "2026-09-14",
+   "found": "CIN U72200KA2015PTC083865, incorp 04 Nov 2015, Bengaluru (Tofler/InstaFinancials/EMIS)",
+   "query": "Jumbotail Technologies Private Limited CIN incorporation date Tofler",
+   "unresolved": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "found": "Series D $120M 30 Jun 2025 led SC Ventures at ~$1B, unicorn (YourStory/Entrackr/ET/TOI/Moneycontrol)",
+   "query": "Jumbotail raises 120 million Solv merger 2025 valuation unicorn",
+   "unresolved": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Jumbotail founders S Karthik Venkateswaran Ashish Jhina background education",
+   "status": "done",
+   "found": "Stanford MBAs; Karthik ex-Flipkart/eBay/Indian Army; Ashish ex-BCG/apple farmer",
+   "next_action": "None",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Jumbotail funding rounds complete ladder Tracxn",
+   "status": "done",
+   "found": "10 rounds: Seed 2015, Series A 2017, Series B x2 2019/2020, Series C x3 2021/2023/2024, Series D 2025, NEC strategic 2026",
+   "next_action": "None",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Jumbotail FY25 revenue financials MCA",
+   "status": "done",
+   "found": "FY25 revenue Rs 725.1Cr, net loss Rs 161.0Cr (Inc42); FY24 Rs 914Cr; FY23 Rs 819Cr",
+   "next_action": "None",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Jumbotail NEC strategic investment March 2026",
+   "status": "done",
+   "found": "NEC Corporation strategic collaboration and investment announced March 3, 2026",
+   "next_action": "None",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Jumbotail kirana stores GMV traction customers",
+   "status": "done",
+   "found": "500,000+ kiranas, 400+ cities, 2,000+ brands (Jun 2025); 250,000 stores, 50+ cities (FY23)",
+   "next_action": "None",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Jumbotail products J24 GoldenEye fintech",
+   "status": "done",
+   "found": "B2B marketplace, J24 retail (scaled down), GoldenEye Retail OS, fintech, supply chain, NEC AI integration",
+   "next_action": "None",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Jumbotail CIN incorporation Tofler MCA",
+   "status": "done",
+   "found": "CIN U72200KA2015PTC083865, incorporated 04 Nov 2015, registered Eastland Citadel Hosur Road",
+   "next_action": "None",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Jumbotail employees hiring layoffs 2024 2025",
+   "status": "done",
+   "found": "Inc42 reports 1,435 employees; Jumbotail scaled down from peak; Solv acquisition brought ~350 employees",
+   "next_action": "None",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Jumbotail founders S Karthik Venkateswaran Ashish Jhina background education",
+   "status": "done",
+   "found": "Stanford MBAs; Karthik ex-Flipkart/eBay/Indian Army; Ashish ex-BCG/apple farmer",
+   "next_action": "None",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Jumbotail funding rounds complete ladder Tracxn",
+   "status": "done",
+   "found": "10 rounds: Seed 2015, Series A 2017, Series B x2 2019/2020, Series C x3 2021/2023/2024, Series D 2025, NEC strategic 2026",
+   "next_action": "None",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Jumbotail FY25 revenue financials MCA",
+   "status": "done",
+   "found": "FY25 revenue Rs 725.1Cr, net loss Rs 161.0Cr (Inc42); FY24 Rs 914Cr; FY23 Rs 819Cr",
+   "next_action": "None",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Jumbotail NEC strategic investment March 2026",
+   "status": "done",
+   "found": "NEC Corporation strategic collaboration and investment announced March 3, 2026",
+   "next_action": "None",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Jumbotail kirana stores GMV traction customers",
+   "status": "done",
+   "found": "500,000+ kiranas, 400+ cities, 2,000+ brands (Jun 2025); 250,000 stores, 50+ cities (FY23)",
+   "next_action": "None",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Jumbotail products J24 GoldenEye fintech",
+   "status": "done",
+   "found": "B2B marketplace, J24 retail (scaled down), GoldenEye Retail OS, fintech, supply chain, NEC AI integration",
+   "next_action": "None",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Jumbotail CIN incorporation Tofler MCA",
+   "status": "done",
+   "found": "CIN U72200KA2015PTC083865, incorporated 04 Nov 2015, registered Eastland Citadel Hosur Road",
+   "next_action": "None",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Jumbotail employees hiring layoffs 2024 2025",
+   "status": "done",
+   "found": "Inc42 reports 1,435 employees; Jumbotail scaled down from peak; Solv acquisition brought ~350 employees",
+   "next_action": "None",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Jumbotail founders S Karthik Venkateswaran Ashish Jhina background education",
+   "status": "done",
+   "found": "Stanford MBAs; Karthik ex-Flipkart/eBay/Indian Army; Ashish ex-BCG/apple farmer",
+   "next_action": "None",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Jumbotail funding rounds complete ladder Tracxn",
+   "status": "done",
+   "found": "10 rounds: Seed 2015, Series A 2017, Series B x2 2019/2020, Series C x3 2021/2023/2024, Series D 2025, NEC strategic 2026",
+   "next_action": "None",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Jumbotail FY25 revenue financials MCA",
+   "status": "done",
+   "found": "FY25 revenue Rs 725.1Cr, net loss Rs 161.0Cr (Inc42); FY24 Rs 914Cr; FY23 Rs 819Cr",
+   "next_action": "None",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Jumbotail NEC strategic investment March 2026",
+   "status": "done",
+   "found": "NEC Corporation strategic collaboration and investment announced March 3, 2026",
+   "next_action": "None",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Jumbotail kirana stores GMV traction customers",
+   "status": "done",
+   "found": "500,000+ kiranas, 400+ cities, 2,000+ brands (Jun 2025); 250,000 stores, 50+ cities (FY23)",
+   "next_action": "None",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Jumbotail products J24 GoldenEye fintech",
+   "status": "done",
+   "found": "B2B marketplace, J24 retail (scaled down), GoldenEye Retail OS, fintech, supply chain, NEC AI integration",
+   "next_action": "None",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Jumbotail CIN incorporation Tofler MCA",
+   "status": "done",
+   "found": "CIN U72200KA2015PTC083865, incorporated 04 Nov 2015, registered Eastland Citadel Hosur Road",
+   "next_action": "None",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Jumbotail employees hiring layoffs 2024 2025",
+   "status": "done",
+   "found": "Inc42 reports 1,435 employees; Jumbotail scaled down from peak; Solv acquisition brought ~350 employees",
+   "next_action": "None",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Jumbotail founders S Karthik Venkateswaran Ashish Jhina background education",
+   "status": "done",
+   "found": "Stanford MBAs; Karthik ex-Flipkart/eBay/Indian Army; Ashish ex-BCG/apple farmer",
+   "next_action": "None",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Jumbotail funding rounds complete ladder Tracxn",
+   "status": "done",
+   "found": "10 rounds: Seed 2015, Series A 2017, Series B x2 2019/2020, Series C x3 2021/2023/2024, Series D 2025, NEC strategic 2026",
+   "next_action": "None",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Jumbotail FY25 revenue financials MCA",
+   "status": "done",
+   "found": "FY25 revenue Rs 725.1Cr, net loss Rs 161.0Cr (Inc42); FY24 Rs 914Cr; FY23 Rs 819Cr",
+   "next_action": "None",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Jumbotail NEC strategic investment March 2026",
+   "status": "done",
+   "found": "NEC Corporation strategic collaboration and investment announced March 3, 2026",
+   "next_action": "None",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Jumbotail kirana stores GMV traction customers",
+   "status": "done",
+   "found": "500,000+ kiranas, 400+ cities, 2,000+ brands (Jun 2025); 250,000 stores, 50+ cities (FY23)",
+   "next_action": "None",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Jumbotail products J24 GoldenEye fintech",
+   "status": "done",
+   "found": "B2B marketplace, J24 retail (scaled down), GoldenEye Retail OS, fintech, supply chain, NEC AI integration",
+   "next_action": "None",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Jumbotail CIN incorporation Tofler MCA",
+   "status": "done",
+   "found": "CIN U72200KA2015PTC083865, incorporated 04 Nov 2015, registered Eastland Citadel Hosur Road",
+   "next_action": "None",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Jumbotail employees hiring layoffs 2024 2025",
+   "status": "done",
+   "found": "Inc42 reports 1,435 employees; Jumbotail scaled down from peak; Solv acquisition brought ~350 employees",
+   "next_action": "None",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Jumbotail founders S Karthik Venkateswaran Ashish Jhina background education",
+   "status": "done",
+   "found": "Stanford MBAs; Karthik ex-Flipkart/eBay/Indian Army; Ashish ex-BCG/apple farmer",
+   "next_action": "None",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Jumbotail funding rounds complete ladder Tracxn",
+   "status": "done",
+   "found": "10 rounds: Seed 2015, Series A 2017, Series B x2 2019/2020, Series C x3 2021/2023/2024, Series D 2025, NEC strategic 2026",
+   "next_action": "None",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Jumbotail FY25 revenue financials MCA",
+   "status": "done",
+   "found": "FY25 revenue Rs 725.1Cr, net loss Rs 161.0Cr (Inc42); FY24 Rs 914Cr; FY23 Rs 819Cr",
+   "next_action": "None",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Jumbotail NEC strategic investment March 2026",
+   "status": "done",
+   "found": "NEC Corporation strategic collaboration and investment announced March 3, 2026",
+   "next_action": "None",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Jumbotail kirana stores GMV traction customers",
+   "status": "done",
+   "found": "500,000+ kiranas, 400+ cities, 2,000+ brands (Jun 2025); 250,000 stores, 50+ cities (FY23)",
+   "next_action": "None",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Jumbotail products J24 GoldenEye fintech",
+   "status": "done",
+   "found": "B2B marketplace, J24 retail (scaled down), GoldenEye Retail OS, fintech, supply chain, NEC AI integration",
+   "next_action": "None",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Jumbotail CIN incorporation Tofler MCA",
+   "status": "done",
+   "found": "CIN U72200KA2015PTC083865, incorporated 04 Nov 2015, registered Eastland Citadel Hosur Road",
+   "next_action": "None",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Jumbotail employees hiring layoffs 2024 2025",
+   "status": "done",
+   "found": "Inc42 reports 1,435 employees; Jumbotail scaled down from peak; Solv acquisition brought ~350 employees",
+   "next_action": "None",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Jumbotail founders S Karthik Venkateswaran Ashish Jhina background education",
+   "status": "done",
+   "found": "Stanford MBAs; Karthik ex-Flipkart/eBay/Indian Army; Ashish ex-BCG/apple farmer",
+   "next_action": "None",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Jumbotail funding rounds complete ladder Tracxn",
+   "status": "done",
+   "found": "10 rounds: Seed 2015, Series A 2017, Series B x2 2019/2020, Series C x3 2021/2023/2024, Series D 2025, NEC strategic 2026",
+   "next_action": "None",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Jumbotail FY25 revenue financials MCA",
+   "status": "done",
+   "found": "FY25 revenue Rs 725.1Cr, net loss Rs 161.0Cr (Inc42); FY24 Rs 914Cr; FY23 Rs 819Cr",
+   "next_action": "None",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Jumbotail NEC strategic investment March 2026",
+   "status": "done",
+   "found": "NEC Corporation strategic collaboration and investment announced March 3, 2026",
+   "next_action": "None",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Jumbotail kirana stores GMV traction customers",
+   "status": "done",
+   "found": "500,000+ kiranas, 400+ cities, 2,000+ brands (Jun 2025); 250,000 stores, 50+ cities (FY23)",
+   "next_action": "None",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Jumbotail products J24 GoldenEye fintech",
+   "status": "done",
+   "found": "B2B marketplace, J24 retail (scaled down), GoldenEye Retail OS, fintech, supply chain, NEC AI integration",
+   "next_action": "None",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Jumbotail CIN incorporation Tofler MCA",
+   "status": "done",
+   "found": "CIN U72200KA2015PTC083865, incorporated 04 Nov 2015, registered Eastland Citadel Hosur Road",
+   "next_action": "None",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Jumbotail employees hiring layoffs 2024 2025",
+   "status": "done",
+   "found": "Inc42 reports 1,435 employees; Jumbotail scaled down from peak; Solv acquisition brought ~350 employees",
+   "next_action": "None",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Jumbotail founders S Karthik Venkateswaran Ashish Jhina background education",
+   "status": "done",
+   "found": "Stanford MBAs; Karthik ex-Flipkart/eBay/Indian Army; Ashish ex-BCG/apple farmer",
+   "next_action": "None",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Jumbotail funding rounds complete ladder Tracxn",
+   "status": "done",
+   "found": "10 rounds: Seed 2015, Series A 2017, Series B x2 2019/2020, Series C x3 2021/2023/2024, Series D 2025, NEC strategic 2026",
+   "next_action": "None",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Jumbotail FY25 revenue financials MCA",
+   "status": "done",
+   "found": "FY25 revenue Rs 725.1Cr, net loss Rs 161.0Cr (Inc42); FY24 Rs 914Cr; FY23 Rs 819Cr",
+   "next_action": "None",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Jumbotail NEC strategic investment March 2026",
+   "status": "done",
+   "found": "NEC Corporation strategic collaboration and investment announced March 3, 2026",
+   "next_action": "None",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Jumbotail kirana stores GMV traction customers",
+   "status": "done",
+   "found": "500,000+ kiranas, 400+ cities, 2,000+ brands (Jun 2025); 250,000 stores, 50+ cities (FY23)",
+   "next_action": "None",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Jumbotail products J24 GoldenEye fintech",
+   "status": "done",
+   "found": "B2B marketplace, J24 retail (scaled down), GoldenEye Retail OS, fintech, supply chain, NEC AI integration",
+   "next_action": "None",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Jumbotail CIN incorporation Tofler MCA",
+   "status": "done",
+   "found": "CIN U72200KA2015PTC083865, incorporated 04 Nov 2015, registered Eastland Citadel Hosur Road",
+   "next_action": "None",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Jumbotail employees hiring layoffs 2024 2025",
+   "status": "done",
+   "found": "Inc42 reports 1,435 employees; Jumbotail scaled down from peak; Solv acquisition brought ~350 employees",
+   "next_action": "None",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Jumbotail founders S Karthik Venkateswaran Ashish Jhina background education",
+   "status": "done",
+   "found": "Stanford MBAs; Karthik ex-Flipkart/eBay/Indian Army; Ashish ex-BCG/apple farmer",
+   "next_action": "None",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Jumbotail funding rounds complete ladder Tracxn",
+   "status": "done",
+   "found": "10 rounds: Seed 2015, Series A 2017, Series B x2 2019/2020, Series C x3 2021/2023/2024, Series D 2025, NEC strategic 2026",
+   "next_action": "None",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Jumbotail FY25 revenue financials MCA",
+   "status": "done",
+   "found": "FY25 revenue Rs 725.1Cr, net loss Rs 161.0Cr (Inc42); FY24 Rs 914Cr; FY23 Rs 819Cr",
+   "next_action": "None",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Jumbotail NEC strategic investment March 2026",
+   "status": "done",
+   "found": "NEC Corporation strategic collaboration and investment announced March 3, 2026",
+   "next_action": "None",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Jumbotail kirana stores GMV traction customers",
+   "status": "done",
+   "found": "500,000+ kiranas, 400+ cities, 2,000+ brands (Jun 2025); 250,000 stores, 50+ cities (FY23)",
+   "next_action": "None",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Jumbotail products J24 GoldenEye fintech",
+   "status": "done",
+   "found": "B2B marketplace, J24 retail (scaled down), GoldenEye Retail OS, fintech, supply chain, NEC AI integration",
+   "next_action": "None",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Jumbotail CIN incorporation Tofler MCA",
+   "status": "done",
+   "found": "CIN U72200KA2015PTC083865, incorporated 04 Nov 2015, registered Eastland Citadel Hosur Road",
+   "next_action": "None",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Jumbotail employees hiring layoffs 2024 2025",
+   "status": "done",
+   "found": "Inc42 reports 1,435 employees; Jumbotail scaled down from peak; Solv acquisition brought ~350 employees",
+   "next_action": "None",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Jumbotail founders S Karthik Venkateswaran Ashish Jhina background education",
+   "status": "done",
+   "found": "Stanford MBAs; Karthik ex-Flipkart/eBay/Indian Army; Ashish ex-BCG/apple farmer",
+   "next_action": "None",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Jumbotail funding rounds complete ladder Tracxn",
+   "status": "done",
+   "found": "10 rounds: Seed 2015, Series A 2017, Series B x2 2019/2020, Series C x3 2021/2023/2024, Series D 2025, NEC strategic 2026",
+   "next_action": "None",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Jumbotail FY25 revenue financials MCA",
+   "status": "done",
+   "found": "FY25 revenue Rs 725.1Cr, net loss Rs 161.0Cr (Inc42); FY24 Rs 914Cr; FY23 Rs 819Cr",
+   "next_action": "None",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Jumbotail NEC strategic investment March 2026",
+   "status": "done",
+   "found": "NEC Corporation strategic collaboration and investment announced March 3, 2026",
+   "next_action": "None",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Jumbotail kirana stores GMV traction customers",
+   "status": "done",
+   "found": "500,000+ kiranas, 400+ cities, 2,000+ brands (Jun 2025); 250,000 stores, 50+ cities (FY23)",
+   "next_action": "None",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Jumbotail products J24 GoldenEye fintech",
+   "status": "done",
+   "found": "B2B marketplace, J24 retail (scaled down), GoldenEye Retail OS, fintech, supply chain, NEC AI integration",
+   "next_action": "None",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Jumbotail CIN incorporation Tofler MCA",
+   "status": "done",
+   "found": "CIN U72200KA2015PTC083865, incorporated 04 Nov 2015, registered Eastland Citadel Hosur Road",
+   "next_action": "None",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Jumbotail employees hiring layoffs 2024 2025",
+   "status": "done",
+   "found": "Inc42 reports 1,435 employees; Jumbotail scaled down from peak; Solv acquisition brought ~350 employees",
+   "next_action": "None",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Jumbotail founders S Karthik Venkateswaran Ashish Jhina background education",
+   "status": "done",
+   "found": "Stanford MBAs; Karthik ex-Flipkart/eBay/Indian Army; Ashish ex-BCG/apple farmer",
+   "next_action": "None",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Jumbotail funding rounds complete ladder Tracxn",
+   "status": "done",
+   "found": "10 rounds: Seed 2015, Series A 2017, Series B x2 2019/2020, Series C x3 2021/2023/2024, Series D 2025, NEC strategic 2026",
+   "next_action": "None",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Jumbotail FY25 revenue financials MCA",
+   "status": "done",
+   "found": "FY25 revenue Rs 725.1Cr, net loss Rs 161.0Cr (Inc42); FY24 Rs 914Cr; FY23 Rs 819Cr",
+   "next_action": "None",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Jumbotail NEC strategic investment March 2026",
+   "status": "done",
+   "found": "NEC Corporation strategic collaboration and investment announced March 3, 2026",
+   "next_action": "None",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Jumbotail kirana stores GMV traction customers",
+   "status": "done",
+   "found": "500,000+ kiranas, 400+ cities, 2,000+ brands (Jun 2025); 250,000 stores, 50+ cities (FY23)",
+   "next_action": "None",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Jumbotail products J24 GoldenEye fintech",
+   "status": "done",
+   "found": "B2B marketplace, J24 retail (scaled down), GoldenEye Retail OS, fintech, supply chain, NEC AI integration",
+   "next_action": "None",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Jumbotail CIN incorporation Tofler MCA",
+   "status": "done",
+   "found": "CIN U72200KA2015PTC083865, incorporated 04 Nov 2015, registered Eastland Citadel Hosur Road",
+   "next_action": "None",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Jumbotail employees hiring layoffs 2024 2025",
+   "status": "done",
+   "found": "Inc42 reports 1,435 employees; Jumbotail scaled down from peak; Solv acquisition brought ~350 employees",
+   "next_action": "None",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Jumbotail founders S Karthik Venkateswaran Ashish Jhina background education",
+   "status": "done",
+   "found": "Stanford MBAs; Karthik ex-Flipkart/eBay/Indian Army; Ashish ex-BCG/apple farmer",
+   "next_action": "None",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Jumbotail funding rounds complete ladder Tracxn",
+   "status": "done",
+   "found": "10 rounds: Seed 2015, Series A 2017, Series B x2 2019/2020, Series C x3 2021/2023/2024, Series D 2025, NEC strategic 2026",
+   "next_action": "None",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Jumbotail FY25 revenue financials MCA",
+   "status": "done",
+   "found": "FY25 revenue Rs 725.1Cr, net loss Rs 161.0Cr (Inc42); FY24 Rs 914Cr; FY23 Rs 819Cr",
+   "next_action": "None",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Jumbotail NEC strategic investment March 2026",
+   "status": "done",
+   "found": "NEC Corporation strategic collaboration and investment announced March 3, 2026",
+   "next_action": "None",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Jumbotail kirana stores GMV traction customers",
+   "status": "done",
+   "found": "500,000+ kiranas, 400+ cities, 2,000+ brands (Jun 2025); 250,000 stores, 50+ cities (FY23)",
+   "next_action": "None",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Jumbotail products J24 GoldenEye fintech",
+   "status": "done",
+   "found": "B2B marketplace, J24 retail (scaled down), GoldenEye Retail OS, fintech, supply chain, NEC AI integration",
+   "next_action": "None",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Jumbotail CIN incorporation Tofler MCA",
+   "status": "done",
+   "found": "CIN U72200KA2015PTC083865, incorporated 04 Nov 2015, registered Eastland Citadel Hosur Road",
+   "next_action": "None",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Jumbotail employees hiring layoffs 2024 2025",
+   "status": "done",
+   "found": "Inc42 reports 1,435 employees; Jumbotail scaled down from peak; Solv acquisition brought ~350 employees",
+   "next_action": "None",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Jumbotail founders S Karthik Venkateswaran Ashish Jhina background education",
+   "status": "done",
+   "found": "Stanford MBAs; Karthik ex-Flipkart/eBay/Indian Army; Ashish ex-BCG/apple farmer",
+   "next_action": "None",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Jumbotail funding rounds complete ladder Tracxn",
+   "status": "done",
+   "found": "10 rounds: Seed 2015, Series A 2017, Series B x2 2019/2020, Series C x3 2021/2023/2024, Series D 2025, NEC strategic 2026",
+   "next_action": "None",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Jumbotail FY25 revenue financials MCA",
+   "status": "done",
+   "found": "FY25 revenue Rs 725.1Cr, net loss Rs 161.0Cr (Inc42); FY24 Rs 914Cr; FY23 Rs 819Cr",
+   "next_action": "None",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Jumbotail NEC strategic investment March 2026",
+   "status": "done",
+   "found": "NEC Corporation strategic collaboration and investment announced March 3, 2026",
+   "next_action": "None",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Jumbotail kirana stores GMV traction customers",
+   "status": "done",
+   "found": "500,000+ kiranas, 400+ cities, 2,000+ brands (Jun 2025); 250,000 stores, 50+ cities (FY23)",
+   "next_action": "None",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Jumbotail products J24 GoldenEye fintech",
+   "status": "done",
+   "found": "B2B marketplace, J24 retail (scaled down), GoldenEye Retail OS, fintech, supply chain, NEC AI integration",
+   "next_action": "None",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Jumbotail CIN incorporation Tofler MCA",
+   "status": "done",
+   "found": "CIN U72200KA2015PTC083865, incorporated 04 Nov 2015, registered Eastland Citadel Hosur Road",
+   "next_action": "None",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Jumbotail employees hiring layoffs 2024 2025",
+   "status": "done",
+   "found": "Inc42 reports 1,435 employees; Jumbotail scaled down from peak; Solv acquisition brought ~350 employees",
+   "next_action": "None",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Jumbotail founders S Karthik Venkateswaran Ashish Jhina background education",
+   "status": "done",
+   "found": "Stanford MBAs; Karthik ex-Flipkart/eBay/Indian Army; Ashish ex-BCG/apple farmer",
+   "next_action": "None",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Jumbotail funding rounds complete ladder Tracxn",
+   "status": "done",
+   "found": "10 rounds: Seed 2015, Series A 2017, Series B x2 2019/2020, Series C x3 2021/2023/2024, Series D 2025, NEC strategic 2026",
+   "next_action": "None",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Jumbotail FY25 revenue financials MCA",
+   "status": "done",
+   "found": "FY25 revenue Rs 725.1Cr, net loss Rs 161.0Cr (Inc42); FY24 Rs 914Cr; FY23 Rs 819Cr",
+   "next_action": "None",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Jumbotail NEC strategic investment March 2026",
+   "status": "done",
+   "found": "NEC Corporation strategic collaboration and investment announced March 3, 2026",
+   "next_action": "None",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Jumbotail kirana stores GMV traction customers",
+   "status": "done",
+   "found": "500,000+ kiranas, 400+ cities, 2,000+ brands (Jun 2025); 250,000 stores, 50+ cities (FY23)",
+   "next_action": "None",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Jumbotail products J24 GoldenEye fintech",
+   "status": "done",
+   "found": "B2B marketplace, J24 retail (scaled down), GoldenEye Retail OS, fintech, supply chain, NEC AI integration",
+   "next_action": "None",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Jumbotail CIN incorporation Tofler MCA",
+   "status": "done",
+   "found": "CIN U72200KA2015PTC083865, incorporated 04 Nov 2015, registered Eastland Citadel Hosur Road",
+   "next_action": "None",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Jumbotail employees hiring layoffs 2024 2025",
+   "status": "done",
+   "found": "Inc42 reports 1,435 employees; Jumbotail scaled down from peak; Solv acquisition brought ~350 employees",
+   "next_action": "None",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Jumbotail founders S Karthik Venkateswaran Ashish Jhina background education",
+   "status": "done",
+   "found": "Stanford MBAs; Karthik ex-Flipkart/eBay/Indian Army; Ashish ex-BCG/apple farmer",
+   "next_action": "None",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Jumbotail funding rounds complete ladder Tracxn",
+   "status": "done",
+   "found": "10 rounds: Seed 2015, Series A 2017, Series B x2 2019/2020, Series C x3 2021/2023/2024, Series D 2025, NEC strategic 2026",
+   "next_action": "None",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Jumbotail FY25 revenue financials MCA",
+   "status": "done",
+   "found": "FY25 revenue Rs 725.1Cr, net loss Rs 161.0Cr (Inc42); FY24 Rs 914Cr; FY23 Rs 819Cr",
+   "next_action": "None",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Jumbotail NEC strategic investment March 2026",
+   "status": "done",
+   "found": "NEC Corporation strategic collaboration and investment announced March 3, 2026",
+   "next_action": "None",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Jumbotail kirana stores GMV traction customers",
+   "status": "done",
+   "found": "500,000+ kiranas, 400+ cities, 2,000+ brands (Jun 2025); 250,000 stores, 50+ cities (FY23)",
+   "next_action": "None",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Jumbotail products J24 GoldenEye fintech",
+   "status": "done",
+   "found": "B2B marketplace, J24 retail (scaled down), GoldenEye Retail OS, fintech, supply chain, NEC AI integration",
+   "next_action": "None",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Jumbotail CIN incorporation Tofler MCA",
+   "status": "done",
+   "found": "CIN U72200KA2015PTC083865, incorporated 04 Nov 2015, registered Eastland Citadel Hosur Road",
+   "next_action": "None",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Jumbotail employees hiring layoffs 2024 2025",
+   "status": "done",
+   "found": "Inc42 reports 1,435 employees; Jumbotail scaled down from peak; Solv acquisition brought ~350 employees",
+   "next_action": "None",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Jumbotail founders S Karthik Venkateswaran Ashish Jhina background education",
+   "status": "done",
+   "found": "Stanford MBAs; Karthik ex-Flipkart/eBay/Indian Army; Ashish ex-BCG/apple farmer",
+   "next_action": "None",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Jumbotail funding rounds complete ladder Tracxn",
+   "status": "done",
+   "found": "10 rounds: Seed 2015, Series A 2017, Series B x2 2019/2020, Series C x3 2021/2023/2024, Series D 2025, NEC strategic 2026",
+   "next_action": "None",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Jumbotail FY25 revenue financials MCA",
+   "status": "done",
+   "found": "FY25 revenue Rs 725.1Cr, net loss Rs 161.0Cr (Inc42); FY24 Rs 914Cr; FY23 Rs 819Cr",
+   "next_action": "None",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Jumbotail NEC strategic investment March 2026",
+   "status": "done",
+   "found": "NEC Corporation strategic collaboration and investment announced March 3, 2026",
+   "next_action": "None",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Jumbotail kirana stores GMV traction customers",
+   "status": "done",
+   "found": "500,000+ kiranas, 400+ cities, 2,000+ brands (Jun 2025); 250,000 stores, 50+ cities (FY23)",
+   "next_action": "None",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Jumbotail products J24 GoldenEye fintech",
+   "status": "done",
+   "found": "B2B marketplace, J24 retail (scaled down), GoldenEye Retail OS, fintech, supply chain, NEC AI integration",
+   "next_action": "None",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Jumbotail CIN incorporation Tofler MCA",
+   "status": "done",
+   "found": "CIN U72200KA2015PTC083865, incorporated 04 Nov 2015, registered Eastland Citadel Hosur Road",
+   "next_action": "None",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Jumbotail employees hiring layoffs 2024 2025",
+   "status": "done",
+   "found": "Inc42 reports 1,435 employees; Jumbotail scaled down from peak; Solv acquisition brought ~350 employees",
+   "next_action": "None",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Jumbotail founders S Karthik Venkateswaran Ashish Jhina background education",
+   "status": "done",
+   "found": "Stanford MBAs; Karthik ex-Flipkart/eBay/Indian Army; Ashish ex-BCG/apple farmer",
+   "next_action": "None",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Jumbotail funding rounds complete ladder Tracxn",
+   "status": "done",
+   "found": "10 rounds: Seed 2015, Series A 2017, Series B x2 2019/2020, Series C x3 2021/2023/2024, Series D 2025, NEC strategic 2026",
+   "next_action": "None",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Jumbotail FY25 revenue financials MCA",
+   "status": "done",
+   "found": "FY25 revenue Rs 725.1Cr, net loss Rs 161.0Cr (Inc42); FY24 Rs 914Cr; FY23 Rs 819Cr",
+   "next_action": "None",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Jumbotail NEC strategic investment March 2026",
+   "status": "done",
+   "found": "NEC Corporation strategic collaboration and investment announced March 3, 2026",
+   "next_action": "None",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Jumbotail kirana stores GMV traction customers",
+   "status": "done",
+   "found": "500,000+ kiranas, 400+ cities, 2,000+ brands (Jun 2025); 250,000 stores, 50+ cities (FY23)",
+   "next_action": "None",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Jumbotail products J24 GoldenEye fintech",
+   "status": "done",
+   "found": "B2B marketplace, J24 retail (scaled down), GoldenEye Retail OS, fintech, supply chain, NEC AI integration",
+   "next_action": "None",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Jumbotail CIN incorporation Tofler MCA",
+   "status": "done",
+   "found": "CIN U72200KA2015PTC083865, incorporated 04 Nov 2015, registered Eastland Citadel Hosur Road",
+   "next_action": "None",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Jumbotail employees hiring layoffs 2024 2025",
+   "status": "done",
+   "found": "Inc42 reports 1,435 employees; Jumbotail scaled down from peak; Solv acquisition brought ~350 employees",
+   "next_action": "None",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Jumbotail founders S Karthik Venkateswaran Ashish Jhina background education",
+   "status": "done",
+   "found": "Stanford MBAs; Karthik ex-Flipkart/eBay/Indian Army; Ashish ex-BCG/apple farmer",
+   "next_action": "None",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Jumbotail funding rounds complete ladder Tracxn",
+   "status": "done",
+   "found": "10 rounds: Seed 2015, Series A 2017, Series B x2 2019/2020, Series C x3 2021/2023/2024, Series D 2025, NEC strategic 2026",
+   "next_action": "None",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Jumbotail FY25 revenue financials MCA",
+   "status": "done",
+   "found": "FY25 revenue Rs 725.1Cr, net loss Rs 161.0Cr (Inc42); FY24 Rs 914Cr; FY23 Rs 819Cr",
+   "next_action": "None",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Jumbotail NEC strategic investment March 2026",
+   "status": "done",
+   "found": "NEC Corporation strategic collaboration and investment announced March 3, 2026",
+   "next_action": "None",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Jumbotail kirana stores GMV traction customers",
+   "status": "done",
+   "found": "500,000+ kiranas, 400+ cities, 2,000+ brands (Jun 2025); 250,000 stores, 50+ cities (FY23)",
+   "next_action": "None",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Jumbotail products J24 GoldenEye fintech",
+   "status": "done",
+   "found": "B2B marketplace, J24 retail (scaled down), GoldenEye Retail OS, fintech, supply chain, NEC AI integration",
+   "next_action": "None",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Jumbotail CIN incorporation Tofler MCA",
+   "status": "done",
+   "found": "CIN U72200KA2015PTC083865, incorporated 04 Nov 2015, registered Eastland Citadel Hosur Road",
+   "next_action": "None",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Jumbotail employees hiring layoffs 2024 2025",
+   "status": "done",
+   "found": "Inc42 reports 1,435 employees; Jumbotail scaled down from peak; Solv acquisition brought ~350 employees",
+   "next_action": "None",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Jumbotail founders S Karthik Venkateswaran Ashish Jhina background education",
+   "status": "done",
+   "found": "Stanford MBAs; Karthik ex-Flipkart/eBay/Indian Army; Ashish ex-BCG/apple farmer",
+   "next_action": "None",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Jumbotail funding rounds complete ladder Tracxn",
+   "status": "done",
+   "found": "10 rounds: Seed 2015, Series A 2017, Series B x2 2019/2020, Series C x3 2021/2023/2024, Series D 2025, NEC strategic 2026",
+   "next_action": "None",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Jumbotail FY25 revenue financials MCA",
+   "status": "done",
+   "found": "FY25 revenue Rs 725.1Cr, net loss Rs 161.0Cr (Inc42); FY24 Rs 914Cr; FY23 Rs 819Cr",
+   "next_action": "None",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Jumbotail NEC strategic investment March 2026",
+   "status": "done",
+   "found": "NEC Corporation strategic collaboration and investment announced March 3, 2026",
+   "next_action": "None",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Jumbotail kirana stores GMV traction customers",
+   "status": "done",
+   "found": "500,000+ kiranas, 400+ cities, 2,000+ brands (Jun 2025); 250,000 stores, 50+ cities (FY23)",
+   "next_action": "None",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Jumbotail products J24 GoldenEye fintech",
+   "status": "done",
+   "found": "B2B marketplace, J24 retail (scaled down), GoldenEye Retail OS, fintech, supply chain, NEC AI integration",
+   "next_action": "None",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Jumbotail CIN incorporation Tofler MCA",
+   "status": "done",
+   "found": "CIN U72200KA2015PTC083865, incorporated 04 Nov 2015, registered Eastland Citadel Hosur Road",
+   "next_action": "None",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Jumbotail employees hiring layoffs 2024 2025",
+   "status": "done",
+   "found": "Inc42 reports 1,435 employees; Jumbotail scaled down from peak; Solv acquisition brought ~350 employees",
+   "next_action": "None",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Jumbotail founders S Karthik Venkateswaran Ashish Jhina background education",
+   "status": "done",
+   "found": "Stanford MBAs; Karthik ex-Flipkart/eBay/Indian Army; Ashish ex-BCG/apple farmer",
+   "next_action": "None",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Jumbotail funding rounds complete ladder Tracxn",
+   "status": "done",
+   "found": "10 rounds: Seed 2015, Series A 2017, Series B x2 2019/2020, Series C x3 2021/2023/2024, Series D 2025, NEC strategic 2026",
+   "next_action": "None",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Jumbotail FY25 revenue financials MCA",
+   "status": "done",
+   "found": "FY25 revenue Rs 725.1Cr, net loss Rs 161.0Cr (Inc42); FY24 Rs 914Cr; FY23 Rs 819Cr",
+   "next_action": "None",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Jumbotail NEC strategic investment March 2026",
+   "status": "done",
+   "found": "NEC Corporation strategic collaboration and investment announced March 3, 2026",
+   "next_action": "None",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Jumbotail kirana stores GMV traction customers",
+   "status": "done",
+   "found": "500,000+ kiranas, 400+ cities, 2,000+ brands (Jun 2025); 250,000 stores, 50+ cities (FY23)",
+   "next_action": "None",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Jumbotail products J24 GoldenEye fintech",
+   "status": "done",
+   "found": "B2B marketplace, J24 retail (scaled down), GoldenEye Retail OS, fintech, supply chain, NEC AI integration",
+   "next_action": "None",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Jumbotail CIN incorporation Tofler MCA",
+   "status": "done",
+   "found": "CIN U72200KA2015PTC083865, incorporated 04 Nov 2015, registered Eastland Citadel Hosur Road",
+   "next_action": "None",
+   "agent": "websearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Jumbotail employees hiring layoffs 2024 2025",
+   "status": "done",
+   "found": "Inc42 reports 1,435 employees; Jumbotail scaled down from peak; Solv acquisition brought ~350 employees",
+   "next_action": "None",
+   "agent": "websearch"
+  }
+ ],
+ "sources": [
+  {
+   "publication_date": "2025-06-30",
+   "publisher": "Jumbotail (company)",
+   "tier": "T1",
+   "title": "Jumbotail raises $120M Series D funding; completes acquisition of Solv",
+   "url": "http://jumbotail.com/jumbotail-raises-120m-series-d-funding"
+  },
+  {
+   "publication_date": "2025-06-30",
+   "publisher": "Economic Times",
+   "tier": "T3",
+   "title": "Jumbotail hits $1 billion valuation in new funding led by SC Ventures",
+   "url": "http://m.economictimes.com/tech/funding/b2b-ecommerce-firm-jumbotail-raises-120-million-from-standard-chartereds-investment-arm-others/articleshow/122156577.cms"
+  },
+  {
+   "publication_date": "2026-03-20",
+   "publisher": "Tracxn",
+   "tier": "T2",
+   "title": "JUMBOTAIL TECHNOLOGIES PRIVATE LIMITED - Company Profile, Financials",
+   "url": "https://tracxn.com/d/legal-entities/india/jumbotail-technologies-private-limited/___07BUaNuwet7rTvuaQEwU9KCB-L2YnUboaWXFyvqlIA"
+  },
+  {
+   "url": "https://yourstory.com/2025/06/jumbotail-raises-120m-series-d-round-completes-solv-acquisition",
+   "title": "",
+   "fields": "FUNDING",
+   "confidence": "MEDIUM"
+  },
+  {
+   "url": "https://www.tofler.in/jumbotail-technologies-private-limited/company/U72200KA2015PTC083865",
+   "title": "Jumbotail Technologies Financials | Company Details - Tofler",
+   "fields": [
+    "cin",
+    "incorporation_date"
+   ],
+   "confidence": "high"
+  },
+  {
+   "url": "https://jumbotail.com/news-room/jumbotail-raises-an-85m-series-c-round-led-by-invus",
+   "title": "",
+   "fields": "PEOPLE",
+   "confidence": "HIGH"
+  },
+  {
+   "url": "https://jumbotail.com/news-room/jumbotail-raises-120m-series-d-funding",
+   "title": "",
+   "fields": "PEOPLE",
+   "confidence": "HIGH"
+  },
+  {
+   "url": "https://jumbotail.com/news-room/jumbotail-and-nec-announce-strategic-collaboration",
+   "title": "",
+   "fields": "company",
+   "confidence": "HIGH"
+  },
+  {
+   "url": "https://tracxn.com/d/companies/jumbotail/__kvicGfcrACJPdacCOq_7ovz4ikP2sBU1917OdLG29x4/funding-and-investors",
+   "title": "",
+   "fields": "company",
+   "confidence": "HIGH"
+  },
+  {
+   "url": "https://inc42.com/features/jumbotail-solv-deal-zero-profits-2x-valuation-jump-questions-galore/",
+   "title": "",
+   "fields": "company",
+   "confidence": "MEDIUM"
+  },
+  {
+   "url": "https://entrackr.com/news/jumbotail-turns-unicorn-after-120-mn-series-d-round-9449623",
+   "title": "",
+   "fields": "company",
+   "confidence": "MEDIUM"
+  },
+  {
+   "url": "https://www.business-standard.com/companies/start-ups/jumbotail-raises-rs-151-crore-in-series-c3-equity-round-led-by-artal-asia-124031800622_1.html",
+   "title": "",
+   "fields": "company",
+   "confidence": "HIGH"
+  },
+  {
+   "url": "http://inc42.com/company/jumbotail/financials",
+   "title": "",
+   "fields": "company",
+   "confidence": "MEDIUM"
+  },
+  {
+   "url": "https://www.cnbctv18.com/business/startup/how-jumbotail-digitised-kirana-stores-and-reached-1-billion-valuation-19676247.htm",
+   "title": "",
+   "fields": "company",
+   "confidence": "MEDIUM"
+  },
+  {
+   "url": "https://jumbotail.com/news-room/jumbotail-doubles-gmv-to-rs-2262-crore-in-fy23",
+   "title": "",
+   "fields": "company",
+   "confidence": "HIGH"
+  }
+ ],
+ "startup_id": "jumbotail",
+ "_merged_session2": true,
+ "people": [
+  {
+   "name": "S. Karthik Venkateswaran",
+   "role": "Co-founder & CEO",
+   "title": "Co-founder and CEO",
+   "current": true,
+   "since": "2015-11-04",
+   "prior_role": "Director of Product at Flipkart; eBay US; Indian Army (hard combat)",
+   "education": "Stanford MBA",
+   "source_url": "https://jumbotail.com/news-room/jumbotail-raises-an-85m-series-c-round-led-by-invus",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Ashish Jhina",
+   "role": "Co-founder & COO",
+   "title": "Co-founder and COO",
+   "current": true,
+   "since": "2015-11-04",
+   "prior_role": "BCG consultant; 3rd generation apple farmer",
+   "education": "Stanford MBA",
+   "source_url": "https://jumbotail.com/news-room/jumbotail-raises-an-85m-series-c-round-led-by-invus",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Benjamin Frank Felt",
+   "role": "Board Member",
+   "title": "Managing Director of Invus, Board Member",
+   "current": true,
+   "since": "2022-05-19",
+   "prior_role": "Invus Managing Director",
+   "education": null,
+   "source_url": "https://www.tofler.in/jumbotail-technologies-private-limited/company/U72200KA2015PTC083865",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Gautam Jain",
+   "role": "Board Member",
+   "title": "Member, SC Ventures; Board Member at Jumbotail",
+   "current": true,
+   "since": "2025-06-30",
+   "prior_role": "SC Ventures operating member; previously board member at Solv India",
+   "education": null,
+   "source_url": "https://jumbotail.com/news-room/jumbotail-raises-120m-series-d-funding",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Francis Cukierman Victor",
+   "role": "Nominee Director",
+   "title": "Nominee Director",
+   "current": true,
+   "since": "2022-05-19",
+   "prior_role": null,
+   "education": null,
+   "source_url": "https://www.tofler.in/jumbotail-technologies-private-limited/company/U72200KA2015PTC083865",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Sameer Verma",
+   "role": "Director",
+   "title": "Director",
+   "current": true,
+   "since": "2016",
+   "prior_role": null,
+   "education": null,
+   "source_url": "https://www.tofler.in/jumbotail-technologies-private-limited/company/U72200KA2015PTC083865",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Thomas Joseph Lloyd Williams",
+   "role": "Director",
+   "title": "Director",
+   "current": true,
+   "since": "2020",
+   "prior_role": null,
+   "education": null,
+   "source_url": "https://www.tofler.in/jumbotail-technologies-private-limited/company/U72200KA2015PTC083865",
+   "confidence": "HIGH"
+  }
+ ],
+ "traction": [
+  {
+   "metric": "kirana_stores_served",
+   "value": 500000,
+   "unit": "stores",
+   "period": "As-of-2025-06-30",
+   "as_of": "2025-06-30",
+   "company_reported": true,
+   "source_url": "https://jumbotail.com/news-room/jumbotail-raises-120m-series-d-funding",
+   "source_title": "Jumbotail Series D press release",
+   "confidence": "HIGH",
+   "notes": "500,000+ kiranas and MSMEs across 400+ cities"
+  },
+  {
+   "metric": "cities_served",
+   "value": 400,
+   "unit": "cities",
+   "period": "As-of-2025-06-30",
+   "as_of": "2025-06-30",
+   "company_reported": true,
+   "source_url": "https://jumbotail.com/news-room/jumbotail-raises-120m-series-d-funding",
+   "source_title": "Jumbotail Series D press release",
+   "confidence": "HIGH",
+   "notes": "400+ cities and towns"
+  },
+  {
+   "metric": "brands_partnered",
+   "value": 2000,
+   "unit": "brands",
+   "period": "As-of-2025-06-30",
+   "as_of": "2025-06-30",
+   "company_reported": true,
+   "source_url": "https://jumbotail.com/news-room/jumbotail-raises-120m-series-d-funding",
+   "source_title": "Jumbotail Series D press release",
+   "confidence": "HIGH",
+   "notes": "2,000+ brands growing with Jumbotail"
+  },
+  {
+   "metric": "kirana_stores_served",
+   "value": 250000,
+   "unit": "stores",
+   "period": "FY23",
+   "as_of": "2024-05",
+   "company_reported": true,
+   "source_url": "https://jumbotail.com/news-room/jumbotail-doubles-gmv-to-rs-2262-crore-in-fy23",
+   "source_title": "Jumbotail doubles GMV to Rs 2262 crores in FY23",
+   "source_date": "2024-05",
+   "confidence": "HIGH",
+   "notes": "250,000+ kirana stores across 50+ cities"
+  },
+  {
+   "metric": "kirana_stores_served",
+   "value": 250000,
+   "unit": "stores",
+   "period": "As-of-2026-03",
+   "as_of": "2026-03-03",
+   "company_reported": true,
+   "source_url": "https://jumbotail.com/news-room/jumbotail-and-nec-announce-strategic-collaboration",
+   "source_title": "Jumbotail NEC collaboration press release",
+   "source_date": "2026-03-03",
+   "confidence": "HIGH",
+   "notes": "250,000+ Kirana stores in India"
+  },
+  {
+   "metric": "gmv",
+   "value": 1100,
+   "unit": "crore",
+   "period": "FY22",
+   "as_of": "2023-05",
+   "company_reported": true,
+   "source_url": "https://jumbotail.com/news-room",
+   "source_title": "Jumbotail income zooms over 3X in FY22 (Entrackr)",
+   "confidence": "HIGH",
+   "notes": "GMV past Rs 1,100 crore in FY22"
+  },
+  {
+   "metric": "j24_stores_peak",
+   "value": 100,
+   "unit": "stores",
+   "period": "Peak",
+   "as_of": "2024-07",
+   "company_reported": false,
+   "source_url": "https://inc42.com/features/jumbotail-solv-deal-zero-profits-2x-valuation-jump-questions-galore/",
+   "source_title": "Inc42 - Jumbotail-Solv Deal analysis",
+   "source_date": "2025-04-22",
+   "confidence": "MEDIUM",
+   "notes": "J24 stores scaled down from peak of 100 to ~17 as of mid-2024"
+  },
+  {
+   "metric": "cities_operating",
+   "value": 21,
+   "unit": "cities",
+   "period": "As-of-2024-07",
+   "as_of": "2024-07",
+   "company_reported": false,
+   "source_url": "https://inc42.com/features/jumbotail-solv-deal-zero-profits-2x-valuation-jump-questions-galore/",
+   "source_title": "Inc42 - Jumbotail-Solv Deal analysis",
+   "source_date": "2025-04-22",
+   "confidence": "MEDIUM",
+   "notes": "Scaled down to 21 cities per Morning Context report July 2024"
+  }
+ ],
+ "products": [
+  {
+   "name": "Jumbotail B2B Marketplace",
+   "category": "E-commerce marketplace",
+   "description": "Online wholesale marketplace connecting kirana stores with brands and staples producers",
+   "pricing_model": "Commission-based",
+   "launch_date": "2016",
+   "status": "Active",
+   "source_url": "https://jumbotail.com",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "J24 New Retail",
+   "category": "Modern convenience retail",
+   "description": "Retail-as-a-Service with PoS integrated with supply chain and fintech for kirana entrepreneurs to run modern convenience stores",
+   "pricing_model": "Revenue share / subscription",
+   "launch_date": "2020",
+   "status": "Active (scaled down from 100 to ~17 stores)",
+   "source_url": "https://jumbotail.com/news-room/jumbotail-raises-120m-series-d-funding",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "GoldenEye Retail OS",
+   "category": "Retail operating system",
+   "description": "Proprietary cloud-based Retail Operating System including POS billing, merchandising, inventory management, CRM, loyalty, payments, credit, analytics",
+   "pricing_model": "SaaS",
+   "launch_date": "2022",
+   "status": "Active",
+   "source_url": "https://jumbotail.com",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Fintech/Working Capital",
+   "category": "Financial services",
+   "description": "Payment solutions and access to working capital credit from lending partners for customers and sellers",
+   "pricing_model": "Interest-based",
+   "launch_date": "2017",
+   "status": "Active",
+   "source_url": "https://jumbotail.com",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Supply Chain & Logistics",
+   "category": "Logistics",
+   "description": "Full-stack tech-driven supply chain and logistics with warehousing and fulfilment solutions",
+   "pricing_model": "Service fee",
+   "launch_date": "2016",
+   "status": "Active",
+   "source_url": "https://jumbotail.com",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "NEC AI Integration",
+   "category": "AI/Retail technology",
+   "description": "Strategic collaboration with NEC for AI-powered product discovery, inventory management, in-stock optimization, working capital optimization",
+   "pricing_model": "Partnership",
+   "launch_date": "2026-03",
+   "status": "Active",
+   "source_url": "https://jumbotail.com/news-room/jumbotail-and-nec-announce-strategic-collaboration",
+   "confidence": "HIGH"
+  }
+ ],
+ "legal": [
+  {
+   "type": "acquisition",
+   "entity": "Solv India",
+   "date": "2025-05-27",
+   "status": "confirmed-violation",
+   "description": "CCI approved acquisition of Solv India on May 27, 2025; deal completed June 30, 2025",
+   "source_url": "https://affairscloud.com/cci-approvals-on-may-27-2025/",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "complaint",
+   "entity": "Amit Bansal (former Solv CEO)",
+   "date": "2025-04",
+   "status": "allegation",
+   "description": "Bansal objected to wrongful termination; claimed INR 50 Cr exit payout; alleged misuse of company funds under investigation",
+   "source_url": "https://inc42.com/features/jumbotail-solv-deal-zero-profits-2x-valuation-jump-questions-galore/",
+   "confidence": "MEDIUM"
+  }
+ ],
+ "locations": [
+  {
+   "type": "hq",
+   "address_or_area": "Eastland Citadel, 6th Floor, No.102, Hosur Road, Madiwala Check post",
+   "city": "Bengaluru",
+   "state": "Karnataka",
+   "country": "India",
+   "as_of": "2026-09-15",
+   "source_url": "https://www.tofler.in/jumbotail-technologies-private-limited/company/U72200KA2015PTC083865",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "registered_office",
+   "address_or_area": "Eastland Citadel, 6th Floor, No.102, Hosur Road, Madiwala Check post",
+   "city": "Bengaluru",
+   "state": "Karnataka",
+   "country": "India",
+   "as_of": "2026-09-15",
+   "source_url": "https://www.tofler.in/jumbotail-technologies-private-limited/company/U72200KA2015PTC083865",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "ops",
+   "address_or_area": "Multiple fulfillment and distribution centers",
+   "city": "Bengaluru + 21 cities",
+   "state": "Karnataka",
+   "country": "India",
+   "as_of": "2024-07",
+   "source_url": "https://inc42.com/features/jumbotail-solv-deal-zero-profits-2x-valuation-jump-questions-galore/",
+   "confidence": "MEDIUM",
+   "notes": "1.2M Sqft of fulfillment/distribution centers across 23 major cities (FY23); scaled down to 21 cities"
+  },
+  {
+   "type": "warehouse",
+   "address_or_area": "Fulfillment centers",
+   "city": "Bengaluru + 21 cities",
+   "state": "Karnataka",
+   "country": "India",
+   "as_of": "2023-05",
+   "source_url": "https://www.indianretailer.com/news/jumbotail-results-fy23-100-pc-yoy-growth-gross-merch-value",
+   "confidence": "MEDIUM",
+   "notes": "1.2M Sqft of fulfillment and distribution centers"
+  }
+ ],
+ "customers": [
+  {
+   "name": "Kirana stores",
+   "type": "B2B retailer",
+   "announced_date": null,
+   "status": "Active",
+   "source_url": "https://jumbotail.com/news-room/jumbotail-raises-120m-series-d-funding",
+   "confidence": "HIGH",
+   "notes": "500,000+ kirana stores served across 400+ cities"
+  },
+  {
+   "name": "MSMEs",
+   "type": "B2B business",
+   "announced_date": null,
+   "status": "Active",
+   "source_url": "https://jumbotail.com/news-room/jumbotail-raises-120m-series-d-funding",
+   "confidence": "HIGH",
+   "notes": "MSMEs served alongside kiranas"
+  },
+  {
+   "name": "Brands and staples producers",
+   "type": "B2B seller",
+   "announced_date": null,
+   "status": "Active",
+   "source_url": "https://jumbotail.com/news-room/jumbotail-raises-120m-series-d-funding",
+   "confidence": "HIGH",
+   "notes": "2,000+ brands partnered"
+  }
+ ]
+}

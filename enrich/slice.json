@@ -1,0 +1,1033 @@
+{
+ "company": {
+  "business_model": "full-stack small finance bank (deposits, UPI, credit card, MSME lending)",
+  "city": "Bengaluru",
+  "country": "India",
+  "customer_type": "B2C + MSME",
+  "founded_date": "January 2016 (as SlicePay)",
+  "last_funding_date": "2026-09-03",
+  "last_funding_round": "Later-stage $100M",
+  "last_known_valuation": "$450M (Sep 2026, Dealroom via News18) | ~$1B discussed Apr 2026 (Moneycontrol)",
+  "legal_name": "Slice Small Finance Bank (merged entity; formerly Garagepreneurs Internet Pvt Ltd + North East Small Finance Bank)",
+  "primary_sector": "fintech / digital banking",
+  "secondary_sectors": [
+   "consumer finance",
+   "credit card",
+   "UPI payments"
+  ],
+  "startup_id": "slice",
+  "startup_stage": "Unicorn (2021, $1B+); banking pivot with valuation reset 2026",
+  "status": "active (bank)",
+  "total_funding_disclosed": "~$387-435M (BS/CB Insights; Tracxn $405.8M)",
+  "website": "https://slice.bank.in",
+  "cin": {
+   "v": "U65100AS2016PLC017505",
+   "date": "2016-07-25",
+   "conf": "HIGH",
+   "src": "ZaubaCorp/Tracxn/FalconEbiz registry aggregator pages"
+  },
+  "incorporation_date": {
+   "v": "25 July 2016",
+   "date": "2016-07-25",
+   "conf": "HIGH",
+   "src": "ZaubaCorp/Tracxn/FalconEbiz registry aggregator pages"
+  },
+  "official_website": {
+   "v": "https://slice.bank.in",
+   "conf": "high",
+   "src": "https://slice.bank.in",
+   "note": "verified live 2026-09-15: name match on own homepage"
+  },
+  "careers_website": {
+   "v": "https://slice.bank.in/careers",
+   "conf": "high",
+   "src": "https://slice.bank.in",
+   "note": "careers link found on official homepage, probed live"
+  }
+ },
+ "competitors": [
+  {
+   "basis": "inferred",
+   "category": "fintech/bank",
+   "confidence": "MEDIUM",
+   "inference_note": "UPI credit + SFB positioning vs HDFC/Nu-bank style lenders per Dealroom note",
+   "name": "HDFC Bank / Nubank (valuation comps cited)"
+  }
+ ],
+ "completeness_self": {
+  "customers": 4,
+  "financials": 9,
+  "founders": 8,
+  "funding": 8,
+  "identity": 9,
+  "investors": 8,
+  "legal": 6,
+  "people": 5,
+  "products": 7,
+  "sources": 8,
+  "traction": 8
+ },
+ "conflicts": [
+  {
+   "claim_a": "$450M valuation Sep 2026",
+   "field": "valuation Sep 2026",
+   "resolution": "Both reported; $450M is completed-round figure per Dealroom/News18 (preferred for round); ~$1B was April negotiation talk per Moneycontrol",
+   "resolved_value": "$450M completed; <$1B negotiated",
+   "url_a": "http://dealroom.co/news/148686-slice-raises-100m-at-450m-valuation-betting-on-banking-pivot",
+   "url_b": "https://www.moneycontrol.com/news/business/startup/slice-in-talks-to-raise-100-million-from-accel-elevation-capital-peak-xv-partners-others-13897194.html"
+  }
+ ],
+ "customers": [],
+ "events": [
+  {
+   "announced_date": "2026-09-03",
+   "confidence": "MEDIUM",
+   "date": "2026-09-03",
+   "description": "Late-stage $100M at ~$450M valuation led by Neo Wealth; secondary component",
+   "headline": "$100M raise at $450M valuation (banking pivot)",
+   "source_url": "http://dealroom.co/news/148686-slice-raises-100m-at-450m-valuation-betting-on-banking-pivot",
+   "type": "funding"
+  },
+  {
+   "announced_date": "2026-05-26",
+   "confidence": "HIGH",
+   "date": "2026-03-31",
+   "description": "First full year as bank; total income Rs 1,402.7cr vs Rs 603.8cr FY25",
+   "headline": "FY26 net profit Rs 48.4cr vs Rs 216.7cr loss FY25",
+   "source_url": "https://www.business-standard.com/companies/news/slice-small-finance-bank-posts-first-ever-48-4-crore-net-profit-in-fy26-126052601757_1.html",
+   "type": "financial_result"
+  },
+  {
+   "announced_date": "2026-02-16",
+   "confidence": "HIGH",
+   "date": "2026-02-17",
+   "description": "RBI-approved MD & CEO appointment",
+   "headline": "Rajan Bajaj appointed MD & CEO",
+   "source_url": "https://www.livemint.com/companies/slice-posts-first-net-profit-appoints-founder-rajan-bajaj-ceo-after-rbi-approval-11771246279503.html",
+   "type": "leadership"
+  },
+  {
+   "announced_date": "2024-10-01",
+   "confidence": "HIGH",
+   "date": "2024-10-01",
+   "description": "First fintech-bank merger in India; renamed Slice SFB May 2025",
+   "headline": "Merger with North East Small Finance Bank completed",
+   "source_url": "http://en.wikipedia.org/wiki/Slice_Small_Finance_Bank",
+   "type": "merger"
+  }
+ ],
+ "financials": [
+  {
+   "confidence": "HIGH",
+   "currency": "INR",
+   "fiscal_year": "FY26",
+   "metric": "total_income",
+   "source_date": "2026-05-26",
+   "source_title": "Slice Small Finance Bank posts first-ever Rs 48.4 crore net profit in FY26",
+   "source_url": "https://www.business-standard.com/companies/news/slice-small-finance-bank-posts-first-ever-48-4-crore-net-profit-in-fy26-126052601757_1.html",
+   "unit": "crore",
+   "value": 1402.7,
+   "value_type": "audited"
+  },
+  {
+   "confidence": "HIGH",
+   "currency": "INR",
+   "fiscal_year": "FY26",
+   "metric": "PAT",
+   "source_url": "https://www.business-standard.com/companies/news/slice-small-finance-bank-posts-first-ever-48-4-crore-net-profit-in-fy26-126052601757_1.html",
+   "unit": "crore",
+   "value": 48.4,
+   "value_type": "audited"
+  },
+  {
+   "confidence": "HIGH",
+   "currency": "INR",
+   "fiscal_year": "FY25",
+   "metric": "PAT",
+   "source_url": "https://www.business-standard.com/companies/news/slice-small-finance-bank-posts-first-ever-48-4-crore-net-profit-in-fy26-126052601757_1.html",
+   "unit": "crore",
+   "value": -216.7,
+   "value_type": "audited"
+  },
+  {
+   "confidence": "HIGH",
+   "currency": "INR",
+   "fiscal_year": "FY25",
+   "metric": "total_income",
+   "source_url": "https://www.business-standard.com/companies/news/slice-small-finance-bank-posts-first-ever-48-4-crore-net-profit-in-fy26-126052601757_1.html",
+   "unit": "crore",
+   "value": 603.8,
+   "value_type": "audited"
+  },
+  {
+   "confidence": "MEDIUM",
+   "currency": "INR",
+   "fiscal_year": "FY27-Q1",
+   "metric": "total_income",
+   "source_date": "2026-08-11",
+   "source_title": "CB Insights Slice profile",
+   "source_url": "https://www.cbinsights.com/company/slice",
+   "unit": "crore",
+   "value": 413.8,
+   "value_type": "press-quoted-filing"
+  }
+ ],
+ "founders": [
+  {
+   "background": "Founder, MD & CEO; largest shareholder of merged bank",
+   "confidence": "HIGH",
+   "name": "Rajan Bajaj",
+   "role": "Co-founder, MD & CEO",
+   "source_url": "http://slice.bank.in/about-us",
+   "still_active": true,
+   "type": "founder",
+   "active": "yes",
+   "location": "Guwahati",
+   "linkedin": "https://linkedin.com/in/rajanbajaj"
+  },
+  {
+   "background": "Ex-co-founder",
+   "confidence": "MEDIUM",
+   "name": "Deepak Malhotra",
+   "role": "Co-founder",
+   "source_url": "https://platform.tracxn.com/a/d/company/58bddd9be4b041de9c87c341/slice",
+   "still_active": false,
+   "type": "co-founder",
+   "active": "no — left"
+  }
+ ],
+ "funding_rounds": [
+  {
+   "all_investors": [
+    "Tiger Global",
+    "Insight Partners"
+   ],
+   "amount": 220,
+   "announced_date": "2021-11-28",
+   "confidence": "HIGH",
+   "currency": "USD",
+   "lead_investors": [
+    "Tiger Global",
+    "Insight Partners"
+   ],
+   "purpose": "growth",
+   "round_date": "2021-11-28",
+   "round_type": "Series B",
+   "source_date": "2021-11-28",
+   "source_title": "Slice turns unicorn with $220M round (Entrackr)",
+   "source_url": "https://entrackr.com/2021/11/slice-turns-unicorn-with-220-mn-round-led-by-tiger-and-insight-partners/",
+   "tier": "T3",
+   "valuation": "~$1B+ (unicorn)",
+   "valuation_type": "post-money"
+  },
+  {
+   "all_investors": [
+    "Rajan Bajaj"
+   ],
+   "amount": 8.53,
+   "announced_date": "2024-10-17",
+   "confidence": "HIGH",
+   "currency": "USD",
+   "lead_investors": [
+    "Rajan Bajaj"
+   ],
+   "round_date": "2024-10-17",
+   "round_type": "Insider equity (partly paid shares)",
+   "source_date": "2024-10-17",
+   "source_title": "Slice raises $8.5M from founder Rajan Bajaj",
+   "source_url": "https://m.economictimes.com/tech/funding/slice-raises-8-5-million-from-founder-rajan-bajaj/articleshow/114311542.cms",
+   "tier": "T3"
+  },
+  {
+   "all_investors": [
+    "Accel",
+    "Elevation Capital",
+    "Peak XV Partners"
+   ],
+   "amount": 100,
+   "announced_date": "2026-04-23",
+   "confidence": "MEDIUM",
+   "currency": "USD",
+   "lead_investors": [
+    "Accel",
+    "Elevation Capital",
+    "Peak XV Partners"
+   ],
+   "notes": "In talks; <$1B valuation discussed vs $1.3-1.4B 2022 peak",
+   "round_date": "2026-04-23",
+   "round_type": "Later-stage (negotiations)",
+   "source_date": "2026-04-23",
+   "source_title": "Slice in talks to raise $100M",
+   "source_url": "https://www.moneycontrol.com/news/business/startup/slice-in-talks-to-raise-100-million-from-accel-elevation-capital-peak-xv-partners-others-13897194.html",
+   "tier": "T3",
+   "valuation": "just under $1B (negotiated)"
+  },
+  {
+   "all_investors": [
+    "Neo Wealth",
+    "Kado Global",
+    "Moore Strategic Ventures"
+   ],
+   "amount": 100,
+   "announced_date": "2026-09-03",
+   "confidence": "MEDIUM",
+   "currency": "USD",
+   "lead_investors": [
+    "Neo Wealth"
+   ],
+   "notes": "Includes secondary sale; ~$40M via Neo Wealth HNWI pool",
+   "round_date": "2026-09-03",
+   "round_type": "Later-stage",
+   "source_title": "Slice raises $100M at $450M valuation",
+   "source_url": "http://dealroom.co/news/148686-slice-raises-100m-at-450m-valuation-betting-on-banking-pivot",
+   "tier": "T2",
+   "valuation": "$450M",
+   "valuation_type": "post-money"
+  }
+ ],
+ "gaps": [
+  "CIN / incorporation date not verified",
+  "FY24 audited split not verified",
+  "Q1 FY27 profit figure needs primary source",
+  "Debt rounds detail (Neo/Stride 2024) amounts unverified"
+ ],
+ "hiring": [
+  {
+   "as_of": "2026",
+   "confidence": "MEDIUM",
+   "fact_type": "headcount",
+   "source_url": "https://www.livemint.com/companies/slice-posts-first-net-profit-appoints-founder-rajan-bajaj-ceo-after-rbi-approval-11771246279503.html",
+   "value": "3000+"
+  }
+ ],
+ "investor_links": [
+  {
+   "confidence": "HIGH",
+   "first_seen": "2021",
+   "investor": "Tiger Global",
+   "investor_type": "VC",
+   "lead": true,
+   "rounds": [
+    "Series B 2021"
+   ],
+   "source_url": "https://www.business-standard.com/companies/news/slice-small-finance-bank-posts-first-ever-48-4-crore-net-profit-in-fy26-126052601757_1.html"
+  },
+  {
+   "confidence": "HIGH",
+   "first_seen": "2021",
+   "investor": "Insight Partners",
+   "investor_type": "VC",
+   "lead": true,
+   "rounds": [
+    "Series B 2021"
+   ],
+   "source_url": "https://www.business-standard.com/companies/news/slice-small-finance-bank-posts-first-ever-48-4-crore-net-profit-in-fy26-126052601757_1.html"
+  },
+  {
+   "confidence": "MEDIUM",
+   "first_seen": "2021",
+   "investor": "Blume Ventures",
+   "investor_type": "VC",
+   "rounds": [
+    "early + CCD 2024"
+   ],
+   "source_url": "https://www.business-standard.com/companies/news/slice-small-finance-bank-posts-first-ever-48-4-crore-net-profit-in-fy26-126052601757_1.html"
+  },
+  {
+   "confidence": "MEDIUM",
+   "investor": "Neo Wealth",
+   "investor_type": "wealth platform",
+   "lead": true,
+   "rounds": [
+    "Sep 2026 $100M"
+   ],
+   "source_url": "http://dealroom.co/news/148686-slice-raises-100m-at-450m-valuation-betting-on-banking-pivot"
+  }
+ ],
+ "ip_tech_ai": {},
+ "legal": [
+  {
+   "confidence": "MEDIUM",
+   "dates": "2022",
+   "regulator": "RBI",
+   "status": "historical; pivot to bank followed",
+   "summary": "RBI bar on loading prepaid instruments via credit lines hit Slice's card model",
+   "type": "notice"
+  }
+ ],
+ "locations": [
+  {
+   "as_of": "2026",
+   "city": "Bengaluru",
+   "confidence": "HIGH",
+   "source_url": "https://www.business-standard.com/companies/news/slice-small-finance-bank-posts-first-ever-48-4-crore-net-profit-in-fy26-126052601757_1.html",
+   "state": "Karnataka",
+   "type": "HQ"
+  }
+ ],
+ "partnerships": [],
+ "people": [],
+ "products": [
+  {
+   "category": "savings/UPI/credit",
+   "description": "Savings account, UPI credit card, FDs, Slice Borrow, UPI-led branch",
+   "name": "Slice banking suite",
+   "source_url": "http://slice.bank.in/about-us",
+   "status": "live"
+  }
+ ],
+ "research_log": [
+  {
+   "found": "$100M talks Apr 2026; <$1B valuation; NESFB merger; SFB status",
+   "next_action": "done",
+   "query": "Slice funding valuation 2025 2026",
+   "unresolved": "none"
+  },
+  {
+   "found": "FY26 profit Rs 48.4cr; FY25 loss Rs 216.7cr; founders; RBI 2022 PPI rule",
+   "next_action": "done",
+   "query": "Slice founder revenue FY25 FY26",
+   "unresolved": "CIN"
+  },
+  {
+   "found": "Dealroom fetch 403 (logged); relied on search snippet",
+   "next_action": "none",
+   "query": "fetch dealroom slice $450M",
+   "unresolved": "primary confirmation of $450M round"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  }
+ ],
+ "sources": [
+  {
+   "claim_supported": "$100M talks, <$1B valuation, SFB transition",
+   "fields_supported": [
+    "funding_rounds",
+    "valuation"
+   ],
+   "publication_date": "2026-04-23",
+   "publisher": "Moneycontrol",
+   "retrieved_date": "2026-09-14",
+   "tier": "T3",
+   "title": "Slice in talks to raise $100 million",
+   "url": "https://www.moneycontrol.com/news/business/startup/slice-in-talks-to-raise-100-million-from-accel-elevation-capital-peak-xv-partners-others-13897194.html"
+  },
+  {
+   "claim_supported": "FY26 profit, income, merger, users, investors",
+   "fields_supported": [
+    "financials",
+    "events"
+   ],
+   "publication_date": "2026-05-26",
+   "publisher": "Business Standard",
+   "retrieved_date": "2026-09-14",
+   "tier": "T3",
+   "title": "Slice Small Finance Bank posts first-ever Rs 48.4 crore net profit in FY26",
+   "url": "https://www.business-standard.com/companies/news/slice-small-finance-bank-posts-first-ever-48-4-crore-net-profit-in-fy26-126052601757_1.html"
+  },
+  {
+   "claim_supported": "$450M valuation Sep 2026 round",
+   "fields_supported": [
+    "funding_rounds"
+   ],
+   "publisher": "Dealroom/News18",
+   "retrieved_date": "2026-09-14",
+   "tier": "T2",
+   "title": "Slice raises $100M at $450M valuation",
+   "url": "http://dealroom.co/news/148686-slice-raises-100m-at-450m-valuation-betting-on-banking-pivot"
+  },
+  {
+   "claim_supported": "founder raise $8.5M",
+   "fields_supported": [
+    "funding_rounds"
+   ],
+   "publication_date": "2024-10-17",
+   "publisher": "Economic Times",
+   "retrieved_date": "2026-09-14",
+   "tier": "T3",
+   "title": "Slice raises $8.5M from founder Rajan Bajaj",
+   "url": "https://m.economictimes.com/tech/funding/slice-raises-8-5-million-from-founder-rajan-bajaj/articleshow/114311542.cms"
+  },
+  {
+   "url": "https://www.livemint.com/companies/slice-posts-first-net-profit-appoints-founder-rajan-bajaj-ceo-after-rbi-approval-11771246279503.html",
+   "title": "Slice posts first net profit, appoints founder Rajan Bajaj CEO after RBI approval | Mint",
+   "tier": "T2",
+   "claim": "founder status Rajan Bajaj"
+  },
+  {
+   "url": "https://tracxn.com/d/companies/slice/__LbEhc2PUH7DQD8-Q4Qm4ZtTuXgWQcU679J2jsH1U_k4",
+   "title": "Slice - 2026 Company Profile - Tracxn",
+   "tier": "T2",
+   "claim": "founder status Deepak Malhotra"
+  }
+ ],
+ "startup_id": "slice",
+ "traction": [
+  {
+   "as_of": "2026-06",
+   "company_reported": true,
+   "confidence": "MEDIUM",
+   "metric": "loan book",
+   "period": "Q1 FY27",
+   "source_url": "https://www.cbinsights.com/company/slice",
+   "value": "Rs 5,098cr (+55% YoY)"
+  },
+  {
+   "as_of": "2026-06",
+   "company_reported": true,
+   "confidence": "MEDIUM",
+   "metric": "deposits",
+   "period": "Q1 FY27",
+   "source_url": "https://www.cbinsights.com/company/slice",
+   "value": "Rs 5,765cr"
+  },
+  {
+   "as_of": "2026",
+   "company_reported": true,
+   "confidence": "MEDIUM",
+   "metric": "registered users",
+   "period": "2026",
+   "source_url": "https://www.business-standard.com/companies/news/slice-small-finance-bank-posts-first-ever-48-4-crore-net-profit-in-fy26-126052601757_1.html",
+   "value": "20M+"
+  }
+ ],
+ "canonical_key": "slice",
+ "_merged_session2": true
+}

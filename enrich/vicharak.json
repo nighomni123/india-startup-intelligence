@@ -1,0 +1,448 @@
+{
+ "canonical_key": "vicharak",
+ "company": {
+  "company_name": "Vicharak",
+  "legal_name": "Vicharak Computers Pvt Ltd",
+  "aliases": [
+   "Vicharak.ai",
+   "VichariK",
+   "VicharIC"
+  ],
+  "website": "https://vicharak.in",
+  "website_src": "https://www.vicharak.in/",
+  "startup_stage": "Seed",
+  "status": "Active",
+  "public_private": "Private",
+  "country": "India",
+  "city": "Surat",
+  "state": "Gujarat",
+  "dpo_enabled": true,
+  "incorporation_date": "2023-12-05",
+  "founded_date": "2021",
+  "funding_2024": "₹1cr (~$120K) Seed @ ₹100cr",
+  "funding_2025": null,
+  "employee_band": "11-50",
+  "employee_estimate_date": "2024-2025",
+  "revenue_band_latest_fy": "0-₹10 Cr",
+  "revenue_latest_fy": null,
+  "revenue_fy": null,
+  "business_model": "B2B hardware + free software tools",
+  "primary_sector": "High Tech / Edge Computing",
+  "sector_secondary": "Deep Tech / AI Hardware",
+  "subvertical": "Reconfigurable Computing / FPGA Edge AI",
+  "description": "Deep-tech startup building reconfigurable computing platforms: Vaaman (ARM+FPGA edge computer), Axon (AI SBC), Periplex (JSON-to-hardware), Gati (AI-to-FPGA). Overcomes CPU limits via reconfigurable computing.",
+  "esop": true,
+  "growth_probability": "MEDIUM",
+  "notes": "DPIIT-registered. Founded by Akshar Vastarpara. LLP (ABC-7975) Oct 2022, converted to Pvt Ltd Dec 2023.",
+  "cin": {
+   "v": "U46593GJ2023PTC146695",
+   "conf": "MED",
+   "src": "https://www.thecompanycheck.com/company/vicharak-computers-private-limited/U46593GJ2023PTC146695"
+  },
+  "official_website": {
+   "v": "https://vicharak.in",
+   "conf": "high",
+   "src": "https://vicharak.in",
+   "note": "verified live 2026-09-15: name match on own homepage"
+  },
+  "careers_website": {
+   "v": "https://vicharak.in/careers/",
+   "conf": "high",
+   "src": "https://vicharak.in",
+   "note": "playwright render 2026-09-15"
+  }
+ },
+ "funding_rounds": [
+  {
+   "round_id": "seed-2024-06-25",
+   "round_type": "Seed",
+   "announced_date": "2024-06-25",
+   "round_date": "2024-06-25",
+   "amount": 119764,
+   "currency": "USD",
+   "amount_inr_mn": 1.0,
+   "valuation": 11976400,
+   "valuation_type": "Post-money",
+   "valuation_inr": "₹100cr",
+   "lead_investors": [
+    "Agri Business Incubation Foundation IIT Kharagpur",
+    "ITEL Foundation"
+   ],
+   "all_investors": [
+    "Agri Business Incubation Foundation IIT Kharagpur",
+    "ITEL Foundation"
+   ],
+   "purpose": "Product development",
+   "source_url": "https://www.thestartupspectrum.com/vicharak-secures-%E2%82%B91-crore-funding-at-%E2%82%B9100-crore-valuation",
+   "source_title": "Vicharak Secures ₹1 Crore Funding at ₹100 Crore Valuation",
+   "source_date": "2024-06-25",
+   "tier": "T3",
+   "confidence": "MEDIUM",
+   "notes": "PitchBook also lists $278K accelerator deal Jan 2026"
+  }
+ ],
+ "founders": [
+  {
+   "name": "Akshar Vastarpara",
+   "role": "Founder & CEO",
+   "source_url": "https://www.thestartupspectrum.com/vicharak-secures-%E2%82%B91-crore-funding-at-%E2%82%B9100-crore-valuation",
+   "confidence": "HIGH"
+  }
+ ],
+ "investor_links": [
+  {
+   "investor": "Agri Business Incubation Foundation IIT Kharagpur",
+   "investor_type": "Incubator/Foundation",
+   "first_seen": "2024-06-25",
+   "rounds": [
+    "Seed"
+   ],
+   "lead": true,
+   "amount": null,
+   "source_url": "https://pitchbook.com/profiles/company/510342-58",
+   "confidence": "MEDIUM"
+  },
+  {
+   "investor": "ITEL Foundation",
+   "investor_type": "Foundation",
+   "first_seen": "2024-06-25",
+   "rounds": [
+    "Seed"
+   ],
+   "lead": false,
+   "amount": null,
+   "source_url": "https://pitchbook.com/profiles/company/510342-58",
+   "confidence": "MEDIUM"
+  }
+ ],
+ "acquisitions": [],
+ "partnerships": [
+  {
+   "partner": "Crowd Supply",
+   "type": "Crowdfunding platform",
+   "source_url": "https://www.crowdsupply.com/vicharak/vaaman",
+   "confidence": "HIGH"
+  }
+ ],
+ "products": [
+  {
+   "product_id": "vaaman",
+   "name": "Vaaman",
+   "category": "Reconfigurable Edge Computer",
+   "description": "Six-core ARM CPU (RK3399) + Efinix Trion T120 FPGA, 112,128 logic cells",
+   "b2b_b2c": "B2B+B2C",
+   "pricing_model": "~$180-212",
+   "launch_date": "2024-03",
+   "status": "Available",
+   "source_url": "https://www.crowdsupply.com/vicharak/vaaman",
+   "confidence": "HIGH"
+  },
+  {
+   "product_id": "axon",
+   "name": "Axon",
+   "category": "AI Single Board Computer",
+   "description": "8-core ARM CPU (RK3588), Mali-G610 GPU, NPU, up to 16GB RAM",
+   "b2b_b2c": "B2B+B2C",
+   "pricing_model": "Hardware sales",
+   "launch_date": "2024-2025",
+   "status": "Available",
+   "source_url": "https://vicharak.in/axon",
+   "confidence": "HIGH"
+  },
+  {
+   "product_id": "periplex",
+   "name": "Periplex",
+   "category": "Software Tool",
+   "description": "Converts JSON to hardware interfaces; auto-generates FPGA bitstreams",
+   "b2b_b2c": "B2B",
+   "pricing_model": "Free",
+   "launch_date": "2024",
+   "status": "Available",
+   "source_url": "https://www.vicharak.in/",
+   "confidence": "HIGH"
+  },
+  {
+   "product_id": "gati",
+   "name": "Gati",
+   "category": "Software Toolchain",
+   "description": "Transforms ONNX AI models to FPGA-executable logic without RTL",
+   "b2b_b2c": "B2B",
+   "pricing_model": "Open-source",
+   "launch_date": "2024",
+   "status": "Available",
+   "source_url": "https://github.com/vicharak-in/gati_platform",
+   "confidence": "HIGH"
+  }
+ ],
+ "competitors": [
+  {
+   "name": "Raspberry Pi",
+   "category": "Single-board computers",
+   "basis": "explicit",
+   "source_url": "https://tracxn.com/d/companies/vicharak/__eC-KgRAFAEhPOK892V2jR1i6eCqLKC6hPw9qKuNecLg",
+   "confidence": "HIGH"
+  }
+ ],
+ "traction": [
+  {
+   "metric": "Crowd Supply funding",
+   "value": "$2,838 (101% of $2,800 goal)",
+   "period": "2025",
+   "as_of": "2025-03-27",
+   "source_url": "https://www.crowdsupply.com/vicharak/vaaman",
+   "company_reported": true,
+   "confidence": "HIGH"
+  },
+  {
+   "metric": "DPIIT Recognition",
+   "value": "Recognized Startup",
+   "period": "2024",
+   "as_of": "2024-06-25",
+   "source_url": "https://platform.tracxn.com/a/d/company/57bfdc5ee4b01bb0b87c8a4a/vicharak",
+   "company_reported": false,
+   "confidence": "HIGH"
+  }
+ ],
+ "legal": [
+  {
+   "type": "Incorporation",
+   "regulator": "ROC Ahmedabad",
+   "summary": "CIN U46593GJ2023PTC146695, incorporated 05 Dec 2023. ₹16L authorized, ₹15.78L paid-up. Directors: Kashyap Prabhubhai Sojitra, Aksharkumar Vastarapara, Sagar Kakadia.",
+   "dates": "2023-12-05",
+   "status": "Active",
+   "source_url": "https://www.thecompanycheck.com/company/vicharak-computers-private-limited/U46593GJ2023PTC146695",
+   "confidence": "HIGH"
+  }
+ ],
+ "events": [
+  {
+   "date": "2024-03",
+   "type": "Product Launch",
+   "headline": "Vaaman edge computing board launched",
+   "description": "Started shipping Vaaman to beta testers",
+   "source_url": "https://swarajyamag.com/technology/innovation-at-the-edge-hardware-startup-from-surat-pioneers-the-reconfigurable-edge-computer-and-reshapes-computing-as-we-know-it",
+   "confidence": "HIGH"
+  },
+  {
+   "date": "2024-06-25",
+   "type": "Funding",
+   "headline": "Vicharak Secures ₹1 Crore Funding at ₹100 Crore Valuation",
+   "description": "Seed funding round announced",
+   "source_url": "https://www.thestartupspectrum.com/vicharak-secures-%E2%82%B91-crore-funding-at-%E2%82%B9100-crore-valuation",
+   "confidence": "HIGH"
+  },
+  {
+   "date": "2025-03-27",
+   "type": "Crowdfunding",
+   "headline": "Vaaman Crowd Supply campaign funded",
+   "description": "Raised $2,838 (101% of goal)",
+   "source_url": "https://www.crowdsupply.com/vicharak/vaaman",
+   "confidence": "HIGH"
+  }
+ ],
+ "locations": [
+  {
+   "type": "HQ",
+   "address_or_area": "T-18, Shree Nilkanth Business Hub, Causeway Road",
+   "city": "Surat",
+   "state": "Gujarat",
+   "country": "India",
+   "as_of": "2024",
+   "source_url": "https://www.thecompanycheck.com/company/vicharak-computers-private-limited/U46593GJ2023PTC146695",
+   "confidence": "HIGH"
+  }
+ ],
+ "hiring": [],
+ "financials": [
+  {
+   "fiscal_year": "FY2024",
+   "metric": "Funding Raised",
+   "value": 119764,
+   "unit": "USD",
+   "currency": "USD",
+   "value_type": "press-quoted-filing",
+   "source_url": "https://www.thestartupspectrum.com/vicharak-secures-%E2%82%B91-crore-funding-at-%E2%82%B9100-crore-valuation",
+   "source_title": "Startup Spectrum",
+   "publication_date": "2024-06-25",
+   "confidence": "HIGH"
+  }
+ ],
+ "sources": [
+  {
+   "url": "https://tracxn.com/d/companies/vicharak/__eC-KgRAFAEhPOK892V2jR1i6eCqLKC6hPw9qKuNecLg",
+   "title": "Vicharak - 2025 Company Profile - Tracxn",
+   "publisher": "Tracxn",
+   "publication_date": "2025-11-03",
+   "retrieved_date": "2026-09-15",
+   "tier": "T2",
+   "claim": "Company profile, funding, founders",
+   "supports_fields": [
+    "company_name",
+    "founded_date",
+    "location",
+    "funding_rounds",
+    "founders"
+   ],
+   "confidence": "HIGH"
+  },
+  {
+   "url": "https://www.thestartupspectrum.com/vicharak-secures-%E2%82%B91-crore-funding-at-%E2%82%B9100-crore-valuation",
+   "title": "Vicharak Secures ₹1 Crore Funding at ₹100 Crore Valuation",
+   "publisher": "Startup Spectrum",
+   "publication_date": "2024-06-25",
+   "retrieved_date": "2026-09-15",
+   "tier": "T3",
+   "claim": "Funding amount and valuation",
+   "supports_fields": [
+    "funding_rounds",
+    "valuation"
+   ],
+   "confidence": "HIGH"
+  },
+  {
+   "url": "https://swarajyamag.com/technology/innovation-at-the-edge-hardware-startup-from-surat-pioneers-the-reconfigurable-edge-computer-and-reshapes-computing-as-we-know-it",
+   "title": "Innovation At The Edge: Hardware Startup From Surat",
+   "publisher": "Swarajya",
+   "publication_date": "2024-05-25",
+   "retrieved_date": "2026-09-15",
+   "tier": "T3",
+   "claim": "Product details, founder interview",
+   "supports_fields": [
+    "products",
+    "founders",
+    "description"
+   ],
+   "confidence": "HIGH"
+  },
+  {
+   "url": "https://www.vicharak.in/",
+   "title": "Vicharak Official Website",
+   "publisher": "Vicharak",
+   "publication_date": "2024",
+   "retrieved_date": "2026-09-15",
+   "tier": "T1",
+   "claim": "Company description, products",
+   "supports_fields": [
+    "company_name",
+    "website",
+    "products"
+   ],
+   "confidence": "HIGH"
+  },
+  {
+   "url": "https://www.thecompanycheck.com/company/vicharak-computers-private-limited/U46593GJ2023PTC146695",
+   "title": "Vicharak Computers Pvt Ltd - Company Details",
+   "publisher": "The Company Check",
+   "publication_date": "2023",
+   "retrieved_date": "2026-09-15",
+   "tier": "T2",
+   "claim": "CIN, incorporation date, directors",
+   "supports_fields": [
+    "incorporation_date",
+    "legal_name",
+    "locations"
+   ],
+   "confidence": "HIGH"
+  },
+  {
+   "url": "https://www.crowdsupply.com/vicharak/vaaman",
+   "title": "Vaaman | Crowd Supply",
+   "publisher": "Crowd Supply",
+   "publication_date": "2025-03-27",
+   "retrieved_date": "2026-09-15",
+   "tier": "T3",
+   "claim": "Vaaman crowdfunding details",
+   "supports_fields": [
+    "products",
+    "traction"
+   ],
+   "confidence": "HIGH"
+  },
+  {
+   "url": "https://pitchbook.com/profiles/company/510342-58",
+   "title": "Vicharak 2026 Company Profile - PitchBook",
+   "publisher": "PitchBook",
+   "publication_date": "2026",
+   "retrieved_date": "2026-09-15",
+   "tier": "T2",
+   "claim": "Investors, funding history",
+   "supports_fields": [
+    "investor_links",
+    "funding_rounds"
+   ],
+   "confidence": "MEDIUM"
+  }
+ ],
+ "conflicts": [
+  {
+   "field": "employee_count",
+   "claim_a": "48 (PitchBook)",
+   "url_a": "https://pitchbook.com/profiles/company/510342-58",
+   "claim_b": "85 (Tracxn)",
+   "url_b": "https://platform.tracxn.com/a/d/company/57bfdc5ee4b01bb0b87c8a4a/vicharak",
+   "resolution": "Range 48-85 depending on timing",
+   "resolved_value": "48-85"
+  },
+  {
+   "field": "funding_amount",
+   "claim_a": "$120K seed (Tracxn)",
+   "url_a": "https://pitchbook.com/profiles/company/510342-58",
+   "claim_b": "$278K accelerator + $120K = $398K total (PitchBook)",
+   "resolution": "Seed round $120K; additional accelerator funding Jan 2026",
+   "resolved_value": "$120K seed + accelerator"
+  }
+ ],
+ "gaps": [
+  "No precise revenue figures",
+  "Investor details beyond 2 names not confirmed",
+  "No detailed financial statements",
+  "No patent/trademark filings found",
+  "No 2025-2026 funding round confirmed",
+  "Customer list not public",
+  "ESOP details unavailable",
+  "Exact employee count varies"
+ ],
+ "research_log": [
+  {
+   "date": "2026-09-15",
+   "query": "Vicharik startup India",
+   "found": "Found Vicharak - Indian deep-tech hardware startup in Surat, Gujarat",
+   "unresolved": "Name spelling: user asked Vicharik, company is Vicharak",
+   "next_action": "Confirm Vicharak is target"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Vicharak funding seed 2024",
+   "found": "₹1cr seed at ₹100cr valuation Jun 2024",
+   "unresolved": "Investor details limited",
+   "next_action": "Verify additional funding"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Vicharak founder Akshar Vastarpara",
+   "found": "Founder & CEO; previously co-founded KCK PCB",
+   "unresolved": "Education details limited",
+   "next_action": "Verify background"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Vicharak products Vaaman Axon",
+   "found": "Vaaman, Axon, Periplex, Gati products confirmed",
+   "unresolved": "Some product launch dates unclear",
+   "next_action": "Verify timeline"
+  }
+ ],
+ "completeness_self": {
+  "identity": 9,
+  "founders": 7,
+  "funding": 6,
+  "investors": 5,
+  "financials": 4,
+  "products": 8,
+  "traction": 6,
+  "people": 5,
+  "customers": 3,
+  "legal": 8,
+  "sources": 9
+ }
+}

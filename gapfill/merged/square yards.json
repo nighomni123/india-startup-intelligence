@@ -1,0 +1,47 @@
+{
+ "canonical_key": "square yards",
+ "updates": {
+  "company": {
+   "cin": "U74140DL2012PTC245407",
+   "incorporation_date": "2012-11-29",
+   "legal_name": "Square Yards Consulting Private Limited"
+  }
+ },
+ "sources": [
+  {
+   "url": "https://www.tofler.in/square-yards-consulting-private-limited/company/U74140DL2012PTC245407",
+   "title": "Square Yards Consulting Financials | Company Details",
+   "publication_date": "n.d.",
+   "fields": [
+    "cin"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "url": "https://www.instafinancials.com",
+   "title": "SQUARE YARDS CONSULTING PRIVATE LIMITED — InstaFinancials profile",
+   "publication_date": "n.d.",
+   "fields": [
+    "incorporation_date"
+   ],
+   "confidence": "medium"
+  }
+ ],
+ "log": [
+  {
+   "query": "Square Yards Consulting Private Limited CIN Tofler",
+   "found": "CIN U74140DL2012PTC245407 via Tofler + Tracxn cross-confirm",
+   "unresolved": ""
+  },
+  {
+   "query": "Square Yards Consulting incorporation date 2012 ZaubaCorp",
+   "found": "incorporated 29 Nov 2012 via Tracxn/InstaFinancials",
+   "unresolved": "exact ZaubaCorp page not in top results; date cross-confirmed by two aggregators"
+  }
+ ],
+ "still_missing": [
+  "registered_office full address",
+  "FY25/FY26 filing financials",
+  "round dates/valuations beyond enrich file"
+ ]
+}

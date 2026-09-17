@@ -1,0 +1,1423 @@
+{
+ "acquisitions": [
+  {
+   "confidence": "HIGH",
+   "date": "2024-09-12",
+   "direction": "made",
+   "disclosed": true,
+   "rationale": "Earned-wage-access expansion; Jify shareholders got ~60.2 lakh Moneyview shares (~$4M); deal valued Moneyview ~Rs 10,000 cr ($1.2B) = unicorn",
+   "source_url": "https://www.cnbctv18.com/business/moneyview-turns-unicorn-after-acquiring-jify-in-a-share-swap-deal-19475891.htm",
+   "target": "Jify (share swap, no fresh capital)",
+   "type": "acqui-hire / product acquisition",
+   "counterparty": "Jify",
+   "value": "~$4M (60.2 lakh Moneyview shares)"
+  }
+ ],
+ "company": {
+  "business_model": "LSP + NBFC subsidiary (Whizdm Finance); fees/commissions + DLG-supported disbursals",
+  "city": "Bengaluru",
+  "country": "India",
+  "customer_type": "B2C (thin-file, tier-2/3 borrowers)",
+  "employee_estimate": 718,
+  "employee_estimate_date": "2025-05-31",
+  "founded_date": "2014",
+  "incorporation_date": "UNKNOWN",
+  "legal_name": "Moneyview Limited (ex-Whizdm Innovations Pvt Ltd; public company since Jun 2025)",
+  "notes": "Seed city/stage verified: Bengaluru unicorn since Sep 2024. DRHP filed Mar 2026 (Rs 1500cr fresh + 13.6cr share OFS); SEBI approval reported Jul 2026.",
+  "primary_sector": "fintech / digital lending",
+  "secondary_sectors": [
+   "credit cards",
+   "insurance",
+   "digital gold",
+   "UPI"
+  ],
+  "startup_id": "moneyview",
+  "startup_stage": "Unicorn, IPO-bound (DRHP filed)",
+  "status": "active",
+  "website": "https://moneyview.in",
+  "official_website": {
+   "v": "https://moneyview.in",
+   "conf": "high",
+   "src": "https://moneyview.in",
+   "note": "verified live 2026-09-15: name match on own homepage"
+  },
+  "careers_website": {
+   "v": "https://moneyview.in/careers",
+   "conf": "high",
+   "src": "https://moneyview.in",
+   "note": "careers link found on official homepage, probed live"
+  }
+ },
+ "completeness_self": {
+  "customers": 7,
+  "financials": 9,
+  "founders": 9,
+  "funding": 8,
+  "identity": 9,
+  "investors": 8,
+  "legal": 5,
+  "people": 4,
+  "products": 8,
+  "sources": 9,
+  "traction": 9
+ },
+ "conflicts": [
+  {
+   "claim_a": "FY25 PAT Rs 240.3cr (Inc42, +40% from 171.1cr)",
+   "claim_b": "FY25 net profit Rs 240cr; 9M-FY26 profit Rs 209.7-245cr variants across outlets",
+   "field": "FY25 profit",
+   "resolution": "Use Rs 240.3cr operating-basis (Inc42) as primary; 9M figures differ by exceptional-item treatment — noted not averaged",
+   "resolved_value": "FY25 PAT Rs 240.3cr",
+   "url_a": "https://inc42.com/buzz/fintech-unicorn-moneyviews-fy25-profit-surges-40-to-inr-240-cr",
+   "url_b": "DRHP-based reports Mar 2026"
+  },
+  {
+   "field": "quarantined-claim",
+   "claim_a": "DRHP-based reporting Mar 2026 125.5M registered users, ~10M monetised; 42 bank/NBFC partners (Dec 2025)",
+   "claim_b": "DRHP-based CNBC TV18 Mar 4 2026: over 125M users; partners with 22 regulated entities incl Whizdm Finance — partner coun",
+   "url_a": "https://www.cnbctv18.com/market/moneyview-plans-rs-1500-crore-ipo-early-investors-to-pare-stake-via-13-6-crore-share-ofs-ws-l-19862197.htm",
+   "url_b": "https://www.cnbctv18.com/market/moneyview-plans-rs-1500-crore-ipo-early-investors-to-pare-stake-via-13-6-crore-share-ofs-ws-l-19862197.htm",
+   "resolution": "Q-wave source hunt: contradicted"
+  }
+ ],
+ "customers": [
+  {
+   "name": "125.5M registered users, ~10M monetised; 42 bank/NBFC partners (Dec 2025)",
+   "source_url": "DRHP-based reporting Mar 2026",
+   "status": "active",
+   "type": "consumer"
+  }
+ ],
+ "events": [
+  {
+   "announced_date": "2022-12-26",
+   "confidence": "HIGH",
+   "date": "2022-12-26",
+   "description": "$75M led Apis Partners; Tiger Global, Winter Capital, Evolvence; $900M valuation; $1.2B disbursal run-rate, $800M AUM managed",
+   "headline": "$75M Series E at $900M valuation",
+   "source_url": "https://m.economictimes.com/tech/funding/fintech-firm-money-view-raises-75-million-in-funding-to-scale-core-credit-business/articleshow/96510953.cms",
+   "type": "funding"
+  },
+  {
+   "announced_date": "2024-09-12",
+   "confidence": "HIGH",
+   "date": "2024-09-12",
+   "description": "Share-swap acquisition of Jify; Moneyview valued ~$1.2B = unicorn; no fresh capital",
+   "headline": "Jify acquisition; unicorn status",
+   "source_url": "https://m.economictimes.com/tech/startups/fintech-lending-platform-moneyview-acquires-fintech-startup-jify-attains-unicorn-status/articleshow/113299253.cms",
+   "type": "acquisition"
+  },
+  {
+   "announced_date": "2026-03-03",
+   "confidence": "HIGH",
+   "date": "2026-03-03",
+   "description": "DRHP: Rs 1500cr fresh (Rs 650cr DLG, Rs 450cr Whizdm Finance) + 13.6cr share OFS (Accel largest seller, 21.9% stake)",
+   "headline": "DRHP filed with SEBI",
+   "source_url": "https://www.thehindubusinessline.com/markets/moneyview-limited-files-drhp-for-1500-crore-ipo/article70704279.ece",
+   "type": "ipo_filing"
+  }
+ ],
+ "financials": [
+  {
+   "confidence": "HIGH",
+   "currency": "INR",
+   "fiscal_year": "FY25",
+   "metric": "revenue_from_operations",
+   "source_title": "Moneyview's FY25 Profit Surges 40%",
+   "source_url": "https://inc42.com/buzz/fintech-unicorn-moneyviews-fy25-profit-surges-40-to-inr-240-cr",
+   "value": 2339.1,
+   "value_type": "audited",
+   "unit": "crore"
+  },
+  {
+   "confidence": "HIGH",
+   "currency": "INR",
+   "fiscal_year": "FY25",
+   "metric": "PAT",
+   "source_title": "Moneyview's FY25 Profit Surges 40%",
+   "source_url": "https://inc42.com/buzz/fintech-unicorn-moneyviews-fy25-profit-surges-40-to-inr-240-cr",
+   "value": 240.3,
+   "value_type": "audited",
+   "unit": "crore"
+  },
+  {
+   "confidence": "MEDIUM",
+   "currency": "INR",
+   "fiscal_year": "FY25",
+   "metric": "loan_disbursals",
+   "source_title": "DRHP reporting",
+   "source_url": "https://www.thehindubusinessline.com/markets/moneyview-limited-files-drhp-for-1500-crore-ipo/article70704279.ece",
+   "value": 17621,
+   "value_type": "management",
+   "unit": "crore"
+  },
+  {
+   "confidence": "MEDIUM",
+   "currency": "INR",
+   "fiscal_year": "FY25",
+   "metric": "AUM (Dec 2025)",
+   "source_title": "DRHP reporting",
+   "source_url": "https://www.thehindubusinessline.com/markets/moneyview-limited-files-drhp-for-1500-crore-ipo/article70704279.ece",
+   "value": 19814,
+   "value_type": "management",
+   "unit": "crore"
+  }
+ ],
+ "founders": [
+  {
+   "background": "IIT Delhi; ex-Microsoft; CEO/MD",
+   "confidence": "HIGH",
+   "education": "IIT Delhi",
+   "name": "Puneet Agarwal",
+   "role": "MD & CEO",
+   "source_url": "https://www.thehindubusinessline.com/markets/moneyview-limited-files-drhp-for-1500-crore-ipo/article70704279.ece",
+   "still_active": true,
+   "type": "founder",
+   "active": "yes — co-founder, managing director and CEO",
+   "location": "Bengaluru",
+   "linkedin": "https://in.linkedin.com/in/puneetagarwalindia"
+  },
+  {
+   "background": "IIT Delhi; technology leader; Executive Director & CTO",
+   "confidence": "HIGH",
+   "education": "IIT Delhi",
+   "name": "Sanjay Aggarwal",
+   "role": "Executive Director & CTO",
+   "source_url": "https://www.thehindubusinessline.com/markets/moneyview-limited-files-drhp-for-1500-crore-ipo/article70704279.ece",
+   "still_active": true,
+   "type": "founder"
+  }
+ ],
+ "funding_rounds": [
+  {
+   "all_investors": [
+    "Apis Partners",
+    "Tiger Global",
+    "Winter Capital",
+    "Evolvence"
+   ],
+   "amount": 75000000,
+   "announced_date": "2022-12-26",
+   "confidence": "HIGH",
+   "currency": "USD",
+   "lead_investors": [
+    "Apis Partners"
+   ],
+   "round_date": "2022-12-26",
+   "round_type": "Series E",
+   "source_date": "2022-12-26",
+   "source_title": "Money View raises $75 million led by Apis Partners, valuation jumps to $900 million",
+   "source_url": "https://m.economictimes.com/tech/funding/fintech-firm-money-view-raises-75-million-in-funding-to-scale-core-credit-business/articleshow/96510953.cms",
+   "tier": "T3",
+   "valuation": "$900M post-money",
+   "valuation_type": "post-money"
+  },
+  {
+   "all_investors": [
+    "Accel",
+    "Nexus Venture Partners"
+   ],
+   "amount": 4650000,
+   "announced_date": "2024-09-12",
+   "confidence": "MEDIUM",
+   "currency": "USD",
+   "lead_investors": [
+    "Accel",
+    "Nexus Venture Partners"
+   ],
+   "notes": "Tracxn-recorded Series E top-up alongside Jify share-swap unicorn event; primary evidence weaker — treat as reported",
+   "round_date": "2024-09-12",
+   "round_type": "Series E-II",
+   "source_date": "2025-11-28",
+   "source_title": "Tracxn Money View profile",
+   "source_url": "https://tracxn.com/d/companies/money-view/__NRQRmOVRDpuHzMRCzk3qauzM76P31UNYUzYAnXXZSD0",
+   "tier": "T2",
+   "valuation": "~$1.2B (via Jify swap, ET)",
+   "valuation_type": "post-money"
+  },
+  {
+   "all_investors": [
+    "RevX Capital",
+    "Motilal Oswal"
+   ],
+   "amount": 11400000,
+   "announced_date": "2025-11-27",
+   "confidence": "MEDIUM",
+   "currency": "USD",
+   "lead_investors": [
+    "RevX Capital"
+   ],
+   "round_date": "2025-11-27",
+   "round_type": "Debt (conventional)",
+   "source_date": "2025-11-28",
+   "source_title": "Tracxn Money View profile",
+   "source_url": "https://tracxn.com/d/companies/money-view/__NRQRmOVRDpuHzMRCzk3qauzM76P31UNYUzYAnXXZSD0",
+   "tier": "T2"
+  }
+ ],
+ "gaps": [
+  "CIN/MCA audited filing not directly fetched; FY figures via Inc42/DRHP reporting",
+  "Full round-by-round history (Series A-D amounts) not fully reconstructed",
+  "Pre-IPO placement Rs 300cr possibility unresolved"
+ ],
+ "investor_links": [
+  {
+   "confidence": "HIGH",
+   "first_seen": "2014",
+   "investor": "Accel",
+   "investor_type": "VC",
+   "lead": false,
+   "notes": "Largest shareholder 21.9%; largest OFS seller",
+   "rounds": [
+    "Seed+",
+    "Series E-II"
+   ],
+   "source_url": "https://www.thehindubusinessline.com/markets/moneyview-limited-files-drhp-for-1500-crore-ipo/article70704279.ece"
+  },
+  {
+   "confidence": "HIGH",
+   "first_seen": "2022",
+   "investor": "Apis Partners",
+   "investor_type": "PE",
+   "lead": true,
+   "rounds": [
+    "Series E"
+   ],
+   "source_url": "https://m.economictimes.com/tech/funding/fintech-firm-money-view-raises-75-million-in-funding-to-scale-core-credit-business/articleshow/96510953.cms"
+  },
+  {
+   "confidence": "HIGH",
+   "first_seen": "2015",
+   "investor": "Tiger Global",
+   "investor_type": "VC",
+   "lead": false,
+   "rounds": [
+    "Series D",
+    "Series E"
+   ],
+   "source_url": "https://m.economictimes.com/tech/funding/fintech-firm-money-view-raises-75-million-in-funding-to-scale-core-credit-business/articleshow/96510953.cms"
+  },
+  {
+   "confidence": "MEDIUM",
+   "first_seen": "2019",
+   "investor": "Ribbit Capital",
+   "investor_type": "VC",
+   "lead": false,
+   "rounds": [
+    "Series C+"
+   ],
+   "source_url": "https://www.thehindubusinessline.com/markets/moneyview-limited-files-drhp-for-1500-crore-ipo/article70704279.ece"
+  }
+ ],
+ "investors_meta": [],
+ "locations": [
+  {
+   "address_or_area": "Marathahalli, Outer Ring Road",
+   "as_of": "2025",
+   "city": "Bengaluru",
+   "confidence": "MEDIUM",
+   "source_url": "Tracxn profile",
+   "state": "Karnataka",
+   "type": "registered"
+  }
+ ],
+ "products": [
+  {
+   "category": "digital personal loans (flagship since 2017)",
+   "description": "Personal/home loans, credit cards, credit score, insurance, digital gold, UPI, earned-wage access",
+   "name": "Moneyview App",
+   "status": "active"
+  }
+ ],
+ "research_log": [
+  {
+   "found": "Series E $75M 2022; Jify unicorn Sep 2024; FY25 rev 2339cr/PAT 240cr; DRHP Mar 2026 Rs 1500cr + 13.6cr OFS",
+   "next_action": "Fetch DRHP PDF for cap table if deeper work needed",
+   "query": "Moneyview funding / FY25 / DRHP / founders",
+   "unresolved": "Early round amounts; CIN"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "Q-wave claim source-hunt",
+   "found": "2 resolved",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  }
+ ],
+ "sources": [
+  {
+   "fields_supported": [
+    "funding",
+    "valuation"
+   ],
+   "publication_date": "2022-12-26",
+   "publisher": "Economic Times",
+   "retrieved_date": "2026-09-14",
+   "tier": "T3",
+   "title": "Money View raises $75 million led by Apis Partners, valuation jumps to $900 million",
+   "url": "https://m.economictimes.com/tech/funding/fintech-firm-money-view-raises-75-million-in-funding-to-scale-core-credit-business/articleshow/96510953.cms"
+  },
+  {
+   "fields_supported": [
+    "acquisition",
+    "valuation"
+   ],
+   "publication_date": "2024-09-12",
+   "publisher": "Economic Times",
+   "retrieved_date": "2026-09-14",
+   "tier": "T3",
+   "title": "Moneyview acquires Jify; attains unicorn status",
+   "url": "https://m.economictimes.com/tech/startups/fintech-lending-platform-moneyview-acquires-fintech-startup-jify-attains-unicorn-status/articleshow/113299253.cms"
+  },
+  {
+   "fields_supported": [
+    "financials"
+   ],
+   "publication_date": "2025-11-06",
+   "publisher": "Inc42",
+   "retrieved_date": "2026-09-14",
+   "tier": "T3",
+   "title": "Moneyview's FY25 Profit Surges 40% To INR 240 Cr",
+   "url": "https://inc42.com/buzz/fintech-unicorn-moneyviews-fy25-profit-surges-40-to-inr-240-cr"
+  },
+  {
+   "fields_supported": [
+    "ipo",
+    "financials",
+    "founders"
+   ],
+   "publication_date": "2026-03-04",
+   "publisher": "Hindu BusinessLine",
+   "retrieved_date": "2026-09-14",
+   "tier": "T3",
+   "title": "Moneyview Limited files DRHP for Rs 1,500 crore IPO",
+   "url": "https://www.thehindubusinessline.com/markets/moneyview-limited-files-drhp-for-1500-crore-ipo/article70704279.ece"
+  },
+  {
+   "url": "https://www.cnbctv18.com/market/moneyview-plans-rs-1500-crore-ipo-early-investors-to-pare-stake-via-13-6-crore-share-ofs-ws-l-19862197.htm",
+   "title": "DRHP-based reporting Mar 2026 125.5M registered users, ~10M monetised; 42 bank/NBFC partners (Dec 2025)",
+   "fields": "quarantine-contradiction",
+   "confidence": "MEDIUM"
+  },
+  {
+   "url": "https://www.cnbctv18.com/business/moneyview-turns-unicorn-after-acquiring-jify-in-a-share-swap-deal-19475891.htm",
+   "title": "Moneyview turns unicorn after acquiring Jify in a share swap deal",
+   "tier": "T2",
+   "claim": "acquisition Jify (share swap, no fresh capital)"
+  },
+  {
+   "url": "https://in.linkedin.com/in/puneetagarwalindia",
+   "title": "Puneet Agarwal - Moneyview - LinkedIn",
+   "tier": "T2",
+   "claim": "founder status Puneet Agarwal"
+  },
+  {
+   "url": "https://www.cnbctv18.com/business/moneyview-turns-unicorn-after-acquiring-jify-in-a-share-swap-deal-19475891.htm",
+   "title": "Moneyview turns unicorn after acquiring Jify in a share swap deal",
+   "tier": "T2",
+   "claim": "acquisition Jify (share swap, no fresh capital)"
+  },
+  {
+   "url": "https://www.cnbctv18.com/business/moneyview-turns-unicorn-after-acquiring-jify-in-a-share-swap-deal-19475891.htm",
+   "title": "Moneyview turns unicorn after acquiring Jify in a share swap deal",
+   "tier": "T2",
+   "claim": "acquisition Jify (share swap, no fresh capital)"
+  },
+  {
+   "url": "https://www.cnbctv18.com/business/moneyview-turns-unicorn-after-acquiring-jify-in-a-share-swap-deal-19475891.htm",
+   "title": "Moneyview turns unicorn after acquiring Jify in a share swap deal",
+   "tier": "T2",
+   "claim": "acquisition Jify (share swap, no fresh capital)"
+  },
+  {
+   "url": "https://www.cnbctv18.com/business/moneyview-turns-unicorn-after-acquiring-jify-in-a-share-swap-deal-19475891.htm",
+   "title": "Moneyview turns unicorn after acquiring Jify in a share swap deal",
+   "tier": "T2",
+   "claim": "acquisition Jify (share swap, no fresh capital)"
+  },
+  {
+   "url": "https://www.cnbctv18.com/business/moneyview-turns-unicorn-after-acquiring-jify-in-a-share-swap-deal-19475891.htm",
+   "title": "Moneyview turns unicorn after acquiring Jify in a share swap deal",
+   "tier": "T2",
+   "claim": "acquisition Jify (share swap, no fresh capital)"
+  },
+  {
+   "url": "https://www.cnbctv18.com/business/moneyview-turns-unicorn-after-acquiring-jify-in-a-share-swap-deal-19475891.htm",
+   "title": "Moneyview turns unicorn after acquiring Jify in a share swap deal",
+   "tier": "T2",
+   "claim": "acquisition Jify (share swap, no fresh capital)"
+  },
+  {
+   "url": "https://www.cnbctv18.com/business/moneyview-turns-unicorn-after-acquiring-jify-in-a-share-swap-deal-19475891.htm",
+   "title": "Moneyview turns unicorn after acquiring Jify in a share swap deal",
+   "tier": "T2",
+   "claim": "acquisition Jify (share swap, no fresh capital)"
+  },
+  {
+   "url": "https://www.cnbctv18.com/business/moneyview-turns-unicorn-after-acquiring-jify-in-a-share-swap-deal-19475891.htm",
+   "title": "Moneyview turns unicorn after acquiring Jify in a share swap deal",
+   "tier": "T2",
+   "claim": "acquisition Jify (share swap, no fresh capital)"
+  },
+  {
+   "url": "https://www.cnbctv18.com/business/moneyview-turns-unicorn-after-acquiring-jify-in-a-share-swap-deal-19475891.htm",
+   "title": "Moneyview turns unicorn after acquiring Jify in a share swap deal",
+   "tier": "T2",
+   "claim": "acquisition Jify (share swap, no fresh capital)"
+  },
+  {
+   "url": "https://www.cnbctv18.com/business/moneyview-turns-unicorn-after-acquiring-jify-in-a-share-swap-deal-19475891.htm",
+   "title": "Moneyview turns unicorn after acquiring Jify in a share swap deal",
+   "tier": "T2",
+   "claim": "acquisition Jify (share swap, no fresh capital)"
+  },
+  {
+   "url": "https://www.cnbctv18.com/business/moneyview-turns-unicorn-after-acquiring-jify-in-a-share-swap-deal-19475891.htm",
+   "title": "Moneyview turns unicorn after acquiring Jify in a share swap deal",
+   "tier": "T2",
+   "claim": "acquisition Jify (share swap, no fresh capital)"
+  },
+  {
+   "url": "https://www.cnbctv18.com/business/moneyview-turns-unicorn-after-acquiring-jify-in-a-share-swap-deal-19475891.htm",
+   "title": "Moneyview turns unicorn after acquiring Jify in a share swap deal",
+   "tier": "T2",
+   "claim": "acquisition Jify (share swap, no fresh capital)"
+  },
+  {
+   "url": "https://www.cnbctv18.com/business/moneyview-turns-unicorn-after-acquiring-jify-in-a-share-swap-deal-19475891.htm",
+   "title": "Moneyview turns unicorn after acquiring Jify in a share swap deal",
+   "tier": "T2",
+   "claim": "acquisition Jify (share swap, no fresh capital)"
+  },
+  {
+   "url": "https://www.cnbctv18.com/business/moneyview-turns-unicorn-after-acquiring-jify-in-a-share-swap-deal-19475891.htm",
+   "title": "Moneyview turns unicorn after acquiring Jify in a share swap deal",
+   "tier": "T2",
+   "claim": "acquisition Jify (share swap, no fresh capital)"
+  },
+  {
+   "url": "https://www.cnbctv18.com/business/moneyview-turns-unicorn-after-acquiring-jify-in-a-share-swap-deal-19475891.htm",
+   "title": "Moneyview turns unicorn after acquiring Jify in a share swap deal",
+   "tier": "T2",
+   "claim": "acquisition Jify (share swap, no fresh capital)"
+  },
+  {
+   "url": "https://www.cnbctv18.com/business/moneyview-turns-unicorn-after-acquiring-jify-in-a-share-swap-deal-19475891.htm",
+   "title": "Moneyview turns unicorn after acquiring Jify in a share swap deal",
+   "tier": "T2",
+   "claim": "acquisition Jify (share swap, no fresh capital)"
+  },
+  {
+   "url": "https://www.cnbctv18.com/business/moneyview-turns-unicorn-after-acquiring-jify-in-a-share-swap-deal-19475891.htm",
+   "title": "Moneyview turns unicorn after acquiring Jify in a share swap deal",
+   "tier": "T2",
+   "claim": "acquisition Jify (share swap, no fresh capital)"
+  },
+  {
+   "url": "https://www.cnbctv18.com/business/moneyview-turns-unicorn-after-acquiring-jify-in-a-share-swap-deal-19475891.htm",
+   "title": "Moneyview turns unicorn after acquiring Jify in a share swap deal",
+   "tier": "T2",
+   "claim": "acquisition Jify (share swap, no fresh capital)"
+  },
+  {
+   "url": "https://www.cnbctv18.com/business/moneyview-turns-unicorn-after-acquiring-jify-in-a-share-swap-deal-19475891.htm",
+   "title": "Moneyview turns unicorn after acquiring Jify in a share swap deal",
+   "tier": "T2",
+   "claim": "acquisition Jify (share swap, no fresh capital)"
+  },
+  {
+   "url": "https://www.cnbctv18.com/business/moneyview-turns-unicorn-after-acquiring-jify-in-a-share-swap-deal-19475891.htm",
+   "title": "Moneyview turns unicorn after acquiring Jify in a share swap deal",
+   "tier": "T2",
+   "claim": "acquisition Jify (share swap, no fresh capital)"
+  },
+  {
+   "url": "https://www.cnbctv18.com/business/moneyview-turns-unicorn-after-acquiring-jify-in-a-share-swap-deal-19475891.htm",
+   "title": "Moneyview turns unicorn after acquiring Jify in a share swap deal",
+   "tier": "T2",
+   "claim": "acquisition Jify (share swap, no fresh capital)"
+  },
+  {
+   "url": "https://www.cnbctv18.com/business/moneyview-turns-unicorn-after-acquiring-jify-in-a-share-swap-deal-19475891.htm",
+   "title": "Moneyview turns unicorn after acquiring Jify in a share swap deal",
+   "tier": "T2",
+   "claim": "acquisition Jify (share swap, no fresh capital)"
+  },
+  {
+   "url": "https://www.cnbctv18.com/business/moneyview-turns-unicorn-after-acquiring-jify-in-a-share-swap-deal-19475891.htm",
+   "title": "Moneyview turns unicorn after acquiring Jify in a share swap deal",
+   "tier": "T2",
+   "claim": "acquisition Jify (share swap, no fresh capital)"
+  },
+  {
+   "url": "https://www.cnbctv18.com/business/moneyview-turns-unicorn-after-acquiring-jify-in-a-share-swap-deal-19475891.htm",
+   "title": "Moneyview turns unicorn after acquiring Jify in a share swap deal",
+   "tier": "T2",
+   "claim": "acquisition Jify (share swap, no fresh capital)"
+  },
+  {
+   "url": "https://www.cnbctv18.com/business/moneyview-turns-unicorn-after-acquiring-jify-in-a-share-swap-deal-19475891.htm",
+   "title": "Moneyview turns unicorn after acquiring Jify in a share swap deal",
+   "tier": "T2",
+   "claim": "acquisition Jify (share swap, no fresh capital)"
+  },
+  {
+   "url": "https://www.cnbctv18.com/business/moneyview-turns-unicorn-after-acquiring-jify-in-a-share-swap-deal-19475891.htm",
+   "title": "Moneyview turns unicorn after acquiring Jify in a share swap deal",
+   "tier": "T2",
+   "claim": "acquisition Jify (share swap, no fresh capital)"
+  },
+  {
+   "url": "https://www.cnbctv18.com/business/moneyview-turns-unicorn-after-acquiring-jify-in-a-share-swap-deal-19475891.htm",
+   "title": "Moneyview turns unicorn after acquiring Jify in a share swap deal",
+   "tier": "T2",
+   "claim": "acquisition Jify (share swap, no fresh capital)"
+  },
+  {
+   "url": "https://www.cnbctv18.com/business/moneyview-turns-unicorn-after-acquiring-jify-in-a-share-swap-deal-19475891.htm",
+   "title": "Moneyview turns unicorn after acquiring Jify in a share swap deal",
+   "tier": "T2",
+   "claim": "acquisition Jify (share swap, no fresh capital)"
+  },
+  {
+   "url": "https://www.cnbctv18.com/business/moneyview-turns-unicorn-after-acquiring-jify-in-a-share-swap-deal-19475891.htm",
+   "title": "Moneyview turns unicorn after acquiring Jify in a share swap deal",
+   "tier": "T2",
+   "claim": "acquisition Jify (share swap, no fresh capital)"
+  },
+  {
+   "url": "https://www.cnbctv18.com/business/moneyview-turns-unicorn-after-acquiring-jify-in-a-share-swap-deal-19475891.htm",
+   "title": "Moneyview turns unicorn after acquiring Jify in a share swap deal",
+   "tier": "T2",
+   "claim": "acquisition Jify (share swap, no fresh capital)"
+  },
+  {
+   "url": "https://www.cnbctv18.com/business/moneyview-turns-unicorn-after-acquiring-jify-in-a-share-swap-deal-19475891.htm",
+   "title": "Moneyview turns unicorn after acquiring Jify in a share swap deal",
+   "tier": "T2",
+   "claim": "acquisition Jify (share swap, no fresh capital)"
+  },
+  {
+   "url": "https://www.cnbctv18.com/business/moneyview-turns-unicorn-after-acquiring-jify-in-a-share-swap-deal-19475891.htm",
+   "title": "Moneyview turns unicorn after acquiring Jify in a share swap deal",
+   "tier": "T2",
+   "claim": "acquisition Jify (share swap, no fresh capital)"
+  },
+  {
+   "url": "https://www.cnbctv18.com/business/moneyview-turns-unicorn-after-acquiring-jify-in-a-share-swap-deal-19475891.htm",
+   "title": "Moneyview turns unicorn after acquiring Jify in a share swap deal",
+   "tier": "T2",
+   "claim": "acquisition Jify (share swap, no fresh capital)"
+  },
+  {
+   "url": "https://www.cnbctv18.com/business/moneyview-turns-unicorn-after-acquiring-jify-in-a-share-swap-deal-19475891.htm",
+   "title": "Moneyview turns unicorn after acquiring Jify in a share swap deal",
+   "tier": "T2",
+   "claim": "acquisition Jify (share swap, no fresh capital)"
+  },
+  {
+   "url": "https://www.cnbctv18.com/business/moneyview-turns-unicorn-after-acquiring-jify-in-a-share-swap-deal-19475891.htm",
+   "title": "Moneyview turns unicorn after acquiring Jify in a share swap deal",
+   "tier": "T2",
+   "claim": "acquisition Jify (share swap, no fresh capital)"
+  },
+  {
+   "url": "https://www.cnbctv18.com/business/moneyview-turns-unicorn-after-acquiring-jify-in-a-share-swap-deal-19475891.htm",
+   "title": "Moneyview turns unicorn after acquiring Jify in a share swap deal",
+   "tier": "T2",
+   "claim": "acquisition Jify (share swap, no fresh capital)"
+  },
+  {
+   "url": "https://www.cnbctv18.com/business/moneyview-turns-unicorn-after-acquiring-jify-in-a-share-swap-deal-19475891.htm",
+   "title": "Moneyview turns unicorn after acquiring Jify in a share swap deal",
+   "tier": "T2",
+   "claim": "acquisition Jify (share swap, no fresh capital)"
+  },
+  {
+   "url": "https://www.cnbctv18.com/business/moneyview-turns-unicorn-after-acquiring-jify-in-a-share-swap-deal-19475891.htm",
+   "title": "Moneyview turns unicorn after acquiring Jify in a share swap deal",
+   "tier": "T2",
+   "claim": "acquisition Jify (share swap, no fresh capital)"
+  },
+  {
+   "url": "https://www.cnbctv18.com/business/moneyview-turns-unicorn-after-acquiring-jify-in-a-share-swap-deal-19475891.htm",
+   "title": "Moneyview turns unicorn after acquiring Jify in a share swap deal",
+   "tier": "T2",
+   "claim": "acquisition Jify (share swap, no fresh capital)"
+  },
+  {
+   "url": "https://www.cnbctv18.com/business/moneyview-turns-unicorn-after-acquiring-jify-in-a-share-swap-deal-19475891.htm",
+   "title": "Moneyview turns unicorn after acquiring Jify in a share swap deal",
+   "tier": "T2",
+   "claim": "acquisition Jify (share swap, no fresh capital)"
+  },
+  {
+   "url": "https://www.cnbctv18.com/business/moneyview-turns-unicorn-after-acquiring-jify-in-a-share-swap-deal-19475891.htm",
+   "title": "Moneyview turns unicorn after acquiring Jify in a share swap deal",
+   "tier": "T2",
+   "claim": "acquisition Jify (share swap, no fresh capital)"
+  },
+  {
+   "url": "https://www.cnbctv18.com/business/moneyview-turns-unicorn-after-acquiring-jify-in-a-share-swap-deal-19475891.htm",
+   "title": "Moneyview turns unicorn after acquiring Jify in a share swap deal",
+   "tier": "T2",
+   "claim": "acquisition Jify (share swap, no fresh capital)"
+  },
+  {
+   "url": "https://www.cnbctv18.com/business/moneyview-turns-unicorn-after-acquiring-jify-in-a-share-swap-deal-19475891.htm",
+   "title": "Moneyview turns unicorn after acquiring Jify in a share swap deal",
+   "tier": "T2",
+   "claim": "acquisition Jify (share swap, no fresh capital)"
+  },
+  {
+   "url": "https://www.cnbctv18.com/business/moneyview-turns-unicorn-after-acquiring-jify-in-a-share-swap-deal-19475891.htm",
+   "title": "Moneyview turns unicorn after acquiring Jify in a share swap deal",
+   "tier": "T2",
+   "claim": "acquisition Jify (share swap, no fresh capital)"
+  },
+  {
+   "url": "https://www.cnbctv18.com/business/moneyview-turns-unicorn-after-acquiring-jify-in-a-share-swap-deal-19475891.htm",
+   "title": "Moneyview turns unicorn after acquiring Jify in a share swap deal",
+   "tier": "T2",
+   "claim": "acquisition Jify (share swap, no fresh capital)"
+  },
+  {
+   "url": "https://www.cnbctv18.com/business/moneyview-turns-unicorn-after-acquiring-jify-in-a-share-swap-deal-19475891.htm",
+   "title": "Moneyview turns unicorn after acquiring Jify in a share swap deal",
+   "tier": "T2",
+   "claim": "acquisition Jify (share swap, no fresh capital)"
+  },
+  {
+   "url": "https://www.cnbctv18.com/business/moneyview-turns-unicorn-after-acquiring-jify-in-a-share-swap-deal-19475891.htm",
+   "title": "Moneyview turns unicorn after acquiring Jify in a share swap deal",
+   "tier": "T2",
+   "claim": "acquisition Jify (share swap, no fresh capital)"
+  },
+  {
+   "url": "https://www.cnbctv18.com/business/moneyview-turns-unicorn-after-acquiring-jify-in-a-share-swap-deal-19475891.htm",
+   "title": "Moneyview turns unicorn after acquiring Jify in a share swap deal",
+   "tier": "T2",
+   "claim": "acquisition Jify (share swap, no fresh capital)"
+  },
+  {
+   "url": "https://www.cnbctv18.com/business/moneyview-turns-unicorn-after-acquiring-jify-in-a-share-swap-deal-19475891.htm",
+   "title": "Moneyview turns unicorn after acquiring Jify in a share swap deal",
+   "tier": "T2",
+   "claim": "acquisition Jify (share swap, no fresh capital)"
+  },
+  {
+   "url": "https://www.cnbctv18.com/business/moneyview-turns-unicorn-after-acquiring-jify-in-a-share-swap-deal-19475891.htm",
+   "title": "Moneyview turns unicorn after acquiring Jify in a share swap deal",
+   "tier": "T2",
+   "claim": "acquisition Jify (share swap, no fresh capital)"
+  },
+  {
+   "url": "https://www.cnbctv18.com/business/moneyview-turns-unicorn-after-acquiring-jify-in-a-share-swap-deal-19475891.htm",
+   "title": "Moneyview turns unicorn after acquiring Jify in a share swap deal",
+   "tier": "T2",
+   "claim": "acquisition Jify (share swap, no fresh capital)"
+  },
+  {
+   "url": "https://www.cnbctv18.com/business/moneyview-turns-unicorn-after-acquiring-jify-in-a-share-swap-deal-19475891.htm",
+   "title": "Moneyview turns unicorn after acquiring Jify in a share swap deal",
+   "tier": "T2",
+   "claim": "acquisition Jify (share swap, no fresh capital)"
+  },
+  {
+   "url": "https://www.cnbctv18.com/business/moneyview-turns-unicorn-after-acquiring-jify-in-a-share-swap-deal-19475891.htm",
+   "title": "Moneyview turns unicorn after acquiring Jify in a share swap deal",
+   "tier": "T2",
+   "claim": "acquisition Jify (share swap, no fresh capital)"
+  },
+  {
+   "url": "https://www.cnbctv18.com/business/moneyview-turns-unicorn-after-acquiring-jify-in-a-share-swap-deal-19475891.htm",
+   "title": "Moneyview turns unicorn after acquiring Jify in a share swap deal",
+   "tier": "T2",
+   "claim": "acquisition Jify (share swap, no fresh capital)"
+  },
+  {
+   "url": "https://www.cnbctv18.com/business/moneyview-turns-unicorn-after-acquiring-jify-in-a-share-swap-deal-19475891.htm",
+   "title": "Moneyview turns unicorn after acquiring Jify in a share swap deal",
+   "tier": "T2",
+   "claim": "acquisition Jify (share swap, no fresh capital)"
+  },
+  {
+   "url": "https://www.cnbctv18.com/business/moneyview-turns-unicorn-after-acquiring-jify-in-a-share-swap-deal-19475891.htm",
+   "title": "Moneyview turns unicorn after acquiring Jify in a share swap deal",
+   "tier": "T2",
+   "claim": "acquisition Jify (share swap, no fresh capital)"
+  },
+  {
+   "url": "https://www.cnbctv18.com/business/moneyview-turns-unicorn-after-acquiring-jify-in-a-share-swap-deal-19475891.htm",
+   "title": "Moneyview turns unicorn after acquiring Jify in a share swap deal",
+   "tier": "T2",
+   "claim": "acquisition Jify (share swap, no fresh capital)"
+  },
+  {
+   "url": "https://www.cnbctv18.com/business/moneyview-turns-unicorn-after-acquiring-jify-in-a-share-swap-deal-19475891.htm",
+   "title": "Moneyview turns unicorn after acquiring Jify in a share swap deal",
+   "tier": "T2",
+   "claim": "acquisition Jify (share swap, no fresh capital)"
+  },
+  {
+   "url": "https://www.cnbctv18.com/business/moneyview-turns-unicorn-after-acquiring-jify-in-a-share-swap-deal-19475891.htm",
+   "title": "Moneyview turns unicorn after acquiring Jify in a share swap deal",
+   "tier": "T2",
+   "claim": "acquisition Jify (share swap, no fresh capital)"
+  },
+  {
+   "url": "https://www.cnbctv18.com/business/moneyview-turns-unicorn-after-acquiring-jify-in-a-share-swap-deal-19475891.htm",
+   "title": "Moneyview turns unicorn after acquiring Jify in a share swap deal",
+   "tier": "T2",
+   "claim": "acquisition Jify (share swap, no fresh capital)"
+  },
+  {
+   "url": "https://www.cnbctv18.com/business/moneyview-turns-unicorn-after-acquiring-jify-in-a-share-swap-deal-19475891.htm",
+   "title": "Moneyview turns unicorn after acquiring Jify in a share swap deal",
+   "tier": "T2",
+   "claim": "acquisition Jify (share swap, no fresh capital)"
+  },
+  {
+   "url": "https://www.cnbctv18.com/business/moneyview-turns-unicorn-after-acquiring-jify-in-a-share-swap-deal-19475891.htm",
+   "title": "Moneyview turns unicorn after acquiring Jify in a share swap deal",
+   "tier": "T2",
+   "claim": "acquisition Jify (share swap, no fresh capital)"
+  },
+  {
+   "url": "https://www.cnbctv18.com/business/moneyview-turns-unicorn-after-acquiring-jify-in-a-share-swap-deal-19475891.htm",
+   "title": "Moneyview turns unicorn after acquiring Jify in a share swap deal",
+   "tier": "T2",
+   "claim": "acquisition Jify (share swap, no fresh capital)"
+  },
+  {
+   "url": "https://www.cnbctv18.com/business/moneyview-turns-unicorn-after-acquiring-jify-in-a-share-swap-deal-19475891.htm",
+   "title": "Moneyview turns unicorn after acquiring Jify in a share swap deal",
+   "tier": "T2",
+   "claim": "acquisition Jify (share swap, no fresh capital)"
+  },
+  {
+   "url": "https://www.cnbctv18.com/business/moneyview-turns-unicorn-after-acquiring-jify-in-a-share-swap-deal-19475891.htm",
+   "title": "Moneyview turns unicorn after acquiring Jify in a share swap deal",
+   "tier": "T2",
+   "claim": "acquisition Jify (share swap, no fresh capital)"
+  },
+  {
+   "url": "https://www.cnbctv18.com/business/moneyview-turns-unicorn-after-acquiring-jify-in-a-share-swap-deal-19475891.htm",
+   "title": "Moneyview turns unicorn after acquiring Jify in a share swap deal",
+   "tier": "T2",
+   "claim": "acquisition Jify (share swap, no fresh capital)"
+  },
+  {
+   "url": "https://www.cnbctv18.com/business/moneyview-turns-unicorn-after-acquiring-jify-in-a-share-swap-deal-19475891.htm",
+   "title": "Moneyview turns unicorn after acquiring Jify in a share swap deal",
+   "tier": "T2",
+   "claim": "acquisition Jify (share swap, no fresh capital)"
+  },
+  {
+   "url": "https://www.cnbctv18.com/business/moneyview-turns-unicorn-after-acquiring-jify-in-a-share-swap-deal-19475891.htm",
+   "title": "Moneyview turns unicorn after acquiring Jify in a share swap deal",
+   "tier": "T2",
+   "claim": "acquisition Jify (share swap, no fresh capital)"
+  },
+  {
+   "url": "https://www.cnbctv18.com/business/moneyview-turns-unicorn-after-acquiring-jify-in-a-share-swap-deal-19475891.htm",
+   "title": "Moneyview turns unicorn after acquiring Jify in a share swap deal",
+   "tier": "T2",
+   "claim": "acquisition Jify (share swap, no fresh capital)"
+  },
+  {
+   "url": "https://www.cnbctv18.com/business/moneyview-turns-unicorn-after-acquiring-jify-in-a-share-swap-deal-19475891.htm",
+   "title": "Moneyview turns unicorn after acquiring Jify in a share swap deal",
+   "tier": "T2",
+   "claim": "acquisition Jify (share swap, no fresh capital)"
+  },
+  {
+   "url": "https://www.cnbctv18.com/business/moneyview-turns-unicorn-after-acquiring-jify-in-a-share-swap-deal-19475891.htm",
+   "title": "Moneyview turns unicorn after acquiring Jify in a share swap deal",
+   "tier": "T2",
+   "claim": "acquisition Jify (share swap, no fresh capital)"
+  },
+  {
+   "url": "https://www.cnbctv18.com/business/moneyview-turns-unicorn-after-acquiring-jify-in-a-share-swap-deal-19475891.htm",
+   "title": "Moneyview turns unicorn after acquiring Jify in a share swap deal",
+   "tier": "T2",
+   "claim": "acquisition Jify (share swap, no fresh capital)"
+  },
+  {
+   "url": "https://www.cnbctv18.com/business/moneyview-turns-unicorn-after-acquiring-jify-in-a-share-swap-deal-19475891.htm",
+   "title": "Moneyview turns unicorn after acquiring Jify in a share swap deal",
+   "tier": "T2",
+   "claim": "acquisition Jify (share swap, no fresh capital)"
+  },
+  {
+   "url": "https://www.cnbctv18.com/business/moneyview-turns-unicorn-after-acquiring-jify-in-a-share-swap-deal-19475891.htm",
+   "title": "Moneyview turns unicorn after acquiring Jify in a share swap deal",
+   "tier": "T2",
+   "claim": "acquisition Jify (share swap, no fresh capital)"
+  },
+  {
+   "url": "https://www.cnbctv18.com/business/moneyview-turns-unicorn-after-acquiring-jify-in-a-share-swap-deal-19475891.htm",
+   "title": "Moneyview turns unicorn after acquiring Jify in a share swap deal",
+   "tier": "T2",
+   "claim": "acquisition Jify (share swap, no fresh capital)"
+  },
+  {
+   "url": "https://www.cnbctv18.com/business/moneyview-turns-unicorn-after-acquiring-jify-in-a-share-swap-deal-19475891.htm",
+   "title": "Moneyview turns unicorn after acquiring Jify in a share swap deal",
+   "tier": "T2",
+   "claim": "acquisition Jify (share swap, no fresh capital)"
+  }
+ ],
+ "startup_id": "moneyview",
+ "traction": [
+  {
+   "as_of": "2025-12-31",
+   "company_reported": true,
+   "confidence": "MEDIUM",
+   "metric": "registered users",
+   "source_url": "https://www.thehindubusinessline.com/markets/moneyview-limited-files-drhp-for-1500-crore-ipo/article70704279.ece",
+   "value": "125.5M (79% tier-2+)"
+  },
+  {
+   "as_of": "FY25",
+   "company_reported": true,
+   "confidence": "MEDIUM",
+   "metric": "digital unsecured PL share",
+   "source_url": "https://www.thehindubusinessline.com/markets/moneyview-limited-files-drhp-for-1500-crore-ipo/article70704279.ece",
+   "value": "~11% of sanctions"
+  }
+ ],
+ "_merged_session2": true
+}

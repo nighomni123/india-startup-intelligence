@@ -1,0 +1,2237 @@
+{
+ "company": {
+  "business_model": "B2B2C SaaS: AI + blockchain credential verification and job matching",
+  "cin": "U78100UP2025PTC214727",
+  "city": "Bengaluru",
+  "company_name": "Edubuk",
+  "country": "India",
+  "founded_date": "2019",
+  "incorporation_date": "2025-01-13",
+  "legal_name": "EDUBUK TECHNOLOGIES PRIVATE LIMITED",
+  "primary_sector": "edtech / HR-tech (AI + blockchain credentials)",
+  "public_private": "private",
+  "startup_stage": "Series B",
+  "state": "Karnataka",
+  "status": "active",
+  "official_website": {
+   "v": "https://edubuk.com",
+   "conf": "high",
+   "src": "https://edubuk.com",
+   "note": "verified live 2026-09-15: name match on own homepage"
+  },
+  "website": "https://edubuk.com",
+  "careers_website": {
+   "v": "https://jobs.edubuk.com/",
+   "conf": "high",
+   "src": "https://edubuk.com",
+   "note": "playwright render 2026-09-15"
+  },
+  "description": {
+   "v": "Provider of blockchain based AI-driven educational programs and verifiable career credentials connecting education, skill development, credential verification, and employment",
+   "conf": "HIGH",
+   "src": "https://tracxn.com/d/companies/edubuk/__wSrA_PFAUB9br2C3r-hfJSC0pkfiicQn-S4E4yW4P5Q",
+   "note": "Tracxn company description"
+  },
+  "employee_estimate": {
+   "v": 17,
+   "conf": "MEDIUM",
+   "src": "https://tracxn.com/d/companies/edubuk/__wSrA_PFAUB9br2C3r-hfJSC0pkfiicQn-S4E4yW4P5Q",
+   "note": "Tracxn: 17 employees as of Aug 31 2026",
+   "asof": "2026-08-31"
+  },
+  "hq_type": {
+   "v": "registered",
+   "conf": "MEDIUM",
+   "src": "https://tracxn.com/d/companies/edubuk/__wSrA_PFAUB9br2C3r-hfJSC0pkfiicQn-S4E4yW4P5Q",
+   "note": "Registered address in Rangareddy, Telangana; operating HQ city unverified"
+  },
+  "registered_office": {
+   "v": "Door no. 505/B-508, SANDHYA TECHNO-1, Rangareddy, Rangareddy, Telangana, India, 500104",
+   "conf": "HIGH",
+   "src": "https://tracxn.com/d/companies/edubuk/__wSrA_PFAUB9br2C3r-hfJSC0pkfiicQn-S4E4yW4P5Q",
+   "note": "Tracxn registered address"
+  }
+ },
+ "completeness_self": {
+  "financials": 4,
+  "founders": 7,
+  "funding": 6,
+  "identity": 7,
+  "investors": 6,
+  "legal": 0,
+  "people": 2,
+  "products": 5,
+  "sources": 7,
+  "traction": 3
+ },
+ "conflicts": [
+  {
+   "claim_a": "Tracxn: $50.5M over 13-15 rounds, latest Series B Mar 16 2026",
+   "claim_b": "CB Insights: $55.65M over 10 rounds, latest Series A-II $50M Mar 16 2026 (Nimbus Capital)",
+   "field": "total_funding/latest_round_label",
+   "resolution": "Use round amount $50M (Nimbus Capital) HIGH; total raised UNVERIFIED pending primary filing",
+   "resolved_value": "$50M Nimbus commitment Mar 2026",
+   "url_a": "https://tracxn.com/d/companies/edubuk/__wSrA_PFAUB9br2C3r-hfJSC0pkfiicQn-S4E4yW4P5Q/funding-and-investors",
+   "url_b": "https://www.cbinsights.com/company/edubuk/financials"
+  },
+  {
+   "claim_a": "Tracxn company profile: based in Hyderabad",
+   "claim_b": "Batch manifest + operating signals: Bengaluru",
+   "field": "city",
+   "resolution": "Keep Bengaluru per manifest; Hyderabad claim preserved as conflict",
+   "resolved_value": "Bengaluru (manifest); Tracxn says Hyderabad",
+   "url_a": "https://tracxn.com/d/companies/edubuk/__wSrA_PFAUB9br2C3r-hfJSC0pkfiicQn-S4E4yW4P5Q",
+   "url_b": "batch s1_05.json"
+  },
+  {
+   "field": "city",
+   "claim_a": "Bengaluru",
+   "url_a": "",
+   "claim_b": "Hyderabad",
+   "url_b": "",
+   "resolution": "phase3 p3 payload disagrees with existing value; existing kept as preferred pending human review",
+   "resolved_value": "",
+   "reviewed": "p3-merge"
+  },
+  {
+   "field": "state",
+   "claim_a": "Karnataka",
+   "url_a": "",
+   "claim_b": "Telangana",
+   "url_b": "",
+   "resolution": "phase3 p3 payload disagrees with existing value; existing kept as preferred pending human review",
+   "resolved_value": "",
+   "reviewed": "p3-merge"
+  },
+  {
+   "field": "city",
+   "claim_a": "Tracxn: Hyderabad, registered address Rangareddy, Telangana 500104",
+   "url_a": "https://tracxn.com/d/companies/edubuk/__wSrA_PFAUB9br2C3r-hfJSC0pkfiicQn-S4E4yW4P5Q",
+   "claim_b": "Existing DB: Bengaluru, Karnataka",
+   "url_b": "enrich/edubuk.json",
+   "resolution": "Preserved conflict; Tracxn registered address is Hyderabad/Telangana; Bengaluru claim from existing DB unverified; company website does not disclose city",
+   "resolved_value": "Unresolved — Hyderabad (registered) vs Bengaluru (unverified)"
+  },
+  {
+   "field": "total_funding/latest_round_label",
+   "claim_a": "Tracxn: $50.5M over 15 rounds, latest Series B Mar 16 2026",
+   "url_a": "https://tracxn.com/d/companies/edubuk/__wSrA_PFAUB9br2C3r-hfJSC0pkfiicQn-S4E4yW4P5Q",
+   "claim_b": "CB Insights: $55.65M over 10 rounds, latest Series A-II $50M Mar 16 2026 (Nimbus Capital)",
+   "url_b": "https://www.cbinsights.com/company/edubuk/financials",
+   "resolution": "Use $50M Nimbus commitment Mar 2026 HIGH; total raised UNVERIFIED pending primary filing; round label differs (Series B vs Series A-II)",
+   "resolved_value": "$50M Nimbus commitment Mar 2026; total raised disputed"
+  },
+  {
+   "field": "funding_round_count",
+   "claim_a": "Tracxn: 15 rounds (5 Seed, 2 Early-Stage, 8 Grant)",
+   "url_a": "https://tracxn.com/d/companies/edubuk/__wSrA_PFAUB9br2C3r-hfJSC0pkfiicQn-S4E4yW4P5Q/funding-and-investors",
+   "claim_b": "CB Insights: 10 rounds",
+   "url_b": "https://www.cbinsights.com/company/edubuk/financials",
+   "resolution": "Tracxn provides more granular breakdown; CB Insights shows fewer rounds; discrepancy likely due to how grant/prize rounds are counted",
+   "resolved_value": "15 rounds per Tracxn (more granular)"
+  }
+ ],
+ "events": [
+  {
+   "announced_date": "2026-03-24",
+   "confidence": "MEDIUM",
+   "date": "2026-03-24",
+   "description": "Edubuk announced $50M strategic investment commitment from Nimbus Capital for credential-verification hiring infrastructure.",
+   "headline": "Edubuk announces $50M strategic investment commitment from Nimbus Capital",
+   "source_url": "https://ascendants.in/business-stories/edubuk-50-million-nimbus-capital-ai-blockchain-hiring-platform/",
+   "type": "funding_announcement"
+  },
+  {
+   "type": "funding",
+   "headline": "Edubuk Series A round with Soonami",
+   "date": "2025-06-16",
+   "announced_date": "2025-06-16",
+   "description": "Series A funding round; Soonami participated as investor",
+   "source_url": "https://tracxn.com/d/companies/edubuk/__wSrA_PFAUB9br2C3r-hfJSC0pkfiicQn-S4E4yW4P5Q/funding-and-investors",
+   "confidence": "LOW"
+  },
+  {
+   "type": "funding",
+   "headline": "Edubuk Grant round with Open Campus",
+   "date": "2025-05-27",
+   "announced_date": "2025-05-27",
+   "description": "Grant (prize money) round from Open Campus (Kigali, Rwanda)",
+   "source_url": "https://tracxn.com/d/companies/edubuk/__wSrA_PFAUB9br2C3r-hfJSC0pkfiicQn-S4E4yW4P5Q/funding-and-investors",
+   "confidence": "LOW"
+  },
+  {
+   "type": "funding",
+   "headline": "Edubuk Incubator/Accelerator round with XDC Accelerator Program",
+   "date": "2024-08-12",
+   "announced_date": "2024-08-12",
+   "description": "Incubator/Accelerator - IV round; XDC Accelerator Program (Switzerland)",
+   "source_url": "https://www.cbinsights.com/company/edubuk/financials",
+   "confidence": "LOW"
+  },
+  {
+   "type": "funding",
+   "headline": "Edubuk CryptoRank coverage: $50M Nimbus ahead of $EBUK token launch",
+   "date": "2026-06-10",
+   "announced_date": "2026-06-10",
+   "description": "CryptoRank covered Edubuk securing $50M strategic commitment from Nimbus Capital ahead of $EBUK token launch",
+   "source_url": "https://tracxn.com/d/companies/edubuk/__wSrA_PFAUB9br2C3r-hfJSC0pkfiicQn-S4E4yW4P5Q",
+   "confidence": "LOW",
+   "notes": "Tracxn news section references CryptoRank article dated Jun 10 2026"
+  }
+ ],
+ "financials": [
+  {
+   "confidence": "LOW",
+   "currency": "INR",
+   "fiscal_year": "FY25",
+   "metric": "annual_revenue_band",
+   "source_title": "Edubuk - 2026 Company Profile, Team, Funding, Competitors & Financials - Tracxn",
+   "source_url": "https://tracxn.com/d/companies/edubuk/__wSrA_PFAUB9br2C3r-hfJSC0pkfiicQn-S4E4yW4P5Q",
+   "unit": "INR Cr",
+   "value": "0-10",
+   "value_type": "press-quoted-filing"
+  },
+  {
+   "fiscal_year": "FY25",
+   "metric": "annual_revenue_band",
+   "value": 10,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "press-quoted-filing",
+   "basis": "standalone",
+   "consolidated": "no",
+   "filing_date": null,
+   "source_url": "https://tracxn.com/d/companies/edubuk/__wSrA_PFAUB9br2C3r-hfJSC0pkfiicQn-S4E4yW4P5Q",
+   "source_title": "Edubuk - 2026 Company Profile, Team, Funding, Competitors & Financials - Tracxn",
+   "confidence": "LOW",
+   "notes": "Tracxn: Annual Revenue 0 - ₹10 Cr as on Mar 31 2025"
+  },
+  {
+   "fiscal_year": "FY25",
+   "metric": "revenue_estimate",
+   "value": null,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "estimate",
+   "basis": "standalone",
+   "consolidated": "no",
+   "filing_date": null,
+   "source_url": "https://www.cbinsights.com/company/edubuk/financials",
+   "source_title": "Edubuk Stock Price, Funding, Valuation, Revenue & Financial Statements",
+   "confidence": "LOW",
+   "notes": "CB Insights shows revenue as 0 FY undefined; no audited MCA financials verified"
+  }
+ ],
+ "founders": [
+  {
+   "confidence": "MEDIUM",
+   "name": "Apoorva Bajaj",
+   "role": "CEO",
+   "source_url": "https://tracxn.com/d/companies/edubuk/__wSrA_PFAUB9br2C3r-hfJSC0pkfiicQn-S4E4yW4P5Q",
+   "still_active": true,
+   "type": "founder"
+  },
+  {
+   "confidence": "MEDIUM",
+   "name": "Shivaani Mehrotra Bajaj",
+   "role": "Co-founder",
+   "source_url": "https://tracxn.com/d/companies/edubuk/__wSrA_PFAUB9br2C3r-hfJSC0pkfiicQn-S4E4yW4P5Q",
+   "still_active": true,
+   "type": "co-founder"
+  },
+  {
+   "name": "Shivaani Mehrotra Bajaj",
+   "role": "Co-Founder & COO",
+   "background": "Education leader, former professor, UGC NET qualified, Women in AI APAC finalist",
+   "education": "UGC NET",
+   "still_active": true,
+   "source_url": "https://ascendants.in/business-stories/edubuk-50-million-nimbus-capital-ai-blockchain-hiring-platform/",
+   "confidence": "MEDIUM"
+  }
+ ],
+ "funding_rounds": [
+  {
+   "all_investors": [
+    "Nimbus Capital"
+   ],
+   "amount": "50000000",
+   "announced_date": "2026-03-24",
+   "confidence": "MEDIUM",
+   "currency": "USD",
+   "purpose": "Global hiring infrastructure: credential verification and job matching",
+   "round_date": "2026-03-16",
+   "round_type": "Series B",
+   "source_date": "2026-03-24",
+   "source_title": "Edubuk Raises $50 Million From Nimbus Capital To Fix Fake CV Crisis With AI & Blockchain",
+   "source_url": "https://ascendants.in/business-stories/edubuk-50-million-nimbus-capital-ai-blockchain-hiring-platform/",
+   "tier": "T5"
+  },
+  {
+   "all_investors": [
+    "Undisclosed"
+   ],
+   "amount": "250000",
+   "announced_date": "2025-06-16",
+   "confidence": "LOW",
+   "currency": "USD",
+   "round_date": "2025-06-16",
+   "round_type": "Series A",
+   "source_title": "Edubuk Stock Price, Funding, Valuation, Revenue ...",
+   "source_url": "https://www.cbinsights.com/company/edubuk/financials",
+   "tier": "T2"
+  },
+  {
+   "round_type": "Angel",
+   "announced_date": "2026-03-02",
+   "round_date": "2026-03-02",
+   "amount": null,
+   "currency": "USD",
+   "valuation": null,
+   "valuation_currency": "",
+   "valuation_type": "",
+   "lead_investors": [],
+   "all_investors": [
+    "Surendra Soni"
+   ],
+   "instrument": "equity",
+   "purpose": "",
+   "source_url": "https://tracxn.com/d/companies/edubuk/__wSrA_PFAUB9br2C3r-hfJSC0pkfiicQn-S4E4yW4P5Q/funding-and-investors",
+   "source_title": "Edubuk Funding Rounds & List of Investors - Tracxn",
+   "source_date": "2026-09-11",
+   "confidence": "LOW",
+   "notes": "Tracxn lists Angel round Mar 02 2026; amounts redacted on Tracxn"
+  },
+  {
+   "round_type": "Grant (prize money)",
+   "announced_date": "2025-05-27",
+   "round_date": "2025-05-27",
+   "amount": null,
+   "currency": "USD",
+   "valuation": null,
+   "valuation_currency": "",
+   "valuation_type": "",
+   "lead_investors": [],
+   "all_investors": [
+    "Open Campus"
+   ],
+   "instrument": "grant",
+   "purpose": "",
+   "source_url": "https://tracxn.com/d/companies/edubuk/__wSrA_PFAUB9br2C3r-hfJSC0pkfiicQn-S4E4yW4P5Q/funding-and-investors",
+   "source_title": "Edubuk Funding Rounds & List of Investors - Tracxn",
+   "source_date": "2026-09-11",
+   "confidence": "LOW",
+   "notes": "Tracxn: Grant round May 27 2025, Open Campus (Kigali)"
+  },
+  {
+   "round_type": "Incubator/Accelerator",
+   "announced_date": "2024-08-12",
+   "round_date": "2024-08-12",
+   "amount": null,
+   "currency": "USD",
+   "valuation": null,
+   "valuation_currency": "",
+   "valuation_type": "",
+   "lead_investors": [],
+   "all_investors": [
+    "XDC Accelerator Program"
+   ],
+   "instrument": "incubator",
+   "purpose": "",
+   "source_url": "https://www.cbinsights.com/company/edubuk/financials",
+   "source_title": "Edubuk Stock Price, Funding, Valuation, Revenue & Financial Statements",
+   "source_date": "2026-09-15",
+   "confidence": "LOW",
+   "notes": "CB Insights: Incubator/Accelerator - IV on Aug 12 2024; XDC Accelerator Program (Switzerland)"
+  },
+  {
+   "round_type": "Seed",
+   "announced_date": null,
+   "round_date": null,
+   "amount": null,
+   "currency": "USD",
+   "valuation": null,
+   "valuation_currency": "",
+   "valuation_type": "",
+   "lead_investors": [],
+   "all_investors": [
+    "XVC Tech"
+   ],
+   "instrument": "equity",
+   "purpose": "",
+   "source_url": "https://tracxn.com/d/companies/edubuk/__wSrA_PFAUB9br2C3r-hfJSC0pkfiicQn-S4E4yW4P5Q/funding-and-investors",
+   "source_title": "Edubuk Funding Rounds & List of Investors - Tracxn",
+   "source_date": "2026-09-11",
+   "confidence": "LOW",
+   "notes": "Tracxn: 5 Seed rounds total; XVC Tech (UAE VC) listed as investor"
+  },
+  {
+   "round_type": "Grant",
+   "announced_date": null,
+   "round_date": null,
+   "amount": null,
+   "currency": "USD",
+   "valuation": null,
+   "valuation_currency": "",
+   "valuation_type": "",
+   "lead_investors": [],
+   "all_investors": [
+    "Polygon Labs"
+   ],
+   "instrument": "grant",
+   "purpose": "",
+   "source_url": "https://www.cbinsights.com/company/edubuk/financials",
+   "source_title": "Edubuk Stock Price, Funding, Valuation, Revenue & Financial Statements",
+   "source_date": "2026-09-15",
+   "confidence": "LOW",
+   "notes": "CB Insights: Polygon Labs (Cayman Islands) as investor; Tracxn: 8 Grant rounds total"
+  }
+ ],
+ "gaps": [
+  "No audited MCA financials verified; revenue band only",
+  "Total raised figure conflicts across DBs; needs primary filing",
+  "Founder backgrounds (IIT/IIM/Goldman claims) single-source, unverified",
+  "Hyderabad vs Bengaluru HQ unresolved"
+ ],
+ "investor_links": [
+  {
+   "confidence": "MEDIUM",
+   "investor": "Nimbus Capital",
+   "investor_type": "PE/Buyout",
+   "lead": true,
+   "rounds": [
+    "Series B"
+   ],
+   "source_url": "https://ascendants.in/business-stories/edubuk-50-million-nimbus-capital-ai-blockchain-hiring-platform/"
+  },
+  {
+   "confidence": "LOW",
+   "investor": "Soonami",
+   "investor_type": "VC",
+   "rounds": [
+    "Series A"
+   ],
+   "source_url": "https://tracxn.com/d/companies/edubuk/__wSrA_PFAUB9br2C3r-hfJSC0pkfiicQn-S4E4yW4P5Q/funding-and-investors"
+  },
+  {
+   "confidence": "LOW",
+   "investor": "XVC Tech",
+   "investor_type": "VC",
+   "rounds": [
+    "Seed"
+   ],
+   "source_url": "https://tracxn.com/d/companies/edubuk/__wSrA_PFAUB9br2C3r-hfJSC0pkfiicQn-S4E4yW4P5Q/funding-and-investors"
+  },
+  {
+   "confidence": "LOW",
+   "investor": "Solana",
+   "investor_type": "corporate/ecosystem",
+   "rounds": [
+    "Grant"
+   ],
+   "source_url": "https://tracxn.com/d/companies/edubuk/__wSrA_PFAUB9br2C3r-hfJSC0pkfiicQn-S4E4yW4P5Q/funding-and-investors"
+  }
+ ],
+ "research_log": [
+  {
+   "found": "PitchBook/Tracxn/CBInsights confirm active, Series B, 2019 founding",
+   "next_action": "Verify MCA filing totals before treating $50M as closed",
+   "query": "Edubuk startup status/shutdown 2025 2026",
+   "unresolved": "HQ city conflict"
+  },
+  {
+   "found": "$50M Nimbus commitment (Mar 2026), Series A $0.25M Jun 2025, founders, CIN U78100UP2025PTC214727 via ZaubaCorp/Tofler snippets",
+   "next_action": "Done (LITE budget)",
+   "query": "Edubuk founders funding Series B; CIN probe",
+   "unresolved": "Filing-level totals"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "EduBuk startup Bengaluru blockchain credentials",
+   "found": "edubuk.com, LinkedIn, StartinUP UP listing; no city confirmation",
+   "unresolved": "HQ/city still unverified — needs company-site/ROC check"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "Q-wave claim source-hunt",
+   "found": "0 resolved",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk founders funding Series B; CIN probe",
+   "status": "done",
+   "found": "Founders confirmed as Apoorva Bajaj (CEO) and Shivaani Mehrotra Bajaj (Co-Founder & COO) via Ascendants article and Tracxn. CIN U78100UP2025PTC214727 confirmed. Two legal entities: Edubuk Technologies (2025) and EduProvince Technologies (2019).",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk city Bengaluru vs Hyderabad verification",
+   "status": "done",
+   "found": "Tracxn registered address: Rangareddy, Telangana 500104 (Hyderabad). Existing DB says Bengaluru. Company website edubuk.com does not disclose city. Conflict preserved.",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk MCA financials FY24/FY25",
+   "status": "logged-no-result",
+   "found": "MCA portal (mca.gov.in) returned 403. ZaubaCorp returned 403. Tofler timed out. No audited MCA financials available.",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk government partnerships KVS CBSE",
+   "status": "logged-no-result",
+   "found": "No evidence of KVS or CBSE partnerships found in any source. No government MoU evidence located.",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk ARR and learner metrics",
+   "status": "logged-no-result",
+   "found": "No ARR disclosed. Only traction metric found: 100,000+ on-chain verifications (Ascendants article, company claim). Revenue band 0-10 Cr INR as of FY25.",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk edtech regulation legal",
+   "status": "logged-no-result",
+   "found": "No edtech-specific regulation or legal issues found. Legal array empty.",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk founders funding Series B; CIN probe",
+   "status": "done",
+   "found": "Founders confirmed as Apoorva Bajaj (CEO) and Shivaani Mehrotra Bajaj (Co-Founder & COO) via Ascendants article and Tracxn. CIN U78100UP2025PTC214727 confirmed. Two legal entities: Edubuk Technologies (2025) and EduProvince Technologies (2019).",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk city Bengaluru vs Hyderabad verification",
+   "status": "done",
+   "found": "Tracxn registered address: Rangareddy, Telangana 500104 (Hyderabad). Existing DB says Bengaluru. Company website edubuk.com does not disclose city. Conflict preserved.",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk MCA financials FY24/FY25",
+   "status": "logged-no-result",
+   "found": "MCA portal (mca.gov.in) returned 403. ZaubaCorp returned 403. Tofler timed out. No audited MCA financials available.",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk government partnerships KVS CBSE",
+   "status": "logged-no-result",
+   "found": "No evidence of KVS or CBSE partnerships found in any source. No government MoU evidence located.",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk ARR and learner metrics",
+   "status": "logged-no-result",
+   "found": "No ARR disclosed. Only traction metric found: 100,000+ on-chain verifications (Ascendants article, company claim). Revenue band 0-10 Cr INR as of FY25.",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk edtech regulation legal",
+   "status": "logged-no-result",
+   "found": "No edtech-specific regulation or legal issues found. Legal array empty.",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk founders funding Series B; CIN probe",
+   "status": "done",
+   "found": "Founders confirmed as Apoorva Bajaj (CEO) and Shivaani Mehrotra Bajaj (Co-Founder & COO) via Ascendants article and Tracxn. CIN U78100UP2025PTC214727 confirmed. Two legal entities: Edubuk Technologies (2025) and EduProvince Technologies (2019).",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk city Bengaluru vs Hyderabad verification",
+   "status": "done",
+   "found": "Tracxn registered address: Rangareddy, Telangana 500104 (Hyderabad). Existing DB says Bengaluru. Company website edubuk.com does not disclose city. Conflict preserved.",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk MCA financials FY24/FY25",
+   "status": "logged-no-result",
+   "found": "MCA portal (mca.gov.in) returned 403. ZaubaCorp returned 403. Tofler timed out. No audited MCA financials available.",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk government partnerships KVS CBSE",
+   "status": "logged-no-result",
+   "found": "No evidence of KVS or CBSE partnerships found in any source. No government MoU evidence located.",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk ARR and learner metrics",
+   "status": "logged-no-result",
+   "found": "No ARR disclosed. Only traction metric found: 100,000+ on-chain verifications (Ascendants article, company claim). Revenue band 0-10 Cr INR as of FY25.",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk edtech regulation legal",
+   "status": "logged-no-result",
+   "found": "No edtech-specific regulation or legal issues found. Legal array empty.",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk founders funding Series B; CIN probe",
+   "status": "done",
+   "found": "Founders confirmed as Apoorva Bajaj (CEO) and Shivaani Mehrotra Bajaj (Co-Founder & COO) via Ascendants article and Tracxn. CIN U78100UP2025PTC214727 confirmed. Two legal entities: Edubuk Technologies (2025) and EduProvince Technologies (2019).",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk city Bengaluru vs Hyderabad verification",
+   "status": "done",
+   "found": "Tracxn registered address: Rangareddy, Telangana 500104 (Hyderabad). Existing DB says Bengaluru. Company website edubuk.com does not disclose city. Conflict preserved.",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk MCA financials FY24/FY25",
+   "status": "logged-no-result",
+   "found": "MCA portal (mca.gov.in) returned 403. ZaubaCorp returned 403. Tofler timed out. No audited MCA financials available.",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk government partnerships KVS CBSE",
+   "status": "logged-no-result",
+   "found": "No evidence of KVS or CBSE partnerships found in any source. No government MoU evidence located.",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk ARR and learner metrics",
+   "status": "logged-no-result",
+   "found": "No ARR disclosed. Only traction metric found: 100,000+ on-chain verifications (Ascendants article, company claim). Revenue band 0-10 Cr INR as of FY25.",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk edtech regulation legal",
+   "status": "logged-no-result",
+   "found": "No edtech-specific regulation or legal issues found. Legal array empty.",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk founders funding Series B; CIN probe",
+   "status": "done",
+   "found": "Founders confirmed as Apoorva Bajaj (CEO) and Shivaani Mehrotra Bajaj (Co-Founder & COO) via Ascendants article and Tracxn. CIN U78100UP2025PTC214727 confirmed. Two legal entities: Edubuk Technologies (2025) and EduProvince Technologies (2019).",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk city Bengaluru vs Hyderabad verification",
+   "status": "done",
+   "found": "Tracxn registered address: Rangareddy, Telangana 500104 (Hyderabad). Existing DB says Bengaluru. Company website edubuk.com does not disclose city. Conflict preserved.",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk MCA financials FY24/FY25",
+   "status": "logged-no-result",
+   "found": "MCA portal (mca.gov.in) returned 403. ZaubaCorp returned 403. Tofler timed out. No audited MCA financials available.",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk government partnerships KVS CBSE",
+   "status": "logged-no-result",
+   "found": "No evidence of KVS or CBSE partnerships found in any source. No government MoU evidence located.",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk ARR and learner metrics",
+   "status": "logged-no-result",
+   "found": "No ARR disclosed. Only traction metric found: 100,000+ on-chain verifications (Ascendants article, company claim). Revenue band 0-10 Cr INR as of FY25.",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk edtech regulation legal",
+   "status": "logged-no-result",
+   "found": "No edtech-specific regulation or legal issues found. Legal array empty.",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk founders funding Series B; CIN probe",
+   "status": "done",
+   "found": "Founders confirmed as Apoorva Bajaj (CEO) and Shivaani Mehrotra Bajaj (Co-Founder & COO) via Ascendants article and Tracxn. CIN U78100UP2025PTC214727 confirmed. Two legal entities: Edubuk Technologies (2025) and EduProvince Technologies (2019).",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk city Bengaluru vs Hyderabad verification",
+   "status": "done",
+   "found": "Tracxn registered address: Rangareddy, Telangana 500104 (Hyderabad). Existing DB says Bengaluru. Company website edubuk.com does not disclose city. Conflict preserved.",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk MCA financials FY24/FY25",
+   "status": "logged-no-result",
+   "found": "MCA portal (mca.gov.in) returned 403. ZaubaCorp returned 403. Tofler timed out. No audited MCA financials available.",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk government partnerships KVS CBSE",
+   "status": "logged-no-result",
+   "found": "No evidence of KVS or CBSE partnerships found in any source. No government MoU evidence located.",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk ARR and learner metrics",
+   "status": "logged-no-result",
+   "found": "No ARR disclosed. Only traction metric found: 100,000+ on-chain verifications (Ascendants article, company claim). Revenue band 0-10 Cr INR as of FY25.",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk edtech regulation legal",
+   "status": "logged-no-result",
+   "found": "No edtech-specific regulation or legal issues found. Legal array empty.",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk founders funding Series B; CIN probe",
+   "status": "done",
+   "found": "Founders confirmed as Apoorva Bajaj (CEO) and Shivaani Mehrotra Bajaj (Co-Founder & COO) via Ascendants article and Tracxn. CIN U78100UP2025PTC214727 confirmed. Two legal entities: Edubuk Technologies (2025) and EduProvince Technologies (2019).",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk city Bengaluru vs Hyderabad verification",
+   "status": "done",
+   "found": "Tracxn registered address: Rangareddy, Telangana 500104 (Hyderabad). Existing DB says Bengaluru. Company website edubuk.com does not disclose city. Conflict preserved.",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk MCA financials FY24/FY25",
+   "status": "logged-no-result",
+   "found": "MCA portal (mca.gov.in) returned 403. ZaubaCorp returned 403. Tofler timed out. No audited MCA financials available.",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk government partnerships KVS CBSE",
+   "status": "logged-no-result",
+   "found": "No evidence of KVS or CBSE partnerships found in any source. No government MoU evidence located.",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk ARR and learner metrics",
+   "status": "logged-no-result",
+   "found": "No ARR disclosed. Only traction metric found: 100,000+ on-chain verifications (Ascendants article, company claim). Revenue band 0-10 Cr INR as of FY25.",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk edtech regulation legal",
+   "status": "logged-no-result",
+   "found": "No edtech-specific regulation or legal issues found. Legal array empty.",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk founders funding Series B; CIN probe",
+   "status": "done",
+   "found": "Founders confirmed as Apoorva Bajaj (CEO) and Shivaani Mehrotra Bajaj (Co-Founder & COO) via Ascendants article and Tracxn. CIN U78100UP2025PTC214727 confirmed. Two legal entities: Edubuk Technologies (2025) and EduProvince Technologies (2019).",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk city Bengaluru vs Hyderabad verification",
+   "status": "done",
+   "found": "Tracxn registered address: Rangareddy, Telangana 500104 (Hyderabad). Existing DB says Bengaluru. Company website edubuk.com does not disclose city. Conflict preserved.",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk MCA financials FY24/FY25",
+   "status": "logged-no-result",
+   "found": "MCA portal (mca.gov.in) returned 403. ZaubaCorp returned 403. Tofler timed out. No audited MCA financials available.",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk government partnerships KVS CBSE",
+   "status": "logged-no-result",
+   "found": "No evidence of KVS or CBSE partnerships found in any source. No government MoU evidence located.",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk ARR and learner metrics",
+   "status": "logged-no-result",
+   "found": "No ARR disclosed. Only traction metric found: 100,000+ on-chain verifications (Ascendants article, company claim). Revenue band 0-10 Cr INR as of FY25.",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk edtech regulation legal",
+   "status": "logged-no-result",
+   "found": "No edtech-specific regulation or legal issues found. Legal array empty.",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk founders funding Series B; CIN probe",
+   "status": "done",
+   "found": "Founders confirmed as Apoorva Bajaj (CEO) and Shivaani Mehrotra Bajaj (Co-Founder & COO) via Ascendants article and Tracxn. CIN U78100UP2025PTC214727 confirmed. Two legal entities: Edubuk Technologies (2025) and EduProvince Technologies (2019).",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk city Bengaluru vs Hyderabad verification",
+   "status": "done",
+   "found": "Tracxn registered address: Rangareddy, Telangana 500104 (Hyderabad). Existing DB says Bengaluru. Company website edubuk.com does not disclose city. Conflict preserved.",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk MCA financials FY24/FY25",
+   "status": "logged-no-result",
+   "found": "MCA portal (mca.gov.in) returned 403. ZaubaCorp returned 403. Tofler timed out. No audited MCA financials available.",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk government partnerships KVS CBSE",
+   "status": "logged-no-result",
+   "found": "No evidence of KVS or CBSE partnerships found in any source. No government MoU evidence located.",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk ARR and learner metrics",
+   "status": "logged-no-result",
+   "found": "No ARR disclosed. Only traction metric found: 100,000+ on-chain verifications (Ascendants article, company claim). Revenue band 0-10 Cr INR as of FY25.",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk edtech regulation legal",
+   "status": "logged-no-result",
+   "found": "No edtech-specific regulation or legal issues found. Legal array empty.",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk founders funding Series B; CIN probe",
+   "status": "done",
+   "found": "Founders confirmed as Apoorva Bajaj (CEO) and Shivaani Mehrotra Bajaj (Co-Founder & COO) via Ascendants article and Tracxn. CIN U78100UP2025PTC214727 confirmed. Two legal entities: Edubuk Technologies (2025) and EduProvince Technologies (2019).",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk city Bengaluru vs Hyderabad verification",
+   "status": "done",
+   "found": "Tracxn registered address: Rangareddy, Telangana 500104 (Hyderabad). Existing DB says Bengaluru. Company website edubuk.com does not disclose city. Conflict preserved.",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk MCA financials FY24/FY25",
+   "status": "logged-no-result",
+   "found": "MCA portal (mca.gov.in) returned 403. ZaubaCorp returned 403. Tofler timed out. No audited MCA financials available.",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk government partnerships KVS CBSE",
+   "status": "logged-no-result",
+   "found": "No evidence of KVS or CBSE partnerships found in any source. No government MoU evidence located.",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk ARR and learner metrics",
+   "status": "logged-no-result",
+   "found": "No ARR disclosed. Only traction metric found: 100,000+ on-chain verifications (Ascendants article, company claim). Revenue band 0-10 Cr INR as of FY25.",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk edtech regulation legal",
+   "status": "logged-no-result",
+   "found": "No edtech-specific regulation or legal issues found. Legal array empty.",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk founders funding Series B; CIN probe",
+   "status": "done",
+   "found": "Founders confirmed as Apoorva Bajaj (CEO) and Shivaani Mehrotra Bajaj (Co-Founder & COO) via Ascendants article and Tracxn. CIN U78100UP2025PTC214727 confirmed. Two legal entities: Edubuk Technologies (2025) and EduProvince Technologies (2019).",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk city Bengaluru vs Hyderabad verification",
+   "status": "done",
+   "found": "Tracxn registered address: Rangareddy, Telangana 500104 (Hyderabad). Existing DB says Bengaluru. Company website edubuk.com does not disclose city. Conflict preserved.",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk MCA financials FY24/FY25",
+   "status": "logged-no-result",
+   "found": "MCA portal (mca.gov.in) returned 403. ZaubaCorp returned 403. Tofler timed out. No audited MCA financials available.",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk government partnerships KVS CBSE",
+   "status": "logged-no-result",
+   "found": "No evidence of KVS or CBSE partnerships found in any source. No government MoU evidence located.",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk ARR and learner metrics",
+   "status": "logged-no-result",
+   "found": "No ARR disclosed. Only traction metric found: 100,000+ on-chain verifications (Ascendants article, company claim). Revenue band 0-10 Cr INR as of FY25.",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk edtech regulation legal",
+   "status": "logged-no-result",
+   "found": "No edtech-specific regulation or legal issues found. Legal array empty.",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk founders funding Series B; CIN probe",
+   "status": "done",
+   "found": "Founders confirmed as Apoorva Bajaj (CEO) and Shivaani Mehrotra Bajaj (Co-Founder & COO) via Ascendants article and Tracxn. CIN U78100UP2025PTC214727 confirmed. Two legal entities: Edubuk Technologies (2025) and EduProvince Technologies (2019).",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk city Bengaluru vs Hyderabad verification",
+   "status": "done",
+   "found": "Tracxn registered address: Rangareddy, Telangana 500104 (Hyderabad). Existing DB says Bengaluru. Company website edubuk.com does not disclose city. Conflict preserved.",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk MCA financials FY24/FY25",
+   "status": "logged-no-result",
+   "found": "MCA portal (mca.gov.in) returned 403. ZaubaCorp returned 403. Tofler timed out. No audited MCA financials available.",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk government partnerships KVS CBSE",
+   "status": "logged-no-result",
+   "found": "No evidence of KVS or CBSE partnerships found in any source. No government MoU evidence located.",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk ARR and learner metrics",
+   "status": "logged-no-result",
+   "found": "No ARR disclosed. Only traction metric found: 100,000+ on-chain verifications (Ascendants article, company claim). Revenue band 0-10 Cr INR as of FY25.",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk edtech regulation legal",
+   "status": "logged-no-result",
+   "found": "No edtech-specific regulation or legal issues found. Legal array empty.",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk founders funding Series B; CIN probe",
+   "status": "done",
+   "found": "Founders confirmed as Apoorva Bajaj (CEO) and Shivaani Mehrotra Bajaj (Co-Founder & COO) via Ascendants article and Tracxn. CIN U78100UP2025PTC214727 confirmed. Two legal entities: Edubuk Technologies (2025) and EduProvince Technologies (2019).",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk city Bengaluru vs Hyderabad verification",
+   "status": "done",
+   "found": "Tracxn registered address: Rangareddy, Telangana 500104 (Hyderabad). Existing DB says Bengaluru. Company website edubuk.com does not disclose city. Conflict preserved.",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk MCA financials FY24/FY25",
+   "status": "logged-no-result",
+   "found": "MCA portal (mca.gov.in) returned 403. ZaubaCorp returned 403. Tofler timed out. No audited MCA financials available.",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk government partnerships KVS CBSE",
+   "status": "logged-no-result",
+   "found": "No evidence of KVS or CBSE partnerships found in any source. No government MoU evidence located.",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk ARR and learner metrics",
+   "status": "logged-no-result",
+   "found": "No ARR disclosed. Only traction metric found: 100,000+ on-chain verifications (Ascendants article, company claim). Revenue band 0-10 Cr INR as of FY25.",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk edtech regulation legal",
+   "status": "logged-no-result",
+   "found": "No edtech-specific regulation or legal issues found. Legal array empty.",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk founders funding Series B; CIN probe",
+   "status": "done",
+   "found": "Founders confirmed as Apoorva Bajaj (CEO) and Shivaani Mehrotra Bajaj (Co-Founder & COO) via Ascendants article and Tracxn. CIN U78100UP2025PTC214727 confirmed. Two legal entities: Edubuk Technologies (2025) and EduProvince Technologies (2019).",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk city Bengaluru vs Hyderabad verification",
+   "status": "done",
+   "found": "Tracxn registered address: Rangareddy, Telangana 500104 (Hyderabad). Existing DB says Bengaluru. Company website edubuk.com does not disclose city. Conflict preserved.",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk MCA financials FY24/FY25",
+   "status": "logged-no-result",
+   "found": "MCA portal (mca.gov.in) returned 403. ZaubaCorp returned 403. Tofler timed out. No audited MCA financials available.",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk government partnerships KVS CBSE",
+   "status": "logged-no-result",
+   "found": "No evidence of KVS or CBSE partnerships found in any source. No government MoU evidence located.",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk ARR and learner metrics",
+   "status": "logged-no-result",
+   "found": "No ARR disclosed. Only traction metric found: 100,000+ on-chain verifications (Ascendants article, company claim). Revenue band 0-10 Cr INR as of FY25.",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk edtech regulation legal",
+   "status": "logged-no-result",
+   "found": "No edtech-specific regulation or legal issues found. Legal array empty.",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk founders funding Series B; CIN probe",
+   "status": "done",
+   "found": "Founders confirmed as Apoorva Bajaj (CEO) and Shivaani Mehrotra Bajaj (Co-Founder & COO) via Ascendants article and Tracxn. CIN U78100UP2025PTC214727 confirmed. Two legal entities: Edubuk Technologies (2025) and EduProvince Technologies (2019).",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk city Bengaluru vs Hyderabad verification",
+   "status": "done",
+   "found": "Tracxn registered address: Rangareddy, Telangana 500104 (Hyderabad). Existing DB says Bengaluru. Company website edubuk.com does not disclose city. Conflict preserved.",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk MCA financials FY24/FY25",
+   "status": "logged-no-result",
+   "found": "MCA portal (mca.gov.in) returned 403. ZaubaCorp returned 403. Tofler timed out. No audited MCA financials available.",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk government partnerships KVS CBSE",
+   "status": "logged-no-result",
+   "found": "No evidence of KVS or CBSE partnerships found in any source. No government MoU evidence located.",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk ARR and learner metrics",
+   "status": "logged-no-result",
+   "found": "No ARR disclosed. Only traction metric found: 100,000+ on-chain verifications (Ascendants article, company claim). Revenue band 0-10 Cr INR as of FY25.",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk edtech regulation legal",
+   "status": "logged-no-result",
+   "found": "No edtech-specific regulation or legal issues found. Legal array empty.",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk founders funding Series B; CIN probe",
+   "status": "done",
+   "found": "Founders confirmed as Apoorva Bajaj (CEO) and Shivaani Mehrotra Bajaj (Co-Founder & COO) via Ascendants article and Tracxn. CIN U78100UP2025PTC214727 confirmed. Two legal entities: Edubuk Technologies (2025) and EduProvince Technologies (2019).",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk city Bengaluru vs Hyderabad verification",
+   "status": "done",
+   "found": "Tracxn registered address: Rangareddy, Telangana 500104 (Hyderabad). Existing DB says Bengaluru. Company website edubuk.com does not disclose city. Conflict preserved.",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk MCA financials FY24/FY25",
+   "status": "logged-no-result",
+   "found": "MCA portal (mca.gov.in) returned 403. ZaubaCorp returned 403. Tofler timed out. No audited MCA financials available.",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk government partnerships KVS CBSE",
+   "status": "logged-no-result",
+   "found": "No evidence of KVS or CBSE partnerships found in any source. No government MoU evidence located.",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk ARR and learner metrics",
+   "status": "logged-no-result",
+   "found": "No ARR disclosed. Only traction metric found: 100,000+ on-chain verifications (Ascendants article, company claim). Revenue band 0-10 Cr INR as of FY25.",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk edtech regulation legal",
+   "status": "logged-no-result",
+   "found": "No edtech-specific regulation or legal issues found. Legal array empty.",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk founders funding Series B; CIN probe",
+   "status": "done",
+   "found": "Founders confirmed as Apoorva Bajaj (CEO) and Shivaani Mehrotra Bajaj (Co-Founder & COO) via Ascendants article and Tracxn. CIN U78100UP2025PTC214727 confirmed. Two legal entities: Edubuk Technologies (2025) and EduProvince Technologies (2019).",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk city Bengaluru vs Hyderabad verification",
+   "status": "done",
+   "found": "Tracxn registered address: Rangareddy, Telangana 500104 (Hyderabad). Existing DB says Bengaluru. Company website edubuk.com does not disclose city. Conflict preserved.",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk MCA financials FY24/FY25",
+   "status": "logged-no-result",
+   "found": "MCA portal (mca.gov.in) returned 403. ZaubaCorp returned 403. Tofler timed out. No audited MCA financials available.",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk government partnerships KVS CBSE",
+   "status": "logged-no-result",
+   "found": "No evidence of KVS or CBSE partnerships found in any source. No government MoU evidence located.",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk ARR and learner metrics",
+   "status": "logged-no-result",
+   "found": "No ARR disclosed. Only traction metric found: 100,000+ on-chain verifications (Ascendants article, company claim). Revenue band 0-10 Cr INR as of FY25.",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk edtech regulation legal",
+   "status": "logged-no-result",
+   "found": "No edtech-specific regulation or legal issues found. Legal array empty.",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk founders funding Series B; CIN probe",
+   "status": "done",
+   "found": "Founders confirmed as Apoorva Bajaj (CEO) and Shivaani Mehrotra Bajaj (Co-Founder & COO) via Ascendants article and Tracxn. CIN U78100UP2025PTC214727 confirmed. Two legal entities: Edubuk Technologies (2025) and EduProvince Technologies (2019).",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk city Bengaluru vs Hyderabad verification",
+   "status": "done",
+   "found": "Tracxn registered address: Rangareddy, Telangana 500104 (Hyderabad). Existing DB says Bengaluru. Company website edubuk.com does not disclose city. Conflict preserved.",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk MCA financials FY24/FY25",
+   "status": "logged-no-result",
+   "found": "MCA portal (mca.gov.in) returned 403. ZaubaCorp returned 403. Tofler timed out. No audited MCA financials available.",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk government partnerships KVS CBSE",
+   "status": "logged-no-result",
+   "found": "No evidence of KVS or CBSE partnerships found in any source. No government MoU evidence located.",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk ARR and learner metrics",
+   "status": "logged-no-result",
+   "found": "No ARR disclosed. Only traction metric found: 100,000+ on-chain verifications (Ascendants article, company claim). Revenue band 0-10 Cr INR as of FY25.",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk edtech regulation legal",
+   "status": "logged-no-result",
+   "found": "No edtech-specific regulation or legal issues found. Legal array empty.",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk founders funding Series B; CIN probe",
+   "status": "done",
+   "found": "Founders confirmed as Apoorva Bajaj (CEO) and Shivaani Mehrotra Bajaj (Co-Founder & COO) via Ascendants article and Tracxn. CIN U78100UP2025PTC214727 confirmed. Two legal entities: Edubuk Technologies (2025) and EduProvince Technologies (2019).",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk city Bengaluru vs Hyderabad verification",
+   "status": "done",
+   "found": "Tracxn registered address: Rangareddy, Telangana 500104 (Hyderabad). Existing DB says Bengaluru. Company website edubuk.com does not disclose city. Conflict preserved.",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk MCA financials FY24/FY25",
+   "status": "logged-no-result",
+   "found": "MCA portal (mca.gov.in) returned 403. ZaubaCorp returned 403. Tofler timed out. No audited MCA financials available.",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk government partnerships KVS CBSE",
+   "status": "logged-no-result",
+   "found": "No evidence of KVS or CBSE partnerships found in any source. No government MoU evidence located.",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk ARR and learner metrics",
+   "status": "logged-no-result",
+   "found": "No ARR disclosed. Only traction metric found: 100,000+ on-chain verifications (Ascendants article, company claim). Revenue band 0-10 Cr INR as of FY25.",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk edtech regulation legal",
+   "status": "logged-no-result",
+   "found": "No edtech-specific regulation or legal issues found. Legal array empty.",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk founders funding Series B; CIN probe",
+   "status": "done",
+   "found": "Founders confirmed as Apoorva Bajaj (CEO) and Shivaani Mehrotra Bajaj (Co-Founder & COO) via Ascendants article and Tracxn. CIN U78100UP2025PTC214727 confirmed. Two legal entities: Edubuk Technologies (2025) and EduProvince Technologies (2019).",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk city Bengaluru vs Hyderabad verification",
+   "status": "done",
+   "found": "Tracxn registered address: Rangareddy, Telangana 500104 (Hyderabad). Existing DB says Bengaluru. Company website edubuk.com does not disclose city. Conflict preserved.",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk MCA financials FY24/FY25",
+   "status": "logged-no-result",
+   "found": "MCA portal (mca.gov.in) returned 403. ZaubaCorp returned 403. Tofler timed out. No audited MCA financials available.",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk government partnerships KVS CBSE",
+   "status": "logged-no-result",
+   "found": "No evidence of KVS or CBSE partnerships found in any source. No government MoU evidence located.",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk ARR and learner metrics",
+   "status": "logged-no-result",
+   "found": "No ARR disclosed. Only traction metric found: 100,000+ on-chain verifications (Ascendants article, company claim). Revenue band 0-10 Cr INR as of FY25.",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk edtech regulation legal",
+   "status": "logged-no-result",
+   "found": "No edtech-specific regulation or legal issues found. Legal array empty.",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk founders funding Series B; CIN probe",
+   "status": "done",
+   "found": "Founders confirmed as Apoorva Bajaj (CEO) and Shivaani Mehrotra Bajaj (Co-Founder & COO) via Ascendants article and Tracxn. CIN U78100UP2025PTC214727 confirmed. Two legal entities: Edubuk Technologies (2025) and EduProvince Technologies (2019).",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk city Bengaluru vs Hyderabad verification",
+   "status": "done",
+   "found": "Tracxn registered address: Rangareddy, Telangana 500104 (Hyderabad). Existing DB says Bengaluru. Company website edubuk.com does not disclose city. Conflict preserved.",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk MCA financials FY24/FY25",
+   "status": "logged-no-result",
+   "found": "MCA portal (mca.gov.in) returned 403. ZaubaCorp returned 403. Tofler timed out. No audited MCA financials available.",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk government partnerships KVS CBSE",
+   "status": "logged-no-result",
+   "found": "No evidence of KVS or CBSE partnerships found in any source. No government MoU evidence located.",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk ARR and learner metrics",
+   "status": "logged-no-result",
+   "found": "No ARR disclosed. Only traction metric found: 100,000+ on-chain verifications (Ascendants article, company claim). Revenue band 0-10 Cr INR as of FY25.",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk edtech regulation legal",
+   "status": "logged-no-result",
+   "found": "No edtech-specific regulation or legal issues found. Legal array empty.",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk founders funding Series B; CIN probe",
+   "status": "done",
+   "found": "Founders confirmed as Apoorva Bajaj (CEO) and Shivaani Mehrotra Bajaj (Co-Founder & COO) via Ascendants article and Tracxn. CIN U78100UP2025PTC214727 confirmed. Two legal entities: Edubuk Technologies (2025) and EduProvince Technologies (2019).",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk city Bengaluru vs Hyderabad verification",
+   "status": "done",
+   "found": "Tracxn registered address: Rangareddy, Telangana 500104 (Hyderabad). Existing DB says Bengaluru. Company website edubuk.com does not disclose city. Conflict preserved.",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk MCA financials FY24/FY25",
+   "status": "logged-no-result",
+   "found": "MCA portal (mca.gov.in) returned 403. ZaubaCorp returned 403. Tofler timed out. No audited MCA financials available.",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk government partnerships KVS CBSE",
+   "status": "logged-no-result",
+   "found": "No evidence of KVS or CBSE partnerships found in any source. No government MoU evidence located.",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk ARR and learner metrics",
+   "status": "logged-no-result",
+   "found": "No ARR disclosed. Only traction metric found: 100,000+ on-chain verifications (Ascendants article, company claim). Revenue band 0-10 Cr INR as of FY25.",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk edtech regulation legal",
+   "status": "logged-no-result",
+   "found": "No edtech-specific regulation or legal issues found. Legal array empty.",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk founders funding Series B; CIN probe",
+   "status": "done",
+   "found": "Founders confirmed as Apoorva Bajaj (CEO) and Shivaani Mehrotra Bajaj (Co-Founder & COO) via Ascendants article and Tracxn. CIN U78100UP2025PTC214727 confirmed. Two legal entities: Edubuk Technologies (2025) and EduProvince Technologies (2019).",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk city Bengaluru vs Hyderabad verification",
+   "status": "done",
+   "found": "Tracxn registered address: Rangareddy, Telangana 500104 (Hyderabad). Existing DB says Bengaluru. Company website edubuk.com does not disclose city. Conflict preserved.",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk MCA financials FY24/FY25",
+   "status": "logged-no-result",
+   "found": "MCA portal (mca.gov.in) returned 403. ZaubaCorp returned 403. Tofler timed out. No audited MCA financials available.",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk government partnerships KVS CBSE",
+   "status": "logged-no-result",
+   "found": "No evidence of KVS or CBSE partnerships found in any source. No government MoU evidence located.",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk ARR and learner metrics",
+   "status": "logged-no-result",
+   "found": "No ARR disclosed. Only traction metric found: 100,000+ on-chain verifications (Ascendants article, company claim). Revenue band 0-10 Cr INR as of FY25.",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk edtech regulation legal",
+   "status": "logged-no-result",
+   "found": "No edtech-specific regulation or legal issues found. Legal array empty.",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk founders funding Series B; CIN probe",
+   "status": "done",
+   "found": "Founders confirmed as Apoorva Bajaj (CEO) and Shivaani Mehrotra Bajaj (Co-Founder & COO) via Ascendants article and Tracxn. CIN U78100UP2025PTC214727 confirmed. Two legal entities: Edubuk Technologies (2025) and EduProvince Technologies (2019).",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk city Bengaluru vs Hyderabad verification",
+   "status": "done",
+   "found": "Tracxn registered address: Rangareddy, Telangana 500104 (Hyderabad). Existing DB says Bengaluru. Company website edubuk.com does not disclose city. Conflict preserved.",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk MCA financials FY24/FY25",
+   "status": "logged-no-result",
+   "found": "MCA portal (mca.gov.in) returned 403. ZaubaCorp returned 403. Tofler timed out. No audited MCA financials available.",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk government partnerships KVS CBSE",
+   "status": "logged-no-result",
+   "found": "No evidence of KVS or CBSE partnerships found in any source. No government MoU evidence located.",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk ARR and learner metrics",
+   "status": "logged-no-result",
+   "found": "No ARR disclosed. Only traction metric found: 100,000+ on-chain verifications (Ascendants article, company claim). Revenue band 0-10 Cr INR as of FY25.",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk edtech regulation legal",
+   "status": "logged-no-result",
+   "found": "No edtech-specific regulation or legal issues found. Legal array empty.",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk founders funding Series B; CIN probe",
+   "status": "done",
+   "found": "Founders confirmed as Apoorva Bajaj (CEO) and Shivaani Mehrotra Bajaj (Co-Founder & COO) via Ascendants article and Tracxn. CIN U78100UP2025PTC214727 confirmed. Two legal entities: Edubuk Technologies (2025) and EduProvince Technologies (2019).",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk city Bengaluru vs Hyderabad verification",
+   "status": "done",
+   "found": "Tracxn registered address: Rangareddy, Telangana 500104 (Hyderabad). Existing DB says Bengaluru. Company website edubuk.com does not disclose city. Conflict preserved.",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk MCA financials FY24/FY25",
+   "status": "logged-no-result",
+   "found": "MCA portal (mca.gov.in) returned 403. ZaubaCorp returned 403. Tofler timed out. No audited MCA financials available.",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk government partnerships KVS CBSE",
+   "status": "logged-no-result",
+   "found": "No evidence of KVS or CBSE partnerships found in any source. No government MoU evidence located.",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk ARR and learner metrics",
+   "status": "logged-no-result",
+   "found": "No ARR disclosed. Only traction metric found: 100,000+ on-chain verifications (Ascendants article, company claim). Revenue band 0-10 Cr INR as of FY25.",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk edtech regulation legal",
+   "status": "logged-no-result",
+   "found": "No edtech-specific regulation or legal issues found. Legal array empty.",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk founders funding Series B; CIN probe",
+   "status": "done",
+   "found": "Founders confirmed as Apoorva Bajaj (CEO) and Shivaani Mehrotra Bajaj (Co-Founder & COO) via Ascendants article and Tracxn. CIN U78100UP2025PTC214727 confirmed. Two legal entities: Edubuk Technologies (2025) and EduProvince Technologies (2019).",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk city Bengaluru vs Hyderabad verification",
+   "status": "done",
+   "found": "Tracxn registered address: Rangareddy, Telangana 500104 (Hyderabad). Existing DB says Bengaluru. Company website edubuk.com does not disclose city. Conflict preserved.",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk MCA financials FY24/FY25",
+   "status": "logged-no-result",
+   "found": "MCA portal (mca.gov.in) returned 403. ZaubaCorp returned 403. Tofler timed out. No audited MCA financials available.",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk government partnerships KVS CBSE",
+   "status": "logged-no-result",
+   "found": "No evidence of KVS or CBSE partnerships found in any source. No government MoU evidence located.",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk ARR and learner metrics",
+   "status": "logged-no-result",
+   "found": "No ARR disclosed. Only traction metric found: 100,000+ on-chain verifications (Ascendants article, company claim). Revenue band 0-10 Cr INR as of FY25.",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk edtech regulation legal",
+   "status": "logged-no-result",
+   "found": "No edtech-specific regulation or legal issues found. Legal array empty.",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk founders funding Series B; CIN probe",
+   "status": "done",
+   "found": "Founders confirmed as Apoorva Bajaj (CEO) and Shivaani Mehrotra Bajaj (Co-Founder & COO) via Ascendants article and Tracxn. CIN U78100UP2025PTC214727 confirmed. Two legal entities: Edubuk Technologies (2025) and EduProvince Technologies (2019).",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk city Bengaluru vs Hyderabad verification",
+   "status": "done",
+   "found": "Tracxn registered address: Rangareddy, Telangana 500104 (Hyderabad). Existing DB says Bengaluru. Company website edubuk.com does not disclose city. Conflict preserved.",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk MCA financials FY24/FY25",
+   "status": "logged-no-result",
+   "found": "MCA portal (mca.gov.in) returned 403. ZaubaCorp returned 403. Tofler timed out. No audited MCA financials available.",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk government partnerships KVS CBSE",
+   "status": "logged-no-result",
+   "found": "No evidence of KVS or CBSE partnerships found in any source. No government MoU evidence located.",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk ARR and learner metrics",
+   "status": "logged-no-result",
+   "found": "No ARR disclosed. Only traction metric found: 100,000+ on-chain verifications (Ascendants article, company claim). Revenue band 0-10 Cr INR as of FY25.",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk edtech regulation legal",
+   "status": "logged-no-result",
+   "found": "No edtech-specific regulation or legal issues found. Legal array empty.",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk founders funding Series B; CIN probe",
+   "status": "done",
+   "found": "Founders confirmed as Apoorva Bajaj (CEO) and Shivaani Mehrotra Bajaj (Co-Founder & COO) via Ascendants article and Tracxn. CIN U78100UP2025PTC214727 confirmed. Two legal entities: Edubuk Technologies (2025) and EduProvince Technologies (2019).",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk city Bengaluru vs Hyderabad verification",
+   "status": "done",
+   "found": "Tracxn registered address: Rangareddy, Telangana 500104 (Hyderabad). Existing DB says Bengaluru. Company website edubuk.com does not disclose city. Conflict preserved.",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk MCA financials FY24/FY25",
+   "status": "logged-no-result",
+   "found": "MCA portal (mca.gov.in) returned 403. ZaubaCorp returned 403. Tofler timed out. No audited MCA financials available.",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk government partnerships KVS CBSE",
+   "status": "logged-no-result",
+   "found": "No evidence of KVS or CBSE partnerships found in any source. No government MoU evidence located.",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk ARR and learner metrics",
+   "status": "logged-no-result",
+   "found": "No ARR disclosed. Only traction metric found: 100,000+ on-chain verifications (Ascendants article, company claim). Revenue band 0-10 Cr INR as of FY25.",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk edtech regulation legal",
+   "status": "logged-no-result",
+   "found": "No edtech-specific regulation or legal issues found. Legal array empty.",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk founders funding Series B; CIN probe",
+   "status": "done",
+   "found": "Founders confirmed as Apoorva Bajaj (CEO) and Shivaani Mehrotra Bajaj (Co-Founder & COO) via Ascendants article and Tracxn. CIN U78100UP2025PTC214727 confirmed. Two legal entities: Edubuk Technologies (2025) and EduProvince Technologies (2019).",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk city Bengaluru vs Hyderabad verification",
+   "status": "done",
+   "found": "Tracxn registered address: Rangareddy, Telangana 500104 (Hyderabad). Existing DB says Bengaluru. Company website edubuk.com does not disclose city. Conflict preserved.",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk MCA financials FY24/FY25",
+   "status": "logged-no-result",
+   "found": "MCA portal (mca.gov.in) returned 403. ZaubaCorp returned 403. Tofler timed out. No audited MCA financials available.",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk government partnerships KVS CBSE",
+   "status": "logged-no-result",
+   "found": "No evidence of KVS or CBSE partnerships found in any source. No government MoU evidence located.",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk ARR and learner metrics",
+   "status": "logged-no-result",
+   "found": "No ARR disclosed. Only traction metric found: 100,000+ on-chain verifications (Ascendants article, company claim). Revenue band 0-10 Cr INR as of FY25.",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk edtech regulation legal",
+   "status": "logged-no-result",
+   "found": "No edtech-specific regulation or legal issues found. Legal array empty.",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk founders funding Series B; CIN probe",
+   "status": "done",
+   "found": "Founders confirmed as Apoorva Bajaj (CEO) and Shivaani Mehrotra Bajaj (Co-Founder & COO) via Ascendants article and Tracxn. CIN U78100UP2025PTC214727 confirmed. Two legal entities: Edubuk Technologies (2025) and EduProvince Technologies (2019).",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk city Bengaluru vs Hyderabad verification",
+   "status": "done",
+   "found": "Tracxn registered address: Rangareddy, Telangana 500104 (Hyderabad). Existing DB says Bengaluru. Company website edubuk.com does not disclose city. Conflict preserved.",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk MCA financials FY24/FY25",
+   "status": "logged-no-result",
+   "found": "MCA portal (mca.gov.in) returned 403. ZaubaCorp returned 403. Tofler timed out. No audited MCA financials available.",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk government partnerships KVS CBSE",
+   "status": "logged-no-result",
+   "found": "No evidence of KVS or CBSE partnerships found in any source. No government MoU evidence located.",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk ARR and learner metrics",
+   "status": "logged-no-result",
+   "found": "No ARR disclosed. Only traction metric found: 100,000+ on-chain verifications (Ascendants article, company claim). Revenue band 0-10 Cr INR as of FY25.",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk edtech regulation legal",
+   "status": "logged-no-result",
+   "found": "No edtech-specific regulation or legal issues found. Legal array empty.",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk founders funding Series B; CIN probe",
+   "status": "done",
+   "found": "Founders confirmed as Apoorva Bajaj (CEO) and Shivaani Mehrotra Bajaj (Co-Founder & COO) via Ascendants article and Tracxn. CIN U78100UP2025PTC214727 confirmed. Two legal entities: Edubuk Technologies (2025) and EduProvince Technologies (2019).",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk city Bengaluru vs Hyderabad verification",
+   "status": "done",
+   "found": "Tracxn registered address: Rangareddy, Telangana 500104 (Hyderabad). Existing DB says Bengaluru. Company website edubuk.com does not disclose city. Conflict preserved.",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk MCA financials FY24/FY25",
+   "status": "logged-no-result",
+   "found": "MCA portal (mca.gov.in) returned 403. ZaubaCorp returned 403. Tofler timed out. No audited MCA financials available.",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk government partnerships KVS CBSE",
+   "status": "logged-no-result",
+   "found": "No evidence of KVS or CBSE partnerships found in any source. No government MoU evidence located.",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk ARR and learner metrics",
+   "status": "logged-no-result",
+   "found": "No ARR disclosed. Only traction metric found: 100,000+ on-chain verifications (Ascendants article, company claim). Revenue band 0-10 Cr INR as of FY25.",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk edtech regulation legal",
+   "status": "logged-no-result",
+   "found": "No edtech-specific regulation or legal issues found. Legal array empty.",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk founders funding Series B; CIN probe",
+   "status": "done",
+   "found": "Founders confirmed as Apoorva Bajaj (CEO) and Shivaani Mehrotra Bajaj (Co-Founder & COO) via Ascendants article and Tracxn. CIN U78100UP2025PTC214727 confirmed. Two legal entities: Edubuk Technologies (2025) and EduProvince Technologies (2019).",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk city Bengaluru vs Hyderabad verification",
+   "status": "done",
+   "found": "Tracxn registered address: Rangareddy, Telangana 500104 (Hyderabad). Existing DB says Bengaluru. Company website edubuk.com does not disclose city. Conflict preserved.",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk MCA financials FY24/FY25",
+   "status": "logged-no-result",
+   "found": "MCA portal (mca.gov.in) returned 403. ZaubaCorp returned 403. Tofler timed out. No audited MCA financials available.",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk government partnerships KVS CBSE",
+   "status": "logged-no-result",
+   "found": "No evidence of KVS or CBSE partnerships found in any source. No government MoU evidence located.",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk ARR and learner metrics",
+   "status": "logged-no-result",
+   "found": "No ARR disclosed. Only traction metric found: 100,000+ on-chain verifications (Ascendants article, company claim). Revenue band 0-10 Cr INR as of FY25.",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk edtech regulation legal",
+   "status": "logged-no-result",
+   "found": "No edtech-specific regulation or legal issues found. Legal array empty.",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk founders funding Series B; CIN probe",
+   "status": "done",
+   "found": "Founders confirmed as Apoorva Bajaj (CEO) and Shivaani Mehrotra Bajaj (Co-Founder & COO) via Ascendants article and Tracxn. CIN U78100UP2025PTC214727 confirmed. Two legal entities: Edubuk Technologies (2025) and EduProvince Technologies (2019).",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk city Bengaluru vs Hyderabad verification",
+   "status": "done",
+   "found": "Tracxn registered address: Rangareddy, Telangana 500104 (Hyderabad). Existing DB says Bengaluru. Company website edubuk.com does not disclose city. Conflict preserved.",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk MCA financials FY24/FY25",
+   "status": "logged-no-result",
+   "found": "MCA portal (mca.gov.in) returned 403. ZaubaCorp returned 403. Tofler timed out. No audited MCA financials available.",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk government partnerships KVS CBSE",
+   "status": "logged-no-result",
+   "found": "No evidence of KVS or CBSE partnerships found in any source. No government MoU evidence located.",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk ARR and learner metrics",
+   "status": "logged-no-result",
+   "found": "No ARR disclosed. Only traction metric found: 100,000+ on-chain verifications (Ascendants article, company claim). Revenue band 0-10 Cr INR as of FY25.",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Edubuk edtech regulation legal",
+   "status": "logged-no-result",
+   "found": "No edtech-specific regulation or legal issues found. Legal array empty.",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  }
+ ],
+ "sources": [
+  {
+   "claim_supported": "Active status, Series B, $50.5M claim, founders, Hyderabad claim",
+   "fields_supported": [
+    "status",
+    "funding",
+    "founders"
+   ],
+   "publication_date": "2025-09-05",
+   "publisher": "Tracxn",
+   "retrieved_date": "2026-09-15",
+   "tier": "T2",
+   "title": "Edubuk - 2026 Company Profile, Team, Funding, Competitors & Financials",
+   "url": "https://tracxn.com/d/companies/edubuk/__wSrA_PFAUB9br2C3r-hfJSC0pkfiicQn-S4E4yW4P5Q"
+  },
+  {
+   "claim_supported": "$50M Nimbus commitment announcement, founder backgrounds",
+   "fields_supported": [
+    "funding",
+    "founders"
+   ],
+   "publication_date": "2026-03-24",
+   "publisher": "Ascendants",
+   "retrieved_date": "2026-09-15",
+   "tier": "T5",
+   "title": "Edubuk Raises $50 Million From Nimbus Capital To Fix Fake CV Crisis With AI & Blockchain",
+   "url": "https://ascendants.in/business-stories/edubuk-50-million-nimbus-capital-ai-blockchain-hiring-platform/"
+  },
+  {
+   "claim_supported": "CIN U78100UP2025PTC214727, incorporated 13 Jan 2025, Active",
+   "fields_supported": [
+    "cin",
+    "incorporation_date"
+   ],
+   "publisher": "ZaubaCorp/Tofler via search snippet",
+   "retrieved_date": "2026-09-15",
+   "tier": "T2",
+   "title": "EDUBUK TECHNOLOGIES PRIVATE LIMITED - ZaubaCorp/Tofler",
+   "url": "https://www.zaubacorp.com"
+  },
+  {
+   "claim_supported": "$55.65M/10 rounds alt count; Series A-II $50M Nimbus; Jun 2025 valuation $11.75-12M",
+   "fields_supported": [
+    "funding"
+   ],
+   "publisher": "CB Insights",
+   "retrieved_date": "2026-09-15",
+   "tier": "T2",
+   "title": "Edubuk Stock Price, Funding, Valuation, Revenue",
+   "url": "https://www.cbinsights.com/company/edubuk/financials"
+  },
+  {
+   "url": "https://tracxn.com/d/companies/edubuk/__wSrA_PFAUB9br2C3r-hfJSC0pkfiicQn-S4E4yW4P5Q/funding-and-investors",
+   "publisher": "Tracxn",
+   "tier": "T2",
+   "publication_date": "2026-09-11",
+   "retrieved_date": "2026-09-15",
+   "confidence": "HIGH",
+   "fields_supported": [
+    "funding_rounds",
+    "investors"
+   ]
+  },
+  {
+   "url": "https://edubuk.com",
+   "publisher": "Edubuk",
+   "tier": "T1",
+   "publication_date": "2026-09-15",
+   "retrieved_date": "2026-09-15",
+   "confidence": "HIGH",
+   "fields_supported": [
+    "official_website"
+   ]
+  }
+ ],
+ "startup_id": "edubuk",
+ "_merged_session2": true,
+ "traction": [
+  {
+   "metric": "on_chain_verifications",
+   "value": 100000,
+   "unit": "count",
+   "period": "As-of-2026-03",
+   "as_of": "2026-03-24",
+   "company_reported": true,
+   "source_url": "https://ascendants.in/business-stories/edubuk-50-million-nimbus-capital-ai-blockchain-hiring-platform/",
+   "confidence": "MEDIUM",
+   "notes": "Ascendants article: Edubuk completed more than 100,000 on-chain verifications"
+  },
+  {
+   "metric": "employee_count",
+   "value": 17,
+   "unit": "count",
+   "period": "As-of-2026-08",
+   "as_of": "2026-08-31",
+   "company_reported": false,
+   "source_url": "https://tracxn.com/d/companies/edubuk/__wSrA_PFAUB9br2C3r-hfJSC0pkfiicQn-S4E4yW4P5Q",
+   "confidence": "MEDIUM",
+   "notes": "Tracxn employee count trend"
+  },
+  {
+   "metric": "global_profiles_affected",
+   "value": 500000000,
+   "unit": "count",
+   "period": "As-of-2026-03",
+   "as_of": "2026-03-24",
+   "company_reported": true,
+   "source_url": "https://ascendants.in/business-stories/edubuk-50-million-nimbus-capital-ai-blockchain-hiring-platform/",
+   "confidence": "LOW",
+   "notes": "Ascendants: startup addressing fake credentials affecting over 500 million profiles globally — company claim, not independently verified"
+  }
+ ],
+ "products": [
+  {
+   "name": "TruCV",
+   "category": "credential verification",
+   "description": "Blockchain-powered, tamper-proof CV platform integrated with DigiLocker allowing instant credential verification",
+   "pricing_model": "SaaS",
+   "launch_date": null,
+   "status": "active",
+   "source_url": "https://ascendants.in/business-stories/edubuk-50-million-nimbus-capital-ai-blockchain-hiring-platform/",
+   "confidence": "MEDIUM"
+  },
+  {
+   "name": "TruJobs",
+   "category": "job matching",
+   "description": "AI-driven job-matching platform for employers",
+   "pricing_model": "SaaS",
+   "launch_date": null,
+   "status": "active",
+   "source_url": "https://ascendants.in/business-stories/edubuk-50-million-nimbus-capital-ai-blockchain-hiring-platform/",
+   "confidence": "MEDIUM"
+  },
+  {
+   "name": "$EBUK token",
+   "category": "crypto token",
+   "description": "Planned reward token for the Edubuk ecosystem",
+   "pricing_model": null,
+   "launch_date": null,
+   "status": "planned",
+   "source_url": "https://ascendants.in/business-stories/edubuk-50-million-nimbus-capital-ai-blockchain-hiring-platform/",
+   "confidence": "LOW",
+   "notes": "Ascendants: company preparing for launch of $EBUK reward token"
+  }
+ ],
+ "people": [
+  {
+   "name": "Apoorva Bajaj",
+   "role": "CEO",
+   "title": "Co-Founder & CEO",
+   "current": true,
+   "since": "2019",
+   "prior_role": "Goldman Sachs, DE Shaw, GlobalData",
+   "source_url": "https://ascendants.in/business-stories/edubuk-50-million-nimbus-capital-ai-blockchain-hiring-platform/",
+   "confidence": "MEDIUM",
+   "notes": "Background: IIT Dhanbad, IIM Kozhikode; work experience in global financial markets at Goldman Sachs, DE Shaw, GlobalData"
+  },
+  {
+   "name": "Shivaani Mehrotra Bajaj",
+   "role": "Co-Founder & COO",
+   "title": "Co-Founder & COO",
+   "current": true,
+   "since": "2019",
+   "prior_role": "Professor, education leader",
+   "source_url": "https://ascendants.in/business-stories/edubuk-50-million-nimbus-capital-ai-blockchain-hiring-platform/",
+   "confidence": "MEDIUM",
+   "notes": "Education leader, former professor, UGC NET qualified, Women in AI APAC finalist"
+  }
+ ],
+ "locations": [
+  {
+   "type": "registered_office",
+   "address_or_area": "Door no. 505/B-508, SANDHYA TECHNO-1, Rangareddy",
+   "city": "Hyderabad",
+   "state": "Telangana",
+   "country": "India",
+   "as_of": "2026-09-11",
+   "source_url": "https://tracxn.com/d/companies/edubuk/__wSrA_PFAUB9br2C3r-hfJSC0pkfiicQn-S4E4yW4P5Q",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "HQ",
+   "address_or_area": "Unverified",
+   "city": "Bengaluru",
+   "state": "Karnataka",
+   "country": "India",
+   "as_of": "2026-09-15",
+   "source_url": "https://edubuk.com",
+   "confidence": "LOW",
+   "notes": "Existing DB claims Bengaluru; company website does not confirm city; Tracxn registered address is Hyderabad/Telangana"
+  }
+ ]
+}

@@ -1,0 +1,397 @@
+{
+ "company": {
+  "business_model": "B2C wealth management: PMS + AIF + distribution; Integrated Portfolio Approach + advisor-led",
+  "city": "Mumbai",
+  "company_name": "Dezerv",
+  "country": "India",
+  "founded_date": "2021-04",
+  "legal_name": "Dezerv Investments Private Limited",
+  "primary_sector": "wealthtech",
+  "public_private": "private",
+  "secondary_sectors": [
+   "investment tech"
+  ],
+  "startup_stage": "Series C",
+  "state": "Maharashtra",
+  "status": "active",
+  "website": "https://www.dezerv.in/",
+  "official_website": {
+   "v": "https://www.dezerv.in",
+   "conf": "high",
+   "src": "https://www.dezerv.in",
+   "note": "verified live 2026-09-15: name match on own homepage"
+  },
+  "careers_website": {
+   "v": "https://www.dezerv.in/careers/",
+   "conf": "high",
+   "src": "https://www.dezerv.in",
+   "note": "playwright render 2026-09-15"
+  }
+ },
+ "completeness_self": {
+  "financials": 5,
+  "founders": 9,
+  "funding": 8,
+  "identity": 9,
+  "investors": 8,
+  "legal": 5,
+  "people": 4,
+  "products": 7,
+  "sources": 8,
+  "traction": 8
+ },
+ "conflicts": [
+  {
+   "claim_a": "Batch manifest city = Bengaluru",
+   "claim_b": "All sources: HQ Mumbai (Tracxn, Crunchbase, LinkedIn, ET, CB Insights)",
+   "field": "city",
+   "resolution": "Mumbai per every observed source; batch city guess was wrong. Mumbai recorded; Karnataka/Bengaluru presence = branch office.",
+   "resolved_value": "Mumbai",
+   "url_a": "batch s1_04.json",
+   "url_b": "https://platform.tracxn.com/a/d/company/608baa385a828c08fa04e09b/dezerv?utm_source=parallel&utm_medium=ai#a:about"
+  },
+  {
+   "claim_a": "Latest round $40M Oct 7 2025 (Tracxn/CB Insights/PitchBook $39.5M)",
+   "claim_b": "ET reports Rs 350 Cr round (Oct 13 2025) co-led Premji + Accel",
+   "field": "series_c_amount",
+   "resolution": "Same round, FX/date-record variance: Rs 350 Cr ≈ $39.5-40M. ET (Oct 13 2025) is the press record.",
+   "resolved_value": "Rs 350 Cr (~$40M), Oct 2025",
+   "url_a": "https://platform.tracxn.com/a/d/company/608baa385a828c08fa04e09b/dezerv?utm_source=parallel&utm_medium=ai#a:about",
+   "url_b": "https://economictimes.indiatimes.com/tech/funding/wealth-management-startup-dezerv-raises-rs-350-crore-from-premji-invest-accel-others/articleshow/124521195.cms"
+  },
+  {
+   "field": "quarantined-claim",
+   "claim_a": "Batch manifest city = Bengaluru",
+   "claim_b": "Mumbai (multiple sources: IndianStartupNews, UnlistedZone 'Mumbai-based Dezerv')",
+   "url_a": "https://indianstartupnews.com/funding/mumbai-based-wealthtech-startup-dezerv-raises-rs-265-crore-in-a-series-b-round-5551742",
+   "url_b": "https://indianstartupnews.com/funding/mumbai-based-wealthtech-startup-dezerv-raises-rs-265-crore-in-a-series-b-round-5551742",
+   "resolution": "Q-wave source hunt: contradicted"
+  }
+ ],
+ "customers": [],
+ "events": [
+  {
+   "announced_date": "2024-07-09",
+   "confidence": "HIGH",
+   "date": "2024-07",
+   "description": "Rs 265 Cr (~$32M) Series B led by Premji Invest (Entrackr).",
+   "headline": "$32M Series B led by Premji Invest",
+   "source_url": "https://entrackr.com/2024/07/wealthtech-startup-dezerv-raises-32-mn-in-series-b",
+   "type": "funding"
+  },
+  {
+   "announced_date": "2025-10-13",
+   "confidence": "HIGH",
+   "date": "2025-10",
+   "description": "Rs 350 Cr co-led by Premji Invest + Accel Global Growth Fund; Elevation + Z47 participated; total raised >Rs 850 Cr; AUM >Rs 14,000 Cr.",
+   "headline": "Rs 350 Cr Series C",
+   "source_url": "https://economictimes.indiatimes.com/tech/funding/wealth-management-startup-dezerv-raises-rs-350-crore-from-premji-invest-accel-others/articleshow/124521195.cms",
+   "type": "funding"
+  }
+ ],
+ "financials": [
+  {
+   "confidence": "MEDIUM",
+   "currency": "INR",
+   "fiscal_year": "FY25",
+   "metric": "net_revenue (range across wealthtech peer reporting)",
+   "source_title": "ET topic page (peer-set reporting: Dezerv/Centricity/Wealthy/AssetPlus Rs 30-60 Cr band, losses up)",
+   "source_url": "https://economictimes.indiatimes.com/topic/dezerv",
+   "unit": "crore",
+   "value": 30,
+   "value_type": "press-quoted-filing"
+  }
+ ],
+ "founders": [
+  {
+   "background": "ex-IIFL Wealth Senior Managing Partner",
+   "confidence": "HIGH",
+   "name": "Sandeep Jethwani",
+   "role": "Co-founder",
+   "source_url": "https://elevationcapital.com/portfolio/dezerv",
+   "still_active": true,
+   "type": "co-founder"
+  },
+  {
+   "background": "ex-IIFL Wealth Senior Managing Partner",
+   "confidence": "HIGH",
+   "name": "Vaibhav Porwal",
+   "role": "Co-founder",
+   "source_url": "https://elevationcapital.com/portfolio/dezerv",
+   "still_active": true,
+   "type": "co-founder"
+  },
+  {
+   "background": "ex-IIFL Wealth Senior Managing Partner",
+   "confidence": "HIGH",
+   "name": "Sahil Contractor",
+   "role": "Co-founder",
+   "source_url": "https://elevationcapital.com/portfolio/dezerv",
+   "still_active": true,
+   "type": "co-founder"
+  }
+ ],
+ "funding_rounds": [
+  {
+   "all_investors": [
+    "Premji Invest",
+    "Elevation Capital",
+    "Accel",
+    "Z47 (ex-Matrix India)"
+   ],
+   "amount": 265,
+   "announced_date": "2024-07-09",
+   "confidence": "HIGH",
+   "currency": "INR",
+   "lead_investors": [
+    "Premji Invest"
+   ],
+   "round_date": "2024-07-05",
+   "round_type": "Series B",
+   "source_date": "2024-07-09",
+   "source_title": "Wealthtech startup Dezerv raises $32 Mn in Series B",
+   "source_url": "https://entrackr.com/2024/07/wealthtech-startup-dezerv-raises-32-mn-in-series-b",
+   "tier": "T3"
+  },
+  {
+   "all_investors": [
+    "Premji Invest",
+    "Accel",
+    "Elevation Capital",
+    "Z47"
+   ],
+   "amount": 350,
+   "announced_date": "2025-10-13",
+   "confidence": "HIGH",
+   "currency": "INR",
+   "lead_investors": [
+    "Premji Invest",
+    "Accel"
+   ],
+   "notes": "Total raised >Rs 850 Cr post-round.",
+   "round_date": "2025-10-07",
+   "round_type": "Series C",
+   "source_date": "2026-09-11",
+   "source_title": "Wealth management startup Dezerv raises Rs 350 crore from Premji Invest, Accel, others",
+   "source_url": "https://economictimes.indiatimes.com/tech/funding/wealth-management-startup-dezerv-raises-rs-350-crore-from-premji-invest-accel-others/articleshow/124521195.cms",
+   "tier": "T3"
+  }
+ ],
+ "gaps": [
+  "CIN not surfaced in this run — needs gapfill",
+  "Series A ($20.4M Aug 2022) press record not verified in this run",
+  "Exact FY25 revenue/loss for Dezerv alone not isolated (peer-band only)",
+  "Valuation not disclosed"
+ ],
+ "investor_links": [
+  {
+   "confidence": "HIGH",
+   "first_seen": "2021-07",
+   "investor": "Elevation Capital",
+   "investor_type": "VC",
+   "lead": false,
+   "rounds": [
+    "Seed",
+    "Series A",
+    "Series B",
+    "Series C"
+   ],
+   "source_url": "https://elevationcapital.com/portfolio/dezerv"
+  },
+  {
+   "confidence": "HIGH",
+   "first_seen": "2022-08",
+   "investor": "Accel",
+   "investor_type": "VC",
+   "lead": true,
+   "rounds": [
+    "Series A",
+    "Series C"
+   ],
+   "source_url": "https://economictimes.indiatimes.com/tech/funding/wealth-management-startup-dezerv-raises-rs-350-crore-from-premji-invest-accel-others/articleshow/124521195.cms"
+  },
+  {
+   "confidence": "HIGH",
+   "first_seen": "2024-07",
+   "investor": "Premji Invest",
+   "investor_type": "family office/PE",
+   "lead": true,
+   "rounds": [
+    "Series B",
+    "Series C"
+   ],
+   "source_url": "https://entrackr.com/2024/07/wealthtech-startup-dezerv-raises-32-mn-in-series-b"
+  },
+  {
+   "confidence": "MEDIUM",
+   "first_seen": "2022-08",
+   "investor": "Z47 (ex-Matrix Partners India)",
+   "investor_type": "VC",
+   "lead": false,
+   "rounds": [
+    "Series A",
+    "Series B",
+    "Series C"
+   ],
+   "source_url": "https://platform.tracxn.com/a/d/company/608baa385a828c08fa04e09b/dezerv?utm_source=parallel&utm_medium=ai#a:about"
+  }
+ ],
+ "investors_meta": [
+  {
+   "hq_geography": "India",
+   "india_presence": true,
+   "investor": "Premji Invest",
+   "source_url": "https://entrackr.com/2024/07/wealthtech-startup-dezerv-raises-32-mn-in-series-b",
+   "type": "family office/PE"
+  }
+ ],
+ "legal": [],
+ "locations": [
+  {
+   "address_or_area": "Trade Centre, Bandra Kurla Complex, Bandra East",
+   "as_of": "2026",
+   "city": "Mumbai",
+   "confidence": "MEDIUM",
+   "source_url": "https://www.zoominfo.com/p/Sandeep-Jethwani/6079099416",
+   "state": "Maharashtra",
+   "type": "HQ"
+  }
+ ],
+ "partnerships": [
+  {
+   "confidence": "MEDIUM",
+   "description": "Wealth Review feature on Moneycontrol app",
+   "name": "Moneycontrol",
+   "source_url": "https://www.cbinsights.com/company/dezerv"
+  }
+ ],
+ "people": [
+  {
+   "confidence": "MEDIUM",
+   "name": "Susmit Patodia",
+   "position": "Group Head of Business & New Initiatives (ex-Accenture; joined Sep 2025)",
+   "source_url": "https://economictimes.indiatimes.com/topic/dezerv"
+  }
+ ],
+ "products": [
+  {
+   "category": "wealth (PMS/AIF/distribution)",
+   "description": "Actively managed multi-asset portfolios + expert advisory; app tracks MF/stocks/NPS/FD/bank (5L+ investors tracking Rs 2L Cr+); AUM Rs 14,000 Cr+",
+   "name": "Dezerv wealth platform",
+   "source_url": "https://economictimes.indiatimes.com/tech/funding/wealth-management-startup-dezerv-raises-rs-350-crore-from-premji-invest-accel-others/articleshow/124521195.cms",
+   "status": "live"
+  }
+ ],
+ "research_log": [
+  {
+   "found": "ACTIVE; HQ Mumbai (batch city wrong); Rs 350Cr Series C Oct 2025; $32M Series B Jul 2024; founders ex-IIFL verified; AUM Rs 14,000Cr",
+   "next_action": "Write enrich JSON; flag CIN + Series A press + exact FY25 for gapfill",
+   "query": "Dezerv status/funding/founders/CIN/financials",
+   "unresolved": "CIN; Series A press; Dezerv-specific FY25 revenue/loss"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "Dezerv wealthtech headquarters Mumbai founded",
+   "found": "Mumbai-based per multiple outlets; Bengaluru manifest entry contradicted",
+   "unresolved": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "Q-wave claim source-hunt",
+   "found": "1 resolved",
+   "unresolved": "",
+   "next_action": "none"
+  }
+ ],
+ "sources": [
+  {
+   "fields_supported": [
+    "funding",
+    "investors",
+    "aum",
+    "founders"
+   ],
+   "publication_date": "2025-10-13",
+   "publisher": "Economic Times",
+   "retrieved_date": "2026-09-15",
+   "tier": "T3",
+   "title": "Wealth management startup Dezerv raises Rs 350 crore from Premji Invest, Accel, others",
+   "url": "https://economictimes.indiatimes.com/tech/funding/wealth-management-startup-dezerv-raises-rs-350-crore-from-premji-invest-accel-others/articleshow/124521195.cms"
+  },
+  {
+   "fields_supported": [
+    "funding"
+   ],
+   "publication_date": "2024-07-09",
+   "publisher": "Entrackr",
+   "retrieved_date": "2026-09-15",
+   "tier": "T3",
+   "title": "Wealthtech startup Dezerv raises $32 Mn in Series B",
+   "url": "https://entrackr.com/2024/07/wealthtech-startup-dezerv-raises-32-mn-in-series-b"
+  },
+  {
+   "fields_supported": [
+    "founders",
+    "thesis"
+   ],
+   "publication_date": null,
+   "publisher": "Elevation Capital (investor page, vault-fetched)",
+   "retrieved_date": "2026-09-15",
+   "tier": "T4",
+   "title": "Dezerv – Elevation Capital",
+   "url": "https://elevationcapital.com/portfolio/dezerv"
+  },
+  {
+   "fields_supported": [
+    "founders",
+    "hq",
+    "team"
+   ],
+   "publication_date": null,
+   "publisher": "Dezerv (company site)",
+   "retrieved_date": "2026-09-15",
+   "tier": "T1",
+   "title": "Dezerv team page",
+   "url": "http://dezerv.in/team"
+  },
+  {
+   "fields_supported": [
+    "rounds",
+    "stage",
+    "hq"
+   ],
+   "publication_date": null,
+   "publisher": "Tracxn",
+   "retrieved_date": "2026-09-15",
+   "tier": "T2",
+   "title": "Dezerv (Tracxn profile)",
+   "url": "https://platform.tracxn.com/a/d/company/608baa385a828c08fa04e09b/dezerv?utm_source=parallel&utm_medium=ai#a:about"
+  },
+  {
+   "url": "https://indianstartupnews.com/funding/mumbai-based-wealthtech-startup-dezerv-raises-rs-265-crore-in-a-series-b-round-5551742",
+   "title": "Batch manifest city = Bengaluru",
+   "fields": "quarantine-contradiction",
+   "confidence": "MEDIUM"
+  }
+ ],
+ "startup_id": "dezerv",
+ "traction": [
+  {
+   "as_of": "2025-10",
+   "company_reported": true,
+   "confidence": "HIGH",
+   "metric": "AUM",
+   "source_url": "https://economictimes.indiatimes.com/tech/funding/wealth-management-startup-dezerv-raises-rs-350-crore-from-premji-invest-accel-others/articleshow/124521195.cms",
+   "value": "Rs 14,000 Cr+ across PMS/AIF/distribution"
+  },
+  {
+   "as_of": "2025-10",
+   "company_reported": true,
+   "confidence": "MEDIUM",
+   "metric": "app tracking scale",
+   "source_url": "https://economictimes.indiatimes.com/tech/funding/wealth-management-startup-dezerv-raises-rs-350-crore-from-premji-invest-accel-others/articleshow/124521195.cms",
+   "value": "5L+ investors tracking Rs 2L Cr+"
+  }
+ ],
+ "_merged_session2": true
+}

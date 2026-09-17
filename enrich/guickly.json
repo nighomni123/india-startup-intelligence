@@ -1,0 +1,163 @@
+{
+ "startup_id": "guickly",
+ "company": {
+  "company_name": "Guickly",
+  "city": "Bengaluru",
+  "primary_sector": "AI",
+  "startup_stage": "seed",
+  "public_private": "private",
+  "founded_date": "2026",
+  "founders": [
+   {
+    "name": "Prashant Jalan",
+    "role": "Founder",
+    "type": "founder",
+    "background": "Former lead of applied AI at Google",
+    "still_active": true
+   }
+  ],
+  "business_model": "enterprise AI measurement and cost management platform",
+  "official_website": {
+   "v": "https://www.guickly.com",
+   "conf": "high",
+   "src": "https://www.guickly.com",
+   "note": "verified live 2026-09-15: name match on own homepage"
+  },
+  "careers_website": {
+   "v": "https://www.guickly.com/company/careers",
+   "conf": "high",
+   "src": "https://www.guickly.com",
+   "note": "careers link found on official homepage, probed live"
+  },
+  "website": "https://www.guickly.com"
+ },
+ "funding_rounds": [
+  {
+   "round_type": "seed",
+   "announced_date": "Aug 2026",
+   "amount": {
+    "value": 4.2,
+    "currency": "USD Mn"
+   },
+   "lead_investors": [
+    "Engineering Capital"
+   ],
+   "all_investors": [
+    "Engineering Capital"
+   ],
+   "purpose": "measuring AI usage and spending, improving visibility across corporate systems",
+   "source_url": "https://yourstory.com/ai-story/guickly-raises-4m-to-bring-tighter-control-to-enterprise-ai-spending",
+   "source_title": "Former Google applied AI expert launches AI startup Guickly, raises $4.2M in seed funding",
+   "source_date": "2026-08-22",
+   "tier": "T2",
+   "confidence": 0.9
+  },
+  {
+   "round_type": "seed",
+   "announced_date": "Aug 2026",
+   "amount": {
+    "value": 4.2,
+    "currency": "USD Mn"
+   },
+   "lead_investors": [
+    "Engineering Capital"
+   ],
+   "all_investors": [
+    "Engineering Capital"
+   ],
+   "purpose": "enterprise AI cost management",
+   "source_url": "https://www.vccircle.com/creedomguickly-raise-early-stage-funding",
+   "title": "Creedom, Guickly raise early-stage funding",
+   "source_date": "2026-08-22",
+   "tier": "T3",
+   "confidence": 0.8
+  }
+ ],
+ "founders": [
+  {
+   "name": "Prashant Jalan",
+   "role": "Founder",
+   "type": "founder",
+   "background": "Former applied AI lead at Google",
+   "still_active": true,
+   "source_url": "https://ascendants.in/the-ascendants/prashant-jalan-guickly-enterprise-ai-shadow-ai-funding/",
+   "confidence": 0.9
+  }
+ ],
+ "locations": [
+  {
+   "type": "HQ",
+   "city": "Bengaluru",
+   "state": "Karnataka",
+   "as_of": "2026",
+   "source_url": "https://ascendants.in/the-ascendants/prashant-jalan-guickly-enterprise-ai-shadow-ai-funding/",
+   "confidence": 0.8
+  }
+ ],
+ "events": [
+  {
+   "date": "2026-08-22",
+   "type": "funding_announcement",
+   "headline": "Guickly raises $4.2M seed funding",
+   "description": "Former Google AI lead Prashant Jalan launches Guickly, an enterprise AI measurement startup",
+   "source_url": "https://yourstory.com/ai-story/guickly-raises-4m-to-bring-tighter-control-to-enterprise-ai-spending",
+   "confidence": 0.9
+  }
+ ],
+ "sources": [
+  {
+   "url": "https://yourstory.com/ai-story/guickly-raises-4m-to-bring-tighter-control-to-enterprise-ai-spending",
+   "title": "Former Google applied AI expert launches AI startup Guickly, raises $4.2M in seed funding",
+   "publisher": "YourStory",
+   "publication_date": "2026-08-22",
+   "tier": "T2",
+   "claim_supported": "funding_rounds, founders, city"
+  },
+  {
+   "url": "https://ascendants.in/the-ascendants/prashant-jalan-guickly-enterprise-ai-shadow-ai-funding/",
+   "title": "Meet Prashant Jalan: The Former Google AI Expert Building Guickly to Bring Visibility Into Enterprise AI",
+   "publisher": "Ascendants",
+   "publication_date": "2026-08-22",
+   "tier": "T3",
+   "claim_supported": "founders, city"
+  },
+  {
+   "url": "https://www.vccircle.com/creedomguickly-raise-early-stage-funding",
+   "title": "Creedom, Guickly raise early-stage funding",
+   "publisher": "VCCircle",
+   "publication_date": "2026-08-22",
+   "tier": "T3",
+   "claim_supported": "funding_rounds"
+  }
+ ],
+ "gaps": [
+  "City listed as Bengaluru based on YourStory/ascendants.in references; some US-focused articles describe it as San Jose — likely dual HQ or US entity",
+  "Exact incorporation date and CIN not verified",
+  "Lead investor name 'Engineering Capital' from batch manifest; not independently confirmed in search snippets"
+ ],
+ "research_log": [
+  {
+   "query": "Guickly AI startup seed funding Engineering Capital 2026 founder Google",
+   "found": "Seed round $4.2M, founder Prashant Jalan ex-Google, Bengaluru-based",
+   "unresolved": "Engineering Capital as lead investor not confirmed in snippets; city ambiguity Bengaluru vs San Jose"
+  },
+  {
+   "query": "Guickly Bengaluru AI startup seed funding Prashant Jalan 2026",
+   "found": "Bengaluru HQ confirmed via multiple sources",
+   "unresolved": "CIN, incorporation date"
+  }
+ ],
+ "completeness_self": {
+  "identity": 7,
+  "founders": 8,
+  "funding": 7,
+  "investors": 5,
+  "financials": 3,
+  "products": 5,
+  "traction": 3,
+  "people": 3,
+  "customers": 2,
+  "legal": 2,
+  "sources": 7
+ }
+}

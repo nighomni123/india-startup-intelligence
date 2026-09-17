@@ -1,0 +1,3751 @@
+{
+ "acquisitions": [],
+ "company": {
+  "business_model": "B2B merchant commerce / payments platform + issuing",
+  "city": "Noida",
+  "company_name": "Pine Labs",
+  "confidence": "HIGH",
+  "country": "India",
+  "customer_type": "B2B (merchants, banks, brands)",
+  "founded_date": "1998",
+  "hq_type": "corporate office Noida; registered office Gurugram",
+  "last_funding_date": "2025-11-14",
+  "last_funding_round": "IPO",
+  "last_known_valuation": "~$3.3B market cap on listing (Rs 28,856 cr)",
+  "legal_name": "Pine Labs Limited",
+  "primary_sector": "fintech",
+  "secondary_sectors": [
+   "payments",
+   "merchant commerce",
+   "issuing/prepaid"
+  ],
+  "startup_id": "pine labs",
+  "startup_stage": "Public (listed Nov 2025)",
+  "state": "Uttar Pradesh / Haryana",
+  "status": "operating",
+  "total_funding_disclosed": "~$954M+ pre-IPO private (Tracxn); IPO Rs 3,900 cr (~$440M)",
+  "website": "https://pinelabs.com",
+  "cin": "L67100HR1998PLC113312",
+  "incorporation_date": "1998-05-18",
+  "registered_office": "Unit No. 408, 4th Floor, Time Tower, MG Road, DLF QE, Gurgaon, Haryana 122002",
+  "official_website": {
+   "v": "https://pinelabs.com",
+   "conf": "high",
+   "src": "https://pinelabs.com (search result title: 'Pine Labs | Leading Merchant Platform for Omni-channel Payment Solutions')",
+   "note": "W-wave verified 2026-09-15"
+  },
+  "careers_website": {
+   "v": "https://www.pinelabs.com/careers",
+   "conf": "high",
+   "src": "https://www.pinelabs.com/careers (search result title: 'Careers at Pine Labs – Join Our Fintech Innovation Team')",
+   "note": "Careers page confirmed via search"
+  },
+  "description": {
+   "v": "Indian multinational fintech providing POS systems, payment gateway, prepaid solutions, credit processing and AI-enabled fintech infrastructure for merchants across India, SE Asia and Middle East"
+  },
+  "employee_estimate": {
+   "v": 3535
+  },
+  "public_private": {
+   "v": "Public"
+  }
+ },
+ "competitors": [
+  {
+   "basis": "explicit",
+   "category": "payments",
+   "confidence": "MEDIUM",
+   "name": "Paytm / PhonePe (cited as competitors in Reuters DRHP coverage)"
+  },
+  {
+   "basis": "inferred",
+   "category": "payments infra",
+   "confidence": "LOW",
+   "name": "Stripe (CEO-cited closest global comparable)"
+  }
+ ],
+ "completeness_self": {
+  "customers": 4,
+  "financials": 6,
+  "founders": 7,
+  "funding": 8,
+  "identity": 8,
+  "investors": 7,
+  "legal": 3,
+  "people": 5,
+  "products": 6,
+  "sources": 8,
+  "traction": 5
+ },
+ "conflicts": [
+  {
+   "claim_a": "IPO valuation ~$2.9B at upper price band",
+   "claim_b": "June 2025 Reuters: seeking $5-6B valuation, ~$1B IPO",
+   "field": "ipo_valuation",
+   "resolution": "Timeline progression: June expectation superseded by Nov 2025 RHP pricing at ~$2.9B; listing-day mcap ~$3.3B",
+   "resolved_value": "$2.9B issue valuation; $3.25-3.3B listing-day mcap",
+   "url_a": "https://techcrunch.com/2025/11/03/pine-labs-aims-to-take-indian-fintech-global-even-as-it-cuts-valuation-for-ipo/",
+   "url_b": "https://www.reuters.com/world/india/indian-fintech-firm-pine-labs-files-initial-public-offering-2025-06-26/"
+  },
+  {
+   "claim_a": "Corporate office Noida",
+   "claim_b": "Gurugram-based (TechCrunch/ET)",
+   "field": "city",
+   "resolution": "Seed said Delhi NCR (broadly correct); Wikipedia distinguishes corporate office Noida + registered office Gurugram",
+   "resolved_value": "Noida corporate; Gurugram registered",
+   "url_a": "https://en.wikipedia.org/wiki/Pine_Labs",
+   "url_b": "https://techcrunch.com/2025/11/14/pine-labs-gets-warm-market-welcome-on-440m-india-ipo-despite-a-valuation-trim/"
+  },
+  {
+   "field": "cin",
+   "claim_a": "L67100HR1998PLC113312",
+   "url_a": "",
+   "claim_b": "U67100HR1998PLC113312",
+   "url_b": "",
+   "resolution": "phase3 p3 payload disagrees with existing value; existing kept as preferred pending human review",
+   "resolved_value": "",
+   "reviewed": "p3-merge"
+  },
+  {
+   "field": "status",
+   "claim_a": "operating",
+   "url_a": "",
+   "claim_b": "Public (listed)",
+   "url_b": "",
+   "resolution": "phase3 p3 payload disagrees with existing value; existing kept as preferred pending human review",
+   "resolved_value": "",
+   "reviewed": "p3-merge"
+  },
+  {
+   "field": "state",
+   "claim_a": "Uttar Pradesh / Haryana",
+   "url_a": "",
+   "claim_b": "Uttar Pradesh",
+   "url_b": "",
+   "resolution": "phase3 p3 payload disagrees with existing value; existing kept as preferred pending human review",
+   "resolved_value": "",
+   "reviewed": "p3-merge"
+  },
+  {
+   "field": "fy25_revenue",
+   "claim_a": "FY25 revenue Rs 2,274 crore (Wikipedia)",
+   "url_a": "https://en.wikipedia.org/wiki/Pine_Labs",
+   "claim_b": "FY25 consolidated revenue Rs 19,048,060 thousand (~Rs 1,905 cr) per Yahoo Finance",
+   "url_b": "https://finance.yahoo.com/quote/PINELABS.NS/financials",
+   "resolution": "Wikipedia figure may be standalone; Yahoo Finance shows consolidated; discrepancy likely due to standalone vs consolidated basis",
+   "resolved_value": "Standalone ~Rs 2,274 cr; Consolidated ~Rs 1,905 cr (FY25)"
+  }
+ ],
+ "customers": [],
+ "events": [
+  {
+   "announced_date": "2025-06-26",
+   "confidence": "HIGH",
+   "date": "2025-06-26",
+   "description": "DRHP filed; ~Rs 2,600 cr fresh issue + 147.8M share OFS; seeking up to $6B valuation per source",
+   "headline": "Pine Labs files DRHP for ~$1B IPO",
+   "source_url": "https://www.reuters.com/world/india/indian-fintech-firm-pine-labs-files-initial-public-offering-2025-06-26/",
+   "type": "filing"
+  },
+  {
+   "announced_date": "2025-11-03",
+   "confidence": "HIGH",
+   "date": "2025-11-07",
+   "description": "Price band Rs 210-221; Rs 3,900 cr issue (Rs 2,080 cr fresh + 82.3M share OFS); subscription Nov 7-11",
+   "headline": "Pine Labs IPO opens at ~$2.9B valuation",
+   "source_url": "https://techcrunch.com/2025/11/03/pine-labs-aims-to-take-indian-fintech-global-even-as-it-cuts-valuation-for-ipo/",
+   "type": "ipo"
+  },
+  {
+   "announced_date": "2025-11-14",
+   "confidence": "HIGH",
+   "date": "2025-11-14",
+   "description": "Opened Rs 242, closed Rs 251.5-252 (+14%); mcap Rs 28,856 cr (~$3.25-3.3B); NSE: PINELABS",
+   "headline": "Pine Labs lists +14% on debut",
+   "source_url": "https://techcrunch.com/2025/11/14/pine-labs-gets-warm-market-welcome-on-440m-india-ipo-despite-a-valuation-trim/",
+   "type": "listing"
+  },
+  {
+   "type": "founding",
+   "headline": "Pine Labs founded",
+   "date": "1998-05-18",
+   "description": "Incorporated as Pine Labs Private Limited at New Delhi",
+   "source_url": "https://cdn.pinelabs.com/india/investors/pdf/offer-documents/Pine-Labs-Limited-DRHP.pdf",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "ipo_filing",
+   "headline": "DRHP filed with SEBI",
+   "date": "2025-06-25",
+   "description": "Filed DRHP with SEBI for Rs 2,600 cr fresh issue + OFS",
+   "source_url": "https://www.reuters.com/world/india/indian-fintech-firm-pine-labs-files-initial-public-offering-2025-06-26/",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "listing",
+   "headline": "Listed on NSE +14% debut",
+   "date": "2025-11-14",
+   "description": "Opened Rs 242, closed Rs 251.5-252 (+14%); mcap Rs 28,856 cr",
+   "source_url": "https://techcrunch.com/2025/11/14/pine-labs-gets-warm-market-welcome-on-440m-india-ipo-despite-a-valuation-trim/",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "ipo_filing",
+   "headline": "Confidential US IPO filing",
+   "date": "2022-01-10",
+   "description": "Filed confidentially with SEC seeking ~$500M; valuation $5.5-7B",
+   "source_url": "https://www.reuters.com/markets/stocks/indian-fintech-company-pine-labs-confidentially-files-us-ipo-bloomberg-news-2022-01-10",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "ipo_deferral",
+   "headline": "Deferred US IPO",
+   "date": "2022-02-27",
+   "description": "May defer US listing due to unfavorable market conditions",
+   "source_url": "https://www.livemint.com/companies/start-ups/pine-labs-may-defer-us-listing/amp-11645990803667.html",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "acquisition",
+   "headline": "Acquired Qwikcilver",
+   "date": "2019-04-19",
+   "description": "Completed acquisition for $110M",
+   "source_url": "https://www.pinelabs.com/media-analyst/pine-labs-completes-qwikcilver-acquisition",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "acquisition",
+   "headline": "Acquired Shopflo",
+   "date": "2026-04-25",
+   "description": "Checkout optimization platform; 1000+ e-commerce brands",
+   "source_url": "https://www.pinelabs.com/media-analyst/pine-labs-acquires-shopflo-to-build-indias-leading-unified-commerce-and-payments-platform",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "regulatory",
+   "headline": "RBI penalty for KYC lapses",
+   "date": "2026-03-23",
+   "description": "RBI imposed Rs 3.10 lakh penalty for PPI KYC non-compliance",
+   "source_url": "https://www.businesstoday.in/technology/news/story/rbi-fines-pine-labs-for-kyc-lapses-in-prepaid-payment-instruments-522801-2026-03-27",
+   "confidence": "HIGH"
+  }
+ ],
+ "financials": [
+  {
+   "confidence": "MEDIUM",
+   "currency": "INR",
+   "fiscal_year": "FY25",
+   "metric": "revenue",
+   "source_title": "Pine Labs (Wikipedia, citing filings)",
+   "source_url": "https://en.wikipedia.org/wiki/Pine_Labs",
+   "value": 2274,
+   "value_type": "press-quoted-filing"
+  },
+  {
+   "fiscal_year": "FY21",
+   "metric": "total_revenue",
+   "value": 128054,
+   "unit": "lakh",
+   "currency": "INR",
+   "value_type": "press-quoted-filing",
+   "source_url": "https://quartr.com/events/pine-labs-limited-pinelabs-q4-23-24_FR3zKeJX",
+   "source_title": "Pine Labs Q4 FY23/24 earnings summary - Quartr",
+   "source_date": "2025-12-02",
+   "confidence": "MEDIUM"
+  },
+  {
+   "fiscal_year": "FY23",
+   "metric": "total_revenue",
+   "value": 13537120,
+   "unit": "thousand",
+   "currency": "INR",
+   "value_type": "press-quoted-filing",
+   "source_url": "https://finance.yahoo.com/quote/PINELABS.NS/financials",
+   "source_title": "PINE LABS LIMITED Income Statement - Yahoo Finance",
+   "source_date": "2026-09-15",
+   "confidence": "MEDIUM"
+  },
+  {
+   "fiscal_year": "FY23",
+   "metric": "net_income",
+   "value": -2651450,
+   "unit": "thousand",
+   "currency": "INR",
+   "value_type": "press-quoted-filing",
+   "source_url": "https://finance.yahoo.com/quote/PINELABS.NS/financials",
+   "source_title": "PINE LABS LIMITED Income Statement - Yahoo Finance",
+   "source_date": "2026-09-15",
+   "confidence": "MEDIUM"
+  },
+  {
+   "fiscal_year": "FY24",
+   "metric": "total_revenue",
+   "value": 14331190,
+   "unit": "thousand",
+   "currency": "INR",
+   "value_type": "press-quoted-filing",
+   "source_url": "https://finance.yahoo.com/quote/PINELABS.NS/financials",
+   "source_title": "PINE LABS LIMITED Income Statement - Yahoo Finance",
+   "source_date": "2026-09-15",
+   "confidence": "MEDIUM"
+  },
+  {
+   "fiscal_year": "FY24",
+   "metric": "net_income",
+   "value": -3419030,
+   "unit": "thousand",
+   "currency": "INR",
+   "value_type": "press-quoted-filing",
+   "source_url": "https://finance.yahoo.com/quote/PINELABS.NS/financials",
+   "source_title": "PINE LABS LIMITED Income Statement - Yahoo Finance",
+   "source_date": "2026-09-15",
+   "confidence": "MEDIUM"
+  },
+  {
+   "fiscal_year": "FY24",
+   "metric": "total_revenue",
+   "value": 130962,
+   "unit": "lakh",
+   "currency": "INR",
+   "value_type": "press-quoted-filing",
+   "source_url": "https://quartr.com/events/pine-labs-limited-pinelabs-q4-23-24_FR3zKeJX",
+   "source_title": "Pine Labs Q4 FY23/24 earnings summary - Quartr",
+   "source_date": "2025-12-02",
+   "confidence": "MEDIUM"
+  },
+  {
+   "fiscal_year": "FY25",
+   "metric": "total_revenue",
+   "value": 19048060,
+   "unit": "thousand",
+   "currency": "INR",
+   "value_type": "press-quoted-filing",
+   "source_url": "https://finance.yahoo.com/quote/PINELABS.NS/financials",
+   "source_title": "PINE LABS LIMITED Income Statement - Yahoo Finance",
+   "source_date": "2026-09-15",
+   "confidence": "MEDIUM"
+  },
+  {
+   "fiscal_year": "FY25",
+   "metric": "total_revenue",
+   "value": 2274,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "press-quoted-filing",
+   "source_url": "https://en.wikipedia.org/wiki/Pine_Labs",
+   "source_title": "Pine Labs - Wikipedia",
+   "source_date": "2026-09-15",
+   "confidence": "MEDIUM"
+  },
+  {
+   "fiscal_year": "FY25",
+   "metric": "net_income",
+   "value": -1454870,
+   "unit": "thousand",
+   "currency": "INR",
+   "value_type": "press-quoted-filing",
+   "source_url": "https://finance.yahoo.com/quote/PINELABS.NS/financials",
+   "source_title": "PINE LABS LIMITED Income Statement - Yahoo Finance",
+   "source_date": "2026-09-15",
+   "confidence": "MEDIUM"
+  },
+  {
+   "fiscal_year": "FY25",
+   "metric": "net_income",
+   "value": -145,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "press-quoted-filing",
+   "source_url": "https://en.wikipedia.org/wiki/Pine_Labs",
+   "source_title": "Pine Labs - Wikipedia",
+   "source_date": "2026-09-15",
+   "confidence": "MEDIUM"
+  },
+  {
+   "fiscal_year": "FY26",
+   "metric": "total_revenue",
+   "value": 306754,
+   "unit": "thousand",
+   "currency": "USD",
+   "value_type": "press-quoted-filing",
+   "source_url": "https://pitchbook.com/profiles/company/12648-25",
+   "source_title": "Pine Labs - PitchBook",
+   "source_date": "2026-09-15",
+   "confidence": "MEDIUM"
+  },
+  {
+   "fiscal_year": "FY26",
+   "metric": "net_income",
+   "value": 12733,
+   "unit": "thousand",
+   "currency": "USD",
+   "value_type": "press-quoted-filing",
+   "source_url": "https://pitchbook.com/profiles/company/12648-25",
+   "source_title": "Pine Labs - PitchBook",
+   "source_date": "2026-09-15",
+   "confidence": "MEDIUM"
+  },
+  {
+   "fiscal_year": "FY26",
+   "metric": "total_revenue",
+   "value": 744,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "press-quoted-filing",
+   "source_url": "https://indianstartupnews.com/news/rbi-fines-pine-labs-rs-31-lakh-for-kyc-lapses-in-prepaid-payment-instruments-11429230",
+   "source_title": "RBI fines Pine Labs - Indian Startup News",
+   "source_date": "2026-03-28",
+   "confidence": "MEDIUM"
+  },
+  {
+   "fiscal_year": "FY26",
+   "metric": "net_income",
+   "value": 42.4,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "press-quoted-filing",
+   "source_url": "https://indianstartupnews.com/news/rbi-fines-pine-labs-rs-31-lakh-for-kyc-lapses-in-prepaid-payment-instruments-11429230",
+   "source_title": "RBI fines Pine Labs - Indian Startup News",
+   "source_date": "2026-03-28",
+   "confidence": "MEDIUM"
+  }
+ ],
+ "founders": [
+  {
+   "background": "IIT Kanpur BTech, IIM Bangalore MBA; ex-Schlumberger; Executive Chairman",
+   "confidence": "MEDIUM",
+   "name": "Lokvir Kapoor",
+   "role": "Executive Chairman, Co-founder",
+   "source_url": "https://startuptalky.com/pine-labs-success-story/",
+   "still_active": true,
+   "type": "co-founder"
+  },
+  {
+   "background": "Limited public detail",
+   "confidence": "MEDIUM",
+   "name": "Rajul Garg",
+   "role": "Co-founder",
+   "source_url": "https://en.wikipedia.org/wiki/Pine_Labs",
+   "still_active": false,
+   "type": "co-founder"
+  },
+  {
+   "confidence": "LOW",
+   "name": "Tarun Upadhyay (Upaday)",
+   "role": "Co-founder",
+   "source_url": "https://tracxn.com/d/companies/pine-labs/__B_uT5mdkziCxRVGPrKBFMXE5NIJjBKHPWKDFLsjo4XQ",
+   "still_active": false,
+   "type": "co-founder"
+  },
+  {
+   "name": "Lokvir Kapoor",
+   "role": "Co-founder, Executive Chairman",
+   "background": "B.Tech Mechanical Engineering IIT Kanpur 1987; MBA IIM Bangalore; ex-Schlumberger in financial management and business development",
+   "education": "IIT Kanpur (BT/ME/1987), IIM Bangalore (MBA)",
+   "still_active": true,
+   "source_url": "https://www.iitk.ac.in/dora/profile/Mr-Lokvir-Kapoor",
+   "source_title": "Mr. Lokvir Kapoor - IIT Kanpur",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Rajul Garg",
+   "role": "Co-founder (left 2003)",
+   "background": "Launched Pine Labs in 1998; left firm in 2003; later Founder & Managing Partner of Leo Capital Global; Founder dottr.ai; angel investor in Meesho, Reify Health, HealthAssure",
+   "education": "Limited public detail",
+   "still_active": false,
+   "source_url": "https://linkedin.com/in/rajulgarg",
+   "source_title": "Rajul Garg - LinkedIn",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Tarun Upadhyay",
+   "role": "Co-founder (left early)",
+   "background": "Limited public detail; Tracxn and multiple sources list as co-founder alongside Kapoor and Garg",
+   "education": "Unknown",
+   "still_active": false,
+   "source_url": "https://tracxn.com/d/companies/pine-labs/__B_uT5mdkziCxRVGPrKBFMXE5NIJjBKHPWKDFLsjo4XQ",
+   "source_title": "Pine Labs - Tracxn",
+   "confidence": "MEDIUM"
+  }
+ ],
+ "funding_rounds": [
+  {
+   "all_investors": [
+    "Temasek",
+    "PayPal"
+   ],
+   "amount": 125,
+   "announced_date": "2018-05",
+   "confidence": "MEDIUM",
+   "currency": "USD",
+   "lead_investors": [],
+   "notes": "Unicorn round; search-snippet fact (Wikipedia snippet)",
+   "round_type": "Private",
+   "source_title": "Pine Labs (Wikipedia)",
+   "source_url": "https://en.wikipedia.org/wiki/Pine_Labs",
+   "tier": "T5",
+   "valuation": "$1B+"
+  },
+  {
+   "all_investors": [
+    "Mastercard"
+   ],
+   "amount": null,
+   "announced_date": "2020-01",
+   "confidence": "MEDIUM",
+   "currency": "USD",
+   "lead_investors": [
+    "Mastercard"
+   ],
+   "notes": "Undisclosed sum; first Indian unicorn of 2020 per StartupTalky",
+   "round_type": "Private",
+   "source_title": "Pine Labs (Wikipedia)",
+   "source_url": "https://en.wikipedia.org/wiki/Pine_Labs",
+   "tier": "T5",
+   "valuation": "$1B+"
+  },
+  {
+   "all_investors": [
+    "Fidelity",
+    "BlackRock"
+   ],
+   "amount": 325,
+   "announced_date": "2021-07",
+   "confidence": "MEDIUM",
+   "currency": "USD",
+   "lead_investors": [
+    "Fidelity",
+    "BlackRock"
+   ],
+   "notes": "Search-snippet fact",
+   "round_type": "Private",
+   "source_title": "Pine Labs (Wikipedia)",
+   "source_url": "https://en.wikipedia.org/wiki/Pine_Labs",
+   "tier": "T5",
+   "valuation": "$3.5B"
+  },
+  {
+   "all_investors": [],
+   "amount": 150,
+   "announced_date": "2022-01",
+   "confidence": "MEDIUM",
+   "currency": "USD",
+   "lead_investors": [
+    "Alpha Wave Global"
+   ],
+   "notes": "Search-snippet fact",
+   "round_type": "Series F",
+   "source_title": "Pine Labs (Wikipedia)",
+   "source_url": "https://en.wikipedia.org/wiki/Pine_Labs",
+   "tier": "T5",
+   "valuation": "$5B"
+  },
+  {
+   "all_investors": [
+    "PayPal",
+    "Actis",
+    "Temasek",
+    "Peak XV Partners"
+   ],
+   "amount": 50,
+   "announced_date": "2022-03-04",
+   "confidence": "MEDIUM",
+   "currency": "USD",
+   "lead_investors": [
+    "Vitruvian Partners"
+   ],
+   "notes": "Tracxn snippet",
+   "round_type": "Series F",
+   "source_title": "Pine Labs (Tracxn profile)",
+   "source_url": "https://tracxn.com/d/companies/pine-labs/__B_uT5mdkziCxRVGPrKBFMXE5NIJjBKHPWKDFLsjo4XQ",
+   "tier": "T2",
+   "valuation": "$5.05B"
+  },
+  {
+   "all_investors": [
+    "anchor + public investors"
+   ],
+   "amount": 3900,
+   "announced_date": "2025-11-03",
+   "confidence": "HIGH",
+   "currency": "INR-cr",
+   "lead_investors": [],
+   "notes": "Fresh Rs 2,080 cr + OFS 82.34M shares; price band Rs 210-221; ~$440M; valuation ~$2.9B",
+   "round_type": "IPO",
+   "source_title": "Pine Labs gets warm market welcome on $440M India IPO | TechCrunch",
+   "source_url": "https://techcrunch.com/2025/11/14/pine-labs-gets-warm-market-welcome-on-440m-india-ipo-despite-a-valuation-trim/",
+   "tier": "T3",
+   "valuation": "~$2.9B at issue; ~$3.3B listing-day mcap"
+  },
+  {
+   "round_type": "Seed",
+   "announced_date": "2009-01-01",
+   "amount": null,
+   "currency": "USD",
+   "valuation": null,
+   "valuation_currency": "USD",
+   "valuation_type": "undisclosed",
+   "lead_investors": [
+    "Peak XV Partners (ex-Sequoia India)"
+   ],
+   "all_investors": [
+    "Peak XV Partners"
+   ],
+   "source_url": "https://www.vccircle.com/mastercard-bets-on-payments-solutions-firm-pine-labs",
+   "source_title": "Mastercard bets on payments solutions firm Pine Labs - VCCircle",
+   "source_date": "2020-01-01",
+   "confidence": "MEDIUM"
+  },
+  {
+   "round_type": "Series A",
+   "announced_date": "2014-05-08",
+   "amount": null,
+   "currency": "USD",
+   "valuation": null,
+   "valuation_currency": "USD",
+   "valuation_type": "undisclosed",
+   "lead_investors": [
+    "Peak XV Partners"
+   ],
+   "all_investors": [
+    "Peak XV Partners",
+    "Sofina"
+   ],
+   "source_url": "https://platform.tracxn.com/a/d/company/531a9c8ce4b0f7e166134ba1/pine%20labs",
+   "source_title": "Pine Labs - Tracxn",
+   "source_date": "2026-09-15",
+   "confidence": "MEDIUM"
+  },
+  {
+   "round_type": "Series B",
+   "announced_date": "2018-01-12",
+   "amount": 82,
+   "currency": "USD",
+   "valuation": null,
+   "valuation_currency": "USD",
+   "valuation_type": "undisclosed",
+   "lead_investors": [
+    "Actis",
+    "Altimeter Capital"
+   ],
+   "all_investors": [
+    "Actis",
+    "Altimeter Capital",
+    "Madison India Capital",
+    "Sofina"
+   ],
+   "source_url": "https://en.wikipedia.org/wiki/Pine_Labs",
+   "source_title": "Pine Labs - Wikipedia",
+   "source_date": "2026-09-15",
+   "confidence": "MEDIUM"
+  },
+  {
+   "round_type": "Series C",
+   "announced_date": "2018-05-31",
+   "amount": 125,
+   "currency": "USD",
+   "valuation": 1000000000,
+   "valuation_currency": "USD",
+   "valuation_type": "post-money",
+   "lead_investors": [
+    "Temasek",
+    "PayPal"
+   ],
+   "all_investors": [
+    "Temasek",
+    "PayPal",
+    "Sofina"
+   ],
+   "source_url": "https://en.wikipedia.org/wiki/Pine_Labs",
+   "source_title": "Pine Labs - Wikipedia",
+   "source_date": "2026-09-15",
+   "confidence": "MEDIUM"
+  },
+  {
+   "round_type": "Corporate",
+   "announced_date": "2020-01-01",
+   "amount": null,
+   "currency": "USD",
+   "valuation": 1500000000,
+   "valuation_currency": "USD",
+   "valuation_type": "post-money",
+   "lead_investors": [
+    "Mastercard"
+   ],
+   "all_investors": [
+    "Mastercard"
+   ],
+   "source_url": "https://www.americanbanker.com/payments/news/mastercard-invests-in-pine-labs-to-diversify-credit-options-in-south-asia",
+   "source_title": "Mastercard invests in Pine Labs - American Banker",
+   "source_date": "2020-01-24",
+   "confidence": "MEDIUM"
+  },
+  {
+   "round_type": "Series D",
+   "announced_date": "2020-12-21",
+   "amount": 41,
+   "currency": "USD",
+   "valuation": 2040000000,
+   "valuation_currency": "USD",
+   "valuation_type": "post-money",
+   "lead_investors": [
+    "Lone Pine Capital"
+   ],
+   "all_investors": [
+    "Lone Pine Capital"
+   ],
+   "source_url": "https://platform.tracxn.com/a/d/company/531a9c8ce4b0f7e166134ba1/pine%20labs",
+   "source_title": "Pine Labs - Tracxn",
+   "source_date": "2026-09-15",
+   "confidence": "MEDIUM"
+  },
+  {
+   "round_type": "Series D",
+   "announced_date": "2021-04-20",
+   "amount": 5.5,
+   "currency": "USD",
+   "valuation": 2040000000,
+   "valuation_currency": "USD",
+   "valuation_type": "post-money",
+   "lead_investors": [
+    "Smallcap World Fund",
+    "Peak XV Partners",
+    "Baron Capital Group"
+   ],
+   "all_investors": [
+    "Smallcap World Fund",
+    "Peak XV Partners",
+    "Baron Capital Group",
+    "Duro Capital",
+    "Marshall Wace",
+    "Temasek",
+    "Lone Pine Capital",
+    "Lenarco",
+    "Moore Ventures",
+    "WFM Asia"
+   ],
+   "source_url": "https://platform.tracxn.com/a/d/company/531a9c8ce4b0f7e166134ba1/pine%20labs",
+   "source_title": "Pine Labs - Tracxn",
+   "source_date": "2026-09-15",
+   "confidence": "MEDIUM"
+  },
+  {
+   "round_type": "Series E",
+   "announced_date": "2021-05-17",
+   "amount": 285,
+   "currency": "USD",
+   "valuation": 3000000000,
+   "valuation_currency": "USD",
+   "valuation_type": "post-money",
+   "lead_investors": [
+    "Baron Capital Group",
+    "Duro Capital",
+    "Marshall Wace",
+    "Temasek",
+    "Lone Pine Capital"
+   ],
+   "all_investors": [
+    "Baron Capital Group",
+    "Duro Capital",
+    "Marshall Wace",
+    "Temasek",
+    "Lone Pine Capital",
+    "360 One",
+    "Ishana Capital",
+    "IC Partners Long Only Fund",
+    "Founders Global",
+    "Yeoh Chen Chow",
+    "Kotak Investment Advisors",
+    "WFM Asia"
+   ],
+   "source_url": "https://www.pinelabs.com/media-analyst/pine-labs-completes-a-first-close-of-285m-funding-from-new-cross-over-investors",
+   "source_title": "Pine Labs completes first close of $285M - Pine Labs PR",
+   "source_date": "2021-05-17",
+   "confidence": "HIGH"
+  },
+  {
+   "round_type": "Series E",
+   "announced_date": "2021-07-06",
+   "amount": 315,
+   "currency": "USD",
+   "valuation": 3500000000,
+   "valuation_currency": "USD",
+   "valuation_type": "post-money",
+   "lead_investors": [
+    "Fidelity Investments",
+    "BlackRock",
+    "Tree Line Investment Management"
+   ],
+   "all_investors": [
+    "Fidelity Investments",
+    "BlackRock",
+    "Tree Line Investment Management",
+    "360 One",
+    "Ishana Capital",
+    "IC Partners Long Only Fund",
+    "Founders Global",
+    "Yeoh Chen Chow",
+    "Kotak Investment Advisors",
+    "WFM Asia"
+   ],
+   "source_url": "https://en.wikipedia.org/wiki/Pine_Labs",
+   "source_title": "Pine Labs - Wikipedia",
+   "source_date": "2026-09-15",
+   "confidence": "MEDIUM"
+  },
+  {
+   "round_type": "Series F",
+   "announced_date": "2021-09-16",
+   "amount": 100,
+   "currency": "USD",
+   "valuation": 3920000000,
+   "valuation_currency": "USD",
+   "valuation_type": "post-money",
+   "lead_investors": [
+    "Invesco Mutual Fund"
+   ],
+   "all_investors": [
+    "Invesco Mutual Fund"
+   ],
+   "source_url": "https://platform.tracxn.com/a/d/company/531a9c8ce4b0f7e166134ba1/pine%20labs",
+   "source_title": "Pine Labs - Tracxn",
+   "source_date": "2026-09-15",
+   "confidence": "MEDIUM"
+  },
+  {
+   "round_type": "Corporate",
+   "announced_date": "2022-01-04",
+   "amount": 20,
+   "currency": "USD",
+   "valuation": null,
+   "valuation_currency": "USD",
+   "valuation_type": "undisclosed",
+   "lead_investors": [
+    "State Bank of India"
+   ],
+   "all_investors": [
+    "State Bank of India"
+   ],
+   "source_url": "https://www.livemint.com/companies/news/ipobound-pine-labs-raises-50-mn-from-vitruvian-partners-11648619429232.html",
+   "source_title": "IPO-bound Pine Labs raises $50 mn from Vitruvian Partners - LiveMint",
+   "source_date": "2022-03-30",
+   "confidence": "MEDIUM"
+  },
+  {
+   "round_type": "IPO",
+   "announced_date": "2025-06-26",
+   "amount": 2600,
+   "currency": "INR-cr",
+   "valuation": 4500000000,
+   "valuation_currency": "USD",
+   "valuation_type": "target",
+   "lead_investors": [],
+   "all_investors": [
+    "anchor + public investors"
+   ],
+   "source_url": "https://www.reuters.com/world/india/indian-fintech-firm-pine-labs-files-initial-public-offering-2025-06-26/",
+   "source_title": "Fintech firm Pine Labs seeks up to $6B valuation in India IPO - Reuters",
+   "source_date": "2025-06-26",
+   "confidence": "HIGH"
+  },
+  {
+   "round_type": "Secondary",
+   "announced_date": "2025-11-06",
+   "amount": 197.88,
+   "currency": "USD",
+   "valuation": null,
+   "valuation_currency": "USD",
+   "valuation_type": "undisclosed",
+   "lead_investors": [
+    "Amundi Funds"
+   ],
+   "all_investors": [
+    "Amundi Funds",
+    "+9 more"
+   ],
+   "source_url": "https://inc42.com/company/pine-labs/funding",
+   "source_title": "Pine Labs Funding - Inc42",
+   "source_date": "2025-11-06",
+   "confidence": "LOW"
+  }
+ ],
+ "gaps": [
+  "Audited FY25 revenue/PAT not verified from RHP (only Wikipedia-snippet revenue Rs 2,274 cr)",
+  "Pre-2018 round-by-round amounts not fully verified",
+  "CIN/incorporation date not verified",
+  "Headcount/customers count not verified"
+ ],
+ "hiring": [],
+ "investor_links": [
+  {
+   "confidence": "HIGH",
+   "first_seen": "2009",
+   "investor": "Peak XV Partners (ex-Sequoia India)",
+   "investor_type": "VC",
+   "lead": false,
+   "rounds": [
+    "Seed 2009",
+    "Series F 2022",
+    "IPO OFS seller"
+   ],
+   "source_url": "https://techcrunch.com/2025/11/14/pine-labs-gets-warm-market-welcome-on-440m-india-ipo-despite-a-valuation-trim/"
+  },
+  {
+   "confidence": "MEDIUM",
+   "first_seen": "2018",
+   "investor": "PayPal",
+   "investor_type": "corporate",
+   "lead": false,
+   "rounds": [
+    "2018",
+    "Series F 2022"
+   ],
+   "source_url": "https://en.wikipedia.org/wiki/Pine_Labs"
+  },
+  {
+   "confidence": "MEDIUM",
+   "first_seen": "2018",
+   "investor": "Temasek",
+   "investor_type": "sovereign",
+   "lead": false,
+   "rounds": [
+    "2018"
+   ],
+   "source_url": "https://en.wikipedia.org/wiki/Pine_Labs"
+  },
+  {
+   "confidence": "MEDIUM",
+   "first_seen": "2020",
+   "investor": "Mastercard",
+   "investor_type": "corporate",
+   "lead": true,
+   "rounds": [
+    "2020"
+   ],
+   "source_url": "https://en.wikipedia.org/wiki/Pine_Labs"
+  },
+  {
+   "confidence": "MEDIUM",
+   "first_seen": "2022",
+   "investor": "Alpha Wave Global",
+   "investor_type": "PE/VC",
+   "lead": true,
+   "rounds": [
+    "Series F 2022"
+   ],
+   "source_url": "https://en.wikipedia.org/wiki/Pine_Labs"
+  }
+ ],
+ "investors_meta": [],
+ "ip_tech_ai": {
+  "confidence": "LOW",
+  "stack": "Cloud POS, Plural online gateway, Setu BBPS infra"
+ },
+ "legal": [
+  {
+   "type": "regulatory",
+   "entity": "Pine Labs Limited",
+   "date": "2026-03-23",
+   "status": "confirmed-violation",
+   "description": "RBI imposed monetary penalty of Rs 3.10 lakh for non-compliance with PPI directions; issued full-KYC prepaid instruments without completing KYC of holders; order dated March 23, 2026 under Section 30(1) read with Section 26(6) of Payment and Settlement Systems Act, 2007; statutory inspection July 2024-May 2025",
+   "source_url": "https://www.businesstoday.in/technology/news/story/rbi-fines-pine-labs-for-kyc-lapses-in-prepaid-payment-instruments-522801-2026-03-27",
+   "source_title": "RBI fines Pine Labs for KYC lapses - Business Today",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "regulatory",
+   "entity": "Pine Labs Limited",
+   "date": "2025-11",
+   "status": "licence_granted",
+   "description": "Pine Labs secured payment aggregator licences for offline payments, online merchant payments, and processing cross-border payments in November 2025",
+   "source_url": "https://economictimes.indiatimes.com/tech/technology/rbi-fines-pine-labs-rs-3-1-lakh-for-kyc-lapses-on-prepaid-payment-instruments/articleshow/129850646.cms",
+   "source_title": "RBI fines Pine Labs - Economic Times",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "tax_dispute",
+   "entity": "Pine Labs Limited",
+   "date": "2025-01-01",
+   "status": "allegation",
+   "description": "GST department upheld tax demand of Rs 37.33 crore against Pine Labs for case dating back to FY20; includes unpaid GST ~Rs 14.9 cr, interest ~Rs 20.9 cr, penalty Rs 1.48 cr; DRHP revealed GST-related claims exceeding Rs 300 crore",
+   "source_url": "https://www.cnbctv18.com/business/finance/rbi-slaps-fine-on-pine-labs-for-kyc-lapse-in-prepaid-instruments-ws-l-19876584.htm",
+   "source_title": "RBI fines Pine Labs - CNBC TV18",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "patent_dispute",
+   "entity": "Pine Labs Limited",
+   "date": "2019-07-24",
+   "status": "allegation",
+   "description": "Pine Labs challenged validity of a generic patent and filed counter-claim for revocation; District Court moved matter to Karnataka High Court; references to Plutus Smart and dynamic QR codes removed from earlier order",
+   "source_url": "https://www.pinelabs.com/media-analyst/statement-two",
+   "source_title": "Statement Two - Pine Labs",
+   "confidence": "MEDIUM"
+  },
+  {
+   "type": "arbitration",
+   "entity": "Pine Labs Limited",
+   "date": null,
+   "status": "unknown",
+   "description": "No specific PayU arbitration award found in search results. PayU is a competitor (not related to Pine Labs' CEO Amrish Rau's prior employer). No evidence of PayU arbitration against Pine Labs.",
+   "source_url": null,
+   "source_title": null,
+   "confidence": "LOW",
+   "notes": "User mentioned 'PayU arbitration award' but no evidence found; Amrish Rau previously worked at PayU (CEO India) before joining Pine Labs; no arbitration found"
+  }
+ ],
+ "locations": [
+  {
+   "as_of": "2025",
+   "city": "Noida",
+   "confidence": "MEDIUM",
+   "source_url": "https://en.wikipedia.org/wiki/Pine_Labs",
+   "state": "Uttar Pradesh",
+   "type": "HQ"
+  },
+  {
+   "as_of": "2025",
+   "city": "Gurugram",
+   "confidence": "MEDIUM",
+   "source_url": "https://en.wikipedia.org/wiki/Pine_Labs",
+   "state": "Haryana",
+   "type": "registered"
+  },
+  {
+   "type": "hq",
+   "address_or_area": "Noida",
+   "city": "Noida",
+   "state": "Uttar Pradesh",
+   "country": "India",
+   "as_of": "2025",
+   "source_url": "https://en.wikipedia.org/wiki/Pine_Labs",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "registered_office",
+   "address_or_area": "Unit No. 408, 4th Floor, Time Tower, MG Road, DLF QE",
+   "city": "Gurugram",
+   "state": "Haryana",
+   "country": "India",
+   "as_of": "2025",
+   "source_url": "https://cdn.pinelabs.com/india/investors/pdf/offer-documents/Pine-Labs-Limited-DRHP.pdf",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "office",
+   "address_or_area": "Unit No. 1504, 15th Floor, A Wing, Plot no. C-70, The Capital, G Block, BKC Bandra East",
+   "city": "Mumbai",
+   "state": "Maharashtra",
+   "country": "India",
+   "as_of": "2026",
+   "source_url": "https://cdn.pinelabs.com/india/investors/pdf/legal-documents/Pine_Labs_Ltd_Shareholder_Letter_and_Results_Q4_FY26_with_financials.pdf",
+   "confidence": "HIGH"
+  }
+ ],
+ "partnerships": [],
+ "people": [
+  {
+   "confidence": "HIGH",
+   "name": "B. Amrish Rau",
+   "position": "CEO",
+   "source_url": "https://economictimes.indiatimes.com/tech/technology/our-scale-financials-justify-an-ipo-pine-labs-ceo-amrish-rau/articleshow/125061174.cms"
+  },
+  {
+   "name": "B. Amrish Rau",
+   "role": "CEO and Managing Director",
+   "title": "Chairman, MD and CEO",
+   "current": true,
+   "since": "2020-03-03",
+   "prior_role": "Co-Founder Citrus Pay (acquired by PayU 2016)",
+   "source_url": "https://www.pinelabs.com/media-analyst/amrish-rau-joins-pine-labs-as-ceo",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Lokvir Kapoor",
+   "role": "Executive Chairman, Co-founder",
+   "title": "Executive Chairman",
+   "current": true,
+   "since": "1998",
+   "prior_role": "Ex-Schlumberger; IIT Kanpur BTech 1987; IIM Bangalore MBA",
+   "source_url": "https://www.iitk.ac.in/dora/profile/Mr-Lokvir-Kapoor",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Rajul Garg",
+   "role": "Co-founder (left 2003)",
+   "title": "Co-founder",
+   "current": false,
+   "since": "1998",
+   "prior_role": "Left 2003; now Leo Capital / dottr.ai",
+   "source_url": "https://linkedin.com/in/rajulgarg",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Sameer Kamath",
+   "role": "Group CFO",
+   "title": "Group CFO",
+   "current": true,
+   "since": "2025",
+   "prior_role": "Replaced Marc Mathenz",
+   "source_url": "https://cdn.pinelabs.com/india/investors/pdf/legal-documents/Pine_Labs_Ltd_Shareholder_Letter_and_Results_Q4_FY26_with_financials.pdf",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Marc Mathenz",
+   "role": "Former Group CFO",
+   "title": "Group CFO (2021-2025)",
+   "current": false,
+   "since": "2021",
+   "prior_role": "Resigned June 2025",
+   "source_url": "https://theheadandtale.com/news/ipo-bound-pine-labs-cfo-quits",
+   "confidence": "HIGH"
+  }
+ ],
+ "products": [
+  {
+   "confidence": "MEDIUM",
+   "name": "POS merchant platform / Plural gateway / Qwikcilver issuing",
+   "source_url": "https://techcrunch.com/2025/11/03/pine-labs-aims-to-take-indian-fintech-global-even-as-it-cuts-valuation-for-ipo/",
+   "status": "active"
+  },
+  {
+   "name": "POS terminals (Touch, Go, Duo, Hub, Mini, VoicePod)",
+   "category": "in-store payments hardware",
+   "description": "Android-based POS machines for card, QR and contactless payments",
+   "status": "active",
+   "source_url": "https://www.pinelabs.com/pos",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Plural (Pine Labs Online)",
+   "category": "online payment gateway",
+   "description": "Payment gateway platform launched Oct 2021",
+   "status": "active",
+   "source_url": "https://www.pinelabs.com/about",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Qwikcilver Solutions",
+   "category": "gift card / prepaid issuing",
+   "description": "Gift card solutions; acquired 2019 for $110M",
+   "status": "active",
+   "source_url": "https://www.pinelabs.com/media-analyst/pine-labs-completes-qwikcilver-acquisition",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Credit+",
+   "category": "credit issuing platform",
+   "description": "Credit and issuer processing; co-branded credit cards",
+   "status": "active",
+   "source_url": "https://www.pinelabs.com/blog/author/amrish-rau",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Setu",
+   "category": "fintech infrastructure / API",
+   "description": "API infrastructure for account aggregator, ONDC, OCEN",
+   "status": "active",
+   "source_url": "https://www.livemint.com/companies/news/its-official-pine-labs-buys-setu-for-70-75-mn/amp-11655973796127.html",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Shopflo",
+   "category": "checkout optimization SaaS",
+   "description": "Online checkout optimization; acquired Apr 2026",
+   "status": "active",
+   "source_url": "https://www.pinelabs.com/media-analyst/pine-labs-acquires-shopflo-to-build-indias-leading-unified-commerce-and-payments-platform",
+   "confidence": "HIGH"
+  }
+ ],
+ "research_log": [
+  {
+   "found": "IPO terms, listing pop, valuation cut, CEO interview, FY25 EBITDA",
+   "next_action": "Verify RHP financials + CIN from MCA/Tofler",
+   "query": "Pine Labs funding IPO valuation 2025 2026",
+   "unresolved": "Audited revenue/PAT"
+  },
+  {
+   "found": "Founders trio, Peak XV 2009, unicorn path, round list",
+   "next_action": "done",
+   "query": "Pine Labs founders investors Peak XV",
+   "unresolved": "Early round amounts"
+  },
+  {
+   "found": "Wikipedia 403 on fetch; used search snippets at lower confidence",
+   "next_action": "none",
+   "query": "fetch en.wikipedia.org/wiki/Pine_Labs",
+   "unresolved": "fetch failed HTTP 403"
+  },
+  {
+   "date": "2026-09-14",
+   "found": "CIN L67100HR1998PLC113312; incorp 18 May 1998; regd addr Time Tower, MG Road, Gurgaon, Haryana",
+   "query": "Pine Labs Private Limited CIN Tofler ZaubaCorp",
+   "unresolved": "FY25/26 filing financials not in needs scope"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "Pine Labs official website India payments",
+   "found": "pinelabs.com confirmed",
+   "unresolved": ""
+  },
+  {
+   "date": "2026-09-14",
+   "query": "Pine Labs careers page jobs",
+   "found": "pinelabs.com/careers confirmed",
+   "unresolved": ""
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs entity structure subsidiary list Flipkart Walmart",
+   "status": "done",
+   "found": "Direct subsidiaries: BrokenTusk, Grapefruit, Mopay, Pine Labs Digital, Qfix, Synergistic (Mosambee). Step-down: Fave Group, Qwikcilver, Pine Labs Inc,",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs Mastercard $150M investment 2021",
+   "status": "done",
+   "found": "Mastercard invested in Jan 2020 (not 2021) as part of $300M round at $1.5-1.7B valuation. Amount undisclosed. $150M was Alpha Wave Global in Jan 2022 ",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs PayU arbitration RBI",
+   "status": "done",
+   "found": "RBI penalty Rs 3.1 lakh for KYC lapses on PPIs (order Mar 23, 2026). No PayU arbitration award found. Amrish Rau previously CEO at PayU India before j",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs FY financials FY21-FY25",
+   "status": "done",
+   "found": "Yahoo Finance: FY23 rev Rs 1354 cr, FY24 rev Rs 1433 cr, FY25 rev Rs 1905 cr (consolidated). FY25 net loss Rs 145 cr. FY26 first profitable year ($12.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs merchant count terminals traction",
+   "status": "done",
+   "found": "500K+ merchants (2025), 330K POS terminals (2020), $30B annualized payment volume (2020), $100B annual volumes (FY26), $51B GTV Q3 FY26.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs CEO CFO exec changes",
+   "status": "done",
+   "found": "Amrish Rau CEO since Mar 2020 (replaced Vicky Bindra). Marc Mathenz CFO 2021-2025 (resigned Jun 2025), replaced by Sameer Kamath. Navnit Nakra CRO res",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs founders education background",
+   "status": "done",
+   "found": "Lokvir Kapoor: IIT Kanpur BTech ME 1987, IIM Bangalore MBA, ex-Schlumberger. Rajul Garg: left 2003, now Leo Capital/dottr.ai. Tarun Upadhyay: limited ",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs Mswipe product data-as-a-service",
+   "status": "done",
+   "found": "Mswipe is NOT a Pine Labs product - it is an independent competitor. Pine Labs products: POS, Plural, Qwikcilver, Credit+, Setu, Fave, Shopflo.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs DRHP history IPO 2022-2025",
+   "status": "done",
+   "found": "Jan 2022: confidential US SEC filing ($500M, $5.5-7B). Feb 2022: deferred US IPO. Jun 2025: DRHP filed India (Rs 2,600 cr). Nov 2025: IPO opened at ~$",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs locations Gurugram Noida",
+   "status": "done",
+   "found": "Corporate office Noida, UP. Registered office Gurugram, Haryana (Time Tower, MG Road, DLF QE). New Mumbai office (BKC Bandra East) per Q4 FY26. Singap",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs entity structure subsidiary list Flipkart Walmart",
+   "status": "done",
+   "found": "Direct subsidiaries: BrokenTusk, Grapefruit, Mopay, Pine Labs Digital, Qfix, Synergistic (Mosambee). Step-down: Fave Group, Qwikcilver, Pine Labs Inc,",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs Mastercard $150M investment 2021",
+   "status": "done",
+   "found": "Mastercard invested in Jan 2020 (not 2021) as part of $300M round at $1.5-1.7B valuation. Amount undisclosed. $150M was Alpha Wave Global in Jan 2022 ",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs PayU arbitration RBI",
+   "status": "done",
+   "found": "RBI penalty Rs 3.1 lakh for KYC lapses on PPIs (order Mar 23, 2026). No PayU arbitration award found. Amrish Rau previously CEO at PayU India before j",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs FY financials FY21-FY25",
+   "status": "done",
+   "found": "Yahoo Finance: FY23 rev Rs 1354 cr, FY24 rev Rs 1433 cr, FY25 rev Rs 1905 cr (consolidated). FY25 net loss Rs 145 cr. FY26 first profitable year ($12.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs merchant count terminals traction",
+   "status": "done",
+   "found": "500K+ merchants (2025), 330K POS terminals (2020), $30B annualized payment volume (2020), $100B annual volumes (FY26), $51B GTV Q3 FY26.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs CEO CFO exec changes",
+   "status": "done",
+   "found": "Amrish Rau CEO since Mar 2020 (replaced Vicky Bindra). Marc Mathenz CFO 2021-2025 (resigned Jun 2025), replaced by Sameer Kamath. Navnit Nakra CRO res",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs founders education background",
+   "status": "done",
+   "found": "Lokvir Kapoor: IIT Kanpur BTech ME 1987, IIM Bangalore MBA, ex-Schlumberger. Rajul Garg: left 2003, now Leo Capital/dottr.ai. Tarun Upadhyay: limited ",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs Mswipe product data-as-a-service",
+   "status": "done",
+   "found": "Mswipe is NOT a Pine Labs product - it is an independent competitor. Pine Labs products: POS, Plural, Qwikcilver, Credit+, Setu, Fave, Shopflo.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs DRHP history IPO 2022-2025",
+   "status": "done",
+   "found": "Jan 2022: confidential US SEC filing ($500M, $5.5-7B). Feb 2022: deferred US IPO. Jun 2025: DRHP filed India (Rs 2,600 cr). Nov 2025: IPO opened at ~$",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs locations Gurugram Noida",
+   "status": "done",
+   "found": "Corporate office Noida, UP. Registered office Gurugram, Haryana (Time Tower, MG Road, DLF QE). New Mumbai office (BKC Bandra East) per Q4 FY26. Singap",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs entity structure subsidiary list Flipkart Walmart",
+   "status": "done",
+   "found": "Direct subsidiaries: BrokenTusk, Grapefruit, Mopay, Pine Labs Digital, Qfix, Synergistic (Mosambee). Step-down: Fave Group, Qwikcilver, Pine Labs Inc,",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs Mastercard $150M investment 2021",
+   "status": "done",
+   "found": "Mastercard invested in Jan 2020 (not 2021) as part of $300M round at $1.5-1.7B valuation. Amount undisclosed. $150M was Alpha Wave Global in Jan 2022 ",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs PayU arbitration RBI",
+   "status": "done",
+   "found": "RBI penalty Rs 3.1 lakh for KYC lapses on PPIs (order Mar 23, 2026). No PayU arbitration award found. Amrish Rau previously CEO at PayU India before j",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs FY financials FY21-FY25",
+   "status": "done",
+   "found": "Yahoo Finance: FY23 rev Rs 1354 cr, FY24 rev Rs 1433 cr, FY25 rev Rs 1905 cr (consolidated). FY25 net loss Rs 145 cr. FY26 first profitable year ($12.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs merchant count terminals traction",
+   "status": "done",
+   "found": "500K+ merchants (2025), 330K POS terminals (2020), $30B annualized payment volume (2020), $100B annual volumes (FY26), $51B GTV Q3 FY26.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs CEO CFO exec changes",
+   "status": "done",
+   "found": "Amrish Rau CEO since Mar 2020 (replaced Vicky Bindra). Marc Mathenz CFO 2021-2025 (resigned Jun 2025), replaced by Sameer Kamath. Navnit Nakra CRO res",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs founders education background",
+   "status": "done",
+   "found": "Lokvir Kapoor: IIT Kanpur BTech ME 1987, IIM Bangalore MBA, ex-Schlumberger. Rajul Garg: left 2003, now Leo Capital/dottr.ai. Tarun Upadhyay: limited ",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs Mswipe product data-as-a-service",
+   "status": "done",
+   "found": "Mswipe is NOT a Pine Labs product - it is an independent competitor. Pine Labs products: POS, Plural, Qwikcilver, Credit+, Setu, Fave, Shopflo.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs DRHP history IPO 2022-2025",
+   "status": "done",
+   "found": "Jan 2022: confidential US SEC filing ($500M, $5.5-7B). Feb 2022: deferred US IPO. Jun 2025: DRHP filed India (Rs 2,600 cr). Nov 2025: IPO opened at ~$",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs locations Gurugram Noida",
+   "status": "done",
+   "found": "Corporate office Noida, UP. Registered office Gurugram, Haryana (Time Tower, MG Road, DLF QE). New Mumbai office (BKC Bandra East) per Q4 FY26. Singap",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs entity structure subsidiary list Flipkart Walmart",
+   "status": "done",
+   "found": "Direct subsidiaries: BrokenTusk, Grapefruit, Mopay, Pine Labs Digital, Qfix, Synergistic (Mosambee). Step-down: Fave Group, Qwikcilver, Pine Labs Inc,",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs Mastercard $150M investment 2021",
+   "status": "done",
+   "found": "Mastercard invested in Jan 2020 (not 2021) as part of $300M round at $1.5-1.7B valuation. Amount undisclosed. $150M was Alpha Wave Global in Jan 2022 ",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs PayU arbitration RBI",
+   "status": "done",
+   "found": "RBI penalty Rs 3.1 lakh for KYC lapses on PPIs (order Mar 23, 2026). No PayU arbitration award found. Amrish Rau previously CEO at PayU India before j",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs FY financials FY21-FY25",
+   "status": "done",
+   "found": "Yahoo Finance: FY23 rev Rs 1354 cr, FY24 rev Rs 1433 cr, FY25 rev Rs 1905 cr (consolidated). FY25 net loss Rs 145 cr. FY26 first profitable year ($12.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs merchant count terminals traction",
+   "status": "done",
+   "found": "500K+ merchants (2025), 330K POS terminals (2020), $30B annualized payment volume (2020), $100B annual volumes (FY26), $51B GTV Q3 FY26.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs CEO CFO exec changes",
+   "status": "done",
+   "found": "Amrish Rau CEO since Mar 2020 (replaced Vicky Bindra). Marc Mathenz CFO 2021-2025 (resigned Jun 2025), replaced by Sameer Kamath. Navnit Nakra CRO res",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs founders education background",
+   "status": "done",
+   "found": "Lokvir Kapoor: IIT Kanpur BTech ME 1987, IIM Bangalore MBA, ex-Schlumberger. Rajul Garg: left 2003, now Leo Capital/dottr.ai. Tarun Upadhyay: limited ",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs Mswipe product data-as-a-service",
+   "status": "done",
+   "found": "Mswipe is NOT a Pine Labs product - it is an independent competitor. Pine Labs products: POS, Plural, Qwikcilver, Credit+, Setu, Fave, Shopflo.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs DRHP history IPO 2022-2025",
+   "status": "done",
+   "found": "Jan 2022: confidential US SEC filing ($500M, $5.5-7B). Feb 2022: deferred US IPO. Jun 2025: DRHP filed India (Rs 2,600 cr). Nov 2025: IPO opened at ~$",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs locations Gurugram Noida",
+   "status": "done",
+   "found": "Corporate office Noida, UP. Registered office Gurugram, Haryana (Time Tower, MG Road, DLF QE). New Mumbai office (BKC Bandra East) per Q4 FY26. Singap",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs entity structure subsidiary list Flipkart Walmart",
+   "status": "done",
+   "found": "Direct subsidiaries: BrokenTusk, Grapefruit, Mopay, Pine Labs Digital, Qfix, Synergistic (Mosambee). Step-down: Fave Group, Qwikcilver, Pine Labs Inc,",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs Mastercard $150M investment 2021",
+   "status": "done",
+   "found": "Mastercard invested in Jan 2020 (not 2021) as part of $300M round at $1.5-1.7B valuation. Amount undisclosed. $150M was Alpha Wave Global in Jan 2022 ",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs PayU arbitration RBI",
+   "status": "done",
+   "found": "RBI penalty Rs 3.1 lakh for KYC lapses on PPIs (order Mar 23, 2026). No PayU arbitration award found. Amrish Rau previously CEO at PayU India before j",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs FY financials FY21-FY25",
+   "status": "done",
+   "found": "Yahoo Finance: FY23 rev Rs 1354 cr, FY24 rev Rs 1433 cr, FY25 rev Rs 1905 cr (consolidated). FY25 net loss Rs 145 cr. FY26 first profitable year ($12.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs merchant count terminals traction",
+   "status": "done",
+   "found": "500K+ merchants (2025), 330K POS terminals (2020), $30B annualized payment volume (2020), $100B annual volumes (FY26), $51B GTV Q3 FY26.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs CEO CFO exec changes",
+   "status": "done",
+   "found": "Amrish Rau CEO since Mar 2020 (replaced Vicky Bindra). Marc Mathenz CFO 2021-2025 (resigned Jun 2025), replaced by Sameer Kamath. Navnit Nakra CRO res",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs founders education background",
+   "status": "done",
+   "found": "Lokvir Kapoor: IIT Kanpur BTech ME 1987, IIM Bangalore MBA, ex-Schlumberger. Rajul Garg: left 2003, now Leo Capital/dottr.ai. Tarun Upadhyay: limited ",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs Mswipe product data-as-a-service",
+   "status": "done",
+   "found": "Mswipe is NOT a Pine Labs product - it is an independent competitor. Pine Labs products: POS, Plural, Qwikcilver, Credit+, Setu, Fave, Shopflo.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs DRHP history IPO 2022-2025",
+   "status": "done",
+   "found": "Jan 2022: confidential US SEC filing ($500M, $5.5-7B). Feb 2022: deferred US IPO. Jun 2025: DRHP filed India (Rs 2,600 cr). Nov 2025: IPO opened at ~$",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs locations Gurugram Noida",
+   "status": "done",
+   "found": "Corporate office Noida, UP. Registered office Gurugram, Haryana (Time Tower, MG Road, DLF QE). New Mumbai office (BKC Bandra East) per Q4 FY26. Singap",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs entity structure subsidiary list Flipkart Walmart",
+   "status": "done",
+   "found": "Direct subsidiaries: BrokenTusk, Grapefruit, Mopay, Pine Labs Digital, Qfix, Synergistic (Mosambee). Step-down: Fave Group, Qwikcilver, Pine Labs Inc,",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs Mastercard $150M investment 2021",
+   "status": "done",
+   "found": "Mastercard invested in Jan 2020 (not 2021) as part of $300M round at $1.5-1.7B valuation. Amount undisclosed. $150M was Alpha Wave Global in Jan 2022 ",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs PayU arbitration RBI",
+   "status": "done",
+   "found": "RBI penalty Rs 3.1 lakh for KYC lapses on PPIs (order Mar 23, 2026). No PayU arbitration award found. Amrish Rau previously CEO at PayU India before j",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs FY financials FY21-FY25",
+   "status": "done",
+   "found": "Yahoo Finance: FY23 rev Rs 1354 cr, FY24 rev Rs 1433 cr, FY25 rev Rs 1905 cr (consolidated). FY25 net loss Rs 145 cr. FY26 first profitable year ($12.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs merchant count terminals traction",
+   "status": "done",
+   "found": "500K+ merchants (2025), 330K POS terminals (2020), $30B annualized payment volume (2020), $100B annual volumes (FY26), $51B GTV Q3 FY26.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs CEO CFO exec changes",
+   "status": "done",
+   "found": "Amrish Rau CEO since Mar 2020 (replaced Vicky Bindra). Marc Mathenz CFO 2021-2025 (resigned Jun 2025), replaced by Sameer Kamath. Navnit Nakra CRO res",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs founders education background",
+   "status": "done",
+   "found": "Lokvir Kapoor: IIT Kanpur BTech ME 1987, IIM Bangalore MBA, ex-Schlumberger. Rajul Garg: left 2003, now Leo Capital/dottr.ai. Tarun Upadhyay: limited ",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs Mswipe product data-as-a-service",
+   "status": "done",
+   "found": "Mswipe is NOT a Pine Labs product - it is an independent competitor. Pine Labs products: POS, Plural, Qwikcilver, Credit+, Setu, Fave, Shopflo.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs DRHP history IPO 2022-2025",
+   "status": "done",
+   "found": "Jan 2022: confidential US SEC filing ($500M, $5.5-7B). Feb 2022: deferred US IPO. Jun 2025: DRHP filed India (Rs 2,600 cr). Nov 2025: IPO opened at ~$",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs locations Gurugram Noida",
+   "status": "done",
+   "found": "Corporate office Noida, UP. Registered office Gurugram, Haryana (Time Tower, MG Road, DLF QE). New Mumbai office (BKC Bandra East) per Q4 FY26. Singap",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs entity structure subsidiary list Flipkart Walmart",
+   "status": "done",
+   "found": "Direct subsidiaries: BrokenTusk, Grapefruit, Mopay, Pine Labs Digital, Qfix, Synergistic (Mosambee). Step-down: Fave Group, Qwikcilver, Pine Labs Inc,",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs Mastercard $150M investment 2021",
+   "status": "done",
+   "found": "Mastercard invested in Jan 2020 (not 2021) as part of $300M round at $1.5-1.7B valuation. Amount undisclosed. $150M was Alpha Wave Global in Jan 2022 ",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs PayU arbitration RBI",
+   "status": "done",
+   "found": "RBI penalty Rs 3.1 lakh for KYC lapses on PPIs (order Mar 23, 2026). No PayU arbitration award found. Amrish Rau previously CEO at PayU India before j",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs FY financials FY21-FY25",
+   "status": "done",
+   "found": "Yahoo Finance: FY23 rev Rs 1354 cr, FY24 rev Rs 1433 cr, FY25 rev Rs 1905 cr (consolidated). FY25 net loss Rs 145 cr. FY26 first profitable year ($12.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs merchant count terminals traction",
+   "status": "done",
+   "found": "500K+ merchants (2025), 330K POS terminals (2020), $30B annualized payment volume (2020), $100B annual volumes (FY26), $51B GTV Q3 FY26.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs CEO CFO exec changes",
+   "status": "done",
+   "found": "Amrish Rau CEO since Mar 2020 (replaced Vicky Bindra). Marc Mathenz CFO 2021-2025 (resigned Jun 2025), replaced by Sameer Kamath. Navnit Nakra CRO res",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs founders education background",
+   "status": "done",
+   "found": "Lokvir Kapoor: IIT Kanpur BTech ME 1987, IIM Bangalore MBA, ex-Schlumberger. Rajul Garg: left 2003, now Leo Capital/dottr.ai. Tarun Upadhyay: limited ",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs Mswipe product data-as-a-service",
+   "status": "done",
+   "found": "Mswipe is NOT a Pine Labs product - it is an independent competitor. Pine Labs products: POS, Plural, Qwikcilver, Credit+, Setu, Fave, Shopflo.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs DRHP history IPO 2022-2025",
+   "status": "done",
+   "found": "Jan 2022: confidential US SEC filing ($500M, $5.5-7B). Feb 2022: deferred US IPO. Jun 2025: DRHP filed India (Rs 2,600 cr). Nov 2025: IPO opened at ~$",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs locations Gurugram Noida",
+   "status": "done",
+   "found": "Corporate office Noida, UP. Registered office Gurugram, Haryana (Time Tower, MG Road, DLF QE). New Mumbai office (BKC Bandra East) per Q4 FY26. Singap",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs entity structure subsidiary list Flipkart Walmart",
+   "status": "done",
+   "found": "Direct subsidiaries: BrokenTusk, Grapefruit, Mopay, Pine Labs Digital, Qfix, Synergistic (Mosambee). Step-down: Fave Group, Qwikcilver, Pine Labs Inc,",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs Mastercard $150M investment 2021",
+   "status": "done",
+   "found": "Mastercard invested in Jan 2020 (not 2021) as part of $300M round at $1.5-1.7B valuation. Amount undisclosed. $150M was Alpha Wave Global in Jan 2022 ",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs PayU arbitration RBI",
+   "status": "done",
+   "found": "RBI penalty Rs 3.1 lakh for KYC lapses on PPIs (order Mar 23, 2026). No PayU arbitration award found. Amrish Rau previously CEO at PayU India before j",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs FY financials FY21-FY25",
+   "status": "done",
+   "found": "Yahoo Finance: FY23 rev Rs 1354 cr, FY24 rev Rs 1433 cr, FY25 rev Rs 1905 cr (consolidated). FY25 net loss Rs 145 cr. FY26 first profitable year ($12.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs merchant count terminals traction",
+   "status": "done",
+   "found": "500K+ merchants (2025), 330K POS terminals (2020), $30B annualized payment volume (2020), $100B annual volumes (FY26), $51B GTV Q3 FY26.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs CEO CFO exec changes",
+   "status": "done",
+   "found": "Amrish Rau CEO since Mar 2020 (replaced Vicky Bindra). Marc Mathenz CFO 2021-2025 (resigned Jun 2025), replaced by Sameer Kamath. Navnit Nakra CRO res",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs founders education background",
+   "status": "done",
+   "found": "Lokvir Kapoor: IIT Kanpur BTech ME 1987, IIM Bangalore MBA, ex-Schlumberger. Rajul Garg: left 2003, now Leo Capital/dottr.ai. Tarun Upadhyay: limited ",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs Mswipe product data-as-a-service",
+   "status": "done",
+   "found": "Mswipe is NOT a Pine Labs product - it is an independent competitor. Pine Labs products: POS, Plural, Qwikcilver, Credit+, Setu, Fave, Shopflo.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs DRHP history IPO 2022-2025",
+   "status": "done",
+   "found": "Jan 2022: confidential US SEC filing ($500M, $5.5-7B). Feb 2022: deferred US IPO. Jun 2025: DRHP filed India (Rs 2,600 cr). Nov 2025: IPO opened at ~$",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs locations Gurugram Noida",
+   "status": "done",
+   "found": "Corporate office Noida, UP. Registered office Gurugram, Haryana (Time Tower, MG Road, DLF QE). New Mumbai office (BKC Bandra East) per Q4 FY26. Singap",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs entity structure subsidiary list Flipkart Walmart",
+   "status": "done",
+   "found": "Direct subsidiaries: BrokenTusk, Grapefruit, Mopay, Pine Labs Digital, Qfix, Synergistic (Mosambee). Step-down: Fave Group, Qwikcilver, Pine Labs Inc,",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs Mastercard $150M investment 2021",
+   "status": "done",
+   "found": "Mastercard invested in Jan 2020 (not 2021) as part of $300M round at $1.5-1.7B valuation. Amount undisclosed. $150M was Alpha Wave Global in Jan 2022 ",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs PayU arbitration RBI",
+   "status": "done",
+   "found": "RBI penalty Rs 3.1 lakh for KYC lapses on PPIs (order Mar 23, 2026). No PayU arbitration award found. Amrish Rau previously CEO at PayU India before j",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs FY financials FY21-FY25",
+   "status": "done",
+   "found": "Yahoo Finance: FY23 rev Rs 1354 cr, FY24 rev Rs 1433 cr, FY25 rev Rs 1905 cr (consolidated). FY25 net loss Rs 145 cr. FY26 first profitable year ($12.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs merchant count terminals traction",
+   "status": "done",
+   "found": "500K+ merchants (2025), 330K POS terminals (2020), $30B annualized payment volume (2020), $100B annual volumes (FY26), $51B GTV Q3 FY26.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs CEO CFO exec changes",
+   "status": "done",
+   "found": "Amrish Rau CEO since Mar 2020 (replaced Vicky Bindra). Marc Mathenz CFO 2021-2025 (resigned Jun 2025), replaced by Sameer Kamath. Navnit Nakra CRO res",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs founders education background",
+   "status": "done",
+   "found": "Lokvir Kapoor: IIT Kanpur BTech ME 1987, IIM Bangalore MBA, ex-Schlumberger. Rajul Garg: left 2003, now Leo Capital/dottr.ai. Tarun Upadhyay: limited ",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs Mswipe product data-as-a-service",
+   "status": "done",
+   "found": "Mswipe is NOT a Pine Labs product - it is an independent competitor. Pine Labs products: POS, Plural, Qwikcilver, Credit+, Setu, Fave, Shopflo.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs DRHP history IPO 2022-2025",
+   "status": "done",
+   "found": "Jan 2022: confidential US SEC filing ($500M, $5.5-7B). Feb 2022: deferred US IPO. Jun 2025: DRHP filed India (Rs 2,600 cr). Nov 2025: IPO opened at ~$",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs locations Gurugram Noida",
+   "status": "done",
+   "found": "Corporate office Noida, UP. Registered office Gurugram, Haryana (Time Tower, MG Road, DLF QE). New Mumbai office (BKC Bandra East) per Q4 FY26. Singap",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs entity structure subsidiary list Flipkart Walmart",
+   "status": "done",
+   "found": "Direct subsidiaries: BrokenTusk, Grapefruit, Mopay, Pine Labs Digital, Qfix, Synergistic (Mosambee). Step-down: Fave Group, Qwikcilver, Pine Labs Inc,",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs Mastercard $150M investment 2021",
+   "status": "done",
+   "found": "Mastercard invested in Jan 2020 (not 2021) as part of $300M round at $1.5-1.7B valuation. Amount undisclosed. $150M was Alpha Wave Global in Jan 2022 ",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs PayU arbitration RBI",
+   "status": "done",
+   "found": "RBI penalty Rs 3.1 lakh for KYC lapses on PPIs (order Mar 23, 2026). No PayU arbitration award found. Amrish Rau previously CEO at PayU India before j",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs FY financials FY21-FY25",
+   "status": "done",
+   "found": "Yahoo Finance: FY23 rev Rs 1354 cr, FY24 rev Rs 1433 cr, FY25 rev Rs 1905 cr (consolidated). FY25 net loss Rs 145 cr. FY26 first profitable year ($12.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs merchant count terminals traction",
+   "status": "done",
+   "found": "500K+ merchants (2025), 330K POS terminals (2020), $30B annualized payment volume (2020), $100B annual volumes (FY26), $51B GTV Q3 FY26.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs CEO CFO exec changes",
+   "status": "done",
+   "found": "Amrish Rau CEO since Mar 2020 (replaced Vicky Bindra). Marc Mathenz CFO 2021-2025 (resigned Jun 2025), replaced by Sameer Kamath. Navnit Nakra CRO res",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs founders education background",
+   "status": "done",
+   "found": "Lokvir Kapoor: IIT Kanpur BTech ME 1987, IIM Bangalore MBA, ex-Schlumberger. Rajul Garg: left 2003, now Leo Capital/dottr.ai. Tarun Upadhyay: limited ",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs Mswipe product data-as-a-service",
+   "status": "done",
+   "found": "Mswipe is NOT a Pine Labs product - it is an independent competitor. Pine Labs products: POS, Plural, Qwikcilver, Credit+, Setu, Fave, Shopflo.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs DRHP history IPO 2022-2025",
+   "status": "done",
+   "found": "Jan 2022: confidential US SEC filing ($500M, $5.5-7B). Feb 2022: deferred US IPO. Jun 2025: DRHP filed India (Rs 2,600 cr). Nov 2025: IPO opened at ~$",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs locations Gurugram Noida",
+   "status": "done",
+   "found": "Corporate office Noida, UP. Registered office Gurugram, Haryana (Time Tower, MG Road, DLF QE). New Mumbai office (BKC Bandra East) per Q4 FY26. Singap",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs entity structure subsidiary list Flipkart Walmart",
+   "status": "done",
+   "found": "Direct subsidiaries: BrokenTusk, Grapefruit, Mopay, Pine Labs Digital, Qfix, Synergistic (Mosambee). Step-down: Fave Group, Qwikcilver, Pine Labs Inc,",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs Mastercard $150M investment 2021",
+   "status": "done",
+   "found": "Mastercard invested in Jan 2020 (not 2021) as part of $300M round at $1.5-1.7B valuation. Amount undisclosed. $150M was Alpha Wave Global in Jan 2022 ",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs PayU arbitration RBI",
+   "status": "done",
+   "found": "RBI penalty Rs 3.1 lakh for KYC lapses on PPIs (order Mar 23, 2026). No PayU arbitration award found. Amrish Rau previously CEO at PayU India before j",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs FY financials FY21-FY25",
+   "status": "done",
+   "found": "Yahoo Finance: FY23 rev Rs 1354 cr, FY24 rev Rs 1433 cr, FY25 rev Rs 1905 cr (consolidated). FY25 net loss Rs 145 cr. FY26 first profitable year ($12.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs merchant count terminals traction",
+   "status": "done",
+   "found": "500K+ merchants (2025), 330K POS terminals (2020), $30B annualized payment volume (2020), $100B annual volumes (FY26), $51B GTV Q3 FY26.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs CEO CFO exec changes",
+   "status": "done",
+   "found": "Amrish Rau CEO since Mar 2020 (replaced Vicky Bindra). Marc Mathenz CFO 2021-2025 (resigned Jun 2025), replaced by Sameer Kamath. Navnit Nakra CRO res",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs founders education background",
+   "status": "done",
+   "found": "Lokvir Kapoor: IIT Kanpur BTech ME 1987, IIM Bangalore MBA, ex-Schlumberger. Rajul Garg: left 2003, now Leo Capital/dottr.ai. Tarun Upadhyay: limited ",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs Mswipe product data-as-a-service",
+   "status": "done",
+   "found": "Mswipe is NOT a Pine Labs product - it is an independent competitor. Pine Labs products: POS, Plural, Qwikcilver, Credit+, Setu, Fave, Shopflo.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs DRHP history IPO 2022-2025",
+   "status": "done",
+   "found": "Jan 2022: confidential US SEC filing ($500M, $5.5-7B). Feb 2022: deferred US IPO. Jun 2025: DRHP filed India (Rs 2,600 cr). Nov 2025: IPO opened at ~$",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs locations Gurugram Noida",
+   "status": "done",
+   "found": "Corporate office Noida, UP. Registered office Gurugram, Haryana (Time Tower, MG Road, DLF QE). New Mumbai office (BKC Bandra East) per Q4 FY26. Singap",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs entity structure subsidiary list Flipkart Walmart",
+   "status": "done",
+   "found": "Direct subsidiaries: BrokenTusk, Grapefruit, Mopay, Pine Labs Digital, Qfix, Synergistic (Mosambee). Step-down: Fave Group, Qwikcilver, Pine Labs Inc,",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs Mastercard $150M investment 2021",
+   "status": "done",
+   "found": "Mastercard invested in Jan 2020 (not 2021) as part of $300M round at $1.5-1.7B valuation. Amount undisclosed. $150M was Alpha Wave Global in Jan 2022 ",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs PayU arbitration RBI",
+   "status": "done",
+   "found": "RBI penalty Rs 3.1 lakh for KYC lapses on PPIs (order Mar 23, 2026). No PayU arbitration award found. Amrish Rau previously CEO at PayU India before j",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs FY financials FY21-FY25",
+   "status": "done",
+   "found": "Yahoo Finance: FY23 rev Rs 1354 cr, FY24 rev Rs 1433 cr, FY25 rev Rs 1905 cr (consolidated). FY25 net loss Rs 145 cr. FY26 first profitable year ($12.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs merchant count terminals traction",
+   "status": "done",
+   "found": "500K+ merchants (2025), 330K POS terminals (2020), $30B annualized payment volume (2020), $100B annual volumes (FY26), $51B GTV Q3 FY26.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs CEO CFO exec changes",
+   "status": "done",
+   "found": "Amrish Rau CEO since Mar 2020 (replaced Vicky Bindra). Marc Mathenz CFO 2021-2025 (resigned Jun 2025), replaced by Sameer Kamath. Navnit Nakra CRO res",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs founders education background",
+   "status": "done",
+   "found": "Lokvir Kapoor: IIT Kanpur BTech ME 1987, IIM Bangalore MBA, ex-Schlumberger. Rajul Garg: left 2003, now Leo Capital/dottr.ai. Tarun Upadhyay: limited ",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs Mswipe product data-as-a-service",
+   "status": "done",
+   "found": "Mswipe is NOT a Pine Labs product - it is an independent competitor. Pine Labs products: POS, Plural, Qwikcilver, Credit+, Setu, Fave, Shopflo.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs DRHP history IPO 2022-2025",
+   "status": "done",
+   "found": "Jan 2022: confidential US SEC filing ($500M, $5.5-7B). Feb 2022: deferred US IPO. Jun 2025: DRHP filed India (Rs 2,600 cr). Nov 2025: IPO opened at ~$",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs locations Gurugram Noida",
+   "status": "done",
+   "found": "Corporate office Noida, UP. Registered office Gurugram, Haryana (Time Tower, MG Road, DLF QE). New Mumbai office (BKC Bandra East) per Q4 FY26. Singap",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs entity structure subsidiary list Flipkart Walmart",
+   "status": "done",
+   "found": "Direct subsidiaries: BrokenTusk, Grapefruit, Mopay, Pine Labs Digital, Qfix, Synergistic (Mosambee). Step-down: Fave Group, Qwikcilver, Pine Labs Inc,",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs Mastercard $150M investment 2021",
+   "status": "done",
+   "found": "Mastercard invested in Jan 2020 (not 2021) as part of $300M round at $1.5-1.7B valuation. Amount undisclosed. $150M was Alpha Wave Global in Jan 2022 ",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs PayU arbitration RBI",
+   "status": "done",
+   "found": "RBI penalty Rs 3.1 lakh for KYC lapses on PPIs (order Mar 23, 2026). No PayU arbitration award found. Amrish Rau previously CEO at PayU India before j",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs FY financials FY21-FY25",
+   "status": "done",
+   "found": "Yahoo Finance: FY23 rev Rs 1354 cr, FY24 rev Rs 1433 cr, FY25 rev Rs 1905 cr (consolidated). FY25 net loss Rs 145 cr. FY26 first profitable year ($12.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs merchant count terminals traction",
+   "status": "done",
+   "found": "500K+ merchants (2025), 330K POS terminals (2020), $30B annualized payment volume (2020), $100B annual volumes (FY26), $51B GTV Q3 FY26.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs CEO CFO exec changes",
+   "status": "done",
+   "found": "Amrish Rau CEO since Mar 2020 (replaced Vicky Bindra). Marc Mathenz CFO 2021-2025 (resigned Jun 2025), replaced by Sameer Kamath. Navnit Nakra CRO res",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs founders education background",
+   "status": "done",
+   "found": "Lokvir Kapoor: IIT Kanpur BTech ME 1987, IIM Bangalore MBA, ex-Schlumberger. Rajul Garg: left 2003, now Leo Capital/dottr.ai. Tarun Upadhyay: limited ",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs Mswipe product data-as-a-service",
+   "status": "done",
+   "found": "Mswipe is NOT a Pine Labs product - it is an independent competitor. Pine Labs products: POS, Plural, Qwikcilver, Credit+, Setu, Fave, Shopflo.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs DRHP history IPO 2022-2025",
+   "status": "done",
+   "found": "Jan 2022: confidential US SEC filing ($500M, $5.5-7B). Feb 2022: deferred US IPO. Jun 2025: DRHP filed India (Rs 2,600 cr). Nov 2025: IPO opened at ~$",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs locations Gurugram Noida",
+   "status": "done",
+   "found": "Corporate office Noida, UP. Registered office Gurugram, Haryana (Time Tower, MG Road, DLF QE). New Mumbai office (BKC Bandra East) per Q4 FY26. Singap",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs entity structure subsidiary list Flipkart Walmart",
+   "status": "done",
+   "found": "Direct subsidiaries: BrokenTusk, Grapefruit, Mopay, Pine Labs Digital, Qfix, Synergistic (Mosambee). Step-down: Fave Group, Qwikcilver, Pine Labs Inc,",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs Mastercard $150M investment 2021",
+   "status": "done",
+   "found": "Mastercard invested in Jan 2020 (not 2021) as part of $300M round at $1.5-1.7B valuation. Amount undisclosed. $150M was Alpha Wave Global in Jan 2022 ",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs PayU arbitration RBI",
+   "status": "done",
+   "found": "RBI penalty Rs 3.1 lakh for KYC lapses on PPIs (order Mar 23, 2026). No PayU arbitration award found. Amrish Rau previously CEO at PayU India before j",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs FY financials FY21-FY25",
+   "status": "done",
+   "found": "Yahoo Finance: FY23 rev Rs 1354 cr, FY24 rev Rs 1433 cr, FY25 rev Rs 1905 cr (consolidated). FY25 net loss Rs 145 cr. FY26 first profitable year ($12.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs merchant count terminals traction",
+   "status": "done",
+   "found": "500K+ merchants (2025), 330K POS terminals (2020), $30B annualized payment volume (2020), $100B annual volumes (FY26), $51B GTV Q3 FY26.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs CEO CFO exec changes",
+   "status": "done",
+   "found": "Amrish Rau CEO since Mar 2020 (replaced Vicky Bindra). Marc Mathenz CFO 2021-2025 (resigned Jun 2025), replaced by Sameer Kamath. Navnit Nakra CRO res",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs founders education background",
+   "status": "done",
+   "found": "Lokvir Kapoor: IIT Kanpur BTech ME 1987, IIM Bangalore MBA, ex-Schlumberger. Rajul Garg: left 2003, now Leo Capital/dottr.ai. Tarun Upadhyay: limited ",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs Mswipe product data-as-a-service",
+   "status": "done",
+   "found": "Mswipe is NOT a Pine Labs product - it is an independent competitor. Pine Labs products: POS, Plural, Qwikcilver, Credit+, Setu, Fave, Shopflo.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs DRHP history IPO 2022-2025",
+   "status": "done",
+   "found": "Jan 2022: confidential US SEC filing ($500M, $5.5-7B). Feb 2022: deferred US IPO. Jun 2025: DRHP filed India (Rs 2,600 cr). Nov 2025: IPO opened at ~$",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs locations Gurugram Noida",
+   "status": "done",
+   "found": "Corporate office Noida, UP. Registered office Gurugram, Haryana (Time Tower, MG Road, DLF QE). New Mumbai office (BKC Bandra East) per Q4 FY26. Singap",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs entity structure subsidiary list Flipkart Walmart",
+   "status": "done",
+   "found": "Direct subsidiaries: BrokenTusk, Grapefruit, Mopay, Pine Labs Digital, Qfix, Synergistic (Mosambee). Step-down: Fave Group, Qwikcilver, Pine Labs Inc,",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs Mastercard $150M investment 2021",
+   "status": "done",
+   "found": "Mastercard invested in Jan 2020 (not 2021) as part of $300M round at $1.5-1.7B valuation. Amount undisclosed. $150M was Alpha Wave Global in Jan 2022 ",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs PayU arbitration RBI",
+   "status": "done",
+   "found": "RBI penalty Rs 3.1 lakh for KYC lapses on PPIs (order Mar 23, 2026). No PayU arbitration award found. Amrish Rau previously CEO at PayU India before j",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs FY financials FY21-FY25",
+   "status": "done",
+   "found": "Yahoo Finance: FY23 rev Rs 1354 cr, FY24 rev Rs 1433 cr, FY25 rev Rs 1905 cr (consolidated). FY25 net loss Rs 145 cr. FY26 first profitable year ($12.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs merchant count terminals traction",
+   "status": "done",
+   "found": "500K+ merchants (2025), 330K POS terminals (2020), $30B annualized payment volume (2020), $100B annual volumes (FY26), $51B GTV Q3 FY26.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs CEO CFO exec changes",
+   "status": "done",
+   "found": "Amrish Rau CEO since Mar 2020 (replaced Vicky Bindra). Marc Mathenz CFO 2021-2025 (resigned Jun 2025), replaced by Sameer Kamath. Navnit Nakra CRO res",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs founders education background",
+   "status": "done",
+   "found": "Lokvir Kapoor: IIT Kanpur BTech ME 1987, IIM Bangalore MBA, ex-Schlumberger. Rajul Garg: left 2003, now Leo Capital/dottr.ai. Tarun Upadhyay: limited ",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs Mswipe product data-as-a-service",
+   "status": "done",
+   "found": "Mswipe is NOT a Pine Labs product - it is an independent competitor. Pine Labs products: POS, Plural, Qwikcilver, Credit+, Setu, Fave, Shopflo.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs DRHP history IPO 2022-2025",
+   "status": "done",
+   "found": "Jan 2022: confidential US SEC filing ($500M, $5.5-7B). Feb 2022: deferred US IPO. Jun 2025: DRHP filed India (Rs 2,600 cr). Nov 2025: IPO opened at ~$",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs locations Gurugram Noida",
+   "status": "done",
+   "found": "Corporate office Noida, UP. Registered office Gurugram, Haryana (Time Tower, MG Road, DLF QE). New Mumbai office (BKC Bandra East) per Q4 FY26. Singap",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs entity structure subsidiary list Flipkart Walmart",
+   "status": "done",
+   "found": "Direct subsidiaries: BrokenTusk, Grapefruit, Mopay, Pine Labs Digital, Qfix, Synergistic (Mosambee). Step-down: Fave Group, Qwikcilver, Pine Labs Inc,",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs Mastercard $150M investment 2021",
+   "status": "done",
+   "found": "Mastercard invested in Jan 2020 (not 2021) as part of $300M round at $1.5-1.7B valuation. Amount undisclosed. $150M was Alpha Wave Global in Jan 2022 ",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs PayU arbitration RBI",
+   "status": "done",
+   "found": "RBI penalty Rs 3.1 lakh for KYC lapses on PPIs (order Mar 23, 2026). No PayU arbitration award found. Amrish Rau previously CEO at PayU India before j",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs FY financials FY21-FY25",
+   "status": "done",
+   "found": "Yahoo Finance: FY23 rev Rs 1354 cr, FY24 rev Rs 1433 cr, FY25 rev Rs 1905 cr (consolidated). FY25 net loss Rs 145 cr. FY26 first profitable year ($12.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs merchant count terminals traction",
+   "status": "done",
+   "found": "500K+ merchants (2025), 330K POS terminals (2020), $30B annualized payment volume (2020), $100B annual volumes (FY26), $51B GTV Q3 FY26.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs CEO CFO exec changes",
+   "status": "done",
+   "found": "Amrish Rau CEO since Mar 2020 (replaced Vicky Bindra). Marc Mathenz CFO 2021-2025 (resigned Jun 2025), replaced by Sameer Kamath. Navnit Nakra CRO res",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs founders education background",
+   "status": "done",
+   "found": "Lokvir Kapoor: IIT Kanpur BTech ME 1987, IIM Bangalore MBA, ex-Schlumberger. Rajul Garg: left 2003, now Leo Capital/dottr.ai. Tarun Upadhyay: limited ",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs Mswipe product data-as-a-service",
+   "status": "done",
+   "found": "Mswipe is NOT a Pine Labs product - it is an independent competitor. Pine Labs products: POS, Plural, Qwikcilver, Credit+, Setu, Fave, Shopflo.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs DRHP history IPO 2022-2025",
+   "status": "done",
+   "found": "Jan 2022: confidential US SEC filing ($500M, $5.5-7B). Feb 2022: deferred US IPO. Jun 2025: DRHP filed India (Rs 2,600 cr). Nov 2025: IPO opened at ~$",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs locations Gurugram Noida",
+   "status": "done",
+   "found": "Corporate office Noida, UP. Registered office Gurugram, Haryana (Time Tower, MG Road, DLF QE). New Mumbai office (BKC Bandra East) per Q4 FY26. Singap",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs entity structure subsidiary list Flipkart Walmart",
+   "status": "done",
+   "found": "Direct subsidiaries: BrokenTusk, Grapefruit, Mopay, Pine Labs Digital, Qfix, Synergistic (Mosambee). Step-down: Fave Group, Qwikcilver, Pine Labs Inc,",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs Mastercard $150M investment 2021",
+   "status": "done",
+   "found": "Mastercard invested in Jan 2020 (not 2021) as part of $300M round at $1.5-1.7B valuation. Amount undisclosed. $150M was Alpha Wave Global in Jan 2022 ",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs PayU arbitration RBI",
+   "status": "done",
+   "found": "RBI penalty Rs 3.1 lakh for KYC lapses on PPIs (order Mar 23, 2026). No PayU arbitration award found. Amrish Rau previously CEO at PayU India before j",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs FY financials FY21-FY25",
+   "status": "done",
+   "found": "Yahoo Finance: FY23 rev Rs 1354 cr, FY24 rev Rs 1433 cr, FY25 rev Rs 1905 cr (consolidated). FY25 net loss Rs 145 cr. FY26 first profitable year ($12.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs merchant count terminals traction",
+   "status": "done",
+   "found": "500K+ merchants (2025), 330K POS terminals (2020), $30B annualized payment volume (2020), $100B annual volumes (FY26), $51B GTV Q3 FY26.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs CEO CFO exec changes",
+   "status": "done",
+   "found": "Amrish Rau CEO since Mar 2020 (replaced Vicky Bindra). Marc Mathenz CFO 2021-2025 (resigned Jun 2025), replaced by Sameer Kamath. Navnit Nakra CRO res",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs founders education background",
+   "status": "done",
+   "found": "Lokvir Kapoor: IIT Kanpur BTech ME 1987, IIM Bangalore MBA, ex-Schlumberger. Rajul Garg: left 2003, now Leo Capital/dottr.ai. Tarun Upadhyay: limited ",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs Mswipe product data-as-a-service",
+   "status": "done",
+   "found": "Mswipe is NOT a Pine Labs product - it is an independent competitor. Pine Labs products: POS, Plural, Qwikcilver, Credit+, Setu, Fave, Shopflo.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs DRHP history IPO 2022-2025",
+   "status": "done",
+   "found": "Jan 2022: confidential US SEC filing ($500M, $5.5-7B). Feb 2022: deferred US IPO. Jun 2025: DRHP filed India (Rs 2,600 cr). Nov 2025: IPO opened at ~$",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs locations Gurugram Noida",
+   "status": "done",
+   "found": "Corporate office Noida, UP. Registered office Gurugram, Haryana (Time Tower, MG Road, DLF QE). New Mumbai office (BKC Bandra East) per Q4 FY26. Singap",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs entity structure subsidiary list Flipkart Walmart",
+   "status": "done",
+   "found": "Direct subsidiaries: BrokenTusk, Grapefruit, Mopay, Pine Labs Digital, Qfix, Synergistic (Mosambee). Step-down: Fave Group, Qwikcilver, Pine Labs Inc,",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs Mastercard $150M investment 2021",
+   "status": "done",
+   "found": "Mastercard invested in Jan 2020 (not 2021) as part of $300M round at $1.5-1.7B valuation. Amount undisclosed. $150M was Alpha Wave Global in Jan 2022 ",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs PayU arbitration RBI",
+   "status": "done",
+   "found": "RBI penalty Rs 3.1 lakh for KYC lapses on PPIs (order Mar 23, 2026). No PayU arbitration award found. Amrish Rau previously CEO at PayU India before j",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs FY financials FY21-FY25",
+   "status": "done",
+   "found": "Yahoo Finance: FY23 rev Rs 1354 cr, FY24 rev Rs 1433 cr, FY25 rev Rs 1905 cr (consolidated). FY25 net loss Rs 145 cr. FY26 first profitable year ($12.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs merchant count terminals traction",
+   "status": "done",
+   "found": "500K+ merchants (2025), 330K POS terminals (2020), $30B annualized payment volume (2020), $100B annual volumes (FY26), $51B GTV Q3 FY26.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs CEO CFO exec changes",
+   "status": "done",
+   "found": "Amrish Rau CEO since Mar 2020 (replaced Vicky Bindra). Marc Mathenz CFO 2021-2025 (resigned Jun 2025), replaced by Sameer Kamath. Navnit Nakra CRO res",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs founders education background",
+   "status": "done",
+   "found": "Lokvir Kapoor: IIT Kanpur BTech ME 1987, IIM Bangalore MBA, ex-Schlumberger. Rajul Garg: left 2003, now Leo Capital/dottr.ai. Tarun Upadhyay: limited ",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs Mswipe product data-as-a-service",
+   "status": "done",
+   "found": "Mswipe is NOT a Pine Labs product - it is an independent competitor. Pine Labs products: POS, Plural, Qwikcilver, Credit+, Setu, Fave, Shopflo.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs DRHP history IPO 2022-2025",
+   "status": "done",
+   "found": "Jan 2022: confidential US SEC filing ($500M, $5.5-7B). Feb 2022: deferred US IPO. Jun 2025: DRHP filed India (Rs 2,600 cr). Nov 2025: IPO opened at ~$",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs locations Gurugram Noida",
+   "status": "done",
+   "found": "Corporate office Noida, UP. Registered office Gurugram, Haryana (Time Tower, MG Road, DLF QE). New Mumbai office (BKC Bandra East) per Q4 FY26. Singap",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs entity structure subsidiary list Flipkart Walmart",
+   "status": "done",
+   "found": "Direct subsidiaries: BrokenTusk, Grapefruit, Mopay, Pine Labs Digital, Qfix, Synergistic (Mosambee). Step-down: Fave Group, Qwikcilver, Pine Labs Inc,",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs Mastercard $150M investment 2021",
+   "status": "done",
+   "found": "Mastercard invested in Jan 2020 (not 2021) as part of $300M round at $1.5-1.7B valuation. Amount undisclosed. $150M was Alpha Wave Global in Jan 2022 ",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs PayU arbitration RBI",
+   "status": "done",
+   "found": "RBI penalty Rs 3.1 lakh for KYC lapses on PPIs (order Mar 23, 2026). No PayU arbitration award found. Amrish Rau previously CEO at PayU India before j",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs FY financials FY21-FY25",
+   "status": "done",
+   "found": "Yahoo Finance: FY23 rev Rs 1354 cr, FY24 rev Rs 1433 cr, FY25 rev Rs 1905 cr (consolidated). FY25 net loss Rs 145 cr. FY26 first profitable year ($12.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs merchant count terminals traction",
+   "status": "done",
+   "found": "500K+ merchants (2025), 330K POS terminals (2020), $30B annualized payment volume (2020), $100B annual volumes (FY26), $51B GTV Q3 FY26.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs CEO CFO exec changes",
+   "status": "done",
+   "found": "Amrish Rau CEO since Mar 2020 (replaced Vicky Bindra). Marc Mathenz CFO 2021-2025 (resigned Jun 2025), replaced by Sameer Kamath. Navnit Nakra CRO res",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs founders education background",
+   "status": "done",
+   "found": "Lokvir Kapoor: IIT Kanpur BTech ME 1987, IIM Bangalore MBA, ex-Schlumberger. Rajul Garg: left 2003, now Leo Capital/dottr.ai. Tarun Upadhyay: limited ",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs Mswipe product data-as-a-service",
+   "status": "done",
+   "found": "Mswipe is NOT a Pine Labs product - it is an independent competitor. Pine Labs products: POS, Plural, Qwikcilver, Credit+, Setu, Fave, Shopflo.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs DRHP history IPO 2022-2025",
+   "status": "done",
+   "found": "Jan 2022: confidential US SEC filing ($500M, $5.5-7B). Feb 2022: deferred US IPO. Jun 2025: DRHP filed India (Rs 2,600 cr). Nov 2025: IPO opened at ~$",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs locations Gurugram Noida",
+   "status": "done",
+   "found": "Corporate office Noida, UP. Registered office Gurugram, Haryana (Time Tower, MG Road, DLF QE). New Mumbai office (BKC Bandra East) per Q4 FY26. Singap",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs entity structure subsidiary list Flipkart Walmart",
+   "status": "done",
+   "found": "Direct subsidiaries: BrokenTusk, Grapefruit, Mopay, Pine Labs Digital, Qfix, Synergistic (Mosambee). Step-down: Fave Group, Qwikcilver, Pine Labs Inc,",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs Mastercard $150M investment 2021",
+   "status": "done",
+   "found": "Mastercard invested in Jan 2020 (not 2021) as part of $300M round at $1.5-1.7B valuation. Amount undisclosed. $150M was Alpha Wave Global in Jan 2022 ",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs PayU arbitration RBI",
+   "status": "done",
+   "found": "RBI penalty Rs 3.1 lakh for KYC lapses on PPIs (order Mar 23, 2026). No PayU arbitration award found. Amrish Rau previously CEO at PayU India before j",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs FY financials FY21-FY25",
+   "status": "done",
+   "found": "Yahoo Finance: FY23 rev Rs 1354 cr, FY24 rev Rs 1433 cr, FY25 rev Rs 1905 cr (consolidated). FY25 net loss Rs 145 cr. FY26 first profitable year ($12.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs merchant count terminals traction",
+   "status": "done",
+   "found": "500K+ merchants (2025), 330K POS terminals (2020), $30B annualized payment volume (2020), $100B annual volumes (FY26), $51B GTV Q3 FY26.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs CEO CFO exec changes",
+   "status": "done",
+   "found": "Amrish Rau CEO since Mar 2020 (replaced Vicky Bindra). Marc Mathenz CFO 2021-2025 (resigned Jun 2025), replaced by Sameer Kamath. Navnit Nakra CRO res",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs founders education background",
+   "status": "done",
+   "found": "Lokvir Kapoor: IIT Kanpur BTech ME 1987, IIM Bangalore MBA, ex-Schlumberger. Rajul Garg: left 2003, now Leo Capital/dottr.ai. Tarun Upadhyay: limited ",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs Mswipe product data-as-a-service",
+   "status": "done",
+   "found": "Mswipe is NOT a Pine Labs product - it is an independent competitor. Pine Labs products: POS, Plural, Qwikcilver, Credit+, Setu, Fave, Shopflo.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs DRHP history IPO 2022-2025",
+   "status": "done",
+   "found": "Jan 2022: confidential US SEC filing ($500M, $5.5-7B). Feb 2022: deferred US IPO. Jun 2025: DRHP filed India (Rs 2,600 cr). Nov 2025: IPO opened at ~$",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs locations Gurugram Noida",
+   "status": "done",
+   "found": "Corporate office Noida, UP. Registered office Gurugram, Haryana (Time Tower, MG Road, DLF QE). New Mumbai office (BKC Bandra East) per Q4 FY26. Singap",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs entity structure subsidiary list Flipkart Walmart",
+   "status": "done",
+   "found": "Direct subsidiaries: BrokenTusk, Grapefruit, Mopay, Pine Labs Digital, Qfix, Synergistic (Mosambee). Step-down: Fave Group, Qwikcilver, Pine Labs Inc,",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs Mastercard $150M investment 2021",
+   "status": "done",
+   "found": "Mastercard invested in Jan 2020 (not 2021) as part of $300M round at $1.5-1.7B valuation. Amount undisclosed. $150M was Alpha Wave Global in Jan 2022 ",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs PayU arbitration RBI",
+   "status": "done",
+   "found": "RBI penalty Rs 3.1 lakh for KYC lapses on PPIs (order Mar 23, 2026). No PayU arbitration award found. Amrish Rau previously CEO at PayU India before j",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs FY financials FY21-FY25",
+   "status": "done",
+   "found": "Yahoo Finance: FY23 rev Rs 1354 cr, FY24 rev Rs 1433 cr, FY25 rev Rs 1905 cr (consolidated). FY25 net loss Rs 145 cr. FY26 first profitable year ($12.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs merchant count terminals traction",
+   "status": "done",
+   "found": "500K+ merchants (2025), 330K POS terminals (2020), $30B annualized payment volume (2020), $100B annual volumes (FY26), $51B GTV Q3 FY26.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs CEO CFO exec changes",
+   "status": "done",
+   "found": "Amrish Rau CEO since Mar 2020 (replaced Vicky Bindra). Marc Mathenz CFO 2021-2025 (resigned Jun 2025), replaced by Sameer Kamath. Navnit Nakra CRO res",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs founders education background",
+   "status": "done",
+   "found": "Lokvir Kapoor: IIT Kanpur BTech ME 1987, IIM Bangalore MBA, ex-Schlumberger. Rajul Garg: left 2003, now Leo Capital/dottr.ai. Tarun Upadhyay: limited ",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs Mswipe product data-as-a-service",
+   "status": "done",
+   "found": "Mswipe is NOT a Pine Labs product - it is an independent competitor. Pine Labs products: POS, Plural, Qwikcilver, Credit+, Setu, Fave, Shopflo.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs DRHP history IPO 2022-2025",
+   "status": "done",
+   "found": "Jan 2022: confidential US SEC filing ($500M, $5.5-7B). Feb 2022: deferred US IPO. Jun 2025: DRHP filed India (Rs 2,600 cr). Nov 2025: IPO opened at ~$",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs locations Gurugram Noida",
+   "status": "done",
+   "found": "Corporate office Noida, UP. Registered office Gurugram, Haryana (Time Tower, MG Road, DLF QE). New Mumbai office (BKC Bandra East) per Q4 FY26. Singap",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs entity structure subsidiary list Flipkart Walmart",
+   "status": "done",
+   "found": "Direct subsidiaries: BrokenTusk, Grapefruit, Mopay, Pine Labs Digital, Qfix, Synergistic (Mosambee). Step-down: Fave Group, Qwikcilver, Pine Labs Inc,",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs Mastercard $150M investment 2021",
+   "status": "done",
+   "found": "Mastercard invested in Jan 2020 (not 2021) as part of $300M round at $1.5-1.7B valuation. Amount undisclosed. $150M was Alpha Wave Global in Jan 2022 ",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs PayU arbitration RBI",
+   "status": "done",
+   "found": "RBI penalty Rs 3.1 lakh for KYC lapses on PPIs (order Mar 23, 2026). No PayU arbitration award found. Amrish Rau previously CEO at PayU India before j",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs FY financials FY21-FY25",
+   "status": "done",
+   "found": "Yahoo Finance: FY23 rev Rs 1354 cr, FY24 rev Rs 1433 cr, FY25 rev Rs 1905 cr (consolidated). FY25 net loss Rs 145 cr. FY26 first profitable year ($12.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs merchant count terminals traction",
+   "status": "done",
+   "found": "500K+ merchants (2025), 330K POS terminals (2020), $30B annualized payment volume (2020), $100B annual volumes (FY26), $51B GTV Q3 FY26.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs CEO CFO exec changes",
+   "status": "done",
+   "found": "Amrish Rau CEO since Mar 2020 (replaced Vicky Bindra). Marc Mathenz CFO 2021-2025 (resigned Jun 2025), replaced by Sameer Kamath. Navnit Nakra CRO res",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs founders education background",
+   "status": "done",
+   "found": "Lokvir Kapoor: IIT Kanpur BTech ME 1987, IIM Bangalore MBA, ex-Schlumberger. Rajul Garg: left 2003, now Leo Capital/dottr.ai. Tarun Upadhyay: limited ",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs Mswipe product data-as-a-service",
+   "status": "done",
+   "found": "Mswipe is NOT a Pine Labs product - it is an independent competitor. Pine Labs products: POS, Plural, Qwikcilver, Credit+, Setu, Fave, Shopflo.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs DRHP history IPO 2022-2025",
+   "status": "done",
+   "found": "Jan 2022: confidential US SEC filing ($500M, $5.5-7B). Feb 2022: deferred US IPO. Jun 2025: DRHP filed India (Rs 2,600 cr). Nov 2025: IPO opened at ~$",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs locations Gurugram Noida",
+   "status": "done",
+   "found": "Corporate office Noida, UP. Registered office Gurugram, Haryana (Time Tower, MG Road, DLF QE). New Mumbai office (BKC Bandra East) per Q4 FY26. Singap",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs entity structure subsidiary list Flipkart Walmart",
+   "status": "done",
+   "found": "Direct subsidiaries: BrokenTusk, Grapefruit, Mopay, Pine Labs Digital, Qfix, Synergistic (Mosambee). Step-down: Fave Group, Qwikcilver, Pine Labs Inc,",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs Mastercard $150M investment 2021",
+   "status": "done",
+   "found": "Mastercard invested in Jan 2020 (not 2021) as part of $300M round at $1.5-1.7B valuation. Amount undisclosed. $150M was Alpha Wave Global in Jan 2022 ",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs PayU arbitration RBI",
+   "status": "done",
+   "found": "RBI penalty Rs 3.1 lakh for KYC lapses on PPIs (order Mar 23, 2026). No PayU arbitration award found. Amrish Rau previously CEO at PayU India before j",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs FY financials FY21-FY25",
+   "status": "done",
+   "found": "Yahoo Finance: FY23 rev Rs 1354 cr, FY24 rev Rs 1433 cr, FY25 rev Rs 1905 cr (consolidated). FY25 net loss Rs 145 cr. FY26 first profitable year ($12.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs merchant count terminals traction",
+   "status": "done",
+   "found": "500K+ merchants (2025), 330K POS terminals (2020), $30B annualized payment volume (2020), $100B annual volumes (FY26), $51B GTV Q3 FY26.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs CEO CFO exec changes",
+   "status": "done",
+   "found": "Amrish Rau CEO since Mar 2020 (replaced Vicky Bindra). Marc Mathenz CFO 2021-2025 (resigned Jun 2025), replaced by Sameer Kamath. Navnit Nakra CRO res",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs founders education background",
+   "status": "done",
+   "found": "Lokvir Kapoor: IIT Kanpur BTech ME 1987, IIM Bangalore MBA, ex-Schlumberger. Rajul Garg: left 2003, now Leo Capital/dottr.ai. Tarun Upadhyay: limited ",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs Mswipe product data-as-a-service",
+   "status": "done",
+   "found": "Mswipe is NOT a Pine Labs product - it is an independent competitor. Pine Labs products: POS, Plural, Qwikcilver, Credit+, Setu, Fave, Shopflo.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs DRHP history IPO 2022-2025",
+   "status": "done",
+   "found": "Jan 2022: confidential US SEC filing ($500M, $5.5-7B). Feb 2022: deferred US IPO. Jun 2025: DRHP filed India (Rs 2,600 cr). Nov 2025: IPO opened at ~$",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs locations Gurugram Noida",
+   "status": "done",
+   "found": "Corporate office Noida, UP. Registered office Gurugram, Haryana (Time Tower, MG Road, DLF QE). New Mumbai office (BKC Bandra East) per Q4 FY26. Singap",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs entity structure subsidiary list Flipkart Walmart",
+   "status": "done",
+   "found": "Direct subsidiaries: BrokenTusk, Grapefruit, Mopay, Pine Labs Digital, Qfix, Synergistic (Mosambee). Step-down: Fave Group, Qwikcilver, Pine Labs Inc,",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs Mastercard $150M investment 2021",
+   "status": "done",
+   "found": "Mastercard invested in Jan 2020 (not 2021) as part of $300M round at $1.5-1.7B valuation. Amount undisclosed. $150M was Alpha Wave Global in Jan 2022 ",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs PayU arbitration RBI",
+   "status": "done",
+   "found": "RBI penalty Rs 3.1 lakh for KYC lapses on PPIs (order Mar 23, 2026). No PayU arbitration award found. Amrish Rau previously CEO at PayU India before j",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs FY financials FY21-FY25",
+   "status": "done",
+   "found": "Yahoo Finance: FY23 rev Rs 1354 cr, FY24 rev Rs 1433 cr, FY25 rev Rs 1905 cr (consolidated). FY25 net loss Rs 145 cr. FY26 first profitable year ($12.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs merchant count terminals traction",
+   "status": "done",
+   "found": "500K+ merchants (2025), 330K POS terminals (2020), $30B annualized payment volume (2020), $100B annual volumes (FY26), $51B GTV Q3 FY26.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs CEO CFO exec changes",
+   "status": "done",
+   "found": "Amrish Rau CEO since Mar 2020 (replaced Vicky Bindra). Marc Mathenz CFO 2021-2025 (resigned Jun 2025), replaced by Sameer Kamath. Navnit Nakra CRO res",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs founders education background",
+   "status": "done",
+   "found": "Lokvir Kapoor: IIT Kanpur BTech ME 1987, IIM Bangalore MBA, ex-Schlumberger. Rajul Garg: left 2003, now Leo Capital/dottr.ai. Tarun Upadhyay: limited ",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs Mswipe product data-as-a-service",
+   "status": "done",
+   "found": "Mswipe is NOT a Pine Labs product - it is an independent competitor. Pine Labs products: POS, Plural, Qwikcilver, Credit+, Setu, Fave, Shopflo.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs DRHP history IPO 2022-2025",
+   "status": "done",
+   "found": "Jan 2022: confidential US SEC filing ($500M, $5.5-7B). Feb 2022: deferred US IPO. Jun 2025: DRHP filed India (Rs 2,600 cr). Nov 2025: IPO opened at ~$",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs locations Gurugram Noida",
+   "status": "done",
+   "found": "Corporate office Noida, UP. Registered office Gurugram, Haryana (Time Tower, MG Road, DLF QE). New Mumbai office (BKC Bandra East) per Q4 FY26. Singap",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs entity structure subsidiary list Flipkart Walmart",
+   "status": "done",
+   "found": "Direct subsidiaries: BrokenTusk, Grapefruit, Mopay, Pine Labs Digital, Qfix, Synergistic (Mosambee). Step-down: Fave Group, Qwikcilver, Pine Labs Inc,",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs Mastercard $150M investment 2021",
+   "status": "done",
+   "found": "Mastercard invested in Jan 2020 (not 2021) as part of $300M round at $1.5-1.7B valuation. Amount undisclosed. $150M was Alpha Wave Global in Jan 2022 ",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs PayU arbitration RBI",
+   "status": "done",
+   "found": "RBI penalty Rs 3.1 lakh for KYC lapses on PPIs (order Mar 23, 2026). No PayU arbitration award found. Amrish Rau previously CEO at PayU India before j",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs FY financials FY21-FY25",
+   "status": "done",
+   "found": "Yahoo Finance: FY23 rev Rs 1354 cr, FY24 rev Rs 1433 cr, FY25 rev Rs 1905 cr (consolidated). FY25 net loss Rs 145 cr. FY26 first profitable year ($12.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs merchant count terminals traction",
+   "status": "done",
+   "found": "500K+ merchants (2025), 330K POS terminals (2020), $30B annualized payment volume (2020), $100B annual volumes (FY26), $51B GTV Q3 FY26.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs CEO CFO exec changes",
+   "status": "done",
+   "found": "Amrish Rau CEO since Mar 2020 (replaced Vicky Bindra). Marc Mathenz CFO 2021-2025 (resigned Jun 2025), replaced by Sameer Kamath. Navnit Nakra CRO res",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs founders education background",
+   "status": "done",
+   "found": "Lokvir Kapoor: IIT Kanpur BTech ME 1987, IIM Bangalore MBA, ex-Schlumberger. Rajul Garg: left 2003, now Leo Capital/dottr.ai. Tarun Upadhyay: limited ",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs Mswipe product data-as-a-service",
+   "status": "done",
+   "found": "Mswipe is NOT a Pine Labs product - it is an independent competitor. Pine Labs products: POS, Plural, Qwikcilver, Credit+, Setu, Fave, Shopflo.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs DRHP history IPO 2022-2025",
+   "status": "done",
+   "found": "Jan 2022: confidential US SEC filing ($500M, $5.5-7B). Feb 2022: deferred US IPO. Jun 2025: DRHP filed India (Rs 2,600 cr). Nov 2025: IPO opened at ~$",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs locations Gurugram Noida",
+   "status": "done",
+   "found": "Corporate office Noida, UP. Registered office Gurugram, Haryana (Time Tower, MG Road, DLF QE). New Mumbai office (BKC Bandra East) per Q4 FY26. Singap",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs entity structure subsidiary list Flipkart Walmart",
+   "status": "done",
+   "found": "Direct subsidiaries: BrokenTusk, Grapefruit, Mopay, Pine Labs Digital, Qfix, Synergistic (Mosambee). Step-down: Fave Group, Qwikcilver, Pine Labs Inc,",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs Mastercard $150M investment 2021",
+   "status": "done",
+   "found": "Mastercard invested in Jan 2020 (not 2021) as part of $300M round at $1.5-1.7B valuation. Amount undisclosed. $150M was Alpha Wave Global in Jan 2022 ",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs PayU arbitration RBI",
+   "status": "done",
+   "found": "RBI penalty Rs 3.1 lakh for KYC lapses on PPIs (order Mar 23, 2026). No PayU arbitration award found. Amrish Rau previously CEO at PayU India before j",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs FY financials FY21-FY25",
+   "status": "done",
+   "found": "Yahoo Finance: FY23 rev Rs 1354 cr, FY24 rev Rs 1433 cr, FY25 rev Rs 1905 cr (consolidated). FY25 net loss Rs 145 cr. FY26 first profitable year ($12.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs merchant count terminals traction",
+   "status": "done",
+   "found": "500K+ merchants (2025), 330K POS terminals (2020), $30B annualized payment volume (2020), $100B annual volumes (FY26), $51B GTV Q3 FY26.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs CEO CFO exec changes",
+   "status": "done",
+   "found": "Amrish Rau CEO since Mar 2020 (replaced Vicky Bindra). Marc Mathenz CFO 2021-2025 (resigned Jun 2025), replaced by Sameer Kamath. Navnit Nakra CRO res",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs founders education background",
+   "status": "done",
+   "found": "Lokvir Kapoor: IIT Kanpur BTech ME 1987, IIM Bangalore MBA, ex-Schlumberger. Rajul Garg: left 2003, now Leo Capital/dottr.ai. Tarun Upadhyay: limited ",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs Mswipe product data-as-a-service",
+   "status": "done",
+   "found": "Mswipe is NOT a Pine Labs product - it is an independent competitor. Pine Labs products: POS, Plural, Qwikcilver, Credit+, Setu, Fave, Shopflo.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs DRHP history IPO 2022-2025",
+   "status": "done",
+   "found": "Jan 2022: confidential US SEC filing ($500M, $5.5-7B). Feb 2022: deferred US IPO. Jun 2025: DRHP filed India (Rs 2,600 cr). Nov 2025: IPO opened at ~$",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs locations Gurugram Noida",
+   "status": "done",
+   "found": "Corporate office Noida, UP. Registered office Gurugram, Haryana (Time Tower, MG Road, DLF QE). New Mumbai office (BKC Bandra East) per Q4 FY26. Singap",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs entity structure subsidiary list Flipkart Walmart",
+   "status": "done",
+   "found": "Direct subsidiaries: BrokenTusk, Grapefruit, Mopay, Pine Labs Digital, Qfix, Synergistic (Mosambee). Step-down: Fave Group, Qwikcilver, Pine Labs Inc,",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs Mastercard $150M investment 2021",
+   "status": "done",
+   "found": "Mastercard invested in Jan 2020 (not 2021) as part of $300M round at $1.5-1.7B valuation. Amount undisclosed. $150M was Alpha Wave Global in Jan 2022 ",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs PayU arbitration RBI",
+   "status": "done",
+   "found": "RBI penalty Rs 3.1 lakh for KYC lapses on PPIs (order Mar 23, 2026). No PayU arbitration award found. Amrish Rau previously CEO at PayU India before j",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs FY financials FY21-FY25",
+   "status": "done",
+   "found": "Yahoo Finance: FY23 rev Rs 1354 cr, FY24 rev Rs 1433 cr, FY25 rev Rs 1905 cr (consolidated). FY25 net loss Rs 145 cr. FY26 first profitable year ($12.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs merchant count terminals traction",
+   "status": "done",
+   "found": "500K+ merchants (2025), 330K POS terminals (2020), $30B annualized payment volume (2020), $100B annual volumes (FY26), $51B GTV Q3 FY26.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs CEO CFO exec changes",
+   "status": "done",
+   "found": "Amrish Rau CEO since Mar 2020 (replaced Vicky Bindra). Marc Mathenz CFO 2021-2025 (resigned Jun 2025), replaced by Sameer Kamath. Navnit Nakra CRO res",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs founders education background",
+   "status": "done",
+   "found": "Lokvir Kapoor: IIT Kanpur BTech ME 1987, IIM Bangalore MBA, ex-Schlumberger. Rajul Garg: left 2003, now Leo Capital/dottr.ai. Tarun Upadhyay: limited ",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs Mswipe product data-as-a-service",
+   "status": "done",
+   "found": "Mswipe is NOT a Pine Labs product - it is an independent competitor. Pine Labs products: POS, Plural, Qwikcilver, Credit+, Setu, Fave, Shopflo.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs DRHP history IPO 2022-2025",
+   "status": "done",
+   "found": "Jan 2022: confidential US SEC filing ($500M, $5.5-7B). Feb 2022: deferred US IPO. Jun 2025: DRHP filed India (Rs 2,600 cr). Nov 2025: IPO opened at ~$",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs locations Gurugram Noida",
+   "status": "done",
+   "found": "Corporate office Noida, UP. Registered office Gurugram, Haryana (Time Tower, MG Road, DLF QE). New Mumbai office (BKC Bandra East) per Q4 FY26. Singap",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs entity structure subsidiary list Flipkart Walmart",
+   "status": "done",
+   "found": "Direct subsidiaries: BrokenTusk, Grapefruit, Mopay, Pine Labs Digital, Qfix, Synergistic (Mosambee). Step-down: Fave Group, Qwikcilver, Pine Labs Inc,",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs Mastercard $150M investment 2021",
+   "status": "done",
+   "found": "Mastercard invested in Jan 2020 (not 2021) as part of $300M round at $1.5-1.7B valuation. Amount undisclosed. $150M was Alpha Wave Global in Jan 2022 ",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs PayU arbitration RBI",
+   "status": "done",
+   "found": "RBI penalty Rs 3.1 lakh for KYC lapses on PPIs (order Mar 23, 2026). No PayU arbitration award found. Amrish Rau previously CEO at PayU India before j",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs FY financials FY21-FY25",
+   "status": "done",
+   "found": "Yahoo Finance: FY23 rev Rs 1354 cr, FY24 rev Rs 1433 cr, FY25 rev Rs 1905 cr (consolidated). FY25 net loss Rs 145 cr. FY26 first profitable year ($12.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs merchant count terminals traction",
+   "status": "done",
+   "found": "500K+ merchants (2025), 330K POS terminals (2020), $30B annualized payment volume (2020), $100B annual volumes (FY26), $51B GTV Q3 FY26.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs CEO CFO exec changes",
+   "status": "done",
+   "found": "Amrish Rau CEO since Mar 2020 (replaced Vicky Bindra). Marc Mathenz CFO 2021-2025 (resigned Jun 2025), replaced by Sameer Kamath. Navnit Nakra CRO res",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs founders education background",
+   "status": "done",
+   "found": "Lokvir Kapoor: IIT Kanpur BTech ME 1987, IIM Bangalore MBA, ex-Schlumberger. Rajul Garg: left 2003, now Leo Capital/dottr.ai. Tarun Upadhyay: limited ",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs Mswipe product data-as-a-service",
+   "status": "done",
+   "found": "Mswipe is NOT a Pine Labs product - it is an independent competitor. Pine Labs products: POS, Plural, Qwikcilver, Credit+, Setu, Fave, Shopflo.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs DRHP history IPO 2022-2025",
+   "status": "done",
+   "found": "Jan 2022: confidential US SEC filing ($500M, $5.5-7B). Feb 2022: deferred US IPO. Jun 2025: DRHP filed India (Rs 2,600 cr). Nov 2025: IPO opened at ~$",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs locations Gurugram Noida",
+   "status": "done",
+   "found": "Corporate office Noida, UP. Registered office Gurugram, Haryana (Time Tower, MG Road, DLF QE). New Mumbai office (BKC Bandra East) per Q4 FY26. Singap",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs entity structure subsidiary list Flipkart Walmart",
+   "status": "done",
+   "found": "Direct subsidiaries: BrokenTusk, Grapefruit, Mopay, Pine Labs Digital, Qfix, Synergistic (Mosambee). Step-down: Fave Group, Qwikcilver, Pine Labs Inc,",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs Mastercard $150M investment 2021",
+   "status": "done",
+   "found": "Mastercard invested in Jan 2020 (not 2021) as part of $300M round at $1.5-1.7B valuation. Amount undisclosed. $150M was Alpha Wave Global in Jan 2022 ",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs PayU arbitration RBI",
+   "status": "done",
+   "found": "RBI penalty Rs 3.1 lakh for KYC lapses on PPIs (order Mar 23, 2026). No PayU arbitration award found. Amrish Rau previously CEO at PayU India before j",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs FY financials FY21-FY25",
+   "status": "done",
+   "found": "Yahoo Finance: FY23 rev Rs 1354 cr, FY24 rev Rs 1433 cr, FY25 rev Rs 1905 cr (consolidated). FY25 net loss Rs 145 cr. FY26 first profitable year ($12.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs merchant count terminals traction",
+   "status": "done",
+   "found": "500K+ merchants (2025), 330K POS terminals (2020), $30B annualized payment volume (2020), $100B annual volumes (FY26), $51B GTV Q3 FY26.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs CEO CFO exec changes",
+   "status": "done",
+   "found": "Amrish Rau CEO since Mar 2020 (replaced Vicky Bindra). Marc Mathenz CFO 2021-2025 (resigned Jun 2025), replaced by Sameer Kamath. Navnit Nakra CRO res",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs founders education background",
+   "status": "done",
+   "found": "Lokvir Kapoor: IIT Kanpur BTech ME 1987, IIM Bangalore MBA, ex-Schlumberger. Rajul Garg: left 2003, now Leo Capital/dottr.ai. Tarun Upadhyay: limited ",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs Mswipe product data-as-a-service",
+   "status": "done",
+   "found": "Mswipe is NOT a Pine Labs product - it is an independent competitor. Pine Labs products: POS, Plural, Qwikcilver, Credit+, Setu, Fave, Shopflo.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs DRHP history IPO 2022-2025",
+   "status": "done",
+   "found": "Jan 2022: confidential US SEC filing ($500M, $5.5-7B). Feb 2022: deferred US IPO. Jun 2025: DRHP filed India (Rs 2,600 cr). Nov 2025: IPO opened at ~$",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs locations Gurugram Noida",
+   "status": "done",
+   "found": "Corporate office Noida, UP. Registered office Gurugram, Haryana (Time Tower, MG Road, DLF QE). New Mumbai office (BKC Bandra East) per Q4 FY26. Singap",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs entity structure subsidiary list Flipkart Walmart",
+   "status": "done",
+   "found": "Direct subsidiaries: BrokenTusk, Grapefruit, Mopay, Pine Labs Digital, Qfix, Synergistic (Mosambee). Step-down: Fave Group, Qwikcilver, Pine Labs Inc,",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs Mastercard $150M investment 2021",
+   "status": "done",
+   "found": "Mastercard invested in Jan 2020 (not 2021) as part of $300M round at $1.5-1.7B valuation. Amount undisclosed. $150M was Alpha Wave Global in Jan 2022 ",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs PayU arbitration RBI",
+   "status": "done",
+   "found": "RBI penalty Rs 3.1 lakh for KYC lapses on PPIs (order Mar 23, 2026). No PayU arbitration award found. Amrish Rau previously CEO at PayU India before j",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs FY financials FY21-FY25",
+   "status": "done",
+   "found": "Yahoo Finance: FY23 rev Rs 1354 cr, FY24 rev Rs 1433 cr, FY25 rev Rs 1905 cr (consolidated). FY25 net loss Rs 145 cr. FY26 first profitable year ($12.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs merchant count terminals traction",
+   "status": "done",
+   "found": "500K+ merchants (2025), 330K POS terminals (2020), $30B annualized payment volume (2020), $100B annual volumes (FY26), $51B GTV Q3 FY26.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs CEO CFO exec changes",
+   "status": "done",
+   "found": "Amrish Rau CEO since Mar 2020 (replaced Vicky Bindra). Marc Mathenz CFO 2021-2025 (resigned Jun 2025), replaced by Sameer Kamath. Navnit Nakra CRO res",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs founders education background",
+   "status": "done",
+   "found": "Lokvir Kapoor: IIT Kanpur BTech ME 1987, IIM Bangalore MBA, ex-Schlumberger. Rajul Garg: left 2003, now Leo Capital/dottr.ai. Tarun Upadhyay: limited ",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs Mswipe product data-as-a-service",
+   "status": "done",
+   "found": "Mswipe is NOT a Pine Labs product - it is an independent competitor. Pine Labs products: POS, Plural, Qwikcilver, Credit+, Setu, Fave, Shopflo.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs DRHP history IPO 2022-2025",
+   "status": "done",
+   "found": "Jan 2022: confidential US SEC filing ($500M, $5.5-7B). Feb 2022: deferred US IPO. Jun 2025: DRHP filed India (Rs 2,600 cr). Nov 2025: IPO opened at ~$",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs locations Gurugram Noida",
+   "status": "done",
+   "found": "Corporate office Noida, UP. Registered office Gurugram, Haryana (Time Tower, MG Road, DLF QE). New Mumbai office (BKC Bandra East) per Q4 FY26. Singap",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs entity structure subsidiary list Flipkart Walmart",
+   "status": "done",
+   "found": "Direct subsidiaries: BrokenTusk, Grapefruit, Mopay, Pine Labs Digital, Qfix, Synergistic (Mosambee). Step-down: Fave Group, Qwikcilver, Pine Labs Inc,",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs Mastercard $150M investment 2021",
+   "status": "done",
+   "found": "Mastercard invested in Jan 2020 (not 2021) as part of $300M round at $1.5-1.7B valuation. Amount undisclosed. $150M was Alpha Wave Global in Jan 2022 ",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs PayU arbitration RBI",
+   "status": "done",
+   "found": "RBI penalty Rs 3.1 lakh for KYC lapses on PPIs (order Mar 23, 2026). No PayU arbitration award found. Amrish Rau previously CEO at PayU India before j",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs FY financials FY21-FY25",
+   "status": "done",
+   "found": "Yahoo Finance: FY23 rev Rs 1354 cr, FY24 rev Rs 1433 cr, FY25 rev Rs 1905 cr (consolidated). FY25 net loss Rs 145 cr. FY26 first profitable year ($12.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs merchant count terminals traction",
+   "status": "done",
+   "found": "500K+ merchants (2025), 330K POS terminals (2020), $30B annualized payment volume (2020), $100B annual volumes (FY26), $51B GTV Q3 FY26.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs CEO CFO exec changes",
+   "status": "done",
+   "found": "Amrish Rau CEO since Mar 2020 (replaced Vicky Bindra). Marc Mathenz CFO 2021-2025 (resigned Jun 2025), replaced by Sameer Kamath. Navnit Nakra CRO res",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs founders education background",
+   "status": "done",
+   "found": "Lokvir Kapoor: IIT Kanpur BTech ME 1987, IIM Bangalore MBA, ex-Schlumberger. Rajul Garg: left 2003, now Leo Capital/dottr.ai. Tarun Upadhyay: limited ",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs Mswipe product data-as-a-service",
+   "status": "done",
+   "found": "Mswipe is NOT a Pine Labs product - it is an independent competitor. Pine Labs products: POS, Plural, Qwikcilver, Credit+, Setu, Fave, Shopflo.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs DRHP history IPO 2022-2025",
+   "status": "done",
+   "found": "Jan 2022: confidential US SEC filing ($500M, $5.5-7B). Feb 2022: deferred US IPO. Jun 2025: DRHP filed India (Rs 2,600 cr). Nov 2025: IPO opened at ~$",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs locations Gurugram Noida",
+   "status": "done",
+   "found": "Corporate office Noida, UP. Registered office Gurugram, Haryana (Time Tower, MG Road, DLF QE). New Mumbai office (BKC Bandra East) per Q4 FY26. Singap",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs entity structure subsidiary list Flipkart Walmart",
+   "status": "done",
+   "found": "Direct subsidiaries: BrokenTusk, Grapefruit, Mopay, Pine Labs Digital, Qfix, Synergistic (Mosambee). Step-down: Fave Group, Qwikcilver, Pine Labs Inc,",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs Mastercard $150M investment 2021",
+   "status": "done",
+   "found": "Mastercard invested in Jan 2020 (not 2021) as part of $300M round at $1.5-1.7B valuation. Amount undisclosed. $150M was Alpha Wave Global in Jan 2022 ",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs PayU arbitration RBI",
+   "status": "done",
+   "found": "RBI penalty Rs 3.1 lakh for KYC lapses on PPIs (order Mar 23, 2026). No PayU arbitration award found. Amrish Rau previously CEO at PayU India before j",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs FY financials FY21-FY25",
+   "status": "done",
+   "found": "Yahoo Finance: FY23 rev Rs 1354 cr, FY24 rev Rs 1433 cr, FY25 rev Rs 1905 cr (consolidated). FY25 net loss Rs 145 cr. FY26 first profitable year ($12.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs merchant count terminals traction",
+   "status": "done",
+   "found": "500K+ merchants (2025), 330K POS terminals (2020), $30B annualized payment volume (2020), $100B annual volumes (FY26), $51B GTV Q3 FY26.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs CEO CFO exec changes",
+   "status": "done",
+   "found": "Amrish Rau CEO since Mar 2020 (replaced Vicky Bindra). Marc Mathenz CFO 2021-2025 (resigned Jun 2025), replaced by Sameer Kamath. Navnit Nakra CRO res",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs founders education background",
+   "status": "done",
+   "found": "Lokvir Kapoor: IIT Kanpur BTech ME 1987, IIM Bangalore MBA, ex-Schlumberger. Rajul Garg: left 2003, now Leo Capital/dottr.ai. Tarun Upadhyay: limited ",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs Mswipe product data-as-a-service",
+   "status": "done",
+   "found": "Mswipe is NOT a Pine Labs product - it is an independent competitor. Pine Labs products: POS, Plural, Qwikcilver, Credit+, Setu, Fave, Shopflo.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs DRHP history IPO 2022-2025",
+   "status": "done",
+   "found": "Jan 2022: confidential US SEC filing ($500M, $5.5-7B). Feb 2022: deferred US IPO. Jun 2025: DRHP filed India (Rs 2,600 cr). Nov 2025: IPO opened at ~$",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs locations Gurugram Noida",
+   "status": "done",
+   "found": "Corporate office Noida, UP. Registered office Gurugram, Haryana (Time Tower, MG Road, DLF QE). New Mumbai office (BKC Bandra East) per Q4 FY26. Singap",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs entity structure subsidiary list Flipkart Walmart",
+   "status": "done",
+   "found": "Direct subsidiaries: BrokenTusk, Grapefruit, Mopay, Pine Labs Digital, Qfix, Synergistic (Mosambee). Step-down: Fave Group, Qwikcilver, Pine Labs Inc,",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs Mastercard $150M investment 2021",
+   "status": "done",
+   "found": "Mastercard invested in Jan 2020 (not 2021) as part of $300M round at $1.5-1.7B valuation. Amount undisclosed. $150M was Alpha Wave Global in Jan 2022 ",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs PayU arbitration RBI",
+   "status": "done",
+   "found": "RBI penalty Rs 3.1 lakh for KYC lapses on PPIs (order Mar 23, 2026). No PayU arbitration award found. Amrish Rau previously CEO at PayU India before j",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs FY financials FY21-FY25",
+   "status": "done",
+   "found": "Yahoo Finance: FY23 rev Rs 1354 cr, FY24 rev Rs 1433 cr, FY25 rev Rs 1905 cr (consolidated). FY25 net loss Rs 145 cr. FY26 first profitable year ($12.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs merchant count terminals traction",
+   "status": "done",
+   "found": "500K+ merchants (2025), 330K POS terminals (2020), $30B annualized payment volume (2020), $100B annual volumes (FY26), $51B GTV Q3 FY26.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs CEO CFO exec changes",
+   "status": "done",
+   "found": "Amrish Rau CEO since Mar 2020 (replaced Vicky Bindra). Marc Mathenz CFO 2021-2025 (resigned Jun 2025), replaced by Sameer Kamath. Navnit Nakra CRO res",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs founders education background",
+   "status": "done",
+   "found": "Lokvir Kapoor: IIT Kanpur BTech ME 1987, IIM Bangalore MBA, ex-Schlumberger. Rajul Garg: left 2003, now Leo Capital/dottr.ai. Tarun Upadhyay: limited ",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs Mswipe product data-as-a-service",
+   "status": "done",
+   "found": "Mswipe is NOT a Pine Labs product - it is an independent competitor. Pine Labs products: POS, Plural, Qwikcilver, Credit+, Setu, Fave, Shopflo.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs DRHP history IPO 2022-2025",
+   "status": "done",
+   "found": "Jan 2022: confidential US SEC filing ($500M, $5.5-7B). Feb 2022: deferred US IPO. Jun 2025: DRHP filed India (Rs 2,600 cr). Nov 2025: IPO opened at ~$",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Pine Labs locations Gurugram Noida",
+   "status": "done",
+   "found": "Corporate office Noida, UP. Registered office Gurugram, Haryana (Time Tower, MG Road, DLF QE). New Mumbai office (BKC Bandra East) per Q4 FY26. Singap",
+   "next_action": "none"
+  }
+ ],
+ "sources": [
+  {
+   "claim_supported": "IPO pricing, issue size, valuation cut, listing pop",
+   "fields_supported": [
+    "funding_rounds",
+    "events"
+   ],
+   "publication_date": "2025-11-14",
+   "publisher": "TechCrunch",
+   "retrieved_date": "2026-09-14",
+   "tier": "T3",
+   "title": "Pine Labs gets warm market welcome on $440M India IPO",
+   "url": "https://techcrunch.com/2025/11/14/pine-labs-gets-warm-market-welcome-on-440m-india-ipo-despite-a-valuation-trim/"
+  },
+  {
+   "claim_supported": "Price band, DRHP-to-RHP cut, CEO strategy",
+   "fields_supported": [
+    "funding_rounds",
+    "events",
+    "people"
+   ],
+   "publication_date": "2025-11-03",
+   "publisher": "TechCrunch",
+   "retrieved_date": "2026-09-14",
+   "tier": "T3",
+   "title": "Pine Labs aims to take Indian fintech global even as it cuts valuation for IPO",
+   "url": "https://techcrunch.com/2025/11/03/pine-labs-aims-to-take-indian-fintech-global-even-as-it-cuts-valuation-for-ipo/"
+  },
+  {
+   "claim_supported": "DRHP size, $5-6B seeking valuation",
+   "fields_supported": [
+    "funding_rounds",
+    "events"
+   ],
+   "publication_date": "2025-06-26",
+   "publisher": "Reuters",
+   "retrieved_date": "2026-09-14",
+   "tier": "T3",
+   "title": "Fintech firm Pine Labs seeks up to $6B valuation in India IPO",
+   "url": "https://www.reuters.com/world/india/indian-fintech-firm-pine-labs-files-initial-public-offering-2025-06-26/"
+  },
+  {
+   "claim_supported": "Founders, HQ, revenue FY25, round history",
+   "fields_supported": [
+    "company",
+    "founders",
+    "funding_rounds"
+   ],
+   "publication_date": null,
+   "publisher": "Wikipedia (search snippets; fetch 403)",
+   "retrieved_date": "2026-09-14",
+   "tier": "T5",
+   "title": "Pine Labs (Wikipedia)",
+   "url": "https://en.wikipedia.org/wiki/Pine_Labs"
+  },
+  {
+   "claim_supported": "CEO interview, scale, global expansion",
+   "fields_supported": [
+    "people",
+    "events"
+   ],
+   "publication_date": "2025-11-03",
+   "publisher": "Economic Times",
+   "retrieved_date": "2026-09-14",
+   "tier": "T3",
+   "title": "Our scale & financials justify an IPO: Pine Labs CEO Amrish Rau",
+   "url": "https://economictimes.indiatimes.com/tech/technology/our-scale-financials-justify-an-ipo-pine-labs-ceo-amrish-rau/articleshow/125061174.cms"
+  },
+  {
+   "url": "https://www.tofler.in/pine-labs-limited/company/L67100HR1998PLC113312",
+   "title": "PINE LABS LIMITED. Financials | Company Details | Tofler",
+   "fields": [
+    "cin",
+    "incorporation_date",
+    "registered_office"
+   ],
+   "confidence": "high"
+  },
+  {
+   "url": "https://cdn.pinelabs.com/india/investors/pdf/offer-documents/Pine-Labs-Limited-DRHP.pdf",
+   "title": "Pine Labs Limited DRHP (June 25, 2025)",
+   "publisher": "Pine Labs Limited / SEBI",
+   "publication_date": "2025-06-25",
+   "retrieved_date": "2026-09-15",
+   "tier": "T1",
+   "fields_supported": [
+    "company",
+    "legal",
+    "subsidiary_list",
+    "funding_rounds",
+    "financials"
+   ]
+  },
+  {
+   "url": "https://www.businesstoday.in/technology/news/story/rbi-fines-pine-labs-for-kyc-lapses-in-prepaid-payment-instruments-522801-2026-03-27",
+   "title": "RBI fines Pine Labs for KYC lapses in prepaid payment instruments",
+   "publisher": "Business Today",
+   "publication_date": "2026-03-27",
+   "retrieved_date": "2026-09-15",
+   "tier": "T2",
+   "fields_supported": [
+    "legal"
+   ]
+  },
+  {
+   "url": "https://www.pinelabs.com/media-analyst/amrish-rau-joins-pine-labs-as-ceo",
+   "title": "Amrish Rau joins Pine Labs as CEO",
+   "publisher": "Pine Labs PR",
+   "publication_date": "2020-03-03",
+   "retrieved_date": "2026-09-15",
+   "tier": "T2",
+   "fields_supported": [
+    "people"
+   ]
+  },
+  {
+   "url": "https://www.iitk.ac.in/dora/profile/Mr-Lokvir-Kapoor",
+   "title": "Mr. Lokvir Kapoor - IIT Kanpur",
+   "publisher": "IIT Kanpur",
+   "publication_date": "2026-02-12",
+   "retrieved_date": "2026-09-15",
+   "tier": "T1",
+   "fields_supported": [
+    "founders"
+   ]
+  },
+  {
+   "url": "https://cdn.pinelabs.com/india/investors/pdf/legal-documents/Pine_Labs_Ltd_Shareholder_Letter_and_Results_Q4_FY26_with_financials.pdf",
+   "title": "Pine Labs Q4 FY26 Shareholders Letter and Results",
+   "publisher": "Pine Labs Limited",
+   "publication_date": "2026-05-01",
+   "retrieved_date": "2026-09-15",
+   "tier": "T1",
+   "fields_supported": [
+    "financials",
+    "subsidiary_list",
+    "traction",
+    "locations"
+   ]
+  }
+ ],
+ "startup_id": "pine labs",
+ "traction": [
+  {
+   "metric": "merchants_served",
+   "value": 500000,
+   "unit": "count",
+   "period": "As-of-2025",
+   "as_of": "2025-06-01",
+   "source_url": "https://inc42.com/buzz/pine-labs-converts-into-public-entity-in-run-up-to-ipo",
+   "source_title": "Pine Labs Converts Into Public Entity - Inc42",
+   "confidence": "MEDIUM"
+  },
+  {
+   "metric": "merchants_served",
+   "value": 140000,
+   "unit": "count",
+   "period": "As-of-2020",
+   "as_of": "2020-01-01",
+   "source_url": "https://www.americanbanker.com/payments/news/mastercard-invests-in-pine-labs-to-diversify-credit-options-in-south-asia",
+   "source_title": "Mastercard invests in Pine Labs - American Banker",
+   "source_date": "2020-01-24",
+   "confidence": "MEDIUM"
+  },
+  {
+   "metric": "pos_terminals",
+   "value": 330000,
+   "unit": "count",
+   "period": "As-of-2020",
+   "as_of": "2020-01-01",
+   "source_url": "https://nilsonreport.com/articles/pine-labs-merchant-services",
+   "source_title": "Pine Labs Merchant Services - Nilson Report",
+   "source_date": "2023-01-23",
+   "confidence": "MEDIUM"
+  },
+  {
+   "metric": "annualized_payment_volume",
+   "value": 30000000000,
+   "unit": "USD",
+   "period": "As-of-2020",
+   "as_of": "2020-01-01",
+   "source_url": "https://www.americanbanker.com/payments/news/mastercard-invests-in-pine-labs-to-diversify-credit-options-in-south-asia",
+   "source_title": "Mastercard invests in Pine Labs - American Banker",
+   "source_date": "2020-01-24",
+   "confidence": "MEDIUM"
+  },
+  {
+   "metric": "annualized_gtv_gift_cards",
+   "value": 1500000000,
+   "unit": "USD",
+   "period": "As-of-2019",
+   "as_of": "2019-03-19",
+   "source_url": "https://www.pinelabs.com/media-analyst/pine-labs-signs-definitive-agreement-to-acquire-qwikcilver-for-usd-110-million",
+   "source_title": "Pine Labs acquires Qwikcilver - Pine Labs PR",
+   "source_date": "2019-03-19",
+   "confidence": "MEDIUM"
+  },
+  {
+   "metric": "digital_checkout_points",
+   "value": 1270000,
+   "unit": "count",
+   "period": "FY24",
+   "as_of": "2025-06-01",
+   "source_url": "https://cdn.pinelabs.com/india/investors/pdf/other-documents/Genesis_Industry_Report_DRHP.pdf",
+   "source_title": "Pine Labs DRHP Industry Report",
+   "source_date": "2025-06-01",
+   "confidence": "MEDIUM"
+  },
+  {
+   "metric": "annualized_payment_volume",
+   "value": 100000000000,
+   "unit": "USD",
+   "period": "FY26",
+   "as_of": "2026-02-01",
+   "source_url": "https://cdn.pinelabs.com/india/investors/pdf/legal-documents/Pine_Labs_Ltd_Shareholder_Letter_and_Results_Q4_FY26_with_financials.pdf",
+   "source_title": "Pine Labs Q4 FY26 Shareholders Letter",
+   "source_date": "2026-05-01",
+   "confidence": "MEDIUM"
+  },
+  {
+   "metric": "online_payments_revenue_growth",
+   "value": 50,
+   "unit": "percent",
+   "period": "Q3 FY26 YoY",
+   "as_of": "2026-02-01",
+   "source_url": "https://www.pinelabs.com/media-analyst/pine-labs-acquires-shopflo-to-build-indias-leading-unified-commerce-and-payments-platform",
+   "source_title": "Pine Labs acquires Shopflo - Pine Labs PR",
+   "source_date": "2026-04-25",
+   "confidence": "MEDIUM"
+  },
+  {
+   "metric": "gtv",
+   "value": 51000000000,
+   "unit": "USD",
+   "period": "Q3 FY26",
+   "as_of": "2026-02-01",
+   "source_url": "https://quartr.com/events/pine-labs-limited-pinelabs-q3-25-26_FR3zKeJX",
+   "source_title": "Pine Labs Q3 FY26 earnings summary - Quartr",
+   "source_date": "2026-03-01",
+   "confidence": "MEDIUM"
+  }
+ ],
+ "_merged_session2": true
+}

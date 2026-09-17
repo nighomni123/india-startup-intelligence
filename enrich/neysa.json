@@ -1,0 +1,4812 @@
+{
+ "acquisitions": [],
+ "canonical_key": "neysa",
+ "company": {
+  "business_model": "AI acceleration cloud platform + PaaS (GPU infra, GenAI platform Velocis, observability)",
+  "city": "Mumbai",
+  "confidence": "HIGH",
+  "country": "India",
+  "customer_type": "B2B, B2G",
+  "founded_date": "2023-01",
+  "last_funding_date": "2026-02-16",
+  "last_funding_round": "Growth equity (Blackstone-led)",
+  "last_known_valuation": "$1.4B enterprise value (press-reported, company did not confirm)",
+  "primary_sector": "AI cloud infrastructure",
+  "secondary_sectors": [
+   "GPU cloud",
+   "GenAI platform",
+   "observability"
+  ],
+  "startup_id": "neysa",
+  "startup_stage": "Unicorn",
+  "state": "Maharashtra",
+  "status": "Active",
+  "total_funding_disclosed": "$650M equity ($20M seed + $30M Series A + up to $600M Blackstone-led equity); +$600M planned debt = up to $1.2B capital raise",
+  "website": "https://neysa.ai",
+  "cin": "U72900MH2022PTC395489",
+  "incorporation_date": "2022-12-16",
+  "legal_name": "Neysa Networks Private Limited",
+  "official_website": {
+   "v": "https://neysa.ai",
+   "conf": "high",
+   "src": "https://neysa.ai",
+   "note": "verified live 2026-09-15: name match on own homepage"
+  },
+  "careers_website": {
+   "v": "https://neysa.ai/careers/",
+   "conf": "high",
+   "src": "https://neysa.ai",
+   "note": "careers link found on official homepage, probed live"
+  },
+  "description": {
+   "v": "India's AI acceleration cloud platform offering GPU infrastructure, GenAI platform Velocis, and AI/ML observability. Flagship product Velocis.",
+   "conf": "HIGH",
+   "src": "https://neysa.ai/press-release/blackstone-leads-funding-of-over-1-billion-dollar-to-neysa/",
+   "note": "Company PR"
+  },
+  "employee_estimate": {
+   "v": 110,
+   "conf": "MEDIUM",
+   "src": "https://techcrunch.com/2026/02/15/blackstone-backs-neysa-in-up-to-1-2b-financing-as-india-pushes-to-build-domestic-ai-compute/",
+   "note": "110 employees across Mumbai, Bengaluru, Chennai as of Feb 2026",
+   "asof": "2026-02"
+  },
+  "public_private": {
+   "v": "Private",
+   "conf": "HIGH",
+   "src": "https://techcrunch.com/2026/02/15/blackstone-backs-neysa-in-up-to-1-2b-financing-as-india-pushes-to-build-domestic-ai-compute/",
+   "note": "Private company, Blackstone majority stake pending"
+  },
+  "hq_type": {
+   "v": "HQ",
+   "conf": "HIGH",
+   "src": "https://techcrunch.com/2026/02/15/blackstone-backs-neysa-in-up-to-1-2b-financing-as-india-pushes-to-build-domestic-ai-compute/",
+   "note": "Mumbai HQ"
+  }
+ },
+ "competitors": [
+  {
+   "basis": "explicit",
+   "confidence": "MEDIUM",
+   "name": "Global AI hyperscalers (per TechCrunch framing)",
+   "source_url": "https://techcrunch.com/2024/10/21/indias-neysa-bags-30m-to-compete-with-global-ai-hyperscalers/"
+  }
+ ],
+ "completeness_self": {
+  "customers": 3,
+  "financials": 2,
+  "founders": 9,
+  "funding": 9,
+  "identity": 9,
+  "investors": 9,
+  "legal": 2,
+  "people": 5,
+  "products": 7,
+  "sources": 8,
+  "traction": 6
+ },
+ "conflicts": [
+  {
+   "claim_a": "$600M raise (equity portion)",
+   "claim_b": "$1.2B raise (equity + planned debt)",
+   "field": "round_size",
+   "resolution": "Both true: up to $600M definitive equity agreements + intended $600M debt subject to documentation; $1.2B is total capital raise, not closed equity.",
+   "resolved_value": "$600M equity definitive + $600M debt planned",
+   "url_a": "https://economictimes.indiatimes.com/tech/funding/blackstone-leads-600-million-raise-in-ai-cloud-neysa-at-1-4-billion-enterprise-value/articleshow/128390049.cms",
+   "url_b": "https://neysa.ai/press-release/blackstone-leads-funding-of-over-1-billion-dollar-to-neysa/"
+  },
+  {
+   "claim_a": "Founding year 2022 (Sacra)",
+   "claim_b": "Founded Jan 2023 / launched 2023 (company + TechCrunch)",
+   "field": "founded_date",
+   "resolution": "Company sources say set up Jan 2023, founded 2023; 2022 likely conception year. Use 2023-01.",
+   "resolved_value": "2023-01",
+   "url_a": "https://sacra.com/c/neysa/",
+   "url_b": "https://techcrunch.com/2024/10/21/indias-neysa-bags-30m-to-compete-with-global-ai-hyperscalers/"
+  },
+  {
+   "field": "founder_name",
+   "claim_a": "Rahul Gandotra listed as founder in some sources",
+   "claim_b": "Sharad Sanghi and Anindya Das are the only founders per all credible sources",
+   "url_a": "UNKNOWN",
+   "url_b": "https://www.z47.com/news/neysa-raises-20m-led-by-matrix-partners-india-nexus-venture-partners-and-nttvc",
+   "resolution": "No credible source mentions Rahul Gandotra as a Neysa founder. Sharad Sanghi and Anindya Das are the confirmed co-founders. Rahul Gandotra appears to be incorrect/unverified.",
+   "resolved_value": "Sharad Sanghi and Anindya Das are founders; Rahul Gandotra not verified"
+  }
+ ],
+ "customers": [
+  {
+   "name": "Perplexity",
+   "type": "AI company (in talks)",
+   "announced_date": "2026-02-17",
+   "status": "in talks",
+   "source_url": "https://www.moneycontrol.com/news/business/startup/neysa-to-triple-revenue-by-fy27-expect-strong-demand-from-ai-firms-saas-startups-co-founder-sharad-sanghi-13831468.html",
+   "confidence": "LOW"
+  },
+  {
+   "name": "OpenAI",
+   "type": "AI company (in talks)",
+   "announced_date": "2026-02-17",
+   "status": "in talks",
+   "source_url": "https://www.moneycontrol.com/news/business/startup/neysa-to-triple-revenue-by-fy27-expect-strong-demand-from-ai-firms-saas-startups-co-founder-sharad-sanghi-13831468.html",
+   "confidence": "LOW"
+  },
+  {
+   "name": "Anthropic",
+   "type": "AI company (in talks)",
+   "announced_date": "2026-02-17",
+   "status": "in talks",
+   "source_url": "https://www.moneycontrol.com/news/business/startup/neysa-to-triple-revenue-by-fy27-expect-strong-demand-from-ai-firms-saas-startups-co-founder-sharad-sanghi-13831468.html",
+   "confidence": "LOW"
+  }
+ ],
+ "events": [
+  {
+   "announced_date": "2026-02-16",
+   "confidence": "HIGH",
+   "date": "2026-02-16",
+   "description": "Definitive agreements for up to $600M equity from Blackstone + co-investors; intends $600M debt; majority stake to Blackstone; scale to 20,000+ GPUs.",
+   "headline": "Blackstone-led up to $1.2B capital raise announced",
+   "source_url": "https://neysa.ai/press-release/blackstone-leads-funding-of-over-1-billion-dollar-to-neysa/",
+   "type": "funding"
+  },
+  {
+   "announced_date": "2024-10-22",
+   "confidence": "HIGH",
+   "date": "2024-10-22",
+   "description": "$30M all-equity Series A co-led by existing investors NTTVC, Z47, Nexus Venture Partners.",
+   "headline": "$30M Series A",
+   "source_url": "https://techcrunch.com/2024/10/21/indias-neysa-bags-30m-to-compete-with-global-ai-hyperscalers/",
+   "type": "funding"
+  },
+  {
+   "announced_date": "2024-04-10",
+   "confidence": "HIGH",
+   "date": "2024-04-10",
+   "description": "$20M seed led by Matrix Partners India (now Z47), Nexus, NTTVC.",
+   "headline": "$20M seed",
+   "source_url": "https://www.z47.com/news/neysa-raises-20m-led-by-matrix-partners-india-nexus-venture-partners-and-nttvc",
+   "type": "funding"
+  },
+  {
+   "type": "funding",
+   "headline": "$20M Seed funding announced",
+   "date": "2024-04-10",
+   "description": "Seed round led by Matrix Partners India (now Z47), Nexus Venture Partners, and NTTVC",
+   "source_url": "https://www.z47.com/news/neysa-raises-20m-led-by-matrix-partners-india-nexus-venture-partners-and-nttvc",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "funding",
+   "headline": "$30M Series A announced",
+   "date": "2024-10-21",
+   "description": "Series A co-led by NTTVC, Z47, Nexus Venture Partners; ~$128M post-money valuation per Entrackr",
+   "source_url": "https://techcrunch.com/2024/10/21/indias-neysa-bags-30m-to-compete-with-global-ai-hyperscalers/",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "partnership",
+   "headline": "NTT Data + Neysa + Telangana govt MoU for Rs 10,500 crore AI data center cluster",
+   "date": "2025-04-18",
+   "description": "400MW AI data center cluster in Hyderabad; NTT Data investing Rs 10,500 crore",
+   "source_url": "https://www.thehindu.com/news/national/telangana/ntt-data-to-invest-10500-crore-for-ai-data-centre-cluster-in-hyderabad/article69464674.ece",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "product_launch",
+   "headline": "Velocis platform expanded with OpenAI GPT-OSS models",
+   "date": "2025-09-09",
+   "description": "Neysa expanded Velocis cloud platform catalog to add OpenAI's latest GPT-OSS models",
+   "source_url": "https://www.moneycontrol.com/news/business/startup/ai-startup-neysa-s-cloud-platform-velocis-to-feature-ai-models-including-gpt-oss-13530730.html",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "funding",
+   "headline": "Blackstone, SoftBank in talks for stakes in Neysa",
+   "date": "2025-11-13",
+   "description": "Blackstone and SoftBank in early discussions to buy stakes in Neysa Networks",
+   "source_url": "https://m.economictimes.com/tech/startups/blackstone-softbank-said-in-talks-for-stakes-in-india-cloud-startup-neysa/articleshow/125296551.cms",
+   "confidence": "MEDIUM"
+  },
+  {
+   "type": "partnership",
+   "headline": "Neysa and Pipeshift launch sovereign inference infrastructure",
+   "date": "2026-05-27",
+   "description": "Real-time inference for open-source AI models, fully deployed within India, single-tenant environments",
+   "source_url": "https://www.thehindubusinessline.com/info-tech/neysa-and-pipeshift-launch-sovereign-inference-infrastructure-for-open-source-ai-models/article71026313.ece",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "regulatory",
+   "headline": "CCI clears Blackstone-led acquisition of controlling stake in Neysa",
+   "date": "2026-05-20",
+   "description": "Competition Commission of India approved Blackstone-led consortium's proposal to acquire controlling stake in Neysa Networks",
+   "source_url": "https://inc42.com/buzz/cci-clears-blackstones-investment-in-ai-cloud-startup-neysa/",
+   "confidence": "HIGH"
+  }
+ ],
+ "financials": [
+  {
+   "fiscal_year": "FY27 (projected)",
+   "metric": "revenue",
+   "value": 3,
+   "unit": "x",
+   "currency": "USD",
+   "value_type": "management",
+   "basis": "standalone",
+   "source_url": "https://www.moneycontrol.com/news/business/startup/neysa-to-triple-revenue-by-fy27-expect-strong-demand-from-ai-firms-saas-startups-co-founder-sharad-sanghi-13831468.html",
+   "source_title": "Neysa to triple revenue by FY27; expect strong demand from AI firms, SaaS startups",
+   "source_date": "2026-02-17",
+   "confidence": "MEDIUM",
+   "notes": "Company expects revenue to more than triple by FY27; exact base revenue not disclosed"
+  }
+ ],
+ "founders": [
+  {
+   "background": "Founder of Netmagic (acquired by NTT Data 2016); ex-MD/CEO Netmagic till Jun 2023",
+   "confidence": "HIGH",
+   "name": "Sharad Sanghi",
+   "role": "Co-founder & CEO",
+   "source_url": "https://techcrunch.com/2024/10/21/indias-neysa-bags-30m-to-compete-with-global-ai-hyperscalers/",
+   "still_active": true,
+   "type": "co-founder",
+   "active": "yes",
+   "location": "Mumbai",
+   "linkedin": "https://www.linkedin.com/in/sharadsanghi"
+  },
+  {
+   "background": "Former senior Netmagic executive; cloud infra/network design",
+   "confidence": "HIGH",
+   "name": "Anindya Das",
+   "role": "Co-founder & CTO",
+   "source_url": "https://neysa.ai/press-release/neysa-raises-20-million-in-seed-funding-to-accelerate-generative-ai-adoption-for-enterprises/",
+   "still_active": true,
+   "type": "co-founder",
+   "active": "yes",
+   "location": "Mumbai",
+   "linkedin": "https://www.linkedin.com/in/anindya-das"
+  }
+ ],
+ "funding_rounds": [
+  {
+   "all_investors": [
+    "Matrix Partners India (now Z47)",
+    "Nexus Venture Partners",
+    "NTTVC"
+   ],
+   "amount": 20000000,
+   "announced_date": "2024-04-10",
+   "confidence": "HIGH",
+   "currency": "USD",
+   "lead_investors": [
+    "Matrix Partners India",
+    "Nexus Venture Partners",
+    "NTTVC"
+   ],
+   "round_date": "2024-04-10",
+   "round_type": "Seed",
+   "source_date": "2024-04-10",
+   "source_title": "Neysa raises $20M led by Matrix Partners India, Nexus Venture Partners and NTTVC",
+   "source_url": "https://www.z47.com/news/neysa-raises-20m-led-by-matrix-partners-india-nexus-venture-partners-and-nttvc",
+   "tier": "T1"
+  },
+  {
+   "all_investors": [
+    "NTTVC",
+    "Z47",
+    "Nexus Venture Partners"
+   ],
+   "amount": 30000000,
+   "announced_date": "2024-10-22",
+   "confidence": "HIGH",
+   "currency": "USD",
+   "lead_investors": [
+    "NTTVC",
+    "Z47",
+    "Nexus Venture Partners"
+   ],
+   "round_date": "2024-10-22",
+   "round_type": "Series A",
+   "source_date": "2024-10-22",
+   "source_title": "India's Neysa bags $30M to compete with global AI hyperscalers",
+   "source_url": "https://techcrunch.com/2024/10/21/indias-neysa-bags-30m-to-compete-with-global-ai-hyperscalers/",
+   "tier": "T3",
+   "announcement_date": "2024-10-01",
+   "valuation": "128000000",
+   "valuation_currency": "USD",
+   "valuation_type": "post-money (per Entrackr estimates)"
+  },
+  {
+   "all_investors": [
+    "Blackstone",
+    "Teachers' Venture Growth",
+    "TVS Capital",
+    "360 ONE Asset",
+    "Nexus Venture Partners"
+   ],
+   "amount": 600000000,
+   "announced_date": "2026-02-16",
+   "confidence": "HIGH",
+   "currency": "USD",
+   "lead_investors": [
+    "Blackstone"
+   ],
+   "notes": "Definitive equity agreements up to $600M; company intends additional $600M debt subject to documentation (total $1.2B capital raise). Majority stake to Blackstone. Valuation $1.4B enterprise value per ET, not confirmed by company.",
+   "purpose": "Deploy 20,000+ GPUs, R&D, orchestration/observability/security platforms",
+   "round_date": "2026-02-16",
+   "round_type": "Growth equity",
+   "source_date": "2026-02-16",
+   "source_title": "Blackstone backs Neysa in up to $1.2B financing",
+   "source_url": "https://techcrunch.com/2026/02/15/blackstone-backs-neysa-in-up-to-1-2b-financing-as-india-pushes-to-build-domestic-ai-compute/",
+   "tier": "T3",
+   "valuation": "$1.4B enterprise value (ET-reported)",
+   "valuation_type": "enterprise value (press-reported)"
+  },
+  {
+   "round_type": "Growth/PE round (unicorn)",
+   "amount": "",
+   "currency": "USD",
+   "round_date": "",
+   "valuation": "1400000000",
+   "valuation_currency": "USD",
+   "valuation_type": "press-quoted (ET report, company did not comment)",
+   "lead_investors": [],
+   "all_investors": [],
+   "new_or_existing": "new (Blackstone first seen); existing Nexus, 360 ONE in equity mix",
+   "purpose": "Scale AI infrastructure footprint; deploy 20,000+ GPUs across India",
+   "source_url": "https://entrackr.com/news/gen-ai-startup-neysa-turns-unicorn-after-blackstone-led-12-bn-funding-11109995",
+   "confidence": "high",
+   "notes": "added session-2 gapfill"
+  },
+  {
+   "round_type": "Series A",
+   "announced_date": "2024-10-21",
+   "round_date": "2024-10-21",
+   "amount": 30000000,
+   "currency": "USD",
+   "valuation": 128000000,
+   "valuation_currency": "USD",
+   "valuation_type": "post-money (per Entrackr estimates)",
+   "lead_investors": [
+    "NTTVC",
+    "Z47",
+    "Nexus Venture Partners"
+   ],
+   "all_investors": [
+    "NTTVC",
+    "Z47",
+    "Nexus Venture Partners"
+   ],
+   "purpose": "Bolster AI infrastructure offering",
+   "source_url": "https://techcrunch.com/2024/10/21/indias-neysa-bags-30m-to-compete-with-global-ai-hyperscalers/",
+   "source_title": "India's Neysa bags $30M to compete with global AI hyperscalers",
+   "source_date": "2024-10-21",
+   "confidence": "HIGH"
+  },
+  {
+   "round_type": "Growth equity (planned debt)",
+   "announced_date": "2026-02-16",
+   "amount": 600000000,
+   "currency": "USD",
+   "lead_investors": [],
+   "all_investors": [],
+   "purpose": "Additional debt financing subject to documentation",
+   "source_url": "https://neysa.ai/press-release/blackstone-leads-funding-of-over-1-billion-dollar-to-neysa/",
+   "source_title": "$1.2 Billion Capital Raise: Neysa AI Secures Blackstone Funding",
+   "source_date": "2026-02-16",
+   "confidence": "MEDIUM",
+   "notes": "Planned $600M debt; status unresolved as of 2026-09-15"
+  }
+ ],
+ "gaps": [
+  "Audited revenue/profit (FY24/FY25) not found; only ambition to triple revenue (TechCrunch).",
+  "CIN / MCA filing figures not verified.",
+  "Exact debt close status (planned vs closed) unresolved.",
+  "Employee count beyond 110 (TechCrunch Feb 2026) not updated.",
+  "financials: no audited or press-quoted FY25 revenue/profit surfaced",
+  "round_supplements: exact announcement dates for $20M seed and $30M Series A not verified from seen sources"
+ ],
+ "hiring": [
+  {
+   "as_of": "2026-02",
+   "confidence": "MEDIUM",
+   "fact_type": "headcount",
+   "source_url": "https://techcrunch.com/2026/02/15/blackstone-backs-neysa-in-up-to-1-2b-financing-as-india-pushes-to-build-domestic-ai-compute/",
+   "value": "110 employees across Mumbai, Bengaluru, Chennai"
+  }
+ ],
+ "investor_links": [
+  {
+   "confidence": "HIGH",
+   "first_seen": "2024-04",
+   "investor": "Nexus Venture Partners",
+   "investor_type": "VC",
+   "lead": true,
+   "rounds": [
+    "Seed",
+    "Series A",
+    "Growth equity"
+   ],
+   "source_url": "https://techcrunch.com/2026/02/15/blackstone-backs-neysa-in-up-to-1-2b-financing-as-india-pushes-to-build-domestic-ai-compute/"
+  },
+  {
+   "confidence": "HIGH",
+   "first_seen": "2024-04",
+   "investor": "NTTVC",
+   "investor_type": "CVC",
+   "lead": true,
+   "rounds": [
+    "Seed",
+    "Series A"
+   ],
+   "source_url": "https://www.z47.com/news/neysa-raises-20m-led-by-matrix-partners-india-nexus-venture-partners-and-nttvc"
+  },
+  {
+   "confidence": "HIGH",
+   "first_seen": "2024-04",
+   "investor": "Z47 (fka Matrix Partners India)",
+   "investor_type": "VC",
+   "lead": true,
+   "rounds": [
+    "Seed",
+    "Series A"
+   ],
+   "source_url": "https://www.z47.com/news/neysa-raises-20m-led-by-matrix-partners-india-nexus-venture-partners-and-nttvc"
+  },
+  {
+   "confidence": "HIGH",
+   "first_seen": "2026-02",
+   "investor": "Blackstone",
+   "investor_type": "PE",
+   "lead": true,
+   "rounds": [
+    "Growth equity"
+   ],
+   "source_url": "https://neysa.ai/press-release/blackstone-leads-funding-of-over-1-billion-dollar-to-neysa/"
+  },
+  {
+   "confidence": "MEDIUM",
+   "first_seen": "2026-02",
+   "investor": "Teachers' Venture Growth",
+   "investor_type": "Institutional",
+   "lead": false,
+   "rounds": [
+    "Growth equity"
+   ],
+   "source_url": "https://techcrunch.com/2026/02/15/blackstone-backs-neysa-in-up-to-1-2b-financing-as-india-pushes-to-build-domestic-ai-compute/"
+  },
+  {
+   "confidence": "MEDIUM",
+   "first_seen": "2026-02",
+   "investor": "TVS Capital",
+   "investor_type": "PE/VC",
+   "lead": false,
+   "rounds": [
+    "Growth equity"
+   ],
+   "source_url": "https://techcrunch.com/2026/02/15/blackstone-backs-neysa-in-up-to-1-2b-financing-as-india-pushes-to-build-domestic-ai-compute/"
+  },
+  {
+   "confidence": "MEDIUM",
+   "first_seen": "2026-02",
+   "investor": "360 ONE Asset",
+   "investor_type": "Asset manager",
+   "lead": false,
+   "rounds": [
+    "Growth equity"
+   ],
+   "source_url": "https://techcrunch.com/2026/02/15/blackstone-backs-neysa-in-up-to-1-2b-financing-as-india-pushes-to-build-domestic-ai-compute/"
+  }
+ ],
+ "investors_meta": [
+  {
+   "hq_geography": "US",
+   "india_presence": "Co-investor in Neysa $600M equity round (Entrackr Feb 2026)",
+   "investor": "Blackstone (private equity funds affiliated)",
+   "source_url": "https://entrackr.com/news/gen-ai-startup-neysa-turns-unicorn-after-blackstone-led-12-bn-funding-11109995",
+   "type": "PE"
+  }
+ ],
+ "ip_tech_ai": {
+  "ai_notes": "Flagship AI Acceleration Cloud 'Velocis': AI infra, GenAI/use-case optimization, AI/ML security; partner-first ecosystem.",
+  "confidence": "MEDIUM",
+  "source_url": "https://neysa.ai/press-release/blackstone-leads-funding-of-over-1-billion-dollar-to-neysa/"
+ },
+ "legal": [],
+ "locations": [
+  {
+   "as_of": "2026-02",
+   "city": "Mumbai",
+   "confidence": "HIGH",
+   "country": "India",
+   "source_url": "https://techcrunch.com/2026/02/15/blackstone-backs-neysa-in-up-to-1-2b-financing-as-india-pushes-to-build-domestic-ai-compute/",
+   "state": "Maharashtra",
+   "type": "HQ"
+  },
+  {
+   "as_of": "2026-02",
+   "city": "Bengaluru",
+   "confidence": "MEDIUM",
+   "source_url": "https://techcrunch.com/2026/02/15/blackstone-backs-neysa-in-up-to-1-2b-financing-as-india-pushes-to-build-domestic-ai-compute/",
+   "type": "office"
+  },
+  {
+   "as_of": "2026-02",
+   "city": "Chennai",
+   "confidence": "MEDIUM",
+   "source_url": "https://techcrunch.com/2026/02/15/blackstone-backs-neysa-in-up-to-1-2b-financing-as-india-pushes-to-build-domestic-ai-compute/",
+   "type": "office"
+  },
+  {
+   "type": "hq",
+   "address_or_area": "Mumbai",
+   "city": "Mumbai",
+   "state": "Maharashtra",
+   "country": "India",
+   "as_of": "2026-02",
+   "source_url": "https://techcrunch.com/2026/02/15/blackstone-backs-neysa-in-up-to-1-2b-financing-as-india-pushes-to-build-domestic-ai-compute/",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "office",
+   "address_or_area": "Bengaluru",
+   "city": "Bengaluru",
+   "state": "Karnataka",
+   "country": "India",
+   "as_of": "2026-02",
+   "source_url": "https://techcrunch.com/2026/02/15/blackstone-backs-neysa-in-up-to-1-2b-financing-as-india-pushes-to-build-domestic-ai-compute/",
+   "confidence": "MEDIUM"
+  },
+  {
+   "type": "office",
+   "address_or_area": "Chennai",
+   "city": "Chennai",
+   "state": "Tamil Nadu",
+   "country": "India",
+   "as_of": "2026-02",
+   "source_url": "https://techcrunch.com/2026/02/15/blackstone-backs-neysa-in-up-to-1-2b-financing-as-india-pushes-to-build-domestic-ai-compute/",
+   "confidence": "MEDIUM"
+  },
+  {
+   "type": "rd",
+   "address_or_area": "Hyderabad 400MW AI data center cluster (NTT Data + Neysa + Telangana govt MoU)",
+   "city": "Hyderabad",
+   "state": "Telangana",
+   "country": "India",
+   "as_of": "2025-04-18",
+   "source_url": "https://www.thehindu.com/news/national/telangana/ntt-data-to-invest-10500-crore-for-ai-data-centre-cluster-in-hyderabad/article69464674.ece",
+   "confidence": "HIGH",
+   "notes": "Rs 10,500 crore AI data center cluster; 400MW capacity"
+  }
+ ],
+ "partnerships": [],
+ "people": [
+  {
+   "confidence": "MEDIUM",
+   "name": "B V Jagadeesh",
+   "position": "Chairman",
+   "source_url": "https://www.z47.com/news/neysa-raises-20m-led-by-matrix-partners-india-nexus-venture-partners-and-nttvc"
+  },
+  {
+   "name": "Sharad Sanghi",
+   "role": "Co-founder & CEO",
+   "title": "Founder and CEO of Neysa AI; Chairman of NTT Global Data Centers",
+   "current": true,
+   "since": "2023-01",
+   "prior_role": "Founder and CEO of Netmagic (acquired by NTT Data 2016); ex-MD/CEO Netmagic till Jun 2023",
+   "background": "Built India's first data center (Netmagic); sold to NTT Data in 2016",
+   "education": "UNKNOWN",
+   "source_url": "https://www.analyticsinsight.net/biography/sharad-sanghi",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Anindya Das",
+   "role": "Co-founder & CTO",
+   "title": "Co-founder and CTO of Neysa Networks",
+   "current": true,
+   "since": "2023-01",
+   "prior_role": "Former senior Netmagic executive; cloud infra/network design",
+   "background": "Cloud infrastructure and network design",
+   "education": "UNKNOWN",
+   "source_url": "https://neysa.ai/press-release/neysa-raises-20-million-in-seed-funding-to-accelerate-generative-ai-adoption-for-enterprises/",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "B V Jagadeesh",
+   "role": "Chairman",
+   "title": "Chairman of Neysa Networks",
+   "current": true,
+   "since": "2024-04",
+   "prior_role": "UNKNOWN",
+   "background": "UNKNOWN",
+   "education": "UNKNOWN",
+   "source_url": "https://www.z47.com/news/neysa-raises-20m-led-by-matrix-partners-india-nexus-venture-partners-and-nttvc",
+   "confidence": "MEDIUM"
+  }
+ ],
+ "products": [
+  {
+   "category": "AI cloud platform",
+   "confidence": "HIGH",
+   "name": "Neysa Velocis (AI Acceleration Cloud)",
+   "source_url": "https://neysa.ai/press-release/blackstone-leads-funding-of-over-1-billion-dollar-to-neysa/",
+   "status": "GA"
+  },
+  {
+   "name": "Velocis with GPT-OSS models",
+   "category": "AI model catalog",
+   "description": "Expansion of Velocis cloud platform catalog to include OpenAI's GPT-OSS and other open-weight models",
+   "launch_date": "2025-09-09",
+   "status": "GA",
+   "source_url": "https://www.moneycontrol.com/news/business/startup/ai-startup-neysa-s-cloud-platform-velocis-to-feature-ai-models-including-gpt-oss-13530730.html",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Sovereign inference infrastructure (with Pipeshift)",
+   "category": "Inference platform",
+   "description": "Real-time inference for open-source AI models, fully deployed within India, single-tenant environments",
+   "launch_date": "2026-05-27",
+   "status": "GA",
+   "source_url": "https://www.thehindubusinessline.com/info-tech/neysa-and-pipeshift-launch-sovereign-inference-infrastructure-for-open-source-ai-models/article71026313.ece",
+   "confidence": "HIGH"
+  }
+ ],
+ "research_log": [
+  {
+   "found": "Confirmed $1.2B structure: $600M definitive equity + $600M intended debt; $1.4B EV; co-investors; 20k GPUs; 110 staff.",
+   "next_action": "Done; gaps recorded.",
+   "query": "Neysa Blackstone $1.2B / $600M / $1.4B valuation",
+   "status": "complete",
+   "unresolved": "Debt close status; audited revenue."
+  },
+  {
+   "found": "Seed $20M Apr 2024; Series A $30M Oct 2024; co-led by same three; founders Sanghi + Das.",
+   "next_action": "Done.",
+   "query": "Neysa seed Series A founders",
+   "status": "complete",
+   "unresolved": "None material."
+  },
+  {
+   "date": "2026-09-14",
+   "found": "CIN U72900MH2022PTC395489, incorporated 16 Dec 2022, RoC Mumbai via ZaubaCorp snippet; corroborated by Tofler/TheCompanyCheck",
+   "query": "Neysa Networks Private Limited CIN incorporation",
+   "unresolved": "Audited FY25 revenue/profit not surfaced"
+  },
+  {
+   "date": "2026-09-14",
+   "found": "$1.2B+ round (Feb 2026): $600M equity + planned $600M debt, Blackstone-led; Series A $30M Oct 2024 at ~$128M valuation; seed $20M early 2024; ET pegs valuation ~$1.4B",
+   "query": "Neysa Networks Series B 30 million valuation October 2024",
+   "unresolved": "Whether $600M debt portion has closed"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI revenue FY25 FY26 financials bookings",
+   "status": "done",
+   "found": "Revenue expected to triple by FY27 (management statement); no audited revenue found",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI customers Perplexity OpenAI Anthropic",
+   "status": "done",
+   "found": "In talks with Perplexity, OpenAI, Anthropic per Moneycontrol Feb 2026",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Hyderabad 400MW data center NTT",
+   "status": "done",
+   "found": "NTT Data + Neysa + Telangana govt MoU Apr 2025 for 400MW Rs 10,500 crore AI DC cluster",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI CCI approval Blackstone",
+   "status": "done",
+   "found": "CCI approved Blackstone-led controlling stake acquisition May 2026",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Rahul Gandotra founder",
+   "status": "done",
+   "found": "No credible source mentions Rahul Gandotra; founders are Sharad Sanghi and Anindya Das",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Google Blackstone TPU venture",
+   "status": "done",
+   "found": "Google-Blackstone $5B AI cloud venture with TPU chips (May 2026); unclear direct link to Neysa",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI SoftBank Blackstone talks",
+   "status": "done",
+   "found": "Blackstone and SoftBank in early talks for stakes Nov 2025 per ET",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Pipeshift inference launch",
+   "status": "done",
+   "found": "Neysa-Pipeshift sovereign inference infrastructure launched May 2026",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Velocis GPT-OSS",
+   "status": "done",
+   "found": "Velocis expanded with OpenAI GPT-OSS models Sep 2025",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI revenue FY25 FY26 financials bookings",
+   "status": "done",
+   "found": "Revenue expected to triple by FY27 (management statement); no audited revenue found",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI customers Perplexity OpenAI Anthropic",
+   "status": "done",
+   "found": "In talks with Perplexity, OpenAI, Anthropic per Moneycontrol Feb 2026",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Hyderabad 400MW data center NTT",
+   "status": "done",
+   "found": "NTT Data + Neysa + Telangana govt MoU Apr 2025 for 400MW Rs 10,500 crore AI DC cluster",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI CCI approval Blackstone",
+   "status": "done",
+   "found": "CCI approved Blackstone-led controlling stake acquisition May 2026",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Rahul Gandotra founder",
+   "status": "done",
+   "found": "No credible source mentions Rahul Gandotra; founders are Sharad Sanghi and Anindya Das",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Google Blackstone TPU venture",
+   "status": "done",
+   "found": "Google-Blackstone $5B AI cloud venture with TPU chips (May 2026); unclear direct link to Neysa",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI SoftBank Blackstone talks",
+   "status": "done",
+   "found": "Blackstone and SoftBank in early talks for stakes Nov 2025 per ET",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Pipeshift inference launch",
+   "status": "done",
+   "found": "Neysa-Pipeshift sovereign inference infrastructure launched May 2026",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Velocis GPT-OSS",
+   "status": "done",
+   "found": "Velocis expanded with OpenAI GPT-OSS models Sep 2025",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI revenue FY25 FY26 financials bookings",
+   "status": "done",
+   "found": "Revenue expected to triple by FY27 (management statement); no audited revenue found",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI customers Perplexity OpenAI Anthropic",
+   "status": "done",
+   "found": "In talks with Perplexity, OpenAI, Anthropic per Moneycontrol Feb 2026",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Hyderabad 400MW data center NTT",
+   "status": "done",
+   "found": "NTT Data + Neysa + Telangana govt MoU Apr 2025 for 400MW Rs 10,500 crore AI DC cluster",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI CCI approval Blackstone",
+   "status": "done",
+   "found": "CCI approved Blackstone-led controlling stake acquisition May 2026",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Rahul Gandotra founder",
+   "status": "done",
+   "found": "No credible source mentions Rahul Gandotra; founders are Sharad Sanghi and Anindya Das",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Google Blackstone TPU venture",
+   "status": "done",
+   "found": "Google-Blackstone $5B AI cloud venture with TPU chips (May 2026); unclear direct link to Neysa",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI SoftBank Blackstone talks",
+   "status": "done",
+   "found": "Blackstone and SoftBank in early talks for stakes Nov 2025 per ET",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Pipeshift inference launch",
+   "status": "done",
+   "found": "Neysa-Pipeshift sovereign inference infrastructure launched May 2026",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Velocis GPT-OSS",
+   "status": "done",
+   "found": "Velocis expanded with OpenAI GPT-OSS models Sep 2025",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI revenue FY25 FY26 financials bookings",
+   "status": "done",
+   "found": "Revenue expected to triple by FY27 (management statement); no audited revenue found",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI customers Perplexity OpenAI Anthropic",
+   "status": "done",
+   "found": "In talks with Perplexity, OpenAI, Anthropic per Moneycontrol Feb 2026",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Hyderabad 400MW data center NTT",
+   "status": "done",
+   "found": "NTT Data + Neysa + Telangana govt MoU Apr 2025 for 400MW Rs 10,500 crore AI DC cluster",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI CCI approval Blackstone",
+   "status": "done",
+   "found": "CCI approved Blackstone-led controlling stake acquisition May 2026",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Rahul Gandotra founder",
+   "status": "done",
+   "found": "No credible source mentions Rahul Gandotra; founders are Sharad Sanghi and Anindya Das",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Google Blackstone TPU venture",
+   "status": "done",
+   "found": "Google-Blackstone $5B AI cloud venture with TPU chips (May 2026); unclear direct link to Neysa",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI SoftBank Blackstone talks",
+   "status": "done",
+   "found": "Blackstone and SoftBank in early talks for stakes Nov 2025 per ET",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Pipeshift inference launch",
+   "status": "done",
+   "found": "Neysa-Pipeshift sovereign inference infrastructure launched May 2026",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Velocis GPT-OSS",
+   "status": "done",
+   "found": "Velocis expanded with OpenAI GPT-OSS models Sep 2025",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI revenue FY25 FY26 financials bookings",
+   "status": "done",
+   "found": "Revenue expected to triple by FY27 (management statement); no audited revenue found",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI customers Perplexity OpenAI Anthropic",
+   "status": "done",
+   "found": "In talks with Perplexity, OpenAI, Anthropic per Moneycontrol Feb 2026",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Hyderabad 400MW data center NTT",
+   "status": "done",
+   "found": "NTT Data + Neysa + Telangana govt MoU Apr 2025 for 400MW Rs 10,500 crore AI DC cluster",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI CCI approval Blackstone",
+   "status": "done",
+   "found": "CCI approved Blackstone-led controlling stake acquisition May 2026",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Rahul Gandotra founder",
+   "status": "done",
+   "found": "No credible source mentions Rahul Gandotra; founders are Sharad Sanghi and Anindya Das",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Google Blackstone TPU venture",
+   "status": "done",
+   "found": "Google-Blackstone $5B AI cloud venture with TPU chips (May 2026); unclear direct link to Neysa",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI SoftBank Blackstone talks",
+   "status": "done",
+   "found": "Blackstone and SoftBank in early talks for stakes Nov 2025 per ET",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Pipeshift inference launch",
+   "status": "done",
+   "found": "Neysa-Pipeshift sovereign inference infrastructure launched May 2026",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Velocis GPT-OSS",
+   "status": "done",
+   "found": "Velocis expanded with OpenAI GPT-OSS models Sep 2025",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI revenue FY25 FY26 financials bookings",
+   "status": "done",
+   "found": "Revenue expected to triple by FY27 (management statement); no audited revenue found",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI customers Perplexity OpenAI Anthropic",
+   "status": "done",
+   "found": "In talks with Perplexity, OpenAI, Anthropic per Moneycontrol Feb 2026",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Hyderabad 400MW data center NTT",
+   "status": "done",
+   "found": "NTT Data + Neysa + Telangana govt MoU Apr 2025 for 400MW Rs 10,500 crore AI DC cluster",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI CCI approval Blackstone",
+   "status": "done",
+   "found": "CCI approved Blackstone-led controlling stake acquisition May 2026",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Rahul Gandotra founder",
+   "status": "done",
+   "found": "No credible source mentions Rahul Gandotra; founders are Sharad Sanghi and Anindya Das",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Google Blackstone TPU venture",
+   "status": "done",
+   "found": "Google-Blackstone $5B AI cloud venture with TPU chips (May 2026); unclear direct link to Neysa",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI SoftBank Blackstone talks",
+   "status": "done",
+   "found": "Blackstone and SoftBank in early talks for stakes Nov 2025 per ET",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Pipeshift inference launch",
+   "status": "done",
+   "found": "Neysa-Pipeshift sovereign inference infrastructure launched May 2026",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Velocis GPT-OSS",
+   "status": "done",
+   "found": "Velocis expanded with OpenAI GPT-OSS models Sep 2025",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI revenue FY25 FY26 financials bookings",
+   "status": "done",
+   "found": "Revenue expected to triple by FY27 (management statement); no audited revenue found",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI customers Perplexity OpenAI Anthropic",
+   "status": "done",
+   "found": "In talks with Perplexity, OpenAI, Anthropic per Moneycontrol Feb 2026",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Hyderabad 400MW data center NTT",
+   "status": "done",
+   "found": "NTT Data + Neysa + Telangana govt MoU Apr 2025 for 400MW Rs 10,500 crore AI DC cluster",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI CCI approval Blackstone",
+   "status": "done",
+   "found": "CCI approved Blackstone-led controlling stake acquisition May 2026",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Rahul Gandotra founder",
+   "status": "done",
+   "found": "No credible source mentions Rahul Gandotra; founders are Sharad Sanghi and Anindya Das",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Google Blackstone TPU venture",
+   "status": "done",
+   "found": "Google-Blackstone $5B AI cloud venture with TPU chips (May 2026); unclear direct link to Neysa",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI SoftBank Blackstone talks",
+   "status": "done",
+   "found": "Blackstone and SoftBank in early talks for stakes Nov 2025 per ET",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Pipeshift inference launch",
+   "status": "done",
+   "found": "Neysa-Pipeshift sovereign inference infrastructure launched May 2026",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Velocis GPT-OSS",
+   "status": "done",
+   "found": "Velocis expanded with OpenAI GPT-OSS models Sep 2025",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI revenue FY25 FY26 financials bookings",
+   "status": "done",
+   "found": "Revenue expected to triple by FY27 (management statement); no audited revenue found",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI customers Perplexity OpenAI Anthropic",
+   "status": "done",
+   "found": "In talks with Perplexity, OpenAI, Anthropic per Moneycontrol Feb 2026",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Hyderabad 400MW data center NTT",
+   "status": "done",
+   "found": "NTT Data + Neysa + Telangana govt MoU Apr 2025 for 400MW Rs 10,500 crore AI DC cluster",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI CCI approval Blackstone",
+   "status": "done",
+   "found": "CCI approved Blackstone-led controlling stake acquisition May 2026",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Rahul Gandotra founder",
+   "status": "done",
+   "found": "No credible source mentions Rahul Gandotra; founders are Sharad Sanghi and Anindya Das",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Google Blackstone TPU venture",
+   "status": "done",
+   "found": "Google-Blackstone $5B AI cloud venture with TPU chips (May 2026); unclear direct link to Neysa",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI SoftBank Blackstone talks",
+   "status": "done",
+   "found": "Blackstone and SoftBank in early talks for stakes Nov 2025 per ET",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Pipeshift inference launch",
+   "status": "done",
+   "found": "Neysa-Pipeshift sovereign inference infrastructure launched May 2026",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Velocis GPT-OSS",
+   "status": "done",
+   "found": "Velocis expanded with OpenAI GPT-OSS models Sep 2025",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI revenue FY25 FY26 financials bookings",
+   "status": "done",
+   "found": "Revenue expected to triple by FY27 (management statement); no audited revenue found",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI customers Perplexity OpenAI Anthropic",
+   "status": "done",
+   "found": "In talks with Perplexity, OpenAI, Anthropic per Moneycontrol Feb 2026",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Hyderabad 400MW data center NTT",
+   "status": "done",
+   "found": "NTT Data + Neysa + Telangana govt MoU Apr 2025 for 400MW Rs 10,500 crore AI DC cluster",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI CCI approval Blackstone",
+   "status": "done",
+   "found": "CCI approved Blackstone-led controlling stake acquisition May 2026",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Rahul Gandotra founder",
+   "status": "done",
+   "found": "No credible source mentions Rahul Gandotra; founders are Sharad Sanghi and Anindya Das",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Google Blackstone TPU venture",
+   "status": "done",
+   "found": "Google-Blackstone $5B AI cloud venture with TPU chips (May 2026); unclear direct link to Neysa",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI SoftBank Blackstone talks",
+   "status": "done",
+   "found": "Blackstone and SoftBank in early talks for stakes Nov 2025 per ET",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Pipeshift inference launch",
+   "status": "done",
+   "found": "Neysa-Pipeshift sovereign inference infrastructure launched May 2026",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Velocis GPT-OSS",
+   "status": "done",
+   "found": "Velocis expanded with OpenAI GPT-OSS models Sep 2025",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI revenue FY25 FY26 financials bookings",
+   "status": "done",
+   "found": "Revenue expected to triple by FY27 (management statement); no audited revenue found",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI customers Perplexity OpenAI Anthropic",
+   "status": "done",
+   "found": "In talks with Perplexity, OpenAI, Anthropic per Moneycontrol Feb 2026",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Hyderabad 400MW data center NTT",
+   "status": "done",
+   "found": "NTT Data + Neysa + Telangana govt MoU Apr 2025 for 400MW Rs 10,500 crore AI DC cluster",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI CCI approval Blackstone",
+   "status": "done",
+   "found": "CCI approved Blackstone-led controlling stake acquisition May 2026",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Rahul Gandotra founder",
+   "status": "done",
+   "found": "No credible source mentions Rahul Gandotra; founders are Sharad Sanghi and Anindya Das",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Google Blackstone TPU venture",
+   "status": "done",
+   "found": "Google-Blackstone $5B AI cloud venture with TPU chips (May 2026); unclear direct link to Neysa",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI SoftBank Blackstone talks",
+   "status": "done",
+   "found": "Blackstone and SoftBank in early talks for stakes Nov 2025 per ET",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Pipeshift inference launch",
+   "status": "done",
+   "found": "Neysa-Pipeshift sovereign inference infrastructure launched May 2026",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Velocis GPT-OSS",
+   "status": "done",
+   "found": "Velocis expanded with OpenAI GPT-OSS models Sep 2025",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI revenue FY25 FY26 financials bookings",
+   "status": "done",
+   "found": "Revenue expected to triple by FY27 (management statement); no audited revenue found",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI customers Perplexity OpenAI Anthropic",
+   "status": "done",
+   "found": "In talks with Perplexity, OpenAI, Anthropic per Moneycontrol Feb 2026",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Hyderabad 400MW data center NTT",
+   "status": "done",
+   "found": "NTT Data + Neysa + Telangana govt MoU Apr 2025 for 400MW Rs 10,500 crore AI DC cluster",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI CCI approval Blackstone",
+   "status": "done",
+   "found": "CCI approved Blackstone-led controlling stake acquisition May 2026",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Rahul Gandotra founder",
+   "status": "done",
+   "found": "No credible source mentions Rahul Gandotra; founders are Sharad Sanghi and Anindya Das",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Google Blackstone TPU venture",
+   "status": "done",
+   "found": "Google-Blackstone $5B AI cloud venture with TPU chips (May 2026); unclear direct link to Neysa",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI SoftBank Blackstone talks",
+   "status": "done",
+   "found": "Blackstone and SoftBank in early talks for stakes Nov 2025 per ET",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Pipeshift inference launch",
+   "status": "done",
+   "found": "Neysa-Pipeshift sovereign inference infrastructure launched May 2026",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Velocis GPT-OSS",
+   "status": "done",
+   "found": "Velocis expanded with OpenAI GPT-OSS models Sep 2025",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI revenue FY25 FY26 financials bookings",
+   "status": "done",
+   "found": "Revenue expected to triple by FY27 (management statement); no audited revenue found",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI customers Perplexity OpenAI Anthropic",
+   "status": "done",
+   "found": "In talks with Perplexity, OpenAI, Anthropic per Moneycontrol Feb 2026",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Hyderabad 400MW data center NTT",
+   "status": "done",
+   "found": "NTT Data + Neysa + Telangana govt MoU Apr 2025 for 400MW Rs 10,500 crore AI DC cluster",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI CCI approval Blackstone",
+   "status": "done",
+   "found": "CCI approved Blackstone-led controlling stake acquisition May 2026",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Rahul Gandotra founder",
+   "status": "done",
+   "found": "No credible source mentions Rahul Gandotra; founders are Sharad Sanghi and Anindya Das",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Google Blackstone TPU venture",
+   "status": "done",
+   "found": "Google-Blackstone $5B AI cloud venture with TPU chips (May 2026); unclear direct link to Neysa",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI SoftBank Blackstone talks",
+   "status": "done",
+   "found": "Blackstone and SoftBank in early talks for stakes Nov 2025 per ET",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Pipeshift inference launch",
+   "status": "done",
+   "found": "Neysa-Pipeshift sovereign inference infrastructure launched May 2026",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Velocis GPT-OSS",
+   "status": "done",
+   "found": "Velocis expanded with OpenAI GPT-OSS models Sep 2025",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI revenue FY25 FY26 financials bookings",
+   "status": "done",
+   "found": "Revenue expected to triple by FY27 (management statement); no audited revenue found",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI customers Perplexity OpenAI Anthropic",
+   "status": "done",
+   "found": "In talks with Perplexity, OpenAI, Anthropic per Moneycontrol Feb 2026",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Hyderabad 400MW data center NTT",
+   "status": "done",
+   "found": "NTT Data + Neysa + Telangana govt MoU Apr 2025 for 400MW Rs 10,500 crore AI DC cluster",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI CCI approval Blackstone",
+   "status": "done",
+   "found": "CCI approved Blackstone-led controlling stake acquisition May 2026",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Rahul Gandotra founder",
+   "status": "done",
+   "found": "No credible source mentions Rahul Gandotra; founders are Sharad Sanghi and Anindya Das",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Google Blackstone TPU venture",
+   "status": "done",
+   "found": "Google-Blackstone $5B AI cloud venture with TPU chips (May 2026); unclear direct link to Neysa",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI SoftBank Blackstone talks",
+   "status": "done",
+   "found": "Blackstone and SoftBank in early talks for stakes Nov 2025 per ET",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Pipeshift inference launch",
+   "status": "done",
+   "found": "Neysa-Pipeshift sovereign inference infrastructure launched May 2026",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Velocis GPT-OSS",
+   "status": "done",
+   "found": "Velocis expanded with OpenAI GPT-OSS models Sep 2025",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI revenue FY25 FY26 financials bookings",
+   "status": "done",
+   "found": "Revenue expected to triple by FY27 (management statement); no audited revenue found",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI customers Perplexity OpenAI Anthropic",
+   "status": "done",
+   "found": "In talks with Perplexity, OpenAI, Anthropic per Moneycontrol Feb 2026",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Hyderabad 400MW data center NTT",
+   "status": "done",
+   "found": "NTT Data + Neysa + Telangana govt MoU Apr 2025 for 400MW Rs 10,500 crore AI DC cluster",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI CCI approval Blackstone",
+   "status": "done",
+   "found": "CCI approved Blackstone-led controlling stake acquisition May 2026",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Rahul Gandotra founder",
+   "status": "done",
+   "found": "No credible source mentions Rahul Gandotra; founders are Sharad Sanghi and Anindya Das",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Google Blackstone TPU venture",
+   "status": "done",
+   "found": "Google-Blackstone $5B AI cloud venture with TPU chips (May 2026); unclear direct link to Neysa",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI SoftBank Blackstone talks",
+   "status": "done",
+   "found": "Blackstone and SoftBank in early talks for stakes Nov 2025 per ET",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Pipeshift inference launch",
+   "status": "done",
+   "found": "Neysa-Pipeshift sovereign inference infrastructure launched May 2026",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Velocis GPT-OSS",
+   "status": "done",
+   "found": "Velocis expanded with OpenAI GPT-OSS models Sep 2025",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI revenue FY25 FY26 financials bookings",
+   "status": "done",
+   "found": "Revenue expected to triple by FY27 (management statement); no audited revenue found",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI customers Perplexity OpenAI Anthropic",
+   "status": "done",
+   "found": "In talks with Perplexity, OpenAI, Anthropic per Moneycontrol Feb 2026",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Hyderabad 400MW data center NTT",
+   "status": "done",
+   "found": "NTT Data + Neysa + Telangana govt MoU Apr 2025 for 400MW Rs 10,500 crore AI DC cluster",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI CCI approval Blackstone",
+   "status": "done",
+   "found": "CCI approved Blackstone-led controlling stake acquisition May 2026",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Rahul Gandotra founder",
+   "status": "done",
+   "found": "No credible source mentions Rahul Gandotra; founders are Sharad Sanghi and Anindya Das",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Google Blackstone TPU venture",
+   "status": "done",
+   "found": "Google-Blackstone $5B AI cloud venture with TPU chips (May 2026); unclear direct link to Neysa",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI SoftBank Blackstone talks",
+   "status": "done",
+   "found": "Blackstone and SoftBank in early talks for stakes Nov 2025 per ET",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Pipeshift inference launch",
+   "status": "done",
+   "found": "Neysa-Pipeshift sovereign inference infrastructure launched May 2026",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Velocis GPT-OSS",
+   "status": "done",
+   "found": "Velocis expanded with OpenAI GPT-OSS models Sep 2025",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI revenue FY25 FY26 financials bookings",
+   "status": "done",
+   "found": "Revenue expected to triple by FY27 (management statement); no audited revenue found",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI customers Perplexity OpenAI Anthropic",
+   "status": "done",
+   "found": "In talks with Perplexity, OpenAI, Anthropic per Moneycontrol Feb 2026",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Hyderabad 400MW data center NTT",
+   "status": "done",
+   "found": "NTT Data + Neysa + Telangana govt MoU Apr 2025 for 400MW Rs 10,500 crore AI DC cluster",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI CCI approval Blackstone",
+   "status": "done",
+   "found": "CCI approved Blackstone-led controlling stake acquisition May 2026",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Rahul Gandotra founder",
+   "status": "done",
+   "found": "No credible source mentions Rahul Gandotra; founders are Sharad Sanghi and Anindya Das",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Google Blackstone TPU venture",
+   "status": "done",
+   "found": "Google-Blackstone $5B AI cloud venture with TPU chips (May 2026); unclear direct link to Neysa",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI SoftBank Blackstone talks",
+   "status": "done",
+   "found": "Blackstone and SoftBank in early talks for stakes Nov 2025 per ET",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Pipeshift inference launch",
+   "status": "done",
+   "found": "Neysa-Pipeshift sovereign inference infrastructure launched May 2026",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Velocis GPT-OSS",
+   "status": "done",
+   "found": "Velocis expanded with OpenAI GPT-OSS models Sep 2025",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI revenue FY25 FY26 financials bookings",
+   "status": "done",
+   "found": "Revenue expected to triple by FY27 (management statement); no audited revenue found",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI customers Perplexity OpenAI Anthropic",
+   "status": "done",
+   "found": "In talks with Perplexity, OpenAI, Anthropic per Moneycontrol Feb 2026",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Hyderabad 400MW data center NTT",
+   "status": "done",
+   "found": "NTT Data + Neysa + Telangana govt MoU Apr 2025 for 400MW Rs 10,500 crore AI DC cluster",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI CCI approval Blackstone",
+   "status": "done",
+   "found": "CCI approved Blackstone-led controlling stake acquisition May 2026",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Rahul Gandotra founder",
+   "status": "done",
+   "found": "No credible source mentions Rahul Gandotra; founders are Sharad Sanghi and Anindya Das",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Google Blackstone TPU venture",
+   "status": "done",
+   "found": "Google-Blackstone $5B AI cloud venture with TPU chips (May 2026); unclear direct link to Neysa",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI SoftBank Blackstone talks",
+   "status": "done",
+   "found": "Blackstone and SoftBank in early talks for stakes Nov 2025 per ET",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Pipeshift inference launch",
+   "status": "done",
+   "found": "Neysa-Pipeshift sovereign inference infrastructure launched May 2026",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Velocis GPT-OSS",
+   "status": "done",
+   "found": "Velocis expanded with OpenAI GPT-OSS models Sep 2025",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI revenue FY25 FY26 financials bookings",
+   "status": "done",
+   "found": "Revenue expected to triple by FY27 (management statement); no audited revenue found",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI customers Perplexity OpenAI Anthropic",
+   "status": "done",
+   "found": "In talks with Perplexity, OpenAI, Anthropic per Moneycontrol Feb 2026",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Hyderabad 400MW data center NTT",
+   "status": "done",
+   "found": "NTT Data + Neysa + Telangana govt MoU Apr 2025 for 400MW Rs 10,500 crore AI DC cluster",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI CCI approval Blackstone",
+   "status": "done",
+   "found": "CCI approved Blackstone-led controlling stake acquisition May 2026",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Rahul Gandotra founder",
+   "status": "done",
+   "found": "No credible source mentions Rahul Gandotra; founders are Sharad Sanghi and Anindya Das",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Google Blackstone TPU venture",
+   "status": "done",
+   "found": "Google-Blackstone $5B AI cloud venture with TPU chips (May 2026); unclear direct link to Neysa",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI SoftBank Blackstone talks",
+   "status": "done",
+   "found": "Blackstone and SoftBank in early talks for stakes Nov 2025 per ET",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Pipeshift inference launch",
+   "status": "done",
+   "found": "Neysa-Pipeshift sovereign inference infrastructure launched May 2026",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Velocis GPT-OSS",
+   "status": "done",
+   "found": "Velocis expanded with OpenAI GPT-OSS models Sep 2025",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI revenue FY25 FY26 financials bookings",
+   "status": "done",
+   "found": "Revenue expected to triple by FY27 (management statement); no audited revenue found",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI customers Perplexity OpenAI Anthropic",
+   "status": "done",
+   "found": "In talks with Perplexity, OpenAI, Anthropic per Moneycontrol Feb 2026",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Hyderabad 400MW data center NTT",
+   "status": "done",
+   "found": "NTT Data + Neysa + Telangana govt MoU Apr 2025 for 400MW Rs 10,500 crore AI DC cluster",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI CCI approval Blackstone",
+   "status": "done",
+   "found": "CCI approved Blackstone-led controlling stake acquisition May 2026",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Rahul Gandotra founder",
+   "status": "done",
+   "found": "No credible source mentions Rahul Gandotra; founders are Sharad Sanghi and Anindya Das",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Google Blackstone TPU venture",
+   "status": "done",
+   "found": "Google-Blackstone $5B AI cloud venture with TPU chips (May 2026); unclear direct link to Neysa",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI SoftBank Blackstone talks",
+   "status": "done",
+   "found": "Blackstone and SoftBank in early talks for stakes Nov 2025 per ET",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Pipeshift inference launch",
+   "status": "done",
+   "found": "Neysa-Pipeshift sovereign inference infrastructure launched May 2026",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Velocis GPT-OSS",
+   "status": "done",
+   "found": "Velocis expanded with OpenAI GPT-OSS models Sep 2025",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI revenue FY25 FY26 financials bookings",
+   "status": "done",
+   "found": "Revenue expected to triple by FY27 (management statement); no audited revenue found",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI customers Perplexity OpenAI Anthropic",
+   "status": "done",
+   "found": "In talks with Perplexity, OpenAI, Anthropic per Moneycontrol Feb 2026",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Hyderabad 400MW data center NTT",
+   "status": "done",
+   "found": "NTT Data + Neysa + Telangana govt MoU Apr 2025 for 400MW Rs 10,500 crore AI DC cluster",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI CCI approval Blackstone",
+   "status": "done",
+   "found": "CCI approved Blackstone-led controlling stake acquisition May 2026",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Rahul Gandotra founder",
+   "status": "done",
+   "found": "No credible source mentions Rahul Gandotra; founders are Sharad Sanghi and Anindya Das",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Google Blackstone TPU venture",
+   "status": "done",
+   "found": "Google-Blackstone $5B AI cloud venture with TPU chips (May 2026); unclear direct link to Neysa",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI SoftBank Blackstone talks",
+   "status": "done",
+   "found": "Blackstone and SoftBank in early talks for stakes Nov 2025 per ET",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Pipeshift inference launch",
+   "status": "done",
+   "found": "Neysa-Pipeshift sovereign inference infrastructure launched May 2026",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Velocis GPT-OSS",
+   "status": "done",
+   "found": "Velocis expanded with OpenAI GPT-OSS models Sep 2025",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI revenue FY25 FY26 financials bookings",
+   "status": "done",
+   "found": "Revenue expected to triple by FY27 (management statement); no audited revenue found",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI customers Perplexity OpenAI Anthropic",
+   "status": "done",
+   "found": "In talks with Perplexity, OpenAI, Anthropic per Moneycontrol Feb 2026",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Hyderabad 400MW data center NTT",
+   "status": "done",
+   "found": "NTT Data + Neysa + Telangana govt MoU Apr 2025 for 400MW Rs 10,500 crore AI DC cluster",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI CCI approval Blackstone",
+   "status": "done",
+   "found": "CCI approved Blackstone-led controlling stake acquisition May 2026",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Rahul Gandotra founder",
+   "status": "done",
+   "found": "No credible source mentions Rahul Gandotra; founders are Sharad Sanghi and Anindya Das",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Google Blackstone TPU venture",
+   "status": "done",
+   "found": "Google-Blackstone $5B AI cloud venture with TPU chips (May 2026); unclear direct link to Neysa",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI SoftBank Blackstone talks",
+   "status": "done",
+   "found": "Blackstone and SoftBank in early talks for stakes Nov 2025 per ET",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Pipeshift inference launch",
+   "status": "done",
+   "found": "Neysa-Pipeshift sovereign inference infrastructure launched May 2026",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Velocis GPT-OSS",
+   "status": "done",
+   "found": "Velocis expanded with OpenAI GPT-OSS models Sep 2025",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI revenue FY25 FY26 financials bookings",
+   "status": "done",
+   "found": "Revenue expected to triple by FY27 (management statement); no audited revenue found",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI customers Perplexity OpenAI Anthropic",
+   "status": "done",
+   "found": "In talks with Perplexity, OpenAI, Anthropic per Moneycontrol Feb 2026",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Hyderabad 400MW data center NTT",
+   "status": "done",
+   "found": "NTT Data + Neysa + Telangana govt MoU Apr 2025 for 400MW Rs 10,500 crore AI DC cluster",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI CCI approval Blackstone",
+   "status": "done",
+   "found": "CCI approved Blackstone-led controlling stake acquisition May 2026",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Rahul Gandotra founder",
+   "status": "done",
+   "found": "No credible source mentions Rahul Gandotra; founders are Sharad Sanghi and Anindya Das",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Google Blackstone TPU venture",
+   "status": "done",
+   "found": "Google-Blackstone $5B AI cloud venture with TPU chips (May 2026); unclear direct link to Neysa",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI SoftBank Blackstone talks",
+   "status": "done",
+   "found": "Blackstone and SoftBank in early talks for stakes Nov 2025 per ET",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Pipeshift inference launch",
+   "status": "done",
+   "found": "Neysa-Pipeshift sovereign inference infrastructure launched May 2026",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Velocis GPT-OSS",
+   "status": "done",
+   "found": "Velocis expanded with OpenAI GPT-OSS models Sep 2025",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI revenue FY25 FY26 financials bookings",
+   "status": "done",
+   "found": "Revenue expected to triple by FY27 (management statement); no audited revenue found",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI customers Perplexity OpenAI Anthropic",
+   "status": "done",
+   "found": "In talks with Perplexity, OpenAI, Anthropic per Moneycontrol Feb 2026",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Hyderabad 400MW data center NTT",
+   "status": "done",
+   "found": "NTT Data + Neysa + Telangana govt MoU Apr 2025 for 400MW Rs 10,500 crore AI DC cluster",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI CCI approval Blackstone",
+   "status": "done",
+   "found": "CCI approved Blackstone-led controlling stake acquisition May 2026",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Rahul Gandotra founder",
+   "status": "done",
+   "found": "No credible source mentions Rahul Gandotra; founders are Sharad Sanghi and Anindya Das",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Google Blackstone TPU venture",
+   "status": "done",
+   "found": "Google-Blackstone $5B AI cloud venture with TPU chips (May 2026); unclear direct link to Neysa",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI SoftBank Blackstone talks",
+   "status": "done",
+   "found": "Blackstone and SoftBank in early talks for stakes Nov 2025 per ET",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Pipeshift inference launch",
+   "status": "done",
+   "found": "Neysa-Pipeshift sovereign inference infrastructure launched May 2026",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Velocis GPT-OSS",
+   "status": "done",
+   "found": "Velocis expanded with OpenAI GPT-OSS models Sep 2025",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI revenue FY25 FY26 financials bookings",
+   "status": "done",
+   "found": "Revenue expected to triple by FY27 (management statement); no audited revenue found",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI customers Perplexity OpenAI Anthropic",
+   "status": "done",
+   "found": "In talks with Perplexity, OpenAI, Anthropic per Moneycontrol Feb 2026",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Hyderabad 400MW data center NTT",
+   "status": "done",
+   "found": "NTT Data + Neysa + Telangana govt MoU Apr 2025 for 400MW Rs 10,500 crore AI DC cluster",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI CCI approval Blackstone",
+   "status": "done",
+   "found": "CCI approved Blackstone-led controlling stake acquisition May 2026",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Rahul Gandotra founder",
+   "status": "done",
+   "found": "No credible source mentions Rahul Gandotra; founders are Sharad Sanghi and Anindya Das",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Google Blackstone TPU venture",
+   "status": "done",
+   "found": "Google-Blackstone $5B AI cloud venture with TPU chips (May 2026); unclear direct link to Neysa",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI SoftBank Blackstone talks",
+   "status": "done",
+   "found": "Blackstone and SoftBank in early talks for stakes Nov 2025 per ET",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Pipeshift inference launch",
+   "status": "done",
+   "found": "Neysa-Pipeshift sovereign inference infrastructure launched May 2026",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Velocis GPT-OSS",
+   "status": "done",
+   "found": "Velocis expanded with OpenAI GPT-OSS models Sep 2025",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI revenue FY25 FY26 financials bookings",
+   "status": "done",
+   "found": "Revenue expected to triple by FY27 (management statement); no audited revenue found",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI customers Perplexity OpenAI Anthropic",
+   "status": "done",
+   "found": "In talks with Perplexity, OpenAI, Anthropic per Moneycontrol Feb 2026",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Hyderabad 400MW data center NTT",
+   "status": "done",
+   "found": "NTT Data + Neysa + Telangana govt MoU Apr 2025 for 400MW Rs 10,500 crore AI DC cluster",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI CCI approval Blackstone",
+   "status": "done",
+   "found": "CCI approved Blackstone-led controlling stake acquisition May 2026",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Rahul Gandotra founder",
+   "status": "done",
+   "found": "No credible source mentions Rahul Gandotra; founders are Sharad Sanghi and Anindya Das",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Google Blackstone TPU venture",
+   "status": "done",
+   "found": "Google-Blackstone $5B AI cloud venture with TPU chips (May 2026); unclear direct link to Neysa",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI SoftBank Blackstone talks",
+   "status": "done",
+   "found": "Blackstone and SoftBank in early talks for stakes Nov 2025 per ET",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Pipeshift inference launch",
+   "status": "done",
+   "found": "Neysa-Pipeshift sovereign inference infrastructure launched May 2026",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Velocis GPT-OSS",
+   "status": "done",
+   "found": "Velocis expanded with OpenAI GPT-OSS models Sep 2025",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI revenue FY25 FY26 financials bookings",
+   "status": "done",
+   "found": "Revenue expected to triple by FY27 (management statement); no audited revenue found",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI customers Perplexity OpenAI Anthropic",
+   "status": "done",
+   "found": "In talks with Perplexity, OpenAI, Anthropic per Moneycontrol Feb 2026",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Hyderabad 400MW data center NTT",
+   "status": "done",
+   "found": "NTT Data + Neysa + Telangana govt MoU Apr 2025 for 400MW Rs 10,500 crore AI DC cluster",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI CCI approval Blackstone",
+   "status": "done",
+   "found": "CCI approved Blackstone-led controlling stake acquisition May 2026",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Rahul Gandotra founder",
+   "status": "done",
+   "found": "No credible source mentions Rahul Gandotra; founders are Sharad Sanghi and Anindya Das",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Google Blackstone TPU venture",
+   "status": "done",
+   "found": "Google-Blackstone $5B AI cloud venture with TPU chips (May 2026); unclear direct link to Neysa",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI SoftBank Blackstone talks",
+   "status": "done",
+   "found": "Blackstone and SoftBank in early talks for stakes Nov 2025 per ET",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Pipeshift inference launch",
+   "status": "done",
+   "found": "Neysa-Pipeshift sovereign inference infrastructure launched May 2026",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Velocis GPT-OSS",
+   "status": "done",
+   "found": "Velocis expanded with OpenAI GPT-OSS models Sep 2025",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI revenue FY25 FY26 financials bookings",
+   "status": "done",
+   "found": "Revenue expected to triple by FY27 (management statement); no audited revenue found",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI customers Perplexity OpenAI Anthropic",
+   "status": "done",
+   "found": "In talks with Perplexity, OpenAI, Anthropic per Moneycontrol Feb 2026",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Hyderabad 400MW data center NTT",
+   "status": "done",
+   "found": "NTT Data + Neysa + Telangana govt MoU Apr 2025 for 400MW Rs 10,500 crore AI DC cluster",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI CCI approval Blackstone",
+   "status": "done",
+   "found": "CCI approved Blackstone-led controlling stake acquisition May 2026",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Rahul Gandotra founder",
+   "status": "done",
+   "found": "No credible source mentions Rahul Gandotra; founders are Sharad Sanghi and Anindya Das",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Google Blackstone TPU venture",
+   "status": "done",
+   "found": "Google-Blackstone $5B AI cloud venture with TPU chips (May 2026); unclear direct link to Neysa",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI SoftBank Blackstone talks",
+   "status": "done",
+   "found": "Blackstone and SoftBank in early talks for stakes Nov 2025 per ET",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Pipeshift inference launch",
+   "status": "done",
+   "found": "Neysa-Pipeshift sovereign inference infrastructure launched May 2026",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Velocis GPT-OSS",
+   "status": "done",
+   "found": "Velocis expanded with OpenAI GPT-OSS models Sep 2025",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI revenue FY25 FY26 financials bookings",
+   "status": "done",
+   "found": "Revenue expected to triple by FY27 (management statement); no audited revenue found",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI customers Perplexity OpenAI Anthropic",
+   "status": "done",
+   "found": "In talks with Perplexity, OpenAI, Anthropic per Moneycontrol Feb 2026",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Hyderabad 400MW data center NTT",
+   "status": "done",
+   "found": "NTT Data + Neysa + Telangana govt MoU Apr 2025 for 400MW Rs 10,500 crore AI DC cluster",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI CCI approval Blackstone",
+   "status": "done",
+   "found": "CCI approved Blackstone-led controlling stake acquisition May 2026",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Rahul Gandotra founder",
+   "status": "done",
+   "found": "No credible source mentions Rahul Gandotra; founders are Sharad Sanghi and Anindya Das",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Google Blackstone TPU venture",
+   "status": "done",
+   "found": "Google-Blackstone $5B AI cloud venture with TPU chips (May 2026); unclear direct link to Neysa",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI SoftBank Blackstone talks",
+   "status": "done",
+   "found": "Blackstone and SoftBank in early talks for stakes Nov 2025 per ET",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Pipeshift inference launch",
+   "status": "done",
+   "found": "Neysa-Pipeshift sovereign inference infrastructure launched May 2026",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Velocis GPT-OSS",
+   "status": "done",
+   "found": "Velocis expanded with OpenAI GPT-OSS models Sep 2025",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI revenue FY25 FY26 financials bookings",
+   "status": "done",
+   "found": "Revenue expected to triple by FY27 (management statement); no audited revenue found",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI customers Perplexity OpenAI Anthropic",
+   "status": "done",
+   "found": "In talks with Perplexity, OpenAI, Anthropic per Moneycontrol Feb 2026",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Hyderabad 400MW data center NTT",
+   "status": "done",
+   "found": "NTT Data + Neysa + Telangana govt MoU Apr 2025 for 400MW Rs 10,500 crore AI DC cluster",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI CCI approval Blackstone",
+   "status": "done",
+   "found": "CCI approved Blackstone-led controlling stake acquisition May 2026",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Rahul Gandotra founder",
+   "status": "done",
+   "found": "No credible source mentions Rahul Gandotra; founders are Sharad Sanghi and Anindya Das",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Google Blackstone TPU venture",
+   "status": "done",
+   "found": "Google-Blackstone $5B AI cloud venture with TPU chips (May 2026); unclear direct link to Neysa",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI SoftBank Blackstone talks",
+   "status": "done",
+   "found": "Blackstone and SoftBank in early talks for stakes Nov 2025 per ET",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Pipeshift inference launch",
+   "status": "done",
+   "found": "Neysa-Pipeshift sovereign inference infrastructure launched May 2026",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Velocis GPT-OSS",
+   "status": "done",
+   "found": "Velocis expanded with OpenAI GPT-OSS models Sep 2025",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI revenue FY25 FY26 financials bookings",
+   "status": "done",
+   "found": "Revenue expected to triple by FY27 (management statement); no audited revenue found",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI customers Perplexity OpenAI Anthropic",
+   "status": "done",
+   "found": "In talks with Perplexity, OpenAI, Anthropic per Moneycontrol Feb 2026",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Hyderabad 400MW data center NTT",
+   "status": "done",
+   "found": "NTT Data + Neysa + Telangana govt MoU Apr 2025 for 400MW Rs 10,500 crore AI DC cluster",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI CCI approval Blackstone",
+   "status": "done",
+   "found": "CCI approved Blackstone-led controlling stake acquisition May 2026",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Rahul Gandotra founder",
+   "status": "done",
+   "found": "No credible source mentions Rahul Gandotra; founders are Sharad Sanghi and Anindya Das",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Google Blackstone TPU venture",
+   "status": "done",
+   "found": "Google-Blackstone $5B AI cloud venture with TPU chips (May 2026); unclear direct link to Neysa",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI SoftBank Blackstone talks",
+   "status": "done",
+   "found": "Blackstone and SoftBank in early talks for stakes Nov 2025 per ET",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Pipeshift inference launch",
+   "status": "done",
+   "found": "Neysa-Pipeshift sovereign inference infrastructure launched May 2026",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Velocis GPT-OSS",
+   "status": "done",
+   "found": "Velocis expanded with OpenAI GPT-OSS models Sep 2025",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI revenue FY25 FY26 financials bookings",
+   "status": "done",
+   "found": "Revenue expected to triple by FY27 (management statement); no audited revenue found",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI customers Perplexity OpenAI Anthropic",
+   "status": "done",
+   "found": "In talks with Perplexity, OpenAI, Anthropic per Moneycontrol Feb 2026",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Hyderabad 400MW data center NTT",
+   "status": "done",
+   "found": "NTT Data + Neysa + Telangana govt MoU Apr 2025 for 400MW Rs 10,500 crore AI DC cluster",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI CCI approval Blackstone",
+   "status": "done",
+   "found": "CCI approved Blackstone-led controlling stake acquisition May 2026",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Rahul Gandotra founder",
+   "status": "done",
+   "found": "No credible source mentions Rahul Gandotra; founders are Sharad Sanghi and Anindya Das",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Google Blackstone TPU venture",
+   "status": "done",
+   "found": "Google-Blackstone $5B AI cloud venture with TPU chips (May 2026); unclear direct link to Neysa",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI SoftBank Blackstone talks",
+   "status": "done",
+   "found": "Blackstone and SoftBank in early talks for stakes Nov 2025 per ET",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Pipeshift inference launch",
+   "status": "done",
+   "found": "Neysa-Pipeshift sovereign inference infrastructure launched May 2026",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Velocis GPT-OSS",
+   "status": "done",
+   "found": "Velocis expanded with OpenAI GPT-OSS models Sep 2025",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI revenue FY25 FY26 financials bookings",
+   "status": "done",
+   "found": "Revenue expected to triple by FY27 (management statement); no audited revenue found",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI customers Perplexity OpenAI Anthropic",
+   "status": "done",
+   "found": "In talks with Perplexity, OpenAI, Anthropic per Moneycontrol Feb 2026",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Hyderabad 400MW data center NTT",
+   "status": "done",
+   "found": "NTT Data + Neysa + Telangana govt MoU Apr 2025 for 400MW Rs 10,500 crore AI DC cluster",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI CCI approval Blackstone",
+   "status": "done",
+   "found": "CCI approved Blackstone-led controlling stake acquisition May 2026",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Rahul Gandotra founder",
+   "status": "done",
+   "found": "No credible source mentions Rahul Gandotra; founders are Sharad Sanghi and Anindya Das",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Google Blackstone TPU venture",
+   "status": "done",
+   "found": "Google-Blackstone $5B AI cloud venture with TPU chips (May 2026); unclear direct link to Neysa",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI SoftBank Blackstone talks",
+   "status": "done",
+   "found": "Blackstone and SoftBank in early talks for stakes Nov 2025 per ET",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Pipeshift inference launch",
+   "status": "done",
+   "found": "Neysa-Pipeshift sovereign inference infrastructure launched May 2026",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Velocis GPT-OSS",
+   "status": "done",
+   "found": "Velocis expanded with OpenAI GPT-OSS models Sep 2025",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI revenue FY25 FY26 financials bookings",
+   "status": "done",
+   "found": "Revenue expected to triple by FY27 (management statement); no audited revenue found",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI customers Perplexity OpenAI Anthropic",
+   "status": "done",
+   "found": "In talks with Perplexity, OpenAI, Anthropic per Moneycontrol Feb 2026",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Hyderabad 400MW data center NTT",
+   "status": "done",
+   "found": "NTT Data + Neysa + Telangana govt MoU Apr 2025 for 400MW Rs 10,500 crore AI DC cluster",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI CCI approval Blackstone",
+   "status": "done",
+   "found": "CCI approved Blackstone-led controlling stake acquisition May 2026",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Rahul Gandotra founder",
+   "status": "done",
+   "found": "No credible source mentions Rahul Gandotra; founders are Sharad Sanghi and Anindya Das",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Google Blackstone TPU venture",
+   "status": "done",
+   "found": "Google-Blackstone $5B AI cloud venture with TPU chips (May 2026); unclear direct link to Neysa",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI SoftBank Blackstone talks",
+   "status": "done",
+   "found": "Blackstone and SoftBank in early talks for stakes Nov 2025 per ET",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Pipeshift inference launch",
+   "status": "done",
+   "found": "Neysa-Pipeshift sovereign inference infrastructure launched May 2026",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Velocis GPT-OSS",
+   "status": "done",
+   "found": "Velocis expanded with OpenAI GPT-OSS models Sep 2025",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI revenue FY25 FY26 financials bookings",
+   "status": "done",
+   "found": "Revenue expected to triple by FY27 (management statement); no audited revenue found",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI customers Perplexity OpenAI Anthropic",
+   "status": "done",
+   "found": "In talks with Perplexity, OpenAI, Anthropic per Moneycontrol Feb 2026",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Hyderabad 400MW data center NTT",
+   "status": "done",
+   "found": "NTT Data + Neysa + Telangana govt MoU Apr 2025 for 400MW Rs 10,500 crore AI DC cluster",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI CCI approval Blackstone",
+   "status": "done",
+   "found": "CCI approved Blackstone-led controlling stake acquisition May 2026",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Rahul Gandotra founder",
+   "status": "done",
+   "found": "No credible source mentions Rahul Gandotra; founders are Sharad Sanghi and Anindya Das",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Google Blackstone TPU venture",
+   "status": "done",
+   "found": "Google-Blackstone $5B AI cloud venture with TPU chips (May 2026); unclear direct link to Neysa",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI SoftBank Blackstone talks",
+   "status": "done",
+   "found": "Blackstone and SoftBank in early talks for stakes Nov 2025 per ET",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Pipeshift inference launch",
+   "status": "done",
+   "found": "Neysa-Pipeshift sovereign inference infrastructure launched May 2026",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Velocis GPT-OSS",
+   "status": "done",
+   "found": "Velocis expanded with OpenAI GPT-OSS models Sep 2025",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI revenue FY25 FY26 financials bookings",
+   "status": "done",
+   "found": "Revenue expected to triple by FY27 (management statement); no audited revenue found",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI customers Perplexity OpenAI Anthropic",
+   "status": "done",
+   "found": "In talks with Perplexity, OpenAI, Anthropic per Moneycontrol Feb 2026",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Hyderabad 400MW data center NTT",
+   "status": "done",
+   "found": "NTT Data + Neysa + Telangana govt MoU Apr 2025 for 400MW Rs 10,500 crore AI DC cluster",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI CCI approval Blackstone",
+   "status": "done",
+   "found": "CCI approved Blackstone-led controlling stake acquisition May 2026",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Rahul Gandotra founder",
+   "status": "done",
+   "found": "No credible source mentions Rahul Gandotra; founders are Sharad Sanghi and Anindya Das",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Google Blackstone TPU venture",
+   "status": "done",
+   "found": "Google-Blackstone $5B AI cloud venture with TPU chips (May 2026); unclear direct link to Neysa",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI SoftBank Blackstone talks",
+   "status": "done",
+   "found": "Blackstone and SoftBank in early talks for stakes Nov 2025 per ET",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Pipeshift inference launch",
+   "status": "done",
+   "found": "Neysa-Pipeshift sovereign inference infrastructure launched May 2026",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Velocis GPT-OSS",
+   "status": "done",
+   "found": "Velocis expanded with OpenAI GPT-OSS models Sep 2025",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI revenue FY25 FY26 financials bookings",
+   "status": "done",
+   "found": "Revenue expected to triple by FY27 (management statement); no audited revenue found",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI customers Perplexity OpenAI Anthropic",
+   "status": "done",
+   "found": "In talks with Perplexity, OpenAI, Anthropic per Moneycontrol Feb 2026",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Hyderabad 400MW data center NTT",
+   "status": "done",
+   "found": "NTT Data + Neysa + Telangana govt MoU Apr 2025 for 400MW Rs 10,500 crore AI DC cluster",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI CCI approval Blackstone",
+   "status": "done",
+   "found": "CCI approved Blackstone-led controlling stake acquisition May 2026",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Rahul Gandotra founder",
+   "status": "done",
+   "found": "No credible source mentions Rahul Gandotra; founders are Sharad Sanghi and Anindya Das",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Google Blackstone TPU venture",
+   "status": "done",
+   "found": "Google-Blackstone $5B AI cloud venture with TPU chips (May 2026); unclear direct link to Neysa",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI SoftBank Blackstone talks",
+   "status": "done",
+   "found": "Blackstone and SoftBank in early talks for stakes Nov 2025 per ET",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Pipeshift inference launch",
+   "status": "done",
+   "found": "Neysa-Pipeshift sovereign inference infrastructure launched May 2026",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Velocis GPT-OSS",
+   "status": "done",
+   "found": "Velocis expanded with OpenAI GPT-OSS models Sep 2025",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI revenue FY25 FY26 financials bookings",
+   "status": "done",
+   "found": "Revenue expected to triple by FY27 (management statement); no audited revenue found",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI customers Perplexity OpenAI Anthropic",
+   "status": "done",
+   "found": "In talks with Perplexity, OpenAI, Anthropic per Moneycontrol Feb 2026",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Hyderabad 400MW data center NTT",
+   "status": "done",
+   "found": "NTT Data + Neysa + Telangana govt MoU Apr 2025 for 400MW Rs 10,500 crore AI DC cluster",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI CCI approval Blackstone",
+   "status": "done",
+   "found": "CCI approved Blackstone-led controlling stake acquisition May 2026",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Rahul Gandotra founder",
+   "status": "done",
+   "found": "No credible source mentions Rahul Gandotra; founders are Sharad Sanghi and Anindya Das",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Google Blackstone TPU venture",
+   "status": "done",
+   "found": "Google-Blackstone $5B AI cloud venture with TPU chips (May 2026); unclear direct link to Neysa",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI SoftBank Blackstone talks",
+   "status": "done",
+   "found": "Blackstone and SoftBank in early talks for stakes Nov 2025 per ET",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Pipeshift inference launch",
+   "status": "done",
+   "found": "Neysa-Pipeshift sovereign inference infrastructure launched May 2026",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Velocis GPT-OSS",
+   "status": "done",
+   "found": "Velocis expanded with OpenAI GPT-OSS models Sep 2025",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI revenue FY25 FY26 financials bookings",
+   "status": "done",
+   "found": "Revenue expected to triple by FY27 (management statement); no audited revenue found",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI customers Perplexity OpenAI Anthropic",
+   "status": "done",
+   "found": "In talks with Perplexity, OpenAI, Anthropic per Moneycontrol Feb 2026",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Hyderabad 400MW data center NTT",
+   "status": "done",
+   "found": "NTT Data + Neysa + Telangana govt MoU Apr 2025 for 400MW Rs 10,500 crore AI DC cluster",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI CCI approval Blackstone",
+   "status": "done",
+   "found": "CCI approved Blackstone-led controlling stake acquisition May 2026",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Rahul Gandotra founder",
+   "status": "done",
+   "found": "No credible source mentions Rahul Gandotra; founders are Sharad Sanghi and Anindya Das",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Google Blackstone TPU venture",
+   "status": "done",
+   "found": "Google-Blackstone $5B AI cloud venture with TPU chips (May 2026); unclear direct link to Neysa",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI SoftBank Blackstone talks",
+   "status": "done",
+   "found": "Blackstone and SoftBank in early talks for stakes Nov 2025 per ET",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Pipeshift inference launch",
+   "status": "done",
+   "found": "Neysa-Pipeshift sovereign inference infrastructure launched May 2026",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Velocis GPT-OSS",
+   "status": "done",
+   "found": "Velocis expanded with OpenAI GPT-OSS models Sep 2025",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI revenue FY25 FY26 financials bookings",
+   "status": "done",
+   "found": "Revenue expected to triple by FY27 (management statement); no audited revenue found",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI customers Perplexity OpenAI Anthropic",
+   "status": "done",
+   "found": "In talks with Perplexity, OpenAI, Anthropic per Moneycontrol Feb 2026",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Hyderabad 400MW data center NTT",
+   "status": "done",
+   "found": "NTT Data + Neysa + Telangana govt MoU Apr 2025 for 400MW Rs 10,500 crore AI DC cluster",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI CCI approval Blackstone",
+   "status": "done",
+   "found": "CCI approved Blackstone-led controlling stake acquisition May 2026",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Rahul Gandotra founder",
+   "status": "done",
+   "found": "No credible source mentions Rahul Gandotra; founders are Sharad Sanghi and Anindya Das",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Google Blackstone TPU venture",
+   "status": "done",
+   "found": "Google-Blackstone $5B AI cloud venture with TPU chips (May 2026); unclear direct link to Neysa",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI SoftBank Blackstone talks",
+   "status": "done",
+   "found": "Blackstone and SoftBank in early talks for stakes Nov 2025 per ET",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Pipeshift inference launch",
+   "status": "done",
+   "found": "Neysa-Pipeshift sovereign inference infrastructure launched May 2026",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Velocis GPT-OSS",
+   "status": "done",
+   "found": "Velocis expanded with OpenAI GPT-OSS models Sep 2025",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI revenue FY25 FY26 financials bookings",
+   "status": "done",
+   "found": "Revenue expected to triple by FY27 (management statement); no audited revenue found",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI customers Perplexity OpenAI Anthropic",
+   "status": "done",
+   "found": "In talks with Perplexity, OpenAI, Anthropic per Moneycontrol Feb 2026",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Hyderabad 400MW data center NTT",
+   "status": "done",
+   "found": "NTT Data + Neysa + Telangana govt MoU Apr 2025 for 400MW Rs 10,500 crore AI DC cluster",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI CCI approval Blackstone",
+   "status": "done",
+   "found": "CCI approved Blackstone-led controlling stake acquisition May 2026",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Rahul Gandotra founder",
+   "status": "done",
+   "found": "No credible source mentions Rahul Gandotra; founders are Sharad Sanghi and Anindya Das",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Google Blackstone TPU venture",
+   "status": "done",
+   "found": "Google-Blackstone $5B AI cloud venture with TPU chips (May 2026); unclear direct link to Neysa",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI SoftBank Blackstone talks",
+   "status": "done",
+   "found": "Blackstone and SoftBank in early talks for stakes Nov 2025 per ET",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Pipeshift inference launch",
+   "status": "done",
+   "found": "Neysa-Pipeshift sovereign inference infrastructure launched May 2026",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Velocis GPT-OSS",
+   "status": "done",
+   "found": "Velocis expanded with OpenAI GPT-OSS models Sep 2025",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI revenue FY25 FY26 financials bookings",
+   "status": "done",
+   "found": "Revenue expected to triple by FY27 (management statement); no audited revenue found",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI customers Perplexity OpenAI Anthropic",
+   "status": "done",
+   "found": "In talks with Perplexity, OpenAI, Anthropic per Moneycontrol Feb 2026",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Hyderabad 400MW data center NTT",
+   "status": "done",
+   "found": "NTT Data + Neysa + Telangana govt MoU Apr 2025 for 400MW Rs 10,500 crore AI DC cluster",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI CCI approval Blackstone",
+   "status": "done",
+   "found": "CCI approved Blackstone-led controlling stake acquisition May 2026",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Rahul Gandotra founder",
+   "status": "done",
+   "found": "No credible source mentions Rahul Gandotra; founders are Sharad Sanghi and Anindya Das",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Google Blackstone TPU venture",
+   "status": "done",
+   "found": "Google-Blackstone $5B AI cloud venture with TPU chips (May 2026); unclear direct link to Neysa",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI SoftBank Blackstone talks",
+   "status": "done",
+   "found": "Blackstone and SoftBank in early talks for stakes Nov 2025 per ET",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Pipeshift inference launch",
+   "status": "done",
+   "found": "Neysa-Pipeshift sovereign inference infrastructure launched May 2026",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Velocis GPT-OSS",
+   "status": "done",
+   "found": "Velocis expanded with OpenAI GPT-OSS models Sep 2025",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI revenue FY25 FY26 financials bookings",
+   "status": "done",
+   "found": "Revenue expected to triple by FY27 (management statement); no audited revenue found",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI customers Perplexity OpenAI Anthropic",
+   "status": "done",
+   "found": "In talks with Perplexity, OpenAI, Anthropic per Moneycontrol Feb 2026",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Hyderabad 400MW data center NTT",
+   "status": "done",
+   "found": "NTT Data + Neysa + Telangana govt MoU Apr 2025 for 400MW Rs 10,500 crore AI DC cluster",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI CCI approval Blackstone",
+   "status": "done",
+   "found": "CCI approved Blackstone-led controlling stake acquisition May 2026",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Rahul Gandotra founder",
+   "status": "done",
+   "found": "No credible source mentions Rahul Gandotra; founders are Sharad Sanghi and Anindya Das",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Google Blackstone TPU venture",
+   "status": "done",
+   "found": "Google-Blackstone $5B AI cloud venture with TPU chips (May 2026); unclear direct link to Neysa",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI SoftBank Blackstone talks",
+   "status": "done",
+   "found": "Blackstone and SoftBank in early talks for stakes Nov 2025 per ET",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Pipeshift inference launch",
+   "status": "done",
+   "found": "Neysa-Pipeshift sovereign inference infrastructure launched May 2026",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Velocis GPT-OSS",
+   "status": "done",
+   "found": "Velocis expanded with OpenAI GPT-OSS models Sep 2025",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI revenue FY25 FY26 financials bookings",
+   "status": "done",
+   "found": "Revenue expected to triple by FY27 (management statement); no audited revenue found",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI customers Perplexity OpenAI Anthropic",
+   "status": "done",
+   "found": "In talks with Perplexity, OpenAI, Anthropic per Moneycontrol Feb 2026",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Hyderabad 400MW data center NTT",
+   "status": "done",
+   "found": "NTT Data + Neysa + Telangana govt MoU Apr 2025 for 400MW Rs 10,500 crore AI DC cluster",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI CCI approval Blackstone",
+   "status": "done",
+   "found": "CCI approved Blackstone-led controlling stake acquisition May 2026",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Rahul Gandotra founder",
+   "status": "done",
+   "found": "No credible source mentions Rahul Gandotra; founders are Sharad Sanghi and Anindya Das",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Google Blackstone TPU venture",
+   "status": "done",
+   "found": "Google-Blackstone $5B AI cloud venture with TPU chips (May 2026); unclear direct link to Neysa",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI SoftBank Blackstone talks",
+   "status": "done",
+   "found": "Blackstone and SoftBank in early talks for stakes Nov 2025 per ET",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Pipeshift inference launch",
+   "status": "done",
+   "found": "Neysa-Pipeshift sovereign inference infrastructure launched May 2026",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Velocis GPT-OSS",
+   "status": "done",
+   "found": "Velocis expanded with OpenAI GPT-OSS models Sep 2025",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI revenue FY25 FY26 financials bookings",
+   "status": "done",
+   "found": "Revenue expected to triple by FY27 (management statement); no audited revenue found",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI customers Perplexity OpenAI Anthropic",
+   "status": "done",
+   "found": "In talks with Perplexity, OpenAI, Anthropic per Moneycontrol Feb 2026",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Hyderabad 400MW data center NTT",
+   "status": "done",
+   "found": "NTT Data + Neysa + Telangana govt MoU Apr 2025 for 400MW Rs 10,500 crore AI DC cluster",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI CCI approval Blackstone",
+   "status": "done",
+   "found": "CCI approved Blackstone-led controlling stake acquisition May 2026",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Rahul Gandotra founder",
+   "status": "done",
+   "found": "No credible source mentions Rahul Gandotra; founders are Sharad Sanghi and Anindya Das",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Google Blackstone TPU venture",
+   "status": "done",
+   "found": "Google-Blackstone $5B AI cloud venture with TPU chips (May 2026); unclear direct link to Neysa",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI SoftBank Blackstone talks",
+   "status": "done",
+   "found": "Blackstone and SoftBank in early talks for stakes Nov 2025 per ET",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Pipeshift inference launch",
+   "status": "done",
+   "found": "Neysa-Pipeshift sovereign inference infrastructure launched May 2026",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Velocis GPT-OSS",
+   "status": "done",
+   "found": "Velocis expanded with OpenAI GPT-OSS models Sep 2025",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI revenue FY25 FY26 financials bookings",
+   "status": "done",
+   "found": "Revenue expected to triple by FY27 (management statement); no audited revenue found",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI customers Perplexity OpenAI Anthropic",
+   "status": "done",
+   "found": "In talks with Perplexity, OpenAI, Anthropic per Moneycontrol Feb 2026",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Hyderabad 400MW data center NTT",
+   "status": "done",
+   "found": "NTT Data + Neysa + Telangana govt MoU Apr 2025 for 400MW Rs 10,500 crore AI DC cluster",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI CCI approval Blackstone",
+   "status": "done",
+   "found": "CCI approved Blackstone-led controlling stake acquisition May 2026",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Rahul Gandotra founder",
+   "status": "done",
+   "found": "No credible source mentions Rahul Gandotra; founders are Sharad Sanghi and Anindya Das",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Google Blackstone TPU venture",
+   "status": "done",
+   "found": "Google-Blackstone $5B AI cloud venture with TPU chips (May 2026); unclear direct link to Neysa",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI SoftBank Blackstone talks",
+   "status": "done",
+   "found": "Blackstone and SoftBank in early talks for stakes Nov 2025 per ET",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Pipeshift inference launch",
+   "status": "done",
+   "found": "Neysa-Pipeshift sovereign inference infrastructure launched May 2026",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Velocis GPT-OSS",
+   "status": "done",
+   "found": "Velocis expanded with OpenAI GPT-OSS models Sep 2025",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI revenue FY25 FY26 financials bookings",
+   "status": "done",
+   "found": "Revenue expected to triple by FY27 (management statement); no audited revenue found",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI customers Perplexity OpenAI Anthropic",
+   "status": "done",
+   "found": "In talks with Perplexity, OpenAI, Anthropic per Moneycontrol Feb 2026",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Hyderabad 400MW data center NTT",
+   "status": "done",
+   "found": "NTT Data + Neysa + Telangana govt MoU Apr 2025 for 400MW Rs 10,500 crore AI DC cluster",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI CCI approval Blackstone",
+   "status": "done",
+   "found": "CCI approved Blackstone-led controlling stake acquisition May 2026",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Rahul Gandotra founder",
+   "status": "done",
+   "found": "No credible source mentions Rahul Gandotra; founders are Sharad Sanghi and Anindya Das",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Google Blackstone TPU venture",
+   "status": "done",
+   "found": "Google-Blackstone $5B AI cloud venture with TPU chips (May 2026); unclear direct link to Neysa",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI SoftBank Blackstone talks",
+   "status": "done",
+   "found": "Blackstone and SoftBank in early talks for stakes Nov 2025 per ET",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Pipeshift inference launch",
+   "status": "done",
+   "found": "Neysa-Pipeshift sovereign inference infrastructure launched May 2026",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Velocis GPT-OSS",
+   "status": "done",
+   "found": "Velocis expanded with OpenAI GPT-OSS models Sep 2025",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI revenue FY25 FY26 financials bookings",
+   "status": "done",
+   "found": "Revenue expected to triple by FY27 (management statement); no audited revenue found",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI customers Perplexity OpenAI Anthropic",
+   "status": "done",
+   "found": "In talks with Perplexity, OpenAI, Anthropic per Moneycontrol Feb 2026",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Hyderabad 400MW data center NTT",
+   "status": "done",
+   "found": "NTT Data + Neysa + Telangana govt MoU Apr 2025 for 400MW Rs 10,500 crore AI DC cluster",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI CCI approval Blackstone",
+   "status": "done",
+   "found": "CCI approved Blackstone-led controlling stake acquisition May 2026",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Rahul Gandotra founder",
+   "status": "done",
+   "found": "No credible source mentions Rahul Gandotra; founders are Sharad Sanghi and Anindya Das",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Google Blackstone TPU venture",
+   "status": "done",
+   "found": "Google-Blackstone $5B AI cloud venture with TPU chips (May 2026); unclear direct link to Neysa",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI SoftBank Blackstone talks",
+   "status": "done",
+   "found": "Blackstone and SoftBank in early talks for stakes Nov 2025 per ET",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Pipeshift inference launch",
+   "status": "done",
+   "found": "Neysa-Pipeshift sovereign inference infrastructure launched May 2026",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Neysa AI Velocis GPT-OSS",
+   "status": "done",
+   "found": "Velocis expanded with OpenAI GPT-OSS models Sep 2025",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  }
+ ],
+ "sources": [
+  {
+   "claim_supported": "$1.2B capital raise structure, majority stake, 20k GPUs",
+   "fields_supported": [
+    "funding_rounds",
+    "events"
+   ],
+   "publication_date": "2026-02-16",
+   "publisher": "Neysa",
+   "retrieved_date": "2026-09-14",
+   "tier": "T1",
+   "title": "$1.2 Billion Capital Raise: Neysa AI Secures Blackstone Funding",
+   "url": "https://neysa.ai/press-release/blackstone-leads-funding-of-over-1-billion-dollar-to-neysa/"
+  },
+  {
+   "claim_supported": "Equity/debt split, co-investors, 110 staff, revenue ambition",
+   "fields_supported": [
+    "funding_rounds",
+    "hiring",
+    "traction"
+   ],
+   "publication_date": "2026-02-15",
+   "publisher": "TechCrunch",
+   "retrieved_date": "2026-09-14",
+   "tier": "T3",
+   "title": "Blackstone backs Neysa in up to $1.2B financing as India pushes to build domestic AI infrastructure",
+   "url": "https://techcrunch.com/2026/02/15/blackstone-backs-neysa-in-up-to-1-2b-financing-as-india-pushes-to-build-domestic-ai-compute/"
+  },
+  {
+   "claim_supported": "Unicorn status, $1.4B EV (ET-cited), prior rounds",
+   "fields_supported": [
+    "company",
+    "funding_rounds"
+   ],
+   "publication_date": "2026-02-16",
+   "publisher": "Entrackr",
+   "retrieved_date": "2026-09-14",
+   "tier": "T3",
+   "title": "Gen AI startup Neysa turns unicorn after Blackstone-led $1.2 Bn funding",
+   "url": "https://entrackr.com/news/gen-ai-startup-neysa-turns-unicorn-after-blackstone-led-12-bn-funding-11109995"
+  },
+  {
+   "claim_supported": "Seed $20M details, founders, chairman",
+   "fields_supported": [
+    "funding_rounds",
+    "founders",
+    "people"
+   ],
+   "publication_date": "2024-04-10",
+   "publisher": "Z47 / Matrix Partners India",
+   "retrieved_date": "2026-09-14",
+   "tier": "T4",
+   "title": "Neysa raises $20M led by Matrix Partners India, Nexus Venture Partners and NTTVC",
+   "url": "https://www.z47.com/news/neysa-raises-20m-led-by-matrix-partners-india-nexus-venture-partners-and-nttvc"
+  },
+  {
+   "claim_supported": "Series A $30M, founding Jan 2023",
+   "fields_supported": [
+    "funding_rounds",
+    "company"
+   ],
+   "publication_date": "2024-10-21",
+   "publisher": "TechCrunch",
+   "retrieved_date": "2026-09-14",
+   "tier": "T3",
+   "title": "India's Neysa bags $30M to compete with global AI hyperscalers",
+   "url": "https://techcrunch.com/2024/10/21/indias-neysa-bags-30m-to-compete-with-global-ai-hyperscalers/"
+  },
+  {
+   "url": "https://www.zaubacorp.com/NEYSA-NETWORKS-PRIVATE-LIMITED-U72900MH2022PTC395489",
+   "title": "NEYSA NETWORKS PRIVATE LIMITED | ZaubaCorp",
+   "fields": [
+    "updates.company.cin",
+    "updates.company.incorporation_date"
+   ],
+   "confidence": "high"
+  },
+  {
+   "url": "https://neysa.ai/about-us",
+   "title": "Neysa About Us",
+   "tier": "T2",
+   "claim": "founder status Sharad Sanghi"
+  },
+  {
+   "url": "https://www.analyticsinsight.net/biography/sharad-sanghi",
+   "title": "",
+   "fields": "PEOPLE",
+   "confidence": "HIGH"
+  },
+  {
+   "url": "https://neysa.ai/press-release/neysa-raises-20-million-in-seed-funding-to-accelerate-generative-ai-adoption-for-enterprises/",
+   "title": "",
+   "fields": "PEOPLE",
+   "confidence": "HIGH"
+  },
+  {
+   "url": "https://www.moneycontrol.com/news/business/startup/neysa-to-triple-revenue-by-fy27-expect-strong-demand-from-ai-firms-saas-startups-co-founder-sharad-sanghi-13831468.html",
+   "title": "",
+   "fields": "company",
+   "confidence": "HIGH"
+  },
+  {
+   "url": "https://www.thehindu.com/news/national/telangana/ntt-data-to-invest-10500-crore-for-ai-data-centre-cluster-in-hyderabad/article69464674.ece",
+   "title": "",
+   "fields": "company",
+   "confidence": "HIGH"
+  },
+  {
+   "url": "https://www.moneycontrol.com/artificial-intelligence/google-blackstone-form-an-ai-cloud-venture-to-expand-tpu-chip-push-article-13923470.html",
+   "title": "",
+   "fields": "company",
+   "confidence": "MEDIUM"
+  },
+  {
+   "url": "https://inc42.com/buzz/cci-clears-blackstones-investment-in-ai-cloud-startup-neysa/",
+   "title": "",
+   "fields": "company",
+   "confidence": "HIGH"
+  },
+  {
+   "url": "https://www.moneycontrol.com/news/business/startup/ai-startup-neysa-s-cloud-platform-velocis-to-feature-ai-models-including-gpt-oss-13530730.html",
+   "title": "",
+   "fields": "company",
+   "confidence": "HIGH"
+  },
+  {
+   "url": "https://www.thehindubusinessline.com/info-tech/neysa-and-pipeshift-launch-sovereign-infrastructure-for-open-source-ai-models/article71026313.ece",
+   "title": "",
+   "fields": "company",
+   "confidence": "HIGH"
+  },
+  {
+   "url": "https://m.economictimes.com/tech/startups/blackstone-softbank-said-in-talks-for-stakes-in-india-cloud-startup-neysa/articleshow/125296551.cms",
+   "title": "",
+   "fields": "company",
+   "confidence": "MEDIUM"
+  },
+  {
+   "url": "https://www.forbesindia.com/article/leadership/our-main-competitors-are-not-indian-players-but-hyperscalers-neysa-ceo/2991676/1",
+   "title": "",
+   "fields": "company",
+   "confidence": "MEDIUM"
+  }
+ ],
+ "startup_id": "neysa",
+ "traction": [
+  {
+   "as_of": "2026-02",
+   "company_reported": true,
+   "confidence": "MEDIUM",
+   "metric": "GPUs live",
+   "source_url": "https://techcrunch.com/2026/02/15/blackstone-backs-neysa-in-up-to-1-2b-financing-as-india-pushes-to-build-domestic-ai-compute/",
+   "value": "~1,200 live; target 20,000+"
+  },
+  {
+   "metric": "GPUs live",
+   "value": 1200,
+   "unit": "GPUs",
+   "period": "As-of-2026-02",
+   "as_of": "2026-02-15",
+   "company_reported": true,
+   "source_url": "https://techcrunch.com/2026/02/15/blackstone-backs-neysa-in-up-to-1-2b-financing-as-india-pushes-to-build-domestic-ai-compute/",
+   "confidence": "MEDIUM",
+   "notes": "~1,200 live GPUs at time of Blackstone announcement"
+  },
+  {
+   "metric": "GPU deployment target",
+   "value": 20000,
+   "unit": "GPUs",
+   "period": "FY27 target",
+   "as_of": "2026-02-16",
+   "company_reported": true,
+   "source_url": "https://neysa.ai/press-release/blackstone-leads-funding-of-over-1-billion-dollar-to-neysa/",
+   "confidence": "HIGH",
+   "notes": "Target to scale to 20,000+ GPUs across India"
+  },
+  {
+   "metric": "Hyderabad data center cluster",
+   "value": 400,
+   "unit": "MW",
+   "period": "Announced Apr 2025",
+   "as_of": "2025-04-18",
+   "company_reported": true,
+   "source_url": "https://www.thehindu.com/news/national/telangana/ntt-data-to-invest-10500-crore-for-ai-data-centre-cluster-in-hyderabad/article69464674.ece",
+   "confidence": "HIGH",
+   "notes": "NTT Data + Neysa + Telangana govt MoU for 400MW AI data center cluster worth Rs 10,500 crore"
+  },
+  {
+   "metric": "Revenue growth expectation",
+   "value": 3,
+   "unit": "x",
+   "period": "FY27",
+   "as_of": "2026-02-17",
+   "company_reported": true,
+   "source_url": "https://ascendants.in/the-ascendants/neysa-fy27-revenue-gpu-expansion-india/",
+   "confidence": "MEDIUM",
+   "notes": "Revenue expected to more than triple; GPUs scaling from 1200 to 20000"
+  }
+ ],
+ "_merged_session2": true
+}

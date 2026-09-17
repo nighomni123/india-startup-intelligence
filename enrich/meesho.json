@@ -1,0 +1,2513 @@
+{
+ "company": {
+  "business_model": "Commission-light marketplace (ads + logistics/Valmo fees; commission on Meesho Mall)",
+  "city": "Bengaluru, Karnataka",
+  "customer_type": "B2C consumers; sellers are SMBs/manufacturers",
+  "dpiit": "",
+  "employee_estimate": "2082 (Tracxn official)",
+  "founded_date": "2015-12 (founded Dec 2015)",
+  "legal_name": "Meesho Limited (listed Dec 2025; formerly Meesho Inc./Pvt Ltd; subsidiaries incl. Meesho Technologies, Meesho Grocery, Meesho Payments)",
+  "parent_subsidiary": "Public listed company (NSE/BSE Dec 2025); subsidiaries listed in NSE filing",
+  "primary_sector": "Horizontal ecommerce / social commerce",
+  "public_private": "Public (since Dec 2025 IPO)",
+  "startup_stage": "Public (IPO Dec 2025)",
+  "status": "Active / Listed",
+  "website": "https://www.meesho.com/",
+  "cin": "U74900KA2015PTC082263",
+  "incorporation_date": "2015-01-01",
+  "official_website": {
+   "v": "https://meesho.in",
+   "conf": "high",
+   "src": "https://meesho.in",
+   "note": "verified live 2026-09-15: name match on own homepage"
+  },
+  "careers_website": {
+   "v": "https://meesho.io/jobs",
+   "conf": "high",
+   "src": "search",
+   "note": "verified 2026-09-15"
+  },
+  "state": {
+   "v": "Karnataka",
+   "conf": "HIGH",
+   "src": "https://www.tofler.in/meesho-private-limited/company/U74900KA2015PTC082263",
+   "note": "Registered in Karnataka"
+  },
+  "country": {
+   "v": "India",
+   "conf": "HIGH",
+   "src": "https://www.tofler.in/meesho-private-limited/company/U74900KA2015PTC082263"
+  },
+  "description": {
+   "v": "Value-focused horizontal e-commerce marketplace targeting price-conscious consumers in tier-2+ cities; zero-commission model; discovery-led commerce",
+   "conf": "HIGH",
+   "src": "https://thedailybrief.zerodha.com/p/inside-meeshos-ipo"
+  },
+  "registered_office": {
+   "v": "3rd Floor, Wing-E, Helios Business Park, Kadubeesanahalli Village, Varthur Hobli, Outer Ring Road, Bellandur, Bangalore, Karnataka, 560103",
+   "conf": "HIGH",
+   "src": "https://www.tofler.in/meesho-private-limited/company/U74900KA2015PTC082263"
+  },
+  "hq_type": {
+   "v": "HQ",
+   "conf": "HIGH",
+   "src": "https://www.tofler.in/meesho-private-limited/company/U74900KA2015PTC082263"
+  }
+ },
+ "completeness_self": {
+  "financials": 8,
+  "founders": 8,
+  "funding": 8,
+  "identity": 8,
+  "investors": 7,
+  "overall": "medium-low; LITE core layer only"
+ },
+ "conflicts": [
+  {
+   "field": "legal_name",
+   "claim_a": "Meesho Limited (listed Dec 2025; formerly Meesho Inc./Pvt Ltd; subsidiaries incl. Meesho Technologies, Meesho Grocery, Meesho Payments)",
+   "url_a": "",
+   "claim_b": "Meesho Limited",
+   "url_b": "",
+   "resolution": "phase3 p3 payload disagrees with existing value; existing kept as preferred pending human review",
+   "resolved_value": "",
+   "reviewed": "p3-merge"
+  },
+  {
+   "field": "cin",
+   "claim_a": "U74900KA2015PTC082263",
+   "url_a": "",
+   "claim_b": "U74900KA2015PLC082263",
+   "url_b": "",
+   "resolution": "phase3 p3 payload disagrees with existing value; existing kept as preferred pending human review",
+   "resolved_value": "",
+   "reviewed": "p3-merge"
+  },
+  {
+   "field": "incorporation_date",
+   "claim_a": "2015-01-01",
+   "url_a": "",
+   "claim_b": "2015-08-13",
+   "url_b": "",
+   "resolution": "phase3 p3 payload disagrees with existing value; existing kept as preferred pending human review",
+   "resolved_value": "",
+   "reviewed": "p3-merge"
+  },
+  {
+   "field": "city",
+   "claim_a": "Bengaluru, Karnataka",
+   "url_a": "",
+   "claim_b": "Bengaluru",
+   "url_b": "",
+   "resolution": "phase3 p3 payload disagrees with existing value; existing kept as preferred pending human review",
+   "resolved_value": "",
+   "reviewed": "p3-merge"
+  },
+  {
+   "field": "business_model",
+   "claim_a": "Commission-light marketplace (ads + logistics/Valmo fees; commission on Meesho Mall)",
+   "url_a": "",
+   "claim_b": "Zero-commission marketplace; revenue from logistics (Valmo), advertising (Meesho Ads), and Meesho Mall brand ads",
+   "url_b": "",
+   "resolution": "phase3 p3 payload disagrees with existing value; existing kept as preferred pending human review",
+   "resolved_value": "",
+   "reviewed": "p3-merge"
+  },
+  {
+   "field": "employee_estimate",
+   "claim_a": "2082 (Tracxn official)",
+   "url_a": "",
+   "claim_b": "2082",
+   "url_b": "",
+   "resolution": "phase3 p3 payload disagrees with existing value; existing kept as preferred pending human review",
+   "resolved_value": "",
+   "reviewed": "p3-merge"
+  },
+  {
+   "field": "public_private",
+   "claim_a": "Public (since Dec 2025 IPO)",
+   "url_a": "",
+   "claim_b": "Public",
+   "url_b": "",
+   "resolution": "phase3 p3 payload disagrees with existing value; existing kept as preferred pending human review",
+   "resolved_value": "",
+   "reviewed": "p3-merge"
+  },
+  {
+   "field": "official_website",
+   "claim_a": "https://meesho.in",
+   "url_a": "https://meesho.in",
+   "claim_b": "https://www.meesho.com/",
+   "url_b": "",
+   "resolution": "phase3 p3 payload disagrees with existing value; existing kept as preferred pending human review",
+   "resolved_value": "",
+   "reviewed": "p3-merge"
+  },
+  {
+   "field": "founders",
+   "claim_a": "Sanjeev Barnwal (co-founder)",
+   "url_a": "https://www.moneycontrol.com/news/business/startup/germ-of-an-idea-meesho-startup-story-iit-startup-vidit-aatrey-sanjeev-barnwal-social-commerce-8338181.html",
+   "claim_b": "Sanjeev Kumar (per Tofler director listing)",
+   "url_b": "https://www.tofler.in/meesho-private-limited/company/U74900KA2015PTC082263",
+   "resolution": "Sanjeev Barnwal = Sanjeev Kumar (same person); Tofler uses full name Sanjeev Kumar",
+   "resolved_value": "Sanjeev Barnwal (Sanjeev Kumar)"
+  },
+  {
+   "field": "funding_rounds",
+   "claim_a": "Series F $570M at $4.9B (Sep 2021)",
+   "url_a": "https://www.vccircle.com/meeshomisses-profit-by-a-whisker-launch-of-logistics-arm-cuts-cost",
+   "claim_b": "Series F $570M at $4.9B (Sep 2021) per enrich file",
+   "url_b": "https://www.vccircle.com/meeshomisses-profit-by-a-whisker-launch-of-logistics-arm-cuts-cost",
+   "resolution": "Consistent across sources",
+   "resolved_value": "No conflict"
+  },
+  {
+   "field": "funding_rounds",
+   "claim_a": "Jan 2025 round $270M at $3.9B",
+   "url_a": "https://m.economictimes.com/tech/technology/annual-report-shows-ipo-bound-meesho-recorded-34-year-on-year-growth-in-orders-in-april-december-2024-period/articleshow/119534627.cms",
+   "claim_b": "$270M at $3.9B per enrich file",
+   "url_b": "https://www.tracxn.com/d/companies/meesho/__h-YKqJF0c073ZI2SvdQHHV1gDZKoXmD-Nlk5gSZPn6c/funding-and-investors",
+   "resolution": "Consistent across sources",
+   "resolved_value": "No conflict"
+  },
+  {
+   "field": "identity",
+   "claim_a": "Shark Tank ₹110L investment (from prompt)",
+   "url_a": "prompt",
+   "claim_b": "No evidence found in any source",
+   "url_b": "N/A",
+   "resolution": "Cannot verify; no source found confirming Shark Tank investment in Meesho",
+   "resolved_value": "UNKNOWN - unverified claim"
+  }
+ ],
+ "events": [
+  {
+   "date": "2025-12-03/05",
+   "headline": "$606M IPO (~Rs 42.5B fresh + OFS), price band Rs 105-111; ~$5.6B post-issue valuation",
+   "source_url": "https://techcrunch.com/2025/11/28/softbank-stays-in-as-meesho-606m-ipo-becomes-indias-first-major-e-commerce-listing",
+   "type": "IPO"
+  },
+  {
+   "date": "2025-12-10",
+   "headline": "Listed; opened Rs 162.5 (+46%), ~$8.7-8.8B market cap; $28B bids",
+   "source_url": "https://techcrunch.com/2025/12/10/meeshos-606m-ipo-pops-as-enthusiasm-for-indias-e-commerce-startups-rises",
+   "type": "listing"
+  },
+  {
+   "type": "funding",
+   "headline": "Seed funding from Y Combinator",
+   "date": "2015",
+   "description": "Initial funding round",
+   "source_url": "https://www.vccircle.com/meeshomisses-profit-by-a-whisker-launch-of-logistics-arm-cuts-cost",
+   "confidence": "MEDIUM"
+  },
+  {
+   "type": "funding",
+   "headline": "Series A: $125M at $700M valuation",
+   "date": "2019",
+   "description": "Led by Sequoia Capital India",
+   "source_url": "https://www.vccircle.com/meeshomisses-profit-by-a-whisker-launch-of-logistics-arm-cuts-cost",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "funding",
+   "headline": "Series B: $300M at $2.1B valuation (unicorn)",
+   "date": "2021-04",
+   "description": "Led by SoftBank Vision Fund 2",
+   "source_url": "https://www.vccircle.com/meeshomisses-profit-by-a-whisker-launch-of-logistics-arm-cuts-cost",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "funding",
+   "headline": "Series F: $570M at $4.9B valuation",
+   "date": "2021-09",
+   "description": "From Fidelity, B Capital, Prosus, SoftBank, Facebook, Footpath Ventures",
+   "source_url": "https://www.vccircle.com/meeshomisses-profit-by-a-whisker-launch-of-logistics-arm-cuts-cost",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "funding",
+   "headline": "Late private round: $270M at $3.9B valuation",
+   "date": "2025-01-27",
+   "description": "From Tiger Global, Think Investments, Mars Growth Capital; majority secondary",
+   "source_url": "https://m.economictimes.com/tech/technology/annual-report-shows-ipo-bound-meesho-recorded-34-year-on-year-growth-in-orders-in-april-december-2024-period/articleshow/119534627.cms",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "ipo",
+   "headline": "IPO filed with SEBI",
+   "date": "2025-10",
+   "description": "Draft Red Herring Prospectus filed; price band ₹105-111",
+   "source_url": "https://techcrunch.com/2025/11/28/softbank-stays-in-as-meesho-606m-ipo-becomes-indias-first-major-e-commerce-listing",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "ipo",
+   "headline": "$606M IPO launched",
+   "date": "2025-12-03",
+   "description": "₹42.50B fresh capital + OFS; post-issue valuation ~₹501B (~$5.6B); 75% QIB, 10% retail, 15% NII; anchor Dec 2",
+   "source_url": "https://techcrunch.com/2025/11/28/softbank-stays-in-as-meesho-606m-ipo-becomes-indias-first-major-e-commerce-listing",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "listing",
+   "headline": "Listed on NSE/BSE",
+   "date": "2025-12-10",
+   "description": "Opened at ₹162.50 (+46% from issue price ₹111); high ₹171.84; market cap ~₹780B (~$8.69B); $28B bids",
+   "source_url": "https://techcrunch.com/2025/12/10/meeshos-606m-ipo-pops-as-enthusiasm-for-indias-e-commerce-startups-rises",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "acquisition",
+   "headline": "Acquired Kirana Club",
+   "date": "2026-07",
+   "description": "All-cash deal worth ₹202 crore; B2B grocery marketplace",
+   "source_url": "https://www.medianama.com/2026/07/223-meesho-q1-fy27-key-takeaways/",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "regulatory",
+   "headline": "CCPA penalty ₹10 lakh",
+   "date": "2025-12-02",
+   "description": "For selling unapproved walkie-talkies",
+   "source_url": "https://www.medianama.com/2025/12/223-ccpa-fines-meesho-rs-10-lakh-for-unapproved-walkie-talkies/",
+   "confidence": "HIGH"
+  }
+ ],
+ "financials": [
+  {
+   "currency": "INR",
+   "fiscal_year": "FY24",
+   "metric": "operating revenue (audited, press-quoted)",
+   "source_title": "Meesho recorded 34% order growth; annual report - ET",
+   "source_url": "https://m.economictimes.com/tech/technology/annual-report-shows-ipo-bound-meesho-recorded-34-year-on-year-growth-in-orders-in-april-december-2024-period/articleshow/119534627.cms",
+   "value": "7615Cr; adjusted loss 53Cr",
+   "value_type": "press-quoted-filing"
+  },
+  {
+   "currency": "INR",
+   "fiscal_year": "H1FY26 (6mo to Sep 30 2025)",
+   "metric": "revenue (prospectus, press-quoted)",
+   "source_title": "Meesho's $606M IPO pops - TechCrunch",
+   "source_url": "https://techcrunch.com/2025/12/10/meeshos-606m-ipo-pops-as-enthusiasm-for-indias-e-commerce-startups-rises",
+   "value": "5578Cr; NMV 19194Cr (+44%)",
+   "value_type": "press-quoted-filing"
+  },
+  {
+   "fiscal_year": "FY21",
+   "metric": "total_revenue",
+   "value": 792.8,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "audited",
+   "basis": "standalone",
+   "source_url": "https://www.tofler.in/meesho-private-limited/company/U74900KA2015PTC082263",
+   "source_title": "Tofler",
+   "source_date": "2026-09-15",
+   "confidence": "HIGH"
+  },
+  {
+   "fiscal_year": "FY21",
+   "metric": "net_profit",
+   "value": -498.7,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "audited",
+   "basis": "standalone",
+   "source_url": "https://www.tofler.in/meesho-private-limited/company/U74900KA2015PTC082263",
+   "source_title": "Tofler",
+   "source_date": "2026-09-15",
+   "confidence": "HIGH"
+  },
+  {
+   "fiscal_year": "FY22",
+   "metric": "total_revenue",
+   "value": 3232.3,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "audited",
+   "basis": "standalone",
+   "source_url": "https://www.tofler.in/meesho-private-limited/company/U74900KA2015PTC082263",
+   "source_title": "Tofler",
+   "source_date": "2026-09-15",
+   "confidence": "HIGH"
+  },
+  {
+   "fiscal_year": "FY22",
+   "metric": "net_profit",
+   "value": -3247.8,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "audited",
+   "basis": "standalone",
+   "source_url": "https://www.tofler.in/meesho-private-limited/company/U74900KA2015PTC082263",
+   "source_title": "Tofler",
+   "source_date": "2026-09-15",
+   "confidence": "HIGH"
+  },
+  {
+   "fiscal_year": "FY23",
+   "metric": "total_revenue",
+   "value": 5734.5,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "audited",
+   "basis": "standalone",
+   "source_url": "https://www.tofler.in/meesho-private-limited/company/U74900KA2015PTC082263",
+   "source_title": "Tofler",
+   "source_date": "2026-09-15",
+   "confidence": "HIGH"
+  },
+  {
+   "fiscal_year": "FY23",
+   "metric": "net_profit",
+   "value": -1675.0,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "audited",
+   "basis": "standalone",
+   "source_url": "https://www.tofler.in/meesho-private-limited/company/U74900KA2015PTC082263",
+   "source_title": "Tofler",
+   "source_date": "2026-09-15",
+   "confidence": "HIGH"
+  },
+  {
+   "fiscal_year": "FY24",
+   "metric": "total_revenue",
+   "value": 7614.9,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "audited",
+   "basis": "standalone",
+   "source_url": "https://www.tofler.in/meesho-private-limited/company/U74900KA2015PTC082263",
+   "source_title": "Tofler",
+   "source_date": "2026-09-15",
+   "confidence": "HIGH"
+  },
+  {
+   "fiscal_year": "FY24",
+   "metric": "net_profit",
+   "value": -305.0,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "audited",
+   "basis": "standalone",
+   "source_url": "https://www.tofler.in/meesho-private-limited/company/U74900KA2015PTC082263",
+   "source_title": "Tofler",
+   "source_date": "2026-09-15",
+   "confidence": "HIGH"
+  },
+  {
+   "fiscal_year": "FY24",
+   "metric": "adjusted_loss",
+   "value": 53,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "press-quoted-filing",
+   "basis": "standalone",
+   "notes": "Excluding ESOP expenses, asset impairments, one-off items",
+   "source_url": "https://www.vccircle.com/meeshomisses-profit-by-a-whisker-launch-of-logistics-arm-cuts-cost",
+   "source_title": "VCCircle",
+   "source_date": "2024-10-30",
+   "confidence": "HIGH"
+  },
+  {
+   "fiscal_year": "FY25",
+   "metric": "total_revenue",
+   "value": 9387.5,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "audited",
+   "basis": "standalone",
+   "source_url": "https://www.tofler.in/meesho-private-limited/company/U74900KA2015PTC082263",
+   "source_title": "Tofler",
+   "source_date": "2026-09-15",
+   "confidence": "HIGH"
+  },
+  {
+   "fiscal_year": "FY25",
+   "metric": "net_profit",
+   "value": -3883.4,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "audited",
+   "basis": "standalone",
+   "source_url": "https://www.tofler.in/meesho-private-limited/company/U74900KA2015PTC082263",
+   "source_title": "Tofler",
+   "source_date": "2026-09-15",
+   "confidence": "HIGH"
+  },
+  {
+   "fiscal_year": "FY25",
+   "metric": "ebitda",
+   "value": -555.2,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "audited",
+   "basis": "standalone",
+   "source_url": "https://www.tofler.in/meesho-private-limited/company/U74900KA2015PTC082263",
+   "source_title": "Tofler",
+   "source_date": "2026-09-15",
+   "confidence": "HIGH"
+  },
+  {
+   "fiscal_year": "H1FY26",
+   "metric": "revenue_from_operations",
+   "value": 5578,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "DRHP",
+   "basis": "standalone",
+   "notes": "Six months ended Sep 30, 2025; per prospectus",
+   "source_url": "https://techcrunch.com/2025/11/28/softbank-stays-in-as-meesho-606m-ipo-becomes-indias-first-major-e-commerce-listing",
+   "source_title": "TechCrunch",
+   "source_date": "2025-11-28",
+   "confidence": "HIGH"
+  },
+  {
+   "fiscal_year": "H1FY26",
+   "metric": "net_merchandise_value",
+   "value": 19194,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "DRHP",
+   "basis": "standalone",
+   "notes": "NMV +44% YoY",
+   "source_url": "https://techcrunch.com/2025/11/28/softbank-stays-in-as-meesho-606m-ipo-becomes-indias-first-major-e-commerce-listing",
+   "source_title": "TechCrunch",
+   "source_date": "2025-11-28",
+   "confidence": "HIGH"
+  },
+  {
+   "fiscal_year": "H1FY26",
+   "metric": "loss_before_tax",
+   "value": 433,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "DRHP",
+   "basis": "standalone",
+   "notes": "Restated loss before tax for Sep 2025 half-year",
+   "source_url": "https://techcrunch.com/2025/11/28/softbank-stays-in-as-meesho-606m-ipo-becomes-indias-first-major-e-commerce-listing",
+   "source_title": "TechCrunch",
+   "source_date": "2025-11-28",
+   "confidence": "HIGH"
+  },
+  {
+   "fiscal_year": "FY24",
+   "metric": "orders",
+   "value": 843,
+   "unit": "million",
+   "currency": "INR",
+   "value_type": "press-quoted-filing",
+   "basis": "standalone",
+   "notes": "36% YoY growth",
+   "source_url": "https://www.vccircle.com/meeshomisses-profit-by-a-whisker-launch-of-logistics-arm-cuts-cost",
+   "source_title": "VCCircle",
+   "source_date": "2024-10-30",
+   "confidence": "HIGH"
+  },
+  {
+   "fiscal_year": "FY24",
+   "metric": "operating_revenue",
+   "value": 7615,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "press-quoted-filing",
+   "basis": "standalone",
+   "notes": "33% YoY growth",
+   "source_url": "https://m.economictimes.com/tech/technology/annual-report-shows-ipo-bound-meesho-recorded-34-year-on-year-growth-in-orders-in-april-december-2024-period/articleshow/119534627.cms",
+   "source_title": "Economic Times",
+   "source_date": "2025-03-26",
+   "confidence": "HIGH"
+  },
+  {
+   "fiscal_year": "FY24",
+   "metric": "free_cash_flow",
+   "value": 197,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "press-quoted-filing",
+   "basis": "standalone",
+   "source_url": "https://m.economictimes.com/tech/technology/annual-report-shows-ipo-bound-meesho-recorded-34-year-on-year-growth-in-orders-in-april-december-2024-period/articleshow/119534627.cms",
+   "source_title": "Economic Times",
+   "source_date": "2025-03-26",
+   "confidence": "HIGH"
+  }
+ ],
+ "founders": [
+  {
+   "name": "Vidit Aatrey",
+   "role": "Co-founder & CEO (Chairman/MD, promoter per NSE filing)",
+   "source_url": "https://nsearchives.nseindia.com/corporate/MEESHO_23072026165559_MLBMOutcome23072026.pdf",
+   "still_active": true,
+   "type": "co-founder"
+  },
+  {
+   "name": "Sanjeev Barnwal (Sanjeev Kumar)",
+   "role": "Co-founder & CTO",
+   "source_url": "https://platform.tracxn.com/a/d/company/56309520e4b03f67066ed387/meesho?utm_source=parallel&utm_medium=ai#a:about",
+   "still_active": true,
+   "type": "co-founder"
+  },
+  {
+   "name": "Videt Aatrey",
+   "role": "Co-founder & CEO (Chairman/MD)",
+   "background": "IIT Delhi (Electrical Engineering), JEE rank 182; from UP sugarcane farming family; worked at ITC Chennai then InMobi before founding Meesho",
+   "education": "IIT Delhi, B.Tech Electrical Engineering",
+   "still_active": true,
+   "source_url": "https://www.business-standard.com/article/specials/mistakes-make-a-meesho-what-founder-vidit-aatrey-learned-from-failed-ideas-122070700691_1.html",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Sanjeev Barnwal",
+   "role": "Co-founder & CTO",
+   "background": "IIT Delhi (Electrical Engineering); worked at Sony Japan before co-founding Meesho; IIT hostel mate of Vidit Aatrey",
+   "education": "IIT Delhi, B.Tech Electrical Engineering",
+   "still_active": true,
+   "source_url": "https://www.moneycontrol.com/news/business/startup/germ-of-an-idea-meesho-startup-story-iit-startup-vidit-aatrey-sanjeev-barnwal-social-commerce-8338181.html",
+   "confidence": "HIGH"
+  }
+ ],
+ "funding_rounds": [
+  {
+   "amount": "570M",
+   "announced_date": "2021-09",
+   "currency": "USD",
+   "lead_investors": [
+    "Fidelity, B Capital, Prosus, SoftBank Vision Fund 2"
+   ],
+   "round_type": "Series F",
+   "source_url": "https://www.vccircle.com/meeshomisses-profit-by-a-whisker-launch-of-logistics-arm-cuts-cost",
+   "valuation": "$4.9B"
+  },
+  {
+   "amount": "270M",
+   "announced_date": "2025-01-27",
+   "currency": "USD",
+   "lead_investors": [
+    "Tiger Global, Think Investments, Mars Growth Capital"
+   ],
+   "round_type": "Series F (late private)",
+   "source_url": "http://tracxn.com/d/companies/meesho/__h-YKqJF0c073ZI2SvdQHHV1gDZKoXmD-Nlk5gSZPn6c/funding-and-investors",
+   "valuation": "$3.9B"
+  },
+  {
+   "amount": "606M",
+   "announced_date": "2025-12-03",
+   "currency": "USD",
+   "lead_investors": [
+    "public IPO; anchor $270M"
+   ],
+   "round_type": "IPO",
+   "source_url": "https://techcrunch.com/2025/12/10/meeshos-606m-ipo-pops-as-enthusiasm-for-indias-e-commerce-startups-rises",
+   "valuation": "~$5.6B issue; ~$8.8B debut"
+  },
+  {
+   "round_type": "Seed",
+   "announced_date": "2015",
+   "amount": 0.3,
+   "currency": "USD",
+   "valuation": 0.07,
+   "valuation_currency": "USD",
+   "valuation_type": "post-money",
+   "lead_investors": [
+    "Y Combinator"
+   ],
+   "all_investors": [
+    "Y Combinator"
+   ],
+   "purpose": "Initial funding",
+   "source_url": "https://www.vccircle.com/meeshomisses-profit-by-a-whisker-launch-of-logistics-arm-cuts-cost",
+   "source_title": "VCCircle",
+   "source_date": "2024-10-30",
+   "confidence": "MEDIUM"
+  },
+  {
+   "round_type": "Series A",
+   "announced_date": "2019",
+   "amount": 125,
+   "currency": "USD",
+   "valuation": 700,
+   "valuation_currency": "USD",
+   "valuation_type": "post-money",
+   "lead_investors": [
+    "Sequoia Capital India"
+   ],
+   "all_investors": [
+    "Sequoia Capital India"
+   ],
+   "purpose": "Growth",
+   "source_url": "https://www.vccircle.com/meeshomisses-profit-by-a-whisker-launch-of-logistics-arm-cuts-cost",
+   "source_title": "VCCircle",
+   "source_date": "2024-10-30",
+   "confidence": "HIGH"
+  },
+  {
+   "round_type": "Series B",
+   "announced_date": "2021-04",
+   "amount": 300,
+   "currency": "USD",
+   "valuation": 2100,
+   "valuation_currency": "USD",
+   "valuation_type": "post-money",
+   "lead_investors": [
+    "SoftBank Vision Fund 2"
+   ],
+   "all_investors": [
+    "SoftBank Vision Fund 2"
+   ],
+   "purpose": "Unicorn round",
+   "source_url": "https://www.vccircle.com/meeshomisses-profit-by-a-whisker-launch-of-logistics-arm-cuts-cost",
+   "source_title": "VCCircle",
+   "source_date": "2024-10-30",
+   "confidence": "HIGH"
+  },
+  {
+   "round_type": "Series F",
+   "announced_date": "2021-09",
+   "amount": 570,
+   "currency": "USD",
+   "valuation": 4900,
+   "valuation_currency": "USD",
+   "valuation_type": "post-money",
+   "lead_investors": [
+    "Fidelity",
+    "B Capital",
+    "Prosus",
+    "SoftBank Vision Fund 2"
+   ],
+   "all_investors": [
+    "Fidelity",
+    "B Capital",
+    "Prosus",
+    "SoftBank Vision Fund 2",
+    "Facebook",
+    "Footpath Ventures"
+   ],
+   "purpose": "Late-stage growth",
+   "source_url": "https://www.vccircle.com/meeshomisses-profit-by-a-whisker-launch-of-logistics-arm-cuts-cost",
+   "source_title": "VCCircle",
+   "source_date": "2024-10-30",
+   "confidence": "HIGH"
+  },
+  {
+   "round_type": "Series F (late private)",
+   "announced_date": "2025-01-27",
+   "amount": 270,
+   "currency": "USD",
+   "valuation": 3900,
+   "valuation_currency": "USD",
+   "valuation_type": "post-money",
+   "lead_investors": [
+    "Tiger Global",
+    "Think Investments",
+    "Mars Growth Capital"
+   ],
+   "all_investors": [
+    "Tiger Global",
+    "Think Investments",
+    "Mars Growth Capital"
+   ],
+   "purpose": "Pre-IPO round; majority secondary",
+   "source_url": "https://m.economictimes.com/tech/technology/annual-report-shows-ipo-bound-meesho-recorded-34-year-on-year-growth-in-orders-in-april-december-2024-period/articleshow/119534627.cms",
+   "source_title": "Economic Times",
+   "source_date": "2025-03-26",
+   "confidence": "HIGH"
+  },
+  {
+   "round_type": "IPO",
+   "announced_date": "2025-11-28",
+   "amount": 606,
+   "currency": "USD",
+   "valuation": 5600,
+   "valuation_currency": "USD",
+   "valuation_type": "post-issue",
+   "lead_investors": [
+    "public"
+   ],
+   "all_investors": [
+    "public"
+   ],
+   "purpose": "Fresh capital + OFS",
+   "source_url": "https://techcrunch.com/2025/11/28/softbank-stays-in-as-meesho-606m-ipo-becomes-indias-first-major-e-commerce-listing",
+   "source_title": "TechCrunch",
+   "source_date": "2025-11-28",
+   "confidence": "HIGH"
+  }
+ ],
+ "gaps": [
+  "CIN not captured",
+  "FY25 full-year audited revenue not captured (H1 only)",
+  "DPIIT status unverified",
+  "Fashnear exact incorporation day-month",
+  "FY25/FY26 filing financials",
+  "round dates/valuations beyond enrich file"
+ ],
+ "investor_links": [
+  {
+   "investor": "SoftBank, Prosus, Fidelity (no OFS sale at IPO)",
+   "lead": false,
+   "rounds": [
+    "late private; IPO holders"
+   ],
+   "source_url": "https://techcrunch.com/2025/11/28/softbank-stays-in-as-meesho-606m-ipo-becomes-indias-first-major-e-commerce-listing"
+  },
+  {
+   "investor": "Elevation Capital, Peak XV Partners, Y Combinator (sold partial in IPO)",
+   "lead": false,
+   "rounds": [
+    "early; IPO OFS sellers"
+   ],
+   "source_url": "https://techcrunch.com/2025/12/10/meeshos-606m-ipo-pops-as-enthusiasm-for-indias-e-commerce-startups-rises"
+  },
+  {
+   "investor": "Tiger Global, Think Investments, Mars Growth Capital",
+   "lead": true,
+   "rounds": [
+    "Jan 2025 round"
+   ],
+   "source_url": "http://tracxn.com/d/companies/meesho/__h-YKqJF0c073ZI2SvdQHHV1gDZKoXmD-Nlk5gSZPn6c/funding-and-investors"
+  },
+  {
+   "investor": "SoftBank Vision Fund 2",
+   "investor_type": "VC",
+   "first_seen": "2021-04",
+   "rounds": [
+    "Series B",
+    "Series F"
+   ],
+   "lead": true,
+   "amount": 300,
+   "source_url": "https://www.vccircle.com/meeshomisses-profit-by-a-whisker-launch-of-logistics-arm-cuts-cost",
+   "confidence": "HIGH"
+  },
+  {
+   "investor": "Prosus",
+   "investor_type": "VC/PE",
+   "first_seen": "2021-09",
+   "rounds": [
+    "Series F"
+   ],
+   "lead": false,
+   "source_url": "https://techcrunch.com/2025/11/28/softbank-stays-in-as-meesho-606m-ipo-becomes-indias-first-major-e-commerce-listing",
+   "confidence": "HIGH"
+  },
+  {
+   "investor": "Fidelity",
+   "investor_type": "Asset manager",
+   "first_seen": "2021-09",
+   "rounds": [
+    "Series F"
+   ],
+   "lead": false,
+   "source_url": "https://www.vccircle.com/meeshomisses-profit-by-a-whisker-launch-of-logistics-arm-cuts-cost",
+   "confidence": "HIGH"
+  },
+  {
+   "investor": "Peak XV Partners (formerly Sequoia India)",
+   "investor_type": "VC",
+   "first_seen": "2018",
+   "rounds": [
+    "Series A",
+    "early"
+   ],
+   "lead": false,
+   "amount": 125,
+   "source_url": "https://techcrunch.com/2025/11/28/softbank-stays-in-as-meesho-606m-ipo-becomes-indias-first-major-e-commerce-listing",
+   "confidence": "HIGH"
+  },
+  {
+   "investor": "Y Combinator",
+   "investor_type": "Accelerator",
+   "first_seen": "2015",
+   "rounds": [
+    "Seed"
+   ],
+   "lead": false,
+   "source_url": "https://www.vccircle.com/meeshomisses-profit-by-a-whisker-launch-of-logistics-arm-cuts-cost",
+   "confidence": "MEDIUM"
+  },
+  {
+   "investor": "Tiger Global",
+   "investor_type": "Hedge fund",
+   "first_seen": "2025-01",
+   "rounds": [
+    "Series F late"
+   ],
+   "lead": true,
+   "amount": 270,
+   "source_url": "https://m.economictimes.com/tech/technology/annual-report-shows-ipo-bound-meesho-recorded-34-year-on-year-growth-in-orders-in-april-december-2024-period/articleshow/119534627.cms",
+   "confidence": "HIGH"
+  },
+  {
+   "investor": "Think Investments",
+   "investor_type": "Investment firm",
+   "first_seen": "2025-01",
+   "rounds": [
+    "Series F late"
+   ],
+   "lead": false,
+   "source_url": "https://m.economictimes.com/tech/technology/annual-report-shows-ipo-bound-meesho-recorded-34-year-on-year-growth-in-orders-in-april-december-2024-period/articleshow/119534627.cms",
+   "confidence": "HIGH"
+  },
+  {
+   "investor": "Mars Growth Capital",
+   "investor_type": "Investment firm",
+   "first_seen": "2025-01",
+   "rounds": [
+    "Series F late"
+   ],
+   "lead": false,
+   "source_url": "https://m.economictimes.com/tech/technology/annual-report-shows-ipo-bound-meesho-recorded-34-year-on-year-growth-in-orders-in-april-december-2024-period/articleshow/119534627.cms",
+   "confidence": "HIGH"
+  },
+  {
+   "investor": "B Capital",
+   "investor_type": "VC",
+   "first_seen": "2021-09",
+   "rounds": [
+    "Series F"
+   ],
+   "lead": false,
+   "source_url": "https://www.vccircle.com/meeshomisses-profit-by-a-whisker-launch-of-logistics-arm-cuts-cost",
+   "confidence": "HIGH"
+  },
+  {
+   "investor": "Facebook",
+   "investor_type": "Corporate",
+   "first_seen": "2021-09",
+   "rounds": [
+    "Series F"
+   ],
+   "lead": false,
+   "source_url": "https://www.vccircle.com/meeshomisses-profit-by-a-whisker-launch-of-logistics-arm-cuts-cost",
+   "confidence": "HIGH"
+  },
+  {
+   "investor": "Elevation Capital",
+   "investor_type": "VC",
+   "first_seen": "early",
+   "rounds": [
+    "early"
+   ],
+   "lead": false,
+   "source_url": "https://techcrunch.com/2025/12/10/meeshos-606m-ipo-pops-as-enthusiasm-for-indias-e-commerce-startups-rises",
+   "confidence": "HIGH"
+  },
+  {
+   "investor": "Venture Highway",
+   "investor_type": "VC",
+   "first_seen": "early",
+   "rounds": [
+    "early"
+   ],
+   "lead": false,
+   "source_url": "https://www.vccircle.com/meeshomisses-profit-by-a-whisker-launch-of-logistics-arm-cuts-cost",
+   "confidence": "HIGH"
+  },
+  {
+   "investor": "WestBridge Capital",
+   "investor_type": "PE",
+   "first_seen": "2023-10",
+   "rounds": [
+    "secondary"
+   ],
+   "lead": false,
+   "source_url": "https://www.vccircle.com/meeshomisses-profit-by-a-whisker-launch-of-logistics-arm-cuts-cost",
+   "confidence": "HIGH"
+  }
+ ],
+ "research_log": [
+  {
+   "found": "IPO/listing, FY24 + H1FY26 figures, founders, late rounds",
+   "next_action": "None at LITE scope",
+   "query": "Meesho IPO/funding/founders/revenue",
+   "unresolved": "CIN, FY25 full year"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "Fashnear Technologies Private Limited Meesho CIN incorporated",
+   "found": "operating-company CIN U74900KA2015PTC082263 from Meesho's own AGM notice; founded 2015",
+   "unresolved": "exact incorporation day-month not verified — year 2015 only"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "Meesho Technologies Private Limited CIN incorporation date",
+   "found": "flip entity incorporated 22 Mar 2024 (Tofler/FalconeBiz)",
+   "unresolved": ""
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Meesho founders Vidit Aatrey Sanjeev Barnwal background IIT",
+   "status": "done",
+   "found": "Confirmed IIT Delhi alumni; Vidit from UP (JEE rank 182), worked at ITC/InMobi; Sanjeev worked at Sony Japan",
+   "next_action": "None",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Meesho financials FY23-FY25 DRHP",
+   "status": "done",
+   "found": "Tofler provides FY21-FY25 standalone financials; TechCrunch provides H1FY26 DRHP figures",
+   "next_action": "None",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Meesho IPO details price band listing",
+   "status": "done",
+   "found": "Complete IPO data from TechCrunch: ₹105-111 band, $606M raise, Dec 10 listing, +46% pop",
+   "next_action": "None",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Meesho funding rounds full ladder",
+   "status": "done",
+   "found": "Complete ladder from VCCircle: Seed→A→B→F→late F→IPO",
+   "next_action": "None",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Meesho legal regulatory CCPA",
+   "status": "done",
+   "found": "CCPA ₹10L fine Dec 2025 for walkie-talkies; herbicide probe May 2026",
+   "next_action": "None",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Meesho products traction Q1 FY27",
+   "status": "done",
+   "found": "Valmo, Meesho Mall, Content Commerce, Kirana Club acquisition; Q1 FY27 metrics",
+   "next_action": "None",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Meesho Shark Tank ₹110L investment",
+   "status": "logged-no-result",
+   "found": "No evidence found in any source; claim appears unverified",
+   "next_action": "Mark as UNKNOWN in conflicts",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Meesho founders Vidit Aatrey Sanjeev Barnwal background IIT",
+   "status": "done",
+   "found": "Confirmed IIT Delhi alumni; Vidit from UP (JEE rank 182), worked at ITC/InMobi; Sanjeev worked at Sony Japan",
+   "next_action": "None",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Meesho financials FY23-FY25 DRHP",
+   "status": "done",
+   "found": "Tofler provides FY21-FY25 standalone financials; TechCrunch provides H1FY26 DRHP figures",
+   "next_action": "None",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Meesho IPO details price band listing",
+   "status": "done",
+   "found": "Complete IPO data from TechCrunch: ₹105-111 band, $606M raise, Dec 10 listing, +46% pop",
+   "next_action": "None",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Meesho funding rounds full ladder",
+   "status": "done",
+   "found": "Complete ladder from VCCircle: Seed→A→B→F→late F→IPO",
+   "next_action": "None",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Meesho legal regulatory CCPA",
+   "status": "done",
+   "found": "CCPA ₹10L fine Dec 2025 for walkie-talkies; herbicide probe May 2026",
+   "next_action": "None",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Meesho products traction Q1 FY27",
+   "status": "done",
+   "found": "Valmo, Meesho Mall, Content Commerce, Kirana Club acquisition; Q1 FY27 metrics",
+   "next_action": "None",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Meesho Shark Tank ₹110L investment",
+   "status": "logged-no-result",
+   "found": "No evidence found in any source; claim appears unverified",
+   "next_action": "Mark as UNKNOWN in conflicts",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Meesho founders Vidit Aatrey Sanjeev Barnwal background IIT",
+   "status": "done",
+   "found": "Confirmed IIT Delhi alumni; Vidit from UP (JEE rank 182), worked at ITC/InMobi; Sanjeev worked at Sony Japan",
+   "next_action": "None",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Meesho financials FY23-FY25 DRHP",
+   "status": "done",
+   "found": "Tofler provides FY21-FY25 standalone financials; TechCrunch provides H1FY26 DRHP figures",
+   "next_action": "None",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Meesho IPO details price band listing",
+   "status": "done",
+   "found": "Complete IPO data from TechCrunch: ₹105-111 band, $606M raise, Dec 10 listing, +46% pop",
+   "next_action": "None",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Meesho funding rounds full ladder",
+   "status": "done",
+   "found": "Complete ladder from VCCircle: Seed→A→B→F→late F→IPO",
+   "next_action": "None",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Meesho legal regulatory CCPA",
+   "status": "done",
+   "found": "CCPA ₹10L fine Dec 2025 for walkie-talkies; herbicide probe May 2026",
+   "next_action": "None",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Meesho products traction Q1 FY27",
+   "status": "done",
+   "found": "Valmo, Meesho Mall, Content Commerce, Kirana Club acquisition; Q1 FY27 metrics",
+   "next_action": "None",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Meesho Shark Tank ₹110L investment",
+   "status": "logged-no-result",
+   "found": "No evidence found in any source; claim appears unverified",
+   "next_action": "Mark as UNKNOWN in conflicts",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Meesho founders Vidit Aatrey Sanjeev Barnwal background IIT",
+   "status": "done",
+   "found": "Confirmed IIT Delhi alumni; Vidit from UP (JEE rank 182), worked at ITC/InMobi; Sanjeev worked at Sony Japan",
+   "next_action": "None",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Meesho financials FY23-FY25 DRHP",
+   "status": "done",
+   "found": "Tofler provides FY21-FY25 standalone financials; TechCrunch provides H1FY26 DRHP figures",
+   "next_action": "None",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Meesho IPO details price band listing",
+   "status": "done",
+   "found": "Complete IPO data from TechCrunch: ₹105-111 band, $606M raise, Dec 10 listing, +46% pop",
+   "next_action": "None",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Meesho funding rounds full ladder",
+   "status": "done",
+   "found": "Complete ladder from VCCircle: Seed→A→B→F→late F→IPO",
+   "next_action": "None",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Meesho legal regulatory CCPA",
+   "status": "done",
+   "found": "CCPA ₹10L fine Dec 2025 for walkie-talkies; herbicide probe May 2026",
+   "next_action": "None",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Meesho products traction Q1 FY27",
+   "status": "done",
+   "found": "Valmo, Meesho Mall, Content Commerce, Kirana Club acquisition; Q1 FY27 metrics",
+   "next_action": "None",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Meesho Shark Tank ₹110L investment",
+   "status": "logged-no-result",
+   "found": "No evidence found in any source; claim appears unverified",
+   "next_action": "Mark as UNKNOWN in conflicts",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Meesho founders Vidit Aatrey Sanjeev Barnwal background IIT",
+   "status": "done",
+   "found": "Confirmed IIT Delhi alumni; Vidit from UP (JEE rank 182), worked at ITC/InMobi; Sanjeev worked at Sony Japan",
+   "next_action": "None",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Meesho financials FY23-FY25 DRHP",
+   "status": "done",
+   "found": "Tofler provides FY21-FY25 standalone financials; TechCrunch provides H1FY26 DRHP figures",
+   "next_action": "None",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Meesho IPO details price band listing",
+   "status": "done",
+   "found": "Complete IPO data from TechCrunch: ₹105-111 band, $606M raise, Dec 10 listing, +46% pop",
+   "next_action": "None",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Meesho funding rounds full ladder",
+   "status": "done",
+   "found": "Complete ladder from VCCircle: Seed→A→B→F→late F→IPO",
+   "next_action": "None",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Meesho legal regulatory CCPA",
+   "status": "done",
+   "found": "CCPA ₹10L fine Dec 2025 for walkie-talkies; herbicide probe May 2026",
+   "next_action": "None",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Meesho products traction Q1 FY27",
+   "status": "done",
+   "found": "Valmo, Meesho Mall, Content Commerce, Kirana Club acquisition; Q1 FY27 metrics",
+   "next_action": "None",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Meesho Shark Tank ₹110L investment",
+   "status": "logged-no-result",
+   "found": "No evidence found in any source; claim appears unverified",
+   "next_action": "Mark as UNKNOWN in conflicts",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Meesho founders Vidit Aatrey Sanjeev Barnwal background IIT",
+   "status": "done",
+   "found": "Confirmed IIT Delhi alumni; Vidit from UP (JEE rank 182), worked at ITC/InMobi; Sanjeev worked at Sony Japan",
+   "next_action": "None",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Meesho financials FY23-FY25 DRHP",
+   "status": "done",
+   "found": "Tofler provides FY21-FY25 standalone financials; TechCrunch provides H1FY26 DRHP figures",
+   "next_action": "None",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Meesho IPO details price band listing",
+   "status": "done",
+   "found": "Complete IPO data from TechCrunch: ₹105-111 band, $606M raise, Dec 10 listing, +46% pop",
+   "next_action": "None",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Meesho funding rounds full ladder",
+   "status": "done",
+   "found": "Complete ladder from VCCircle: Seed→A→B→F→late F→IPO",
+   "next_action": "None",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Meesho legal regulatory CCPA",
+   "status": "done",
+   "found": "CCPA ₹10L fine Dec 2025 for walkie-talkies; herbicide probe May 2026",
+   "next_action": "None",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Meesho products traction Q1 FY27",
+   "status": "done",
+   "found": "Valmo, Meesho Mall, Content Commerce, Kirana Club acquisition; Q1 FY27 metrics",
+   "next_action": "None",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Meesho Shark Tank ₹110L investment",
+   "status": "logged-no-result",
+   "found": "No evidence found in any source; claim appears unverified",
+   "next_action": "Mark as UNKNOWN in conflicts",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Meesho founders Vidit Aatrey Sanjeev Barnwal background IIT",
+   "status": "done",
+   "found": "Confirmed IIT Delhi alumni; Vidit from UP (JEE rank 182), worked at ITC/InMobi; Sanjeev worked at Sony Japan",
+   "next_action": "None",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Meesho financials FY23-FY25 DRHP",
+   "status": "done",
+   "found": "Tofler provides FY21-FY25 standalone financials; TechCrunch provides H1FY26 DRHP figures",
+   "next_action": "None",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Meesho IPO details price band listing",
+   "status": "done",
+   "found": "Complete IPO data from TechCrunch: ₹105-111 band, $606M raise, Dec 10 listing, +46% pop",
+   "next_action": "None",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Meesho funding rounds full ladder",
+   "status": "done",
+   "found": "Complete ladder from VCCircle: Seed→A→B→F→late F→IPO",
+   "next_action": "None",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Meesho legal regulatory CCPA",
+   "status": "done",
+   "found": "CCPA ₹10L fine Dec 2025 for walkie-talkies; herbicide probe May 2026",
+   "next_action": "None",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Meesho products traction Q1 FY27",
+   "status": "done",
+   "found": "Valmo, Meesho Mall, Content Commerce, Kirana Club acquisition; Q1 FY27 metrics",
+   "next_action": "None",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Meesho Shark Tank ₹110L investment",
+   "status": "logged-no-result",
+   "found": "No evidence found in any source; claim appears unverified",
+   "next_action": "Mark as UNKNOWN in conflicts",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Meesho founders Vidit Aatrey Sanjeev Barnwal background IIT",
+   "status": "done",
+   "found": "Confirmed IIT Delhi alumni; Vidit from UP (JEE rank 182), worked at ITC/InMobi; Sanjeev worked at Sony Japan",
+   "next_action": "None",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Meesho financials FY23-FY25 DRHP",
+   "status": "done",
+   "found": "Tofler provides FY21-FY25 standalone financials; TechCrunch provides H1FY26 DRHP figures",
+   "next_action": "None",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Meesho IPO details price band listing",
+   "status": "done",
+   "found": "Complete IPO data from TechCrunch: ₹105-111 band, $606M raise, Dec 10 listing, +46% pop",
+   "next_action": "None",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Meesho funding rounds full ladder",
+   "status": "done",
+   "found": "Complete ladder from VCCircle: Seed→A→B→F→late F→IPO",
+   "next_action": "None",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Meesho legal regulatory CCPA",
+   "status": "done",
+   "found": "CCPA ₹10L fine Dec 2025 for walkie-talkies; herbicide probe May 2026",
+   "next_action": "None",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Meesho products traction Q1 FY27",
+   "status": "done",
+   "found": "Valmo, Meesho Mall, Content Commerce, Kirana Club acquisition; Q1 FY27 metrics",
+   "next_action": "None",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Meesho Shark Tank ₹110L investment",
+   "status": "logged-no-result",
+   "found": "No evidence found in any source; claim appears unverified",
+   "next_action": "Mark as UNKNOWN in conflicts",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Meesho founders Vidit Aatrey Sanjeev Barnwal background IIT",
+   "status": "done",
+   "found": "Confirmed IIT Delhi alumni; Vidit from UP (JEE rank 182), worked at ITC/InMobi; Sanjeev worked at Sony Japan",
+   "next_action": "None",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Meesho financials FY23-FY25 DRHP",
+   "status": "done",
+   "found": "Tofler provides FY21-FY25 standalone financials; TechCrunch provides H1FY26 DRHP figures",
+   "next_action": "None",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Meesho IPO details price band listing",
+   "status": "done",
+   "found": "Complete IPO data from TechCrunch: ₹105-111 band, $606M raise, Dec 10 listing, +46% pop",
+   "next_action": "None",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Meesho funding rounds full ladder",
+   "status": "done",
+   "found": "Complete ladder from VCCircle: Seed→A→B→F→late F→IPO",
+   "next_action": "None",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Meesho legal regulatory CCPA",
+   "status": "done",
+   "found": "CCPA ₹10L fine Dec 2025 for walkie-talkies; herbicide probe May 2026",
+   "next_action": "None",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Meesho products traction Q1 FY27",
+   "status": "done",
+   "found": "Valmo, Meesho Mall, Content Commerce, Kirana Club acquisition; Q1 FY27 metrics",
+   "next_action": "None",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Meesho Shark Tank ₹110L investment",
+   "status": "logged-no-result",
+   "found": "No evidence found in any source; claim appears unverified",
+   "next_action": "Mark as UNKNOWN in conflicts",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Meesho founders Vidit Aatrey Sanjeev Barnwal background IIT",
+   "status": "done",
+   "found": "Confirmed IIT Delhi alumni; Vidit from UP (JEE rank 182), worked at ITC/InMobi; Sanjeev worked at Sony Japan",
+   "next_action": "None",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Meesho financials FY23-FY25 DRHP",
+   "status": "done",
+   "found": "Tofler provides FY21-FY25 standalone financials; TechCrunch provides H1FY26 DRHP figures",
+   "next_action": "None",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Meesho IPO details price band listing",
+   "status": "done",
+   "found": "Complete IPO data from TechCrunch: ₹105-111 band, $606M raise, Dec 10 listing, +46% pop",
+   "next_action": "None",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Meesho funding rounds full ladder",
+   "status": "done",
+   "found": "Complete ladder from VCCircle: Seed→A→B→F→late F→IPO",
+   "next_action": "None",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Meesho legal regulatory CCPA",
+   "status": "done",
+   "found": "CCPA ₹10L fine Dec 2025 for walkie-talkies; herbicide probe May 2026",
+   "next_action": "None",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Meesho products traction Q1 FY27",
+   "status": "done",
+   "found": "Valmo, Meesho Mall, Content Commerce, Kirana Club acquisition; Q1 FY27 metrics",
+   "next_action": "None",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Meesho Shark Tank ₹110L investment",
+   "status": "logged-no-result",
+   "found": "No evidence found in any source; claim appears unverified",
+   "next_action": "Mark as UNKNOWN in conflicts",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Meesho founders Vidit Aatrey Sanjeev Barnwal background IIT",
+   "status": "done",
+   "found": "Confirmed IIT Delhi alumni; Vidit from UP (JEE rank 182), worked at ITC/InMobi; Sanjeev worked at Sony Japan",
+   "next_action": "None",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Meesho financials FY23-FY25 DRHP",
+   "status": "done",
+   "found": "Tofler provides FY21-FY25 standalone financials; TechCrunch provides H1FY26 DRHP figures",
+   "next_action": "None",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Meesho IPO details price band listing",
+   "status": "done",
+   "found": "Complete IPO data from TechCrunch: ₹105-111 band, $606M raise, Dec 10 listing, +46% pop",
+   "next_action": "None",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Meesho funding rounds full ladder",
+   "status": "done",
+   "found": "Complete ladder from VCCircle: Seed→A→B→F→late F→IPO",
+   "next_action": "None",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Meesho legal regulatory CCPA",
+   "status": "done",
+   "found": "CCPA ₹10L fine Dec 2025 for walkie-talkies; herbicide probe May 2026",
+   "next_action": "None",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Meesho products traction Q1 FY27",
+   "status": "done",
+   "found": "Valmo, Meesho Mall, Content Commerce, Kirana Club acquisition; Q1 FY27 metrics",
+   "next_action": "None",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Meesho Shark Tank ₹110L investment",
+   "status": "logged-no-result",
+   "found": "No evidence found in any source; claim appears unverified",
+   "next_action": "Mark as UNKNOWN in conflicts",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Meesho founders Vidit Aatrey Sanjeev Barnwal background IIT",
+   "status": "done",
+   "found": "Confirmed IIT Delhi alumni; Vidit from UP (JEE rank 182), worked at ITC/InMobi; Sanjeev worked at Sony Japan",
+   "next_action": "None",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Meesho financials FY23-FY25 DRHP",
+   "status": "done",
+   "found": "Tofler provides FY21-FY25 standalone financials; TechCrunch provides H1FY26 DRHP figures",
+   "next_action": "None",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Meesho IPO details price band listing",
+   "status": "done",
+   "found": "Complete IPO data from TechCrunch: ₹105-111 band, $606M raise, Dec 10 listing, +46% pop",
+   "next_action": "None",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Meesho funding rounds full ladder",
+   "status": "done",
+   "found": "Complete ladder from VCCircle: Seed→A→B→F→late F→IPO",
+   "next_action": "None",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Meesho legal regulatory CCPA",
+   "status": "done",
+   "found": "CCPA ₹10L fine Dec 2025 for walkie-talkies; herbicide probe May 2026",
+   "next_action": "None",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Meesho products traction Q1 FY27",
+   "status": "done",
+   "found": "Valmo, Meesho Mall, Content Commerce, Kirana Club acquisition; Q1 FY27 metrics",
+   "next_action": "None",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Meesho Shark Tank ₹110L investment",
+   "status": "logged-no-result",
+   "found": "No evidence found in any source; claim appears unverified",
+   "next_action": "Mark as UNKNOWN in conflicts",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Meesho founders Vidit Aatrey Sanjeev Barnwal background IIT",
+   "status": "done",
+   "found": "Confirmed IIT Delhi alumni; Vidit from UP (JEE rank 182), worked at ITC/InMobi; Sanjeev worked at Sony Japan",
+   "next_action": "None",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Meesho financials FY23-FY25 DRHP",
+   "status": "done",
+   "found": "Tofler provides FY21-FY25 standalone financials; TechCrunch provides H1FY26 DRHP figures",
+   "next_action": "None",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Meesho IPO details price band listing",
+   "status": "done",
+   "found": "Complete IPO data from TechCrunch: ₹105-111 band, $606M raise, Dec 10 listing, +46% pop",
+   "next_action": "None",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Meesho funding rounds full ladder",
+   "status": "done",
+   "found": "Complete ladder from VCCircle: Seed→A→B→F→late F→IPO",
+   "next_action": "None",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Meesho legal regulatory CCPA",
+   "status": "done",
+   "found": "CCPA ₹10L fine Dec 2025 for walkie-talkies; herbicide probe May 2026",
+   "next_action": "None",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Meesho products traction Q1 FY27",
+   "status": "done",
+   "found": "Valmo, Meesho Mall, Content Commerce, Kirana Club acquisition; Q1 FY27 metrics",
+   "next_action": "None",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Meesho Shark Tank ₹110L investment",
+   "status": "logged-no-result",
+   "found": "No evidence found in any source; claim appears unverified",
+   "next_action": "Mark as UNKNOWN in conflicts",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Meesho founders Vidit Aatrey Sanjeev Barnwal background IIT",
+   "status": "done",
+   "found": "Confirmed IIT Delhi alumni; Vidit from UP (JEE rank 182), worked at ITC/InMobi; Sanjeev worked at Sony Japan",
+   "next_action": "None",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Meesho financials FY23-FY25 DRHP",
+   "status": "done",
+   "found": "Tofler provides FY21-FY25 standalone financials; TechCrunch provides H1FY26 DRHP figures",
+   "next_action": "None",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Meesho IPO details price band listing",
+   "status": "done",
+   "found": "Complete IPO data from TechCrunch: ₹105-111 band, $606M raise, Dec 10 listing, +46% pop",
+   "next_action": "None",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Meesho funding rounds full ladder",
+   "status": "done",
+   "found": "Complete ladder from VCCircle: Seed→A→B→F→late F→IPO",
+   "next_action": "None",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Meesho legal regulatory CCPA",
+   "status": "done",
+   "found": "CCPA ₹10L fine Dec 2025 for walkie-talkies; herbicide probe May 2026",
+   "next_action": "None",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Meesho products traction Q1 FY27",
+   "status": "done",
+   "found": "Valmo, Meesho Mall, Content Commerce, Kirana Club acquisition; Q1 FY27 metrics",
+   "next_action": "None",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Meesho Shark Tank ₹110L investment",
+   "status": "logged-no-result",
+   "found": "No evidence found in any source; claim appears unverified",
+   "next_action": "Mark as UNKNOWN in conflicts",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Meesho founders Vidit Aatrey Sanjeev Barnwal background IIT",
+   "status": "done",
+   "found": "Confirmed IIT Delhi alumni; Vidit from UP (JEE rank 182), worked at ITC/InMobi; Sanjeev worked at Sony Japan",
+   "next_action": "None",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Meesho financials FY23-FY25 DRHP",
+   "status": "done",
+   "found": "Tofler provides FY21-FY25 standalone financials; TechCrunch provides H1FY26 DRHP figures",
+   "next_action": "None",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Meesho IPO details price band listing",
+   "status": "done",
+   "found": "Complete IPO data from TechCrunch: ₹105-111 band, $606M raise, Dec 10 listing, +46% pop",
+   "next_action": "None",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Meesho funding rounds full ladder",
+   "status": "done",
+   "found": "Complete ladder from VCCircle: Seed→A→B→F→late F→IPO",
+   "next_action": "None",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Meesho legal regulatory CCPA",
+   "status": "done",
+   "found": "CCPA ₹10L fine Dec 2025 for walkie-talkies; herbicide probe May 2026",
+   "next_action": "None",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Meesho products traction Q1 FY27",
+   "status": "done",
+   "found": "Valmo, Meesho Mall, Content Commerce, Kirana Club acquisition; Q1 FY27 metrics",
+   "next_action": "None",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Meesho Shark Tank ₹110L investment",
+   "status": "logged-no-result",
+   "found": "No evidence found in any source; claim appears unverified",
+   "next_action": "Mark as UNKNOWN in conflicts",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Meesho founders Vidit Aatrey Sanjeev Barnwal background IIT",
+   "status": "done",
+   "found": "Confirmed IIT Delhi alumni; Vidit from UP (JEE rank 182), worked at ITC/InMobi; Sanjeev worked at Sony Japan",
+   "next_action": "None",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Meesho financials FY23-FY25 DRHP",
+   "status": "done",
+   "found": "Tofler provides FY21-FY25 standalone financials; TechCrunch provides H1FY26 DRHP figures",
+   "next_action": "None",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Meesho IPO details price band listing",
+   "status": "done",
+   "found": "Complete IPO data from TechCrunch: ₹105-111 band, $606M raise, Dec 10 listing, +46% pop",
+   "next_action": "None",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Meesho funding rounds full ladder",
+   "status": "done",
+   "found": "Complete ladder from VCCircle: Seed→A→B→F→late F→IPO",
+   "next_action": "None",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Meesho legal regulatory CCPA",
+   "status": "done",
+   "found": "CCPA ₹10L fine Dec 2025 for walkie-talkies; herbicide probe May 2026",
+   "next_action": "None",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Meesho products traction Q1 FY27",
+   "status": "done",
+   "found": "Valmo, Meesho Mall, Content Commerce, Kirana Club acquisition; Q1 FY27 metrics",
+   "next_action": "None",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Meesho Shark Tank ₹110L investment",
+   "status": "logged-no-result",
+   "found": "No evidence found in any source; claim appears unverified",
+   "next_action": "Mark as UNKNOWN in conflicts",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Meesho founders Vidit Aatrey Sanjeev Barnwal background IIT",
+   "status": "done",
+   "found": "Confirmed IIT Delhi alumni; Vidit from UP (JEE rank 182), worked at ITC/InMobi; Sanjeev worked at Sony Japan",
+   "next_action": "None",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Meesho financials FY23-FY25 DRHP",
+   "status": "done",
+   "found": "Tofler provides FY21-FY25 standalone financials; TechCrunch provides H1FY26 DRHP figures",
+   "next_action": "None",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Meesho IPO details price band listing",
+   "status": "done",
+   "found": "Complete IPO data from TechCrunch: ₹105-111 band, $606M raise, Dec 10 listing, +46% pop",
+   "next_action": "None",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Meesho funding rounds full ladder",
+   "status": "done",
+   "found": "Complete ladder from VCCircle: Seed→A→B→F→late F→IPO",
+   "next_action": "None",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Meesho legal regulatory CCPA",
+   "status": "done",
+   "found": "CCPA ₹10L fine Dec 2025 for walkie-talkies; herbicide probe May 2026",
+   "next_action": "None",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Meesho products traction Q1 FY27",
+   "status": "done",
+   "found": "Valmo, Meesho Mall, Content Commerce, Kirana Club acquisition; Q1 FY27 metrics",
+   "next_action": "None",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Meesho Shark Tank ₹110L investment",
+   "status": "logged-no-result",
+   "found": "No evidence found in any source; claim appears unverified",
+   "next_action": "Mark as UNKNOWN in conflicts",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Meesho founders Vidit Aatrey Sanjeev Barnwal background IIT",
+   "status": "done",
+   "found": "Confirmed IIT Delhi alumni; Vidit from UP (JEE rank 182), worked at ITC/InMobi; Sanjeev worked at Sony Japan",
+   "next_action": "None",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Meesho financials FY23-FY25 DRHP",
+   "status": "done",
+   "found": "Tofler provides FY21-FY25 standalone financials; TechCrunch provides H1FY26 DRHP figures",
+   "next_action": "None",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Meesho IPO details price band listing",
+   "status": "done",
+   "found": "Complete IPO data from TechCrunch: ₹105-111 band, $606M raise, Dec 10 listing, +46% pop",
+   "next_action": "None",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Meesho funding rounds full ladder",
+   "status": "done",
+   "found": "Complete ladder from VCCircle: Seed→A→B→F→late F→IPO",
+   "next_action": "None",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Meesho legal regulatory CCPA",
+   "status": "done",
+   "found": "CCPA ₹10L fine Dec 2025 for walkie-talkies; herbicide probe May 2026",
+   "next_action": "None",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Meesho products traction Q1 FY27",
+   "status": "done",
+   "found": "Valmo, Meesho Mall, Content Commerce, Kirana Club acquisition; Q1 FY27 metrics",
+   "next_action": "None",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Meesho Shark Tank ₹110L investment",
+   "status": "logged-no-result",
+   "found": "No evidence found in any source; claim appears unverified",
+   "next_action": "Mark as UNKNOWN in conflicts",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Meesho founders Vidit Aatrey Sanjeev Barnwal background IIT",
+   "status": "done",
+   "found": "Confirmed IIT Delhi alumni; Vidit from UP (JEE rank 182), worked at ITC/InMobi; Sanjeev worked at Sony Japan",
+   "next_action": "None",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Meesho financials FY23-FY25 DRHP",
+   "status": "done",
+   "found": "Tofler provides FY21-FY25 standalone financials; TechCrunch provides H1FY26 DRHP figures",
+   "next_action": "None",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Meesho IPO details price band listing",
+   "status": "done",
+   "found": "Complete IPO data from TechCrunch: ₹105-111 band, $606M raise, Dec 10 listing, +46% pop",
+   "next_action": "None",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Meesho funding rounds full ladder",
+   "status": "done",
+   "found": "Complete ladder from VCCircle: Seed→A→B→F→late F→IPO",
+   "next_action": "None",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Meesho legal regulatory CCPA",
+   "status": "done",
+   "found": "CCPA ₹10L fine Dec 2025 for walkie-talkies; herbicide probe May 2026",
+   "next_action": "None",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Meesho products traction Q1 FY27",
+   "status": "done",
+   "found": "Valmo, Meesho Mall, Content Commerce, Kirana Club acquisition; Q1 FY27 metrics",
+   "next_action": "None",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Meesho Shark Tank ₹110L investment",
+   "status": "logged-no-result",
+   "found": "No evidence found in any source; claim appears unverified",
+   "next_action": "Mark as UNKNOWN in conflicts",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Meesho founders Vidit Aatrey Sanjeev Barnwal background IIT",
+   "status": "done",
+   "found": "Confirmed IIT Delhi alumni; Vidit from UP (JEE rank 182), worked at ITC/InMobi; Sanjeev worked at Sony Japan",
+   "next_action": "None",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Meesho financials FY23-FY25 DRHP",
+   "status": "done",
+   "found": "Tofler provides FY21-FY25 standalone financials; TechCrunch provides H1FY26 DRHP figures",
+   "next_action": "None",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Meesho IPO details price band listing",
+   "status": "done",
+   "found": "Complete IPO data from TechCrunch: ₹105-111 band, $606M raise, Dec 10 listing, +46% pop",
+   "next_action": "None",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Meesho funding rounds full ladder",
+   "status": "done",
+   "found": "Complete ladder from VCCircle: Seed→A→B→F→late F→IPO",
+   "next_action": "None",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Meesho legal regulatory CCPA",
+   "status": "done",
+   "found": "CCPA ₹10L fine Dec 2025 for walkie-talkies; herbicide probe May 2026",
+   "next_action": "None",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Meesho products traction Q1 FY27",
+   "status": "done",
+   "found": "Valmo, Meesho Mall, Content Commerce, Kirana Club acquisition; Q1 FY27 metrics",
+   "next_action": "None",
+   "agent": "hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Meesho Shark Tank ₹110L investment",
+   "status": "logged-no-result",
+   "found": "No evidence found in any source; claim appears unverified",
+   "next_action": "Mark as UNKNOWN in conflicts",
+   "agent": "hyperresearch"
+  }
+ ],
+ "sources": [
+  {
+   "publication_date": "2025-11-28",
+   "publisher": "TechCrunch",
+   "tier": "T3",
+   "title": "SoftBank stays in as Meesho $606M IPO becomes India's first major e-commerce listing",
+   "url": "https://techcrunch.com/2025/11/28/softbank-stays-in-as-meesho-606m-ipo-becomes-indias-first-major-e-commerce-listing"
+  },
+  {
+   "publication_date": "2025-12-10",
+   "publisher": "TechCrunch",
+   "tier": "T3",
+   "title": "Meesho's $606M IPO pops as enthusiasm for India's e-commerce startups rises",
+   "url": "https://techcrunch.com/2025/12/10/meeshos-606m-ipo-pops-as-enthusiasm-for-indias-e-commerce-startups-rises"
+  },
+  {
+   "publication_date": "2025-03-26",
+   "publisher": "Economic Times",
+   "tier": "T3",
+   "title": "Meesho recorded 34% year-on-year order growth in April-December 2024: Annual report",
+   "url": "https://m.economictimes.com/tech/technology/annual-report-shows-ipo-bound-meesho-recorded-34-year-on-year-growth-in-orders-in-april-december-2024-period/articleshow/119534627.cms"
+  },
+  {
+   "url": "https://static-assets.meesho.com/docs/AGM%20Notice%202022.pdf",
+   "title": "Meesho AGM Notice 2022 (company-published PDF)",
+   "fields": [
+    "cin",
+    "legal_name"
+   ],
+   "confidence": "high"
+  },
+  {
+   "url": "https://www.tofler.in/meesho-technologies-private-limited/company/U62099KA2024PTC186568",
+   "title": "Meesho Technologies Financials | Company Details",
+   "fields": [
+    "cin"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "url": "https://www.tofler.in/meesho-private-limited/company/U74900KA2015PTC082263",
+   "publisher": "Tofler",
+   "tier": "T2",
+   "publication_date": "2026-09-15",
+   "retrieved_date": "2026-09-15",
+   "confidence": "HIGH",
+   "fields_supported": [
+    "cin",
+    "incorporation_date",
+    "registered_office",
+    "financials_FY21_FY25",
+    "people",
+    "directors"
+   ]
+  },
+  {
+   "url": "https://www.vccircle.com/meeshomisses-profit-by-a-whisker-launch-of-logistics-arm-cuts-cost",
+   "publisher": "VCCircle",
+   "tier": "T3",
+   "publication_date": "2024-10-30",
+   "retrieved_date": "2026-09-15",
+   "confidence": "HIGH",
+   "fields_supported": [
+    "funding_rounds",
+    "financials_FY23_FY24",
+    "founders",
+    "valuation_history"
+   ]
+  },
+  {
+   "url": "https://www.medianama.com/2025/12/223-ccpa-fines-meesho-rs-10-lakh-for-unapproved-walkie-talkies/",
+   "publisher": "MediaNama",
+   "tier": "T3",
+   "publication_date": "2025-12-02",
+   "retrieved_date": "2026-09-15",
+   "confidence": "HIGH",
+   "fields_supported": [
+    "legal_ccpa"
+   ]
+  },
+  {
+   "url": "https://www.storyboard18.com/how-it-works/ccpa-fines-amazon-flipkart-meesho-and-meta-%E2%82%B910-lakh-each-over-illegal-walkie-talkie-listings-89370.htm",
+   "publisher": "Storyboard18",
+   "tier": "T3",
+   "publication_date": "2026-02-11",
+   "retrieved_date": "2026-09-15",
+   "confidence": "HIGH",
+   "fields_supported": [
+    "legal_ccpa"
+   ]
+  },
+  {
+   "url": "https://www.medianama.com/2026/07/223-meesho-q1-fy27-key-takeaways/",
+   "publisher": "MediaNama",
+   "tier": "T3",
+   "publication_date": "2026-07-01",
+   "retrieved_date": "2026-09-15",
+   "confidence": "HIGH",
+   "fields_supported": [
+    "traction_Q1FY27",
+    "products",
+    "acquisition"
+   ]
+  },
+  {
+   "url": "https://thedailybrief.zerodha.com/p/inside-meeshos-ipo",
+   "publisher": "Zerodha Daily Brief",
+   "tier": "T3",
+   "publication_date": "2025-10-28",
+   "retrieved_date": "2026-09-15",
+   "confidence": "HIGH",
+   "fields_supported": [
+    "business_model",
+    "traction",
+    "products"
+   ]
+  },
+  {
+   "url": "https://www.business-standard.com/article/specials/mistakes-make-a-meesho-what-founder-vidit-aatrey-learned-from-failed-ideas-122070700691_1.html",
+   "publisher": "Business Standard",
+   "tier": "T3",
+   "publication_date": "2022-07-07",
+   "retrieved_date": "2026-09-15",
+   "confidence": "HIGH",
+   "fields_supported": [
+    "founders_background"
+   ]
+  },
+  {
+   "url": "https://www.moneycontrol.com/news/business/startup/germ-of-an-idea-meesho-startup-story-iit-startup-vidit-aatrey-sanjeev-barnwal-social-commerce-8338181.html",
+   "publisher": "Moneycontrol",
+   "tier": "T3",
+   "publication_date": "2022-04-09",
+   "retrieved_date": "2026-09-15",
+   "confidence": "HIGH",
+   "fields_supported": [
+    "founders_background"
+   ]
+  },
+  {
+   "url": "https://www.news18.com/business/meet-vidit-aatrey-and-sanjeev-barnwal-the-meesho-founders-whose-earlier-venture-failed-7525813.html",
+   "publisher": "News18",
+   "tier": "T3",
+   "publication_date": "2023-04-12",
+   "retrieved_date": "2026-09-15",
+   "confidence": "HIGH",
+   "fields_supported": [
+    "founders",
+    "traction"
+   ]
+  }
+ ],
+ "startup_id": "meesho",
+ "_merged_session2": true,
+ "traction": [
+  {
+   "metric": "transacting_users",
+   "value": 234.2,
+   "unit": "million",
+   "period": "LTM as of Nov 2025",
+   "as_of": "2025-11-28",
+   "company_reported": true,
+   "source_url": "https://techcrunch.com/2025/11/28/softbank-stays-in-as-meesho-606m-ipo-becomes-indias-first-major-e-commerce-listing",
+   "confidence": "HIGH"
+  },
+  {
+   "metric": "annual_transacting_sellers",
+   "value": 706471,
+   "unit": "count",
+   "period": "LTM as of Nov 2025",
+   "as_of": "2025-11-28",
+   "company_reported": true,
+   "source_url": "https://techcrunch.com/2025/11/28/softbank-stays-in-as-meesho-606m-ipo-becomes-indias-first-major-e-commerce-listing",
+   "confidence": "HIGH"
+  },
+  {
+   "metric": "active_content_creators",
+   "value": 50000,
+   "unit": "count",
+   "period": "LTM as of Nov 2025",
+   "as_of": "2025-11-28",
+   "company_reported": true,
+   "source_url": "https://techcrunch.com/2025/11/28/softbank-stays-in-as-meesho-606m-ipo-becomes-indias-first-major-e-commerce-listing",
+   "confidence": "HIGH"
+  },
+  {
+   "metric": "annual_transacting_users",
+   "value": 187,
+   "unit": "million",
+   "period": "As of Dec 31, 2024",
+   "as_of": "2024-12-31",
+   "company_reported": true,
+   "source_url": "https://m.economictimes.com/tech/technology/annual-report-shows-ipo-bound-meesho-recorded-34-year-on-year-growth-in-orders-in-april-december-2024-period/articleshow/119534627.cms",
+   "confidence": "HIGH"
+  },
+  {
+   "metric": "annual_transacting_sellers",
+   "value": 1040000,
+   "unit": "count",
+   "period": "Q1 FY27 (Jun 2026)",
+   "as_of": "2026-06-30",
+   "company_reported": true,
+   "source_url": "https://www.medianama.com/2026/07/223-meesho-q1-fy27-key-takeaways/",
+   "confidence": "HIGH"
+  },
+  {
+   "metric": "orders",
+   "value": 725,
+   "unit": "million",
+   "period": "Q1 FY27 (Jun 2026)",
+   "as_of": "2026-06-30",
+   "company_reported": true,
+   "source_url": "https://www.medianama.com/2026/07/223-meesho-q1-fy27-key-takeaways/",
+   "confidence": "HIGH"
+  },
+  {
+   "metric": "active_sellers",
+   "value": 575000,
+   "unit": "count",
+   "period": "Pre-IPO",
+   "as_of": "2025-10-28",
+   "company_reported": true,
+   "source_url": "https://thedailybrief.zerodha.com/p/inside-meeshos-ipo",
+   "confidence": "HIGH"
+  },
+  {
+   "metric": "pin_codes_served",
+   "value": 26000,
+   "unit": "count",
+   "period": "As of Apr 2023",
+   "as_of": "2023-04-12",
+   "company_reported": true,
+   "source_url": "https://www.news18.com/business/meet-vidit-aatrey-and-sanjeev-barnwal-the-meesho-founders-whose-earlier-venture-failed-7525813.html",
+   "confidence": "HIGH"
+  },
+  {
+   "metric": "entrepreneurs_registered",
+   "value": 13000000,
+   "unit": "count",
+   "period": "As of Apr 2023",
+   "as_of": "2023-04-12",
+   "company_reported": true,
+   "source_url": "https://www.news18.com/business/meet-vidit-aatrey-and-sanjeev-barnwal-the-meesho-founders-whose-earlier-venture-failed-7525813.html",
+   "confidence": "HIGH"
+  },
+  {
+   "metric": "average_order_value",
+   "value": 260,
+   "unit": "INR",
+   "period": "Pre-IPO",
+   "as_of": "2025-10-28",
+   "company_reported": true,
+   "source_url": "https://thedailybrief.zerodha.com/p/inside-meeshos-ipo",
+   "confidence": "MEDIUM"
+  }
+ ],
+ "products": [
+  {
+   "name": "Meesho App",
+   "category": "E-commerce marketplace",
+   "description": "Zero-commission horizontal marketplace; discovery-led commerce; AOV ~₹260; 70%+ orders from discovery/recommendations",
+   "status": "Active",
+   "source_url": "https://thedailybrief.zerodha.com/p/inside-meeshos-ipo",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Meesho Mall",
+   "category": "Branded commerce",
+   "description": "Dedicated platform for branded products; 1,200+ brands; NMV grew 93% YoY in Q1 FY27; transacting consumers +88% YoY",
+   "status": "Active",
+   "source_url": "https://www.medianama.com/2026/07/223-meesho-q1-fy27-key-takeaways/",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Valmo",
+   "category": "Logistics marketplace",
+   "description": "In-house logistics arm launched Feb 2024; aggregates small logistics service providers; handled ~50% of orders (flat for 3 quarters as of Q1 FY27); 2% in FY23 → 60% by mid-2025",
+   "status": "Active",
+   "source_url": "https://www.medianama.com/2026/07/223-meesho-q1-fy27-key-takeaways/",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Meesho Ads",
+   "category": "Advertising",
+   "description": "Advertising revenue from sellers and brands; primary revenue driver alongside logistics",
+   "status": "Active",
+   "source_url": "https://thedailybrief.zerodha.com/p/inside-meeshos-ipo",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Content Commerce",
+   "category": "Social commerce",
+   "description": "Short videos, live streams, influencer campaigns; 50,000+ active content creators",
+   "status": "Active",
+   "source_url": "https://techcrunch.com/2025/11/28/softbank-stays-in-as-meesho-606m-ipo-becomes-indias-first-major-e-commerce-listing",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Kirana Club",
+   "category": "B2B grocery",
+   "description": "Acquired July 2026 for ₹202 crore all-cash; B2B marketplace for kirana stores",
+   "status": "Acquired",
+   "source_url": "https://www.medianama.com/2026/07/223-meesho-q1-fy27-key-takeaways/",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "AI tools",
+   "category": "Technology",
+   "description": "Vision Language Models for counterfeit detection; GenAI voice agents with local language support; AI Blitz for engineering productivity",
+   "status": "Active",
+   "source_url": "https://www.medianama.com/2026/07/223-meesho-q1-fy27-key-takeaways/",
+   "confidence": "HIGH"
+  }
+ ],
+ "people": [
+  {
+   "name": "Dhiresh Bansal",
+   "position": "CFO",
+   "source_url": "https://www.tofler.in/meesho-private-limited/company/U74900KA2015PTC082263",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Mohit Bhatnagar",
+   "position": "Nominee Director (Peak XV Partners)",
+   "source_url": "https://www.tofler.in/meesho-private-limited/company/U74900KA2015PTC082263",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Rahul Bhardwaj",
+   "position": "Company Secretary",
+   "source_url": "https://www.tofler.in/meesho-private-limited/company/U74900KA2015PTC082263",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Mukul Arora",
+   "position": "Director",
+   "source_url": "https://www.tofler.in/meesho-private-limited/company/U74900KA2015PTC082263",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Rohit Bhagat",
+   "position": "Director",
+   "source_url": "https://www.tofler.in/meesho-private-limited/company/U74900KA2015PTC082263",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Hari Shanker Bhartia",
+   "position": "Director",
+   "source_url": "https://www.tofler.in/meesho-private-limited/company/U74900KA2015PTC082263",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Kimsuka Narsimhan",
+   "position": "Director",
+   "source_url": "https://www.tofler.in/meesho-private-limited/company/U74900KA2015PTC082263",
+   "confidence": "HIGH"
+  }
+ ],
+ "legal": [
+  {
+   "type": "penalty",
+   "entity": "Meesho Limited",
+   "date": "2025-12-02",
+   "status": "confirmed-violation",
+   "description": "CCPA fined Meesho ₹10 lakh for selling unapproved walkie-talkies without ETA certifications; violations of misleading advertising, unfair trade practices, deficiency in services under Consumer Protection Act 2019; 1,896 non-toy walkie-talkie products listed by 85 sellers between Jan 2023 and May 2025; 2,209 walkie-talkies purchased from single seller without compliance docs",
+   "source_url": "https://www.medianama.com/2025/12/223-ccpa-fines-meesho-rs-10-lakh-for-unapproved-walkie-talkies/",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "investigation",
+   "entity": "Meesho Limited",
+   "date": "2026-05",
+   "status": "investigation",
+   "description": "CCPA ordered probe after Meesho delisted unregistered herbicide product; part of wider crackdown on e-commerce platforms selling non-compliant products",
+   "source_url": "https://bestmediainfo.com/mediainfo/mediainfo-marketing/ccpa-orders-probe-after-amazon-flipkart-meesho-and-jiomart-delist-unregistered-herbicide-product-11846433",
+   "confidence": "MEDIUM"
+  },
+  {
+   "type": "regulatory",
+   "entity": "Meesho Limited",
+   "date": "2025-12",
+   "status": "notice",
+   "description": "CCPA issued Guidelines for Prevention and Regulation of Illegal Listing and Sale of Radio Equipment on E-Commerce Platforms, 2025; 16,970 non-compliant walkie-talkie listings identified across platforms; Meesho fined ₹10 lakh along with Amazon, Flipkart, Meta",
+   "source_url": "https://www.storyboard18.com/how-it-works/ccpa-fines-amazon-flipkart-meesho-and-meta-%E2%82%B910-lakh-each-over-illegal-walkie-talkie-listings-89370.htm",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "regulatory",
+   "entity": "Meesho Limited",
+   "date": "2025",
+   "status": "filing",
+   "description": "Filed plea with NCLT Bengaluru for reverse merger of India unit Fashnear Technologies with US parent Meesho Inc to pave way for IPO",
+   "source_url": "https://m.economictimes.com/tech/technology/annual-report-shows-ipo-bound-meesho-recorded-34-year-on-year-growth-in-orders-in-april-december-2024-period/articleshow/119534627.cms",
+   "confidence": "HIGH"
+  }
+ ],
+ "locations": [
+  {
+   "type": "hq",
+   "address_or_area": "3rd Floor, Wing-E, Helios Business Park, Kadubeesanahalli Village, Varthur Hobli, Outer Ring Road, Bellandur",
+   "city": "Bengaluru",
+   "state": "Karnataka",
+   "country": "India",
+   "as_of": "2026-09-15",
+   "source_url": "https://www.tofler.in/meesho-private-limited/company/U74900KA2015PTC082263",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "registered_office",
+   "address_or_area": "3rd Floor, Wing-E, Helios Business Park, Kadubeesanahalli Village, Varthur Hobli, Outer Ring Road, Bellandur",
+   "city": "Bengaluru",
+   "state": "Karnataka",
+   "country": "India",
+   "as_of": "2026-09-15",
+   "source_url": "https://www.tofler.in/meesho-private-limited/company/U74900KA2015PTC082263",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "ops",
+   "address_or_area": "Bhubaneswar origin (founding team origin)",
+   "city": "Bhubaneswar",
+   "state": "Odisha",
+   "country": "India",
+   "as_of": "2015",
+   "source_url": "https://www.business-standard.com/article/specials/mistakes-make-a-meesho-what-founder-vidit-aatrey-learned-from-failed-ideas-122070700691_1.html",
+   "confidence": "LOW",
+   "note": "Founders from UP/IIT Delhi; Bhubaneswar origin mentioned in prompt but not verified in sources"
+  }
+ ],
+ "customers": [
+  {
+   "name": "234.2M transacting users",
+   "type": "B2C consumers",
+   "period": "LTM as of Nov 2025",
+   "source_url": "https://techcrunch.com/2025/11/28/softbank-stays-in-as-meesho-606m-ipo-becomes-indias-first-major-e-commerce-listing",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "706,471 annual transacting sellers",
+   "type": "SMBs/manufacturers",
+   "period": "LTM as of Nov 2025",
+   "source_url": "https://techcrunch.com/2025/11/28/softbank-stays-in-as-meesho-606m-ipo-becomes-indias-first-major-e-commerce-listing",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "1.04M annual transacting sellers",
+   "type": "SMBs/manufacturers",
+   "period": "Q1 FY27 (Jun 2026)",
+   "as_of": "2026-06-30",
+   "source_url": "https://www.medianama.com/2026/07/223-meesho-q1-fy27-key-takeaways/",
+   "confidence": "HIGH"
+  }
+ ]
+}

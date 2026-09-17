@@ -1,0 +1,3987 @@
+{
+ "acquisitions": [
+  {
+   "confidence": "medium",
+   "direction": "made",
+   "disclosed": false,
+   "rationale": "M&A expansion (China/India); term of Apis funding",
+   "source_url": "https://www.livemint.com/companies/start-ups/study-abroad-leap-scholar-leap-finance-geebee-yocket-prodigy-finance-foreign-education-loans-edtechs-byjus-11741247394336.html",
+   "target": "Prodigy Finance (late-stage talks, Mar 2025)",
+   "type": "proposed acquisition; late-stage talks",
+   "counterparty": "Prodigy Finance",
+   "date": "2025-03-07"
+  },
+  {
+   "confidence": "medium",
+   "direction": "made",
+   "disclosed": false,
+   "rationale": "student community + inventory",
+   "source_url": "https://www.livemint.com/companies/start-ups/study-abroad-leap-scholar-leap-finance-geebee-yocket-prodigy-finance-foreign-education-loans-edtechs-byjus-11741247394336.html",
+   "target": "Yocket + GeeBee",
+   "type": "acquisition",
+   "counterparty": "Yocket and GeeBee"
+  }
+ ],
+ "company": {
+  "business_model": "full-stack student mobility: test-prep + admissions/visa + loans + community",
+  "cin": "U72501KA2019FTC130352",
+  "city": {
+   "v": "Bengaluru",
+   "conf": "high",
+   "src": "multiple sources"
+  },
+  "company_name": "Leap (LeapScholar / Leap Finance)",
+  "founded_date": "2019",
+  "incorporation_date": "2019-12-05",
+  "legal_name": "OUTLEAP TECHNOLOGIES PRIVATE LIMITED",
+  "primary_sector": "edtech study-abroad",
+  "public_private": "private",
+  "startup_stage": "late (Series E)",
+  "status": "active",
+  "notes": "city per Tracxn / LeapScholar",
+  "official_website": {
+   "v": "https://leapscholar.com",
+   "conf": "high",
+   "src": "https://leapscholar.com",
+   "note": "verified live 2026-09-15: name match on own homepage"
+  },
+  "website": "https://leapscholar.com",
+  "careers_website": {
+   "v": "https://careers.leapfinance.com/",
+   "conf": "high",
+   "src": "https://leapscholar.com",
+   "note": "playwright render 2026-09-15"
+  },
+  "state": {
+   "v": "Karnataka",
+   "conf": "HIGH",
+   "src": "https://www.instafinancials.com/company/outleap-technologies-private-limited-U72501KA2019FTC130352",
+   "note": "MCA registered state",
+   "asof": "2026-09-15"
+  },
+  "country": {
+   "v": "India",
+   "conf": "HIGH",
+   "src": "https://www.instafinancials.com/company/outleap-technologies-private-limited-U72501KA2019FTC130352",
+   "note": "MCA registered country",
+   "asof": "2026-09-15"
+  },
+  "description": {
+   "v": "Study-abroad edtech platform offering IELTS/TOEFL/SAT prep, admissions and visa counselling, international student loans, and community features. Owns LeapScholar, LeapFinance, GeeBee, and Yocket brands.",
+   "conf": "HIGH",
+   "src": "https://www.business-standard.com/companies/news/leap-raises-65-mn-in-series-e-led-by-apis-partners-for-education-access-125012900775_1.html",
+   "note": "Per BS/ET/Mint coverage",
+   "asof": "2026-09-15"
+  },
+  "employee_estimate": {
+   "v": 848,
+   "conf": "MEDIUM",
+   "src": "https://tracxn.com/d/companies/leap-scholar/__PBS7Pv0IBVsron_APH_R1yjA1RkgCdiPiPlOyrd6fFE",
+   "note": "Tracxn: 848 as of Aug 31, 2025; Inc42: 1,341 (different methodology)",
+   "asof": "2025-08-31"
+  },
+  "hq_type": {
+   "v": "registered",
+   "conf": "HIGH",
+   "src": "https://www.instafinancials.com/company/outleap-technologies-private-limited-U72501KA2019FTC130352",
+   "note": "Registered office at 49, 12th Main, HSR Sector 6, Bengaluru",
+   "asof": "2026-09-15"
+  },
+  "registered_office": {
+   "v": "49, 12th Main, HSR Sector 6, Behind HSR BDA Complex, Bengaluru-560102, Karnataka, India",
+   "conf": "HIGH",
+   "src": "https://www.instafinancials.com/company/outleap-technologies-private-limited-U72501KA2019FTC130352",
+   "note": "MCA registered address",
+   "asof": "2026-09-15"
+  },
+  "website_status": {
+   "v": "verified",
+   "conf": "HIGH",
+   "src": "https://leapscholar.com",
+   "note": "Company-owned domain verified",
+   "asof": "2026-09-15"
+  }
+ },
+ "competitors": [
+  {
+   "basis": "explicit",
+   "confidence": "medium",
+   "name": "Leverage Edu / ApplyBoard / IDP",
+   "source_url": "https://tracxn.com/d/companies/leap-scholar/__PBS7Pv0IBVsron_APH_R1yjA1RkgCdiPiPlOyrd6fFE"
+  }
+ ],
+ "conflicts": [
+  {
+   "claim_a": "Founded 2019 (company, most press)",
+   "claim_b": "Founded 2020 (CB Insights)",
+   "field": "company.founded_date",
+   "resolution": "company + MCA (Dec 2019) authoritative; resolved 2019",
+   "resolved_value": "2019",
+   "url_a": "https://leapscholar.com/about-us",
+   "url_b": "https://www.cbinsights.com/company/leap-scholar"
+  },
+  {
+   "claim_a": "Series E valuation $700-800M flat (ET sources, Jan 2025)",
+   "claim_b": "prior round $850-900M (Mint, Mar 2025)",
+   "field": "funding_rounds.series_e_valuation",
+   "resolution": "both source-attributed slices; most-cited flat $700-800M recorded with conflict noted",
+   "resolved_value": "$700-800M (flat, per ET sources)",
+   "url_a": "https://m.economictimes.com/tech/funding/leap-raises-65-million-in-funding-round-led-by-apis-partners/articleshow/117675174.cms",
+   "url_b": "https://www.livemint.com/companies/start-ups/study-abroad-leap-scholar-leap-finance-geebee-yocket-prodigy-finance-foreign-education-loans-edtechs-byjus-11741247394336.html"
+  },
+  {
+   "field": "company.founded_date",
+   "claim_a": "Founded 2019 (company, most press; MCA incorporation 5 Dec 2019)",
+   "url_a": "https://www.instafinancials.com/company/outleap-technologies-private-limited-U72501KA2019FTC130352",
+   "claim_b": "Founded 2020 (CB Insights)",
+   "url_b": "https://www.cbinsights.com/company/leap-scholar",
+   "resolution": "MCA incorporation 5 Dec 2019 is authoritative; resolved 2019",
+   "resolved_value": "2019"
+  },
+  {
+   "field": "funding_rounds.series_e_valuation",
+   "claim_a": "Series E at flat $700-800M valuation (ET sources, Jan 2025)",
+   "url_a": "https://m.economictimes.com/tech/funding/leap-raises-65-million-in-funding-round-led-by-apis-partners/articleshow/117675174.cms",
+   "claim_b": "Pre-Series E valuation $850-900M (Mint, Mar 2025)",
+   "url_b": "https://www.livemint.com/companies/start-ups/study-abroad-leap-scholar-leap-finance-geebee-yocket-prodigy-finance-foreign-education-loans-edtechs-byjus-11741247394336.html",
+   "resolution": "ET says flat $700-800M for Series E; Mint says pre-Series E was $850-900M. May refer to different rounds. Both preserved.",
+   "resolved_value": ""
+  },
+  {
+   "field": "funding_rounds.total_funding",
+   "claim_a": "Total funding $218M across 6 rounds (Tracxn)",
+   "url_a": "https://tracxn.com/d/companies/leap-scholar/__PBS7Pv0IBVsron_APH_R1yjA1RkgCdiPiPlOyrd6fFE",
+   "claim_b": "Total funding $317.9M across 6 rounds (Inc42)",
+   "url_b": "https://inc42.com/company/leap",
+   "resolution": "Significant discrepancy. Tracxn $218M vs Inc42 $317.9M. Inc42 may include debt; Tracxn may exclude secondary. Both preserved.",
+   "resolved_value": ""
+  },
+  {
+   "field": "financials.fy24_revenue",
+   "claim_a": "FY24 revenue Rs 175.3 Cr (Inc42 profile)",
+   "url_a": "https://inc42.com/company/leap",
+   "claim_b": "FY24 revenue Rs 202.6 Cr (Inc42 profile, same page)",
+   "url_b": "https://inc42.com/company/leap",
+   "resolution": "Same source reports two different FY24 revenue figures. Likely one standalone and one consolidated, but not specified. Both preserved.",
+   "resolved_value": ""
+  },
+  {
+   "field": "company.founders",
+   "claim_a": "Founders: Vaibhav Singh, Arnav Kumar (press, company website, Business Standard, PIE News)",
+   "url_a": "https://www.leapscholar.com/about-us",
+   "claim_b": "7 founders including Anshul Agarwal, Pritesh Kamani, Sindhu Unnikrishnan, Monika Bhandari, Yuvashankar T (Tracxn)",
+   "url_b": "https://tracxn.com/d/companies/leap-scholar/__PBS7Pv0IBVsron_APH_R1yjA1RkgCdiPiPlOyrd6fFE",
+   "resolution": "Press consistently names Vaibhav Singh and Arnav Kumar as co-founders. Tracxn lists 7 people as founders, possibly including early employees/advisors. Anshul Agarwal is confirmed CFO. Others unverified. Both preserved.",
+   "resolved_value": ""
+  },
+  {
+   "field": "company.ceo",
+   "claim_a": "Vaibhav Singh and Arnav Kumar are co-founders and public faces (all press)",
+   "url_a": "https://www.business-standard.com/companies/news/leap-raises-65-mn-in-series-e-led-by-apis-partners-for-education-access-125012900775_1.html",
+   "claim_b": "Zoltan Fischer is current CEO (Tracxn FAQ)",
+   "url_b": "https://tracxn.com/d/companies/leap-scholar/__PBS7Pv0IBVsron_APH_R1yjA1RkgCdiPiPlOyrd6fFE",
+   "resolution": "Tracxn FAQ states Zoltan Fischer as CEO but no corroborating press coverage. Vaibhav Singh and Arnav Kumar remain public co-founders. Both preserved.",
+   "resolved_value": ""
+  },
+  {
+   "field": "funding_rounds.early_investors",
+   "claim_a": "Series A/B investors: Jungle Ventures, Sequoia Capital India, Owl Ventures (PIE News)",
+   "url_a": "https://thepienews.com/international-student-neobank-leap-raises-17m/",
+   "claim_b": "Acrew Capital, WestBridge, Omidyar Network (prompt-specified; not found in any source)",
+   "url_b": "NOT_FOUND",
+   "resolution": "No evidence found for Acrew Capital, WestBridge, or Omidyar Network as investors in Leap. All press coverage consistently names Jungle Ventures, Sequoia India, Owl Ventures for early rounds. Prompt-specified investors not verified.",
+   "resolved_value": ""
+  }
+ ],
+ "customers": [
+  {
+   "name": "Colorado State University",
+   "type": "educational institution",
+   "announced_date": "2022-04-01",
+   "status": "partnership",
+   "source_url": "https://www.thehindubusinessline.com/companies/edtech-start-up-leap-raises-75-million-in-series-d-round-led-by-owl-ventures/article65553759.ece",
+   "confidence": "MEDIUM",
+   "notes": "HBL: April 2022 partnership for MCIS programme"
+  },
+  {
+   "name": "Duolingo",
+   "type": "partnership",
+   "announced_date": "2025-05-19",
+   "status": "partnership",
+   "source_url": "https://apnnews.com/leapscholar-partners-duolingo-english-test",
+   "confidence": "LOW",
+   "notes": "Tracxn news feed mentions Duolingo DET coaching partnership"
+  }
+ ],
+ "events": [
+  {
+   "announced_date": "2025-01-29",
+   "confidence": "high",
+   "date": "2025-01-29",
+   "description": "$65M primary+secondary (~80% primary); flat $700-800M valuation; 5x growth since Series D; ops in 10+ countries",
+   "headline": "$65M Series E led by Apis Partners",
+   "source_url": "https://www.business-standard.com/companies/news/leap-raises-65-mn-in-series-e-led-by-apis-partners-for-education-access-125012900775_1.html",
+   "type": "funding"
+  },
+  {
+   "announced_date": "2025-03-05",
+   "confidence": "high",
+   "date": "2025-03-05",
+   "description": "$100M debt facility from HSBC ASEAN Growth Fund for student loans",
+   "headline": "$100M HSBC debt for Leap Finance",
+   "source_url": "https://www.livemint.com/companies/start-ups/study-abroad-leap-scholar-leap-finance-geebee-yocket-prodigy-finance-foreign-education-loans-edtechs-byjus-11741247394336.html",
+   "type": "debt"
+  },
+  {
+   "announced_date": "2022-06-22",
+   "confidence": "high",
+   "date": "2022-06-22",
+   "description": "$75M; Owl lead; Steadview, Paramark new; Jungle, Peak XV existing",
+   "headline": "$75M Series D led by Owl Ventures",
+   "source_url": "https://www.thehindubusinessline.com/companies/edtech-start-up-leap-raises-75-million-in-series-d-round-led-by-owl-ventures/article65553759.ece",
+   "type": "funding"
+  },
+  {
+   "type": "debt",
+   "headline": "$100M HSBC debt facility for Leap Finance",
+   "date": "2025-03-05",
+   "description": "$100M debt facility from HSBC ASEAN Growth Fund for student loans",
+   "source_url": "https://www.livemint.com/companies/start-ups/study-abroad-leap-scholar-leap-finance-geebee-yocket-prodigy-finance-foreign-education-loans-edtechs-byjus-11741247394336.html",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "acquisition",
+   "headline": "Late-stage talks to acquire Prodigy Finance",
+   "date": "2025-03-07",
+   "description": "Leap in late-stage talks to acquire Prodigy Finance; one term of Apis funding included the acquisition; deal size undisclosed",
+   "source_url": "https://www.livemint.com/companies/start-ups/study-abroad-leap-scholar-leap-finance-geebee-yocket-prodigy-finance-foreign-education-loans-edtechs-byjus-11741247394336.html",
+   "confidence": "MEDIUM"
+  },
+  {
+   "type": "partnership",
+   "headline": "Duolingo English Test coaching partnership",
+   "date": "2025-05-19",
+   "description": "LeapScholar partners with Duolingo English Test to launch DET coaching",
+   "source_url": "https://apnnews.com/leapscholar-partners-duolingo-english-test",
+   "confidence": "LOW"
+  },
+  {
+   "type": "funding",
+   "headline": "$17M Series B led by Jungle Ventures",
+   "date": "2021-03-16",
+   "description": "Series B: $17M; Jungle lead; Sequoia India and Owl Ventures participated; $5.5M round in 2020; total $22.5M to date",
+   "source_url": "https://thepienews.com/international-student-neobank-leap-raises-17m/",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "funding",
+   "headline": "$55M Series C",
+   "date": "2021-07-15",
+   "description": "Series C: $55M; Peak XV, Owl Ventures, Jungle Ventures",
+   "source_url": "https://thepienews.com/leap-attracts-65m-investment/",
+   "confidence": "MEDIUM"
+  },
+  {
+   "type": "acquisition",
+   "headline": "Acquisition of Yocket and GeeBee",
+   "date": "unknown",
+   "description": "Leap acquired Yocket and GeeBee; closing dates and values not independently disclosed",
+   "source_url": "https://www.livemint.com/companies/start-ups/study-abroad-leap-scholar-leap-finance-geebee-yocket-prodigy-finance-foreign-education-loans-edtechs-byjus-11741247394336.html",
+   "confidence": "MEDIUM"
+  },
+  {
+   "type": "expansion",
+   "headline": "15 new offline centres planned for 2026",
+   "date": "2026-03-23",
+   "description": "Leap announces expansion of offline centres across India with 15 new centres in 2026",
+   "source_url": "https://www.tribuneindia.com/news/education/leap-announces-expansion-of-offline-centres-across-india-with-15-new-centres-in-2026",
+   "confidence": "LOW"
+  }
+ ],
+ "financials": [
+  {
+   "confidence": "high",
+   "currency": "INR",
+   "fiscal_year": "FY24",
+   "metric": "revenue",
+   "source_title": "Leap Inc42 profile (MCA-derived)",
+   "source_url": "https://inc42.com/company/leap",
+   "unit": "crore",
+   "value": 175.3,
+   "value_type": "press-quoted-filing"
+  },
+  {
+   "confidence": "medium",
+   "currency": "INR",
+   "fiscal_year": "FY24",
+   "metric": "revenue_growth_yoy",
+   "source_title": "Leap Inc42 profile",
+   "source_url": "https://inc42.com/company/leap",
+   "unit": "percent",
+   "value": 112.25,
+   "value_type": "press-quoted-filing"
+  },
+  {
+   "fiscal_year": "FY24",
+   "metric": "revenue",
+   "value": 175.3,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "press-quoted-filing",
+   "basis": "standalone",
+   "consolidated": "no",
+   "filing_date": "2025-03-31",
+   "source_url": "https://inc42.com/company/leap",
+   "source_title": "Leap funding/revenue profile",
+   "source_date": "2026-09-15",
+   "confidence": "MEDIUM",
+   "notes": "Inc42 profile; MCA-derived. Conflicts with Inc42's own FY24 revenue figure of 202.6 Cr"
+  },
+  {
+   "fiscal_year": "FY24",
+   "metric": "revenue",
+   "value": 202.6,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "press-quoted-filing",
+   "basis": "standalone",
+   "consolidated": "no",
+   "filing_date": "2025-03-31",
+   "source_url": "https://inc42.com/company/leap",
+   "source_title": "Leap funding/revenue profile",
+   "source_date": "2026-09-15",
+   "confidence": "MEDIUM",
+   "notes": "Inc42 profile lists FY24 revenue as 202.6 Cr — conflicts with 175.3 Cr figure on same page"
+  },
+  {
+   "fiscal_year": "FY24",
+   "metric": "revenue_growth_yoy",
+   "value": 112.25,
+   "unit": "percent",
+   "currency": "INR",
+   "value_type": "press-quoted-filing",
+   "basis": "standalone",
+   "consolidated": "no",
+   "filing_date": "2025-03-31",
+   "source_url": "https://inc42.com/company/leap",
+   "source_title": "Leap funding/revenue profile",
+   "source_date": "2026-09-15",
+   "confidence": "MEDIUM",
+   "notes": "Inc42 profile"
+  },
+  {
+   "fiscal_year": "FY25",
+   "metric": "ebitda_status",
+   "value": 1,
+   "unit": "boolean",
+   "currency": "INR",
+   "value_type": "press-quoted-filing",
+   "basis": "standalone",
+   "consolidated": "no",
+   "filing_date": "2025-07-02",
+   "source_url": "https://www.moneycontrol.com/news/technology/leap-eyes-ma-in-undergrad-upskilling-segments-turns-ebitda-positive",
+   "source_title": "Leap eyes M&A in undergrad, upskilling segments; turns Ebitda positive",
+   "source_date": "2025-07-02",
+   "confidence": "MEDIUM",
+   "notes": "Moneycontrol headline confirms EBITDA positive as of Jul 2025; exact figure not available"
+  },
+  {
+   "fiscal_year": "FY25",
+   "metric": "annual_revenue_range",
+   "value": 10,
+   "unit": "million",
+   "currency": "USD",
+   "value_type": "estimate",
+   "basis": "standalone",
+   "consolidated": "no",
+   "filing_date": "2025-03-31",
+   "source_url": "https://tracxn.com/d/companies/leap-scholar/__PBS7Pv0IBVsron_APH_R1yjA1RkgCdiPiPlOyrd6fFE",
+   "source_title": "Leap Scholar - 2026 Company Profile",
+   "source_date": "2026-08-19",
+   "confidence": "LOW",
+   "notes": "Tracxn: $10M-$50M annual revenue as of Mar 31, 2025"
+  }
+ ],
+ "founders": [
+  {
+   "background": "IIT Kharagpur; Columbia University; CFA",
+   "confidence": "high",
+   "name": "Vaibhav Singh",
+   "role": "Co-Founder",
+   "source_url": "https://www.leapscholar.com/about-us",
+   "still_active": true,
+   "type": "co-founder"
+  },
+  {
+   "background": "IIT Kharagpur; ex-SAIF Partners VC",
+   "confidence": "high",
+   "name": "Arnav Kumar",
+   "role": "Co-Founder",
+   "source_url": "https://www.leapscholar.com/about-us",
+   "still_active": true,
+   "type": "co-founder"
+  },
+  {
+   "background": "elevated from within (Entrackr Apr 2025)",
+   "confidence": "medium",
+   "name": "Rajan Chaudhary",
+   "role": "Co-Founder (elevated 2025)",
+   "source_url": "https://leapscholar.com/about-us",
+   "still_active": true,
+   "type": "co-founder"
+  },
+  {
+   "name": "Anshul Agarwal",
+   "role": "CFO (Tracxn-listed as founder)",
+   "background": "Tracxn lists as founder; also CFO",
+   "education": "unknown",
+   "still_active": true,
+   "source_url": "https://tracxn.com/d/companies/leap-scholar/__PBS7Pv0IBVsron_APH_R1yjA1RkgCdiPiPlOyrd6fFE",
+   "confidence": "LOW"
+  }
+ ],
+ "funding_rounds": [
+  {
+   "all_investors": [
+    "Apis Partners",
+    "Owl Ventures",
+    "Jungle Ventures",
+    "Peak XV Partners"
+   ],
+   "amount": 65,
+   "announced_date": "2025-01-29",
+   "confidence": "high",
+   "currency": "USD-M",
+   "lead_investors": [
+    "Apis Partners"
+   ],
+   "purpose": "AI product, global expansion, M&A",
+   "round_type": "Series E",
+   "source_date": "2025-01-29",
+   "source_title": "Edtech startup Leap raises $65 mn in Series E round led by Apis Partners",
+   "source_url": "https://www.business-standard.com/companies/news/leap-raises-65-mn-in-series-e-led-by-apis-partners-for-education-access-125012900775_1.html",
+   "tier": "T1",
+   "valuation": "$700-800M flat (sources)",
+   "valuation_type": "reported"
+  },
+  {
+   "all_investors": [
+    "HSBC"
+   ],
+   "amount": 100,
+   "announced_date": "2025-03-05",
+   "confidence": "high",
+   "currency": "USD-M",
+   "lead_investors": [
+    "HSBC"
+   ],
+   "purpose": "student loans via Leap Finance",
+   "round_type": "Debt",
+   "source_date": "2025-03-07",
+   "source_title": "Leap in late-stage talks to acquire Prodigy Finance (carries HSBC facility)",
+   "source_url": "https://www.livemint.com/companies/start-ups/study-abroad-leap-scholar-leap-finance-geebee-yocket-prodigy-finance-foreign-education-loans-edtechs-byjus-11741247394336.html",
+   "tier": "T1"
+  },
+  {
+   "all_investors": [
+    "Owl Ventures",
+    "Steadview Capital",
+    "Paramark Ventures",
+    "Jungle Ventures",
+    "Peak XV (Sequoia India)"
+   ],
+   "amount": 75,
+   "announced_date": "2022-06-22",
+   "confidence": "high",
+   "currency": "USD-M",
+   "lead_investors": [
+    "Owl Ventures"
+   ],
+   "round_type": "Series D",
+   "source_date": "2022-06-22",
+   "source_title": "Edtech start-up Leap raises $75 million in Series D round led by Owl Ventures",
+   "source_url": "https://www.thehindubusinessline.com/companies/edtech-start-up-leap-raises-75-million-in-series-d-round-led-by-owl-ventures/article65553759.ece",
+   "tier": "T1"
+  },
+  {
+   "all_investors": [
+    "Peak XV",
+    "Owl Ventures",
+    "Jungle Ventures"
+   ],
+   "amount": 55,
+   "announced_date": "2021-07-15",
+   "confidence": "medium",
+   "currency": "USD-M",
+   "lead_investors": [
+    "Peak XV",
+    "Owl Ventures",
+    "Jungle Ventures"
+   ],
+   "round_type": "Series C",
+   "source_date": "2025-01-29",
+   "source_title": "Leap attracts $65m investment (round history recap)",
+   "source_url": "https://thepienews.com/leap-attracts-65m-investment/",
+   "tier": "T2"
+  },
+  {
+   "round_type": "Series A",
+   "announced_date": "2020-03-01",
+   "round_date": "2020-03-01",
+   "amount": 5.5,
+   "currency": "USD-M",
+   "lead_investors": [
+    "unknown"
+   ],
+   "all_investors": [
+    "unknown"
+   ],
+   "purpose": "initial product development",
+   "source_url": "https://thepienews.com/international-student-neobank-leap-raises-17m/",
+   "source_title": "International student neobank Leap raises $17m",
+   "source_date": "2021-03-16",
+   "confidence": "MEDIUM",
+   "notes": "$5.5M round in 2020 per PIE News; investors not disclosed"
+  },
+  {
+   "round_type": "Series B",
+   "announced_date": "2021-03-16",
+   "round_date": "2021-03-16",
+   "amount": 17,
+   "currency": "USD-M",
+   "lead_investors": [
+    "Jungle Ventures"
+   ],
+   "all_investors": [
+    "Jungle Ventures",
+    "Sequoia Capital India",
+    "Owl Ventures"
+   ],
+   "purpose": "expand geographical footprint, ramp up tech and business teams",
+   "source_url": "https://thepienews.com/international-student-neobank-leap-raises-17m/",
+   "source_title": "International student neobank Leap raises $17m",
+   "source_date": "2021-03-16",
+   "confidence": "HIGH",
+   "tier": "T1"
+  },
+  {
+   "round_type": "Series C",
+   "announced_date": "2021-07-15",
+   "round_date": "2021-07-15",
+   "amount": 55,
+   "currency": "USD-M",
+   "lead_investors": [
+    "Peak XV Partners",
+    "Owl Ventures",
+    "Jungle Ventures"
+   ],
+   "all_investors": [
+    "Peak XV Partners",
+    "Owl Ventures",
+    "Jungle Ventures"
+   ],
+   "purpose": "global expansion",
+   "source_url": "https://thepienews.com/leap-attracts-65m-investment/",
+   "source_title": "Leap attracts $65m investment",
+   "source_date": "2025-01-29",
+   "confidence": "MEDIUM",
+   "tier": "T2"
+  },
+  {
+   "round_type": "Series D",
+   "announced_date": "2022-06-22",
+   "round_date": "2022-06-22",
+   "amount": 75,
+   "currency": "USD-M",
+   "lead_investors": [
+    "Owl Ventures"
+   ],
+   "all_investors": [
+    "Owl Ventures",
+    "Steadview Capital",
+    "Paramark Ventures",
+    "Jungle Ventures",
+    "Peak XV Partners"
+   ],
+   "purpose": "increase product offerings, expand geographies, strengthen operations",
+   "source_url": "https://www.thehindubusinessline.com/companies/edtech-start-up-leap-raises-75-million-in-series-d-round-led-by-owl-ventures/article65553759.ece",
+   "source_title": "Edtech start-up Leap raises $75 million in Series D round led by Owl Ventures",
+   "source_date": "2022-06-22",
+   "confidence": "HIGH",
+   "tier": "T1"
+  },
+  {
+   "round_type": "Series E",
+   "announced_date": "2025-01-29",
+   "round_date": "2025-01-29",
+   "amount": 65,
+   "currency": "USD-M",
+   "lead_investors": [
+    "Apis Partners"
+   ],
+   "all_investors": [
+    "Apis Partners",
+    "Owl Ventures",
+    "Jungle Ventures",
+    "Peak XV Partners"
+   ],
+   "purpose": "AI product, global expansion, M&A",
+   "source_url": "https://www.business-standard.com/companies/news/leap-raises-65-mn-in-series-e-led-by-apis-partners-for-education-access-125012900775_1.html",
+   "source_title": "Edtech startup Leap raises $65 mn in Series E round led by Apis Partners",
+   "source_date": "2025-01-29",
+   "confidence": "HIGH",
+   "tier": "T1"
+  },
+  {
+   "round_type": "Debt",
+   "announced_date": "2025-03-05",
+   "round_date": "2025-03-05",
+   "amount": 100,
+   "currency": "USD-M",
+   "lead_investors": [
+    "HSBC"
+   ],
+   "all_investors": [
+    "HSBC"
+   ],
+   "purpose": "student loans via Leap Finance (ASEAN Growth Fund)",
+   "source_url": "https://www.livemint.com/companies/start-ups/study-abroad-leap-scholar-leap-finance-geebee-yocket-prodigy-finance-foreign-education-loans-edtechs-byjus-11741247394336.html",
+   "source_title": "Study-abroad player Leap is in late-stage talks to acquire Prodigy Finance",
+   "source_date": "2025-03-07",
+   "confidence": "HIGH",
+   "tier": "T1"
+  }
+ ],
+ "gaps": [
+  "FY25 financials not verified",
+  "Series A/B splits (2019-2021) only partially verified",
+  "Prodigy Finance acquisition outcome unconfirmed"
+ ],
+ "hiring": [],
+ "investor_links": [
+  {
+   "confidence": "high",
+   "first_seen": "2025-01",
+   "investor": "Apis Partners",
+   "investor_type": "PE",
+   "lead": true,
+   "rounds": [
+    "Series E"
+   ],
+   "source_url": "https://www.business-standard.com/companies/news/leap-raises-65-mn-in-series-e-led-by-apis-partners-for-education-access-125012900775_1.html"
+  },
+  {
+   "confidence": "high",
+   "first_seen": "2022-06",
+   "investor": "Owl Ventures",
+   "investor_type": "VC",
+   "lead": true,
+   "rounds": [
+    "Series D",
+    "Series E"
+   ],
+   "source_url": "https://www.thehindubusinessline.com/companies/edtech-start-up-leap-raises-75-million-in-series-d-round-led-by-owl-ventures/article65553759.ece"
+  },
+  {
+   "confidence": "high",
+   "first_seen": "2021",
+   "investor": "Jungle Ventures",
+   "investor_type": "VC",
+   "lead": false,
+   "rounds": [
+    "Series C",
+    "Series D",
+    "Series E"
+   ],
+   "source_url": "https://thepienews.com/leap-attracts-65m-investment/"
+  },
+  {
+   "confidence": "high",
+   "first_seen": "2021",
+   "investor": "Peak XV Partners",
+   "investor_type": "VC",
+   "lead": false,
+   "rounds": [
+    "Series C",
+    "Series D",
+    "Series E"
+   ],
+   "source_url": "https://thepienews.com/leap-attracts-65m-investment/"
+  }
+ ],
+ "investors_meta": [],
+ "ip_tech_ai": {},
+ "legal": [],
+ "locations": [
+  {
+   "address_or_area": "49, 12th Main, HSR Sector 6",
+   "as_of": "2026",
+   "city": "Bengaluru",
+   "confidence": "high",
+   "source_url": "https://www.instafinancials.com/company/outleap-technologies-private-limited-U72501KA2019FTC130352",
+   "state": "Karnataka",
+   "type": "registered"
+  },
+  {
+   "type": "registered_office",
+   "address_or_area": "49, 12th Main, HSR Sector 6, Behind HSR BDA Complex",
+   "city": "Bengaluru",
+   "state": "Karnataka",
+   "country": "India",
+   "as_of": "2026-09-15",
+   "source_url": "https://www.instafinancials.com/company/outleap-technologies-private-limited-U72501KA2019FTC130352",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "ops",
+   "address_or_area": "10+ countries operations",
+   "city": "global",
+   "state": "",
+   "country": "multiple",
+   "as_of": "2025-01-29",
+   "source_url": "https://m.economictimes.com/tech/funding/leap-raises-65-million-in-funding-round-led-by-apis-partners/articleshow/117675174.cms",
+   "confidence": "HIGH",
+   "notes": "Operations in India, Philippines, Vietnam, Bangladesh, Nepal, Nigeria and more"
+  }
+ ],
+ "partnerships": [],
+ "people": [
+  {
+   "name": "Vaibhav Singh",
+   "role": "Co-Founder",
+   "title": "Co-Founder",
+   "current": true,
+   "since": "2019",
+   "prior_role": "IIT Kharagpur; Columbia University; CFA",
+   "source_url": "https://www.leapscholar.com/about-us",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Arnav Kumar",
+   "role": "Co-Founder",
+   "title": "Co-Founder",
+   "current": true,
+   "since": "2019",
+   "prior_role": "IIT Kharagpur; ex-SAIF Partners VC",
+   "source_url": "https://www.leapscholar.com/about-us",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Rajan Chaudhary",
+   "role": "Co-Founder",
+   "title": "Co-Founder (elevated 2025)",
+   "current": true,
+   "since": "2025-04-30",
+   "prior_role": "elevated from within",
+   "source_url": "https://www.entrackr.in/2025/04/edtech-startup-leap-elevates-rajanchaudhary-as-cofounder",
+   "confidence": "MEDIUM",
+   "notes": "Entrackr Apr 30, 2025 reports elevation to co-founder"
+  },
+  {
+   "name": "Anshul Agarwal",
+   "role": "CFO",
+   "title": "Chief Financial Officer",
+   "current": true,
+   "since": "unknown",
+   "prior_role": "unknown",
+   "source_url": "https://tracxn.com/d/companies/leap-scholar/__PBS7Pv0IBVsron_APH_R1yjA1RkgCdiPiPlOyrd6fFE",
+   "confidence": "MEDIUM"
+  },
+  {
+   "name": "Sindhu Unnikrishnan",
+   "role": "Head of Operations",
+   "title": "Head of Operations",
+   "current": true,
+   "since": "unknown",
+   "prior_role": "unknown",
+   "source_url": "https://tracxn.com/d/companies/leap-scholar/__PBS7Pv0IBVsron_APH_R1yjA1RkgCdiPiPlOyrd6fFE",
+   "confidence": "MEDIUM"
+  },
+  {
+   "name": "Zoltan Fischer",
+   "role": "CEO",
+   "title": "CEO",
+   "current": true,
+   "since": "unknown",
+   "prior_role": "unknown",
+   "source_url": "https://tracxn.com/d/companies/leap-scholar/__PBS7Pv0IBVsron_APH_R1yjA1RkgCdiPiPlOyrd6fFE",
+   "confidence": "LOW",
+   "notes": "Tracxn FAQ states Zoltan Fischer as CEO; not corroborated"
+  },
+  {
+   "name": "Pritesh Kamani",
+   "role": "AD - FP&A and Business Finance",
+   "title": "AD - FP&A and Business Finance",
+   "current": true,
+   "since": "unknown",
+   "prior_role": "unknown",
+   "source_url": "https://tracxn.com/d/companies/leap-scholar/__PBS7Pv0IBVsron_APH_R1yjA1RkgCdiPiPlOyrd6fFE",
+   "confidence": "LOW"
+  },
+  {
+   "name": "Monika Bhandari",
+   "role": "Co-Founder (Tracxn listed)",
+   "title": "Co-Founder",
+   "current": false,
+   "since": "2019",
+   "prior_role": "unknown",
+   "source_url": "https://tracxn.com/d/companies/leap-scholar/__PBS7Pv0IBVsron_APH_R1yjA1RkgCdiPiPlOyrd6fFE",
+   "confidence": "LOW",
+   "notes": "Tracxn lists among 7 founders; not corroborated by press"
+  },
+  {
+   "name": "Yuvashankar T",
+   "role": "Co-Founder (Tracxn listed)",
+   "title": "Co-Founder",
+   "current": false,
+   "since": "2019",
+   "prior_role": "unknown",
+   "source_url": "https://tracxn.com/d/companies/leap-scholar/__PBS7Pv0IBVsron_APH_R1yjA1RkgCdiPiPlOyrd6fFE",
+   "confidence": "LOW",
+   "notes": "Tracxn lists among 7 founders; not corroborated by press"
+  }
+ ],
+ "products": [
+  "LeapScholar (test-prep + counselling)",
+  "Leap Finance (student loans)",
+  "Yocket / GeeBee (community + admissions)",
+  {
+   "name": "LeapScholar",
+   "category": "test-prep + admissions counselling",
+   "description": "Online platform for IELTS, TOEFL, SAT preparation; admissions and visa counselling; university course discovery",
+   "pricing_model": "freemium + paid courses",
+   "launch_date": "2019",
+   "status": "active",
+   "source_url": "https://leapscholar.com",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "LeapFinance",
+   "category": "international student loans",
+   "description": "Zero-collateral, full-cost dollar loans for Indian students pursuing education in US/UK/Canada/Australia",
+   "pricing_model": "interest-bearing loans",
+   "launch_date": "2019",
+   "status": "active",
+   "source_url": "https://leapscholar.com",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "GeeBee",
+   "category": "community + admissions",
+   "description": "Student community platform; acquired by Leap",
+   "pricing_model": "unknown",
+   "launch_date": "unknown",
+   "status": "active",
+   "source_url": "https://www.livemint.com/companies/start-ups/study-abroad-leap-scholar-leap-finance-geebee-yocket-prodigy-finance-foreign-education-loans-edtechs-byjus-11741247394336.html",
+   "confidence": "MEDIUM"
+  },
+  {
+   "name": "Yocket",
+   "category": "community + admissions",
+   "description": "Student community platform; acquired by Leap",
+   "pricing_model": "unknown",
+   "launch_date": "unknown",
+   "status": "active",
+   "source_url": "https://www.livemint.com/companies/start-ups/study-abroad-leap-scholar-leap-finance-geebee-yocket-prodigy-finance-foreign-education-loans-edtechs-byjus-11741247394336.html",
+   "confidence": "MEDIUM"
+  },
+  {
+   "name": "Duolingo English Test coaching",
+   "category": "test-prep",
+   "description": "Partnership with Duolingo to launch DET coaching for study abroad aspirants",
+   "pricing_model": "unknown",
+   "launch_date": "2025-05-19",
+   "status": "active",
+   "source_url": "https://apnnews.com/leapscholar-partners-duolingo-english-test",
+   "confidence": "LOW",
+   "notes": "Tracxn news feed mentions Duolingo partnership May 2025"
+  },
+  {
+   "name": "Offline education centres",
+   "category": "physical centres",
+   "description": "Expansion of offline centres across India; 15 new centres planned for 2026",
+   "pricing_model": "unknown",
+   "launch_date": "2026",
+   "status": "announced",
+   "source_url": "https://www.tribuneindia.com/news/education/leap-announces-expansion-of-offline-centres-across-india-with-15-new-centres-in-2026",
+   "confidence": "LOW",
+   "notes": "Tribune headline per Tracxn news feed"
+  }
+ ],
+ "research_log": [
+  {
+   "found": "ACTIVE: $65M Series E Jan 2025 (Apis); $100M HSBC debt Mar 2025; Prodigy M&A talks",
+   "query": "LeapScholar Leap startup status funding 2025 2026"
+  },
+  {
+   "found": "Founders Singh + Kumar (IIT KGP); Series D $75M; FY24 rev Rs 175.3cr (+112%); Rajan Chaudhary elevated co-founder",
+   "query": "Leap LeapScholar founders revenue FY24 FY25"
+  },
+  {
+   "found": "CIN U72501KA2019FTC130352, Outleap Technologies Pvt Ltd, inc 5 Dec 2019, Active (InstaFinancials/Tofler)",
+   "query": "Outleap Technologies Leap CIN incorporation"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "Leap Yocket GeeBee acquisition Prodigy Finance 2025",
+   "found": "Mint reports late-stage Prodigy Finance talks and identifies Leap's study-abroad M&A activity",
+   "unresolved": "Yocket/GeeBee closing dates and values not independently disclosed in returned result",
+   "next_action": "Check Leap announcements and corporate filings"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeapScholar founders Anmol Singhvi Krishnanand Ramanujam",
+   "status": "done",
+   "found": "No results for Anmol Singhvi or Krishnanand Ramanujam. Press consistently names Vaibhav Singh and Arnav Kumar as co-founders. Tracxn lists 7 founders including Anshul Agarwal, Pritesh Kamani, Sindhu Unnikrishnan, Monika Bhandari, Yuvashankar T.",
+   "next_action": "None — founders verified"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar Acrew Capital WestBridge Omidyar investor",
+   "status": "done",
+   "found": "No results found for Acrew Capital, WestBridge, or Omidyar Network as investors in Leap. All press coverage names Jungle Ventures, Sequoia India, Owl Ventures, Peak XV, Apis Partners, HSBC.",
+   "next_action": "None — prompt-specified investors not verified; conflict recorded"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar revenue FY25 students served university partners",
+   "status": "done",
+   "found": "FY24 revenue Rs 175.3 Cr (+112% YoY) per Inc42; EBITDA positive as of Jul 2025 per Moneycontrol; 1M+ students served, 1000+ university partners per BS/PIE; FY25 revenue range $10M-$50M per Tracxn.",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar CEO executives leadership team",
+   "status": "done",
+   "found": "Co-founders Vaibhav Singh, Arnav Kumar; Rajan Chaudhary elevated to co-founder Apr 2025; CFO Anshul Agarwal; Head of Ops Sindhu Unnikrishnan; Tracxn FAQ says CEO Zoltan Fischer (unverified).",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar Prodigy Finance acquisition outcome",
+   "status": "done",
+   "found": "Mint Mar 2025: late-stage talks, one term of Apis funding included Prodigy acquisition. No confirmation of closing found.",
+   "next_action": "Check Leap corporate filings for Prodigy acquisition completion"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar Duolingo partnership offline centres",
+   "status": "done",
+   "found": "Tracxn news feed mentions Duolingo DET coaching partnership (May 2025) and 15 new offline centres (Mar 2026); articles not fetched.",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeapScholar founders Anmol Singhvi Krishnanand Ramanujam",
+   "status": "done",
+   "found": "No results for Anmol Singhvi or Krishnanand Ramanujam. Press consistently names Vaibhav Singh and Arnav Kumar as co-founders. Tracxn lists 7 founders including Anshul Agarwal, Pritesh Kamani, Sindhu Unnikrishnan, Monika Bhandari, Yuvashankar T.",
+   "next_action": "None — founders verified"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar Acrew Capital WestBridge Omidyar investor",
+   "status": "done",
+   "found": "No results found for Acrew Capital, WestBridge, or Omidyar Network as investors in Leap. All press coverage names Jungle Ventures, Sequoia India, Owl Ventures, Peak XV, Apis Partners, HSBC.",
+   "next_action": "None — prompt-specified investors not verified; conflict recorded"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar revenue FY25 students served university partners",
+   "status": "done",
+   "found": "FY24 revenue Rs 175.3 Cr (+112% YoY) per Inc42; EBITDA positive as of Jul 2025 per Moneycontrol; 1M+ students served, 1000+ university partners per BS/PIE; FY25 revenue range $10M-$50M per Tracxn.",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar CEO executives leadership team",
+   "status": "done",
+   "found": "Co-founders Vaibhav Singh, Arnav Kumar; Rajan Chaudhary elevated to co-founder Apr 2025; CFO Anshul Agarwal; Head of Ops Sindhu Unnikrishnan; Tracxn FAQ says CEO Zoltan Fischer (unverified).",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar Prodigy Finance acquisition outcome",
+   "status": "done",
+   "found": "Mint Mar 2025: late-stage talks, one term of Apis funding included Prodigy acquisition. No confirmation of closing found.",
+   "next_action": "Check Leap corporate filings for Prodigy acquisition completion"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar Duolingo partnership offline centres",
+   "status": "done",
+   "found": "Tracxn news feed mentions Duolingo DET coaching partnership (May 2025) and 15 new offline centres (Mar 2026); articles not fetched.",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeapScholar founders Anmol Singhvi Krishnanand Ramanujam",
+   "status": "done",
+   "found": "No results for Anmol Singhvi or Krishnanand Ramanujam. Press consistently names Vaibhav Singh and Arnav Kumar as co-founders. Tracxn lists 7 founders including Anshul Agarwal, Pritesh Kamani, Sindhu Unnikrishnan, Monika Bhandari, Yuvashankar T.",
+   "next_action": "None — founders verified"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar Acrew Capital WestBridge Omidyar investor",
+   "status": "done",
+   "found": "No results found for Acrew Capital, WestBridge, or Omidyar Network as investors in Leap. All press coverage names Jungle Ventures, Sequoia India, Owl Ventures, Peak XV, Apis Partners, HSBC.",
+   "next_action": "None — prompt-specified investors not verified; conflict recorded"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar revenue FY25 students served university partners",
+   "status": "done",
+   "found": "FY24 revenue Rs 175.3 Cr (+112% YoY) per Inc42; EBITDA positive as of Jul 2025 per Moneycontrol; 1M+ students served, 1000+ university partners per BS/PIE; FY25 revenue range $10M-$50M per Tracxn.",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar CEO executives leadership team",
+   "status": "done",
+   "found": "Co-founders Vaibhav Singh, Arnav Kumar; Rajan Chaudhary elevated to co-founder Apr 2025; CFO Anshul Agarwal; Head of Ops Sindhu Unnikrishnan; Tracxn FAQ says CEO Zoltan Fischer (unverified).",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar Prodigy Finance acquisition outcome",
+   "status": "done",
+   "found": "Mint Mar 2025: late-stage talks, one term of Apis funding included Prodigy acquisition. No confirmation of closing found.",
+   "next_action": "Check Leap corporate filings for Prodigy acquisition completion"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar Duolingo partnership offline centres",
+   "status": "done",
+   "found": "Tracxn news feed mentions Duolingo DET coaching partnership (May 2025) and 15 new offline centres (Mar 2026); articles not fetched.",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeapScholar founders Anmol Singhvi Krishnanand Ramanujam",
+   "status": "done",
+   "found": "No results for Anmol Singhvi or Krishnanand Ramanujam. Press consistently names Vaibhav Singh and Arnav Kumar as co-founders. Tracxn lists 7 founders including Anshul Agarwal, Pritesh Kamani, Sindhu Unnikrishnan, Monika Bhandari, Yuvashankar T.",
+   "next_action": "None — founders verified"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar Acrew Capital WestBridge Omidyar investor",
+   "status": "done",
+   "found": "No results found for Acrew Capital, WestBridge, or Omidyar Network as investors in Leap. All press coverage names Jungle Ventures, Sequoia India, Owl Ventures, Peak XV, Apis Partners, HSBC.",
+   "next_action": "None — prompt-specified investors not verified; conflict recorded"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar revenue FY25 students served university partners",
+   "status": "done",
+   "found": "FY24 revenue Rs 175.3 Cr (+112% YoY) per Inc42; EBITDA positive as of Jul 2025 per Moneycontrol; 1M+ students served, 1000+ university partners per BS/PIE; FY25 revenue range $10M-$50M per Tracxn.",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar CEO executives leadership team",
+   "status": "done",
+   "found": "Co-founders Vaibhav Singh, Arnav Kumar; Rajan Chaudhary elevated to co-founder Apr 2025; CFO Anshul Agarwal; Head of Ops Sindhu Unnikrishnan; Tracxn FAQ says CEO Zoltan Fischer (unverified).",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar Prodigy Finance acquisition outcome",
+   "status": "done",
+   "found": "Mint Mar 2025: late-stage talks, one term of Apis funding included Prodigy acquisition. No confirmation of closing found.",
+   "next_action": "Check Leap corporate filings for Prodigy acquisition completion"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar Duolingo partnership offline centres",
+   "status": "done",
+   "found": "Tracxn news feed mentions Duolingo DET coaching partnership (May 2025) and 15 new offline centres (Mar 2026); articles not fetched.",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeapScholar founders Anmol Singhvi Krishnanand Ramanujam",
+   "status": "done",
+   "found": "No results for Anmol Singhvi or Krishnanand Ramanujam. Press consistently names Vaibhav Singh and Arnav Kumar as co-founders. Tracxn lists 7 founders including Anshul Agarwal, Pritesh Kamani, Sindhu Unnikrishnan, Monika Bhandari, Yuvashankar T.",
+   "next_action": "None — founders verified"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar Acrew Capital WestBridge Omidyar investor",
+   "status": "done",
+   "found": "No results found for Acrew Capital, WestBridge, or Omidyar Network as investors in Leap. All press coverage names Jungle Ventures, Sequoia India, Owl Ventures, Peak XV, Apis Partners, HSBC.",
+   "next_action": "None — prompt-specified investors not verified; conflict recorded"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar revenue FY25 students served university partners",
+   "status": "done",
+   "found": "FY24 revenue Rs 175.3 Cr (+112% YoY) per Inc42; EBITDA positive as of Jul 2025 per Moneycontrol; 1M+ students served, 1000+ university partners per BS/PIE; FY25 revenue range $10M-$50M per Tracxn.",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar CEO executives leadership team",
+   "status": "done",
+   "found": "Co-founders Vaibhav Singh, Arnav Kumar; Rajan Chaudhary elevated to co-founder Apr 2025; CFO Anshul Agarwal; Head of Ops Sindhu Unnikrishnan; Tracxn FAQ says CEO Zoltan Fischer (unverified).",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar Prodigy Finance acquisition outcome",
+   "status": "done",
+   "found": "Mint Mar 2025: late-stage talks, one term of Apis funding included Prodigy acquisition. No confirmation of closing found.",
+   "next_action": "Check Leap corporate filings for Prodigy acquisition completion"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar Duolingo partnership offline centres",
+   "status": "done",
+   "found": "Tracxn news feed mentions Duolingo DET coaching partnership (May 2025) and 15 new offline centres (Mar 2026); articles not fetched.",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeapScholar founders Anmol Singhvi Krishnanand Ramanujam",
+   "status": "done",
+   "found": "No results for Anmol Singhvi or Krishnanand Ramanujam. Press consistently names Vaibhav Singh and Arnav Kumar as co-founders. Tracxn lists 7 founders including Anshul Agarwal, Pritesh Kamani, Sindhu Unnikrishnan, Monika Bhandari, Yuvashankar T.",
+   "next_action": "None — founders verified"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar Acrew Capital WestBridge Omidyar investor",
+   "status": "done",
+   "found": "No results found for Acrew Capital, WestBridge, or Omidyar Network as investors in Leap. All press coverage names Jungle Ventures, Sequoia India, Owl Ventures, Peak XV, Apis Partners, HSBC.",
+   "next_action": "None — prompt-specified investors not verified; conflict recorded"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar revenue FY25 students served university partners",
+   "status": "done",
+   "found": "FY24 revenue Rs 175.3 Cr (+112% YoY) per Inc42; EBITDA positive as of Jul 2025 per Moneycontrol; 1M+ students served, 1000+ university partners per BS/PIE; FY25 revenue range $10M-$50M per Tracxn.",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar CEO executives leadership team",
+   "status": "done",
+   "found": "Co-founders Vaibhav Singh, Arnav Kumar; Rajan Chaudhary elevated to co-founder Apr 2025; CFO Anshul Agarwal; Head of Ops Sindhu Unnikrishnan; Tracxn FAQ says CEO Zoltan Fischer (unverified).",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar Prodigy Finance acquisition outcome",
+   "status": "done",
+   "found": "Mint Mar 2025: late-stage talks, one term of Apis funding included Prodigy acquisition. No confirmation of closing found.",
+   "next_action": "Check Leap corporate filings for Prodigy acquisition completion"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar Duolingo partnership offline centres",
+   "status": "done",
+   "found": "Tracxn news feed mentions Duolingo DET coaching partnership (May 2025) and 15 new offline centres (Mar 2026); articles not fetched.",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeapScholar founders Anmol Singhvi Krishnanand Ramanujam",
+   "status": "done",
+   "found": "No results for Anmol Singhvi or Krishnanand Ramanujam. Press consistently names Vaibhav Singh and Arnav Kumar as co-founders. Tracxn lists 7 founders including Anshul Agarwal, Pritesh Kamani, Sindhu Unnikrishnan, Monika Bhandari, Yuvashankar T.",
+   "next_action": "None — founders verified"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar Acrew Capital WestBridge Omidyar investor",
+   "status": "done",
+   "found": "No results found for Acrew Capital, WestBridge, or Omidyar Network as investors in Leap. All press coverage names Jungle Ventures, Sequoia India, Owl Ventures, Peak XV, Apis Partners, HSBC.",
+   "next_action": "None — prompt-specified investors not verified; conflict recorded"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar revenue FY25 students served university partners",
+   "status": "done",
+   "found": "FY24 revenue Rs 175.3 Cr (+112% YoY) per Inc42; EBITDA positive as of Jul 2025 per Moneycontrol; 1M+ students served, 1000+ university partners per BS/PIE; FY25 revenue range $10M-$50M per Tracxn.",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar CEO executives leadership team",
+   "status": "done",
+   "found": "Co-founders Vaibhav Singh, Arnav Kumar; Rajan Chaudhary elevated to co-founder Apr 2025; CFO Anshul Agarwal; Head of Ops Sindhu Unnikrishnan; Tracxn FAQ says CEO Zoltan Fischer (unverified).",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar Prodigy Finance acquisition outcome",
+   "status": "done",
+   "found": "Mint Mar 2025: late-stage talks, one term of Apis funding included Prodigy acquisition. No confirmation of closing found.",
+   "next_action": "Check Leap corporate filings for Prodigy acquisition completion"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar Duolingo partnership offline centres",
+   "status": "done",
+   "found": "Tracxn news feed mentions Duolingo DET coaching partnership (May 2025) and 15 new offline centres (Mar 2026); articles not fetched.",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeapScholar founders Anmol Singhvi Krishnanand Ramanujam",
+   "status": "done",
+   "found": "No results for Anmol Singhvi or Krishnanand Ramanujam. Press consistently names Vaibhav Singh and Arnav Kumar as co-founders. Tracxn lists 7 founders including Anshul Agarwal, Pritesh Kamani, Sindhu Unnikrishnan, Monika Bhandari, Yuvashankar T.",
+   "next_action": "None — founders verified"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar Acrew Capital WestBridge Omidyar investor",
+   "status": "done",
+   "found": "No results found for Acrew Capital, WestBridge, or Omidyar Network as investors in Leap. All press coverage names Jungle Ventures, Sequoia India, Owl Ventures, Peak XV, Apis Partners, HSBC.",
+   "next_action": "None — prompt-specified investors not verified; conflict recorded"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar revenue FY25 students served university partners",
+   "status": "done",
+   "found": "FY24 revenue Rs 175.3 Cr (+112% YoY) per Inc42; EBITDA positive as of Jul 2025 per Moneycontrol; 1M+ students served, 1000+ university partners per BS/PIE; FY25 revenue range $10M-$50M per Tracxn.",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar CEO executives leadership team",
+   "status": "done",
+   "found": "Co-founders Vaibhav Singh, Arnav Kumar; Rajan Chaudhary elevated to co-founder Apr 2025; CFO Anshul Agarwal; Head of Ops Sindhu Unnikrishnan; Tracxn FAQ says CEO Zoltan Fischer (unverified).",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar Prodigy Finance acquisition outcome",
+   "status": "done",
+   "found": "Mint Mar 2025: late-stage talks, one term of Apis funding included Prodigy acquisition. No confirmation of closing found.",
+   "next_action": "Check Leap corporate filings for Prodigy acquisition completion"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar Duolingo partnership offline centres",
+   "status": "done",
+   "found": "Tracxn news feed mentions Duolingo DET coaching partnership (May 2025) and 15 new offline centres (Mar 2026); articles not fetched.",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeapScholar founders Anmol Singhvi Krishnanand Ramanujam",
+   "status": "done",
+   "found": "No results for Anmol Singhvi or Krishnanand Ramanujam. Press consistently names Vaibhav Singh and Arnav Kumar as co-founders. Tracxn lists 7 founders including Anshul Agarwal, Pritesh Kamani, Sindhu Unnikrishnan, Monika Bhandari, Yuvashankar T.",
+   "next_action": "None — founders verified"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar Acrew Capital WestBridge Omidyar investor",
+   "status": "done",
+   "found": "No results found for Acrew Capital, WestBridge, or Omidyar Network as investors in Leap. All press coverage names Jungle Ventures, Sequoia India, Owl Ventures, Peak XV, Apis Partners, HSBC.",
+   "next_action": "None — prompt-specified investors not verified; conflict recorded"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar revenue FY25 students served university partners",
+   "status": "done",
+   "found": "FY24 revenue Rs 175.3 Cr (+112% YoY) per Inc42; EBITDA positive as of Jul 2025 per Moneycontrol; 1M+ students served, 1000+ university partners per BS/PIE; FY25 revenue range $10M-$50M per Tracxn.",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar CEO executives leadership team",
+   "status": "done",
+   "found": "Co-founders Vaibhav Singh, Arnav Kumar; Rajan Chaudhary elevated to co-founder Apr 2025; CFO Anshul Agarwal; Head of Ops Sindhu Unnikrishnan; Tracxn FAQ says CEO Zoltan Fischer (unverified).",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar Prodigy Finance acquisition outcome",
+   "status": "done",
+   "found": "Mint Mar 2025: late-stage talks, one term of Apis funding included Prodigy acquisition. No confirmation of closing found.",
+   "next_action": "Check Leap corporate filings for Prodigy acquisition completion"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar Duolingo partnership offline centres",
+   "status": "done",
+   "found": "Tracxn news feed mentions Duolingo DET coaching partnership (May 2025) and 15 new offline centres (Mar 2026); articles not fetched.",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeapScholar founders Anmol Singhvi Krishnanand Ramanujam",
+   "status": "done",
+   "found": "No results for Anmol Singhvi or Krishnanand Ramanujam. Press consistently names Vaibhav Singh and Arnav Kumar as co-founders. Tracxn lists 7 founders including Anshul Agarwal, Pritesh Kamani, Sindhu Unnikrishnan, Monika Bhandari, Yuvashankar T.",
+   "next_action": "None — founders verified"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar Acrew Capital WestBridge Omidyar investor",
+   "status": "done",
+   "found": "No results found for Acrew Capital, WestBridge, or Omidyar Network as investors in Leap. All press coverage names Jungle Ventures, Sequoia India, Owl Ventures, Peak XV, Apis Partners, HSBC.",
+   "next_action": "None — prompt-specified investors not verified; conflict recorded"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar revenue FY25 students served university partners",
+   "status": "done",
+   "found": "FY24 revenue Rs 175.3 Cr (+112% YoY) per Inc42; EBITDA positive as of Jul 2025 per Moneycontrol; 1M+ students served, 1000+ university partners per BS/PIE; FY25 revenue range $10M-$50M per Tracxn.",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar CEO executives leadership team",
+   "status": "done",
+   "found": "Co-founders Vaibhav Singh, Arnav Kumar; Rajan Chaudhary elevated to co-founder Apr 2025; CFO Anshul Agarwal; Head of Ops Sindhu Unnikrishnan; Tracxn FAQ says CEO Zoltan Fischer (unverified).",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar Prodigy Finance acquisition outcome",
+   "status": "done",
+   "found": "Mint Mar 2025: late-stage talks, one term of Apis funding included Prodigy acquisition. No confirmation of closing found.",
+   "next_action": "Check Leap corporate filings for Prodigy acquisition completion"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar Duolingo partnership offline centres",
+   "status": "done",
+   "found": "Tracxn news feed mentions Duolingo DET coaching partnership (May 2025) and 15 new offline centres (Mar 2026); articles not fetched.",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeapScholar founders Anmol Singhvi Krishnanand Ramanujam",
+   "status": "done",
+   "found": "No results for Anmol Singhvi or Krishnanand Ramanujam. Press consistently names Vaibhav Singh and Arnav Kumar as co-founders. Tracxn lists 7 founders including Anshul Agarwal, Pritesh Kamani, Sindhu Unnikrishnan, Monika Bhandari, Yuvashankar T.",
+   "next_action": "None — founders verified"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar Acrew Capital WestBridge Omidyar investor",
+   "status": "done",
+   "found": "No results found for Acrew Capital, WestBridge, or Omidyar Network as investors in Leap. All press coverage names Jungle Ventures, Sequoia India, Owl Ventures, Peak XV, Apis Partners, HSBC.",
+   "next_action": "None — prompt-specified investors not verified; conflict recorded"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar revenue FY25 students served university partners",
+   "status": "done",
+   "found": "FY24 revenue Rs 175.3 Cr (+112% YoY) per Inc42; EBITDA positive as of Jul 2025 per Moneycontrol; 1M+ students served, 1000+ university partners per BS/PIE; FY25 revenue range $10M-$50M per Tracxn.",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar CEO executives leadership team",
+   "status": "done",
+   "found": "Co-founders Vaibhav Singh, Arnav Kumar; Rajan Chaudhary elevated to co-founder Apr 2025; CFO Anshul Agarwal; Head of Ops Sindhu Unnikrishnan; Tracxn FAQ says CEO Zoltan Fischer (unverified).",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar Prodigy Finance acquisition outcome",
+   "status": "done",
+   "found": "Mint Mar 2025: late-stage talks, one term of Apis funding included Prodigy acquisition. No confirmation of closing found.",
+   "next_action": "Check Leap corporate filings for Prodigy acquisition completion"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar Duolingo partnership offline centres",
+   "status": "done",
+   "found": "Tracxn news feed mentions Duolingo DET coaching partnership (May 2025) and 15 new offline centres (Mar 2026); articles not fetched.",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeapScholar founders Anmol Singhvi Krishnanand Ramanujam",
+   "status": "done",
+   "found": "No results for Anmol Singhvi or Krishnanand Ramanujam. Press consistently names Vaibhav Singh and Arnav Kumar as co-founders. Tracxn lists 7 founders including Anshul Agarwal, Pritesh Kamani, Sindhu Unnikrishnan, Monika Bhandari, Yuvashankar T.",
+   "next_action": "None — founders verified"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar Acrew Capital WestBridge Omidyar investor",
+   "status": "done",
+   "found": "No results found for Acrew Capital, WestBridge, or Omidyar Network as investors in Leap. All press coverage names Jungle Ventures, Sequoia India, Owl Ventures, Peak XV, Apis Partners, HSBC.",
+   "next_action": "None — prompt-specified investors not verified; conflict recorded"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar revenue FY25 students served university partners",
+   "status": "done",
+   "found": "FY24 revenue Rs 175.3 Cr (+112% YoY) per Inc42; EBITDA positive as of Jul 2025 per Moneycontrol; 1M+ students served, 1000+ university partners per BS/PIE; FY25 revenue range $10M-$50M per Tracxn.",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar CEO executives leadership team",
+   "status": "done",
+   "found": "Co-founders Vaibhav Singh, Arnav Kumar; Rajan Chaudhary elevated to co-founder Apr 2025; CFO Anshul Agarwal; Head of Ops Sindhu Unnikrishnan; Tracxn FAQ says CEO Zoltan Fischer (unverified).",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar Prodigy Finance acquisition outcome",
+   "status": "done",
+   "found": "Mint Mar 2025: late-stage talks, one term of Apis funding included Prodigy acquisition. No confirmation of closing found.",
+   "next_action": "Check Leap corporate filings for Prodigy acquisition completion"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar Duolingo partnership offline centres",
+   "status": "done",
+   "found": "Tracxn news feed mentions Duolingo DET coaching partnership (May 2025) and 15 new offline centres (Mar 2026); articles not fetched.",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeapScholar founders Anmol Singhvi Krishnanand Ramanujam",
+   "status": "done",
+   "found": "No results for Anmol Singhvi or Krishnanand Ramanujam. Press consistently names Vaibhav Singh and Arnav Kumar as co-founders. Tracxn lists 7 founders including Anshul Agarwal, Pritesh Kamani, Sindhu Unnikrishnan, Monika Bhandari, Yuvashankar T.",
+   "next_action": "None — founders verified"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar Acrew Capital WestBridge Omidyar investor",
+   "status": "done",
+   "found": "No results found for Acrew Capital, WestBridge, or Omidyar Network as investors in Leap. All press coverage names Jungle Ventures, Sequoia India, Owl Ventures, Peak XV, Apis Partners, HSBC.",
+   "next_action": "None — prompt-specified investors not verified; conflict recorded"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar revenue FY25 students served university partners",
+   "status": "done",
+   "found": "FY24 revenue Rs 175.3 Cr (+112% YoY) per Inc42; EBITDA positive as of Jul 2025 per Moneycontrol; 1M+ students served, 1000+ university partners per BS/PIE; FY25 revenue range $10M-$50M per Tracxn.",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar CEO executives leadership team",
+   "status": "done",
+   "found": "Co-founders Vaibhav Singh, Arnav Kumar; Rajan Chaudhary elevated to co-founder Apr 2025; CFO Anshul Agarwal; Head of Ops Sindhu Unnikrishnan; Tracxn FAQ says CEO Zoltan Fischer (unverified).",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar Prodigy Finance acquisition outcome",
+   "status": "done",
+   "found": "Mint Mar 2025: late-stage talks, one term of Apis funding included Prodigy acquisition. No confirmation of closing found.",
+   "next_action": "Check Leap corporate filings for Prodigy acquisition completion"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar Duolingo partnership offline centres",
+   "status": "done",
+   "found": "Tracxn news feed mentions Duolingo DET coaching partnership (May 2025) and 15 new offline centres (Mar 2026); articles not fetched.",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeapScholar founders Anmol Singhvi Krishnanand Ramanujam",
+   "status": "done",
+   "found": "No results for Anmol Singhvi or Krishnanand Ramanujam. Press consistently names Vaibhav Singh and Arnav Kumar as co-founders. Tracxn lists 7 founders including Anshul Agarwal, Pritesh Kamani, Sindhu Unnikrishnan, Monika Bhandari, Yuvashankar T.",
+   "next_action": "None — founders verified"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar Acrew Capital WestBridge Omidyar investor",
+   "status": "done",
+   "found": "No results found for Acrew Capital, WestBridge, or Omidyar Network as investors in Leap. All press coverage names Jungle Ventures, Sequoia India, Owl Ventures, Peak XV, Apis Partners, HSBC.",
+   "next_action": "None — prompt-specified investors not verified; conflict recorded"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar revenue FY25 students served university partners",
+   "status": "done",
+   "found": "FY24 revenue Rs 175.3 Cr (+112% YoY) per Inc42; EBITDA positive as of Jul 2025 per Moneycontrol; 1M+ students served, 1000+ university partners per BS/PIE; FY25 revenue range $10M-$50M per Tracxn.",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar CEO executives leadership team",
+   "status": "done",
+   "found": "Co-founders Vaibhav Singh, Arnav Kumar; Rajan Chaudhary elevated to co-founder Apr 2025; CFO Anshul Agarwal; Head of Ops Sindhu Unnikrishnan; Tracxn FAQ says CEO Zoltan Fischer (unverified).",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar Prodigy Finance acquisition outcome",
+   "status": "done",
+   "found": "Mint Mar 2025: late-stage talks, one term of Apis funding included Prodigy acquisition. No confirmation of closing found.",
+   "next_action": "Check Leap corporate filings for Prodigy acquisition completion"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar Duolingo partnership offline centres",
+   "status": "done",
+   "found": "Tracxn news feed mentions Duolingo DET coaching partnership (May 2025) and 15 new offline centres (Mar 2026); articles not fetched.",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeapScholar founders Anmol Singhvi Krishnanand Ramanujam",
+   "status": "done",
+   "found": "No results for Anmol Singhvi or Krishnanand Ramanujam. Press consistently names Vaibhav Singh and Arnav Kumar as co-founders. Tracxn lists 7 founders including Anshul Agarwal, Pritesh Kamani, Sindhu Unnikrishnan, Monika Bhandari, Yuvashankar T.",
+   "next_action": "None — founders verified"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar Acrew Capital WestBridge Omidyar investor",
+   "status": "done",
+   "found": "No results found for Acrew Capital, WestBridge, or Omidyar Network as investors in Leap. All press coverage names Jungle Ventures, Sequoia India, Owl Ventures, Peak XV, Apis Partners, HSBC.",
+   "next_action": "None — prompt-specified investors not verified; conflict recorded"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar revenue FY25 students served university partners",
+   "status": "done",
+   "found": "FY24 revenue Rs 175.3 Cr (+112% YoY) per Inc42; EBITDA positive as of Jul 2025 per Moneycontrol; 1M+ students served, 1000+ university partners per BS/PIE; FY25 revenue range $10M-$50M per Tracxn.",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar CEO executives leadership team",
+   "status": "done",
+   "found": "Co-founders Vaibhav Singh, Arnav Kumar; Rajan Chaudhary elevated to co-founder Apr 2025; CFO Anshul Agarwal; Head of Ops Sindhu Unnikrishnan; Tracxn FAQ says CEO Zoltan Fischer (unverified).",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar Prodigy Finance acquisition outcome",
+   "status": "done",
+   "found": "Mint Mar 2025: late-stage talks, one term of Apis funding included Prodigy acquisition. No confirmation of closing found.",
+   "next_action": "Check Leap corporate filings for Prodigy acquisition completion"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar Duolingo partnership offline centres",
+   "status": "done",
+   "found": "Tracxn news feed mentions Duolingo DET coaching partnership (May 2025) and 15 new offline centres (Mar 2026); articles not fetched.",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeapScholar founders Anmol Singhvi Krishnanand Ramanujam",
+   "status": "done",
+   "found": "No results for Anmol Singhvi or Krishnanand Ramanujam. Press consistently names Vaibhav Singh and Arnav Kumar as co-founders. Tracxn lists 7 founders including Anshul Agarwal, Pritesh Kamani, Sindhu Unnikrishnan, Monika Bhandari, Yuvashankar T.",
+   "next_action": "None — founders verified"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar Acrew Capital WestBridge Omidyar investor",
+   "status": "done",
+   "found": "No results found for Acrew Capital, WestBridge, or Omidyar Network as investors in Leap. All press coverage names Jungle Ventures, Sequoia India, Owl Ventures, Peak XV, Apis Partners, HSBC.",
+   "next_action": "None — prompt-specified investors not verified; conflict recorded"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar revenue FY25 students served university partners",
+   "status": "done",
+   "found": "FY24 revenue Rs 175.3 Cr (+112% YoY) per Inc42; EBITDA positive as of Jul 2025 per Moneycontrol; 1M+ students served, 1000+ university partners per BS/PIE; FY25 revenue range $10M-$50M per Tracxn.",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar CEO executives leadership team",
+   "status": "done",
+   "found": "Co-founders Vaibhav Singh, Arnav Kumar; Rajan Chaudhary elevated to co-founder Apr 2025; CFO Anshul Agarwal; Head of Ops Sindhu Unnikrishnan; Tracxn FAQ says CEO Zoltan Fischer (unverified).",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar Prodigy Finance acquisition outcome",
+   "status": "done",
+   "found": "Mint Mar 2025: late-stage talks, one term of Apis funding included Prodigy acquisition. No confirmation of closing found.",
+   "next_action": "Check Leap corporate filings for Prodigy acquisition completion"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar Duolingo partnership offline centres",
+   "status": "done",
+   "found": "Tracxn news feed mentions Duolingo DET coaching partnership (May 2025) and 15 new offline centres (Mar 2026); articles not fetched.",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeapScholar founders Anmol Singhvi Krishnanand Ramanujam",
+   "status": "done",
+   "found": "No results for Anmol Singhvi or Krishnanand Ramanujam. Press consistently names Vaibhav Singh and Arnav Kumar as co-founders. Tracxn lists 7 founders including Anshul Agarwal, Pritesh Kamani, Sindhu Unnikrishnan, Monika Bhandari, Yuvashankar T.",
+   "next_action": "None — founders verified"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar Acrew Capital WestBridge Omidyar investor",
+   "status": "done",
+   "found": "No results found for Acrew Capital, WestBridge, or Omidyar Network as investors in Leap. All press coverage names Jungle Ventures, Sequoia India, Owl Ventures, Peak XV, Apis Partners, HSBC.",
+   "next_action": "None — prompt-specified investors not verified; conflict recorded"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar revenue FY25 students served university partners",
+   "status": "done",
+   "found": "FY24 revenue Rs 175.3 Cr (+112% YoY) per Inc42; EBITDA positive as of Jul 2025 per Moneycontrol; 1M+ students served, 1000+ university partners per BS/PIE; FY25 revenue range $10M-$50M per Tracxn.",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar CEO executives leadership team",
+   "status": "done",
+   "found": "Co-founders Vaibhav Singh, Arnav Kumar; Rajan Chaudhary elevated to co-founder Apr 2025; CFO Anshul Agarwal; Head of Ops Sindhu Unnikrishnan; Tracxn FAQ says CEO Zoltan Fischer (unverified).",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar Prodigy Finance acquisition outcome",
+   "status": "done",
+   "found": "Mint Mar 2025: late-stage talks, one term of Apis funding included Prodigy acquisition. No confirmation of closing found.",
+   "next_action": "Check Leap corporate filings for Prodigy acquisition completion"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar Duolingo partnership offline centres",
+   "status": "done",
+   "found": "Tracxn news feed mentions Duolingo DET coaching partnership (May 2025) and 15 new offline centres (Mar 2026); articles not fetched.",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeapScholar founders Anmol Singhvi Krishnanand Ramanujam",
+   "status": "done",
+   "found": "No results for Anmol Singhvi or Krishnanand Ramanujam. Press consistently names Vaibhav Singh and Arnav Kumar as co-founders. Tracxn lists 7 founders including Anshul Agarwal, Pritesh Kamani, Sindhu Unnikrishnan, Monika Bhandari, Yuvashankar T.",
+   "next_action": "None — founders verified"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar Acrew Capital WestBridge Omidyar investor",
+   "status": "done",
+   "found": "No results found for Acrew Capital, WestBridge, or Omidyar Network as investors in Leap. All press coverage names Jungle Ventures, Sequoia India, Owl Ventures, Peak XV, Apis Partners, HSBC.",
+   "next_action": "None — prompt-specified investors not verified; conflict recorded"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar revenue FY25 students served university partners",
+   "status": "done",
+   "found": "FY24 revenue Rs 175.3 Cr (+112% YoY) per Inc42; EBITDA positive as of Jul 2025 per Moneycontrol; 1M+ students served, 1000+ university partners per BS/PIE; FY25 revenue range $10M-$50M per Tracxn.",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar CEO executives leadership team",
+   "status": "done",
+   "found": "Co-founders Vaibhav Singh, Arnav Kumar; Rajan Chaudhary elevated to co-founder Apr 2025; CFO Anshul Agarwal; Head of Ops Sindhu Unnikrishnan; Tracxn FAQ says CEO Zoltan Fischer (unverified).",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar Prodigy Finance acquisition outcome",
+   "status": "done",
+   "found": "Mint Mar 2025: late-stage talks, one term of Apis funding included Prodigy acquisition. No confirmation of closing found.",
+   "next_action": "Check Leap corporate filings for Prodigy acquisition completion"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar Duolingo partnership offline centres",
+   "status": "done",
+   "found": "Tracxn news feed mentions Duolingo DET coaching partnership (May 2025) and 15 new offline centres (Mar 2026); articles not fetched.",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeapScholar founders Anmol Singhvi Krishnanand Ramanujam",
+   "status": "done",
+   "found": "No results for Anmol Singhvi or Krishnanand Ramanujam. Press consistently names Vaibhav Singh and Arnav Kumar as co-founders. Tracxn lists 7 founders including Anshul Agarwal, Pritesh Kamani, Sindhu Unnikrishnan, Monika Bhandari, Yuvashankar T.",
+   "next_action": "None — founders verified"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar Acrew Capital WestBridge Omidyar investor",
+   "status": "done",
+   "found": "No results found for Acrew Capital, WestBridge, or Omidyar Network as investors in Leap. All press coverage names Jungle Ventures, Sequoia India, Owl Ventures, Peak XV, Apis Partners, HSBC.",
+   "next_action": "None — prompt-specified investors not verified; conflict recorded"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar revenue FY25 students served university partners",
+   "status": "done",
+   "found": "FY24 revenue Rs 175.3 Cr (+112% YoY) per Inc42; EBITDA positive as of Jul 2025 per Moneycontrol; 1M+ students served, 1000+ university partners per BS/PIE; FY25 revenue range $10M-$50M per Tracxn.",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar CEO executives leadership team",
+   "status": "done",
+   "found": "Co-founders Vaibhav Singh, Arnav Kumar; Rajan Chaudhary elevated to co-founder Apr 2025; CFO Anshul Agarwal; Head of Ops Sindhu Unnikrishnan; Tracxn FAQ says CEO Zoltan Fischer (unverified).",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar Prodigy Finance acquisition outcome",
+   "status": "done",
+   "found": "Mint Mar 2025: late-stage talks, one term of Apis funding included Prodigy acquisition. No confirmation of closing found.",
+   "next_action": "Check Leap corporate filings for Prodigy acquisition completion"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar Duolingo partnership offline centres",
+   "status": "done",
+   "found": "Tracxn news feed mentions Duolingo DET coaching partnership (May 2025) and 15 new offline centres (Mar 2026); articles not fetched.",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeapScholar founders Anmol Singhvi Krishnanand Ramanujam",
+   "status": "done",
+   "found": "No results for Anmol Singhvi or Krishnanand Ramanujam. Press consistently names Vaibhav Singh and Arnav Kumar as co-founders. Tracxn lists 7 founders including Anshul Agarwal, Pritesh Kamani, Sindhu Unnikrishnan, Monika Bhandari, Yuvashankar T.",
+   "next_action": "None — founders verified"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar Acrew Capital WestBridge Omidyar investor",
+   "status": "done",
+   "found": "No results found for Acrew Capital, WestBridge, or Omidyar Network as investors in Leap. All press coverage names Jungle Ventures, Sequoia India, Owl Ventures, Peak XV, Apis Partners, HSBC.",
+   "next_action": "None — prompt-specified investors not verified; conflict recorded"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar revenue FY25 students served university partners",
+   "status": "done",
+   "found": "FY24 revenue Rs 175.3 Cr (+112% YoY) per Inc42; EBITDA positive as of Jul 2025 per Moneycontrol; 1M+ students served, 1000+ university partners per BS/PIE; FY25 revenue range $10M-$50M per Tracxn.",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar CEO executives leadership team",
+   "status": "done",
+   "found": "Co-founders Vaibhav Singh, Arnav Kumar; Rajan Chaudhary elevated to co-founder Apr 2025; CFO Anshul Agarwal; Head of Ops Sindhu Unnikrishnan; Tracxn FAQ says CEO Zoltan Fischer (unverified).",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar Prodigy Finance acquisition outcome",
+   "status": "done",
+   "found": "Mint Mar 2025: late-stage talks, one term of Apis funding included Prodigy acquisition. No confirmation of closing found.",
+   "next_action": "Check Leap corporate filings for Prodigy acquisition completion"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar Duolingo partnership offline centres",
+   "status": "done",
+   "found": "Tracxn news feed mentions Duolingo DET coaching partnership (May 2025) and 15 new offline centres (Mar 2026); articles not fetched.",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeapScholar founders Anmol Singhvi Krishnanand Ramanujam",
+   "status": "done",
+   "found": "No results for Anmol Singhvi or Krishnanand Ramanujam. Press consistently names Vaibhav Singh and Arnav Kumar as co-founders. Tracxn lists 7 founders including Anshul Agarwal, Pritesh Kamani, Sindhu Unnikrishnan, Monika Bhandari, Yuvashankar T.",
+   "next_action": "None — founders verified"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar Acrew Capital WestBridge Omidyar investor",
+   "status": "done",
+   "found": "No results found for Acrew Capital, WestBridge, or Omidyar Network as investors in Leap. All press coverage names Jungle Ventures, Sequoia India, Owl Ventures, Peak XV, Apis Partners, HSBC.",
+   "next_action": "None — prompt-specified investors not verified; conflict recorded"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar revenue FY25 students served university partners",
+   "status": "done",
+   "found": "FY24 revenue Rs 175.3 Cr (+112% YoY) per Inc42; EBITDA positive as of Jul 2025 per Moneycontrol; 1M+ students served, 1000+ university partners per BS/PIE; FY25 revenue range $10M-$50M per Tracxn.",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar CEO executives leadership team",
+   "status": "done",
+   "found": "Co-founders Vaibhav Singh, Arnav Kumar; Rajan Chaudhary elevated to co-founder Apr 2025; CFO Anshul Agarwal; Head of Ops Sindhu Unnikrishnan; Tracxn FAQ says CEO Zoltan Fischer (unverified).",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar Prodigy Finance acquisition outcome",
+   "status": "done",
+   "found": "Mint Mar 2025: late-stage talks, one term of Apis funding included Prodigy acquisition. No confirmation of closing found.",
+   "next_action": "Check Leap corporate filings for Prodigy acquisition completion"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar Duolingo partnership offline centres",
+   "status": "done",
+   "found": "Tracxn news feed mentions Duolingo DET coaching partnership (May 2025) and 15 new offline centres (Mar 2026); articles not fetched.",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeapScholar founders Anmol Singhvi Krishnanand Ramanujam",
+   "status": "done",
+   "found": "No results for Anmol Singhvi or Krishnanand Ramanujam. Press consistently names Vaibhav Singh and Arnav Kumar as co-founders. Tracxn lists 7 founders including Anshul Agarwal, Pritesh Kamani, Sindhu Unnikrishnan, Monika Bhandari, Yuvashankar T.",
+   "next_action": "None — founders verified"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar Acrew Capital WestBridge Omidyar investor",
+   "status": "done",
+   "found": "No results found for Acrew Capital, WestBridge, or Omidyar Network as investors in Leap. All press coverage names Jungle Ventures, Sequoia India, Owl Ventures, Peak XV, Apis Partners, HSBC.",
+   "next_action": "None — prompt-specified investors not verified; conflict recorded"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar revenue FY25 students served university partners",
+   "status": "done",
+   "found": "FY24 revenue Rs 175.3 Cr (+112% YoY) per Inc42; EBITDA positive as of Jul 2025 per Moneycontrol; 1M+ students served, 1000+ university partners per BS/PIE; FY25 revenue range $10M-$50M per Tracxn.",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar CEO executives leadership team",
+   "status": "done",
+   "found": "Co-founders Vaibhav Singh, Arnav Kumar; Rajan Chaudhary elevated to co-founder Apr 2025; CFO Anshul Agarwal; Head of Ops Sindhu Unnikrishnan; Tracxn FAQ says CEO Zoltan Fischer (unverified).",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar Prodigy Finance acquisition outcome",
+   "status": "done",
+   "found": "Mint Mar 2025: late-stage talks, one term of Apis funding included Prodigy acquisition. No confirmation of closing found.",
+   "next_action": "Check Leap corporate filings for Prodigy acquisition completion"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar Duolingo partnership offline centres",
+   "status": "done",
+   "found": "Tracxn news feed mentions Duolingo DET coaching partnership (May 2025) and 15 new offline centres (Mar 2026); articles not fetched.",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeapScholar founders Anmol Singhvi Krishnanand Ramanujam",
+   "status": "done",
+   "found": "No results for Anmol Singhvi or Krishnanand Ramanujam. Press consistently names Vaibhav Singh and Arnav Kumar as co-founders. Tracxn lists 7 founders including Anshul Agarwal, Pritesh Kamani, Sindhu Unnikrishnan, Monika Bhandari, Yuvashankar T.",
+   "next_action": "None — founders verified"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar Acrew Capital WestBridge Omidyar investor",
+   "status": "done",
+   "found": "No results found for Acrew Capital, WestBridge, or Omidyar Network as investors in Leap. All press coverage names Jungle Ventures, Sequoia India, Owl Ventures, Peak XV, Apis Partners, HSBC.",
+   "next_action": "None — prompt-specified investors not verified; conflict recorded"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar revenue FY25 students served university partners",
+   "status": "done",
+   "found": "FY24 revenue Rs 175.3 Cr (+112% YoY) per Inc42; EBITDA positive as of Jul 2025 per Moneycontrol; 1M+ students served, 1000+ university partners per BS/PIE; FY25 revenue range $10M-$50M per Tracxn.",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar CEO executives leadership team",
+   "status": "done",
+   "found": "Co-founders Vaibhav Singh, Arnav Kumar; Rajan Chaudhary elevated to co-founder Apr 2025; CFO Anshul Agarwal; Head of Ops Sindhu Unnikrishnan; Tracxn FAQ says CEO Zoltan Fischer (unverified).",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar Prodigy Finance acquisition outcome",
+   "status": "done",
+   "found": "Mint Mar 2025: late-stage talks, one term of Apis funding included Prodigy acquisition. No confirmation of closing found.",
+   "next_action": "Check Leap corporate filings for Prodigy acquisition completion"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar Duolingo partnership offline centres",
+   "status": "done",
+   "found": "Tracxn news feed mentions Duolingo DET coaching partnership (May 2025) and 15 new offline centres (Mar 2026); articles not fetched.",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeapScholar founders Anmol Singhvi Krishnanand Ramanujam",
+   "status": "done",
+   "found": "No results for Anmol Singhvi or Krishnanand Ramanujam. Press consistently names Vaibhav Singh and Arnav Kumar as co-founders. Tracxn lists 7 founders including Anshul Agarwal, Pritesh Kamani, Sindhu Unnikrishnan, Monika Bhandari, Yuvashankar T.",
+   "next_action": "None — founders verified"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar Acrew Capital WestBridge Omidyar investor",
+   "status": "done",
+   "found": "No results found for Acrew Capital, WestBridge, or Omidyar Network as investors in Leap. All press coverage names Jungle Ventures, Sequoia India, Owl Ventures, Peak XV, Apis Partners, HSBC.",
+   "next_action": "None — prompt-specified investors not verified; conflict recorded"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar revenue FY25 students served university partners",
+   "status": "done",
+   "found": "FY24 revenue Rs 175.3 Cr (+112% YoY) per Inc42; EBITDA positive as of Jul 2025 per Moneycontrol; 1M+ students served, 1000+ university partners per BS/PIE; FY25 revenue range $10M-$50M per Tracxn.",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar CEO executives leadership team",
+   "status": "done",
+   "found": "Co-founders Vaibhav Singh, Arnav Kumar; Rajan Chaudhary elevated to co-founder Apr 2025; CFO Anshul Agarwal; Head of Ops Sindhu Unnikrishnan; Tracxn FAQ says CEO Zoltan Fischer (unverified).",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar Prodigy Finance acquisition outcome",
+   "status": "done",
+   "found": "Mint Mar 2025: late-stage talks, one term of Apis funding included Prodigy acquisition. No confirmation of closing found.",
+   "next_action": "Check Leap corporate filings for Prodigy acquisition completion"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar Duolingo partnership offline centres",
+   "status": "done",
+   "found": "Tracxn news feed mentions Duolingo DET coaching partnership (May 2025) and 15 new offline centres (Mar 2026); articles not fetched.",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeapScholar founders Anmol Singhvi Krishnanand Ramanujam",
+   "status": "done",
+   "found": "No results for Anmol Singhvi or Krishnanand Ramanujam. Press consistently names Vaibhav Singh and Arnav Kumar as co-founders. Tracxn lists 7 founders including Anshul Agarwal, Pritesh Kamani, Sindhu Unnikrishnan, Monika Bhandari, Yuvashankar T.",
+   "next_action": "None — founders verified"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar Acrew Capital WestBridge Omidyar investor",
+   "status": "done",
+   "found": "No results found for Acrew Capital, WestBridge, or Omidyar Network as investors in Leap. All press coverage names Jungle Ventures, Sequoia India, Owl Ventures, Peak XV, Apis Partners, HSBC.",
+   "next_action": "None — prompt-specified investors not verified; conflict recorded"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar revenue FY25 students served university partners",
+   "status": "done",
+   "found": "FY24 revenue Rs 175.3 Cr (+112% YoY) per Inc42; EBITDA positive as of Jul 2025 per Moneycontrol; 1M+ students served, 1000+ university partners per BS/PIE; FY25 revenue range $10M-$50M per Tracxn.",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar CEO executives leadership team",
+   "status": "done",
+   "found": "Co-founders Vaibhav Singh, Arnav Kumar; Rajan Chaudhary elevated to co-founder Apr 2025; CFO Anshul Agarwal; Head of Ops Sindhu Unnikrishnan; Tracxn FAQ says CEO Zoltan Fischer (unverified).",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar Prodigy Finance acquisition outcome",
+   "status": "done",
+   "found": "Mint Mar 2025: late-stage talks, one term of Apis funding included Prodigy acquisition. No confirmation of closing found.",
+   "next_action": "Check Leap corporate filings for Prodigy acquisition completion"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar Duolingo partnership offline centres",
+   "status": "done",
+   "found": "Tracxn news feed mentions Duolingo DET coaching partnership (May 2025) and 15 new offline centres (Mar 2026); articles not fetched.",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeapScholar founders Anmol Singhvi Krishnanand Ramanujam",
+   "status": "done",
+   "found": "No results for Anmol Singhvi or Krishnanand Ramanujam. Press consistently names Vaibhav Singh and Arnav Kumar as co-founders. Tracxn lists 7 founders including Anshul Agarwal, Pritesh Kamani, Sindhu Unnikrishnan, Monika Bhandari, Yuvashankar T.",
+   "next_action": "None — founders verified"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar Acrew Capital WestBridge Omidyar investor",
+   "status": "done",
+   "found": "No results found for Acrew Capital, WestBridge, or Omidyar Network as investors in Leap. All press coverage names Jungle Ventures, Sequoia India, Owl Ventures, Peak XV, Apis Partners, HSBC.",
+   "next_action": "None — prompt-specified investors not verified; conflict recorded"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar revenue FY25 students served university partners",
+   "status": "done",
+   "found": "FY24 revenue Rs 175.3 Cr (+112% YoY) per Inc42; EBITDA positive as of Jul 2025 per Moneycontrol; 1M+ students served, 1000+ university partners per BS/PIE; FY25 revenue range $10M-$50M per Tracxn.",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar CEO executives leadership team",
+   "status": "done",
+   "found": "Co-founders Vaibhav Singh, Arnav Kumar; Rajan Chaudhary elevated to co-founder Apr 2025; CFO Anshul Agarwal; Head of Ops Sindhu Unnikrishnan; Tracxn FAQ says CEO Zoltan Fischer (unverified).",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar Prodigy Finance acquisition outcome",
+   "status": "done",
+   "found": "Mint Mar 2025: late-stage talks, one term of Apis funding included Prodigy acquisition. No confirmation of closing found.",
+   "next_action": "Check Leap corporate filings for Prodigy acquisition completion"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar Duolingo partnership offline centres",
+   "status": "done",
+   "found": "Tracxn news feed mentions Duolingo DET coaching partnership (May 2025) and 15 new offline centres (Mar 2026); articles not fetched.",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeapScholar founders Anmol Singhvi Krishnanand Ramanujam",
+   "status": "done",
+   "found": "No results for Anmol Singhvi or Krishnanand Ramanujam. Press consistently names Vaibhav Singh and Arnav Kumar as co-founders. Tracxn lists 7 founders including Anshul Agarwal, Pritesh Kamani, Sindhu Unnikrishnan, Monika Bhandari, Yuvashankar T.",
+   "next_action": "None — founders verified"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar Acrew Capital WestBridge Omidyar investor",
+   "status": "done",
+   "found": "No results found for Acrew Capital, WestBridge, or Omidyar Network as investors in Leap. All press coverage names Jungle Ventures, Sequoia India, Owl Ventures, Peak XV, Apis Partners, HSBC.",
+   "next_action": "None — prompt-specified investors not verified; conflict recorded"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar revenue FY25 students served university partners",
+   "status": "done",
+   "found": "FY24 revenue Rs 175.3 Cr (+112% YoY) per Inc42; EBITDA positive as of Jul 2025 per Moneycontrol; 1M+ students served, 1000+ university partners per BS/PIE; FY25 revenue range $10M-$50M per Tracxn.",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar CEO executives leadership team",
+   "status": "done",
+   "found": "Co-founders Vaibhav Singh, Arnav Kumar; Rajan Chaudhary elevated to co-founder Apr 2025; CFO Anshul Agarwal; Head of Ops Sindhu Unnikrishnan; Tracxn FAQ says CEO Zoltan Fischer (unverified).",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar Prodigy Finance acquisition outcome",
+   "status": "done",
+   "found": "Mint Mar 2025: late-stage talks, one term of Apis funding included Prodigy acquisition. No confirmation of closing found.",
+   "next_action": "Check Leap corporate filings for Prodigy acquisition completion"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar Duolingo partnership offline centres",
+   "status": "done",
+   "found": "Tracxn news feed mentions Duolingo DET coaching partnership (May 2025) and 15 new offline centres (Mar 2026); articles not fetched.",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeapScholar founders Anmol Singhvi Krishnanand Ramanujam",
+   "status": "done",
+   "found": "No results for Anmol Singhvi or Krishnanand Ramanujam. Press consistently names Vaibhav Singh and Arnav Kumar as co-founders. Tracxn lists 7 founders including Anshul Agarwal, Pritesh Kamani, Sindhu Unnikrishnan, Monika Bhandari, Yuvashankar T.",
+   "next_action": "None — founders verified"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar Acrew Capital WestBridge Omidyar investor",
+   "status": "done",
+   "found": "No results found for Acrew Capital, WestBridge, or Omidyar Network as investors in Leap. All press coverage names Jungle Ventures, Sequoia India, Owl Ventures, Peak XV, Apis Partners, HSBC.",
+   "next_action": "None — prompt-specified investors not verified; conflict recorded"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar revenue FY25 students served university partners",
+   "status": "done",
+   "found": "FY24 revenue Rs 175.3 Cr (+112% YoY) per Inc42; EBITDA positive as of Jul 2025 per Moneycontrol; 1M+ students served, 1000+ university partners per BS/PIE; FY25 revenue range $10M-$50M per Tracxn.",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar CEO executives leadership team",
+   "status": "done",
+   "found": "Co-founders Vaibhav Singh, Arnav Kumar; Rajan Chaudhary elevated to co-founder Apr 2025; CFO Anshul Agarwal; Head of Ops Sindhu Unnikrishnan; Tracxn FAQ says CEO Zoltan Fischer (unverified).",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar Prodigy Finance acquisition outcome",
+   "status": "done",
+   "found": "Mint Mar 2025: late-stage talks, one term of Apis funding included Prodigy acquisition. No confirmation of closing found.",
+   "next_action": "Check Leap corporate filings for Prodigy acquisition completion"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar Duolingo partnership offline centres",
+   "status": "done",
+   "found": "Tracxn news feed mentions Duolingo DET coaching partnership (May 2025) and 15 new offline centres (Mar 2026); articles not fetched.",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeapScholar founders Anmol Singhvi Krishnanand Ramanujam",
+   "status": "done",
+   "found": "No results for Anmol Singhvi or Krishnanand Ramanujam. Press consistently names Vaibhav Singh and Arnav Kumar as co-founders. Tracxn lists 7 founders including Anshul Agarwal, Pritesh Kamani, Sindhu Unnikrishnan, Monika Bhandari, Yuvashankar T.",
+   "next_action": "None — founders verified"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar Acrew Capital WestBridge Omidyar investor",
+   "status": "done",
+   "found": "No results found for Acrew Capital, WestBridge, or Omidyar Network as investors in Leap. All press coverage names Jungle Ventures, Sequoia India, Owl Ventures, Peak XV, Apis Partners, HSBC.",
+   "next_action": "None — prompt-specified investors not verified; conflict recorded"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar revenue FY25 students served university partners",
+   "status": "done",
+   "found": "FY24 revenue Rs 175.3 Cr (+112% YoY) per Inc42; EBITDA positive as of Jul 2025 per Moneycontrol; 1M+ students served, 1000+ university partners per BS/PIE; FY25 revenue range $10M-$50M per Tracxn.",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar CEO executives leadership team",
+   "status": "done",
+   "found": "Co-founders Vaibhav Singh, Arnav Kumar; Rajan Chaudhary elevated to co-founder Apr 2025; CFO Anshul Agarwal; Head of Ops Sindhu Unnikrishnan; Tracxn FAQ says CEO Zoltan Fischer (unverified).",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar Prodigy Finance acquisition outcome",
+   "status": "done",
+   "found": "Mint Mar 2025: late-stage talks, one term of Apis funding included Prodigy acquisition. No confirmation of closing found.",
+   "next_action": "Check Leap corporate filings for Prodigy acquisition completion"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar Duolingo partnership offline centres",
+   "status": "done",
+   "found": "Tracxn news feed mentions Duolingo DET coaching partnership (May 2025) and 15 new offline centres (Mar 2026); articles not fetched.",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeapScholar founders Anmol Singhvi Krishnanand Ramanujam",
+   "status": "done",
+   "found": "No results for Anmol Singhvi or Krishnanand Ramanujam. Press consistently names Vaibhav Singh and Arnav Kumar as co-founders. Tracxn lists 7 founders including Anshul Agarwal, Pritesh Kamani, Sindhu Unnikrishnan, Monika Bhandari, Yuvashankar T.",
+   "next_action": "None — founders verified"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar Acrew Capital WestBridge Omidyar investor",
+   "status": "done",
+   "found": "No results found for Acrew Capital, WestBridge, or Omidyar Network as investors in Leap. All press coverage names Jungle Ventures, Sequoia India, Owl Ventures, Peak XV, Apis Partners, HSBC.",
+   "next_action": "None — prompt-specified investors not verified; conflict recorded"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar revenue FY25 students served university partners",
+   "status": "done",
+   "found": "FY24 revenue Rs 175.3 Cr (+112% YoY) per Inc42; EBITDA positive as of Jul 2025 per Moneycontrol; 1M+ students served, 1000+ university partners per BS/PIE; FY25 revenue range $10M-$50M per Tracxn.",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar CEO executives leadership team",
+   "status": "done",
+   "found": "Co-founders Vaibhav Singh, Arnav Kumar; Rajan Chaudhary elevated to co-founder Apr 2025; CFO Anshul Agarwal; Head of Ops Sindhu Unnikrishnan; Tracxn FAQ says CEO Zoltan Fischer (unverified).",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar Prodigy Finance acquisition outcome",
+   "status": "done",
+   "found": "Mint Mar 2025: late-stage talks, one term of Apis funding included Prodigy acquisition. No confirmation of closing found.",
+   "next_action": "Check Leap corporate filings for Prodigy acquisition completion"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar Duolingo partnership offline centres",
+   "status": "done",
+   "found": "Tracxn news feed mentions Duolingo DET coaching partnership (May 2025) and 15 new offline centres (Mar 2026); articles not fetched.",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeapScholar founders Anmol Singhvi Krishnanand Ramanujam",
+   "status": "done",
+   "found": "No results for Anmol Singhvi or Krishnanand Ramanujam. Press consistently names Vaibhav Singh and Arnav Kumar as co-founders. Tracxn lists 7 founders including Anshul Agarwal, Pritesh Kamani, Sindhu Unnikrishnan, Monika Bhandari, Yuvashankar T.",
+   "next_action": "None — founders verified"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar Acrew Capital WestBridge Omidyar investor",
+   "status": "done",
+   "found": "No results found for Acrew Capital, WestBridge, or Omidyar Network as investors in Leap. All press coverage names Jungle Ventures, Sequoia India, Owl Ventures, Peak XV, Apis Partners, HSBC.",
+   "next_action": "None — prompt-specified investors not verified; conflict recorded"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar revenue FY25 students served university partners",
+   "status": "done",
+   "found": "FY24 revenue Rs 175.3 Cr (+112% YoY) per Inc42; EBITDA positive as of Jul 2025 per Moneycontrol; 1M+ students served, 1000+ university partners per BS/PIE; FY25 revenue range $10M-$50M per Tracxn.",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar CEO executives leadership team",
+   "status": "done",
+   "found": "Co-founders Vaibhav Singh, Arnav Kumar; Rajan Chaudhary elevated to co-founder Apr 2025; CFO Anshul Agarwal; Head of Ops Sindhu Unnikrishnan; Tracxn FAQ says CEO Zoltan Fischer (unverified).",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar Prodigy Finance acquisition outcome",
+   "status": "done",
+   "found": "Mint Mar 2025: late-stage talks, one term of Apis funding included Prodigy acquisition. No confirmation of closing found.",
+   "next_action": "Check Leap corporate filings for Prodigy acquisition completion"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar Duolingo partnership offline centres",
+   "status": "done",
+   "found": "Tracxn news feed mentions Duolingo DET coaching partnership (May 2025) and 15 new offline centres (Mar 2026); articles not fetched.",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeapScholar founders Anmol Singhvi Krishnanand Ramanujam",
+   "status": "done",
+   "found": "No results for Anmol Singhvi or Krishnanand Ramanujam. Press consistently names Vaibhav Singh and Arnav Kumar as co-founders. Tracxn lists 7 founders including Anshul Agarwal, Pritesh Kamani, Sindhu Unnikrishnan, Monika Bhandari, Yuvashankar T.",
+   "next_action": "None — founders verified"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar Acrew Capital WestBridge Omidyar investor",
+   "status": "done",
+   "found": "No results found for Acrew Capital, WestBridge, or Omidyar Network as investors in Leap. All press coverage names Jungle Ventures, Sequoia India, Owl Ventures, Peak XV, Apis Partners, HSBC.",
+   "next_action": "None — prompt-specified investors not verified; conflict recorded"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar revenue FY25 students served university partners",
+   "status": "done",
+   "found": "FY24 revenue Rs 175.3 Cr (+112% YoY) per Inc42; EBITDA positive as of Jul 2025 per Moneycontrol; 1M+ students served, 1000+ university partners per BS/PIE; FY25 revenue range $10M-$50M per Tracxn.",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar CEO executives leadership team",
+   "status": "done",
+   "found": "Co-founders Vaibhav Singh, Arnav Kumar; Rajan Chaudhary elevated to co-founder Apr 2025; CFO Anshul Agarwal; Head of Ops Sindhu Unnikrishnan; Tracxn FAQ says CEO Zoltan Fischer (unverified).",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar Prodigy Finance acquisition outcome",
+   "status": "done",
+   "found": "Mint Mar 2025: late-stage talks, one term of Apis funding included Prodigy acquisition. No confirmation of closing found.",
+   "next_action": "Check Leap corporate filings for Prodigy acquisition completion"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar Duolingo partnership offline centres",
+   "status": "done",
+   "found": "Tracxn news feed mentions Duolingo DET coaching partnership (May 2025) and 15 new offline centres (Mar 2026); articles not fetched.",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeapScholar founders Anmol Singhvi Krishnanand Ramanujam",
+   "status": "done",
+   "found": "No results for Anmol Singhvi or Krishnanand Ramanujam. Press consistently names Vaibhav Singh and Arnav Kumar as co-founders. Tracxn lists 7 founders including Anshul Agarwal, Pritesh Kamani, Sindhu Unnikrishnan, Monika Bhandari, Yuvashankar T.",
+   "next_action": "None — founders verified"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar Acrew Capital WestBridge Omidyar investor",
+   "status": "done",
+   "found": "No results found for Acrew Capital, WestBridge, or Omidyar Network as investors in Leap. All press coverage names Jungle Ventures, Sequoia India, Owl Ventures, Peak XV, Apis Partners, HSBC.",
+   "next_action": "None — prompt-specified investors not verified; conflict recorded"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar revenue FY25 students served university partners",
+   "status": "done",
+   "found": "FY24 revenue Rs 175.3 Cr (+112% YoY) per Inc42; EBITDA positive as of Jul 2025 per Moneycontrol; 1M+ students served, 1000+ university partners per BS/PIE; FY25 revenue range $10M-$50M per Tracxn.",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar CEO executives leadership team",
+   "status": "done",
+   "found": "Co-founders Vaibhav Singh, Arnav Kumar; Rajan Chaudhary elevated to co-founder Apr 2025; CFO Anshul Agarwal; Head of Ops Sindhu Unnikrishnan; Tracxn FAQ says CEO Zoltan Fischer (unverified).",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar Prodigy Finance acquisition outcome",
+   "status": "done",
+   "found": "Mint Mar 2025: late-stage talks, one term of Apis funding included Prodigy acquisition. No confirmation of closing found.",
+   "next_action": "Check Leap corporate filings for Prodigy acquisition completion"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar Duolingo partnership offline centres",
+   "status": "done",
+   "found": "Tracxn news feed mentions Duolingo DET coaching partnership (May 2025) and 15 new offline centres (Mar 2026); articles not fetched.",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeapScholar founders Anmol Singhvi Krishnanand Ramanujam",
+   "status": "done",
+   "found": "No results for Anmol Singhvi or Krishnanand Ramanujam. Press consistently names Vaibhav Singh and Arnav Kumar as co-founders. Tracxn lists 7 founders including Anshul Agarwal, Pritesh Kamani, Sindhu Unnikrishnan, Monika Bhandari, Yuvashankar T.",
+   "next_action": "None — founders verified"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar Acrew Capital WestBridge Omidyar investor",
+   "status": "done",
+   "found": "No results found for Acrew Capital, WestBridge, or Omidyar Network as investors in Leap. All press coverage names Jungle Ventures, Sequoia India, Owl Ventures, Peak XV, Apis Partners, HSBC.",
+   "next_action": "None — prompt-specified investors not verified; conflict recorded"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar revenue FY25 students served university partners",
+   "status": "done",
+   "found": "FY24 revenue Rs 175.3 Cr (+112% YoY) per Inc42; EBITDA positive as of Jul 2025 per Moneycontrol; 1M+ students served, 1000+ university partners per BS/PIE; FY25 revenue range $10M-$50M per Tracxn.",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar CEO executives leadership team",
+   "status": "done",
+   "found": "Co-founders Vaibhav Singh, Arnav Kumar; Rajan Chaudhary elevated to co-founder Apr 2025; CFO Anshul Agarwal; Head of Ops Sindhu Unnikrishnan; Tracxn FAQ says CEO Zoltan Fischer (unverified).",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar Prodigy Finance acquisition outcome",
+   "status": "done",
+   "found": "Mint Mar 2025: late-stage talks, one term of Apis funding included Prodigy acquisition. No confirmation of closing found.",
+   "next_action": "Check Leap corporate filings for Prodigy acquisition completion"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar Duolingo partnership offline centres",
+   "status": "done",
+   "found": "Tracxn news feed mentions Duolingo DET coaching partnership (May 2025) and 15 new offline centres (Mar 2026); articles not fetched.",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeapScholar founders Anmol Singhvi Krishnanand Ramanujam",
+   "status": "done",
+   "found": "No results for Anmol Singhvi or Krishnanand Ramanujam. Press consistently names Vaibhav Singh and Arnav Kumar as co-founders. Tracxn lists 7 founders including Anshul Agarwal, Pritesh Kamani, Sindhu Unnikrishnan, Monika Bhandari, Yuvashankar T.",
+   "next_action": "None — founders verified"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar Acrew Capital WestBridge Omidyar investor",
+   "status": "done",
+   "found": "No results found for Acrew Capital, WestBridge, or Omidyar Network as investors in Leap. All press coverage names Jungle Ventures, Sequoia India, Owl Ventures, Peak XV, Apis Partners, HSBC.",
+   "next_action": "None — prompt-specified investors not verified; conflict recorded"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar revenue FY25 students served university partners",
+   "status": "done",
+   "found": "FY24 revenue Rs 175.3 Cr (+112% YoY) per Inc42; EBITDA positive as of Jul 2025 per Moneycontrol; 1M+ students served, 1000+ university partners per BS/PIE; FY25 revenue range $10M-$50M per Tracxn.",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar CEO executives leadership team",
+   "status": "done",
+   "found": "Co-founders Vaibhav Singh, Arnav Kumar; Rajan Chaudhary elevated to co-founder Apr 2025; CFO Anshul Agarwal; Head of Ops Sindhu Unnikrishnan; Tracxn FAQ says CEO Zoltan Fischer (unverified).",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar Prodigy Finance acquisition outcome",
+   "status": "done",
+   "found": "Mint Mar 2025: late-stage talks, one term of Apis funding included Prodigy acquisition. No confirmation of closing found.",
+   "next_action": "Check Leap corporate filings for Prodigy acquisition completion"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar Duolingo partnership offline centres",
+   "status": "done",
+   "found": "Tracxn news feed mentions Duolingo DET coaching partnership (May 2025) and 15 new offline centres (Mar 2026); articles not fetched.",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeapScholar founders Anmol Singhvi Krishnanand Ramanujam",
+   "status": "done",
+   "found": "No results for Anmol Singhvi or Krishnanand Ramanujam. Press consistently names Vaibhav Singh and Arnav Kumar as co-founders. Tracxn lists 7 founders including Anshul Agarwal, Pritesh Kamani, Sindhu Unnikrishnan, Monika Bhandari, Yuvashankar T.",
+   "next_action": "None — founders verified"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar Acrew Capital WestBridge Omidyar investor",
+   "status": "done",
+   "found": "No results found for Acrew Capital, WestBridge, or Omidyar Network as investors in Leap. All press coverage names Jungle Ventures, Sequoia India, Owl Ventures, Peak XV, Apis Partners, HSBC.",
+   "next_action": "None — prompt-specified investors not verified; conflict recorded"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar revenue FY25 students served university partners",
+   "status": "done",
+   "found": "FY24 revenue Rs 175.3 Cr (+112% YoY) per Inc42; EBITDA positive as of Jul 2025 per Moneycontrol; 1M+ students served, 1000+ university partners per BS/PIE; FY25 revenue range $10M-$50M per Tracxn.",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar CEO executives leadership team",
+   "status": "done",
+   "found": "Co-founders Vaibhav Singh, Arnav Kumar; Rajan Chaudhary elevated to co-founder Apr 2025; CFO Anshul Agarwal; Head of Ops Sindhu Unnikrishnan; Tracxn FAQ says CEO Zoltan Fischer (unverified).",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar Prodigy Finance acquisition outcome",
+   "status": "done",
+   "found": "Mint Mar 2025: late-stage talks, one term of Apis funding included Prodigy acquisition. No confirmation of closing found.",
+   "next_action": "Check Leap corporate filings for Prodigy acquisition completion"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar Duolingo partnership offline centres",
+   "status": "done",
+   "found": "Tracxn news feed mentions Duolingo DET coaching partnership (May 2025) and 15 new offline centres (Mar 2026); articles not fetched.",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeapScholar founders Anmol Singhvi Krishnanand Ramanujam",
+   "status": "done",
+   "found": "No results for Anmol Singhvi or Krishnanand Ramanujam. Press consistently names Vaibhav Singh and Arnav Kumar as co-founders. Tracxn lists 7 founders including Anshul Agarwal, Pritesh Kamani, Sindhu Unnikrishnan, Monika Bhandari, Yuvashankar T.",
+   "next_action": "None — founders verified"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar Acrew Capital WestBridge Omidyar investor",
+   "status": "done",
+   "found": "No results found for Acrew Capital, WestBridge, or Omidyar Network as investors in Leap. All press coverage names Jungle Ventures, Sequoia India, Owl Ventures, Peak XV, Apis Partners, HSBC.",
+   "next_action": "None — prompt-specified investors not verified; conflict recorded"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar revenue FY25 students served university partners",
+   "status": "done",
+   "found": "FY24 revenue Rs 175.3 Cr (+112% YoY) per Inc42; EBITDA positive as of Jul 2025 per Moneycontrol; 1M+ students served, 1000+ university partners per BS/PIE; FY25 revenue range $10M-$50M per Tracxn.",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar CEO executives leadership team",
+   "status": "done",
+   "found": "Co-founders Vaibhav Singh, Arnav Kumar; Rajan Chaudhary elevated to co-founder Apr 2025; CFO Anshul Agarwal; Head of Ops Sindhu Unnikrishnan; Tracxn FAQ says CEO Zoltan Fischer (unverified).",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar Prodigy Finance acquisition outcome",
+   "status": "done",
+   "found": "Mint Mar 2025: late-stage talks, one term of Apis funding included Prodigy acquisition. No confirmation of closing found.",
+   "next_action": "Check Leap corporate filings for Prodigy acquisition completion"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar Duolingo partnership offline centres",
+   "status": "done",
+   "found": "Tracxn news feed mentions Duolingo DET coaching partnership (May 2025) and 15 new offline centres (Mar 2026); articles not fetched.",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeapScholar founders Anmol Singhvi Krishnanand Ramanujam",
+   "status": "done",
+   "found": "No results for Anmol Singhvi or Krishnanand Ramanujam. Press consistently names Vaibhav Singh and Arnav Kumar as co-founders. Tracxn lists 7 founders including Anshul Agarwal, Pritesh Kamani, Sindhu Unnikrishnan, Monika Bhandari, Yuvashankar T.",
+   "next_action": "None — founders verified"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar Acrew Capital WestBridge Omidyar investor",
+   "status": "done",
+   "found": "No results found for Acrew Capital, WestBridge, or Omidyar Network as investors in Leap. All press coverage names Jungle Ventures, Sequoia India, Owl Ventures, Peak XV, Apis Partners, HSBC.",
+   "next_action": "None — prompt-specified investors not verified; conflict recorded"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar revenue FY25 students served university partners",
+   "status": "done",
+   "found": "FY24 revenue Rs 175.3 Cr (+112% YoY) per Inc42; EBITDA positive as of Jul 2025 per Moneycontrol; 1M+ students served, 1000+ university partners per BS/PIE; FY25 revenue range $10M-$50M per Tracxn.",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar CEO executives leadership team",
+   "status": "done",
+   "found": "Co-founders Vaibhav Singh, Arnav Kumar; Rajan Chaudhary elevated to co-founder Apr 2025; CFO Anshul Agarwal; Head of Ops Sindhu Unnikrishnan; Tracxn FAQ says CEO Zoltan Fischer (unverified).",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar Prodigy Finance acquisition outcome",
+   "status": "done",
+   "found": "Mint Mar 2025: late-stage talks, one term of Apis funding included Prodigy acquisition. No confirmation of closing found.",
+   "next_action": "Check Leap corporate filings for Prodigy acquisition completion"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar Duolingo partnership offline centres",
+   "status": "done",
+   "found": "Tracxn news feed mentions Duolingo DET coaching partnership (May 2025) and 15 new offline centres (Mar 2026); articles not fetched.",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeapScholar founders Anmol Singhvi Krishnanand Ramanujam",
+   "status": "done",
+   "found": "No results for Anmol Singhvi or Krishnanand Ramanujam. Press consistently names Vaibhav Singh and Arnav Kumar as co-founders. Tracxn lists 7 founders including Anshul Agarwal, Pritesh Kamani, Sindhu Unnikrishnan, Monika Bhandari, Yuvashankar T.",
+   "next_action": "None — founders verified"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar Acrew Capital WestBridge Omidyar investor",
+   "status": "done",
+   "found": "No results found for Acrew Capital, WestBridge, or Omidyar Network as investors in Leap. All press coverage names Jungle Ventures, Sequoia India, Owl Ventures, Peak XV, Apis Partners, HSBC.",
+   "next_action": "None — prompt-specified investors not verified; conflict recorded"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar revenue FY25 students served university partners",
+   "status": "done",
+   "found": "FY24 revenue Rs 175.3 Cr (+112% YoY) per Inc42; EBITDA positive as of Jul 2025 per Moneycontrol; 1M+ students served, 1000+ university partners per BS/PIE; FY25 revenue range $10M-$50M per Tracxn.",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar CEO executives leadership team",
+   "status": "done",
+   "found": "Co-founders Vaibhav Singh, Arnav Kumar; Rajan Chaudhary elevated to co-founder Apr 2025; CFO Anshul Agarwal; Head of Ops Sindhu Unnikrishnan; Tracxn FAQ says CEO Zoltan Fischer (unverified).",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar Prodigy Finance acquisition outcome",
+   "status": "done",
+   "found": "Mint Mar 2025: late-stage talks, one term of Apis funding included Prodigy acquisition. No confirmation of closing found.",
+   "next_action": "Check Leap corporate filings for Prodigy acquisition completion"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar Duolingo partnership offline centres",
+   "status": "done",
+   "found": "Tracxn news feed mentions Duolingo DET coaching partnership (May 2025) and 15 new offline centres (Mar 2026); articles not fetched.",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeapScholar founders Anmol Singhvi Krishnanand Ramanujam",
+   "status": "done",
+   "found": "No results for Anmol Singhvi or Krishnanand Ramanujam. Press consistently names Vaibhav Singh and Arnav Kumar as co-founders. Tracxn lists 7 founders including Anshul Agarwal, Pritesh Kamani, Sindhu Unnikrishnan, Monika Bhandari, Yuvashankar T.",
+   "next_action": "None — founders verified"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar Acrew Capital WestBridge Omidyar investor",
+   "status": "done",
+   "found": "No results found for Acrew Capital, WestBridge, or Omidyar Network as investors in Leap. All press coverage names Jungle Ventures, Sequoia India, Owl Ventures, Peak XV, Apis Partners, HSBC.",
+   "next_action": "None — prompt-specified investors not verified; conflict recorded"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar revenue FY25 students served university partners",
+   "status": "done",
+   "found": "FY24 revenue Rs 175.3 Cr (+112% YoY) per Inc42; EBITDA positive as of Jul 2025 per Moneycontrol; 1M+ students served, 1000+ university partners per BS/PIE; FY25 revenue range $10M-$50M per Tracxn.",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar CEO executives leadership team",
+   "status": "done",
+   "found": "Co-founders Vaibhav Singh, Arnav Kumar; Rajan Chaudhary elevated to co-founder Apr 2025; CFO Anshul Agarwal; Head of Ops Sindhu Unnikrishnan; Tracxn FAQ says CEO Zoltan Fischer (unverified).",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar Prodigy Finance acquisition outcome",
+   "status": "done",
+   "found": "Mint Mar 2025: late-stage talks, one term of Apis funding included Prodigy acquisition. No confirmation of closing found.",
+   "next_action": "Check Leap corporate filings for Prodigy acquisition completion"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar Duolingo partnership offline centres",
+   "status": "done",
+   "found": "Tracxn news feed mentions Duolingo DET coaching partnership (May 2025) and 15 new offline centres (Mar 2026); articles not fetched.",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeapScholar founders Anmol Singhvi Krishnanand Ramanujam",
+   "status": "done",
+   "found": "No results for Anmol Singhvi or Krishnanand Ramanujam. Press consistently names Vaibhav Singh and Arnav Kumar as co-founders. Tracxn lists 7 founders including Anshul Agarwal, Pritesh Kamani, Sindhu Unnikrishnan, Monika Bhandari, Yuvashankar T.",
+   "next_action": "None — founders verified"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar Acrew Capital WestBridge Omidyar investor",
+   "status": "done",
+   "found": "No results found for Acrew Capital, WestBridge, or Omidyar Network as investors in Leap. All press coverage names Jungle Ventures, Sequoia India, Owl Ventures, Peak XV, Apis Partners, HSBC.",
+   "next_action": "None — prompt-specified investors not verified; conflict recorded"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar revenue FY25 students served university partners",
+   "status": "done",
+   "found": "FY24 revenue Rs 175.3 Cr (+112% YoY) per Inc42; EBITDA positive as of Jul 2025 per Moneycontrol; 1M+ students served, 1000+ university partners per BS/PIE; FY25 revenue range $10M-$50M per Tracxn.",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar CEO executives leadership team",
+   "status": "done",
+   "found": "Co-founders Vaibhav Singh, Arnav Kumar; Rajan Chaudhary elevated to co-founder Apr 2025; CFO Anshul Agarwal; Head of Ops Sindhu Unnikrishnan; Tracxn FAQ says CEO Zoltan Fischer (unverified).",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar Prodigy Finance acquisition outcome",
+   "status": "done",
+   "found": "Mint Mar 2025: late-stage talks, one term of Apis funding included Prodigy acquisition. No confirmation of closing found.",
+   "next_action": "Check Leap corporate filings for Prodigy acquisition completion"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar Duolingo partnership offline centres",
+   "status": "done",
+   "found": "Tracxn news feed mentions Duolingo DET coaching partnership (May 2025) and 15 new offline centres (Mar 2026); articles not fetched.",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeapScholar founders Anmol Singhvi Krishnanand Ramanujam",
+   "status": "done",
+   "found": "No results for Anmol Singhvi or Krishnanand Ramanujam. Press consistently names Vaibhav Singh and Arnav Kumar as co-founders. Tracxn lists 7 founders including Anshul Agarwal, Pritesh Kamani, Sindhu Unnikrishnan, Monika Bhandari, Yuvashankar T.",
+   "next_action": "None — founders verified"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar Acrew Capital WestBridge Omidyar investor",
+   "status": "done",
+   "found": "No results found for Acrew Capital, WestBridge, or Omidyar Network as investors in Leap. All press coverage names Jungle Ventures, Sequoia India, Owl Ventures, Peak XV, Apis Partners, HSBC.",
+   "next_action": "None — prompt-specified investors not verified; conflict recorded"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar revenue FY25 students served university partners",
+   "status": "done",
+   "found": "FY24 revenue Rs 175.3 Cr (+112% YoY) per Inc42; EBITDA positive as of Jul 2025 per Moneycontrol; 1M+ students served, 1000+ university partners per BS/PIE; FY25 revenue range $10M-$50M per Tracxn.",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar CEO executives leadership team",
+   "status": "done",
+   "found": "Co-founders Vaibhav Singh, Arnav Kumar; Rajan Chaudhary elevated to co-founder Apr 2025; CFO Anshul Agarwal; Head of Ops Sindhu Unnikrishnan; Tracxn FAQ says CEO Zoltan Fischer (unverified).",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar Prodigy Finance acquisition outcome",
+   "status": "done",
+   "found": "Mint Mar 2025: late-stage talks, one term of Apis funding included Prodigy acquisition. No confirmation of closing found.",
+   "next_action": "Check Leap corporate filings for Prodigy acquisition completion"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar Duolingo partnership offline centres",
+   "status": "done",
+   "found": "Tracxn news feed mentions Duolingo DET coaching partnership (May 2025) and 15 new offline centres (Mar 2026); articles not fetched.",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeapScholar founders Anmol Singhvi Krishnanand Ramanujam",
+   "status": "done",
+   "found": "No results for Anmol Singhvi or Krishnanand Ramanujam. Press consistently names Vaibhav Singh and Arnav Kumar as co-founders. Tracxn lists 7 founders including Anshul Agarwal, Pritesh Kamani, Sindhu Unnikrishnan, Monika Bhandari, Yuvashankar T.",
+   "next_action": "None — founders verified"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar Acrew Capital WestBridge Omidyar investor",
+   "status": "done",
+   "found": "No results found for Acrew Capital, WestBridge, or Omidyar Network as investors in Leap. All press coverage names Jungle Ventures, Sequoia India, Owl Ventures, Peak XV, Apis Partners, HSBC.",
+   "next_action": "None — prompt-specified investors not verified; conflict recorded"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar revenue FY25 students served university partners",
+   "status": "done",
+   "found": "FY24 revenue Rs 175.3 Cr (+112% YoY) per Inc42; EBITDA positive as of Jul 2025 per Moneycontrol; 1M+ students served, 1000+ university partners per BS/PIE; FY25 revenue range $10M-$50M per Tracxn.",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar CEO executives leadership team",
+   "status": "done",
+   "found": "Co-founders Vaibhav Singh, Arnav Kumar; Rajan Chaudhary elevated to co-founder Apr 2025; CFO Anshul Agarwal; Head of Ops Sindhu Unnikrishnan; Tracxn FAQ says CEO Zoltan Fischer (unverified).",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar Prodigy Finance acquisition outcome",
+   "status": "done",
+   "found": "Mint Mar 2025: late-stage talks, one term of Apis funding included Prodigy acquisition. No confirmation of closing found.",
+   "next_action": "Check Leap corporate filings for Prodigy acquisition completion"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar Duolingo partnership offline centres",
+   "status": "done",
+   "found": "Tracxn news feed mentions Duolingo DET coaching partnership (May 2025) and 15 new offline centres (Mar 2026); articles not fetched.",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeapScholar founders Anmol Singhvi Krishnanand Ramanujam",
+   "status": "done",
+   "found": "No results for Anmol Singhvi or Krishnanand Ramanujam. Press consistently names Vaibhav Singh and Arnav Kumar as co-founders. Tracxn lists 7 founders including Anshul Agarwal, Pritesh Kamani, Sindhu Unnikrishnan, Monika Bhandari, Yuvashankar T.",
+   "next_action": "None — founders verified"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar Acrew Capital WestBridge Omidyar investor",
+   "status": "done",
+   "found": "No results found for Acrew Capital, WestBridge, or Omidyar Network as investors in Leap. All press coverage names Jungle Ventures, Sequoia India, Owl Ventures, Peak XV, Apis Partners, HSBC.",
+   "next_action": "None — prompt-specified investors not verified; conflict recorded"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar revenue FY25 students served university partners",
+   "status": "done",
+   "found": "FY24 revenue Rs 175.3 Cr (+112% YoY) per Inc42; EBITDA positive as of Jul 2025 per Moneycontrol; 1M+ students served, 1000+ university partners per BS/PIE; FY25 revenue range $10M-$50M per Tracxn.",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar CEO executives leadership team",
+   "status": "done",
+   "found": "Co-founders Vaibhav Singh, Arnav Kumar; Rajan Chaudhary elevated to co-founder Apr 2025; CFO Anshul Agarwal; Head of Ops Sindhu Unnikrishnan; Tracxn FAQ says CEO Zoltan Fischer (unverified).",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar Prodigy Finance acquisition outcome",
+   "status": "done",
+   "found": "Mint Mar 2025: late-stage talks, one term of Apis funding included Prodigy acquisition. No confirmation of closing found.",
+   "next_action": "Check Leap corporate filings for Prodigy acquisition completion"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Leap Scholar Duolingo partnership offline centres",
+   "status": "done",
+   "found": "Tracxn news feed mentions Duolingo DET coaching partnership (May 2025) and 15 new offline centres (Mar 2026); articles not fetched.",
+   "next_action": "None"
+  }
+ ],
+ "sources": [
+  {
+   "claim_supported": "$65M Series E; Apis lead; existing participants; >$200M equity since 2019; 10 countries",
+   "fields_supported": [
+    "funding_rounds",
+    "investor_links"
+   ],
+   "publication_date": "2025-01-29",
+   "publisher": "Business Standard",
+   "retrieved_date": "2026-09-15",
+   "tier": "T1",
+   "title": "Edtech startup Leap raises $65 mn in Series E round led by Apis Partners",
+   "url": "https://www.business-standard.com/companies/news/leap-raises-65-mn-in-series-e-led-by-apis-partners-for-education-access-125012900775_1.html"
+  },
+  {
+   "claim_supported": "$65M round; valuation flat $700-800M; 80% primary",
+   "fields_supported": [
+    "funding_rounds"
+   ],
+   "publication_date": "2025-01-29",
+   "publisher": "Economic Times",
+   "retrieved_date": "2026-09-15",
+   "tier": "T1",
+   "title": "Leap raises $65 million in funding round led by Apis Partners",
+   "url": "https://m.economictimes.com/tech/funding/leap-raises-65-million-in-funding-round-led-by-apis-partners/articleshow/117675174.cms"
+  },
+  {
+   "claim_supported": "$75M Series D; investors; >$150M equity to date; 750+ university partners",
+   "fields_supported": [
+    "funding_rounds"
+   ],
+   "publication_date": "2022-06-22",
+   "publisher": "Hindu BusinessLine",
+   "retrieved_date": "2026-09-15",
+   "tier": "T1",
+   "title": "Edtech start-up Leap raises $75 million in Series D round led by Owl Ventures",
+   "url": "https://www.thehindubusinessline.com/companies/edtech-start-up-leap-raises-75-million-in-series-d-round-led-by-owl-ventures/article65553759.ece"
+  },
+  {
+   "claim_supported": "$100M HSBC debt; Prodigy acquisition talks; $310M DFC commitment",
+   "fields_supported": [
+    "funding_rounds",
+    "acquisitions"
+   ],
+   "publication_date": "2025-03-07",
+   "publisher": "Mint",
+   "retrieved_date": "2026-09-15",
+   "tier": "T1",
+   "title": "Study-abroad player Leap in late-stage talks to acquire Prodigy Finance",
+   "url": "https://www.livemint.com/companies/start-ups/study-abroad-leap-scholar-leap-finance-geebee-yocket-prodigy-finance-foreign-education-loans-edtechs-byjus-11741247394336.html"
+  },
+  {
+   "claim_supported": "founders; journey; 2M+ community; Yocket acquisition",
+   "fields_supported": [
+    "founders",
+    "acquisitions"
+   ],
+   "publisher": "Company",
+   "retrieved_date": "2026-09-15",
+   "tier": "company",
+   "title": "LeapScholar about us",
+   "url": "https://leapscholar.com/about-us"
+  },
+  {
+   "claim_supported": "FY24 revenue Rs 175.3cr +112%; $317.9M total funding",
+   "fields_supported": [
+    "financials"
+   ],
+   "publisher": "Inc42",
+   "retrieved_date": "2026-09-15",
+   "tier": "T3",
+   "title": "Leap funding/revenue profile",
+   "url": "https://inc42.com/company/leap"
+  },
+  {
+   "claim_supported": "CIN, incorporation, address, status",
+   "fields_supported": [
+    "company"
+   ],
+   "publisher": "InstaFinancials",
+   "retrieved_date": "2026-09-15",
+   "tier": "T2",
+   "title": "Outleap Technologies Private Limited",
+   "url": "https://www.instafinancials.com/company/outleap-technologies-private-limited-U72501KA2019FTC130352"
+  },
+  {
+   "url": "https://tracxn.com/d/companies/leap-scholar/__PBS7Pv0IBVsron_APH_R1yjA1RkgCdiPiPlOyrd6fFE",
+   "title": "Leap Scholar - Tracxn",
+   "tier": "T2"
+  },
+  {
+   "url": "https://www.livemint.com/companies/start-ups/study-abroad-leap-scholar-leap-finance-geebee-yocket-prodigy-finance-foreign-education-loans-edtechs-byjus-11741247394336.html",
+   "title": "Study-abroad player Leap is in late-stage talks to acquire Prodigy Finance",
+   "tier": "T2",
+   "claim": "acquisition Prodigy Finance (late-stage talks, Mar 2025)"
+  },
+  {
+   "url": "https://www.livemint.com/companies/start-ups/study-abroad-leap-scholar-leap-finance-geebee-yocket-prodigy-finance-foreign-education-loans-edtechs-byjus-11741247394336.html",
+   "title": "Study-abroad player Leap is in late-stage talks to acquire Prodigy Finance",
+   "tier": "T2",
+   "claim": "acquisition Yocket + GeeBee"
+  },
+  {
+   "url": "https://www.livemint.com/companies/start-ups/study-abroad-leap-scholar-leap-finance-geebee-yocket-prodigy-finance-foreign-education-loans-edtechs-byjus-11741247394336.html",
+   "title": "Study-abroad player Leap is in late-stage talks to acquire Prodigy Finance",
+   "tier": "T2",
+   "claim": "acquisition Prodigy Finance (late-stage talks, Mar 2025)"
+  },
+  {
+   "url": "https://www.livemint.com/companies/start-ups/study-abroad-leap-scholar-leap-finance-geebee-yocket-prodigy-finance-foreign-education-loans-edtechs-byjus-11741247394336.html",
+   "title": "Study-abroad player Leap is in late-stage talks to acquire Prodigy Finance",
+   "tier": "T2",
+   "claim": "acquisition Yocket + GeeBee"
+  },
+  {
+   "url": "https://www.livemint.com/companies/start-ups/study-abroad-leap-scholar-leap-finance-geebee-yocket-prodigy-finance-foreign-education-loans-edtechs-byjus-11741247394336.html",
+   "title": "Study-abroad player Leap is in late-stage talks to acquire Prodigy Finance",
+   "tier": "T2",
+   "claim": "acquisition Prodigy Finance (late-stage talks, Mar 2025)"
+  },
+  {
+   "url": "https://www.livemint.com/companies/start-ups/study-abroad-leap-scholar-leap-finance-geebee-yocket-prodigy-finance-foreign-education-loans-edtechs-byjus-11741247394336.html",
+   "title": "Study-abroad player Leap is in late-stage talks to acquire Prodigy Finance",
+   "tier": "T2",
+   "claim": "acquisition Yocket + GeeBee"
+  },
+  {
+   "url": "https://www.livemint.com/companies/start-ups/study-abroad-leap-scholar-leap-finance-geebee-yocket-prodigy-finance-foreign-education-loans-edtechs-byjus-11741247394336.html",
+   "title": "Study-abroad player Leap is in late-stage talks to acquire Prodigy Finance",
+   "tier": "T2",
+   "claim": "acquisition Prodigy Finance (late-stage talks, Mar 2025)"
+  },
+  {
+   "url": "https://www.livemint.com/companies/start-ups/study-abroad-leap-scholar-leap-finance-geebee-yocket-prodigy-finance-foreign-education-loans-edtechs-byjus-11741247394336.html",
+   "title": "Study-abroad player Leap is in late-stage talks to acquire Prodigy Finance",
+   "tier": "T2",
+   "claim": "acquisition Yocket + GeeBee"
+  },
+  {
+   "url": "https://www.livemint.com/companies/start-ups/study-abroad-leap-scholar-leap-finance-geebee-yocket-prodigy-finance-foreign-education-loans-edtechs-byjus-11741247394336.html",
+   "title": "Study-abroad player Leap is in late-stage talks to acquire Prodigy Finance",
+   "tier": "T2",
+   "claim": "acquisition Prodigy Finance (late-stage talks, Mar 2025)"
+  },
+  {
+   "url": "https://www.livemint.com/companies/start-ups/study-abroad-leap-scholar-leap-finance-geebee-yocket-prodigy-finance-foreign-education-loans-edtechs-byjus-11741247394336.html",
+   "title": "Study-abroad player Leap is in late-stage talks to acquire Prodigy Finance",
+   "tier": "T2",
+   "claim": "acquisition Yocket + GeeBee"
+  },
+  {
+   "url": "https://www.livemint.com/companies/start-ups/study-abroad-leap-scholar-leap-finance-geebee-yocket-prodigy-finance-foreign-education-loans-edtechs-byjus-11741247394336.html",
+   "title": "Study-abroad player Leap is in late-stage talks to acquire Prodigy Finance",
+   "tier": "T2",
+   "claim": "acquisition Prodigy Finance (late-stage talks, Mar 2025)"
+  },
+  {
+   "url": "https://www.livemint.com/companies/start-ups/study-abroad-leap-scholar-leap-finance-geebee-yocket-prodigy-finance-foreign-education-loans-edtechs-byjus-11741247394336.html",
+   "title": "Study-abroad player Leap is in late-stage talks to acquire Prodigy Finance",
+   "tier": "T2",
+   "claim": "acquisition Yocket + GeeBee"
+  },
+  {
+   "url": "https://www.livemint.com/companies/start-ups/study-abroad-leap-scholar-leap-finance-geebee-yocket-prodigy-finance-foreign-education-loans-edtechs-byjus-11741247394336.html",
+   "title": "Study-abroad player Leap is in late-stage talks to acquire Prodigy Finance",
+   "tier": "T2",
+   "claim": "acquisition Prodigy Finance (late-stage talks, Mar 2025)"
+  },
+  {
+   "url": "https://www.livemint.com/companies/start-ups/study-abroad-leap-scholar-leap-finance-geebee-yocket-prodigy-finance-foreign-education-loans-edtechs-byjus-11741247394336.html",
+   "title": "Study-abroad player Leap is in late-stage talks to acquire Prodigy Finance",
+   "tier": "T2",
+   "claim": "acquisition Yocket + GeeBee"
+  },
+  {
+   "url": "https://www.livemint.com/companies/start-ups/study-abroad-leap-scholar-leap-finance-geebee-yocket-prodigy-finance-foreign-education-loans-edtechs-byjus-11741247394336.html",
+   "title": "Study-abroad player Leap is in late-stage talks to acquire Prodigy Finance",
+   "tier": "T2",
+   "claim": "acquisition Prodigy Finance (late-stage talks, Mar 2025)"
+  },
+  {
+   "url": "https://www.livemint.com/companies/start-ups/study-abroad-leap-scholar-leap-finance-geebee-yocket-prodigy-finance-foreign-education-loans-edtechs-byjus-11741247394336.html",
+   "title": "Study-abroad player Leap is in late-stage talks to acquire Prodigy Finance",
+   "tier": "T2",
+   "claim": "acquisition Yocket + GeeBee"
+  },
+  {
+   "url": "https://www.livemint.com/companies/start-ups/study-abroad-leap-scholar-leap-finance-geebee-yocket-prodigy-finance-foreign-education-loans-edtechs-byjus-11741247394336.html",
+   "title": "Study-abroad player Leap is in late-stage talks to acquire Prodigy Finance",
+   "tier": "T2",
+   "claim": "acquisition Prodigy Finance (late-stage talks, Mar 2025)"
+  },
+  {
+   "url": "https://www.livemint.com/companies/start-ups/study-abroad-leap-scholar-leap-finance-geebee-yocket-prodigy-finance-foreign-education-loans-edtechs-byjus-11741247394336.html",
+   "title": "Study-abroad player Leap is in late-stage talks to acquire Prodigy Finance",
+   "tier": "T2",
+   "claim": "acquisition Yocket + GeeBee"
+  },
+  {
+   "url": "https://www.livemint.com/companies/start-ups/study-abroad-leap-scholar-leap-finance-geebee-yocket-prodigy-finance-foreign-education-loans-edtechs-byjus-11741247394336.html",
+   "title": "Study-abroad player Leap is in late-stage talks to acquire Prodigy Finance",
+   "tier": "T2",
+   "claim": "acquisition Prodigy Finance (late-stage talks, Mar 2025)"
+  },
+  {
+   "url": "https://www.livemint.com/companies/start-ups/study-abroad-leap-scholar-leap-finance-geebee-yocket-prodigy-finance-foreign-education-loans-edtechs-byjus-11741247394336.html",
+   "title": "Study-abroad player Leap is in late-stage talks to acquire Prodigy Finance",
+   "tier": "T2",
+   "claim": "acquisition Yocket + GeeBee"
+  },
+  {
+   "url": "https://www.livemint.com/companies/start-ups/study-abroad-leap-scholar-leap-finance-geebee-yocket-prodigy-finance-foreign-education-loans-edtechs-byjus-11741247394336.html",
+   "title": "Study-abroad player Leap is in late-stage talks to acquire Prodigy Finance",
+   "tier": "T2",
+   "claim": "acquisition Prodigy Finance (late-stage talks, Mar 2025)"
+  },
+  {
+   "url": "https://www.livemint.com/companies/start-ups/study-abroad-leap-scholar-leap-finance-geebee-yocket-prodigy-finance-foreign-education-loans-edtechs-byjus-11741247394336.html",
+   "title": "Study-abroad player Leap is in late-stage talks to acquire Prodigy Finance",
+   "tier": "T2",
+   "claim": "acquisition Yocket + GeeBee"
+  },
+  {
+   "url": "https://www.livemint.com/companies/start-ups/study-abroad-leap-scholar-leap-finance-geebee-yocket-prodigy-finance-foreign-education-loans-edtechs-byjus-11741247394336.html",
+   "title": "Study-abroad player Leap is in late-stage talks to acquire Prodigy Finance",
+   "tier": "T2",
+   "claim": "acquisition Prodigy Finance (late-stage talks, Mar 2025)"
+  },
+  {
+   "url": "https://www.livemint.com/companies/start-ups/study-abroad-leap-scholar-leap-finance-geebee-yocket-prodigy-finance-foreign-education-loans-edtechs-byjus-11741247394336.html",
+   "title": "Study-abroad player Leap is in late-stage talks to acquire Prodigy Finance",
+   "tier": "T2",
+   "claim": "acquisition Yocket + GeeBee"
+  },
+  {
+   "url": "https://www.livemint.com/companies/start-ups/study-abroad-leap-scholar-leap-finance-geebee-yocket-prodigy-finance-foreign-education-loans-edtechs-byjus-11741247394336.html",
+   "title": "Study-abroad player Leap is in late-stage talks to acquire Prodigy Finance",
+   "tier": "T2",
+   "claim": "acquisition Prodigy Finance (late-stage talks, Mar 2025)"
+  },
+  {
+   "url": "https://www.livemint.com/companies/start-ups/study-abroad-leap-scholar-leap-finance-geebee-yocket-prodigy-finance-foreign-education-loans-edtechs-byjus-11741247394336.html",
+   "title": "Study-abroad player Leap is in late-stage talks to acquire Prodigy Finance",
+   "tier": "T2",
+   "claim": "acquisition Yocket + GeeBee"
+  },
+  {
+   "url": "https://www.livemint.com/companies/start-ups/study-abroad-leap-scholar-leap-finance-geebee-yocket-prodigy-finance-foreign-education-loans-edtechs-byjus-11741247394336.html",
+   "title": "Study-abroad player Leap is in late-stage talks to acquire Prodigy Finance",
+   "tier": "T2",
+   "claim": "acquisition Prodigy Finance (late-stage talks, Mar 2025)"
+  },
+  {
+   "url": "https://www.livemint.com/companies/start-ups/study-abroad-leap-scholar-leap-finance-geebee-yocket-prodigy-finance-foreign-education-loans-edtechs-byjus-11741247394336.html",
+   "title": "Study-abroad player Leap is in late-stage talks to acquire Prodigy Finance",
+   "tier": "T2",
+   "claim": "acquisition Yocket + GeeBee"
+  },
+  {
+   "url": "https://www.livemint.com/companies/start-ups/study-abroad-leap-scholar-leap-finance-geebee-yocket-prodigy-finance-foreign-education-loans-edtechs-byjus-11741247394336.html",
+   "title": "Study-abroad player Leap is in late-stage talks to acquire Prodigy Finance",
+   "tier": "T2",
+   "claim": "acquisition Prodigy Finance (late-stage talks, Mar 2025)"
+  },
+  {
+   "url": "https://www.livemint.com/companies/start-ups/study-abroad-leap-scholar-leap-finance-geebee-yocket-prodigy-finance-foreign-education-loans-edtechs-byjus-11741247394336.html",
+   "title": "Study-abroad player Leap is in late-stage talks to acquire Prodigy Finance",
+   "tier": "T2",
+   "claim": "acquisition Yocket + GeeBee"
+  },
+  {
+   "url": "https://www.livemint.com/companies/start-ups/study-abroad-leap-scholar-leap-finance-geebee-yocket-prodigy-finance-foreign-education-loans-edtechs-byjus-11741247394336.html",
+   "title": "Study-abroad player Leap is in late-stage talks to acquire Prodigy Finance",
+   "tier": "T2",
+   "claim": "acquisition Prodigy Finance (late-stage talks, Mar 2025)"
+  },
+  {
+   "url": "https://www.livemint.com/companies/start-ups/study-abroad-leap-scholar-leap-finance-geebee-yocket-prodigy-finance-foreign-education-loans-edtechs-byjus-11741247394336.html",
+   "title": "Study-abroad player Leap is in late-stage talks to acquire Prodigy Finance",
+   "tier": "T2",
+   "claim": "acquisition Yocket + GeeBee"
+  },
+  {
+   "url": "https://www.livemint.com/companies/start-ups/study-abroad-leap-scholar-leap-finance-geebee-yocket-prodigy-finance-foreign-education-loans-edtechs-byjus-11741247394336.html",
+   "title": "Study-abroad player Leap is in late-stage talks to acquire Prodigy Finance",
+   "tier": "T2",
+   "claim": "acquisition Prodigy Finance (late-stage talks, Mar 2025)"
+  },
+  {
+   "url": "https://www.livemint.com/companies/start-ups/study-abroad-leap-scholar-leap-finance-geebee-yocket-prodigy-finance-foreign-education-loans-edtechs-byjus-11741247394336.html",
+   "title": "Study-abroad player Leap is in late-stage talks to acquire Prodigy Finance",
+   "tier": "T2",
+   "claim": "acquisition Yocket + GeeBee"
+  },
+  {
+   "url": "https://www.livemint.com/companies/start-ups/study-abroad-leap-scholar-leap-finance-geebee-yocket-prodigy-finance-foreign-education-loans-edtechs-byjus-11741247394336.html",
+   "title": "Study-abroad player Leap is in late-stage talks to acquire Prodigy Finance",
+   "tier": "T2",
+   "claim": "acquisition Prodigy Finance (late-stage talks, Mar 2025)"
+  },
+  {
+   "url": "https://www.livemint.com/companies/start-ups/study-abroad-leap-scholar-leap-finance-geebee-yocket-prodigy-finance-foreign-education-loans-edtechs-byjus-11741247394336.html",
+   "title": "Study-abroad player Leap is in late-stage talks to acquire Prodigy Finance",
+   "tier": "T2",
+   "claim": "acquisition Yocket + GeeBee"
+  },
+  {
+   "url": "https://www.livemint.com/companies/start-ups/study-abroad-leap-scholar-leap-finance-geebee-yocket-prodigy-finance-foreign-education-loans-edtechs-byjus-11741247394336.html",
+   "title": "Study-abroad player Leap is in late-stage talks to acquire Prodigy Finance",
+   "tier": "T2",
+   "claim": "acquisition Prodigy Finance (late-stage talks, Mar 2025)"
+  },
+  {
+   "url": "https://www.livemint.com/companies/start-ups/study-abroad-leap-scholar-leap-finance-geebee-yocket-prodigy-finance-foreign-education-loans-edtechs-byjus-11741247394336.html",
+   "title": "Study-abroad player Leap is in late-stage talks to acquire Prodigy Finance",
+   "tier": "T2",
+   "claim": "acquisition Yocket + GeeBee"
+  },
+  {
+   "url": "https://www.livemint.com/companies/start-ups/study-abroad-leap-scholar-leap-finance-geebee-yocket-prodigy-finance-foreign-education-loans-edtechs-byjus-11741247394336.html",
+   "title": "Study-abroad player Leap is in late-stage talks to acquire Prodigy Finance",
+   "tier": "T2",
+   "claim": "acquisition Prodigy Finance (late-stage talks, Mar 2025)"
+  },
+  {
+   "url": "https://www.livemint.com/companies/start-ups/study-abroad-leap-scholar-leap-finance-geebee-yocket-prodigy-finance-foreign-education-loans-edtechs-byjus-11741247394336.html",
+   "title": "Study-abroad player Leap is in late-stage talks to acquire Prodigy Finance",
+   "tier": "T2",
+   "claim": "acquisition Yocket + GeeBee"
+  },
+  {
+   "url": "https://www.livemint.com/companies/start-ups/study-abroad-leap-scholar-leap-finance-geebee-yocket-prodigy-finance-foreign-education-loans-edtechs-byjus-11741247394336.html",
+   "title": "Study-abroad player Leap is in late-stage talks to acquire Prodigy Finance",
+   "tier": "T2",
+   "claim": "acquisition Prodigy Finance (late-stage talks, Mar 2025)"
+  },
+  {
+   "url": "https://www.livemint.com/companies/start-ups/study-abroad-leap-scholar-leap-finance-geebee-yocket-prodigy-finance-foreign-education-loans-edtechs-byjus-11741247394336.html",
+   "title": "Study-abroad player Leap is in late-stage talks to acquire Prodigy Finance",
+   "tier": "T2",
+   "claim": "acquisition Yocket + GeeBee"
+  },
+  {
+   "url": "https://www.livemint.com/companies/start-ups/study-abroad-leap-scholar-leap-finance-geebee-yocket-prodigy-finance-foreign-education-loans-edtechs-byjus-11741247394336.html",
+   "title": "Study-abroad player Leap is in late-stage talks to acquire Prodigy Finance",
+   "tier": "T2",
+   "claim": "acquisition Prodigy Finance (late-stage talks, Mar 2025)"
+  },
+  {
+   "url": "https://www.livemint.com/companies/start-ups/study-abroad-leap-scholar-leap-finance-geebee-yocket-prodigy-finance-foreign-education-loans-edtechs-byjus-11741247394336.html",
+   "title": "Study-abroad player Leap is in late-stage talks to acquire Prodigy Finance",
+   "tier": "T2",
+   "claim": "acquisition Yocket + GeeBee"
+  },
+  {
+   "url": "https://www.livemint.com/companies/start-ups/study-abroad-leap-scholar-leap-finance-geebee-yocket-prodigy-finance-foreign-education-loans-edtechs-byjus-11741247394336.html",
+   "title": "Study-abroad player Leap is in late-stage talks to acquire Prodigy Finance",
+   "tier": "T2",
+   "claim": "acquisition Prodigy Finance (late-stage talks, Mar 2025)"
+  },
+  {
+   "url": "https://www.livemint.com/companies/start-ups/study-abroad-leap-scholar-leap-finance-geebee-yocket-prodigy-finance-foreign-education-loans-edtechs-byjus-11741247394336.html",
+   "title": "Study-abroad player Leap is in late-stage talks to acquire Prodigy Finance",
+   "tier": "T2",
+   "claim": "acquisition Yocket + GeeBee"
+  },
+  {
+   "url": "https://www.livemint.com/companies/start-ups/study-abroad-leap-scholar-leap-finance-geebee-yocket-prodigy-finance-foreign-education-loans-edtechs-byjus-11741247394336.html",
+   "title": "Study-abroad player Leap is in late-stage talks to acquire Prodigy Finance",
+   "tier": "T2",
+   "claim": "acquisition Prodigy Finance (late-stage talks, Mar 2025)"
+  },
+  {
+   "url": "https://www.livemint.com/companies/start-ups/study-abroad-leap-scholar-leap-finance-geebee-yocket-prodigy-finance-foreign-education-loans-edtechs-byjus-11741247394336.html",
+   "title": "Study-abroad player Leap is in late-stage talks to acquire Prodigy Finance",
+   "tier": "T2",
+   "claim": "acquisition Yocket + GeeBee"
+  },
+  {
+   "url": "https://www.livemint.com/companies/start-ups/study-abroad-leap-scholar-leap-finance-geebee-yocket-prodigy-finance-foreign-education-loans-edtechs-byjus-11741247394336.html",
+   "title": "Study-abroad player Leap is in late-stage talks to acquire Prodigy Finance",
+   "tier": "T2",
+   "claim": "acquisition Prodigy Finance (late-stage talks, Mar 2025)"
+  },
+  {
+   "url": "https://www.livemint.com/companies/start-ups/study-abroad-leap-scholar-leap-finance-geebee-yocket-prodigy-finance-foreign-education-loans-edtechs-byjus-11741247394336.html",
+   "title": "Study-abroad player Leap is in late-stage talks to acquire Prodigy Finance",
+   "tier": "T2",
+   "claim": "acquisition Yocket + GeeBee"
+  },
+  {
+   "url": "https://www.livemint.com/companies/start-ups/study-abroad-leap-scholar-leap-finance-geebee-yocket-prodigy-finance-foreign-education-loans-edtechs-byjus-11741247394336.html",
+   "title": "Study-abroad player Leap is in late-stage talks to acquire Prodigy Finance",
+   "tier": "T2",
+   "claim": "acquisition Prodigy Finance (late-stage talks, Mar 2025)"
+  },
+  {
+   "url": "https://www.livemint.com/companies/start-ups/study-abroad-leap-scholar-leap-finance-geebee-yocket-prodigy-finance-foreign-education-loans-edtechs-byjus-11741247394336.html",
+   "title": "Study-abroad player Leap is in late-stage talks to acquire Prodigy Finance",
+   "tier": "T2",
+   "claim": "acquisition Yocket + GeeBee"
+  },
+  {
+   "url": "https://www.livemint.com/companies/start-ups/study-abroad-leap-scholar-leap-finance-geebee-yocket-prodigy-finance-foreign-education-loans-edtechs-byjus-11741247394336.html",
+   "title": "Study-abroad player Leap is in late-stage talks to acquire Prodigy Finance",
+   "tier": "T2",
+   "claim": "acquisition Prodigy Finance (late-stage talks, Mar 2025)"
+  },
+  {
+   "url": "https://www.livemint.com/companies/start-ups/study-abroad-leap-scholar-leap-finance-geebee-yocket-prodigy-finance-foreign-education-loans-edtechs-byjus-11741247394336.html",
+   "title": "Study-abroad player Leap is in late-stage talks to acquire Prodigy Finance",
+   "tier": "T2",
+   "claim": "acquisition Yocket + GeeBee"
+  },
+  {
+   "url": "https://www.livemint.com/companies/start-ups/study-abroad-leap-scholar-leap-finance-geebee-yocket-prodigy-finance-foreign-education-loans-edtechs-byjus-11741247394336.html",
+   "title": "Study-abroad player Leap is in late-stage talks to acquire Prodigy Finance",
+   "tier": "T2",
+   "claim": "acquisition Prodigy Finance (late-stage talks, Mar 2025)"
+  },
+  {
+   "url": "https://www.livemint.com/companies/start-ups/study-abroad-leap-scholar-leap-finance-geebee-yocket-prodigy-finance-foreign-education-loans-edtechs-byjus-11741247394336.html",
+   "title": "Study-abroad player Leap is in late-stage talks to acquire Prodigy Finance",
+   "tier": "T2",
+   "claim": "acquisition Yocket + GeeBee"
+  },
+  {
+   "url": "https://www.livemint.com/companies/start-ups/study-abroad-leap-scholar-leap-finance-geebee-yocket-prodigy-finance-foreign-education-loans-edtechs-byjus-11741247394336.html",
+   "title": "Study-abroad player Leap is in late-stage talks to acquire Prodigy Finance",
+   "tier": "T2",
+   "claim": "acquisition Prodigy Finance (late-stage talks, Mar 2025)"
+  },
+  {
+   "url": "https://www.livemint.com/companies/start-ups/study-abroad-leap-scholar-leap-finance-geebee-yocket-prodigy-finance-foreign-education-loans-edtechs-byjus-11741247394336.html",
+   "title": "Study-abroad player Leap is in late-stage talks to acquire Prodigy Finance",
+   "tier": "T2",
+   "claim": "acquisition Yocket + GeeBee"
+  },
+  {
+   "url": "https://www.livemint.com/companies/start-ups/study-abroad-leap-scholar-leap-finance-geebee-yocket-prodigy-finance-foreign-education-loans-edtechs-byjus-11741247394336.html",
+   "title": "Study-abroad player Leap is in late-stage talks to acquire Prodigy Finance",
+   "tier": "T2",
+   "claim": "acquisition Prodigy Finance (late-stage talks, Mar 2025)"
+  },
+  {
+   "url": "https://www.livemint.com/companies/start-ups/study-abroad-leap-scholar-leap-finance-geebee-yocket-prodigy-finance-foreign-education-loans-edtechs-byjus-11741247394336.html",
+   "title": "Study-abroad player Leap is in late-stage talks to acquire Prodigy Finance",
+   "tier": "T2",
+   "claim": "acquisition Yocket + GeeBee"
+  },
+  {
+   "url": "https://www.livemint.com/companies/start-ups/study-abroad-leap-scholar-leap-finance-geebee-yocket-prodigy-finance-foreign-education-loans-edtechs-byjus-11741247394336.html",
+   "title": "Study-abroad player Leap is in late-stage talks to acquire Prodigy Finance",
+   "tier": "T2",
+   "claim": "acquisition Prodigy Finance (late-stage talks, Mar 2025)"
+  },
+  {
+   "url": "https://www.livemint.com/companies/start-ups/study-abroad-leap-scholar-leap-finance-geebee-yocket-prodigy-finance-foreign-education-loans-edtechs-byjus-11741247394336.html",
+   "title": "Study-abroad player Leap is in late-stage talks to acquire Prodigy Finance",
+   "tier": "T2",
+   "claim": "acquisition Yocket + GeeBee"
+  },
+  {
+   "url": "https://www.livemint.com/companies/start-ups/study-abroad-leap-scholar-leap-finance-geebee-yocket-prodigy-finance-foreign-education-loans-edtechs-byjus-11741247394336.html",
+   "title": "Study-abroad player Leap is in late-stage talks to acquire Prodigy Finance",
+   "tier": "T2",
+   "claim": "acquisition Prodigy Finance (late-stage talks, Mar 2025)"
+  },
+  {
+   "url": "https://www.livemint.com/companies/start-ups/study-abroad-leap-scholar-leap-finance-geebee-yocket-prodigy-finance-foreign-education-loans-edtechs-byjus-11741247394336.html",
+   "title": "Study-abroad player Leap is in late-stage talks to acquire Prodigy Finance",
+   "tier": "T2",
+   "claim": "acquisition Yocket + GeeBee"
+  },
+  {
+   "url": "https://www.livemint.com/companies/start-ups/study-abroad-leap-scholar-leap-finance-geebee-yocket-prodigy-finance-foreign-education-loans-edtechs-byjus-11741247394336.html",
+   "title": "Study-abroad player Leap is in late-stage talks to acquire Prodigy Finance",
+   "tier": "T2",
+   "claim": "acquisition Prodigy Finance (late-stage talks, Mar 2025)"
+  },
+  {
+   "url": "https://www.livemint.com/companies/start-ups/study-abroad-leap-scholar-leap-finance-geebee-yocket-prodigy-finance-foreign-education-loans-edtechs-byjus-11741247394336.html",
+   "title": "Study-abroad player Leap is in late-stage talks to acquire Prodigy Finance",
+   "tier": "T2",
+   "claim": "acquisition Yocket + GeeBee"
+  },
+  {
+   "url": "https://thepienews.com/international-student-neobank-leap-raises-17m/",
+   "publisher": "The PIE News",
+   "tier": "T1",
+   "publication_date": "2021-03-16",
+   "retrieved_date": "2026-09-15",
+   "confidence": "HIGH",
+   "fields_supported": [
+    "funding_rounds",
+    "traction",
+    "founders"
+   ]
+  },
+  {
+   "url": "https://thepienews.com/leap-attracts-65m-investment/",
+   "publisher": "The PIE News",
+   "tier": "T1",
+   "publication_date": "2025-01-29",
+   "retrieved_date": "2026-09-15",
+   "confidence": "HIGH",
+   "fields_supported": [
+    "funding_rounds",
+    "traction"
+   ]
+  },
+  {
+   "url": "https://www.entrackr.in/2025/04/edtech-startup-leap-elevates-rajanchaudhary-as-cofounder",
+   "publisher": "Entrackr",
+   "tier": "T3",
+   "publication_date": "2025-04-30",
+   "retrieved_date": "2026-09-15",
+   "confidence": "MEDIUM",
+   "fields_supported": [
+    "people"
+   ]
+  },
+  {
+   "url": "https://www.moneycontrol.com/news/technology/leap-eyes-ma-in-undergrad-upskilling-segments-turns-ebitda-positive",
+   "publisher": "Moneycontrol",
+   "tier": "T3",
+   "publication_date": "2025-07-02",
+   "retrieved_date": "2026-09-15",
+   "confidence": "MEDIUM",
+   "fields_supported": [
+    "financials"
+   ]
+  },
+  {
+   "url": "https://www.tribuneindia.com/news/education/leap-announces-expansion-of-offline-centres-across-india-with-15-new-centres-in-2026",
+   "publisher": "The Tribune",
+   "tier": "T3",
+   "publication_date": "2026-03-23",
+   "retrieved_date": "2026-09-15",
+   "confidence": "LOW",
+   "fields_supported": [
+    "products",
+    "events"
+   ]
+  },
+  {
+   "url": "https://apnnews.com/leapscholar-partners-duolingo-english-test",
+   "publisher": "APN News",
+   "tier": "T3",
+   "publication_date": "2025-05-19",
+   "retrieved_date": "2026-09-15",
+   "confidence": "LOW",
+   "fields_supported": [
+    "products",
+    "events"
+   ]
+  },
+  {
+   "url": "https://www.livemint.com/companies/start-ups/study-abroad-leap-scholar-leap-finance-geebee-yocket-prodigy-finance-foreign-education-loans-edtechs-byjus-11741247394336.html",
+   "title": "Study-abroad player Leap is in late-stage talks to acquire Prodigy Finance",
+   "tier": "T2",
+   "claim": "acquisition Prodigy Finance (late-stage talks, Mar 2025)"
+  },
+  {
+   "url": "https://www.livemint.com/companies/start-ups/study-abroad-leap-scholar-leap-finance-geebee-yocket-prodigy-finance-foreign-education-loans-edtechs-byjus-11741247394336.html",
+   "title": "Study-abroad player Leap is in late-stage talks to acquire Prodigy Finance",
+   "tier": "T2",
+   "claim": "acquisition Yocket + GeeBee"
+  },
+  {
+   "url": "https://www.livemint.com/companies/start-ups/study-abroad-leap-scholar-leap-finance-geebee-yocket-prodigy-finance-foreign-education-loans-edtechs-byjus-11741247394336.html",
+   "title": "Study-abroad player Leap is in late-stage talks to acquire Prodigy Finance",
+   "tier": "T2",
+   "claim": "acquisition Prodigy Finance (late-stage talks, Mar 2025)"
+  },
+  {
+   "url": "https://www.livemint.com/companies/start-ups/study-abroad-leap-scholar-leap-finance-geebee-yocket-prodigy-finance-foreign-education-loans-edtechs-byjus-11741247394336.html",
+   "title": "Study-abroad player Leap is in late-stage talks to acquire Prodigy Finance",
+   "tier": "T2",
+   "claim": "acquisition Yocket + GeeBee"
+  },
+  {
+   "url": "https://www.livemint.com/companies/start-ups/study-abroad-leap-scholar-leap-finance-geebee-yocket-prodigy-finance-foreign-education-loans-edtechs-byjus-11741247394336.html",
+   "title": "Study-abroad player Leap is in late-stage talks to acquire Prodigy Finance",
+   "tier": "T2",
+   "claim": "acquisition Prodigy Finance (late-stage talks, Mar 2025)"
+  },
+  {
+   "url": "https://www.livemint.com/companies/start-ups/study-abroad-leap-scholar-leap-finance-geebee-yocket-prodigy-finance-foreign-education-loans-edtechs-byjus-11741247394336.html",
+   "title": "Study-abroad player Leap is in late-stage talks to acquire Prodigy Finance",
+   "tier": "T2",
+   "claim": "acquisition Yocket + GeeBee"
+  },
+  {
+   "url": "https://www.livemint.com/companies/start-ups/study-abroad-leap-scholar-leap-finance-geebee-yocket-prodigy-finance-foreign-education-loans-edtechs-byjus-11741247394336.html",
+   "title": "Study-abroad player Leap is in late-stage talks to acquire Prodigy Finance",
+   "tier": "T2",
+   "claim": "acquisition Prodigy Finance (late-stage talks, Mar 2025)"
+  },
+  {
+   "url": "https://www.livemint.com/companies/start-ups/study-abroad-leap-scholar-leap-finance-geebee-yocket-prodigy-finance-foreign-education-loans-edtechs-byjus-11741247394336.html",
+   "title": "Study-abroad player Leap is in late-stage talks to acquire Prodigy Finance",
+   "tier": "T2",
+   "claim": "acquisition Yocket + GeeBee"
+  },
+  {
+   "url": "https://www.livemint.com/companies/start-ups/study-abroad-leap-scholar-leap-finance-geebee-yocket-prodigy-finance-foreign-education-loans-edtechs-byjus-11741247394336.html",
+   "title": "Study-abroad player Leap is in late-stage talks to acquire Prodigy Finance",
+   "tier": "T2",
+   "claim": "acquisition Prodigy Finance (late-stage talks, Mar 2025)"
+  },
+  {
+   "url": "https://www.livemint.com/companies/start-ups/study-abroad-leap-scholar-leap-finance-geebee-yocket-prodigy-finance-foreign-education-loans-edtechs-byjus-11741247394336.html",
+   "title": "Study-abroad player Leap is in late-stage talks to acquire Prodigy Finance",
+   "tier": "T2",
+   "claim": "acquisition Yocket + GeeBee"
+  },
+  {
+   "url": "https://www.livemint.com/companies/start-ups/study-abroad-leap-scholar-leap-finance-geebee-yocket-prodigy-finance-foreign-education-loans-edtechs-byjus-11741247394336.html",
+   "title": "Study-abroad player Leap is in late-stage talks to acquire Prodigy Finance",
+   "tier": "T2",
+   "claim": "acquisition Prodigy Finance (late-stage talks, Mar 2025)"
+  },
+  {
+   "url": "https://www.livemint.com/companies/start-ups/study-abroad-leap-scholar-leap-finance-geebee-yocket-prodigy-finance-foreign-education-loans-edtechs-byjus-11741247394336.html",
+   "title": "Study-abroad player Leap is in late-stage talks to acquire Prodigy Finance",
+   "tier": "T2",
+   "claim": "acquisition Yocket + GeeBee"
+  },
+  {
+   "url": "https://www.livemint.com/companies/start-ups/study-abroad-leap-scholar-leap-finance-geebee-yocket-prodigy-finance-foreign-education-loans-edtechs-byjus-11741247394336.html",
+   "title": "Study-abroad player Leap is in late-stage talks to acquire Prodigy Finance",
+   "tier": "T2",
+   "claim": "acquisition Prodigy Finance (late-stage talks, Mar 2025)"
+  },
+  {
+   "url": "https://www.livemint.com/companies/start-ups/study-abroad-leap-scholar-leap-finance-geebee-yocket-prodigy-finance-foreign-education-loans-edtechs-byjus-11741247394336.html",
+   "title": "Study-abroad player Leap is in late-stage talks to acquire Prodigy Finance",
+   "tier": "T2",
+   "claim": "acquisition Yocket + GeeBee"
+  },
+  {
+   "url": "https://www.livemint.com/companies/start-ups/study-abroad-leap-scholar-leap-finance-geebee-yocket-prodigy-finance-foreign-education-loans-edtechs-byjus-11741247394336.html",
+   "title": "Study-abroad player Leap is in late-stage talks to acquire Prodigy Finance",
+   "tier": "T2",
+   "claim": "acquisition Prodigy Finance (late-stage talks, Mar 2025)"
+  },
+  {
+   "url": "https://www.livemint.com/companies/start-ups/study-abroad-leap-scholar-leap-finance-geebee-yocket-prodigy-finance-foreign-education-loans-edtechs-byjus-11741247394336.html",
+   "title": "Study-abroad player Leap is in late-stage talks to acquire Prodigy Finance",
+   "tier": "T2",
+   "claim": "acquisition Yocket + GeeBee"
+  },
+  {
+   "url": "https://www.livemint.com/companies/start-ups/study-abroad-leap-scholar-leap-finance-geebee-yocket-prodigy-finance-foreign-education-loans-edtechs-byjus-11741247394336.html",
+   "title": "Study-abroad player Leap is in late-stage talks to acquire Prodigy Finance",
+   "tier": "T2",
+   "claim": "acquisition Prodigy Finance (late-stage talks, Mar 2025)"
+  },
+  {
+   "url": "https://www.livemint.com/companies/start-ups/study-abroad-leap-scholar-leap-finance-geebee-yocket-prodigy-finance-foreign-education-loans-edtechs-byjus-11741247394336.html",
+   "title": "Study-abroad player Leap is in late-stage talks to acquire Prodigy Finance",
+   "tier": "T2",
+   "claim": "acquisition Yocket + GeeBee"
+  },
+  {
+   "url": "https://www.livemint.com/companies/start-ups/study-abroad-leap-scholar-leap-finance-geebee-yocket-prodigy-finance-foreign-education-loans-edtechs-byjus-11741247394336.html",
+   "title": "Study-abroad player Leap is in late-stage talks to acquire Prodigy Finance",
+   "tier": "T2",
+   "claim": "acquisition Prodigy Finance (late-stage talks, Mar 2025)"
+  },
+  {
+   "url": "https://www.livemint.com/companies/start-ups/study-abroad-leap-scholar-leap-finance-geebee-yocket-prodigy-finance-foreign-education-loans-edtechs-byjus-11741247394336.html",
+   "title": "Study-abroad player Leap is in late-stage talks to acquire Prodigy Finance",
+   "tier": "T2",
+   "claim": "acquisition Yocket + GeeBee"
+  },
+  {
+   "url": "https://www.livemint.com/companies/start-ups/study-abroad-leap-scholar-leap-finance-geebee-yocket-prodigy-finance-foreign-education-loans-edtechs-byjus-11741247394336.html",
+   "title": "Study-abroad player Leap is in late-stage talks to acquire Prodigy Finance",
+   "tier": "T2",
+   "claim": "acquisition Prodigy Finance (late-stage talks, Mar 2025)"
+  },
+  {
+   "url": "https://www.livemint.com/companies/start-ups/study-abroad-leap-scholar-leap-finance-geebee-yocket-prodigy-finance-foreign-education-loans-edtechs-byjus-11741247394336.html",
+   "title": "Study-abroad player Leap is in late-stage talks to acquire Prodigy Finance",
+   "tier": "T2",
+   "claim": "acquisition Yocket + GeeBee"
+  },
+  {
+   "url": "https://www.livemint.com/companies/start-ups/study-abroad-leap-scholar-leap-finance-geebee-yocket-prodigy-finance-foreign-education-loans-edtechs-byjus-11741247394336.html",
+   "title": "Study-abroad player Leap is in late-stage talks to acquire Prodigy Finance",
+   "tier": "T2",
+   "claim": "acquisition Prodigy Finance (late-stage talks, Mar 2025)"
+  },
+  {
+   "url": "https://www.livemint.com/companies/start-ups/study-abroad-leap-scholar-leap-finance-geebee-yocket-prodigy-finance-foreign-education-loans-edtechs-byjus-11741247394336.html",
+   "title": "Study-abroad player Leap is in late-stage talks to acquire Prodigy Finance",
+   "tier": "T2",
+   "claim": "acquisition Yocket + GeeBee"
+  },
+  {
+   "url": "https://www.livemint.com/companies/start-ups/study-abroad-leap-scholar-leap-finance-geebee-yocket-prodigy-finance-foreign-education-loans-edtechs-byjus-11741247394336.html",
+   "title": "Study-abroad player Leap is in late-stage talks to acquire Prodigy Finance",
+   "tier": "T2",
+   "claim": "acquisition Prodigy Finance (late-stage talks, Mar 2025)"
+  },
+  {
+   "url": "https://www.livemint.com/companies/start-ups/study-abroad-leap-scholar-leap-finance-geebee-yocket-prodigy-finance-foreign-education-loans-edtechs-byjus-11741247394336.html",
+   "title": "Study-abroad player Leap is in late-stage talks to acquire Prodigy Finance",
+   "tier": "T2",
+   "claim": "acquisition Yocket + GeeBee"
+  },
+  {
+   "url": "https://www.livemint.com/companies/start-ups/study-abroad-leap-scholar-leap-finance-geebee-yocket-prodigy-finance-foreign-education-loans-edtechs-byjus-11741247394336.html",
+   "title": "Study-abroad player Leap is in late-stage talks to acquire Prodigy Finance",
+   "tier": "T2",
+   "claim": "acquisition Prodigy Finance (late-stage talks, Mar 2025)"
+  },
+  {
+   "url": "https://www.livemint.com/companies/start-ups/study-abroad-leap-scholar-leap-finance-geebee-yocket-prodigy-finance-foreign-education-loans-edtechs-byjus-11741247394336.html",
+   "title": "Study-abroad player Leap is in late-stage talks to acquire Prodigy Finance",
+   "tier": "T2",
+   "claim": "acquisition Yocket + GeeBee"
+  },
+  {
+   "url": "https://www.livemint.com/companies/start-ups/study-abroad-leap-scholar-leap-finance-geebee-yocket-prodigy-finance-foreign-education-loans-edtechs-byjus-11741247394336.html",
+   "title": "Study-abroad player Leap is in late-stage talks to acquire Prodigy Finance",
+   "tier": "T2",
+   "claim": "acquisition Prodigy Finance (late-stage talks, Mar 2025)"
+  },
+  {
+   "url": "https://www.livemint.com/companies/start-ups/study-abroad-leap-scholar-leap-finance-geebee-yocket-prodigy-finance-foreign-education-loans-edtechs-byjus-11741247394336.html",
+   "title": "Study-abroad player Leap is in late-stage talks to acquire Prodigy Finance",
+   "tier": "T2",
+   "claim": "acquisition Yocket + GeeBee"
+  },
+  {
+   "url": "https://www.livemint.com/companies/start-ups/study-abroad-leap-scholar-leap-finance-geebee-yocket-prodigy-finance-foreign-education-loans-edtechs-byjus-11741247394336.html",
+   "title": "Study-abroad player Leap is in late-stage talks to acquire Prodigy Finance",
+   "tier": "T2",
+   "claim": "acquisition Prodigy Finance (late-stage talks, Mar 2025)"
+  },
+  {
+   "url": "https://www.livemint.com/companies/start-ups/study-abroad-leap-scholar-leap-finance-geebee-yocket-prodigy-finance-foreign-education-loans-edtechs-byjus-11741247394336.html",
+   "title": "Study-abroad player Leap is in late-stage talks to acquire Prodigy Finance",
+   "tier": "T2",
+   "claim": "acquisition Yocket + GeeBee"
+  },
+  {
+   "url": "https://www.livemint.com/companies/start-ups/study-abroad-leap-scholar-leap-finance-geebee-yocket-prodigy-finance-foreign-education-loans-edtechs-byjus-11741247394336.html",
+   "title": "Study-abroad player Leap is in late-stage talks to acquire Prodigy Finance",
+   "tier": "T2",
+   "claim": "acquisition Prodigy Finance (late-stage talks, Mar 2025)"
+  },
+  {
+   "url": "https://www.livemint.com/companies/start-ups/study-abroad-leap-scholar-leap-finance-geebee-yocket-prodigy-finance-foreign-education-loans-edtechs-byjus-11741247394336.html",
+   "title": "Study-abroad player Leap is in late-stage talks to acquire Prodigy Finance",
+   "tier": "T2",
+   "claim": "acquisition Yocket + GeeBee"
+  },
+  {
+   "url": "https://www.livemint.com/companies/start-ups/study-abroad-leap-scholar-leap-finance-geebee-yocket-prodigy-finance-foreign-education-loans-edtechs-byjus-11741247394336.html",
+   "title": "Study-abroad player Leap is in late-stage talks to acquire Prodigy Finance",
+   "tier": "T2",
+   "claim": "acquisition Prodigy Finance (late-stage talks, Mar 2025)"
+  },
+  {
+   "url": "https://www.livemint.com/companies/start-ups/study-abroad-leap-scholar-leap-finance-geebee-yocket-prodigy-finance-foreign-education-loans-edtechs-byjus-11741247394336.html",
+   "title": "Study-abroad player Leap is in late-stage talks to acquire Prodigy Finance",
+   "tier": "T2",
+   "claim": "acquisition Yocket + GeeBee"
+  },
+  {
+   "url": "https://www.livemint.com/companies/start-ups/study-abroad-leap-scholar-leap-finance-geebee-yocket-prodigy-finance-foreign-education-loans-edtechs-byjus-11741247394336.html",
+   "title": "Study-abroad player Leap is in late-stage talks to acquire Prodigy Finance",
+   "tier": "T2",
+   "claim": "acquisition Prodigy Finance (late-stage talks, Mar 2025)"
+  },
+  {
+   "url": "https://www.livemint.com/companies/start-ups/study-abroad-leap-scholar-leap-finance-geebee-yocket-prodigy-finance-foreign-education-loans-edtechs-byjus-11741247394336.html",
+   "title": "Study-abroad player Leap is in late-stage talks to acquire Prodigy Finance",
+   "tier": "T2",
+   "claim": "acquisition Yocket + GeeBee"
+  },
+  {
+   "url": "https://www.livemint.com/companies/start-ups/study-abroad-leap-scholar-leap-finance-geebee-yocket-prodigy-finance-foreign-education-loans-edtechs-byjus-11741247394336.html",
+   "title": "Study-abroad player Leap is in late-stage talks to acquire Prodigy Finance",
+   "tier": "T2",
+   "claim": "acquisition Prodigy Finance (late-stage talks, Mar 2025)"
+  },
+  {
+   "url": "https://www.livemint.com/companies/start-ups/study-abroad-leap-scholar-leap-finance-geebee-yocket-prodigy-finance-foreign-education-loans-edtechs-byjus-11741247394336.html",
+   "title": "Study-abroad player Leap is in late-stage talks to acquire Prodigy Finance",
+   "tier": "T2",
+   "claim": "acquisition Yocket + GeeBee"
+  },
+  {
+   "url": "https://www.livemint.com/companies/start-ups/study-abroad-leap-scholar-leap-finance-geebee-yocket-prodigy-finance-foreign-education-loans-edtechs-byjus-11741247394336.html",
+   "title": "Study-abroad player Leap is in late-stage talks to acquire Prodigy Finance",
+   "tier": "T2",
+   "claim": "acquisition Prodigy Finance (late-stage talks, Mar 2025)"
+  },
+  {
+   "url": "https://www.livemint.com/companies/start-ups/study-abroad-leap-scholar-leap-finance-geebee-yocket-prodigy-finance-foreign-education-loans-edtechs-byjus-11741247394336.html",
+   "title": "Study-abroad player Leap is in late-stage talks to acquire Prodigy Finance",
+   "tier": "T2",
+   "claim": "acquisition Yocket + GeeBee"
+  },
+  {
+   "url": "https://www.livemint.com/companies/start-ups/study-abroad-leap-scholar-leap-finance-geebee-yocket-prodigy-finance-foreign-education-loans-edtechs-byjus-11741247394336.html",
+   "title": "Study-abroad player Leap is in late-stage talks to acquire Prodigy Finance",
+   "tier": "T2",
+   "claim": "acquisition Prodigy Finance (late-stage talks, Mar 2025)"
+  },
+  {
+   "url": "https://www.livemint.com/companies/start-ups/study-abroad-leap-scholar-leap-finance-geebee-yocket-prodigy-finance-foreign-education-loans-edtechs-byjus-11741247394336.html",
+   "title": "Study-abroad player Leap is in late-stage talks to acquire Prodigy Finance",
+   "tier": "T2",
+   "claim": "acquisition Yocket + GeeBee"
+  },
+  {
+   "url": "https://www.livemint.com/companies/start-ups/study-abroad-leap-scholar-leap-finance-geebee-yocket-prodigy-finance-foreign-education-loans-edtechs-byjus-11741247394336.html",
+   "title": "Study-abroad player Leap is in late-stage talks to acquire Prodigy Finance",
+   "tier": "T2",
+   "claim": "acquisition Prodigy Finance (late-stage talks, Mar 2025)"
+  },
+  {
+   "url": "https://www.livemint.com/companies/start-ups/study-abroad-leap-scholar-leap-finance-geebee-yocket-prodigy-finance-foreign-education-loans-edtechs-byjus-11741247394336.html",
+   "title": "Study-abroad player Leap is in late-stage talks to acquire Prodigy Finance",
+   "tier": "T2",
+   "claim": "acquisition Yocket + GeeBee"
+  },
+  {
+   "url": "https://www.livemint.com/companies/start-ups/study-abroad-leap-scholar-leap-finance-geebee-yocket-prodigy-finance-foreign-education-loans-edtechs-byjus-11741247394336.html",
+   "title": "Study-abroad player Leap is in late-stage talks to acquire Prodigy Finance",
+   "tier": "T2",
+   "claim": "acquisition Prodigy Finance (late-stage talks, Mar 2025)"
+  },
+  {
+   "url": "https://www.livemint.com/companies/start-ups/study-abroad-leap-scholar-leap-finance-geebee-yocket-prodigy-finance-foreign-education-loans-edtechs-byjus-11741247394336.html",
+   "title": "Study-abroad player Leap is in late-stage talks to acquire Prodigy Finance",
+   "tier": "T2",
+   "claim": "acquisition Yocket + GeeBee"
+  },
+  {
+   "url": "https://www.livemint.com/companies/start-ups/study-abroad-leap-scholar-leap-finance-geebee-yocket-prodigy-finance-foreign-education-loans-edtechs-byjus-11741247394336.html",
+   "title": "Study-abroad player Leap is in late-stage talks to acquire Prodigy Finance",
+   "tier": "T2",
+   "claim": "acquisition Prodigy Finance (late-stage talks, Mar 2025)"
+  },
+  {
+   "url": "https://www.livemint.com/companies/start-ups/study-abroad-leap-scholar-leap-finance-geebee-yocket-prodigy-finance-foreign-education-loans-edtechs-byjus-11741247394336.html",
+   "title": "Study-abroad player Leap is in late-stage talks to acquire Prodigy Finance",
+   "tier": "T2",
+   "claim": "acquisition Yocket + GeeBee"
+  },
+  {
+   "url": "https://www.livemint.com/companies/start-ups/study-abroad-leap-scholar-leap-finance-geebee-yocket-prodigy-finance-foreign-education-loans-edtechs-byjus-11741247394336.html",
+   "title": "Study-abroad player Leap is in late-stage talks to acquire Prodigy Finance",
+   "tier": "T2",
+   "claim": "acquisition Prodigy Finance (late-stage talks, Mar 2025)"
+  },
+  {
+   "url": "https://www.livemint.com/companies/start-ups/study-abroad-leap-scholar-leap-finance-geebee-yocket-prodigy-finance-foreign-education-loans-edtechs-byjus-11741247394336.html",
+   "title": "Study-abroad player Leap is in late-stage talks to acquire Prodigy Finance",
+   "tier": "T2",
+   "claim": "acquisition Yocket + GeeBee"
+  },
+  {
+   "url": "https://www.livemint.com/companies/start-ups/study-abroad-leap-scholar-leap-finance-geebee-yocket-prodigy-finance-foreign-education-loans-edtechs-byjus-11741247394336.html",
+   "title": "Study-abroad player Leap is in late-stage talks to acquire Prodigy Finance",
+   "tier": "T2",
+   "claim": "acquisition Prodigy Finance (late-stage talks, Mar 2025)"
+  },
+  {
+   "url": "https://www.livemint.com/companies/start-ups/study-abroad-leap-scholar-leap-finance-geebee-yocket-prodigy-finance-foreign-education-loans-edtechs-byjus-11741247394336.html",
+   "title": "Study-abroad player Leap is in late-stage talks to acquire Prodigy Finance",
+   "tier": "T2",
+   "claim": "acquisition Yocket + GeeBee"
+  },
+  {
+   "url": "https://www.livemint.com/companies/start-ups/study-abroad-leap-scholar-leap-finance-geebee-yocket-prodigy-finance-foreign-education-loans-edtechs-byjus-11741247394336.html",
+   "title": "Study-abroad player Leap is in late-stage talks to acquire Prodigy Finance",
+   "tier": "T2",
+   "claim": "acquisition Prodigy Finance (late-stage talks, Mar 2025)"
+  },
+  {
+   "url": "https://www.livemint.com/companies/start-ups/study-abroad-leap-scholar-leap-finance-geebee-yocket-prodigy-finance-foreign-education-loans-edtechs-byjus-11741247394336.html",
+   "title": "Study-abroad player Leap is in late-stage talks to acquire Prodigy Finance",
+   "tier": "T2",
+   "claim": "acquisition Yocket + GeeBee"
+  },
+  {
+   "url": "https://www.livemint.com/companies/start-ups/study-abroad-leap-scholar-leap-finance-geebee-yocket-prodigy-finance-foreign-education-loans-edtechs-byjus-11741247394336.html",
+   "title": "Study-abroad player Leap is in late-stage talks to acquire Prodigy Finance",
+   "tier": "T2",
+   "claim": "acquisition Prodigy Finance (late-stage talks, Mar 2025)"
+  },
+  {
+   "url": "https://www.livemint.com/companies/start-ups/study-abroad-leap-scholar-leap-finance-geebee-yocket-prodigy-finance-foreign-education-loans-edtechs-byjus-11741247394336.html",
+   "title": "Study-abroad player Leap is in late-stage talks to acquire Prodigy Finance",
+   "tier": "T2",
+   "claim": "acquisition Yocket + GeeBee"
+  },
+  {
+   "url": "https://www.livemint.com/companies/start-ups/study-abroad-leap-scholar-leap-finance-geebee-yocket-prodigy-finance-foreign-education-loans-edtechs-byjus-11741247394336.html",
+   "title": "Study-abroad player Leap is in late-stage talks to acquire Prodigy Finance",
+   "tier": "T2",
+   "claim": "acquisition Prodigy Finance (late-stage talks, Mar 2025)"
+  },
+  {
+   "url": "https://www.livemint.com/companies/start-ups/study-abroad-leap-scholar-leap-finance-geebee-yocket-prodigy-finance-foreign-education-loans-edtechs-byjus-11741247394336.html",
+   "title": "Study-abroad player Leap is in late-stage talks to acquire Prodigy Finance",
+   "tier": "T2",
+   "claim": "acquisition Yocket + GeeBee"
+  },
+  {
+   "url": "https://www.livemint.com/companies/start-ups/study-abroad-leap-scholar-leap-finance-geebee-yocket-prodigy-finance-foreign-education-loans-edtechs-byjus-11741247394336.html",
+   "title": "Study-abroad player Leap is in late-stage talks to acquire Prodigy Finance",
+   "tier": "T2",
+   "claim": "acquisition Prodigy Finance (late-stage talks, Mar 2025)"
+  },
+  {
+   "url": "https://www.livemint.com/companies/start-ups/study-abroad-leap-scholar-leap-finance-geebee-yocket-prodigy-finance-foreign-education-loans-edtechs-byjus-11741247394336.html",
+   "title": "Study-abroad player Leap is in late-stage talks to acquire Prodigy Finance",
+   "tier": "T2",
+   "claim": "acquisition Yocket + GeeBee"
+  },
+  {
+   "url": "https://www.livemint.com/companies/start-ups/study-abroad-leap-scholar-leap-finance-geebee-yocket-prodigy-finance-foreign-education-loans-edtechs-byjus-11741247394336.html",
+   "title": "Study-abroad player Leap is in late-stage talks to acquire Prodigy Finance",
+   "tier": "T2",
+   "claim": "acquisition Prodigy Finance (late-stage talks, Mar 2025)"
+  },
+  {
+   "url": "https://www.livemint.com/companies/start-ups/study-abroad-leap-scholar-leap-finance-geebee-yocket-prodigy-finance-foreign-education-loans-edtechs-byjus-11741247394336.html",
+   "title": "Study-abroad player Leap is in late-stage talks to acquire Prodigy Finance",
+   "tier": "T2",
+   "claim": "acquisition Yocket + GeeBee"
+  },
+  {
+   "url": "https://www.livemint.com/companies/start-ups/study-abroad-leap-scholar-leap-finance-geebee-yocket-prodigy-finance-foreign-education-loans-edtechs-byjus-11741247394336.html",
+   "title": "Study-abroad player Leap is in late-stage talks to acquire Prodigy Finance",
+   "tier": "T2",
+   "claim": "acquisition Prodigy Finance (late-stage talks, Mar 2025)"
+  },
+  {
+   "url": "https://www.livemint.com/companies/start-ups/study-abroad-leap-scholar-leap-finance-geebee-yocket-prodigy-finance-foreign-education-loans-edtechs-byjus-11741247394336.html",
+   "title": "Study-abroad player Leap is in late-stage talks to acquire Prodigy Finance",
+   "tier": "T2",
+   "claim": "acquisition Yocket + GeeBee"
+  },
+  {
+   "url": "https://www.livemint.com/companies/start-ups/study-abroad-leap-scholar-leap-finance-geebee-yocket-prodigy-finance-foreign-education-loans-edtechs-byjus-11741247394336.html",
+   "title": "Study-abroad player Leap is in late-stage talks to acquire Prodigy Finance",
+   "tier": "T2",
+   "claim": "acquisition Prodigy Finance (late-stage talks, Mar 2025)"
+  },
+  {
+   "url": "https://www.livemint.com/companies/start-ups/study-abroad-leap-scholar-leap-finance-geebee-yocket-prodigy-finance-foreign-education-loans-edtechs-byjus-11741247394336.html",
+   "title": "Study-abroad player Leap is in late-stage talks to acquire Prodigy Finance",
+   "tier": "T2",
+   "claim": "acquisition Yocket + GeeBee"
+  },
+  {
+   "url": "https://www.livemint.com/companies/start-ups/study-abroad-leap-scholar-leap-finance-geebee-yocket-prodigy-finance-foreign-education-loans-edtechs-byjus-11741247394336.html",
+   "title": "Study-abroad player Leap is in late-stage talks to acquire Prodigy Finance",
+   "tier": "T2",
+   "claim": "acquisition Prodigy Finance (late-stage talks, Mar 2025)"
+  },
+  {
+   "url": "https://www.livemint.com/companies/start-ups/study-abroad-leap-scholar-leap-finance-geebee-yocket-prodigy-finance-foreign-education-loans-edtechs-byjus-11741247394336.html",
+   "title": "Study-abroad player Leap is in late-stage talks to acquire Prodigy Finance",
+   "tier": "T2",
+   "claim": "acquisition Yocket + GeeBee"
+  },
+  {
+   "url": "https://www.livemint.com/companies/start-ups/study-abroad-leap-scholar-leap-finance-geebee-yocket-prodigy-finance-foreign-education-loans-edtechs-byjus-11741247394336.html",
+   "title": "Study-abroad player Leap is in late-stage talks to acquire Prodigy Finance",
+   "tier": "T2",
+   "claim": "acquisition Prodigy Finance (late-stage talks, Mar 2025)"
+  },
+  {
+   "url": "https://www.livemint.com/companies/start-ups/study-abroad-leap-scholar-leap-finance-geebee-yocket-prodigy-finance-foreign-education-loans-edtechs-byjus-11741247394336.html",
+   "title": "Study-abroad player Leap is in late-stage talks to acquire Prodigy Finance",
+   "tier": "T2",
+   "claim": "acquisition Yocket + GeeBee"
+  },
+  {
+   "url": "https://www.livemint.com/companies/start-ups/study-abroad-leap-scholar-leap-finance-geebee-yocket-prodigy-finance-foreign-education-loans-edtechs-byjus-11741247394336.html",
+   "title": "Study-abroad player Leap is in late-stage talks to acquire Prodigy Finance",
+   "tier": "T2",
+   "claim": "acquisition Prodigy Finance (late-stage talks, Mar 2025)"
+  },
+  {
+   "url": "https://www.livemint.com/companies/start-ups/study-abroad-leap-scholar-leap-finance-geebee-yocket-prodigy-finance-foreign-education-loans-edtechs-byjus-11741247394336.html",
+   "title": "Study-abroad player Leap is in late-stage talks to acquire Prodigy Finance",
+   "tier": "T2",
+   "claim": "acquisition Yocket + GeeBee"
+  },
+  {
+   "url": "https://www.livemint.com/companies/start-ups/study-abroad-leap-scholar-leap-finance-geebee-yocket-prodigy-finance-foreign-education-loans-edtechs-byjus-11741247394336.html",
+   "title": "Study-abroad player Leap is in late-stage talks to acquire Prodigy Finance",
+   "tier": "T2",
+   "claim": "acquisition Prodigy Finance (late-stage talks, Mar 2025)"
+  },
+  {
+   "url": "https://www.livemint.com/companies/start-ups/study-abroad-leap-scholar-leap-finance-geebee-yocket-prodigy-finance-foreign-education-loans-edtechs-byjus-11741247394336.html",
+   "title": "Study-abroad player Leap is in late-stage talks to acquire Prodigy Finance",
+   "tier": "T2",
+   "claim": "acquisition Yocket + GeeBee"
+  },
+  {
+   "url": "https://www.livemint.com/companies/start-ups/study-abroad-leap-scholar-leap-finance-geebee-yocket-prodigy-finance-foreign-education-loans-edtechs-byjus-11741247394336.html",
+   "title": "Study-abroad player Leap is in late-stage talks to acquire Prodigy Finance",
+   "tier": "T2",
+   "claim": "acquisition Prodigy Finance (late-stage talks, Mar 2025)"
+  },
+  {
+   "url": "https://www.livemint.com/companies/start-ups/study-abroad-leap-scholar-leap-finance-geebee-yocket-prodigy-finance-foreign-education-loans-edtechs-byjus-11741247394336.html",
+   "title": "Study-abroad player Leap is in late-stage talks to acquire Prodigy Finance",
+   "tier": "T2",
+   "claim": "acquisition Yocket + GeeBee"
+  },
+  {
+   "url": "https://www.livemint.com/companies/start-ups/study-abroad-leap-scholar-leap-finance-geebee-yocket-prodigy-finance-foreign-education-loans-edtechs-byjus-11741247394336.html",
+   "title": "Study-abroad player Leap is in late-stage talks to acquire Prodigy Finance",
+   "tier": "T2",
+   "claim": "acquisition Prodigy Finance (late-stage talks, Mar 2025)"
+  },
+  {
+   "url": "https://www.livemint.com/companies/start-ups/study-abroad-leap-scholar-leap-finance-geebee-yocket-prodigy-finance-foreign-education-loans-edtechs-byjus-11741247394336.html",
+   "title": "Study-abroad player Leap is in late-stage talks to acquire Prodigy Finance",
+   "tier": "T2",
+   "claim": "acquisition Yocket + GeeBee"
+  },
+  {
+   "url": "https://www.livemint.com/companies/start-ups/study-abroad-leap-scholar-leap-finance-geebee-yocket-prodigy-finance-foreign-education-loans-edtechs-byjus-11741247394336.html",
+   "title": "Study-abroad player Leap is in late-stage talks to acquire Prodigy Finance",
+   "tier": "T2",
+   "claim": "acquisition Prodigy Finance (late-stage talks, Mar 2025)"
+  },
+  {
+   "url": "https://www.livemint.com/companies/start-ups/study-abroad-leap-scholar-leap-finance-geebee-yocket-prodigy-finance-foreign-education-loans-edtechs-byjus-11741247394336.html",
+   "title": "Study-abroad player Leap is in late-stage talks to acquire Prodigy Finance",
+   "tier": "T2",
+   "claim": "acquisition Yocket + GeeBee"
+  },
+  {
+   "url": "https://www.livemint.com/companies/start-ups/study-abroad-leap-scholar-leap-finance-geebee-yocket-prodigy-finance-foreign-education-loans-edtechs-byjus-11741247394336.html",
+   "title": "Study-abroad player Leap is in late-stage talks to acquire Prodigy Finance",
+   "tier": "T2",
+   "claim": "acquisition Prodigy Finance (late-stage talks, Mar 2025)"
+  },
+  {
+   "url": "https://www.livemint.com/companies/start-ups/study-abroad-leap-scholar-leap-finance-geebee-yocket-prodigy-finance-foreign-education-loans-edtechs-byjus-11741247394336.html",
+   "title": "Study-abroad player Leap is in late-stage talks to acquire Prodigy Finance",
+   "tier": "T2",
+   "claim": "acquisition Yocket + GeeBee"
+  },
+  {
+   "url": "https://www.livemint.com/companies/start-ups/study-abroad-leap-scholar-leap-finance-geebee-yocket-prodigy-finance-foreign-education-loans-edtechs-byjus-11741247394336.html",
+   "title": "Study-abroad player Leap is in late-stage talks to acquire Prodigy Finance",
+   "tier": "T2",
+   "claim": "acquisition Prodigy Finance (late-stage talks, Mar 2025)"
+  },
+  {
+   "url": "https://www.livemint.com/companies/start-ups/study-abroad-leap-scholar-leap-finance-geebee-yocket-prodigy-finance-foreign-education-loans-edtechs-byjus-11741247394336.html",
+   "title": "Study-abroad player Leap is in late-stage talks to acquire Prodigy Finance",
+   "tier": "T2",
+   "claim": "acquisition Yocket + GeeBee"
+  }
+ ],
+ "startup_id": "leap leapscholar",
+ "traction": [
+  {
+   "as_of": "2025-01",
+   "company_reported": true,
+   "confidence": "medium",
+   "metric": "students_served",
+   "source_url": "https://thepienews.com/leap-attracts-65m-investment/",
+   "value": "1M+; 1000+ university partners"
+  },
+  {
+   "metric": "students_served",
+   "value": 1000000,
+   "unit": "count",
+   "period": "As-of-2025-01",
+   "as_of": "2025-01-29",
+   "company_reported": true,
+   "source_url": "https://www.business-standard.com/companies/news/leap-raises-65-mn-in-series-e-led-by-apis-partners-for-education-access-125012900775_1.html",
+   "confidence": "MEDIUM",
+   "notes": "BS: helped more than a million students"
+  },
+  {
+   "metric": "university_partners",
+   "value": 1000,
+   "unit": "count",
+   "period": "As-of-2025-01",
+   "as_of": "2025-01-29",
+   "company_reported": true,
+   "source_url": "https://www.business-standard.com/companies/news/leap-raises-65-mn-in-series-e-led-by-apis-partners-for-education-access-125012900775_1.html",
+   "confidence": "MEDIUM",
+   "notes": "BS: partnered with over 1,000 educational institutions globally"
+  },
+  {
+   "metric": "students_served",
+   "value": 2000000,
+   "unit": "count",
+   "period": "As-of-2022-06",
+   "as_of": "2022-06-22",
+   "company_reported": true,
+   "source_url": "https://www.thehindubusinessline.com/companies/edtech-start-up-leap-raises-75-million-in-series-d-round-led-by-owl-ventures/article65553759.ece",
+   "confidence": "MEDIUM",
+   "notes": "HBL: online community of over two million students"
+  },
+  {
+   "metric": "students_traveled_abroad",
+   "value": 60000,
+   "unit": "count",
+   "period": "FY22",
+   "as_of": "2022-06-22",
+   "company_reported": true,
+   "source_url": "https://www.thehindubusinessline.com/companies/edtech-start-up-leap-raises-75-million-in-series-d-round-led-by-owl-ventures/article65553759.ece",
+   "confidence": "MEDIUM",
+   "notes": "HBL: more than 60,000 students travelled abroad"
+  },
+  {
+   "metric": "students_expected_abroad",
+   "value": 175000,
+   "unit": "count",
+   "period": "FY23",
+   "as_of": "2022-06-22",
+   "company_reported": true,
+   "source_url": "https://www.thehindubusinessline.com/companies/edtech-start-up-leap-raises-75-million-in-series-d-round-led-by-owl-ventures/article65553759.ece",
+   "confidence": "MEDIUM",
+   "notes": "HBL: nearly 175,000 students expected to study abroad"
+  },
+  {
+   "metric": "community_members",
+   "value": 500000,
+   "unit": "count",
+   "period": "As-of-2021-03",
+   "as_of": "2021-03-16",
+   "company_reported": true,
+   "source_url": "https://thepienews.com/international-student-neobank-leap-raises-17m/",
+   "confidence": "MEDIUM",
+   "notes": "PIE: community of 500,000 members at Series B"
+  },
+  {
+   "metric": "monthly_active_users",
+   "value": 200000,
+   "unit": "count",
+   "period": "As-of-2021-02",
+   "as_of": "2021-02-01",
+   "company_reported": true,
+   "source_url": "https://thepienews.com/international-student-neobank-leap-raises-17m/",
+   "confidence": "MEDIUM",
+   "notes": "PIE: 200,000 MAU, 9M chat messages in Feb 2021"
+  },
+  {
+   "metric": "countries_operating",
+   "value": 11,
+   "unit": "count",
+   "period": "As-of-2025-01",
+   "as_of": "2025-01-29",
+   "company_reported": true,
+   "source_url": "https://m.economictimes.com/tech/funding/leap-raises-65-million-in-funding-round-led-by-apis-partners/articleshow/117675174.cms",
+   "confidence": "HIGH",
+   "notes": "ET: present in 11 countries"
+  },
+  {
+   "metric": "revenue_from_india",
+   "value": 80,
+   "unit": "percent",
+   "period": "As-of-2025-01",
+   "as_of": "2025-01-29",
+   "company_reported": true,
+   "source_url": "https://m.economictimes.com/tech/funding/leap-raises-65-million-in-funding-round-led-by-apis-partners/articleshow/117675174.cms",
+   "confidence": "HIGH",
+   "notes": "ET: over 80% of revenue from India"
+  },
+  {
+   "metric": "employee_count",
+   "value": 848,
+   "unit": "count",
+   "period": "As-of-2025-08",
+   "as_of": "2025-08-31",
+   "company_reported": false,
+   "source_url": "https://tracxn.com/d/companies/leap-scholar/__PBS7Pv0IBVsron_APH_R1yjA1RkgCdiPiPlOyrd6fFE",
+   "confidence": "MEDIUM",
+   "notes": "Tracxn: 848 employees"
+  },
+  {
+   "metric": "offline_centres_planned",
+   "value": 15,
+   "unit": "count",
+   "period": "FY2026",
+   "as_of": "2026-03-23",
+   "company_reported": true,
+   "source_url": "https://www.tribuneindia.com/news/education/leap-announces-expansion-of-offline-centres-across-india-with-15-new-centres-in-2026",
+   "confidence": "LOW",
+   "notes": "Tribune headline per Tracxn news feed"
+  }
+ ],
+ "_merged_session2": true
+}

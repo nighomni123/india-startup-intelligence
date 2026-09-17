@@ -1,0 +1,45 @@
+{
+ "canonical_key": "groww",
+ "updates": {
+  "company": {
+   "legal_name": "Billionbrains Garage Ventures Limited (listed Nov 2025)"
+  }
+ },
+ "round_supplements": [
+  {
+   "match_round_type": "IPO",
+   "match_year": 2025,
+   "round_date": "2025-11-12",
+   "announcement_date": "2025-11-12",
+   "valuation": "8.6B USD listing-day market value",
+   "valuation_currency": "USD",
+   "valuation_type": "public-market-cap at debut",
+   "new_or_existing": "",
+   "purpose": "IPO — Rs 7.54B (~$754M per Reuters) issue; shares +24% on debut",
+   "source_url": "https://www.reuters.com/world/india/growws-parent-lists-12-premium-after-754-million-india-ipo-2025-11-12/",
+   "confidence": "high"
+  }
+ ],
+ "sources": [
+  {
+   "url": "https://www.reuters.com/world/india/growws-parent-lists-12-premium-after-754-million-india-ipo-2025-11-12/",
+   "title": "India's Groww valued at $8.6 billion as debut breaks recent...",
+   "publication_date": "2025-11-12",
+   "fields": [
+    "valuation"
+   ],
+   "confidence": "high"
+  }
+ ],
+ "log": [
+  {
+   "query": "Groww Billionbrains Garage Ventures valuation IPO 2025",
+   "found": "$8.6B debut valuation, Nov 12 2025, Reuters; CIN/incorporation already in enrich file (2018-01-09)",
+   "unresolved": "enrich file already holds incorporation_date — no CIN search needed"
+  }
+ ],
+ "still_missing": [
+  "CIN (not in enrich file — needs dedicated MCA-registry probe)",
+  "FY25/FY26 filing financials"
+ ]
+}

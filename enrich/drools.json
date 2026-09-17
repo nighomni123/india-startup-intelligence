@@ -1,0 +1,1417 @@
+{
+ "company": {
+  "business_model": "B2C D2C manufacturing + retail + export",
+  "city": "Bengaluru (operating/brand HQ); registered office Rajnandgaon, Chhattisgarh",
+  "customer_type": "B2C consumers (pet parents); B2B retail outlets",
+  "dpiit": "",
+  "employee_estimate": "3400-4195 (PitchBook 3400 as of 2025; Tracxn official 4195)",
+  "founded_date": "2009 (brand founded; some sources say 2010; legal entity Drools Pet Food Pvt Ltd incorporated 2018-09-10, CIN U01409CT2018PTC008756)",
+  "legal_name": "Drools Pet Food Private Limited",
+  "parent_subsidiary": "Independent private; minority investors L Catterton, Nestle S.A.",
+  "primary_sector": "D2C pet food / consumer goods",
+  "public_private": "Private",
+  "startup_stage": "Late stage / unicorn (May 2025)",
+  "status": "Active",
+  "website": "https://drools.com",
+  "cin": "U01409CT2018PTC008756",
+  "incorporation_date": "2018-09-10",
+  "official_website": {
+   "v": "https://drools.com",
+   "conf": "high",
+   "src": "https://drools.com",
+   "note": "verified live 2026-09-15: name match on own homepage"
+  },
+  "state": {
+   "v": "Karnataka",
+   "conf": "HIGH",
+   "src": "https://linkedin.com/company/droolsindia",
+   "note": "Karnataka state",
+   "asof": "2026-09-15"
+  },
+  "country": {
+   "v": "India",
+   "conf": "HIGH",
+   "src": "https://tracxn.com/d/companies/drools/__ptu5hjMN1Zt3IHuSyby9WmQzehXdIz6y4oBjqbC2YsI",
+   "note": "India",
+   "asof": "2026-09-15"
+  },
+  "description": {
+   "v": "CONFUSION RISK: The 'Drools' name refers to three distinct entities: (1) Drools Pet Food Pvt Ltd (Bengaluru, pet food unicorn), (2) Apache Drools/jBPM (open-source rule engine, Red Hat, Raleigh NC), (3) FusionReactor/Intergral GmbH (APM tool, Boblingen Germany). This record covers entity (1). No 'Drools AI' company exists in Bengaluru doing observability/APM.",
+   "conf": "HIGH",
+   "src": "https://tracxn.com/d/companies/drools/__ptu5hjMN1Zt3IHuSyby9WmQzehXdIz6y4oBjqbC2YsI",
+   "note": "Name collision documented per §7 aliases",
+   "asof": "2026-09-15"
+  },
+  "hq_type": {
+   "v": "Brand/operational HQ in Bengaluru; registered office in Rajnandgaon, Chhattisgarh",
+   "conf": "HIGH",
+   "src": "https://drools.com/about-us",
+   "note": "WeWork Embassy One, 8 Bellary Rd, Bengaluru; registered at IB Corporate House, Rajnandgaon",
+   "asof": "2026-09-15"
+  },
+  "registered_office": {
+   "v": "436/2, IB Corporate House, Village Indamara, Post Pendri, Rajnandgaon, Chhattisgarh - 491441, India",
+   "conf": "HIGH",
+   "src": "https://drools.com/about-us",
+   "note": "MCA registered address",
+   "asof": "2026-09-15"
+  }
+ },
+ "completeness_self": {
+  "financials": 6,
+  "founders": 6,
+  "funding": 7,
+  "identity": 7,
+  "investors": 7,
+  "overall": "low-medium; LITE core layer only"
+ },
+ "conflicts": [
+  {
+   "claim_a": "India's 3rd unicorn of 2025 (ET)",
+   "claim_b": "India's 4th unicorn of 2025 (TOI/FE: after Netradyne, Juspay/Porter, JSW One)",
+   "field": "unicorn ordinal 2025",
+   "resolution": "Unresolved ordinal; keep both; valuation >$1B consistent",
+   "url_a": "https://m.economictimes.com/tech/startups/nestle-acquires-minority-stake-in-indian-pet-food-brand-drools/articleshow/121410347.cms",
+   "url_b": "https://timesofindia.indiatimes.com/business/india-business/drools-turns-unicorn-after-nestles-bet/articleshow/121421244.cms"
+  },
+  {
+   "claim_a": "Founded 2009",
+   "claim_b": "Founded 2010",
+   "field": "founded year",
+   "resolution": "Use 2009 per Tracxn/PitchBook/Inc42; note 2010 per company statements",
+   "url_a": "https://pitchbook.com/profiles/company/529618-87",
+   "url_b": "https://www.livemint.com/companies/news/nestle-drools-pet-food-investment-indian-pet-food-market-nestle-india-pet-care-purina-india-drools-pet-food-funding-11748246602478.html"
+  },
+  {
+   "field": "city",
+   "claim_a": "Bengaluru (operating/brand HQ); registered office Rajnandgaon, Chhattisgarh",
+   "url_a": "",
+   "claim_b": "Bengaluru",
+   "url_b": "",
+   "resolution": "phase3 p3 payload disagrees with existing value; existing kept as preferred pending human review",
+   "resolved_value": "",
+   "reviewed": "p3-merge"
+  },
+  {
+   "field": "employee_estimate",
+   "claim_a": "3400-4195 (PitchBook 3400 as of 2025; Tracxn official 4195)",
+   "url_a": "",
+   "claim_b": "3489",
+   "url_b": "",
+   "resolution": "phase3 p3 payload disagrees with existing value; existing kept as preferred pending human review",
+   "resolved_value": "",
+   "reviewed": "p3-merge"
+  },
+  {
+   "field": "entity identity",
+   "claim_a": "Drools = Drools Pet Food (Bengaluru, pet food unicorn)",
+   "url_a": "https://tracxn.com/d/companies/drools/__ptu5hjMN1Zt3IHuSyby9WmQzehXdIz6y4oBjqbC2YsI",
+   "claim_b": "Drools = Apache Drools/jBPM (open-source rule engine, Red Hat, Raleigh NC)",
+   "url_b": "https://kie.apache.org/docs/components/drools",
+   "resolution": "NAME COLLISION: These are completely different entities. This P3 record covers Drools Pet Food Pvt Ltd (Bengaluru). The open-source Drools is a Red Hat/Apache project with no India entity.",
+   "resolved_value": "Drools Pet Food Pvt Ltd (Bengaluru)"
+  },
+  {
+   "field": "entity identity",
+   "claim_a": "Drools = Drools Pet Food (Bengaluru)",
+   "url_a": "https://tracxn.com/d/companies/drools/__ptu5hjMN1Zt3IHuSyby9WmQzehXdIz6y4oBjqbC2YsI",
+   "claim_b": "FusionReactor APM = Intergral GmbH (Boblingen, Germany)",
+   "url_b": "https://www.intergral.com/",
+   "resolution": "NAME COLLISION: FusionReactor is made by Intergral GmbH (Germany), NOT by any 'Drools AI' company in Bengaluru. No 'Drools AI' entity exists in Bengaluru.",
+   "resolved_value": "FusionReactor = Intergral GmbH (Germany); NOT related to Drools Pet Food"
+  }
+ ],
+ "events": [
+  {
+   "date": "2025-05-26",
+   "headline": "Nestle S.A. takes minority stake; Drools claims unicorn status at >$1B valuation",
+   "source_url": "https://www.nestle.com/media/news/nestle-acquires-minority-stake-drools-pet-food-india",
+   "type": "funding/valuation"
+  },
+  {
+   "type": "funding",
+   "headline": "L Catterton invests $60M at $600M valuation",
+   "date": "2023-06-20",
+   "description": "L Catterton acquired ~10% minority stake; first external funding round",
+   "source_url": "https://www.business-standard.com/companies/news/pet-food-start-up-drools-raises-60-mn-in-funding-from-l-catterton-123062000397_1.html",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "funding",
+   "headline": "Nestle acquires minority stake; Drools claims unicorn status at >$1B",
+   "date": "2025-05-26",
+   "description": "Nestle S.A. took minority stake; company claimed $1B valuation making it a unicorn",
+   "source_url": "https://www.nestle.com/media/news/nestle-acquires-minority-stake-drools-pet-food-india",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "funding",
+   "headline": "Drools parent IB Group plans IPO",
+   "date": "2026-06-15",
+   "description": "IB Group said to plan IPO, seeks pitches from merchant banks; stake-sale size and valuation to be decided",
+   "source_url": "https://siliconvalleyinvestclub.com/ko/companies/droolsindia",
+   "confidence": "MEDIUM"
+  },
+  {
+   "type": "investment",
+   "headline": "Drools forays into fresh pet food with Rs 180-crore investment",
+   "date": "2026-04-05",
+   "description": "Fresh pet food expansion announced",
+   "source_url": "https://siliconvalleyinvestclub.com/ko/companies/droolsindia",
+   "confidence": "MEDIUM"
+  }
+ ],
+ "financials": [
+  {
+   "currency": "INR",
+   "fiscal_year": "FY25",
+   "metric": "revenue",
+   "source_title": "DROOLS PET FOOD PRIVATE LIMITED - Company Profile, Financials & Shareholding - Tracxn",
+   "source_url": "https://tracxn.com/d/legal-entities/india/drools-pet-food-private-limited/__uCFfwi7Zo7GPU9zg1THwcoKNatia7c7iH001S_9r0h8",
+   "value": "932Cr",
+   "value_type": "press-quoted-filing"
+  },
+  {
+   "fiscal_year": "FY25",
+   "metric": "total_revenue",
+   "value": 932,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "press-quoted-filing",
+   "basis": "standalone",
+   "consolidated": "no",
+   "filing_date": "2025-03-31",
+   "source_url": "https://tracxn.com/d/legal-entities/india/drools-pet-food-private-limited/__uCFfwi7Zo7GPU9zg1THwcoKNatia7c7iH001S_9r0h8",
+   "source_title": "DROOLS PET FOOD PRIVATE LIMITED - Tracxn",
+   "confidence": "MEDIUM",
+   "notes": "Revenue as of Mar 31, 2025; ~$110M USD"
+  },
+  {
+   "fiscal_year": "FY24",
+   "metric": "net_profit",
+   "value": -14,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "press-quoted-filing",
+   "basis": "standalone",
+   "consolidated": "no",
+   "filing_date": "2024-03-31",
+   "source_url": "https://inc42.com/buzz/six-indian-startups-that-became-unicorns-in-2025/",
+   "source_title": "Six Startups That Entered The Unicorn Club In 2025 - Inc42",
+   "confidence": "MEDIUM",
+   "notes": "Net loss of INR 14 Cr in FY24 vs profit of INR 28 Cr in FY23"
+  },
+  {
+   "fiscal_year": "FY22",
+   "metric": "total_revenue",
+   "value": 360,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "press-quoted-filing",
+   "basis": "standalone",
+   "consolidated": "no",
+   "filing_date": "2022-03-31",
+   "source_url": "https://www.business-standard.com/companies/news/pet-food-start-up-drools-raises-60-mn-in-funding-from-l-catterton-123062000397_1.html",
+   "source_title": "Pet food start-up Drools raises $60 mn in funding from L Catterton",
+   "confidence": "MEDIUM",
+   "notes": "Turnover Rs 360 crore in FY22"
+  }
+ ],
+ "founders": [
+  {
+   "name": "Fahim Sultan (Fahim Sultan Ali)",
+   "role": "Founder",
+   "source_url": "https://www.business-standard.com/companies/news/pet-food-start-up-drools-raises-60-mn-in-funding-from-l-catterton-123062000397_1.html",
+   "still_active": true,
+   "type": "founder"
+  },
+  {
+   "name": "Fahim Sultan Ali",
+   "role": "Founder",
+   "background": "Founded Drools Pet Food brand in 2009; part of IB Group",
+   "education": "UNKNOWN",
+   "still_active": true,
+   "source_url": "https://www.business-standard.com/companies/news/pet-food-start-up-drools-raises-60-mn-in-funding-from-l-catterton-123062000397_1.html",
+   "confidence": "HIGH"
+  }
+ ],
+ "funding_rounds": [
+  {
+   "amount": "60M",
+   "announced_date": "2023-06-20",
+   "currency": "USD",
+   "lead_investors": [
+    "L Catterton"
+   ],
+   "round_type": "Private Equity minority",
+   "source_url": "https://www.business-standard.com/companies/news/pet-food-start-up-drools-raises-60-mn-in-funding-from-l-catterton-123062000397_1.html",
+   "valuation": "$600M post-money (10% stake)"
+  },
+  {
+   "amount": "Undisclosed",
+   "announced_date": "2025-05-26",
+   "currency": "USD",
+   "lead_investors": [
+    "Nestle S.A."
+   ],
+   "round_type": "Corporate minority",
+   "source_url": "https://www.nestle.com/media/news/nestle-acquires-minority-stake-drools-pet-food-india",
+   "valuation": " >$1B (company-claimed unicorn)"
+  },
+  {
+   "round_type": "Private Equity minority",
+   "announced_date": "2023-06-20",
+   "round_date": "2023-06-20",
+   "amount": 60000000,
+   "currency": "USD",
+   "valuation": 600000000,
+   "valuation_currency": "USD",
+   "valuation_type": "post-money",
+   "lead_investors": [
+    "L Catterton"
+   ],
+   "all_investors": [
+    "L Catterton"
+   ],
+   "instrument": "minority stake (~10%)",
+   "purpose": "Manufacturing capabilities, retail expansion, marketing, talent acquisition",
+   "source_url": "https://www.business-standard.com/companies/news/pet-food-start-up-drools-raises-60-mn-in-funding-from-l-catterton-123062000397_1.html",
+   "source_title": "Pet food start-up Drools raises $60 mn in funding from L Catterton",
+   "source_date": "2023-06-20",
+   "confidence": "HIGH"
+  },
+  {
+   "round_type": "Corporate minority",
+   "announced_date": "2025-05-26",
+   "round_date": "2025-05-26",
+   "amount": null,
+   "currency": "USD",
+   "valuation": 1000000000,
+   "valuation_currency": "USD",
+   "valuation_type": "post-money (company-claimed unicorn)",
+   "lead_investors": [
+    "Nestle S.A."
+   ],
+   "all_investors": [
+    "Nestle S.A."
+   ],
+   "instrument": "minority stake",
+   "purpose": "Financial investment; Drools remains operationally independent",
+   "source_url": "https://www.nestle.com/media/news/nestle-acquires-minority-stake-drools-pet-food-india",
+   "source_title": "Nestle acquires minority stake in Drools Pet Food Private Limited in India",
+   "source_date": "2025-05-26",
+   "confidence": "HIGH"
+  }
+ ],
+ "gaps": [
+  "Exact Nestle deal size undisclosed",
+  "FY25 PAT/EBITDA not verified",
+  "DPIIT recognition unverified",
+  "HQ nuance: Bengaluru brand presence vs Rajnandgaon registered office needs primary confirmation"
+ ],
+ "investor_links": [
+  {
+   "investor": "L Catterton",
+   "lead": true,
+   "rounds": [
+    "2023 PE"
+   ],
+   "source_url": "https://www.business-standard.com/companies/news/pet-food-start-up-drools-raises-60-mn-in-funding-from-l-catterton-123062000397_1.html"
+  },
+  {
+   "investor": "Nestle S.A.",
+   "lead": true,
+   "rounds": [
+    "2025 corporate minority"
+   ],
+   "source_url": "https://www.nestle.com/media/news/nestle-acquires-minority-stake-drools-pet-food-india"
+  }
+ ],
+ "research_log": [
+  {
+   "found": "2 rounds, FY25 rev 932Cr, CIN, founder, unicorn claim",
+   "next_action": "None at LITE scope",
+   "query": "Drools funding/founders/revenue unicorn",
+   "unresolved": "Nestle amount; DPIIT"
+  },
+  {
+   "date": "2026-09-14",
+   "found": "Legal entity Drools Pet Food Pvt Ltd (fka Drools Pet Feed); CIN U01409CT2018PTC008756; incorp 10 Sep 2018; CT state-code matches Rajnandgaon registered office",
+   "query": "Drools Pet Food Private Limited CIN incorporation ZaubaCorp",
+   "unresolved": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Drools AI FusionReactor APM Bengaluru startup",
+   "status": "done",
+   "found": "No 'Drools AI' company exists in Bengaluru. FusionReactor is made by Intergral GmbH (Boblingen, Germany). The 'Drools' name in Bengaluru refers to Drools Pet Food Pvt Ltd.",
+   "next_action": "Document name collision in conflicts[] and write P3 JSON",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Drools India private limited CIN MCA registration AI observability",
+   "status": "done",
+   "found": "Only MCA-registered 'Drools' entity is DROOLS PET FOOD PRIVATE LIMITED (CIN U01409CT2018PTC008756). No AI/observability entity found.",
+   "next_action": "Confirm no other Drools entity exists in MCA records",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "FusionReactor India Bengaluru office acquisition",
+   "status": "done",
+   "found": "FusionReactor/Intergral is headquartered in Boblingen, Germany with offices in UK and US. No Bengaluru office found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Drools AI FusionReactor APM Bengaluru startup",
+   "status": "done",
+   "found": "No 'Drools AI' company exists in Bengaluru. FusionReactor is made by Intergral GmbH (Boblingen, Germany). The 'Drools' name in Bengaluru refers to Drools Pet Food Pvt Ltd.",
+   "next_action": "Document name collision in conflicts[] and write P3 JSON",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Drools India private limited CIN MCA registration AI observability",
+   "status": "done",
+   "found": "Only MCA-registered 'Drools' entity is DROOLS PET FOOD PRIVATE LIMITED (CIN U01409CT2018PTC008756). No AI/observability entity found.",
+   "next_action": "Confirm no other Drools entity exists in MCA records",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "FusionReactor India Bengaluru office acquisition",
+   "status": "done",
+   "found": "FusionReactor/Intergral is headquartered in Boblingen, Germany with offices in UK and US. No Bengaluru office found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Drools AI FusionReactor APM Bengaluru startup",
+   "status": "done",
+   "found": "No 'Drools AI' company exists in Bengaluru. FusionReactor is made by Intergral GmbH (Boblingen, Germany). The 'Drools' name in Bengaluru refers to Drools Pet Food Pvt Ltd.",
+   "next_action": "Document name collision in conflicts[] and write P3 JSON",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Drools India private limited CIN MCA registration AI observability",
+   "status": "done",
+   "found": "Only MCA-registered 'Drools' entity is DROOLS PET FOOD PRIVATE LIMITED (CIN U01409CT2018PTC008756). No AI/observability entity found.",
+   "next_action": "Confirm no other Drools entity exists in MCA records",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "FusionReactor India Bengaluru office acquisition",
+   "status": "done",
+   "found": "FusionReactor/Intergral is headquartered in Boblingen, Germany with offices in UK and US. No Bengaluru office found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Drools AI FusionReactor APM Bengaluru startup",
+   "status": "done",
+   "found": "No 'Drools AI' company exists in Bengaluru. FusionReactor is made by Intergral GmbH (Boblingen, Germany). The 'Drools' name in Bengaluru refers to Drools Pet Food Pvt Ltd.",
+   "next_action": "Document name collision in conflicts[] and write P3 JSON",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Drools India private limited CIN MCA registration AI observability",
+   "status": "done",
+   "found": "Only MCA-registered 'Drools' entity is DROOLS PET FOOD PRIVATE LIMITED (CIN U01409CT2018PTC008756). No AI/observability entity found.",
+   "next_action": "Confirm no other Drools entity exists in MCA records",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "FusionReactor India Bengaluru office acquisition",
+   "status": "done",
+   "found": "FusionReactor/Intergral is headquartered in Boblingen, Germany with offices in UK and US. No Bengaluru office found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Drools AI FusionReactor APM Bengaluru startup",
+   "status": "done",
+   "found": "No 'Drools AI' company exists in Bengaluru. FusionReactor is made by Intergral GmbH (Boblingen, Germany). The 'Drools' name in Bengaluru refers to Drools Pet Food Pvt Ltd.",
+   "next_action": "Document name collision in conflicts[] and write P3 JSON",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Drools India private limited CIN MCA registration AI observability",
+   "status": "done",
+   "found": "Only MCA-registered 'Drools' entity is DROOLS PET FOOD PRIVATE LIMITED (CIN U01409CT2018PTC008756). No AI/observability entity found.",
+   "next_action": "Confirm no other Drools entity exists in MCA records",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "FusionReactor India Bengaluru office acquisition",
+   "status": "done",
+   "found": "FusionReactor/Intergral is headquartered in Boblingen, Germany with offices in UK and US. No Bengaluru office found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Drools AI FusionReactor APM Bengaluru startup",
+   "status": "done",
+   "found": "No 'Drools AI' company exists in Bengaluru. FusionReactor is made by Intergral GmbH (Boblingen, Germany). The 'Drools' name in Bengaluru refers to Drools Pet Food Pvt Ltd.",
+   "next_action": "Document name collision in conflicts[] and write P3 JSON",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Drools India private limited CIN MCA registration AI observability",
+   "status": "done",
+   "found": "Only MCA-registered 'Drools' entity is DROOLS PET FOOD PRIVATE LIMITED (CIN U01409CT2018PTC008756). No AI/observability entity found.",
+   "next_action": "Confirm no other Drools entity exists in MCA records",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "FusionReactor India Bengaluru office acquisition",
+   "status": "done",
+   "found": "FusionReactor/Intergral is headquartered in Boblingen, Germany with offices in UK and US. No Bengaluru office found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Drools AI FusionReactor APM Bengaluru startup",
+   "status": "done",
+   "found": "No 'Drools AI' company exists in Bengaluru. FusionReactor is made by Intergral GmbH (Boblingen, Germany). The 'Drools' name in Bengaluru refers to Drools Pet Food Pvt Ltd.",
+   "next_action": "Document name collision in conflicts[] and write P3 JSON",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Drools India private limited CIN MCA registration AI observability",
+   "status": "done",
+   "found": "Only MCA-registered 'Drools' entity is DROOLS PET FOOD PRIVATE LIMITED (CIN U01409CT2018PTC008756). No AI/observability entity found.",
+   "next_action": "Confirm no other Drools entity exists in MCA records",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "FusionReactor India Bengaluru office acquisition",
+   "status": "done",
+   "found": "FusionReactor/Intergral is headquartered in Boblingen, Germany with offices in UK and US. No Bengaluru office found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Drools AI FusionReactor APM Bengaluru startup",
+   "status": "done",
+   "found": "No 'Drools AI' company exists in Bengaluru. FusionReactor is made by Intergral GmbH (Boblingen, Germany). The 'Drools' name in Bengaluru refers to Drools Pet Food Pvt Ltd.",
+   "next_action": "Document name collision in conflicts[] and write P3 JSON",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Drools India private limited CIN MCA registration AI observability",
+   "status": "done",
+   "found": "Only MCA-registered 'Drools' entity is DROOLS PET FOOD PRIVATE LIMITED (CIN U01409CT2018PTC008756). No AI/observability entity found.",
+   "next_action": "Confirm no other Drools entity exists in MCA records",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "FusionReactor India Bengaluru office acquisition",
+   "status": "done",
+   "found": "FusionReactor/Intergral is headquartered in Boblingen, Germany with offices in UK and US. No Bengaluru office found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Drools AI FusionReactor APM Bengaluru startup",
+   "status": "done",
+   "found": "No 'Drools AI' company exists in Bengaluru. FusionReactor is made by Intergral GmbH (Boblingen, Germany). The 'Drools' name in Bengaluru refers to Drools Pet Food Pvt Ltd.",
+   "next_action": "Document name collision in conflicts[] and write P3 JSON",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Drools India private limited CIN MCA registration AI observability",
+   "status": "done",
+   "found": "Only MCA-registered 'Drools' entity is DROOLS PET FOOD PRIVATE LIMITED (CIN U01409CT2018PTC008756). No AI/observability entity found.",
+   "next_action": "Confirm no other Drools entity exists in MCA records",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "FusionReactor India Bengaluru office acquisition",
+   "status": "done",
+   "found": "FusionReactor/Intergral is headquartered in Boblingen, Germany with offices in UK and US. No Bengaluru office found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Drools AI FusionReactor APM Bengaluru startup",
+   "status": "done",
+   "found": "No 'Drools AI' company exists in Bengaluru. FusionReactor is made by Intergral GmbH (Boblingen, Germany). The 'Drools' name in Bengaluru refers to Drools Pet Food Pvt Ltd.",
+   "next_action": "Document name collision in conflicts[] and write P3 JSON",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Drools India private limited CIN MCA registration AI observability",
+   "status": "done",
+   "found": "Only MCA-registered 'Drools' entity is DROOLS PET FOOD PRIVATE LIMITED (CIN U01409CT2018PTC008756). No AI/observability entity found.",
+   "next_action": "Confirm no other Drools entity exists in MCA records",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "FusionReactor India Bengaluru office acquisition",
+   "status": "done",
+   "found": "FusionReactor/Intergral is headquartered in Boblingen, Germany with offices in UK and US. No Bengaluru office found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Drools AI FusionReactor APM Bengaluru startup",
+   "status": "done",
+   "found": "No 'Drools AI' company exists in Bengaluru. FusionReactor is made by Intergral GmbH (Boblingen, Germany). The 'Drools' name in Bengaluru refers to Drools Pet Food Pvt Ltd.",
+   "next_action": "Document name collision in conflicts[] and write P3 JSON",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Drools India private limited CIN MCA registration AI observability",
+   "status": "done",
+   "found": "Only MCA-registered 'Drools' entity is DROOLS PET FOOD PRIVATE LIMITED (CIN U01409CT2018PTC008756). No AI/observability entity found.",
+   "next_action": "Confirm no other Drools entity exists in MCA records",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "FusionReactor India Bengaluru office acquisition",
+   "status": "done",
+   "found": "FusionReactor/Intergral is headquartered in Boblingen, Germany with offices in UK and US. No Bengaluru office found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Drools AI FusionReactor APM Bengaluru startup",
+   "status": "done",
+   "found": "No 'Drools AI' company exists in Bengaluru. FusionReactor is made by Intergral GmbH (Boblingen, Germany). The 'Drools' name in Bengaluru refers to Drools Pet Food Pvt Ltd.",
+   "next_action": "Document name collision in conflicts[] and write P3 JSON",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Drools India private limited CIN MCA registration AI observability",
+   "status": "done",
+   "found": "Only MCA-registered 'Drools' entity is DROOLS PET FOOD PRIVATE LIMITED (CIN U01409CT2018PTC008756). No AI/observability entity found.",
+   "next_action": "Confirm no other Drools entity exists in MCA records",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "FusionReactor India Bengaluru office acquisition",
+   "status": "done",
+   "found": "FusionReactor/Intergral is headquartered in Boblingen, Germany with offices in UK and US. No Bengaluru office found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Drools AI FusionReactor APM Bengaluru startup",
+   "status": "done",
+   "found": "No 'Drools AI' company exists in Bengaluru. FusionReactor is made by Intergral GmbH (Boblingen, Germany). The 'Drools' name in Bengaluru refers to Drools Pet Food Pvt Ltd.",
+   "next_action": "Document name collision in conflicts[] and write P3 JSON",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Drools India private limited CIN MCA registration AI observability",
+   "status": "done",
+   "found": "Only MCA-registered 'Drools' entity is DROOLS PET FOOD PRIVATE LIMITED (CIN U01409CT2018PTC008756). No AI/observability entity found.",
+   "next_action": "Confirm no other Drools entity exists in MCA records",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "FusionReactor India Bengaluru office acquisition",
+   "status": "done",
+   "found": "FusionReactor/Intergral is headquartered in Boblingen, Germany with offices in UK and US. No Bengaluru office found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Drools AI FusionReactor APM Bengaluru startup",
+   "status": "done",
+   "found": "No 'Drools AI' company exists in Bengaluru. FusionReactor is made by Intergral GmbH (Boblingen, Germany). The 'Drools' name in Bengaluru refers to Drools Pet Food Pvt Ltd.",
+   "next_action": "Document name collision in conflicts[] and write P3 JSON",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Drools India private limited CIN MCA registration AI observability",
+   "status": "done",
+   "found": "Only MCA-registered 'Drools' entity is DROOLS PET FOOD PRIVATE LIMITED (CIN U01409CT2018PTC008756). No AI/observability entity found.",
+   "next_action": "Confirm no other Drools entity exists in MCA records",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "FusionReactor India Bengaluru office acquisition",
+   "status": "done",
+   "found": "FusionReactor/Intergral is headquartered in Boblingen, Germany with offices in UK and US. No Bengaluru office found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Drools AI FusionReactor APM Bengaluru startup",
+   "status": "done",
+   "found": "No 'Drools AI' company exists in Bengaluru. FusionReactor is made by Intergral GmbH (Boblingen, Germany). The 'Drools' name in Bengaluru refers to Drools Pet Food Pvt Ltd.",
+   "next_action": "Document name collision in conflicts[] and write P3 JSON",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Drools India private limited CIN MCA registration AI observability",
+   "status": "done",
+   "found": "Only MCA-registered 'Drools' entity is DROOLS PET FOOD PRIVATE LIMITED (CIN U01409CT2018PTC008756). No AI/observability entity found.",
+   "next_action": "Confirm no other Drools entity exists in MCA records",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "FusionReactor India Bengaluru office acquisition",
+   "status": "done",
+   "found": "FusionReactor/Intergral is headquartered in Boblingen, Germany with offices in UK and US. No Bengaluru office found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Drools AI FusionReactor APM Bengaluru startup",
+   "status": "done",
+   "found": "No 'Drools AI' company exists in Bengaluru. FusionReactor is made by Intergral GmbH (Boblingen, Germany). The 'Drools' name in Bengaluru refers to Drools Pet Food Pvt Ltd.",
+   "next_action": "Document name collision in conflicts[] and write P3 JSON",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Drools India private limited CIN MCA registration AI observability",
+   "status": "done",
+   "found": "Only MCA-registered 'Drools' entity is DROOLS PET FOOD PRIVATE LIMITED (CIN U01409CT2018PTC008756). No AI/observability entity found.",
+   "next_action": "Confirm no other Drools entity exists in MCA records",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "FusionReactor India Bengaluru office acquisition",
+   "status": "done",
+   "found": "FusionReactor/Intergral is headquartered in Boblingen, Germany with offices in UK and US. No Bengaluru office found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Drools AI FusionReactor APM Bengaluru startup",
+   "status": "done",
+   "found": "No 'Drools AI' company exists in Bengaluru. FusionReactor is made by Intergral GmbH (Boblingen, Germany). The 'Drools' name in Bengaluru refers to Drools Pet Food Pvt Ltd.",
+   "next_action": "Document name collision in conflicts[] and write P3 JSON",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Drools India private limited CIN MCA registration AI observability",
+   "status": "done",
+   "found": "Only MCA-registered 'Drools' entity is DROOLS PET FOOD PRIVATE LIMITED (CIN U01409CT2018PTC008756). No AI/observability entity found.",
+   "next_action": "Confirm no other Drools entity exists in MCA records",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "FusionReactor India Bengaluru office acquisition",
+   "status": "done",
+   "found": "FusionReactor/Intergral is headquartered in Boblingen, Germany with offices in UK and US. No Bengaluru office found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Drools AI FusionReactor APM Bengaluru startup",
+   "status": "done",
+   "found": "No 'Drools AI' company exists in Bengaluru. FusionReactor is made by Intergral GmbH (Boblingen, Germany). The 'Drools' name in Bengaluru refers to Drools Pet Food Pvt Ltd.",
+   "next_action": "Document name collision in conflicts[] and write P3 JSON",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Drools India private limited CIN MCA registration AI observability",
+   "status": "done",
+   "found": "Only MCA-registered 'Drools' entity is DROOLS PET FOOD PRIVATE LIMITED (CIN U01409CT2018PTC008756). No AI/observability entity found.",
+   "next_action": "Confirm no other Drools entity exists in MCA records",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "FusionReactor India Bengaluru office acquisition",
+   "status": "done",
+   "found": "FusionReactor/Intergral is headquartered in Boblingen, Germany with offices in UK and US. No Bengaluru office found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Drools AI FusionReactor APM Bengaluru startup",
+   "status": "done",
+   "found": "No 'Drools AI' company exists in Bengaluru. FusionReactor is made by Intergral GmbH (Boblingen, Germany). The 'Drools' name in Bengaluru refers to Drools Pet Food Pvt Ltd.",
+   "next_action": "Document name collision in conflicts[] and write P3 JSON",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Drools India private limited CIN MCA registration AI observability",
+   "status": "done",
+   "found": "Only MCA-registered 'Drools' entity is DROOLS PET FOOD PRIVATE LIMITED (CIN U01409CT2018PTC008756). No AI/observability entity found.",
+   "next_action": "Confirm no other Drools entity exists in MCA records",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "FusionReactor India Bengaluru office acquisition",
+   "status": "done",
+   "found": "FusionReactor/Intergral is headquartered in Boblingen, Germany with offices in UK and US. No Bengaluru office found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Drools AI FusionReactor APM Bengaluru startup",
+   "status": "done",
+   "found": "No 'Drools AI' company exists in Bengaluru. FusionReactor is made by Intergral GmbH (Boblingen, Germany). The 'Drools' name in Bengaluru refers to Drools Pet Food Pvt Ltd.",
+   "next_action": "Document name collision in conflicts[] and write P3 JSON",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Drools India private limited CIN MCA registration AI observability",
+   "status": "done",
+   "found": "Only MCA-registered 'Drools' entity is DROOLS PET FOOD PRIVATE LIMITED (CIN U01409CT2018PTC008756). No AI/observability entity found.",
+   "next_action": "Confirm no other Drools entity exists in MCA records",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "FusionReactor India Bengaluru office acquisition",
+   "status": "done",
+   "found": "FusionReactor/Intergral is headquartered in Boblingen, Germany with offices in UK and US. No Bengaluru office found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Drools AI FusionReactor APM Bengaluru startup",
+   "status": "done",
+   "found": "No 'Drools AI' company exists in Bengaluru. FusionReactor is made by Intergral GmbH (Boblingen, Germany). The 'Drools' name in Bengaluru refers to Drools Pet Food Pvt Ltd.",
+   "next_action": "Document name collision in conflicts[] and write P3 JSON",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Drools India private limited CIN MCA registration AI observability",
+   "status": "done",
+   "found": "Only MCA-registered 'Drools' entity is DROOLS PET FOOD PRIVATE LIMITED (CIN U01409CT2018PTC008756). No AI/observability entity found.",
+   "next_action": "Confirm no other Drools entity exists in MCA records",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "FusionReactor India Bengaluru office acquisition",
+   "status": "done",
+   "found": "FusionReactor/Intergral is headquartered in Boblingen, Germany with offices in UK and US. No Bengaluru office found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Drools AI FusionReactor APM Bengaluru startup",
+   "status": "done",
+   "found": "No 'Drools AI' company exists in Bengaluru. FusionReactor is made by Intergral GmbH (Boblingen, Germany). The 'Drools' name in Bengaluru refers to Drools Pet Food Pvt Ltd.",
+   "next_action": "Document name collision in conflicts[] and write P3 JSON",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Drools India private limited CIN MCA registration AI observability",
+   "status": "done",
+   "found": "Only MCA-registered 'Drools' entity is DROOLS PET FOOD PRIVATE LIMITED (CIN U01409CT2018PTC008756). No AI/observability entity found.",
+   "next_action": "Confirm no other Drools entity exists in MCA records",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "FusionReactor India Bengaluru office acquisition",
+   "status": "done",
+   "found": "FusionReactor/Intergral is headquartered in Boblingen, Germany with offices in UK and US. No Bengaluru office found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Drools AI FusionReactor APM Bengaluru startup",
+   "status": "done",
+   "found": "No 'Drools AI' company exists in Bengaluru. FusionReactor is made by Intergral GmbH (Boblingen, Germany). The 'Drools' name in Bengaluru refers to Drools Pet Food Pvt Ltd.",
+   "next_action": "Document name collision in conflicts[] and write P3 JSON",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Drools India private limited CIN MCA registration AI observability",
+   "status": "done",
+   "found": "Only MCA-registered 'Drools' entity is DROOLS PET FOOD PRIVATE LIMITED (CIN U01409CT2018PTC008756). No AI/observability entity found.",
+   "next_action": "Confirm no other Drools entity exists in MCA records",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "FusionReactor India Bengaluru office acquisition",
+   "status": "done",
+   "found": "FusionReactor/Intergral is headquartered in Boblingen, Germany with offices in UK and US. No Bengaluru office found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Drools AI FusionReactor APM Bengaluru startup",
+   "status": "done",
+   "found": "No 'Drools AI' company exists in Bengaluru. FusionReactor is made by Intergral GmbH (Boblingen, Germany). The 'Drools' name in Bengaluru refers to Drools Pet Food Pvt Ltd.",
+   "next_action": "Document name collision in conflicts[] and write P3 JSON",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Drools India private limited CIN MCA registration AI observability",
+   "status": "done",
+   "found": "Only MCA-registered 'Drools' entity is DROOLS PET FOOD PRIVATE LIMITED (CIN U01409CT2018PTC008756). No AI/observability entity found.",
+   "next_action": "Confirm no other Drools entity exists in MCA records",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "FusionReactor India Bengaluru office acquisition",
+   "status": "done",
+   "found": "FusionReactor/Intergral is headquartered in Boblingen, Germany with offices in UK and US. No Bengaluru office found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Drools AI FusionReactor APM Bengaluru startup",
+   "status": "done",
+   "found": "No 'Drools AI' company exists in Bengaluru. FusionReactor is made by Intergral GmbH (Boblingen, Germany). The 'Drools' name in Bengaluru refers to Drools Pet Food Pvt Ltd.",
+   "next_action": "Document name collision in conflicts[] and write P3 JSON",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Drools India private limited CIN MCA registration AI observability",
+   "status": "done",
+   "found": "Only MCA-registered 'Drools' entity is DROOLS PET FOOD PRIVATE LIMITED (CIN U01409CT2018PTC008756). No AI/observability entity found.",
+   "next_action": "Confirm no other Drools entity exists in MCA records",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "FusionReactor India Bengaluru office acquisition",
+   "status": "done",
+   "found": "FusionReactor/Intergral is headquartered in Boblingen, Germany with offices in UK and US. No Bengaluru office found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Drools AI FusionReactor APM Bengaluru startup",
+   "status": "done",
+   "found": "No 'Drools AI' company exists in Bengaluru. FusionReactor is made by Intergral GmbH (Boblingen, Germany). The 'Drools' name in Bengaluru refers to Drools Pet Food Pvt Ltd.",
+   "next_action": "Document name collision in conflicts[] and write P3 JSON",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Drools India private limited CIN MCA registration AI observability",
+   "status": "done",
+   "found": "Only MCA-registered 'Drools' entity is DROOLS PET FOOD PRIVATE LIMITED (CIN U01409CT2018PTC008756). No AI/observability entity found.",
+   "next_action": "Confirm no other Drools entity exists in MCA records",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "FusionReactor India Bengaluru office acquisition",
+   "status": "done",
+   "found": "FusionReactor/Intergral is headquartered in Boblingen, Germany with offices in UK and US. No Bengaluru office found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Drools AI FusionReactor APM Bengaluru startup",
+   "status": "done",
+   "found": "No 'Drools AI' company exists in Bengaluru. FusionReactor is made by Intergral GmbH (Boblingen, Germany). The 'Drools' name in Bengaluru refers to Drools Pet Food Pvt Ltd.",
+   "next_action": "Document name collision in conflicts[] and write P3 JSON",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Drools India private limited CIN MCA registration AI observability",
+   "status": "done",
+   "found": "Only MCA-registered 'Drools' entity is DROOLS PET FOOD PRIVATE LIMITED (CIN U01409CT2018PTC008756). No AI/observability entity found.",
+   "next_action": "Confirm no other Drools entity exists in MCA records",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "FusionReactor India Bengaluru office acquisition",
+   "status": "done",
+   "found": "FusionReactor/Intergral is headquartered in Boblingen, Germany with offices in UK and US. No Bengaluru office found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Drools AI FusionReactor APM Bengaluru startup",
+   "status": "done",
+   "found": "No 'Drools AI' company exists in Bengaluru. FusionReactor is made by Intergral GmbH (Boblingen, Germany). The 'Drools' name in Bengaluru refers to Drools Pet Food Pvt Ltd.",
+   "next_action": "Document name collision in conflicts[] and write P3 JSON",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Drools India private limited CIN MCA registration AI observability",
+   "status": "done",
+   "found": "Only MCA-registered 'Drools' entity is DROOLS PET FOOD PRIVATE LIMITED (CIN U01409CT2018PTC008756). No AI/observability entity found.",
+   "next_action": "Confirm no other Drools entity exists in MCA records",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "FusionReactor India Bengaluru office acquisition",
+   "status": "done",
+   "found": "FusionReactor/Intergral is headquartered in Boblingen, Germany with offices in UK and US. No Bengaluru office found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Drools AI FusionReactor APM Bengaluru startup",
+   "status": "done",
+   "found": "No 'Drools AI' company exists in Bengaluru. FusionReactor is made by Intergral GmbH (Boblingen, Germany). The 'Drools' name in Bengaluru refers to Drools Pet Food Pvt Ltd.",
+   "next_action": "Document name collision in conflicts[] and write P3 JSON",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Drools India private limited CIN MCA registration AI observability",
+   "status": "done",
+   "found": "Only MCA-registered 'Drools' entity is DROOLS PET FOOD PRIVATE LIMITED (CIN U01409CT2018PTC008756). No AI/observability entity found.",
+   "next_action": "Confirm no other Drools entity exists in MCA records",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "FusionReactor India Bengaluru office acquisition",
+   "status": "done",
+   "found": "FusionReactor/Intergral is headquartered in Boblingen, Germany with offices in UK and US. No Bengaluru office found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Drools AI FusionReactor APM Bengaluru startup",
+   "status": "done",
+   "found": "No 'Drools AI' company exists in Bengaluru. FusionReactor is made by Intergral GmbH (Boblingen, Germany). The 'Drools' name in Bengaluru refers to Drools Pet Food Pvt Ltd.",
+   "next_action": "Document name collision in conflicts[] and write P3 JSON",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Drools India private limited CIN MCA registration AI observability",
+   "status": "done",
+   "found": "Only MCA-registered 'Drools' entity is DROOLS PET FOOD PRIVATE LIMITED (CIN U01409CT2018PTC008756). No AI/observability entity found.",
+   "next_action": "Confirm no other Drools entity exists in MCA records",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "FusionReactor India Bengaluru office acquisition",
+   "status": "done",
+   "found": "FusionReactor/Intergral is headquartered in Boblingen, Germany with offices in UK and US. No Bengaluru office found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Drools AI FusionReactor APM Bengaluru startup",
+   "status": "done",
+   "found": "No 'Drools AI' company exists in Bengaluru. FusionReactor is made by Intergral GmbH (Boblingen, Germany). The 'Drools' name in Bengaluru refers to Drools Pet Food Pvt Ltd.",
+   "next_action": "Document name collision in conflicts[] and write P3 JSON",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Drools India private limited CIN MCA registration AI observability",
+   "status": "done",
+   "found": "Only MCA-registered 'Drools' entity is DROOLS PET FOOD PRIVATE LIMITED (CIN U01409CT2018PTC008756). No AI/observability entity found.",
+   "next_action": "Confirm no other Drools entity exists in MCA records",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "FusionReactor India Bengaluru office acquisition",
+   "status": "done",
+   "found": "FusionReactor/Intergral is headquartered in Boblingen, Germany with offices in UK and US. No Bengaluru office found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Drools AI FusionReactor APM Bengaluru startup",
+   "status": "done",
+   "found": "No 'Drools AI' company exists in Bengaluru. FusionReactor is made by Intergral GmbH (Boblingen, Germany). The 'Drools' name in Bengaluru refers to Drools Pet Food Pvt Ltd.",
+   "next_action": "Document name collision in conflicts[] and write P3 JSON",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Drools India private limited CIN MCA registration AI observability",
+   "status": "done",
+   "found": "Only MCA-registered 'Drools' entity is DROOLS PET FOOD PRIVATE LIMITED (CIN U01409CT2018PTC008756). No AI/observability entity found.",
+   "next_action": "Confirm no other Drools entity exists in MCA records",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "FusionReactor India Bengaluru office acquisition",
+   "status": "done",
+   "found": "FusionReactor/Intergral is headquartered in Boblingen, Germany with offices in UK and US. No Bengaluru office found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Drools AI FusionReactor APM Bengaluru startup",
+   "status": "done",
+   "found": "No 'Drools AI' company exists in Bengaluru. FusionReactor is made by Intergral GmbH (Boblingen, Germany). The 'Drools' name in Bengaluru refers to Drools Pet Food Pvt Ltd.",
+   "next_action": "Document name collision in conflicts[] and write P3 JSON",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Drools India private limited CIN MCA registration AI observability",
+   "status": "done",
+   "found": "Only MCA-registered 'Drools' entity is DROOLS PET FOOD PRIVATE LIMITED (CIN U01409CT2018PTC008756). No AI/observability entity found.",
+   "next_action": "Confirm no other Drools entity exists in MCA records",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "FusionReactor India Bengaluru office acquisition",
+   "status": "done",
+   "found": "FusionReactor/Intergral is headquartered in Boblingen, Germany with offices in UK and US. No Bengaluru office found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Drools AI FusionReactor APM Bengaluru startup",
+   "status": "done",
+   "found": "No 'Drools AI' company exists in Bengaluru. FusionReactor is made by Intergral GmbH (Boblingen, Germany). The 'Drools' name in Bengaluru refers to Drools Pet Food Pvt Ltd.",
+   "next_action": "Document name collision in conflicts[] and write P3 JSON",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Drools India private limited CIN MCA registration AI observability",
+   "status": "done",
+   "found": "Only MCA-registered 'Drools' entity is DROOLS PET FOOD PRIVATE LIMITED (CIN U01409CT2018PTC008756). No AI/observability entity found.",
+   "next_action": "Confirm no other Drools entity exists in MCA records",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "FusionReactor India Bengaluru office acquisition",
+   "status": "done",
+   "found": "FusionReactor/Intergral is headquartered in Boblingen, Germany with offices in UK and US. No Bengaluru office found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Drools AI FusionReactor APM Bengaluru startup",
+   "status": "done",
+   "found": "No 'Drools AI' company exists in Bengaluru. FusionReactor is made by Intergral GmbH (Boblingen, Germany). The 'Drools' name in Bengaluru refers to Drools Pet Food Pvt Ltd.",
+   "next_action": "Document name collision in conflicts[] and write P3 JSON",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Drools India private limited CIN MCA registration AI observability",
+   "status": "done",
+   "found": "Only MCA-registered 'Drools' entity is DROOLS PET FOOD PRIVATE LIMITED (CIN U01409CT2018PTC008756). No AI/observability entity found.",
+   "next_action": "Confirm no other Drools entity exists in MCA records",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "FusionReactor India Bengaluru office acquisition",
+   "status": "done",
+   "found": "FusionReactor/Intergral is headquartered in Boblingen, Germany with offices in UK and US. No Bengaluru office found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Drools AI FusionReactor APM Bengaluru startup",
+   "status": "done",
+   "found": "No 'Drools AI' company exists in Bengaluru. FusionReactor is made by Intergral GmbH (Boblingen, Germany). The 'Drools' name in Bengaluru refers to Drools Pet Food Pvt Ltd.",
+   "next_action": "Document name collision in conflicts[] and write P3 JSON",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Drools India private limited CIN MCA registration AI observability",
+   "status": "done",
+   "found": "Only MCA-registered 'Drools' entity is DROOLS PET FOOD PRIVATE LIMITED (CIN U01409CT2018PTC008756). No AI/observability entity found.",
+   "next_action": "Confirm no other Drools entity exists in MCA records",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "FusionReactor India Bengaluru office acquisition",
+   "status": "done",
+   "found": "FusionReactor/Intergral is headquartered in Boblingen, Germany with offices in UK and US. No Bengaluru office found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  }
+ ],
+ "sources": [
+  {
+   "publication_date": "2023-06-20",
+   "publisher": "Business Standard",
+   "tier": "T3",
+   "title": "Pet food start-up Drools raises $60 mn in funding from L Catterton",
+   "url": "https://www.business-standard.com/companies/news/pet-food-start-up-drools-raises-60-mn-in-funding-from-l-catterton-123062000397_1.html"
+  },
+  {
+   "publication_date": "2025-05-26",
+   "publisher": "Nestle Global",
+   "tier": "T1",
+   "title": "Nestle acquires minority stake in Drools Pet Food Private Limited in India",
+   "url": "https://www.nestle.com/media/news/nestle-acquires-minority-stake-drools-pet-food-india"
+  },
+  {
+   "publication_date": "2026-01-24",
+   "publisher": "Tracxn",
+   "tier": "T2",
+   "title": "DROOLS PET FOOD PRIVATE LIMITED - Company Profile, Financials & Shareholding",
+   "url": "https://tracxn.com/d/legal-entities/india/drools-pet-food-private-limited/__uCFfwi7Zo7GPU9zg1THwcoKNatia7c7iH001S_9r0h8"
+  },
+  {
+   "url": "https://www.zaubacorp.com/DROOLS-PET-FOOD-PRIVATE-LIMITED-U01409CT2018PTC008756",
+   "title": "DROOLS PET FOOD PRIVATE LIMITED - ZaubaCorp",
+   "fields": [
+    "cin",
+    "incorporation_date",
+    "registered_office"
+   ],
+   "confidence": "high"
+  },
+  {
+   "url": "https://www.cbinsights.com/company/drools-pet-food/people",
+   "title": "",
+   "fields": "PEOPLE",
+   "confidence": "HIGH"
+  },
+  {
+   "url": "https://tracxn.com/d/companies/drools/__ptu5hjMN1Zt3IHuSyby9WmQzehXdIz6y4oBjqbC2YsI",
+   "title": "",
+   "fields": "company",
+   "confidence": "HIGH"
+  },
+  {
+   "url": "https://timesofindia.indiatimes.com/business/india-business/drools-turns-unicorn-after-nestles-bet/articleshow/121421244.cms",
+   "title": "",
+   "fields": "company",
+   "confidence": "MEDIUM"
+  },
+  {
+   "url": "https://inc42.com/buzz/six-indian-startups-that-became-unicorns-in-2025/",
+   "title": "",
+   "fields": "company",
+   "confidence": "MEDIUM"
+  },
+  {
+   "url": "https://www.intergral.com/",
+   "title": "",
+   "fields": "company",
+   "confidence": "HIGH"
+  },
+  {
+   "url": "https://fusion-reactor.com/",
+   "title": "",
+   "fields": "company",
+   "confidence": "HIGH"
+  }
+ ],
+ "startup_id": "drools",
+ "_merged_session2": true,
+ "investors_meta": [
+  {
+   "investor": "L Catterton",
+   "type": "PE",
+   "hq": "Greenwich, United States",
+   "india_office": null,
+   "notes": "LVMH-backed; 11 companies in India including Reliance Jio and PVR"
+  },
+  {
+   "investor": "Nestle S.A.",
+   "type": "Corporate",
+   "hq": "Vevey, Switzerland",
+   "india_office": "Nestle India (Mumbai)",
+   "notes": "Parent of Purina brand; operates pet care business globally"
+  }
+ ],
+ "people": [
+  {
+   "name": "Shashank Sinha",
+   "role": "CEO",
+   "title": "CEO and Veterinarian",
+   "current": true,
+   "since": "2022-03-17",
+   "prior_role": "IB Group",
+   "source_url": "https://www.cbinsights.com/company/drools-pet-food/people",
+   "confidence": "HIGH"
+  }
+ ],
+ "traction": [
+  {
+   "metric": "market_share",
+   "value": 38,
+   "unit": "percent",
+   "period": "FY23",
+   "as_of": "2023-06-20",
+   "company_reported": true,
+   "source_url": "https://www.business-standard.com/companies/news/pet-food-start-up-drools-raises-60-mn-in-funding-from-l-catterton-123062000397_1.html",
+   "confidence": "MEDIUM",
+   "notes": "38% market share in Indian pet food market"
+  },
+  {
+   "metric": "retail_outlets",
+   "value": 34000,
+   "unit": "count",
+   "period": "FY23",
+   "as_of": "2023-06-20",
+   "company_reported": true,
+   "source_url": "https://www.business-standard.com/companies/news/pet-food-start-up-drools-raises-60-mn-in-funding-from-l-catterton-123062000397_1.html",
+   "confidence": "MEDIUM",
+   "notes": "34,000+ points of sale across India"
+  },
+  {
+   "metric": "countries_exported",
+   "value": 22,
+   "unit": "count",
+   "period": "FY23",
+   "as_of": "2023-06-20",
+   "company_reported": true,
+   "source_url": "https://www.business-standard.com/companies/news/pet-food-start-up-drools-raises-60-mn-in-funding-from-l-catterton-123062000397_1.html",
+   "confidence": "MEDIUM",
+   "notes": "Exports to 22 countries including Australia, Israel, UAE"
+  },
+  {
+   "metric": "unicorn_valuation",
+   "value": 1000000000,
+   "unit": "USD",
+   "period": "FY25",
+   "as_of": "2025-05-26",
+   "company_reported": true,
+   "source_url": "https://timesofindia.indiatimes.com/business/india-business/drools-turns-unicorn-after-nestles-bet/articleshow/121421244.cms",
+   "confidence": "MEDIUM",
+   "notes": "Company-claimed unicorn status after Nestle investment; $1B post-money"
+  }
+ ],
+ "products": [
+  {
+   "name": "Drools Pet Food (dog food)",
+   "category": "Consumer Goods / Pet Care",
+   "description": "Nutritionally balanced dry and wet food for dogs",
+   "pricing_model": "D2C retail + e-commerce",
+   "launch_date": "2009",
+   "status": "Active",
+   "source_url": "https://drools.com",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Drools Pet Food (cat food)",
+   "category": "Consumer Goods / Pet Care",
+   "description": "Nutritionally balanced food for cats; Purepet Cat subsidiary accounts for 35-40% of revenue",
+   "pricing_model": "D2C retail + e-commerce",
+   "launch_date": "2009",
+   "status": "Active",
+   "source_url": "https://inc42.com/buzz/six-indian-startups-that-became-unicorns-in-2025/",
+   "confidence": "MEDIUM"
+  },
+  {
+   "name": "Purepet Cat",
+   "category": "Consumer Goods / Pet Care",
+   "description": "Cat food subsidiary brand",
+   "pricing_model": "D2C retail",
+   "launch_date": "UNKNOWN",
+   "status": "Active",
+   "source_url": "https://inc42.com/buzz/six-indian-startups-that-became-unicorns-in-2025/",
+   "confidence": "MEDIUM"
+  }
+ ],
+ "locations": [
+  {
+   "type": "hq",
+   "address_or_area": "WeWork, Embassy One, 8 Bellary Rd, Dena Bank Colony, Ganganagar",
+   "city": "Bengaluru",
+   "state": "Karnataka",
+   "country": "India",
+   "as_of": "2026-09-15",
+   "source_url": "https://drools.com/about-us",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "registered_office",
+   "address_or_area": "436/2, IB Corporate House, Village Indamara, Post Pendri",
+   "city": "Rajnandgaon",
+   "state": "Chhattisgarh",
+   "country": "India",
+   "as_of": "2026-09-15",
+   "source_url": "https://drools.com/about-us",
+   "confidence": "HIGH"
+  }
+ ],
+ "customers": [
+  {
+   "name": "Pet parents (B2C consumers)",
+   "type": "B2C individual consumers",
+   "announced_date": null,
+   "status": "Active",
+   "source_url": "https://drools.com",
+   "confidence": "HIGH"
+  }
+ ]
+}

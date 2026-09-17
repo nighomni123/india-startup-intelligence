@@ -1,0 +1,439 @@
+{
+ "acquisitions": [],
+ "company": {
+  "business_model": "Fintech: payments (wallet/UPI) + credit distribution (DLG model)",
+  "city": "Gurugram",
+  "company_name": "One MobiKwik Systems Ltd (MobiKwik)",
+  "confidence": "HIGH",
+  "country": "India",
+  "customer_type": "B2C + B2B (merchants, lenders)",
+  "founded_date": "2008 (incorporated 20 Mar 2008 per FY26 results)",
+  "hq_type": "HQ",
+  "last_funding_date": "2024-12-18",
+  "last_funding_round": "IPO (listed)",
+  "last_known_valuation": "Rs 572 cr issue at Rs 279/share; listed ~Rs 440 (+58%)",
+  "legal_name": "One MobiKwik Systems Limited",
+  "primary_sector": "fintech",
+  "secondary_sectors": [
+   "payments",
+   "digital credit"
+  ],
+  "startup_id": "mobikwik",
+  "startup_stage": "Public (listed Dec 2024)",
+  "state": "Haryana",
+  "status": "operating",
+  "total_funding_disclosed": "Private history incl. $50M Series C (2016) + pre-IPO rounds; IPO Rs 572 cr fresh",
+  "website": "https://www.mobikwik.com",
+  "cin": "L64201HR2008PLC053766",
+  "incorporation_date": "2008-03-20",
+  "official_website": {
+   "v": "https://www.mobikwik.com",
+   "conf": "high",
+   "src": "https://www.mobikwik.com",
+   "note": "verified live 2026-09-15: name match on own homepage"
+  },
+  "careers_website": {
+   "v": "https://www.mobikwik.com/careers",
+   "conf": "high",
+   "src": "https://www.mobikwik.com",
+   "note": "playwright render 2026-09-15"
+  }
+ },
+ "competitors": [],
+ "completeness_self": {
+  "customers": 3,
+  "financials": 8,
+  "founders": 6,
+  "funding": 7,
+  "identity": 9,
+  "investors": 6,
+  "legal": 2,
+  "people": 5,
+  "products": 6,
+  "sources": 7,
+  "traction": 8
+ },
+ "conflicts": [
+  {
+   "claim_a": "FY25 revenue Rs 1,192.5 cr total income (Bajaj Broking table)",
+   "claim_b": "FY25 total income Rs 1,192.49 cr / revenue from ops Rs 1,170.2 cr (Latestly/IANS)",
+   "field": "fy25_revenue",
+   "resolution": "Consistent: total income ~Rs 1,192-1,925? No — both ~Rs 1,192 cr; ops revenue ~Rs 1,170 cr. Use ops Rs 1,170.2 cr + total Rs 1,192.5 cr",
+   "resolved_value": "Ops Rs 1,170.2 cr; total income Rs 1,192.5 cr; net loss Rs 121.3 cr",
+   "url_a": "https://www.bajajbroking.in/share-market-news/mobikwik-q4-results-fy-24-25",
+   "url_b": "https://www.latestly.com/technology/mobikwik-q4-fy25-results-fintech-company-reports-wider-consolidated-loss-of-inr-56-03-crore-in-4th-quarter-of-financial-year-2024-2025-6868217.html"
+  }
+ ],
+ "customers": [],
+ "events": [
+  {
+   "announced_date": "2016-05",
+   "confidence": "MEDIUM",
+   "date": "2016-05",
+   "description": "$50M Series C led by GMO Japan + MediaTek; take on Paytm",
+   "headline": "$50M Series C",
+   "source_url": "https://yourstory.com/2016/05/mobikwik-funding-series_c",
+   "type": "funding"
+  },
+  {
+   "announced_date": "2024-12-11",
+   "confidence": "HIGH",
+   "date": "2024-12-18",
+   "description": "Rs 572 cr fresh issue (2.05 cr shares, Rs 265-279); listed NSE Rs 440 / BSE Rs 442 (+58%); ~120x oversubscribed; lot 53 shares",
+   "headline": "IPO lists Dec 2024",
+   "source_url": "https://www.medianama.com/wp-content/uploads/2025/09/MobiKwik_Annual_Report_FY24-25.pdf",
+   "type": "ipo"
+  },
+  {
+   "announced_date": "2025-02-04",
+   "confidence": "HIGH",
+   "date": "2025-02-04",
+   "description": "9M FY25 total income Rs 9,140M (+48%); payments GMV Rs 828 Bn (+248%)",
+   "headline": "9M FY25 results",
+   "source_url": "https://www.mobikwik.com/blog/mobikwik-reportotal-income-of-inr-9140-mn-for-nine-months-of-fy25-surpassing-full-year-fy24-income/",
+   "type": "earnings"
+  }
+ ],
+ "financials": [
+  {
+   "confidence": "HIGH",
+   "currency": "INR",
+   "fiscal_year": "FY24",
+   "metric": "revenue_from_operations",
+   "source_title": "MobiKwik Q4 FY25 (Bajaj Broking)",
+   "source_url": "https://www.bajajbroking.in/share-market-news/mobikwik-q4-results-fy-24-25",
+   "value": 875.0,
+   "value_type": "audited",
+   "unit": "cr"
+  },
+  {
+   "confidence": "HIGH",
+   "currency": "INR",
+   "fiscal_year": "FY24",
+   "metric": "pat",
+   "source_title": "MobiKwik Q4 FY25 (Bajaj Broking)",
+   "source_url": "https://www.bajajbroking.in/share-market-news/mobikwik-q4-results-fy-24-25",
+   "value": 14.1,
+   "value_type": "audited",
+   "unit": "cr"
+  },
+  {
+   "confidence": "HIGH",
+   "currency": "INR",
+   "fiscal_year": "FY25",
+   "metric": "revenue_from_operations",
+   "source_title": "MobiKwik Q4 FY25 (Bajaj Broking)",
+   "source_url": "https://www.bajajbroking.in/share-market-news/mobikwik-q4-results-fy-24-25",
+   "value": 1170.2,
+   "value_type": "audited",
+   "unit": "cr"
+  },
+  {
+   "confidence": "HIGH",
+   "currency": "INR",
+   "fiscal_year": "FY25",
+   "metric": "pat",
+   "source_title": "MobiKwik Q4 FY25 (Bajaj Broking)",
+   "source_url": "https://www.bajajbroking.in/share-market-news/mobikwik-q4-results-fy-24-25",
+   "value": -121.3,
+   "value_type": "audited",
+   "unit": "cr"
+  },
+  {
+   "confidence": "HIGH",
+   "currency": "INR",
+   "fiscal_year": "FY26",
+   "metric": "revenue_from_operations",
+   "source_title": "MobiKwik FY26 audited results (BSE filing)",
+   "source_url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/1d18eaed-9778-433c-8ec2-4f960e4be04b.pdf",
+   "value": 1106.5,
+   "value_type": "audited",
+   "unit": "cr"
+  }
+ ],
+ "founders": [
+  {
+   "background": "Co-founder; CEO",
+   "confidence": "MEDIUM",
+   "name": "Bipin Preet Singh",
+   "role": "Co-founder & CEO",
+   "source_url": "https://www.businessremedies.com/the-journey-of-mobikwik-founders-bipin-preet-singh-and-upasana-taku/",
+   "still_active": true,
+   "type": "co-founder"
+  },
+  {
+   "background": "Co-founder, ED & CFO",
+   "confidence": "HIGH",
+   "name": "Upasana Taku",
+   "role": "Co-founder, ED & CFO",
+   "source_url": "https://www.mobikwik.com/blog/mobikwik-reportotal-income-of-inr-9140-mn-for-nine-months-of-fy25-surpassing-full-year-fy24-income/",
+   "still_active": true,
+   "type": "co-founder"
+  }
+ ],
+ "funding_rounds": [
+  {
+   "all_investors": [
+    "MediaTek"
+   ],
+   "amount": 50,
+   "announced_date": "2016-05",
+   "confidence": "MEDIUM",
+   "currency": "USD",
+   "lead_investors": [
+    "GMO (Japan)"
+   ],
+   "notes": "Series C; snippet fact (fetch 403, snippet only → MEDIUM)",
+   "round_type": "Series C",
+   "source_title": "MobiKwik to add more money, raises $50M (YourStory)",
+   "source_url": "https://yourstory.com/2016/05/mobikwik-funding-series_c",
+   "tier": "T3"
+  },
+  {
+   "all_investors": [],
+   "amount": 572,
+   "announced_date": "2024-12-11",
+   "confidence": "HIGH",
+   "currency": "INR-cr",
+   "lead_investors": [],
+   "notes": "Fresh issue 2.05 cr shares Rs 265-279; listed Dec 18 2024; net proceeds Rs 530.5 cr (objects: financial svcs 150, payments 135, R&D/AI, devices, GCP)",
+   "round_type": "IPO",
+   "source_title": "MobiKwik Annual Report FY24-25",
+   "source_url": "https://www.medianama.com/wp-content/uploads/2025/09/MobiKwik_Annual_Report_FY24-25.pdf",
+   "tier": "T1",
+   "round_date": "2024-12",
+   "announcement_date": "2024-12-11",
+   "new_or_existing": "new",
+   "purpose": "public listing on BSE/NSE (listed 18 Dec 2024)"
+  }
+ ],
+ "gaps": [
+  "Full private round history (Sequoia et al.) not reconstructed — needs DRHP cap table",
+  "CIN not captured",
+  "Founder backgrounds (education/prev) not verified beyond titles",
+  "Legal/regulatory (RBI PPI) not investigated",
+  "IPO valuation / listing market-cap with citable figure"
+ ],
+ "hiring": [],
+ "investor_links": [
+  {
+   "confidence": "MEDIUM",
+   "first_seen": "2016",
+   "investor": "GMO (Japan)",
+   "investor_type": "corporate/VC",
+   "lead": true,
+   "rounds": [
+    "Series C 2016"
+   ],
+   "source_url": "https://yourstory.com/2016/05/mobikwik-funding-series_c"
+  },
+  {
+   "confidence": "MEDIUM",
+   "first_seen": "2016",
+   "investor": "MediaTek",
+   "investor_type": "corporate",
+   "lead": false,
+   "rounds": [
+    "Series C 2016"
+   ],
+   "source_url": "https://sg.news.yahoo.com/mobikwik-raises-us-50m-series-c-softbank-backed-073347543.html"
+  },
+  {
+   "confidence": "HIGH",
+   "first_seen": "2024",
+   "investor": "HDFC MF / SBI MF / Axis MF / Eastspring (IPO anchors)",
+   "investor_type": "MF",
+   "lead": false,
+   "rounds": [
+    "IPO 2024"
+   ],
+   "source_url": "https://www.medianama.com/wp-content/uploads/2025/09/MobiKwik_Annual_Report_FY24-25.pdf"
+  }
+ ],
+ "investors_meta": [],
+ "ip_tech_ai": {
+  "confidence": "LOW",
+  "stack": "Wallet/UPI infra; Lens money-management; FD-backed RuPay First Card; data/ML R&D (IPO object)"
+ },
+ "legal": [],
+ "locations": [
+  {
+   "as_of": "2024",
+   "city": "Gurugram",
+   "confidence": "HIGH",
+   "source_url": "https://www.mobikwik.com/blog/mobikwik-reportotal-income-of-inr-9140-mn-for-nine-months-of-fy25-surpassing-full-year-fy24-income/",
+   "state": "Haryana",
+   "type": "HQ"
+  }
+ ],
+ "partnerships": [],
+ "people": [
+  {
+   "confidence": "HIGH",
+   "name": "Upasana Taku",
+   "position": "Executive Director, Co-founder & CFO",
+   "source_url": "https://www.mobikwik.com/blog/mobikwik-reportotal-income-of-inr-9140-mn-for-nine-months-of-fy25-surpassing-full-year-fy24-income/"
+  }
+ ],
+ "products": [
+  {
+   "confidence": "MEDIUM",
+   "name": "Digital wallet (PPI), UPI/payments, ZIP/ZIP EMI credit distribution, First Card FD-backed RuPay CC, Lens",
+   "source_url": "https://www.thehindubusinessline.com/portfolio/stock-fundamental-analysis-india/mobikwiks-underwhelming-fy25-and-what-you-should-do-about-the-stock/article69691979.ece",
+   "status": "active"
+  }
+ ],
+ "research_log": [
+  {
+   "found": "IPO terms, listing pop, FY25/FY26 financials, founders, products",
+   "next_action": "Reconstruct DRHP cap table for full round history",
+   "query": "MobiKwik IPO listing revenue FY25",
+   "unresolved": "Full private round history"
+  },
+  {
+   "found": "Series C $50M GMO+MediaTek; pre-IPO round $7.2M (2021); founders",
+   "next_action": "done",
+   "query": "MobiKwik founders funding investors (tinyfish fallback after 429)",
+   "unresolved": "Sequoia-era rounds"
+  },
+  {
+   "found": "YourStory Series C fetch 403; used snippets at MEDIUM",
+   "next_action": "none",
+   "query": "fetch yourstory Series C",
+   "unresolved": "fetch failed HTTP 403"
+  },
+  {
+   "date": "2026-09-14",
+   "found": "CIN L64201HR2008PLC053766, inc 20 Mar 2008 via ZaubaCorp + company IR; IPO Rs 572cr Dec 2024, band Rs 265-279, listed Dec 18, ~90% debut pop",
+   "query": "One MobiKwik Systems CIN + IPO Dec 2024 valuation",
+   "unresolved": "IPO valuation / market-cap figure not pinned to a citable number"
+  }
+ ],
+ "sources": [
+  {
+   "claim_supported": "IPO size/price/listing pop/subscription, FY25 GMV/income growth",
+   "fields_supported": [
+    "funding_rounds",
+    "events",
+    "financials"
+   ],
+   "publication_date": "2025",
+   "publisher": "MobiKwik / Annual Report FY24-25 via MediaNama",
+   "retrieved_date": "2026-09-14",
+   "tier": "T1",
+   "title": "MobiKwik Annual Report FY24-25",
+   "url": "https://www.medianama.com/wp-content/uploads/2025/09/MobiKwik_Annual_Report_FY24-25.pdf"
+  },
+  {
+   "claim_supported": "Q4/FY25 revenue, loss, payments GMV, lending decline thesis",
+   "fields_supported": [
+    "financials",
+    "traction"
+   ],
+   "publication_date": "2025-06-14",
+   "publisher": "Hindu BusinessLine",
+   "retrieved_date": "2026-09-14",
+   "tier": "T3",
+   "title": "MobiKwik's underwhelming FY25",
+   "url": "https://www.thehindubusinessline.com/portfolio/stock-fundamental-analysis-india/mobikwiks-underwhelming-fy25-and-what-you-should-do-about-the-stock/article69691979.ece"
+  },
+  {
+   "claim_supported": "9M FY25 income, GMV, contribution margin",
+   "fields_supported": [
+    "financials",
+    "traction"
+   ],
+   "publication_date": "2025-02-04",
+   "publisher": "MobiKwik (company blog)",
+   "retrieved_date": "2026-09-14",
+   "tier": "T1",
+   "title": "MobiKwik 9M FY25 results",
+   "url": "https://www.mobikwik.com/blog/mobikwik-reportotal-income-of-inr-9140-mn-for-nine-months-of-fy25-surpassing-full-year-fy24-income/"
+  },
+  {
+   "claim_supported": "$50M Series C led by GMO + MediaTek",
+   "fields_supported": [
+    "funding_rounds"
+   ],
+   "publication_date": "2016-05-04",
+   "publisher": "YourStory (snippet; fetch 403)",
+   "retrieved_date": "2026-09-14",
+   "tier": "T3",
+   "title": "MobiKwik raises $50M Series C",
+   "url": "https://yourstory.com/2016/05/mobikwik-funding-series_c"
+  },
+  {
+   "claim_supported": "Founders journey",
+   "fields_supported": [
+    "founders"
+   ],
+   "publication_date": "2025-05-28",
+   "publisher": "Business Remedies (T5, corroborating only)",
+   "retrieved_date": "2026-09-14",
+   "tier": "T5",
+   "title": "Journey of MobiKwik Founders",
+   "url": "https://www.businessremedies.com/the-journey-of-mobikwik-founders-bipin-preet-singh-and-upasana-taku/"
+  },
+  {
+   "url": "https://groww.in/blog/mobikwik-ipo-day-1",
+   "title": "",
+   "fields": "FUNDING",
+   "confidence": "high"
+  },
+  {
+   "url": "https://www.moneycontrol.com/news/business/ipo/mobikwik-share-price-stock-lists-at-nearly-60pc-premium-over-ipo-price-on-nse-12892369.html",
+   "title": "",
+   "fields": "FUNDING",
+   "confidence": "medium"
+  },
+  {
+   "url": "https://www.zaubacorp.com/ONE-MOBIKWIK-SYSTEMS-LIMITED-L64201HR2008PLC053766",
+   "title": "ONE MOBIKWIK SYSTEMS LIMITED | ZaubaCorp",
+   "fields": [
+    "cin",
+    "incorporation_date"
+   ],
+   "confidence": "high"
+  },
+  {
+   "url": "https://www.mobikwik.com/ir/company-information",
+   "title": "Company Information - MobiKwik IR",
+   "fields": [
+    "cin",
+    "registered_office"
+   ],
+   "confidence": "high"
+  }
+ ],
+ "startup_id": "mobikwik",
+ "traction": [
+  {
+   "as_of": "FY25",
+   "company_reported": true,
+   "confidence": "HIGH",
+   "metric": "Payments GMV",
+   "period": "FY25",
+   "source_url": "https://www.medianama.com/wp-content/uploads/2025/09/MobiKwik_Annual_Report_FY24-25.pdf",
+   "value": "Rs 1.16 lakh cr (+203%)"
+  },
+  {
+   "as_of": "FY25",
+   "company_reported": true,
+   "confidence": "HIGH",
+   "metric": "Registered users",
+   "period": "FY25",
+   "source_url": "https://www.thehindubusinessline.com/portfolio/stock-fundamental-analysis-india/mobikwiks-underwhelming-fy25-and-what-you-should-do-about-the-stock/article69691979.ece",
+   "value": "176.4M (+20.5M new)"
+  },
+  {
+   "as_of": "Mar 2025",
+   "company_reported": true,
+   "confidence": "MEDIUM",
+   "metric": "PPI wallet share",
+   "period": "Mar 2025",
+   "source_url": "https://www.medianama.com/wp-content/uploads/2025/09/MobiKwik_Annual_Report_FY24-25.pdf",
+   "value": "21% by value; #1 wallet"
+  }
+ ],
+ "_merged_session2": true
+}

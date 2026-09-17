@@ -1,0 +1,4166 @@
+{
+ "company": {
+  "business_model": "B2C subscription edutainment OTT; short 3-5 min videos",
+  "city": "Bengaluru",
+  "founded_date": "2020",
+  "primary_sector": "edtech short-form",
+  "public_private": "private",
+  "startup_id": "seekho",
+  "startup_stage": "Series B",
+  "official_website": {
+   "v": "https://seekho.in",
+   "conf": "high",
+   "src": "https://seekho.in",
+   "note": "verified live 2026-09-15: name match on own homepage"
+  },
+  "careers_website": {
+   "v": "https://seekho.in/category/jobs-career/",
+   "conf": "high",
+   "src": "https://seekho.in",
+   "note": "careers link found on official homepage, probed live"
+  },
+  "website": "https://seekho.in",
+  "legal_name": {
+   "v": "Keyaro Edutech Private Limited",
+   "conf": "HIGH",
+   "src": "https://www.zaubacorp.com/KEYARO-EDUTECH-PRIVATE-LIMITED-U72900RJ2020PTC071142",
+   "note": "MCA-registered entity; CIN U72900RJ2020PTC071142",
+   "asof": "2026-09-15"
+  },
+  "cin": {
+   "v": "U72900RJ2020PTC071142",
+   "conf": "HIGH",
+   "src": "https://www.zaubacorp.com/KEYARO-EDUTECH-PRIVATE-LIMITED-U72900RJ2020PTC071142",
+   "note": "RoC-Jaipur; incorporated 21 Sep 2020",
+   "asof": "2026-09-15"
+  },
+  "incorporation_date": {
+   "v": "2020-09-21",
+   "conf": "HIGH",
+   "src": "https://www.zaubacorp.com/KEYARO-EDUTECH-PRIVATE-LIMITED-U72900RJ2020PTC071142",
+   "note": "MCA registration date",
+   "asof": "2026-09-15"
+  },
+  "status": {
+   "v": "Active",
+   "conf": "HIGH",
+   "src": "https://www.zaubacorp.com/KEYARO-EDUTECH-PRIVATE-LIMITED-U72900RJ2020PTC071142",
+   "note": "MCA data shows active; app live on Play/App Store",
+   "asof": "2026-09-15"
+  },
+  "state": {
+   "v": "Karnataka",
+   "conf": "HIGH",
+   "src": "https://seekho.in/contact-us/",
+   "note": "Bellandur, Bengaluru",
+   "asof": "2026-09-15"
+  },
+  "country": {
+   "v": "India",
+   "conf": "HIGH",
+   "src": "https://seekho.in/",
+   "note": "Indian company",
+   "asof": "2026-09-15"
+  },
+  "description": {
+   "v": "India's first edutainment OTT platform offering 10,000+ bite-sized short learning videos across Technology, Money, Business, and 10+ categories in Hindi and regional languages. Known as 'Netflix for Learning'.",
+   "conf": "HIGH",
+   "src": "https://www.bvp.com/news/powering-indias-digital-learning-revolution-with-seekho",
+   "note": "Bessemer thesis; also confirmed on seekho.in and Play Store",
+   "asof": "2026-09-15"
+  },
+  "employee_estimate": {
+   "v": 140,
+   "conf": "MEDIUM",
+   "src": "https://pitchbook.com/profiles/company/469180-36",
+   "note": "PitchBook says 140; LinkedIn says 51-200; Ambitionbox says 60+",
+   "asof": "2026-09-15"
+  },
+  "hq_type": {
+   "v": "office",
+   "conf": "HIGH",
+   "src": "https://seekho.in/team/",
+   "note": "Bellandur, Bengaluru office; originally launched from Udaipur",
+   "asof": "2026-09-15"
+  },
+  "registered_office": {
+   "v": "c/o W O Ashok Agarwal, 10 Ashirvad Colony, Opp. College Ground, Kesarganj, Sirohi, Rajasthan - 302001",
+   "conf": "MEDIUM",
+   "src": "https://www.tofler.in/keyaro-edutech-private-limited/company/U72900RJ2020PTC071142",
+   "note": "Tofler shows Rajasthan registered address; operational HQ in Bengaluru",
+   "asof": "2026-09-15"
+  }
+ },
+ "completeness_self": {
+  "financials": 8,
+  "founders": 9,
+  "funding": 9,
+  "identity": 8,
+  "investors": 9,
+  "legal": 5,
+  "products": 7,
+  "sources": 9,
+  "traction": 8
+ },
+ "conflicts": [
+  {
+   "claim_a": "Founded 2020 (VCCircle, Elevation, PitchBook)",
+   "claim_b": "Founded 2021 (Inc42, Lightspeed pages)",
+   "field": "founded_year",
+   "resolution": "Prefer 2020 (founder/company sources); 2021 likely listing lag",
+   "resolved_value": "2020",
+   "url_a": "https://www.vccircle.com/bessemerventure-partner-leads-edtech-app-seekho-s-series-b",
+   "url_b": "http://inc42.com/company/seekho"
+  },
+  {
+   "field": "founded_year",
+   "claim_a": "Founded 2020 (VCCircle, Elevation, PitchBook, Seekho team page)",
+   "url_a": "https://seekho.in/team/",
+   "claim_b": "Founded 2021 (Inc42, Lightspeed pages)",
+   "url_b": "http://inc42.com/company/seekho",
+   "resolution": "Prefer 2020 (founder/company sources; MCA incorporation date 21 Sep 2020)",
+   "resolved_value": "2020"
+  },
+  {
+   "field": "founders",
+   "claim_a": "Rohit Choudhary, Keertay Agarwal, Yash Banwani (Seekho team page, Elevation Capital, BVP, Goodwater, all primary sources)",
+   "url_a": "https://seekho.in/team/",
+   "claim_b": "Apoorva Ashram/Mayank Sinha (prompt-suggested names)",
+   "url_b": "prompt instruction",
+   "resolution": "All primary sources confirm Rohit Choudhary, Keertay Agarwal, Yash Banwani as founders. No evidence for Apoorva Ashram or Mayank Sinha.",
+   "resolved_value": "Rohit Choudhary, Keertay Agarwal, Yash Banwani"
+  },
+  {
+   "field": "valuation",
+   "claim_a": "$180M post-money valuation at Series B (Entrackr, BVP)",
+   "url_a": "https://entrackr.com/fintrackr/seekho-spends-rs-134-cr-on-advertising-for-rs-142-cr-revenue-in-fy25-11205187",
+   "claim_b": "$130M valuation (Instagram post)",
+   "url_b": "https://www.instagram.com/reel/DP00WjZkXS8/",
+   "resolution": "Prefer $180M (multiple credible sources including BVP and Entrackr)",
+   "resolved_value": "$180M"
+  }
+ ],
+ "events": [
+  {
+   "date": "2025-09-03",
+   "headline": "$28M Series B led by Bessemer; Goodwater + Lightspeed + Elevation",
+   "source_url": "https://www.vccircle.com/bessemerventure-partner-leads-edtech-app-seekho-s-series-b",
+   "type": "funding"
+  },
+  {
+   "date": "2024-12-01",
+   "headline": "$8M Series A led by Lightspeed",
+   "source_url": "https://www.vccircle.com/bessemerventure-partner-leads-edtech-app-seekho-s-series-b",
+   "type": "funding"
+  },
+  {
+   "type": "funding",
+   "headline": "$3M Seed funding from Elevation Capital",
+   "date": "2023-03-01",
+   "description": "Seekho earned first fund cheque of $3M from Elevation Capital.",
+   "source_url": "https://seekho.in/team/",
+   "confidence": "MEDIUM"
+  },
+  {
+   "type": "funding",
+   "headline": "$28M Series B led by Bessemer Venture Partners",
+   "date": "2025-09-03",
+   "description": "Series B of $28M raised from Bessemer VP, Goodwater Capital, Lightspeed, and Elevation Capital at $180M valuation.",
+   "source_url": "https://www.bvp.com/news/powering-indias-digital-learning-revolution-with-seekho",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "partnership",
+   "headline": "Official training partner with Youth Adda by UPICON",
+   "date": "2025-03-16",
+   "description": "Seekho became official training partner with Youth Adda by UPICON to train UP youth.",
+   "source_url": "https://www.facebook.com/100064040891834/videos/-big-news-ab-seekho-app-ban-gaya-hai-official-training-partner-with-youth-adda-b/2163474170797632/",
+   "confidence": "MEDIUM"
+  },
+  {
+   "type": "partnership",
+   "headline": "Elevation Capital deepens partnership",
+   "date": "2025-09-03",
+   "description": "Elevation Capital stated they are thrilled to deepen partnership with Seekho as they scale to 25M+ MAU.",
+   "source_url": "https://www.linkedin.com/posts/elevationcap_we-are-thrilled-to-deepen-our-partnership-activity-7368942568753033216-1qi_",
+   "confidence": "MEDIUM"
+  },
+  {
+   "type": "launch",
+   "headline": "Seekho app launched from Udaipur",
+   "date": "2020-08-01",
+   "description": "Started with mission 'Make Learning Fun & Easy' from a small room in Udaipur.",
+   "source_url": "https://seekho.in/team/",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "launch",
+   "headline": "Tamil and Telugu language support added",
+   "date": "2025-11-13",
+   "description": "Seekho app expanded to Tamil and Telugu languages.",
+   "source_url": "https://www.instagram.com/reel/DRACBPjkmmg/",
+   "confidence": "MEDIUM"
+  },
+  {
+   "type": "milestone",
+   "headline": "Hit 1M paid users",
+   "date": "2024-12-01",
+   "description": "Seekho reached 1M paid users milestone.",
+   "source_url": "https://seekho.in/team/",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "milestone",
+   "headline": "4M subscribers strong",
+   "date": "2025-09-03",
+   "description": "Seekho reached 4M paid subscribers.",
+   "source_url": "https://seekho.in/team/",
+   "confidence": "HIGH"
+  }
+ ],
+ "financials": [
+  {
+   "currency": "INR",
+   "fiscal_year": "FY25",
+   "metric": "operating_revenue",
+   "source_title": "Entrackr Fintrackr: Seekho FY25",
+   "source_url": "https://entrackr.com/fintrackr/seekho-spends-rs-134-cr-on-advertising-for-rs-142-cr-revenue-in-fy25-11205187",
+   "value": "141.5 Cr",
+   "value_type": "press-quoted-filing"
+  },
+  {
+   "currency": "INR",
+   "fiscal_year": "FY25",
+   "metric": "net_loss",
+   "source_title": "Entrackr Fintrackr: Seekho FY25",
+   "source_url": "https://entrackr.com/fintrackr/seekho-spends-rs-134-cr-on-advertising-for-rs-142-cr-revenue-in-fy25-11205187",
+   "value": "38.8 Cr",
+   "value_type": "press-quoted-filing"
+  },
+  {
+   "fiscal_year": "FY24",
+   "metric": "operating_revenue",
+   "value": 1150000000,
+   "unit": "lakh",
+   "currency": "INR",
+   "value_type": "press-quoted-filing",
+   "basis": "standalone",
+   "consolidated": "no",
+   "filing_date": "2025-03-31",
+   "source_url": "https://entrackr.com/fintrackr/seekho-spends-rs-134-cr-on-advertising-for-rs-142-cr-revenue-in-fy25-11205187",
+   "source_title": "Seekho spends Rs 134 Cr on advertising for Rs 142 Cr revenue in FY25",
+   "confidence": "HIGH",
+   "notes": "FY24 revenue Rs 11.5 Cr per Entrackr; 12.3X growth to FY25"
+  },
+  {
+   "fiscal_year": "FY24",
+   "metric": "net_loss",
+   "value": 485000000,
+   "unit": "lakh",
+   "currency": "INR",
+   "value_type": "press-quoted-filing",
+   "basis": "standalone",
+   "consolidated": "no",
+   "filing_date": "2025-03-31",
+   "source_url": "https://entrackr.com/fintrackr/seekho-spends-rs-134-cr-on-advertising-for-rs-142-cr-revenue-in-fy25-11205187",
+   "source_title": "Seekho spends Rs 134 Cr on advertising for Rs 142 Cr revenue in FY25",
+   "confidence": "MEDIUM",
+   "notes": "FY24 loss estimated from 8X growth to FY25 loss of Rs 38.8 Cr"
+  },
+  {
+   "fiscal_year": "FY25",
+   "metric": "operating_revenue",
+   "value": 1415000000,
+   "unit": "lakh",
+   "currency": "INR",
+   "value_type": "press-quoted-filing",
+   "basis": "standalone",
+   "consolidated": "no",
+   "filing_date": "2026-03-31",
+   "source_url": "https://entrackr.com/fintrackr/seekho-spends-rs-134-cr-on-advertising-for-rs-142-cr-revenue-in-fy25-11205187",
+   "source_title": "Seekho spends Rs 134 Cr on advertising for Rs 142 Cr revenue in FY25",
+   "confidence": "HIGH",
+   "notes": "12.3X YoY growth from FY24 Rs 11.5 Cr; per RoC filing"
+  },
+  {
+   "fiscal_year": "FY25",
+   "metric": "net_loss",
+   "value": 388000000,
+   "unit": "lakh",
+   "currency": "INR",
+   "value_type": "press-quoted-filing",
+   "basis": "standalone",
+   "consolidated": "no",
+   "filing_date": "2026-03-31",
+   "source_url": "https://entrackr.com/fintrackr/seekho-spends-rs-134-cr-on-advertising-for-rs-142-cr-revenue-in-fy25-11205187",
+   "source_title": "Seekho spends Rs 134 Cr on advertising for Rs 142 Cr revenue in FY25",
+   "confidence": "HIGH",
+   "notes": "Loss up 8X YoY; marketing spend Rs 134.2 Cr drove losses"
+  },
+  {
+   "fiscal_year": "FY25",
+   "metric": "marketing_expense",
+   "value": 1342000000,
+   "unit": "lakh",
+   "currency": "INR",
+   "value_type": "press-quoted-filing",
+   "basis": "standalone",
+   "consolidated": "no",
+   "filing_date": "2026-03-31",
+   "source_url": "https://entrackr.com/fintrackr/seekho-spends-rs-134-cr-on-advertising-for-rs-142-cr-revenue-in-fy25-11205187",
+   "source_title": "Seekho spends Rs 134 Cr on advertising for Rs 142 Cr revenue in FY25",
+   "confidence": "HIGH",
+   "notes": "75% of total expenses; up 11.5X from FY24 Rs 11.6 Cr"
+  },
+  {
+   "fiscal_year": "FY25",
+   "metric": "total_expenses",
+   "value": 1792000000,
+   "unit": "lakh",
+   "currency": "INR",
+   "value_type": "press-quoted-filing",
+   "basis": "standalone",
+   "consolidated": "no",
+   "filing_date": "2026-03-31",
+   "source_url": "https://entrackr.com/fintrackr/seekho-spends-rs-134-cr-on-advertising-for-rs-142-cr-revenue-in-fy25-11205187",
+   "source_title": "Seekho spends Rs 134 Cr on advertising for Rs 142 Cr revenue in FY25",
+   "confidence": "HIGH",
+   "notes": "Up 9X from FY24 Rs 19.4 Cr"
+  },
+  {
+   "fiscal_year": "FY25",
+   "metric": "employee_benefits",
+   "value": 234000000,
+   "unit": "lakh",
+   "currency": "INR",
+   "value_type": "press-quoted-filing",
+   "basis": "standalone",
+   "consolidated": "no",
+   "filing_date": "2026-03-31",
+   "source_url": "https://entrackr.com/fintrackr/seekho-spends-rs-134-cr-on-advertising-for-rs-142-cr-revenue-in-fy25-11205187",
+   "source_title": "Seekho spends Rs 134 Cr on advertising for Rs 142 Cr revenue in FY25",
+   "confidence": "HIGH",
+   "notes": "Includes SARs worth Rs 14.3 Cr (non-cash)"
+  },
+  {
+   "fiscal_year": "FY25",
+   "metric": "content_creation_expense",
+   "value": 104000000,
+   "unit": "lakh",
+   "currency": "INR",
+   "value_type": "press-quoted-filing",
+   "basis": "standalone",
+   "consolidated": "no",
+   "filing_date": "2026-03-31",
+   "source_url": "https://entrackr.com/fintrackr/seekho-spends-rs-134-cr-on-advertising-for-rs-142-cr-revenue-in-fy25-11205187",
+   "source_title": "Seekho spends Rs 134 Cr on advertising for Rs 142 Cr revenue in FY25",
+   "confidence": "HIGH",
+   "notes": "Up 10X from FY24"
+  },
+  {
+   "fiscal_year": "FY25",
+   "metric": "cash_and_bank_balance",
+   "value": 402000000,
+   "unit": "lakh",
+   "currency": "INR",
+   "value_type": "press-quoted-filing",
+   "basis": "standalone",
+   "consolidated": "no",
+   "filing_date": "2026-03-31",
+   "source_url": "https://entrackr.com/fintrackr/seekho-spends-rs-134-cr-on-advertising-for-rs-142-cr-revenue-in-fy25-11205187",
+   "source_title": "Seekho spends Rs 134 Cr on advertising for Rs 142 Cr revenue in FY25",
+   "confidence": "HIGH",
+   "notes": "As of March 2025"
+  },
+  {
+   "fiscal_year": "FY25",
+   "metric": "current_assets",
+   "value": 933000000,
+   "unit": "lakh",
+   "currency": "INR",
+   "value_type": "press-quoted-filing",
+   "basis": "standalone",
+   "consolidated": "no",
+   "filing_date": "2026-03-31",
+   "source_url": "https://entrackr.com/fintrackr/seekho-spends-rs-134-cr-on-advertising-for-rs-142-cr-revenue-in-fy25-11205187",
+   "source_title": "Seekho spends Rs 134 Cr on advertising for Rs 142 Cr revenue in FY25",
+   "confidence": "HIGH",
+   "notes": "As of March 2025"
+  },
+  {
+   "fiscal_year": "FY25",
+   "metric": "total_income",
+   "value": 1435000000,
+   "unit": "lakh",
+   "currency": "INR",
+   "value_type": "press-quoted-filing",
+   "basis": "standalone",
+   "consolidated": "no",
+   "filing_date": "2026-03-31",
+   "source_url": "https://entrackr.com/fintrackr/seekho-spends-rs-134-cr-on-advertising-for-rs-142-cr-revenue-in-fy25-11205187",
+   "source_title": "Seekho spends Rs 134 Cr on advertising for Rs 142 Cr revenue in FY25",
+   "confidence": "HIGH",
+   "notes": "Includes Rs 1.9 Cr non-operating income (interest)"
+  }
+ ],
+ "founders": [
+  {
+   "name": "Rohit Choudhary",
+   "role": "Co-founder & CEO",
+   "source_url": "https://www.vccircle.com/bessemerventure-partner-leads-edtech-app-seekho-s-series-b",
+   "still_active": true,
+   "type": "co-founder"
+  },
+  {
+   "name": "Keertay Agarwal",
+   "role": "Co-founder & COO",
+   "source_url": "http://elevationcapital.com/portfolio/seekho",
+   "still_active": true,
+   "type": "co-founder"
+  },
+  {
+   "name": "Yash Banwani",
+   "role": "Co-founder & CTO",
+   "source_url": "http://elevationcapital.com/portfolio/seekho",
+   "still_active": true,
+   "type": "co-founder"
+  }
+ ],
+ "funding_rounds": [
+  {
+   "all_investors": [
+    "Elevation Capital"
+   ],
+   "amount": "3M",
+   "announced_date": "2023-03-01",
+   "currency": "USD",
+   "round_type": "Seed",
+   "source_title": "VCCircle Series B (recap)",
+   "source_url": "https://www.vccircle.com/bessemerventure-partner-leads-edtech-app-seekho-s-series-b",
+   "tier": "T2"
+  },
+  {
+   "all_investors": [
+    "Lightspeed Venture Partners"
+   ],
+   "amount": "8M",
+   "announced_date": "2024-12-01",
+   "currency": "USD",
+   "lead_investors": [
+    "Lightspeed Venture Partners"
+   ],
+   "round_type": "Series A",
+   "source_title": "VCCircle Series B (recap)",
+   "source_url": "https://www.vccircle.com/bessemerventure-partner-leads-edtech-app-seekho-s-series-b",
+   "tier": "T2"
+  },
+  {
+   "all_investors": [
+    "Bessemer Venture Partners",
+    "Goodwater Capital",
+    "Lightspeed Venture Partners",
+    "Elevation Capital"
+   ],
+   "amount": "28M",
+   "announced_date": "2025-09-03",
+   "currency": "USD",
+   "lead_investors": [
+    "Bessemer Venture Partners"
+   ],
+   "round_type": "Series B",
+   "source_title": "VCCircle: Bessemer leads Seekho Series B",
+   "source_url": "https://www.vccircle.com/bessemerventure-partner-leads-edtech-app-seekho-s-series-b",
+   "tier": "T2",
+   "valuation": "$180M (per Entrackr)"
+  },
+  {
+   "round_type": "Seed",
+   "announced_date": "2023-03-01",
+   "amount": 3000000,
+   "currency": "USD",
+   "valuation": "",
+   "valuation_currency": "",
+   "valuation_type": "",
+   "lead_investors": [
+    "Elevation Capital"
+   ],
+   "all_investors": [
+    "Elevation Capital"
+   ],
+   "instrument": "equity",
+   "purpose": "Initial product development and launch",
+   "source_url": "https://www.vccircle.com/bessemerventure-partner-leads-edtech-app-seekho-s-series-b",
+   "source_title": "VCCircle: Bessemer leads Seekho Series B",
+   "source_date": "2025-09-03",
+   "confidence": "MEDIUM"
+  },
+  {
+   "round_type": "Series A",
+   "announced_date": "2024-12-01",
+   "amount": 8000000,
+   "currency": "USD",
+   "valuation": "",
+   "valuation_currency": "",
+   "valuation_type": "",
+   "lead_investors": [
+    "Lightspeed Venture Partners"
+   ],
+   "all_investors": [
+    "Lightspeed Venture Partners"
+   ],
+   "instrument": "equity",
+   "purpose": "Scaling user base and content",
+   "source_url": "https://www.vccircle.com/bessemerventure-partner-leads-edtech-app-seekho-s-series-b",
+   "source_title": "VCCircle: Bessemer leads Seekho Series B",
+   "source_date": "2025-09-03",
+   "confidence": "MEDIUM"
+  },
+  {
+   "round_type": "Series B",
+   "announced_date": "2025-09-03",
+   "round_date": "2025-09-03",
+   "amount": 28000000,
+   "currency": "USD",
+   "valuation": 180000000,
+   "valuation_currency": "USD",
+   "valuation_type": "post-money",
+   "lead_investors": [
+    "Bessemer Venture Partners"
+   ],
+   "all_investors": [
+    "Bessemer Venture Partners",
+    "Goodwater Capital",
+    "Lightspeed Venture Partners",
+    "Elevation Capital"
+   ],
+   "instrument": "equity",
+   "purpose": "AI technology, new content formats, global expansion",
+   "source_url": "https://www.bvp.com/news/powering-indias-digital-learning-revolution-with-seekho",
+   "source_title": "Powering India's digital learning revolution with Seekho | Bessemer Venture Partners",
+   "source_date": "2025-09-03",
+   "confidence": "HIGH"
+  },
+  {
+   "round_type": "Series B",
+   "announced_date": "2025-09-03",
+   "amount": 28000000,
+   "currency": "USD",
+   "valuation": 180000000,
+   "valuation_currency": "USD",
+   "valuation_type": "post-money",
+   "lead_investors": [
+    "Bessemer Venture Partners"
+   ],
+   "all_investors": [
+    "Bessemer Venture Partners",
+    "Goodwater Capital",
+    "Lightspeed Venture Partners",
+    "Elevation Capital"
+   ],
+   "instrument": "equity",
+   "purpose": "AI technology, new content formats, global expansion",
+   "source_url": "https://entrackr.com/fintrackr/seekho-spends-rs-134-cr-on-advertising-for-rs-142-cr-revenue-in-fy25-11205187",
+   "source_title": "Seekho spends Rs 134 Cr on advertising for Rs 142 Cr revenue in FY25",
+   "source_date": "2026-03-12",
+   "confidence": "HIGH"
+  }
+ ],
+ "gaps": [
+  "CIN/registry page not surfaced in budget",
+  "Legal entity Keyaro Edutech Pvt Ltd per Crunchbase, unverified"
+ ],
+ "investor_links": [
+  {
+   "investor": "Bessemer Venture Partners",
+   "lead": true,
+   "rounds": [
+    "Series B 2025"
+   ],
+   "source_url": "https://www.vccircle.com/bessemerventure-partner-leads-edtech-app-seekho-s-series-b"
+  },
+  {
+   "investor": "Lightspeed Venture Partners",
+   "lead": true,
+   "rounds": [
+    "Series A 2024",
+    "Series B 2025"
+   ],
+   "source_url": "https://www.vccircle.com/bessemerventure-partner-leads-edtech-app-seekho-s-series-b"
+  },
+  {
+   "investor": "Elevation Capital",
+   "lead": true,
+   "rounds": [
+    "Seed 2023",
+    "Series B 2025"
+   ],
+   "source_url": "https://www.vccircle.com/bessemerventure-partner-leads-edtech-app-seekho-s-series-b"
+  },
+  {
+   "investor": "Goodwater Capital",
+   "lead": false,
+   "rounds": [
+    "Series B 2025"
+   ],
+   "source_url": "https://www.vccircle.com/bessemerventure-partner-leads-edtech-app-seekho-s-series-b"
+  }
+ ],
+ "research_log": [
+  {
+   "found": "Active; $28M Series B Sep 2025, founders, 25M MAU",
+   "query": "Seekho status 2025 2026"
+  },
+  {
+   "found": "FY25 Rs 141.5Cr revenue, Rs 38.8Cr loss; IIT Kanpur founders",
+   "query": "Seekho founders revenue FY25 MCA"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho CIN MCA Keyaro Edutech",
+   "status": "done",
+   "found": "CIN U72900RJ2020PTC071142, incorporated 21 Sep 2020, RoC-Jaipur, registered address Rajasthan",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho founders verification",
+   "status": "done",
+   "found": "Founders confirmed as Rohit Choudhary, Keertay Agarwal, Yash Banwani (IIT Kanpur). No Apoorva Ashram/Mayank Sinha found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho Sony Innovation Fund 615Pro",
+   "status": "done",
+   "found": "No evidence of Sony Innovation Fund or 615Pro investing in Seekho. Sony invested in STAN (Nov 2025), not Seekho.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho products/subscription tiers",
+   "status": "done",
+   "found": "Seekho Plus subscription at ₹149/mo (Android), ₹199/mo (iOS), ₹599/yr. No Seekho Max tier found. No B2B product.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho traction DAU downloads",
+   "status": "done",
+   "found": "25M MAU, 4M paid subscribers. No DAU or download count found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho legal matters",
+   "status": "done",
+   "found": "Consumer complaints on Voxya/LawRato/Google Play about autopay. No formal litigation found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho financials MCA",
+   "status": "done",
+   "found": "FY25 revenue Rs 141.5 Cr, loss Rs 38.8 Cr per Entrackr/RoC filing. FY24 revenue Rs 11.5 Cr.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho employee headcount",
+   "status": "done",
+   "found": "LinkedIn 51-200, PitchBook 140, Ambitionbox 60+. No precise figure.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho CIN MCA Keyaro Edutech",
+   "status": "done",
+   "found": "CIN U72900RJ2020PTC071142, incorporated 21 Sep 2020, RoC-Jaipur, registered address Rajasthan",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho founders verification",
+   "status": "done",
+   "found": "Founders confirmed as Rohit Choudhary, Keertay Agarwal, Yash Banwani (IIT Kanpur). No Apoorva Ashram/Mayank Sinha found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho Sony Innovation Fund 615Pro",
+   "status": "done",
+   "found": "No evidence of Sony Innovation Fund or 615Pro investing in Seekho. Sony invested in STAN (Nov 2025), not Seekho.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho products/subscription tiers",
+   "status": "done",
+   "found": "Seekho Plus subscription at ₹149/mo (Android), ₹199/mo (iOS), ₹599/yr. No Seekho Max tier found. No B2B product.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho traction DAU downloads",
+   "status": "done",
+   "found": "25M MAU, 4M paid subscribers. No DAU or download count found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho legal matters",
+   "status": "done",
+   "found": "Consumer complaints on Voxya/LawRato/Google Play about autopay. No formal litigation found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho financials MCA",
+   "status": "done",
+   "found": "FY25 revenue Rs 141.5 Cr, loss Rs 38.8 Cr per Entrackr/RoC filing. FY24 revenue Rs 11.5 Cr.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho employee headcount",
+   "status": "done",
+   "found": "LinkedIn 51-200, PitchBook 140, Ambitionbox 60+. No precise figure.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho CIN MCA Keyaro Edutech",
+   "status": "done",
+   "found": "CIN U72900RJ2020PTC071142, incorporated 21 Sep 2020, RoC-Jaipur, registered address Rajasthan",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho founders verification",
+   "status": "done",
+   "found": "Founders confirmed as Rohit Choudhary, Keertay Agarwal, Yash Banwani (IIT Kanpur). No Apoorva Ashram/Mayank Sinha found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho Sony Innovation Fund 615Pro",
+   "status": "done",
+   "found": "No evidence of Sony Innovation Fund or 615Pro investing in Seekho. Sony invested in STAN (Nov 2025), not Seekho.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho products/subscription tiers",
+   "status": "done",
+   "found": "Seekho Plus subscription at ₹149/mo (Android), ₹199/mo (iOS), ₹599/yr. No Seekho Max tier found. No B2B product.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho traction DAU downloads",
+   "status": "done",
+   "found": "25M MAU, 4M paid subscribers. No DAU or download count found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho legal matters",
+   "status": "done",
+   "found": "Consumer complaints on Voxya/LawRato/Google Play about autopay. No formal litigation found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho financials MCA",
+   "status": "done",
+   "found": "FY25 revenue Rs 141.5 Cr, loss Rs 38.8 Cr per Entrackr/RoC filing. FY24 revenue Rs 11.5 Cr.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho employee headcount",
+   "status": "done",
+   "found": "LinkedIn 51-200, PitchBook 140, Ambitionbox 60+. No precise figure.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho CIN MCA Keyaro Edutech",
+   "status": "done",
+   "found": "CIN U72900RJ2020PTC071142, incorporated 21 Sep 2020, RoC-Jaipur, registered address Rajasthan",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho founders verification",
+   "status": "done",
+   "found": "Founders confirmed as Rohit Choudhary, Keertay Agarwal, Yash Banwani (IIT Kanpur). No Apoorva Ashram/Mayank Sinha found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho Sony Innovation Fund 615Pro",
+   "status": "done",
+   "found": "No evidence of Sony Innovation Fund or 615Pro investing in Seekho. Sony invested in STAN (Nov 2025), not Seekho.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho products/subscription tiers",
+   "status": "done",
+   "found": "Seekho Plus subscription at ₹149/mo (Android), ₹199/mo (iOS), ₹599/yr. No Seekho Max tier found. No B2B product.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho traction DAU downloads",
+   "status": "done",
+   "found": "25M MAU, 4M paid subscribers. No DAU or download count found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho legal matters",
+   "status": "done",
+   "found": "Consumer complaints on Voxya/LawRato/Google Play about autopay. No formal litigation found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho financials MCA",
+   "status": "done",
+   "found": "FY25 revenue Rs 141.5 Cr, loss Rs 38.8 Cr per Entrackr/RoC filing. FY24 revenue Rs 11.5 Cr.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho employee headcount",
+   "status": "done",
+   "found": "LinkedIn 51-200, PitchBook 140, Ambitionbox 60+. No precise figure.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho CIN MCA Keyaro Edutech",
+   "status": "done",
+   "found": "CIN U72900RJ2020PTC071142, incorporated 21 Sep 2020, RoC-Jaipur, registered address Rajasthan",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho founders verification",
+   "status": "done",
+   "found": "Founders confirmed as Rohit Choudhary, Keertay Agarwal, Yash Banwani (IIT Kanpur). No Apoorva Ashram/Mayank Sinha found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho Sony Innovation Fund 615Pro",
+   "status": "done",
+   "found": "No evidence of Sony Innovation Fund or 615Pro investing in Seekho. Sony invested in STAN (Nov 2025), not Seekho.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho products/subscription tiers",
+   "status": "done",
+   "found": "Seekho Plus subscription at ₹149/mo (Android), ₹199/mo (iOS), ₹599/yr. No Seekho Max tier found. No B2B product.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho traction DAU downloads",
+   "status": "done",
+   "found": "25M MAU, 4M paid subscribers. No DAU or download count found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho legal matters",
+   "status": "done",
+   "found": "Consumer complaints on Voxya/LawRato/Google Play about autopay. No formal litigation found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho financials MCA",
+   "status": "done",
+   "found": "FY25 revenue Rs 141.5 Cr, loss Rs 38.8 Cr per Entrackr/RoC filing. FY24 revenue Rs 11.5 Cr.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho employee headcount",
+   "status": "done",
+   "found": "LinkedIn 51-200, PitchBook 140, Ambitionbox 60+. No precise figure.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho CIN MCA Keyaro Edutech",
+   "status": "done",
+   "found": "CIN U72900RJ2020PTC071142, incorporated 21 Sep 2020, RoC-Jaipur, registered address Rajasthan",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho founders verification",
+   "status": "done",
+   "found": "Founders confirmed as Rohit Choudhary, Keertay Agarwal, Yash Banwani (IIT Kanpur). No Apoorva Ashram/Mayank Sinha found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho Sony Innovation Fund 615Pro",
+   "status": "done",
+   "found": "No evidence of Sony Innovation Fund or 615Pro investing in Seekho. Sony invested in STAN (Nov 2025), not Seekho.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho products/subscription tiers",
+   "status": "done",
+   "found": "Seekho Plus subscription at ₹149/mo (Android), ₹199/mo (iOS), ₹599/yr. No Seekho Max tier found. No B2B product.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho traction DAU downloads",
+   "status": "done",
+   "found": "25M MAU, 4M paid subscribers. No DAU or download count found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho legal matters",
+   "status": "done",
+   "found": "Consumer complaints on Voxya/LawRato/Google Play about autopay. No formal litigation found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho financials MCA",
+   "status": "done",
+   "found": "FY25 revenue Rs 141.5 Cr, loss Rs 38.8 Cr per Entrackr/RoC filing. FY24 revenue Rs 11.5 Cr.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho employee headcount",
+   "status": "done",
+   "found": "LinkedIn 51-200, PitchBook 140, Ambitionbox 60+. No precise figure.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho CIN MCA Keyaro Edutech",
+   "status": "done",
+   "found": "CIN U72900RJ2020PTC071142, incorporated 21 Sep 2020, RoC-Jaipur, registered address Rajasthan",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho founders verification",
+   "status": "done",
+   "found": "Founders confirmed as Rohit Choudhary, Keertay Agarwal, Yash Banwani (IIT Kanpur). No Apoorva Ashram/Mayank Sinha found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho Sony Innovation Fund 615Pro",
+   "status": "done",
+   "found": "No evidence of Sony Innovation Fund or 615Pro investing in Seekho. Sony invested in STAN (Nov 2025), not Seekho.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho products/subscription tiers",
+   "status": "done",
+   "found": "Seekho Plus subscription at ₹149/mo (Android), ₹199/mo (iOS), ₹599/yr. No Seekho Max tier found. No B2B product.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho traction DAU downloads",
+   "status": "done",
+   "found": "25M MAU, 4M paid subscribers. No DAU or download count found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho legal matters",
+   "status": "done",
+   "found": "Consumer complaints on Voxya/LawRato/Google Play about autopay. No formal litigation found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho financials MCA",
+   "status": "done",
+   "found": "FY25 revenue Rs 141.5 Cr, loss Rs 38.8 Cr per Entrackr/RoC filing. FY24 revenue Rs 11.5 Cr.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho employee headcount",
+   "status": "done",
+   "found": "LinkedIn 51-200, PitchBook 140, Ambitionbox 60+. No precise figure.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho CIN MCA Keyaro Edutech",
+   "status": "done",
+   "found": "CIN U72900RJ2020PTC071142, incorporated 21 Sep 2020, RoC-Jaipur, registered address Rajasthan",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho founders verification",
+   "status": "done",
+   "found": "Founders confirmed as Rohit Choudhary, Keertay Agarwal, Yash Banwani (IIT Kanpur). No Apoorva Ashram/Mayank Sinha found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho Sony Innovation Fund 615Pro",
+   "status": "done",
+   "found": "No evidence of Sony Innovation Fund or 615Pro investing in Seekho. Sony invested in STAN (Nov 2025), not Seekho.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho products/subscription tiers",
+   "status": "done",
+   "found": "Seekho Plus subscription at ₹149/mo (Android), ₹199/mo (iOS), ₹599/yr. No Seekho Max tier found. No B2B product.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho traction DAU downloads",
+   "status": "done",
+   "found": "25M MAU, 4M paid subscribers. No DAU or download count found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho legal matters",
+   "status": "done",
+   "found": "Consumer complaints on Voxya/LawRato/Google Play about autopay. No formal litigation found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho financials MCA",
+   "status": "done",
+   "found": "FY25 revenue Rs 141.5 Cr, loss Rs 38.8 Cr per Entrackr/RoC filing. FY24 revenue Rs 11.5 Cr.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho employee headcount",
+   "status": "done",
+   "found": "LinkedIn 51-200, PitchBook 140, Ambitionbox 60+. No precise figure.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho CIN MCA Keyaro Edutech",
+   "status": "done",
+   "found": "CIN U72900RJ2020PTC071142, incorporated 21 Sep 2020, RoC-Jaipur, registered address Rajasthan",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho founders verification",
+   "status": "done",
+   "found": "Founders confirmed as Rohit Choudhary, Keertay Agarwal, Yash Banwani (IIT Kanpur). No Apoorva Ashram/Mayank Sinha found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho Sony Innovation Fund 615Pro",
+   "status": "done",
+   "found": "No evidence of Sony Innovation Fund or 615Pro investing in Seekho. Sony invested in STAN (Nov 2025), not Seekho.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho products/subscription tiers",
+   "status": "done",
+   "found": "Seekho Plus subscription at ₹149/mo (Android), ₹199/mo (iOS), ₹599/yr. No Seekho Max tier found. No B2B product.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho traction DAU downloads",
+   "status": "done",
+   "found": "25M MAU, 4M paid subscribers. No DAU or download count found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho legal matters",
+   "status": "done",
+   "found": "Consumer complaints on Voxya/LawRato/Google Play about autopay. No formal litigation found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho financials MCA",
+   "status": "done",
+   "found": "FY25 revenue Rs 141.5 Cr, loss Rs 38.8 Cr per Entrackr/RoC filing. FY24 revenue Rs 11.5 Cr.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho employee headcount",
+   "status": "done",
+   "found": "LinkedIn 51-200, PitchBook 140, Ambitionbox 60+. No precise figure.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho CIN MCA Keyaro Edutech",
+   "status": "done",
+   "found": "CIN U72900RJ2020PTC071142, incorporated 21 Sep 2020, RoC-Jaipur, registered address Rajasthan",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho founders verification",
+   "status": "done",
+   "found": "Founders confirmed as Rohit Choudhary, Keertay Agarwal, Yash Banwani (IIT Kanpur). No Apoorva Ashram/Mayank Sinha found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho Sony Innovation Fund 615Pro",
+   "status": "done",
+   "found": "No evidence of Sony Innovation Fund or 615Pro investing in Seekho. Sony invested in STAN (Nov 2025), not Seekho.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho products/subscription tiers",
+   "status": "done",
+   "found": "Seekho Plus subscription at ₹149/mo (Android), ₹199/mo (iOS), ₹599/yr. No Seekho Max tier found. No B2B product.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho traction DAU downloads",
+   "status": "done",
+   "found": "25M MAU, 4M paid subscribers. No DAU or download count found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho legal matters",
+   "status": "done",
+   "found": "Consumer complaints on Voxya/LawRato/Google Play about autopay. No formal litigation found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho financials MCA",
+   "status": "done",
+   "found": "FY25 revenue Rs 141.5 Cr, loss Rs 38.8 Cr per Entrackr/RoC filing. FY24 revenue Rs 11.5 Cr.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho employee headcount",
+   "status": "done",
+   "found": "LinkedIn 51-200, PitchBook 140, Ambitionbox 60+. No precise figure.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho CIN MCA Keyaro Edutech",
+   "status": "done",
+   "found": "CIN U72900RJ2020PTC071142, incorporated 21 Sep 2020, RoC-Jaipur, registered address Rajasthan",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho founders verification",
+   "status": "done",
+   "found": "Founders confirmed as Rohit Choudhary, Keertay Agarwal, Yash Banwani (IIT Kanpur). No Apoorva Ashram/Mayank Sinha found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho Sony Innovation Fund 615Pro",
+   "status": "done",
+   "found": "No evidence of Sony Innovation Fund or 615Pro investing in Seekho. Sony invested in STAN (Nov 2025), not Seekho.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho products/subscription tiers",
+   "status": "done",
+   "found": "Seekho Plus subscription at ₹149/mo (Android), ₹199/mo (iOS), ₹599/yr. No Seekho Max tier found. No B2B product.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho traction DAU downloads",
+   "status": "done",
+   "found": "25M MAU, 4M paid subscribers. No DAU or download count found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho legal matters",
+   "status": "done",
+   "found": "Consumer complaints on Voxya/LawRato/Google Play about autopay. No formal litigation found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho financials MCA",
+   "status": "done",
+   "found": "FY25 revenue Rs 141.5 Cr, loss Rs 38.8 Cr per Entrackr/RoC filing. FY24 revenue Rs 11.5 Cr.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho employee headcount",
+   "status": "done",
+   "found": "LinkedIn 51-200, PitchBook 140, Ambitionbox 60+. No precise figure.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho CIN MCA Keyaro Edutech",
+   "status": "done",
+   "found": "CIN U72900RJ2020PTC071142, incorporated 21 Sep 2020, RoC-Jaipur, registered address Rajasthan",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho founders verification",
+   "status": "done",
+   "found": "Founders confirmed as Rohit Choudhary, Keertay Agarwal, Yash Banwani (IIT Kanpur). No Apoorva Ashram/Mayank Sinha found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho Sony Innovation Fund 615Pro",
+   "status": "done",
+   "found": "No evidence of Sony Innovation Fund or 615Pro investing in Seekho. Sony invested in STAN (Nov 2025), not Seekho.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho products/subscription tiers",
+   "status": "done",
+   "found": "Seekho Plus subscription at ₹149/mo (Android), ₹199/mo (iOS), ₹599/yr. No Seekho Max tier found. No B2B product.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho traction DAU downloads",
+   "status": "done",
+   "found": "25M MAU, 4M paid subscribers. No DAU or download count found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho legal matters",
+   "status": "done",
+   "found": "Consumer complaints on Voxya/LawRato/Google Play about autopay. No formal litigation found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho financials MCA",
+   "status": "done",
+   "found": "FY25 revenue Rs 141.5 Cr, loss Rs 38.8 Cr per Entrackr/RoC filing. FY24 revenue Rs 11.5 Cr.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho employee headcount",
+   "status": "done",
+   "found": "LinkedIn 51-200, PitchBook 140, Ambitionbox 60+. No precise figure.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho CIN MCA Keyaro Edutech",
+   "status": "done",
+   "found": "CIN U72900RJ2020PTC071142, incorporated 21 Sep 2020, RoC-Jaipur, registered address Rajasthan",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho founders verification",
+   "status": "done",
+   "found": "Founders confirmed as Rohit Choudhary, Keertay Agarwal, Yash Banwani (IIT Kanpur). No Apoorva Ashram/Mayank Sinha found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho Sony Innovation Fund 615Pro",
+   "status": "done",
+   "found": "No evidence of Sony Innovation Fund or 615Pro investing in Seekho. Sony invested in STAN (Nov 2025), not Seekho.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho products/subscription tiers",
+   "status": "done",
+   "found": "Seekho Plus subscription at ₹149/mo (Android), ₹199/mo (iOS), ₹599/yr. No Seekho Max tier found. No B2B product.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho traction DAU downloads",
+   "status": "done",
+   "found": "25M MAU, 4M paid subscribers. No DAU or download count found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho legal matters",
+   "status": "done",
+   "found": "Consumer complaints on Voxya/LawRato/Google Play about autopay. No formal litigation found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho financials MCA",
+   "status": "done",
+   "found": "FY25 revenue Rs 141.5 Cr, loss Rs 38.8 Cr per Entrackr/RoC filing. FY24 revenue Rs 11.5 Cr.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho employee headcount",
+   "status": "done",
+   "found": "LinkedIn 51-200, PitchBook 140, Ambitionbox 60+. No precise figure.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho CIN MCA Keyaro Edutech",
+   "status": "done",
+   "found": "CIN U72900RJ2020PTC071142, incorporated 21 Sep 2020, RoC-Jaipur, registered address Rajasthan",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho founders verification",
+   "status": "done",
+   "found": "Founders confirmed as Rohit Choudhary, Keertay Agarwal, Yash Banwani (IIT Kanpur). No Apoorva Ashram/Mayank Sinha found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho Sony Innovation Fund 615Pro",
+   "status": "done",
+   "found": "No evidence of Sony Innovation Fund or 615Pro investing in Seekho. Sony invested in STAN (Nov 2025), not Seekho.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho products/subscription tiers",
+   "status": "done",
+   "found": "Seekho Plus subscription at ₹149/mo (Android), ₹199/mo (iOS), ₹599/yr. No Seekho Max tier found. No B2B product.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho traction DAU downloads",
+   "status": "done",
+   "found": "25M MAU, 4M paid subscribers. No DAU or download count found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho legal matters",
+   "status": "done",
+   "found": "Consumer complaints on Voxya/LawRato/Google Play about autopay. No formal litigation found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho financials MCA",
+   "status": "done",
+   "found": "FY25 revenue Rs 141.5 Cr, loss Rs 38.8 Cr per Entrackr/RoC filing. FY24 revenue Rs 11.5 Cr.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho employee headcount",
+   "status": "done",
+   "found": "LinkedIn 51-200, PitchBook 140, Ambitionbox 60+. No precise figure.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho CIN MCA Keyaro Edutech",
+   "status": "done",
+   "found": "CIN U72900RJ2020PTC071142, incorporated 21 Sep 2020, RoC-Jaipur, registered address Rajasthan",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho founders verification",
+   "status": "done",
+   "found": "Founders confirmed as Rohit Choudhary, Keertay Agarwal, Yash Banwani (IIT Kanpur). No Apoorva Ashram/Mayank Sinha found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho Sony Innovation Fund 615Pro",
+   "status": "done",
+   "found": "No evidence of Sony Innovation Fund or 615Pro investing in Seekho. Sony invested in STAN (Nov 2025), not Seekho.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho products/subscription tiers",
+   "status": "done",
+   "found": "Seekho Plus subscription at ₹149/mo (Android), ₹199/mo (iOS), ₹599/yr. No Seekho Max tier found. No B2B product.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho traction DAU downloads",
+   "status": "done",
+   "found": "25M MAU, 4M paid subscribers. No DAU or download count found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho legal matters",
+   "status": "done",
+   "found": "Consumer complaints on Voxya/LawRato/Google Play about autopay. No formal litigation found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho financials MCA",
+   "status": "done",
+   "found": "FY25 revenue Rs 141.5 Cr, loss Rs 38.8 Cr per Entrackr/RoC filing. FY24 revenue Rs 11.5 Cr.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho employee headcount",
+   "status": "done",
+   "found": "LinkedIn 51-200, PitchBook 140, Ambitionbox 60+. No precise figure.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho CIN MCA Keyaro Edutech",
+   "status": "done",
+   "found": "CIN U72900RJ2020PTC071142, incorporated 21 Sep 2020, RoC-Jaipur, registered address Rajasthan",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho founders verification",
+   "status": "done",
+   "found": "Founders confirmed as Rohit Choudhary, Keertay Agarwal, Yash Banwani (IIT Kanpur). No Apoorva Ashram/Mayank Sinha found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho Sony Innovation Fund 615Pro",
+   "status": "done",
+   "found": "No evidence of Sony Innovation Fund or 615Pro investing in Seekho. Sony invested in STAN (Nov 2025), not Seekho.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho products/subscription tiers",
+   "status": "done",
+   "found": "Seekho Plus subscription at ₹149/mo (Android), ₹199/mo (iOS), ₹599/yr. No Seekho Max tier found. No B2B product.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho traction DAU downloads",
+   "status": "done",
+   "found": "25M MAU, 4M paid subscribers. No DAU or download count found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho legal matters",
+   "status": "done",
+   "found": "Consumer complaints on Voxya/LawRato/Google Play about autopay. No formal litigation found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho financials MCA",
+   "status": "done",
+   "found": "FY25 revenue Rs 141.5 Cr, loss Rs 38.8 Cr per Entrackr/RoC filing. FY24 revenue Rs 11.5 Cr.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho employee headcount",
+   "status": "done",
+   "found": "LinkedIn 51-200, PitchBook 140, Ambitionbox 60+. No precise figure.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho CIN MCA Keyaro Edutech",
+   "status": "done",
+   "found": "CIN U72900RJ2020PTC071142, incorporated 21 Sep 2020, RoC-Jaipur, registered address Rajasthan",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho founders verification",
+   "status": "done",
+   "found": "Founders confirmed as Rohit Choudhary, Keertay Agarwal, Yash Banwani (IIT Kanpur). No Apoorva Ashram/Mayank Sinha found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho Sony Innovation Fund 615Pro",
+   "status": "done",
+   "found": "No evidence of Sony Innovation Fund or 615Pro investing in Seekho. Sony invested in STAN (Nov 2025), not Seekho.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho products/subscription tiers",
+   "status": "done",
+   "found": "Seekho Plus subscription at ₹149/mo (Android), ₹199/mo (iOS), ₹599/yr. No Seekho Max tier found. No B2B product.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho traction DAU downloads",
+   "status": "done",
+   "found": "25M MAU, 4M paid subscribers. No DAU or download count found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho legal matters",
+   "status": "done",
+   "found": "Consumer complaints on Voxya/LawRato/Google Play about autopay. No formal litigation found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho financials MCA",
+   "status": "done",
+   "found": "FY25 revenue Rs 141.5 Cr, loss Rs 38.8 Cr per Entrackr/RoC filing. FY24 revenue Rs 11.5 Cr.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho employee headcount",
+   "status": "done",
+   "found": "LinkedIn 51-200, PitchBook 140, Ambitionbox 60+. No precise figure.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho CIN MCA Keyaro Edutech",
+   "status": "done",
+   "found": "CIN U72900RJ2020PTC071142, incorporated 21 Sep 2020, RoC-Jaipur, registered address Rajasthan",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho founders verification",
+   "status": "done",
+   "found": "Founders confirmed as Rohit Choudhary, Keertay Agarwal, Yash Banwani (IIT Kanpur). No Apoorva Ashram/Mayank Sinha found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho Sony Innovation Fund 615Pro",
+   "status": "done",
+   "found": "No evidence of Sony Innovation Fund or 615Pro investing in Seekho. Sony invested in STAN (Nov 2025), not Seekho.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho products/subscription tiers",
+   "status": "done",
+   "found": "Seekho Plus subscription at ₹149/mo (Android), ₹199/mo (iOS), ₹599/yr. No Seekho Max tier found. No B2B product.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho traction DAU downloads",
+   "status": "done",
+   "found": "25M MAU, 4M paid subscribers. No DAU or download count found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho legal matters",
+   "status": "done",
+   "found": "Consumer complaints on Voxya/LawRato/Google Play about autopay. No formal litigation found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho financials MCA",
+   "status": "done",
+   "found": "FY25 revenue Rs 141.5 Cr, loss Rs 38.8 Cr per Entrackr/RoC filing. FY24 revenue Rs 11.5 Cr.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho employee headcount",
+   "status": "done",
+   "found": "LinkedIn 51-200, PitchBook 140, Ambitionbox 60+. No precise figure.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho CIN MCA Keyaro Edutech",
+   "status": "done",
+   "found": "CIN U72900RJ2020PTC071142, incorporated 21 Sep 2020, RoC-Jaipur, registered address Rajasthan",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho founders verification",
+   "status": "done",
+   "found": "Founders confirmed as Rohit Choudhary, Keertay Agarwal, Yash Banwani (IIT Kanpur). No Apoorva Ashram/Mayank Sinha found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho Sony Innovation Fund 615Pro",
+   "status": "done",
+   "found": "No evidence of Sony Innovation Fund or 615Pro investing in Seekho. Sony invested in STAN (Nov 2025), not Seekho.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho products/subscription tiers",
+   "status": "done",
+   "found": "Seekho Plus subscription at ₹149/mo (Android), ₹199/mo (iOS), ₹599/yr. No Seekho Max tier found. No B2B product.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho traction DAU downloads",
+   "status": "done",
+   "found": "25M MAU, 4M paid subscribers. No DAU or download count found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho legal matters",
+   "status": "done",
+   "found": "Consumer complaints on Voxya/LawRato/Google Play about autopay. No formal litigation found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho financials MCA",
+   "status": "done",
+   "found": "FY25 revenue Rs 141.5 Cr, loss Rs 38.8 Cr per Entrackr/RoC filing. FY24 revenue Rs 11.5 Cr.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho employee headcount",
+   "status": "done",
+   "found": "LinkedIn 51-200, PitchBook 140, Ambitionbox 60+. No precise figure.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho CIN MCA Keyaro Edutech",
+   "status": "done",
+   "found": "CIN U72900RJ2020PTC071142, incorporated 21 Sep 2020, RoC-Jaipur, registered address Rajasthan",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho founders verification",
+   "status": "done",
+   "found": "Founders confirmed as Rohit Choudhary, Keertay Agarwal, Yash Banwani (IIT Kanpur). No Apoorva Ashram/Mayank Sinha found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho Sony Innovation Fund 615Pro",
+   "status": "done",
+   "found": "No evidence of Sony Innovation Fund or 615Pro investing in Seekho. Sony invested in STAN (Nov 2025), not Seekho.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho products/subscription tiers",
+   "status": "done",
+   "found": "Seekho Plus subscription at ₹149/mo (Android), ₹199/mo (iOS), ₹599/yr. No Seekho Max tier found. No B2B product.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho traction DAU downloads",
+   "status": "done",
+   "found": "25M MAU, 4M paid subscribers. No DAU or download count found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho legal matters",
+   "status": "done",
+   "found": "Consumer complaints on Voxya/LawRato/Google Play about autopay. No formal litigation found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho financials MCA",
+   "status": "done",
+   "found": "FY25 revenue Rs 141.5 Cr, loss Rs 38.8 Cr per Entrackr/RoC filing. FY24 revenue Rs 11.5 Cr.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho employee headcount",
+   "status": "done",
+   "found": "LinkedIn 51-200, PitchBook 140, Ambitionbox 60+. No precise figure.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho CIN MCA Keyaro Edutech",
+   "status": "done",
+   "found": "CIN U72900RJ2020PTC071142, incorporated 21 Sep 2020, RoC-Jaipur, registered address Rajasthan",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho founders verification",
+   "status": "done",
+   "found": "Founders confirmed as Rohit Choudhary, Keertay Agarwal, Yash Banwani (IIT Kanpur). No Apoorva Ashram/Mayank Sinha found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho Sony Innovation Fund 615Pro",
+   "status": "done",
+   "found": "No evidence of Sony Innovation Fund or 615Pro investing in Seekho. Sony invested in STAN (Nov 2025), not Seekho.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho products/subscription tiers",
+   "status": "done",
+   "found": "Seekho Plus subscription at ₹149/mo (Android), ₹199/mo (iOS), ₹599/yr. No Seekho Max tier found. No B2B product.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho traction DAU downloads",
+   "status": "done",
+   "found": "25M MAU, 4M paid subscribers. No DAU or download count found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho legal matters",
+   "status": "done",
+   "found": "Consumer complaints on Voxya/LawRato/Google Play about autopay. No formal litigation found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho financials MCA",
+   "status": "done",
+   "found": "FY25 revenue Rs 141.5 Cr, loss Rs 38.8 Cr per Entrackr/RoC filing. FY24 revenue Rs 11.5 Cr.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho employee headcount",
+   "status": "done",
+   "found": "LinkedIn 51-200, PitchBook 140, Ambitionbox 60+. No precise figure.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho CIN MCA Keyaro Edutech",
+   "status": "done",
+   "found": "CIN U72900RJ2020PTC071142, incorporated 21 Sep 2020, RoC-Jaipur, registered address Rajasthan",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho founders verification",
+   "status": "done",
+   "found": "Founders confirmed as Rohit Choudhary, Keertay Agarwal, Yash Banwani (IIT Kanpur). No Apoorva Ashram/Mayank Sinha found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho Sony Innovation Fund 615Pro",
+   "status": "done",
+   "found": "No evidence of Sony Innovation Fund or 615Pro investing in Seekho. Sony invested in STAN (Nov 2025), not Seekho.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho products/subscription tiers",
+   "status": "done",
+   "found": "Seekho Plus subscription at ₹149/mo (Android), ₹199/mo (iOS), ₹599/yr. No Seekho Max tier found. No B2B product.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho traction DAU downloads",
+   "status": "done",
+   "found": "25M MAU, 4M paid subscribers. No DAU or download count found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho legal matters",
+   "status": "done",
+   "found": "Consumer complaints on Voxya/LawRato/Google Play about autopay. No formal litigation found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho financials MCA",
+   "status": "done",
+   "found": "FY25 revenue Rs 141.5 Cr, loss Rs 38.8 Cr per Entrackr/RoC filing. FY24 revenue Rs 11.5 Cr.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho employee headcount",
+   "status": "done",
+   "found": "LinkedIn 51-200, PitchBook 140, Ambitionbox 60+. No precise figure.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho CIN MCA Keyaro Edutech",
+   "status": "done",
+   "found": "CIN U72900RJ2020PTC071142, incorporated 21 Sep 2020, RoC-Jaipur, registered address Rajasthan",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho founders verification",
+   "status": "done",
+   "found": "Founders confirmed as Rohit Choudhary, Keertay Agarwal, Yash Banwani (IIT Kanpur). No Apoorva Ashram/Mayank Sinha found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho Sony Innovation Fund 615Pro",
+   "status": "done",
+   "found": "No evidence of Sony Innovation Fund or 615Pro investing in Seekho. Sony invested in STAN (Nov 2025), not Seekho.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho products/subscription tiers",
+   "status": "done",
+   "found": "Seekho Plus subscription at ₹149/mo (Android), ₹199/mo (iOS), ₹599/yr. No Seekho Max tier found. No B2B product.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho traction DAU downloads",
+   "status": "done",
+   "found": "25M MAU, 4M paid subscribers. No DAU or download count found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho legal matters",
+   "status": "done",
+   "found": "Consumer complaints on Voxya/LawRato/Google Play about autopay. No formal litigation found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho financials MCA",
+   "status": "done",
+   "found": "FY25 revenue Rs 141.5 Cr, loss Rs 38.8 Cr per Entrackr/RoC filing. FY24 revenue Rs 11.5 Cr.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho employee headcount",
+   "status": "done",
+   "found": "LinkedIn 51-200, PitchBook 140, Ambitionbox 60+. No precise figure.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho CIN MCA Keyaro Edutech",
+   "status": "done",
+   "found": "CIN U72900RJ2020PTC071142, incorporated 21 Sep 2020, RoC-Jaipur, registered address Rajasthan",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho founders verification",
+   "status": "done",
+   "found": "Founders confirmed as Rohit Choudhary, Keertay Agarwal, Yash Banwani (IIT Kanpur). No Apoorva Ashram/Mayank Sinha found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho Sony Innovation Fund 615Pro",
+   "status": "done",
+   "found": "No evidence of Sony Innovation Fund or 615Pro investing in Seekho. Sony invested in STAN (Nov 2025), not Seekho.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho products/subscription tiers",
+   "status": "done",
+   "found": "Seekho Plus subscription at ₹149/mo (Android), ₹199/mo (iOS), ₹599/yr. No Seekho Max tier found. No B2B product.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho traction DAU downloads",
+   "status": "done",
+   "found": "25M MAU, 4M paid subscribers. No DAU or download count found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho legal matters",
+   "status": "done",
+   "found": "Consumer complaints on Voxya/LawRato/Google Play about autopay. No formal litigation found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho financials MCA",
+   "status": "done",
+   "found": "FY25 revenue Rs 141.5 Cr, loss Rs 38.8 Cr per Entrackr/RoC filing. FY24 revenue Rs 11.5 Cr.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho employee headcount",
+   "status": "done",
+   "found": "LinkedIn 51-200, PitchBook 140, Ambitionbox 60+. No precise figure.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho CIN MCA Keyaro Edutech",
+   "status": "done",
+   "found": "CIN U72900RJ2020PTC071142, incorporated 21 Sep 2020, RoC-Jaipur, registered address Rajasthan",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho founders verification",
+   "status": "done",
+   "found": "Founders confirmed as Rohit Choudhary, Keertay Agarwal, Yash Banwani (IIT Kanpur). No Apoorva Ashram/Mayank Sinha found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho Sony Innovation Fund 615Pro",
+   "status": "done",
+   "found": "No evidence of Sony Innovation Fund or 615Pro investing in Seekho. Sony invested in STAN (Nov 2025), not Seekho.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho products/subscription tiers",
+   "status": "done",
+   "found": "Seekho Plus subscription at ₹149/mo (Android), ₹199/mo (iOS), ₹599/yr. No Seekho Max tier found. No B2B product.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho traction DAU downloads",
+   "status": "done",
+   "found": "25M MAU, 4M paid subscribers. No DAU or download count found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho legal matters",
+   "status": "done",
+   "found": "Consumer complaints on Voxya/LawRato/Google Play about autopay. No formal litigation found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho financials MCA",
+   "status": "done",
+   "found": "FY25 revenue Rs 141.5 Cr, loss Rs 38.8 Cr per Entrackr/RoC filing. FY24 revenue Rs 11.5 Cr.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho employee headcount",
+   "status": "done",
+   "found": "LinkedIn 51-200, PitchBook 140, Ambitionbox 60+. No precise figure.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho CIN MCA Keyaro Edutech",
+   "status": "done",
+   "found": "CIN U72900RJ2020PTC071142, incorporated 21 Sep 2020, RoC-Jaipur, registered address Rajasthan",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho founders verification",
+   "status": "done",
+   "found": "Founders confirmed as Rohit Choudhary, Keertay Agarwal, Yash Banwani (IIT Kanpur). No Apoorva Ashram/Mayank Sinha found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho Sony Innovation Fund 615Pro",
+   "status": "done",
+   "found": "No evidence of Sony Innovation Fund or 615Pro investing in Seekho. Sony invested in STAN (Nov 2025), not Seekho.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho products/subscription tiers",
+   "status": "done",
+   "found": "Seekho Plus subscription at ₹149/mo (Android), ₹199/mo (iOS), ₹599/yr. No Seekho Max tier found. No B2B product.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho traction DAU downloads",
+   "status": "done",
+   "found": "25M MAU, 4M paid subscribers. No DAU or download count found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho legal matters",
+   "status": "done",
+   "found": "Consumer complaints on Voxya/LawRato/Google Play about autopay. No formal litigation found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho financials MCA",
+   "status": "done",
+   "found": "FY25 revenue Rs 141.5 Cr, loss Rs 38.8 Cr per Entrackr/RoC filing. FY24 revenue Rs 11.5 Cr.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho employee headcount",
+   "status": "done",
+   "found": "LinkedIn 51-200, PitchBook 140, Ambitionbox 60+. No precise figure.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho CIN MCA Keyaro Edutech",
+   "status": "done",
+   "found": "CIN U72900RJ2020PTC071142, incorporated 21 Sep 2020, RoC-Jaipur, registered address Rajasthan",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho founders verification",
+   "status": "done",
+   "found": "Founders confirmed as Rohit Choudhary, Keertay Agarwal, Yash Banwani (IIT Kanpur). No Apoorva Ashram/Mayank Sinha found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho Sony Innovation Fund 615Pro",
+   "status": "done",
+   "found": "No evidence of Sony Innovation Fund or 615Pro investing in Seekho. Sony invested in STAN (Nov 2025), not Seekho.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho products/subscription tiers",
+   "status": "done",
+   "found": "Seekho Plus subscription at ₹149/mo (Android), ₹199/mo (iOS), ₹599/yr. No Seekho Max tier found. No B2B product.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho traction DAU downloads",
+   "status": "done",
+   "found": "25M MAU, 4M paid subscribers. No DAU or download count found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho legal matters",
+   "status": "done",
+   "found": "Consumer complaints on Voxya/LawRato/Google Play about autopay. No formal litigation found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho financials MCA",
+   "status": "done",
+   "found": "FY25 revenue Rs 141.5 Cr, loss Rs 38.8 Cr per Entrackr/RoC filing. FY24 revenue Rs 11.5 Cr.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho employee headcount",
+   "status": "done",
+   "found": "LinkedIn 51-200, PitchBook 140, Ambitionbox 60+. No precise figure.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho CIN MCA Keyaro Edutech",
+   "status": "done",
+   "found": "CIN U72900RJ2020PTC071142, incorporated 21 Sep 2020, RoC-Jaipur, registered address Rajasthan",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho founders verification",
+   "status": "done",
+   "found": "Founders confirmed as Rohit Choudhary, Keertay Agarwal, Yash Banwani (IIT Kanpur). No Apoorva Ashram/Mayank Sinha found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho Sony Innovation Fund 615Pro",
+   "status": "done",
+   "found": "No evidence of Sony Innovation Fund or 615Pro investing in Seekho. Sony invested in STAN (Nov 2025), not Seekho.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho products/subscription tiers",
+   "status": "done",
+   "found": "Seekho Plus subscription at ₹149/mo (Android), ₹199/mo (iOS), ₹599/yr. No Seekho Max tier found. No B2B product.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho traction DAU downloads",
+   "status": "done",
+   "found": "25M MAU, 4M paid subscribers. No DAU or download count found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho legal matters",
+   "status": "done",
+   "found": "Consumer complaints on Voxya/LawRato/Google Play about autopay. No formal litigation found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho financials MCA",
+   "status": "done",
+   "found": "FY25 revenue Rs 141.5 Cr, loss Rs 38.8 Cr per Entrackr/RoC filing. FY24 revenue Rs 11.5 Cr.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho employee headcount",
+   "status": "done",
+   "found": "LinkedIn 51-200, PitchBook 140, Ambitionbox 60+. No precise figure.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho CIN MCA Keyaro Edutech",
+   "status": "done",
+   "found": "CIN U72900RJ2020PTC071142, incorporated 21 Sep 2020, RoC-Jaipur, registered address Rajasthan",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho founders verification",
+   "status": "done",
+   "found": "Founders confirmed as Rohit Choudhary, Keertay Agarwal, Yash Banwani (IIT Kanpur). No Apoorva Ashram/Mayank Sinha found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho Sony Innovation Fund 615Pro",
+   "status": "done",
+   "found": "No evidence of Sony Innovation Fund or 615Pro investing in Seekho. Sony invested in STAN (Nov 2025), not Seekho.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho products/subscription tiers",
+   "status": "done",
+   "found": "Seekho Plus subscription at ₹149/mo (Android), ₹199/mo (iOS), ₹599/yr. No Seekho Max tier found. No B2B product.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho traction DAU downloads",
+   "status": "done",
+   "found": "25M MAU, 4M paid subscribers. No DAU or download count found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho legal matters",
+   "status": "done",
+   "found": "Consumer complaints on Voxya/LawRato/Google Play about autopay. No formal litigation found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho financials MCA",
+   "status": "done",
+   "found": "FY25 revenue Rs 141.5 Cr, loss Rs 38.8 Cr per Entrackr/RoC filing. FY24 revenue Rs 11.5 Cr.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho employee headcount",
+   "status": "done",
+   "found": "LinkedIn 51-200, PitchBook 140, Ambitionbox 60+. No precise figure.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho CIN MCA Keyaro Edutech",
+   "status": "done",
+   "found": "CIN U72900RJ2020PTC071142, incorporated 21 Sep 2020, RoC-Jaipur, registered address Rajasthan",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho founders verification",
+   "status": "done",
+   "found": "Founders confirmed as Rohit Choudhary, Keertay Agarwal, Yash Banwani (IIT Kanpur). No Apoorva Ashram/Mayank Sinha found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho Sony Innovation Fund 615Pro",
+   "status": "done",
+   "found": "No evidence of Sony Innovation Fund or 615Pro investing in Seekho. Sony invested in STAN (Nov 2025), not Seekho.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho products/subscription tiers",
+   "status": "done",
+   "found": "Seekho Plus subscription at ₹149/mo (Android), ₹199/mo (iOS), ₹599/yr. No Seekho Max tier found. No B2B product.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho traction DAU downloads",
+   "status": "done",
+   "found": "25M MAU, 4M paid subscribers. No DAU or download count found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho legal matters",
+   "status": "done",
+   "found": "Consumer complaints on Voxya/LawRato/Google Play about autopay. No formal litigation found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho financials MCA",
+   "status": "done",
+   "found": "FY25 revenue Rs 141.5 Cr, loss Rs 38.8 Cr per Entrackr/RoC filing. FY24 revenue Rs 11.5 Cr.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho employee headcount",
+   "status": "done",
+   "found": "LinkedIn 51-200, PitchBook 140, Ambitionbox 60+. No precise figure.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho CIN MCA Keyaro Edutech",
+   "status": "done",
+   "found": "CIN U72900RJ2020PTC071142, incorporated 21 Sep 2020, RoC-Jaipur, registered address Rajasthan",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho founders verification",
+   "status": "done",
+   "found": "Founders confirmed as Rohit Choudhary, Keertay Agarwal, Yash Banwani (IIT Kanpur). No Apoorva Ashram/Mayank Sinha found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho Sony Innovation Fund 615Pro",
+   "status": "done",
+   "found": "No evidence of Sony Innovation Fund or 615Pro investing in Seekho. Sony invested in STAN (Nov 2025), not Seekho.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho products/subscription tiers",
+   "status": "done",
+   "found": "Seekho Plus subscription at ₹149/mo (Android), ₹199/mo (iOS), ₹599/yr. No Seekho Max tier found. No B2B product.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho traction DAU downloads",
+   "status": "done",
+   "found": "25M MAU, 4M paid subscribers. No DAU or download count found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho legal matters",
+   "status": "done",
+   "found": "Consumer complaints on Voxya/LawRato/Google Play about autopay. No formal litigation found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho financials MCA",
+   "status": "done",
+   "found": "FY25 revenue Rs 141.5 Cr, loss Rs 38.8 Cr per Entrackr/RoC filing. FY24 revenue Rs 11.5 Cr.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho employee headcount",
+   "status": "done",
+   "found": "LinkedIn 51-200, PitchBook 140, Ambitionbox 60+. No precise figure.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho CIN MCA Keyaro Edutech",
+   "status": "done",
+   "found": "CIN U72900RJ2020PTC071142, incorporated 21 Sep 2020, RoC-Jaipur, registered address Rajasthan",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho founders verification",
+   "status": "done",
+   "found": "Founders confirmed as Rohit Choudhary, Keertay Agarwal, Yash Banwani (IIT Kanpur). No Apoorva Ashram/Mayank Sinha found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho Sony Innovation Fund 615Pro",
+   "status": "done",
+   "found": "No evidence of Sony Innovation Fund or 615Pro investing in Seekho. Sony invested in STAN (Nov 2025), not Seekho.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho products/subscription tiers",
+   "status": "done",
+   "found": "Seekho Plus subscription at ₹149/mo (Android), ₹199/mo (iOS), ₹599/yr. No Seekho Max tier found. No B2B product.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho traction DAU downloads",
+   "status": "done",
+   "found": "25M MAU, 4M paid subscribers. No DAU or download count found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho legal matters",
+   "status": "done",
+   "found": "Consumer complaints on Voxya/LawRato/Google Play about autopay. No formal litigation found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho financials MCA",
+   "status": "done",
+   "found": "FY25 revenue Rs 141.5 Cr, loss Rs 38.8 Cr per Entrackr/RoC filing. FY24 revenue Rs 11.5 Cr.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho employee headcount",
+   "status": "done",
+   "found": "LinkedIn 51-200, PitchBook 140, Ambitionbox 60+. No precise figure.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho CIN MCA Keyaro Edutech",
+   "status": "done",
+   "found": "CIN U72900RJ2020PTC071142, incorporated 21 Sep 2020, RoC-Jaipur, registered address Rajasthan",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho founders verification",
+   "status": "done",
+   "found": "Founders confirmed as Rohit Choudhary, Keertay Agarwal, Yash Banwani (IIT Kanpur). No Apoorva Ashram/Mayank Sinha found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho Sony Innovation Fund 615Pro",
+   "status": "done",
+   "found": "No evidence of Sony Innovation Fund or 615Pro investing in Seekho. Sony invested in STAN (Nov 2025), not Seekho.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho products/subscription tiers",
+   "status": "done",
+   "found": "Seekho Plus subscription at ₹149/mo (Android), ₹199/mo (iOS), ₹599/yr. No Seekho Max tier found. No B2B product.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho traction DAU downloads",
+   "status": "done",
+   "found": "25M MAU, 4M paid subscribers. No DAU or download count found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho legal matters",
+   "status": "done",
+   "found": "Consumer complaints on Voxya/LawRato/Google Play about autopay. No formal litigation found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho financials MCA",
+   "status": "done",
+   "found": "FY25 revenue Rs 141.5 Cr, loss Rs 38.8 Cr per Entrackr/RoC filing. FY24 revenue Rs 11.5 Cr.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho employee headcount",
+   "status": "done",
+   "found": "LinkedIn 51-200, PitchBook 140, Ambitionbox 60+. No precise figure.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho CIN MCA Keyaro Edutech",
+   "status": "done",
+   "found": "CIN U72900RJ2020PTC071142, incorporated 21 Sep 2020, RoC-Jaipur, registered address Rajasthan",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho founders verification",
+   "status": "done",
+   "found": "Founders confirmed as Rohit Choudhary, Keertay Agarwal, Yash Banwani (IIT Kanpur). No Apoorva Ashram/Mayank Sinha found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho Sony Innovation Fund 615Pro",
+   "status": "done",
+   "found": "No evidence of Sony Innovation Fund or 615Pro investing in Seekho. Sony invested in STAN (Nov 2025), not Seekho.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho products/subscription tiers",
+   "status": "done",
+   "found": "Seekho Plus subscription at ₹149/mo (Android), ₹199/mo (iOS), ₹599/yr. No Seekho Max tier found. No B2B product.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho traction DAU downloads",
+   "status": "done",
+   "found": "25M MAU, 4M paid subscribers. No DAU or download count found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho legal matters",
+   "status": "done",
+   "found": "Consumer complaints on Voxya/LawRato/Google Play about autopay. No formal litigation found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho financials MCA",
+   "status": "done",
+   "found": "FY25 revenue Rs 141.5 Cr, loss Rs 38.8 Cr per Entrackr/RoC filing. FY24 revenue Rs 11.5 Cr.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho employee headcount",
+   "status": "done",
+   "found": "LinkedIn 51-200, PitchBook 140, Ambitionbox 60+. No precise figure.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho CIN MCA Keyaro Edutech",
+   "status": "done",
+   "found": "CIN U72900RJ2020PTC071142, incorporated 21 Sep 2020, RoC-Jaipur, registered address Rajasthan",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho founders verification",
+   "status": "done",
+   "found": "Founders confirmed as Rohit Choudhary, Keertay Agarwal, Yash Banwani (IIT Kanpur). No Apoorva Ashram/Mayank Sinha found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho Sony Innovation Fund 615Pro",
+   "status": "done",
+   "found": "No evidence of Sony Innovation Fund or 615Pro investing in Seekho. Sony invested in STAN (Nov 2025), not Seekho.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho products/subscription tiers",
+   "status": "done",
+   "found": "Seekho Plus subscription at ₹149/mo (Android), ₹199/mo (iOS), ₹599/yr. No Seekho Max tier found. No B2B product.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho traction DAU downloads",
+   "status": "done",
+   "found": "25M MAU, 4M paid subscribers. No DAU or download count found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho legal matters",
+   "status": "done",
+   "found": "Consumer complaints on Voxya/LawRato/Google Play about autopay. No formal litigation found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho financials MCA",
+   "status": "done",
+   "found": "FY25 revenue Rs 141.5 Cr, loss Rs 38.8 Cr per Entrackr/RoC filing. FY24 revenue Rs 11.5 Cr.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho employee headcount",
+   "status": "done",
+   "found": "LinkedIn 51-200, PitchBook 140, Ambitionbox 60+. No precise figure.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho CIN MCA Keyaro Edutech",
+   "status": "done",
+   "found": "CIN U72900RJ2020PTC071142, incorporated 21 Sep 2020, RoC-Jaipur, registered address Rajasthan",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho founders verification",
+   "status": "done",
+   "found": "Founders confirmed as Rohit Choudhary, Keertay Agarwal, Yash Banwani (IIT Kanpur). No Apoorva Ashram/Mayank Sinha found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho Sony Innovation Fund 615Pro",
+   "status": "done",
+   "found": "No evidence of Sony Innovation Fund or 615Pro investing in Seekho. Sony invested in STAN (Nov 2025), not Seekho.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho products/subscription tiers",
+   "status": "done",
+   "found": "Seekho Plus subscription at ₹149/mo (Android), ₹199/mo (iOS), ₹599/yr. No Seekho Max tier found. No B2B product.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho traction DAU downloads",
+   "status": "done",
+   "found": "25M MAU, 4M paid subscribers. No DAU or download count found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho legal matters",
+   "status": "done",
+   "found": "Consumer complaints on Voxya/LawRato/Google Play about autopay. No formal litigation found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho financials MCA",
+   "status": "done",
+   "found": "FY25 revenue Rs 141.5 Cr, loss Rs 38.8 Cr per Entrackr/RoC filing. FY24 revenue Rs 11.5 Cr.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho employee headcount",
+   "status": "done",
+   "found": "LinkedIn 51-200, PitchBook 140, Ambitionbox 60+. No precise figure.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho CIN MCA Keyaro Edutech",
+   "status": "done",
+   "found": "CIN U72900RJ2020PTC071142, incorporated 21 Sep 2020, RoC-Jaipur, registered address Rajasthan",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho founders verification",
+   "status": "done",
+   "found": "Founders confirmed as Rohit Choudhary, Keertay Agarwal, Yash Banwani (IIT Kanpur). No Apoorva Ashram/Mayank Sinha found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho Sony Innovation Fund 615Pro",
+   "status": "done",
+   "found": "No evidence of Sony Innovation Fund or 615Pro investing in Seekho. Sony invested in STAN (Nov 2025), not Seekho.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho products/subscription tiers",
+   "status": "done",
+   "found": "Seekho Plus subscription at ₹149/mo (Android), ₹199/mo (iOS), ₹599/yr. No Seekho Max tier found. No B2B product.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho traction DAU downloads",
+   "status": "done",
+   "found": "25M MAU, 4M paid subscribers. No DAU or download count found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho legal matters",
+   "status": "done",
+   "found": "Consumer complaints on Voxya/LawRato/Google Play about autopay. No formal litigation found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho financials MCA",
+   "status": "done",
+   "found": "FY25 revenue Rs 141.5 Cr, loss Rs 38.8 Cr per Entrackr/RoC filing. FY24 revenue Rs 11.5 Cr.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho employee headcount",
+   "status": "done",
+   "found": "LinkedIn 51-200, PitchBook 140, Ambitionbox 60+. No precise figure.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho CIN MCA Keyaro Edutech",
+   "status": "done",
+   "found": "CIN U72900RJ2020PTC071142, incorporated 21 Sep 2020, RoC-Jaipur, registered address Rajasthan",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho founders verification",
+   "status": "done",
+   "found": "Founders confirmed as Rohit Choudhary, Keertay Agarwal, Yash Banwani (IIT Kanpur). No Apoorva Ashram/Mayank Sinha found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho Sony Innovation Fund 615Pro",
+   "status": "done",
+   "found": "No evidence of Sony Innovation Fund or 615Pro investing in Seekho. Sony invested in STAN (Nov 2025), not Seekho.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho products/subscription tiers",
+   "status": "done",
+   "found": "Seekho Plus subscription at ₹149/mo (Android), ₹199/mo (iOS), ₹599/yr. No Seekho Max tier found. No B2B product.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho traction DAU downloads",
+   "status": "done",
+   "found": "25M MAU, 4M paid subscribers. No DAU or download count found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho legal matters",
+   "status": "done",
+   "found": "Consumer complaints on Voxya/LawRato/Google Play about autopay. No formal litigation found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho financials MCA",
+   "status": "done",
+   "found": "FY25 revenue Rs 141.5 Cr, loss Rs 38.8 Cr per Entrackr/RoC filing. FY24 revenue Rs 11.5 Cr.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho employee headcount",
+   "status": "done",
+   "found": "LinkedIn 51-200, PitchBook 140, Ambitionbox 60+. No precise figure.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho CIN MCA Keyaro Edutech",
+   "status": "done",
+   "found": "CIN U72900RJ2020PTC071142, incorporated 21 Sep 2020, RoC-Jaipur, registered address Rajasthan",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho founders verification",
+   "status": "done",
+   "found": "Founders confirmed as Rohit Choudhary, Keertay Agarwal, Yash Banwani (IIT Kanpur). No Apoorva Ashram/Mayank Sinha found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho Sony Innovation Fund 615Pro",
+   "status": "done",
+   "found": "No evidence of Sony Innovation Fund or 615Pro investing in Seekho. Sony invested in STAN (Nov 2025), not Seekho.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho products/subscription tiers",
+   "status": "done",
+   "found": "Seekho Plus subscription at ₹149/mo (Android), ₹199/mo (iOS), ₹599/yr. No Seekho Max tier found. No B2B product.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho traction DAU downloads",
+   "status": "done",
+   "found": "25M MAU, 4M paid subscribers. No DAU or download count found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho legal matters",
+   "status": "done",
+   "found": "Consumer complaints on Voxya/LawRato/Google Play about autopay. No formal litigation found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho financials MCA",
+   "status": "done",
+   "found": "FY25 revenue Rs 141.5 Cr, loss Rs 38.8 Cr per Entrackr/RoC filing. FY24 revenue Rs 11.5 Cr.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho employee headcount",
+   "status": "done",
+   "found": "LinkedIn 51-200, PitchBook 140, Ambitionbox 60+. No precise figure.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho CIN MCA Keyaro Edutech",
+   "status": "done",
+   "found": "CIN U72900RJ2020PTC071142, incorporated 21 Sep 2020, RoC-Jaipur, registered address Rajasthan",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho founders verification",
+   "status": "done",
+   "found": "Founders confirmed as Rohit Choudhary, Keertay Agarwal, Yash Banwani (IIT Kanpur). No Apoorva Ashram/Mayank Sinha found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho Sony Innovation Fund 615Pro",
+   "status": "done",
+   "found": "No evidence of Sony Innovation Fund or 615Pro investing in Seekho. Sony invested in STAN (Nov 2025), not Seekho.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho products/subscription tiers",
+   "status": "done",
+   "found": "Seekho Plus subscription at ₹149/mo (Android), ₹199/mo (iOS), ₹599/yr. No Seekho Max tier found. No B2B product.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho traction DAU downloads",
+   "status": "done",
+   "found": "25M MAU, 4M paid subscribers. No DAU or download count found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho legal matters",
+   "status": "done",
+   "found": "Consumer complaints on Voxya/LawRato/Google Play about autopay. No formal litigation found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho financials MCA",
+   "status": "done",
+   "found": "FY25 revenue Rs 141.5 Cr, loss Rs 38.8 Cr per Entrackr/RoC filing. FY24 revenue Rs 11.5 Cr.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho employee headcount",
+   "status": "done",
+   "found": "LinkedIn 51-200, PitchBook 140, Ambitionbox 60+. No precise figure.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho CIN MCA Keyaro Edutech",
+   "status": "done",
+   "found": "CIN U72900RJ2020PTC071142, incorporated 21 Sep 2020, RoC-Jaipur, registered address Rajasthan",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho founders verification",
+   "status": "done",
+   "found": "Founders confirmed as Rohit Choudhary, Keertay Agarwal, Yash Banwani (IIT Kanpur). No Apoorva Ashram/Mayank Sinha found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho Sony Innovation Fund 615Pro",
+   "status": "done",
+   "found": "No evidence of Sony Innovation Fund or 615Pro investing in Seekho. Sony invested in STAN (Nov 2025), not Seekho.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho products/subscription tiers",
+   "status": "done",
+   "found": "Seekho Plus subscription at ₹149/mo (Android), ₹199/mo (iOS), ₹599/yr. No Seekho Max tier found. No B2B product.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho traction DAU downloads",
+   "status": "done",
+   "found": "25M MAU, 4M paid subscribers. No DAU or download count found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho legal matters",
+   "status": "done",
+   "found": "Consumer complaints on Voxya/LawRato/Google Play about autopay. No formal litigation found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho financials MCA",
+   "status": "done",
+   "found": "FY25 revenue Rs 141.5 Cr, loss Rs 38.8 Cr per Entrackr/RoC filing. FY24 revenue Rs 11.5 Cr.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho employee headcount",
+   "status": "done",
+   "found": "LinkedIn 51-200, PitchBook 140, Ambitionbox 60+. No precise figure.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho CIN MCA Keyaro Edutech",
+   "status": "done",
+   "found": "CIN U72900RJ2020PTC071142, incorporated 21 Sep 2020, RoC-Jaipur, registered address Rajasthan",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho founders verification",
+   "status": "done",
+   "found": "Founders confirmed as Rohit Choudhary, Keertay Agarwal, Yash Banwani (IIT Kanpur). No Apoorva Ashram/Mayank Sinha found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho Sony Innovation Fund 615Pro",
+   "status": "done",
+   "found": "No evidence of Sony Innovation Fund or 615Pro investing in Seekho. Sony invested in STAN (Nov 2025), not Seekho.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho products/subscription tiers",
+   "status": "done",
+   "found": "Seekho Plus subscription at ₹149/mo (Android), ₹199/mo (iOS), ₹599/yr. No Seekho Max tier found. No B2B product.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho traction DAU downloads",
+   "status": "done",
+   "found": "25M MAU, 4M paid subscribers. No DAU or download count found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho legal matters",
+   "status": "done",
+   "found": "Consumer complaints on Voxya/LawRato/Google Play about autopay. No formal litigation found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho financials MCA",
+   "status": "done",
+   "found": "FY25 revenue Rs 141.5 Cr, loss Rs 38.8 Cr per Entrackr/RoC filing. FY24 revenue Rs 11.5 Cr.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho employee headcount",
+   "status": "done",
+   "found": "LinkedIn 51-200, PitchBook 140, Ambitionbox 60+. No precise figure.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho CIN MCA Keyaro Edutech",
+   "status": "done",
+   "found": "CIN U72900RJ2020PTC071142, incorporated 21 Sep 2020, RoC-Jaipur, registered address Rajasthan",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho founders verification",
+   "status": "done",
+   "found": "Founders confirmed as Rohit Choudhary, Keertay Agarwal, Yash Banwani (IIT Kanpur). No Apoorva Ashram/Mayank Sinha found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho Sony Innovation Fund 615Pro",
+   "status": "done",
+   "found": "No evidence of Sony Innovation Fund or 615Pro investing in Seekho. Sony invested in STAN (Nov 2025), not Seekho.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho products/subscription tiers",
+   "status": "done",
+   "found": "Seekho Plus subscription at ₹149/mo (Android), ₹199/mo (iOS), ₹599/yr. No Seekho Max tier found. No B2B product.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho traction DAU downloads",
+   "status": "done",
+   "found": "25M MAU, 4M paid subscribers. No DAU or download count found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho legal matters",
+   "status": "done",
+   "found": "Consumer complaints on Voxya/LawRato/Google Play about autopay. No formal litigation found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho financials MCA",
+   "status": "done",
+   "found": "FY25 revenue Rs 141.5 Cr, loss Rs 38.8 Cr per Entrackr/RoC filing. FY24 revenue Rs 11.5 Cr.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho employee headcount",
+   "status": "done",
+   "found": "LinkedIn 51-200, PitchBook 140, Ambitionbox 60+. No precise figure.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho CIN MCA Keyaro Edutech",
+   "status": "done",
+   "found": "CIN U72900RJ2020PTC071142, incorporated 21 Sep 2020, RoC-Jaipur, registered address Rajasthan",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho founders verification",
+   "status": "done",
+   "found": "Founders confirmed as Rohit Choudhary, Keertay Agarwal, Yash Banwani (IIT Kanpur). No Apoorva Ashram/Mayank Sinha found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho Sony Innovation Fund 615Pro",
+   "status": "done",
+   "found": "No evidence of Sony Innovation Fund or 615Pro investing in Seekho. Sony invested in STAN (Nov 2025), not Seekho.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho products/subscription tiers",
+   "status": "done",
+   "found": "Seekho Plus subscription at ₹149/mo (Android), ₹199/mo (iOS), ₹599/yr. No Seekho Max tier found. No B2B product.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho traction DAU downloads",
+   "status": "done",
+   "found": "25M MAU, 4M paid subscribers. No DAU or download count found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho legal matters",
+   "status": "done",
+   "found": "Consumer complaints on Voxya/LawRato/Google Play about autopay. No formal litigation found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho financials MCA",
+   "status": "done",
+   "found": "FY25 revenue Rs 141.5 Cr, loss Rs 38.8 Cr per Entrackr/RoC filing. FY24 revenue Rs 11.5 Cr.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho employee headcount",
+   "status": "done",
+   "found": "LinkedIn 51-200, PitchBook 140, Ambitionbox 60+. No precise figure.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho CIN MCA Keyaro Edutech",
+   "status": "done",
+   "found": "CIN U72900RJ2020PTC071142, incorporated 21 Sep 2020, RoC-Jaipur, registered address Rajasthan",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho founders verification",
+   "status": "done",
+   "found": "Founders confirmed as Rohit Choudhary, Keertay Agarwal, Yash Banwani (IIT Kanpur). No Apoorva Ashram/Mayank Sinha found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho Sony Innovation Fund 615Pro",
+   "status": "done",
+   "found": "No evidence of Sony Innovation Fund or 615Pro investing in Seekho. Sony invested in STAN (Nov 2025), not Seekho.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho products/subscription tiers",
+   "status": "done",
+   "found": "Seekho Plus subscription at ₹149/mo (Android), ₹199/mo (iOS), ₹599/yr. No Seekho Max tier found. No B2B product.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho traction DAU downloads",
+   "status": "done",
+   "found": "25M MAU, 4M paid subscribers. No DAU or download count found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho legal matters",
+   "status": "done",
+   "found": "Consumer complaints on Voxya/LawRato/Google Play about autopay. No formal litigation found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho financials MCA",
+   "status": "done",
+   "found": "FY25 revenue Rs 141.5 Cr, loss Rs 38.8 Cr per Entrackr/RoC filing. FY24 revenue Rs 11.5 Cr.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho employee headcount",
+   "status": "done",
+   "found": "LinkedIn 51-200, PitchBook 140, Ambitionbox 60+. No precise figure.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho CIN MCA Keyaro Edutech",
+   "status": "done",
+   "found": "CIN U72900RJ2020PTC071142, incorporated 21 Sep 2020, RoC-Jaipur, registered address Rajasthan",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho founders verification",
+   "status": "done",
+   "found": "Founders confirmed as Rohit Choudhary, Keertay Agarwal, Yash Banwani (IIT Kanpur). No Apoorva Ashram/Mayank Sinha found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho Sony Innovation Fund 615Pro",
+   "status": "done",
+   "found": "No evidence of Sony Innovation Fund or 615Pro investing in Seekho. Sony invested in STAN (Nov 2025), not Seekho.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho products/subscription tiers",
+   "status": "done",
+   "found": "Seekho Plus subscription at ₹149/mo (Android), ₹199/mo (iOS), ₹599/yr. No Seekho Max tier found. No B2B product.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho traction DAU downloads",
+   "status": "done",
+   "found": "25M MAU, 4M paid subscribers. No DAU or download count found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho legal matters",
+   "status": "done",
+   "found": "Consumer complaints on Voxya/LawRato/Google Play about autopay. No formal litigation found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho financials MCA",
+   "status": "done",
+   "found": "FY25 revenue Rs 141.5 Cr, loss Rs 38.8 Cr per Entrackr/RoC filing. FY24 revenue Rs 11.5 Cr.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho employee headcount",
+   "status": "done",
+   "found": "LinkedIn 51-200, PitchBook 140, Ambitionbox 60+. No precise figure.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho CIN MCA Keyaro Edutech",
+   "status": "done",
+   "found": "CIN U72900RJ2020PTC071142, incorporated 21 Sep 2020, RoC-Jaipur, registered address Rajasthan",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho founders verification",
+   "status": "done",
+   "found": "Founders confirmed as Rohit Choudhary, Keertay Agarwal, Yash Banwani (IIT Kanpur). No Apoorva Ashram/Mayank Sinha found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho Sony Innovation Fund 615Pro",
+   "status": "done",
+   "found": "No evidence of Sony Innovation Fund or 615Pro investing in Seekho. Sony invested in STAN (Nov 2025), not Seekho.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho products/subscription tiers",
+   "status": "done",
+   "found": "Seekho Plus subscription at ₹149/mo (Android), ₹199/mo (iOS), ₹599/yr. No Seekho Max tier found. No B2B product.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho traction DAU downloads",
+   "status": "done",
+   "found": "25M MAU, 4M paid subscribers. No DAU or download count found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho legal matters",
+   "status": "done",
+   "found": "Consumer complaints on Voxya/LawRato/Google Play about autopay. No formal litigation found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho financials MCA",
+   "status": "done",
+   "found": "FY25 revenue Rs 141.5 Cr, loss Rs 38.8 Cr per Entrackr/RoC filing. FY24 revenue Rs 11.5 Cr.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho employee headcount",
+   "status": "done",
+   "found": "LinkedIn 51-200, PitchBook 140, Ambitionbox 60+. No precise figure.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho CIN MCA Keyaro Edutech",
+   "status": "done",
+   "found": "CIN U72900RJ2020PTC071142, incorporated 21 Sep 2020, RoC-Jaipur, registered address Rajasthan",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho founders verification",
+   "status": "done",
+   "found": "Founders confirmed as Rohit Choudhary, Keertay Agarwal, Yash Banwani (IIT Kanpur). No Apoorva Ashram/Mayank Sinha found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho Sony Innovation Fund 615Pro",
+   "status": "done",
+   "found": "No evidence of Sony Innovation Fund or 615Pro investing in Seekho. Sony invested in STAN (Nov 2025), not Seekho.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho products/subscription tiers",
+   "status": "done",
+   "found": "Seekho Plus subscription at ₹149/mo (Android), ₹199/mo (iOS), ₹599/yr. No Seekho Max tier found. No B2B product.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho traction DAU downloads",
+   "status": "done",
+   "found": "25M MAU, 4M paid subscribers. No DAU or download count found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho legal matters",
+   "status": "done",
+   "found": "Consumer complaints on Voxya/LawRato/Google Play about autopay. No formal litigation found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho financials MCA",
+   "status": "done",
+   "found": "FY25 revenue Rs 141.5 Cr, loss Rs 38.8 Cr per Entrackr/RoC filing. FY24 revenue Rs 11.5 Cr.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho employee headcount",
+   "status": "done",
+   "found": "LinkedIn 51-200, PitchBook 140, Ambitionbox 60+. No precise figure.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho CIN MCA Keyaro Edutech",
+   "status": "done",
+   "found": "CIN U72900RJ2020PTC071142, incorporated 21 Sep 2020, RoC-Jaipur, registered address Rajasthan",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho founders verification",
+   "status": "done",
+   "found": "Founders confirmed as Rohit Choudhary, Keertay Agarwal, Yash Banwani (IIT Kanpur). No Apoorva Ashram/Mayank Sinha found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho Sony Innovation Fund 615Pro",
+   "status": "done",
+   "found": "No evidence of Sony Innovation Fund or 615Pro investing in Seekho. Sony invested in STAN (Nov 2025), not Seekho.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho products/subscription tiers",
+   "status": "done",
+   "found": "Seekho Plus subscription at ₹149/mo (Android), ₹199/mo (iOS), ₹599/yr. No Seekho Max tier found. No B2B product.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho traction DAU downloads",
+   "status": "done",
+   "found": "25M MAU, 4M paid subscribers. No DAU or download count found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho legal matters",
+   "status": "done",
+   "found": "Consumer complaints on Voxya/LawRato/Google Play about autopay. No formal litigation found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho financials MCA",
+   "status": "done",
+   "found": "FY25 revenue Rs 141.5 Cr, loss Rs 38.8 Cr per Entrackr/RoC filing. FY24 revenue Rs 11.5 Cr.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Seekho employee headcount",
+   "status": "done",
+   "found": "LinkedIn 51-200, PitchBook 140, Ambitionbox 60+. No precise figure.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  }
+ ],
+ "sources": [
+  {
+   "publication_date": "2025-09-03",
+   "publisher": "VCCircle",
+   "title": "Bessemer leads Seekho Series B $28M",
+   "url": "https://www.vccircle.com/bessemerventure-partner-leads-edtech-app-seekho-s-series-b"
+  },
+  {
+   "publication_date": "2026-03-12",
+   "publisher": "Entrackr",
+   "title": "Seekho spends Rs 134 Cr on advertising for Rs 142 Cr revenue in FY25",
+   "url": "https://entrackr.com/fintrackr/seekho-spends-rs-134-cr-on-advertising-for-rs-142-cr-revenue-in-fy25-11205187"
+  },
+  {
+   "publisher": "Elevation Capital",
+   "title": "Seekho portfolio page",
+   "url": "http://elevationcapital.com/portfolio/seekho"
+  },
+  {
+   "url": "https://seekho.in/team/",
+   "publisher": "Seekho",
+   "tier": "T1",
+   "publication_date": "2026-09-15",
+   "retrieved_date": "2026-09-15",
+   "confidence": "HIGH",
+   "fields_supported": [
+    "founders",
+    "timeline",
+    "employee_culture",
+    "subscribers"
+   ]
+  },
+  {
+   "url": "https://www.bvp.com/news/powering-indias-digital-learning-revolution-with-seekho",
+   "publisher": "Bessemer Venture Partners",
+   "tier": "T1",
+   "publication_date": "2025-09-03",
+   "retrieved_date": "2026-09-15",
+   "confidence": "HIGH",
+   "fields_supported": [
+    "funding",
+    "traction",
+    "founders",
+    "business_model",
+    "languages"
+   ]
+  },
+  {
+   "url": "https://www.zaubacorp.com/KEYARO-EDUTECH-PRIVATE-LIMITED-U72900RJ2020PTC071142",
+   "publisher": "ZaubaCorp",
+   "tier": "T3",
+   "publication_date": "",
+   "retrieved_date": "2026-09-15",
+   "confidence": "HIGH",
+   "fields_supported": [
+    "legal_name",
+    "cin",
+    "incorporation_date",
+    "status"
+   ]
+  },
+  {
+   "url": "https://www.tofler.in/keyaro-edutech-private-limited/company/U72900RJ2020PTC071142",
+   "publisher": "Tofler",
+   "tier": "T3",
+   "publication_date": "2026-06-16",
+   "retrieved_date": "2026-09-15",
+   "confidence": "MEDIUM",
+   "fields_supported": [
+    "registered_office",
+    "financials_range"
+   ]
+  },
+  {
+   "url": "https://www.instafinancials.com/company/keyaro-edutech-private-limited-U72900RJ2020PTC071142",
+   "publisher": "InstaFinancials",
+   "tier": "T3",
+   "publication_date": "",
+   "retrieved_date": "2026-09-15",
+   "confidence": "MEDIUM",
+   "fields_supported": [
+    "cin",
+    "authorized_capital",
+    "paid_up_capital"
+   ]
+  },
+  {
+   "url": "https://seekho.in/",
+   "publisher": "Seekho",
+   "tier": "T1",
+   "publication_date": "2026-09-15",
+   "retrieved_date": "2026-09-15",
+   "confidence": "HIGH",
+   "fields_supported": [
+    "products",
+    "languages",
+    "business_model"
+   ]
+  },
+  {
+   "url": "https://play.google.com/store/apps/details?id=com.seekho.android",
+   "publisher": "Google Play",
+   "tier": "T1",
+   "publication_date": "",
+   "retrieved_date": "2026-09-15",
+   "confidence": "HIGH",
+   "fields_supported": [
+    "products",
+    "video_courses",
+    "languages"
+   ]
+  },
+  {
+   "url": "https://www.goodwatercap.com/perspectives/goodwater-joins-28m-series-b-round-in-seekho-indias-3-minute-learning-engine",
+   "publisher": "Goodwater Capital",
+   "tier": "T1",
+   "publication_date": "2025-07-22",
+   "retrieved_date": "2026-09-15",
+   "confidence": "MEDIUM",
+   "fields_supported": [
+    "funding",
+    "founders"
+   ]
+  },
+  {
+   "url": "https://www.instagram.com/reel/DRACBPjkmmg/",
+   "publisher": "Seekho Instagram",
+   "tier": "T3",
+   "publication_date": "2025-11-13",
+   "retrieved_date": "2026-09-15",
+   "confidence": "MEDIUM",
+   "fields_supported": [
+    "languages"
+   ]
+  },
+  {
+   "url": "https://www.linkedin.com/posts/elevationcap_we-are-thrilled-to-deepen-our-partnership-activity-7368942568753033216-1qi_",
+   "publisher": "Elevation Capital",
+   "tier": "T1",
+   "publication_date": "2025-09-03",
+   "retrieved_date": "2026-09-15",
+   "confidence": "MEDIUM",
+   "fields_supported": [
+    "traction",
+    "partnership"
+   ]
+  }
+ ],
+ "startup_id": "seekho",
+ "traction": [
+  {
+   "as_of": "Sep 2025",
+   "metric": "monthly active users",
+   "source_url": "https://www.vccircle.com/bessemerventure-partner-leads-edtech-app-seekho-s-series-b",
+   "value": "25M"
+  },
+  {
+   "metric": "monthly_active_users",
+   "value": 25000000,
+   "unit": "count",
+   "period": "As-of-2025-09",
+   "as_of": "2025-09-03",
+   "company_reported": true,
+   "source_url": "https://www.bvp.com/news/powering-indias-digital-learning-revolution-with-seekho",
+   "confidence": "HIGH",
+   "notes": "25M+ MAU per Bessemer and Elevation Capital"
+  },
+  {
+   "metric": "paid_subscribers",
+   "value": 4000000,
+   "unit": "count",
+   "period": "As-of-2025-09",
+   "as_of": "2025-09-03",
+   "company_reported": true,
+   "source_url": "https://seekho.in/team/",
+   "confidence": "HIGH",
+   "notes": "4M paid subscribers per Seekho team page; also confirmed by Instagram/LinkedIn"
+  },
+  {
+   "metric": "paid_subscribers",
+   "value": 1000000,
+   "unit": "count",
+   "period": "FY24",
+   "as_of": "2024-12-01",
+   "company_reported": true,
+   "source_url": "https://seekho.in/team/",
+   "confidence": "HIGH",
+   "notes": "Hit 1M paid users before Series A (per team timeline)"
+  },
+  {
+   "metric": "video_courses",
+   "value": 10000,
+   "unit": "count",
+   "period": "As-of-2026-09",
+   "as_of": "2026-09-15",
+   "company_reported": true,
+   "source_url": "https://play.google.com/store/apps/details?id=com.seekho.android",
+   "confidence": "HIGH",
+   "notes": "10,000+ video courses on Google Play"
+  },
+  {
+   "metric": "languages_supported",
+   "value": 4,
+   "unit": "count",
+   "period": "As-of-2025-11",
+   "as_of": "2025-11-13",
+   "company_reported": true,
+   "source_url": "https://www.instagram.com/reel/DRACBPjkmmg/",
+   "confidence": "MEDIUM",
+   "notes": "Hindi, English, Tamil, Telugu (Tamil/Telugu added Nov 2025)"
+  },
+  {
+   "metric": "subscription_revenue_pool_india",
+   "value": 2500000000,
+   "unit": "count",
+   "period": "FY25",
+   "as_of": "2025-09-03",
+   "company_reported": false,
+   "source_url": "https://www.bvp.com/news/powering-indias-digital-learning-revolution-with-seekho",
+   "confidence": "LOW",
+   "notes": "Bessemer cites $2.5B India subscription pool; not Seekho-specific"
+  }
+ ],
+ "_merged_session2": true,
+ "products": [
+  {
+   "name": "Seekho App",
+   "category": "edutainment short-video platform",
+   "description": "India's first edutainment OTT platform with 10,000+ bite-sized learning videos across Technology, Money, Business, and 10+ categories. AI-powered interactive content. Available on Android and iOS.",
+   "pricing_model": "Subscription-only: ₹149/month (Android), ₹199/month (iOS), ₹599/year; 7-day free trial; no free tier or ad-supported option",
+   "launch_date": "2020-08-01",
+   "status": "active",
+   "source_url": "https://seekho.in/",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Seekho Plus",
+   "category": "premium subscription tier",
+   "description": "Ad-free subscription with access to all 10,000+ expert-led learning videos across Business, Technology, Money, Social Media and 10+ categories.",
+   "pricing_model": "₹149/month (Android), ₹199/month (iOS), ₹599/year",
+   "launch_date": "",
+   "status": "active",
+   "source_url": "https://seekho.in/premium/",
+   "confidence": "MEDIUM"
+  },
+  {
+   "name": "Seekho/Arivu/English Seekho/Nerchuko/Seekho Jr/Kali/Vidhya",
+   "category": "language-specific app variants",
+   "description": "Multiple app variants for different languages and audiences as listed on the official website.",
+   "pricing_model": "Subscription",
+   "launch_date": "",
+   "status": "active",
+   "source_url": "https://seekho.in/",
+   "confidence": "MEDIUM"
+  },
+  {
+   "name": "B2B Skilling",
+   "category": "enterprise training",
+   "description": "No evidence of B2B enterprise skilling product found. Seekho operates exclusively as B2C consumer subscription.",
+   "pricing_model": "N/A",
+   "launch_date": "",
+   "status": "not_found",
+   "source_url": "",
+   "confidence": "HIGH"
+  }
+ ],
+ "people": [
+  {
+   "name": "Rohit Choudhary",
+   "role": "Co-founder & CEO",
+   "title": "Founder & CEO",
+   "current": true,
+   "since": "2020",
+   "prior_role": "Worked at KukuFM; prepared for JEE with Keertay",
+   "source_url": "https://seekho.in/team/",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Keertay Agarwal",
+   "role": "Co-founder & COO",
+   "title": "Founder & COO",
+   "current": true,
+   "since": "2020",
+   "prior_role": "Worked at KukuFM; prepared for JEE with Rohit",
+   "source_url": "https://seekho.in/team/",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Yash Banwani",
+   "role": "Co-founder & CTO",
+   "title": "Founder & CTO",
+   "current": true,
+   "since": "2020",
+   "prior_role": "IIT Kanpur hostel mate of Rohit and Keertay",
+   "source_url": "https://seekho.in/team/",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Karan Gala",
+   "role": "Director - Growth & Marketing",
+   "title": "Director - Growth & Marketing",
+   "current": true,
+   "since": "",
+   "prior_role": "",
+   "source_url": "https://seekho.in/team/",
+   "confidence": "MEDIUM"
+  },
+  {
+   "name": "Mayank Khanduja",
+   "role": "Team member",
+   "title": "Unknown",
+   "current": true,
+   "since": "",
+   "prior_role": "",
+   "source_url": "https://www.linkedin.com/posts/elevationcap_we-are-thrilled-to-deepen-our-partnership-activity-7368942568753033216-1qi_",
+   "confidence": "LOW"
+  },
+  {
+   "name": "Apoorva Ashram",
+   "role": "NOT ASSOCIATED",
+   "title": "",
+   "current": false,
+   "since": "",
+   "prior_role": "",
+   "source_url": "",
+   "confidence": "HIGH",
+   "notes": "No evidence found linking Apoorva Ashram to Seekho. Prompt-suggested name not verified."
+  },
+  {
+   "name": "Mayank Sinha",
+   "role": "NOT ASSOCIATED",
+   "title": "",
+   "current": false,
+   "since": "",
+   "prior_role": "",
+   "source_url": "",
+   "confidence": "HIGH",
+   "notes": "No evidence found linking Mayank Sinha to Seekho. Prompt-suggested name not verified."
+  }
+ ],
+ "legal": [
+  {
+   "type": "complaint",
+   "entity": "Seekho app",
+   "date": "2025-03-25",
+   "status": "consumer_complaint",
+   "description": "Consumer complaints filed on Voxya and LawRato regarding subscription/cancellation issues. Google Play forum posts about unauthorized autopay deductions of ₹199/month.",
+   "source_url": "https://voxya.com/company/seekho-app-se-complaints/1281836",
+   "confidence": "LOW"
+  },
+  {
+   "type": "complaint",
+   "entity": "Seekho app",
+   "date": "2025-09-19",
+   "status": "consumer_complaint",
+   "description": "Google Play support thread: user reports unauthorized ₹199/month deduction without cognizance.",
+   "source_url": "https://support.google.com/googleplay/thread/388803435",
+   "confidence": "LOW"
+  },
+  {
+   "type": "complaint",
+   "entity": "Seekho app",
+   "date": "2025-09-28",
+   "status": "allegation",
+   "description": "YouTube video titled 'Seekho App is the Biggest Scam of 2025' — user allegation, not verified legal action.",
+   "source_url": "https://www.youtube.com/watch?v=Sd9w0NpwLJo",
+   "confidence": "LOW"
+  }
+ ],
+ "locations": [
+  {
+   "type": "hq",
+   "address_or_area": "Bellandur",
+   "city": "Bengaluru",
+   "state": "Karnataka",
+   "country": "India",
+   "as_of": "2026-09-15",
+   "source_url": "https://seekho.in/contact-us/",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "registered_office",
+   "address_or_area": "c/o W O Ashok Agarwal, 10 Ashirvad Colony, Opp. College Ground, Kesarganj, Sirohi",
+   "city": "Sirohi",
+   "state": "Rajasthan",
+   "country": "India",
+   "as_of": "2026-09-15",
+   "source_url": "https://www.tofler.in/keyaro-edutech-private-limited/company/U72900RJ2020PTC071142",
+   "confidence": "MEDIUM"
+  },
+  {
+   "type": "office",
+   "address_or_area": "Bellandur, Bengaluru, 560103",
+   "city": "Bengaluru",
+   "state": "Karnataka",
+   "country": "India",
+   "as_of": "2026-09-15",
+   "source_url": "https://seekho.in/contact-us/",
+   "confidence": "HIGH"
+  }
+ ],
+ "customers": [
+  {
+   "name": "Individual consumers (B2C)",
+   "type": "B2C paid subscribers",
+   "announced_date": "",
+   "status": "active",
+   "source_url": "https://seekho.in/team/",
+   "confidence": "HIGH",
+   "notes": "4M+ paid subscribers; no B2B enterprise clients found"
+  }
+ ]
+}

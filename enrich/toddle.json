@@ -1,0 +1,2148 @@
+{
+ "company": {
+  "business_model": "B2B SaaS subscription (~$25/student/yr)",
+  "cin": "U80902KA2019PTC127285",
+  "city": "Bengaluru",
+  "company_name": "Toddle",
+  "country": "India",
+  "founded_date": "2019",
+  "incorporation_date": "2019 (legal entity Teacher Tools Pvt Ltd; CIN per Tracxn legal-entity page)",
+  "legal_name": "Teacher Tools Private Limited",
+  "primary_sector": "edtech SaaS",
+  "public_private": "private",
+  "startup_stage": "series-a",
+  "state": "Karnataka",
+  "status": "active",
+  "website": "https://www.toddleapp.com/",
+  "official_website": {
+   "v": "https://www.toddleapp.com",
+   "conf": "high",
+   "src": "https://www.toddleapp.com",
+   "note": "verified live 2026-09-15: name match on own homepage"
+  },
+  "careers_website": {
+   "v": "https://careers.toddleapp.com/",
+   "conf": "HIGH",
+   "src": "curl -L https://www.toddleapp.com/careers → 301 → careers.toddleapp.com; title 'Careers | Toddle'; meta description 'Join the growing team at Toddle'",
+   "note": "Official careers subdomain confirmed via redirect from /careers path"
+  },
+  "description": {
+   "v": "AI-powered teaching and learning platform for K-12 schools; provides curriculum planning, assessment, reporting, and family communication tools. Used by 1,500+ IB schools across 100+ countries.",
+   "conf": "HIGH",
+   "src": "https://www.toddleapp.com",
+   "note": "From Toddle homepage and IB Global Conference sponsor page",
+   "asof": "2026-09-15"
+  },
+  "employee_estimate": {
+   "v": 354,
+   "conf": "HIGH",
+   "src": "https://tracxn.com/d/legal-entities/india/teacher-tools-private-limited/__-h94PiPkHucwfKnzzxLAIz_Kp1CClZmOBMflhNJlHh4",
+   "note": "354 employees as of Aug 1, 2025 per Tracxn",
+   "asof": "2025-08-01"
+  },
+  "hq_type": {
+   "v": "HQ",
+   "conf": "HIGH",
+   "src": "https://tracxn.com/d/legal-entities/india/teacher-tools-private-limited/__-h94PiPkHucwfKnzzxLAIz_Kp1CClZmOBMflhNJlHh4",
+   "note": "Registered office and HQ in Bengaluru",
+   "asof": "2026-09-15"
+  },
+  "registered_office": {
+   "v": "No. 590, 2nd Floor, Phoenix Primus, 1st Cross Road, 12th Main HAL II Stage, Indiranagar, Bengaluru, Karnataka, India, 560038",
+   "conf": "HIGH",
+   "src": "https://tracxn.com/d/legal-entities/india/teacher-tools-private-limited/__-h94PiPkHucwfKnzzxLAIz_Kp1CClZmOBMflhNJlHh4",
+   "note": "Tracxn legal-entity page; also corporate office at Brigade Lakefront, EPIP Zone",
+   "asof": "2026-07-04"
+  }
+ },
+ "completeness_self": {
+  "financials": 8,
+  "founders": 9,
+  "funding": 8,
+  "identity": 9,
+  "investors": 8,
+  "legal": 5,
+  "people": 4,
+  "products": 7,
+  "sources": 8,
+  "traction": 7
+ },
+ "conflicts": [
+  {
+   "claim_a": "FY25 revenue Rs 114.4 cr (+60% YoY), loss Rs 42.2 cr (Mint, Jun 2026)",
+   "claim_b": "FY25 revenue Rs 81 cr+ (+53.5%) (Inc42 company page)",
+   "field": "revenue_latest_fy",
+   "resolution": "Mint figure from reviewed financial data preferred; Inc42 page possibly stale/partial",
+   "resolved_value": "Rs 114.4 cr FY25 revenue",
+   "url_a": "https://www.livemint.com/companies/start-ups/toddle-seeks-up-to-100-million-dollars-edtech-revival-11782317497756.html",
+   "url_b": "https://inc42.com/company/toddle/"
+  },
+  {
+   "field": "incorporation_date",
+   "claim_a": "2019 (legal entity Teacher Tools Pvt Ltd; CIN per Tracxn legal-entity page)",
+   "url_a": "",
+   "claim_b": "2019-08-22",
+   "url_b": "",
+   "resolution": "phase3 p3 payload disagrees with existing value; existing kept as preferred pending human review",
+   "resolved_value": "",
+   "reviewed": "p3-merge"
+  },
+  {
+   "field": "revenue_latest_fy",
+   "claim_a": "FY25 revenue Rs 114.4 cr (+60% YoY) (Mint, Jun 2026)",
+   "url_a": "https://www.livemint.com/companies/start-ups/toddle-seeks-up-to-100-million-dollars-edtech-revival-11782317497756.html",
+   "claim_b": "FY25 revenue Rs 81 cr+ (+53.5%) (Inc42 company page)",
+   "url_b": "https://inc42.com/company/toddle/",
+   "resolution": "Mint figure from reviewed financial data preferred; Inc42 page possibly stale/partial",
+   "resolved_value": "Rs 114.4 cr FY25 revenue"
+  },
+  {
+   "field": "employee_count",
+   "claim_a": "354 employees as of Aug 1, 2025 (Tracxn)",
+   "url_a": "https://tracxn.com/d/legal-entities/india/teacher-tools-private-limited/__-h94PiPkHucwfKnzzxLAIz_Kp1CClZmOBMflhNJlHh4",
+   "claim_b": "393 employees (PitchBook); 682 (Inc42); 670 (LinkedIn)",
+   "url_b": "https://pitchbook.com/profiles/company/399505-96",
+   "resolution": "Tracxn MCA-based figure (354) most authoritative",
+   "resolved_value": ""
+  }
+ ],
+ "events": [
+  {
+   "announced_date": "2023-01-10",
+   "confidence": "HIGH",
+   "date": "2023-01-10",
+   "description": "$17M Series A led by Sequoia Capital India (now Peak XV); Tenacity, Trifecta, Matrix, Beenext, Better Capital participated.",
+   "headline": "Toddle raises $17M Series A",
+   "source_url": "https://economictimes.indiatimes.com/tech/funding/teaching-tool-toddle-raises-17-million-from-sequoia-matrix-others/articleshow/96862499.cms",
+   "type": "funding"
+  },
+  {
+   "announced_date": "2024-11-12",
+   "confidence": "MEDIUM",
+   "date": "2024-11-12",
+   "description": "Later-stage $16.5M round (PitchBook) / $15-18M raise (Entrackr via Tracxn); terms not fully verified.",
+   "headline": "$16.5M later-stage round",
+   "source_url": "https://pitchbook.com/profiles/company/399505-96",
+   "type": "funding"
+  },
+  {
+   "announced_date": "2026-06-25",
+   "confidence": "HIGH",
+   "date": "2026-06-25",
+   "description": "Managed process via BGL to raise $50-100M primary+secondary; ~$25M ARR, near-breakeven; among largest edtech fundraises since downturn.",
+   "headline": "Toddle seeks $50-100M raise",
+   "source_url": "https://www.livemint.com/companies/start-ups/toddle-seeks-up-to-100-million-dollars-edtech-revival-11782317497756.html",
+   "type": "fundraise-process"
+  },
+  {
+   "announced_date": "2026-07-07",
+   "confidence": "MEDIUM",
+   "date": "2026-07-07",
+   "description": "Acquired GrowHall (formerly EdQwest), IB Diploma content library; signals content + workflow ownership of IBDP ecosystem.",
+   "headline": "Toddle acquires GrowHall",
+   "source_url": "https://www.linkedin.com/posts/betterinc_toddle-just-acquired-growhall-formerly-edqwest-activity-7480176028607426561-7Ppw",
+   "type": "acquisition-made"
+  },
+  {
+   "type": "funding",
+   "headline": "Toddle raises $17M Series A led by Peak XV Partners",
+   "date": "2023-01-10",
+   "description": "Series A led by Sequoia Capital India (now Peak XV); Tenacity, Trifecta, Matrix, Beenext, Better Capital participated. 3one4 Capital exited seed investment with 6.6x return.",
+   "source_url": "https://economictimes.indiatimes.com/tech/funding/teaching-tool-toddle-raises-17-million-from-sequoia-matrix-others/articleshow/96862499.cms",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "funding",
+   "headline": "Later-stage $16.5M round",
+   "date": "2024-11-12",
+   "description": "Later-stage VC round per PitchBook; terms not fully verified.",
+   "source_url": "https://pitchbook.com/profiles/company/399505-96",
+   "confidence": "MEDIUM"
+  },
+  {
+   "type": "funding",
+   "headline": "Series A extension $6.06M",
+   "date": "2025-01-24",
+   "description": "Series A extension led by GSV Ventures with Shreyasi Singh; post-money valuation ~$135.78M per Tracxn.",
+   "source_url": "https://platform.tracxn.com/a/d/company/5a70a996e4b071cf293bbf89/toddle",
+   "confidence": "MEDIUM"
+  },
+  {
+   "type": "fundraise-process",
+   "headline": "Toddle seeks $50-100M raise via BGL",
+   "date": "2026-06-25",
+   "description": "Managed process via US investment bank Brown Gibbons Lang & Company (BGL) to raise $50-100M primary+secondary; ~$25M ARR, near-breakeven.",
+   "source_url": "https://www.livemint.com/companies/start-ups/toddle-seeks-up-to-100-million-dollars-edtech-revival-11782317497756.html",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "acquisition-made",
+   "headline": "Toddle acquires GrowHall (formerly EdQwest)",
+   "date": "2026-07-07",
+   "description": "Acquired GrowHall (formerly EdQwest), IB Diploma content library with 28 interactive digital textbooks, 1,300+ videos, 22,500+ exam-style questions.",
+   "source_url": "https://www.linkedin.com/posts/betterinc_toddle-just-acquired-growhall-formerly-edqwest-activity-7480176028607426561-7Ppw",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "partnership",
+   "headline": "Toddle partners with EduGrowth (Australia)",
+   "date": "2025-01-29",
+   "description": "Toddle joined EduGrowth as Strategic Partner; participating in EdTech Policy Dialogue program in 2025.",
+   "source_url": "https://edugrowth.org.au/2025/01/29/started-by-educators-toddle-expands-global-reach",
+   "confidence": "MEDIUM"
+  },
+  {
+   "type": "partnership",
+   "headline": "Toddle sponsors IB Global Conference",
+   "date": "2025-01-01",
+   "description": "Toddle is a sponsor/exhibitor at IB Global Conference.",
+   "source_url": "https://ibo.org/ib-global-conference-new-orleans-2025/current-sponsors-and-exhibitors",
+   "confidence": "MEDIUM"
+  },
+  {
+   "type": "certification",
+   "headline": "Toddle achieves ISO/IEC 42001:2023 for Responsible AI",
+   "date": "2025-11-25",
+   "description": "One of first EdTech companies globally to achieve ISO/IEC 42001:2023 AI Management System certification.",
+   "source_url": "https://trust.toddleapp.com/",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "certification",
+   "headline": "Toddle achieves SOC 2 Type II certification",
+   "date": "2025-01-13",
+   "description": "SOC 2 Type II Report 2025 published.",
+   "source_url": "https://trust.toddleapp.com/",
+   "confidence": "HIGH"
+  }
+ ],
+ "financials": [
+  {
+   "confidence": "MEDIUM",
+   "currency": "INR",
+   "fiscal_year": "FY25",
+   "metric": "revenue from operations",
+   "source_date": "2026-06-25",
+   "source_title": "Toddle eyes up to $100 million",
+   "source_url": "https://www.livemint.com/companies/start-ups/toddle-seeks-up-to-100-million-dollars-edtech-revival-11782317497756.html",
+   "unit": "crore",
+   "value": 114.4,
+   "value_type": "press-quoted-filing"
+  },
+  {
+   "confidence": "MEDIUM",
+   "currency": "INR",
+   "fiscal_year": "FY25",
+   "metric": "net loss",
+   "source_date": "2026-06-25",
+   "source_title": "Toddle eyes up to $100 million",
+   "source_url": "https://www.livemint.com/companies/start-ups/toddle-seeks-up-to-100-million-dollars-edtech-revival-11782317497756.html",
+   "unit": "crore",
+   "value": -42.2,
+   "value_type": "press-quoted-filing"
+  },
+  {
+   "fiscal_year": "FY25",
+   "metric": "revenue from operations",
+   "value": 114.4,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "press-quoted-filing",
+   "basis": "standalone",
+   "consolidated": "no",
+   "filing_date": "2026-06-25",
+   "source_url": "https://www.livemint.com/companies/start-ups/toddle-seeks-up-to-100-million-dollars-edtech-revival-11782317497756.html",
+   "source_title": "Toddle eyes up to $100 million",
+   "confidence": "MEDIUM",
+   "notes": "Revenue rose ~60% YoY from Rs 71.4 cr in FY24"
+  },
+  {
+   "fiscal_year": "FY25",
+   "metric": "net loss",
+   "value": -42.2,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "press-quoted-filing",
+   "basis": "standalone",
+   "consolidated": "no",
+   "filing_date": "2026-06-25",
+   "source_url": "https://www.livemint.com/companies/start-ups/toddle-seeks-up-to-100-million-dollars-edtech-revival-11782317497756.html",
+   "source_title": "Toddle eyes up to $100 million",
+   "confidence": "MEDIUM",
+   "notes": "Losses narrowed from Rs 61.4 cr in FY24"
+  },
+  {
+   "fiscal_year": "FY24",
+   "metric": "revenue from operations",
+   "value": 71.4,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "press-quoted-filing",
+   "basis": "standalone",
+   "consolidated": "no",
+   "filing_date": "2026-06-25",
+   "source_url": "https://www.livemint.com/companies/start-ups/toddle-seeks-up-to-100-million-dollars-edtech-revival-11782317497756.html",
+   "source_title": "Toddle eyes up to $100 million",
+   "confidence": "MEDIUM",
+   "notes": "FY24 revenue per Mint"
+  }
+ ],
+ "founders": [
+  {
+   "background": "IIT Kanpur alumnus; previously ran network of international preschools, worked with K-12 schools",
+   "confidence": "HIGH",
+   "name": "Deepanshu Arora",
+   "role": "Co-founder & CEO",
+   "source_url": "https://economictimes.indiatimes.com/tech/funding/teaching-tool-toddle-raises-17-million-from-sequoia-matrix-others/articleshow/96862499.cms",
+   "still_active": true,
+   "type": "co-founder"
+  },
+  {
+   "confidence": "HIGH",
+   "name": "Parita Parekh",
+   "role": "Co-founder",
+   "source_url": "https://economictimes.indiatimes.com/tech/funding/teaching-tool-toddle-raises-17-million-from-sequoia-matrix-others/articleshow/96862499.cms",
+   "still_active": true,
+   "type": "co-founder"
+  },
+  {
+   "confidence": "HIGH",
+   "name": "Misbah Jafary",
+   "role": "Co-founder",
+   "source_url": "https://economictimes.indiatimes.com/tech/funding/teaching-tool-toddle-raises-17-million-from-sequoia-matrix-others/articleshow/96862499.cms",
+   "still_active": true,
+   "type": "co-founder"
+  },
+  {
+   "confidence": "MEDIUM",
+   "name": "Gautam Arora",
+   "role": "Co-founder",
+   "source_url": "https://inc42.com/company/toddle/",
+   "still_active": true,
+   "type": "co-founder"
+  },
+  {
+   "confidence": "MEDIUM",
+   "name": "Nikhil Poonawala",
+   "role": "Co-founder",
+   "source_url": "https://inc42.com/company/toddle/",
+   "still_active": true,
+   "type": "co-founder"
+  },
+  {
+   "name": "Parita Parekh",
+   "role": "Co-founder & Head of Learning",
+   "background": "Stanford alumna (Master's in Education, early childhood education); undergrad from Brown University; co-founded Toddler's Den; Hurun India Under-35 list 2024 and 2025",
+   "education": "Brown University (undergrad), Stanford University (Master's in Education)",
+   "still_active": true,
+   "source_url": "https://www.indiatoday.in/education-today/featurephilia/story/parita-parekh-indias-youngest-entrepreneur-pioneers-transformation-in-education-2609149-2024-10-01",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Misbah Jafary",
+   "role": "Co-founder & COO",
+   "background": "Dual degree in mechanical engineering from IIT Kanpur; worked with Unilever for 5 years before co-founding Toddler's Den",
+   "education": "IIT Kanpur (dual degree, mechanical engineering)",
+   "still_active": true,
+   "source_url": "https://cloud.toddleapp.com/assets/toddleapp.com/internship/About_Toddle_Company_Profile_and_Overview.pdf",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Gautam Arora",
+   "role": "Co-founder & CDO",
+   "background": "Studied design at Symbiosis, Pune, and IIT Bombay's Industrial Design Centre; previously led design at Sprinklr",
+   "education": "Symbiosis Pune; IIT Bombay Industrial Design Centre",
+   "still_active": true,
+   "source_url": "https://cloud.toddleapp.com/assets/toddleapp.com/internship/About_Toddle_Company_Profile_and_Overview.pdf",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Nikhil Poonawala",
+   "role": "Co-founder & CTO",
+   "background": "Bachelor's degree from DAIICT, Gandhinagar; has been coding since Grade 6; worked with Sprinklr, Play Power Labs, and Dekorate",
+   "education": "DAIICT, Gandhinagar (bachelor's)",
+   "still_active": true,
+   "source_url": "https://cloud.toddleapp.com/assets/toddleapp.com/internship/About_Toddle_Company_Profile_and_Overview.pdf",
+   "confidence": "HIGH"
+  }
+ ],
+ "funding_rounds": [
+  {
+   "all_investors": [
+    "Sequoia Capital India",
+    "Tenacity Ventures",
+    "Trifecta Capital",
+    "Matrix Partners",
+    "Beenext",
+    "Better Capital"
+   ],
+   "amount": 17,
+   "announced_date": "2023-01-10",
+   "confidence": "HIGH",
+   "currency": "USD",
+   "lead_investors": [
+    "Sequoia Capital India (now Peak XV)"
+   ],
+   "round_date": "2023-01-10",
+   "round_type": "series-a",
+   "source_date": "2023-01-10",
+   "source_title": "Teaching tool company Toddle raises $17 million in funding from Sequoia, Matrix, others",
+   "source_url": "https://economictimes.indiatimes.com/tech/funding/teaching-tool-toddle-raises-17-million-from-sequoia-matrix-others/articleshow/96862499.cms",
+   "tier": "T3",
+   "valuation": "~$136M post-money (per Mint Jun-2026)"
+  },
+  {
+   "round_type": "later-stage vc",
+   "announced_date": "2024-11-12",
+   "round_date": "2024-11-12",
+   "amount": 16.5,
+   "currency": "USD",
+   "lead_investors": [],
+   "all_investors": [
+    "Tenacity Ventures",
+    "Trifecta Capital",
+    "Z47"
+   ],
+   "instrument": "equity",
+   "purpose": "Later-stage VC round",
+   "source_url": "https://pitchbook.com/profiles/company/399505-96",
+   "source_title": "Toddle 2026 Company Profile: Valuation, Funding & Investors | PitchBook",
+   "source_date": "2026-09-15",
+   "confidence": "MEDIUM"
+  },
+  {
+   "round_type": "series-a",
+   "announced_date": "2025-01-24",
+   "round_date": "2025-01-24",
+   "amount": 6.06,
+   "currency": "USD",
+   "valuation": 135.78,
+   "valuation_currency": "USD",
+   "valuation_type": "post-money",
+   "lead_investors": [
+    "GSV Ventures"
+   ],
+   "all_investors": [
+    "GSV Ventures",
+    "Shreyasi Singh"
+   ],
+   "instrument": "equity",
+   "purpose": "Series A extension",
+   "source_url": "https://platform.tracxn.com/a/d/company/5a70a996e4b071cf293bbf89/toddle",
+   "source_title": "Toddle - Tracxn Company Profile",
+   "source_date": "2026-09-15",
+   "confidence": "MEDIUM"
+  }
+ ],
+ "gaps": [
+  "Seed-round breakdowns (2019-2021) not itemized",
+  "$16.5M Nov-2024 round terms/investors not fully verified",
+  "CIN from Tracxn legal-entity page (T2), not direct Tofler page — G-wave should confirm via Tofler"
+ ],
+ "investor_links": [
+  {
+   "confidence": "HIGH",
+   "first_seen": "2023-01-10",
+   "investor": "Peak XV Partners (Sequoia Capital India)",
+   "investor_type": "VC",
+   "lead": true,
+   "rounds": [
+    "series-a"
+   ],
+   "source_url": "https://economictimes.indiatimes.com/tech/funding/teaching-tool-toddle-raises-17-million-from-sequoia-matrix-others/articleshow/96862499.cms"
+  },
+  {
+   "confidence": "MEDIUM",
+   "first_seen": "2023-01-10",
+   "investor": "Matrix Partners India",
+   "investor_type": "VC",
+   "lead": false,
+   "rounds": [
+    "series-a"
+   ],
+   "source_url": "https://economictimes.indiatimes.com/tech/funding/teaching-tool-toddle-raises-17-million-from-sequoia-matrix-others/articleshow/96862499.cms"
+  },
+  {
+   "confidence": "MEDIUM",
+   "first_seen": "2023-01-10",
+   "investor": "Trifecta Capital",
+   "investor_type": "VC/debt",
+   "lead": false,
+   "rounds": [
+    "series-a"
+   ],
+   "source_url": "https://economictimes.indiatimes.com/tech/funding/teaching-tool-toddle-raises-17-million-from-sequoia-matrix-others/articleshow/96862499.cms"
+  },
+  {
+   "investor": "GSV Ventures",
+   "investor_type": "VC",
+   "first_seen": "2025-01-24",
+   "rounds": [
+    "series-a"
+   ],
+   "lead": true,
+   "amount": 6.06,
+   "currency": "USD",
+   "source_url": "https://platform.tracxn.com/a/d/company/5a70a996e4b071cf293bbf89/toddle",
+   "confidence": "MEDIUM"
+  }
+ ],
+ "research_log": [
+  {
+   "found": "PitchBook status private, $16.5M later-stage; Mint $50-100M process, FY25 Rs 114.4cr; GrowHall acquisition",
+   "query": "Toddle edtech startup status shutdown acquisition 2025 2026",
+   "unresolved": "CIN at gate stage"
+  },
+  {
+   "found": "5 founders, Series A details, traction (1500 schools/100 countries), pricing",
+   "query": "Toddle founders Deepanshu Arora Series A $17 million Peak XV revenue FY25",
+   "unresolved": "nothing major"
+  },
+  {
+   "found": "CIN U80902KA2019PTC127285 for Teacher Tools Pvt Ltd via Tracxn legal-entity page",
+   "query": "Toddle Bengaluru private limited CIN Tofler incorporation",
+   "unresolved": "Direct Tofler page fetch pending"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Toddle CIN U80902KA2019PTC127285 MCA Tofler legal entity",
+   "status": "done",
+   "found": "CIN confirmed via Tracxn legal-entity page; incorporation Aug 22, 2019; registered office Indiranagar, Bengaluru",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Toddle founders Deepanshu Arora Parita Parekh backgrounds education",
+   "status": "done",
+   "found": "All 5 founders verified with backgrounds",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Toddle funding rounds Sequoia Peak XV $55M 2024-25",
+   "status": "done",
+   "found": "No verified $55M round. Total funding $29.6M over 8 rounds; $50-100M process ongoing via BGL (Jun 2026)",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Toddle schools count countries teachers traction 2025 2026",
+   "status": "done",
+   "found": "2,500+ schools/districts, 250,000+ educators, 17 countries; ARR ~$25M",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Toddle AI product Toddle Ultimate platform features",
+   "status": "done",
+   "found": "Toddle AI (Oct 2023), Toddle Connect (Jan 2024), Toddle Ultimate tier; GrowHall acquisition Jul 2026",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Toddle data privacy children COPPA GDPR DPDPA legal",
+   "status": "done",
+   "found": "Comprehensive compliance: COPPA, FERPA, GDPR, CCPA, DPDPA, APP, UAE PDPL, KSA PDPL; ISO 27001, 27701, 42001; SOC 2 Type II",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Toddle Sydney office Australia location expansion",
+   "status": "done",
+   "found": "No confirmed Sydney office; data residency servers in Sydney; Australian team present",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Toddle GrowHall EdQwest acquisition 2026",
+   "status": "done",
+   "found": "Toddle acquired GrowHall (formerly EdQwest) Jul 2026; IB DP content library",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Toddle CIN U80902KA2019PTC127285 MCA Tofler legal entity",
+   "status": "done",
+   "found": "CIN confirmed via Tracxn legal-entity page; incorporation Aug 22, 2019; registered office Indiranagar, Bengaluru",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Toddle founders Deepanshu Arora Parita Parekh backgrounds education",
+   "status": "done",
+   "found": "All 5 founders verified with backgrounds",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Toddle funding rounds Sequoia Peak XV $55M 2024-25",
+   "status": "done",
+   "found": "No verified $55M round. Total funding $29.6M over 8 rounds; $50-100M process ongoing via BGL (Jun 2026)",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Toddle schools count countries teachers traction 2025 2026",
+   "status": "done",
+   "found": "2,500+ schools/districts, 250,000+ educators, 17 countries; ARR ~$25M",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Toddle AI product Toddle Ultimate platform features",
+   "status": "done",
+   "found": "Toddle AI (Oct 2023), Toddle Connect (Jan 2024), Toddle Ultimate tier; GrowHall acquisition Jul 2026",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Toddle data privacy children COPPA GDPR DPDPA legal",
+   "status": "done",
+   "found": "Comprehensive compliance: COPPA, FERPA, GDPR, CCPA, DPDPA, APP, UAE PDPL, KSA PDPL; ISO 27001, 27701, 42001; SOC 2 Type II",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Toddle Sydney office Australia location expansion",
+   "status": "done",
+   "found": "No confirmed Sydney office; data residency servers in Sydney; Australian team present",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Toddle GrowHall EdQwest acquisition 2026",
+   "status": "done",
+   "found": "Toddle acquired GrowHall (formerly EdQwest) Jul 2026; IB DP content library",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Toddle CIN U80902KA2019PTC127285 MCA Tofler legal entity",
+   "status": "done",
+   "found": "CIN confirmed via Tracxn legal-entity page; incorporation Aug 22, 2019; registered office Indiranagar, Bengaluru",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Toddle founders Deepanshu Arora Parita Parekh backgrounds education",
+   "status": "done",
+   "found": "All 5 founders verified with backgrounds",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Toddle funding rounds Sequoia Peak XV $55M 2024-25",
+   "status": "done",
+   "found": "No verified $55M round. Total funding $29.6M over 8 rounds; $50-100M process ongoing via BGL (Jun 2026)",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Toddle schools count countries teachers traction 2025 2026",
+   "status": "done",
+   "found": "2,500+ schools/districts, 250,000+ educators, 17 countries; ARR ~$25M",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Toddle AI product Toddle Ultimate platform features",
+   "status": "done",
+   "found": "Toddle AI (Oct 2023), Toddle Connect (Jan 2024), Toddle Ultimate tier; GrowHall acquisition Jul 2026",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Toddle data privacy children COPPA GDPR DPDPA legal",
+   "status": "done",
+   "found": "Comprehensive compliance: COPPA, FERPA, GDPR, CCPA, DPDPA, APP, UAE PDPL, KSA PDPL; ISO 27001, 27701, 42001; SOC 2 Type II",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Toddle Sydney office Australia location expansion",
+   "status": "done",
+   "found": "No confirmed Sydney office; data residency servers in Sydney; Australian team present",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Toddle GrowHall EdQwest acquisition 2026",
+   "status": "done",
+   "found": "Toddle acquired GrowHall (formerly EdQwest) Jul 2026; IB DP content library",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Toddle CIN U80902KA2019PTC127285 MCA Tofler legal entity",
+   "status": "done",
+   "found": "CIN confirmed via Tracxn legal-entity page; incorporation Aug 22, 2019; registered office Indiranagar, Bengaluru",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Toddle founders Deepanshu Arora Parita Parekh backgrounds education",
+   "status": "done",
+   "found": "All 5 founders verified with backgrounds",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Toddle funding rounds Sequoia Peak XV $55M 2024-25",
+   "status": "done",
+   "found": "No verified $55M round. Total funding $29.6M over 8 rounds; $50-100M process ongoing via BGL (Jun 2026)",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Toddle schools count countries teachers traction 2025 2026",
+   "status": "done",
+   "found": "2,500+ schools/districts, 250,000+ educators, 17 countries; ARR ~$25M",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Toddle AI product Toddle Ultimate platform features",
+   "status": "done",
+   "found": "Toddle AI (Oct 2023), Toddle Connect (Jan 2024), Toddle Ultimate tier; GrowHall acquisition Jul 2026",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Toddle data privacy children COPPA GDPR DPDPA legal",
+   "status": "done",
+   "found": "Comprehensive compliance: COPPA, FERPA, GDPR, CCPA, DPDPA, APP, UAE PDPL, KSA PDPL; ISO 27001, 27701, 42001; SOC 2 Type II",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Toddle Sydney office Australia location expansion",
+   "status": "done",
+   "found": "No confirmed Sydney office; data residency servers in Sydney; Australian team present",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Toddle GrowHall EdQwest acquisition 2026",
+   "status": "done",
+   "found": "Toddle acquired GrowHall (formerly EdQwest) Jul 2026; IB DP content library",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Toddle CIN U80902KA2019PTC127285 MCA Tofler legal entity",
+   "status": "done",
+   "found": "CIN confirmed via Tracxn legal-entity page; incorporation Aug 22, 2019; registered office Indiranagar, Bengaluru",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Toddle founders Deepanshu Arora Parita Parekh backgrounds education",
+   "status": "done",
+   "found": "All 5 founders verified with backgrounds",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Toddle funding rounds Sequoia Peak XV $55M 2024-25",
+   "status": "done",
+   "found": "No verified $55M round. Total funding $29.6M over 8 rounds; $50-100M process ongoing via BGL (Jun 2026)",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Toddle schools count countries teachers traction 2025 2026",
+   "status": "done",
+   "found": "2,500+ schools/districts, 250,000+ educators, 17 countries; ARR ~$25M",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Toddle AI product Toddle Ultimate platform features",
+   "status": "done",
+   "found": "Toddle AI (Oct 2023), Toddle Connect (Jan 2024), Toddle Ultimate tier; GrowHall acquisition Jul 2026",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Toddle data privacy children COPPA GDPR DPDPA legal",
+   "status": "done",
+   "found": "Comprehensive compliance: COPPA, FERPA, GDPR, CCPA, DPDPA, APP, UAE PDPL, KSA PDPL; ISO 27001, 27701, 42001; SOC 2 Type II",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Toddle Sydney office Australia location expansion",
+   "status": "done",
+   "found": "No confirmed Sydney office; data residency servers in Sydney; Australian team present",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Toddle GrowHall EdQwest acquisition 2026",
+   "status": "done",
+   "found": "Toddle acquired GrowHall (formerly EdQwest) Jul 2026; IB DP content library",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Toddle CIN U80902KA2019PTC127285 MCA Tofler legal entity",
+   "status": "done",
+   "found": "CIN confirmed via Tracxn legal-entity page; incorporation Aug 22, 2019; registered office Indiranagar, Bengaluru",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Toddle founders Deepanshu Arora Parita Parekh backgrounds education",
+   "status": "done",
+   "found": "All 5 founders verified with backgrounds",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Toddle funding rounds Sequoia Peak XV $55M 2024-25",
+   "status": "done",
+   "found": "No verified $55M round. Total funding $29.6M over 8 rounds; $50-100M process ongoing via BGL (Jun 2026)",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Toddle schools count countries teachers traction 2025 2026",
+   "status": "done",
+   "found": "2,500+ schools/districts, 250,000+ educators, 17 countries; ARR ~$25M",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Toddle AI product Toddle Ultimate platform features",
+   "status": "done",
+   "found": "Toddle AI (Oct 2023), Toddle Connect (Jan 2024), Toddle Ultimate tier; GrowHall acquisition Jul 2026",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Toddle data privacy children COPPA GDPR DPDPA legal",
+   "status": "done",
+   "found": "Comprehensive compliance: COPPA, FERPA, GDPR, CCPA, DPDPA, APP, UAE PDPL, KSA PDPL; ISO 27001, 27701, 42001; SOC 2 Type II",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Toddle Sydney office Australia location expansion",
+   "status": "done",
+   "found": "No confirmed Sydney office; data residency servers in Sydney; Australian team present",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Toddle GrowHall EdQwest acquisition 2026",
+   "status": "done",
+   "found": "Toddle acquired GrowHall (formerly EdQwest) Jul 2026; IB DP content library",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Toddle CIN U80902KA2019PTC127285 MCA Tofler legal entity",
+   "status": "done",
+   "found": "CIN confirmed via Tracxn legal-entity page; incorporation Aug 22, 2019; registered office Indiranagar, Bengaluru",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Toddle founders Deepanshu Arora Parita Parekh backgrounds education",
+   "status": "done",
+   "found": "All 5 founders verified with backgrounds",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Toddle funding rounds Sequoia Peak XV $55M 2024-25",
+   "status": "done",
+   "found": "No verified $55M round. Total funding $29.6M over 8 rounds; $50-100M process ongoing via BGL (Jun 2026)",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Toddle schools count countries teachers traction 2025 2026",
+   "status": "done",
+   "found": "2,500+ schools/districts, 250,000+ educators, 17 countries; ARR ~$25M",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Toddle AI product Toddle Ultimate platform features",
+   "status": "done",
+   "found": "Toddle AI (Oct 2023), Toddle Connect (Jan 2024), Toddle Ultimate tier; GrowHall acquisition Jul 2026",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Toddle data privacy children COPPA GDPR DPDPA legal",
+   "status": "done",
+   "found": "Comprehensive compliance: COPPA, FERPA, GDPR, CCPA, DPDPA, APP, UAE PDPL, KSA PDPL; ISO 27001, 27701, 42001; SOC 2 Type II",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Toddle Sydney office Australia location expansion",
+   "status": "done",
+   "found": "No confirmed Sydney office; data residency servers in Sydney; Australian team present",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Toddle GrowHall EdQwest acquisition 2026",
+   "status": "done",
+   "found": "Toddle acquired GrowHall (formerly EdQwest) Jul 2026; IB DP content library",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Toddle CIN U80902KA2019PTC127285 MCA Tofler legal entity",
+   "status": "done",
+   "found": "CIN confirmed via Tracxn legal-entity page; incorporation Aug 22, 2019; registered office Indiranagar, Bengaluru",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Toddle founders Deepanshu Arora Parita Parekh backgrounds education",
+   "status": "done",
+   "found": "All 5 founders verified with backgrounds",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Toddle funding rounds Sequoia Peak XV $55M 2024-25",
+   "status": "done",
+   "found": "No verified $55M round. Total funding $29.6M over 8 rounds; $50-100M process ongoing via BGL (Jun 2026)",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Toddle schools count countries teachers traction 2025 2026",
+   "status": "done",
+   "found": "2,500+ schools/districts, 250,000+ educators, 17 countries; ARR ~$25M",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Toddle AI product Toddle Ultimate platform features",
+   "status": "done",
+   "found": "Toddle AI (Oct 2023), Toddle Connect (Jan 2024), Toddle Ultimate tier; GrowHall acquisition Jul 2026",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Toddle data privacy children COPPA GDPR DPDPA legal",
+   "status": "done",
+   "found": "Comprehensive compliance: COPPA, FERPA, GDPR, CCPA, DPDPA, APP, UAE PDPL, KSA PDPL; ISO 27001, 27701, 42001; SOC 2 Type II",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Toddle Sydney office Australia location expansion",
+   "status": "done",
+   "found": "No confirmed Sydney office; data residency servers in Sydney; Australian team present",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Toddle GrowHall EdQwest acquisition 2026",
+   "status": "done",
+   "found": "Toddle acquired GrowHall (formerly EdQwest) Jul 2026; IB DP content library",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Toddle CIN U80902KA2019PTC127285 MCA Tofler legal entity",
+   "status": "done",
+   "found": "CIN confirmed via Tracxn legal-entity page; incorporation Aug 22, 2019; registered office Indiranagar, Bengaluru",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Toddle founders Deepanshu Arora Parita Parekh backgrounds education",
+   "status": "done",
+   "found": "All 5 founders verified with backgrounds",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Toddle funding rounds Sequoia Peak XV $55M 2024-25",
+   "status": "done",
+   "found": "No verified $55M round. Total funding $29.6M over 8 rounds; $50-100M process ongoing via BGL (Jun 2026)",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Toddle schools count countries teachers traction 2025 2026",
+   "status": "done",
+   "found": "2,500+ schools/districts, 250,000+ educators, 17 countries; ARR ~$25M",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Toddle AI product Toddle Ultimate platform features",
+   "status": "done",
+   "found": "Toddle AI (Oct 2023), Toddle Connect (Jan 2024), Toddle Ultimate tier; GrowHall acquisition Jul 2026",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Toddle data privacy children COPPA GDPR DPDPA legal",
+   "status": "done",
+   "found": "Comprehensive compliance: COPPA, FERPA, GDPR, CCPA, DPDPA, APP, UAE PDPL, KSA PDPL; ISO 27001, 27701, 42001; SOC 2 Type II",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Toddle Sydney office Australia location expansion",
+   "status": "done",
+   "found": "No confirmed Sydney office; data residency servers in Sydney; Australian team present",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Toddle GrowHall EdQwest acquisition 2026",
+   "status": "done",
+   "found": "Toddle acquired GrowHall (formerly EdQwest) Jul 2026; IB DP content library",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Toddle CIN U80902KA2019PTC127285 MCA Tofler legal entity",
+   "status": "done",
+   "found": "CIN confirmed via Tracxn legal-entity page; incorporation Aug 22, 2019; registered office Indiranagar, Bengaluru",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Toddle founders Deepanshu Arora Parita Parekh backgrounds education",
+   "status": "done",
+   "found": "All 5 founders verified with backgrounds",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Toddle funding rounds Sequoia Peak XV $55M 2024-25",
+   "status": "done",
+   "found": "No verified $55M round. Total funding $29.6M over 8 rounds; $50-100M process ongoing via BGL (Jun 2026)",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Toddle schools count countries teachers traction 2025 2026",
+   "status": "done",
+   "found": "2,500+ schools/districts, 250,000+ educators, 17 countries; ARR ~$25M",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Toddle AI product Toddle Ultimate platform features",
+   "status": "done",
+   "found": "Toddle AI (Oct 2023), Toddle Connect (Jan 2024), Toddle Ultimate tier; GrowHall acquisition Jul 2026",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Toddle data privacy children COPPA GDPR DPDPA legal",
+   "status": "done",
+   "found": "Comprehensive compliance: COPPA, FERPA, GDPR, CCPA, DPDPA, APP, UAE PDPL, KSA PDPL; ISO 27001, 27701, 42001; SOC 2 Type II",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Toddle Sydney office Australia location expansion",
+   "status": "done",
+   "found": "No confirmed Sydney office; data residency servers in Sydney; Australian team present",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Toddle GrowHall EdQwest acquisition 2026",
+   "status": "done",
+   "found": "Toddle acquired GrowHall (formerly EdQwest) Jul 2026; IB DP content library",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Toddle CIN U80902KA2019PTC127285 MCA Tofler legal entity",
+   "status": "done",
+   "found": "CIN confirmed via Tracxn legal-entity page; incorporation Aug 22, 2019; registered office Indiranagar, Bengaluru",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Toddle founders Deepanshu Arora Parita Parekh backgrounds education",
+   "status": "done",
+   "found": "All 5 founders verified with backgrounds",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Toddle funding rounds Sequoia Peak XV $55M 2024-25",
+   "status": "done",
+   "found": "No verified $55M round. Total funding $29.6M over 8 rounds; $50-100M process ongoing via BGL (Jun 2026)",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Toddle schools count countries teachers traction 2025 2026",
+   "status": "done",
+   "found": "2,500+ schools/districts, 250,000+ educators, 17 countries; ARR ~$25M",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Toddle AI product Toddle Ultimate platform features",
+   "status": "done",
+   "found": "Toddle AI (Oct 2023), Toddle Connect (Jan 2024), Toddle Ultimate tier; GrowHall acquisition Jul 2026",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Toddle data privacy children COPPA GDPR DPDPA legal",
+   "status": "done",
+   "found": "Comprehensive compliance: COPPA, FERPA, GDPR, CCPA, DPDPA, APP, UAE PDPL, KSA PDPL; ISO 27001, 27701, 42001; SOC 2 Type II",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Toddle Sydney office Australia location expansion",
+   "status": "done",
+   "found": "No confirmed Sydney office; data residency servers in Sydney; Australian team present",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Toddle GrowHall EdQwest acquisition 2026",
+   "status": "done",
+   "found": "Toddle acquired GrowHall (formerly EdQwest) Jul 2026; IB DP content library",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Toddle CIN U80902KA2019PTC127285 MCA Tofler legal entity",
+   "status": "done",
+   "found": "CIN confirmed via Tracxn legal-entity page; incorporation Aug 22, 2019; registered office Indiranagar, Bengaluru",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Toddle founders Deepanshu Arora Parita Parekh backgrounds education",
+   "status": "done",
+   "found": "All 5 founders verified with backgrounds",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Toddle funding rounds Sequoia Peak XV $55M 2024-25",
+   "status": "done",
+   "found": "No verified $55M round. Total funding $29.6M over 8 rounds; $50-100M process ongoing via BGL (Jun 2026)",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Toddle schools count countries teachers traction 2025 2026",
+   "status": "done",
+   "found": "2,500+ schools/districts, 250,000+ educators, 17 countries; ARR ~$25M",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Toddle AI product Toddle Ultimate platform features",
+   "status": "done",
+   "found": "Toddle AI (Oct 2023), Toddle Connect (Jan 2024), Toddle Ultimate tier; GrowHall acquisition Jul 2026",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Toddle data privacy children COPPA GDPR DPDPA legal",
+   "status": "done",
+   "found": "Comprehensive compliance: COPPA, FERPA, GDPR, CCPA, DPDPA, APP, UAE PDPL, KSA PDPL; ISO 27001, 27701, 42001; SOC 2 Type II",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Toddle Sydney office Australia location expansion",
+   "status": "done",
+   "found": "No confirmed Sydney office; data residency servers in Sydney; Australian team present",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Toddle GrowHall EdQwest acquisition 2026",
+   "status": "done",
+   "found": "Toddle acquired GrowHall (formerly EdQwest) Jul 2026; IB DP content library",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Toddle CIN U80902KA2019PTC127285 MCA Tofler legal entity",
+   "status": "done",
+   "found": "CIN confirmed via Tracxn legal-entity page; incorporation Aug 22, 2019; registered office Indiranagar, Bengaluru",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Toddle founders Deepanshu Arora Parita Parekh backgrounds education",
+   "status": "done",
+   "found": "All 5 founders verified with backgrounds",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Toddle funding rounds Sequoia Peak XV $55M 2024-25",
+   "status": "done",
+   "found": "No verified $55M round. Total funding $29.6M over 8 rounds; $50-100M process ongoing via BGL (Jun 2026)",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Toddle schools count countries teachers traction 2025 2026",
+   "status": "done",
+   "found": "2,500+ schools/districts, 250,000+ educators, 17 countries; ARR ~$25M",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Toddle AI product Toddle Ultimate platform features",
+   "status": "done",
+   "found": "Toddle AI (Oct 2023), Toddle Connect (Jan 2024), Toddle Ultimate tier; GrowHall acquisition Jul 2026",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Toddle data privacy children COPPA GDPR DPDPA legal",
+   "status": "done",
+   "found": "Comprehensive compliance: COPPA, FERPA, GDPR, CCPA, DPDPA, APP, UAE PDPL, KSA PDPL; ISO 27001, 27701, 42001; SOC 2 Type II",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Toddle Sydney office Australia location expansion",
+   "status": "done",
+   "found": "No confirmed Sydney office; data residency servers in Sydney; Australian team present",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Toddle GrowHall EdQwest acquisition 2026",
+   "status": "done",
+   "found": "Toddle acquired GrowHall (formerly EdQwest) Jul 2026; IB DP content library",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Toddle CIN U80902KA2019PTC127285 MCA Tofler legal entity",
+   "status": "done",
+   "found": "CIN confirmed via Tracxn legal-entity page; incorporation Aug 22, 2019; registered office Indiranagar, Bengaluru",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Toddle founders Deepanshu Arora Parita Parekh backgrounds education",
+   "status": "done",
+   "found": "All 5 founders verified with backgrounds",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Toddle funding rounds Sequoia Peak XV $55M 2024-25",
+   "status": "done",
+   "found": "No verified $55M round. Total funding $29.6M over 8 rounds; $50-100M process ongoing via BGL (Jun 2026)",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Toddle schools count countries teachers traction 2025 2026",
+   "status": "done",
+   "found": "2,500+ schools/districts, 250,000+ educators, 17 countries; ARR ~$25M",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Toddle AI product Toddle Ultimate platform features",
+   "status": "done",
+   "found": "Toddle AI (Oct 2023), Toddle Connect (Jan 2024), Toddle Ultimate tier; GrowHall acquisition Jul 2026",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Toddle data privacy children COPPA GDPR DPDPA legal",
+   "status": "done",
+   "found": "Comprehensive compliance: COPPA, FERPA, GDPR, CCPA, DPDPA, APP, UAE PDPL, KSA PDPL; ISO 27001, 27701, 42001; SOC 2 Type II",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Toddle Sydney office Australia location expansion",
+   "status": "done",
+   "found": "No confirmed Sydney office; data residency servers in Sydney; Australian team present",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Toddle GrowHall EdQwest acquisition 2026",
+   "status": "done",
+   "found": "Toddle acquired GrowHall (formerly EdQwest) Jul 2026; IB DP content library",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Toddle CIN U80902KA2019PTC127285 MCA Tofler legal entity",
+   "status": "done",
+   "found": "CIN confirmed via Tracxn legal-entity page; incorporation Aug 22, 2019; registered office Indiranagar, Bengaluru",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Toddle founders Deepanshu Arora Parita Parekh backgrounds education",
+   "status": "done",
+   "found": "All 5 founders verified with backgrounds",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Toddle funding rounds Sequoia Peak XV $55M 2024-25",
+   "status": "done",
+   "found": "No verified $55M round. Total funding $29.6M over 8 rounds; $50-100M process ongoing via BGL (Jun 2026)",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Toddle schools count countries teachers traction 2025 2026",
+   "status": "done",
+   "found": "2,500+ schools/districts, 250,000+ educators, 17 countries; ARR ~$25M",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Toddle AI product Toddle Ultimate platform features",
+   "status": "done",
+   "found": "Toddle AI (Oct 2023), Toddle Connect (Jan 2024), Toddle Ultimate tier; GrowHall acquisition Jul 2026",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Toddle data privacy children COPPA GDPR DPDPA legal",
+   "status": "done",
+   "found": "Comprehensive compliance: COPPA, FERPA, GDPR, CCPA, DPDPA, APP, UAE PDPL, KSA PDPL; ISO 27001, 27701, 42001; SOC 2 Type II",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Toddle Sydney office Australia location expansion",
+   "status": "done",
+   "found": "No confirmed Sydney office; data residency servers in Sydney; Australian team present",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Toddle GrowHall EdQwest acquisition 2026",
+   "status": "done",
+   "found": "Toddle acquired GrowHall (formerly EdQwest) Jul 2026; IB DP content library",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Toddle CIN U80902KA2019PTC127285 MCA Tofler legal entity",
+   "status": "done",
+   "found": "CIN confirmed via Tracxn legal-entity page; incorporation Aug 22, 2019; registered office Indiranagar, Bengaluru",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Toddle founders Deepanshu Arora Parita Parekh backgrounds education",
+   "status": "done",
+   "found": "All 5 founders verified with backgrounds",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Toddle funding rounds Sequoia Peak XV $55M 2024-25",
+   "status": "done",
+   "found": "No verified $55M round. Total funding $29.6M over 8 rounds; $50-100M process ongoing via BGL (Jun 2026)",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Toddle schools count countries teachers traction 2025 2026",
+   "status": "done",
+   "found": "2,500+ schools/districts, 250,000+ educators, 17 countries; ARR ~$25M",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Toddle AI product Toddle Ultimate platform features",
+   "status": "done",
+   "found": "Toddle AI (Oct 2023), Toddle Connect (Jan 2024), Toddle Ultimate tier; GrowHall acquisition Jul 2026",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Toddle data privacy children COPPA GDPR DPDPA legal",
+   "status": "done",
+   "found": "Comprehensive compliance: COPPA, FERPA, GDPR, CCPA, DPDPA, APP, UAE PDPL, KSA PDPL; ISO 27001, 27701, 42001; SOC 2 Type II",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Toddle Sydney office Australia location expansion",
+   "status": "done",
+   "found": "No confirmed Sydney office; data residency servers in Sydney; Australian team present",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Toddle GrowHall EdQwest acquisition 2026",
+   "status": "done",
+   "found": "Toddle acquired GrowHall (formerly EdQwest) Jul 2026; IB DP content library",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Toddle CIN U80902KA2019PTC127285 MCA Tofler legal entity",
+   "status": "done",
+   "found": "CIN confirmed via Tracxn legal-entity page; incorporation Aug 22, 2019; registered office Indiranagar, Bengaluru",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Toddle founders Deepanshu Arora Parita Parekh backgrounds education",
+   "status": "done",
+   "found": "All 5 founders verified with backgrounds",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Toddle funding rounds Sequoia Peak XV $55M 2024-25",
+   "status": "done",
+   "found": "No verified $55M round. Total funding $29.6M over 8 rounds; $50-100M process ongoing via BGL (Jun 2026)",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Toddle schools count countries teachers traction 2025 2026",
+   "status": "done",
+   "found": "2,500+ schools/districts, 250,000+ educators, 17 countries; ARR ~$25M",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Toddle AI product Toddle Ultimate platform features",
+   "status": "done",
+   "found": "Toddle AI (Oct 2023), Toddle Connect (Jan 2024), Toddle Ultimate tier; GrowHall acquisition Jul 2026",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Toddle data privacy children COPPA GDPR DPDPA legal",
+   "status": "done",
+   "found": "Comprehensive compliance: COPPA, FERPA, GDPR, CCPA, DPDPA, APP, UAE PDPL, KSA PDPL; ISO 27001, 27701, 42001; SOC 2 Type II",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Toddle Sydney office Australia location expansion",
+   "status": "done",
+   "found": "No confirmed Sydney office; data residency servers in Sydney; Australian team present",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Toddle GrowHall EdQwest acquisition 2026",
+   "status": "done",
+   "found": "Toddle acquired GrowHall (formerly EdQwest) Jul 2026; IB DP content library",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Toddle CIN U80902KA2019PTC127285 MCA Tofler legal entity",
+   "status": "done",
+   "found": "CIN confirmed via Tracxn legal-entity page; incorporation Aug 22, 2019; registered office Indiranagar, Bengaluru",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Toddle founders Deepanshu Arora Parita Parekh backgrounds education",
+   "status": "done",
+   "found": "All 5 founders verified with backgrounds",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Toddle funding rounds Sequoia Peak XV $55M 2024-25",
+   "status": "done",
+   "found": "No verified $55M round. Total funding $29.6M over 8 rounds; $50-100M process ongoing via BGL (Jun 2026)",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Toddle schools count countries teachers traction 2025 2026",
+   "status": "done",
+   "found": "2,500+ schools/districts, 250,000+ educators, 17 countries; ARR ~$25M",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Toddle AI product Toddle Ultimate platform features",
+   "status": "done",
+   "found": "Toddle AI (Oct 2023), Toddle Connect (Jan 2024), Toddle Ultimate tier; GrowHall acquisition Jul 2026",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Toddle data privacy children COPPA GDPR DPDPA legal",
+   "status": "done",
+   "found": "Comprehensive compliance: COPPA, FERPA, GDPR, CCPA, DPDPA, APP, UAE PDPL, KSA PDPL; ISO 27001, 27701, 42001; SOC 2 Type II",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Toddle Sydney office Australia location expansion",
+   "status": "done",
+   "found": "No confirmed Sydney office; data residency servers in Sydney; Australian team present",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Toddle GrowHall EdQwest acquisition 2026",
+   "status": "done",
+   "found": "Toddle acquired GrowHall (formerly EdQwest) Jul 2026; IB DP content library",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  }
+ ],
+ "sources": [
+  {
+   "claim_supported": "$50-100M process, ARR ~$25M, FY25 revenue/loss, $136M last valuation",
+   "fields_supported": [
+    "financials",
+    "events",
+    "funding_rounds"
+   ],
+   "publication_date": "2026-06-25",
+   "publisher": "Mint",
+   "retrieved_date": "2026-09-15",
+   "tier": "T3",
+   "title": "Toddle eyes up to $100 million",
+   "url": "https://www.livemint.com/companies/start-ups/toddle-seeks-up-to-100-million-dollars-edtech-revival-11782317497756.html"
+  },
+  {
+   "claim_supported": "$17M Series A, investors, founders, traction",
+   "fields_supported": [
+    "funding_rounds",
+    "founders"
+   ],
+   "publication_date": "2023-01-10",
+   "publisher": "Economic Times",
+   "retrieved_date": "2026-09-15",
+   "tier": "T3",
+   "title": "Teaching tool company Toddle raises $17 million from Sequoia, Matrix, others",
+   "url": "https://economictimes.indiatimes.com/tech/funding/teaching-tool-toddle-raises-17-million-from-sequoia-matrix-others/articleshow/96862499.cms"
+  },
+  {
+   "claim_supported": "CIN + active status for Teacher Tools Pvt Ltd",
+   "fields_supported": [
+    "company"
+   ],
+   "publisher": "Tracxn",
+   "retrieved_date": "2026-09-15",
+   "tier": "T2",
+   "title": "TEACHER TOOLS PRIVATE LIMITED - Company Profile",
+   "url": "https://tracxn.com/d/legal-entities/india/teacher-tools-private-limited/__-h94PiPkHucwfKnzzxLAIz_Kp1CClZmOBMflhNJlHh4"
+  },
+  {
+   "url": "https://www.toddleapp.com",
+   "publisher": "Toddle (company website)",
+   "tier": "T1",
+   "publication_date": "2026-09-15",
+   "retrieved_date": "2026-09-15",
+   "confidence": "HIGH",
+   "fields_supported": [
+    "company",
+    "products",
+    "traction",
+    "customers",
+    "legal"
+   ]
+  },
+  {
+   "url": "https://www.toddleapp.com/privacy-policy",
+   "publisher": "Toddle (company website)",
+   "tier": "T1",
+   "publication_date": "2026-09-15",
+   "retrieved_date": "2026-09-15",
+   "confidence": "HIGH",
+   "fields_supported": [
+    "legal",
+    "locations"
+   ]
+  },
+  {
+   "url": "https://site.imsglobal.org/certifications/toddle/toddle",
+   "publisher": "1EdTech",
+   "tier": "T1",
+   "publication_date": "2026-07-10",
+   "retrieved_date": "2026-09-15",
+   "confidence": "HIGH",
+   "fields_supported": [
+    "legal"
+   ]
+  },
+  {
+   "url": "https://trust.toddleapp.com/",
+   "publisher": "Toddle (company website)",
+   "tier": "T1",
+   "publication_date": "2026-09-15",
+   "retrieved_date": "2026-09-15",
+   "confidence": "HIGH",
+   "fields_supported": [
+    "legal"
+   ]
+  },
+  {
+   "url": "https://cloud.toddleapp.com/assets/toddleapp.com/internship/About_Toddle_Company_Profile_and_Overview.pdf",
+   "publisher": "Toddle (company website)",
+   "tier": "T1",
+   "publication_date": "2026-09-15",
+   "retrieved_date": "2026-09-15",
+   "confidence": "HIGH",
+   "fields_supported": [
+    "founders",
+    "people"
+   ]
+  },
+  {
+   "url": "https://www.indiatoday.in/education-today/featurephilia/story/parita-parekh-indias-youngest-entrepreneur-pioneers-transformation-in-education-2609149-2024-10-01",
+   "publisher": "India Today",
+   "tier": "T3",
+   "publication_date": "2024-10-01",
+   "retrieved_date": "2026-09-15",
+   "confidence": "HIGH",
+   "fields_supported": [
+    "founders"
+   ]
+  },
+  {
+   "url": "https://premium.theeducatoronline.com/au-te-service-provider-awards-2025-toddle/p/1",
+   "publisher": "The Educator Online",
+   "tier": "T3",
+   "publication_date": "2025-01-01",
+   "retrieved_date": "2026-09-15",
+   "confidence": "MEDIUM",
+   "fields_supported": [
+    "traction",
+    "locations",
+    "people"
+   ]
+  }
+ ],
+ "startup_id": "toddle",
+ "_merged_session2": true,
+ "traction": [
+  {
+   "metric": "schools",
+   "value": 2500,
+   "unit": "schools",
+   "period": "As-of-2026-09",
+   "as_of": "2026-09-15",
+   "company_reported": true,
+   "source_url": "https://www.toddleapp.com",
+   "source_title": "Toddle homepage",
+   "confidence": "HIGH",
+   "notes": "2,500+ schools and districts worldwide"
+  },
+  {
+   "metric": "educators",
+   "value": 250000,
+   "unit": "educators",
+   "period": "As-of-2026-09",
+   "as_of": "2026-09-15",
+   "company_reported": true,
+   "source_url": "https://www.toddleapp.com",
+   "source_title": "Toddle homepage",
+   "confidence": "HIGH",
+   "notes": "250,000+ educators community"
+  },
+  {
+   "metric": "countries",
+   "value": 17,
+   "unit": "countries",
+   "period": "As-of-2026-09",
+   "as_of": "2026-09-15",
+   "company_reported": true,
+   "source_url": "https://premium.theeducatoronline.com/au-te-service-provider-awards-2025-toddle/p/1",
+   "source_title": "TE Service Provider Awards 2025 - Toddle",
+   "confidence": "HIGH",
+   "notes": "400+ employees in 17 countries"
+  },
+  {
+   "metric": "ib_schools_pct",
+   "value": 20,
+   "unit": "percent",
+   "period": "As-of-2023-01",
+   "as_of": "2023-01-10",
+   "company_reported": true,
+   "source_url": "https://economictimes.indiatimes.com/tech/funding/teaching-tool-toddle-raises-17-million-from-sequoia-matrix-others/articleshow/96862499.cms",
+   "source_title": "Teaching tool company Toddle raises $17 million",
+   "confidence": "HIGH",
+   "notes": "More than 20% of IB schools globally use Toddle"
+  },
+  {
+   "metric": "arr",
+   "value": 25,
+   "unit": "million",
+   "period": "FY25/As-of-2026-06",
+   "as_of": "2026-06-25",
+   "company_reported": false,
+   "source_url": "https://www.livemint.com/companies/start-ups/toddle-seeks-up-to-100-million-dollars-edtech-revival-11782317497756.html",
+   "source_title": "Toddle eyes up to $100 million",
+   "confidence": "MEDIUM",
+   "notes": "ARR ~$25 million; near-breakeven status"
+  },
+  {
+   "metric": "revenue_from_us",
+   "value": 33.3,
+   "unit": "percent",
+   "period": "FY25",
+   "as_of": "2026-06-25",
+   "company_reported": false,
+   "source_url": "https://www.livemint.com/companies/start-ups/toddle-seeks-up-to-100-million-dollars-edtech-revival-11782317497756.html",
+   "source_title": "Toddle eyes up to $100 million",
+   "confidence": "MEDIUM",
+   "notes": "More than a third of revenue from US"
+  },
+  {
+   "metric": "revenue_from_india",
+   "value": 6.5,
+   "unit": "percent",
+   "period": "As-of-2023-01",
+   "as_of": "2023-01-10",
+   "company_reported": true,
+   "source_url": "https://economictimes.indiatimes.com/tech/funding/teaching-tool-toddle-raises-17-million-from-sequoia-matrix-others/articleshow/96862499.cms",
+   "source_title": "Teaching tool company Toddle raises $17 million",
+   "confidence": "HIGH",
+   "notes": "Only 6-7% of revenue from India"
+  }
+ ],
+ "products": [
+  {
+   "name": "Toddle Planning Pro",
+   "category": "curriculum planning",
+   "description": "Curriculum planning, unit planning, lesson planning, yearly planning, curriculum mapping, curriculum analytics, Toddle library",
+   "pricing_model": "subscription",
+   "status": "active",
+   "source_url": "https://www.toddleapp.com/pricing",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Toddle Essentials",
+   "category": "teaching & learning",
+   "description": "Everything in Planning Pro plus assignments & feedback, interactive workbook, student portfolios, gradebook, progress reports, attendance, timetable, calendar, announcements",
+   "pricing_model": "subscription",
+   "status": "active",
+   "source_url": "https://www.toddleapp.com/pricing",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Toddle Ultimate",
+   "category": "AI-powered teaching & learning",
+   "description": "Everything in Essentials plus AI curriculum design assistant, AI tutors, AI powered progress reports, AI assisted grading, AI conversational analytics, behaviour management, communications hub, accreditation management, worksheets with AI",
+   "pricing_model": "subscription",
+   "status": "active",
+   "source_url": "https://www.toddleapp.com/pricing",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Toddle AI",
+   "category": "AI assistant",
+   "description": "AI-powered teaching assistant; generates lesson plans, progress report comments, portfolio captions, MYP criteria-based rubrics; supports 30+ languages",
+   "pricing_model": "included in Ultimate",
+   "launch_date": "2023-10-12",
+   "status": "active",
+   "source_url": "https://www.toddleapp.com/learn/blog-post/ai-the-next-chapter-in-teaching-learning",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Toddle Connect",
+   "category": "communication",
+   "description": "AI-powered communication platform built within Toddle for school-home messaging",
+   "pricing_model": "included",
+   "launch_date": "2024-01-31",
+   "status": "active",
+   "source_url": "https://www.toddleapp.com/learn/blog-post/toddle-demo-day-ib-jan24",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "GrowHall (formerly EdQwest)",
+   "category": "IB DP content library",
+   "description": "28 interactive digital textbooks, 1,300+ curriculum-aligned videos, 22,500+ exam-style questions with mark schemes, AI support; mapped to IB DP syllabus",
+   "pricing_model": "subscription",
+   "launch_date": "2026-07-07",
+   "status": "active",
+   "source_url": "https://www.linkedin.com/posts/betterinc_toddle-just-acquired-growhall-formerly-edqwest-activity-7480176028607426561-7Ppw",
+   "confidence": "HIGH"
+  }
+ ],
+ "people": [
+  {
+   "name": "Nick Morgan",
+   "role": "Regional Director, Aus/NZ",
+   "title": "Regional Director",
+   "current": true,
+   "source_url": "https://premium.theeducatoronline.com/au-te-service-provider-awards-2025-toddle/p/1",
+   "confidence": "MEDIUM"
+  },
+  {
+   "name": "Joshua Ravek",
+   "role": "Senior Manager, School Partnerships, NSW",
+   "title": "Senior Manager",
+   "current": true,
+   "source_url": "https://premium.theeducatoronline.com/au-te-service-provider-awards-2025-toddle/p/1",
+   "confidence": "MEDIUM"
+  },
+  {
+   "name": "Cindy Blackburn",
+   "role": "Director of Learning & Engagement",
+   "title": "Director",
+   "current": true,
+   "source_url": "https://www.toddleapp.com/learn/blog-post/ai-the-next-chapter-in-teaching-learning",
+   "confidence": "MEDIUM"
+  }
+ ],
+ "legal": [
+  {
+   "type": "regulatory",
+   "entity": "Toddle (Teacher Tools Pvt Ltd)",
+   "date": "2023-06",
+   "status": "compliance",
+   "description": "COPPA compliance via School Consent for underage children; operates as School Official under FERPA; DPDPA compliance for India; GDPR DPA signed at school onboarding; data residency in Australia (Sydney), US (Virginia), Europe (Ireland), Singapore, Dubai",
+   "source_url": "https://www.toddleapp.com/privacy-policy",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "regulatory",
+   "entity": "Toddle (Teacher Tools Pvt Ltd)",
+   "date": "2025-07-10",
+   "status": "certification",
+   "description": "1EdTech Data Privacy certification; OneRoster 1.2 and Data Privacy certifications active; LTI v1.3, LTI Advantage, LTI Deep Linking 2.0, LTI Names and Role Provisioning Services 2.0, LTI Assignment & Grade Services 2.0 certifications",
+   "source_url": "https://site.imsglobal.org/certifications/toddle/toddle",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "regulatory",
+   "entity": "Toddle (Teacher Tools Pvt Ltd)",
+   "date": "2025-01-13",
+   "status": "certification",
+   "description": "SOC 2 Type II Report 2025 available; ISO/IEC 42001:2023 for Responsible AI Management; ISO 27001:2022; ISO 27701:2019; ISO 27017:2015; ISO 27018:2019; certified by iKeepSafe for COPPA and FERPA; ST4S Product Badge Program 2024",
+   "source_url": "https://trust.toddleapp.com/",
+   "confidence": "HIGH"
+  }
+ ],
+ "locations": [
+  {
+   "type": "hq",
+   "address_or_area": "F-1122, Amber Block, Brigade Lakefront App Seetharampalya, EPIP Zone, Near SAP Labs",
+   "city": "Bengaluru",
+   "state": "Karnataka",
+   "country": "India",
+   "as_of": "2026-09-15",
+   "source_url": "https://pitchbook.com/profiles/company/399505-96",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "registered_office",
+   "address_or_area": "No. 590, 2nd Floor, Phoenix Primus, 1st Cross Road, 12th Main HAL II Stage, Indiranagar, Bengaluru, Karnataka, India, 560038",
+   "city": "Bengaluru",
+   "state": "Karnataka",
+   "country": "India",
+   "as_of": "2026-07-04",
+   "source_url": "https://tracxn.com/d/legal-entities/india/teacher-tools-private-limited/__-h94PiPkHucwfKnzzxLAIz_Kp1CClZmOBMflhNJlHh4",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "office",
+   "address_or_area": "Data residency: Sydney (Australia), Virginia (USA), Ireland (Europe), Singapore, Dubai (UAE)",
+   "city": "Sydney",
+   "state": "New South Wales",
+   "country": "Australia",
+   "as_of": "2026-09-15",
+   "source_url": "https://www.toddleapp.com/privacy-policy",
+   "confidence": "HIGH",
+   "note": "Data residency/server location, not confirmed physical office"
+  },
+  {
+   "type": "office",
+   "address_or_area": "Phoenix, Arizona; London, GB; Abu Dhabi, AE",
+   "city": "Phoenix",
+   "state": "Arizona",
+   "country": "USA",
+   "as_of": "2026-09-15",
+   "source_url": "https://www.linkedin.com/company/toddle",
+   "confidence": "MEDIUM",
+   "note": "LinkedIn lists offices in Phoenix AZ, Bengaluru, London, Abu Dhabi"
+  },
+  {
+   "type": "office",
+   "address_or_area": "Regional Director Aus/NZ; Senior Managers School Partnerships NSW, VIC/TAS/SA, QLD/NT/WA",
+   "city": "Sydney",
+   "state": "New South Wales",
+   "country": "Australia",
+   "as_of": "2025-01-01",
+   "source_url": "https://premium.theeducatoronline.com/au-te-service-provider-awards-2025-toddle/p/1",
+   "confidence": "MEDIUM",
+   "note": "Australian team presence confirmed"
+  }
+ ],
+ "customers": [
+  {
+   "name": "Bombay International School",
+   "type": "school",
+   "status": "active",
+   "source_url": "https://economictimes.indiatimes.com/tech/funding/teaching-tool-toddle-raises-17-million-from-sequoia-matrix-others/articleshow/96862499.cms",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Dhirubhai Ambani International School",
+   "type": "school",
+   "status": "active",
+   "source_url": "https://economictimes.indiatimes.com/tech/funding/teaching-tool-toddle-raises-17-million-from-sequoia-matrix-others/articleshow/96862499.cms",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Canadian International School (Bengaluru)",
+   "type": "school",
+   "status": "active",
+   "source_url": "https://economictimes.indiatimes.com/tech/funding/teaching-tool-toddle-raises-17-million-from-sequoia-matrix-others/articleshow/96862499.cms",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Aspen School District",
+   "type": "school district",
+   "status": "active",
+   "source_url": "https://www.toddleapp.com",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "NYC Public Schools",
+   "type": "school district",
+   "status": "active",
+   "source_url": "https://www.toddleapp.com",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Chicago Public Schools",
+   "type": "school district",
+   "status": "active",
+   "source_url": "https://www.toddleapp.com",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Nord Anglia International School, Dublin",
+   "type": "school",
+   "status": "active",
+   "source_url": "https://www.toddleapp.com",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Western Academy of Beijing",
+   "type": "school",
+   "status": "active",
+   "source_url": "https://www.toddleapp.com",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Dubai International Academy",
+   "type": "school",
+   "status": "active",
+   "source_url": "https://www.toddleapp.com",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Silicon Valley International School",
+   "type": "school",
+   "status": "active",
+   "source_url": "https://www.toddleapp.com",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "The Mount Vernon School",
+   "type": "school",
+   "status": "active",
+   "source_url": "https://www.toddleapp.com",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "UWC Maastricht",
+   "type": "school",
+   "status": "active",
+   "source_url": "https://www.toddleapp.com",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Daystar Academy",
+   "type": "school",
+   "status": "active",
+   "source_url": "https://www.toddleapp.com",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "International Charter School of Atlanta",
+   "type": "school",
+   "status": "active",
+   "source_url": "https://www.toddleapp.com",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "The Epstein School",
+   "type": "school",
+   "status": "active",
+   "source_url": "https://www.toddleapp.com",
+   "confidence": "HIGH"
+  }
+ ]
+}

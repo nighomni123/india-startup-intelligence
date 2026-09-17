@@ -1,0 +1,76 @@
+{
+ "canonical_key": "pixxel",
+ "updates": {
+  "company": {}
+ },
+ "financials_add": [],
+ "round_supplements": [
+  {
+   "match_round_type": "Series B",
+   "match_year": 2024,
+   "round_date": "2024-12-09",
+   "announcement_date": "2024-12-09",
+   "valuation": null,
+   "valuation_currency": null,
+   "valuation_type": null,
+   "new_or_existing": "$24M extension; Series B total $60M, all-rounds total $95M",
+   "purpose": "satellite constellation",
+   "source_url": "https://www.pixxel.space/news/pixxel-raises-24m-in-additional-funding-taking-its-total-series-b-raise-to-60m",
+   "confidence": "HIGH"
+  },
+  {
+   "match_round_type": "Series C",
+   "match_year": 2026,
+   "round_date": "2026-09-07",
+   "announcement_date": "2026-09-07",
+   "valuation": "~$400M",
+   "valuation_currency": "USD",
+   "valuation_type": "post-money (press-quoted)",
+   "new_or_existing": "Temasek + Seraphim co-led $100M",
+   "purpose": "constellation + Aurora analytics",
+   "source_url": "https://www.reuters.com/science/google-backed-indian-space-startup-raises-100-million-latest-funding-round-2026-09-07/",
+   "confidence": "MEDIUM"
+  }
+ ],
+ "investors_meta": [],
+ "people": [],
+ "sources": [
+  {
+   "url": "https://www.pixxel.space/news/pixxel-raises-100-million-in-series-c-funding-to-build-the-infrastructure-for-a-changing-planet",
+   "title": "Pixxel Raises $100 Million in Series C",
+   "publication_date": "2026-09-07",
+   "fields": [
+    "round_supplement"
+   ],
+   "confidence": "HIGH"
+  },
+  {
+   "url": "https://www.reuters.com/science/google-backed-indian-space-startup-raises-100-million-latest-funding-round-2026-09-07/",
+   "title": "Google-backed Indian space startup raises $100 million - Reuters",
+   "publication_date": "2026-09-07",
+   "fields": [
+    "round_supplement"
+   ],
+   "confidence": "HIGH"
+  },
+  {
+   "url": "https://www.outlookbusiness.com/start-up/pixxel-expands-funding-round-to-100-mn-after-deepinder-goyal-steps-back",
+   "title": "Pixxel Expands Funding Round to $100 Mn",
+   "publication_date": "2026",
+   "fields": [
+    "valuation"
+   ],
+   "confidence": "LOW"
+  }
+ ],
+ "log": [
+  {
+   "query": "Pixxel Series B/C valuations",
+   "found": "Series C $100M Sep 7 2026 (Temasek+Seraphim); valuation ~$400M per Outlook Business (LOW conf); Series B total $60M Dec 2024",
+   "unresolved": "valuation not confirmed by company/Reuters"
+  }
+ ],
+ "still_missing": [
+  "confirmed Series C valuation"
+ ]
+}

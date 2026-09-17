@@ -1,0 +1,196 @@
+{
+ "company": {
+  "business_model": "Marketplace/care-navigation: hospital referrals, admission + insurance support",
+  "cin": "U74999HR2021PTC095763",
+  "city": "Gurugram",
+  "founded_date": "2021-06-23",
+  "primary_sector": "healthtech surgical care",
+  "public_private": "private",
+  "startup_id": "hexahealth",
+  "startup_stage": "Series A",
+  "official_website": {
+   "v": "https://www.hexahealth.com",
+   "conf": "high",
+   "src": "https://www.hexahealth.com",
+   "note": "verified live 2026-09-15: name match on own homepage"
+  },
+  "website": "https://www.hexahealth.com",
+  "careers_website": {
+   "v": "https://www.hexahealth.com/careers",
+   "conf": "HIGH",
+   "src": "curl -L https://www.hexahealth.com/careers → 200; title 'HexaHealth Careers: Latest Job Openings and Hiring'; page contains career-related content",
+   "note": "Official careers page confirmed with real job listings"
+  }
+ },
+ "completeness_self": {
+  "financials": 6,
+  "founders": 9,
+  "funding": 9,
+  "identity": 9,
+  "investors": 9,
+  "legal": 5,
+  "products": 7,
+  "sources": 9,
+  "traction": 8
+ },
+ "conflicts": [],
+ "events": [
+  {
+   "date": "2025-04-30",
+   "headline": "$12M Series A led by Orios + 3one4; Enzia, ITI Growth new; Chiratae, Omidyar existing",
+   "source_url": "https://www.thehindubusinessline.com/companies/hexahealth-raises-12-million-in-series-a-round-led-by-orios-venture-partners-3one4-capital/article69508965.ece",
+   "type": "funding"
+  }
+ ],
+ "financials": [
+  {
+   "currency": "INR",
+   "fiscal_year": "FY25",
+   "metric": "surgeries facilitated value",
+   "source_title": "Business Standard Apr 2025",
+   "source_url": "https://www.business-standard.com/companies/start-ups/hexahealth-closes-series-a-round-of-12-mn-to-redefine-india-surgical-care-125043000698_1.html",
+   "value": "Rs 150 Cr (15,000 surgeries)",
+   "value_type": "management"
+  }
+ ],
+ "founders": [
+  {
+   "name": "Ankur Gigras",
+   "role": "Co-founder & CEO",
+   "source_url": "https://www.thehindubusinessline.com/companies/hexahealth-raises-12-million-in-series-a-round-led-by-orios-venture-partners-3one4-capital/article69508965.ece",
+   "still_active": true,
+   "type": "co-founder"
+  },
+  {
+   "name": "Vikas Chauhan",
+   "role": "Co-founder & COO",
+   "source_url": "https://www.crunchbase.com/organization/hexahealth",
+   "still_active": true,
+   "type": "co-founder"
+  },
+  {
+   "name": "Aman Priya Khanna",
+   "role": "Co-founder",
+   "source_url": "https://www.crunchbase.com/organization/hexahealth",
+   "still_active": true,
+   "type": "co-founder"
+  }
+ ],
+ "funding_rounds": [
+  {
+   "all_investors": [
+    "Chiratae Ventures",
+    "3one4 Capital",
+    "Omidyar Network India"
+   ],
+   "amount": "4.6M",
+   "announced_date": "2021-09-14",
+   "currency": "USD",
+   "round_type": "Seed",
+   "source_title": "Tracxn/CBInsights seed record",
+   "source_url": "https://www.cbinsights.com/company/hexahealth/financials",
+   "tier": "T3"
+  },
+  {
+   "all_investors": [
+    "Orios Venture Partners",
+    "3one4 Capital",
+    "Enzia Ventures",
+    "ITI Growth Opportunities Fund",
+    "Chiratae Ventures",
+    "Omidyar Network India"
+   ],
+   "amount": "12M",
+   "announced_date": "2025-04-30",
+   "currency": "USD",
+   "lead_investors": [
+    "Orios Venture Partners",
+    "3one4 Capital"
+   ],
+   "round_type": "Series A",
+   "source_title": "Hindu BusinessLine: HexaHealth $12M Series A",
+   "source_url": "https://www.thehindubusinessline.com/companies/hexahealth-raises-12-million-in-series-a-round-led-by-orios-venture-partners-3one4-capital/article69508965.ece",
+   "tier": "T2"
+  }
+ ],
+ "gaps": [
+  "Audited MCA revenue not verified; FY25 value figures are company-reported",
+  "Registered address per investor page: Vianam Healthtech, Gurgaon"
+ ],
+ "investor_links": [
+  {
+   "investor": "Orios Venture Partners",
+   "lead": true,
+   "rounds": [
+    "Series A 2025"
+   ],
+   "source_url": "https://www.thehindubusinessline.com/companies/hexahealth-raises-12-million-in-series-a-round-led-by-orios-venture-partners-3one4-capital/article69508965.ece"
+  },
+  {
+   "investor": "3one4 Capital",
+   "lead": true,
+   "rounds": [
+    "Seed 2021",
+    "Series A 2025"
+   ],
+   "source_url": "https://www.thehindubusinessline.com/companies/hexahealth-raises-12-million-in-series-a-round-led-by-orios-venture-partners-3one4-capital/article69508965.ece"
+  },
+  {
+   "investor": "Chiratae Ventures",
+   "lead": false,
+   "rounds": [
+    "Seed 2021",
+    "Series A 2025"
+   ],
+   "source_url": "https://www.business-standard.com/companies/start-ups/hexahealth-closes-series-a-round-of-12-mn-to-redefine-india-surgical-care-125043000698_1.html"
+  },
+  {
+   "investor": "Omidyar Network India",
+   "lead": false,
+   "rounds": [
+    "Seed 2021",
+    "Series A 2025"
+   ],
+   "source_url": "https://www.business-standard.com/companies/start-ups/hexahealth-closes-series-a-round-of-12-mn-to-redefine-india-surgical-care-125043000698_1.html"
+  }
+ ],
+ "research_log": [
+  {
+   "found": "Active; $12M Series A Apr 2025, Gurugram, 30k surgeries",
+   "query": "HexaHealth status 2025 2026"
+  },
+  {
+   "found": "CIN U74999HR2021PTC095763; founders; legal Vianam Healthtech",
+   "query": "HexaHealth founders CIN incorporation"
+  }
+ ],
+ "sources": [
+  {
+   "publication_date": "2025-04-30",
+   "publisher": "Hindu BusinessLine",
+   "title": "HexaHealth raises $12M Series A",
+   "url": "https://www.thehindubusinessline.com/companies/hexahealth-raises-12-million-in-series-a-round-led-by-orios-venture-partners-3one4-capital/article69508965.ece"
+  },
+  {
+   "publication_date": "2025-04-30",
+   "publisher": "Business Standard",
+   "title": "HexaHealth closes Series A $12mn",
+   "url": "https://www.business-standard.com/companies/start-ups/hexahealth-closes-series-a-round-of-12-mn-to-redefine-india-surgical-care-125043000698_1.html"
+  },
+  {
+   "publisher": "HexaHealth",
+   "title": "Investor page (legal name + address)",
+   "url": "https://www.hexahealth.com/investor"
+  }
+ ],
+ "startup_id": "hexahealth",
+ "traction": [
+  {
+   "as_of": "Apr 2025",
+   "metric": "surgeries facilitated cumulative",
+   "source_url": "https://www.business-standard.com/companies/start-ups/hexahealth-closes-series-a-round-of-12-mn-to-redefine-india-surgical-care-125043000698_1.html",
+   "value": "30,000"
+  }
+ ],
+ "_merged_session2": true
+}

@@ -1,0 +1,147 @@
+{
+ "startup_id": "fire ai fireai",
+ "company": {
+  "company_name": "Fire AI (FireAI)",
+  "status": "ACTIVE signal; identity unresolved",
+  "startup_stage": "pre-seed",
+  "public_private": "private",
+  "primary_sector": "AI data infrastructure",
+  "city": "Mumbai",
+  "country": "India",
+  "last_verified": "2026-09-15",
+  "official_website": {
+   "v": "https://www.fire.com",
+   "conf": "high",
+   "src": "https://www.fire.com",
+   "note": "verified live 2026-09-15: name match on own homepage"
+  },
+  "careers_website": {
+   "v": "https://www.fire.com/about/careers/",
+   "conf": "high",
+   "src": "https://www.fire.com",
+   "note": "careers link found on official homepage, probed live"
+  },
+  "website": "https://www.fire.com"
+ },
+ "funding_rounds": [
+  {
+   "round_type": "pre-seed",
+   "announced_date": "2026",
+   "amount": "500000",
+   "currency": "USD",
+   "lead_investors": [
+    "Venture Catalysts angel network"
+   ],
+   "source_url": "https://foundersday.co/startupfunding/india-vc-funding-tracker-for-saas-startups",
+   "source_title": "India VC funding tracker for SaaS startups",
+   "source_date": "2026",
+   "tier": "T5",
+   "confidence": "LOW",
+   "notes": "The fetched article describes a Singapore-based Fire AI/data company; not enough evidence it is the Mumbai candidate."
+  }
+ ],
+ "founders": [
+  {
+   "name": "Sunil",
+   "role": "co-founder",
+   "source_url": "https://foundersday.co/startupfunding/india-vc-funding-tracker-for-saas-startups",
+   "confidence": "LOW"
+  },
+  {
+   "name": "Sabari",
+   "role": "co-founder",
+   "source_url": "https://foundersday.co/startupfunding/india-vc-funding-tracker-for-saas-startups",
+   "confidence": "LOW"
+  },
+  {
+   "name": "Dushyant",
+   "role": "co-founder",
+   "source_url": "https://foundersday.co/startupfunding/india-vc-funding-tracker-for-saas-startups",
+   "confidence": "LOW"
+  },
+  {
+   "name": "Anil",
+   "role": "founder listed in source",
+   "source_url": "https://foundersday.co/startupfunding/india-vc-funding-tracker-for-saas-startups",
+   "confidence": "LOW"
+  }
+ ],
+ "investor_links": [
+  {
+   "investor": "Venture Catalysts angel network",
+   "investor_type": "angel network",
+   "rounds": [
+    "pre-seed"
+   ],
+   "lead": true,
+   "source_url": "https://foundersday.co/startupfunding/india-vc-funding-tracker-for-saas-startups",
+   "confidence": "LOW"
+  }
+ ],
+ "financials": [],
+ "events": [],
+ "sources": [
+  {
+   "url": "https://foundersday.co/startupfunding/india-vc-funding-tracker-for-saas-startups",
+   "title": "India VC funding tracker for SaaS startups",
+   "publisher": "FoundersDay",
+   "publication_date": "2026",
+   "retrieved_date": "2026-09-15",
+   "tier": "T5",
+   "claim_supported": "Fire AI funding and founders as described by article",
+   "fields_supported": [
+    "funding_rounds",
+    "founders"
+   ]
+  }
+ ],
+ "conflicts": [
+  {
+   "field": "identity/city",
+   "claim_a": "Candidate is Fire AI (FireAI), Mumbai",
+   "url_a": "https://foundersday.co/startupfunding/india-vc-funding-tracker-for-saas-startups",
+   "claim_b": "Fetched article says the Fire AI data company is Singapore based",
+   "url_b": "https://foundersday.co/startupfunding/india-vc-funding-tracker-for-saas-startups",
+   "resolution": "Preserved conflict; do not merge without primary evidence",
+   "resolved_value": ""
+  }
+ ],
+ "research_log": [
+  {
+   "query": "Fire AI FireAI startup status/shutdown/acquisition 2025 2026",
+   "found": "No results",
+   "unresolved": "Current status",
+   "next_action": "Find official Mumbai entity or registry record"
+  },
+  {
+   "query": "Fire AI FireAI India startup funding founders",
+   "found": "One article with Singapore-based company",
+   "unresolved": "Candidate identity",
+   "next_action": "Do not add more claims"
+  },
+  {
+   "query": "Fire AI Mumbai startup company",
+   "found": "No usable result captured",
+   "unresolved": "City and legal entity",
+   "next_action": "Registry/official-site lookup"
+  }
+ ],
+ "gaps": [
+  "Identity and India operating status could not be verified; source appears to describe a different Singapore company.",
+  "CIN, incorporation date, registered office, later funding and financials unavailable."
+ ],
+ "completeness_self": {
+  "identity": 2,
+  "founders": 3,
+  "funding": 3,
+  "investors": 2,
+  "financials": 0,
+  "products": 1,
+  "traction": 0,
+  "people": 0,
+  "customers": 0,
+  "legal": 0,
+  "sources": 2
+ },
+ "_merged_session2": true
+}

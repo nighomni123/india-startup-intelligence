@@ -1,0 +1,398 @@
+{
+ "acquisitions": [
+  {
+   "confidence": "MEDIUM",
+   "date": "2022-12-13",
+   "direction": "made",
+   "source_url": "https://pitchbook.com/profiles/company/516031-21",
+   "target": "Autovert (Bengaluru, subsidiary)",
+   "type": "product acquisition",
+   "counterparty": "Autovert",
+   "value": "undisclosed",
+   "rationale": "Bengaluru-based subsidiary acquisition"
+  }
+ ],
+ "canonical_key": "ecofy finance ecofy",
+ "company": {
+  "business_model": "Green-only NBFC: retail lending for EV, rooftop solar, SME",
+  "city": "Mumbai",
+  "confidence": "HIGH",
+  "country": "India",
+  "customer_type": "B2C + SME",
+  "founded_date": "2022",
+  "hq_type": "operating",
+  "legal_name": "Ecofy Finance (formerly Accretive Cleantech Finance)",
+  "primary_sector": "fintech lending green",
+  "primary_source_id": "ecofy-pr-mar2026",
+  "startup_id": "ecofy finance ecofy",
+  "startup_stage": "growth (Series B)",
+  "state": "Maharashtra",
+  "status": "active",
+  "website": "https://www.ecofy.co.in",
+  "cin": "U65990MH2022PTC378560",
+  "incorporation_date": "2022-03-17",
+  "official_website": {
+   "v": "https://www.ecofy.co.in",
+   "conf": "high",
+   "src": "https://www.ecofy.co.in",
+   "note": "verified live 2026-09-15: name match on own homepage"
+  },
+  "careers_website": {
+   "v": "https://www.ecofy.co.in/careers",
+   "conf": "high",
+   "src": "https://www.ecofy.co.in",
+   "note": "careers link found on official homepage, probed live"
+  }
+ },
+ "competitors": [],
+ "completeness_self": {
+  "customers": 6,
+  "financials": 6,
+  "founders": 8,
+  "funding": 9,
+  "identity": 8,
+  "investors": 9,
+  "legal": 4,
+  "people": 5,
+  "products": 8,
+  "sources": 8,
+  "traction": 8
+ },
+ "conflicts": [
+  {
+   "claim_a": "INR 380cr (~$41.1M per Mercom)",
+   "claim_b": "INR 380.5cr (~$42M per company PR)",
+   "field": "Mar 2026 equity round size",
+   "resolution": "Same round; FX rounding differences only",
+   "resolved_value": "INR 380.5cr",
+   "url_a": "https://www.mercomindia.com/ecofy-raises-%E2%82%B93-8-billion-to-expand-retail-green-finance-in-india",
+   "url_b": "https://www.ecofy.co.in/sites/default/files/2026-03/New%20Equity%20Infusion_Press%20Release_Ecofy_16Mar26_F.pdf"
+  }
+ ],
+ "customers": [],
+ "events": [
+  {
+   "announced_date": "2024-01-12",
+   "confidence": "MEDIUM",
+   "date": "2024-01-12",
+   "description": "INR 900M (~$10.83M) from FMO for product diversification",
+   "headline": "FMO Series B investment",
+   "source_url": "https://www.mercomindia.com/ecofy-raises-%E2%82%B93-8-billion-to-expand-retail-green-finance-in-india",
+   "type": "funding"
+  },
+  {
+   "announced_date": "2026-03-16",
+   "confidence": "HIGH",
+   "date": "2026-03-16",
+   "description": "INR 380.5cr equity: BII + Finnfund DAIF new; Eversource + FMO follow-on",
+   "headline": "INR 380.5cr growth equity",
+   "source_url": "https://www.ecofy.co.in/sites/default/files/2026-03/New%20Equity%20Infusion_Press%20Release_Ecofy_16Mar26_F.pdf",
+   "type": "funding"
+  },
+  {
+   "announced_date": "2026-05-06",
+   "confidence": "HIGH",
+   "date": "2026-05-06",
+   "description": "$15M debt from Mirova (Natixis affiliate) for onward solar + e-mobility lending",
+   "headline": "$15M Mirova debt",
+   "source_url": "https://www.vccircle.com/eversourcebacked-ecofy-gets-15-mn-from-natixis-affiliate",
+   "type": "funding"
+  }
+ ],
+ "financials": [
+  {
+   "confidence": "MEDIUM",
+   "currency": "INR",
+   "fiscal_year": "FY25",
+   "metric": "net_loss",
+   "source_title": "Eversource-backed Ecofy gets $15 mn",
+   "source_url": "https://www.vccircle.com/eversourcebacked-ecofy-gets-15-mn-from-natixis-affiliate",
+   "value": "~35 crore (vs ~33cr FY24)",
+   "value_type": "press-quoted-filing"
+  },
+  {
+   "confidence": "MEDIUM",
+   "currency": "INR",
+   "fiscal_year": "FY26",
+   "metric": "AUM",
+   "source_title": "Ecofy Raises Rs 3.8 Billion",
+   "source_url": "https://www.mercomindia.com/ecofy-raises-%E2%82%B93-8-billion-to-expand-retail-green-finance-in-india",
+   "value": "14 billion+",
+   "value_type": "management"
+  }
+ ],
+ "founders": [
+  {
+   "background": "MBA JBIMS; ex-banker",
+   "confidence": "HIGH",
+   "name": "Rajashree Nambiar",
+   "role": "Co-founder, MD & CEO",
+   "source_url": "http://ecofy.co.in/about-us",
+   "still_active": true,
+   "type": "co-founder"
+  },
+  {
+   "background": "27 years at Tata; 30+ yrs experience",
+   "confidence": "HIGH",
+   "name": "Govind Sankaranarayanan",
+   "role": "Co-founder, Wholetime Director & COO",
+   "source_url": "http://ecofy.co.in/about-us",
+   "still_active": true,
+   "type": "co-founder"
+  }
+ ],
+ "funding_rounds": [
+  {
+   "all_investors": [
+    "FMO"
+   ],
+   "amount": 900000000,
+   "announced_date": "2024-01-12",
+   "confidence": "MEDIUM",
+   "currency": "INR",
+   "lead_investors": [
+    "FMO"
+   ],
+   "round_type": "Series B",
+   "source_title": "Ecofy Raises Rs 3.8 Billion (history)",
+   "source_url": "https://www.mercomindia.com/ecofy-raises-%E2%82%B93-8-billion-to-expand-retail-green-finance-in-india",
+   "tier": "T3"
+  },
+  {
+   "all_investors": [
+    "British International Investment",
+    "Finnfund DAIF",
+    "Eversource Capital",
+    "FMO"
+   ],
+   "amount": 3805000000,
+   "announced_date": "2026-03-16",
+   "confidence": "HIGH",
+   "currency": "INR",
+   "lead_investors": [
+    "British International Investment",
+    "Finnfund"
+   ],
+   "round_type": "Series B extension / growth equity",
+   "source_date": "2026-03-16",
+   "source_title": "Eversource-Backed Ecofy Raises INR 380 Crore",
+   "source_url": "https://www.ecofy.co.in/sites/default/files/2026-03/New%20Equity%20Infusion_Press%20Release_Ecofy_16Mar26_F.pdf",
+   "tier": "T1"
+  },
+  {
+   "all_investors": [
+    "Mirova (Natixis IM)"
+   ],
+   "amount": 15000000,
+   "announced_date": "2026-05-06",
+   "confidence": "HIGH",
+   "currency": "USD",
+   "lead_investors": [
+    "Mirova"
+   ],
+   "round_type": "Debt",
+   "source_date": "2026-05-06",
+   "source_title": "Eversource-backed Ecofy gets $15 mn from Natixis affiliate",
+   "source_url": "https://www.vccircle.com/eversourcebacked-ecofy-gets-15-mn-from-natixis-affiliate",
+   "tier": "T3"
+  },
+  {
+   "round_type": "Series B",
+   "amount": "",
+   "currency": "USD",
+   "round_date": "2026-03",
+   "valuation": "",
+   "valuation_currency": "",
+   "valuation_type": "",
+   "lead_investors": [],
+   "all_investors": [],
+   "new_or_existing": "",
+   "purpose": "Expand retail green lending (EV, rooftop solar, SME)",
+   "source_url": "https://entrackr.com/news/ecofy-raises-rs-3805-cr-in-series-b-round-led-by-bii-and-finnfund-11216830",
+   "confidence": "MEDIUM",
+   "notes": "added session-2 gapfill"
+  }
+ ],
+ "gaps": [
+  "Audited FY25 revenue not verified",
+  "CIN not verified",
+  "Eversource initial cheque (2022/2023) size unverified",
+  "Employee count: Tracxn 283 vs company 800+ (Mar 2026 milestone) — unresolved timing",
+  "valuation for Series B (Mar 2026) — not disclosed in company PR or press coverage"
+ ],
+ "hiring": [],
+ "investor_links": [
+  {
+   "confidence": "HIGH",
+   "investor": "Eversource Capital (Everstone + Lightsource bp)",
+   "investor_type": "PE",
+   "lead": true,
+   "rounds": [
+    "seed/backing",
+    "Mar 2026 follow-on"
+   ],
+   "source_url": "http://ecofy.co.in/about-us"
+  },
+  {
+   "confidence": "HIGH",
+   "investor": "FMO (Dutch DFI)",
+   "investor_type": "DFI",
+   "rounds": [
+    "Series B Jan 2024",
+    "Mar 2026 follow-on"
+   ],
+   "source_url": "https://www.mercomindia.com/ecofy-raises-%E2%82%B93-8-billion-to-expand-retail-green-finance-in-india"
+  },
+  {
+   "confidence": "HIGH",
+   "investor": "British International Investment",
+   "investor_type": "DFI",
+   "lead": true,
+   "rounds": [
+    "Mar 2026"
+   ],
+   "source_url": "https://www.ecofy.co.in/sites/default/files/2026-03/New%20Equity%20Infusion_Press%20Release_Ecofy_16Mar26_F.pdf"
+  },
+  {
+   "confidence": "HIGH",
+   "investor": "Finnfund DAIF",
+   "investor_type": "DFI",
+   "lead": true,
+   "rounds": [
+    "Mar 2026"
+   ],
+   "source_url": "https://www.ecofy.co.in/sites/default/files/2026-03/New%20Equity%20Infusion_Press%20Release_Ecofy_16Mar26_F.pdf"
+  },
+  {
+   "confidence": "HIGH",
+   "investor": "Mirova (Natixis IM)",
+   "investor_type": "debt",
+   "rounds": [
+    "May 2026 debt"
+   ],
+   "source_url": "https://www.vccircle.com/eversourcebacked-ecofy-gets-15-mn-from-natixis-affiliate"
+  }
+ ],
+ "investors_meta": [],
+ "ip_tech_ai": {},
+ "legal": [],
+ "locations": [
+  {
+   "as_of": "2026-03",
+   "city": "Mumbai",
+   "confidence": "HIGH",
+   "source_url": "https://pitchbook.com/profiles/company/516031-21",
+   "state": "Maharashtra",
+   "type": "HQ"
+  }
+ ],
+ "partnerships": [
+  {
+   "confidence": "MEDIUM",
+   "name": "100+ OEMs, 23+ banks/FIs; Waaree Energies (2024)",
+   "source_url": "https://www.mercomindia.com/ecofy-raises-%E2%82%B93-8-billion-to-expand-retail-green-finance-in-india"
+  }
+ ],
+ "people": [
+  {
+   "confidence": "MEDIUM",
+   "name": "Nelson D'Souza",
+   "position": "CFO",
+   "source_url": "https://platform.tracxn.com/a/d/company/640e98878eed971e4e9e851d/ecofy"
+  }
+ ],
+ "products": [
+  {
+   "category": "green lending",
+   "confidence": "HIGH",
+   "name": "EV 2W/3W loans, rooftop solar finance, SME term/supply-chain loans",
+   "source_url": "http://ecofy.co.in/about-us",
+   "status": "active"
+  }
+ ],
+ "research_log": [
+  {
+   "found": "Founders, Eversource backing, FMO 2024, Mar 2026 equity, May 2026 debt, FY25 loss, AUM",
+   "next_action": "Verify CIN + audited FY25 revenue",
+   "query": "Ecofy funding founders revenue",
+   "unresolved": "Audited financials; seed cheque"
+  },
+  {
+   "date": "2026-09-14",
+   "found": "CIN U65990MH2022PTC378560 (gocredit registry page); incorporated 17 Mar 2022 (CBonds, Tracxn, CRISIL/ICRA corroborate Mar 2022; NBFC licence Nov 2022)",
+   "query": "Ecofy Finance Accretive Cleantech Finance CIN incorporation date"
+  },
+  {
+   "date": "2026-09-14",
+   "found": "Mar 2026 Series B Rs 380.5cr led by BII + Finnfund; no valuation disclosed in coverage",
+   "query": "Ecofy Finance valuation March 2026 equity round BII Finnfund Eversource",
+   "unresolved": "valuation not disclosed"
+  }
+ ],
+ "sources": [
+  {
+   "publication_date": "2026-03-17",
+   "publisher": "Mercom India",
+   "retrieved_date": "2026-09-14",
+   "tier": "T3",
+   "title": "Ecofy Raises Rs 3.8 Billion",
+   "url": "https://www.mercomindia.com/ecofy-raises-%E2%82%B93-8-billion-to-expand-retail-green-finance-in-india"
+  },
+  {
+   "publication_date": "2026-05-06",
+   "publisher": "VCCircle",
+   "retrieved_date": "2026-09-14",
+   "tier": "T3",
+   "title": "Eversource-backed Ecofy gets $15 mn from Natixis affiliate",
+   "url": "https://www.vccircle.com/eversourcebacked-ecofy-gets-15-mn-from-natixis-affiliate"
+  },
+  {
+   "publication_date": "2026-03-16",
+   "publisher": "Ecofy (company PR)",
+   "retrieved_date": "2026-09-14",
+   "tier": "T1",
+   "title": "Eversource-Backed Ecofy Raises INR 380 Crore",
+   "url": "https://www.ecofy.co.in/sites/default/files/2026-03/New%20Equity%20Infusion_Press%20Release_Ecofy_16Mar26_F.pdf"
+  },
+  {
+   "publisher": "Ecofy",
+   "retrieved_date": "2026-09-14",
+   "tier": "T1",
+   "title": "About Us (founders)",
+   "url": "http://ecofy.co.in/about-us"
+  },
+  {
+   "url": "https://entrackr.com/news/ecofy-raises-rs-3805-cr-in-series-b-round-led-by-bii-and-finnfund-11216830",
+   "title": "",
+   "fields": "FUNDING",
+   "confidence": "MEDIUM"
+  },
+  {
+   "url": "https://gocredit.money",
+   "title": "Ecofy Finance Private Limited (Formerly known as ...",
+   "fields": [
+    "cin"
+   ],
+   "confidence": "MEDIUM"
+  },
+  {
+   "url": "https://www.icra.in",
+   "title": "Ecofy Finance Private Limited: Provisional [ ...",
+   "fields": [
+    "incorporation_date"
+   ],
+   "confidence": "HIGH"
+  }
+ ],
+ "startup_id": "ecofy finance ecofy",
+ "traction": [
+  {
+   "as_of": "2026-03",
+   "confidence": "HIGH",
+   "metric": "customers / footprint",
+   "source_url": "https://www.mirova.com/sites/default/files/2026-04/2026-05/06052026_PRESSRELEASE_Ecofy-Mirova.pdf",
+   "value": "130,000+ customers; 26 states, 500+ cities"
+  }
+ ],
+ "_merged_session2": true
+}

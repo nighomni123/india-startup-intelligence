@@ -1,0 +1,924 @@
+{
+ "company": {
+  "business_model": "marketplace/fintech: credit-card bill payments, lending, payments, commerce",
+  "city": "Bengaluru",
+  "country": "India",
+  "founded_date": "2018",
+  "last_funding_date": "2022-06-09",
+  "last_funding_round": "Series F",
+  "last_known_valuation": "$6.4B (Jun 2022)",
+  "legal_name": "Dreamplug Technologies Private Limited (ESTIMATE — MCA name seen in filings coverage; verify via MCA)",
+  "primary_sector": "fintech",
+  "public_private": "private",
+  "secondary_sectors": [
+   "credit",
+   "payments",
+   "lending"
+  ],
+  "startup_stage": "late (unicorn)",
+  "state": "Karnataka",
+  "status": "operating",
+  "cin": "U93090MH2018PTC308253",
+  "incorporation_date": "2018-04-19",
+  "official_website": {
+   "v": "https://cred.club",
+   "conf": "high",
+   "src": "https://cred.club (fetched via hyperresearch, title: 'CRED. not everyone gets it.')",
+   "note": "W-wave verified 2026-09-15"
+  },
+  "careers_website": {
+   "v": "https://careers.cred.club",
+   "conf": "high",
+   "src": "https://careers.cred.club/openings (search result title: 'CRED: Careers')",
+   "note": "Careers page found via search; hyperresearch fetch returned JUNK_CONTENT, but search snippets confirm active openings page"
+  },
+  "website": "https://cred.club"
+ },
+ "completeness_self": {
+  "customers": 6,
+  "financials": 8,
+  "founders": 7,
+  "funding": 8,
+  "identity": 8,
+  "investors": 8,
+  "legal": 3,
+  "people": 4,
+  "products": 7,
+  "sources": 8,
+  "traction": 7
+ },
+ "conflicts": [
+  {
+   "claim_a": "FY25 operating revenue Rs 2,735 cr (company statement via Moneycontrol/Entrackr/PTI)",
+   "claim_b": "FY25 revenue Rs 2,803.1 cr / Rs 2,535.7 cr total revenue (Inc42 company page figures)",
+   "field": "FY25_revenue",
+   "resolution": "Use company-statement Rs 2,735 cr operating revenue as primary; Inc42 page figures are secondary DB values, possibly total vs operating. Preserved both.",
+   "url_a": "https://www.moneycontrol.com/news/business/startup/cred-revenue-grows-16-to-rs-2-735-crore-in-fy25-operating-losses-halve-to-rs-298-crore-13800818.html",
+   "url_b": "https://inc42.com/company/cred/financials/"
+  }
+ ],
+ "customers": [
+  {
+   "name": "1.5 cr+ members; 1.26 cr monthly transacting users (FY25)",
+   "source_url": "https://www.moneycontrol.com/news/business/startup/cred-revenue-grows-16-to-rs-2-735-crore-in-fy25-operating-losses-halve-to-rs-298-crore-13800818.html",
+   "type": "consumer"
+  }
+ ],
+ "events": [
+  {
+   "confidence": "UNVERIFIED",
+   "date": "2026-06-22",
+   "description": "Tinyfish-fallback results (June 2026) claim Meta investing $900M at $4.5B valuation with Kunal Shah to lead WhatsApp. Sources are weak/secondary and claim is extraordinary; NOT verified via T1/T3 fetched page. Treat as rumor/unverified.",
+   "headline": "RUMOR (unverified): Meta $900M investment in CRED at $4.5B (Jun 2026 reports)",
+   "source_url": "https://techcrunch.com/2026/06/22/whatsapp-gets-new-chief-as-meta-taps-indias-cred-founder-kunal-shah-and-invests-900m-in-startup/",
+   "type": "funding-rumor"
+  }
+ ],
+ "financials": [
+  {
+   "confidence": "HIGH",
+   "currency": "INR",
+   "fiscal_year": "FY25",
+   "metric": "operating_revenue",
+   "source_date": "2026-01-30",
+   "source_title": "Cred revenue grows 16% to Rs 2,735 cr",
+   "source_url": "https://www.moneycontrol.com/news/business/startup/cred-revenue-grows-16-to-rs-2-735-crore-in-fy25-operating-losses-halve-to-rs-298-crore-13800818.html",
+   "unit": "crore",
+   "value": 2735,
+   "value_type": "management"
+  },
+  {
+   "confidence": "HIGH",
+   "currency": "INR",
+   "fiscal_year": "FY25",
+   "metric": "operating_loss",
+   "source_url": "https://www.moneycontrol.com/news/business/startup/cred-revenue-grows-16-to-rs-2-735-crore-in-fy25-operating-losses-halve-to-rs-298-crore-13800818.html",
+   "unit": "crore",
+   "value": 298,
+   "value_type": "management"
+  },
+  {
+   "confidence": "HIGH",
+   "currency": "INR",
+   "fiscal_year": "FY25",
+   "metric": "net_loss",
+   "source_url": "https://www.moneycontrol.com/news/business/startup/cred-revenue-grows-16-to-rs-2-735-crore-in-fy25-operating-losses-halve-to-rs-298-crore-13800818.html",
+   "unit": "crore",
+   "value": 1457,
+   "value_type": "management"
+  },
+  {
+   "confidence": "HIGH",
+   "currency": "INR",
+   "fiscal_year": "FY24",
+   "metric": "operating_revenue",
+   "source_date": "2024-09-30",
+   "source_title": "ET: Cred FY24 revenue Rs 2,473 cr",
+   "source_url": "https://economictimes.indiatimes.com/tech/technology/creds-fy24-revenue-surges-66-to-rs-2473-crore-overall-losses-up-22-to-rs-1644-crore/articleshow/113813924.cms",
+   "unit": "crore",
+   "value": 2473,
+   "value_type": "press-quoted-filing"
+  },
+  {
+   "confidence": "HIGH",
+   "currency": "INR",
+   "fiscal_year": "FY24",
+   "metric": "net_loss",
+   "source_url": "https://economictimes.indiatimes.com/tech/technology/creds-fy24-revenue-surges-66-to-rs-2473-crore-overall-losses-up-22-to-rs-1644-crore/articleshow/113813924.cms",
+   "unit": "crore",
+   "value": 1644,
+   "value_type": "press-quoted-filing"
+  }
+ ],
+ "founders": [
+  {
+   "background": "ex-FreeCharge founder",
+   "confidence": "HIGH",
+   "name": "Kunal Shah",
+   "role": "Founder & CEO",
+   "source_url": "https://techcrunch.com/2022/06/09/india-cred-valued-at-6-5-billion-in-new-funding/",
+   "still_active": true,
+   "type": "founder",
+   "active": "no — joined Meta as WhatsApp global CEO June 2026",
+   "departure_date": "June 2026",
+   "location": "Bengaluru",
+   "linkedin": "https://linkedin.com/in/kunalshah1"
+  }
+ ],
+ "funding_rounds": [
+  {
+   "all_investors": [
+    "Tiger Global",
+    "Falcon Edge"
+   ],
+   "amount": 251000000,
+   "announced_date": "2021-10-01",
+   "confidence": "MEDIUM",
+   "currency": "USD",
+   "lead_investors": [
+    "Tiger Global",
+    "Falcon Edge"
+   ],
+   "round_type": "Series E (reported Oct 2021)",
+   "source_title": "TechCrunch Jun 2022 (prior-round context)",
+   "source_url": "https://techcrunch.com/2022/06/09/india-cred-valued-at-6-5-billion-in-new-funding/",
+   "tier": "T3",
+   "valuation": "$4.01B",
+   "valuation_type": "post-money"
+  },
+  {
+   "all_investors": [
+    "GIC",
+    "Tiger Global",
+    "Sofina",
+    "Alpha Wave Global",
+    "Dragoneer"
+   ],
+   "amount": 140000000,
+   "announced_date": "2022-06-09",
+   "confidence": "HIGH",
+   "currency": "USD",
+   "lead_investors": [
+    "GIC"
+   ],
+   "notes": "Mix of primary + secondary; first tranche Rs 617 cr (~$80M) per MCA filings",
+   "round_type": "Series F",
+   "source_date": "2022-06-09",
+   "source_title": "ET: Cred raises $80M led by GIC at $6.4B",
+   "source_url": "https://economictimes.indiatimes.com/tech/funding/cred-raises-80-million-funding-led-by-gic-at-6-4-billion-valuation/articleshow/92111072.cms",
+   "tier": "T3",
+   "valuation": "$6.4B",
+   "valuation_type": "post-money"
+  }
+ ],
+ "gaps": [
+  "CIN not verified from MCA directly",
+  "Full early round history (Seed-Series D) not enumerated",
+  "FY26 figures not available",
+  "Meta $900M Jun-2026 claim unverified — needs T1/T3 confirmation",
+  "Seed-stage seed investors list incomplete",
+  "FY25/FY26 filing financials",
+  "round dates/valuations beyond enrich file"
+ ],
+ "investor_links": [
+  {
+   "confidence": "HIGH",
+   "investor": "GIC",
+   "investor_type": "SWF",
+   "lead": true,
+   "rounds": [
+    "Series F"
+   ],
+   "source_url": "https://techcrunch.com/2022/06/09/india-cred-valued-at-6-5-billion-in-new-funding/"
+  },
+  {
+   "confidence": "MEDIUM",
+   "investor": "Tiger Global",
+   "investor_type": "VC",
+   "rounds": [
+    "Series E",
+    "Series F"
+   ],
+   "source_url": "https://techcrunch.com/2022/06/09/india-cred-valued-at-6-5-billion-in-new-funding/"
+  },
+  {
+   "confidence": "MEDIUM",
+   "investor": "Peak XV Partners (Sequoia India)",
+   "investor_type": "VC",
+   "rounds": [
+    "early"
+   ],
+   "source_url": "https://economictimes.indiatimes.com/tech/technology/creds-fy24-revenue-surges-66-to-rs-2473-crore-overall-losses-up-22-to-rs-1644-crore/articleshow/113813924.cms"
+  }
+ ],
+ "locations": [
+  {
+   "city": "Bengaluru",
+   "confidence": "HIGH",
+   "source_url": "https://www.moneycontrol.com/news/business/startup/cred-revenue-grows-16-to-rs-2-735-crore-in-fy25-operating-losses-halve-to-rs-298-crore-13800818.html",
+   "state": "Karnataka",
+   "type": "HQ"
+  }
+ ],
+ "products": [
+  {
+   "category": "fintech",
+   "description": "Credit-card bill payments with rewards",
+   "name": "CRED app",
+   "status": "active"
+  },
+  {
+   "category": "fintech",
+   "description": "Expense management + corporate cards (acquired Dec 2021)",
+   "name": "Happay",
+   "status": "active"
+  }
+ ],
+ "research_log": [
+  {
+   "found": "Series F $140M/$6.4B; FY24/FY25 financials; founder; Meta rumor via tinyfish",
+   "next_action": "Confirm Meta deal via T1/T3; pull MCA CIN; enumerate early rounds",
+   "query": "CRED funding valuation FY24 FY25 founders; tinyfish Meta 2026 probe",
+   "unresolved": "Meta $900M claim; CIN; early rounds"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "Dreamplug Technologies Private Limited ZaubaCorp CIN incorporated",
+   "found": "CIN U93090MH2018PTC308253, incorporated 19 Apr 2018; legal-name link via Wikipedia",
+   "unresolved": ""
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "CRED official website India fintech",
+   "found": "cred.club confirmed as official domain",
+   "unresolved": ""
+  },
+  {
+   "date": "2026-09-14",
+   "query": "CRED careers page jobs",
+   "found": "careers.cred.club confirmed as careers page",
+   "unresolved": ""
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  }
+ ],
+ "sources": [
+  {
+   "claim_supported": "Series F $140M at $6.4B led by GIC",
+   "fields_supported": [
+    "funding_rounds"
+   ],
+   "publication_date": "2022-06-09",
+   "publisher": "TechCrunch",
+   "retrieved_date": "2026-09-14",
+   "tier": "T3",
+   "title": "India's CRED valued at $6.4B in new funding",
+   "url": "https://techcrunch.com/2022/06/09/india-cred-valued-at-6-5-billion-in-new-funding/"
+  },
+  {
+   "claim_supported": "Series F first tranche Rs 617 cr; $140M primary+secondary",
+   "fields_supported": [
+    "funding_rounds"
+   ],
+   "publication_date": "2022-06-09",
+   "publisher": "Economic Times",
+   "retrieved_date": "2026-09-14",
+   "tier": "T3",
+   "title": "Cred raises $80M led by GIC at $6.4B",
+   "url": "https://economictimes.indiatimes.com/tech/funding/cred-raises-80-million-funding-led-by-gic-at-6-4-billion-valuation/articleshow/92111072.cms"
+  },
+  {
+   "claim_supported": "FY25 operating revenue Rs 2,735 cr, op loss Rs 298 cr, net loss Rs 1,457 cr",
+   "fields_supported": [
+    "financials",
+    "traction"
+   ],
+   "publication_date": "2026-01-30",
+   "publisher": "Moneycontrol",
+   "retrieved_date": "2026-09-14",
+   "tier": "T3",
+   "title": "Cred revenue grows 16% to Rs 2,735 cr in FY25",
+   "url": "https://www.moneycontrol.com/news/business/startup/cred-revenue-grows-16-to-rs-2-735-crore-in-fy25-operating-losses-halve-to-rs-298-crore-13800818.html"
+  },
+  {
+   "claim_supported": "FY24 revenue Rs 2,473 cr, net loss Rs 1,644 cr",
+   "fields_supported": [
+    "financials"
+   ],
+   "publication_date": "2024-09-30",
+   "publisher": "Economic Times",
+   "retrieved_date": "2026-09-14",
+   "tier": "T3",
+   "title": "Cred FY24 revenue surges 66%",
+   "url": "https://economictimes.indiatimes.com/tech/technology/creds-fy24-revenue-surges-66-to-rs-2473-crore-overall-losses-up-22-to-rs-1644-crore/articleshow/113813924.cms"
+  },
+  {
+   "claim_supported": "Meta $900M at $4.5B rumor (UNVERIFIED, snippet-only)",
+   "fields_supported": [
+    "events"
+   ],
+   "publication_date": "2026-06-22",
+   "publisher": "TechCrunch (via tinyfish snippet; page not fetched)",
+   "retrieved_date": "2026-09-14",
+   "tier": "T5-snippet",
+   "title": "WhatsApp gets new chief as Meta taps CRED founder (snippet only)",
+   "url": "https://techcrunch.com/2026/06/22/whatsapp-gets-new-chief-as-meta-taps-indias-cred-founder-kunal-shah-and-invests-900m-in-startup/"
+  },
+  {
+   "url": "https://www.zaubacorp.com/DREAMPLUG-TECHNOLOGIES-PRIVATE-LIMITED-U93090MH2018PTC308253",
+   "title": "DREAMPLUG TECHNOLOGIES PRIVATE LIMITED | ZaubaCorp",
+   "fields": [
+    "cin",
+    "incorporation_date"
+   ],
+   "confidence": "medium-high"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Cred_(company)",
+   "title": "Cred (company) - Wikipedia",
+   "fields": [
+    "legal_name"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "url": "https://www.medianama.com/2026/06/223-kunal-shah-cred-ceo-lead-whatsapp-meta",
+   "title": "Kunal Shah steps down as CRED CEO to lead WhatsApp at Meta",
+   "tier": "T2",
+   "claim": "founder status Kunal Shah"
+  }
+ ],
+ "startup_id": "cred",
+ "traction": [
+  {
+   "as_of": "FY25",
+   "metric": "total_payment_value",
+   "source_url": "https://www.moneycontrol.com/news/business/startup/cred-revenue-grows-16-to-rs-2-735-crore-in-fy25-operating-losses-halve-to-rs-298-crore-13800818.html",
+   "value": "Rs 8.5 lakh cr (+23% YoY)"
+  },
+  {
+   "as_of": "FY25",
+   "metric": "lending_AUM",
+   "source_url": "https://www.moneycontrol.com/news/business/startup/cred-revenue-grows-16-to-rs-2-735-crore-in-fy25-operating-losses-halve-to-rs-298-crore-13800818.html",
+   "value": "Rs 22,000 cr"
+  }
+ ],
+ "_merged_session2": true
+}

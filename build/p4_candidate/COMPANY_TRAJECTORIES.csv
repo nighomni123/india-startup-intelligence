@@ -1,0 +1,340 @@
+startup_id,company,milestone_type,milestone,period,value,unit_raw,currency,source_id,confidence,notes
+S0001,Juspay,founded,2012,2012,,,,SRC00010,HIGH,STARTUPS.founded_date
+S0001,Juspay,first_funding_event,Series C,2021-12-15,4470.0,INR Mn,INR,SRC00013,HIGH,"earliest dated equity-class FUNDING row by announcement_date (excludes debt/IPO/acquisition rows); earliest TRACKED, not lifetime first"
+S0001,Juspay,legal_event,security_incident,2020-08,,,,SRC00017,HIGH,LEGAL_REGULATORY verbatim dates=2020-08
+S0002,KreditBee,first_funding_event,Series C (tranche 1),2021-02-15,5587.5,INR Mn,INR,SRC00043,HIGH,"earliest dated equity-class FUNDING row by announcement_date (excludes debt/IPO/acquisition rows); earliest TRACKED, not lifetime first"
+S0002,KreditBee,legal_event,regulatory,2026-07-27,,,,SRC00061,HIGH,LEGAL_REGULATORY verbatim dates=2026-07-27
+S0003,PhonePe,first_funding_event,growth/secondary mix,2023-01-01,8280.0,INR Mn,INR,SRC00080,HIGH,"earliest dated equity-class FUNDING row by announcement_date (excludes debt/IPO/acquisition rows); earliest TRACKED, not lifetime first"
+S0004,Razorpay,first_funding_event,Series C,2019-06-18,6450.0,INR Mn,INR,SRC00093,MEDIUM,"earliest dated equity-class FUNDING row by announcement_date (excludes debt/IPO/acquisition rows); earliest TRACKED, not lifetime first"
+S0004,Razorpay,acquisition,made acqui-hire / consumer UPI expansion,2025-06-17,$30M (per Entrackr snippet),as-stated in ACQUISITIONS.value,,SRC00098,MEDIUM,ACQUISITIONS verbatim
+S0005,Zepto,first_funding_event,seed,2021-07-01,,INR Mn,INR,SRC00110,MEDIUM,"earliest dated equity-class FUNDING row by announcement_date (excludes debt/IPO/acquisition rows); earliest TRACKED, not lifetime first"
+S0005,Zepto,legal_event,litigation,2025-06-01,,,,SRC00109,HIGH,LEGAL_REGULATORY verbatim dates=2025-06-01
+S0006,Neysa,founded,2023-01-01,2023-01-01,,,,SRC00115,HIGH,STARTUPS.founded_date
+S0006,Neysa,first_funding_event,Seed,2024-04-10,1674.0,INR Mn,INR,SRC00117,HIGH,"earliest dated equity-class FUNDING row by announcement_date (excludes debt/IPO/acquisition rows); earliest TRACKED, not lifetime first"
+S0007,Amagi,founded,2008,2008,,,,,MEDIUM,STARTUPS.founded_date
+S0007,Amagi,first_funding_event,Series F-II,2022-11-01,7850.0,INR Mn,INR,SRC00136,HIGH,"earliest dated equity-class FUNDING row by announcement_date (excludes debt/IPO/acquisition rows); earliest TRACKED, not lifetime first"
+S0008,CRED,founded,2018,2018,,,,,MEDIUM,STARTUPS.founded_date
+S0008,CRED,first_funding_event,Series E (reported Oct 2021),2021-10-01,18699.5,INR Mn,INR,SRC00145,MEDIUM,"earliest dated equity-class FUNDING row by announcement_date (excludes debt/IPO/acquisition rows); earliest TRACKED, not lifetime first"
+S0009,Darwinbox,founded,2015,2015,,,,,MEDIUM,STARTUPS.founded_date
+S0009,Darwinbox,first_funding_event,Series D,2022-01-25,5652.0,INR Mn,INR,SRC00162,HIGH,"earliest dated equity-class FUNDING row by announcement_date (excludes debt/IPO/acquisition rows); earliest TRACKED, not lifetime first"
+S0011,Groww,founded,2016,2016,,,,SRC00191,HIGH,STARTUPS.founded_date
+S0011,Groww,first_funding_event,Series A,2019-01-23,533.2,INR Mn,INR,SRC00180,HIGH,"earliest dated equity-class FUNDING row by announcement_date (excludes debt/IPO/acquisition rows); earliest TRACKED, not lifetime first"
+S0011,Groww,legal_event,regulatory,2026-01-14,,,,SRC00199,HIGH,LEGAL_REGULATORY verbatim dates=2026-01-14
+S0012,Gupshup,founded,2004,2004,,,,,MEDIUM,STARTUPS.founded_date
+S0012,Gupshup,first_funding_event,Series F,2021-04-08,7450.0,INR Mn,INR,SRC00230,HIGH,"earliest dated equity-class FUNDING row by announcement_date (excludes debt/IPO/acquisition rows); earliest TRACKED, not lifetime first"
+S0012,Gupshup,acquisition,made product acquisition,2022-02-02,undisclosed,as-stated in ACQUISITIONS.value,,SRC00221,HIGH,ACQUISITIONS verbatim
+S0013,Krutrim,founded,2023-04-01,2023-04-01,,,,SRC00253,HIGH,STARTUPS.founded_date
+S0013,Krutrim,legal_event,regulatory,2025-09-10,,,,SRC00254,HIGH,LEGAL_REGULATORY verbatim dates=2025-09-10
+S0015,Slice,first_funding_event,Series B,2021-11-28,16390.0,INR Mn,INR,SRC00282,HIGH,"earliest dated equity-class FUNDING row by announcement_date (excludes debt/IPO/acquisition rows); earliest TRACKED, not lifetime first"
+S0015,Slice,legal_event,notice,2022,,,,,MEDIUM,LEGAL_REGULATORY verbatim dates=2022
+S0016,upGrad,founded,2015,2015,,,,SRC00316,HIGH,STARTUPS.founded_date
+S0016,upGrad,first_funding_event,Equity,2021-08-01,13782.5,INR Mn,INR,SRC00292,MEDIUM,"earliest dated equity-class FUNDING row by announcement_date (excludes debt/IPO/acquisition rows); earliest TRACKED, not lifetime first"
+S0016,upGrad,acquisition,made all-stock acquisition,2026-09-01,"~$206M (INR 1,955 cr) all-stock",as-stated in ACQUISITIONS.value,,SRC00288,HIGH,ACQUISITIONS verbatim
+S0016,upGrad,legal_event,notice,Cleared July 2026,,,,SRC00324,HIGH,LEGAL_REGULATORY verbatim dates=Cleared July 2026
+S0017,BrowserStack,founded,2011,2011,,,,SRC00335,HIGH,STARTUPS.founded_date
+S0017,BrowserStack,first_funding_event,Series A,2018-01-01,4300.0,INR Mn,INR,SRC00347,HIGH,"earliest dated equity-class FUNDING row by announcement_date (excludes debt/IPO/acquisition rows); earliest TRACKED, not lifetime first"
+S0018,Dhan,founded,2021,2021,,,,SRC00360,HIGH,STARTUPS.founded_date
+S0018,Dhan,first_funding_event,Seed,2021-02-01,,INR Mn,INR,SRC00354,MEDIUM,"earliest dated equity-class FUNDING row by announcement_date (excludes debt/IPO/acquisition rows); earliest TRACKED, not lifetime first"
+S0018,Dhan,legal_event,licence,,,,,SRC00360,HIGH,LEGAL_REGULATORY verbatim dates=
+S0019,PharmEasy,founded,2015,2015,,,,SRC00374,HIGH,STARTUPS.founded_date
+S0019,PharmEasy,legal_event,regulatory,2024,,,,SRC00394,MEDIUM,LEGAL_REGULATORY verbatim dates=2024
+S0020,Snapmint,founded,2017,2017,,,,,HIGH,STARTUPS.founded_date
+S0020,Snapmint,first_funding_event,debt+equity (unlettered),2022-10-17,1648.5,INR Mn,INR,SRC00410,MEDIUM,"earliest dated equity-class FUNDING row by announcement_date (excludes debt/IPO/acquisition rows); earliest TRACKED, not lifetime first"
+S0021,Upstox,founded,2009,2009,,,,SRC00437,HIGH,STARTUPS.founded_date
+S0021,Upstox,first_funding_event,Series B,2019-09-24,2150.0,INR Mn,INR,SRC00428,HIGH,"earliest dated equity-class FUNDING row by announcement_date (excludes debt/IPO/acquisition rows); earliest TRACKED, not lifetime first"
+S0021,Upstox,legal_event,regulatory,2024-ongoing,,,,SRC00431,HIGH,LEGAL_REGULATORY verbatim dates=2024-ongoing
+S0022,Udaan,founded,2016,2016,,,,,MEDIUM,STARTUPS.founded_date
+S0022,Udaan,first_funding_event,Series G,2025-02-17,6427.5,INR Mn,INR,SRC00443,HIGH,"earliest dated equity-class FUNDING row by announcement_date (excludes debt/IPO/acquisition rows); earliest TRACKED, not lifetime first"
+S0022,Udaan,legal_event,ruling,2025,,,,,MEDIUM,LEGAL_REGULATORY verbatim dates=2025
+S0023,ACKO,founded,2016,2016,,,,,HIGH,STARTUPS.founded_date
+S0023,ACKO,first_funding_event,Seed,2017-05-22,2580.0,INR Mn,INR,SRC00460,MEDIUM,"earliest dated equity-class FUNDING row by announcement_date (excludes debt/IPO/acquisition rows); earliest TRACKED, not lifetime first"
+S0023,ACKO,legal_event,notice,Dec 2024 request rejected; May 2025 revised plan rejected; FY26 compliance deadline,,,,SRC00459,MEDIUM,LEGAL_REGULATORY verbatim dates=Dec 2024 request rejected; May 2025 revised plan rejected; F
+S0024,CoinSwitch Kuber,founded,2017,2017,,,,,MEDIUM,STARTUPS.founded_date
+S0024,CoinSwitch Kuber,first_funding_event,Series A,2021-01-13,1117.5,INR Mn,INR,SRC00483,HIGH,"earliest dated equity-class FUNDING row by announcement_date (excludes debt/IPO/acquisition rows); earliest TRACKED, not lifetime first"
+S0024,CoinSwitch Kuber,legal_event,complaint,FY25,,,,,MEDIUM,LEGAL_REGULATORY verbatim dates=FY25
+S0025,Cult.fit (CureFit),founded,2016,2016,,,,,MEDIUM,STARTUPS.founded_date
+S0025,Cult.fit (CureFit),first_funding_event,Series A,2016-07-04,1290.0,INR Mn,INR,SRC00506,MEDIUM,"earliest dated equity-class FUNDING row by announcement_date (excludes debt/IPO/acquisition rows); earliest TRACKED, not lifetime first"
+S0025,Cult.fit (CureFit),legal_event,allegation,2026-08,,,,,MEDIUM,LEGAL_REGULATORY verbatim dates=2026-08
+S0026,Fireflies AI,first_funding_event,Seed,2019-10-29,,INR Mn,INR,SRC00518,HIGH,"earliest dated equity-class FUNDING row by announcement_date (excludes debt/IPO/acquisition rows); earliest TRACKED, not lifetime first"
+S0026,Fireflies AI,legal_event,allegation,filed Dec 2025; Mar 2026 cases,,,,SRC00517,MEDIUM,LEGAL_REGULATORY verbatim dates=filed Dec 2025; Mar 2026 cases
+S0029,LeadSquared,first_funding_event,Seed,2013-04-26,,INR Mn,INR,SRC00572,MEDIUM,"earliest dated equity-class FUNDING row by announcement_date (excludes debt/IPO/acquisition rows); earliest TRACKED, not lifetime first"
+S0030,MoEngage,founded,2014,2014,,,,,MEDIUM,STARTUPS.founded_date
+S0030,MoEngage,first_funding_event,Series E,2022-06-01,6044.5,INR Mn,INR,SRC00581,HIGH,"earliest dated equity-class FUNDING row by announcement_date (excludes debt/IPO/acquisition rows); earliest TRACKED, not lifetime first"
+S0031,Moneyview,founded,2014,2014,,,,,MEDIUM,STARTUPS.founded_date
+S0031,Moneyview,first_funding_event,Series E,2022-12-26,5887.5,INR Mn,INR,SRC00589,HIGH,"earliest dated equity-class FUNDING row by announcement_date (excludes debt/IPO/acquisition rows); earliest TRACKED, not lifetime first"
+S0031,Moneyview,acquisition,made acqui-hire / product acquisition,2024-09-12,~$4M (60.2 lakh Moneyview shares),as-stated in ACQUISITIONS.value,,SRC00594,HIGH,ACQUISITIONS verbatim
+S0032,Mu Sigma,founded,2004,2004,,,,SRC00602,HIGH,STARTUPS.founded_date
+S0032,Mu Sigma,first_funding_event,Series A / growth,2008-09-25,2580.0,INR Mn,INR,SRC00598,HIGH,"earliest dated equity-class FUNDING row by announcement_date (excludes debt/IPO/acquisition rows); earliest TRACKED, not lifetime first"
+S0032,Mu Sigma,legal_event,litigation,2016-03-10,,,,SRC00598,MEDIUM,LEGAL_REGULATORY verbatim dates=2016-03-10
+S0033,Netradyne,founded,2015,2015,,,,,MEDIUM,STARTUPS.founded_date
+S0033,Netradyne,first_funding_event,Series A,2016-07-15,1558.32,INR Mn,INR,SRC00607,MEDIUM,"earliest dated equity-class FUNDING row by announcement_date (excludes debt/IPO/acquisition rows); earliest TRACKED, not lifetime first"
+S0034,Postman,founded,2014,2014,,,,SRC00615,HIGH,STARTUPS.founded_date
+S0034,Postman,first_funding_event,Seed,2014-10-31,84.02,INR Mn,INR,SRC00615,MEDIUM,"earliest dated equity-class FUNDING row by announcement_date (excludes debt/IPO/acquisition rows); earliest TRACKED, not lifetime first"
+S0035,Zeta,founded,2015,2015,,,,SRC00631,HIGH,STARTUPS.founded_date
+S0035,Zeta,first_funding_event,Series C,2019-07-23,,INR Mn,INR,SRC00638,MEDIUM,"earliest dated equity-class FUNDING row by announcement_date (excludes debt/IPO/acquisition rows); earliest TRACKED, not lifetime first"
+S0035,Zeta,legal_event,notice,,,,,,LOW,LEGAL_REGULATORY verbatim dates=
+S0036,Flipkart,founded,2007,2007,,,,SRC00649,HIGH,STARTUPS.founded_date
+S0036,Flipkart,acquisition_financing_event,Acquisition (majority stake),2018-05-09,1376000.0,INR Mn,INR,SRC00651,HIGH,FUNDING row whose round_type records an acquisition/buyout event (not a startup funding round)
+S0036,Flipkart,legal_event,complaint,2019,,,,SRC00652,HIGH,LEGAL_REGULATORY verbatim dates=2019
+S0037,Porter,founded,2014,2014,,,,SRC00663,HIGH,STARTUPS.founded_date
+S0037,Porter,first_funding_event,Seed,2015-02-20,41.37,INR Mn,INR,SRC00662,MEDIUM,"earliest dated equity-class FUNDING row by announcement_date (excludes debt/IPO/acquisition rows); earliest TRACKED, not lifetime first"
+S0038,Unacademy,founded,2015,2015,,,,SRC00686,HIGH,STARTUPS.founded_date
+S0038,Unacademy,first_funding_event,Series H,2021-08-01,32780.0,INR Mn,INR,SRC00288,HIGH,"earliest dated equity-class FUNDING row by announcement_date (excludes debt/IPO/acquisition rows); earliest TRACKED, not lifetime first"
+S0038,Unacademy,legal_event,investigation,2026-07-07,,,,SRC00685,HIGH,LEGAL_REGULATORY verbatim dates=2026-07-07
+S0040,Zetwerk,founded,2018,2018,,,,SRC00715,HIGH,STARTUPS.founded_date
+S0040,Zetwerk,first_funding_event,Series E,2021-08-20,11175.0,INR Mn,INR,SRC00723,HIGH,"earliest dated equity-class FUNDING row by announcement_date (excludes debt/IPO/acquisition rows); earliest TRACKED, not lifetime first"
+S0040,Zetwerk,legal_event,litigation,2026-07,,,,SRC00725,HIGH,LEGAL_REGULATORY verbatim dates=2026-07
+S0041,Dream11 (Dream Sports),founded,2008,2008,,,,,HIGH,STARTUPS.founded_date
+S0041,Dream11 (Dream Sports),first_funding_event,Series A,2014,,INR Mn,INR,SRC00747,LOW,"earliest dated equity-class FUNDING row by announcement_date (excludes debt/IPO/acquisition rows); earliest TRACKED, not lifetime first"
+S0041,Dream11 (Dream Sports),legal_event,ruling,"Passed Lok Sabha Aug 20, Rajya Sabha Aug 21, 2025",,,,SRC00738,HIGH,"LEGAL_REGULATORY verbatim dates=Passed Lok Sabha Aug 20, Rajya Sabha Aug 21, 2025"
+S0042,InMobi,founded,2007,2007,,,,SRC00757,HIGH,STARTUPS.founded_date
+S0042,InMobi,first_funding_event,"Equity (early backer; ~$200-220M invested, per ET Dec 2025)",2011,,INR Mn,INR,SRC00752,MEDIUM,"earliest dated equity-class FUNDING row by announcement_date (excludes debt/IPO/acquisition rows); earliest TRACKED, not lifetime first"
+S0042,InMobi,legal_event,regulatory,2024-07,,,,SRC00760,LOW,LEGAL_REGULATORY verbatim dates=2024-07
+S0043,Nykaa,founded,2012-04-01,2012-04-01,,,,,HIGH,STARTUPS.founded_date
+S0043,Nykaa,first_funding_event,Primary (unicorn round),2019-03-01,,INR Mn,INR,SRC00777,MEDIUM,"earliest dated equity-class FUNDING row by announcement_date (excludes debt/IPO/acquisition rows); earliest TRACKED, not lifetime first"
+S0043,Nykaa,acquisition,made product acquisition,2026-08-04,up to Rs 32 crore,as-stated in ACQUISITIONS.value,,SRC00781,HIGH,ACQUISITIONS verbatim
+S0044,Rebel Foods,founded,2011,2011,,,,SRC00794,HIGH,STARTUPS.founded_date
+S0044,Rebel Foods,first_funding_event,Series A,2017,,INR Mn,INR,SRC00795,LOW,"earliest dated equity-class FUNDING row by announcement_date (excludes debt/IPO/acquisition rows); earliest TRACKED, not lifetime first"
+S0044,Rebel Foods,acquisition,made product acquisition,2022-04-07,undisclosed,as-stated in ACQUISITIONS.value,,SRC00791,MEDIUM,ACQUISITIONS verbatim
+S0044,Rebel Foods,legal_event,regulatory,2024-12,,,,SRC00785,HIGH,LEGAL_REGULATORY verbatim dates=2024-12
+S0045,Drools,founded,2009,2009,,,,SRC00807,HIGH,STARTUPS.founded_date
+S0045,Drools,first_funding_event,Private Equity minority,2023-06-20,4968.0,INR Mn,INR,SRC00797,,"earliest dated equity-class FUNDING row by announcement_date (excludes debt/IPO/acquisition rows); earliest TRACKED, not lifetime first"
+S0046,Fractal Analytics,founded,2000,2000,,,,,HIGH,STARTUPS.founded_date
+S0046,Fractal Analytics,first_funding_event,Series C,2016-05-10,8600.0,INR Mn,INR,SRC00824,MEDIUM,"earliest dated equity-class FUNDING row by announcement_date (excludes debt/IPO/acquisition rows); earliest TRACKED, not lifetime first"
+S0047,Jumbotail,founded,2015-11-04,2015-11-04,,,,SRC00833,HIGH,STARTUPS.founded_date
+S0047,Jumbotail,first_funding_event,Seed,2015-12-16,169.42,INR Mn,INR,SRC00837,HIGH,"earliest dated equity-class FUNDING row by announcement_date (excludes debt/IPO/acquisition rows); earliest TRACKED, not lifetime first"
+S0047,Jumbotail,legal_event,complaint,2025-04,,,,SRC00838,MEDIUM,LEGAL_REGULATORY verbatim dates=2025-04
+S0048,Livspace,founded,2014,2014,,,,SRC00859,HIGH,STARTUPS.founded_date
+S0048,Livspace,first_funding_event,Series A,2014-12-17,395.6,INR Mn,INR,SRC00867,HIGH,"earliest dated equity-class FUNDING row by announcement_date (excludes debt/IPO/acquisition rows); earliest TRACKED, not lifetime first"
+S0048,Livspace,legal_event,regulatory,2024-09-18,,,,SRC00884,HIGH,LEGAL_REGULATORY verbatim dates=2024-09-18
+S0049,Meesho,founded,2015-12-01,2015-12-01,,,,SRC00893,HIGH,STARTUPS.founded_date
+S0049,Meesho,first_funding_event,Seed,2015,25.8,INR Mn,INR,SRC00894,MEDIUM,"earliest dated equity-class FUNDING row by announcement_date (excludes debt/IPO/acquisition rows); earliest TRACKED, not lifetime first"
+S0049,Meesho,legal_event,regulatory,2025,,,,SRC00890,HIGH,LEGAL_REGULATORY verbatim dates=2025
+S0051,Rapido,founded,2015,2015,,,,SRC00937,HIGH,STARTUPS.founded_date
+S0051,Rapido,first_funding_event,Seed,2016,,INR Mn,INR,SRC00938,MEDIUM,"earliest dated equity-class FUNDING row by announcement_date (excludes debt/IPO/acquisition rows); earliest TRACKED, not lifetime first"
+S0051,Rapido,legal_event,regulatory,2024-03-06,,,,SRC00956,HIGH,LEGAL_REGULATORY verbatim dates=2024-03-06
+S0052,ShareChat,founded,2015,2015,,,,SRC00974,HIGH,STARTUPS.founded_date
+S0052,ShareChat,first_funding_event,Seed,2015-10-03,60.2,INR Mn,INR,SRC00980,MEDIUM,"earliest dated equity-class FUNDING row by announcement_date (excludes debt/IPO/acquisition rows); earliest TRACKED, not lifetime first"
+S0052,ShareChat,legal_event,transparency,2021-2024,,,,SRC00993,MEDIUM,LEGAL_REGULATORY verbatim dates=2021-2024
+S0053,Apna,founded,2019,2019,,,,SRC00998,HIGH,STARTUPS.founded_date
+S0053,Apna,first_funding_event,Seed,2019-07-01,258.0,INR Mn,INR,SRC00998,MEDIUM,"earliest dated equity-class FUNDING row by announcement_date (excludes debt/IPO/acquisition rows); earliest TRACKED, not lifetime first"
+S0053,Apna,legal_event,regulatory,2024-02-28,,,,SRC01009,HIGH,LEGAL_REGULATORY verbatim dates=2024-02-28
+S0054,BharatPe,founded,2018-03-01,2018-03-01,,,,,MEDIUM,STARTUPS.founded_date
+S0054,BharatPe,first_funding_event,Series C,2020-02-01,5550.0,INR Mn,INR,SRC01019,MEDIUM,"earliest dated equity-class FUNDING row by announcement_date (excludes debt/IPO/acquisition rows); earliest TRACKED, not lifetime first"
+S0054,BharatPe,legal_event,settlement,2022-2024; settled 2024-09-30,,,,SRC01014,HIGH,LEGAL_REGULATORY verbatim dates=2022-2024; settled 2024-09-30
+S0055,Euler Motors,founded,2018,2018,,,,SRC01029,HIGH,STARTUPS.founded_date
+S0055,Euler Motors,first_funding_event,Series C,2022-10-03,4710.0,INR Mn,INR,SRC01031,HIGH,"earliest dated equity-class FUNDING row by announcement_date (excludes debt/IPO/acquisition rows); earliest TRACKED, not lifetime first"
+S0055,Euler Motors,legal_event,regulatory,FY24-FY25,,,,SRC01026,MEDIUM,LEGAL_REGULATORY verbatim dates=FY24-FY25
+S0058,Pixxel,first_funding_event,Seed,2021-03-17,543.85,INR Mn,INR,SRC01066,HIGH,"earliest dated equity-class FUNDING row by announcement_date (excludes debt/IPO/acquisition rows); earliest TRACKED, not lifetime first"
+S0061,Nua,founded,2017,2017,,,,SRC01121,HIGH,STARTUPS.founded_date
+S0061,Nua,first_funding_event,Series A,2019,344.0,INR Mn,INR,SRC01118,MEDIUM,"earliest dated equity-class FUNDING row by announcement_date (excludes debt/IPO/acquisition rows); earliest TRACKED, not lifetime first"
+S0062,Truemeds,founded,2019,2019,,,,SRC01145,HIGH,STARTUPS.founded_date
+S0062,Truemeds,first_funding_event,Seed,2020-05-16,36.84,INR Mn,INR,SRC01155,HIGH,"earliest dated equity-class FUNDING row by announcement_date (excludes debt/IPO/acquisition rows); earliest TRACKED, not lifetime first"
+S0062,Truemeds,legal_event,regulatory,,,,,SRC01149,MEDIUM,LEGAL_REGULATORY verbatim dates=
+S0063,Weaver Services,founded,2024-04-01,2024-04-01,,,,SRC01173,HIGH,STARTUPS.founded_date
+S0063,Weaver Services,first_funding_event,Growth equity,2025-08-19,14569.0,INR Mn,INR,SRC01163,HIGH,"earliest dated equity-class FUNDING row by announcement_date (excludes debt/IPO/acquisition rows); earliest TRACKED, not lifetime first"
+S0063,Weaver Services,acquisition,made vertical integration,2026-03-18,~Rs 600 Cr total deal (Rs 430 Cr for 56.4% + Rs 170 Cr for 18.6%),as-stated in ACQUISITIONS.value,,SRC01171,HIGH,ACQUISITIONS verbatim
+S0063,Weaver Services,legal_event,regulatory,2025-08,,,,SRC01177,MEDIUM,LEGAL_REGULATORY verbatim dates=2025-08
+S0064,NoBroker,founded,2014,2014,,,,SRC01189,HIGH,STARTUPS.founded_date
+S0064,NoBroker,first_funding_event,Series C,2019-06-22,4386.0,INR Mn,INR,SRC01193,MEDIUM,"earliest dated equity-class FUNDING row by announcement_date (excludes debt/IPO/acquisition rows); earliest TRACKED, not lifetime first"
+S0064,NoBroker,legal_event,licence,Unknown,,,,SRC01191,HIGH,LEGAL_REGULATORY verbatim dates=Unknown
+S0065,Skyroot Aerospace,founded,2018,2018,,,,,MEDIUM,STARTUPS.founded_date
+S0065,Skyroot Aerospace,first_funding_event,Series B (early tranche; Sherpalo participated),2022-01-01,353.25,INR Mn,INR,SRC01204,MEDIUM,"earliest dated equity-class FUNDING row by announcement_date (excludes debt/IPO/acquisition rows); earliest TRACKED, not lifetime first"
+S0066,Digantara,founded,2020,2020,,,,SRC01214,HIGH,STARTUPS.founded_date
+S0066,Digantara,first_funding_event,Grant (prize money),2020-08-20,0.25,INR Mn,INR,SRC01215,HIGH,"earliest dated equity-class FUNDING row by announcement_date (excludes debt/IPO/acquisition rows); earliest TRACKED, not lifetime first"
+S0067,Games24x7,founded,2006,2006,,,,SRC01244,HIGH,STARTUPS.founded_date
+S0067,Games24x7,first_funding_event,Seed,2006-06-01,,INR Mn,INR,SRC01240,LOW,"earliest dated equity-class FUNDING row by announcement_date (excludes debt/IPO/acquisition rows); earliest TRACKED, not lifetime first"
+S0067,Games24x7,legal_event,regulatory,2025-09-01,,,,SRC01231,MEDIUM,LEGAL_REGULATORY verbatim dates=2025-09-01
+S0068,Infra.Market,founded,2016,2016,,,,SRC01265,HIGH,STARTUPS.founded_date
+S0068,Infra.Market,first_funding_event,Seed/Series A,2019,860.0,INR Mn,INR,SRC01259,MEDIUM,"earliest dated equity-class FUNDING row by announcement_date (excludes debt/IPO/acquisition rows); earliest TRACKED, not lifetime first"
+S0068,Infra.Market,legal_event,complaint,2026,,,,SRC01260,MEDIUM,LEGAL_REGULATORY verbatim dates=2026
+S0070,Navi,founded,2018,2018,,,,SRC01291,HIGH,STARTUPS.founded_date
+S0070,Navi,first_funding_event,Convertible Debt,2024-05-23,1507.62,INR Mn,INR,SRC01292,MEDIUM,"earliest dated equity-class FUNDING row by announcement_date (excludes debt/IPO/acquisition rows); earliest TRACKED, not lifetime first"
+S0070,Navi,legal_event,regulatory,2024-10-21,,,,SRC01293,HIGH,LEGAL_REGULATORY verbatim dates=2024-10-21
+S0071,Ninjacart,founded,2015,2015,,,,SRC01316,HIGH,STARTUPS.founded_date
+S0071,Ninjacart,first_funding_event,Series B,2018-12-12,3100.0,INR Mn,INR,SRC01317,HIGH,"earliest dated equity-class FUNDING row by announcement_date (excludes debt/IPO/acquisition rows); earliest TRACKED, not lifetime first"
+S0071,Ninjacart,legal_event,insolvency,,,,,SRC01312,LOW,LEGAL_REGULATORY verbatim dates=
+S0072,Pine Labs,founded,1998,1998,,,,,HIGH,STARTUPS.founded_date
+S0072,Pine Labs,first_funding_event,Seed,2009-01-01,,INR Mn,INR,SRC01333,MEDIUM,"earliest dated equity-class FUNDING row by announcement_date (excludes debt/IPO/acquisition rows); earliest TRACKED, not lifetime first"
+S0072,Pine Labs,legal_event,arbitration,,,,,,LOW,LEGAL_REGULATORY verbatim dates=
+S0075,Ultrahuman,founded,2019-12-01,2019-12-01,,,,SRC01406,HIGH,STARTUPS.founded_date
+S0075,Ultrahuman,first_funding_event,Seed,2019-12-11,,INR Mn,INR,SRC01408,MEDIUM,"earliest dated equity-class FUNDING row by announcement_date (excludes debt/IPO/acquisition rows); earliest TRACKED, not lifetime first"
+S0075,Ultrahuman,legal_event,compliance,,,,,SRC01406,MEDIUM,LEGAL_REGULATORY verbatim dates=
+S0076,Third Wave Coffee,founded,2016,2016,,,,SRC01438,HIGH,STARTUPS.founded_date
+S0076,Third Wave Coffee,first_funding_event,Series A,2021,447.0,INR Mn,INR,SRC01440,MEDIUM,"earliest dated equity-class FUNDING row by announcement_date (excludes debt/IPO/acquisition rows); earliest TRACKED, not lifetime first"
+S0077,Celcius Logistics,founded,2020,2020,,,,,HIGH,STARTUPS.founded_date
+S0077,Celcius Logistics,first_funding_event,Series B (equity + debt + secondary),2025-05-06,21425.0,INR Mn,INR,SRC01457,HIGH,"earliest dated equity-class FUNDING row by announcement_date (excludes debt/IPO/acquisition rows); earliest TRACKED, not lifetime first"
+S0078,Square Yards,founded,2014,2014,,,,SRC01471,HIGH,STARTUPS.founded_date
+S0078,Square Yards,first_funding_event,Private,2014,,INR Mn,INR,SRC01472,LOW,"earliest dated equity-class FUNDING row by announcement_date (excludes debt/IPO/acquisition rows); earliest TRACKED, not lifetime first"
+S0084,MobiKwik,founded,2008,2008,,,,,HIGH,STARTUPS.founded_date
+S0084,MobiKwik,first_funding_event,Series C,2016-05-01,4300.0,INR Mn,INR,SRC01518,MEDIUM,"earliest dated equity-class FUNDING row by announcement_date (excludes debt/IPO/acquisition rows); earliest TRACKED, not lifetime first"
+S0085,OfBusiness,founded,2015,2015,,,,SRC01540,HIGH,STARTUPS.founded_date
+S0085,OfBusiness,first_funding_event,Series A,2015-09-26,369.8,INR Mn,INR,SRC01545,MEDIUM,"earliest dated equity-class FUNDING row by announcement_date (excludes debt/IPO/acquisition rows); earliest TRACKED, not lifetime first"
+S0085,OfBusiness,legal_event,regulatory,2026-04-22,,,,SRC01539,HIGH,LEGAL_REGULATORY verbatim dates=2026-04-22
+S0086,Pristyn Care,founded,2018,2018,,,,,HIGH,STARTUPS.founded_date
+S0086,Pristyn Care,first_funding_event,Series A,2019-06-02,344.0,INR Mn,INR,SRC01574,MEDIUM,"earliest dated equity-class FUNDING row by announcement_date (excludes debt/IPO/acquisition rows); earliest TRACKED, not lifetime first"
+S0087,Swish,founded,2024,2024,,,,SRC01594,HIGH,STARTUPS.founded_date
+S0087,Swish,first_funding_event,Seed,2024-11-19,167.4,INR Mn,INR,SRC01584,HIGH,"earliest dated equity-class FUNDING row by announcement_date (excludes debt/IPO/acquisition rows); earliest TRACKED, not lifetime first"
+S0090,Toddle,founded,2019,2019,,,,SRC01614,HIGH,STARTUPS.founded_date
+S0090,Toddle,first_funding_event,series-a,2023-01-10,1407.6,INR Mn,INR,SRC01613,HIGH,"earliest dated equity-class FUNDING row by announcement_date (excludes debt/IPO/acquisition rows); earliest TRACKED, not lifetime first"
+S0090,Toddle,legal_event,regulatory,2025-01-13,,,,SRC01618,HIGH,LEGAL_REGULATORY verbatim dates=2025-01-13
+S0092,Akasa Air,founded,2021,2021,,,,SRC01640,MEDIUM,STARTUPS.founded_date
+S0092,Akasa Air,first_funding_event,seed,2021-07-29,2607.5,INR Mn,INR,SRC01648,MEDIUM,"earliest dated equity-class FUNDING row by announcement_date (excludes debt/IPO/acquisition rows); earliest TRACKED, not lifetime first"
+S0092,Akasa Air,legal_event,investigation,2024-12,,,,SRC01667,HIGH,LEGAL_REGULATORY verbatim dates=2024-12
+S0093,EatClub (BOX8),founded,2012,2012,,,,SRC01685,HIGH,STARTUPS.founded_date
+S0093,EatClub (BOX8),first_funding_event,Seed/Early,2015,,INR Mn,INR,SRC01677,MEDIUM,"earliest dated equity-class FUNDING row by announcement_date (excludes debt/IPO/acquisition rows); earliest TRACKED, not lifetime first"
+S0094,Eruditus,founded,2010,2010,,,,SRC01696,HIGH,STARTUPS.founded_date
+S0094,Eruditus,acquisition_financing_event,Stake acquisition,2017-04-03,,INR Mn,INR,SRC01702,HIGH,FUNDING row whose round_type records an acquisition/buyout event (not a startup funding round)
+S0094,Eruditus,acquisition,made acquisition,2021-05-20,$200M,as-stated in ACQUISITIONS.value,,SRC01692,MEDIUM,ACQUISITIONS verbatim
+S0095,Innovist,founded,2018,2018,,,,SRC01731,HIGH,STARTUPS.founded_date
+S0095,Innovist,first_funding_event,Series A,2023-05-09,579.6,INR Mn,INR,SRC01724,MEDIUM,"earliest dated equity-class FUNDING row by announcement_date (excludes debt/IPO/acquisition rows); earliest TRACKED, not lifetime first"
+S0095,Innovist,acquisition_financing_event,majority acquisition,2026-06-18,,INR Mn,INR,SRC01720,HIGH,FUNDING row whose round_type records an acquisition/buyout event (not a startup funding round)
+S0095,Innovist,acquisition,received majority stake acquisition,2026-06-18,"majority stake; ~Rs 4,100cr valuation (press-reported, undisclosed officially)",as-stated in ACQUISITIONS.value,,SRC01728,HIGH,ACQUISITIONS verbatim
+S0096,Leap (LeapScholar),founded,2019,2019,,,,SRC01746,HIGH,STARTUPS.founded_date
+S0096,Leap (LeapScholar),first_funding_event,Series A,2020-03-01,407.0,INR Mn,INR,SRC01748,MEDIUM,"earliest dated equity-class FUNDING row by announcement_date (excludes debt/IPO/acquisition rows); earliest TRACKED, not lifetime first"
+S0096,Leap (LeapScholar),acquisition,made proposed acquisition; late-stage talks,2025-03-07,,as-stated in ACQUISITIONS.value,,SRC01743,MEDIUM,ACQUISITIONS verbatim
+S0098,Neo (Neo Wealth),founded,2021,2021,,,,SRC01768,MEDIUM,STARTUPS.founded_date
+S0098,Neo (Neo Wealth),first_funding_event,angel/seed,2021-12-15,2980.0,INR Mn,INR,SRC01770,MEDIUM,"earliest dated equity-class FUNDING row by announcement_date (excludes debt/IPO/acquisition rows); earliest TRACKED, not lifetime first"
+S0098,Neo (Neo Wealth),legal_event,regulatory,UNKNOWN,,,,SRC01765,LOW,LEGAL_REGULATORY verbatim dates=UNKNOWN
+S0100,Purple Style Labs,founded,2015,2015,,,,SRC01787,HIGH,STARTUPS.founded_date
+S0100,Purple Style Labs,first_funding_event,Pre-Series D,2022-06-01,785.0,INR Mn,INR,SRC01784,MEDIUM,"earliest dated equity-class FUNDING row by announcement_date (excludes debt/IPO/acquisition rows); earliest TRACKED, not lifetime first"
+S0100,Purple Style Labs,legal_event,regulatory,2026-01-09,,,,SRC01787,LOW,LEGAL_REGULATORY verbatim dates=2026-01-09
+S0104,QNu Labs,founded,2016,2016,,,,SRC01816,MEDIUM,STARTUPS.founded_date
+S0104,QNu Labs,first_funding_event,Grant (prize money),2024-11-26,664.78,INR Mn,INR,SRC01817,MEDIUM,"earliest dated equity-class FUNDING row by announcement_date (excludes debt/IPO/acquisition rows); earliest TRACKED, not lifetime first"
+S0106,Curefoods,founded,2020,2020,,,,SRC01846,HIGH,STARTUPS.founded_date
+S0106,Curefoods,first_funding_event,Seed,2020,,INR Mn,INR,SRC01853,LOW,"earliest dated equity-class FUNDING row by announcement_date (excludes debt/IPO/acquisition rows); earliest TRACKED, not lifetime first"
+S0106,Curefoods,legal_event,regulatory,2026-06-08,,,,SRC01837,HIGH,LEGAL_REGULATORY verbatim dates=2026-06-08
+S0108,Edubuk,founded,2019,2019,,,,SRC01872,MEDIUM,STARTUPS.founded_date
+S0108,Edubuk,first_funding_event,Incubator/Accelerator,2024-08-12,,INR Mn,INR,SRC01874,LOW,"earliest dated equity-class FUNDING row by announcement_date (excludes debt/IPO/acquisition rows); earliest TRACKED, not lifetime first"
+S0109,EloElo,founded,2020-07-01,2020-07-01,,,,SRC01882,HIGH,STARTUPS.founded_date
+S0109,EloElo,first_funding_event,Seed,2021-07-27,156.45,INR Mn,INR,SRC01890,HIGH,"earliest dated equity-class FUNDING row by announcement_date (excludes debt/IPO/acquisition rows); earliest TRACKED, not lifetime first"
+S0110,GIVA,founded,2019,2019,,,,SRC01915,MEDIUM,STARTUPS.founded_date
+S0110,GIVA,first_funding_event,Series B,2023-07-05,2000.0,INR Mn,INR,SRC01923,HIGH,"earliest dated equity-class FUNDING row by announcement_date (excludes debt/IPO/acquisition rows); earliest TRACKED, not lifetime first"
+S0110,GIVA,legal_event,licence,,,,,SRC01915,HIGH,LEGAL_REGULATORY verbatim dates=
+S0112,Moglix,founded,2015,2015,,,,,HIGH,STARTUPS.founded_date
+S0112,Moglix,first_funding_event,Series E,2021-05-17,8940.0,INR Mn,INR,SRC01945,HIGH,"earliest dated equity-class FUNDING row by announcement_date (excludes debt/IPO/acquisition rows); earliest TRACKED, not lifetime first"
+S0116,Shadowfax,founded,2015,2015,,,,,HIGH,STARTUPS.founded_date
+S0116,Shadowfax,first_funding_event,Series A,2015,1591.0,INR Mn,INR,SRC01988,MEDIUM,"earliest dated equity-class FUNDING row by announcement_date (excludes debt/IPO/acquisition rows); earliest TRACKED, not lifetime first"
+S0117,Smallcase,first_funding_event,Series A,2019-02-12,,INR Mn,INR,SRC01997,MEDIUM,"earliest dated equity-class FUNDING row by announcement_date (excludes debt/IPO/acquisition rows); earliest TRACKED, not lifetime first"
+S0118,StockGro,first_funding_event,Seed,2020-06-24,74.0,INR Mn,INR,SRC02002,MEDIUM,"earliest dated equity-class FUNDING row by announcement_date (excludes debt/IPO/acquisition rows); earliest TRACKED, not lifetime first"
+S0118,StockGro,legal_event,regulatory,UNKNOWN,,,,SRC02006,MEDIUM,LEGAL_REGULATORY verbatim dates=UNKNOWN
+S0119,Yulu,legal_event,complaint,N/A,,,,,LOW,LEGAL_REGULATORY verbatim dates=N/A
+S0120,Zenoti,founded,2010,2010,,,,,MEDIUM,STARTUPS.founded_date
+S0120,Zenoti,first_funding_event,Series A,2015-07-27,516.0,INR Mn,INR,SRC02036,HIGH,"earliest dated equity-class FUNDING row by announcement_date (excludes debt/IPO/acquisition rows); earliest TRACKED, not lifetime first"
+S0123,Foxtale,founded,2021,2021,,,,,MEDIUM,STARTUPS.founded_date
+S0123,Foxtale,first_funding_event,Series C,2025-01-14,2571.0,INR Mn,INR,SRC02075,HIGH,"earliest dated equity-class FUNDING row by announcement_date (excludes debt/IPO/acquisition rows); earliest TRACKED, not lifetime first"
+S0125,HerSpace Manufacturing,founded,2023,2023,,,,SRC02101,HIGH,STARTUPS.founded_date
+S0125,HerSpace Manufacturing,first_funding_event,Seed/early,2025,857.0,INR Mn,INR,SRC02095,HIGH,"earliest dated equity-class FUNDING row by announcement_date (excludes debt/IPO/acquisition rows); earliest TRACKED, not lifetime first"
+S0126,Snitch,founded,2018,2018,,,,SRC02108,HIGH,STARTUPS.founded_date
+S0126,Snitch,first_funding_event,Series A (Rs 110 Cr),2023-12-01,1084.68,INR Mn,INR,SRC02104,HIGH,"earliest dated equity-class FUNDING row by announcement_date (excludes debt/IPO/acquisition rows); earliest TRACKED, not lifetime first"
+S0128,Rezolv,founded,2024-10-01,2024-10-01,,,,SRC02127,HIGH,STARTUPS.founded_date
+S0128,Rezolv,first_funding_event,Seed,2025,299.95,INR Mn,INR,SRC02125,HIGH,"earliest dated equity-class FUNDING row by announcement_date (excludes debt/IPO/acquisition rows); earliest TRACKED, not lifetime first"
+S0130,BGauss,founded,2020,2020,,,,SRC02142,HIGH,STARTUPS.founded_date
+S0130,BGauss,first_funding_event,Series A,2022-04-01,52.0,INR Mn,INR,SRC02139,,"earliest dated equity-class FUNDING row by announcement_date (excludes debt/IPO/acquisition rows); earliest TRACKED, not lifetime first"
+S0134,Chargebee,founded,2011,2011,,,,SRC02186,HIGH,STARTUPS.founded_date
+S0134,Chargebee,first_funding_event,Angel,2012-09-30,31.82,INR Mn,INR,SRC02188,MEDIUM,"earliest dated equity-class FUNDING row by announcement_date (excludes debt/IPO/acquisition rows); earliest TRACKED, not lifetime first"
+S0134,Chargebee,legal_event,none,,,,,SRC02205,MEDIUM,LEGAL_REGULATORY verbatim dates=
+S0135,Delhivery,founded,2011,2011,,,,SRC02209,HIGH,STARTUPS.founded_date
+S0135,Delhivery,first_funding_event,Series H,2021-05-30,20636.5,INR Mn,INR,SRC02219,HIGH,"earliest dated equity-class FUNDING row by announcement_date (excludes debt/IPO/acquisition rows); earliest TRACKED, not lifetime first"
+S0135,Delhivery,acquisition_financing_event,Acquisition (Spoton),2021-08-25,1600.0,INR Mn,INR,SRC02220,HIGH,FUNDING row whose round_type records an acquisition/buyout event (not a startup funding round)
+S0135,Delhivery,legal_event,regulatory,2026,,,,SRC02228,HIGH,LEGAL_REGULATORY verbatim dates=2026
+S0138,OYO,founded,2013,2013,,,,SRC02260,HIGH,STARTUPS.founded_date
+S0138,OYO,first_funding_event,Secondary,2024-12-13,100.0,INR Mn,INR,SRC02262,HIGH,"earliest dated equity-class FUNDING row by announcement_date (excludes debt/IPO/acquisition rows); earliest TRACKED, not lifetime first"
+S0138,OYO,legal_event,investigation,,,,,,LOW,LEGAL_REGULATORY verbatim dates=
+S0144,KGeN (Kratos Gamer Network),founded,2022,2022,,,,SRC02309,HIGH,STARTUPS.founded_date
+S0144,KGeN (Kratos Gamer Network),first_funding_event,ICO,2022-03-08,,INR Mn,INR,SRC02309,LOW,"earliest dated equity-class FUNDING row by announcement_date (excludes debt/IPO/acquisition rows); earliest TRACKED, not lifetime first"
+S0145,Seekho,founded,2020,2020,,,,SRC02331,HIGH,STARTUPS.founded_date
+S0145,Seekho,first_funding_event,Seed,2023-03-01,248.4,INR Mn,INR,SRC02326,,"earliest dated equity-class FUNDING row by announcement_date (excludes debt/IPO/acquisition rows); earliest TRACKED, not lifetime first"
+S0145,Seekho,legal_event,complaint,2025-09-28,,,,SRC02153,LOW,LEGAL_REGULATORY verbatim dates=2025-09-28
+S0146,Avammune Therapeutics,founded,2020,2020,,,,SRC02352,HIGH,STARTUPS.founded_date
+S0146,Avammune Therapeutics,first_funding_event,Seed,2022-07-15,,INR Mn,INR,SRC02355,MEDIUM,"earliest dated equity-class FUNDING row by announcement_date (excludes debt/IPO/acquisition rows); earliest TRACKED, not lifetime first"
+S0148,Escape Plan (travel gear),founded,2025-05-01,2025-05-01,,,,SRC02371,HIGH,STARTUPS.founded_date
+S0148,Escape Plan (travel gear),first_funding_event,Seed,2025-07-22,428.5,INR Mn,INR,SRC02368,,"earliest dated equity-class FUNDING row by announcement_date (excludes debt/IPO/acquisition rows); earliest TRACKED, not lifetime first"
+S0153,CynLr,founded,2019,2019,,,,SRC02420,HIGH,STARTUPS.founded_date
+S0153,CynLr,first_funding_event,Seed,2019-08-06,66.65,INR Mn,INR,SRC02424,HIGH,"earliest dated equity-class FUNDING row by announcement_date (excludes debt/IPO/acquisition rows); earliest TRACKED, not lifetime first"
+S0153,CynLr,legal_event,regulatory,2023-09-30,,,,SRC02425,HIGH,LEGAL_REGULATORY verbatim dates=2023-09-30
+S0154,Skydo,first_funding_event,Pre-Series A,2024-08-13,418.5,INR Mn,INR,SRC02455,HIGH,"earliest dated equity-class FUNDING row by announcement_date (excludes debt/IPO/acquisition rows); earliest TRACKED, not lifetime first"
+S0154,Skydo,legal_event,licence,Jun 2026,,,,SRC02447,HIGH,LEGAL_REGULATORY verbatim dates=Jun 2026
+S0156,VerveSemi (Vervesemi),first_funding_event,Series A (INR equivalent),2026-02-18,90.5,INR Mn,INR,SRC02473,HIGH,"earliest dated equity-class FUNDING row by announcement_date (excludes debt/IPO/acquisition rows); earliest TRACKED, not lifetime first"
+S0157,Butterfly Learnings,first_funding_event,Seed,2022-01-01,157.0,INR Mn,INR,SRC02488,HIGH,"earliest dated equity-class FUNDING row by announcement_date (excludes debt/IPO/acquisition rows); earliest TRACKED, not lifetime first"
+S0158,Sugar Cosmetics,founded,2015,2015,,,,,HIGH,STARTUPS.founded_date
+S0158,Sugar Cosmetics,first_funding_event,Series D,2022,3925.0,INR Mn,INR,,HIGH,"earliest dated equity-class FUNDING row by announcement_date (excludes debt/IPO/acquisition rows); earliest TRACKED, not lifetime first"
+S0158,Sugar Cosmetics,legal_event,regulatory,2026-06-30,,,,SRC02497,HIGH,LEGAL_REGULATORY verbatim dates=2026-06-30
+S0159,Graas.ai (Graas),founded,2022,2022,,,,SRC02521,HIGH,STARTUPS.founded_date
+S0159,Graas.ai (Graas),first_funding_event,Seed,2022-04-01,560.49,INR Mn,INR,SRC02522,MEDIUM,"earliest dated equity-class FUNDING row by announcement_date (excludes debt/IPO/acquisition rows); earliest TRACKED, not lifetime first"
+S0159,Graas.ai (Graas),legal_event,,,,,,,HIGH,LEGAL_REGULATORY verbatim dates=
+S0161,Agrani Labs,first_funding_event,Series A (ongoing/negotiating),2026-09-01,4350.0,INR Mn,INR,SRC02534,MEDIUM,"earliest dated equity-class FUNDING row by announcement_date (excludes debt/IPO/acquisition rows); earliest TRACKED, not lifetime first"
+S0162,Mokobara,founded,2019,2019,,,,SRC02549,HIGH,STARTUPS.founded_date
+S0162,Mokobara,first_funding_event,Seed,2020-03-09,23.68,INR Mn,INR,SRC02553,MEDIUM,"earliest dated equity-class FUNDING row by announcement_date (excludes debt/IPO/acquisition rows); earliest TRACKED, not lifetime first"
+S0162,Mokobara,legal_event,litigation,2025,,,,SRC02552,MEDIUM,LEGAL_REGULATORY verbatim dates=2025
+S0163,XpressBees,founded,2015,2015,,,,SRC02565,HIGH,STARTUPS.founded_date
+S0163,XpressBees,first_funding_event,Series A,2015-11-05,1075.0,INR Mn,INR,SRC02565,MEDIUM,"earliest dated equity-class FUNDING row by announcement_date (excludes debt/IPO/acquisition rows); earliest TRACKED, not lifetime first"
+S0163,XpressBees,legal_event,regulatory,2024-11-23,,,,SRC02567,LOW,LEGAL_REGULATORY verbatim dates=2024-11-23
+S0164,Fundly.ai,founded,2021,2021,,,,SRC02574,HIGH,STARTUPS.founded_date
+S0164,Fundly.ai,first_funding_event,seed,2023-05-08,248.4,INR Mn,INR,SRC02581,HIGH,"earliest dated equity-class FUNDING row by announcement_date (excludes debt/IPO/acquisition rows); earliest TRACKED, not lifetime first"
+S0164,Fundly.ai,legal_event,regulatory,,,,,SRC02574,HIGH,LEGAL_REGULATORY verbatim dates=
+S0165,Mitigata,founded,2023,2023,,,,SRC02592,HIGH,STARTUPS.founded_date
+S0165,Mitigata,first_funding_event,Series A,2025-08-04,505.63,INR Mn,INR,SRC02591,HIGH,"earliest dated equity-class FUNDING row by announcement_date (excludes debt/IPO/acquisition rows); earliest TRACKED, not lifetime first"
+S0167,RentoMojo,founded,2014,2014,,,,SRC02610,HIGH,STARTUPS.founded_date
+S0173,immunitoAI,founded,2020,2020,,,,,HIGH,STARTUPS.founded_date
+S0173,immunitoAI,first_funding_event,Series A,2025-11-25,,INR Mn,INR,SRC02644,HIGH,"earliest dated equity-class FUNDING row by announcement_date (excludes debt/IPO/acquisition rows); earliest TRACKED, not lifetime first"
+S0182,Raphe mPhibr,founded,2017-07-21,2017-07-21,,,,,HIGH,STARTUPS.founded_date
+S0182,Raphe mPhibr,first_funding_event,seed,2022-08-01,,INR Mn,INR,SRC02710,MEDIUM,"earliest dated equity-class FUNDING row by announcement_date (excludes debt/IPO/acquisition rows); earliest TRACKED, not lifetime first"
+S0183,Battery Smart,founded,2019-11-01,2019-11-01,,,,,HIGH,STARTUPS.founded_date
+S0183,Battery Smart,first_funding_event,seed,2020-06-01,,INR Mn,INR,SRC02716,MEDIUM,"earliest dated equity-class FUNDING row by announcement_date (excludes debt/IPO/acquisition rows); earliest TRACKED, not lifetime first"
+S0185,Elivaas,first_funding_event,Seed,2023-11-27,207.0,INR Mn,INR,SRC02734,MEDIUM,"earliest dated equity-class FUNDING row by announcement_date (excludes debt/IPO/acquisition rows); earliest TRACKED, not lifetime first"
+S0197,Kiwi (Gokiwi Tech),founded,2022,2022,,,,SRC02795,HIGH,STARTUPS.founded_date
+S0197,Kiwi (Gokiwi Tech),first_funding_event,Seed,2022-12-30,694.52,INR Mn,INR,SRC02795,HIGH,"earliest dated equity-class FUNDING row by announcement_date (excludes debt/IPO/acquisition rows); earliest TRACKED, not lifetime first"
+S0197,Kiwi (Gokiwi Tech),legal_event,regulatory,,,,,SRC02805,MEDIUM,LEGAL_REGULATORY verbatim dates=
+S0209,Arohan Financial Services,founded,2006,2006,,,,,HIGH,STARTUPS.founded_date
+S0209,Arohan Financial Services,first_funding_event,Series A,2008-07-05,,INR Mn,INR,SRC02875,LOW,"earliest dated equity-class FUNDING row by announcement_date (excludes debt/IPO/acquisition rows); earliest TRACKED, not lifetime first"
+S0209,Arohan Financial Services,legal_event,regulatory_compliance,2024-06-03,,,,SRC02888,HIGH,LEGAL_REGULATORY verbatim dates=2024-06-03
+S0211,Nexedge Capital,first_funding_event,Pre-seed / Talks,2026-06-09,2175.0,INR Mn,INR,SRC02903,MEDIUM,"earliest dated equity-class FUNDING row by announcement_date (excludes debt/IPO/acquisition rows); earliest TRACKED, not lifetime first"
+S0211,Nexedge Capital,legal_event,compliance,FY2024-2025,,,,SRC02905,HIGH,LEGAL_REGULATORY verbatim dates=FY2024-2025
+S0213,Navana.ai,founded,2018,2018,,,,SRC02930,HIGH,STARTUPS.founded_date
+S0213,Navana.ai,first_funding_event,Pre-Series A,2025-07-15,7.0,INR Mn,INR,SRC02925,HIGH,"earliest dated equity-class FUNDING row by announcement_date (excludes debt/IPO/acquisition rows); earliest TRACKED, not lifetime first"
+S0215,PumPumPum,founded,2018,2018,,,,SRC02953,HIGH,STARTUPS.founded_date
+S0215,PumPumPum,first_funding_event,Seed,2020-07-01,21.66,INR Mn,INR,SRC02951,HIGH,"earliest dated equity-class FUNDING row by announcement_date (excludes debt/IPO/acquisition rows); earliest TRACKED, not lifetime first"
+S0226,Comet,founded,2023,2023,,,,SRC03018,HIGH,STARTUPS.founded_date
+S0226,Comet,first_funding_event,Series A,2024-07-01,42.3,INR Mn,INR,SRC03024,HIGH,"earliest dated equity-class FUNDING row by announcement_date (excludes debt/IPO/acquisition rows); earliest TRACKED, not lifetime first"
+S0228,CleverTap,founded,2013,2013,,,,SRC03043,MEDIUM,STARTUPS.founded_date
+S0228,CleverTap,first_funding_event,Seed,2013,,INR Mn,INR,SRC03039,LOW,"earliest dated equity-class FUNDING row by announcement_date (excludes debt/IPO/acquisition rows); earliest TRACKED, not lifetime first"
+S0238,AgroStar,founded,2013,2013,,,,SRC03121,HIGH,STARTUPS.founded_date
+S0238,AgroStar,first_funding_event,Seed,2013-04-04,63.12,INR Mn,INR,SRC03122,MEDIUM,"earliest dated equity-class FUNDING row by announcement_date (excludes debt/IPO/acquisition rows); earliest TRACKED, not lifetime first"
+S0238,AgroStar,legal_event,licence,2008-10-20,,,,SRC03128,LOW,LEGAL_REGULATORY verbatim dates=2008-10-20
+S0241,Arya.ag (Arya),founded,2013,2013,,,,SRC03152,MEDIUM,STARTUPS.founded_date
+S0241,Arya.ag (Arya),first_funding_event,Pre-Series B,2020-03-01,444.0,INR Mn,INR,SRC03157,MEDIUM,"earliest dated equity-class FUNDING row by announcement_date (excludes debt/IPO/acquisition rows); earliest TRACKED, not lifetime first"
+S0241,Arya.ag (Arya),legal_event,regulatory,2018-08-18,,,,SRC03159,HIGH,LEGAL_REGULATORY verbatim dates=2018-08-18
+S0246,Vecton AI,first_funding_event,pre-seed,2026-08-11,6.0,INR Mn,INR,SRC03183,HIGH,"earliest dated equity-class FUNDING row by announcement_date (excludes debt/IPO/acquisition rows); earliest TRACKED, not lifetime first"
+S0248,Ammunic Systems,first_funding_event,accelerator/incubator,2024,,INR Mn,INR,SRC03206,MEDIUM,"earliest dated equity-class FUNDING row by announcement_date (excludes debt/IPO/acquisition rows); earliest TRACKED, not lifetime first"
+S0255,Niyo,first_funding_event,Seed,2016-01-20,12.9,INR Mn,INR,SRC03229,MEDIUM,"earliest dated equity-class FUNDING row by announcement_date (excludes debt/IPO/acquisition rows); earliest TRACKED, not lifetime first"
+S0255,Niyo,legal_event,regulatory,2024-08-01,,,,SRC03252,MEDIUM,LEGAL_REGULATORY verbatim dates=2024-08-01
+S0256,SatSure,first_funding_event,Seed,2019-02-11,,INR Mn,INR,SRC03265,MEDIUM,"earliest dated equity-class FUNDING row by announcement_date (excludes debt/IPO/acquisition rows); earliest TRACKED, not lifetime first"
+S0258,VerSe Innovation,first_funding_event,Series F,2019-07-01,2150.0,INR Mn,INR,SRC03301,MEDIUM,"earliest dated equity-class FUNDING row by announcement_date (excludes debt/IPO/acquisition rows); earliest TRACKED, not lifetime first"
+S0258,VerSe Innovation,legal_event,complaint,2025-05,,,,,MEDIUM,LEGAL_REGULATORY verbatim dates=2025-05
+S0278,Tonbo Imaging,first_funding_event,Seed,2011-10-16,43.0,INR Mn,INR,SRC03385,HIGH,"earliest dated equity-class FUNDING row by announcement_date (excludes debt/IPO/acquisition rows); earliest TRACKED, not lifetime first"
+S0278,Tonbo Imaging,legal_event,regulatory,2026-05-20,,,,SRC03378,HIGH,LEGAL_REGULATORY verbatim dates=2026-05-20
+S0280,Yuma Energy,founded,2022,2022,,,,SRC02014,HIGH,STARTUPS.founded_date
+S0280,Yuma Energy,acquisition_financing_event,Acquisition,2026-09-01,,INR Mn,INR,SRC01075,MEDIUM,FUNDING row whose round_type records an acquisition/buyout event (not a startup funding round)
+S0283,IndiQube,first_funding_event,Angel,2017-09-11,26.83,INR Mn,INR,SRC03431,MEDIUM,"earliest dated equity-class FUNDING row by announcement_date (excludes debt/IPO/acquisition rows); earliest TRACKED, not lifetime first"
+S0290,Runable,founded,2025,2025,,,,SRC03478,HIGH,STARTUPS.founded_date
+S0290,Runable,first_funding_event,Seed,2025-01-01,,INR Mn,INR,SRC03482,MEDIUM,"earliest dated equity-class FUNDING row by announcement_date (excludes debt/IPO/acquisition rows); earliest TRACKED, not lifetime first"
+S0290,Runable,legal_event,licence,2025-05-05,,,,SRC03477,HIGH,LEGAL_REGULATORY verbatim dates=2025-05-05
+S0296,Nestasia,founded,2019,2019,,,,SRC03515,HIGH,STARTUPS.founded_date
+S0296,Nestasia,first_funding_event,Series A,2021-12-15,298.0,INR Mn,INR,SRC03521,HIGH,"earliest dated equity-class FUNDING row by announcement_date (excludes debt/IPO/acquisition rows); earliest TRACKED, not lifetime first"
+S0305,Graph AI,founded,2024,2024,,,,SRC03557,HIGH,STARTUPS.founded_date
+S0305,Graph AI,first_funding_event,Seed,2025-10-01,257.1,INR Mn,INR,SRC03558,HIGH,"earliest dated equity-class FUNDING row by announcement_date (excludes debt/IPO/acquisition rows); earliest TRACKED, not lifetime first"
+S0309,Kepler Aerospace,founded,2018,2018,,,,SRC03586,HIGH,STARTUPS.founded_date
+S0309,Kepler Aerospace,first_funding_event,Seed,2026-09-01,696.0,INR Mn,INR,SRC03582,HIGH,"earliest dated equity-class FUNDING row by announcement_date (excludes debt/IPO/acquisition rows); earliest TRACKED, not lifetime first"
+S0310,CARS24,first_funding_event,Series A,2015-11-25,,INR Mn,INR,SRC03608,MEDIUM,"earliest dated equity-class FUNDING row by announcement_date (excludes debt/IPO/acquisition rows); earliest TRACKED, not lifetime first"
+S0310,CARS24,legal_event,data_breach,2026-09-06,,,,SRC03622,MEDIUM,LEGAL_REGULATORY verbatim dates=2026-09-06
+S0316,R for Rabbit,founded,2014,2014,,,,SRC03647,HIGH,STARTUPS.founded_date
+S0316,R for Rabbit,first_funding_event,Seed,2014,40.0,INR Mn,INR,SRC03650,HIGH,"earliest dated equity-class FUNDING row by announcement_date (excludes debt/IPO/acquisition rows); earliest TRACKED, not lifetime first"
+S0320,Cradlewise,first_funding_event,Angel,2018-02-06,335.22,INR Mn,INR,SRC03686,MEDIUM,"earliest dated equity-class FUNDING row by announcement_date (excludes debt/IPO/acquisition rows); earliest TRACKED, not lifetime first"
+S0320,Cradlewise,legal_event,regulatory,2026-09-04,,,,SRC03681,MEDIUM,LEGAL_REGULATORY verbatim dates=2026-09-04
+S0322,InsuranceDekho,first_funding_event,Series A,2023-02-09,12420.0,INR Mn,INR,SRC03708,HIGH,"earliest dated equity-class FUNDING row by announcement_date (excludes debt/IPO/acquisition rows); earliest TRACKED, not lifetime first"
+S0367,Zupee,founded,2018,2018,,,,SRC03933,HIGH,STARTUPS.founded_date
+S0367,Zupee,first_funding_event,Seed,2019-01-01,86.0,INR Mn,INR,SRC03935,MEDIUM,"earliest dated equity-class FUNDING row by announcement_date (excludes debt/IPO/acquisition rows); earliest TRACKED, not lifetime first"
+S0368,Vicharak,founded,2021,2021,,,,SRC03950,MEDIUM,STARTUPS.founded_date
+S0368,Vicharak,first_funding_event,Seed,2024-06-25,10.02,INR Mn,INR,SRC03947,MEDIUM,"earliest dated equity-class FUNDING row by announcement_date (excludes debt/IPO/acquisition rows); earliest TRACKED, not lifetime first"
+S0368,Vicharak,legal_event,Incorporation,2023-12-05,,,,SRC03950,HIGH,LEGAL_REGULATORY verbatim dates=2023-12-05

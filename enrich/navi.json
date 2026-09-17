@@ -1,0 +1,3035 @@
+{
+ "startup_id": "navi",
+ "company": {
+  "legal_name": "Navi Technologies Ltd / Navi Group (Navi Finserv NBFC arm)",
+  "website": "https://navi.com",
+  "founded_date": "2018",
+  "status": "active",
+  "startup_stage": "late",
+  "primary_sector": "fintech",
+  "city": "Bengaluru",
+  "business_model": "B2C fintech superapp (lending, insurance, MF, UPI)",
+  "customer_type": "consumer",
+  "employee_estimate": "1737",
+  "dpiit": "registered (per Tracxn tag)",
+  "public_private": "private",
+  "parent/subsidiary": "none disclosed",
+  "cin": "U72900KA2018PLC119297",
+  "incorporation_date": "2018-12-10",
+  "official_website": {
+   "v": "https://navi.com",
+   "conf": "high",
+   "src": "https://navi.com",
+   "note": "verified live 2026-09-15: name match on own homepage"
+  },
+  "careers_website": {
+   "v": "https://navi.com/careers",
+   "conf": "high",
+   "src": "https://navi.com",
+   "note": "careers link found on official homepage, probed live"
+  },
+  "state": {
+   "v": "Karnataka",
+   "conf": "HIGH",
+   "src": "https://www.navi.com/about-us",
+   "note": "Karnataka"
+  },
+  "country": {
+   "v": "India",
+   "conf": "HIGH",
+   "src": "https://www.navi.com/about-us",
+   "note": "India"
+  },
+  "description": {
+   "v": "Digital-first financial services holding company offering personal loans, home loans, LAP, UPI payments, health insurance, and mutual funds through a superapp. Promoted by Sachin Bansal (Flipkart co-founder).",
+   "conf": "HIGH",
+   "src": "https://www.navi.com/about-us",
+   "note": "Multi-entity ecosystem"
+  },
+  "hq_type": {
+   "v": "HQ",
+   "conf": "HIGH",
+   "src": "https://www.navi.com/about-us",
+   "note": "Registered office and operational HQ in Bengaluru"
+  },
+  "registered_office": {
+   "v": "2nd Floor, Vaishnavi Tech Square, Iballur Village, Begur Hobli, Bengaluru, Karnataka 560102",
+   "conf": "HIGH",
+   "src": "https://nsearchives.nseindia.com/content/debt/WDM/navi123_22092025154056_Intimation_UPLOAD.pdf",
+   "note": "Navi Finserv registered office per NSE filing"
+  },
+  "official_website_status": {
+   "v": "verified",
+   "conf": "HIGH",
+   "src": "https://navi.com",
+   "note": "Company-owned domain verified"
+  },
+  "official_website_careers": {
+   "v": "https://navi.com/careers",
+   "conf": "HIGH",
+   "src": "https://navi.com",
+   "note": "Careers page found on official homepage"
+  }
+ },
+ "funding_rounds": [
+  {
+   "type": "Series C (first institutional equity)",
+   "amount": 100000000,
+   "currency": "USD",
+   "date": "2026-08-19",
+   "leads": "Prosus",
+   "source_url": "http://techcrunch.com/2026/08/19/sachin-bansals-fintech-navi-raises-first-outside-capital-with-100m-prosus-investment",
+   "announcement_date": "2026-08-19",
+   "valuation": "1300000000",
+   "valuation_currency": "USD",
+   "valuation_type": "post-money (per ET headline)",
+   "new_or_existing": "first institutional / new investor Prosus"
+  },
+  {
+   "type": "debt (NCD)",
+   "amount": 20000000,
+   "currency": "USD",
+   "date": "2025-07-28",
+   "leads": "PhillipCapital",
+   "source_url": "https://entrackr.com/exclusive/exclusive-sachin-bansals-navi-raises-20-mn-debt-9585170"
+  },
+  {
+   "round_type": "Series C (first institutional equity)",
+   "announced_date": "2026-08-19",
+   "round_date": "2026-08-19",
+   "amount": 100000000,
+   "currency": "USD",
+   "valuation": 1300000000,
+   "valuation_currency": "USD",
+   "valuation_type": "post-money (per TechCrunch sources)",
+   "lead_investors": [
+    "Prosus"
+   ],
+   "all_investors": [
+    "Prosus"
+   ],
+   "instrument": "equity",
+   "purpose": "Ahead of FY27 IPO filing",
+   "source_url": "https://techcrunch.com/2026/08/19/sachin-bansals-fintech-navi-raises-first-outside-capital-with-100m-prosus-investment/",
+   "source_title": "Sachin Bansal's fintech Navi raises first outside capital with $100M Prosus investment",
+   "source_date": "2026-08-19",
+   "confidence": "HIGH",
+   "notes": "First institutional funding after 8 years of founder self-funding; subject to regulatory approvals"
+  },
+  {
+   "round_type": "Conventional Debt (NCD)",
+   "announced_date": "2025-07-28",
+   "round_date": "2025-07-28",
+   "amount": 20000000,
+   "currency": "USD",
+   "lead_investors": [
+    "PhillipCapital"
+   ],
+   "all_investors": [
+    "PhillipCapital",
+    "Ambit"
+   ],
+   "instrument": "NCD/debt",
+   "purpose": "NBFC capital raising",
+   "source_url": "https://entrackr.com/exclusive/exclusive-sachin-bansals-navi-raises-20-mn-debt-9585170",
+   "source_title": "Sachin Bansal's Navi raises $20M debt",
+   "source_date": "2025-07-28",
+   "confidence": "MEDIUM"
+  },
+  {
+   "round_type": "Convertible Debt",
+   "announced_date": "2024-05-23",
+   "round_date": "2024-05-23",
+   "amount": 18012150,
+   "currency": "USD",
+   "lead_investors": [
+    "Kairus Shavak Dadachanji"
+   ],
+   "all_investors": [
+    "Kairus Shavak Dadachanji",
+    "Rishad Kairus Dadachanji",
+    "Sandhya Rohit Kapadia",
+    "Pervin Kairus Dadachanji",
+    "Rohit Kapadia",
+    "Yash Kapadia"
+   ],
+   "instrument": "convertible debt",
+   "source_url": "https://platform.tracxn.com/a/d/company/531a68b8e4b0f7e1660eab44/navi",
+   "source_title": "Navi - Tracxn",
+   "source_date": "2026-08-19",
+   "confidence": "MEDIUM",
+   "notes": "Per Tracxn funding history"
+  },
+  {
+   "round_type": "IPO (planned)",
+   "announced_date": "2026-08-13",
+   "round_date": "",
+   "amount": 3000000000,
+   "currency": "INR",
+   "valuation": 2000000000,
+   "valuation_currency": "USD",
+   "valuation_type": "target IPO valuation",
+   "lead_investors": [
+    "JM Financial",
+    "Kotak Mahindra Capital",
+    "Goldman Sachs",
+    "JPMorgan"
+   ],
+   "all_investors": [],
+   "instrument": "fresh issue",
+   "purpose": "Public listing",
+   "source_url": "https://inc42.com/buzz/navi-to-file-for-%E2%82%B93000-cr-ipo-by-december-report",
+   "source_title": "Navi To File For ₹3,000 Cr IPO By December: Report",
+   "source_date": "2026-08-13",
+   "confidence": "MEDIUM",
+   "notes": "DRHP filing reportedly planned Dec 2026; no OFS component; previously filed 2022 for ₹3,350 cr, abandoned 2023"
+  },
+  {
+   "round_type": "Preferential shares (NBFC capital)",
+   "announced_date": "2025",
+   "round_date": "",
+   "amount": 5000000000,
+   "currency": "INR",
+   "lead_investors": [],
+   "all_investors": [],
+   "instrument": "preferential shares",
+   "purpose": "NBFC equity capital",
+   "source_url": "https://www.livemint.com/companies/news/navi-finserv-loan-growth-upi-platform-merchant-finance-lap/amp-11787154859866.html",
+   "source_title": "Navi's UPI growth fuels NBFC arm's loan expansion",
+   "source_date": "2026-08-19",
+   "confidence": "MEDIUM",
+   "notes": "₹500 cr raised in two tranches via preferential shares; Navi Finserv equity capital ~₹4,000 cr"
+  },
+  {
+   "round_type": "IPO (planned)",
+   "announced_date": "2026-08-13",
+   "amount": 3000000000,
+   "currency": "INR",
+   "valuation": 2000000000,
+   "valuation_currency": "USD",
+   "valuation_type": "target IPO valuation",
+   "lead_investors": [
+    "JM Financial",
+    "Kotak Mahindra Capital",
+    "Goldman Sachs",
+    "JPMorgan"
+   ],
+   "instrument": "fresh issue",
+   "purpose": "Public listing",
+   "source_url": "https://inc42.com/buzz/navi-to-file-for-%E2%82%B93000-cr-ipo-by-december-report",
+   "source_date": "2026-08-13",
+   "confidence": "MEDIUM"
+  },
+  {
+   "round_type": "Preferential shares (NBFC capital)",
+   "announced_date": "2025",
+   "amount": 5000000000,
+   "currency": "INR",
+   "instrument": "preferential shares",
+   "purpose": "NBFC equity capital",
+   "source_url": "https://www.livemint.com/companies/news/navi-finserv-loan-growth-upi-platform-merchant-finance-lap/amp-11787154859866.html",
+   "source_date": "2026-08-19",
+   "confidence": "MEDIUM"
+  }
+ ],
+ "founders": [
+  {
+   "name": "Sachin Bansal",
+   "role": "Founder, Executive Chairman",
+   "background": "IIT Delhi BTech; co-founded Flipkart with Binny Bansal in 2007; left after Walmart acquisition in 2018; poured hundreds of millions of dollars of own money into Navi",
+   "education": "IIT Delhi, BTech",
+   "still_active": true,
+   "source_url": "https://techcrunch.com/2026/08/19/sachin-bansals-fintech-navi-raises-first-outside-capital-with-100m-prosus-investment/",
+   "source_title": "Sachin Bansal's fintech Navi raises first outside capital with $100M Prosus investment",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Ankit Agarwal",
+   "role": "Co-founder, ex-CFO/ED",
+   "type": "co-founder",
+   "source_url": "https://en.wikipedia.org/wiki/Navi_Group"
+  },
+  {
+   "name": "Ankit Agarwal",
+   "role": "Co-founder, CFO/ED",
+   "background": "IIT Delhi BTech; IIM Ahmedabad MBA; previously at Deutsche Bank and Bank of America",
+   "education": "IIT Delhi BTech, IIM Ahmedabad MBA",
+   "still_active": true,
+   "source_url": "https://nsearchives.nseindia.com/content/debt/WDM/navi123_22092025154056_Intimation_UPLOAD.pdf",
+   "source_title": "Navi Finserv Limited Annual Report 2024-25",
+   "confidence": "HIGH"
+  }
+ ],
+ "investor_links": [
+  {
+   "investor": "Prosus",
+   "rounds": [
+    "Series C"
+   ],
+   "lead": true
+  },
+  {
+   "investor": "Sachin Bansal (founder self-funding)",
+   "rounds": []
+  }
+ ],
+ "financials": [
+  {
+   "fiscal_year": "FY25",
+   "metric": "operating revenue",
+   "value": "Rs 2,565 crore",
+   "currency": "INR",
+   "value_type": "press-quoted-filing",
+   "source_url": "https://theheadandtale.com/fintech-news/navi-posts-17-7--revenue-growth-in-fy25-slips-into-loss"
+  },
+  {
+   "fiscal_year": "FY25",
+   "metric": "net loss",
+   "value": "Rs 126 crore",
+   "currency": "INR",
+   "value_type": "press-quoted-filing",
+   "source_url": "https://theheadandtale.com/fintech-news/navi-posts-17-7--revenue-growth-in-fy25-slips-into-loss"
+  },
+  {
+   "fiscal_year": "FY25",
+   "metric": "operating_revenue",
+   "value": 2565,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "press-quoted-filing",
+   "basis": "consolidated",
+   "consolidated": "yes",
+   "filing_date": "2025-03-31",
+   "source_url": "https://entrackr.com/fintrackr/navi-technologies-swings-to-red-with-rs-126-cr-loss-in-fy25-11188584",
+   "source_title": "Navi Technologies swings to red with Rs 126 Cr loss in FY25",
+   "source_date": "2026-03-09",
+   "confidence": "HIGH",
+   "notes": "Revenue from operations grew 18% YoY from ₹2,180 cr in FY24"
+  },
+  {
+   "fiscal_year": "FY26",
+   "metric": "net_profit",
+   "value": 93.3,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "press-quoted-filing",
+   "basis": "consolidated",
+   "consolidated": "yes",
+   "source_url": "https://inc42.com/buzz/ipo-bound-navi-finservs-fy25-profits-plunge-67-to-inr-222-cr",
+   "source_title": "IPO-Bound Navi Finserv's FY25 Profit Tanks 67% To INR 222 Cr",
+   "source_date": "2025-06-11",
+   "confidence": "MEDIUM",
+   "notes": "Navi Finserv standalone consolidated profit ₹93.3 cr in FY26, down ~46% YoY"
+  },
+  {
+   "fiscal_year": "FY25",
+   "metric": "personal_loans_disbursed",
+   "value": 130206,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "DRHP",
+   "basis": "standalone",
+   "consolidated": "no",
+   "source_url": "https://nsearchives.nseindia.com/content/debt/WDM/navi123_22092025154056_Intimation_UPLOAD.pdf",
+   "source_title": "Navi Finserv Limited Annual Report 2024-25",
+   "source_date": "2025-09-22",
+   "confidence": "HIGH",
+   "notes": "Per Navi Finserv NSE filing FY25"
+  },
+  {
+   "fiscal_year": "FY25",
+   "metric": "operating_revenue",
+   "value": 2565,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "press-quoted-filing",
+   "source_url": "https://entrackr.com/fintrackr/navi-technologies-swings-to-red-with-rs-126-cr-loss-in-fy25-11188584",
+   "source_date": "2026-03-09",
+   "confidence": "HIGH"
+  },
+  {
+   "fiscal_year": "FY25",
+   "metric": "net_loss",
+   "value": 126,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "press-quoted-filing",
+   "source_url": "https://entrackr.com/fintrackr/navi-technologies-swings-to-red-with-rs-126-cr-loss-in-fy25-11188584",
+   "source_date": "2026-03-09",
+   "confidence": "HIGH"
+  },
+  {
+   "fiscal_year": "FY26",
+   "metric": "total_revenue",
+   "value": 3091,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "press-quoted-filing",
+   "source_url": "https://techcrunch.com/2026/08/19/sachin-bansals-fintech-navi-raises-first-outside-capital-with-100m-prosus-investment/",
+   "source_date": "2026-08-19",
+   "confidence": "HIGH"
+  },
+  {
+   "fiscal_year": "FY26",
+   "metric": "net_loss",
+   "value": 466,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "press-quoted-filing",
+   "source_url": "https://techcrunch.com/2026/08/19/sachin-bansals-fintech-navi-raises-first-outside-capital-with-100m-prosus-investment/",
+   "source_date": "2026-08-19",
+   "confidence": "HIGH"
+  },
+  {
+   "fiscal_year": "FY26",
+   "metric": "net_profit",
+   "value": 93.3,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "press-quoted-filing",
+   "source_url": "https://inc42.com/buzz/ipo-bound-navi-finservs-fy25-profits-plunge-67-to-inr-222-cr",
+   "source_date": "2025-06-11",
+   "confidence": "MEDIUM"
+  },
+  {
+   "fiscal_year": "FY26",
+   "metric": "operating_revenue",
+   "value": 2691.5,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "press-quoted-filing",
+   "source_url": "https://inc42.com/buzz/ipo-bound-navi-finservs-fy25-profits-plunge-67-to-inr-222-cr",
+   "source_date": "2025-06-11",
+   "confidence": "MEDIUM"
+  },
+  {
+   "fiscal_year": "FY25",
+   "metric": "personal_loans_disbursed",
+   "value": 130206,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "DRHP",
+   "source_url": "https://nsearchives.nseindia.com/content/debt/WDM/navi123_22092025154056_Intimation_UPLOAD.pdf",
+   "source_date": "2025-09-22",
+   "confidence": "HIGH"
+  },
+  {
+   "fiscal_year": "FY25",
+   "metric": "home_loans_disbursed",
+   "value": 4230,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "DRHP",
+   "source_url": "https://nsearchives.nseindia.com/content/debt/WDM/navi123_22092025154056_Intimation_UPLOAD.pdf",
+   "source_date": "2025-09-22",
+   "confidence": "HIGH"
+  },
+  {
+   "fiscal_year": "FY25",
+   "metric": "total_disbursements",
+   "value": 134436,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "DRHP",
+   "source_url": "https://nsearchives.nseindia.com/content/debt/WDM/navi123_22092025154056_Intimation_UPLOAD.pdf",
+   "source_date": "2025-09-22",
+   "confidence": "HIGH"
+  },
+  {
+   "fiscal_year": "FY25",
+   "metric": "AUM",
+   "value": 116949.31,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "DRHP",
+   "source_url": "https://nsearchives.nseindia.com/content/debt/WDM/navi123_22092025154056_Intimation_UPLOAD.pdf",
+   "source_date": "2025-09-22",
+   "confidence": "HIGH"
+  },
+  {
+   "fiscal_year": "FY25",
+   "metric": "PAT",
+   "value": 2219.6,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "DRHP",
+   "source_url": "https://nsearchives.nseindia.com/content/debt/WDM/navi123_22092025154056_Intimation_UPLOAD.pdf",
+   "source_date": "2025-09-22",
+   "confidence": "HIGH"
+  },
+  {
+   "fiscal_year": "FY26",
+   "metric": "loan_book_outstanding",
+   "value": 13000,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "management",
+   "source_url": "https://www.livemint.com/companies/news/navi-finserv-loan-growth-upi-platform-merchant-finance-lap/amp-11787154859866.html",
+   "source_date": "2026-08-19",
+   "confidence": "HIGH"
+  },
+  {
+   "fiscal_year": "FY26",
+   "metric": "home_loan_portfolio",
+   "value": 1500,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "management",
+   "source_url": "https://www.livemint.com/companies/news/navi-finserv-loan-growth-upi-platform-merchant-finance-lap/amp-11787154859866.html",
+   "source_date": "2026-08-19",
+   "confidence": "HIGH"
+  },
+  {
+   "fiscal_year": "FY26",
+   "metric": "equity_capital",
+   "value": 4000,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "management",
+   "source_url": "https://www.livemint.com/companies/news/navi-finserv-loan-growth-upi-platform-merchant-finance-lap/amp-11787154859866.html",
+   "source_date": "2026-08-19",
+   "confidence": "HIGH"
+  },
+  {
+   "fiscal_year": "FY26",
+   "metric": "AUM",
+   "value": 130000000000,
+   "unit": "INR",
+   "currency": "INR",
+   "value_type": "press-quoted-filing",
+   "source_url": "https://techcrunch.com/2026/08/19/sachin-bansals-fintech-navi-raises-first-outside-capital-with-100m-prosus-investment/",
+   "source_date": "2026-08-19",
+   "confidence": "HIGH"
+  },
+  {
+   "fiscal_year": "FY25",
+   "metric": "net_worth",
+   "value": 31626.94,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "DRHP",
+   "source_url": "https://nsearchives.nseindia.com/content/debt/WDM/navi123_22092025154056_Intimation_UPLOAD.pdf",
+   "source_date": "2025-09-22",
+   "confidence": "HIGH"
+  },
+  {
+   "fiscal_year": "FY26",
+   "metric": "total_disbursements",
+   "value": 23287,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "management",
+   "source_url": "https://www.livemint.com/companies/news/navi-finserv-loan-growth-upi-platform-merchant-finance-lap/amp-11787154859866.html",
+   "source_date": "2026-08-19",
+   "confidence": "HIGH"
+  }
+ ],
+ "events": [
+  {
+   "date": "2026-08-13",
+   "type": "IPO plan",
+   "headline": "Navi eyes Rs 3,000 cr IPO at ~$2B valuation",
+   "source_url": "https://www.businesstoday.in/markets/ipo-corner/story/navi-mulls-for-rs-3000-crore-ipo-sachin-bansals-fintech-firm-eyes-2-billion-valuation-548987-2026-08-13"
+  },
+  {
+   "date": "2025-01-22",
+   "type": "fraud incident",
+   "headline": "Rs 14.26 cr payment-gateway fraud (Dec 2024), Whitefield cyber police probe",
+   "source_url": "https://timesofindia.indiatimes.com/technology/tech-news/how-flipkart-co-founder-sachin-bansals-fintech-startup-navi-lost-rs-14-crore-to-payment-gateway-fraud/articleshow/117443407.cms"
+  },
+  {
+   "type": "funding",
+   "date": "2026-08-19",
+   "headline": "Navi raises $100M from Prosus at $1.3B valuation",
+   "description": "First institutional equity funding after 8 years of founder self-funding. Investment subject to customary closing conditions and regulatory approvals. Comes ahead of planned IPO.",
+   "source_url": "https://techcrunch.com/2026/08/19/sachin-bansals-fintech-navi-raises-first-outside-capital-with-100m-prosus-investment/",
+   "source_title": "Sachin Bansal's fintech Navi raises first outside capital with $100M Prosus investment",
+   "source_date": "2026-08-19",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "ipo",
+   "date": "2026-08-13",
+   "headline": "Navi eyes Rs 3,000 cr IPO at ~$2B valuation",
+   "description": "Navi reportedly planning to file DRHP for IPO as early as December 2026, with proposed issue of ~₹3,000 cr ($314M). Fresh issue, no OFS. Bankers: JM Financial, Kotak Mahindra, Goldman Sachs, JPMorgan. Previously filed 2022 for ₹3,350 cr, approved Sept 2022, deferred 2023.",
+   "source_url": "https://inc42.com/buzz/navi-to-file-for-%E2%82%B93000-cr-ipo-by-december-report",
+   "source_title": "Navi To File For ₹3,000 Cr IPO By December: Report",
+   "source_date": "2026-08-13",
+   "confidence": "MEDIUM"
+  },
+  {
+   "type": "regulatory",
+   "date": "2024-10-18",
+   "headline": "RBI bars Navi Finserv from lending",
+   "description": "RBI issued Directions under Section 45L(1)(b) to cease loan sanction/disbursement effective Oct 21, 2024 due to excessive WALR and interest spread violations. Restrictions lifted Dec 2024.",
+   "source_url": "https://www.fintechbiznews.com/lenders-nbfcs/rbi-action-against-4-nbfcs-including-asirvad-mfc-navi-finserv-",
+   "source_title": "RBI Action Against 4 NBFCs Including Asirvad MFC, Navi Finserv",
+   "source_date": "2024-10-18",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "penalty",
+   "date": "2026-02-10",
+   "headline": "RBI imposes ₹3.80 lakh penalty on Navi Finserv",
+   "description": "Penalty for non-compliance with Recovery Agents directions: contacting customers outside permitted hours (after 7pm, before 8am).",
+   "source_url": "https://rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=62229",
+   "source_title": "RBI imposes monetary penalty on Navi Finserv Limited",
+   "source_date": "2026-02-13",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "funding",
+   "date": "2025-07-28",
+   "headline": "Navi raises $20M debt from PhillipCapital, Ambit",
+   "description": "Conventional debt round (NCD) for NBFC capital raising.",
+   "source_url": "https://entrackr.com/exclusive/exclusive-sachin-bansals-navi-raises-20-mn-debt-9585170",
+   "source_title": "Sachin Bansal's Navi raises $20M debt",
+   "source_date": "2025-07-28",
+   "confidence": "MEDIUM"
+  },
+  {
+   "type": "fraud_incident",
+   "date": "2024-12",
+   "headline": "Rs 14.26 cr payment-gateway fraud",
+   "description": "Payment gateway fraud in December 2024; Whitefield cyber police probe.",
+   "source_url": "https://timesofindia.indiatimes.com/technology/tech-news/how-flipkart-co-founder-sachin-bansals-fintech-startup-navi-lost-rs-14-crore-to-payment-gateway-fraud/articleshow/117443407.cms",
+   "source_title": "How Flipkart co-founder Sachin Bansal's fintech startup Navi lost Rs 14 crore to payment gateway fraud",
+   "source_date": "2025-01-22",
+   "confidence": "MEDIUM"
+  },
+  {
+   "type": "partnership",
+   "date": "2026-03-06",
+   "headline": "Navi Finserv convenes 3rd Navi Lenders Summit 2026",
+   "description": "Navi Finserv convened close to 200 financial sector leaders at the 3rd Navi Lenders Summit 2026.",
+   "source_url": "https://www.prnewswire.com/in/news-releases/navi-finserv-convenes-close-to-200-financial-sector-leaders-at-the-3rd-navi-lenders-summit-2026-302706524.html",
+   "source_title": "Navi Finserv convenes close to 200 financial sector leaders at the 3rd Navi Lenders Summit 2026",
+   "source_date": "2026-03-06",
+   "confidence": "MEDIUM"
+  },
+  {
+   "type": "milestone",
+   "date": "2024-10",
+   "headline": "Navi overtakes CRED to become 4th largest UPI player",
+   "description": "Navi became 4th largest UPI TPAP by transaction volume in October 2024, a position it has held since.",
+   "source_url": "https://inc42.com/buzz/ipo-bound-navi-finservs-fy25-profits-plunge-67-to-inr-222-cr",
+   "source_title": "IPO-Bound Navi Finserv's FY25 Profit Tanks 67% To INR 222 Cr",
+   "source_date": "2025-06-11",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "ipo",
+   "date": "2026-08-13",
+   "headline": "Navi eyes Rs 3,000 cr IPO at ~$2B valuation",
+   "description": "DRHP filing planned Dec 2026; ~₹3,000 cr fresh issue, no OFS. Bankers: JM Financial, Kotak, Goldman, JPMorgan.",
+   "source_url": "https://inc42.com/buzz/navi-to-file-for-%E2%82%B93000-cr-ipo-by-december-report",
+   "source_date": "2026-08-13",
+   "confidence": "MEDIUM"
+  },
+  {
+   "type": "regulatory",
+   "date": "2024-10-18",
+   "headline": "RBI bars Navi Finserv from lending",
+   "description": "RBI Directions under Section 45L(1)(b) to cease loan sanction/disbursement effective Oct 21, 2024. Restrictions lifted Dec 2024.",
+   "source_url": "https://www.fintechbiznews.com/lenders-nbfcs/rbi-action-against-4-nbfcs-including-asirvad-mfc-navi-finserv-",
+   "source_date": "2024-10-18",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "funding",
+   "date": "2026-08-19",
+   "headline": "Navi raises $100M from Prosus at $1.3B valuation",
+   "description": "First institutional equity funding after 8 years of founder self-funding. Ahead of planned IPO.",
+   "source_url": "https://techcrunch.com/2026/08/19/sachin-bansals-fintech-navi-raises-first-outside-capital-with-100m-prosus-investment/",
+   "source_date": "2026-08-19",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "penalty",
+   "date": "2026-02-10",
+   "headline": "RBI imposes ₹3.80 lakh penalty on Navi Finserv",
+   "description": "Penalty for non-compliance with Recovery Agents directions.",
+   "source_url": "https://rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=62229",
+   "source_date": "2026-02-13",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "milestone",
+   "date": "2024-10",
+   "headline": "Navi overtakes CRED to become 4th largest UPI player",
+   "description": "Navi became 4th largest UPI TPAP by transaction volume in October 2024, position held since.",
+   "source_url": "https://inc42.com/buzz/ipo-bound-navi-finservs-fy25-profits-plunge-67-to-inr-222-cr",
+   "source_date": "2025-06-11",
+   "confidence": "HIGH"
+  }
+ ],
+ "sources": [
+  {
+   "url": "http://techcrunch.com/2026/08/19/sachin-bansals-fintech-navi-raises-first-outside-capital-with-100m-prosus-investment",
+   "title": "Navi raises first outside capital with $100M Prosus investment",
+   "publisher": "TechCrunch",
+   "tier": "T3"
+  },
+  {
+   "url": "https://theheadandtale.com/fintech-news/navi-posts-17-7--revenue-growth-in-fy25-slips-into-loss",
+   "title": "Navi posts 17.7% revenue growth in FY25, slips into loss",
+   "publisher": "Head&Tale via RoC",
+   "tier": "T3"
+  },
+  {
+   "url": "https://m.economictimes.com/tech/funding/prosus-invests-100-million-in-navi-at-1-3-billion-valuation/articleshow/133349944.cms",
+   "title": "",
+   "fields": "FUNDING",
+   "confidence": "MEDIUM"
+  },
+  {
+   "url": "https://www.tofler.in/navi-limited/company/U72900KA2018PLC119297",
+   "title": "Navi Limited Financials | Company Details - Tofler",
+   "fields": [
+    "cin"
+   ],
+   "confidence": "HIGH"
+  },
+  {
+   "url": "https://www.zaubacorp.com/NAVI-TECHNOLOGIES-LIMITED-U72900KA2018PLC119297",
+   "title": "NAVI LIMITED | ZaubaCorp",
+   "fields": [
+    "cin",
+    "incorporation_date"
+   ],
+   "confidence": "HIGH"
+  },
+  {
+   "url": "https://techcrunch.com/2026/08/19/sachin-bansals-fintech-navi-raises-first-outside-capital-with-100m-prosus-investment/",
+   "title": "Sachin Bansal's fintech Navi raises first outside capital with $100M Prosus investment",
+   "fields": [
+    "round_amount",
+    "new_investor"
+   ],
+   "confidence": "HIGH"
+  },
+  {
+   "url": "https://www.livemint.com/companies/news/navi-finserv-loan-growth-upi-platform-merchant-finance-lap/amp-11787154859866.html",
+   "publisher": "Mint",
+   "tier": "T2",
+   "publication_date": "2026-08-19",
+   "retrieved_date": "2026-09-15",
+   "confidence": "HIGH",
+   "fields_supported": [
+    "traction",
+    "financials",
+    "products",
+    "people",
+    "events"
+   ]
+  },
+  {
+   "url": "https://rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=62229",
+   "publisher": "Reserve Bank of India",
+   "tier": "T1",
+   "publication_date": "2026-02-13",
+   "retrieved_date": "2026-09-15",
+   "confidence": "HIGH",
+   "fields_supported": [
+    "legal"
+   ]
+  },
+  {
+   "url": "https://www.fintechbiznews.com/lenders-nbfcs/rbi-action-against-4-nbfcs-including-asirvad-mfc-navi-finserv-",
+   "publisher": "FinTech BizNews",
+   "tier": "T3",
+   "publication_date": "2024-10-18",
+   "retrieved_date": "2026-09-15",
+   "confidence": "HIGH",
+   "fields_supported": [
+    "legal"
+   ]
+  },
+  {
+   "url": "https://inc42.com/buzz/navi-to-file-for-%E2%82%B93000-cr-ipo-by-december-report",
+   "publisher": "Inc42",
+   "tier": "T3",
+   "publication_date": "2026-08-13",
+   "retrieved_date": "2026-09-15",
+   "confidence": "MEDIUM",
+   "fields_supported": [
+    "events",
+    "funding_rounds"
+   ]
+  },
+  {
+   "url": "https://nsearchives.nseindia.com/content/debt/WDM/navi123_22092025154056_Intimation_UPLOAD.pdf",
+   "publisher": "BSE/NSE Filing",
+   "tier": "T1",
+   "publication_date": "2025-09-22",
+   "retrieved_date": "2026-09-15",
+   "confidence": "HIGH",
+   "fields_supported": [
+    "company",
+    "financials",
+    "people",
+    "locations"
+   ]
+  },
+  {
+   "url": "https://www.navi.com/about-us",
+   "publisher": "Navi Limited",
+   "tier": "T1",
+   "publication_date": "2026-09-15",
+   "retrieved_date": "2026-09-15",
+   "confidence": "HIGH",
+   "fields_supported": [
+    "company",
+    "products"
+   ]
+  },
+  {
+   "url": "https://platform.tracxn.com/a/d/company/531a68b8e4b0f7e1660eab44/navi",
+   "publisher": "Tracxn",
+   "tier": "T2",
+   "publication_date": "2026-08-19",
+   "retrieved_date": "2026-09-15",
+   "confidence": "MEDIUM",
+   "fields_supported": [
+    "company",
+    "people",
+    "funding_rounds"
+   ]
+  },
+  {
+   "url": "https://entrackr.com/fintrackr/navi-technologies-swings-to-red-with-rs-126-cr-loss-in-fy25-11188584",
+   "publisher": "Entrackr",
+   "tier": "T3",
+   "publication_date": "2026-03-09",
+   "retrieved_date": "2026-09-15",
+   "confidence": "HIGH",
+   "fields_supported": [
+    "financials",
+    "legal"
+   ]
+  },
+  {
+   "url": "http://careratings.com/upload/CompanyFiles/PR/202604120416_Navi_Limited.pdf",
+   "publisher": "CARE Ratings",
+   "tier": "T2",
+   "publication_date": "2026-04-12",
+   "retrieved_date": "2026-09-15",
+   "confidence": "HIGH",
+   "fields_supported": [
+    "company",
+    "investor_links"
+   ]
+  },
+  {
+   "url": "https://www.linkedin.com/company/go-navi",
+   "publisher": "LinkedIn",
+   "tier": "T4",
+   "publication_date": "2026-08-31",
+   "retrieved_date": "2026-09-15",
+   "confidence": "MEDIUM",
+   "fields_supported": [
+    "company"
+   ]
+  },
+  {
+   "url": "https://www.medianama.com/2024/10/223-navi-finserv-pauses-bond-sale-amid-rbi-regulatory-clampdown",
+   "publisher": "Medianama",
+   "tier": "T3",
+   "publication_date": "2024-10-22",
+   "retrieved_date": "2026-09-15",
+   "confidence": "MEDIUM",
+   "fields_supported": [
+    "legal"
+   ]
+  },
+  {
+   "url": "https://www.prnewswire.com/in/news-releases/navi-finserv-convenes-close-to-200-financial-sector-leaders-at-the-3rd-navi-lenders-summit-2026-302706524.html",
+   "publisher": "PR Newswire",
+   "tier": "T3",
+   "publication_date": "2026-03-06",
+   "retrieved_date": "2026-09-15",
+   "confidence": "MEDIUM",
+   "fields_supported": [
+    "events"
+   ]
+  },
+  {
+   "url": "https://inc42.com/buzz/ipo-bound-navi-finservs-fy25-profits-plunge-67-to-inr-222-cr",
+   "publisher": "Inc42",
+   "tier": "T3",
+   "publication_date": "2025-06-11",
+   "retrieved_date": "2026-09-15",
+   "confidence": "MEDIUM",
+   "fields_supported": [
+    "financials",
+    "events"
+   ]
+  }
+ ],
+ "conflicts": [
+  {
+   "field": "valuation Aug 2026",
+   "claim_a": "~$1.3B (TechCrunch sources)",
+   "url_a": "http://techcrunch.com/2026/08/19/sachin-bansals-fintech-navi-raises-first-outside-capital-with-100m-prosus-investment",
+   "claim_b": "$1.7B (Tracxn)",
+   "url_b": "https://platform.tracxn.com/a/d/company/531a68b8e4b0f7e1660eab44/navi",
+   "resolution": "use $1.3B deal-report figure; Tracxn estimate flagged",
+   "resolved_value": "$1.3B"
+  },
+  {
+   "field": "legal_name",
+   "claim_a": "Navi Technologies Ltd / Navi Group (Navi Finserv NBFC arm)",
+   "url_a": "",
+   "claim_b": "Navi Limited (formerly Navi Technologies Limited)",
+   "url_b": "",
+   "resolution": "phase3 p3 payload disagrees with existing value; existing kept as preferred pending human review",
+   "resolved_value": "",
+   "reviewed": "p3-merge"
+  },
+  {
+   "field": "business_model",
+   "claim_a": "B2C fintech superapp (lending, insurance, MF, UPI)",
+   "url_a": "",
+   "claim_b": "B2C fintech superapp (lending via NBFC arm, UPI payments, insurance, mutual funds)",
+   "url_b": "",
+   "resolution": "phase3 p3 payload disagrees with existing value; existing kept as preferred pending human review",
+   "resolved_value": "",
+   "reviewed": "p3-merge"
+  },
+  {
+   "field": "employee_estimate",
+   "claim_a": "1737",
+   "url_a": "",
+   "claim_b": "3398",
+   "url_b": "",
+   "resolution": "phase3 p3 payload disagrees with existing value; existing kept as preferred pending human review",
+   "resolved_value": "",
+   "reviewed": "p3-merge"
+  },
+  {
+   "field": "valuation Aug 2026",
+   "claim_a": "~$1.3B (TechCrunch sources, per Prosus deal)",
+   "url_a": "https://techcrunch.com/2026/08/19/sachin-bansals-fintech-navi-raises-first-outside-capital-with-100m-prosus-investment/",
+   "claim_b": "$1.7B (Tracxn)",
+   "url_b": "https://platform.tracxn.com/a/d/company/531a68b8e4b0f7e1660eab44/navi",
+   "resolution": "use $1.3B deal-report figure; Tracxn estimate flagged",
+   "resolved_value": "$1.3B"
+  },
+  {
+   "field": "valuation IPO target",
+   "claim_a": "~$2B (Reuters/Inc42 sources)",
+   "url_a": "https://www.reuters.com/world/india/indian-fintech-navi-raise-100-million-ahead-planned-ipo-2026-08-19",
+   "url_b": "https://inc42.com/buzz/navi-to-file-for-%E2%82%B93000-cr-ipo-by-december-report",
+   "resolution": "Both sources report ~$2B IPO target valuation; consistent",
+   "resolved_value": "~$2B"
+  },
+  {
+   "field": "FY26 net loss vs profit",
+   "claim_a": "Net loss ₹466 cr (TechCrunch, consolidated)",
+   "url_a": "https://techcrunch.com/2026/08/19/sachin-bansals-fintech-navi-raises-first-outside-capital-with-100m-prosus-investment/",
+   "claim_b": "Consolidated profit ₹93.3 cr (Inc42, Navi Finserv)",
+   "url_b": "https://inc42.com/buzz/ipo-bound-navi-finservs-fy25-profits-plunge-67-to-inr-222-cr",
+   "resolution": "Different entities: TechCrunch reports Navi Ltd consolidated; Inc42 reports Navi Finserv standalone/consolidated. Not necessarily conflicting.",
+   "resolved_value": ""
+  },
+  {
+   "field": "description",
+   "claim_a": "Digital-first financial services holding company offering personal loans, home loans, LAP, UPI payments, health insurance, and mutual funds through a superapp. Promoted by Sachin Bansal (Flipkart co-f",
+   "url_a": "https://www.navi.com/about-us",
+   "claim_b": "Digital-first financial services holding company offering personal loans, home loans, LAP, UPI payments, health insurance, and mutual funds. Promoted by Sachin Bansal (Flipkart co-founder).",
+   "url_b": "",
+   "resolution": "phase3 p3 payload disagrees with existing value; existing kept as preferred pending human review",
+   "resolved_value": "",
+   "reviewed": "p3-merge"
+  }
+ ],
+ "gaps": [
+  "CCI approval status of Prosus round unverified; CIN/DPIIT number unverified",
+  "FY26 filing financials (FY25 already in enrich file)"
+ ],
+ "research_log": [
+  {
+   "query": "Navi fintech funding valuation 2025 2026",
+   "found": "$100M Prosus, IPO plan, debt round, FY25 figures"
+  },
+  {
+   "date": "2026-09-14",
+   "found": "CIN U72900KA2018PLC119297, incorporated 10 Dec 2018; Prosus $100M at $1.3B valuation",
+   "query": "Navi CIN incorporation + Prosus valuation",
+   "unresolved": null
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi fintech products traction people legal events deep enrichment",
+   "status": "done",
+   "found": "Comprehensive data on products, traction, people, legal, events, entity structure",
+   "next_action": "Write P3 JSON",
+   "agent": "kilo"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi RBI penalty notice regulatory action",
+   "status": "done",
+   "found": "Oct 2024 lending ban (Section 45L), lifted Dec 2024; Feb 2026 ₹3.80 lakh penalty for Recovery Agents non-compliance",
+   "next_action": "Write P3 JSON",
+   "agent": "kilo"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi entity split Navi Technologies vs Navi Finserv",
+   "status": "done",
+   "found": "Navi Ltd (holding, CIN U72900KA2018PLC119297) owns Navi Finserv (NBFC, CIN U65923KA2012PLC062537), Navi General Insurance, Navi AMC, Navi Fintech (LSP)",
+   "next_action": "Write P3 JSON",
+   "agent": "kilo"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi IPO DRHP filing status 2024 2025",
+   "status": "done",
+   "found": "Previously filed March 2022 for ₹3,350 cr, approved Sept 2022, deferred 2023. Now planning Dec 2026 filing for ₹3,000 cr with JM/Kotak/GS/JPM.",
+   "next_action": "Write P3 JSON",
+   "agent": "kilo"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi fintech products traction people legal events deep enrichment",
+   "status": "done",
+   "found": "Comprehensive data on products, traction, people, legal, events, entity structure"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi RBI penalty notice regulatory action",
+   "status": "done",
+   "found": "Oct 2024 lending ban (Section 45L), lifted Dec 2024; Feb 2026 ₹3.80 lakh penalty"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi entity split Navi Technologies vs Navi Finserv",
+   "status": "done",
+   "found": "Navi Ltd (holding, CIN U72900KA2018PLC119297) owns Navi Finserv (NBFC, CIN U65923KA2012PLC062537)"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi IPO DRHP filing status 2024 2025",
+   "status": "done",
+   "found": "Previously filed March 2022 for ₹3,350 cr, approved Sept 2022, deferred 2023"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi fintech products traction people legal events deep enrichment",
+   "status": "done",
+   "found": "Comprehensive data on products, traction, people, legal, events, entity structure"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi RBI penalty notice regulatory action",
+   "status": "done",
+   "found": "Oct 2024 lending ban (Section 45L), lifted Dec 2024; Feb 2026 ₹3.80 lakh penalty"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi entity split Navi Technologies vs Navi Finserv",
+   "status": "done",
+   "found": "Navi Ltd (holding, CIN U72900KA2018PLC119297) owns Navi Finserv (NBFC, CIN U65923KA2012PLC062537)"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi IPO DRHP filing status 2024 2025",
+   "status": "done",
+   "found": "Previously filed March 2022 for ₹3,350 cr, approved Sept 2022, deferred 2023"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi fintech products traction people legal events deep enrichment",
+   "status": "done",
+   "found": "Comprehensive data on products, traction, people, legal, events, entity structure"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi RBI penalty notice regulatory action",
+   "status": "done",
+   "found": "Oct 2024 lending ban (Section 45L), lifted Dec 2024; Feb 2026 ₹3.80 lakh penalty"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi entity split Navi Technologies vs Navi Finserv",
+   "status": "done",
+   "found": "Navi Ltd (holding, CIN U72900KA2018PLC119297) owns Navi Finserv (NBFC, CIN U65923KA2012PLC062537)"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi IPO DRHP filing status 2024 2025",
+   "status": "done",
+   "found": "Previously filed March 2022 for ₹3,350 cr, approved Sept 2022, deferred 2023"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi fintech products traction people legal events deep enrichment",
+   "status": "done",
+   "found": "Comprehensive data on products, traction, people, legal, events, entity structure"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi RBI penalty notice regulatory action",
+   "status": "done",
+   "found": "Oct 2024 lending ban (Section 45L), lifted Dec 2024; Feb 2026 ₹3.80 lakh penalty"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi entity split Navi Technologies vs Navi Finserv",
+   "status": "done",
+   "found": "Navi Ltd (holding, CIN U72900KA2018PLC119297) owns Navi Finserv (NBFC, CIN U65923KA2012PLC062537)"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi IPO DRHP filing status 2024 2025",
+   "status": "done",
+   "found": "Previously filed March 2022 for ₹3,350 cr, approved Sept 2022, deferred 2023"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi fintech products traction people legal events deep enrichment",
+   "status": "done",
+   "found": "Comprehensive data on products, traction, people, legal, events, entity structure"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi RBI penalty notice regulatory action",
+   "status": "done",
+   "found": "Oct 2024 lending ban (Section 45L), lifted Dec 2024; Feb 2026 ₹3.80 lakh penalty"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi entity split Navi Technologies vs Navi Finserv",
+   "status": "done",
+   "found": "Navi Ltd (holding, CIN U72900KA2018PLC119297) owns Navi Finserv (NBFC, CIN U65923KA2012PLC062537)"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi IPO DRHP filing status 2024 2025",
+   "status": "done",
+   "found": "Previously filed March 2022 for ₹3,350 cr, approved Sept 2022, deferred 2023"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi fintech products traction people legal events deep enrichment",
+   "status": "done",
+   "found": "Comprehensive data on products, traction, people, legal, events, entity structure"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi RBI penalty notice regulatory action",
+   "status": "done",
+   "found": "Oct 2024 lending ban (Section 45L), lifted Dec 2024; Feb 2026 ₹3.80 lakh penalty"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi entity split Navi Technologies vs Navi Finserv",
+   "status": "done",
+   "found": "Navi Ltd (holding, CIN U72900KA2018PLC119297) owns Navi Finserv (NBFC, CIN U65923KA2012PLC062537)"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi IPO DRHP filing status 2024 2025",
+   "status": "done",
+   "found": "Previously filed March 2022 for ₹3,350 cr, approved Sept 2022, deferred 2023"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi fintech products traction people legal events deep enrichment",
+   "status": "done",
+   "found": "Comprehensive data on products, traction, people, legal, events, entity structure"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi RBI penalty notice regulatory action",
+   "status": "done",
+   "found": "Oct 2024 lending ban (Section 45L), lifted Dec 2024; Feb 2026 ₹3.80 lakh penalty"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi entity split Navi Technologies vs Navi Finserv",
+   "status": "done",
+   "found": "Navi Ltd (holding, CIN U72900KA2018PLC119297) owns Navi Finserv (NBFC, CIN U65923KA2012PLC062537)"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi IPO DRHP filing status 2024 2025",
+   "status": "done",
+   "found": "Previously filed March 2022 for ₹3,350 cr, approved Sept 2022, deferred 2023"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi fintech products traction people legal events deep enrichment",
+   "status": "done",
+   "found": "Comprehensive data on products, traction, people, legal, events, entity structure"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi RBI penalty notice regulatory action",
+   "status": "done",
+   "found": "Oct 2024 lending ban (Section 45L), lifted Dec 2024; Feb 2026 ₹3.80 lakh penalty"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi entity split Navi Technologies vs Navi Finserv",
+   "status": "done",
+   "found": "Navi Ltd (holding, CIN U72900KA2018PLC119297) owns Navi Finserv (NBFC, CIN U65923KA2012PLC062537)"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi IPO DRHP filing status 2024 2025",
+   "status": "done",
+   "found": "Previously filed March 2022 for ₹3,350 cr, approved Sept 2022, deferred 2023"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi fintech products traction people legal events deep enrichment",
+   "status": "done",
+   "found": "Comprehensive data on products, traction, people, legal, events, entity structure"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi RBI penalty notice regulatory action",
+   "status": "done",
+   "found": "Oct 2024 lending ban (Section 45L), lifted Dec 2024; Feb 2026 ₹3.80 lakh penalty"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi entity split Navi Technologies vs Navi Finserv",
+   "status": "done",
+   "found": "Navi Ltd (holding, CIN U72900KA2018PLC119297) owns Navi Finserv (NBFC, CIN U65923KA2012PLC062537)"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi IPO DRHP filing status 2024 2025",
+   "status": "done",
+   "found": "Previously filed March 2022 for ₹3,350 cr, approved Sept 2022, deferred 2023"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi fintech products traction people legal events deep enrichment",
+   "status": "done",
+   "found": "Comprehensive data on products, traction, people, legal, events, entity structure"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi RBI penalty notice regulatory action",
+   "status": "done",
+   "found": "Oct 2024 lending ban (Section 45L), lifted Dec 2024; Feb 2026 ₹3.80 lakh penalty"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi entity split Navi Technologies vs Navi Finserv",
+   "status": "done",
+   "found": "Navi Ltd (holding, CIN U72900KA2018PLC119297) owns Navi Finserv (NBFC, CIN U65923KA2012PLC062537)"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi IPO DRHP filing status 2024 2025",
+   "status": "done",
+   "found": "Previously filed March 2022 for ₹3,350 cr, approved Sept 2022, deferred 2023"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi fintech products traction people legal events deep enrichment",
+   "status": "done",
+   "found": "Comprehensive data on products, traction, people, legal, events, entity structure"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi RBI penalty notice regulatory action",
+   "status": "done",
+   "found": "Oct 2024 lending ban (Section 45L), lifted Dec 2024; Feb 2026 ₹3.80 lakh penalty"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi entity split Navi Technologies vs Navi Finserv",
+   "status": "done",
+   "found": "Navi Ltd (holding, CIN U72900KA2018PLC119297) owns Navi Finserv (NBFC, CIN U65923KA2012PLC062537)"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi IPO DRHP filing status 2024 2025",
+   "status": "done",
+   "found": "Previously filed March 2022 for ₹3,350 cr, approved Sept 2022, deferred 2023"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi fintech products traction people legal events deep enrichment",
+   "status": "done",
+   "found": "Comprehensive data on products, traction, people, legal, events, entity structure"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi RBI penalty notice regulatory action",
+   "status": "done",
+   "found": "Oct 2024 lending ban (Section 45L), lifted Dec 2024; Feb 2026 ₹3.80 lakh penalty"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi entity split Navi Technologies vs Navi Finserv",
+   "status": "done",
+   "found": "Navi Ltd (holding, CIN U72900KA2018PLC119297) owns Navi Finserv (NBFC, CIN U65923KA2012PLC062537)"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi IPO DRHP filing status 2024 2025",
+   "status": "done",
+   "found": "Previously filed March 2022 for ₹3,350 cr, approved Sept 2022, deferred 2023"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi fintech products traction people legal events deep enrichment",
+   "status": "done",
+   "found": "Comprehensive data on products, traction, people, legal, events, entity structure"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi RBI penalty notice regulatory action",
+   "status": "done",
+   "found": "Oct 2024 lending ban (Section 45L), lifted Dec 2024; Feb 2026 ₹3.80 lakh penalty"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi entity split Navi Technologies vs Navi Finserv",
+   "status": "done",
+   "found": "Navi Ltd (holding, CIN U72900KA2018PLC119297) owns Navi Finserv (NBFC, CIN U65923KA2012PLC062537)"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi IPO DRHP filing status 2024 2025",
+   "status": "done",
+   "found": "Previously filed March 2022 for ₹3,350 cr, approved Sept 2022, deferred 2023"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi fintech products traction people legal events deep enrichment",
+   "status": "done",
+   "found": "Comprehensive data on products, traction, people, legal, events, entity structure"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi RBI penalty notice regulatory action",
+   "status": "done",
+   "found": "Oct 2024 lending ban (Section 45L), lifted Dec 2024; Feb 2026 ₹3.80 lakh penalty"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi entity split Navi Technologies vs Navi Finserv",
+   "status": "done",
+   "found": "Navi Ltd (holding, CIN U72900KA2018PLC119297) owns Navi Finserv (NBFC, CIN U65923KA2012PLC062537)"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi IPO DRHP filing status 2024 2025",
+   "status": "done",
+   "found": "Previously filed March 2022 for ₹3,350 cr, approved Sept 2022, deferred 2023"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi fintech products traction people legal events deep enrichment",
+   "status": "done",
+   "found": "Comprehensive data on products, traction, people, legal, events, entity structure"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi RBI penalty notice regulatory action",
+   "status": "done",
+   "found": "Oct 2024 lending ban (Section 45L), lifted Dec 2024; Feb 2026 ₹3.80 lakh penalty"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi entity split Navi Technologies vs Navi Finserv",
+   "status": "done",
+   "found": "Navi Ltd (holding, CIN U72900KA2018PLC119297) owns Navi Finserv (NBFC, CIN U65923KA2012PLC062537)"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi IPO DRHP filing status 2024 2025",
+   "status": "done",
+   "found": "Previously filed March 2022 for ₹3,350 cr, approved Sept 2022, deferred 2023"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi fintech products traction people legal events deep enrichment",
+   "status": "done",
+   "found": "Comprehensive data on products, traction, people, legal, events, entity structure"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi RBI penalty notice regulatory action",
+   "status": "done",
+   "found": "Oct 2024 lending ban (Section 45L), lifted Dec 2024; Feb 2026 ₹3.80 lakh penalty"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi entity split Navi Technologies vs Navi Finserv",
+   "status": "done",
+   "found": "Navi Ltd (holding, CIN U72900KA2018PLC119297) owns Navi Finserv (NBFC, CIN U65923KA2012PLC062537)"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi IPO DRHP filing status 2024 2025",
+   "status": "done",
+   "found": "Previously filed March 2022 for ₹3,350 cr, approved Sept 2022, deferred 2023"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi fintech products traction people legal events deep enrichment",
+   "status": "done",
+   "found": "Comprehensive data on products, traction, people, legal, events, entity structure"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi RBI penalty notice regulatory action",
+   "status": "done",
+   "found": "Oct 2024 lending ban (Section 45L), lifted Dec 2024; Feb 2026 ₹3.80 lakh penalty"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi entity split Navi Technologies vs Navi Finserv",
+   "status": "done",
+   "found": "Navi Ltd (holding, CIN U72900KA2018PLC119297) owns Navi Finserv (NBFC, CIN U65923KA2012PLC062537)"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi IPO DRHP filing status 2024 2025",
+   "status": "done",
+   "found": "Previously filed March 2022 for ₹3,350 cr, approved Sept 2022, deferred 2023"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi fintech products traction people legal events deep enrichment",
+   "status": "done",
+   "found": "Comprehensive data on products, traction, people, legal, events, entity structure"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi RBI penalty notice regulatory action",
+   "status": "done",
+   "found": "Oct 2024 lending ban (Section 45L), lifted Dec 2024; Feb 2026 ₹3.80 lakh penalty"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi entity split Navi Technologies vs Navi Finserv",
+   "status": "done",
+   "found": "Navi Ltd (holding, CIN U72900KA2018PLC119297) owns Navi Finserv (NBFC, CIN U65923KA2012PLC062537)"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi IPO DRHP filing status 2024 2025",
+   "status": "done",
+   "found": "Previously filed March 2022 for ₹3,350 cr, approved Sept 2022, deferred 2023"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi fintech products traction people legal events deep enrichment",
+   "status": "done",
+   "found": "Comprehensive data on products, traction, people, legal, events, entity structure"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi RBI penalty notice regulatory action",
+   "status": "done",
+   "found": "Oct 2024 lending ban (Section 45L), lifted Dec 2024; Feb 2026 ₹3.80 lakh penalty"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi entity split Navi Technologies vs Navi Finserv",
+   "status": "done",
+   "found": "Navi Ltd (holding, CIN U72900KA2018PLC119297) owns Navi Finserv (NBFC, CIN U65923KA2012PLC062537)"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi IPO DRHP filing status 2024 2025",
+   "status": "done",
+   "found": "Previously filed March 2022 for ₹3,350 cr, approved Sept 2022, deferred 2023"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi fintech products traction people legal events deep enrichment",
+   "status": "done",
+   "found": "Comprehensive data on products, traction, people, legal, events, entity structure"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi RBI penalty notice regulatory action",
+   "status": "done",
+   "found": "Oct 2024 lending ban (Section 45L), lifted Dec 2024; Feb 2026 ₹3.80 lakh penalty"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi entity split Navi Technologies vs Navi Finserv",
+   "status": "done",
+   "found": "Navi Ltd (holding, CIN U72900KA2018PLC119297) owns Navi Finserv (NBFC, CIN U65923KA2012PLC062537)"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi IPO DRHP filing status 2024 2025",
+   "status": "done",
+   "found": "Previously filed March 2022 for ₹3,350 cr, approved Sept 2022, deferred 2023"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi fintech products traction people legal events deep enrichment",
+   "status": "done",
+   "found": "Comprehensive data on products, traction, people, legal, events, entity structure"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi RBI penalty notice regulatory action",
+   "status": "done",
+   "found": "Oct 2024 lending ban (Section 45L), lifted Dec 2024; Feb 2026 ₹3.80 lakh penalty"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi entity split Navi Technologies vs Navi Finserv",
+   "status": "done",
+   "found": "Navi Ltd (holding, CIN U72900KA2018PLC119297) owns Navi Finserv (NBFC, CIN U65923KA2012PLC062537)"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi IPO DRHP filing status 2024 2025",
+   "status": "done",
+   "found": "Previously filed March 2022 for ₹3,350 cr, approved Sept 2022, deferred 2023"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi fintech products traction people legal events deep enrichment",
+   "status": "done",
+   "found": "Comprehensive data on products, traction, people, legal, events, entity structure"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi RBI penalty notice regulatory action",
+   "status": "done",
+   "found": "Oct 2024 lending ban (Section 45L), lifted Dec 2024; Feb 2026 ₹3.80 lakh penalty"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi entity split Navi Technologies vs Navi Finserv",
+   "status": "done",
+   "found": "Navi Ltd (holding, CIN U72900KA2018PLC119297) owns Navi Finserv (NBFC, CIN U65923KA2012PLC062537)"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi IPO DRHP filing status 2024 2025",
+   "status": "done",
+   "found": "Previously filed March 2022 for ₹3,350 cr, approved Sept 2022, deferred 2023"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi fintech products traction people legal events deep enrichment",
+   "status": "done",
+   "found": "Comprehensive data on products, traction, people, legal, events, entity structure"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi RBI penalty notice regulatory action",
+   "status": "done",
+   "found": "Oct 2024 lending ban (Section 45L), lifted Dec 2024; Feb 2026 ₹3.80 lakh penalty"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi entity split Navi Technologies vs Navi Finserv",
+   "status": "done",
+   "found": "Navi Ltd (holding, CIN U72900KA2018PLC119297) owns Navi Finserv (NBFC, CIN U65923KA2012PLC062537)"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi IPO DRHP filing status 2024 2025",
+   "status": "done",
+   "found": "Previously filed March 2022 for ₹3,350 cr, approved Sept 2022, deferred 2023"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi fintech products traction people legal events deep enrichment",
+   "status": "done",
+   "found": "Comprehensive data on products, traction, people, legal, events, entity structure"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi RBI penalty notice regulatory action",
+   "status": "done",
+   "found": "Oct 2024 lending ban (Section 45L), lifted Dec 2024; Feb 2026 ₹3.80 lakh penalty"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi entity split Navi Technologies vs Navi Finserv",
+   "status": "done",
+   "found": "Navi Ltd (holding, CIN U72900KA2018PLC119297) owns Navi Finserv (NBFC, CIN U65923KA2012PLC062537)"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi IPO DRHP filing status 2024 2025",
+   "status": "done",
+   "found": "Previously filed March 2022 for ₹3,350 cr, approved Sept 2022, deferred 2023"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi fintech products traction people legal events deep enrichment",
+   "status": "done",
+   "found": "Comprehensive data on products, traction, people, legal, events, entity structure"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi RBI penalty notice regulatory action",
+   "status": "done",
+   "found": "Oct 2024 lending ban (Section 45L), lifted Dec 2024; Feb 2026 ₹3.80 lakh penalty"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi entity split Navi Technologies vs Navi Finserv",
+   "status": "done",
+   "found": "Navi Ltd (holding, CIN U72900KA2018PLC119297) owns Navi Finserv (NBFC, CIN U65923KA2012PLC062537)"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi IPO DRHP filing status 2024 2025",
+   "status": "done",
+   "found": "Previously filed March 2022 for ₹3,350 cr, approved Sept 2022, deferred 2023"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi fintech products traction people legal events deep enrichment",
+   "status": "done",
+   "found": "Comprehensive data on products, traction, people, legal, events, entity structure"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi RBI penalty notice regulatory action",
+   "status": "done",
+   "found": "Oct 2024 lending ban (Section 45L), lifted Dec 2024; Feb 2026 ₹3.80 lakh penalty"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi entity split Navi Technologies vs Navi Finserv",
+   "status": "done",
+   "found": "Navi Ltd (holding, CIN U72900KA2018PLC119297) owns Navi Finserv (NBFC, CIN U65923KA2012PLC062537)"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi IPO DRHP filing status 2024 2025",
+   "status": "done",
+   "found": "Previously filed March 2022 for ₹3,350 cr, approved Sept 2022, deferred 2023"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi fintech products traction people legal events deep enrichment",
+   "status": "done",
+   "found": "Comprehensive data on products, traction, people, legal, events, entity structure"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi RBI penalty notice regulatory action",
+   "status": "done",
+   "found": "Oct 2024 lending ban (Section 45L), lifted Dec 2024; Feb 2026 ₹3.80 lakh penalty"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi entity split Navi Technologies vs Navi Finserv",
+   "status": "done",
+   "found": "Navi Ltd (holding, CIN U72900KA2018PLC119297) owns Navi Finserv (NBFC, CIN U65923KA2012PLC062537)"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi IPO DRHP filing status 2024 2025",
+   "status": "done",
+   "found": "Previously filed March 2022 for ₹3,350 cr, approved Sept 2022, deferred 2023"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi fintech products traction people legal events deep enrichment",
+   "status": "done",
+   "found": "Comprehensive data on products, traction, people, legal, events, entity structure"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi RBI penalty notice regulatory action",
+   "status": "done",
+   "found": "Oct 2024 lending ban (Section 45L), lifted Dec 2024; Feb 2026 ₹3.80 lakh penalty"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi entity split Navi Technologies vs Navi Finserv",
+   "status": "done",
+   "found": "Navi Ltd (holding, CIN U72900KA2018PLC119297) owns Navi Finserv (NBFC, CIN U65923KA2012PLC062537)"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi IPO DRHP filing status 2024 2025",
+   "status": "done",
+   "found": "Previously filed March 2022 for ₹3,350 cr, approved Sept 2022, deferred 2023"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi fintech products traction people legal events deep enrichment",
+   "status": "done",
+   "found": "Comprehensive data on products, traction, people, legal, events, entity structure"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi RBI penalty notice regulatory action",
+   "status": "done",
+   "found": "Oct 2024 lending ban (Section 45L), lifted Dec 2024; Feb 2026 ₹3.80 lakh penalty"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi entity split Navi Technologies vs Navi Finserv",
+   "status": "done",
+   "found": "Navi Ltd (holding, CIN U72900KA2018PLC119297) owns Navi Finserv (NBFC, CIN U65923KA2012PLC062537)"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi IPO DRHP filing status 2024 2025",
+   "status": "done",
+   "found": "Previously filed March 2022 for ₹3,350 cr, approved Sept 2022, deferred 2023"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi fintech products traction people legal events deep enrichment",
+   "status": "done",
+   "found": "Comprehensive data on products, traction, people, legal, events, entity structure"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi RBI penalty notice regulatory action",
+   "status": "done",
+   "found": "Oct 2024 lending ban (Section 45L), lifted Dec 2024; Feb 2026 ₹3.80 lakh penalty"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi entity split Navi Technologies vs Navi Finserv",
+   "status": "done",
+   "found": "Navi Ltd (holding, CIN U72900KA2018PLC119297) owns Navi Finserv (NBFC, CIN U65923KA2012PLC062537)"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi IPO DRHP filing status 2024 2025",
+   "status": "done",
+   "found": "Previously filed March 2022 for ₹3,350 cr, approved Sept 2022, deferred 2023"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi fintech products traction people legal events deep enrichment",
+   "status": "done",
+   "found": "Comprehensive data on products, traction, people, legal, events, entity structure"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi RBI penalty notice regulatory action",
+   "status": "done",
+   "found": "Oct 2024 lending ban (Section 45L), lifted Dec 2024; Feb 2026 ₹3.80 lakh penalty"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi entity split Navi Technologies vs Navi Finserv",
+   "status": "done",
+   "found": "Navi Ltd (holding, CIN U72900KA2018PLC119297) owns Navi Finserv (NBFC, CIN U65923KA2012PLC062537)"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi IPO DRHP filing status 2024 2025",
+   "status": "done",
+   "found": "Previously filed March 2022 for ₹3,350 cr, approved Sept 2022, deferred 2023"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi fintech products traction people legal events deep enrichment",
+   "status": "done",
+   "found": "Comprehensive data on products, traction, people, legal, events, entity structure"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi RBI penalty notice regulatory action",
+   "status": "done",
+   "found": "Oct 2024 lending ban (Section 45L), lifted Dec 2024; Feb 2026 ₹3.80 lakh penalty"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi entity split Navi Technologies vs Navi Finserv",
+   "status": "done",
+   "found": "Navi Ltd (holding, CIN U72900KA2018PLC119297) owns Navi Finserv (NBFC, CIN U65923KA2012PLC062537)"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi IPO DRHP filing status 2024 2025",
+   "status": "done",
+   "found": "Previously filed March 2022 for ₹3,350 cr, approved Sept 2022, deferred 2023"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi fintech products traction people legal events deep enrichment",
+   "status": "done",
+   "found": "Comprehensive data on products, traction, people, legal, events, entity structure"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi RBI penalty notice regulatory action",
+   "status": "done",
+   "found": "Oct 2024 lending ban (Section 45L), lifted Dec 2024; Feb 2026 ₹3.80 lakh penalty"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi entity split Navi Technologies vs Navi Finserv",
+   "status": "done",
+   "found": "Navi Ltd (holding, CIN U72900KA2018PLC119297) owns Navi Finserv (NBFC, CIN U65923KA2012PLC062537)"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi IPO DRHP filing status 2024 2025",
+   "status": "done",
+   "found": "Previously filed March 2022 for ₹3,350 cr, approved Sept 2022, deferred 2023"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi fintech products traction people legal events deep enrichment",
+   "status": "done",
+   "found": "Comprehensive data on products, traction, people, legal, events, entity structure"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi RBI penalty notice regulatory action",
+   "status": "done",
+   "found": "Oct 2024 lending ban (Section 45L), lifted Dec 2024; Feb 2026 ₹3.80 lakh penalty"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi entity split Navi Technologies vs Navi Finserv",
+   "status": "done",
+   "found": "Navi Ltd (holding, CIN U72900KA2018PLC119297) owns Navi Finserv (NBFC, CIN U65923KA2012PLC062537)"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi IPO DRHP filing status 2024 2025",
+   "status": "done",
+   "found": "Previously filed March 2022 for ₹3,350 cr, approved Sept 2022, deferred 2023"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi fintech products traction people legal events deep enrichment",
+   "status": "done",
+   "found": "Comprehensive data on products, traction, people, legal, events, entity structure"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi RBI penalty notice regulatory action",
+   "status": "done",
+   "found": "Oct 2024 lending ban (Section 45L), lifted Dec 2024; Feb 2026 ₹3.80 lakh penalty"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi entity split Navi Technologies vs Navi Finserv",
+   "status": "done",
+   "found": "Navi Ltd (holding, CIN U72900KA2018PLC119297) owns Navi Finserv (NBFC, CIN U65923KA2012PLC062537)"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi IPO DRHP filing status 2024 2025",
+   "status": "done",
+   "found": "Previously filed March 2022 for ₹3,350 cr, approved Sept 2022, deferred 2023"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi fintech products traction people legal events deep enrichment",
+   "status": "done",
+   "found": "Comprehensive data on products, traction, people, legal, events, entity structure"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi RBI penalty notice regulatory action",
+   "status": "done",
+   "found": "Oct 2024 lending ban (Section 45L), lifted Dec 2024; Feb 2026 ₹3.80 lakh penalty"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi entity split Navi Technologies vs Navi Finserv",
+   "status": "done",
+   "found": "Navi Ltd (holding, CIN U72900KA2018PLC119297) owns Navi Finserv (NBFC, CIN U65923KA2012PLC062537)"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi IPO DRHP filing status 2024 2025",
+   "status": "done",
+   "found": "Previously filed March 2022 for ₹3,350 cr, approved Sept 2022, deferred 2023"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi fintech products traction people legal events deep enrichment",
+   "status": "done",
+   "found": "Comprehensive data on products, traction, people, legal, events, entity structure"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi RBI penalty notice regulatory action",
+   "status": "done",
+   "found": "Oct 2024 lending ban (Section 45L), lifted Dec 2024; Feb 2026 ₹3.80 lakh penalty"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi entity split Navi Technologies vs Navi Finserv",
+   "status": "done",
+   "found": "Navi Ltd (holding, CIN U72900KA2018PLC119297) owns Navi Finserv (NBFC, CIN U65923KA2012PLC062537)"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi IPO DRHP filing status 2024 2025",
+   "status": "done",
+   "found": "Previously filed March 2022 for ₹3,350 cr, approved Sept 2022, deferred 2023"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi fintech products traction people legal events deep enrichment",
+   "status": "done",
+   "found": "Comprehensive data on products, traction, people, legal, events, entity structure"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi RBI penalty notice regulatory action",
+   "status": "done",
+   "found": "Oct 2024 lending ban (Section 45L), lifted Dec 2024; Feb 2026 ₹3.80 lakh penalty"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi entity split Navi Technologies vs Navi Finserv",
+   "status": "done",
+   "found": "Navi Ltd (holding, CIN U72900KA2018PLC119297) owns Navi Finserv (NBFC, CIN U65923KA2012PLC062537)"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi IPO DRHP filing status 2024 2025",
+   "status": "done",
+   "found": "Previously filed March 2022 for ₹3,350 cr, approved Sept 2022, deferred 2023"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi fintech products traction people legal events deep enrichment",
+   "status": "done",
+   "found": "Comprehensive data on products, traction, people, legal, events, entity structure"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi RBI penalty notice regulatory action",
+   "status": "done",
+   "found": "Oct 2024 lending ban (Section 45L), lifted Dec 2024; Feb 2026 ₹3.80 lakh penalty"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi entity split Navi Technologies vs Navi Finserv",
+   "status": "done",
+   "found": "Navi Ltd (holding, CIN U72900KA2018PLC119297) owns Navi Finserv (NBFC, CIN U65923KA2012PLC062537)"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi IPO DRHP filing status 2024 2025",
+   "status": "done",
+   "found": "Previously filed March 2022 for ₹3,350 cr, approved Sept 2022, deferred 2023"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi fintech products traction people legal events deep enrichment",
+   "status": "done",
+   "found": "Comprehensive data on products, traction, people, legal, events, entity structure"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi RBI penalty notice regulatory action",
+   "status": "done",
+   "found": "Oct 2024 lending ban (Section 45L), lifted Dec 2024; Feb 2026 ₹3.80 lakh penalty"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi entity split Navi Technologies vs Navi Finserv",
+   "status": "done",
+   "found": "Navi Ltd (holding, CIN U72900KA2018PLC119297) owns Navi Finserv (NBFC, CIN U65923KA2012PLC062537)"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi IPO DRHP filing status 2024 2025",
+   "status": "done",
+   "found": "Previously filed March 2022 for ₹3,350 cr, approved Sept 2022, deferred 2023"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi fintech products traction people legal events deep enrichment",
+   "status": "done",
+   "found": "Comprehensive data on products, traction, people, legal, events, entity structure"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi RBI penalty notice regulatory action",
+   "status": "done",
+   "found": "Oct 2024 lending ban (Section 45L), lifted Dec 2024; Feb 2026 ₹3.80 lakh penalty"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi entity split Navi Technologies vs Navi Finserv",
+   "status": "done",
+   "found": "Navi Ltd (holding, CIN U72900KA2018PLC119297) owns Navi Finserv (NBFC, CIN U65923KA2012PLC062537)"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi IPO DRHP filing status 2024 2025",
+   "status": "done",
+   "found": "Previously filed March 2022 for ₹3,350 cr, approved Sept 2022, deferred 2023"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi fintech products traction people legal events deep enrichment",
+   "status": "done",
+   "found": "Comprehensive data on products, traction, people, legal, events, entity structure"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi RBI penalty notice regulatory action",
+   "status": "done",
+   "found": "Oct 2024 lending ban (Section 45L), lifted Dec 2024; Feb 2026 ₹3.80 lakh penalty"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi entity split Navi Technologies vs Navi Finserv",
+   "status": "done",
+   "found": "Navi Ltd (holding, CIN U72900KA2018PLC119297) owns Navi Finserv (NBFC, CIN U65923KA2012PLC062537)"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi IPO DRHP filing status 2024 2025",
+   "status": "done",
+   "found": "Previously filed March 2022 for ₹3,350 cr, approved Sept 2022, deferred 2023"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi fintech products traction people legal events deep enrichment",
+   "status": "done",
+   "found": "Comprehensive data on products, traction, people, legal, events, entity structure"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi RBI penalty notice regulatory action",
+   "status": "done",
+   "found": "Oct 2024 lending ban (Section 45L), lifted Dec 2024; Feb 2026 ₹3.80 lakh penalty"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi entity split Navi Technologies vs Navi Finserv",
+   "status": "done",
+   "found": "Navi Ltd (holding, CIN U72900KA2018PLC119297) owns Navi Finserv (NBFC, CIN U65923KA2012PLC062537)"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi IPO DRHP filing status 2024 2025",
+   "status": "done",
+   "found": "Previously filed March 2022 for ₹3,350 cr, approved Sept 2022, deferred 2023"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi fintech products traction people legal events deep enrichment",
+   "status": "done",
+   "found": "Comprehensive data on products, traction, people, legal, events, entity structure"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi RBI penalty notice regulatory action",
+   "status": "done",
+   "found": "Oct 2024 lending ban (Section 45L), lifted Dec 2024; Feb 2026 ₹3.80 lakh penalty"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi entity split Navi Technologies vs Navi Finserv",
+   "status": "done",
+   "found": "Navi Ltd (holding, CIN U72900KA2018PLC119297) owns Navi Finserv (NBFC, CIN U65923KA2012PLC062537)"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi IPO DRHP filing status 2024 2025",
+   "status": "done",
+   "found": "Previously filed March 2022 for ₹3,350 cr, approved Sept 2022, deferred 2023"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi fintech products traction people legal events deep enrichment",
+   "status": "done",
+   "found": "Comprehensive data on products, traction, people, legal, events, entity structure"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi RBI penalty notice regulatory action",
+   "status": "done",
+   "found": "Oct 2024 lending ban (Section 45L), lifted Dec 2024; Feb 2026 ₹3.80 lakh penalty"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi entity split Navi Technologies vs Navi Finserv",
+   "status": "done",
+   "found": "Navi Ltd (holding, CIN U72900KA2018PLC119297) owns Navi Finserv (NBFC, CIN U65923KA2012PLC062537)"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi IPO DRHP filing status 2024 2025",
+   "status": "done",
+   "found": "Previously filed March 2022 for ₹3,350 cr, approved Sept 2022, deferred 2023"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi fintech products traction people legal events deep enrichment",
+   "status": "done",
+   "found": "Comprehensive data on products, traction, people, legal, events, entity structure"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi RBI penalty notice regulatory action",
+   "status": "done",
+   "found": "Oct 2024 lending ban (Section 45L), lifted Dec 2024; Feb 2026 ₹3.80 lakh penalty"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi entity split Navi Technologies vs Navi Finserv",
+   "status": "done",
+   "found": "Navi Ltd (holding, CIN U72900KA2018PLC119297) owns Navi Finserv (NBFC, CIN U65923KA2012PLC062537)"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi IPO DRHP filing status 2024 2025",
+   "status": "done",
+   "found": "Previously filed March 2022 for ₹3,350 cr, approved Sept 2022, deferred 2023"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi fintech products traction people legal events deep enrichment",
+   "status": "done",
+   "found": "Comprehensive data on products, traction, people, legal, events, entity structure"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi RBI penalty notice regulatory action",
+   "status": "done",
+   "found": "Oct 2024 lending ban (Section 45L), lifted Dec 2024; Feb 2026 ₹3.80 lakh penalty"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi entity split Navi Technologies vs Navi Finserv",
+   "status": "done",
+   "found": "Navi Ltd (holding, CIN U72900KA2018PLC119297) owns Navi Finserv (NBFC, CIN U65923KA2012PLC062537)"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi IPO DRHP filing status 2024 2025",
+   "status": "done",
+   "found": "Previously filed March 2022 for ₹3,350 cr, approved Sept 2022, deferred 2023"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi fintech products traction people legal events deep enrichment",
+   "status": "done",
+   "found": "Comprehensive data on products, traction, people, legal, events, entity structure"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi RBI penalty notice regulatory action",
+   "status": "done",
+   "found": "Oct 2024 lending ban (Section 45L), lifted Dec 2024; Feb 2026 ₹3.80 lakh penalty"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi entity split Navi Technologies vs Navi Finserv",
+   "status": "done",
+   "found": "Navi Ltd (holding, CIN U72900KA2018PLC119297) owns Navi Finserv (NBFC, CIN U65923KA2012PLC062537)"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi IPO DRHP filing status 2024 2025",
+   "status": "done",
+   "found": "Previously filed March 2022 for ₹3,350 cr, approved Sept 2022, deferred 2023"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi fintech products traction people legal events deep enrichment",
+   "status": "done",
+   "found": "Comprehensive data on products, traction, people, legal, events, entity structure"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi RBI penalty notice regulatory action",
+   "status": "done",
+   "found": "Oct 2024 lending ban (Section 45L), lifted Dec 2024; Feb 2026 ₹3.80 lakh penalty"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi entity split Navi Technologies vs Navi Finserv",
+   "status": "done",
+   "found": "Navi Ltd (holding, CIN U72900KA2018PLC119297) owns Navi Finserv (NBFC, CIN U65923KA2012PLC062537)"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi IPO DRHP filing status 2024 2025",
+   "status": "done",
+   "found": "Previously filed March 2022 for ₹3,350 cr, approved Sept 2022, deferred 2023"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi fintech products traction people legal events deep enrichment",
+   "status": "done",
+   "found": "Comprehensive data on products, traction, people, legal, events, entity structure"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi RBI penalty notice regulatory action",
+   "status": "done",
+   "found": "Oct 2024 lending ban (Section 45L), lifted Dec 2024; Feb 2026 ₹3.80 lakh penalty"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi entity split Navi Technologies vs Navi Finserv",
+   "status": "done",
+   "found": "Navi Ltd (holding, CIN U72900KA2018PLC119297) owns Navi Finserv (NBFC, CIN U65923KA2012PLC062537)"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi IPO DRHP filing status 2024 2025",
+   "status": "done",
+   "found": "Previously filed March 2022 for ₹3,350 cr, approved Sept 2022, deferred 2023"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi fintech products traction people legal events deep enrichment",
+   "status": "done",
+   "found": "Comprehensive data on products, traction, people, legal, events, entity structure"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi RBI penalty notice regulatory action",
+   "status": "done",
+   "found": "Oct 2024 lending ban (Section 45L), lifted Dec 2024; Feb 2026 ₹3.80 lakh penalty"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi entity split Navi Technologies vs Navi Finserv",
+   "status": "done",
+   "found": "Navi Ltd (holding, CIN U72900KA2018PLC119297) owns Navi Finserv (NBFC, CIN U65923KA2012PLC062537)"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi IPO DRHP filing status 2024 2025",
+   "status": "done",
+   "found": "Previously filed March 2022 for ₹3,350 cr, approved Sept 2022, deferred 2023"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi fintech products traction people legal events deep enrichment",
+   "status": "done",
+   "found": "Comprehensive data on products, traction, people, legal, events, entity structure"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi RBI penalty notice regulatory action",
+   "status": "done",
+   "found": "Oct 2024 lending ban (Section 45L), lifted Dec 2024; Feb 2026 ₹3.80 lakh penalty"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi entity split Navi Technologies vs Navi Finserv",
+   "status": "done",
+   "found": "Navi Ltd (holding, CIN U72900KA2018PLC119297) owns Navi Finserv (NBFC, CIN U65923KA2012PLC062537)"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi IPO DRHP filing status 2024 2025",
+   "status": "done",
+   "found": "Previously filed March 2022 for ₹3,350 cr, approved Sept 2022, deferred 2023"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi fintech products traction people legal events deep enrichment",
+   "status": "done",
+   "found": "Comprehensive data on products, traction, people, legal, events, entity structure"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi RBI penalty notice regulatory action",
+   "status": "done",
+   "found": "Oct 2024 lending ban (Section 45L), lifted Dec 2024; Feb 2026 ₹3.80 lakh penalty"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi entity split Navi Technologies vs Navi Finserv",
+   "status": "done",
+   "found": "Navi Ltd (holding, CIN U72900KA2018PLC119297) owns Navi Finserv (NBFC, CIN U65923KA2012PLC062537)"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi IPO DRHP filing status 2024 2025",
+   "status": "done",
+   "found": "Previously filed March 2022 for ₹3,350 cr, approved Sept 2022, deferred 2023"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi fintech products traction people legal events deep enrichment",
+   "status": "done",
+   "found": "Comprehensive data on products, traction, people, legal, events, entity structure"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi RBI penalty notice regulatory action",
+   "status": "done",
+   "found": "Oct 2024 lending ban (Section 45L), lifted Dec 2024; Feb 2026 ₹3.80 lakh penalty"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi entity split Navi Technologies vs Navi Finserv",
+   "status": "done",
+   "found": "Navi Ltd (holding, CIN U72900KA2018PLC119297) owns Navi Finserv (NBFC, CIN U65923KA2012PLC062537)"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi IPO DRHP filing status 2024 2025",
+   "status": "done",
+   "found": "Previously filed March 2022 for ₹3,350 cr, approved Sept 2022, deferred 2023"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi fintech products traction people legal events deep enrichment",
+   "status": "done",
+   "found": "Comprehensive data on products, traction, people, legal, events, entity structure"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi RBI penalty notice regulatory action",
+   "status": "done",
+   "found": "Oct 2024 lending ban (Section 45L), lifted Dec 2024; Feb 2026 ₹3.80 lakh penalty"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi entity split Navi Technologies vs Navi Finserv",
+   "status": "done",
+   "found": "Navi Ltd (holding, CIN U72900KA2018PLC119297) owns Navi Finserv (NBFC, CIN U65923KA2012PLC062537)"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Navi IPO DRHP filing status 2024 2025",
+   "status": "done",
+   "found": "Previously filed March 2022 for ₹3,350 cr, approved Sept 2022, deferred 2023"
+  }
+ ],
+ "completeness_self": {
+  "identity": 8,
+  "founders": 8,
+  "funding": 8,
+  "investors": 6,
+  "financials": 7
+ },
+ "_merged_session2": true,
+ "traction": [
+  {
+   "metric": "loan_book_outstanding",
+   "value": 13000,
+   "unit": "crore",
+   "period": "FY26",
+   "as_of": "2026-03-31",
+   "company_reported": true,
+   "source_url": "https://www.livemint.com/companies/news/navi-finserv-loan-growth-upi-platform-merchant-finance-lap/amp-11787154859866.html",
+   "source_title": "Navi's UPI growth fuels NBFC arm's loan expansion",
+   "confidence": "HIGH",
+   "notes": "Outstanding loans as of 31 March 2026"
+  },
+  {
+   "metric": "new_customers_per_day",
+   "value": 100000,
+   "unit": "count",
+   "period": "FY26",
+   "as_of": "2026-08-19",
+   "company_reported": true,
+   "source_url": "https://www.livemint.com/companies/news/navi-finserv-loan-growth-upi-platform-merchant-finance-lap/amp-11787154859866.html",
+   "source_title": "Navi's UPI growth fuels NBFC arm's loan expansion",
+   "confidence": "HIGH",
+   "notes": "Platform sees ~100,000 new customers daily"
+  },
+  {
+   "metric": "UPI_transactions",
+   "value": 947000000,
+   "unit": "count",
+   "period": "July 2026",
+   "as_of": "2026-07-31",
+   "company_reported": true,
+   "source_url": "https://techcrunch.com/2026/08/19/sachin-bansals-fintech-navi-raises-first-outside-capital-with-100m-prosus-investment/",
+   "source_title": "Sachin Bansal's fintech Navi raises first outside capital with $100M Prosus investment",
+   "confidence": "HIGH",
+   "notes": "947M UPI transactions in July 2026 per NPCI data"
+  },
+  {
+   "metric": "loan_book_outstanding",
+   "value": 13000,
+   "unit": "crore",
+   "period": "FY26",
+   "as_of": "2026-03-31",
+   "company_reported": true,
+   "source_url": "https://www.livemint.com/companies/news/navi-finserv-loan-growth-upi-platform-merchant-finance-lap/amp-11787154859866.html",
+   "confidence": "HIGH"
+  },
+  {
+   "metric": "total_disbursements",
+   "value": 23287,
+   "unit": "crore",
+   "period": "FY26",
+   "as_of": "2026-03-31",
+   "company_reported": true,
+   "source_url": "https://www.livemint.com/companies/news/navi-finserv-loan-growth-upi-platform-merchant-finance-lap/amp-11787154859866.html",
+   "confidence": "HIGH"
+  },
+  {
+   "metric": "gross_NPA_ratio",
+   "value": 1.3,
+   "unit": "percent",
+   "period": "FY26",
+   "as_of": "2026-03-31",
+   "company_reported": true,
+   "source_url": "https://www.livemint.com/companies/news/navi-finserv-loan-growth-upi-platform-merchant-finance-lap/amp-11787154859866.html",
+   "confidence": "HIGH"
+  },
+  {
+   "metric": "net_NPA_ratio",
+   "value": 0.3,
+   "unit": "percent",
+   "period": "FY26",
+   "as_of": "2026-03-31",
+   "company_reported": true,
+   "source_url": "https://www.livemint.com/companies/news/navi-finserv-loan-growth-upi-platform-merchant-finance-lap/amp-11787154859866.html",
+   "confidence": "HIGH"
+  },
+  {
+   "metric": "new_customers_per_day",
+   "value": 100000,
+   "unit": "count",
+   "period": "FY26",
+   "as_of": "2026-08-19",
+   "company_reported": true,
+   "source_url": "https://www.livemint.com/companies/news/navi-finserv-loan-growth-upi-platform-merchant-finance-lap/amp-11787154859866.html",
+   "confidence": "HIGH"
+  },
+  {
+   "metric": "loan_approval_rate",
+   "value": "5-50",
+   "unit": "percent",
+   "period": "FY26",
+   "as_of": "2026-08-19",
+   "company_reported": true,
+   "source_url": "https://www.livemint.com/companies/news/navi-finserv-loan-growth-upi-platform-merchant-finance-lap/amp-11787154859866.html",
+   "confidence": "HIGH"
+  },
+  {
+   "metric": "repeat_customer_share",
+   "value": 75,
+   "unit": "percent",
+   "period": "FY26",
+   "as_of": "2026-03-31",
+   "company_reported": true,
+   "source_url": "https://www.livemint.com/companies/news/navi-finserv-loan-growth-upi-platform-merchant-finance-lap/amp-11787154859866.html",
+   "confidence": "HIGH"
+  },
+  {
+   "metric": "new_to_credit_share",
+   "value": 1,
+   "unit": "percent",
+   "period": "FY26",
+   "as_of": "2026-03-31",
+   "company_reported": true,
+   "source_url": "https://www.livemint.com/companies/news/navi-finserv-loan-growth-upi-platform-merchant-finance-lap/amp-11787154859866.html",
+   "confidence": "HIGH"
+  },
+  {
+   "metric": "UPI_transactions",
+   "value": 947000000,
+   "unit": "count",
+   "period": "July 2026",
+   "as_of": "2026-07-31",
+   "company_reported": true,
+   "source_url": "https://techcrunch.com/2026/08/19/sachin-bansals-fintech-navi-raises-first-outside-capital-with-100m-prosus-investment/",
+   "confidence": "HIGH"
+  },
+  {
+   "metric": "UPI_transactions_value",
+   "value": 483180000000,
+   "unit": "INR",
+   "period": "July 2026",
+   "as_of": "2026-07-31",
+   "company_reported": true,
+   "source_url": "https://techcrunch.com/2026/08/19/sachin-bansals-fintech-navi-raises-first-outside-capital-with-100m-prosus-investment/",
+   "confidence": "HIGH"
+  },
+  {
+   "metric": "UPI_rank",
+   "value": 4,
+   "unit": "rank",
+   "period": "Ongoing",
+   "as_of": "2026-08-19",
+   "company_reported": true,
+   "source_url": "https://www.livemint.com/companies/news/navi-finserv-loan-growth-upi-platform-merchant-finance-lap/amp-11787154859866.html",
+   "confidence": "HIGH"
+  },
+  {
+   "metric": "collection_touchpoints",
+   "value": 90,
+   "unit": "count",
+   "period": "FY26",
+   "as_of": "2026-08-19",
+   "company_reported": true,
+   "source_url": "https://www.livemint.com/companies/news/navi-finserv-loan-growth-upi-platform-merchant-finance-lap/amp-11787154859866.html",
+   "confidence": "HIGH"
+  },
+  {
+   "metric": "inhouse_collections_share",
+   "value": 50,
+   "unit": "percent",
+   "period": "FY26",
+   "as_of": "2026-08-19",
+   "company_reported": true,
+   "source_url": "https://www.livemint.com/companies/news/navi-finserv-loan-growth-upi-platform-merchant-finance-lap/amp-11787154859866.html",
+   "confidence": "HIGH"
+  },
+  {
+   "metric": "RoA",
+   "value": 2.2,
+   "unit": "percent",
+   "period": "FY26",
+   "as_of": "2026-03-31",
+   "company_reported": true,
+   "source_url": "https://www.livemint.com/companies/news/navi-finserv-loan-growth-upi-platform-merchant-finance-lap/amp-11787154859866.html",
+   "confidence": "HIGH"
+  },
+  {
+   "metric": "NIM",
+   "value": 13,
+   "unit": "percent",
+   "period": "FY26",
+   "as_of": "2026-03-31",
+   "company_reported": true,
+   "source_url": "https://www.livemint.com/companies/news/navi-finserv-loan-growth-upi-platform-merchant-finance-lap/amp-11787154859866.html",
+   "confidence": "HIGH"
+  },
+  {
+   "metric": "average_yield",
+   "value": 20,
+   "unit": "percent",
+   "period": "FY26",
+   "as_of": "2026-03-31",
+   "company_reported": true,
+   "source_url": "https://www.livemint.com/companies/news/navi-finserv-loan-growth-upi-platform-merchant-finance-lap/amp-11787154859866.html",
+   "confidence": "HIGH"
+  },
+  {
+   "metric": "cost_of_borrowing",
+   "value": 10.5,
+   "unit": "percent",
+   "period": "FY26",
+   "as_of": "2026-03-31",
+   "company_reported": true,
+   "source_url": "https://www.livemint.com/companies/news/navi-finserv-loan-growth-upi-platform-merchant-finance-lap/amp-11787154859866.html",
+   "confidence": "HIGH"
+  },
+  {
+   "metric": "personal_loan_avg_ticket",
+   "value": 140000,
+   "unit": "INR",
+   "period": "FY26",
+   "as_of": "2026-03-31",
+   "company_reported": true,
+   "source_url": "https://www.livemint.com/companies/news/navi-finserv-loan-growth-upi-platform-merchant-finance-lap/amp-11787154859866.html",
+   "confidence": "HIGH"
+  },
+  {
+   "metric": "LAP_avg_ticket",
+   "value": 3000000,
+   "unit": "INR",
+   "period": "FY26",
+   "as_of": "2026-03-31",
+   "company_reported": true,
+   "source_url": "https://www.livemint.com/companies/news/navi-finserv-loan-growth-upi-platform-merchant-finance-lap/amp-11787154859866.html",
+   "confidence": "HIGH"
+  },
+  {
+   "metric": "personal_loan_share_of_book",
+   "value": 90,
+   "unit": "percent",
+   "period": "FY26",
+   "as_of": "2026-03-31",
+   "company_reported": true,
+   "source_url": "https://www.livemint.com/companies/news/navi-finserv-loan-growth-upi-platform-merchant-finance-lap/amp-11787154859866.html",
+   "confidence": "HIGH"
+  }
+ ],
+ "products": [
+  {
+   "name": "Cash Loan / Personal Loan",
+   "category": "lending",
+   "description": "Instant digital personal loan up to ₹20 lakh; APR 9%-35%; tenure 1-84 months; 100% paperless; instant disbursal",
+   "pricing_model": "interest_rate (9%-35% p.a.)",
+   "launch_date": "2020",
+   "status": "active",
+   "source_url": "https://navi.com",
+   "source_title": "Navi website",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Loan Against Property (LAP)",
+   "category": "lending",
+   "description": "Loan against constructed properties up to ₹5 crore; interest rates up to 22%; zero processing fees; tenure up to 20 years; LTV up to 70%",
+   "pricing_model": "interest_rate (up to 22% p.a.)",
+   "launch_date": "2025",
+   "status": "active",
+   "source_url": "https://navi.com/finserv",
+   "source_title": "Navi Finserv website",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Home Loan",
+   "category": "lending",
+   "description": "Digital home loan product; portfolio ~₹1,500 cr as of Mar 2026",
+   "pricing_model": "interest_rate",
+   "launch_date": "2024",
+   "status": "paused",
+   "source_url": "https://www.livemint.com/companies/news/navi-finserv-loan-growth-upi-platform-merchant-finance-lap/amp-11787154859866.html",
+   "source_title": "Navi's UPI growth fuels NBFC arm's loan expansion",
+   "confidence": "HIGH",
+   "notes": "Paused due to low margins"
+  },
+  {
+   "name": "Navi UPI",
+   "category": "payments",
+   "description": "NPCI-approved Third Party Application Provider (TPAP); 4th largest UPI app in India; 947M transactions in July 2026",
+   "pricing_model": "free (merchant-focused monetization planned)",
+   "launch_date": "2023-08",
+   "status": "active",
+   "source_url": "https://www.navi.com/about-us",
+   "source_title": "Navi About Us",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Health Insurance",
+   "category": "insurance",
+   "description": "Comprehensive health insurance plans up to ₹1 crore cover; monthly starting at ₹350; superfast claim settlements",
+   "pricing_model": "premium (starting ₹350/month)",
+   "launch_date": "2020",
+   "status": "active",
+   "source_url": "https://navi.com",
+   "source_title": "Navi website",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Navi Mutual Fund",
+   "category": "investments",
+   "description": "SEBI-registered mutual fund schemes; low-cost domestic funds; starting at ₹100",
+   "pricing_model": "AUM-based fee",
+   "launch_date": "2020",
+   "status": "active",
+   "source_url": "https://navi.com/mutual-fund",
+   "source_title": "Navi Mutual Fund",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Digital Gold",
+   "category": "investments",
+   "description": "Digital gold investment product",
+   "pricing_model": "",
+   "launch_date": "",
+   "status": "active",
+   "source_url": "https://entrackr.com/fintrackr/navi-technologies-swings-to-red-with-rs-126-cr-loss-in-fy25-11188584",
+   "source_title": "Navi Technologies swings to red with Rs 126 Cr loss in FY25",
+   "confidence": "MEDIUM"
+  },
+  {
+   "name": "Merchant Financing (planned)",
+   "category": "lending",
+   "description": "Planned merchant financing product; requires payment aggregator licence first",
+   "pricing_model": "",
+   "launch_date": "",
+   "status": "planned",
+   "source_url": "https://www.livemint.com/companies/news/navi-finserv-loan-growth-upi-platform-merchant-finance-lap/amp-11787154859866.html",
+   "source_title": "Navi's UPI growth fuels NBFC arm's loan expansion",
+   "confidence": "MEDIUM"
+  },
+  {
+   "name": "Loans Against Mutual Funds (planned)",
+   "category": "lending",
+   "description": "Planned LAP against mutual fund holdings",
+   "pricing_model": "",
+   "launch_date": "",
+   "status": "planned",
+   "source_url": "https://www.livemint.com/companies/news/navi-finserv-loan-growth-upi-platform-merchant-finance-lap/amp-11787154859866.html",
+   "source_title": "Navi's UPI growth fuels NBFC arm's loan expansion",
+   "confidence": "MEDIUM"
+  },
+  {
+   "name": "Navi UPI",
+   "category": "payments",
+   "description": "NPCI-approved TPAP; 4th largest UPI app in India; 947M transactions in July 2026",
+   "pricing_model": "free",
+   "launch_date": "2023-08",
+   "status": "active",
+   "source_url": "https://www.navi.com/about-us",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Cash Loan / Personal Loan",
+   "category": "lending",
+   "description": "Instant digital personal loan up to ₹20 lakh; APR 9%-35%; tenure 1-84 months; 100% paperless",
+   "pricing_model": "interest_rate (9%-35% p.a.)",
+   "launch_date": "2020",
+   "status": "active",
+   "source_url": "https://navi.com",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Loan Against Property (LAP)",
+   "category": "lending",
+   "description": "Loan against constructed properties up to ₹5 crore; interest rates up to 22%; tenure up to 20 years; LTV up to 70%",
+   "pricing_model": "interest_rate (up to 22% p.a.)",
+   "launch_date": "2025",
+   "status": "active",
+   "source_url": "https://navi.com/finserv",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Health Insurance",
+   "category": "insurance",
+   "description": "Comprehensive health insurance plans up to ₹1 crore cover; monthly starting at ₹350",
+   "pricing_model": "premium (starting ₹350/month)",
+   "launch_date": "2020",
+   "status": "active",
+   "source_url": "https://navi.com",
+   "confidence": "HIGH"
+  }
+ ],
+ "people": [
+  {
+   "name": "Sachin Bansal",
+   "role": "Founder, Executive Chairman",
+   "title": "Chairman of Navi Limited",
+   "current": true,
+   "since": "2018",
+   "prior_role": "Co-founder of Flipkart (2007-2018)",
+   "background": "IIT Delhi BTech; co-founded Flipkart with Binny Bansal in 2007; left after Walmart acquisition in 2018; poured hundreds of millions of dollars of own money into Navi",
+   "education": "IIT Delhi, BTech",
+   "source_url": "https://techcrunch.com/2026/08/19/sachin-bansals-fintech-navi-raises-first-outside-capital-with-100m-prosus-investment/",
+   "source_title": "Sachin Bansal's fintech Navi raises first outside capital with $100M Prosus investment",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Ankit Agarwal",
+   "role": "Co-founder, CFO/ED",
+   "title": "CFO and Director",
+   "current": true,
+   "since": "2018",
+   "prior_role": "Deutsche Bank, Bank of America",
+   "background": "IIT Delhi BTech; IIM Ahmedabad MBA",
+   "education": "IIT Delhi BTech, IIM Ahmedabad MBA",
+   "source_url": "https://nsearchives.nseindia.com/content/debt/WDM/navi123_22092025154056_Intimation_UPLOAD.pdf",
+   "source_title": "Navi Finserv Limited Annual Report 2024-25",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Abhishek Dwivedi",
+   "role": "MD and CEO",
+   "title": "Managing Director and CEO, Navi Finserv Limited",
+   "current": true,
+   "since": "2023",
+   "prior_role": "Vice President at BankBazaar.com; co-founded Treemendous",
+   "background": "Held key leadership roles at Navi Limited and Navi General Insurance Limited",
+   "education": "",
+   "source_url": "https://www.livemint.com/companies/news/navi-finserv-loan-growth-upi-platform-merchant-finance-lap/amp-11787154859866.html",
+   "source_title": "Navi's UPI growth fuels NBFC arm's loan expansion",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Rajiv Naresh",
+   "role": "Managing Director",
+   "title": "Managing Director, Navi Technologies",
+   "current": true,
+   "since": "",
+   "prior_role": "",
+   "background": "Board member per Tracxn; handles day-to-day responsibilities of Navi Technologies",
+   "education": "",
+   "source_url": "https://platform.tracxn.com/a/d/company/531a68b8e4b0f7e1660eab44/navi",
+   "source_title": "Navi - Tracxn",
+   "confidence": "MEDIUM"
+  },
+  {
+   "name": "Mahima Gautam",
+   "role": "CFO",
+   "title": "Chief Financial Officer, Navi Finserv",
+   "current": true,
+   "since": "",
+   "prior_role": "",
+   "background": "Per NSE filing",
+   "education": "",
+   "source_url": "https://nsearchives.nseindia.com/content/debt/WDM/navi123_22092025154056_Intimation_UPLOAD.pdf",
+   "source_title": "Navi Finserv Limited Annual Report 2024-25",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Siddhartha Basu",
+   "role": "Chief of Staff to CFO",
+   "title": "Chief of Staff to CFO",
+   "current": true,
+   "since": "",
+   "prior_role": "",
+   "background": "LLB from NLSIU; per Tracxn",
+   "education": "NLSIU LLB",
+   "source_url": "https://platform.tracxn.com/a/d/company/531a68b8e4b0f7e1660eab44/navi",
+   "source_title": "Navi - Tracxn",
+   "confidence": "MEDIUM"
+  },
+  {
+   "name": "Sharth Mandan",
+   "role": "Director, Data Science",
+   "title": "Director, Data Science",
+   "current": true,
+   "since": "",
+   "prior_role": "",
+   "background": "MTech IIT Bombay; BTech IIT Bombay",
+   "education": "IIT Bombay MTech, BTech",
+   "source_url": "https://platform.tracxn.com/a/d/company/531a68b8e4b0f7e1660eab44/navi",
+   "source_title": "Navi - Tracxn",
+   "confidence": "MEDIUM"
+  },
+  {
+   "name": "Naseem Halder",
+   "role": "Group Chief Information Security Officer",
+   "title": "Group CISO",
+   "current": true,
+   "since": "",
+   "prior_role": "",
+   "background": "Per Tracxn",
+   "education": "",
+   "source_url": "https://platform.tracxn.com/a/d/company/531a68b8e4b0f7e1660eab44/navi",
+   "source_title": "Navi - Tracxn",
+   "confidence": "MEDIUM"
+  },
+  {
+   "name": "Prashanth Ravula",
+   "role": "Senior Manager, AI Strategy and Ops",
+   "title": "Senior Manager",
+   "current": true,
+   "since": "2023",
+   "prior_role": "",
+   "background": "Drove central Strategy and Business Operations; headed Housing Loans business; per LinkedIn",
+   "education": "",
+   "source_url": "https://www.linkedin.com/company/go-navi",
+   "source_title": "Navi LinkedIn",
+   "confidence": "MEDIUM"
+  },
+  {
+   "name": "Chanchal Kumar",
+   "role": "Company Secretary",
+   "title": "Company Secretary and Compliance Officer",
+   "current": true,
+   "source_url": "https://nsearchives.nseindia.com/content/debt/WDM/navi123_22092025154056_Intimation_UPLOAD.pdf",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Amit Jambotkar",
+   "role": "CTO",
+   "title": "Chief Technology Officer",
+   "current": true,
+   "source_url": "https://nsearchives.nseindia.com/content/debt/WDM/navi123_22092025154056_Intimation_UPLOAD.pdf",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Hina Doon",
+   "role": "CCO",
+   "title": "Chief Compliance Officer",
+   "current": true,
+   "source_url": "https://nsearchives.nseindia.com/content/debt/WDM/navi123_22092025154056_Intimation_UPLOAD.pdf",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Naseem Halder",
+   "role": "Group CISO",
+   "title": "Group Chief Information Security Officer",
+   "current": true,
+   "source_url": "https://platform.tracxn.com/a/d/company/531a68b8e4b0f7e1660eab44/navi",
+   "confidence": "MEDIUM"
+  },
+  {
+   "name": "Shivam Tewari",
+   "role": "CRO",
+   "title": "Chief Risk Officer",
+   "current": true,
+   "source_url": "https://platform.tracxn.com/a/d/company/531a68b8e4b0f7e1660eab44/navi",
+   "confidence": "MEDIUM"
+  }
+ ],
+ "legal": [
+  {
+   "type": "regulatory",
+   "entity": "Navi Finserv Limited",
+   "date": "2024-10-18",
+   "status": "notice",
+   "description": "RBI issued Directions under Section 45L(1)(b) of RBI Act, 1934 to cease and desist from sanctioning and disbursing loans effective Oct 21, 2024. Concerns: excessive Weighted Average Lending Rate (WALR), interest spread violations, non-adherence to Fair Practices Code, household income assessment fai",
+   "source_url": "https://www.fintechbiznews.com/lenders-nbfcs/rbi-action-against-4-nbfcs-including-asirvad-mfc-navi-finserv-",
+   "source_title": "RBI Action Against 4 NBFCs Including Asirvad MFC, Navi Finserv",
+   "source_date": "2024-10-18",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "penalty",
+   "entity": "Navi Finserv Limited",
+   "date": "2026-02-10",
+   "status": "confirmed-violation",
+   "description": "RBI imposed monetary penalty of ₹3.80 lakh for non-compliance with RBI directions on 'Recovery Agents'. Charge sustained: company contacted customers after 7:00 p.m. and before 8:00 a.m. for recovery of overdue loans and did not follow due protocol while sending messages. Based on statutory inspecti",
+   "source_url": "https://rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=62229",
+   "source_title": "RBI imposes monetary penalty on Navi Finserv Limited",
+   "source_date": "2026-02-13",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "regulatory",
+   "entity": "Navi Finserv Limited",
+   "date": "2024-10-21",
+   "status": "settlement",
+   "description": "RBI lending ban lifted in December 2024 after company addressed deficiencies and implemented revised compliance systems. Restrictions were temporary (Oct 21 - Dec 2024).",
+   "source_url": "https://entrackr.com/fintrackr/navi-technologies-swings-to-red-with-rs-126-cr-loss-in-fy25-11188584",
+   "source_title": "Navi Technologies swings to red with Rs 126 Cr loss in FY25",
+   "source_date": "2026-03-09",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "complaint",
+   "entity": "Navi Technologies Limited",
+   "date": "2024-12",
+   "status": "allegation",
+   "description": "Rs 14.26 crore payment-gateway fraud in December 2024; Whitefield cyber police probe. Not an RBI action but a fraud incident.",
+   "source_url": "https://timesofindia.indiatimes.com/technology/tech-news/how-flipkart-co-founder-sachin-bansals-fintech-startup-navi-lost-rs-14-crore-to-payment-gateway-fraud/articleshow/117443407.cms",
+   "source_title": "How Flipkart co-founder Sachin Bansal's fintech startup Navi lost Rs 14 crore to payment gateway fraud",
+   "source_date": "2025-01-22",
+   "confidence": "MEDIUM"
+  },
+  {
+   "type": "regulatory",
+   "entity": "Navi Finserv Limited",
+   "date": "2024-10-18",
+   "status": "notice",
+   "description": "RBI Directions under Section 45L(1)(b) to cease loan sanction/disbursement effective Oct 21, 2024. Concerns: excessive WALR, interest spread violations, Fair Practices Code non-adherence. Lifted Dec 2024.",
+   "source_url": "https://www.fintechbiznews.com/lenders-nbfcs/rbi-action-against-4-nbfcs-including-asirvad-mfc-navi-finserv-",
+   "source_date": "2024-10-18",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "penalty",
+   "entity": "Navi Finserv Limited",
+   "date": "2026-02-10",
+   "status": "confirmed-violation",
+   "description": "RBI imposed ₹3.80 lakh penalty for non-compliance with Recovery Agents directions: contacting customers after 7pm/before 8am.",
+   "source_url": "https://rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=62229",
+   "source_date": "2026-02-13",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "complaint",
+   "entity": "Navi Technologies Limited",
+   "date": "2024-12",
+   "status": "allegation",
+   "description": "Rs 14.26 cr payment-gateway fraud; Whitefield cyber police probe.",
+   "source_url": "https://timesofindia.indiatimes.com/technology/tech-news/how-flipkart-co-founder-sachin-bansals-fintech-startup-navi-lost-rs-14-crore-to-payment-gateway-fraud/articleshow/117443407.cms",
+   "source_date": "2025-01-22",
+   "confidence": "MEDIUM"
+  },
+  {
+   "type": "regulatory",
+   "entity": "Navi Finserv Limited",
+   "date": "2024-10-21",
+   "status": "settlement",
+   "description": "RBI lending ban lifted Dec 2024 after compliance remediation.",
+   "source_url": "https://entrackr.com/fintrackr/navi-technologies-swings-to-red-with-rs-126-cr-loss-in-fy25-11188584",
+   "source_date": "2026-03-09",
+   "confidence": "HIGH"
+  }
+ ],
+ "locations": [
+  {
+   "type": "hq",
+   "address_or_area": "Vaishnavi Tech Square, Iballur Village, Begur Hobli",
+   "city": "Bengaluru",
+   "state": "Karnataka",
+   "country": "India",
+   "as_of": "2026-09-15",
+   "source_url": "https://nsearchives.nseindia.com/content/debt/WDM/navi123_22092025154056_Intimation_UPLOAD.pdf",
+   "source_title": "Navi Finserv Limited Annual Report 2024-25",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "registered_office",
+   "address_or_area": "2nd Floor, Vaishnavi Tech Square, Iballur Village, Begur Hobli, Bengaluru, Karnataka 560102",
+   "city": "Bengaluru",
+   "state": "Karnataka",
+   "country": "India",
+   "as_of": "2026-09-15",
+   "source_url": "https://nsearchives.nseindia.com/content/debt/WDM/navi123_22092025154056_Intimation_UPLOAD.pdf",
+   "source_title": "Navi Finserv Limited Annual Report 2024-25",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "office",
+   "address_or_area": "Collection touch points in 90+ cities across India",
+   "city": "Pan-India",
+   "state": "Multiple",
+   "country": "India",
+   "as_of": "2026-08-19",
+   "source_url": "https://www.livemint.com/companies/news/navi-finserv-loan-growth-upi-platform-merchant-finance-lap/amp-11787154859866.html",
+   "source_title": "Navi's UPI growth fuels NBFC arm's loan expansion",
+   "confidence": "HIGH"
+  }
+ ],
+ "customers": [
+  {
+   "name": "NBFC partners (co-lenders)",
+   "type": "institutional",
+   "announced_date": "",
+   "status": "active",
+   "source_url": "https://navi.com/fintech",
+   "source_title": "Navi Fintech Private Limited",
+   "confidence": "MEDIUM",
+   "notes": "Navi Fintech acts as Lending Service Provider to Navi Finserv and co-lenders"
+  },
+  {
+   "name": "Insurance partners",
+   "type": "institutional",
+   "announced_date": "",
+   "status": "active",
+   "source_url": "https://navi.com",
+   "source_title": "Navi website",
+   "confidence": "LOW",
+   "notes": "Navi General Insurance offers health insurance; specific insurer partners not disclosed"
+  },
+  {
+   "name": "Individual consumers",
+   "type": "consumer",
+   "announced_date": "",
+   "status": "active",
+   "source_url": "https://www.livemint.com/companies/news/navi-finserv-loan-growth-upi-platform-merchant-finance-lap/amp-11787154859866.html",
+   "source_title": "Navi's UPI growth fuels NBFC arm's loan expansion",
+   "confidence": "HIGH",
+   "notes": "Hundreds of millions of users across India; ~100K new customers daily"
+  },
+  {
+   "name": "NBFC partners (co-lenders)",
+   "type": "institutional",
+   "status": "active",
+   "source_url": "https://navi.com/fintech",
+   "confidence": "MEDIUM"
+  },
+  {
+   "name": "Insurance partners",
+   "type": "institutional",
+   "status": "active",
+   "source_url": "https://navi.com",
+   "confidence": "LOW"
+  },
+  {
+   "name": "Individual consumers",
+   "type": "consumer",
+   "status": "active",
+   "source_url": "https://www.livemint.com/companies/news/navi-finserv-loan-growth-upi-platform-merchant-finance-lap/amp-11787154859866.html",
+   "confidence": "HIGH"
+  }
+ ]
+}

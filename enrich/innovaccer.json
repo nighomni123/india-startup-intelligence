@@ -1,0 +1,329 @@
+{
+ "company": {
+  "business_model": "B2B SaaS (health data + AI agents)",
+  "city": "Noida",
+  "country": "India",
+  "founded_date": "2014",
+  "hq_type": "HQ San Francisco; eng Noida",
+  "primary_sector": "healthtech saas/ai",
+  "startup_id": "innovaccer",
+  "startup_stage": "Unicorn (Series F)",
+  "status": "active",
+  "website": "https://innovaccer.com",
+  "cin": {
+   "v": "U72300UP2015PTC071394 (Innovaccer Technologies Pvt Ltd) / U74140UP2013PTC202874 (Innovaccer Analytics Pvt Ltd)",
+   "date": "15 June 2015 (Innovaccer Technologies) / 19 November 2013 (Innovaccer Analytics)",
+   "conf": "HIGH",
+   "src": "Economic Times/Tracxn/TheCompanyCheck registry aggregator pages"
+  },
+  "incorporation_date": {
+   "v": "15 June 2015 (Innovaccer Technologies Pvt Ltd, Kanpur ROC) / 19 November 2013 (Innovaccer Analytics Pvt Ltd, Kanpur ROC)",
+   "date": "2015-06-15",
+   "conf": "HIGH",
+   "src": "Economic Times/Tracxn/TheCompanyCheck registry aggregator pages"
+  },
+  "official_website": {
+   "v": "https://innovaccer.com",
+   "conf": "high",
+   "src": "https://innovaccer.com",
+   "note": "verified live 2026-09-15: name match on own homepage"
+  },
+  "careers_website": {
+   "v": "https://innovaccer.com/careers",
+   "conf": "high",
+   "src": "https://innovaccer.com",
+   "note": "careers link found on official homepage, probed live"
+  }
+ },
+ "completeness_self": {
+  "customers": 6,
+  "financials": 5,
+  "founders": 8,
+  "funding": 9,
+  "identity": 8,
+  "investors": 9,
+  "legal": 3,
+  "people": 5,
+  "products": 7,
+  "sources": 8,
+  "traction": 6
+ },
+ "conflicts": [
+  {
+   "claim_a": "$275M Series F (TechCrunch, company)",
+   "claim_b": "$179M Series F primary (Tracxn table)",
+   "field": "series_f_size",
+   "resolution": "$275M headline incl ~35% (~$96M) secondary per CEO; Tracxn $179M = primary slice. Keep both.",
+   "resolved_value": "$275M headline ($179M primary + ~$96M secondary)",
+   "url_a": "https://techcrunch.com/2025/01/09/innovaccer-aims-to-become-healthcares-ai-powerhouse-with-275m-series-f/",
+   "url_b": "https://tracxn.com/d/companies/innovaccer/__kvvAjPIPvTlVwOCbNE3GkPNS2Tz7KWqwz_0u2KIOmaA"
+  }
+ ],
+ "customers": [
+  {
+   "name": "Kaiser Permanente, Banner Health (also investors); 100+ US health systems (company-reported)",
+   "source_url": "https://techcrunch.com/2025/01/09/innovaccer-aims-to-become-healthcares-ai-powerhouse-with-275m-series-f/",
+   "status": "company-reported",
+   "type": "enterprise"
+  }
+ ],
+ "events": [
+  {
+   "announced_date": "2025-01-09",
+   "confidence": "HIGH",
+   "date": "2025-01-09",
+   "description": "$275M Series F (35% secondary); $3.45B primary valuation; Kaiser, B Capital, M12, Danaher, Banner, Generation IM.",
+   "headline": "$275M Series F at ~$3.45B",
+   "source_url": "https://techcrunch.com/2025/01/09/innovaccer-aims-to-become-healthcares-ai-powerhouse-with-275m-series-f/",
+   "type": "funding"
+  },
+  {
+   "announced_date": "2025-08-21",
+   "confidence": "MEDIUM",
+   "date": "2025-08-21",
+   "description": "$50M employee tender extension of Series F; M&A spree (Cured, PQS, Humbi AI, Story Health); no IPO rush.",
+   "headline": "M&A + secondaries instead of IPO (BI)",
+   "source_url": "https://www.businessinsider.com/innovaccer-buying-startups-raising-secondaries-instead-of-ipo-2025-8",
+   "type": "m&a"
+  }
+ ],
+ "financials": [
+  {
+   "confidence": "MEDIUM",
+   "currency": "USD",
+   "fiscal_year": "FY25",
+   "metric": "revenue/ARR",
+   "source_title": "Innovaccer Stock Price, Funding, Valuation, Revenue (CB Insights)",
+   "source_url": "https://www.cbinsights.com/company/innovaccer/financials",
+   "unit": "M",
+   "value": "~130M revenue FY25; 40%+ growth, cash-flow positive per CEO (company-reported)",
+   "value_type": "management"
+  }
+ ],
+ "founders": [
+  {
+   "confidence": "HIGH",
+   "name": "Abhinav Shashank",
+   "role": "Co-founder & CEO",
+   "source_url": "https://techcrunch.com/2025/01/09/innovaccer-aims-to-become-healthcares-ai-powerhouse-with-275m-series-f/",
+   "still_active": true,
+   "type": "co-founder"
+  },
+  {
+   "confidence": "MEDIUM",
+   "name": "Kanav Hasija",
+   "role": "Co-founder",
+   "source_url": "https://tracxn.com/d/companies/innovaccer/__kvvAjPIPvTlVwOCbNE3GkPNS2Tz7KWqwz_0u2KIOmaA",
+   "still_active": true,
+   "type": "co-founder"
+  },
+  {
+   "confidence": "MEDIUM",
+   "name": "Sandeep Gupta",
+   "role": "Co-founder",
+   "source_url": "https://tracxn.com/d/companies/innovaccer/__kvvAjPIPvTlVwOCbNE3GkPNS2Tz7KWqwz_0u2KIOmaA",
+   "still_active": true,
+   "type": "co-founder"
+  }
+ ],
+ "funding_rounds": [
+  {
+   "all_investors": [
+    "B Capital",
+    "Banner Health",
+    "Danaher Ventures",
+    "Generation IM",
+    "Kaiser Permanente",
+    "M12"
+   ],
+   "amount": "275M",
+   "announced_date": "2025-01-09",
+   "confidence": "HIGH",
+   "currency": "USD",
+   "lead_investors": [
+    "B Capital"
+   ],
+   "round_type": "Series F",
+   "source_date": "2025-01-09",
+   "source_title": "Innovaccer aims to become healthcare's AI powerhouse with $275M Series F",
+   "source_url": "https://techcrunch.com/2025/01/09/innovaccer-aims-to-become-healthcares-ai-powerhouse-with-275m-series-f/",
+   "tier": "T3",
+   "valuation": "3.45B",
+   "valuation_type": "post-money (primary)"
+  },
+  {
+   "amount": "150M",
+   "announced_date": "2021-12-14",
+   "confidence": "HIGH",
+   "currency": "USD",
+   "round_type": "Series E",
+   "source_title": "Innovaccer - 2026 Company Profile (Tracxn)",
+   "source_url": "https://tracxn.com/d/companies/innovaccer/__kvvAjPIPvTlVwOCbNE3GkPNS2Tz7KWqwz_0u2KIOmaA",
+   "tier": "T2",
+   "valuation": "3.2B",
+   "valuation_type": "post-money"
+  },
+  {
+   "amount": "105M",
+   "announced_date": "2021-02-04",
+   "confidence": "MEDIUM",
+   "currency": "USD",
+   "lead_investors": [
+    "Tiger Global"
+   ],
+   "round_type": "Series D",
+   "source_title": "Innovaccer - 2026 Company Profile (Tracxn)",
+   "source_url": "https://tracxn.com/d/companies/innovaccer/__kvvAjPIPvTlVwOCbNE3GkPNS2Tz7KWqwz_0u2KIOmaA",
+   "tier": "T2"
+  }
+ ],
+ "gaps": [
+  "Audited financials unavailable (US private co); revenue only management-quoted",
+  "Founder roles/education for Hasija/Gupta/Jaiswal unverified",
+  "Rumored $250M 2026 round (PitchBook/CB Insights) unconfirmed"
+ ],
+ "investor_links": [
+  {
+   "confidence": "HIGH",
+   "investor": "B Capital",
+   "investor_type": "VC",
+   "rounds": [
+    "Series F"
+   ],
+   "source_url": "https://techcrunch.com/2025/01/09/innovaccer-aims-to-become-healthcares-ai-powerhouse-with-275m-series-f/"
+  },
+  {
+   "confidence": "HIGH",
+   "investor": "Kaiser Permanente",
+   "investor_type": "strategic",
+   "rounds": [
+    "Series F"
+   ],
+   "source_url": "https://techcrunch.com/2025/01/09/innovaccer-aims-to-become-healthcares-ai-powerhouse-with-275m-series-f/"
+  },
+  {
+   "confidence": "HIGH",
+   "investor": "M12",
+   "investor_type": "CVC",
+   "rounds": [
+    "Series D",
+    "Series F"
+   ],
+   "source_url": "https://techcrunch.com/2025/01/09/innovaccer-aims-to-become-healthcares-ai-powerhouse-with-275m-series-f/"
+  },
+  {
+   "confidence": "MEDIUM",
+   "investor": "Tiger Global",
+   "investor_type": "VC",
+   "lead": true,
+   "rounds": [
+    "Series D"
+   ],
+   "source_url": "https://tracxn.com/d/companies/innovaccer/__kvvAjPIPvTlVwOCbNE3GkPNS2Tz7KWqwz_0u2KIOmaA"
+  },
+  {
+   "confidence": "MEDIUM",
+   "investor": "WestBridge Capital",
+   "investor_type": "VC",
+   "rounds": [
+    "early"
+   ],
+   "source_url": "https://tracxn.com/d/companies/innovaccer/__kvvAjPIPvTlVwOCbNE3GkPNS2Tz7KWqwz_0u2KIOmaA"
+  }
+ ],
+ "investors_meta": [],
+ "locations": [
+  {
+   "city": "San Francisco",
+   "confidence": "MEDIUM",
+   "source_url": "https://tracxn.com/d/companies/innovaccer/__kvvAjPIPvTlVwOCbNE3GkPNS2Tz7KWqwz_0u2KIOmaA",
+   "type": "HQ"
+  },
+  {
+   "city": "Noida",
+   "confidence": "MEDIUM",
+   "source_url": "https://valueforstartups.in/innovaccer",
+   "state": "Uttar Pradesh",
+   "type": "office"
+  }
+ ],
+ "products": [
+  {
+   "category": "health data activation + AI agents",
+   "name": "Healthcare Intelligence Platform / Data Activation Platform",
+   "status": "active"
+  }
+ ],
+ "research_log": [
+  {
+   "found": "Series F $275M/$3.45B, Series E/D, founders, M&A, revenue mgmt quotes",
+   "next_action": "Done; audited financials + 2026 rumor remain gaps",
+   "query": "Innovaccer funding valuation 2025 2026",
+   "unresolved": "Audited revenue; $250M 2026 rumor"
+  }
+ ],
+ "sources": [
+  {
+   "claim_supported": "$275M Series F, $3.45B, 35% secondary, investors",
+   "fields_supported": [
+    "funding",
+    "investors"
+   ],
+   "publication_date": "2025-01-09",
+   "publisher": "TechCrunch",
+   "retrieved_date": "2026-09-14",
+   "tier": "T3",
+   "title": "Innovaccer aims to become healthcare's AI powerhouse with $275M Series F",
+   "url": "https://techcrunch.com/2025/01/09/innovaccer-aims-to-become-healthcares-ai-powerhouse-with-275m-series-f/"
+  },
+  {
+   "claim_supported": "$50M tender, M&A, 40% growth, cash positive",
+   "fields_supported": [
+    "events",
+    "financials"
+   ],
+   "publication_date": "2025-08-21",
+   "publisher": "Business Insider",
+   "retrieved_date": "2026-09-14",
+   "tier": "T3",
+   "title": "Innovaccer Is Doing M&A and Raising Secondaries Instead of an IPO",
+   "url": "https://www.businessinsider.com/innovaccer-buying-startups-raising-secondaries-instead-of-ipo-2025-8"
+  },
+  {
+   "claim_supported": "Founders, $675M total, Series E/D details",
+   "fields_supported": [
+    "founders",
+    "funding"
+   ],
+   "publisher": "Tracxn",
+   "retrieved_date": "2026-09-14",
+   "tier": "T2",
+   "title": "Innovaccer - 2026 Company Profile, Team, Funding & Competitors",
+   "url": "https://tracxn.com/d/companies/innovaccer/__kvvAjPIPvTlVwOCbNE3GkPNS2Tz7KWqwz_0u2KIOmaA"
+  },
+  {
+   "claim_supported": "$130M FY25 revenue, $3.175-3.45B valuation",
+   "fields_supported": [
+    "financials"
+   ],
+   "publication_date": "2025-01-09",
+   "publisher": "CB Insights",
+   "retrieved_date": "2026-09-14",
+   "tier": "T2",
+   "title": "Innovaccer Stock Price, Funding, Valuation, Revenue & Financial Statements",
+   "url": "https://www.cbinsights.com/company/innovaccer/financials"
+  }
+ ],
+ "startup_id": "innovaccer",
+ "traction": [
+  {
+   "as_of": "2025",
+   "company_reported": true,
+   "confidence": "MEDIUM",
+   "metric": "growth",
+   "source_url": "https://www.businessinsider.com/innovaccer-buying-startups-raising-secondaries-instead-of-ipo-2025-8",
+   "value": "40%+ revenue growth; cash-in > burn; ~1700 employees (GetLatka)"
+  }
+ ],
+ "_merged_session2": true
+}

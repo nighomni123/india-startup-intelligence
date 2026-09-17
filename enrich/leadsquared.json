@@ -1,0 +1,3864 @@
+{
+ "company": {
+  "business_model": "B2B vertical SaaS (sales execution + marketing automation)",
+  "city": "Bengaluru",
+  "confidence": "HIGH",
+  "country": "India",
+  "customer_type": "B2B enterprise/SMB",
+  "employee_estimate": 911,
+  "employee_estimate_date": "2025-05",
+  "hq_type": "HQ Bengaluru",
+  "legal_name": "MarketXpander Services Private Limited",
+  "notes": "Seed correct: Bengaluru unicorn. CIN U74140KA2011PTC059300.",
+  "primary_sector": "SaaS / CRM",
+  "startup_id": "leadsquared",
+  "startup_stage": "Unicorn (Series C)",
+  "status": "Active, loss-making, narrowing losses",
+  "website": "https://www.leadsquared.com",
+  "cin": "U74140KA2011PTC059300",
+  "incorporation_date": "2011-06-23",
+  "official_website": {
+   "v": "https://www.leadsquared.com",
+   "conf": "high",
+   "src": "https://www.leadsquared.com (search result title: 'AI-Powered CRM For Sales, Service & Marketing | LeadSquared')",
+   "note": "W-wave verified 2026-09-15"
+  },
+  "careers_website": {
+   "v": "https://www.leadsquared.com/company/careers",
+   "conf": "high",
+   "src": "https://www.leadsquared.com/company/careers (search result title: 'Work With Us | LeadSquared Careers')",
+   "note": "Careers page confirmed via search; hyperresearch fetch returned HTTP 403"
+  },
+  "state": {
+   "v": "Karnataka",
+   "conf": "HIGH",
+   "src": "https://pitchbook.com/profiles/company/87256-99",
+   "note": "Karnataka state",
+   "asof": "2026-09-15"
+  },
+  "description": {
+   "v": "Vertical SaaS platform for sales execution, marketing automation, and field-force management; no-code workflow builder; serves high-lead-volume enterprises",
+   "conf": "HIGH",
+   "src": "https://www.fortuneindia.com/enterprise/saas-platform-leadsquared-raises-153-mn-enters-unicorn-club/108673",
+   "note": "Products include CRM, marketing cloud, sales performance analytics, developer platform",
+   "asof": "2026-09-15"
+  },
+  "public_private": {
+   "v": "Private",
+   "conf": "HIGH",
+   "src": "https://inc42.com/company/leadsquared/captable/",
+   "note": "Last funding 20/06/2022; no IPO",
+   "asof": "2026-09-15"
+  },
+  "registered_office": {
+   "v": "MarketXpander Services Pvt Ltd, Karnataka",
+   "conf": "MEDIUM",
+   "src": "https://www.zaubacorp.com/MARKETXPANDER-SERVICES-PRIVATE-LIMITED-U74140KA2011PTC059300",
+   "note": "MCA-registered entity; exact address not fetched (ZaubaCorp 403)",
+   "asof": "2026-09-15"
+  }
+ },
+ "competitors": [
+  {
+   "basis": "explicit",
+   "confidence": "MEDIUM",
+   "name": "HubSpot"
+  },
+  {
+   "basis": "explicit",
+   "confidence": "MEDIUM",
+   "name": "Salesforce"
+  },
+  {
+   "basis": "explicit",
+   "confidence": "MEDIUM",
+   "name": "Zoho CRM"
+  }
+ ],
+ "conflicts": [
+  {
+   "claim_a": "Series C $153M at $1B post-money (company/VCCircle)",
+   "claim_b": "Series C $153M at $870M post-money (Tracxn table)",
+   "field": "series_c_valuation",
+   "resolution": "Prefer company-disclosed $1B; Tracxn model differs.",
+   "resolved_value": "$1B post-money",
+   "url_a": "http://leadsquared.com/news/leadsquared-joins-the-unicorn-club-with-153-million-funding-from-westbridge-capital",
+   "url_b": "https://tracxn.com/d/companies/leadsquared/__GhwqUB8i0uV81NMtpyVUTF8KIXJ_IRM91A5DkSdKXQA/funding-and-investors"
+  },
+  {
+   "claim_a": "Total $188M (company/Inc42)",
+   "claim_b": "Total $204M (Tracxn, 10 rounds incl. angels/seeds)",
+   "field": "total_funding",
+   "resolution": "Company-disclosed $188M for priced rounds; Tracxn higher incl. micro-seeds. Use $188M disclosed.",
+   "resolved_value": "$188M disclosed",
+   "url_a": "http://leadsquared.com/news/leadsquared-joins-the-unicorn-club-with-153-million-funding-from-westbridge-capital",
+   "url_b": "https://tracxn.com/d/companies/leadsquared/__GhwqUB8i0uV81NMtpyVUTF8KIXJ_IRM91A5DkSdKXQA"
+  },
+  {
+   "field": "employee_estimate",
+   "claim_a": "911",
+   "url_a": "",
+   "claim_b": "1063",
+   "url_b": "",
+   "resolution": "phase3 p3 payload disagrees with existing value; existing kept as preferred pending human review",
+   "resolved_value": "",
+   "reviewed": "p3-merge"
+  },
+  {
+   "field": "series_c_valuation",
+   "claim_a": "Series C $153M at $1B post-money (company/VCCircle/Fortune India)",
+   "url_a": "http://leadsquared.com/news/leadsquared-joins-the-unicorn-club-with-153-million-funding-from-westbridge-capital",
+   "claim_b": "Series C $153M at $870M post-money (Tracxn table)",
+   "url_b": "https://tracxn.com/d/companies/leadsquared/__GhwqUB8i0uV81NMtpyVUTF8KIXJ_IRM91A5DkSdKXQA/funding-and-investors",
+   "resolution": "Prefer company-disclosed $1B; Tracxn model differs.",
+   "resolved_value": "$1B post-money"
+  },
+  {
+   "field": "founder_count",
+   "claim_a": "3 founders: Nilesh Patel, Prashant Singh, Sudhakar Gorti (Inc42, Fortune India, YourStory)",
+   "url_a": "https://inc42.com/buzz/leadsquared-fy25-net-loss-declines-45-yoy-to-inr-89-cr",
+   "claim_b": "4 founders including Sukhbir Kalsi (Forbes India 2022)",
+   "url_b": "https://www.forbesindia.com/article/take-one-big-story-of-the-day/square-peg-in-a-round-hole-meet-leadsquared-indias-first-unicorn-without-vc-money/77473/1",
+   "resolution": "Forbes mentions Sukhbir Kalsi as 4th person in 2011 founding but NOT in Tracxn cap table. Likely early employee/advisor. Use 3 founders.",
+   "resolved_value": "3 founders (Patel, Singh, Gorti); Kalsi unverified"
+  },
+  {
+   "field": "employee_count",
+   "claim_a": "911 employees (DB estimate, May 2025)",
+   "url_a": "india-startup-db/enrich/leadsquared.json",
+   "claim_b": "1,063 employees (Inc42, latest)",
+   "url_b": "https://inc42.com/company/leadsquared/captable/",
+   "resolution": "Inc42 is more recent and sourced from filings. Use 1,063.",
+   "resolved_value": "1,063 (Inc42)"
+  },
+  {
+   "field": "fy23_revenue",
+   "claim_a": "Rs 200Cr operating revenue FY22 (Forbes)",
+   "url_a": "https://www.forbesindia.com/article/take-one-big-story-of-the-day/square-peg-in-a-round-hole-meet-leadsquared-indias-first-unicorn-without-vc-money/77473/1",
+   "claim_b": "FY23 revenue not separately confirmed",
+   "url_b": "",
+   "resolution": "FY23 not directly confirmed; Forbes gives FY22 Rs 200Cr. FY23 estimated ~Rs 200-250Cr based on growth trajectory.",
+   "resolved_value": "FY23 ~Rs 200Cr (ESTIMATE)"
+  }
+ ],
+ "customers": [
+  {
+   "name": "BYJU's",
+   "type": "EdTech",
+   "announced_date": "2022-06-21",
+   "status": "active_unverified",
+   "source_url": "https://www.forbesindia.com/article/take-one-big-story-of-the-day/square-peg-in-a-round-hole-meet-leadsquared-indias-first-unicorn-without-vc-money/77473/1",
+   "confidence": "MEDIUM"
+  },
+  {
+   "name": "Dunzo",
+   "type": "Marketplace",
+   "announced_date": "2022-06-21",
+   "status": "active_unverified",
+   "source_url": "https://www.forbesindia.com/article/take-one-big-story-of-the-day/square-peg-in-a-round-hole-meet-leadsquared-indias-first-unicorn-without-vc-money/77473/1",
+   "confidence": "MEDIUM"
+  },
+  {
+   "name": "Aditya Birla Capital",
+   "type": "Financial Services",
+   "announced_date": "2022-06-21",
+   "status": "active_unverified",
+   "source_url": "https://www.fortuneindia.com/enterprise/saas-platform-leadsquared-raises-153-mn-enters-unicorn-club/108673",
+   "confidence": "MEDIUM"
+  },
+  {
+   "name": "NIIT",
+   "type": "Education",
+   "announced_date": "2022-06-21",
+   "status": "active_unverified",
+   "source_url": "https://www.fortuneindia.com/enterprise/saas-platform-leadsquared-raises-153-mn-enters-unicorn-club/108673",
+   "confidence": "MEDIUM"
+  },
+  {
+   "name": "Manipal University",
+   "type": "Education",
+   "announced_date": "2022-06-21",
+   "status": "active_unverified",
+   "source_url": "https://www.fortuneindia.com/enterprise/saas-platform-leadsquared-raises-153-mn-enters-unicorn-club/108673",
+   "confidence": "MEDIUM"
+  },
+  {
+   "name": "Amity University",
+   "type": "Education",
+   "announced_date": "2022-06-21",
+   "status": "active_unverified",
+   "source_url": "https://www.fortuneindia.com/enterprise/saas-platform-leadsquared-raises-153-mn-enters-unicorn-club/108673",
+   "confidence": "MEDIUM"
+  },
+  {
+   "name": "Olx",
+   "type": "Marketplace",
+   "announced_date": "2022-06-21",
+   "status": "active_unverified",
+   "source_url": "https://www.fortuneindia.com/enterprise/saas-platform-leadsquared-raises-153-mn-enters-unicorn-club/108673",
+   "confidence": "MEDIUM"
+  },
+  {
+   "name": "Kotak Securities",
+   "type": "BFSI",
+   "announced_date": "2022-06-21",
+   "status": "active_unverified",
+   "source_url": "https://www.fortuneindia.com/enterprise/saas-platform-leadsquared-raises-153-mn-enters-unicorn-club/108673",
+   "confidence": "MEDIUM"
+  },
+  {
+   "name": "Cars24",
+   "type": "Marketplace",
+   "announced_date": "2022-06-21",
+   "status": "active_unverified",
+   "source_url": "https://www.fortuneindia.com/enterprise/saas-platform-leadsquared-raises-153-mn-enters-unicorn-club/108673",
+   "confidence": "MEDIUM"
+  },
+  {
+   "name": "Zoomcar",
+   "type": "Marketplace",
+   "announced_date": "2022-06-21",
+   "status": "active_unverified",
+   "source_url": "https://www.fortuneindia.com/enterprise/saas-platform-leadsquared-raises-153-mn-enters-unicorn-club/108673",
+   "confidence": "MEDIUM"
+  },
+  {
+   "name": "Profectus Capital",
+   "type": "Financial Services",
+   "announced_date": "2022-06-21",
+   "status": "active_unverified",
+   "source_url": "https://www.fortuneindia.com/enterprise/saas-platform-leadsquared-raises-153-mn-enters-unicorn-club/108673",
+   "confidence": "MEDIUM"
+  },
+  {
+   "name": "Pepper India Resolution",
+   "type": "Debt Recovery",
+   "announced_date": "2020-09-30",
+   "status": "active_unverified",
+   "source_url": "https://www.business-standard.com/content/press-releases-ani/pepper-india-resolution-appoints-leadsquared-to-digitize-their-debt-recovery-process-120093000477_1.html",
+   "confidence": "MEDIUM"
+  },
+  {
+   "name": "Practo",
+   "type": "Healthcare",
+   "announced_date": "2022-06-21",
+   "status": "active_unverified",
+   "source_url": "https://www.forbesindia.com/article/take-one-big-story-of-the-day/square-peg-in-a-round-hole-meet-leadsquared-indias-first-unicorn-without-vc-money/77473/1",
+   "confidence": "MEDIUM"
+  },
+  {
+   "name": "Poonawalla Fincorp",
+   "type": "Financial Services",
+   "announced_date": "2022-06-21",
+   "status": "active_unverified",
+   "source_url": "https://www.forbesindia.com/article/take-one-big-story-of-the-day/square-peg-in-a-round-hole-meet-leadsquared-indias-first-unicorn-without-vc-money/77473/1",
+   "confidence": "MEDIUM"
+  },
+  {
+   "name": "Godrej Housing Finance",
+   "type": "Financial Services",
+   "announced_date": "2022-06-21",
+   "status": "active_unverified",
+   "source_url": "https://www.forbesindia.com/article/take-one-big-story-of-the-day/square-peg-in-a-round-hole-meet-leadsquared-indias-first-unicorn-without-vc-money/77473/1",
+   "confidence": "MEDIUM"
+  },
+  {
+   "name": "Angel One",
+   "type": "Stockbroking",
+   "announced_date": "2022-06-21",
+   "status": "active_unverified",
+   "source_url": "https://www.forbesindia.com/article/take-one-big-story-of-the-day/square-peg-in-a-round-hole-meet-leadsquared-indias-first-unicorn-without-vc-money/77473/1",
+   "confidence": "MEDIUM"
+  }
+ ],
+ "events": [
+  {
+   "announced_date": "2022-06-21",
+   "confidence": "HIGH",
+   "date": "2022-06-21",
+   "description": "Led by WestBridge; Gaja participated; all-time raise $188M; 103rd Indian unicorn; Barclays placement agent.",
+   "headline": "$153M Series C at $1B — enters unicorn club",
+   "source_url": "http://leadsquared.com/news/leadsquared-joins-the-unicorn-club-with-153-million-funding-from-westbridge-capital",
+   "type": "funding"
+  },
+  {
+   "type": "funding",
+   "headline": "Series B $32.6M led by Gaja Capital",
+   "date": "2020-12-14",
+   "description": "Series B round with Stakeboat, Jyoti Bansal, JI Company participation",
+   "source_url": "https://tracxn.com/d/companies/leadsquared/__GhwqUB8i0uV81NMtpyVUTF8KIXJ_IRM91A5DkSdKXQA/funding-and-investors",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "funding",
+   "headline": "Series B extension $12.5M",
+   "date": "2021-08-05",
+   "description": "IFC, Gaja Capital, Stakeboat participation",
+   "source_url": "https://tracxn.com/d/companies/leadsquared/__GhwqUB8i0uV81NMtpyVUTF8KIXJ_IRM91A5DkSdKXQA/funding-and-investors",
+   "confidence": "MEDIUM"
+  },
+  {
+   "type": "funding",
+   "headline": "Series C2 and C3 follow-on rounds",
+   "date": "2022-07-04",
+   "description": "Additional follow-on funding rounds in July and November 2022",
+   "source_url": "https://tracxn.com/d/companies/leadsquared/__GhwqUB8i0uV81NMtpyVUTF8KIXJ_IRM91A5DkSdKXQA/latest-shareholding",
+   "confidence": "MEDIUM"
+  },
+  {
+   "type": "product_launch",
+   "headline": "Sales Performance Analytics and digitization tools released",
+   "date": "2021-2022",
+   "description": "Company released sales performance analytics and suite of tools to digitize application processing",
+   "source_url": "https://www.fortuneindia.com/enterprise/saas-platform-leadsquared-raises-153-mn-enters-unicorn-club/108673",
+   "confidence": "MEDIUM"
+  },
+  {
+   "type": "expansion",
+   "headline": "US operations started",
+   "date": "2020-01-01",
+   "description": "Company started US operations in early 2020; CEO Nilesh Patel relocated to Palo Alto",
+   "source_url": "https://www.forbesindia.com/article/take-one-big-story-of-the-day/square-peg-in-a-round-hole-meet-leadsquared-indias-first-unicorn-without-vc-money/77473/1",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "founder_change",
+   "headline": "Sudhakar Gorti departed",
+   "date": "2023-01-01",
+   "description": "Co-founder Sudhakar Gorti left in 2023 and founded Astuto",
+   "source_url": "https://inc42.com/company/leadsquared",
+   "confidence": "MEDIUM"
+  }
+ ],
+ "financials": [
+  {
+   "confidence": "HIGH",
+   "currency": "INR",
+   "fiscal_year": "FY24",
+   "metric": "operating_revenue",
+   "source_title": "Entrackr Fintrackr FY25",
+   "source_url": "https://entrackr.com/fintrackr/leadsquared-trims-losses-by-45-in-fy25-growth-remains-modest-10561373",
+   "value": "279.2Cr",
+   "value_type": "audited"
+  },
+  {
+   "confidence": "HIGH",
+   "currency": "INR",
+   "fiscal_year": "FY24",
+   "metric": "net_loss",
+   "source_title": "Entrackr Fintrackr FY25",
+   "source_url": "https://entrackr.com/fintrackr/leadsquared-trims-losses-by-45-in-fy25-growth-remains-modest-10561373",
+   "value": "162.2Cr",
+   "value_type": "audited"
+  },
+  {
+   "confidence": "HIGH",
+   "currency": "INR",
+   "fiscal_year": "FY25",
+   "metric": "operating_revenue",
+   "source_title": "Entrackr Fintrackr FY25",
+   "source_url": "https://entrackr.com/fintrackr/leadsquared-trims-losses-by-45-in-fy25-growth-remains-modest-10561373",
+   "value": "326.2Cr",
+   "value_type": "audited"
+  },
+  {
+   "confidence": "HIGH",
+   "currency": "INR",
+   "fiscal_year": "FY25",
+   "metric": "total_income",
+   "source_title": "Inc42 FY25",
+   "source_url": "http://inc42.com/buzz/leadsquared-fy25-net-loss-declines-45-yoy-to-inr-89-cr",
+   "value": "366.3Cr (incl 40Cr other income)",
+   "value_type": "audited"
+  },
+  {
+   "confidence": "HIGH",
+   "currency": "INR",
+   "fiscal_year": "FY25",
+   "metric": "net_loss",
+   "source_title": "Inc42 FY25",
+   "source_url": "http://inc42.com/buzz/leadsquared-fy25-net-loss-declines-45-yoy-to-inr-89-cr",
+   "value": "89.2Cr",
+   "value_type": "audited"
+  },
+  {
+   "fiscal_year": "FY23",
+   "metric": "operating_revenue",
+   "value": 200,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "press-quoted-filing",
+   "basis": "standalone",
+   "consolidated": "no",
+   "filing_date": "2023-03-31",
+   "source_url": "https://www.forbesindia.com/article/take-one-big-story-of-the-day/square-peg-in-a-round-hole-meet-leadsquared-indias-first-unicorn-without-vc-money/77473/1",
+   "confidence": "MEDIUM",
+   "notes": "Forbes India states Rs 200Cr in FY22; Forbes says Rs 100Cr FY21 and Rs 200Cr FY22. FY23 not separately confirmed; estimated ~Rs 200Cr+ based on growth trajectory"
+  },
+  {
+   "fiscal_year": "FY24",
+   "metric": "operating_revenue",
+   "value": 279.2,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "audited",
+   "basis": "standalone",
+   "consolidated": "no",
+   "filing_date": "2024-03-31",
+   "source_url": "https://entrackr.com/fintrackr/leadsquared-trims-losses-by-45-in-fy25-growth-remains-modest-10561373",
+   "confidence": "HIGH",
+   "notes": "RoC financials; 9% YoY growth in FY24"
+  },
+  {
+   "fiscal_year": "FY24",
+   "metric": "net_loss",
+   "value": 162.2,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "audited",
+   "basis": "standalone",
+   "consolidated": "no",
+   "filing_date": "2024-03-31",
+   "source_url": "https://entrackr.com/fintrackr/leadsquared-trims-losses-by-45-in-fy25-growth-remains-modest-10561373",
+   "confidence": "HIGH",
+   "notes": "RoC financials"
+  },
+  {
+   "fiscal_year": "FY24",
+   "metric": "total_income",
+   "value": 325.2,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "audited",
+   "basis": "standalone",
+   "consolidated": "no",
+   "filing_date": "2024-03-31",
+   "source_url": "https://inc42.com/buzz/leadsquared-fy25-net-loss-declines-45-yoy-to-inr-89-cr",
+   "confidence": "HIGH",
+   "notes": "Inc42 reports FY24 total income Rs 325.2Cr"
+  },
+  {
+   "fiscal_year": "FY25",
+   "metric": "operating_revenue",
+   "value": 326.2,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "audited",
+   "basis": "standalone",
+   "consolidated": "no",
+   "filing_date": "2025-03-31",
+   "source_url": "https://entrackr.com/fintrackr/leadsquared-trims-losses-by-45-in-fy25-growth-remains-modest-10561373",
+   "confidence": "HIGH",
+   "notes": "RoC financials; 14% YoY growth"
+  },
+  {
+   "fiscal_year": "FY25",
+   "metric": "total_income",
+   "value": 366.3,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "audited",
+   "basis": "standalone",
+   "consolidated": "no",
+   "filing_date": "2025-03-31",
+   "source_url": "https://inc42.com/buzz/leadsquared-fy25-net-loss-declines-45-yoy-to-inr-89-cr",
+   "confidence": "HIGH",
+   "notes": "Includes Rs 40Cr other income"
+  },
+  {
+   "fiscal_year": "FY25",
+   "metric": "net_loss",
+   "value": 89.2,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "audited",
+   "basis": "standalone",
+   "consolidated": "no",
+   "filing_date": "2025-03-31",
+   "source_url": "https://inc42.com/buzz/leadsquared-fy25-net-loss-declines-45-yoy-to-inr-89-cr",
+   "confidence": "HIGH",
+   "notes": "45% decline from FY24 loss of Rs 162.2Cr"
+  },
+  {
+   "fiscal_year": "FY25",
+   "metric": "total_expenses",
+   "value": 454.6,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "audited",
+   "basis": "standalone",
+   "consolidated": "no",
+   "filing_date": "2025-03-31",
+   "source_url": "https://inc42.com/buzz/leadsquared-fy25-net-loss-declines-45-yoy-to-inr-89-cr",
+   "confidence": "HIGH",
+   "notes": "Employee benefits Rs 280.2Cr (61.5% of total); other expenses Rs 156.7Cr; D&A Rs 14.3Cr"
+  },
+  {
+   "fiscal_year": "FY25",
+   "metric": "cash_and_bank_balances",
+   "value": 362,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "audited",
+   "basis": "standalone",
+   "consolidated": "no",
+   "filing_date": "2025-03-31",
+   "source_url": "https://entrackr.com/fintrackr/leadsquared-trims-losses-by-45-in-fy25-growth-remains-modest-10561373",
+   "confidence": "HIGH",
+   "notes": "Down from Rs 423Cr in FY24"
+  },
+  {
+   "fiscal_year": "FY25",
+   "metric": "employee_benefits_expense",
+   "value": 280.2,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "audited",
+   "basis": "standalone",
+   "consolidated": "no",
+   "filing_date": "2025-03-31",
+   "source_url": "https://inc42.com/buzz/leadsquared-fy25-net-loss-declines-45-yoy-to-inr-89-cr",
+   "confidence": "HIGH",
+   "notes": "8.4% decline from FY24 Rs 306.2Cr"
+  },
+  {
+   "fiscal_year": "FY25",
+   "metric": "arr_estimate",
+   "value": 279.3,
+   "unit": "million",
+   "currency": "USD",
+   "value_type": "estimate",
+   "basis": "standalone",
+   "consolidated": "no",
+   "filing_date": "2024-06-30",
+   "source_url": "https://getlatka.com/companies/leadsquared",
+   "confidence": "LOW",
+   "notes": "GetLatka estimated $279.3M ARR in 2024; not audited; differs from MCA revenue of Rs 279.2Cr (~$33M)"
+  }
+ ],
+ "founders": [
+  {
+   "background": "CEO",
+   "confidence": "HIGH",
+   "name": "Nilesh Patel",
+   "role": "Co-founder & CEO",
+   "source_url": "http://leadsquared.com/news/leadsquared-joins-the-unicorn-club-with-153-million-funding-from-westbridge-capital",
+   "still_active": true,
+   "type": "co-founder",
+   "active": "yes — co-founder and CEO",
+   "location": "Mountain View"
+  },
+  {
+   "background": "COO",
+   "confidence": "HIGH",
+   "name": "Prashant Singh",
+   "role": "Co-founder & COO",
+   "source_url": "https://inc42.com/company/leadsquared",
+   "still_active": true,
+   "type": "co-founder",
+   "active": "yes — co-founder and COO"
+  },
+  {
+   "background": null,
+   "confidence": "HIGH",
+   "name": "Sudhakar Gorti",
+   "role": "Co-founder",
+   "source_url": "https://inc42.com/company/leadsquared",
+   "still_active": true,
+   "type": "co-founder",
+   "active": "no — former co-founder; left in 2023 and founded Astuto",
+   "linkedin": "2023"
+  }
+ ],
+ "funding_rounds": [
+  {
+   "all_investors": [
+    "Jyoti Bansal",
+    "JI Company"
+   ],
+   "amount": "3M",
+   "announced_date": "2019-05-17",
+   "confidence": "MEDIUM",
+   "currency": "USD",
+   "lead_investors": [
+    "Stakeboat Capital"
+   ],
+   "round_date": "2019-05-17",
+   "round_type": "Series A",
+   "source_title": "VCCircle unicorn piece",
+   "source_url": "https://www.vccircle.com/leadsquared-turns-unicorn-with-153-mn-fundraise-from-westbridge-capital",
+   "tier": "T3"
+  },
+  {
+   "all_investors": [
+    "Stakeboat",
+    "Jyoti Bansal",
+    "JI Company"
+   ],
+   "amount": "32.6M",
+   "announced_date": "2020-12-14",
+   "confidence": "HIGH",
+   "currency": "USD",
+   "lead_investors": [
+    "Gaja Capital"
+   ],
+   "round_date": "2020-12-14",
+   "round_type": "Series B",
+   "source_title": "Tracxn LeadSquared funding",
+   "source_url": "https://tracxn.com/d/companies/leadsquared/__GhwqUB8i0uV81NMtpyVUTF8KIXJ_IRM91A5DkSdKXQA/funding-and-investors",
+   "tier": "T2"
+  },
+  {
+   "all_investors": [
+    "Gaja Capital",
+    "IFC",
+    "Stakeboat",
+    "others"
+   ],
+   "amount": "12.5M",
+   "announced_date": "2021-08-05",
+   "confidence": "MEDIUM",
+   "currency": "USD",
+   "lead_investors": [],
+   "round_date": "2021-08-05",
+   "round_type": "Series B extension",
+   "source_title": "Tracxn LeadSquared funding",
+   "source_url": "https://tracxn.com/d/companies/leadsquared/__GhwqUB8i0uV81NMtpyVUTF8KIXJ_IRM91A5DkSdKXQA/funding-and-investors",
+   "tier": "T2"
+  },
+  {
+   "all_investors": [
+    "Gaja Capital",
+    "IFC",
+    "Stakeboat",
+    "others"
+   ],
+   "amount": "153M",
+   "announced_date": "2022-06-21",
+   "confidence": "HIGH",
+   "currency": "USD",
+   "lead_investors": [
+    "WestBridge Capital"
+   ],
+   "purpose": "India + North America growth; APAC/EMEA build; product + acquisitions; double headcount",
+   "round_date": "2022-06-21",
+   "round_type": "Series C",
+   "source_date": "2022-06-21",
+   "source_title": "LeadSquared joins unicorn club (company PR)",
+   "source_url": "http://leadsquared.com/news/leadsquared-joins-the-unicorn-club-with-153-million-funding-from-westbridge-capital",
+   "tier": "T1",
+   "valuation": "1B",
+   "valuation_type": "post-money",
+   "announcement_date": "2022-06-21",
+   "valuation_currency": "USD",
+   "new_or_existing": "valuation post-money"
+  },
+  {
+   "round_type": "Seed",
+   "announced_date": "2013-04-26",
+   "round_date": "2013-04-26",
+   "amount": 0,
+   "currency": "USD",
+   "valuation": "",
+   "valuation_currency": "",
+   "valuation_type": "",
+   "lead_investors": [],
+   "all_investors": [
+    "Angels"
+   ],
+   "instrument": "equity",
+   "purpose": "Initial incorporation and product development",
+   "source_url": "https://tracxn.com/d/companies/leadsquared/__GhwqUB8i0uV81NMtpyVUTF8KIXJ_IRM91A5DkSdKXQA/latest-shareholding",
+   "source_title": "Tracxn Shareholding",
+   "source_date": "2026-09-13",
+   "confidence": "MEDIUM"
+  },
+  {
+   "round_type": "Series A",
+   "announced_date": "2019-05-14",
+   "round_date": "2019-05-14",
+   "amount": 3,
+   "currency": "USD",
+   "valuation": "",
+   "valuation_currency": "",
+   "valuation_type": "",
+   "lead_investors": [
+    "Stakeboat Capital"
+   ],
+   "all_investors": [
+    "Stakeboat Capital",
+    "Jyoti Bansal",
+    "JI Company"
+   ],
+   "instrument": "equity",
+   "purpose": "Growth; institutional funding first",
+   "source_url": "https://www.vccircle.com/leadsquared-turns-unicorn-with-153-mn-fundraise-from-westbridge-capital",
+   "source_title": "VCCircle",
+   "source_date": "2022-06-21",
+   "confidence": "HIGH"
+  },
+  {
+   "round_type": "Series B",
+   "announced_date": "2020-12-14",
+   "round_date": "2020-12-14",
+   "amount": 32.6,
+   "currency": "USD",
+   "valuation": "",
+   "valuation_currency": "",
+   "valuation_type": "",
+   "lead_investors": [
+    "Gaja Capital"
+   ],
+   "all_investors": [
+    "Gaja Capital",
+    "Stakeboat Capital",
+    "Jyoti Bansal",
+    "JI Company"
+   ],
+   "instrument": "equity",
+   "purpose": "Growth; US operations expansion",
+   "source_url": "https://tracxn.com/d/companies/leadsquared/__GhwqUB8i0uV81NMtpyVUTF8KIXJ_IRM91A5DkSdKXQA/funding-and-investors",
+   "source_title": "Tracxn Funding",
+   "source_date": "2026-09-13",
+   "confidence": "HIGH"
+  },
+  {
+   "round_type": "Series B extension",
+   "announced_date": "2021-08-05",
+   "round_date": "2021-08-05",
+   "amount": 12.5,
+   "currency": "USD",
+   "valuation": "",
+   "valuation_currency": "",
+   "valuation_type": "",
+   "lead_investors": [],
+   "all_investors": [
+    "Gaja Capital",
+    "IFC",
+    "Stakeboat",
+    "others"
+   ],
+   "instrument": "equity",
+   "purpose": "Growth capital",
+   "source_url": "https://tracxn.com/d/companies/leadsquared/__GhwqUB8i0uV81NMtpyVUTF8KIXJ_IRM91A5DkSdKXQA/funding-and-investors",
+   "source_title": "Tracxn Funding",
+   "source_date": "2026-09-13",
+   "confidence": "MEDIUM"
+  },
+  {
+   "round_type": "Series C",
+   "announced_date": "2022-06-21",
+   "round_date": "2022-06-21",
+   "amount": 153,
+   "currency": "USD",
+   "valuation": 1000000000,
+   "valuation_currency": "USD",
+   "valuation_type": "post-money",
+   "lead_investors": [
+    "WestBridge Capital"
+   ],
+   "all_investors": [
+    "WestBridge Capital",
+    "Gaja Capital",
+    "IFC",
+    "Stakeboat",
+    "others"
+   ],
+   "instrument": "equity",
+   "purpose": "India + North America growth; APAC/EMEA build; product + acquisitions; double headcount",
+   "source_url": "http://leadsquared.com/news/leadsquared-joins-the-unicorn-club-with-153-million-funding-from-westbridge-capital",
+   "source_title": "LeadSquared company PR",
+   "source_date": "2022-06-21",
+   "confidence": "HIGH"
+  },
+  {
+   "round_type": "Series C2",
+   "announced_date": "2022-07-04",
+   "round_date": "2022-07-04",
+   "amount": 0,
+   "currency": "USD",
+   "valuation": "",
+   "valuation_currency": "",
+   "valuation_type": "",
+   "lead_investors": [],
+   "all_investors": [
+    "WestBridge Capital",
+    "others"
+   ],
+   "instrument": "equity",
+   "purpose": "Follow-on",
+   "source_url": "https://tracxn.com/d/companies/leadsquared/__GhwqUB8i0uV81NMtpyVUTF8KIXJ_IRM91A5DkSdKXQA/latest-shareholding",
+   "source_title": "Tracxn Shareholding",
+   "source_date": "2026-09-13",
+   "confidence": "MEDIUM"
+  },
+  {
+   "round_type": "Series C3",
+   "announced_date": "2022-11-03",
+   "round_date": "2022-11-03",
+   "amount": 0,
+   "currency": "USD",
+   "valuation": "",
+   "valuation_currency": "",
+   "valuation_type": "",
+   "lead_investors": [],
+   "all_investors": [
+    "WestBridge Capital",
+    "others"
+   ],
+   "instrument": "equity",
+   "purpose": "Follow-on",
+   "source_url": "https://tracxn.com/d/companies/leadsquared/__GhwqUB8i0uV81NMtpyVUTF8KIXJ_IRM91A5DkSdKXQA/latest-shareholding",
+   "source_title": "Tracxn Shareholding",
+   "source_date": "2026-09-13",
+   "confidence": "MEDIUM"
+  }
+ ],
+ "gaps": [
+  "FY26 financials not yet available",
+  "ESOP/cap-table details (Tracxn paywalled) unverified",
+  "Customer names (Pearson, BYJU'S, Dunzo per PR) not independently verified",
+  "FY25/FY26 audited or press-quoted filing financials (no FY25 filing write-up found)",
+  "incorporation_date already in enrich notes (2011-06-23 per InstaFinancials); registry confirmation only"
+ ],
+ "investor_links": [
+  {
+   "confidence": "HIGH",
+   "first_seen": "2022",
+   "investor": "WestBridge Capital",
+   "investor_type": "PE/VC",
+   "lead": true,
+   "rounds": [
+    "Series C"
+   ],
+   "source_url": "http://leadsquared.com/news/leadsquared-joins-the-unicorn-club-with-153-million-funding-from-westbridge-capital"
+  },
+  {
+   "confidence": "HIGH",
+   "first_seen": "2020",
+   "investor": "Gaja Capital",
+   "investor_type": "VC",
+   "lead": true,
+   "rounds": [
+    "Series B",
+    "Series C"
+   ],
+   "source_url": "https://www.vccircle.com/leadsquared-turns-unicorn-with-153-mn-fundraise-from-westbridge-capital"
+  },
+  {
+   "confidence": "MEDIUM",
+   "first_seen": "2021",
+   "investor": "IFC",
+   "investor_type": "DFI",
+   "lead": false,
+   "rounds": [
+    "Series B ext",
+    "Series C"
+   ],
+   "source_url": "https://tracxn.com/d/companies/leadsquared/__GhwqUB8i0uV81NMtpyVUTF8KIXJ_IRM91A5DkSdKXQA/funding-and-investors"
+  },
+  {
+   "confidence": "MEDIUM",
+   "first_seen": "2019",
+   "investor": "Stakeboat Capital",
+   "investor_type": "VC",
+   "lead": true,
+   "rounds": [
+    "Series A"
+   ],
+   "source_url": "https://tracxn.com/d/companies/leadsquared/__GhwqUB8i0uV81NMtpyVUTF8KIXJ_IRM91A5DkSdKXQA/funding-and-investors"
+  },
+  {
+   "investor": "Jyoti Bansal",
+   "investor_type": "Angel",
+   "first_seen": "2019",
+   "rounds": [
+    "Series A",
+    "Series B"
+   ],
+   "lead": false,
+   "amount": null,
+   "source_url": "https://www.forbesindia.com/article/take-one-big-story-of-the-day/square-peg-in-a-round-hole-meet-leadsquared-indias-first-unicorn-without-vc-money/77473/1",
+   "confidence": "HIGH"
+  },
+  {
+   "investor": "JI Company",
+   "investor_type": "Angel/PE",
+   "first_seen": "2019",
+   "rounds": [
+    "Series A",
+    "Series B"
+   ],
+   "lead": false,
+   "amount": null,
+   "source_url": "https://tracxn.com/d/companies/leadsquared/__GhwqUB8i0uV81NMtpyVUTF8KIXJ_IRM91A5DkSdKXQA/latest-shareholding",
+   "confidence": "MEDIUM"
+  }
+ ],
+ "legal": [],
+ "locations": [
+  {
+   "address_or_area": "Embassy Tech Square, Bellandur, Outer Ring Road",
+   "as_of": "2025",
+   "city": "Bengaluru",
+   "confidence": "HIGH",
+   "source_url": "https://pitchbook.com/profiles/company/87256-99",
+   "state": "Karnataka",
+   "type": "HQ"
+  },
+  {
+   "type": "hq",
+   "address_or_area": "Embassy Tech Square, Bellandur, Outer Ring Road",
+   "city": "Bengaluru",
+   "state": "Karnataka",
+   "country": "India",
+   "as_of": "2025",
+   "source_url": "https://pitchbook.com/profiles/company/87256-99",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "office",
+   "address_or_area": "Palo Alto, California",
+   "city": "Palo Alto",
+   "state": "California",
+   "country": "US",
+   "as_of": "2022",
+   "source_url": "https://www.forbesindia.com/article/take-one-big-story-of-the-day/square-peg-in-a-round-hole-meet-leadsquared-indias-first-unicorn-without-vc-money/77473/1",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "office",
+   "address_or_area": "Philippines",
+   "city": "Philippines",
+   "state": "",
+   "country": "Philippines",
+   "as_of": "2022",
+   "source_url": "https://www.fortuneindia.com/enterprise/saas-platform-leadsquared-raises-153-mn-enters-unicorn-club/108673",
+   "confidence": "MEDIUM"
+  },
+  {
+   "type": "office",
+   "address_or_area": "South Africa",
+   "city": "South Africa",
+   "state": "",
+   "country": "South Africa",
+   "as_of": "2022",
+   "source_url": "https://www.fortuneindia.com/enterprise/saas-platform-leadsquared-raises-153-mn-enters-unicorn-club/108673",
+   "confidence": "MEDIUM"
+  },
+  {
+   "type": "office",
+   "address_or_area": "Australia",
+   "city": "Australia",
+   "state": "",
+   "country": "Australia",
+   "as_of": "2022",
+   "source_url": "https://www.fortuneindia.com/enterprise/saas-platform-leadsquared-raises-153-mn-enters-unicorn-club/108673",
+   "confidence": "MEDIUM"
+  },
+  {
+   "type": "office",
+   "address_or_area": "Indonesia",
+   "city": "Indonesia",
+   "state": "",
+   "country": "Indonesia",
+   "as_of": "2022",
+   "source_url": "https://www.fortuneindia.com/enterprise/saas-platform-leadsquared-raises-153-mn-enters-unicorn-club/108673",
+   "confidence": "MEDIUM"
+  }
+ ],
+ "products": [
+  {
+   "confidence": "HIGH",
+   "name": "LeadSquared sales execution + marketing automation + field-force platform"
+  },
+  {
+   "name": "LeadSquared CRM Platform",
+   "category": "CRM / Sales Execution",
+   "description": "End-to-end sales execution platform capturing leads from channels automatically, managing and transferring to right teams; zero lead leakage",
+   "pricing_model": "SUBSCRIPTION",
+   "launch_date": "2013",
+   "status": "active",
+   "source_url": "https://www.fortuneindia.com/enterprise/saas-platform-leadsquared-raises-153-mn-enters-unicorn-club/108673",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Marketing Automation",
+   "category": "Marketing Cloud",
+   "description": "Marketing automation and lead management tools for capturing, nurturing, and converting leads",
+   "pricing_model": "SUBSCRIPTION",
+   "launch_date": "2013",
+   "status": "active",
+   "source_url": "https://www.fortuneindia.com/enterprise/saas-platform-leadsquared-raises-153-mn-enters-unicorn-club/108673",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Field Force Management",
+   "category": "Field Operations",
+   "description": "Field sales management including verifications, collections, and vendor onboarding for feet-on-street teams",
+   "pricing_model": "SUBSCRIPTION",
+   "launch_date": "2013",
+   "status": "active",
+   "source_url": "https://www.forbesindia.com/article/take-one-big-story-of-the-day/square-peg-in-a-round-hole-meet-leadsquared-indias-first-unicorn-without-vc-money/77473/1",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Sales Performance Analytics",
+   "category": "Analytics",
+   "description": "Product released to provide sales performance analytics and insights",
+   "pricing_model": "SUBSCRIPTION",
+   "launch_date": "2021-2022",
+   "status": "active",
+   "source_url": "https://www.fortuneindia.com/enterprise/saas-platform-leadsquared-raises-153-mn-enters-unicorn-club/108673",
+   "confidence": "MEDIUM"
+  },
+  {
+   "name": "No-Code Workflow Builder",
+   "category": "Developer Tools",
+   "description": "No-code workflow builder and developer platform for customizing automation",
+   "pricing_model": "SUBSCRIPTION",
+   "launch_date": "2021-2022",
+   "status": "active",
+   "source_url": "https://www.fortuneindia.com/enterprise/saas-platform-leadsquared-raises-153-mn-enters-unicorn-club/108673",
+   "confidence": "MEDIUM"
+  },
+  {
+   "name": "Application Processing Digitization Suite",
+   "category": "Vertical Tools",
+   "description": "Suite of tools to digitize application processing for finance and education sectors",
+   "pricing_model": "SUBSCRIPTION",
+   "launch_date": "2021-2022",
+   "status": "active",
+   "source_url": "https://www.fortuneindia.com/enterprise/saas-platform-leadsquared-raises-153-mn-enters-unicorn-club/108673",
+   "confidence": "MEDIUM"
+  }
+ ],
+ "research_log": [
+  {
+   "found": "Series C $153M/$1B; founders; investors; HQ",
+   "next_action": "done",
+   "query": "LeadSquared funding valuation 2025 2026",
+   "unresolved": null
+  },
+  {
+   "found": "FY24/FY25 audited revenue+loss; CIN; customers",
+   "next_action": "done",
+   "query": "LeadSquared founders revenue FY24 FY25 loss",
+   "unresolved": null
+  },
+  {
+   "found": "Entrackr FY25 fetch ok; company PR + VCCircle 403→snippet only",
+   "next_action": "done",
+   "query": "fetch load-bearing pages",
+   "unresolved": null
+  },
+  {
+   "date": "2026-09-14",
+   "found": "CIN confirmed; Series C $153M at $1B post-money (company PR + VCCircle + SiliconAngle)",
+   "query": "LeadSquared MarketXpander CIN valuation",
+   "unresolved": "FY25 filing financials; zero-result probe on FY25 revenue"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "Q-wave claim source-hunt",
+   "found": "1 resolved",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "LeadSquared official website India",
+   "found": "www.leadsquared.com confirmed",
+   "unresolved": ""
+  },
+  {
+   "date": "2026-09-14",
+   "query": "LeadSquared careers page jobs",
+   "found": "www.leadsquared.com/company/careers confirmed",
+   "unresolved": ""
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared founders identity verification",
+   "status": "done",
+   "found": "3 confirmed founders: Nilesh Patel, Prashant Singh, Sudhakar Gorti. Forbes mentions 4th person Sukhbir Kalsi but not in cap table. No Siddharth Gupta, Dhruv Raghavan, or Vikas Kaushik found.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared funding rounds and cap table",
+   "status": "done",
+   "found": "Tracxn cap table confirms: Seed (Apr 2013), Series A (May 2019), Series B (Dec 2020), Series B2 (Jan 2021), Series B3 (Aug 2021), Series C (Jun 2022), Series C2 (Jul 2022), Series C3 (Nov 2022). Total $188M disclosed.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared FY23-FY25 financials",
+   "status": "done",
+   "found": "FY24: Revenue Rs 279.2Cr, Loss Rs 162.2Cr. FY25: Revenue Rs 326.2Cr, Total Income Rs 366.3Cr, Loss Rs 89.2Cr, Expenses Rs 454.6Cr. FY23: ~Rs 200Cr (Forbes FY22 data).",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared customers and traction",
+   "status": "done",
+   "found": "2000+ customers (2022), 1800+ clients (FY25). Named: BYJU's, Dunzo, Aditya Birla Capital, NIIT, Manipal, Amity, Olx, Kotak, Cars24, Zoomcar, Pepper India, Practo, Poonawalla, Godrej HF, Angel One.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared products and technology",
+   "status": "done",
+   "found": "CRM, Marketing Automation, Field Force Management, Sales Performance Analytics, No-Code Workflow Builder, Application Processing Digitization Suite. No AI-specific features confirmed.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared locations and employees",
+   "status": "done",
+   "found": "HQ Bengaluru (Embassy Tech Square). Offices: US (Palo Alto), Philippines, South Africa, Australia, Indonesia. Employees: 1,063 (Inc42 latest), 1,300 (GetLatka Dec 2024).",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared events and people changes",
+   "status": "done",
+   "found": "Sudhakar Gorti left 2023, founded Astuto. No acquisitions found. US operations started early 2020. Series C2/C3 follow-on rounds in 2022.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared legal disputes",
+   "status": "done",
+   "found": "No legal disputes found in any source. No litigation records identified.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared founders identity verification",
+   "status": "done",
+   "found": "3 confirmed founders: Nilesh Patel, Prashant Singh, Sudhakar Gorti. Forbes mentions 4th person Sukhbir Kalsi but not in cap table. No Siddharth Gupta, Dhruv Raghavan, or Vikas Kaushik found.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared funding rounds and cap table",
+   "status": "done",
+   "found": "Tracxn cap table confirms: Seed (Apr 2013), Series A (May 2019), Series B (Dec 2020), Series B2 (Jan 2021), Series B3 (Aug 2021), Series C (Jun 2022), Series C2 (Jul 2022), Series C3 (Nov 2022). Total $188M disclosed.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared FY23-FY25 financials",
+   "status": "done",
+   "found": "FY24: Revenue Rs 279.2Cr, Loss Rs 162.2Cr. FY25: Revenue Rs 326.2Cr, Total Income Rs 366.3Cr, Loss Rs 89.2Cr, Expenses Rs 454.6Cr. FY23: ~Rs 200Cr (Forbes FY22 data).",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared customers and traction",
+   "status": "done",
+   "found": "2000+ customers (2022), 1800+ clients (FY25). Named: BYJU's, Dunzo, Aditya Birla Capital, NIIT, Manipal, Amity, Olx, Kotak, Cars24, Zoomcar, Pepper India, Practo, Poonawalla, Godrej HF, Angel One.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared products and technology",
+   "status": "done",
+   "found": "CRM, Marketing Automation, Field Force Management, Sales Performance Analytics, No-Code Workflow Builder, Application Processing Digitization Suite. No AI-specific features confirmed.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared locations and employees",
+   "status": "done",
+   "found": "HQ Bengaluru (Embassy Tech Square). Offices: US (Palo Alto), Philippines, South Africa, Australia, Indonesia. Employees: 1,063 (Inc42 latest), 1,300 (GetLatka Dec 2024).",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared events and people changes",
+   "status": "done",
+   "found": "Sudhakar Gorti left 2023, founded Astuto. No acquisitions found. US operations started early 2020. Series C2/C3 follow-on rounds in 2022.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared legal disputes",
+   "status": "done",
+   "found": "No legal disputes found in any source. No litigation records identified.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared founders identity verification",
+   "status": "done",
+   "found": "3 confirmed founders: Nilesh Patel, Prashant Singh, Sudhakar Gorti. Forbes mentions 4th person Sukhbir Kalsi but not in cap table. No Siddharth Gupta, Dhruv Raghavan, or Vikas Kaushik found.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared funding rounds and cap table",
+   "status": "done",
+   "found": "Tracxn cap table confirms: Seed (Apr 2013), Series A (May 2019), Series B (Dec 2020), Series B2 (Jan 2021), Series B3 (Aug 2021), Series C (Jun 2022), Series C2 (Jul 2022), Series C3 (Nov 2022). Total $188M disclosed.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared FY23-FY25 financials",
+   "status": "done",
+   "found": "FY24: Revenue Rs 279.2Cr, Loss Rs 162.2Cr. FY25: Revenue Rs 326.2Cr, Total Income Rs 366.3Cr, Loss Rs 89.2Cr, Expenses Rs 454.6Cr. FY23: ~Rs 200Cr (Forbes FY22 data).",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared customers and traction",
+   "status": "done",
+   "found": "2000+ customers (2022), 1800+ clients (FY25). Named: BYJU's, Dunzo, Aditya Birla Capital, NIIT, Manipal, Amity, Olx, Kotak, Cars24, Zoomcar, Pepper India, Practo, Poonawalla, Godrej HF, Angel One.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared products and technology",
+   "status": "done",
+   "found": "CRM, Marketing Automation, Field Force Management, Sales Performance Analytics, No-Code Workflow Builder, Application Processing Digitization Suite. No AI-specific features confirmed.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared locations and employees",
+   "status": "done",
+   "found": "HQ Bengaluru (Embassy Tech Square). Offices: US (Palo Alto), Philippines, South Africa, Australia, Indonesia. Employees: 1,063 (Inc42 latest), 1,300 (GetLatka Dec 2024).",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared events and people changes",
+   "status": "done",
+   "found": "Sudhakar Gorti left 2023, founded Astuto. No acquisitions found. US operations started early 2020. Series C2/C3 follow-on rounds in 2022.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared legal disputes",
+   "status": "done",
+   "found": "No legal disputes found in any source. No litigation records identified.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared founders identity verification",
+   "status": "done",
+   "found": "3 confirmed founders: Nilesh Patel, Prashant Singh, Sudhakar Gorti. Forbes mentions 4th person Sukhbir Kalsi but not in cap table. No Siddharth Gupta, Dhruv Raghavan, or Vikas Kaushik found.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared funding rounds and cap table",
+   "status": "done",
+   "found": "Tracxn cap table confirms: Seed (Apr 2013), Series A (May 2019), Series B (Dec 2020), Series B2 (Jan 2021), Series B3 (Aug 2021), Series C (Jun 2022), Series C2 (Jul 2022), Series C3 (Nov 2022). Total $188M disclosed.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared FY23-FY25 financials",
+   "status": "done",
+   "found": "FY24: Revenue Rs 279.2Cr, Loss Rs 162.2Cr. FY25: Revenue Rs 326.2Cr, Total Income Rs 366.3Cr, Loss Rs 89.2Cr, Expenses Rs 454.6Cr. FY23: ~Rs 200Cr (Forbes FY22 data).",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared customers and traction",
+   "status": "done",
+   "found": "2000+ customers (2022), 1800+ clients (FY25). Named: BYJU's, Dunzo, Aditya Birla Capital, NIIT, Manipal, Amity, Olx, Kotak, Cars24, Zoomcar, Pepper India, Practo, Poonawalla, Godrej HF, Angel One.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared products and technology",
+   "status": "done",
+   "found": "CRM, Marketing Automation, Field Force Management, Sales Performance Analytics, No-Code Workflow Builder, Application Processing Digitization Suite. No AI-specific features confirmed.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared locations and employees",
+   "status": "done",
+   "found": "HQ Bengaluru (Embassy Tech Square). Offices: US (Palo Alto), Philippines, South Africa, Australia, Indonesia. Employees: 1,063 (Inc42 latest), 1,300 (GetLatka Dec 2024).",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared events and people changes",
+   "status": "done",
+   "found": "Sudhakar Gorti left 2023, founded Astuto. No acquisitions found. US operations started early 2020. Series C2/C3 follow-on rounds in 2022.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared legal disputes",
+   "status": "done",
+   "found": "No legal disputes found in any source. No litigation records identified.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared founders identity verification",
+   "status": "done",
+   "found": "3 confirmed founders: Nilesh Patel, Prashant Singh, Sudhakar Gorti. Forbes mentions 4th person Sukhbir Kalsi but not in cap table. No Siddharth Gupta, Dhruv Raghavan, or Vikas Kaushik found.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared funding rounds and cap table",
+   "status": "done",
+   "found": "Tracxn cap table confirms: Seed (Apr 2013), Series A (May 2019), Series B (Dec 2020), Series B2 (Jan 2021), Series B3 (Aug 2021), Series C (Jun 2022), Series C2 (Jul 2022), Series C3 (Nov 2022). Total $188M disclosed.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared FY23-FY25 financials",
+   "status": "done",
+   "found": "FY24: Revenue Rs 279.2Cr, Loss Rs 162.2Cr. FY25: Revenue Rs 326.2Cr, Total Income Rs 366.3Cr, Loss Rs 89.2Cr, Expenses Rs 454.6Cr. FY23: ~Rs 200Cr (Forbes FY22 data).",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared customers and traction",
+   "status": "done",
+   "found": "2000+ customers (2022), 1800+ clients (FY25). Named: BYJU's, Dunzo, Aditya Birla Capital, NIIT, Manipal, Amity, Olx, Kotak, Cars24, Zoomcar, Pepper India, Practo, Poonawalla, Godrej HF, Angel One.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared products and technology",
+   "status": "done",
+   "found": "CRM, Marketing Automation, Field Force Management, Sales Performance Analytics, No-Code Workflow Builder, Application Processing Digitization Suite. No AI-specific features confirmed.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared locations and employees",
+   "status": "done",
+   "found": "HQ Bengaluru (Embassy Tech Square). Offices: US (Palo Alto), Philippines, South Africa, Australia, Indonesia. Employees: 1,063 (Inc42 latest), 1,300 (GetLatka Dec 2024).",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared events and people changes",
+   "status": "done",
+   "found": "Sudhakar Gorti left 2023, founded Astuto. No acquisitions found. US operations started early 2020. Series C2/C3 follow-on rounds in 2022.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared legal disputes",
+   "status": "done",
+   "found": "No legal disputes found in any source. No litigation records identified.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared founders identity verification",
+   "status": "done",
+   "found": "3 confirmed founders: Nilesh Patel, Prashant Singh, Sudhakar Gorti. Forbes mentions 4th person Sukhbir Kalsi but not in cap table. No Siddharth Gupta, Dhruv Raghavan, or Vikas Kaushik found.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared funding rounds and cap table",
+   "status": "done",
+   "found": "Tracxn cap table confirms: Seed (Apr 2013), Series A (May 2019), Series B (Dec 2020), Series B2 (Jan 2021), Series B3 (Aug 2021), Series C (Jun 2022), Series C2 (Jul 2022), Series C3 (Nov 2022). Total $188M disclosed.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared FY23-FY25 financials",
+   "status": "done",
+   "found": "FY24: Revenue Rs 279.2Cr, Loss Rs 162.2Cr. FY25: Revenue Rs 326.2Cr, Total Income Rs 366.3Cr, Loss Rs 89.2Cr, Expenses Rs 454.6Cr. FY23: ~Rs 200Cr (Forbes FY22 data).",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared customers and traction",
+   "status": "done",
+   "found": "2000+ customers (2022), 1800+ clients (FY25). Named: BYJU's, Dunzo, Aditya Birla Capital, NIIT, Manipal, Amity, Olx, Kotak, Cars24, Zoomcar, Pepper India, Practo, Poonawalla, Godrej HF, Angel One.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared products and technology",
+   "status": "done",
+   "found": "CRM, Marketing Automation, Field Force Management, Sales Performance Analytics, No-Code Workflow Builder, Application Processing Digitization Suite. No AI-specific features confirmed.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared locations and employees",
+   "status": "done",
+   "found": "HQ Bengaluru (Embassy Tech Square). Offices: US (Palo Alto), Philippines, South Africa, Australia, Indonesia. Employees: 1,063 (Inc42 latest), 1,300 (GetLatka Dec 2024).",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared events and people changes",
+   "status": "done",
+   "found": "Sudhakar Gorti left 2023, founded Astuto. No acquisitions found. US operations started early 2020. Series C2/C3 follow-on rounds in 2022.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared legal disputes",
+   "status": "done",
+   "found": "No legal disputes found in any source. No litigation records identified.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared founders identity verification",
+   "status": "done",
+   "found": "3 confirmed founders: Nilesh Patel, Prashant Singh, Sudhakar Gorti. Forbes mentions 4th person Sukhbir Kalsi but not in cap table. No Siddharth Gupta, Dhruv Raghavan, or Vikas Kaushik found.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared funding rounds and cap table",
+   "status": "done",
+   "found": "Tracxn cap table confirms: Seed (Apr 2013), Series A (May 2019), Series B (Dec 2020), Series B2 (Jan 2021), Series B3 (Aug 2021), Series C (Jun 2022), Series C2 (Jul 2022), Series C3 (Nov 2022). Total $188M disclosed.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared FY23-FY25 financials",
+   "status": "done",
+   "found": "FY24: Revenue Rs 279.2Cr, Loss Rs 162.2Cr. FY25: Revenue Rs 326.2Cr, Total Income Rs 366.3Cr, Loss Rs 89.2Cr, Expenses Rs 454.6Cr. FY23: ~Rs 200Cr (Forbes FY22 data).",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared customers and traction",
+   "status": "done",
+   "found": "2000+ customers (2022), 1800+ clients (FY25). Named: BYJU's, Dunzo, Aditya Birla Capital, NIIT, Manipal, Amity, Olx, Kotak, Cars24, Zoomcar, Pepper India, Practo, Poonawalla, Godrej HF, Angel One.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared products and technology",
+   "status": "done",
+   "found": "CRM, Marketing Automation, Field Force Management, Sales Performance Analytics, No-Code Workflow Builder, Application Processing Digitization Suite. No AI-specific features confirmed.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared locations and employees",
+   "status": "done",
+   "found": "HQ Bengaluru (Embassy Tech Square). Offices: US (Palo Alto), Philippines, South Africa, Australia, Indonesia. Employees: 1,063 (Inc42 latest), 1,300 (GetLatka Dec 2024).",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared events and people changes",
+   "status": "done",
+   "found": "Sudhakar Gorti left 2023, founded Astuto. No acquisitions found. US operations started early 2020. Series C2/C3 follow-on rounds in 2022.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared legal disputes",
+   "status": "done",
+   "found": "No legal disputes found in any source. No litigation records identified.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared founders identity verification",
+   "status": "done",
+   "found": "3 confirmed founders: Nilesh Patel, Prashant Singh, Sudhakar Gorti. Forbes mentions 4th person Sukhbir Kalsi but not in cap table. No Siddharth Gupta, Dhruv Raghavan, or Vikas Kaushik found.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared funding rounds and cap table",
+   "status": "done",
+   "found": "Tracxn cap table confirms: Seed (Apr 2013), Series A (May 2019), Series B (Dec 2020), Series B2 (Jan 2021), Series B3 (Aug 2021), Series C (Jun 2022), Series C2 (Jul 2022), Series C3 (Nov 2022). Total $188M disclosed.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared FY23-FY25 financials",
+   "status": "done",
+   "found": "FY24: Revenue Rs 279.2Cr, Loss Rs 162.2Cr. FY25: Revenue Rs 326.2Cr, Total Income Rs 366.3Cr, Loss Rs 89.2Cr, Expenses Rs 454.6Cr. FY23: ~Rs 200Cr (Forbes FY22 data).",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared customers and traction",
+   "status": "done",
+   "found": "2000+ customers (2022), 1800+ clients (FY25). Named: BYJU's, Dunzo, Aditya Birla Capital, NIIT, Manipal, Amity, Olx, Kotak, Cars24, Zoomcar, Pepper India, Practo, Poonawalla, Godrej HF, Angel One.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared products and technology",
+   "status": "done",
+   "found": "CRM, Marketing Automation, Field Force Management, Sales Performance Analytics, No-Code Workflow Builder, Application Processing Digitization Suite. No AI-specific features confirmed.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared locations and employees",
+   "status": "done",
+   "found": "HQ Bengaluru (Embassy Tech Square). Offices: US (Palo Alto), Philippines, South Africa, Australia, Indonesia. Employees: 1,063 (Inc42 latest), 1,300 (GetLatka Dec 2024).",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared events and people changes",
+   "status": "done",
+   "found": "Sudhakar Gorti left 2023, founded Astuto. No acquisitions found. US operations started early 2020. Series C2/C3 follow-on rounds in 2022.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared legal disputes",
+   "status": "done",
+   "found": "No legal disputes found in any source. No litigation records identified.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared founders identity verification",
+   "status": "done",
+   "found": "3 confirmed founders: Nilesh Patel, Prashant Singh, Sudhakar Gorti. Forbes mentions 4th person Sukhbir Kalsi but not in cap table. No Siddharth Gupta, Dhruv Raghavan, or Vikas Kaushik found.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared funding rounds and cap table",
+   "status": "done",
+   "found": "Tracxn cap table confirms: Seed (Apr 2013), Series A (May 2019), Series B (Dec 2020), Series B2 (Jan 2021), Series B3 (Aug 2021), Series C (Jun 2022), Series C2 (Jul 2022), Series C3 (Nov 2022). Total $188M disclosed.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared FY23-FY25 financials",
+   "status": "done",
+   "found": "FY24: Revenue Rs 279.2Cr, Loss Rs 162.2Cr. FY25: Revenue Rs 326.2Cr, Total Income Rs 366.3Cr, Loss Rs 89.2Cr, Expenses Rs 454.6Cr. FY23: ~Rs 200Cr (Forbes FY22 data).",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared customers and traction",
+   "status": "done",
+   "found": "2000+ customers (2022), 1800+ clients (FY25). Named: BYJU's, Dunzo, Aditya Birla Capital, NIIT, Manipal, Amity, Olx, Kotak, Cars24, Zoomcar, Pepper India, Practo, Poonawalla, Godrej HF, Angel One.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared products and technology",
+   "status": "done",
+   "found": "CRM, Marketing Automation, Field Force Management, Sales Performance Analytics, No-Code Workflow Builder, Application Processing Digitization Suite. No AI-specific features confirmed.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared locations and employees",
+   "status": "done",
+   "found": "HQ Bengaluru (Embassy Tech Square). Offices: US (Palo Alto), Philippines, South Africa, Australia, Indonesia. Employees: 1,063 (Inc42 latest), 1,300 (GetLatka Dec 2024).",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared events and people changes",
+   "status": "done",
+   "found": "Sudhakar Gorti left 2023, founded Astuto. No acquisitions found. US operations started early 2020. Series C2/C3 follow-on rounds in 2022.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared legal disputes",
+   "status": "done",
+   "found": "No legal disputes found in any source. No litigation records identified.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared founders identity verification",
+   "status": "done",
+   "found": "3 confirmed founders: Nilesh Patel, Prashant Singh, Sudhakar Gorti. Forbes mentions 4th person Sukhbir Kalsi but not in cap table. No Siddharth Gupta, Dhruv Raghavan, or Vikas Kaushik found.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared funding rounds and cap table",
+   "status": "done",
+   "found": "Tracxn cap table confirms: Seed (Apr 2013), Series A (May 2019), Series B (Dec 2020), Series B2 (Jan 2021), Series B3 (Aug 2021), Series C (Jun 2022), Series C2 (Jul 2022), Series C3 (Nov 2022). Total $188M disclosed.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared FY23-FY25 financials",
+   "status": "done",
+   "found": "FY24: Revenue Rs 279.2Cr, Loss Rs 162.2Cr. FY25: Revenue Rs 326.2Cr, Total Income Rs 366.3Cr, Loss Rs 89.2Cr, Expenses Rs 454.6Cr. FY23: ~Rs 200Cr (Forbes FY22 data).",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared customers and traction",
+   "status": "done",
+   "found": "2000+ customers (2022), 1800+ clients (FY25). Named: BYJU's, Dunzo, Aditya Birla Capital, NIIT, Manipal, Amity, Olx, Kotak, Cars24, Zoomcar, Pepper India, Practo, Poonawalla, Godrej HF, Angel One.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared products and technology",
+   "status": "done",
+   "found": "CRM, Marketing Automation, Field Force Management, Sales Performance Analytics, No-Code Workflow Builder, Application Processing Digitization Suite. No AI-specific features confirmed.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared locations and employees",
+   "status": "done",
+   "found": "HQ Bengaluru (Embassy Tech Square). Offices: US (Palo Alto), Philippines, South Africa, Australia, Indonesia. Employees: 1,063 (Inc42 latest), 1,300 (GetLatka Dec 2024).",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared events and people changes",
+   "status": "done",
+   "found": "Sudhakar Gorti left 2023, founded Astuto. No acquisitions found. US operations started early 2020. Series C2/C3 follow-on rounds in 2022.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared legal disputes",
+   "status": "done",
+   "found": "No legal disputes found in any source. No litigation records identified.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared founders identity verification",
+   "status": "done",
+   "found": "3 confirmed founders: Nilesh Patel, Prashant Singh, Sudhakar Gorti. Forbes mentions 4th person Sukhbir Kalsi but not in cap table. No Siddharth Gupta, Dhruv Raghavan, or Vikas Kaushik found.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared funding rounds and cap table",
+   "status": "done",
+   "found": "Tracxn cap table confirms: Seed (Apr 2013), Series A (May 2019), Series B (Dec 2020), Series B2 (Jan 2021), Series B3 (Aug 2021), Series C (Jun 2022), Series C2 (Jul 2022), Series C3 (Nov 2022). Total $188M disclosed.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared FY23-FY25 financials",
+   "status": "done",
+   "found": "FY24: Revenue Rs 279.2Cr, Loss Rs 162.2Cr. FY25: Revenue Rs 326.2Cr, Total Income Rs 366.3Cr, Loss Rs 89.2Cr, Expenses Rs 454.6Cr. FY23: ~Rs 200Cr (Forbes FY22 data).",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared customers and traction",
+   "status": "done",
+   "found": "2000+ customers (2022), 1800+ clients (FY25). Named: BYJU's, Dunzo, Aditya Birla Capital, NIIT, Manipal, Amity, Olx, Kotak, Cars24, Zoomcar, Pepper India, Practo, Poonawalla, Godrej HF, Angel One.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared products and technology",
+   "status": "done",
+   "found": "CRM, Marketing Automation, Field Force Management, Sales Performance Analytics, No-Code Workflow Builder, Application Processing Digitization Suite. No AI-specific features confirmed.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared locations and employees",
+   "status": "done",
+   "found": "HQ Bengaluru (Embassy Tech Square). Offices: US (Palo Alto), Philippines, South Africa, Australia, Indonesia. Employees: 1,063 (Inc42 latest), 1,300 (GetLatka Dec 2024).",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared events and people changes",
+   "status": "done",
+   "found": "Sudhakar Gorti left 2023, founded Astuto. No acquisitions found. US operations started early 2020. Series C2/C3 follow-on rounds in 2022.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared legal disputes",
+   "status": "done",
+   "found": "No legal disputes found in any source. No litigation records identified.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared founders identity verification",
+   "status": "done",
+   "found": "3 confirmed founders: Nilesh Patel, Prashant Singh, Sudhakar Gorti. Forbes mentions 4th person Sukhbir Kalsi but not in cap table. No Siddharth Gupta, Dhruv Raghavan, or Vikas Kaushik found.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared funding rounds and cap table",
+   "status": "done",
+   "found": "Tracxn cap table confirms: Seed (Apr 2013), Series A (May 2019), Series B (Dec 2020), Series B2 (Jan 2021), Series B3 (Aug 2021), Series C (Jun 2022), Series C2 (Jul 2022), Series C3 (Nov 2022). Total $188M disclosed.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared FY23-FY25 financials",
+   "status": "done",
+   "found": "FY24: Revenue Rs 279.2Cr, Loss Rs 162.2Cr. FY25: Revenue Rs 326.2Cr, Total Income Rs 366.3Cr, Loss Rs 89.2Cr, Expenses Rs 454.6Cr. FY23: ~Rs 200Cr (Forbes FY22 data).",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared customers and traction",
+   "status": "done",
+   "found": "2000+ customers (2022), 1800+ clients (FY25). Named: BYJU's, Dunzo, Aditya Birla Capital, NIIT, Manipal, Amity, Olx, Kotak, Cars24, Zoomcar, Pepper India, Practo, Poonawalla, Godrej HF, Angel One.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared products and technology",
+   "status": "done",
+   "found": "CRM, Marketing Automation, Field Force Management, Sales Performance Analytics, No-Code Workflow Builder, Application Processing Digitization Suite. No AI-specific features confirmed.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared locations and employees",
+   "status": "done",
+   "found": "HQ Bengaluru (Embassy Tech Square). Offices: US (Palo Alto), Philippines, South Africa, Australia, Indonesia. Employees: 1,063 (Inc42 latest), 1,300 (GetLatka Dec 2024).",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared events and people changes",
+   "status": "done",
+   "found": "Sudhakar Gorti left 2023, founded Astuto. No acquisitions found. US operations started early 2020. Series C2/C3 follow-on rounds in 2022.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared legal disputes",
+   "status": "done",
+   "found": "No legal disputes found in any source. No litigation records identified.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared founders identity verification",
+   "status": "done",
+   "found": "3 confirmed founders: Nilesh Patel, Prashant Singh, Sudhakar Gorti. Forbes mentions 4th person Sukhbir Kalsi but not in cap table. No Siddharth Gupta, Dhruv Raghavan, or Vikas Kaushik found.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared funding rounds and cap table",
+   "status": "done",
+   "found": "Tracxn cap table confirms: Seed (Apr 2013), Series A (May 2019), Series B (Dec 2020), Series B2 (Jan 2021), Series B3 (Aug 2021), Series C (Jun 2022), Series C2 (Jul 2022), Series C3 (Nov 2022). Total $188M disclosed.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared FY23-FY25 financials",
+   "status": "done",
+   "found": "FY24: Revenue Rs 279.2Cr, Loss Rs 162.2Cr. FY25: Revenue Rs 326.2Cr, Total Income Rs 366.3Cr, Loss Rs 89.2Cr, Expenses Rs 454.6Cr. FY23: ~Rs 200Cr (Forbes FY22 data).",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared customers and traction",
+   "status": "done",
+   "found": "2000+ customers (2022), 1800+ clients (FY25). Named: BYJU's, Dunzo, Aditya Birla Capital, NIIT, Manipal, Amity, Olx, Kotak, Cars24, Zoomcar, Pepper India, Practo, Poonawalla, Godrej HF, Angel One.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared products and technology",
+   "status": "done",
+   "found": "CRM, Marketing Automation, Field Force Management, Sales Performance Analytics, No-Code Workflow Builder, Application Processing Digitization Suite. No AI-specific features confirmed.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared locations and employees",
+   "status": "done",
+   "found": "HQ Bengaluru (Embassy Tech Square). Offices: US (Palo Alto), Philippines, South Africa, Australia, Indonesia. Employees: 1,063 (Inc42 latest), 1,300 (GetLatka Dec 2024).",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared events and people changes",
+   "status": "done",
+   "found": "Sudhakar Gorti left 2023, founded Astuto. No acquisitions found. US operations started early 2020. Series C2/C3 follow-on rounds in 2022.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared legal disputes",
+   "status": "done",
+   "found": "No legal disputes found in any source. No litigation records identified.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared founders identity verification",
+   "status": "done",
+   "found": "3 confirmed founders: Nilesh Patel, Prashant Singh, Sudhakar Gorti. Forbes mentions 4th person Sukhbir Kalsi but not in cap table. No Siddharth Gupta, Dhruv Raghavan, or Vikas Kaushik found.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared funding rounds and cap table",
+   "status": "done",
+   "found": "Tracxn cap table confirms: Seed (Apr 2013), Series A (May 2019), Series B (Dec 2020), Series B2 (Jan 2021), Series B3 (Aug 2021), Series C (Jun 2022), Series C2 (Jul 2022), Series C3 (Nov 2022). Total $188M disclosed.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared FY23-FY25 financials",
+   "status": "done",
+   "found": "FY24: Revenue Rs 279.2Cr, Loss Rs 162.2Cr. FY25: Revenue Rs 326.2Cr, Total Income Rs 366.3Cr, Loss Rs 89.2Cr, Expenses Rs 454.6Cr. FY23: ~Rs 200Cr (Forbes FY22 data).",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared customers and traction",
+   "status": "done",
+   "found": "2000+ customers (2022), 1800+ clients (FY25). Named: BYJU's, Dunzo, Aditya Birla Capital, NIIT, Manipal, Amity, Olx, Kotak, Cars24, Zoomcar, Pepper India, Practo, Poonawalla, Godrej HF, Angel One.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared products and technology",
+   "status": "done",
+   "found": "CRM, Marketing Automation, Field Force Management, Sales Performance Analytics, No-Code Workflow Builder, Application Processing Digitization Suite. No AI-specific features confirmed.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared locations and employees",
+   "status": "done",
+   "found": "HQ Bengaluru (Embassy Tech Square). Offices: US (Palo Alto), Philippines, South Africa, Australia, Indonesia. Employees: 1,063 (Inc42 latest), 1,300 (GetLatka Dec 2024).",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared events and people changes",
+   "status": "done",
+   "found": "Sudhakar Gorti left 2023, founded Astuto. No acquisitions found. US operations started early 2020. Series C2/C3 follow-on rounds in 2022.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared legal disputes",
+   "status": "done",
+   "found": "No legal disputes found in any source. No litigation records identified.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared founders identity verification",
+   "status": "done",
+   "found": "3 confirmed founders: Nilesh Patel, Prashant Singh, Sudhakar Gorti. Forbes mentions 4th person Sukhbir Kalsi but not in cap table. No Siddharth Gupta, Dhruv Raghavan, or Vikas Kaushik found.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared funding rounds and cap table",
+   "status": "done",
+   "found": "Tracxn cap table confirms: Seed (Apr 2013), Series A (May 2019), Series B (Dec 2020), Series B2 (Jan 2021), Series B3 (Aug 2021), Series C (Jun 2022), Series C2 (Jul 2022), Series C3 (Nov 2022). Total $188M disclosed.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared FY23-FY25 financials",
+   "status": "done",
+   "found": "FY24: Revenue Rs 279.2Cr, Loss Rs 162.2Cr. FY25: Revenue Rs 326.2Cr, Total Income Rs 366.3Cr, Loss Rs 89.2Cr, Expenses Rs 454.6Cr. FY23: ~Rs 200Cr (Forbes FY22 data).",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared customers and traction",
+   "status": "done",
+   "found": "2000+ customers (2022), 1800+ clients (FY25). Named: BYJU's, Dunzo, Aditya Birla Capital, NIIT, Manipal, Amity, Olx, Kotak, Cars24, Zoomcar, Pepper India, Practo, Poonawalla, Godrej HF, Angel One.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared products and technology",
+   "status": "done",
+   "found": "CRM, Marketing Automation, Field Force Management, Sales Performance Analytics, No-Code Workflow Builder, Application Processing Digitization Suite. No AI-specific features confirmed.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared locations and employees",
+   "status": "done",
+   "found": "HQ Bengaluru (Embassy Tech Square). Offices: US (Palo Alto), Philippines, South Africa, Australia, Indonesia. Employees: 1,063 (Inc42 latest), 1,300 (GetLatka Dec 2024).",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared events and people changes",
+   "status": "done",
+   "found": "Sudhakar Gorti left 2023, founded Astuto. No acquisitions found. US operations started early 2020. Series C2/C3 follow-on rounds in 2022.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared legal disputes",
+   "status": "done",
+   "found": "No legal disputes found in any source. No litigation records identified.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared founders identity verification",
+   "status": "done",
+   "found": "3 confirmed founders: Nilesh Patel, Prashant Singh, Sudhakar Gorti. Forbes mentions 4th person Sukhbir Kalsi but not in cap table. No Siddharth Gupta, Dhruv Raghavan, or Vikas Kaushik found.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared funding rounds and cap table",
+   "status": "done",
+   "found": "Tracxn cap table confirms: Seed (Apr 2013), Series A (May 2019), Series B (Dec 2020), Series B2 (Jan 2021), Series B3 (Aug 2021), Series C (Jun 2022), Series C2 (Jul 2022), Series C3 (Nov 2022). Total $188M disclosed.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared FY23-FY25 financials",
+   "status": "done",
+   "found": "FY24: Revenue Rs 279.2Cr, Loss Rs 162.2Cr. FY25: Revenue Rs 326.2Cr, Total Income Rs 366.3Cr, Loss Rs 89.2Cr, Expenses Rs 454.6Cr. FY23: ~Rs 200Cr (Forbes FY22 data).",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared customers and traction",
+   "status": "done",
+   "found": "2000+ customers (2022), 1800+ clients (FY25). Named: BYJU's, Dunzo, Aditya Birla Capital, NIIT, Manipal, Amity, Olx, Kotak, Cars24, Zoomcar, Pepper India, Practo, Poonawalla, Godrej HF, Angel One.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared products and technology",
+   "status": "done",
+   "found": "CRM, Marketing Automation, Field Force Management, Sales Performance Analytics, No-Code Workflow Builder, Application Processing Digitization Suite. No AI-specific features confirmed.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared locations and employees",
+   "status": "done",
+   "found": "HQ Bengaluru (Embassy Tech Square). Offices: US (Palo Alto), Philippines, South Africa, Australia, Indonesia. Employees: 1,063 (Inc42 latest), 1,300 (GetLatka Dec 2024).",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared events and people changes",
+   "status": "done",
+   "found": "Sudhakar Gorti left 2023, founded Astuto. No acquisitions found. US operations started early 2020. Series C2/C3 follow-on rounds in 2022.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared legal disputes",
+   "status": "done",
+   "found": "No legal disputes found in any source. No litigation records identified.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared founders identity verification",
+   "status": "done",
+   "found": "3 confirmed founders: Nilesh Patel, Prashant Singh, Sudhakar Gorti. Forbes mentions 4th person Sukhbir Kalsi but not in cap table. No Siddharth Gupta, Dhruv Raghavan, or Vikas Kaushik found.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared funding rounds and cap table",
+   "status": "done",
+   "found": "Tracxn cap table confirms: Seed (Apr 2013), Series A (May 2019), Series B (Dec 2020), Series B2 (Jan 2021), Series B3 (Aug 2021), Series C (Jun 2022), Series C2 (Jul 2022), Series C3 (Nov 2022). Total $188M disclosed.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared FY23-FY25 financials",
+   "status": "done",
+   "found": "FY24: Revenue Rs 279.2Cr, Loss Rs 162.2Cr. FY25: Revenue Rs 326.2Cr, Total Income Rs 366.3Cr, Loss Rs 89.2Cr, Expenses Rs 454.6Cr. FY23: ~Rs 200Cr (Forbes FY22 data).",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared customers and traction",
+   "status": "done",
+   "found": "2000+ customers (2022), 1800+ clients (FY25). Named: BYJU's, Dunzo, Aditya Birla Capital, NIIT, Manipal, Amity, Olx, Kotak, Cars24, Zoomcar, Pepper India, Practo, Poonawalla, Godrej HF, Angel One.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared products and technology",
+   "status": "done",
+   "found": "CRM, Marketing Automation, Field Force Management, Sales Performance Analytics, No-Code Workflow Builder, Application Processing Digitization Suite. No AI-specific features confirmed.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared locations and employees",
+   "status": "done",
+   "found": "HQ Bengaluru (Embassy Tech Square). Offices: US (Palo Alto), Philippines, South Africa, Australia, Indonesia. Employees: 1,063 (Inc42 latest), 1,300 (GetLatka Dec 2024).",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared events and people changes",
+   "status": "done",
+   "found": "Sudhakar Gorti left 2023, founded Astuto. No acquisitions found. US operations started early 2020. Series C2/C3 follow-on rounds in 2022.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared legal disputes",
+   "status": "done",
+   "found": "No legal disputes found in any source. No litigation records identified.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared founders identity verification",
+   "status": "done",
+   "found": "3 confirmed founders: Nilesh Patel, Prashant Singh, Sudhakar Gorti. Forbes mentions 4th person Sukhbir Kalsi but not in cap table. No Siddharth Gupta, Dhruv Raghavan, or Vikas Kaushik found.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared funding rounds and cap table",
+   "status": "done",
+   "found": "Tracxn cap table confirms: Seed (Apr 2013), Series A (May 2019), Series B (Dec 2020), Series B2 (Jan 2021), Series B3 (Aug 2021), Series C (Jun 2022), Series C2 (Jul 2022), Series C3 (Nov 2022). Total $188M disclosed.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared FY23-FY25 financials",
+   "status": "done",
+   "found": "FY24: Revenue Rs 279.2Cr, Loss Rs 162.2Cr. FY25: Revenue Rs 326.2Cr, Total Income Rs 366.3Cr, Loss Rs 89.2Cr, Expenses Rs 454.6Cr. FY23: ~Rs 200Cr (Forbes FY22 data).",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared customers and traction",
+   "status": "done",
+   "found": "2000+ customers (2022), 1800+ clients (FY25). Named: BYJU's, Dunzo, Aditya Birla Capital, NIIT, Manipal, Amity, Olx, Kotak, Cars24, Zoomcar, Pepper India, Practo, Poonawalla, Godrej HF, Angel One.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared products and technology",
+   "status": "done",
+   "found": "CRM, Marketing Automation, Field Force Management, Sales Performance Analytics, No-Code Workflow Builder, Application Processing Digitization Suite. No AI-specific features confirmed.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared locations and employees",
+   "status": "done",
+   "found": "HQ Bengaluru (Embassy Tech Square). Offices: US (Palo Alto), Philippines, South Africa, Australia, Indonesia. Employees: 1,063 (Inc42 latest), 1,300 (GetLatka Dec 2024).",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared events and people changes",
+   "status": "done",
+   "found": "Sudhakar Gorti left 2023, founded Astuto. No acquisitions found. US operations started early 2020. Series C2/C3 follow-on rounds in 2022.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared legal disputes",
+   "status": "done",
+   "found": "No legal disputes found in any source. No litigation records identified.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared founders identity verification",
+   "status": "done",
+   "found": "3 confirmed founders: Nilesh Patel, Prashant Singh, Sudhakar Gorti. Forbes mentions 4th person Sukhbir Kalsi but not in cap table. No Siddharth Gupta, Dhruv Raghavan, or Vikas Kaushik found.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared funding rounds and cap table",
+   "status": "done",
+   "found": "Tracxn cap table confirms: Seed (Apr 2013), Series A (May 2019), Series B (Dec 2020), Series B2 (Jan 2021), Series B3 (Aug 2021), Series C (Jun 2022), Series C2 (Jul 2022), Series C3 (Nov 2022). Total $188M disclosed.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared FY23-FY25 financials",
+   "status": "done",
+   "found": "FY24: Revenue Rs 279.2Cr, Loss Rs 162.2Cr. FY25: Revenue Rs 326.2Cr, Total Income Rs 366.3Cr, Loss Rs 89.2Cr, Expenses Rs 454.6Cr. FY23: ~Rs 200Cr (Forbes FY22 data).",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared customers and traction",
+   "status": "done",
+   "found": "2000+ customers (2022), 1800+ clients (FY25). Named: BYJU's, Dunzo, Aditya Birla Capital, NIIT, Manipal, Amity, Olx, Kotak, Cars24, Zoomcar, Pepper India, Practo, Poonawalla, Godrej HF, Angel One.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared products and technology",
+   "status": "done",
+   "found": "CRM, Marketing Automation, Field Force Management, Sales Performance Analytics, No-Code Workflow Builder, Application Processing Digitization Suite. No AI-specific features confirmed.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared locations and employees",
+   "status": "done",
+   "found": "HQ Bengaluru (Embassy Tech Square). Offices: US (Palo Alto), Philippines, South Africa, Australia, Indonesia. Employees: 1,063 (Inc42 latest), 1,300 (GetLatka Dec 2024).",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared events and people changes",
+   "status": "done",
+   "found": "Sudhakar Gorti left 2023, founded Astuto. No acquisitions found. US operations started early 2020. Series C2/C3 follow-on rounds in 2022.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared legal disputes",
+   "status": "done",
+   "found": "No legal disputes found in any source. No litigation records identified.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared founders identity verification",
+   "status": "done",
+   "found": "3 confirmed founders: Nilesh Patel, Prashant Singh, Sudhakar Gorti. Forbes mentions 4th person Sukhbir Kalsi but not in cap table. No Siddharth Gupta, Dhruv Raghavan, or Vikas Kaushik found.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared funding rounds and cap table",
+   "status": "done",
+   "found": "Tracxn cap table confirms: Seed (Apr 2013), Series A (May 2019), Series B (Dec 2020), Series B2 (Jan 2021), Series B3 (Aug 2021), Series C (Jun 2022), Series C2 (Jul 2022), Series C3 (Nov 2022). Total $188M disclosed.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared FY23-FY25 financials",
+   "status": "done",
+   "found": "FY24: Revenue Rs 279.2Cr, Loss Rs 162.2Cr. FY25: Revenue Rs 326.2Cr, Total Income Rs 366.3Cr, Loss Rs 89.2Cr, Expenses Rs 454.6Cr. FY23: ~Rs 200Cr (Forbes FY22 data).",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared customers and traction",
+   "status": "done",
+   "found": "2000+ customers (2022), 1800+ clients (FY25). Named: BYJU's, Dunzo, Aditya Birla Capital, NIIT, Manipal, Amity, Olx, Kotak, Cars24, Zoomcar, Pepper India, Practo, Poonawalla, Godrej HF, Angel One.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared products and technology",
+   "status": "done",
+   "found": "CRM, Marketing Automation, Field Force Management, Sales Performance Analytics, No-Code Workflow Builder, Application Processing Digitization Suite. No AI-specific features confirmed.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared locations and employees",
+   "status": "done",
+   "found": "HQ Bengaluru (Embassy Tech Square). Offices: US (Palo Alto), Philippines, South Africa, Australia, Indonesia. Employees: 1,063 (Inc42 latest), 1,300 (GetLatka Dec 2024).",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared events and people changes",
+   "status": "done",
+   "found": "Sudhakar Gorti left 2023, founded Astuto. No acquisitions found. US operations started early 2020. Series C2/C3 follow-on rounds in 2022.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared legal disputes",
+   "status": "done",
+   "found": "No legal disputes found in any source. No litigation records identified.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared founders identity verification",
+   "status": "done",
+   "found": "3 confirmed founders: Nilesh Patel, Prashant Singh, Sudhakar Gorti. Forbes mentions 4th person Sukhbir Kalsi but not in cap table. No Siddharth Gupta, Dhruv Raghavan, or Vikas Kaushik found.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared funding rounds and cap table",
+   "status": "done",
+   "found": "Tracxn cap table confirms: Seed (Apr 2013), Series A (May 2019), Series B (Dec 2020), Series B2 (Jan 2021), Series B3 (Aug 2021), Series C (Jun 2022), Series C2 (Jul 2022), Series C3 (Nov 2022). Total $188M disclosed.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared FY23-FY25 financials",
+   "status": "done",
+   "found": "FY24: Revenue Rs 279.2Cr, Loss Rs 162.2Cr. FY25: Revenue Rs 326.2Cr, Total Income Rs 366.3Cr, Loss Rs 89.2Cr, Expenses Rs 454.6Cr. FY23: ~Rs 200Cr (Forbes FY22 data).",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared customers and traction",
+   "status": "done",
+   "found": "2000+ customers (2022), 1800+ clients (FY25). Named: BYJU's, Dunzo, Aditya Birla Capital, NIIT, Manipal, Amity, Olx, Kotak, Cars24, Zoomcar, Pepper India, Practo, Poonawalla, Godrej HF, Angel One.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared products and technology",
+   "status": "done",
+   "found": "CRM, Marketing Automation, Field Force Management, Sales Performance Analytics, No-Code Workflow Builder, Application Processing Digitization Suite. No AI-specific features confirmed.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared locations and employees",
+   "status": "done",
+   "found": "HQ Bengaluru (Embassy Tech Square). Offices: US (Palo Alto), Philippines, South Africa, Australia, Indonesia. Employees: 1,063 (Inc42 latest), 1,300 (GetLatka Dec 2024).",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared events and people changes",
+   "status": "done",
+   "found": "Sudhakar Gorti left 2023, founded Astuto. No acquisitions found. US operations started early 2020. Series C2/C3 follow-on rounds in 2022.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared legal disputes",
+   "status": "done",
+   "found": "No legal disputes found in any source. No litigation records identified.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared founders identity verification",
+   "status": "done",
+   "found": "3 confirmed founders: Nilesh Patel, Prashant Singh, Sudhakar Gorti. Forbes mentions 4th person Sukhbir Kalsi but not in cap table. No Siddharth Gupta, Dhruv Raghavan, or Vikas Kaushik found.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared funding rounds and cap table",
+   "status": "done",
+   "found": "Tracxn cap table confirms: Seed (Apr 2013), Series A (May 2019), Series B (Dec 2020), Series B2 (Jan 2021), Series B3 (Aug 2021), Series C (Jun 2022), Series C2 (Jul 2022), Series C3 (Nov 2022). Total $188M disclosed.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared FY23-FY25 financials",
+   "status": "done",
+   "found": "FY24: Revenue Rs 279.2Cr, Loss Rs 162.2Cr. FY25: Revenue Rs 326.2Cr, Total Income Rs 366.3Cr, Loss Rs 89.2Cr, Expenses Rs 454.6Cr. FY23: ~Rs 200Cr (Forbes FY22 data).",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared customers and traction",
+   "status": "done",
+   "found": "2000+ customers (2022), 1800+ clients (FY25). Named: BYJU's, Dunzo, Aditya Birla Capital, NIIT, Manipal, Amity, Olx, Kotak, Cars24, Zoomcar, Pepper India, Practo, Poonawalla, Godrej HF, Angel One.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared products and technology",
+   "status": "done",
+   "found": "CRM, Marketing Automation, Field Force Management, Sales Performance Analytics, No-Code Workflow Builder, Application Processing Digitization Suite. No AI-specific features confirmed.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared locations and employees",
+   "status": "done",
+   "found": "HQ Bengaluru (Embassy Tech Square). Offices: US (Palo Alto), Philippines, South Africa, Australia, Indonesia. Employees: 1,063 (Inc42 latest), 1,300 (GetLatka Dec 2024).",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared events and people changes",
+   "status": "done",
+   "found": "Sudhakar Gorti left 2023, founded Astuto. No acquisitions found. US operations started early 2020. Series C2/C3 follow-on rounds in 2022.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared legal disputes",
+   "status": "done",
+   "found": "No legal disputes found in any source. No litigation records identified.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared founders identity verification",
+   "status": "done",
+   "found": "3 confirmed founders: Nilesh Patel, Prashant Singh, Sudhakar Gorti. Forbes mentions 4th person Sukhbir Kalsi but not in cap table. No Siddharth Gupta, Dhruv Raghavan, or Vikas Kaushik found.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared funding rounds and cap table",
+   "status": "done",
+   "found": "Tracxn cap table confirms: Seed (Apr 2013), Series A (May 2019), Series B (Dec 2020), Series B2 (Jan 2021), Series B3 (Aug 2021), Series C (Jun 2022), Series C2 (Jul 2022), Series C3 (Nov 2022). Total $188M disclosed.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared FY23-FY25 financials",
+   "status": "done",
+   "found": "FY24: Revenue Rs 279.2Cr, Loss Rs 162.2Cr. FY25: Revenue Rs 326.2Cr, Total Income Rs 366.3Cr, Loss Rs 89.2Cr, Expenses Rs 454.6Cr. FY23: ~Rs 200Cr (Forbes FY22 data).",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared customers and traction",
+   "status": "done",
+   "found": "2000+ customers (2022), 1800+ clients (FY25). Named: BYJU's, Dunzo, Aditya Birla Capital, NIIT, Manipal, Amity, Olx, Kotak, Cars24, Zoomcar, Pepper India, Practo, Poonawalla, Godrej HF, Angel One.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared products and technology",
+   "status": "done",
+   "found": "CRM, Marketing Automation, Field Force Management, Sales Performance Analytics, No-Code Workflow Builder, Application Processing Digitization Suite. No AI-specific features confirmed.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared locations and employees",
+   "status": "done",
+   "found": "HQ Bengaluru (Embassy Tech Square). Offices: US (Palo Alto), Philippines, South Africa, Australia, Indonesia. Employees: 1,063 (Inc42 latest), 1,300 (GetLatka Dec 2024).",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared events and people changes",
+   "status": "done",
+   "found": "Sudhakar Gorti left 2023, founded Astuto. No acquisitions found. US operations started early 2020. Series C2/C3 follow-on rounds in 2022.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared legal disputes",
+   "status": "done",
+   "found": "No legal disputes found in any source. No litigation records identified.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared founders identity verification",
+   "status": "done",
+   "found": "3 confirmed founders: Nilesh Patel, Prashant Singh, Sudhakar Gorti. Forbes mentions 4th person Sukhbir Kalsi but not in cap table. No Siddharth Gupta, Dhruv Raghavan, or Vikas Kaushik found.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared funding rounds and cap table",
+   "status": "done",
+   "found": "Tracxn cap table confirms: Seed (Apr 2013), Series A (May 2019), Series B (Dec 2020), Series B2 (Jan 2021), Series B3 (Aug 2021), Series C (Jun 2022), Series C2 (Jul 2022), Series C3 (Nov 2022). Total $188M disclosed.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared FY23-FY25 financials",
+   "status": "done",
+   "found": "FY24: Revenue Rs 279.2Cr, Loss Rs 162.2Cr. FY25: Revenue Rs 326.2Cr, Total Income Rs 366.3Cr, Loss Rs 89.2Cr, Expenses Rs 454.6Cr. FY23: ~Rs 200Cr (Forbes FY22 data).",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared customers and traction",
+   "status": "done",
+   "found": "2000+ customers (2022), 1800+ clients (FY25). Named: BYJU's, Dunzo, Aditya Birla Capital, NIIT, Manipal, Amity, Olx, Kotak, Cars24, Zoomcar, Pepper India, Practo, Poonawalla, Godrej HF, Angel One.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared products and technology",
+   "status": "done",
+   "found": "CRM, Marketing Automation, Field Force Management, Sales Performance Analytics, No-Code Workflow Builder, Application Processing Digitization Suite. No AI-specific features confirmed.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared locations and employees",
+   "status": "done",
+   "found": "HQ Bengaluru (Embassy Tech Square). Offices: US (Palo Alto), Philippines, South Africa, Australia, Indonesia. Employees: 1,063 (Inc42 latest), 1,300 (GetLatka Dec 2024).",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared events and people changes",
+   "status": "done",
+   "found": "Sudhakar Gorti left 2023, founded Astuto. No acquisitions found. US operations started early 2020. Series C2/C3 follow-on rounds in 2022.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared legal disputes",
+   "status": "done",
+   "found": "No legal disputes found in any source. No litigation records identified.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared founders identity verification",
+   "status": "done",
+   "found": "3 confirmed founders: Nilesh Patel, Prashant Singh, Sudhakar Gorti. Forbes mentions 4th person Sukhbir Kalsi but not in cap table. No Siddharth Gupta, Dhruv Raghavan, or Vikas Kaushik found.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared funding rounds and cap table",
+   "status": "done",
+   "found": "Tracxn cap table confirms: Seed (Apr 2013), Series A (May 2019), Series B (Dec 2020), Series B2 (Jan 2021), Series B3 (Aug 2021), Series C (Jun 2022), Series C2 (Jul 2022), Series C3 (Nov 2022). Total $188M disclosed.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared FY23-FY25 financials",
+   "status": "done",
+   "found": "FY24: Revenue Rs 279.2Cr, Loss Rs 162.2Cr. FY25: Revenue Rs 326.2Cr, Total Income Rs 366.3Cr, Loss Rs 89.2Cr, Expenses Rs 454.6Cr. FY23: ~Rs 200Cr (Forbes FY22 data).",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared customers and traction",
+   "status": "done",
+   "found": "2000+ customers (2022), 1800+ clients (FY25). Named: BYJU's, Dunzo, Aditya Birla Capital, NIIT, Manipal, Amity, Olx, Kotak, Cars24, Zoomcar, Pepper India, Practo, Poonawalla, Godrej HF, Angel One.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared products and technology",
+   "status": "done",
+   "found": "CRM, Marketing Automation, Field Force Management, Sales Performance Analytics, No-Code Workflow Builder, Application Processing Digitization Suite. No AI-specific features confirmed.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared locations and employees",
+   "status": "done",
+   "found": "HQ Bengaluru (Embassy Tech Square). Offices: US (Palo Alto), Philippines, South Africa, Australia, Indonesia. Employees: 1,063 (Inc42 latest), 1,300 (GetLatka Dec 2024).",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared events and people changes",
+   "status": "done",
+   "found": "Sudhakar Gorti left 2023, founded Astuto. No acquisitions found. US operations started early 2020. Series C2/C3 follow-on rounds in 2022.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared legal disputes",
+   "status": "done",
+   "found": "No legal disputes found in any source. No litigation records identified.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared founders identity verification",
+   "status": "done",
+   "found": "3 confirmed founders: Nilesh Patel, Prashant Singh, Sudhakar Gorti. Forbes mentions 4th person Sukhbir Kalsi but not in cap table. No Siddharth Gupta, Dhruv Raghavan, or Vikas Kaushik found.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared funding rounds and cap table",
+   "status": "done",
+   "found": "Tracxn cap table confirms: Seed (Apr 2013), Series A (May 2019), Series B (Dec 2020), Series B2 (Jan 2021), Series B3 (Aug 2021), Series C (Jun 2022), Series C2 (Jul 2022), Series C3 (Nov 2022). Total $188M disclosed.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared FY23-FY25 financials",
+   "status": "done",
+   "found": "FY24: Revenue Rs 279.2Cr, Loss Rs 162.2Cr. FY25: Revenue Rs 326.2Cr, Total Income Rs 366.3Cr, Loss Rs 89.2Cr, Expenses Rs 454.6Cr. FY23: ~Rs 200Cr (Forbes FY22 data).",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared customers and traction",
+   "status": "done",
+   "found": "2000+ customers (2022), 1800+ clients (FY25). Named: BYJU's, Dunzo, Aditya Birla Capital, NIIT, Manipal, Amity, Olx, Kotak, Cars24, Zoomcar, Pepper India, Practo, Poonawalla, Godrej HF, Angel One.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared products and technology",
+   "status": "done",
+   "found": "CRM, Marketing Automation, Field Force Management, Sales Performance Analytics, No-Code Workflow Builder, Application Processing Digitization Suite. No AI-specific features confirmed.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared locations and employees",
+   "status": "done",
+   "found": "HQ Bengaluru (Embassy Tech Square). Offices: US (Palo Alto), Philippines, South Africa, Australia, Indonesia. Employees: 1,063 (Inc42 latest), 1,300 (GetLatka Dec 2024).",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared events and people changes",
+   "status": "done",
+   "found": "Sudhakar Gorti left 2023, founded Astuto. No acquisitions found. US operations started early 2020. Series C2/C3 follow-on rounds in 2022.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared legal disputes",
+   "status": "done",
+   "found": "No legal disputes found in any source. No litigation records identified.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared founders identity verification",
+   "status": "done",
+   "found": "3 confirmed founders: Nilesh Patel, Prashant Singh, Sudhakar Gorti. Forbes mentions 4th person Sukhbir Kalsi but not in cap table. No Siddharth Gupta, Dhruv Raghavan, or Vikas Kaushik found.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared funding rounds and cap table",
+   "status": "done",
+   "found": "Tracxn cap table confirms: Seed (Apr 2013), Series A (May 2019), Series B (Dec 2020), Series B2 (Jan 2021), Series B3 (Aug 2021), Series C (Jun 2022), Series C2 (Jul 2022), Series C3 (Nov 2022). Total $188M disclosed.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared FY23-FY25 financials",
+   "status": "done",
+   "found": "FY24: Revenue Rs 279.2Cr, Loss Rs 162.2Cr. FY25: Revenue Rs 326.2Cr, Total Income Rs 366.3Cr, Loss Rs 89.2Cr, Expenses Rs 454.6Cr. FY23: ~Rs 200Cr (Forbes FY22 data).",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared customers and traction",
+   "status": "done",
+   "found": "2000+ customers (2022), 1800+ clients (FY25). Named: BYJU's, Dunzo, Aditya Birla Capital, NIIT, Manipal, Amity, Olx, Kotak, Cars24, Zoomcar, Pepper India, Practo, Poonawalla, Godrej HF, Angel One.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared products and technology",
+   "status": "done",
+   "found": "CRM, Marketing Automation, Field Force Management, Sales Performance Analytics, No-Code Workflow Builder, Application Processing Digitization Suite. No AI-specific features confirmed.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared locations and employees",
+   "status": "done",
+   "found": "HQ Bengaluru (Embassy Tech Square). Offices: US (Palo Alto), Philippines, South Africa, Australia, Indonesia. Employees: 1,063 (Inc42 latest), 1,300 (GetLatka Dec 2024).",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared events and people changes",
+   "status": "done",
+   "found": "Sudhakar Gorti left 2023, founded Astuto. No acquisitions found. US operations started early 2020. Series C2/C3 follow-on rounds in 2022.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared legal disputes",
+   "status": "done",
+   "found": "No legal disputes found in any source. No litigation records identified.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared founders identity verification",
+   "status": "done",
+   "found": "3 confirmed founders: Nilesh Patel, Prashant Singh, Sudhakar Gorti. Forbes mentions 4th person Sukhbir Kalsi but not in cap table. No Siddharth Gupta, Dhruv Raghavan, or Vikas Kaushik found.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared funding rounds and cap table",
+   "status": "done",
+   "found": "Tracxn cap table confirms: Seed (Apr 2013), Series A (May 2019), Series B (Dec 2020), Series B2 (Jan 2021), Series B3 (Aug 2021), Series C (Jun 2022), Series C2 (Jul 2022), Series C3 (Nov 2022). Total $188M disclosed.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared FY23-FY25 financials",
+   "status": "done",
+   "found": "FY24: Revenue Rs 279.2Cr, Loss Rs 162.2Cr. FY25: Revenue Rs 326.2Cr, Total Income Rs 366.3Cr, Loss Rs 89.2Cr, Expenses Rs 454.6Cr. FY23: ~Rs 200Cr (Forbes FY22 data).",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared customers and traction",
+   "status": "done",
+   "found": "2000+ customers (2022), 1800+ clients (FY25). Named: BYJU's, Dunzo, Aditya Birla Capital, NIIT, Manipal, Amity, Olx, Kotak, Cars24, Zoomcar, Pepper India, Practo, Poonawalla, Godrej HF, Angel One.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared products and technology",
+   "status": "done",
+   "found": "CRM, Marketing Automation, Field Force Management, Sales Performance Analytics, No-Code Workflow Builder, Application Processing Digitization Suite. No AI-specific features confirmed.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared locations and employees",
+   "status": "done",
+   "found": "HQ Bengaluru (Embassy Tech Square). Offices: US (Palo Alto), Philippines, South Africa, Australia, Indonesia. Employees: 1,063 (Inc42 latest), 1,300 (GetLatka Dec 2024).",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared events and people changes",
+   "status": "done",
+   "found": "Sudhakar Gorti left 2023, founded Astuto. No acquisitions found. US operations started early 2020. Series C2/C3 follow-on rounds in 2022.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared legal disputes",
+   "status": "done",
+   "found": "No legal disputes found in any source. No litigation records identified.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared founders identity verification",
+   "status": "done",
+   "found": "3 confirmed founders: Nilesh Patel, Prashant Singh, Sudhakar Gorti. Forbes mentions 4th person Sukhbir Kalsi but not in cap table. No Siddharth Gupta, Dhruv Raghavan, or Vikas Kaushik found.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared funding rounds and cap table",
+   "status": "done",
+   "found": "Tracxn cap table confirms: Seed (Apr 2013), Series A (May 2019), Series B (Dec 2020), Series B2 (Jan 2021), Series B3 (Aug 2021), Series C (Jun 2022), Series C2 (Jul 2022), Series C3 (Nov 2022). Total $188M disclosed.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared FY23-FY25 financials",
+   "status": "done",
+   "found": "FY24: Revenue Rs 279.2Cr, Loss Rs 162.2Cr. FY25: Revenue Rs 326.2Cr, Total Income Rs 366.3Cr, Loss Rs 89.2Cr, Expenses Rs 454.6Cr. FY23: ~Rs 200Cr (Forbes FY22 data).",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared customers and traction",
+   "status": "done",
+   "found": "2000+ customers (2022), 1800+ clients (FY25). Named: BYJU's, Dunzo, Aditya Birla Capital, NIIT, Manipal, Amity, Olx, Kotak, Cars24, Zoomcar, Pepper India, Practo, Poonawalla, Godrej HF, Angel One.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared products and technology",
+   "status": "done",
+   "found": "CRM, Marketing Automation, Field Force Management, Sales Performance Analytics, No-Code Workflow Builder, Application Processing Digitization Suite. No AI-specific features confirmed.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared locations and employees",
+   "status": "done",
+   "found": "HQ Bengaluru (Embassy Tech Square). Offices: US (Palo Alto), Philippines, South Africa, Australia, Indonesia. Employees: 1,063 (Inc42 latest), 1,300 (GetLatka Dec 2024).",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared events and people changes",
+   "status": "done",
+   "found": "Sudhakar Gorti left 2023, founded Astuto. No acquisitions found. US operations started early 2020. Series C2/C3 follow-on rounds in 2022.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared legal disputes",
+   "status": "done",
+   "found": "No legal disputes found in any source. No litigation records identified.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared founders identity verification",
+   "status": "done",
+   "found": "3 confirmed founders: Nilesh Patel, Prashant Singh, Sudhakar Gorti. Forbes mentions 4th person Sukhbir Kalsi but not in cap table. No Siddharth Gupta, Dhruv Raghavan, or Vikas Kaushik found.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared funding rounds and cap table",
+   "status": "done",
+   "found": "Tracxn cap table confirms: Seed (Apr 2013), Series A (May 2019), Series B (Dec 2020), Series B2 (Jan 2021), Series B3 (Aug 2021), Series C (Jun 2022), Series C2 (Jul 2022), Series C3 (Nov 2022). Total $188M disclosed.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared FY23-FY25 financials",
+   "status": "done",
+   "found": "FY24: Revenue Rs 279.2Cr, Loss Rs 162.2Cr. FY25: Revenue Rs 326.2Cr, Total Income Rs 366.3Cr, Loss Rs 89.2Cr, Expenses Rs 454.6Cr. FY23: ~Rs 200Cr (Forbes FY22 data).",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared customers and traction",
+   "status": "done",
+   "found": "2000+ customers (2022), 1800+ clients (FY25). Named: BYJU's, Dunzo, Aditya Birla Capital, NIIT, Manipal, Amity, Olx, Kotak, Cars24, Zoomcar, Pepper India, Practo, Poonawalla, Godrej HF, Angel One.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared products and technology",
+   "status": "done",
+   "found": "CRM, Marketing Automation, Field Force Management, Sales Performance Analytics, No-Code Workflow Builder, Application Processing Digitization Suite. No AI-specific features confirmed.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared locations and employees",
+   "status": "done",
+   "found": "HQ Bengaluru (Embassy Tech Square). Offices: US (Palo Alto), Philippines, South Africa, Australia, Indonesia. Employees: 1,063 (Inc42 latest), 1,300 (GetLatka Dec 2024).",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared events and people changes",
+   "status": "done",
+   "found": "Sudhakar Gorti left 2023, founded Astuto. No acquisitions found. US operations started early 2020. Series C2/C3 follow-on rounds in 2022.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared legal disputes",
+   "status": "done",
+   "found": "No legal disputes found in any source. No litigation records identified.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared founders identity verification",
+   "status": "done",
+   "found": "3 confirmed founders: Nilesh Patel, Prashant Singh, Sudhakar Gorti. Forbes mentions 4th person Sukhbir Kalsi but not in cap table. No Siddharth Gupta, Dhruv Raghavan, or Vikas Kaushik found.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared funding rounds and cap table",
+   "status": "done",
+   "found": "Tracxn cap table confirms: Seed (Apr 2013), Series A (May 2019), Series B (Dec 2020), Series B2 (Jan 2021), Series B3 (Aug 2021), Series C (Jun 2022), Series C2 (Jul 2022), Series C3 (Nov 2022). Total $188M disclosed.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared FY23-FY25 financials",
+   "status": "done",
+   "found": "FY24: Revenue Rs 279.2Cr, Loss Rs 162.2Cr. FY25: Revenue Rs 326.2Cr, Total Income Rs 366.3Cr, Loss Rs 89.2Cr, Expenses Rs 454.6Cr. FY23: ~Rs 200Cr (Forbes FY22 data).",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared customers and traction",
+   "status": "done",
+   "found": "2000+ customers (2022), 1800+ clients (FY25). Named: BYJU's, Dunzo, Aditya Birla Capital, NIIT, Manipal, Amity, Olx, Kotak, Cars24, Zoomcar, Pepper India, Practo, Poonawalla, Godrej HF, Angel One.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared products and technology",
+   "status": "done",
+   "found": "CRM, Marketing Automation, Field Force Management, Sales Performance Analytics, No-Code Workflow Builder, Application Processing Digitization Suite. No AI-specific features confirmed.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared locations and employees",
+   "status": "done",
+   "found": "HQ Bengaluru (Embassy Tech Square). Offices: US (Palo Alto), Philippines, South Africa, Australia, Indonesia. Employees: 1,063 (Inc42 latest), 1,300 (GetLatka Dec 2024).",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared events and people changes",
+   "status": "done",
+   "found": "Sudhakar Gorti left 2023, founded Astuto. No acquisitions found. US operations started early 2020. Series C2/C3 follow-on rounds in 2022.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared legal disputes",
+   "status": "done",
+   "found": "No legal disputes found in any source. No litigation records identified.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared founders identity verification",
+   "status": "done",
+   "found": "3 confirmed founders: Nilesh Patel, Prashant Singh, Sudhakar Gorti. Forbes mentions 4th person Sukhbir Kalsi but not in cap table. No Siddharth Gupta, Dhruv Raghavan, or Vikas Kaushik found.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared funding rounds and cap table",
+   "status": "done",
+   "found": "Tracxn cap table confirms: Seed (Apr 2013), Series A (May 2019), Series B (Dec 2020), Series B2 (Jan 2021), Series B3 (Aug 2021), Series C (Jun 2022), Series C2 (Jul 2022), Series C3 (Nov 2022). Total $188M disclosed.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared FY23-FY25 financials",
+   "status": "done",
+   "found": "FY24: Revenue Rs 279.2Cr, Loss Rs 162.2Cr. FY25: Revenue Rs 326.2Cr, Total Income Rs 366.3Cr, Loss Rs 89.2Cr, Expenses Rs 454.6Cr. FY23: ~Rs 200Cr (Forbes FY22 data).",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared customers and traction",
+   "status": "done",
+   "found": "2000+ customers (2022), 1800+ clients (FY25). Named: BYJU's, Dunzo, Aditya Birla Capital, NIIT, Manipal, Amity, Olx, Kotak, Cars24, Zoomcar, Pepper India, Practo, Poonawalla, Godrej HF, Angel One.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared products and technology",
+   "status": "done",
+   "found": "CRM, Marketing Automation, Field Force Management, Sales Performance Analytics, No-Code Workflow Builder, Application Processing Digitization Suite. No AI-specific features confirmed.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared locations and employees",
+   "status": "done",
+   "found": "HQ Bengaluru (Embassy Tech Square). Offices: US (Palo Alto), Philippines, South Africa, Australia, Indonesia. Employees: 1,063 (Inc42 latest), 1,300 (GetLatka Dec 2024).",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared events and people changes",
+   "status": "done",
+   "found": "Sudhakar Gorti left 2023, founded Astuto. No acquisitions found. US operations started early 2020. Series C2/C3 follow-on rounds in 2022.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared legal disputes",
+   "status": "done",
+   "found": "No legal disputes found in any source. No litigation records identified.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared founders identity verification",
+   "status": "done",
+   "found": "3 confirmed founders: Nilesh Patel, Prashant Singh, Sudhakar Gorti. Forbes mentions 4th person Sukhbir Kalsi but not in cap table. No Siddharth Gupta, Dhruv Raghavan, or Vikas Kaushik found.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared funding rounds and cap table",
+   "status": "done",
+   "found": "Tracxn cap table confirms: Seed (Apr 2013), Series A (May 2019), Series B (Dec 2020), Series B2 (Jan 2021), Series B3 (Aug 2021), Series C (Jun 2022), Series C2 (Jul 2022), Series C3 (Nov 2022). Total $188M disclosed.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared FY23-FY25 financials",
+   "status": "done",
+   "found": "FY24: Revenue Rs 279.2Cr, Loss Rs 162.2Cr. FY25: Revenue Rs 326.2Cr, Total Income Rs 366.3Cr, Loss Rs 89.2Cr, Expenses Rs 454.6Cr. FY23: ~Rs 200Cr (Forbes FY22 data).",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared customers and traction",
+   "status": "done",
+   "found": "2000+ customers (2022), 1800+ clients (FY25). Named: BYJU's, Dunzo, Aditya Birla Capital, NIIT, Manipal, Amity, Olx, Kotak, Cars24, Zoomcar, Pepper India, Practo, Poonawalla, Godrej HF, Angel One.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared products and technology",
+   "status": "done",
+   "found": "CRM, Marketing Automation, Field Force Management, Sales Performance Analytics, No-Code Workflow Builder, Application Processing Digitization Suite. No AI-specific features confirmed.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared locations and employees",
+   "status": "done",
+   "found": "HQ Bengaluru (Embassy Tech Square). Offices: US (Palo Alto), Philippines, South Africa, Australia, Indonesia. Employees: 1,063 (Inc42 latest), 1,300 (GetLatka Dec 2024).",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared events and people changes",
+   "status": "done",
+   "found": "Sudhakar Gorti left 2023, founded Astuto. No acquisitions found. US operations started early 2020. Series C2/C3 follow-on rounds in 2022.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared legal disputes",
+   "status": "done",
+   "found": "No legal disputes found in any source. No litigation records identified.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared founders identity verification",
+   "status": "done",
+   "found": "3 confirmed founders: Nilesh Patel, Prashant Singh, Sudhakar Gorti. Forbes mentions 4th person Sukhbir Kalsi but not in cap table. No Siddharth Gupta, Dhruv Raghavan, or Vikas Kaushik found.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared funding rounds and cap table",
+   "status": "done",
+   "found": "Tracxn cap table confirms: Seed (Apr 2013), Series A (May 2019), Series B (Dec 2020), Series B2 (Jan 2021), Series B3 (Aug 2021), Series C (Jun 2022), Series C2 (Jul 2022), Series C3 (Nov 2022). Total $188M disclosed.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared FY23-FY25 financials",
+   "status": "done",
+   "found": "FY24: Revenue Rs 279.2Cr, Loss Rs 162.2Cr. FY25: Revenue Rs 326.2Cr, Total Income Rs 366.3Cr, Loss Rs 89.2Cr, Expenses Rs 454.6Cr. FY23: ~Rs 200Cr (Forbes FY22 data).",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared customers and traction",
+   "status": "done",
+   "found": "2000+ customers (2022), 1800+ clients (FY25). Named: BYJU's, Dunzo, Aditya Birla Capital, NIIT, Manipal, Amity, Olx, Kotak, Cars24, Zoomcar, Pepper India, Practo, Poonawalla, Godrej HF, Angel One.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared products and technology",
+   "status": "done",
+   "found": "CRM, Marketing Automation, Field Force Management, Sales Performance Analytics, No-Code Workflow Builder, Application Processing Digitization Suite. No AI-specific features confirmed.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared locations and employees",
+   "status": "done",
+   "found": "HQ Bengaluru (Embassy Tech Square). Offices: US (Palo Alto), Philippines, South Africa, Australia, Indonesia. Employees: 1,063 (Inc42 latest), 1,300 (GetLatka Dec 2024).",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared events and people changes",
+   "status": "done",
+   "found": "Sudhakar Gorti left 2023, founded Astuto. No acquisitions found. US operations started early 2020. Series C2/C3 follow-on rounds in 2022.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "LeadSquared legal disputes",
+   "status": "done",
+   "found": "No legal disputes found in any source. No litigation records identified.",
+   "next_action": "none"
+  }
+ ],
+ "sources": [
+  {
+   "claim_supported": "$153M Series C at $1B; founders; use of funds; customers",
+   "fields_supported": [
+    "funding_rounds",
+    "founders",
+    "valuation"
+   ],
+   "publication_date": "2022-06-21",
+   "publisher": "LeadSquared (company PR)",
+   "retrieved_date": "2026-09-14",
+   "tier": "T1",
+   "title": "LeadSquared Joins Unicorn Club With $153M From WestBridge Capital",
+   "url": "http://leadsquared.com/news/leadsquared-joins-the-unicorn-club-with-153-million-funding-from-westbridge-capital"
+  },
+  {
+   "claim_supported": "FY25 op revenue 326Cr; loss 89Cr; expenses",
+   "fields_supported": [
+    "financials"
+   ],
+   "publication_date": "2025-10-14",
+   "publisher": "Entrackr",
+   "retrieved_date": "2026-09-14",
+   "tier": "T3",
+   "title": "LeadSquared trims losses by 45% in FY25",
+   "url": "https://entrackr.com/fintrackr/leadsquared-trims-losses-by-45-in-fy25-growth-remains-modest-10561373"
+  },
+  {
+   "claim_supported": "FY25 loss decline; total income",
+   "fields_supported": [
+    "financials"
+   ],
+   "publication_date": "2025-10-17",
+   "publisher": "Inc42",
+   "retrieved_date": "2026-09-14",
+   "tier": "T3",
+   "title": "LeadSquared FY25 Net Loss Declines 45% YoY To INR 89 Cr",
+   "url": "http://inc42.com/buzz/leadsquared-fy25-net-loss-declines-45-yoy-to-inr-89-cr"
+  },
+  {
+   "claim_supported": "unicorn; investors; FY22 income",
+   "fields_supported": [
+    "funding_rounds",
+    "investor_links"
+   ],
+   "publication_date": "2022-06-21",
+   "publisher": "VCCircle",
+   "retrieved_date": "2026-09-14",
+   "tier": "T3",
+   "title": "LeadSquared turns unicorn with $153 mn fundraise",
+   "url": "https://www.vccircle.com/leadsquared-turns-unicorn-with-153-mn-fundraise-from-westbridge-capital"
+  },
+  {
+   "url": "https://www.leadsquared.com/news/leadsquared-joins-the-unicorn-club-with-153-million-funding-from-westbridge-capital/",
+   "title": "",
+   "fields": "FUNDING",
+   "confidence": "HIGH"
+  },
+  {
+   "url": "https://www.zaubacorp.com/MARKETXPANDER-SERVICES-PRIVATE-LIMITED-U74140KA2011PTC059300",
+   "title": "MARKETXPANDER SERVICES PRIVATE LIMITED - ZaubaCorp",
+   "fields": [
+    "cin",
+    "incorporation_date"
+   ],
+   "confidence": "HIGH"
+  },
+  {
+   "url": "https://www.instafinancials.com/company/marketxpander-services-private-limited-U74140KA2011PTC059300/company-overview",
+   "title": "MARKETXPANDER SERVICES PRIVATE LIMITED - InstaFinancials",
+   "fields": [
+    "incorporation_date"
+   ],
+   "confidence": "HIGH"
+  },
+  {
+   "url": "http://leadsquared.com/crm-software",
+   "title": "LeadSquared sales execution + marketing automation + field-force platform",
+   "fields": "quarantine-resolved",
+   "confidence": "HIGH"
+  },
+  {
+   "url": "https://www.linkedin.com/in/nilesh-patel-067227",
+   "title": "Nilesh Patel - Mountain View, California, United States - LinkedIn",
+   "tier": "T2",
+   "claim": "founder status Nilesh Patel"
+  },
+  {
+   "url": "https://www.leadsquared.com/team/",
+   "title": "Management Team At LeadSquared",
+   "tier": "T2",
+   "claim": "founder status Prashant Singh"
+  },
+  {
+   "url": "https://www.linkedin.com/posts/sudhakar_earlier-this-year-i-concluded-an-incredible-activity-7099712157705019392-9Q94",
+   "title": "Sudhakar Gorti's Post - LinkedIn",
+   "tier": "T2",
+   "claim": "founder status Sudhakar Gorti"
+  },
+  {
+   "url": "https://www.forbesindia.com/article/take-one-big-story-of-the-day/square-peg-in-a-round-hole-meet-leadsquared-indias-first-unicorn-without-vc-money/77473/1",
+   "publisher": "Forbes India",
+   "tier": "T2",
+   "publication_date": "2022-06-21",
+   "retrieved_date": "2026-09-15",
+   "confidence": "HIGH",
+   "fields_supported": [
+    "founders",
+    "revenue_history",
+    "customers",
+    "education",
+    "prior_companies",
+    "funding_history"
+   ]
+  },
+  {
+   "url": "https://www.fortuneindia.com/enterprise/saas-platform-leadsquared-raises-153-mn-enters-unicorn-club/108673",
+   "publisher": "Fortune India",
+   "tier": "T2",
+   "publication_date": "2022-06-22",
+   "retrieved_date": "2026-09-15",
+   "confidence": "HIGH",
+   "fields_supported": [
+    "customers",
+    "products",
+    "countries",
+    "employees",
+    "funding_rounds"
+   ]
+  },
+  {
+   "url": "https://inc42.com/buzz/leadsquared-fy25-net-loss-declines-45-yoy-to-inr-89-cr",
+   "publisher": "Inc42",
+   "tier": "T3",
+   "publication_date": "2025-10-17",
+   "retrieved_date": "2026-09-14",
+   "confidence": "HIGH",
+   "fields_supported": [
+    "financials_FY25",
+    "expenses_breakdown",
+    "customers_count",
+    "competitors"
+   ]
+  },
+  {
+   "url": "https://tracxn.com/d/companies/leadsquared/__GhwqUB8i0uV81NMtpyVUTF8KIXJ_IRM91A5DkSdKXQA/latest-shareholding",
+   "publisher": "Tracxn",
+   "tier": "T3",
+   "publication_date": "2026-09-13",
+   "retrieved_date": "2026-09-15",
+   "confidence": "HIGH",
+   "fields_supported": [
+    "cap_table",
+    "funding_rounds",
+    "shareholding",
+    "valuation"
+   ]
+  },
+  {
+   "url": "https://inc42.com/company/leadsquared/captable/",
+   "publisher": "Inc42 Datalabs",
+   "tier": "T3",
+   "publication_date": "2026-09-15",
+   "retrieved_date": "2026-09-15",
+   "confidence": "MEDIUM",
+   "fields_supported": [
+    "employee_count",
+    "shareholding",
+    "funding_total"
+   ]
+  },
+  {
+   "url": "https://getlatka.com/companies/leadsquared",
+   "publisher": "GetLatka",
+   "tier": "T3",
+   "publication_date": "2026-09-15",
+   "retrieved_date": "2026-09-15",
+   "confidence": "LOW",
+   "fields_supported": [
+    "arr_estimate",
+    "employee_count",
+    "customer_count"
+   ]
+  },
+  {
+   "url": "https://www.business-standard.com/content/press-releases-ani/pepper-india-resolution-appoints-leadsquared-to-digitize-their-debt-recovery-process-120093000477_1.html",
+   "publisher": "Business Standard",
+   "tier": "T3",
+   "publication_date": "2020-09-30",
+   "retrieved_date": "2026-09-15",
+   "confidence": "MEDIUM",
+   "fields_supported": [
+    "customers"
+   ]
+  }
+ ],
+ "startup_id": "leadsquared",
+ "traction": [
+  {
+   "as_of": "2022-06",
+   "company_reported": true,
+   "confidence": "MEDIUM",
+   "metric": "customers",
+   "period": "2022-06",
+   "source_url": "http://leadsquared.com/news/leadsquared-joins-the-unicorn-club-with-153-million-funding-from-westbridge-capital",
+   "value": "2000+ customers (company claim)"
+  },
+  {
+   "metric": "customers",
+   "value": 2000,
+   "unit": "count",
+   "period": "2022-06",
+   "as_of": "2022-06-21",
+   "company_reported": true,
+   "source_url": "http://leadsquared.com/news/leadsquared-joins-the-unicorn-club-with-153-million-funding-from-westbridge-capital",
+   "confidence": "MEDIUM",
+   "notes": "Company claimed 2000+ customers at Series C; includes edtech, higher ed, financial services, healthcare, marketplaces"
+  },
+  {
+   "metric": "customers",
+   "value": 1800,
+   "unit": "count",
+   "period": "FY25",
+   "as_of": "2025-03-31",
+   "company_reported": true,
+   "source_url": "https://inc42.com/buzz/leadsquared-fy25-net-loss-declines-45-yoy-to-inr-89-cr",
+   "confidence": "MEDIUM",
+   "notes": "Inc42 reports 1800+ clients across industries and geographies; India and US strongest markets"
+  },
+  {
+   "metric": "customers",
+   "value": 1000,
+   "unit": "count",
+   "period": "2024",
+   "as_of": "2024-12-31",
+   "company_reported": false,
+   "source_url": "https://getlatka.com/companies/leadsquared",
+   "confidence": "LOW",
+   "notes": "GetLatka estimates 1K customers; likely different counting methodology"
+  },
+  {
+   "metric": "countries",
+   "value": 6,
+   "unit": "count",
+   "period": "2022-06",
+   "as_of": "2022-06-21",
+   "company_reported": true,
+   "source_url": "https://www.fortuneindia.com/enterprise/saas-platform-leadsquared-raises-153-mn-enters-unicorn-club/108673",
+   "confidence": "HIGH",
+   "notes": "India, US, Philippines, South Africa, Australia, Indonesia"
+  },
+  {
+   "metric": "revenue_from_india",
+   "value": 90,
+   "unit": "percent",
+   "period": "FY22",
+   "as_of": "2022-03-31",
+   "company_reported": true,
+   "source_url": "https://www.forbesindia.com/article/take-one-big-story-of-the-day/square-peg-in-a-round-hole-meet-leadsquared-indias-first-unicorn-without-vc-money/77473/1",
+   "confidence": "MEDIUM",
+   "notes": "90% of revenue from India even in FY22"
+  },
+  {
+   "metric": "employee_count",
+   "value": 1200,
+   "unit": "count",
+   "period": "2022-06",
+   "as_of": "2022-06-21",
+   "company_reported": true,
+   "source_url": "https://www.fortuneindia.com/enterprise/saas-platform-leadsquared-raises-153-mn-enters-unicorn-club/108673",
+   "confidence": "MEDIUM",
+   "notes": "Team of over 1,200 employees at Series C"
+  },
+  {
+   "metric": "employee_count",
+   "value": 1300,
+   "unit": "count",
+   "period": "2024-12",
+   "as_of": "2024-12-31",
+   "company_reported": false,
+   "source_url": "https://getlatka.com/companies/leadsquared",
+   "confidence": "LOW",
+   "notes": "GetLatka reports 1.3K employees Dec 2024"
+  },
+  {
+   "metric": "employee_count",
+   "value": 1063,
+   "unit": "count",
+   "period": "2026-06",
+   "as_of": "2026-06-30",
+   "company_reported": false,
+   "source_url": "https://inc42.com/company/leadsquared/captable/",
+   "confidence": "MEDIUM",
+   "notes": "Inc42 reports 1,063 employees, down 3.36% in last 90 days"
+  }
+ ],
+ "_merged_session2": true,
+ "people": [
+  {
+   "name": "Nilesh Patel",
+   "role": "Co-founder & CEO",
+   "title": "Chief Executive Officer",
+   "current": true,
+   "since": "2011",
+   "prior_role": "Sold Proteans to Symphony Teleca Corporation in 2010; worked at IBM for 4 years till 2002",
+   "education": "Instrumentation Engineering, Delhi Institute of Technology, Delhi University",
+   "source_url": "https://www.forbesindia.com/article/take-one-big-story-of-the-day/square-peg-in-a-round-hole-meet-leadsquared-indias-first-unicorn-without-vc-money/77473/1",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Prashant Singh",
+   "role": "Co-founder & COO",
+   "title": "Chief Operating Officer",
+   "current": true,
+   "since": "2011",
+   "prior_role": "Unknown",
+   "education": "Unknown",
+   "source_url": "https://inc42.com/company/leadsquared",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Sudhakar Gorti",
+   "role": "Co-founder",
+   "title": "Former Co-founder",
+   "current": false,
+   "since": "2011",
+   "end_date": "2023",
+   "prior_role": "Unknown",
+   "education": "Unknown",
+   "source_url": "https://inc42.com/company/leadsquared",
+   "confidence": "HIGH",
+   "notes": "Left in 2023 and founded Astuto"
+  },
+  {
+   "name": "Sukhbir Kalsi",
+   "role": "Co-founder (disputed)",
+   "title": "Unknown",
+   "current": false,
+   "since": "2011",
+   "end_date": "unknown",
+   "prior_role": "Unknown",
+   "education": "Unknown",
+   "source_url": "https://www.forbesindia.com/article/take-one-big-story-of-the-day/square-peg-in-a-round-hole-meet-leadsquared-indias-first-unicorn-without-vc-money/77473/1",
+   "confidence": "LOW",
+   "notes": "Forbes India mentions as 4th person in 2011 founding alongside Patel, Gorti, Singh; NOT in Tracxn cap table; likely early employee or advisor"
+  }
+ ]
+}

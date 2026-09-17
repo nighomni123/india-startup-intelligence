@@ -1,0 +1,3537 @@
+{
+ "company": {
+  "business_model": "marketplace / SaaS hiring platform",
+  "city": "Bengaluru",
+  "customer_type": "B2B2C (employers + blue/grey-collar job seekers)",
+  "dpiit": "",
+  "employee_estimate": "1605 (PitchBook profile; UNVERIFIED)",
+  "founded_date": "2019",
+  "legal_name": "UNKNOWN",
+  "parent/subsidiary": "",
+  "primary_sector": "hr-tech/jobs",
+  "public_private": "private",
+  "startup_stage": "Series C / unicorn",
+  "status": "active",
+  "website": "apna.co",
+  "cin": "U74999HR2019PTC137533",
+  "incorporation_date": "2019-05-09",
+  "registered_state_note": "HR code = Haryana (Gurugram); matches NCR ops. ZaubaCorp shows conflicting U74999MH2019PTC325170 (MH) record at https://www.zaubacorp.com/APNATIME-TECH-PRIVATE-LIMITED-U74999MH2019PTC325170 — possible sister entity, unverified.",
+  "official_website": {
+   "v": "https://apna.co",
+   "conf": "high",
+   "src": "https://apna.co",
+   "note": "verified live 2026-09-15: name match on own homepage"
+  },
+  "careers_website": {
+   "v": "https://apna.co/jobs",
+   "conf": "high",
+   "src": "https://apna.co",
+   "note": "careers link found on official homepage, probed live"
+  },
+  "state": {
+   "v": "Karnataka",
+   "conf": "MEDIUM",
+   "src": "https://tracxn.com/d/companies/apna/__UTcOz_R9Flutxq8RerYdtrlPxtxnXQAjcBTiXLgJon4",
+   "note": "Bengaluru is in Karnataka; registered office in Haryana",
+   "asof": "2026-09-15"
+  },
+  "country": {
+   "v": "India",
+   "conf": "HIGH",
+   "src": "https://apna.co",
+   "note": "Indian company",
+   "asof": "2026-09-15"
+  },
+  "description": {
+   "v": "AI-powered professional networking and job search platform connecting blue/grey-collar job seekers with employers. Operates three verticals: Apna.co (jobs marketplace), BlueMachines.ai (enterprise voice AI), and Education.",
+   "conf": "HIGH",
+   "src": "https://tracxn.com/d/companies/apna/__UTcOz_R9Flutxq8RerYdtrlPxtxnXQAjcBTiXLgJon4",
+   "note": "Tracxn description + Fortune India",
+   "asof": "2026-09-15"
+  },
+  "hq_type": {
+   "v": "operating",
+   "conf": "HIGH",
+   "src": "https://tracxn.com/d/companies/apna/__UTcOz_R9Flutxq8RerYdtrlPxtxnXQAjcBTiXLgJon4",
+   "note": "HQ in Bengaluru; registered office in Gurugram, Haryana",
+   "asof": "2026-09-15"
+  },
+  "registered_office": {
+   "v": "Innov8 Orchid Centre, 3rd Floor, Orchid Center, Golf Course Road, Sector 53, DLF QE, Gurgaon, Haryana, India, 122002",
+   "conf": "HIGH",
+   "src": "https://tracxn.com/d/companies/apna/__UTcOz_R9Flutxq8RerYdtrlPxtxnXQAjcBTiXLgJon4",
+   "note": "Tracxn lists registered address; Tofler shows Andheri E Mumbai as current registered address per MCA",
+   "asof": "2026-09-15"
+  }
+ },
+ "completeness_self": {
+  "financials": 5,
+  "founders": 6,
+  "funding": 7,
+  "identity": 6,
+  "investors": 7,
+  "legal": 0,
+  "overall": "low-medium; lite enrichment"
+ },
+ "conflicts": [
+  {
+   "field": "legal_name",
+   "claim_a": "UNKNOWN",
+   "url_a": "",
+   "claim_b": "Apnatime Tech Private Limited",
+   "url_b": "",
+   "resolution": "phase3 p3 payload disagrees with existing value; existing kept as preferred pending human review",
+   "resolved_value": "",
+   "reviewed": "p3-merge"
+  },
+  {
+   "field": "business_model",
+   "claim_a": "marketplace / SaaS hiring platform",
+   "url_a": "",
+   "claim_b": "marketplace / SaaS hiring platform + enterprise Voice AI",
+   "url_b": "",
+   "resolution": "phase3 p3 payload disagrees with existing value; existing kept as preferred pending human review",
+   "resolved_value": "",
+   "reviewed": "p3-merge"
+  },
+  {
+   "field": "employee_estimate",
+   "claim_a": "1605 (PitchBook profile; UNVERIFIED)",
+   "url_a": "",
+   "claim_b": "745",
+   "url_b": "",
+   "resolution": "phase3 p3 payload disagrees with existing value; existing kept as preferred pending human review",
+   "resolved_value": "",
+   "reviewed": "p3-merge"
+  },
+  {
+   "field": "ceo_identity",
+   "claim_a": "Nirmit Parikh is CEO (Tracxn, ET ETHRWorld Oct 2025)",
+   "url_a": "https://tracxn.com/d/companies/apna/__UTcOz_R9Flutxq8RerYdtrlPxtxnXQAjcBTiXLgJon4",
+   "claim_b": "Kartik Narayan is CEO (Hindu BusinessLine Jun 2026)",
+   "url_b": "https://www.thehindubusinessline.com/info-tech/apna-eyes-150-crore-revenue-from-ai-led-push-for-indias-300-million-blue-collar-workers/article71072753.ece",
+   "resolution": "Nirmit Parikh is Founder and Group CEO; Kartik Narayan is CEO of the Jobs Marketplace vertical (appointed Oct 2025), reporting to Nirmit Parikh",
+   "resolved_value": "Nirmit Parikh = Founder & Group CEO; Kartik Narayan = CEO, Jobs Marketplace vertical"
+  },
+  {
+   "field": "registered_office_address",
+   "claim_a": "G-28 Quest Coworks, Andheri E, Mumbai (Tofler/MCA)",
+   "url_a": "https://www.tofler.in/apnatime-tech-private-limited/company/U74999HR2019PTC137533",
+   "claim_b": "Innov8 Orchid Centre, Gurgaon, Haryana (Tracxn)",
+   "url_b": "https://tracxn.com/d/companies/apna/__UTcOz_R9Flutxq8RerYdtrlPxtxnXQAjcBTiXLgJon4",
+   "resolution": "Tofler shows current MCA-registered address in Mumbai; Tracxn shows Gurgaon as registered address. MCA filings may have been updated. Both are registered office addresses at different points.",
+   "resolved_value": "Current MCA registered address: Mumbai (Andheri E); previous/alternative registered address: Gurugram, Haryana"
+  },
+  {
+   "field": "employee_count",
+   "claim_a": "1605 (PitchBook profile)",
+   "url_a": "https://pitchbook.com/profiles/company/277313-68",
+   "claim_b": "745 (Tracxn, Aug 2025)",
+   "url_b": "https://tracxn.com/d/companies/apna/__UTcOz_R9Flutxq8RerYdtrlPxtxnXQAjcBTiXLgJon4",
+   "resolution": "Tracxn figure (745) is more recent and from a more specific source; PitchBook figure (1605) is unverified and may include contractors or be outdated",
+   "resolved_value": "745 as of Aug 2025 (Tracxn); 1605 from PitchBook (unverified)"
+  },
+  {
+   "field": "revenue_range",
+   "claim_a": "INR 100-150 Cr (Tofler key metrics)",
+   "url_a": "https://www.tofler.in/apnatime-tech-private-limited/company/U74999HR2019PTC137533",
+   "claim_b": "INR 122 Cr (Inc42, FY25 operating revenue)",
+   "url_b": "https://inc42.com/buzz/apna-narrows-fy25-loss-to-inr-50-cr-even-as-revenue-dips/",
+   "resolution": "Tofler range is approximate; Inc42 figure is specific FY25 operating revenue. Not a true conflict - Tofler range encompasses the Inc42 figure.",
+   "resolved_value": "FY25 operating revenue = INR 122 Cr (Inc42); Tofler range INR 100-150 Cr is consistent"
+  }
+ ],
+ "events": [
+  {
+   "type": "funding",
+   "headline": "Seed round raised",
+   "date": "2019-07-01",
+   "description": "Apna raised $3M seed round from Greenoaks and Lightspeed",
+   "source_url": "https://tracxn.com/d/companies/apna/__UTcOz_R9Flutxq8RerYdtrlPxtxnXQAjcBTiXLgJon4",
+   "confidence": "MEDIUM"
+  },
+  {
+   "type": "funding",
+   "headline": "Series A raised",
+   "date": "2021-03-02",
+   "description": "Apna raised $12.5M Series A led by Greenoaks and Peak XV Partners",
+   "source_url": "https://tracxn.com/d/companies/apna/__UTcOz_R9Flutxq8RerYdtrlPxtxnXQAjcBTiXLgJon4",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "funding",
+   "headline": "Series B raised",
+   "date": "2021-06-15",
+   "description": "Apna raised $70M Series B led by Tiger Global and Insight Partners at $570M valuation",
+   "source_url": "https://tracxn.com/d/companies/apna/__UTcOz_R9Flutxq8RerYdtrlPxtxnXQAjcBTiXLgJon4",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "funding",
+   "headline": "Series C raised - unicorn status",
+   "date": "2021-09-15",
+   "description": "Apna raised $100M Series C led by Tiger Global at $1.1B valuation, becoming India's fastest unicorn",
+   "source_url": "https://tracxn.com/d/companies/apna/__UTcOz_R9Flutxq8RerYdtrlPxtxnXQAjcBTiXLgJon4",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "partnership",
+   "headline": "AICTE MoU signed",
+   "date": "2024-02-28",
+   "description": "AICTE signed MoU with apna.co for AICTE Career Portal SWAYAM Plus",
+   "source_url": "https://education.economictimes.indiatimes.com/news/higher-education/aicte-signs-mou-with-jobs-and-networking-platform-apna-co/108071721",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "partnership",
+   "headline": "DPIIT pact signed",
+   "date": "2025-01-21",
+   "description": "DPIIT signed pact with Apna to boost employment in startup ecosystem",
+   "source_url": "https://tracxn.com/d/companies/apna/__UTcOz_R9Flutxq8RerYdtrlPxtxnXQAjcBTiXLgJon4",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "partnership",
+   "headline": "Labour Ministry MoU signed",
+   "date": "2025-02-19",
+   "description": "Union Labour Ministry signed MoU with Apna to bring 10+ lakh job opportunities annually to NCS portal",
+   "source_url": "https://tracxn.com/d/companies/apna/__UTcOz_R9Flutxq8RerYdtrlPxtxnXQAjcBTiXLgJon4",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "product_launch",
+   "headline": "AI Job Prep launched",
+   "date": "2025-06-12",
+   "description": "Apna.co launched AI Job Prep; clocked 39 lakh minutes across 7.6 lakh AI interviews",
+   "source_url": "https://tracxn.com/d/companies/apna/__UTcOz_R9Flutxq8RerYdtrlPxtxnXQAjcBTiXLgJon4",
+   "confidence": "MEDIUM"
+  },
+  {
+   "type": "product_launch",
+   "headline": "AI Calling Agent launched",
+   "date": "2025-08-08",
+   "description": "Apna.co launched multilingual AI Calling Agent, cutting hiring time by 50%",
+   "source_url": "https://tracxn.com/d/companies/apna/__UTcOz_R9Flutxq8RerYdtrlPxtxnXQAjcBTiXLgJon4",
+   "confidence": "MEDIUM"
+  },
+  {
+   "type": "product_launch",
+   "headline": "Apna Safety system launched",
+   "date": "2025-09",
+   "description": "AI-powered recruiter verification system; 146,000+ recruiters verified, 45% reduction in fraud exposure",
+   "source_url": "https://www.fortuneindia.com/business-news/unicorn-startup-apna-bets-big-on-voice-ai-with-blue-machines-to-speed-up-enterprise-deployments/127523",
+   "confidence": "MEDIUM"
+  },
+  {
+   "type": "product_launch",
+   "headline": "BlueMachines.ai launched",
+   "date": "2025-10-14",
+   "description": "Apna.co expanded into enterprise Voice AI with BlueMachines.ai; signed $6M in enterprise contracts within 45 days",
+   "source_url": "https://entrackr.com/snippets/apnaco-expands-into-voice-ai-with-bluemachinesai-sees-fast-enterprise-ai-adoption-10561621",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "leadership",
+   "headline": "Kartik Narayan appointed CEO - Jobs Marketplace",
+   "date": "2025-10-24",
+   "description": "Former TeamLease Staffing CEO Kartik Narayan joined Apna Group as CEO of Jobs Marketplace vertical, reporting to Nirmit Parikh",
+   "source_url": "https://hr.economictimes.indiatimes.com/news/industry/apna-appoints-kartik-narayan-as-ceo-of-jobs-marketplace/124783976",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "leadership",
+   "headline": "John Philip appointed CBO - BlueMachines.ai",
+   "date": "2025-11",
+   "description": "Industry veteran John Philip appointed Chief Business Officer for BlueMachines.ai",
+   "source_url": "https://www.peoplematters.in/news/appointments/apna-appoints-john-philip-as-chief-business-officer-for-its-ai-platform-bluemachinesai-47318",
+   "confidence": "MEDIUM"
+  },
+  {
+   "type": "financial",
+   "headline": "FY25 results reported",
+   "date": "2025-10-24",
+   "description": "Apna narrowed FY25 net loss by 2.3% to INR 50.1 Cr; operating revenue declined 4% to INR 122 Cr",
+   "source_url": "https://inc42.com/buzz/apna-narrows-fy25-loss-to-inr-50-cr-even-as-revenue-dips/",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "financial",
+   "headline": "Core business grew 52% YoY",
+   "date": "2025-12-31",
+   "description": "Apna's core business grew 52% year-over-year in 2025",
+   "source_url": "https://www.fortuneindia.com/business-news/unicorn-startup-apna-bets-big-on-voice-ai-with-blue-machines-to-speed-up-enterprise-deployments/127523",
+   "confidence": "MEDIUM"
+  },
+  {
+   "type": "milestone",
+   "headline": "1.81 Cr job applications in Q1 2025",
+   "date": "2025-03-31",
+   "description": "Apna facilitated roughly 1.81 Cr job applications in Q1 2025, a 30% YoY jump",
+   "source_url": "https://inc42.com/buzz/apna-narrows-fy25-loss-to-inr-50-cr-even-as-revenue-dips/",
+   "confidence": "HIGH"
+  }
+ ],
+ "financials": [
+  {
+   "fiscal_year": "FY25",
+   "metric": "operating revenue",
+   "source_title": "Apna Narrows FY25 Loss To INR 50 Cr Even As Revenue Dips",
+   "source_url": "https://inc42.com/buzz/apna-narrows-fy25-loss-to-inr-50-cr-even-as-revenue-dips/",
+   "value": "122 crore",
+   "value_type": "press-quoted-filing"
+  },
+  {
+   "fiscal_year": "FY25",
+   "metric": "net loss",
+   "source_title": "Apna Narrows FY25 Loss To INR 50 Cr Even As Revenue Dips",
+   "source_url": "https://inc42.com/buzz/apna-narrows-fy25-loss-to-inr-50-cr-even-as-revenue-dips/",
+   "value": "-50.1 crore",
+   "value_type": "press-quoted-filing"
+  },
+  {
+   "fiscal_year": "FY25",
+   "metric": "operating_revenue",
+   "value": 122,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "press-quoted-filing",
+   "basis": "consolidated",
+   "consolidated": "yes",
+   "filing_date": "2025-10-24",
+   "source_url": "https://inc42.com/buzz/apna-narrows-fy25-loss-to-inr-50-cr-even-as-revenue-dips/",
+   "source_title": "Apna Narrows FY25 Loss To INR 50 Cr Even As Revenue Dips",
+   "confidence": "HIGH",
+   "notes": "Down 4% from INR 127.7 Cr in FY24"
+  },
+  {
+   "fiscal_year": "FY25",
+   "metric": "net_loss",
+   "value": 50.1,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "press-quoted-filing",
+   "basis": "consolidated",
+   "consolidated": "yes",
+   "filing_date": "2025-10-24",
+   "source_url": "https://inc42.com/buzz/apna-narrows-fy25-loss-to-inr-50-cr-even-as-revenue-dips/",
+   "source_title": "Apna Narrows FY25 Loss To INR 50 Cr Even As Revenue Dips",
+   "confidence": "HIGH",
+   "notes": "Down 2.3% from INR 51.3 Cr in FY24"
+  },
+  {
+   "fiscal_year": "FY25",
+   "metric": "revenue_recruitment_solutions",
+   "value": 57.1,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "press-quoted-filing",
+   "basis": "consolidated",
+   "consolidated": "yes",
+   "filing_date": "2025-10-24",
+   "source_url": "https://inc42.com/buzz/apna-narrows-fy25-loss-to-inr-50-cr-even-as-revenue-dips/",
+   "source_title": "Apna Narrows FY25 Loss To INR 50 Cr Even As Revenue Dips",
+   "confidence": "HIGH",
+   "notes": "Up 61% from INR 35.5 Cr in FY24"
+  },
+  {
+   "fiscal_year": "FY25",
+   "metric": "revenue_software_dev_support",
+   "value": 63,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "press-quoted-filing",
+   "basis": "consolidated",
+   "consolidated": "yes",
+   "filing_date": "2025-10-24",
+   "source_url": "https://inc42.com/buzz/apna-narrows-fy25-loss-to-inr-50-cr-even-as-revenue-dips/",
+   "source_title": "Apna Narrows FY25 Loss To INR 50 Cr Even As Revenue Dips",
+   "confidence": "HIGH",
+   "notes": "Down 31% from INR 91.5 Cr in FY24"
+  },
+  {
+   "fiscal_year": "FY25",
+   "metric": "total_expenses",
+   "value": 194,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "press-quoted-filing",
+   "basis": "consolidated",
+   "consolidated": "yes",
+   "filing_date": "2025-10-24",
+   "source_url": "https://inc42.com/buzz/apna-narrows-fy25-loss-to-inr-50-cr-even-as-revenue-dips/",
+   "source_title": "Apna Narrows FY25 Loss To INR 50 Cr Even As Revenue Dips",
+   "confidence": "HIGH",
+   "notes": "Up 2% from INR 191 Cr in FY24"
+  },
+  {
+   "fiscal_year": "FY24",
+   "metric": "operating_revenue",
+   "value": 127.7,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "press-quoted-filing",
+   "basis": "consolidated",
+   "consolidated": "yes",
+   "source_url": "https://inc42.com/buzz/apna-narrows-fy25-loss-to-inr-50-cr-even-as-revenue-dips/",
+   "source_title": "Apna Narrows FY25 Loss To INR 50 Cr Even As Revenue Dips",
+   "confidence": "HIGH",
+   "notes": "Prior year comparison"
+  },
+  {
+   "fiscal_year": "FY24",
+   "metric": "net_loss",
+   "value": 51.3,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "press-quoted-filing",
+   "basis": "consolidated",
+   "consolidated": "yes",
+   "source_url": "https://inc42.com/buzz/apna-narrows-fy25-loss-to-inr-50-cr-even-as-revenue-dips/",
+   "source_title": "Apna Narrows FY25 Loss To INR 50 Cr Even As Revenue Dips",
+   "confidence": "HIGH",
+   "notes": "Prior year comparison"
+  },
+  {
+   "fiscal_year": "FY25",
+   "metric": "employee_benefit_expenses",
+   "value": 177.3,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "press-quoted-filing",
+   "basis": "consolidated",
+   "consolidated": "yes",
+   "filing_date": "2025-10-24",
+   "source_url": "https://inc42.com/buzz/apna-narrows-fy25-loss-to-inr-50-cr-even-as-revenue-dips/",
+   "source_title": "Apna Narrows FY25 Loss To INR 50 Cr Even As Revenue Dips",
+   "confidence": "HIGH",
+   "notes": "Down 5% from INR 123 Cr in FY24 (per Inc42 text)"
+  },
+  {
+   "fiscal_year": "FY25",
+   "metric": "net_worth_change",
+   "value": -37.45,
+   "unit": "percent",
+   "currency": "INR",
+   "value_type": "press-quoted-filing",
+   "source_url": "https://www.tofler.in/apnatime-tech-private-limited/company/U74999HR2019PTC137533",
+   "source_title": "Apnatime Tech Financials | Tofler",
+   "confidence": "MEDIUM",
+   "notes": "Tofler reports networth decreased by 37.45%"
+  },
+  {
+   "fiscal_year": "FY25",
+   "metric": "revenue_range",
+   "value": 100,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "press-quoted-filing",
+   "source_url": "https://www.tofler.in/apnatime-tech-private-limited/company/U74999HR2019PTC137533",
+   "source_title": "Apnatime Tech Financials | Tofler",
+   "confidence": "MEDIUM",
+   "notes": "Tofler revenue range INR 100-500 Cr for FY ending Mar 2024; INR 100-150 Cr per key metrics"
+  },
+  {
+   "fiscal_year": "FY27",
+   "metric": "revenue_target",
+   "value": 150,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "management",
+   "source_url": "https://www.thehindubusinessline.com/info-tech/apna-eyes-150-crore-revenue-from-ai-led-push-for-indias-300-million-blue-collar-workers/article71072753.ece",
+   "source_title": "Apna eyes Rs 150 crore revenue from AI-led push",
+   "confidence": "MEDIUM",
+   "notes": "Management guidance; AI-driven expansion target"
+  }
+ ],
+ "founders": [
+  {
+   "name": "Nirmit Parikh",
+   "role": "CEO / Founder",
+   "source_url": "https://tracxn.com/d/companies/apna/__UTcOz_R9Flutxq8RerYdtrlPxtxnXQAjcBTiXLgJon4"
+  },
+  {
+   "name": "Aryan Kenchin",
+   "role": "Co-founder",
+   "source_url": "https://tracxn.com/d/companies/apna/__UTcOz_R9Flutxq8RerYdtrlPxtxnXQAjcBTiXLgJon4"
+  },
+  {
+   "name": "Nirmit Parikh",
+   "role": "Founder & Group CEO",
+   "background": "Founded Apna in 2019; also founder of Blue Machines and Cruxbot; angel investor in 1 startup; serves on boards of 2 companies",
+   "education": "",
+   "still_active": true,
+   "source_url": "https://tracxn.com/d/companies/apna/__UTcOz_R9Flutxq8RerYdtrlPxtxnXQAjcBTiXLgJon4",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Aryan Kenchin",
+   "role": "Former Co-Founder",
+   "background": "Co-founded Apna in 2019; listed as Former Co-Founder on Tracxn",
+   "education": "",
+   "still_active": false,
+   "source_url": "https://tracxn.com/d/companies/apna/__UTcOz_R9Flutxq8RerYdtrlPxtxnXQAjcBTiXLgJon4",
+   "confidence": "HIGH"
+  }
+ ],
+ "funding_rounds": [
+  {
+   "amount": "100M",
+   "announced_date": "Sep 2021",
+   "currency": "USD",
+   "leads": [
+    "Tiger Global"
+   ],
+   "round_type": "Series C",
+   "source_url": "https://tracxn.com/d/companies/apna/__UTcOz_R9Flutxq8RerYdtrlPxtxnXQAjcBTiXLgJon4",
+   "announcement_date": "2021-09-16",
+   "valuation": "1100000000",
+   "valuation_currency": "USD",
+   "valuation_type": "post-money",
+   "new_or_existing": "new + existing (Owl, Insight, Sequoia, Maverick)",
+   "purpose": "product, hiring, expansion"
+  },
+  {
+   "amount": "70M",
+   "announced_date": "Jun 2021",
+   "currency": "USD",
+   "leads": [
+    "Tiger Global",
+    "Insight Partners"
+   ],
+   "round_type": "Series B",
+   "source_url": "https://tracxn.com/d/companies/apna/__UTcOz_R9Flutxq8RerYdtrlPxtxnXQAjcBTiXLgJon4"
+  },
+  {
+   "amount": "12.5M",
+   "announced_date": "Mar 2021",
+   "currency": "USD",
+   "leads": [
+    "Greenoaks",
+    "Peak XV (Sequoia)"
+   ],
+   "round_type": "Series A",
+   "source_url": "https://tracxn.com/d/companies/apna/__UTcOz_R9Flutxq8RerYdtrlPxtxnXQAjcBTiXLgJon4"
+  },
+  {
+   "round_type": "Seed",
+   "announced_date": "2019-07-01",
+   "amount": 3,
+   "currency": "USD",
+   "lead_investors": [
+    "Greenoaks",
+    "Lightspeed"
+   ],
+   "all_investors": [
+    "Greenoaks",
+    "Lightspeed"
+   ],
+   "new_or_existing": "new",
+   "purpose": "early-stage product development",
+   "source_url": "https://tracxn.com/d/companies/apna/__UTcOz_R9Flutxq8RerYdtrlPxtxnXQAjcBTiXLgJon4",
+   "source_title": "Apna Tracxn Profile",
+   "source_date": "2026-09-12",
+   "confidence": "MEDIUM"
+  },
+  {
+   "round_type": "Series A",
+   "announced_date": "2021-03-02",
+   "amount": 12.5,
+   "currency": "USD",
+   "lead_investors": [
+    "Greenoaks",
+    "Peak XV Partners"
+   ],
+   "all_investors": [
+    "Greenoaks",
+    "Peak XV Partners",
+    "Rocketship",
+    "Lightspeed"
+   ],
+   "new_or_existing": "new + existing",
+   "purpose": "product, hiring, expansion",
+   "source_url": "https://tracxn.com/d/companies/apna/__UTcOz_R9Flutxq8RerYdtrlPxtxnXQAjcBTiXLgJon4",
+   "source_title": "Apna Tracxn Profile",
+   "source_date": "2026-09-12",
+   "confidence": "HIGH"
+  },
+  {
+   "round_type": "Series B",
+   "announced_date": "2021-06-15",
+   "amount": 70,
+   "currency": "USD",
+   "valuation": 570000000,
+   "valuation_currency": "USD",
+   "valuation_type": "post-money",
+   "lead_investors": [
+    "Tiger Global Management",
+    "Insight Partners"
+   ],
+   "all_investors": [
+    "Tiger Global Management",
+    "Insight Partners",
+    "Rocketship",
+    "Greenoaks",
+    "Peak XV Partners",
+    "Lightspeed"
+   ],
+   "new_or_existing": "new + existing",
+   "purpose": "scaling hiring platform",
+   "source_url": "https://tracxn.com/d/companies/apna/__UTcOz_R9Flutxq8RerYdtrlPxtxnXQAjcBTiXLgJon4",
+   "source_title": "Apna Tracxn Profile",
+   "source_date": "2026-09-12",
+   "confidence": "HIGH"
+  },
+  {
+   "round_type": "Series C",
+   "announced_date": "2021-09-15",
+   "amount": 100,
+   "currency": "USD",
+   "valuation": 1100000000,
+   "valuation_currency": "USD",
+   "valuation_type": "post-money",
+   "lead_investors": [
+    "Tiger Global Management"
+   ],
+   "all_investors": [
+    "Tiger Global Management",
+    "Owl Ventures",
+    "Insight Partners",
+    "Maverick Ventures",
+    "GSV Ventures",
+    "Peak XV Partners"
+   ],
+   "new_or_existing": "new + existing",
+   "purpose": "product, hiring, expansion",
+   "source_url": "https://tracxn.com/d/companies/apna/__UTcOz_R9Flutxq8RerYdtrlPxtxnXQAjcBTiXLgJon4",
+   "source_title": "Apna Tracxn Profile",
+   "source_date": "2026-09-12",
+   "confidence": "HIGH"
+  }
+ ],
+ "gaps": [
+  "legal name/CIN unverified",
+  "HQ nuance: Bengaluru ops but one profile lists Gurgaon registered address — unverified",
+  "FY26 revenue target 150cr is management guidance only",
+  "employee count from PitchBook unverified"
+ ],
+ "investor_links": [
+  {
+   "investor": "Tiger Global Management",
+   "source_url": "https://tracxn.com/d/companies/apna/__UTcOz_R9Flutxq8RerYdtrlPxtxnXQAjcBTiXLgJon4"
+  },
+  {
+   "investor": "Peak XV Partners",
+   "source_url": "https://tracxn.com/d/companies/apna/__UTcOz_R9Flutxq8RerYdtrlPxtxnXQAjcBTiXLgJon4"
+  },
+  {
+   "investor": "Insight Partners",
+   "source_url": "https://tracxn.com/d/companies/apna/__UTcOz_R9Flutxq8RerYdtrlPxtxnXQAjcBTiXLgJon4"
+  },
+  {
+   "investor": "Owl Ventures",
+   "source_url": "https://www.thehindubusinessline.com/info-tech/apna-eyes-150-crore-revenue-from-ai-led-push-for-indias-300-million-blue-collar-workers/article71072753.ece"
+  }
+ ],
+ "research_log": [
+  {
+   "found": "founders, rounds, valuation $1.1B, FY25 figures",
+   "query": "Apna jobs startup Bengaluru founders funding valuation 2025"
+  },
+  {
+   "date": "2026-09-14",
+   "found": "CIN U74999HR2019PTC137533, incorp 09 May 2019 (Tofler/Tracxn/InstaFinancials); conflicting ZaubaCorp MH record noted",
+   "query": "Apnatime Tech Private Limited CIN incorporation Tofler ZaubaCorp",
+   "unresolved": "FY25 filing revenue not probed (not in needs)"
+  },
+  {
+   "date": "2026-09-14",
+   "found": "Series C Sep 2021 $100M at $1.1B valuation, Tiger Global-led (Inc42/Moneycontrol/Livemint)",
+   "query": "Apna Series E valuation 2022 Tiger Owl Ventures",
+   "unresolved": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co legal entity CIN MCA Tofler",
+   "status": "done",
+   "found": "Apnatime Tech Private Limited, CIN U74999HR2019PTC137533, incorporated 09 May 2019, Haryana. Two directors: Vidyut Harivadan Parikh and Nirmit Vidyut Parikh. Registered address in Mumbai per MCA.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co founders Nirmit Parikh Aryan Kenchin Kartik Narayan",
+   "status": "done",
+   "found": "Nirmit Parikh = Founder & Group CEO; Aryan Kenchin = Former Co-Founder; Kartik Narayan = CEO Jobs Marketplace vertical (Oct 2025).",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co funding rounds complete history",
+   "status": "done",
+   "found": "5 rounds: Seed Jul 2019 ($3M), Series A Mar 2021 ($12.5M), Series B Jun 2021 ($70M), Series C Sep 2021 ($100M). Total $194M. No funding since 2021.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co AI pivot BlueMachines.ai products",
+   "status": "done",
+   "found": "BlueMachines.ai launched Oct 2025; $6M enterprise contracts in 45 days; AI Calling Agent Aug 2025; AI Job Prep Jun 2025; Apna Safety Sep 2025.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co FY25 financials MCA",
+   "status": "done",
+   "found": "Operating revenue INR 122 Cr, net loss INR 50.1 Cr, total expenses INR 194 Cr. Revenue from recruitment INR 57.1 Cr (up 61%), software dev INR 63 Cr (down 31%).",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co WorkIndia acquisition YC W21 Axio $27M",
+   "status": "logged-no-result",
+   "found": "No evidence found for WorkIndia acquisition, YC W21 participation, or Axio $27M round. These may refer to Apna Mart (separate grocery entity) or may be incorrect.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co layoffs 2024 2025",
+   "status": "logged-no-result",
+   "found": "No layoffs found for Apna.co (jobs platform). Apna Mart (separate grocery entity) laid off ~10% workforce in May 2026 per HR Katha.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co Srinivas B V founder Apurva",
+   "status": "logged-no-result",
+   "found": "No evidence of Srinivas B V or Apurva as founders. Only founders are Nirmit Parikh and Aryan Kenchin.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co legal entity CIN MCA Tofler",
+   "status": "done",
+   "found": "Apnatime Tech Private Limited, CIN U74999HR2019PTC137533, incorporated 09 May 2019, Haryana. Two directors: Vidyut Harivadan Parikh and Nirmit Vidyut Parikh. Registered address in Mumbai per MCA.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co founders Nirmit Parikh Aryan Kenchin Kartik Narayan",
+   "status": "done",
+   "found": "Nirmit Parikh = Founder & Group CEO; Aryan Kenchin = Former Co-Founder; Kartik Narayan = CEO Jobs Marketplace vertical (Oct 2025).",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co funding rounds complete history",
+   "status": "done",
+   "found": "5 rounds: Seed Jul 2019 ($3M), Series A Mar 2021 ($12.5M), Series B Jun 2021 ($70M), Series C Sep 2021 ($100M). Total $194M. No funding since 2021.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co AI pivot BlueMachines.ai products",
+   "status": "done",
+   "found": "BlueMachines.ai launched Oct 2025; $6M enterprise contracts in 45 days; AI Calling Agent Aug 2025; AI Job Prep Jun 2025; Apna Safety Sep 2025.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co FY25 financials MCA",
+   "status": "done",
+   "found": "Operating revenue INR 122 Cr, net loss INR 50.1 Cr, total expenses INR 194 Cr. Revenue from recruitment INR 57.1 Cr (up 61%), software dev INR 63 Cr (down 31%).",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co WorkIndia acquisition YC W21 Axio $27M",
+   "status": "logged-no-result",
+   "found": "No evidence found for WorkIndia acquisition, YC W21 participation, or Axio $27M round. These may refer to Apna Mart (separate grocery entity) or may be incorrect.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co layoffs 2024 2025",
+   "status": "logged-no-result",
+   "found": "No layoffs found for Apna.co (jobs platform). Apna Mart (separate grocery entity) laid off ~10% workforce in May 2026 per HR Katha.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co Srinivas B V founder Apurva",
+   "status": "logged-no-result",
+   "found": "No evidence of Srinivas B V or Apurva as founders. Only founders are Nirmit Parikh and Aryan Kenchin.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co legal entity CIN MCA Tofler",
+   "status": "done",
+   "found": "Apnatime Tech Private Limited, CIN U74999HR2019PTC137533, incorporated 09 May 2019, Haryana. Two directors: Vidyut Harivadan Parikh and Nirmit Vidyut Parikh. Registered address in Mumbai per MCA.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co founders Nirmit Parikh Aryan Kenchin Kartik Narayan",
+   "status": "done",
+   "found": "Nirmit Parikh = Founder & Group CEO; Aryan Kenchin = Former Co-Founder; Kartik Narayan = CEO Jobs Marketplace vertical (Oct 2025).",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co funding rounds complete history",
+   "status": "done",
+   "found": "5 rounds: Seed Jul 2019 ($3M), Series A Mar 2021 ($12.5M), Series B Jun 2021 ($70M), Series C Sep 2021 ($100M). Total $194M. No funding since 2021.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co AI pivot BlueMachines.ai products",
+   "status": "done",
+   "found": "BlueMachines.ai launched Oct 2025; $6M enterprise contracts in 45 days; AI Calling Agent Aug 2025; AI Job Prep Jun 2025; Apna Safety Sep 2025.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co FY25 financials MCA",
+   "status": "done",
+   "found": "Operating revenue INR 122 Cr, net loss INR 50.1 Cr, total expenses INR 194 Cr. Revenue from recruitment INR 57.1 Cr (up 61%), software dev INR 63 Cr (down 31%).",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co WorkIndia acquisition YC W21 Axio $27M",
+   "status": "logged-no-result",
+   "found": "No evidence found for WorkIndia acquisition, YC W21 participation, or Axio $27M round. These may refer to Apna Mart (separate grocery entity) or may be incorrect.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co layoffs 2024 2025",
+   "status": "logged-no-result",
+   "found": "No layoffs found for Apna.co (jobs platform). Apna Mart (separate grocery entity) laid off ~10% workforce in May 2026 per HR Katha.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co Srinivas B V founder Apurva",
+   "status": "logged-no-result",
+   "found": "No evidence of Srinivas B V or Apurva as founders. Only founders are Nirmit Parikh and Aryan Kenchin.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co legal entity CIN MCA Tofler",
+   "status": "done",
+   "found": "Apnatime Tech Private Limited, CIN U74999HR2019PTC137533, incorporated 09 May 2019, Haryana. Two directors: Vidyut Harivadan Parikh and Nirmit Vidyut Parikh. Registered address in Mumbai per MCA.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co founders Nirmit Parikh Aryan Kenchin Kartik Narayan",
+   "status": "done",
+   "found": "Nirmit Parikh = Founder & Group CEO; Aryan Kenchin = Former Co-Founder; Kartik Narayan = CEO Jobs Marketplace vertical (Oct 2025).",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co funding rounds complete history",
+   "status": "done",
+   "found": "5 rounds: Seed Jul 2019 ($3M), Series A Mar 2021 ($12.5M), Series B Jun 2021 ($70M), Series C Sep 2021 ($100M). Total $194M. No funding since 2021.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co AI pivot BlueMachines.ai products",
+   "status": "done",
+   "found": "BlueMachines.ai launched Oct 2025; $6M enterprise contracts in 45 days; AI Calling Agent Aug 2025; AI Job Prep Jun 2025; Apna Safety Sep 2025.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co FY25 financials MCA",
+   "status": "done",
+   "found": "Operating revenue INR 122 Cr, net loss INR 50.1 Cr, total expenses INR 194 Cr. Revenue from recruitment INR 57.1 Cr (up 61%), software dev INR 63 Cr (down 31%).",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co WorkIndia acquisition YC W21 Axio $27M",
+   "status": "logged-no-result",
+   "found": "No evidence found for WorkIndia acquisition, YC W21 participation, or Axio $27M round. These may refer to Apna Mart (separate grocery entity) or may be incorrect.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co layoffs 2024 2025",
+   "status": "logged-no-result",
+   "found": "No layoffs found for Apna.co (jobs platform). Apna Mart (separate grocery entity) laid off ~10% workforce in May 2026 per HR Katha.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co Srinivas B V founder Apurva",
+   "status": "logged-no-result",
+   "found": "No evidence of Srinivas B V or Apurva as founders. Only founders are Nirmit Parikh and Aryan Kenchin.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co legal entity CIN MCA Tofler",
+   "status": "done",
+   "found": "Apnatime Tech Private Limited, CIN U74999HR2019PTC137533, incorporated 09 May 2019, Haryana. Two directors: Vidyut Harivadan Parikh and Nirmit Vidyut Parikh. Registered address in Mumbai per MCA.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co founders Nirmit Parikh Aryan Kenchin Kartik Narayan",
+   "status": "done",
+   "found": "Nirmit Parikh = Founder & Group CEO; Aryan Kenchin = Former Co-Founder; Kartik Narayan = CEO Jobs Marketplace vertical (Oct 2025).",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co funding rounds complete history",
+   "status": "done",
+   "found": "5 rounds: Seed Jul 2019 ($3M), Series A Mar 2021 ($12.5M), Series B Jun 2021 ($70M), Series C Sep 2021 ($100M). Total $194M. No funding since 2021.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co AI pivot BlueMachines.ai products",
+   "status": "done",
+   "found": "BlueMachines.ai launched Oct 2025; $6M enterprise contracts in 45 days; AI Calling Agent Aug 2025; AI Job Prep Jun 2025; Apna Safety Sep 2025.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co FY25 financials MCA",
+   "status": "done",
+   "found": "Operating revenue INR 122 Cr, net loss INR 50.1 Cr, total expenses INR 194 Cr. Revenue from recruitment INR 57.1 Cr (up 61%), software dev INR 63 Cr (down 31%).",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co WorkIndia acquisition YC W21 Axio $27M",
+   "status": "logged-no-result",
+   "found": "No evidence found for WorkIndia acquisition, YC W21 participation, or Axio $27M round. These may refer to Apna Mart (separate grocery entity) or may be incorrect.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co layoffs 2024 2025",
+   "status": "logged-no-result",
+   "found": "No layoffs found for Apna.co (jobs platform). Apna Mart (separate grocery entity) laid off ~10% workforce in May 2026 per HR Katha.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co Srinivas B V founder Apurva",
+   "status": "logged-no-result",
+   "found": "No evidence of Srinivas B V or Apurva as founders. Only founders are Nirmit Parikh and Aryan Kenchin.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co legal entity CIN MCA Tofler",
+   "status": "done",
+   "found": "Apnatime Tech Private Limited, CIN U74999HR2019PTC137533, incorporated 09 May 2019, Haryana. Two directors: Vidyut Harivadan Parikh and Nirmit Vidyut Parikh. Registered address in Mumbai per MCA.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co founders Nirmit Parikh Aryan Kenchin Kartik Narayan",
+   "status": "done",
+   "found": "Nirmit Parikh = Founder & Group CEO; Aryan Kenchin = Former Co-Founder; Kartik Narayan = CEO Jobs Marketplace vertical (Oct 2025).",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co funding rounds complete history",
+   "status": "done",
+   "found": "5 rounds: Seed Jul 2019 ($3M), Series A Mar 2021 ($12.5M), Series B Jun 2021 ($70M), Series C Sep 2021 ($100M). Total $194M. No funding since 2021.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co AI pivot BlueMachines.ai products",
+   "status": "done",
+   "found": "BlueMachines.ai launched Oct 2025; $6M enterprise contracts in 45 days; AI Calling Agent Aug 2025; AI Job Prep Jun 2025; Apna Safety Sep 2025.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co FY25 financials MCA",
+   "status": "done",
+   "found": "Operating revenue INR 122 Cr, net loss INR 50.1 Cr, total expenses INR 194 Cr. Revenue from recruitment INR 57.1 Cr (up 61%), software dev INR 63 Cr (down 31%).",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co WorkIndia acquisition YC W21 Axio $27M",
+   "status": "logged-no-result",
+   "found": "No evidence found for WorkIndia acquisition, YC W21 participation, or Axio $27M round. These may refer to Apna Mart (separate grocery entity) or may be incorrect.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co layoffs 2024 2025",
+   "status": "logged-no-result",
+   "found": "No layoffs found for Apna.co (jobs platform). Apna Mart (separate grocery entity) laid off ~10% workforce in May 2026 per HR Katha.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co Srinivas B V founder Apurva",
+   "status": "logged-no-result",
+   "found": "No evidence of Srinivas B V or Apurva as founders. Only founders are Nirmit Parikh and Aryan Kenchin.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co legal entity CIN MCA Tofler",
+   "status": "done",
+   "found": "Apnatime Tech Private Limited, CIN U74999HR2019PTC137533, incorporated 09 May 2019, Haryana. Two directors: Vidyut Harivadan Parikh and Nirmit Vidyut Parikh. Registered address in Mumbai per MCA.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co founders Nirmit Parikh Aryan Kenchin Kartik Narayan",
+   "status": "done",
+   "found": "Nirmit Parikh = Founder & Group CEO; Aryan Kenchin = Former Co-Founder; Kartik Narayan = CEO Jobs Marketplace vertical (Oct 2025).",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co funding rounds complete history",
+   "status": "done",
+   "found": "5 rounds: Seed Jul 2019 ($3M), Series A Mar 2021 ($12.5M), Series B Jun 2021 ($70M), Series C Sep 2021 ($100M). Total $194M. No funding since 2021.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co AI pivot BlueMachines.ai products",
+   "status": "done",
+   "found": "BlueMachines.ai launched Oct 2025; $6M enterprise contracts in 45 days; AI Calling Agent Aug 2025; AI Job Prep Jun 2025; Apna Safety Sep 2025.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co FY25 financials MCA",
+   "status": "done",
+   "found": "Operating revenue INR 122 Cr, net loss INR 50.1 Cr, total expenses INR 194 Cr. Revenue from recruitment INR 57.1 Cr (up 61%), software dev INR 63 Cr (down 31%).",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co WorkIndia acquisition YC W21 Axio $27M",
+   "status": "logged-no-result",
+   "found": "No evidence found for WorkIndia acquisition, YC W21 participation, or Axio $27M round. These may refer to Apna Mart (separate grocery entity) or may be incorrect.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co layoffs 2024 2025",
+   "status": "logged-no-result",
+   "found": "No layoffs found for Apna.co (jobs platform). Apna Mart (separate grocery entity) laid off ~10% workforce in May 2026 per HR Katha.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co Srinivas B V founder Apurva",
+   "status": "logged-no-result",
+   "found": "No evidence of Srinivas B V or Apurva as founders. Only founders are Nirmit Parikh and Aryan Kenchin.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co legal entity CIN MCA Tofler",
+   "status": "done",
+   "found": "Apnatime Tech Private Limited, CIN U74999HR2019PTC137533, incorporated 09 May 2019, Haryana. Two directors: Vidyut Harivadan Parikh and Nirmit Vidyut Parikh. Registered address in Mumbai per MCA.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co founders Nirmit Parikh Aryan Kenchin Kartik Narayan",
+   "status": "done",
+   "found": "Nirmit Parikh = Founder & Group CEO; Aryan Kenchin = Former Co-Founder; Kartik Narayan = CEO Jobs Marketplace vertical (Oct 2025).",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co funding rounds complete history",
+   "status": "done",
+   "found": "5 rounds: Seed Jul 2019 ($3M), Series A Mar 2021 ($12.5M), Series B Jun 2021 ($70M), Series C Sep 2021 ($100M). Total $194M. No funding since 2021.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co AI pivot BlueMachines.ai products",
+   "status": "done",
+   "found": "BlueMachines.ai launched Oct 2025; $6M enterprise contracts in 45 days; AI Calling Agent Aug 2025; AI Job Prep Jun 2025; Apna Safety Sep 2025.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co FY25 financials MCA",
+   "status": "done",
+   "found": "Operating revenue INR 122 Cr, net loss INR 50.1 Cr, total expenses INR 194 Cr. Revenue from recruitment INR 57.1 Cr (up 61%), software dev INR 63 Cr (down 31%).",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co WorkIndia acquisition YC W21 Axio $27M",
+   "status": "logged-no-result",
+   "found": "No evidence found for WorkIndia acquisition, YC W21 participation, or Axio $27M round. These may refer to Apna Mart (separate grocery entity) or may be incorrect.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co layoffs 2024 2025",
+   "status": "logged-no-result",
+   "found": "No layoffs found for Apna.co (jobs platform). Apna Mart (separate grocery entity) laid off ~10% workforce in May 2026 per HR Katha.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co Srinivas B V founder Apurva",
+   "status": "logged-no-result",
+   "found": "No evidence of Srinivas B V or Apurva as founders. Only founders are Nirmit Parikh and Aryan Kenchin.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co legal entity CIN MCA Tofler",
+   "status": "done",
+   "found": "Apnatime Tech Private Limited, CIN U74999HR2019PTC137533, incorporated 09 May 2019, Haryana. Two directors: Vidyut Harivadan Parikh and Nirmit Vidyut Parikh. Registered address in Mumbai per MCA.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co founders Nirmit Parikh Aryan Kenchin Kartik Narayan",
+   "status": "done",
+   "found": "Nirmit Parikh = Founder & Group CEO; Aryan Kenchin = Former Co-Founder; Kartik Narayan = CEO Jobs Marketplace vertical (Oct 2025).",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co funding rounds complete history",
+   "status": "done",
+   "found": "5 rounds: Seed Jul 2019 ($3M), Series A Mar 2021 ($12.5M), Series B Jun 2021 ($70M), Series C Sep 2021 ($100M). Total $194M. No funding since 2021.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co AI pivot BlueMachines.ai products",
+   "status": "done",
+   "found": "BlueMachines.ai launched Oct 2025; $6M enterprise contracts in 45 days; AI Calling Agent Aug 2025; AI Job Prep Jun 2025; Apna Safety Sep 2025.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co FY25 financials MCA",
+   "status": "done",
+   "found": "Operating revenue INR 122 Cr, net loss INR 50.1 Cr, total expenses INR 194 Cr. Revenue from recruitment INR 57.1 Cr (up 61%), software dev INR 63 Cr (down 31%).",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co WorkIndia acquisition YC W21 Axio $27M",
+   "status": "logged-no-result",
+   "found": "No evidence found for WorkIndia acquisition, YC W21 participation, or Axio $27M round. These may refer to Apna Mart (separate grocery entity) or may be incorrect.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co layoffs 2024 2025",
+   "status": "logged-no-result",
+   "found": "No layoffs found for Apna.co (jobs platform). Apna Mart (separate grocery entity) laid off ~10% workforce in May 2026 per HR Katha.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co Srinivas B V founder Apurva",
+   "status": "logged-no-result",
+   "found": "No evidence of Srinivas B V or Apurva as founders. Only founders are Nirmit Parikh and Aryan Kenchin.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co legal entity CIN MCA Tofler",
+   "status": "done",
+   "found": "Apnatime Tech Private Limited, CIN U74999HR2019PTC137533, incorporated 09 May 2019, Haryana. Two directors: Vidyut Harivadan Parikh and Nirmit Vidyut Parikh. Registered address in Mumbai per MCA.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co founders Nirmit Parikh Aryan Kenchin Kartik Narayan",
+   "status": "done",
+   "found": "Nirmit Parikh = Founder & Group CEO; Aryan Kenchin = Former Co-Founder; Kartik Narayan = CEO Jobs Marketplace vertical (Oct 2025).",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co funding rounds complete history",
+   "status": "done",
+   "found": "5 rounds: Seed Jul 2019 ($3M), Series A Mar 2021 ($12.5M), Series B Jun 2021 ($70M), Series C Sep 2021 ($100M). Total $194M. No funding since 2021.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co AI pivot BlueMachines.ai products",
+   "status": "done",
+   "found": "BlueMachines.ai launched Oct 2025; $6M enterprise contracts in 45 days; AI Calling Agent Aug 2025; AI Job Prep Jun 2025; Apna Safety Sep 2025.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co FY25 financials MCA",
+   "status": "done",
+   "found": "Operating revenue INR 122 Cr, net loss INR 50.1 Cr, total expenses INR 194 Cr. Revenue from recruitment INR 57.1 Cr (up 61%), software dev INR 63 Cr (down 31%).",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co WorkIndia acquisition YC W21 Axio $27M",
+   "status": "logged-no-result",
+   "found": "No evidence found for WorkIndia acquisition, YC W21 participation, or Axio $27M round. These may refer to Apna Mart (separate grocery entity) or may be incorrect.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co layoffs 2024 2025",
+   "status": "logged-no-result",
+   "found": "No layoffs found for Apna.co (jobs platform). Apna Mart (separate grocery entity) laid off ~10% workforce in May 2026 per HR Katha.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co Srinivas B V founder Apurva",
+   "status": "logged-no-result",
+   "found": "No evidence of Srinivas B V or Apurva as founders. Only founders are Nirmit Parikh and Aryan Kenchin.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co legal entity CIN MCA Tofler",
+   "status": "done",
+   "found": "Apnatime Tech Private Limited, CIN U74999HR2019PTC137533, incorporated 09 May 2019, Haryana. Two directors: Vidyut Harivadan Parikh and Nirmit Vidyut Parikh. Registered address in Mumbai per MCA.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co founders Nirmit Parikh Aryan Kenchin Kartik Narayan",
+   "status": "done",
+   "found": "Nirmit Parikh = Founder & Group CEO; Aryan Kenchin = Former Co-Founder; Kartik Narayan = CEO Jobs Marketplace vertical (Oct 2025).",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co funding rounds complete history",
+   "status": "done",
+   "found": "5 rounds: Seed Jul 2019 ($3M), Series A Mar 2021 ($12.5M), Series B Jun 2021 ($70M), Series C Sep 2021 ($100M). Total $194M. No funding since 2021.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co AI pivot BlueMachines.ai products",
+   "status": "done",
+   "found": "BlueMachines.ai launched Oct 2025; $6M enterprise contracts in 45 days; AI Calling Agent Aug 2025; AI Job Prep Jun 2025; Apna Safety Sep 2025.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co FY25 financials MCA",
+   "status": "done",
+   "found": "Operating revenue INR 122 Cr, net loss INR 50.1 Cr, total expenses INR 194 Cr. Revenue from recruitment INR 57.1 Cr (up 61%), software dev INR 63 Cr (down 31%).",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co WorkIndia acquisition YC W21 Axio $27M",
+   "status": "logged-no-result",
+   "found": "No evidence found for WorkIndia acquisition, YC W21 participation, or Axio $27M round. These may refer to Apna Mart (separate grocery entity) or may be incorrect.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co layoffs 2024 2025",
+   "status": "logged-no-result",
+   "found": "No layoffs found for Apna.co (jobs platform). Apna Mart (separate grocery entity) laid off ~10% workforce in May 2026 per HR Katha.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co Srinivas B V founder Apurva",
+   "status": "logged-no-result",
+   "found": "No evidence of Srinivas B V or Apurva as founders. Only founders are Nirmit Parikh and Aryan Kenchin.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co legal entity CIN MCA Tofler",
+   "status": "done",
+   "found": "Apnatime Tech Private Limited, CIN U74999HR2019PTC137533, incorporated 09 May 2019, Haryana. Two directors: Vidyut Harivadan Parikh and Nirmit Vidyut Parikh. Registered address in Mumbai per MCA.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co founders Nirmit Parikh Aryan Kenchin Kartik Narayan",
+   "status": "done",
+   "found": "Nirmit Parikh = Founder & Group CEO; Aryan Kenchin = Former Co-Founder; Kartik Narayan = CEO Jobs Marketplace vertical (Oct 2025).",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co funding rounds complete history",
+   "status": "done",
+   "found": "5 rounds: Seed Jul 2019 ($3M), Series A Mar 2021 ($12.5M), Series B Jun 2021 ($70M), Series C Sep 2021 ($100M). Total $194M. No funding since 2021.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co AI pivot BlueMachines.ai products",
+   "status": "done",
+   "found": "BlueMachines.ai launched Oct 2025; $6M enterprise contracts in 45 days; AI Calling Agent Aug 2025; AI Job Prep Jun 2025; Apna Safety Sep 2025.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co FY25 financials MCA",
+   "status": "done",
+   "found": "Operating revenue INR 122 Cr, net loss INR 50.1 Cr, total expenses INR 194 Cr. Revenue from recruitment INR 57.1 Cr (up 61%), software dev INR 63 Cr (down 31%).",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co WorkIndia acquisition YC W21 Axio $27M",
+   "status": "logged-no-result",
+   "found": "No evidence found for WorkIndia acquisition, YC W21 participation, or Axio $27M round. These may refer to Apna Mart (separate grocery entity) or may be incorrect.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co layoffs 2024 2025",
+   "status": "logged-no-result",
+   "found": "No layoffs found for Apna.co (jobs platform). Apna Mart (separate grocery entity) laid off ~10% workforce in May 2026 per HR Katha.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co Srinivas B V founder Apurva",
+   "status": "logged-no-result",
+   "found": "No evidence of Srinivas B V or Apurva as founders. Only founders are Nirmit Parikh and Aryan Kenchin.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co legal entity CIN MCA Tofler",
+   "status": "done",
+   "found": "Apnatime Tech Private Limited, CIN U74999HR2019PTC137533, incorporated 09 May 2019, Haryana. Two directors: Vidyut Harivadan Parikh and Nirmit Vidyut Parikh. Registered address in Mumbai per MCA.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co founders Nirmit Parikh Aryan Kenchin Kartik Narayan",
+   "status": "done",
+   "found": "Nirmit Parikh = Founder & Group CEO; Aryan Kenchin = Former Co-Founder; Kartik Narayan = CEO Jobs Marketplace vertical (Oct 2025).",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co funding rounds complete history",
+   "status": "done",
+   "found": "5 rounds: Seed Jul 2019 ($3M), Series A Mar 2021 ($12.5M), Series B Jun 2021 ($70M), Series C Sep 2021 ($100M). Total $194M. No funding since 2021.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co AI pivot BlueMachines.ai products",
+   "status": "done",
+   "found": "BlueMachines.ai launched Oct 2025; $6M enterprise contracts in 45 days; AI Calling Agent Aug 2025; AI Job Prep Jun 2025; Apna Safety Sep 2025.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co FY25 financials MCA",
+   "status": "done",
+   "found": "Operating revenue INR 122 Cr, net loss INR 50.1 Cr, total expenses INR 194 Cr. Revenue from recruitment INR 57.1 Cr (up 61%), software dev INR 63 Cr (down 31%).",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co WorkIndia acquisition YC W21 Axio $27M",
+   "status": "logged-no-result",
+   "found": "No evidence found for WorkIndia acquisition, YC W21 participation, or Axio $27M round. These may refer to Apna Mart (separate grocery entity) or may be incorrect.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co layoffs 2024 2025",
+   "status": "logged-no-result",
+   "found": "No layoffs found for Apna.co (jobs platform). Apna Mart (separate grocery entity) laid off ~10% workforce in May 2026 per HR Katha.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co Srinivas B V founder Apurva",
+   "status": "logged-no-result",
+   "found": "No evidence of Srinivas B V or Apurva as founders. Only founders are Nirmit Parikh and Aryan Kenchin.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co legal entity CIN MCA Tofler",
+   "status": "done",
+   "found": "Apnatime Tech Private Limited, CIN U74999HR2019PTC137533, incorporated 09 May 2019, Haryana. Two directors: Vidyut Harivadan Parikh and Nirmit Vidyut Parikh. Registered address in Mumbai per MCA.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co founders Nirmit Parikh Aryan Kenchin Kartik Narayan",
+   "status": "done",
+   "found": "Nirmit Parikh = Founder & Group CEO; Aryan Kenchin = Former Co-Founder; Kartik Narayan = CEO Jobs Marketplace vertical (Oct 2025).",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co funding rounds complete history",
+   "status": "done",
+   "found": "5 rounds: Seed Jul 2019 ($3M), Series A Mar 2021 ($12.5M), Series B Jun 2021 ($70M), Series C Sep 2021 ($100M). Total $194M. No funding since 2021.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co AI pivot BlueMachines.ai products",
+   "status": "done",
+   "found": "BlueMachines.ai launched Oct 2025; $6M enterprise contracts in 45 days; AI Calling Agent Aug 2025; AI Job Prep Jun 2025; Apna Safety Sep 2025.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co FY25 financials MCA",
+   "status": "done",
+   "found": "Operating revenue INR 122 Cr, net loss INR 50.1 Cr, total expenses INR 194 Cr. Revenue from recruitment INR 57.1 Cr (up 61%), software dev INR 63 Cr (down 31%).",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co WorkIndia acquisition YC W21 Axio $27M",
+   "status": "logged-no-result",
+   "found": "No evidence found for WorkIndia acquisition, YC W21 participation, or Axio $27M round. These may refer to Apna Mart (separate grocery entity) or may be incorrect.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co layoffs 2024 2025",
+   "status": "logged-no-result",
+   "found": "No layoffs found for Apna.co (jobs platform). Apna Mart (separate grocery entity) laid off ~10% workforce in May 2026 per HR Katha.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co Srinivas B V founder Apurva",
+   "status": "logged-no-result",
+   "found": "No evidence of Srinivas B V or Apurva as founders. Only founders are Nirmit Parikh and Aryan Kenchin.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co legal entity CIN MCA Tofler",
+   "status": "done",
+   "found": "Apnatime Tech Private Limited, CIN U74999HR2019PTC137533, incorporated 09 May 2019, Haryana. Two directors: Vidyut Harivadan Parikh and Nirmit Vidyut Parikh. Registered address in Mumbai per MCA.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co founders Nirmit Parikh Aryan Kenchin Kartik Narayan",
+   "status": "done",
+   "found": "Nirmit Parikh = Founder & Group CEO; Aryan Kenchin = Former Co-Founder; Kartik Narayan = CEO Jobs Marketplace vertical (Oct 2025).",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co funding rounds complete history",
+   "status": "done",
+   "found": "5 rounds: Seed Jul 2019 ($3M), Series A Mar 2021 ($12.5M), Series B Jun 2021 ($70M), Series C Sep 2021 ($100M). Total $194M. No funding since 2021.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co AI pivot BlueMachines.ai products",
+   "status": "done",
+   "found": "BlueMachines.ai launched Oct 2025; $6M enterprise contracts in 45 days; AI Calling Agent Aug 2025; AI Job Prep Jun 2025; Apna Safety Sep 2025.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co FY25 financials MCA",
+   "status": "done",
+   "found": "Operating revenue INR 122 Cr, net loss INR 50.1 Cr, total expenses INR 194 Cr. Revenue from recruitment INR 57.1 Cr (up 61%), software dev INR 63 Cr (down 31%).",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co WorkIndia acquisition YC W21 Axio $27M",
+   "status": "logged-no-result",
+   "found": "No evidence found for WorkIndia acquisition, YC W21 participation, or Axio $27M round. These may refer to Apna Mart (separate grocery entity) or may be incorrect.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co layoffs 2024 2025",
+   "status": "logged-no-result",
+   "found": "No layoffs found for Apna.co (jobs platform). Apna Mart (separate grocery entity) laid off ~10% workforce in May 2026 per HR Katha.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co Srinivas B V founder Apurva",
+   "status": "logged-no-result",
+   "found": "No evidence of Srinivas B V or Apurva as founders. Only founders are Nirmit Parikh and Aryan Kenchin.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co legal entity CIN MCA Tofler",
+   "status": "done",
+   "found": "Apnatime Tech Private Limited, CIN U74999HR2019PTC137533, incorporated 09 May 2019, Haryana. Two directors: Vidyut Harivadan Parikh and Nirmit Vidyut Parikh. Registered address in Mumbai per MCA.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co founders Nirmit Parikh Aryan Kenchin Kartik Narayan",
+   "status": "done",
+   "found": "Nirmit Parikh = Founder & Group CEO; Aryan Kenchin = Former Co-Founder; Kartik Narayan = CEO Jobs Marketplace vertical (Oct 2025).",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co funding rounds complete history",
+   "status": "done",
+   "found": "5 rounds: Seed Jul 2019 ($3M), Series A Mar 2021 ($12.5M), Series B Jun 2021 ($70M), Series C Sep 2021 ($100M). Total $194M. No funding since 2021.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co AI pivot BlueMachines.ai products",
+   "status": "done",
+   "found": "BlueMachines.ai launched Oct 2025; $6M enterprise contracts in 45 days; AI Calling Agent Aug 2025; AI Job Prep Jun 2025; Apna Safety Sep 2025.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co FY25 financials MCA",
+   "status": "done",
+   "found": "Operating revenue INR 122 Cr, net loss INR 50.1 Cr, total expenses INR 194 Cr. Revenue from recruitment INR 57.1 Cr (up 61%), software dev INR 63 Cr (down 31%).",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co WorkIndia acquisition YC W21 Axio $27M",
+   "status": "logged-no-result",
+   "found": "No evidence found for WorkIndia acquisition, YC W21 participation, or Axio $27M round. These may refer to Apna Mart (separate grocery entity) or may be incorrect.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co layoffs 2024 2025",
+   "status": "logged-no-result",
+   "found": "No layoffs found for Apna.co (jobs platform). Apna Mart (separate grocery entity) laid off ~10% workforce in May 2026 per HR Katha.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co Srinivas B V founder Apurva",
+   "status": "logged-no-result",
+   "found": "No evidence of Srinivas B V or Apurva as founders. Only founders are Nirmit Parikh and Aryan Kenchin.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co legal entity CIN MCA Tofler",
+   "status": "done",
+   "found": "Apnatime Tech Private Limited, CIN U74999HR2019PTC137533, incorporated 09 May 2019, Haryana. Two directors: Vidyut Harivadan Parikh and Nirmit Vidyut Parikh. Registered address in Mumbai per MCA.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co founders Nirmit Parikh Aryan Kenchin Kartik Narayan",
+   "status": "done",
+   "found": "Nirmit Parikh = Founder & Group CEO; Aryan Kenchin = Former Co-Founder; Kartik Narayan = CEO Jobs Marketplace vertical (Oct 2025).",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co funding rounds complete history",
+   "status": "done",
+   "found": "5 rounds: Seed Jul 2019 ($3M), Series A Mar 2021 ($12.5M), Series B Jun 2021 ($70M), Series C Sep 2021 ($100M). Total $194M. No funding since 2021.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co AI pivot BlueMachines.ai products",
+   "status": "done",
+   "found": "BlueMachines.ai launched Oct 2025; $6M enterprise contracts in 45 days; AI Calling Agent Aug 2025; AI Job Prep Jun 2025; Apna Safety Sep 2025.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co FY25 financials MCA",
+   "status": "done",
+   "found": "Operating revenue INR 122 Cr, net loss INR 50.1 Cr, total expenses INR 194 Cr. Revenue from recruitment INR 57.1 Cr (up 61%), software dev INR 63 Cr (down 31%).",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co WorkIndia acquisition YC W21 Axio $27M",
+   "status": "logged-no-result",
+   "found": "No evidence found for WorkIndia acquisition, YC W21 participation, or Axio $27M round. These may refer to Apna Mart (separate grocery entity) or may be incorrect.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co layoffs 2024 2025",
+   "status": "logged-no-result",
+   "found": "No layoffs found for Apna.co (jobs platform). Apna Mart (separate grocery entity) laid off ~10% workforce in May 2026 per HR Katha.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co Srinivas B V founder Apurva",
+   "status": "logged-no-result",
+   "found": "No evidence of Srinivas B V or Apurva as founders. Only founders are Nirmit Parikh and Aryan Kenchin.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co legal entity CIN MCA Tofler",
+   "status": "done",
+   "found": "Apnatime Tech Private Limited, CIN U74999HR2019PTC137533, incorporated 09 May 2019, Haryana. Two directors: Vidyut Harivadan Parikh and Nirmit Vidyut Parikh. Registered address in Mumbai per MCA.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co founders Nirmit Parikh Aryan Kenchin Kartik Narayan",
+   "status": "done",
+   "found": "Nirmit Parikh = Founder & Group CEO; Aryan Kenchin = Former Co-Founder; Kartik Narayan = CEO Jobs Marketplace vertical (Oct 2025).",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co funding rounds complete history",
+   "status": "done",
+   "found": "5 rounds: Seed Jul 2019 ($3M), Series A Mar 2021 ($12.5M), Series B Jun 2021 ($70M), Series C Sep 2021 ($100M). Total $194M. No funding since 2021.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co AI pivot BlueMachines.ai products",
+   "status": "done",
+   "found": "BlueMachines.ai launched Oct 2025; $6M enterprise contracts in 45 days; AI Calling Agent Aug 2025; AI Job Prep Jun 2025; Apna Safety Sep 2025.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co FY25 financials MCA",
+   "status": "done",
+   "found": "Operating revenue INR 122 Cr, net loss INR 50.1 Cr, total expenses INR 194 Cr. Revenue from recruitment INR 57.1 Cr (up 61%), software dev INR 63 Cr (down 31%).",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co WorkIndia acquisition YC W21 Axio $27M",
+   "status": "logged-no-result",
+   "found": "No evidence found for WorkIndia acquisition, YC W21 participation, or Axio $27M round. These may refer to Apna Mart (separate grocery entity) or may be incorrect.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co layoffs 2024 2025",
+   "status": "logged-no-result",
+   "found": "No layoffs found for Apna.co (jobs platform). Apna Mart (separate grocery entity) laid off ~10% workforce in May 2026 per HR Katha.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co Srinivas B V founder Apurva",
+   "status": "logged-no-result",
+   "found": "No evidence of Srinivas B V or Apurva as founders. Only founders are Nirmit Parikh and Aryan Kenchin.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co legal entity CIN MCA Tofler",
+   "status": "done",
+   "found": "Apnatime Tech Private Limited, CIN U74999HR2019PTC137533, incorporated 09 May 2019, Haryana. Two directors: Vidyut Harivadan Parikh and Nirmit Vidyut Parikh. Registered address in Mumbai per MCA.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co founders Nirmit Parikh Aryan Kenchin Kartik Narayan",
+   "status": "done",
+   "found": "Nirmit Parikh = Founder & Group CEO; Aryan Kenchin = Former Co-Founder; Kartik Narayan = CEO Jobs Marketplace vertical (Oct 2025).",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co funding rounds complete history",
+   "status": "done",
+   "found": "5 rounds: Seed Jul 2019 ($3M), Series A Mar 2021 ($12.5M), Series B Jun 2021 ($70M), Series C Sep 2021 ($100M). Total $194M. No funding since 2021.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co AI pivot BlueMachines.ai products",
+   "status": "done",
+   "found": "BlueMachines.ai launched Oct 2025; $6M enterprise contracts in 45 days; AI Calling Agent Aug 2025; AI Job Prep Jun 2025; Apna Safety Sep 2025.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co FY25 financials MCA",
+   "status": "done",
+   "found": "Operating revenue INR 122 Cr, net loss INR 50.1 Cr, total expenses INR 194 Cr. Revenue from recruitment INR 57.1 Cr (up 61%), software dev INR 63 Cr (down 31%).",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co WorkIndia acquisition YC W21 Axio $27M",
+   "status": "logged-no-result",
+   "found": "No evidence found for WorkIndia acquisition, YC W21 participation, or Axio $27M round. These may refer to Apna Mart (separate grocery entity) or may be incorrect.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co layoffs 2024 2025",
+   "status": "logged-no-result",
+   "found": "No layoffs found for Apna.co (jobs platform). Apna Mart (separate grocery entity) laid off ~10% workforce in May 2026 per HR Katha.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co Srinivas B V founder Apurva",
+   "status": "logged-no-result",
+   "found": "No evidence of Srinivas B V or Apurva as founders. Only founders are Nirmit Parikh and Aryan Kenchin.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co legal entity CIN MCA Tofler",
+   "status": "done",
+   "found": "Apnatime Tech Private Limited, CIN U74999HR2019PTC137533, incorporated 09 May 2019, Haryana. Two directors: Vidyut Harivadan Parikh and Nirmit Vidyut Parikh. Registered address in Mumbai per MCA.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co founders Nirmit Parikh Aryan Kenchin Kartik Narayan",
+   "status": "done",
+   "found": "Nirmit Parikh = Founder & Group CEO; Aryan Kenchin = Former Co-Founder; Kartik Narayan = CEO Jobs Marketplace vertical (Oct 2025).",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co funding rounds complete history",
+   "status": "done",
+   "found": "5 rounds: Seed Jul 2019 ($3M), Series A Mar 2021 ($12.5M), Series B Jun 2021 ($70M), Series C Sep 2021 ($100M). Total $194M. No funding since 2021.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co AI pivot BlueMachines.ai products",
+   "status": "done",
+   "found": "BlueMachines.ai launched Oct 2025; $6M enterprise contracts in 45 days; AI Calling Agent Aug 2025; AI Job Prep Jun 2025; Apna Safety Sep 2025.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co FY25 financials MCA",
+   "status": "done",
+   "found": "Operating revenue INR 122 Cr, net loss INR 50.1 Cr, total expenses INR 194 Cr. Revenue from recruitment INR 57.1 Cr (up 61%), software dev INR 63 Cr (down 31%).",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co WorkIndia acquisition YC W21 Axio $27M",
+   "status": "logged-no-result",
+   "found": "No evidence found for WorkIndia acquisition, YC W21 participation, or Axio $27M round. These may refer to Apna Mart (separate grocery entity) or may be incorrect.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co layoffs 2024 2025",
+   "status": "logged-no-result",
+   "found": "No layoffs found for Apna.co (jobs platform). Apna Mart (separate grocery entity) laid off ~10% workforce in May 2026 per HR Katha.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co Srinivas B V founder Apurva",
+   "status": "logged-no-result",
+   "found": "No evidence of Srinivas B V or Apurva as founders. Only founders are Nirmit Parikh and Aryan Kenchin.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co legal entity CIN MCA Tofler",
+   "status": "done",
+   "found": "Apnatime Tech Private Limited, CIN U74999HR2019PTC137533, incorporated 09 May 2019, Haryana. Two directors: Vidyut Harivadan Parikh and Nirmit Vidyut Parikh. Registered address in Mumbai per MCA.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co founders Nirmit Parikh Aryan Kenchin Kartik Narayan",
+   "status": "done",
+   "found": "Nirmit Parikh = Founder & Group CEO; Aryan Kenchin = Former Co-Founder; Kartik Narayan = CEO Jobs Marketplace vertical (Oct 2025).",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co funding rounds complete history",
+   "status": "done",
+   "found": "5 rounds: Seed Jul 2019 ($3M), Series A Mar 2021 ($12.5M), Series B Jun 2021 ($70M), Series C Sep 2021 ($100M). Total $194M. No funding since 2021.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co AI pivot BlueMachines.ai products",
+   "status": "done",
+   "found": "BlueMachines.ai launched Oct 2025; $6M enterprise contracts in 45 days; AI Calling Agent Aug 2025; AI Job Prep Jun 2025; Apna Safety Sep 2025.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co FY25 financials MCA",
+   "status": "done",
+   "found": "Operating revenue INR 122 Cr, net loss INR 50.1 Cr, total expenses INR 194 Cr. Revenue from recruitment INR 57.1 Cr (up 61%), software dev INR 63 Cr (down 31%).",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co WorkIndia acquisition YC W21 Axio $27M",
+   "status": "logged-no-result",
+   "found": "No evidence found for WorkIndia acquisition, YC W21 participation, or Axio $27M round. These may refer to Apna Mart (separate grocery entity) or may be incorrect.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co layoffs 2024 2025",
+   "status": "logged-no-result",
+   "found": "No layoffs found for Apna.co (jobs platform). Apna Mart (separate grocery entity) laid off ~10% workforce in May 2026 per HR Katha.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co Srinivas B V founder Apurva",
+   "status": "logged-no-result",
+   "found": "No evidence of Srinivas B V or Apurva as founders. Only founders are Nirmit Parikh and Aryan Kenchin.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co legal entity CIN MCA Tofler",
+   "status": "done",
+   "found": "Apnatime Tech Private Limited, CIN U74999HR2019PTC137533, incorporated 09 May 2019, Haryana. Two directors: Vidyut Harivadan Parikh and Nirmit Vidyut Parikh. Registered address in Mumbai per MCA.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co founders Nirmit Parikh Aryan Kenchin Kartik Narayan",
+   "status": "done",
+   "found": "Nirmit Parikh = Founder & Group CEO; Aryan Kenchin = Former Co-Founder; Kartik Narayan = CEO Jobs Marketplace vertical (Oct 2025).",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co funding rounds complete history",
+   "status": "done",
+   "found": "5 rounds: Seed Jul 2019 ($3M), Series A Mar 2021 ($12.5M), Series B Jun 2021 ($70M), Series C Sep 2021 ($100M). Total $194M. No funding since 2021.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co AI pivot BlueMachines.ai products",
+   "status": "done",
+   "found": "BlueMachines.ai launched Oct 2025; $6M enterprise contracts in 45 days; AI Calling Agent Aug 2025; AI Job Prep Jun 2025; Apna Safety Sep 2025.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co FY25 financials MCA",
+   "status": "done",
+   "found": "Operating revenue INR 122 Cr, net loss INR 50.1 Cr, total expenses INR 194 Cr. Revenue from recruitment INR 57.1 Cr (up 61%), software dev INR 63 Cr (down 31%).",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co WorkIndia acquisition YC W21 Axio $27M",
+   "status": "logged-no-result",
+   "found": "No evidence found for WorkIndia acquisition, YC W21 participation, or Axio $27M round. These may refer to Apna Mart (separate grocery entity) or may be incorrect.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co layoffs 2024 2025",
+   "status": "logged-no-result",
+   "found": "No layoffs found for Apna.co (jobs platform). Apna Mart (separate grocery entity) laid off ~10% workforce in May 2026 per HR Katha.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co Srinivas B V founder Apurva",
+   "status": "logged-no-result",
+   "found": "No evidence of Srinivas B V or Apurva as founders. Only founders are Nirmit Parikh and Aryan Kenchin.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co legal entity CIN MCA Tofler",
+   "status": "done",
+   "found": "Apnatime Tech Private Limited, CIN U74999HR2019PTC137533, incorporated 09 May 2019, Haryana. Two directors: Vidyut Harivadan Parikh and Nirmit Vidyut Parikh. Registered address in Mumbai per MCA.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co founders Nirmit Parikh Aryan Kenchin Kartik Narayan",
+   "status": "done",
+   "found": "Nirmit Parikh = Founder & Group CEO; Aryan Kenchin = Former Co-Founder; Kartik Narayan = CEO Jobs Marketplace vertical (Oct 2025).",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co funding rounds complete history",
+   "status": "done",
+   "found": "5 rounds: Seed Jul 2019 ($3M), Series A Mar 2021 ($12.5M), Series B Jun 2021 ($70M), Series C Sep 2021 ($100M). Total $194M. No funding since 2021.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co AI pivot BlueMachines.ai products",
+   "status": "done",
+   "found": "BlueMachines.ai launched Oct 2025; $6M enterprise contracts in 45 days; AI Calling Agent Aug 2025; AI Job Prep Jun 2025; Apna Safety Sep 2025.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co FY25 financials MCA",
+   "status": "done",
+   "found": "Operating revenue INR 122 Cr, net loss INR 50.1 Cr, total expenses INR 194 Cr. Revenue from recruitment INR 57.1 Cr (up 61%), software dev INR 63 Cr (down 31%).",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co WorkIndia acquisition YC W21 Axio $27M",
+   "status": "logged-no-result",
+   "found": "No evidence found for WorkIndia acquisition, YC W21 participation, or Axio $27M round. These may refer to Apna Mart (separate grocery entity) or may be incorrect.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co layoffs 2024 2025",
+   "status": "logged-no-result",
+   "found": "No layoffs found for Apna.co (jobs platform). Apna Mart (separate grocery entity) laid off ~10% workforce in May 2026 per HR Katha.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co Srinivas B V founder Apurva",
+   "status": "logged-no-result",
+   "found": "No evidence of Srinivas B V or Apurva as founders. Only founders are Nirmit Parikh and Aryan Kenchin.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co legal entity CIN MCA Tofler",
+   "status": "done",
+   "found": "Apnatime Tech Private Limited, CIN U74999HR2019PTC137533, incorporated 09 May 2019, Haryana. Two directors: Vidyut Harivadan Parikh and Nirmit Vidyut Parikh. Registered address in Mumbai per MCA.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co founders Nirmit Parikh Aryan Kenchin Kartik Narayan",
+   "status": "done",
+   "found": "Nirmit Parikh = Founder & Group CEO; Aryan Kenchin = Former Co-Founder; Kartik Narayan = CEO Jobs Marketplace vertical (Oct 2025).",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co funding rounds complete history",
+   "status": "done",
+   "found": "5 rounds: Seed Jul 2019 ($3M), Series A Mar 2021 ($12.5M), Series B Jun 2021 ($70M), Series C Sep 2021 ($100M). Total $194M. No funding since 2021.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co AI pivot BlueMachines.ai products",
+   "status": "done",
+   "found": "BlueMachines.ai launched Oct 2025; $6M enterprise contracts in 45 days; AI Calling Agent Aug 2025; AI Job Prep Jun 2025; Apna Safety Sep 2025.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co FY25 financials MCA",
+   "status": "done",
+   "found": "Operating revenue INR 122 Cr, net loss INR 50.1 Cr, total expenses INR 194 Cr. Revenue from recruitment INR 57.1 Cr (up 61%), software dev INR 63 Cr (down 31%).",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co WorkIndia acquisition YC W21 Axio $27M",
+   "status": "logged-no-result",
+   "found": "No evidence found for WorkIndia acquisition, YC W21 participation, or Axio $27M round. These may refer to Apna Mart (separate grocery entity) or may be incorrect.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co layoffs 2024 2025",
+   "status": "logged-no-result",
+   "found": "No layoffs found for Apna.co (jobs platform). Apna Mart (separate grocery entity) laid off ~10% workforce in May 2026 per HR Katha.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co Srinivas B V founder Apurva",
+   "status": "logged-no-result",
+   "found": "No evidence of Srinivas B V or Apurva as founders. Only founders are Nirmit Parikh and Aryan Kenchin.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co legal entity CIN MCA Tofler",
+   "status": "done",
+   "found": "Apnatime Tech Private Limited, CIN U74999HR2019PTC137533, incorporated 09 May 2019, Haryana. Two directors: Vidyut Harivadan Parikh and Nirmit Vidyut Parikh. Registered address in Mumbai per MCA.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co founders Nirmit Parikh Aryan Kenchin Kartik Narayan",
+   "status": "done",
+   "found": "Nirmit Parikh = Founder & Group CEO; Aryan Kenchin = Former Co-Founder; Kartik Narayan = CEO Jobs Marketplace vertical (Oct 2025).",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co funding rounds complete history",
+   "status": "done",
+   "found": "5 rounds: Seed Jul 2019 ($3M), Series A Mar 2021 ($12.5M), Series B Jun 2021 ($70M), Series C Sep 2021 ($100M). Total $194M. No funding since 2021.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co AI pivot BlueMachines.ai products",
+   "status": "done",
+   "found": "BlueMachines.ai launched Oct 2025; $6M enterprise contracts in 45 days; AI Calling Agent Aug 2025; AI Job Prep Jun 2025; Apna Safety Sep 2025.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co FY25 financials MCA",
+   "status": "done",
+   "found": "Operating revenue INR 122 Cr, net loss INR 50.1 Cr, total expenses INR 194 Cr. Revenue from recruitment INR 57.1 Cr (up 61%), software dev INR 63 Cr (down 31%).",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co WorkIndia acquisition YC W21 Axio $27M",
+   "status": "logged-no-result",
+   "found": "No evidence found for WorkIndia acquisition, YC W21 participation, or Axio $27M round. These may refer to Apna Mart (separate grocery entity) or may be incorrect.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co layoffs 2024 2025",
+   "status": "logged-no-result",
+   "found": "No layoffs found for Apna.co (jobs platform). Apna Mart (separate grocery entity) laid off ~10% workforce in May 2026 per HR Katha.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co Srinivas B V founder Apurva",
+   "status": "logged-no-result",
+   "found": "No evidence of Srinivas B V or Apurva as founders. Only founders are Nirmit Parikh and Aryan Kenchin.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co legal entity CIN MCA Tofler",
+   "status": "done",
+   "found": "Apnatime Tech Private Limited, CIN U74999HR2019PTC137533, incorporated 09 May 2019, Haryana. Two directors: Vidyut Harivadan Parikh and Nirmit Vidyut Parikh. Registered address in Mumbai per MCA.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co founders Nirmit Parikh Aryan Kenchin Kartik Narayan",
+   "status": "done",
+   "found": "Nirmit Parikh = Founder & Group CEO; Aryan Kenchin = Former Co-Founder; Kartik Narayan = CEO Jobs Marketplace vertical (Oct 2025).",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co funding rounds complete history",
+   "status": "done",
+   "found": "5 rounds: Seed Jul 2019 ($3M), Series A Mar 2021 ($12.5M), Series B Jun 2021 ($70M), Series C Sep 2021 ($100M). Total $194M. No funding since 2021.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co AI pivot BlueMachines.ai products",
+   "status": "done",
+   "found": "BlueMachines.ai launched Oct 2025; $6M enterprise contracts in 45 days; AI Calling Agent Aug 2025; AI Job Prep Jun 2025; Apna Safety Sep 2025.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co FY25 financials MCA",
+   "status": "done",
+   "found": "Operating revenue INR 122 Cr, net loss INR 50.1 Cr, total expenses INR 194 Cr. Revenue from recruitment INR 57.1 Cr (up 61%), software dev INR 63 Cr (down 31%).",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co WorkIndia acquisition YC W21 Axio $27M",
+   "status": "logged-no-result",
+   "found": "No evidence found for WorkIndia acquisition, YC W21 participation, or Axio $27M round. These may refer to Apna Mart (separate grocery entity) or may be incorrect.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co layoffs 2024 2025",
+   "status": "logged-no-result",
+   "found": "No layoffs found for Apna.co (jobs platform). Apna Mart (separate grocery entity) laid off ~10% workforce in May 2026 per HR Katha.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co Srinivas B V founder Apurva",
+   "status": "logged-no-result",
+   "found": "No evidence of Srinivas B V or Apurva as founders. Only founders are Nirmit Parikh and Aryan Kenchin.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co legal entity CIN MCA Tofler",
+   "status": "done",
+   "found": "Apnatime Tech Private Limited, CIN U74999HR2019PTC137533, incorporated 09 May 2019, Haryana. Two directors: Vidyut Harivadan Parikh and Nirmit Vidyut Parikh. Registered address in Mumbai per MCA.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co founders Nirmit Parikh Aryan Kenchin Kartik Narayan",
+   "status": "done",
+   "found": "Nirmit Parikh = Founder & Group CEO; Aryan Kenchin = Former Co-Founder; Kartik Narayan = CEO Jobs Marketplace vertical (Oct 2025).",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co funding rounds complete history",
+   "status": "done",
+   "found": "5 rounds: Seed Jul 2019 ($3M), Series A Mar 2021 ($12.5M), Series B Jun 2021 ($70M), Series C Sep 2021 ($100M). Total $194M. No funding since 2021.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co AI pivot BlueMachines.ai products",
+   "status": "done",
+   "found": "BlueMachines.ai launched Oct 2025; $6M enterprise contracts in 45 days; AI Calling Agent Aug 2025; AI Job Prep Jun 2025; Apna Safety Sep 2025.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co FY25 financials MCA",
+   "status": "done",
+   "found": "Operating revenue INR 122 Cr, net loss INR 50.1 Cr, total expenses INR 194 Cr. Revenue from recruitment INR 57.1 Cr (up 61%), software dev INR 63 Cr (down 31%).",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co WorkIndia acquisition YC W21 Axio $27M",
+   "status": "logged-no-result",
+   "found": "No evidence found for WorkIndia acquisition, YC W21 participation, or Axio $27M round. These may refer to Apna Mart (separate grocery entity) or may be incorrect.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co layoffs 2024 2025",
+   "status": "logged-no-result",
+   "found": "No layoffs found for Apna.co (jobs platform). Apna Mart (separate grocery entity) laid off ~10% workforce in May 2026 per HR Katha.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co Srinivas B V founder Apurva",
+   "status": "logged-no-result",
+   "found": "No evidence of Srinivas B V or Apurva as founders. Only founders are Nirmit Parikh and Aryan Kenchin.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co legal entity CIN MCA Tofler",
+   "status": "done",
+   "found": "Apnatime Tech Private Limited, CIN U74999HR2019PTC137533, incorporated 09 May 2019, Haryana. Two directors: Vidyut Harivadan Parikh and Nirmit Vidyut Parikh. Registered address in Mumbai per MCA.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co founders Nirmit Parikh Aryan Kenchin Kartik Narayan",
+   "status": "done",
+   "found": "Nirmit Parikh = Founder & Group CEO; Aryan Kenchin = Former Co-Founder; Kartik Narayan = CEO Jobs Marketplace vertical (Oct 2025).",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co funding rounds complete history",
+   "status": "done",
+   "found": "5 rounds: Seed Jul 2019 ($3M), Series A Mar 2021 ($12.5M), Series B Jun 2021 ($70M), Series C Sep 2021 ($100M). Total $194M. No funding since 2021.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co AI pivot BlueMachines.ai products",
+   "status": "done",
+   "found": "BlueMachines.ai launched Oct 2025; $6M enterprise contracts in 45 days; AI Calling Agent Aug 2025; AI Job Prep Jun 2025; Apna Safety Sep 2025.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co FY25 financials MCA",
+   "status": "done",
+   "found": "Operating revenue INR 122 Cr, net loss INR 50.1 Cr, total expenses INR 194 Cr. Revenue from recruitment INR 57.1 Cr (up 61%), software dev INR 63 Cr (down 31%).",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co WorkIndia acquisition YC W21 Axio $27M",
+   "status": "logged-no-result",
+   "found": "No evidence found for WorkIndia acquisition, YC W21 participation, or Axio $27M round. These may refer to Apna Mart (separate grocery entity) or may be incorrect.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co layoffs 2024 2025",
+   "status": "logged-no-result",
+   "found": "No layoffs found for Apna.co (jobs platform). Apna Mart (separate grocery entity) laid off ~10% workforce in May 2026 per HR Katha.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co Srinivas B V founder Apurva",
+   "status": "logged-no-result",
+   "found": "No evidence of Srinivas B V or Apurva as founders. Only founders are Nirmit Parikh and Aryan Kenchin.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co legal entity CIN MCA Tofler",
+   "status": "done",
+   "found": "Apnatime Tech Private Limited, CIN U74999HR2019PTC137533, incorporated 09 May 2019, Haryana. Two directors: Vidyut Harivadan Parikh and Nirmit Vidyut Parikh. Registered address in Mumbai per MCA.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co founders Nirmit Parikh Aryan Kenchin Kartik Narayan",
+   "status": "done",
+   "found": "Nirmit Parikh = Founder & Group CEO; Aryan Kenchin = Former Co-Founder; Kartik Narayan = CEO Jobs Marketplace vertical (Oct 2025).",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co funding rounds complete history",
+   "status": "done",
+   "found": "5 rounds: Seed Jul 2019 ($3M), Series A Mar 2021 ($12.5M), Series B Jun 2021 ($70M), Series C Sep 2021 ($100M). Total $194M. No funding since 2021.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co AI pivot BlueMachines.ai products",
+   "status": "done",
+   "found": "BlueMachines.ai launched Oct 2025; $6M enterprise contracts in 45 days; AI Calling Agent Aug 2025; AI Job Prep Jun 2025; Apna Safety Sep 2025.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co FY25 financials MCA",
+   "status": "done",
+   "found": "Operating revenue INR 122 Cr, net loss INR 50.1 Cr, total expenses INR 194 Cr. Revenue from recruitment INR 57.1 Cr (up 61%), software dev INR 63 Cr (down 31%).",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co WorkIndia acquisition YC W21 Axio $27M",
+   "status": "logged-no-result",
+   "found": "No evidence found for WorkIndia acquisition, YC W21 participation, or Axio $27M round. These may refer to Apna Mart (separate grocery entity) or may be incorrect.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co layoffs 2024 2025",
+   "status": "logged-no-result",
+   "found": "No layoffs found for Apna.co (jobs platform). Apna Mart (separate grocery entity) laid off ~10% workforce in May 2026 per HR Katha.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co Srinivas B V founder Apurva",
+   "status": "logged-no-result",
+   "found": "No evidence of Srinivas B V or Apurva as founders. Only founders are Nirmit Parikh and Aryan Kenchin.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co legal entity CIN MCA Tofler",
+   "status": "done",
+   "found": "Apnatime Tech Private Limited, CIN U74999HR2019PTC137533, incorporated 09 May 2019, Haryana. Two directors: Vidyut Harivadan Parikh and Nirmit Vidyut Parikh. Registered address in Mumbai per MCA.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co founders Nirmit Parikh Aryan Kenchin Kartik Narayan",
+   "status": "done",
+   "found": "Nirmit Parikh = Founder & Group CEO; Aryan Kenchin = Former Co-Founder; Kartik Narayan = CEO Jobs Marketplace vertical (Oct 2025).",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co funding rounds complete history",
+   "status": "done",
+   "found": "5 rounds: Seed Jul 2019 ($3M), Series A Mar 2021 ($12.5M), Series B Jun 2021 ($70M), Series C Sep 2021 ($100M). Total $194M. No funding since 2021.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co AI pivot BlueMachines.ai products",
+   "status": "done",
+   "found": "BlueMachines.ai launched Oct 2025; $6M enterprise contracts in 45 days; AI Calling Agent Aug 2025; AI Job Prep Jun 2025; Apna Safety Sep 2025.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co FY25 financials MCA",
+   "status": "done",
+   "found": "Operating revenue INR 122 Cr, net loss INR 50.1 Cr, total expenses INR 194 Cr. Revenue from recruitment INR 57.1 Cr (up 61%), software dev INR 63 Cr (down 31%).",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co WorkIndia acquisition YC W21 Axio $27M",
+   "status": "logged-no-result",
+   "found": "No evidence found for WorkIndia acquisition, YC W21 participation, or Axio $27M round. These may refer to Apna Mart (separate grocery entity) or may be incorrect.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co layoffs 2024 2025",
+   "status": "logged-no-result",
+   "found": "No layoffs found for Apna.co (jobs platform). Apna Mart (separate grocery entity) laid off ~10% workforce in May 2026 per HR Katha.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co Srinivas B V founder Apurva",
+   "status": "logged-no-result",
+   "found": "No evidence of Srinivas B V or Apurva as founders. Only founders are Nirmit Parikh and Aryan Kenchin.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co legal entity CIN MCA Tofler",
+   "status": "done",
+   "found": "Apnatime Tech Private Limited, CIN U74999HR2019PTC137533, incorporated 09 May 2019, Haryana. Two directors: Vidyut Harivadan Parikh and Nirmit Vidyut Parikh. Registered address in Mumbai per MCA.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co founders Nirmit Parikh Aryan Kenchin Kartik Narayan",
+   "status": "done",
+   "found": "Nirmit Parikh = Founder & Group CEO; Aryan Kenchin = Former Co-Founder; Kartik Narayan = CEO Jobs Marketplace vertical (Oct 2025).",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co funding rounds complete history",
+   "status": "done",
+   "found": "5 rounds: Seed Jul 2019 ($3M), Series A Mar 2021 ($12.5M), Series B Jun 2021 ($70M), Series C Sep 2021 ($100M). Total $194M. No funding since 2021.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co AI pivot BlueMachines.ai products",
+   "status": "done",
+   "found": "BlueMachines.ai launched Oct 2025; $6M enterprise contracts in 45 days; AI Calling Agent Aug 2025; AI Job Prep Jun 2025; Apna Safety Sep 2025.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co FY25 financials MCA",
+   "status": "done",
+   "found": "Operating revenue INR 122 Cr, net loss INR 50.1 Cr, total expenses INR 194 Cr. Revenue from recruitment INR 57.1 Cr (up 61%), software dev INR 63 Cr (down 31%).",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co WorkIndia acquisition YC W21 Axio $27M",
+   "status": "logged-no-result",
+   "found": "No evidence found for WorkIndia acquisition, YC W21 participation, or Axio $27M round. These may refer to Apna Mart (separate grocery entity) or may be incorrect.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co layoffs 2024 2025",
+   "status": "logged-no-result",
+   "found": "No layoffs found for Apna.co (jobs platform). Apna Mart (separate grocery entity) laid off ~10% workforce in May 2026 per HR Katha.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co Srinivas B V founder Apurva",
+   "status": "logged-no-result",
+   "found": "No evidence of Srinivas B V or Apurva as founders. Only founders are Nirmit Parikh and Aryan Kenchin.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co legal entity CIN MCA Tofler",
+   "status": "done",
+   "found": "Apnatime Tech Private Limited, CIN U74999HR2019PTC137533, incorporated 09 May 2019, Haryana. Two directors: Vidyut Harivadan Parikh and Nirmit Vidyut Parikh. Registered address in Mumbai per MCA.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co founders Nirmit Parikh Aryan Kenchin Kartik Narayan",
+   "status": "done",
+   "found": "Nirmit Parikh = Founder & Group CEO; Aryan Kenchin = Former Co-Founder; Kartik Narayan = CEO Jobs Marketplace vertical (Oct 2025).",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co funding rounds complete history",
+   "status": "done",
+   "found": "5 rounds: Seed Jul 2019 ($3M), Series A Mar 2021 ($12.5M), Series B Jun 2021 ($70M), Series C Sep 2021 ($100M). Total $194M. No funding since 2021.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co AI pivot BlueMachines.ai products",
+   "status": "done",
+   "found": "BlueMachines.ai launched Oct 2025; $6M enterprise contracts in 45 days; AI Calling Agent Aug 2025; AI Job Prep Jun 2025; Apna Safety Sep 2025.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co FY25 financials MCA",
+   "status": "done",
+   "found": "Operating revenue INR 122 Cr, net loss INR 50.1 Cr, total expenses INR 194 Cr. Revenue from recruitment INR 57.1 Cr (up 61%), software dev INR 63 Cr (down 31%).",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co WorkIndia acquisition YC W21 Axio $27M",
+   "status": "logged-no-result",
+   "found": "No evidence found for WorkIndia acquisition, YC W21 participation, or Axio $27M round. These may refer to Apna Mart (separate grocery entity) or may be incorrect.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co layoffs 2024 2025",
+   "status": "logged-no-result",
+   "found": "No layoffs found for Apna.co (jobs platform). Apna Mart (separate grocery entity) laid off ~10% workforce in May 2026 per HR Katha.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co Srinivas B V founder Apurva",
+   "status": "logged-no-result",
+   "found": "No evidence of Srinivas B V or Apurva as founders. Only founders are Nirmit Parikh and Aryan Kenchin.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co legal entity CIN MCA Tofler",
+   "status": "done",
+   "found": "Apnatime Tech Private Limited, CIN U74999HR2019PTC137533, incorporated 09 May 2019, Haryana. Two directors: Vidyut Harivadan Parikh and Nirmit Vidyut Parikh. Registered address in Mumbai per MCA.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co founders Nirmit Parikh Aryan Kenchin Kartik Narayan",
+   "status": "done",
+   "found": "Nirmit Parikh = Founder & Group CEO; Aryan Kenchin = Former Co-Founder; Kartik Narayan = CEO Jobs Marketplace vertical (Oct 2025).",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co funding rounds complete history",
+   "status": "done",
+   "found": "5 rounds: Seed Jul 2019 ($3M), Series A Mar 2021 ($12.5M), Series B Jun 2021 ($70M), Series C Sep 2021 ($100M). Total $194M. No funding since 2021.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co AI pivot BlueMachines.ai products",
+   "status": "done",
+   "found": "BlueMachines.ai launched Oct 2025; $6M enterprise contracts in 45 days; AI Calling Agent Aug 2025; AI Job Prep Jun 2025; Apna Safety Sep 2025.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co FY25 financials MCA",
+   "status": "done",
+   "found": "Operating revenue INR 122 Cr, net loss INR 50.1 Cr, total expenses INR 194 Cr. Revenue from recruitment INR 57.1 Cr (up 61%), software dev INR 63 Cr (down 31%).",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co WorkIndia acquisition YC W21 Axio $27M",
+   "status": "logged-no-result",
+   "found": "No evidence found for WorkIndia acquisition, YC W21 participation, or Axio $27M round. These may refer to Apna Mart (separate grocery entity) or may be incorrect.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co layoffs 2024 2025",
+   "status": "logged-no-result",
+   "found": "No layoffs found for Apna.co (jobs platform). Apna Mart (separate grocery entity) laid off ~10% workforce in May 2026 per HR Katha.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co Srinivas B V founder Apurva",
+   "status": "logged-no-result",
+   "found": "No evidence of Srinivas B V or Apurva as founders. Only founders are Nirmit Parikh and Aryan Kenchin.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co legal entity CIN MCA Tofler",
+   "status": "done",
+   "found": "Apnatime Tech Private Limited, CIN U74999HR2019PTC137533, incorporated 09 May 2019, Haryana. Two directors: Vidyut Harivadan Parikh and Nirmit Vidyut Parikh. Registered address in Mumbai per MCA.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co founders Nirmit Parikh Aryan Kenchin Kartik Narayan",
+   "status": "done",
+   "found": "Nirmit Parikh = Founder & Group CEO; Aryan Kenchin = Former Co-Founder; Kartik Narayan = CEO Jobs Marketplace vertical (Oct 2025).",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co funding rounds complete history",
+   "status": "done",
+   "found": "5 rounds: Seed Jul 2019 ($3M), Series A Mar 2021 ($12.5M), Series B Jun 2021 ($70M), Series C Sep 2021 ($100M). Total $194M. No funding since 2021.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co AI pivot BlueMachines.ai products",
+   "status": "done",
+   "found": "BlueMachines.ai launched Oct 2025; $6M enterprise contracts in 45 days; AI Calling Agent Aug 2025; AI Job Prep Jun 2025; Apna Safety Sep 2025.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co FY25 financials MCA",
+   "status": "done",
+   "found": "Operating revenue INR 122 Cr, net loss INR 50.1 Cr, total expenses INR 194 Cr. Revenue from recruitment INR 57.1 Cr (up 61%), software dev INR 63 Cr (down 31%).",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co WorkIndia acquisition YC W21 Axio $27M",
+   "status": "logged-no-result",
+   "found": "No evidence found for WorkIndia acquisition, YC W21 participation, or Axio $27M round. These may refer to Apna Mart (separate grocery entity) or may be incorrect.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co layoffs 2024 2025",
+   "status": "logged-no-result",
+   "found": "No layoffs found for Apna.co (jobs platform). Apna Mart (separate grocery entity) laid off ~10% workforce in May 2026 per HR Katha.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co Srinivas B V founder Apurva",
+   "status": "logged-no-result",
+   "found": "No evidence of Srinivas B V or Apurva as founders. Only founders are Nirmit Parikh and Aryan Kenchin.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co legal entity CIN MCA Tofler",
+   "status": "done",
+   "found": "Apnatime Tech Private Limited, CIN U74999HR2019PTC137533, incorporated 09 May 2019, Haryana. Two directors: Vidyut Harivadan Parikh and Nirmit Vidyut Parikh. Registered address in Mumbai per MCA.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co founders Nirmit Parikh Aryan Kenchin Kartik Narayan",
+   "status": "done",
+   "found": "Nirmit Parikh = Founder & Group CEO; Aryan Kenchin = Former Co-Founder; Kartik Narayan = CEO Jobs Marketplace vertical (Oct 2025).",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co funding rounds complete history",
+   "status": "done",
+   "found": "5 rounds: Seed Jul 2019 ($3M), Series A Mar 2021 ($12.5M), Series B Jun 2021 ($70M), Series C Sep 2021 ($100M). Total $194M. No funding since 2021.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co AI pivot BlueMachines.ai products",
+   "status": "done",
+   "found": "BlueMachines.ai launched Oct 2025; $6M enterprise contracts in 45 days; AI Calling Agent Aug 2025; AI Job Prep Jun 2025; Apna Safety Sep 2025.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co FY25 financials MCA",
+   "status": "done",
+   "found": "Operating revenue INR 122 Cr, net loss INR 50.1 Cr, total expenses INR 194 Cr. Revenue from recruitment INR 57.1 Cr (up 61%), software dev INR 63 Cr (down 31%).",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co WorkIndia acquisition YC W21 Axio $27M",
+   "status": "logged-no-result",
+   "found": "No evidence found for WorkIndia acquisition, YC W21 participation, or Axio $27M round. These may refer to Apna Mart (separate grocery entity) or may be incorrect.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co layoffs 2024 2025",
+   "status": "logged-no-result",
+   "found": "No layoffs found for Apna.co (jobs platform). Apna Mart (separate grocery entity) laid off ~10% workforce in May 2026 per HR Katha.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co Srinivas B V founder Apurva",
+   "status": "logged-no-result",
+   "found": "No evidence of Srinivas B V or Apurva as founders. Only founders are Nirmit Parikh and Aryan Kenchin.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co legal entity CIN MCA Tofler",
+   "status": "done",
+   "found": "Apnatime Tech Private Limited, CIN U74999HR2019PTC137533, incorporated 09 May 2019, Haryana. Two directors: Vidyut Harivadan Parikh and Nirmit Vidyut Parikh. Registered address in Mumbai per MCA.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co founders Nirmit Parikh Aryan Kenchin Kartik Narayan",
+   "status": "done",
+   "found": "Nirmit Parikh = Founder & Group CEO; Aryan Kenchin = Former Co-Founder; Kartik Narayan = CEO Jobs Marketplace vertical (Oct 2025).",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co funding rounds complete history",
+   "status": "done",
+   "found": "5 rounds: Seed Jul 2019 ($3M), Series A Mar 2021 ($12.5M), Series B Jun 2021 ($70M), Series C Sep 2021 ($100M). Total $194M. No funding since 2021.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co AI pivot BlueMachines.ai products",
+   "status": "done",
+   "found": "BlueMachines.ai launched Oct 2025; $6M enterprise contracts in 45 days; AI Calling Agent Aug 2025; AI Job Prep Jun 2025; Apna Safety Sep 2025.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co FY25 financials MCA",
+   "status": "done",
+   "found": "Operating revenue INR 122 Cr, net loss INR 50.1 Cr, total expenses INR 194 Cr. Revenue from recruitment INR 57.1 Cr (up 61%), software dev INR 63 Cr (down 31%).",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co WorkIndia acquisition YC W21 Axio $27M",
+   "status": "logged-no-result",
+   "found": "No evidence found for WorkIndia acquisition, YC W21 participation, or Axio $27M round. These may refer to Apna Mart (separate grocery entity) or may be incorrect.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co layoffs 2024 2025",
+   "status": "logged-no-result",
+   "found": "No layoffs found for Apna.co (jobs platform). Apna Mart (separate grocery entity) laid off ~10% workforce in May 2026 per HR Katha.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co Srinivas B V founder Apurva",
+   "status": "logged-no-result",
+   "found": "No evidence of Srinivas B V or Apurva as founders. Only founders are Nirmit Parikh and Aryan Kenchin.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co legal entity CIN MCA Tofler",
+   "status": "done",
+   "found": "Apnatime Tech Private Limited, CIN U74999HR2019PTC137533, incorporated 09 May 2019, Haryana. Two directors: Vidyut Harivadan Parikh and Nirmit Vidyut Parikh. Registered address in Mumbai per MCA.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co founders Nirmit Parikh Aryan Kenchin Kartik Narayan",
+   "status": "done",
+   "found": "Nirmit Parikh = Founder & Group CEO; Aryan Kenchin = Former Co-Founder; Kartik Narayan = CEO Jobs Marketplace vertical (Oct 2025).",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co funding rounds complete history",
+   "status": "done",
+   "found": "5 rounds: Seed Jul 2019 ($3M), Series A Mar 2021 ($12.5M), Series B Jun 2021 ($70M), Series C Sep 2021 ($100M). Total $194M. No funding since 2021.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co AI pivot BlueMachines.ai products",
+   "status": "done",
+   "found": "BlueMachines.ai launched Oct 2025; $6M enterprise contracts in 45 days; AI Calling Agent Aug 2025; AI Job Prep Jun 2025; Apna Safety Sep 2025.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co FY25 financials MCA",
+   "status": "done",
+   "found": "Operating revenue INR 122 Cr, net loss INR 50.1 Cr, total expenses INR 194 Cr. Revenue from recruitment INR 57.1 Cr (up 61%), software dev INR 63 Cr (down 31%).",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co WorkIndia acquisition YC W21 Axio $27M",
+   "status": "logged-no-result",
+   "found": "No evidence found for WorkIndia acquisition, YC W21 participation, or Axio $27M round. These may refer to Apna Mart (separate grocery entity) or may be incorrect.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co layoffs 2024 2025",
+   "status": "logged-no-result",
+   "found": "No layoffs found for Apna.co (jobs platform). Apna Mart (separate grocery entity) laid off ~10% workforce in May 2026 per HR Katha.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co Srinivas B V founder Apurva",
+   "status": "logged-no-result",
+   "found": "No evidence of Srinivas B V or Apurva as founders. Only founders are Nirmit Parikh and Aryan Kenchin.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co legal entity CIN MCA Tofler",
+   "status": "done",
+   "found": "Apnatime Tech Private Limited, CIN U74999HR2019PTC137533, incorporated 09 May 2019, Haryana. Two directors: Vidyut Harivadan Parikh and Nirmit Vidyut Parikh. Registered address in Mumbai per MCA.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co founders Nirmit Parikh Aryan Kenchin Kartik Narayan",
+   "status": "done",
+   "found": "Nirmit Parikh = Founder & Group CEO; Aryan Kenchin = Former Co-Founder; Kartik Narayan = CEO Jobs Marketplace vertical (Oct 2025).",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co funding rounds complete history",
+   "status": "done",
+   "found": "5 rounds: Seed Jul 2019 ($3M), Series A Mar 2021 ($12.5M), Series B Jun 2021 ($70M), Series C Sep 2021 ($100M). Total $194M. No funding since 2021.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co AI pivot BlueMachines.ai products",
+   "status": "done",
+   "found": "BlueMachines.ai launched Oct 2025; $6M enterprise contracts in 45 days; AI Calling Agent Aug 2025; AI Job Prep Jun 2025; Apna Safety Sep 2025.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co FY25 financials MCA",
+   "status": "done",
+   "found": "Operating revenue INR 122 Cr, net loss INR 50.1 Cr, total expenses INR 194 Cr. Revenue from recruitment INR 57.1 Cr (up 61%), software dev INR 63 Cr (down 31%).",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co WorkIndia acquisition YC W21 Axio $27M",
+   "status": "logged-no-result",
+   "found": "No evidence found for WorkIndia acquisition, YC W21 participation, or Axio $27M round. These may refer to Apna Mart (separate grocery entity) or may be incorrect.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co layoffs 2024 2025",
+   "status": "logged-no-result",
+   "found": "No layoffs found for Apna.co (jobs platform). Apna Mart (separate grocery entity) laid off ~10% workforce in May 2026 per HR Katha.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co Srinivas B V founder Apurva",
+   "status": "logged-no-result",
+   "found": "No evidence of Srinivas B V or Apurva as founders. Only founders are Nirmit Parikh and Aryan Kenchin.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co legal entity CIN MCA Tofler",
+   "status": "done",
+   "found": "Apnatime Tech Private Limited, CIN U74999HR2019PTC137533, incorporated 09 May 2019, Haryana. Two directors: Vidyut Harivadan Parikh and Nirmit Vidyut Parikh. Registered address in Mumbai per MCA.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co founders Nirmit Parikh Aryan Kenchin Kartik Narayan",
+   "status": "done",
+   "found": "Nirmit Parikh = Founder & Group CEO; Aryan Kenchin = Former Co-Founder; Kartik Narayan = CEO Jobs Marketplace vertical (Oct 2025).",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co funding rounds complete history",
+   "status": "done",
+   "found": "5 rounds: Seed Jul 2019 ($3M), Series A Mar 2021 ($12.5M), Series B Jun 2021 ($70M), Series C Sep 2021 ($100M). Total $194M. No funding since 2021.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co AI pivot BlueMachines.ai products",
+   "status": "done",
+   "found": "BlueMachines.ai launched Oct 2025; $6M enterprise contracts in 45 days; AI Calling Agent Aug 2025; AI Job Prep Jun 2025; Apna Safety Sep 2025.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co FY25 financials MCA",
+   "status": "done",
+   "found": "Operating revenue INR 122 Cr, net loss INR 50.1 Cr, total expenses INR 194 Cr. Revenue from recruitment INR 57.1 Cr (up 61%), software dev INR 63 Cr (down 31%).",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co WorkIndia acquisition YC W21 Axio $27M",
+   "status": "logged-no-result",
+   "found": "No evidence found for WorkIndia acquisition, YC W21 participation, or Axio $27M round. These may refer to Apna Mart (separate grocery entity) or may be incorrect.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co layoffs 2024 2025",
+   "status": "logged-no-result",
+   "found": "No layoffs found for Apna.co (jobs platform). Apna Mart (separate grocery entity) laid off ~10% workforce in May 2026 per HR Katha.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co Srinivas B V founder Apurva",
+   "status": "logged-no-result",
+   "found": "No evidence of Srinivas B V or Apurva as founders. Only founders are Nirmit Parikh and Aryan Kenchin.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co legal entity CIN MCA Tofler",
+   "status": "done",
+   "found": "Apnatime Tech Private Limited, CIN U74999HR2019PTC137533, incorporated 09 May 2019, Haryana. Two directors: Vidyut Harivadan Parikh and Nirmit Vidyut Parikh. Registered address in Mumbai per MCA.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co founders Nirmit Parikh Aryan Kenchin Kartik Narayan",
+   "status": "done",
+   "found": "Nirmit Parikh = Founder & Group CEO; Aryan Kenchin = Former Co-Founder; Kartik Narayan = CEO Jobs Marketplace vertical (Oct 2025).",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co funding rounds complete history",
+   "status": "done",
+   "found": "5 rounds: Seed Jul 2019 ($3M), Series A Mar 2021 ($12.5M), Series B Jun 2021 ($70M), Series C Sep 2021 ($100M). Total $194M. No funding since 2021.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co AI pivot BlueMachines.ai products",
+   "status": "done",
+   "found": "BlueMachines.ai launched Oct 2025; $6M enterprise contracts in 45 days; AI Calling Agent Aug 2025; AI Job Prep Jun 2025; Apna Safety Sep 2025.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co FY25 financials MCA",
+   "status": "done",
+   "found": "Operating revenue INR 122 Cr, net loss INR 50.1 Cr, total expenses INR 194 Cr. Revenue from recruitment INR 57.1 Cr (up 61%), software dev INR 63 Cr (down 31%).",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co WorkIndia acquisition YC W21 Axio $27M",
+   "status": "logged-no-result",
+   "found": "No evidence found for WorkIndia acquisition, YC W21 participation, or Axio $27M round. These may refer to Apna Mart (separate grocery entity) or may be incorrect.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co layoffs 2024 2025",
+   "status": "logged-no-result",
+   "found": "No layoffs found for Apna.co (jobs platform). Apna Mart (separate grocery entity) laid off ~10% workforce in May 2026 per HR Katha.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co Srinivas B V founder Apurva",
+   "status": "logged-no-result",
+   "found": "No evidence of Srinivas B V or Apurva as founders. Only founders are Nirmit Parikh and Aryan Kenchin.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co legal entity CIN MCA Tofler",
+   "status": "done",
+   "found": "Apnatime Tech Private Limited, CIN U74999HR2019PTC137533, incorporated 09 May 2019, Haryana. Two directors: Vidyut Harivadan Parikh and Nirmit Vidyut Parikh. Registered address in Mumbai per MCA.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co founders Nirmit Parikh Aryan Kenchin Kartik Narayan",
+   "status": "done",
+   "found": "Nirmit Parikh = Founder & Group CEO; Aryan Kenchin = Former Co-Founder; Kartik Narayan = CEO Jobs Marketplace vertical (Oct 2025).",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co funding rounds complete history",
+   "status": "done",
+   "found": "5 rounds: Seed Jul 2019 ($3M), Series A Mar 2021 ($12.5M), Series B Jun 2021 ($70M), Series C Sep 2021 ($100M). Total $194M. No funding since 2021.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co AI pivot BlueMachines.ai products",
+   "status": "done",
+   "found": "BlueMachines.ai launched Oct 2025; $6M enterprise contracts in 45 days; AI Calling Agent Aug 2025; AI Job Prep Jun 2025; Apna Safety Sep 2025.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co FY25 financials MCA",
+   "status": "done",
+   "found": "Operating revenue INR 122 Cr, net loss INR 50.1 Cr, total expenses INR 194 Cr. Revenue from recruitment INR 57.1 Cr (up 61%), software dev INR 63 Cr (down 31%).",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co WorkIndia acquisition YC W21 Axio $27M",
+   "status": "logged-no-result",
+   "found": "No evidence found for WorkIndia acquisition, YC W21 participation, or Axio $27M round. These may refer to Apna Mart (separate grocery entity) or may be incorrect.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co layoffs 2024 2025",
+   "status": "logged-no-result",
+   "found": "No layoffs found for Apna.co (jobs platform). Apna Mart (separate grocery entity) laid off ~10% workforce in May 2026 per HR Katha.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co Srinivas B V founder Apurva",
+   "status": "logged-no-result",
+   "found": "No evidence of Srinivas B V or Apurva as founders. Only founders are Nirmit Parikh and Aryan Kenchin.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co legal entity CIN MCA Tofler",
+   "status": "done",
+   "found": "Apnatime Tech Private Limited, CIN U74999HR2019PTC137533, incorporated 09 May 2019, Haryana. Two directors: Vidyut Harivadan Parikh and Nirmit Vidyut Parikh. Registered address in Mumbai per MCA.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co founders Nirmit Parikh Aryan Kenchin Kartik Narayan",
+   "status": "done",
+   "found": "Nirmit Parikh = Founder & Group CEO; Aryan Kenchin = Former Co-Founder; Kartik Narayan = CEO Jobs Marketplace vertical (Oct 2025).",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co funding rounds complete history",
+   "status": "done",
+   "found": "5 rounds: Seed Jul 2019 ($3M), Series A Mar 2021 ($12.5M), Series B Jun 2021 ($70M), Series C Sep 2021 ($100M). Total $194M. No funding since 2021.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co AI pivot BlueMachines.ai products",
+   "status": "done",
+   "found": "BlueMachines.ai launched Oct 2025; $6M enterprise contracts in 45 days; AI Calling Agent Aug 2025; AI Job Prep Jun 2025; Apna Safety Sep 2025.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co FY25 financials MCA",
+   "status": "done",
+   "found": "Operating revenue INR 122 Cr, net loss INR 50.1 Cr, total expenses INR 194 Cr. Revenue from recruitment INR 57.1 Cr (up 61%), software dev INR 63 Cr (down 31%).",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co WorkIndia acquisition YC W21 Axio $27M",
+   "status": "logged-no-result",
+   "found": "No evidence found for WorkIndia acquisition, YC W21 participation, or Axio $27M round. These may refer to Apna Mart (separate grocery entity) or may be incorrect.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co layoffs 2024 2025",
+   "status": "logged-no-result",
+   "found": "No layoffs found for Apna.co (jobs platform). Apna Mart (separate grocery entity) laid off ~10% workforce in May 2026 per HR Katha.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co Srinivas B V founder Apurva",
+   "status": "logged-no-result",
+   "found": "No evidence of Srinivas B V or Apurva as founders. Only founders are Nirmit Parikh and Aryan Kenchin.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co legal entity CIN MCA Tofler",
+   "status": "done",
+   "found": "Apnatime Tech Private Limited, CIN U74999HR2019PTC137533, incorporated 09 May 2019, Haryana. Two directors: Vidyut Harivadan Parikh and Nirmit Vidyut Parikh. Registered address in Mumbai per MCA.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co founders Nirmit Parikh Aryan Kenchin Kartik Narayan",
+   "status": "done",
+   "found": "Nirmit Parikh = Founder & Group CEO; Aryan Kenchin = Former Co-Founder; Kartik Narayan = CEO Jobs Marketplace vertical (Oct 2025).",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co funding rounds complete history",
+   "status": "done",
+   "found": "5 rounds: Seed Jul 2019 ($3M), Series A Mar 2021 ($12.5M), Series B Jun 2021 ($70M), Series C Sep 2021 ($100M). Total $194M. No funding since 2021.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co AI pivot BlueMachines.ai products",
+   "status": "done",
+   "found": "BlueMachines.ai launched Oct 2025; $6M enterprise contracts in 45 days; AI Calling Agent Aug 2025; AI Job Prep Jun 2025; Apna Safety Sep 2025.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co FY25 financials MCA",
+   "status": "done",
+   "found": "Operating revenue INR 122 Cr, net loss INR 50.1 Cr, total expenses INR 194 Cr. Revenue from recruitment INR 57.1 Cr (up 61%), software dev INR 63 Cr (down 31%).",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co WorkIndia acquisition YC W21 Axio $27M",
+   "status": "logged-no-result",
+   "found": "No evidence found for WorkIndia acquisition, YC W21 participation, or Axio $27M round. These may refer to Apna Mart (separate grocery entity) or may be incorrect.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co layoffs 2024 2025",
+   "status": "logged-no-result",
+   "found": "No layoffs found for Apna.co (jobs platform). Apna Mart (separate grocery entity) laid off ~10% workforce in May 2026 per HR Katha.",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Apna.co Srinivas B V founder Apurva",
+   "status": "logged-no-result",
+   "found": "No evidence of Srinivas B V or Apurva as founders. Only founders are Nirmit Parikh and Aryan Kenchin.",
+   "next_action": "none"
+  }
+ ],
+ "sources": [
+  {
+   "publisher": "Tracxn",
+   "title": "Apna company profile",
+   "url": "https://tracxn.com/d/companies/apna/__UTcOz_R9Flutxq8RerYdtrlPxtxnXQAjcBTiXLgJon4"
+  },
+  {
+   "publisher": "Inc42",
+   "title": "Apna Narrows FY25 Loss To INR 50 Cr Even As Revenue Dips",
+   "url": "https://inc42.com/buzz/apna-narrows-fy25-loss-to-inr-50-cr-even-as-revenue-dips/"
+  },
+  {
+   "publisher": "The Hindu BusinessLine",
+   "title": "Apna eyes Rs 150 crore revenue from AI-led push",
+   "url": "https://www.thehindubusinessline.com/info-tech/apna-eyes-150-crore-revenue-from-ai-led-push-for-indias-300-million-blue-collar-workers/article71072753.ece"
+  },
+  {
+   "publisher": "PitchBook",
+   "title": "Apna 2026 Company Profile",
+   "url": "https://pitchbook.com/profiles/company/277313-68"
+  },
+  {
+   "url": "https://inc42.com/buzz/apna-becomes-indias-fastest-unicorn-after-raising-100-mn/",
+   "title": "",
+   "fields": "FUNDING",
+   "confidence": "MEDIUM"
+  },
+  {
+   "url": "https://www.tofler.in/apnatime-tech-private-limited/company/U74999HR2019PTC137533",
+   "title": "Apnatime Tech Financials | Company Details - Tofler",
+   "fields": [
+    "cin",
+    "incorporation_date"
+   ],
+   "confidence": "high"
+  },
+  {
+   "url": "https://hr.economictimes.indiatimes.com/news/industry/apna-appoints-kartik-narayan-as-ceo-of-jobs-marketplace/124783976",
+   "title": "",
+   "fields": "PEOPLE",
+   "confidence": "HIGH"
+  },
+  {
+   "url": "https://www.peoplematters.in/news/appointments/apna-appoints-john-philip-as-chief-business-officer-for-its-ai-platform-bluemachinesai-47318",
+   "title": "",
+   "fields": "PEOPLE",
+   "confidence": "MEDIUM"
+  },
+  {
+   "url": "https://www.fortuneindia.com/business-news/unicorn-startup-apna-bets-big-on-voice-ai-with-blue-machines-to-speed-up-enterprise-deployments/127523",
+   "title": "",
+   "fields": "PEOPLE",
+   "confidence": "MEDIUM"
+  },
+  {
+   "url": "https://entrackr.com/snippets/apnaco-expands-into-voice-ai-with-bluemachinesai-sees-fast-enterprise-ai-adoption-10561621",
+   "title": "",
+   "fields": "company",
+   "confidence": "HIGH"
+  },
+  {
+   "url": "https://apna.co",
+   "title": "",
+   "fields": "company",
+   "confidence": "HIGH"
+  },
+  {
+   "url": "https://education.economictimes.indiatimes.com/news/higher-education/aicte-signs-mou-with-jobs-and-networking-platform-apna-co/108071721",
+   "title": "",
+   "fields": "company",
+   "confidence": "HIGH"
+  },
+  {
+   "url": "https://www.hrkatha.com/people/movement/kartik-narayan-of-teamlease-services-is-now-ceo-apna/",
+   "title": "",
+   "fields": "company",
+   "confidence": "MEDIUM"
+  }
+ ],
+ "startup_id": "apna",
+ "_merged_session2": true,
+ "people": [
+  {
+   "name": "Nirmit Parikh",
+   "role": "Founder & Group CEO",
+   "title": "Founder and Group CEO",
+   "current": true,
+   "since": "2019",
+   "prior_role": "",
+   "source_url": "https://tracxn.com/d/companies/apna/__UTcOz_R9Flutxq8RerYdtrlPxtxnXQAjcBTiXLgJon4",
+   "confidence": "HIGH",
+   "background": "Also founder of Blue Machines and Cruxbot; angel investor",
+   "education": ""
+  },
+  {
+   "name": "Aryan Kenchin",
+   "role": "Former Co-Founder",
+   "title": "Co-Founder",
+   "current": false,
+   "since": "2019",
+   "prior_role": "",
+   "source_url": "https://tracxn.com/d/companies/apna/__UTcOz_R9Flutxq8RerYdtrlPxtxnXQAjcBTiXLgJon4",
+   "confidence": "HIGH",
+   "background": "Listed as Former Co-Founder on Tracxn",
+   "education": ""
+  },
+  {
+   "name": "Kartik Narayan",
+   "role": "CEO - Jobs Marketplace",
+   "title": "CEO, Jobs Marketplace vertical",
+   "current": true,
+   "since": "2025-10-24",
+   "prior_role": "CEO of TeamLease Staffing Business",
+   "source_url": "https://hr.economictimes.indiatimes.com/news/industry/apna-appoints-kartik-narayan-as-ceo-of-jobs-marketplace/124783976",
+   "confidence": "HIGH",
+   "background": "24-year career spanning TeamLease, Vodafone Idea, Cisco, Bharti Airtel; 20 years in financial and operational leadership; Executive Board Member of Indian Staffing Federation (2024-2025)",
+   "education": ""
+  },
+  {
+   "name": "Vidyut Harivadan Parikh",
+   "role": "Director",
+   "title": "Director",
+   "current": true,
+   "since": "2019",
+   "prior_role": "",
+   "source_url": "https://www.tofler.in/apnatime-tech-private-limited/company/U74999HR2019PTC137533",
+   "confidence": "HIGH",
+   "background": "Director of Apnatime Tech; DIN 06452010",
+   "education": ""
+  },
+  {
+   "name": "Komal Lakhwani",
+   "role": "Company Secretary",
+   "title": "Company Secretary",
+   "current": true,
+   "since": "",
+   "prior_role": "",
+   "source_url": "https://www.tofler.in/apnatime-tech-private-limited/company/U74999HR2019PTC137533",
+   "confidence": "HIGH",
+   "background": "Company Secretary per Tofler",
+   "education": ""
+  },
+  {
+   "name": "John Philip",
+   "role": "CBO - BlueMachines.ai",
+   "title": "Chief Business Officer",
+   "current": true,
+   "since": "2025-11",
+   "prior_role": "",
+   "source_url": "https://www.peoplematters.in/news/appointments/apna-appoints-john-philip-as-chief-business-officer-for-its-ai-platform-bluemachinesai-47318",
+   "confidence": "MEDIUM",
+   "background": "Over two decades in enterprise technology, telecom, cloud infrastructure, AI-led solutions",
+   "education": ""
+  },
+  {
+   "name": "Kshitij Jain",
+   "role": "COO - BlueMachines.ai",
+   "title": "COO",
+   "current": true,
+   "since": "",
+   "prior_role": "",
+   "source_url": "https://www.fortuneindia.com/business-news/unicorn-startup-apna-bets-big-on-voice-ai-with-blue-machines-to-speed-up-enterprise-deployments/127523",
+   "confidence": "MEDIUM",
+   "background": "COO of Blue Machines",
+   "education": ""
+  }
+ ],
+ "traction": [
+  {
+   "metric": "registered_job_seekers",
+   "value": 50000000,
+   "unit": "count",
+   "period": "As-of-2026-09-15",
+   "as_of": "2026-09-15",
+   "company_reported": true,
+   "source_url": "https://apna.co",
+   "confidence": "HIGH",
+   "notes": "Apna.co homepage states 5 crore+ job seekers"
+  },
+  {
+   "metric": "registered_employers_msmes",
+   "value": 700000,
+   "unit": "count",
+   "period": "As-of-2026-09-15",
+   "as_of": "2026-09-15",
+   "company_reported": true,
+   "source_url": "https://apna.co",
+   "confidence": "HIGH",
+   "notes": "Apna.co homepage states 7 lakh+ MSMEs and 1000+ enterprises"
+  },
+  {
+   "metric": "career_opportunities_listed",
+   "value": 5000000,
+   "unit": "count",
+   "period": "As-of-2026-09-15",
+   "as_of": "2026-09-15",
+   "company_reported": true,
+   "source_url": "https://apna.co",
+   "confidence": "HIGH",
+   "notes": "Apna.co homepage states 50 lakh+ career opportunities"
+  },
+  {
+   "metric": "job_applications",
+   "value": 18100000,
+   "unit": "count",
+   "period": "Q1-2025",
+   "as_of": "2025-03-31",
+   "company_reported": true,
+   "source_url": "https://inc42.com/buzz/apna-narrows-fy25-loss-to-inr-50-cr-even-as-revenue-dips/",
+   "source_title": "Apna Narrows FY25 Loss To INR 50 Cr",
+   "confidence": "HIGH",
+   "notes": "30% YoY jump in Q1 2025"
+  },
+  {
+   "metric": "app_downloads",
+   "value": 50000000,
+   "unit": "count",
+   "period": "As-of-2026-09-15",
+   "as_of": "2026-09-15",
+   "company_reported": true,
+   "source_url": "https://apna.co",
+   "confidence": "HIGH",
+   "notes": "5cr+ downloads per Apna.co homepage"
+  },
+  {
+   "metric": "employee_count",
+   "value": 745,
+   "unit": "count",
+   "period": "As-of-2025-08-31",
+   "as_of": "2025-08-31",
+   "company_reported": false,
+   "source_url": "https://tracxn.com/d/companies/apna/__UTcOz_R9Flutxq8RerYdtrlPxtxnXQAjcBTiXLgJon4",
+   "source_title": "Apna Tracxn Profile",
+   "confidence": "MEDIUM",
+   "notes": "Tracxn employee count"
+  },
+  {
+   "metric": "enterprise_ai_contracts",
+   "value": 6000000,
+   "unit": "USD",
+   "period": "45-days-from-Oct-2025",
+   "as_of": "2025-11-28",
+   "company_reported": true,
+   "source_url": "https://www.fortuneindia.com/business-news/unicorn-startup-apna-bets-big-on-voice-ai-with-blue-machines-to-speed-up-enterprise-deployments/127523",
+   "source_title": "Fortune India: Apna bets big on voice AI",
+   "confidence": "MEDIUM",
+   "notes": "BlueMachines.ai signed $6M in enterprise contracts within 45 days"
+  },
+  {
+   "metric": "core_business_growth",
+   "value": 52,
+   "unit": "percent",
+   "period": "2025",
+   "as_of": "2025-12-31",
+   "company_reported": true,
+   "source_url": "https://www.fortuneindia.com/business-news/unicorn-startup-apna-bets-big-on-voice-ai-with-blue-machines-to-speed-up-enterprise-deployments/127523",
+   "source_title": "Fortune India: Apna bets big on voice AI",
+   "confidence": "MEDIUM",
+   "notes": "52% YoY growth in core business in 2025"
+  },
+  {
+   "metric": "recruiters_verified_ai",
+   "value": 146000,
+   "unit": "count",
+   "period": "Aug-Sep 2025",
+   "as_of": "2025-09-30",
+   "company_reported": true,
+   "source_url": "https://www.fortuneindia.com/business-news/unicorn-startup-apna-bets-big-on-voice-ai-with-blue-machines-to-speed-up-enterprise-deployments/127523",
+   "source_title": "Fortune India: Apna bets big on voice AI",
+   "confidence": "MEDIUM",
+   "notes": "Apna Safety AI verification; 45% reduction in fraud exposure"
+  },
+  {
+   "metric": "ai_interviews_completed",
+   "value": 3900000,
+   "unit": "minutes",
+   "period": "As-of-Jun-2025",
+   "as_of": "2025-06-12",
+   "company_reported": true,
+   "source_url": "https://tracxn.com/d/companies/apna/__UTcOz_R9Flutxq8RerYdtrlPxtxnXQAjcBTiXLgJon4",
+   "source_title": "Apna Tracxn Profile (news section)",
+   "confidence": "MEDIUM",
+   "notes": "39 lakh minutes across 7.6 lakh AI interviews"
+  }
+ ],
+ "products": [
+  {
+   "name": "Apna.co",
+   "category": "jobs marketplace",
+   "description": "AI-powered professional networking and job search platform for blue/grey-collar workers. Connects job seekers with employers via mobile-first interface.",
+   "pricing_model": "freemium + pay-per-hire (PPH) + enterprise SaaS",
+   "launch_date": "2019",
+   "status": "active",
+   "source_url": "https://apna.co",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "BlueMachines.ai",
+   "category": "enterprise voice AI",
+   "description": "Enterprise-grade voice AI agent platform for deploying production-ready AI voice agents. Sub-300ms latency, multilingual Indian language support, enterprise data governance.",
+   "pricing_model": "enterprise contracts",
+   "launch_date": "2025-10-14",
+   "status": "active",
+   "source_url": "https://entrackr.com/snippets/apnaco-expands-into-voice-ai-with-bluemachinesai-sees-fast-enterprise-ai-adoption-10561621",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Apna Safety",
+   "category": "trust & safety",
+   "description": "AI-powered recruiter verification system to prevent job scams. Verified 146,000+ recruiters via AI checks.",
+   "pricing_model": "free",
+   "launch_date": "2025-09",
+   "status": "active",
+   "source_url": "https://www.fortuneindia.com/business-news/unicorn-startup-apna-bets-big-on-voice-ai-with-blue-machines-to-speed-up-enterprise-deployments/127523",
+   "confidence": "MEDIUM"
+  },
+  {
+   "name": "AICTE Career Portal (SWAYAM Plus)",
+   "category": "education/career",
+   "description": "MoU with AICTE to design, develop and maintain career portal for engineering/management graduates. Features AI resume builder, real-time notifications.",
+   "pricing_model": "government contract",
+   "launch_date": "2024-02-28",
+   "status": "active",
+   "source_url": "https://education.economictimes.indiatimes.com/news/higher-education/aicte-signs-mou-with-jobs-and-networking-platform-apna-co/108071721",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Apna AI Calling Agent",
+   "category": "AI hiring tool",
+   "description": "Multilingual AI calling agent to automate interviews and cut hiring time by 50%.",
+   "pricing_model": "enterprise",
+   "launch_date": "2025-08-08",
+   "status": "active",
+   "source_url": "https://tracxn.com/d/companies/apna/__UTcOz_R9Flutxq8RerYdtrlPxtxnXQAjcBTiXLgJon4",
+   "confidence": "MEDIUM"
+  },
+  {
+   "name": "Apna AI Job Prep",
+   "category": "AI hiring tool",
+   "description": "AI job preparation tool; clocked 39 lakh minutes across 7.6 lakh AI interviews.",
+   "pricing_model": "free",
+   "launch_date": "2025-06-12",
+   "status": "active",
+   "source_url": "https://tracxn.com/d/companies/apna/__UTcOz_R9Flutxq8RerYdtrlPxtxnXQAjcBTiXLgJon4",
+   "confidence": "MEDIUM"
+  }
+ ],
+ "legal": [
+  {
+   "type": "regulatory",
+   "entity": "Ministry of Labour",
+   "date": "2025-02-19",
+   "status": "confirmed",
+   "description": "MoU signed with Union Labour Ministry to bring 10+ lakh job opportunities annually to National Career Service (NCS) portal",
+   "source_url": "https://tracxn.com/d/companies/apna/__UTcOz_R9Flutxq8RerYdtrlPxtxnXQAjcBTiXLgJon4",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "regulatory",
+   "entity": "DPIIT",
+   "date": "2025-01-21",
+   "status": "confirmed",
+   "description": "DPIIT signed pact with Apna to boost employment in startup ecosystem",
+   "source_url": "https://tracxn.com/d/companies/apna/__UTcOz_R9Flutxq8RerYdtrlPxtxnXQAjcBTiXLgJon4",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "regulatory",
+   "entity": "AICTE",
+   "date": "2024-02-28",
+   "status": "confirmed",
+   "description": "MoU signed with AICTE for design, development and upkeep of AICTE Career Portal (SWAYAM Plus) for 5 years",
+   "source_url": "https://education.economictimes.indiatimes.com/news/higher-education/aicte-signs-mou-with-jobs-and-networking-platform-apna-co/108071721",
+   "confidence": "HIGH"
+  }
+ ],
+ "locations": [
+  {
+   "type": "hq",
+   "address_or_area": "Bengaluru",
+   "city": "Bengaluru",
+   "state": "Karnataka",
+   "country": "India",
+   "as_of": "2026-09-15",
+   "source_url": "https://tracxn.com/d/companies/apna/__UTcOz_R9Flutxq8RerYdtrlPxtxnXQAjcBTiXLgJon4",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "registered_office",
+   "address_or_area": "Innov8 Orchid Centre, 3rd Floor, Orchid Center, Golf Course Road, Sector 53, DLF QE, Gurgaon",
+   "city": "Gurugram",
+   "state": "Haryana",
+   "country": "India",
+   "as_of": "2026-09-15",
+   "source_url": "https://tracxn.com/d/companies/apna/__UTcOz_R9Flutxq8RerYdtrlPxtxnXQAjcBTiXLgJon4",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "registered_office",
+   "address_or_area": "G-28 - Quest Coworks, 5th Floor, Technopolis Knowledge Park, Hanuman Nagar, Andheri E",
+   "city": "Mumbai",
+   "state": "Maharashtra",
+   "country": "India",
+   "as_of": "2026-09-15",
+   "source_url": "https://www.tofler.in/apnatime-tech-private-limited/company/U74999HR2019PTC137533",
+   "confidence": "MEDIUM",
+   "notes": "Tofler shows this as current registered address per MCA; possible discrepancy with Tracxn"
+  }
+ ],
+ "customers": [
+  {
+   "name": "Jio",
+   "type": "enterprise",
+   "announced_date": "",
+   "status": "active",
+   "source_url": "https://inc42.com/buzz/apna-narrows-fy25-loss-to-inr-50-cr-even-as-revenue-dips/",
+   "confidence": "MEDIUM"
+  },
+  {
+   "name": "Zomato",
+   "type": "enterprise",
+   "announced_date": "",
+   "status": "active",
+   "source_url": "https://inc42.com/buzz/apna-narrows-fy25-loss-to-inr-50-cr-even-as-revenue-dips/",
+   "confidence": "MEDIUM"
+  },
+  {
+   "name": "Swiggy",
+   "type": "enterprise",
+   "announced_date": "",
+   "status": "active",
+   "source_url": "https://inc42.com/buzz/apna-narrows-fy25-loss-to-inr-50-cr-even-as-revenue-dips/",
+   "confidence": "MEDIUM"
+  },
+  {
+   "name": "Urban Company",
+   "type": "enterprise",
+   "announced_date": "",
+   "status": "active",
+   "source_url": "https://inc42.com/buzz/apna-narrows-fy25-loss-to-inr-50-cr-even-as-revenue-dips/",
+   "confidence": "MEDIUM"
+  },
+  {
+   "name": "Flipkart",
+   "type": "enterprise",
+   "announced_date": "",
+   "status": "active",
+   "source_url": "https://inc42.com/buzz/apna-narrows-fy25-loss-to-inr-50-cr-even-as-revenue-dips/",
+   "confidence": "MEDIUM"
+  },
+  {
+   "name": "Tech Mahindra",
+   "type": "enterprise",
+   "announced_date": "",
+   "status": "active",
+   "source_url": "https://inc42.com/buzz/apna-narrows-fy25-loss-to-inr-50-cr-even-as-revenue-dips/",
+   "confidence": "MEDIUM"
+  },
+  {
+   "name": "AICTE",
+   "type": "government",
+   "announced_date": "2024-02-28",
+   "status": "active",
+   "source_url": "https://education.economictimes.indiatimes.com/news/higher-education/aicte-signs-mou-with-jobs-and-networking-platform-apna-co/108071721",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Ministry of Labour",
+   "type": "government",
+   "announced_date": "2025-02-19",
+   "status": "active",
+   "source_url": "https://tracxn.com/d/companies/apna/__UTcOz_R9Flutxq8RerYdtrlPxtxnXQAjcBTiXLgJon4",
+   "confidence": "HIGH",
+   "notes": "MoU to bring 10 Lakh job opportunities annually to NCS portal"
+  }
+ ]
+}

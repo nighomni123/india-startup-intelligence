@@ -1,0 +1,549 @@
+{
+ "company": {
+  "business_model": "Ride-hailing marketplace (cabs, autos, bikes, rentals, outstation)",
+  "city": {
+   "v": "Bengaluru",
+   "conf": "high",
+   "src": "multiple sources"
+  },
+  "customer_type": "B2C riders; B2B drivers/partners",
+  "dpiit": "",
+  "employee_estimate": "3724 (Tracxn official); ANI legal entity 306 (Mar 2026, Tracxn)",
+  "founded_date": "2010 (co-founded 2010/Jan 2011 per sources); ANI Technologies incorporated 2010-12-03, CIN U72900KA2010PTC086596",
+  "legal_name": "ANI Technologies Private Limited (dba Ola Cabs / Ola Consumer)",
+  "parent_subsidiary": "Independent; Ola Electric spun off 2018-19 (separate entity, ANI kept ~7.5% for brand); Krutrim separate AI company by same founder",
+  "primary_sector": "Mobility / road transport tech",
+  "public_private": "Private",
+  "startup_stage": "Late stage Series J; markdown era (Vanguard marks down to ~$2B Nov 2024, $70M Feb 2026 per ET snippet)",
+  "status": "Active",
+  "website": "https://www.olacabs.com",
+  "cin": "U72900KA2010PTC086596",
+  "incorporation_date": "03-12-2010",
+  "registered_office": "Ola Campus, Wing C, Prestige RMZ Startech, Hosur Road, Municipal Ward No. 67, Industrial Layout, Bangalore South, Bangalore - 560095, Karnataka",
+  "last_funding_date": "2022-02-22",
+  "last_funding_round": "Series J",
+  "last_known_valuation": "$70.3M (Vanguard mark, Feb 2026); peak $7.3B (late 2021)",
+  "notes": "city per ZaubaCorp / Tracxn",
+  "official_website": {
+   "v": "https://www.olacabs.com",
+   "conf": "high",
+   "src": "https://www.olacabs.com",
+   "note": "verified live 2026-09-15: name match on own homepage"
+  },
+  "careers_website": {
+   "v": "https://www.olacabs.com/careers",
+   "conf": "high",
+   "src": "https://www.olacabs.com",
+   "note": "careers link found on official homepage, probed live"
+  }
+ },
+ "completeness_self": {
+  "financials": 6,
+  "founders": 8,
+  "funding": 6,
+  "identity": 8,
+  "investors": 6,
+  "overall": "low-medium; LITE core layer only"
+ },
+ "conflicts": [
+  {
+   "claim_a": "Peak valuation $7.3B (late 2021)",
+   "claim_b": "Peak $6B (2019 Hyundai/Kia round)",
+   "field": "peak valuation",
+   "resolution": "Different vintages; $7.3B later peak generally cited",
+   "url_a": "https://techcrunch.com/2024/11/04/vanguard-cuts-ola-valuation-to-2-billion/",
+   "url_b": "https://www.thehindubusinessline.com/companies/ola-founder-bhavish-aggarwal-temasek-and-warburg-pincus-invest-500-million-in-ola-ahead-of-ipo/article35230350.ece"
+  }
+ ],
+ "events": [
+  {
+   "date": "2024-11-04",
+   "headline": "Vanguard marks ANI Technologies at ~$2B (Aug 2024 filing)",
+   "source_url": "https://techcrunch.com/2024/11/04/vanguard-cuts-ola-valuation-to-2-billion/",
+   "type": "markdown"
+  },
+  {
+   "date": "2024-08",
+   "headline": "Ola Cabs rebranded to Ola Consumer",
+   "source_url": "https://en.wikipedia.org/wiki/Bhavish_Aggarwal",
+   "type": "rebrand"
+  }
+ ],
+ "financials": [
+  {
+   "currency": "INR",
+   "fiscal_year": "FY24",
+   "metric": "revenue (press-quoted MCA filing)",
+   "source_title": "ANI TECHNOLOGIES PRIVATE LIMITED - Company Profile - Tracxn",
+   "source_url": "https://tracxn.com/d/legal-entities/india/ani-technologies-private-limited/__33Lg5A3hM9kYpV3FEsFODy_p_8z_2Q_c26qNf1CHA5U",
+   "value": "2200Cr",
+   "value_type": "press-quoted-filing"
+  },
+  {
+   "metric": "revenue from operations (consolidated)",
+   "value": "Rs 1,171 crore",
+   "unit": "INR crore",
+   "currency": "INR",
+   "fiscal_year": "FY25",
+   "value_type": "press-quoted-filing",
+   "basis": "",
+   "source_url": "https://www.business-standard.com/companies/news/vanguard-marks-down-ola-consumer-valuation-to-about-70-million-126060301318_1.html",
+   "source_title": "Vanguard marks down Ola Consumer valuation to about $70 million",
+   "source_date": "",
+   "confidence": "HIGH",
+   "notes": "Revenue declined 42% from Rs 2,012 Cr FY24. Consolidated net loss Rs 1,974.7 Cr FY25 vs profit Rs 531.4 Cr FY24."
+  },
+  {
+   "metric": "revenue from operations (consolidated)",
+   "value": "Rs 2,012 crore",
+   "unit": "INR crore",
+   "currency": "INR",
+   "fiscal_year": "FY24",
+   "value_type": "press-quoted-filing",
+   "basis": "",
+   "source_url": "https://www.business-standard.com/companies/news/vanguard-marks-down-ola-consumer-valuation-to-about-70-million-126060301318_1.html",
+   "source_title": "Vanguard marks down Ola Consumer valuation to about $70 million",
+   "source_date": "",
+   "confidence": "HIGH",
+   "notes": "Prior year comparison"
+  },
+  {
+   "metric": "net loss",
+   "value": "Rs 1,974.7 crore",
+   "unit": "INR crore",
+   "currency": "INR",
+   "fiscal_year": "FY25",
+   "value_type": "press-quoted-filing",
+   "basis": "",
+   "source_url": "https://www.business-standard.com/companies/news/vanguard-marks-down-ola-consumer-valuation-to-about-70-million-126060301318_1.html",
+   "source_title": "Vanguard marks down Ola Consumer valuation to about $70 million",
+   "source_date": "",
+   "confidence": "HIGH",
+   "notes": "Swing of over Rs 2,500 Cr from FY24 profit"
+  },
+  {
+   "metric": "core mobility revenue",
+   "value": "Rs 925 crore",
+   "unit": "INR crore",
+   "currency": "INR",
+   "fiscal_year": "FY25",
+   "value_type": "press-quoted-filing",
+   "basis": "",
+   "source_url": "https://www.business-standard.com/companies/news/vanguard-marks-down-ola-consumer-valuation-to-about-70-million-126060301318_1.html",
+   "source_title": "Vanguard marks down Ola Consumer valuation to about $70 million",
+   "source_date": "",
+   "confidence": "HIGH",
+   "notes": "Core ride-hailing segment, down 47% from Rs 1,761 Cr FY24"
+  },
+  {
+   "metric": "revenue (Tracxn)",
+   "value": "USD 278,634,629.59",
+   "unit": "USD",
+   "currency": "USD",
+   "fiscal_year": "FY25",
+   "value_type": "database",
+   "basis": "",
+   "source_url": "https://platform.tracxn.com/a/d/company/52bf2b33e4b0420b03968ed5/ola",
+   "source_title": "Ola - Tracxn",
+   "source_date": "",
+   "confidence": "MEDIUM",
+   "notes": "Tracxn reported latest revenue figure"
+  },
+  {
+   "metric": "employee count",
+   "value": "3,724",
+   "unit": "count",
+   "currency": "N/A",
+   "fiscal_year": "2025",
+   "value_type": "database",
+   "basis": "",
+   "source_url": "https://platform.tracxn.com/a/d/company/52bf2b33e4b0420b03968ed5/ola",
+   "source_title": "Ola - Tracxn",
+   "source_date": "",
+   "confidence": "MEDIUM",
+   "notes": "Tracxn official employee count"
+  }
+ ],
+ "founders": [
+  {
+   "name": "Bhavish Aggarwal",
+   "role": "Co-founder & CEO (IIT Bombay)",
+   "source_url": "https://en.wikipedia.org/wiki/Bhavish_Aggarwal",
+   "still_active": true,
+   "type": "co-founder"
+  },
+  {
+   "name": "Ankit Bhati",
+   "role": "Co-founder & ex-CTO (IIT Bombay; stepped back from day-to-day)",
+   "source_url": "https://www.moneycontrol.com/news/business/startup/exclusive-ola-co-founder-ankit-bhati-launches-new-startup-amnic-with-former-colleagues-ropes-in-sequoia-as-investor-7911191.html",
+   "still_active": false,
+   "type": "co-founder"
+  }
+ ],
+ "funding_rounds": [
+  {
+   "amount": "500M",
+   "announced_date": "2021-07-09",
+   "currency": "USD",
+   "lead_investors": [
+    "Temasek",
+    "Plum Wood (Warburg Pincus affiliate)",
+    "Bhavish Aggarwal"
+   ],
+   "round_type": "Pre-IPO (ANI Technologies)",
+   "source_url": "https://www.thehindubusinessline.com/companies/ola-founder-bhavish-aggarwal-temasek-and-warburg-pincus-invest-500-million-in-ola-ahead-of-ipo/article35230350.ece"
+  },
+  {
+   "amount": "139M",
+   "announced_date": "2021-12",
+   "currency": "USD",
+   "lead_investors": [
+    "Edelweiss"
+   ],
+   "round_type": "Series J",
+   "source_url": "https://www.preqin.com/data/profile/asset/ola-cabs/85494",
+   "round_date": "2021-12-08",
+   "valuation": "$6.6B",
+   "valuation_currency": "USD",
+   "valuation_type": "post-money",
+   "new_or_existing": "new",
+   "purpose": "Growth"
+  },
+  {
+   "round_type": "Series J",
+   "amount": "",
+   "currency": "USD",
+   "round_date": "2022-02-22",
+   "valuation": "$7.3B (peak, late 2021)",
+   "valuation_currency": "USD",
+   "valuation_type": "post-money (peak)",
+   "lead_investors": [],
+   "all_investors": [],
+   "new_or_existing": "new",
+   "purpose": "Growth and IPO preparation",
+   "source_url": "https://www.vccircle.com/ola-raises-139-mn-valn-touches-6-6-bn",
+   "confidence": "HIGH",
+   "notes": "added session-2 gapfill"
+  },
+  {
+   "round_type": "Series J",
+   "amount": "",
+   "currency": "USD",
+   "round_date": "2019-05-15",
+   "valuation": "Unknown",
+   "valuation_currency": "USD",
+   "valuation_type": "UNKNOWN",
+   "lead_investors": [],
+   "all_investors": [],
+   "new_or_existing": "new",
+   "purpose": "Growth",
+   "source_url": "https://platform.tracxn.com/a/d/company/52bf2b33e4b0420b03968ed5/ola",
+   "confidence": "MEDIUM",
+   "notes": "added session-2 gapfill"
+  },
+  {
+   "round_type": "Series F",
+   "amount": "",
+   "currency": "USD",
+   "round_date": "2015-12-11",
+   "valuation": "$5B (at investment)",
+   "valuation_currency": "USD",
+   "valuation_type": "post-money",
+   "lead_investors": [],
+   "all_investors": [],
+   "new_or_existing": "new",
+   "purpose": "Growth",
+   "source_url": "https://www.business-standard.com/companies/news/vanguard-marks-down-ola-consumer-valuation-to-about-70-million-126060301318_1.html",
+   "confidence": "HIGH",
+   "notes": "added session-2 gapfill"
+  }
+ ],
+ "gaps": [
+  "Full round-by-round history not built at LITE scope (total ~$4.49B per Tracxn)",
+  "FY25 figures not verified",
+  "DPIIT unverified",
+  "Vanguard $70M Feb-2026 markdown seen only as ET headline snippet — UNVERIFIED, needs fetch",
+  "FY26 financials (not yet available)",
+  "Exact current valuation (Vanguard marks are not company-confirmed)",
+  "Employee headcount exact figure (Tracxn says 3,724; ANI legal entity 306 per Tracxn Mar 2026)",
+  "DPIIT recognition status",
+  "Audited FY25 financials filed with MCA (filed late, more than 6 months after deadline)"
+ ],
+ "investor_links": [
+  {
+   "investor": "SoftBank (~26%), Tiger Global, Tencent (historic stakes)",
+   "lead": false,
+   "rounds": [
+    "multiple"
+   ],
+   "source_url": "https://www.medianama.com/2018/09/223-ola-founders-temasek-to-buy-stake-in-parent-firm-ani-technologies-2"
+  },
+  {
+   "investor": "Temasek / Warburg Pincus",
+   "lead": true,
+   "rounds": [
+    "2021 pre-IPO"
+   ],
+   "source_url": "https://www.thehindubusinessline.com/companies/ola-founder-bhavish-aggarwal-temasek-and-warburg-pincus-invest-500-million-in-ola-ahead-of-ipo/article35230350.ece"
+  },
+  {
+   "investor": "Vanguard (markdown holder, not lead investor)",
+   "lead": false,
+   "rounds": [],
+   "source_url": "https://techcrunch.com/2024/11/04/vanguard-cuts-ola-valuation-to-2-billion/"
+  }
+ ],
+ "research_log": [
+  {
+   "found": "founders, incorporation/CIN, FY24 revenue, 2021 rounds, markdowns",
+   "next_action": "Verify Vanguard 2026 markdown via fetch if full mode",
+   "query": "OLA ANI Technologies founders/funding/revenue",
+   "unresolved": "2026 markdown; FY25; round history"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "ola ani technologies CIN U72900KA2010PTC086596 incorporation date",
+   "found": "CIN U72900KA2010PTC086596, incorporated 03-12-2010, registered at ROC Bangalore. Previous CIN was U72900MH2010PTC240894. Registered address: Ola Campus, Wing C, Prestige RMZ Startech, Hosur Road, Bangalore South - 560095.",
+   "unresolved": "MCA data shows last balance sheet filed 31-03-2025; AGM held 31-12-2025. Company is active and private."
+  },
+  {
+   "date": "2026-09-14",
+   "query": "ola ani technologies valuation 2025 2026 funding",
+   "found": "Peak valuation $7.3B (late 2021). Vanguard marks: $2B (Aug 2024), $1.25B (May 2025), $70.3M (Feb 2026). Last primary funding Series J Feb 2022 ($139M at $6.6B). Revenue declined 42% to Rs 1,171 Cr FY25; net loss Rs 1,974.7 Cr FY25.",
+   "unresolved": "IPO plans ongoing but no confirmed date; valuation collapsed 99% from peak per Vanguard marks."
+  }
+ ],
+ "sources": [
+  {
+   "publication_date": "2021-07-09",
+   "publisher": "Hindu BusinessLine",
+   "tier": "T3",
+   "title": "Temasek, Warburg Pincus arm lead $500-m investment in Ola",
+   "url": "https://www.thehindubusinessline.com/companies/ola-founder-bhavish-aggarwal-temasek-and-warburg-pincus-invest-500-million-in-ola-ahead-of-ipo/article35230350.ece"
+  },
+  {
+   "publication_date": "2024-11-04",
+   "publisher": "TechCrunch",
+   "tier": "T3",
+   "title": "Vanguard cuts Indian rideshare startup Ola's valuation to $2B",
+   "url": "https://techcrunch.com/2024/11/04/vanguard-cuts-ola-valuation-to-2-billion/"
+  },
+  {
+   "publication_date": "2026-04-30",
+   "publisher": "Tracxn",
+   "tier": "T2",
+   "title": "ANI TECHNOLOGIES PRIVATE LIMITED - Company Profile, Financials",
+   "url": "https://tracxn.com/d/legal-entities/india/ani-technologies-private-limited/__33Lg5A3hM9kYpV3FEsFODy_p_8z_2Q_c26qNf1CHA5U"
+  },
+  {
+   "url": "https://www.business-standard.com/companies/news/vanguard-marks-down-ola-consumer-valuation-to-about-70-million-126060301318_1.html",
+   "title": "",
+   "fields": "FINANCIALS",
+   "confidence": "HIGH"
+  },
+  {
+   "url": "https://platform.tracxn.com/a/d/company/52bf2b33e4b0420b03968ed5/ola",
+   "title": "",
+   "fields": "FINANCIALS",
+   "confidence": "MEDIUM"
+  },
+  {
+   "url": "https://www.vccircle.com/ola-raises-139-mn-valn-touches-6-6-bn",
+   "title": "",
+   "fields": "FUNDING",
+   "confidence": "HIGH"
+  },
+  {
+   "url": "https://economictimes.indiatimes.com/company/ani-technologies-private-limited/U72900KA2010PTC086596",
+   "title": "",
+   "fields": "PEOPLE",
+   "confidence": "MEDIUM"
+  },
+  {
+   "url": "https://www.zaubacorp.com/ANI-TECHNOLOGIES-PRIVATE-LIMITED-U72900KA2010PTC086596",
+   "title": "ANI TECHNOLOGIES PRIVATE LIMITED | ZaubaCorp",
+   "fields": [
+    "cin",
+    "incorporation_date",
+    "registered_office",
+    "authorized_capital",
+    "paid_up_capital"
+   ],
+   "confidence": "HIGH"
+  },
+  {
+   "url": "https://www.instafinancials.com/company/ani-technologies-private-limited-U72900KA2010PTC086596/company-overview",
+   "title": "ANI TECHNOLOGIES PRIVATE LIMITED - InstaFinancials",
+   "fields": [
+    "cin",
+    "incorporation_date",
+    "balance_sheet_date",
+    "agm_date",
+    "registered_address"
+   ],
+   "confidence": "HIGH"
+  },
+  {
+   "url": "https://www.lei-lookup.com/record/3358005EI53EZBOISD56",
+   "title": "ANI TECHNOLOGIES PRIVATE LIMITED - LEI",
+   "fields": [
+    "cin",
+    "entity_status",
+    "legal_address",
+    "entity_created_at"
+   ],
+   "confidence": "HIGH"
+  },
+  {
+   "url": "https://m.economictimes.com/tech/technology/vanguard-marks-ola-valuation-down-to-70-million-99-lower-from-peak/articleshow/131484337.cms",
+   "title": "Vanguard marks Ola valuation down to $70 million, 99% lower from peak",
+   "fields": [
+    "valuation_Vanguard_Feb2026"
+   ],
+   "confidence": "HIGH"
+  },
+  {
+   "url": "https://www.tofler.in/ani-technologies-private-limited/company/U72900KA2010PTC086596",
+   "title": "Ani Technologies Financials | Company Details | Tofler",
+   "fields": [
+    "cin",
+    "incorporation_date",
+    "authorized_capital",
+    "paid_up_capital"
+   ],
+   "confidence": "HIGH"
+  },
+  {
+   "url": "https://tracxn.com/d/company/52bf2b33e4b0420b03968ed5/ola",
+   "title": "Ola - Tracxn",
+   "tier": "T2"
+  }
+ ],
+ "startup_id": "ola ani technologies",
+ "investors_meta": [
+  {
+   "investor": "Vanguard",
+   "type": "Asset Management",
+   "hq_geography": "United States",
+   "india_presence": "Yes (invested 2015)",
+   "source_url": "https://techcrunch.com/2024/11/04/vanguard-cuts-ola-valuation-to-2-billion/"
+  },
+  {
+   "investor": "SoftBank",
+   "type": "Investment",
+   "hq_geography": "Japan",
+   "india_presence": "Yes",
+   "source_url": "https://platform.tracxn.com/a/d/company/52bf2b33e4b0420b03968ed5/ola"
+  },
+  {
+   "investor": "Tiger Global Management",
+   "type": "Hedge Fund",
+   "hq_geography": "United States",
+   "india_presence": "Yes",
+   "source_url": "https://platform.tracxn.com/a/d/company/52bf2b33e4b0420b03968ed5/ola"
+  },
+  {
+   "investor": "Temasek",
+   "type": "Sovereign Wealth Fund",
+   "hq_geography": "Singapore",
+   "india_presence": "Yes",
+   "source_url": "https://www.vccircle.com/ola-raises-139-mn-valn-touches-6-6-bn"
+  },
+  {
+   "investor": "Warburg Pincus",
+   "type": "Private Equity",
+   "hq_geography": "United States",
+   "india_presence": "Yes",
+   "source_url": "https://www.thehindubusinessline.com/companies/ola-founder-bhavish-aggarwal-temasek-and-warburg-pincus-invest-500-million-in-ola-ahead-of-ipo/article35230350.ece"
+  },
+  {
+   "investor": "Hyundai Motor Company",
+   "type": "Automotive",
+   "hq_geography": "South Korea",
+   "india_presence": "Yes",
+   "source_url": "https://platform.tracxn.com/a/d/company/52bf2b33e4b0420b03968ed5/ola"
+  },
+  {
+   "investor": "Kia",
+   "type": "Automotive",
+   "hq_geography": "South Korea",
+   "india_presence": "Yes",
+   "source_url": "https://platform.tracxn.com/a/d/company/52bf2b33e4b0420b03968ed5/ola"
+  },
+  {
+   "investor": "Zomato",
+   "type": "Technology Company",
+   "hq_geography": "India",
+   "india_presence": "Yes",
+   "source_url": "https://platform.tracxn.com/a/d/company/52bf2b33e4b0420b03968ed5/ola"
+  },
+  {
+   "investor": "IIFL",
+   "type": "Financial Services",
+   "hq_geography": "India",
+   "india_presence": "Yes",
+   "source_url": "https://www.vccircle.com/ola-raises-139-mn-valn-touches-6-6-bn"
+  },
+  {
+   "investor": "Edelweiss",
+   "type": "Financial Services",
+   "hq_geography": "India",
+   "india_presence": "Yes",
+   "source_url": "https://www.vccircle.com/ola-raises-139-mn-valn-touches-6-6-bn"
+  },
+  {
+   "investor": "DST Global",
+   "type": "Investment",
+   "hq_geography": "Russia/Global",
+   "india_presence": "Yes",
+   "source_url": "https://platform.tracxn.com/a/d/company/52bf2b33e4b0420b03968ed5/ola"
+  },
+  {
+   "investor": "RNT Associates",
+   "type": "Investment",
+   "hq_geography": "India",
+   "india_presence": "Yes",
+   "source_url": "https://platform.tracxn.com/a/d/company/52bf2b33e4b0420b03968ed5/ola"
+  },
+  {
+   "investor": "Sachin Bansal",
+   "type": "Individual / Angel",
+   "hq_geography": "India",
+   "india_presence": "Yes",
+   "source_url": "https://platform.tracxn.com/a/d/company/52bf2b33e4b0420b03968ed5/ola"
+  }
+ ],
+ "people": [
+  {
+   "name": "Bhavish Aggarwal",
+   "position": "Founder & CEO",
+   "status": "active",
+   "source_url": "https://economictimes.indiatimes.com/company/ani-technologies-private-limited/U72900KA2010PTC086596"
+  },
+  {
+   "name": "Ankit Bhati",
+   "position": "Co-Founder",
+   "status": "active",
+   "source_url": "https://economictimes.indiatimes.com/company/ani-technologies-private-limited/U72900KA2010PTC086596"
+  },
+  {
+   "name": "Arun Sarin",
+   "position": "Board Member",
+   "status": "active",
+   "source_url": "https://economictimes.indiatimes.com/company/ani-technologies-private-limited/U72900KA2010PTC086596"
+  },
+  {
+   "name": "Krishnamurthy Venugopal Tenneti",
+   "position": "Director",
+   "status": "active",
+   "source_url": "https://economictimes.indiatimes.com/company/ani-technologies-private-limited/U72900KA2010PTC086596"
+  },
+  {
+   "name": "Brent Richard Irvin",
+   "position": "Director",
+   "status": "active",
+   "source_url": "https://economictimes.indiatimes.com/company/ani-technologies-private-limited/U72900KA2010PTC086596"
+  }
+ ],
+ "_merged_session2": true
+}

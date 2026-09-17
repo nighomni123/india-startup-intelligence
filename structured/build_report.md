@@ -1,0 +1,91 @@
+# Build report
+
+- STARTUPS 368 (enriched 368, shallow 0)
+- FUNDING 1172 rounds; skipped duplicate round keys: 124 [('S0001', 'Series D', 60.0), ('S0001', 'Series D follow-on', 50.0), ('S0006', 'Series A', 30.0), ('S0017', 'Series A', 50.0), ('S0029', 'Series A', 3.0)]
+- FOUNDERS 795 | PEOPLE 789 | INVESTORS 1608 | INVESTOR_LINKS 4921
+- FINANCIALS 1410 | PRODUCTS 928 | CUSTOMERS 517 | PARTNERSHIPS 22 | COMPETITORS 96
+- ACQUISITIONS 52 | LOCATIONS 586 | HIRING 38 | LEGAL 212 | EVENTS 1597 | TRACTION 1011
+- SOURCES 3956 unique URLs | invalid/missing URLs quarantined: 1356
+- RESEARCH_LOG 1462 | FX: USD->INR conversion uses documented annual-average approximations (2020:74, 2021:74.5, 2022:78.5, 2023:82.8, 2024:83.7, 2025:85.7, 2026:87). Marked DERIVED in notes.
+
+## Quarantined (no usable URL)
+- S0002 ::  :: KreditBee app lending
+- S0002 ::  :: Moneyview
+- S0002 ::  :: Fibe
+- S0002 ::  :: Kissht
+- S0002 ::  :: KrazyBee Services Private Limited (NBFC arm); tech arm Finnovation Tech Solution
+- S0002 ::  :: KrazyBee Services Limited (NBFC arm); Finnovation Tech Solutions Private Limited
+- S0002 ::  :: U65100KA2016PTC086990
+- S0002 ::  :: U65100KA2016PLC086990
+- S0003 ::  :: PhonePe payments
+- S0003 ::  :: PhonePe diversified verticals
+- S0003 ::  :: PhonePe Limited (redomiciled India 2022; ex-Flipkart hive-off 2020)
+- S0003 ::  :: PhonePe Limited
+- S0003 ::  :: late / pre-IPO (confidential DRHP Sep 2025, UDRHP Jan 2026)
+- S0003 ::  :: late / pre-IPO
+- S0004 ::  :: Razorpay full-stack platform
+- S0005 ::  :: Zepto quick commerce
+- S0005 ::  :: Zepto Cafe
+- S0005 ::  :: Zepto Private Limited (utations: KiranaKart Technologies per RoC filings — UNVER
+- S0005 ::  :: Zepto Private Limited
+- S0006 :: UNKNOWN :: Rahul Gandotra listed as founder in some sources
+- S0007 ::  :: Amagi cloud platform
+- S0008 ::  :: CRED app
+- S0008 ::  :: Happay
+- S0009 ::  :: Darwinbox HCM platform
+- S0010 :: Tracxn/IndiaFilings/UpForge registry aggregator pages :: company.incorporation_date
+- S0010 :: Tracxn/IndiaFilings/UpForge registry aggregator pages :: company.cin
+- S0010 ::  :: Emergent platform
+- S0011 ::  :: Groww investment platform (stocks, mutual funds, ETFs, F&O, IPOs, digital gold, 
+- S0011 ::  :: Margin Trading Facility (MTF), personal loans via NBFC subsidiary
+- S0011 ::  :: Groww Mutual Fund (Groww Asset Management)
+- S0011 ::  :: Zerodha
+- S0011 ::  :: Angel One
+- S0011 ::  :: Upstox
+- S0011 ::  :: Billionbrains Garage Ventures Limited (formerly Billionbrains Garage Ventures Pr
+- S0011 ::  :: Billionbrains Garage Ventures Limited
+- S0011 ::  :: 2018-01-09 (certificate 2018-01-17)
+- S0011 ::  :: 2018-01-09
+- S0011 ::  :: Public
+- S0011 ::  :: Public (listed on BSE and NSE)
+- S0011 :: unknown :: TPG/Tiger $213M round 2024
+- S0011 :: unknown :: conflict
+- S0012 ::  :: Conversational messaging platform (WhatsApp, RCS, SMS, Instagram, voice)
+- S0012 ::  :: AI agents / Auto Bot Builder / campaign copilot / agent assist
+- S0012 ::  :: Twilio
+- S0012 ::  :: Infobip
+- S0012 ::  :: Kore.ai
+- S0012 :: batch b08.json :: Seed city Bengaluru (batch seed)
+- S0013 ::  :: Krutrim Cloud (GPU clusters, model repos, AI customer-care agents, mapping, lang
+- S0013 ::  :: Krutrim LLMs (Krutrim-1/2, Indic multilingual, open-sourced Feb 2025)
+- S0013 ::  :: Kruti AI assistant
+- S0013 ::  :: Sarvam AI
+- S0013 ::  :: Private
+- S0013 ::  :: Active
+- S0013 ::  :: Full-stack AI cloud infrastructure + Indic LLMs + AI apps (Kruti assistant, Krut
+- S0013 ::  :: Full-stack AI cloud infrastructure; enterprise GPU compute; AI cloud services fo
+- S0013 ::  :: ~222-234 (early 2026; down from ~640-660 mid-2025 post-layoffs)
+- S0013 ::  :: 150
+- S0014 ::  :: Sarvam frontier Indic models (text, speech, vision, documents)
+- S0014 ::  :: Sarvam Vision (document intelligence); agentic AI platform; TTS/STT/translation 
+- S0014 ::  :: Krutrim
+- S0014 :: batch b08.json :: Seed city Bengaluru (batch seed reports Bengaluru)
+- S0015 :: ZaubaCorp/Tracxn/FalconEbiz registry aggregator pages :: company.incorporation_date
+- S0015 :: ZaubaCorp/Tracxn/FalconEbiz registry aggregator pages :: company.cin
+- S0015 ::  :: HDFC Bank / Nubank (valuation comps cited)
+- S0015 ::  :: notice
+- S0017 ::  :: Mumbai (India HQ / ops); corporate HQ Dublin, Ireland
+- S0017 ::  :: Mumbai
+- S0017 ::  :: Maharashtra (ops)
+- S0017 ::  :: Maharashtra
+- S0017 ::  :: SaaS subscription — cloud testing infrastructure/platform (manual + automated + 
+- S0017 ::  :: SaaS subscription — cloud testing infrastructure (manual + automated + visual + 
+- S0017 ::  :: India-ops: Mumbai HQ-country + Dublin corporate HQ; SF/NYC offices. Classify Ind
+- S0017 ::  :: India-ops HQ: Mumbai; Corporate domicile: Dublin, Ireland; Offices: SF, NYC
+- S0017 :: prompt specification :: Series A $7.5M, Series B $67M, Series C $220M @ $1.4B (prompt claim)
+- S0017 :: prompt specification :: Founders include Jahangir (prompt claim)
+- S0018 ::  :: investor link
+- S0018 ::  :: investor link
+- S0018 ::  :: investor link
+- S0018 ::  :: investor link
+- S0018 ::  :: Dhan

@@ -1,0 +1,691 @@
+{
+ "company": {
+  "business_model": "B2B R&D drug discovery; preclinical/clinical pipeline, partnerships",
+  "cin": "UNKNOWN",
+  "city": "Bengaluru",
+  "founded_date": "2020",
+  "primary_sector": "biotech therapeutics",
+  "public_private": "private",
+  "startup_id": "avammune therapeutics",
+  "startup_stage": "Series A",
+  "official_website": {
+   "v": "https://www.avammune.com",
+   "conf": "high",
+   "src": "https://www.avammune.com",
+   "note": "verified live 2026-09-15: name match on own homepage"
+  },
+  "website": "https://www.avammune.com",
+  "legal_name": {
+   "v": "Avammune Lifesciences Private Limited",
+   "conf": "HIGH",
+   "src": "https://tracxn.com/d/legal-entities/india/avammune-lifesciences-private-limited/__EHHNzDGPpkl8nQ0W4HPGGOcGd5PD6sH_qtdW-2to6kM",
+   "note": "MCA-registered entity; CIN U21001KA2024PTC194702",
+   "asof": "2024-11-08"
+  },
+  "incorporation_date": {
+   "v": "2024-11-08",
+   "conf": "HIGH",
+   "src": "https://tracxn.com/d/legal-entities/india/avammune-lifesciences-private-limited/__EHHNzDGPpkl8nQ0W4HPGGOcGd5PD6sH_qtdW-2to6kM",
+   "note": "Date of incorporation per MCA registry"
+  },
+  "status": {
+   "v": "Active",
+   "conf": "HIGH",
+   "src": "https://tracxn.com/d/companies/avammune-therapeutics/__lhtpJWJOWPtwI5jrvSe5uxpGjP7ZBxv7WobYT7bXXt8",
+   "note": "Active per Tracxn and company site"
+  },
+  "state": {
+   "v": "Karnataka",
+   "conf": "HIGH",
+   "src": "https://www.avammune.com",
+   "note": "Registered office in Bengaluru"
+  },
+  "country": {
+   "v": "India",
+   "conf": "HIGH",
+   "src": "https://www.avammune.com",
+   "note": "India operations; also US entity in Pennsylvania"
+  },
+  "description": {
+   "v": "Avammune develops first-in-class and best-in-class small molecule immuno-oncology therapeutics targeting hard-to-treat solid tumors. Platform spans innate immune modulation (ENPP1, ADAR1 p150 inhibitors) and targeted radiopharmaceuticals.",
+   "conf": "HIGH",
+   "src": "https://www.avammune.com",
+   "note": "From company website"
+  },
+  "employee_estimate": {
+   "v": 40,
+   "conf": "MEDIUM",
+   "src": "https://timesofindia.indiatimes.com/business/india-business/avammune-therapeutics-raises-12-million-to-advance-cancer-therapies/amp_articleshow/121106904.cms",
+   "note": "Team of over 40 across global operations (Philadelphia + Bengaluru)",
+   "asof": "2025-05-12"
+  },
+  "hq_type": {
+   "v": "HQ",
+   "conf": "HIGH",
+   "src": "https://www.avammune.com",
+   "note": "India HQ in Bengaluru; US entity in Pennsylvania"
+  },
+  "registered_office": {
+   "v": "#545/6, 1st Floor, Devarachikkanahalli Main Road, Bommanahalli, Bangalore 560068",
+   "conf": "HIGH",
+   "src": "https://www.avammune.com",
+   "note": "India registered office per company website"
+  }
+ },
+ "completeness_self": {
+  "financials": 3,
+  "founders": 9,
+  "funding": 8,
+  "identity": 8,
+  "investors": 9,
+  "legal": 5,
+  "products": 8,
+  "sources": 8,
+  "traction": 5
+ },
+ "conflicts": [
+  {
+   "claim_a": "Founded 2020 (TOI, Inc42, company)",
+   "claim_b": "Founded 2019 (Tracxn)",
+   "field": "founded_year",
+   "resolution": "Prefer 2020 per company-attributed press",
+   "resolved_value": "2020",
+   "url_a": "https://timesofindia.indiatimes.com/business/india-business/avammune-therapeutics-raises-12-million-to-advance-cancer-therapies/amp_articleshow/121106904.cms",
+   "url_b": "https://tracxn.com/d/companies/avammunetherapeutics/__lhtpJWJOWPtwI5jrvSe5uxpGjP7ZBxv7WobYT7bXXt8"
+  },
+  {
+   "field": "cin",
+   "claim_a": "UNKNOWN",
+   "url_a": "",
+   "claim_b": "U21001KA2024PTC194702",
+   "url_b": "",
+   "resolution": "phase3 p3 payload disagrees with existing value; existing kept as preferred pending human review",
+   "resolved_value": "",
+   "reviewed": "p3-merge"
+  },
+  {
+   "field": "business_model",
+   "claim_a": "B2B R&D drug discovery; preclinical/clinical pipeline, partnerships",
+   "url_a": "",
+   "claim_b": "B2B R&D drug discovery; preclinical/clinical pipeline, POC-driven partnerships",
+   "url_b": "",
+   "resolution": "phase3 p3 payload disagrees with existing value; existing kept as preferred pending human review",
+   "resolved_value": "",
+   "reviewed": "p3-merge"
+  },
+  {
+   "field": "founded_year",
+   "claim_a": "Founded 2020 (TOI, Inc42, company website)",
+   "url_a": "https://timesofindia.indiatimes.com/business/india-business/avammune-therapeutics-raises-12-million-to-advance-cancer-therapies/amp_articleshow/121106904.cms",
+   "claim_b": "Founded 2019 (LinkedIn); 2017 (Synapse/Patsnap); 2013 (YNOS)",
+   "url_b": "https://tracxn.com/d/companies/avammune-therapeutics/__lhtpJWJOWPtwI5jrvSe5uxpGjP7ZBxv7WobYT7bXXt8",
+   "resolution": "Company website and press consistently state 2020; LinkedIn shows Mar 2018 founding of Avammune; Synapse says 2017; YNOS says 2013. Prefer 2020 per company-attributed press for the current entity; earlier dates may refer to predecessor entities (Aten Porus/Oraxion).",
+   "resolved_value": "2020 (current entity); predecessor activity possibly from 2017-2018"
+  }
+ ],
+ "events": [
+  {
+   "date": "2025-05-12",
+   "headline": "$12M Series A co-led by Capital 2B, Shastra VC, Kotak Life Sciences",
+   "source_url": "https://timesofindia.indiatimes.com/business/india-business/avammune-therapeutics-raises-12-million-to-advance-cancer-therapies/amp_articleshow/121106904.cms",
+   "type": "funding"
+  },
+  {
+   "type": "funding",
+   "headline": "Series A: $12M raised co-led by Capital 2B, Shastra VC, Kotak Life Sciences",
+   "date": "2025-05-12",
+   "description": "Oversubscribed Series A round; funds to support clinical development of AVA-NP-695 and preclinical work on pipeline; company valued at ~$33M post-money",
+   "source_url": "https://timesofindia.indiatimes.com/business/india-business/avammune-therapeutics-raises-12-million-to-advance-cancer-therapies/amp_articleshow/121106904.cms",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "funding",
+   "headline": "Seed funding from The Chennai Angels for IND-enabling studies",
+   "date": "2022-07-15",
+   "description": "Undisclosed amount; financing secured for completion of IND-enabling studies for immuno-oncology asset",
+   "source_url": "https://yourstory.com/2022/07/funding-roundup-avammune-therapeutics-corn-junction-early-stage",
+   "confidence": "MEDIUM"
+  },
+  {
+   "type": "publication",
+   "headline": "AVA-ADR-001 paper published in Molecules",
+   "date": "2022-09-28",
+   "description": "AVA-ADR-001 Suppresses Tumor Growth and Induces Anti-tumor Immunity by Selectively Inhibiting ADAR1 p150; published in Molecules 2022, 27(19), 6721",
+   "source_url": "https://doi.org/10.3390/molecules27196721",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "publication",
+   "headline": "Review paper published in Frontiers in Immunology",
+   "date": "2024-09-01",
+   "description": "Small molecule innate immune modulators in cancer therapy; Avijit Goswami, Sandeep Goyal, Princy Khurana, Kawaljit Singh, Barnali Deb, Aditya Kulkarni et al.",
+   "source_url": "https://doi.org/10.3389/fimmu.2024.1395655",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "milestone",
+   "headline": "AVA-NP-695 to enter clinical trials in 2026",
+   "date": "2026-06-19",
+   "description": "Per Aditya Kulkarni (CSO) in Purdue University article: AVA-NP-695 is an advanced asset entering clinical trials in 2026 targeting osteosarcoma, TNBC, and liver cancer",
+   "source_url": "https://www.chem.purdue.edu/media/news/2025/kulkarni.html",
+   "confidence": "MEDIUM"
+  }
+ ],
+ "founders": [
+  {
+   "name": "Arun Papaiah",
+   "role": "Co-founder & CEO",
+   "source_url": "https://timesofindia.indiatimes.com/business/india-business/avammune-therapeutics-raises-12-million-to-advance-cancer-therapies/amp_articleshow/121106904.cms",
+   "still_active": true,
+   "type": "co-founder"
+  },
+  {
+   "name": "Srinivasan Namala",
+   "role": "Co-founder",
+   "source_url": "https://timesofindia.indiatimes.com/business/india-business/avammune-therapeutics-raises-12-million-to-advance-cancer-therapies/amp_articleshow/121106904.cms",
+   "still_active": true,
+   "type": "co-founder"
+  },
+  {
+   "name": "Aditya Kulkarni",
+   "role": "Co-founder & CSO",
+   "source_url": "http://inc42.com/buzz/healthtech-startup-avammune-bags-12-mn-from-capital-2b-others",
+   "still_active": true,
+   "type": "co-founder"
+  },
+  {
+   "name": "Arun B. Papaiah",
+   "role": "Co-founder & CEO",
+   "background": "Serial biotech entrepreneur; previously co-founded Aten Porus Lifesciences and Oraxion Therapeutics; MBA from RMIT; BSc from Christ University; 15+ years in finance, operations, technology transfer, business development; instrumental in Oraxion's $125M option agreement",
+   "education": "MBA, Royal Melbourne Institute of Technology; BSc, Christ University",
+   "still_active": true,
+   "source_url": "https://www.avammune.com/about-us",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Srinivasan Namala",
+   "role": "Co-founder & Director",
+   "background": "Co-founded Aten Porus Lifesciences and Oraxion Therapeutics; instrumental in Aten's exit to Bain Private Equity in 2023; prolific investor across spacetech, deeptech, healthcare, D2C; 20+ years in technology transfer, SCM, business development, finance",
+   "education": "Masters in Pharmaceutics, Northeastern University; BSc in Pharmacology, BITS Pilani",
+   "still_active": true,
+   "source_url": "https://www.avammune.com/about-us",
+   "confidence": "HIGH"
+  }
+ ],
+ "funding_rounds": [
+  {
+   "all_investors": [
+    "Capital 2B",
+    "Shastra VC",
+    "Kotak Life Sciences Fund I",
+    "IvyCap Ventures",
+    "1Crowd"
+   ],
+   "amount": "12M",
+   "announced_date": "2025-05-12",
+   "currency": "USD",
+   "lead_investors": [
+    "Capital 2B",
+    "Shastra VC",
+    "Kotak Life Sciences Fund I"
+   ],
+   "round_type": "Series A",
+   "source_title": "TOI: Avammune raises $12M",
+   "source_url": "https://timesofindia.indiatimes.com/business/india-business/avammune-therapeutics-raises-12-million-to-advance-cancer-therapies/amp_articleshow/121106904.cms",
+   "tier": "T2"
+  },
+  {
+   "round_type": "Seed",
+   "announced_date": "2022-07-15",
+   "amount": {
+    "v": null,
+    "unit": "USD",
+    "currency": "USD"
+   },
+   "valuation": "",
+   "valuation_currency": "",
+   "valuation_type": "",
+   "lead_investors": [
+    "The Chennai Angels"
+   ],
+   "all_investors": [
+    "The Chennai Angels"
+   ],
+   "instrument": "equity",
+   "purpose": "IND-enabling studies for immuno-oncology asset",
+   "source_url": "https://yourstory.com/2022/07/funding-roundup-avammune-therapeutics-corn-junction-early-stage",
+   "source_title": "YourStory: Avammune Therapeutics secures funding from The Chennai Angels",
+   "source_date": "2022-07-15",
+   "confidence": "MEDIUM",
+   "notes": "Amount undisclosed per company"
+  },
+  {
+   "round_type": "Series A",
+   "announced_date": "2025-05-12",
+   "round_date": "2025-05-12",
+   "amount": {
+    "v": 12000000,
+    "unit": "USD",
+    "currency": "USD"
+   },
+   "valuation": 33000000,
+   "valuation_currency": "USD",
+   "valuation_type": "post-money",
+   "lead_investors": [
+    "Capital 2B",
+    "Shastra VC",
+    "Kotak Life Sciences Fund I"
+   ],
+   "all_investors": [
+    "Capital 2B",
+    "Shastra VC",
+    "Kotak Life Sciences Fund I",
+    "IvyCap Ventures",
+    "1Crowd"
+   ],
+   "instrument": "equity",
+   "purpose": "Clinical development of AVA-NP-695; IP portfolio expansion; preclinical work on pipeline",
+   "source_url": "https://timesofindia.indiatimes.com/business/india-business/avammune-therapeutics-raises-12-million-to-advance-cancer-therapies/amp_articleshow/121106904.cms",
+   "source_title": "TOI: Avammune raises $12 million",
+   "source_date": "2025-05-12",
+   "confidence": "HIGH",
+   "notes": "INR 100 crore; oversubscribed; co-led by Capital 2B, Shastra VC, Kotak Lifesciences Fund I"
+  },
+  {
+   "round_type": "Series A (total raised)",
+   "announced_date": "2025-05-12",
+   "amount": {
+    "v": 12000000,
+    "unit": "USD",
+    "currency": "USD"
+   },
+   "valuation": "",
+   "valuation_currency": "",
+   "valuation_type": "",
+   "lead_investors": [],
+   "all_investors": [],
+   "instrument": "",
+   "purpose": "",
+   "source_url": "https://tracxn.com/d/companies/avammune-therapeutics/__lhtpJWJOWPtwI5jrvSe5uxpGjP7ZBxv7WobYT7bXXt8",
+   "source_title": "Tracxn: Avammune Therapeutics funding",
+   "source_date": "2026-05-18",
+   "confidence": "MEDIUM",
+   "notes": "Tracxn reports $12M over 4 early-stage rounds; total raised including seed"
+  }
+ ],
+ "gaps": [
+  "CIN/incorporation registry page not surfaced in budget",
+  "No reported revenue/financials (preclinical biotech)"
+ ],
+ "investor_links": [
+  {
+   "investor": "Capital 2B",
+   "lead": true,
+   "rounds": [
+    "Series A 2025"
+   ],
+   "source_url": "https://timesofindia.indiatimes.com/business/india-business/avammune-therapeutics-raises-12-million-to-advance-cancer-therapies/amp_articleshow/121106904.cms"
+  },
+  {
+   "investor": "Shastra VC",
+   "lead": true,
+   "rounds": [
+    "Series A 2025"
+   ],
+   "source_url": "https://timesofindia.indiatimes.com/business/india-business/avammune-therapeutics-raises-12-million-to-advance-cancer-therapies/amp_articleshow/121106904.cms"
+  },
+  {
+   "investor": "Kotak Life Sciences Fund I",
+   "lead": true,
+   "rounds": [
+    "Series A 2025"
+   ],
+   "source_url": "https://timesofindia.indiatimes.com/business/india-business/avammune-therapeutics-raises-12-million-to-advance-cancer-therapies/amp_articleshow/121106904.cms"
+  },
+  {
+   "investor": "IvyCap Ventures",
+   "lead": false,
+   "rounds": [
+    "Series A 2025"
+   ],
+   "source_url": "http://inc42.com/buzz/healthtech-startup-avammune-bags-12-mn-from-capital-2b-others"
+  }
+ ],
+ "products": [
+  {
+   "name": "AVA-NP-695 (ENPP1 inhibitor)",
+   "source_url": "https://timesofindia.indiatimes.com/business/india-business/avammune-therapeutics-raises-12-million-to-advance-cancer-therapies/amp_articleshow/121106904.cms",
+   "stage": "preclinical/approaching clinical"
+  },
+  {
+   "name": "AVA-NP-695",
+   "category": "ENPP1 inhibitor",
+   "description": "Best-in-class small molecule ENPP1 inhibitor targeting cGAS/STING pathway; stabilizes cGAMP to restore STING activation; drives type I IFN production and immune infiltration; reduces EMT-associated metastatic potential. Preclinical efficacy in osteosarcoma, Ewing's sarcoma, triple negative breast cancer. Tested in veterinary patients via compassionate-use programs.",
+   "pricing_model": "",
+   "launch_date": "",
+   "status": "Preclinical; entering clinical trials in 2026",
+   "source_url": "https://www.avammune.com/pipeline",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "AVA-ADR (AVA-ADR-001)",
+   "category": "ADAR1 p150 inhibitor",
+   "description": "First-in-class small molecule inhibitor of ADAR1 p150 targeting the Zα-domain; upregulates interferon pathway; demonstrates synthetic lethality in high-IFN tumors; reverses resistance to checkpoint inhibitors. Published in Molecules 2022.",
+   "pricing_model": "",
+   "launch_date": "",
+   "status": "Preclinical",
+   "source_url": "https://www.avammune.com/pipeline",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "AVA-ERL",
+   "category": "Radioligand therapeutic",
+   "description": "First-in-class tumor-specific radioligand for precision medicine; selectively binds tumor cells with high target expression; delivers focused radiation to kill cancer cells while minimizing exposure to healthy tissue.",
+   "pricing_model": "",
+   "launch_date": "",
+   "status": "Discovery",
+   "source_url": "https://www.avammune.com/pipeline",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "AVA-NP",
+   "category": "ENPP1 inhibitor (next-gen)",
+   "description": "ENPP1-targeting asset in discovery stage.",
+   "pricing_model": "",
+   "launch_date": "",
+   "status": "Discovery",
+   "source_url": "https://synapse.patsnap.com/organization/c3a5e5f49de4058f15d46a95495155a6",
+   "confidence": "MEDIUM"
+  }
+ ],
+ "research_log": [
+  {
+   "found": "Active; $12M Series A May 2025, 3 founders, pipeline",
+   "query": "Avammune status Series A 2025 2026"
+  },
+  {
+   "found": "Lead asset AVA-NP-695; dual ops Philadelphia+Bengaluru",
+   "query": "Avammune detail (TOI/Inc42/company site)"
+  }
+ ],
+ "sources": [
+  {
+   "publication_date": "2025-05-12",
+   "publisher": "Times of India",
+   "title": "Avammune Therapeutics raises $12 million",
+   "url": "https://timesofindia.indiatimes.com/business/india-business/avammune-therapeutics-raises-12-million-to-advance-cancer-therapies/amp_articleshow/121106904.cms"
+  },
+  {
+   "publisher": "Inc42",
+   "title": "Avammune Bags $12 Mn From Capital 2B, Others",
+   "url": "http://inc42.com/buzz/healthtech-startup-avammune-bags-12-mn-from-capital-2b-others"
+  },
+  {
+   "publisher": "Avammune",
+   "title": "Company site: pipeline + India address",
+   "url": "https://avammune.com/"
+  },
+  {
+   "url": "https://www.avammune.com/about-us",
+   "title": "",
+   "fields": "PEOPLE",
+   "confidence": "HIGH"
+  },
+  {
+   "url": "https://www.avammune.com",
+   "title": "",
+   "fields": "company",
+   "confidence": "HIGH"
+  },
+  {
+   "url": "https://inc42.com/buzz/healthtech-startup-avammune-bags-12-mn-from-capital-2b-others/",
+   "title": "",
+   "fields": "company",
+   "confidence": "HIGH"
+  },
+  {
+   "url": "https://tracxn.com/d/legal-entities/india/avammune-lifesciences-private-limited/__EHHNzDGPpkl8nQ0W4HPGGOcGd5PD6sH_qtdW-2to6kM",
+   "title": "",
+   "fields": "company",
+   "confidence": "HIGH"
+  },
+  {
+   "url": "https://www.chem.purdue.edu/media/news/2025/kulkarni.html",
+   "title": "",
+   "fields": "company",
+   "confidence": "HIGH"
+  },
+  {
+   "url": "https://synapse.patsnap.com/organization/c3a5e5f49de4058f15d46a95495155a6",
+   "title": "",
+   "fields": "company",
+   "confidence": "MEDIUM"
+  },
+  {
+   "url": "https://yourstory.com/2022/07/funding-roundup-avammune-therapeutics-corn-junction-early-stage",
+   "title": "",
+   "fields": "company",
+   "confidence": "MEDIUM"
+  },
+  {
+   "url": "https://www.vccircle.com/avammunetherapeutics-posha-inspecity-others-secure-funding",
+   "title": "",
+   "fields": "company",
+   "confidence": "HIGH"
+  },
+  {
+   "url": "https://doi.org/10.3390/molecules27196721",
+   "title": "",
+   "fields": "company",
+   "confidence": "HIGH"
+  },
+  {
+   "url": "https://doi.org/10.3389/fimmu.2024.1395655",
+   "title": "",
+   "fields": "company",
+   "confidence": "HIGH"
+  }
+ ],
+ "startup_id": "avammune therapeutics",
+ "_merged_session2": true,
+ "people": [
+  {
+   "name": "Arun B. Papaiah",
+   "role": "Founder & CEO",
+   "title": "Chief Executive Officer",
+   "current": true,
+   "since": "2018-03",
+   "prior_role": "Co-founder of Aten Porus Lifesciences and Oraxion Therapeutics; MBA from RMIT; BSc from Christ University; 15+ years in finance, operations, technology transfer, business development",
+   "source_url": "https://www.avammune.com/about-us",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Aditya Kulkarni",
+   "role": "Founder & CSO",
+   "title": "Chief Scientific Officer",
+   "current": true,
+   "since": "2018-03",
+   "prior_role": "PhD in Bioorganic Chemistry, Purdue University (2012); H.C. Brown Award for Outstanding Organic Research; BIRAC-Ignite Fellow 2016; co-founded Aten Porus Lifesciences and Oraxion Therapeutics; inventor of Oraxion's technology platform ($125M option-to-license deal)",
+   "source_url": "https://www.avammune.com/about-us",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Srinivasan Namala",
+   "role": "Founder & Director",
+   "title": "Director",
+   "current": true,
+   "since": "2018-03",
+   "prior_role": "Co-founded Aten Porus Lifesciences and Oraxion Therapeutics; instrumental in Aten's exit to Bain Private Equity in 2023; Masters in Pharmaceutics from Northeastern University; BSc in Pharmacology from BITS Pilani; 20+ years in technology transfer, SCM, business development, finance",
+   "source_url": "https://www.avammune.com/about-us",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Sandeep Goyal",
+   "role": "Director | R&D",
+   "title": "Director of Research & Development",
+   "current": true,
+   "since": "",
+   "prior_role": "PhD in Medicinal Chemistry from NIPER Mohali; 10+ years in NCE design, synthesis, structure-/ligand-based drug discovery",
+   "source_url": "https://www.avammune.com/about-us",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Avijit Goswami",
+   "role": "Senior Manager | R&D",
+   "title": "Senior Manager, Research & Development",
+   "current": true,
+   "since": "",
+   "prior_role": "PhD in Biochemistry; 8+ years in RNA biology, host-pathogen interactions, immune modulation",
+   "source_url": "https://www.avammune.com/about-us",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Princy Khurana",
+   "role": "Sr. Manager | Alliances and Program Management",
+   "title": "Sr. Manager, Alliances and Program Management",
+   "current": true,
+   "since": "",
+   "prior_role": "11+ years in preclinical R&D and drug discovery program management; Masters in Analytical Chemistry",
+   "source_url": "https://www.avammune.com/about-us",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Sunny Revankar",
+   "role": "Associate Director | Finance and Admin",
+   "title": "Associate Director, Finance and Administration",
+   "current": true,
+   "since": "",
+   "prior_role": "14+ years in accounts, finance, administrative operations; Masters in Finance from Alagappa University",
+   "source_url": "https://www.avammune.com/about-us",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Prof. Jan Rehwinkel",
+   "role": "Scientific Advisory Board",
+   "title": "Professor of Innate Immunology, University of Oxford",
+   "current": true,
+   "since": "",
+   "prior_role": "Key opinion leader in nucleic acid sensing by innate receptors; context of virus infection, autoinflammatory disease and cancer",
+   "source_url": "https://www.avammune.com/about-us",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Prof. Thomas Marron",
+   "role": "Scientific Advisory Board",
+   "title": "Director, Early Phase Trials Unit; Prof. of Medicine, Icahn SOM at Mount Sinai",
+   "current": true,
+   "since": "",
+   "prior_role": "Medical oncologist focusing on cancer immunotherapies and Phase 1/2 multihistology clinical trials",
+   "source_url": "https://www.avammune.com/about-us",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Prof. Paul Brennan",
+   "role": "Scientific Advisory Board",
+   "title": "Professor of Medicinal Chemistry, University of Oxford; CSO of Alzheimer's Research UK Oxford Drug Discovery Institute",
+   "current": true,
+   "since": "",
+   "prior_role": "",
+   "source_url": "https://www.avammune.com/about-us",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Prof. Alejandro Sweet-Cordero",
+   "role": "Scientific Advisory Board",
+   "title": "Chief of Pediatric Oncology, UCSF",
+   "current": true,
+   "since": "",
+   "prior_role": "Director of UCSF Molecular Oncology Initiative; specializes in sarcomas and advanced cancers",
+   "source_url": "https://www.avammune.com/about-us",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Dr. Manoj Desai",
+   "role": "Scientific Advisory Board",
+   "title": "Ex-Pfizer, Ex-Gilead",
+   "current": true,
+   "since": "",
+   "prior_role": "Co-inventor of Sovaldi and Remdesivir; ten marketed drugs; six clinically approved NCEs",
+   "source_url": "https://www.avammune.com/about-us",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Dr. Akash Patnaik",
+   "role": "Scientific Advisory Board",
+   "title": "Deputy Section Chief for Translational Research, UCCCC",
+   "current": true,
+   "since": "",
+   "prior_role": "Program Leader for Clinical & Experimental Therapeutics; oncologist focused on immunotherapy and translational research",
+   "source_url": "https://www.avammune.com/about-us",
+   "confidence": "HIGH"
+  }
+ ],
+ "traction": [
+  {
+   "metric": "Publications",
+   "value": 2,
+   "unit": "count",
+   "period": "As-of-2026-09-15",
+   "as_of": "2026-09-15",
+   "company_reported": true,
+   "source_url": "https://www.avammune.com",
+   "confidence": "HIGH",
+   "notes": "Peer-reviewed publications: Molecules 2022 (AVA-ADR-001) and Frontiers in Immunology 2024 (small molecule innate immune modulators)"
+  },
+  {
+   "metric": "Patents filed",
+   "value": null,
+   "unit": "count",
+   "period": "As-of-2026-09-15",
+   "as_of": "2026-09-15",
+   "company_reported": true,
+   "source_url": "https://www.avammune.com/about-us",
+   "confidence": "MEDIUM",
+   "notes": "Several international patents filed in nucleic acid delivery, Niemann-Pick Type C therapeutics, drug discovery"
+  },
+  {
+   "metric": "Partnerships",
+   "value": 3,
+   "unit": "count",
+   "period": "As-of-2026-09-15",
+   "as_of": "2026-09-15",
+   "company_reported": true,
+   "source_url": "https://timesofindia.indiatimes.com/business/india-business/avammune-therapeutics-raises-12-million-to-advance-cancer-therapies/amp_articleshow/121106904.cms",
+   "confidence": "HIGH",
+   "notes": "Research collaborations with UCSF, Oxford University, University of Queensland"
+  }
+ ],
+ "locations": [
+  {
+   "type": "hq",
+   "address_or_area": "#545/6, 1st Floor, Devarachikkanahalli Main Road, Bommanahalli",
+   "city": "Bengaluru",
+   "state": "Karnataka",
+   "country": "India",
+   "as_of": "2026-09-15",
+   "source_url": "https://www.avammune.com",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "registered_office",
+   "address_or_area": "#545/6, 1st Floor, Devarachikkanahalli Main Road, Bommanahalli",
+   "city": "Bengaluru",
+   "state": "Karnataka",
+   "country": "India",
+   "as_of": "2024-11-08",
+   "source_url": "https://tracxn.com/d/legal-entities/india/avammune-lifesciences-private-limited/__EHHNzDGPpkl8nQ0W4HPGGOcGd5PD6sH_qtdW-2to6kM",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "office",
+   "address_or_area": "Pennsylvania",
+   "city": "",
+   "state": "",
+   "country": "United States",
+   "as_of": "2026-09-15",
+   "source_url": "https://www.avammune.com",
+   "confidence": "HIGH",
+   "note": "US entity: Avammune Therapeutics, Inc."
+  }
+ ]
+}

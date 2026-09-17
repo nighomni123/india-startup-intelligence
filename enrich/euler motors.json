@@ -1,0 +1,1087 @@
+{
+ "company": {
+  "business_model": "OEM manufacturing + sales/service network (3W/4W cargo EVs)",
+  "city": "Delhi (batch said Bengaluru — corrected: Delhi HQ per all sources)",
+  "customer_type": "B2B (fleet, e-commerce, hyperlocal delivery)",
+  "dpiit": "Recognised Startup (per The Company Check)",
+  "employee_estimate": "447 (per The Company Check; UNVERIFIED)",
+  "founded_date": "2018 (brand); incorporated 15 Jan 2015 as Greyradar/Cube26 lineage",
+  "legal_name": "Euler Motors Private Limited",
+  "parent/subsidiary": "associate of Hero MotoCorp (~35-36% stake)",
+  "primary_sector": "ev commercial",
+  "public_private": "private",
+  "startup_stage": "Series E / growth",
+  "status": "active",
+  "website": "eulermotors.com",
+  "cin": "U72900DL2015PTC275513",
+  "incorporation_date": "2015-01-15",
+  "official_website": {
+   "v": "https://www.eulermotors.com",
+   "conf": "high",
+   "src": "https://www.eulermotors.com",
+   "note": "verified live 2026-09-15: name match on own homepage"
+  },
+  "state": {
+   "v": "Delhi",
+   "conf": "HIGH",
+   "src": "https://www.tofler.in/euler-motors-private-limited/company/U72900DL2015PTC275513",
+   "note": "Registered in New Delhi per MCA",
+   "asof": "2026-09-15"
+  },
+  "country": {
+   "v": "India",
+   "conf": "HIGH",
+   "src": "https://www.tofler.in/euler-motors-private-limited/company/U72900DL2015PTC275513",
+   "note": "Indian private limited company",
+   "asof": "2026-09-15"
+  },
+  "description": {
+   "v": "Electric commercial vehicle manufacturer building 3W and 4W cargo EVs for last-mile logistics",
+   "conf": "HIGH",
+   "src": "https://techcrunch.com/2022/10/03/gic-backs-indian-ev-startup-euler-motors-in-60-million-funding/",
+   "note": "Founded 2018; HiLoad EV 3W, Storm/Turbo EV4W",
+   "asof": "2026-09-15"
+  },
+  "hq_type": {
+   "v": "registered_office",
+   "conf": "HIGH",
+   "src": "https://www.tofler.in/euler-motors-private-limited/company/U72900DL2015PTC275513",
+   "note": "B-99, Second Floor, Panchsheel Vihar, New Delhi - 110017",
+   "asof": "2026-09-15"
+  },
+  "registered_office": {
+   "v": "B-99, Second Floor, Panchsheel Vihar, New Delhi, Delhi - 110017",
+   "conf": "HIGH",
+   "src": "https://www.tofler.in/euler-motors-private-limited/company/U72900DL2015PTC275513",
+   "note": "MCA registered address",
+   "asof": "2026-09-15"
+  }
+ },
+ "completeness_self": {
+  "financials": 7,
+  "founders": 6,
+  "funding": 8,
+  "identity": 7,
+  "investors": 7,
+  "legal": 3,
+  "overall": "medium-low; lite but strong funding+financials"
+ },
+ "conflicts": [
+  {
+   "field": "founded year",
+   "note": "Brand founded 2018 per ET/Inc42/Wikipedia; MCA incorporation 15 Jan 2015 (earlier legal entity, formerly Greyradar/Cube26 Automotive).",
+   "resolution": "record both: brand 2018, legal incorporation 2015",
+   "resolved_value": "2018 / 2015-01-15"
+  },
+  {
+   "field": "FY25 PAT",
+   "note": "Inc42: net loss 200.2cr; SensiBook: PAT -203.27cr. Minor diff, likely rounding/consolidation.",
+   "resolution": "use Inc42 press figure with note",
+   "resolved_value": "~-200cr loss"
+  },
+  {
+   "field": "city",
+   "claim_a": "Delhi (batch said Bengaluru — corrected: Delhi HQ per all sources)",
+   "url_a": "",
+   "claim_b": "Delhi",
+   "url_b": "",
+   "resolution": "phase3 p3 payload disagrees with existing value; existing kept as preferred pending human review",
+   "resolved_value": "",
+   "reviewed": "p3-merge"
+  },
+  {
+   "field": "employee_estimate",
+   "claim_a": "447 (per The Company Check; UNVERIFIED)",
+   "url_a": "",
+   "claim_b": "500",
+   "url_b": "",
+   "resolution": "phase3 p3 payload disagrees with existing value; existing kept as preferred pending human review",
+   "resolved_value": "",
+   "reviewed": "p3-merge"
+  },
+  {
+   "field": "founded year",
+   "claim_a": "2018 (brand launch)",
+   "url_a": "https://economictimes.indiatimes.com/tech/funding/ev-maker-euler-motors-raises-rs-437-5-crore-from-lightrock-hero-motocorp-others/articleshow/129777725.cms",
+   "claim_b": "2015 (MCA incorporation)",
+   "url_b": "https://www.tofler.in/euler-motors-private-limited/company/U72900DL2015PTC275513",
+   "resolution": "Brand founded 2018; legal entity incorporated 15 Jan 2015 (formerly Cube26 lineage)",
+   "resolved_value": "2018 / 2015-01-15"
+  },
+  {
+   "field": "Hero MotoCorp stake",
+   "claim_a": "35-36%",
+   "url_a": "https://economictimes.indiatimes.com/tech/funding/ev-maker-euler-motors-raises-rs-437-5-crore-from-lightrock-hero-motocorp-others/articleshow/129777725.cms",
+   "claim_b": "34%",
+   "url_b": "https://www.livemint.com/companies/news/after-athers-gain-heros-electric-cv-bet-begins-to-scale-11787222464832.html",
+   "resolution": "ET says 35-36%; Mint says 34% at end of FY26. Likely rounding or timing difference.",
+   "resolved_value": "34-36%"
+  },
+  {
+   "field": "FY25 net loss",
+   "claim_a": "-200.2 crore",
+   "url_a": "https://inc42.com/buzz/euler-motors-trims-fy25-net-loss-by-12-to-inr-200-cr/",
+   "claim_b": "-261 crore (FY26 loss widened from)",
+   "url_b": "https://www.livemint.com/companies/news/after-athers-gain-heros-electric-cv-bet-begins-to-scale-11787222464832.html",
+   "resolution": "Different fiscal years: FY25 loss ~200cr, FY26 loss 315cr (per Mint). The 261cr figure may be a different consolidation.",
+   "resolved_value": "FY25: -200cr; FY26: -315cr"
+  },
+  {
+   "field": "FY25 revenue",
+   "claim_a": "191.3 crore",
+   "url_a": "https://inc42.com/buzz/euler-motors-trims-fy25-net-loss-by-12-to-inr-200-cr/",
+   "claim_b": "192.26 crore",
+   "url_b": "https://economictimes.indiatimes.com/tech/funding/ev-maker-euler-motors-raises-rs-437-5-crore-from-lightrock-hero-motocorp-others/articleshow/129777725.cms",
+   "resolution": "Minor rounding difference between Inc42 and ET; both cite same filing",
+   "resolved_value": "INR 191-192 crore"
+  },
+  {
+   "field": "total raised",
+   "claim_a": "Rs 1,900 crore",
+   "url_a": "https://economictimes.indiatimes.com/tech/funding/ev-maker-euler-motors-raises-rs-437-5-crore-from-lightrock-hero-motocorp-others/articleshow/129777725.cms",
+   "claim_b": "$224M (approx Rs 1,900cr)",
+   "url_b": "https://inc42.com/buzz/euler-motors-trims-fy25-net-loss-by-12-to-inr-200-cr/",
+   "resolution": "Consistent; company-claimed cumulative figure",
+   "resolved_value": "~$224M / ~Rs 1,900cr"
+  }
+ ],
+ "events": [
+  {
+   "date": "Mar 2026",
+   "headline": "Euler Motors raises Rs 437.5cr Series E equity + Rs 250cr debt",
+   "source_url": "https://economictimes.indiatimes.com/tech/funding/ev-maker-euler-motors-raises-rs-437-5-crore-from-lightrock-hero-motocorp-others/articleshow/129777725.cms",
+   "type": "funding"
+  },
+  {
+   "type": "funding",
+   "headline": "Series C led by GIC at $200M valuation",
+   "date": "2022-10-03",
+   "description": "Raised $60M; GIC led; Blume, Athera, QRG, ADB Ventures, Moglix participated",
+   "source_url": "https://techcrunch.com/2022/10/03/gic-backs-indian-ev-startup-euler-motors-in-60-million-funding/",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "launch",
+   "headline": "Updated HiLoad EV 2023 launched",
+   "date": "2023-04-10",
+   "description": "Bigger 12.96 kWh battery, 170 km range",
+   "source_url": "https://timesofindia.indiatimes.com/auto/commercial-vehicles/euler-motors-launches-2023-hiload-electric-three-wheeler-bigger-12-96-kwh-battery-170-km-range-and-more/articleshow/99381929.cms",
+   "confidence": "MEDIUM"
+  },
+  {
+   "type": "funding",
+   "headline": "Series C additional Rs 200 crore",
+   "date": "2024-05-29",
+   "description": "Additional funding in Series C round",
+   "source_url": "https://indianstartupnews.com/funding/electric-commercial-vehicle-manufacturer-euler-motors-raises-additional-rs-200-crore-in-a-series-c-round-4706989",
+   "confidence": "MEDIUM"
+  },
+  {
+   "type": "funding",
+   "headline": "Series C Rs 525 crore from Lightrock, Trifecta, BII",
+   "date": "2024-03-24",
+   "description": "Fresh equity and debt funding",
+   "source_url": "https://www.vccircle.com/eulermotors-raises-fresh-equity-debt-funding-from-lightrock-trifecta-others",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "manufacturing",
+   "headline": "Palwal manufacturing facility unveiled",
+   "date": "2024-08-14",
+   "description": "500,000 sq ft plant, 36,000 vehicles/year capacity, Rs 100 crore investment",
+   "source_url": "https://emobilityplus.com/2024/08/14/euler-motors-unveils-cutting-edge-commercial-ev-manufacturing-facility-in-palwal/",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "funding",
+   "headline": "Series D Rs 638 crore led by Hero MotoCorp",
+   "date": "2025-05",
+   "description": "Hero MotoCorp led; BII participated; Hero invested Rs 525cr initially",
+   "source_url": "https://www.autocarpro.in/news/euler-motors-raises-inr-6875-crore-in-series-e-round-led-by-lightrock-131796",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "launch",
+   "headline": "NEO by Euler launched (electric auto-rickshaws)",
+   "date": "2025-08",
+   "description": "Entry into passenger EV segment at INR 3,09,999",
+   "source_url": "https://evreporter.com/euler-motors-enters-passenger-ev-segment-with-the-launch-of-neo-by-euler-at-309999/",
+   "confidence": "MEDIUM"
+  },
+  {
+   "type": "launch",
+   "headline": "Turbo EV 1000 launched (1-tonne electric mini truck)",
+   "date": "2025-09-22",
+   "description": "India's first 1-tonne EV mini truck; starting INR 5.99 lakh; 4 variants",
+   "source_url": "https://www.outlookbusiness.com/corporate/euler-motors-aims-to-double-revenue-in-fy26-with-launch-of-1-tonne-e-mini-truck",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "funding",
+   "headline": "Series E Rs 437.5 crore equity + Rs 250 crore debt",
+   "date": "2026-03-24",
+   "description": "Led by Lightrock; Hero MotoCorp and Blume Ventures participated; debt from BlackSoil, Trifecta, InnoVen, Alteria",
+   "source_url": "https://economictimes.indiatimes.com/tech/funding/ev-maker-euler-motors-raises-rs-437-5-crore-from-lightrock-hero-motocorp-others/articleshow/129777725.cms",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "partnership",
+   "headline": "Hero MotoCorp deepens stake to 34-36%",
+   "date": "2026-02",
+   "description": "Hero invested Rs 720 crore cumulative; inaugurated new 4W production line at Palwal",
+   "source_url": "https://www.livemint.com/companies/news/after-athers-gain-heros-electric-cv-bet-begins-to-scale-11787222464832.html",
+   "confidence": "HIGH"
+  }
+ ],
+ "financials": [
+  {
+   "fiscal_year": "FY25",
+   "metric": "operating revenue",
+   "source_title": "Euler Motors Trims FY25 Net Loss By 12% To INR 200 Cr",
+   "source_url": "https://inc42.com/buzz/euler-motors-trims-fy25-net-loss-by-12-to-inr-200-cr/",
+   "value": "191.3 crore",
+   "value_type": "press-quoted-filing"
+  },
+  {
+   "fiscal_year": "FY25",
+   "metric": "net loss",
+   "source_title": "Euler Motors Trims FY25 Net Loss By 12% To INR 200 Cr",
+   "source_url": "https://inc42.com/buzz/euler-motors-trims-fy25-net-loss-by-12-to-inr-200-cr/",
+   "value": "-200.2 crore",
+   "value_type": "press-quoted-filing"
+  },
+  {
+   "fiscal_year": "FY25",
+   "metric": "operating_revenue",
+   "value": 191.3,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "press-quoted-filing",
+   "basis": "standalone",
+   "consolidated": "no",
+   "source_url": "https://inc42.com/buzz/euler-motors-trims-fy25-net-loss-by-12-to-inr-200-cr/",
+   "source_title": "Inc42: Euler Motors Trims FY25 Net Loss",
+   "confidence": "HIGH",
+   "notes": "Vehicle sales contributed INR 173.1cr (90% of operating revenue)"
+  },
+  {
+   "fiscal_year": "FY25",
+   "metric": "net_profit",
+   "value": -200.2,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "press-quoted-filing",
+   "basis": "standalone",
+   "consolidated": "no",
+   "source_url": "https://inc42.com/buzz/euler-motors-trims-fy25-net-loss-by-12-to-inr-200-cr/",
+   "source_title": "Inc42: Euler Motors Trims FY25 Net Loss",
+   "confidence": "HIGH",
+   "notes": "Net loss trimmed 12% from INR 227cr in FY24"
+  },
+  {
+   "fiscal_year": "FY24",
+   "metric": "operating_revenue",
+   "value": 170.8,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "press-quoted-filing",
+   "basis": "standalone",
+   "consolidated": "no",
+   "source_url": "https://economictimes.indiatimes.com/tech/funding/ev-maker-euler-motors-raises-rs-437-5-crore-from-lightrock-hero-motocorp-others/articleshow/129777725.cms",
+   "source_title": "ET: Euler Motors raises Rs 437.5 crore",
+   "confidence": "HIGH",
+   "notes": "Revenue up 12% to INR 192.26cr in FY25 per ET"
+  },
+  {
+   "fiscal_year": "FY24",
+   "metric": "net_profit",
+   "value": -227,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "press-quoted-filing",
+   "basis": "standalone",
+   "consolidated": "no",
+   "source_url": "https://inc42.com/buzz/euler-motors-trims-fy25-net-loss-by-12-to-inr-200-cr/",
+   "source_title": "Inc42: Euler Motors Trims FY25 Net Loss",
+   "confidence": "HIGH",
+   "notes": "FY24 net loss INR 227cr"
+  },
+  {
+   "fiscal_year": "FY26",
+   "metric": "operating_revenue",
+   "value": 433,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "press-quoted-filing",
+   "basis": "standalone",
+   "consolidated": "no",
+   "source_url": "https://www.livemint.com/companies/news/after-athers-gain-heros-electric-cv-bet-begins-to-scale-11787222464832.html",
+   "source_title": "After Ather's gain, Hero's electric CV bet begins to scale - Livemint",
+   "confidence": "HIGH",
+   "notes": "Revenue jumped 101% YoY per MCA filings reviewed by Mint"
+  },
+  {
+   "fiscal_year": "FY26",
+   "metric": "net_profit",
+   "value": -315,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "press-quoted-filing",
+   "basis": "standalone",
+   "consolidated": "no",
+   "source_url": "https://www.livemint.com/companies/news/after-athers-gain-heros-electric-cv-bet-begins-to-scale-11787222464832.html",
+   "source_title": "After Ather's gain, Hero's electric CV bet begins to scale - Livemint",
+   "confidence": "HIGH",
+   "notes": "Losses widened from INR 261cr (note: discrepancy with INR 200cr FY25 figure)"
+  },
+  {
+   "fiscal_year": "FY25",
+   "metric": "total_revenue",
+   "value": 206,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "press-quoted-filing",
+   "basis": "standalone",
+   "consolidated": "no",
+   "source_url": "https://inc42.com/buzz/euler-motors-trims-fy25-net-loss-by-12-to-inr-200-cr/",
+   "source_title": "Inc42: Euler Motors Trims FY25 Net Loss",
+   "confidence": "HIGH",
+   "notes": "Including INR 14.7cr other income"
+  },
+  {
+   "fiscal_year": "FY25",
+   "metric": "total_expenses",
+   "value": 404.1,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "press-quoted-filing",
+   "basis": "standalone",
+   "consolidated": "no",
+   "source_url": "https://inc42.com/buzz/euler-motors-trims-fy25-net-loss-by-12-to-inr-200-cr/",
+   "source_title": "Inc42: Euler Motors Trims FY25 Net Loss",
+   "confidence": "HIGH",
+   "notes": "Employee benefits INR 74.4cr (+46% YoY)"
+  },
+  {
+   "metric": "authorized_share_capital",
+   "value": 30.5,
+   "unit": "crore",
+   "currency": "INR",
+   "fiscal_year": "FY25",
+   "value_type": "MCA",
+   "basis": "standalone",
+   "consolidated": "no",
+   "source_url": "https://www.tofler.in/euler-motors-private-limited/company/U72900DL2015PTC275513",
+   "source_title": "Tofler: Euler Motors Company Details",
+   "confidence": "HIGH",
+   "notes": "MCA registered data"
+  },
+  {
+   "metric": "paidup_capital",
+   "value": 20.1,
+   "unit": "crore",
+   "currency": "INR",
+   "fiscal_year": "FY25",
+   "value_type": "MCA",
+   "basis": "standalone",
+   "consolidated": "no",
+   "source_url": "https://www.tofler.in/euler-motors-private-limited/company/U72900DL2015PTC275513",
+   "source_title": "Tofler: Euler Motors Company Details",
+   "confidence": "HIGH",
+   "notes": "MCA registered data"
+  },
+  {
+   "metric": "borrowings",
+   "value": 209.9,
+   "unit": "crore",
+   "currency": "INR",
+   "fiscal_year": "FY25",
+   "value_type": "MCA",
+   "basis": "standalone",
+   "consolidated": "no",
+   "source_url": "https://www.tofler.in/euler-motors-private-limited/company/U72900DL2015PTC275513",
+   "source_title": "Tofler: Euler Motors Company Details",
+   "confidence": "HIGH",
+   "notes": "Total borrowings per MCA; +135.55% YoY"
+  },
+  {
+   "metric": "reserves",
+   "value": 80.9,
+   "unit": "crore",
+   "currency": "INR",
+   "fiscal_year": "FY25",
+   "value_type": "MCA",
+   "basis": "standalone",
+   "consolidated": "no",
+   "source_url": "https://www.tofler.in/euler-motors-private-limited/company/U72900DL2015PTC275513",
+   "source_title": "Tofler: Euler Motors Company Details",
+   "confidence": "HIGH",
+   "notes": "Networth decreased 23.95% YoY"
+  },
+  {
+   "metric": "total_assets",
+   "value": 410.2,
+   "unit": "crore",
+   "currency": "INR",
+   "fiscal_year": "FY25",
+   "value_type": "MCA",
+   "basis": "standalone",
+   "consolidated": "no",
+   "source_url": "https://www.tofler.in/euler-motors-private-limited/company/U72900DL2015PTC275513",
+   "source_title": "Tofler: Euler Motors Company Details",
+   "confidence": "HIGH",
+   "notes": "Total assets per MCA balance sheet"
+  }
+ ],
+ "founders": [
+  {
+   "name": "Saurav Kumar",
+   "role": "Founder & CEO",
+   "source_url": "https://economictimes.indiatimes.com/tech/funding/ev-maker-euler-motors-raises-rs-437-5-crore-from-lightrock-hero-motocorp-others/articleshow/129777725.cms"
+  }
+ ],
+ "funding_rounds": [
+  {
+   "amount": "437.5 crore equity + 250 crore debt",
+   "announced_date": "Mar 2026",
+   "currency": "INR",
+   "leads": [
+    "Lightrock"
+   ],
+   "round_type": "Series E",
+   "source_url": "https://economictimes.indiatimes.com/tech/funding/ev-maker-euler-motors-raises-rs-437-5-crore-from-lightrock-hero-motocorp-others/articleshow/129777725.cms",
+   "announcement_date": "2026-03-24",
+   "valuation_type": "undisclosed",
+   "purpose": "Expand product line, manufacturing, R&D and network"
+  },
+  {
+   "amount": "638 crore",
+   "announced_date": "May 2025",
+   "currency": "INR",
+   "leads": [
+    "Hero MotoCorp"
+   ],
+   "round_type": "Series D",
+   "source_url": "https://www.autocarpro.in/news/euler-motors-raises-inr-6875-crore-in-series-e-round-led-by-lightrock-131796"
+  },
+  {
+   "amount": "525 crore",
+   "announced_date": "Mar 2024",
+   "currency": "INR",
+   "leads": [],
+   "round_type": "Series C",
+   "source_url": "https://www.vccircle.com/eulermotors-raises-fresh-equity-debt-funding-from-lightrock-trifecta-others"
+  },
+  {
+   "round_type": "Series C",
+   "announced_date": "2022-10-03",
+   "amount": 60000000,
+   "currency": "USD",
+   "valuation": 200000000,
+   "valuation_currency": "USD",
+   "valuation_type": "disclosed",
+   "lead_investors": [
+    "GIC"
+   ],
+   "all_investors": [
+    "GIC",
+    "Blume Ventures",
+    "Athera Venture Partners",
+    "QRG",
+    "ADB Ventures",
+    "Moglix"
+   ],
+   "instrument": "equity",
+   "purpose": "Scale manufacturing capacity, expand distribution, strengthen team",
+   "source_url": "https://techcrunch.com/2022/10/03/gic-backs-indian-ev-startup-euler-motors-in-60-million-funding/",
+   "source_title": "GIC backs Indian EV startup Euler Motors in $60 million funding - TechCrunch",
+   "source_date": "2022-10-03",
+   "confidence": "HIGH"
+  },
+  {
+   "round_type": "Series C (additional)",
+   "announced_date": "2024-05-29",
+   "amount": 200,
+   "currency": "INR",
+   "valuation_type": "undisclosed",
+   "lead_investors": [],
+   "all_investors": [],
+   "instrument": "equity",
+   "purpose": "Production capacity and R&D",
+   "source_url": "https://indianstartupnews.com/funding/electric-commercial-vehicle-manufacturer-euler-motors-raises-additional-rs-200-crore-in-a-series-c-round-4706989",
+   "source_title": "Euler Motors raises additional Rs 200 crore in Series C round",
+   "source_date": "2024-05-29",
+   "confidence": "MEDIUM"
+  },
+  {
+   "round_type": "Series C",
+   "announced_date": "2024-03",
+   "amount": 525,
+   "currency": "INR",
+   "valuation_type": "undisclosed",
+   "lead_investors": [],
+   "all_investors": [
+    "Lightrock",
+    "Trifecta",
+    "British International Investment"
+   ],
+   "instrument": "equity+debt",
+   "purpose": "Expand product line, manufacturing, R&D",
+   "source_url": "https://www.vccircle.com/eulermotors-raises-fresh-equity-debt-funding-from-lightrock-trifecta-others",
+   "source_title": "Euler Motors raises fresh equity, debt funding from Lightrock, Trifecta, others - VCCircle",
+   "source_date": "2024-03-24",
+   "confidence": "HIGH"
+  },
+  {
+   "round_type": "Series D",
+   "announced_date": "2025-05",
+   "amount": 638,
+   "currency": "INR",
+   "valuation_type": "undisclosed",
+   "lead_investors": [
+    "Hero MotoCorp"
+   ],
+   "all_investors": [
+    "Hero MotoCorp",
+    "British International Investment"
+   ],
+   "instrument": "equity",
+   "purpose": "Boost production capacity, R&D, distribution to 80 cities",
+   "source_url": "https://www.autocarpro.in/news/euler-motors-raises-inr-6875-crore-in-series-e-round-led-by-lightrock-131796",
+   "source_title": "Euler Motors raises INR 638 crore in Series D round led by Hero MotoCorp",
+   "source_date": "2025-05",
+   "confidence": "HIGH"
+  },
+  {
+   "round_type": "Series E (equity)",
+   "announced_date": "2026-03-24",
+   "amount": 437.5,
+   "currency": "INR",
+   "valuation_type": "undisclosed",
+   "lead_investors": [
+    "Lightrock"
+   ],
+   "all_investors": [
+    "Lightrock",
+    "Hero MotoCorp",
+    "Blume Ventures"
+   ],
+   "instrument": "equity",
+   "purpose": "Expand manufacturing, scale network, R&D",
+   "source_url": "https://economictimes.indiatimes.com/tech/funding/ev-maker-euler-motors-raises-rs-437-5-crore-from-lightrock-hero-motocorp-others/articleshow/129777725.cms",
+   "source_title": "EV maker Euler Motors raises Rs 437.5 crore from Lightrock, Hero MotoCorp, others - ET",
+   "source_date": "2026-03-24",
+   "confidence": "HIGH"
+  },
+  {
+   "round_type": "Series E (debt)",
+   "announced_date": "2026-03-24",
+   "amount": 250,
+   "currency": "INR",
+   "valuation_type": "n/a",
+   "lead_investors": [],
+   "all_investors": [
+    "BlackSoil",
+    "Trifecta Capital",
+    "InnoVen Capital",
+    "Alteria Capital"
+   ],
+   "instrument": "debt",
+   "purpose": "Manufacturing expansion, network scaling",
+   "source_url": "https://economictimes.indiatimes.com/tech/funding/ev-maker-euler-motors-raises-rs-437-5-crore-from-lightrock-hero-motocorp-others/articleshow/129777725.cms",
+   "source_title": "ET Series E article",
+   "source_date": "2026-03-24",
+   "confidence": "HIGH"
+  },
+  {
+   "round_type": "Debt",
+   "announced_date": "2025-01",
+   "amount": 20,
+   "currency": "USD",
+   "valuation_type": "n/a",
+   "lead_investors": [],
+   "all_investors": [
+    "responsAbility Investments AG"
+   ],
+   "instrument": "debt",
+   "purpose": "Working capital",
+   "source_url": "https://inc42.com/buzz/euler-motors-trims-fy25-net-loss-by-12-to-inr-200-cr/",
+   "source_title": "Euler Motors Trims FY25 Net Loss By 12% To INR 200 Cr - Inc42",
+   "source_date": "2025-01",
+   "confidence": "MEDIUM"
+  }
+ ],
+ "gaps": [
+  "total raised ~Rs 1,900cr is company-claimed cumulative",
+  "valuation undisclosed for Series E",
+  "DPIIT detail unverified beyond directory claim",
+  "valuations (no round valuation disclosed in Series E coverage seen)",
+  "FY26 filing financials (FY25 already in enrich file)"
+ ],
+ "investor_links": [
+  {
+   "investor": "Hero MotoCorp (~35-36% stake)",
+   "source_url": "https://economictimes.indiatimes.com/tech/funding/ev-maker-euler-motors-raises-rs-437-5-crore-from-lightrock-hero-motocorp-others/articleshow/129777725.cms"
+  },
+  {
+   "investor": "Lightrock",
+   "source_url": "https://economictimes.indiatimes.com/tech/funding/ev-maker-euler-motors-raises-rs-437-5-crore-from-lightrock-hero-motocorp-others/articleshow/129777725.cms"
+  },
+  {
+   "investor": "Blume Ventures",
+   "source_url": "https://economictimes.indiatimes.com/tech/funding/ev-maker-euler-motors-raises-rs-437-5-crore-from-lightrock-hero-motocorp-others/articleshow/129777725.cms"
+  },
+  {
+   "investor": "British International Investment",
+   "source_url": "https://www.vccircle.com/eulermotors-raises-fresh-equity-debt-funding-from-lightrock-trifecta-others"
+  }
+ ],
+ "research_log": [
+  {
+   "found": "Series E, Hero stake, revenue, founder, Delhi HQ",
+   "query": "Euler Motors EV funding 2025 2026 investors"
+  },
+  {
+   "found": "FY25 revenue/loss, CIN, incorporation 2015",
+   "query": "Euler Motors founder Saurav Kumar founded Delhi revenue FY25"
+  },
+  {
+   "date": "2026-09-14",
+   "found": "CIN U72900DL2015PTC275513, incorporated 15 Jan 2015; Series E Rs 437.5cr led by Lightrock",
+   "query": "Euler Motors CIN incorporation + Series E valuation",
+   "unresolved": "Series E valuation undisclosed"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "Q-wave claim source-hunt",
+   "found": "0 resolved",
+   "unresolved": "",
+   "next_action": "none"
+  }
+ ],
+ "sources": [
+  {
+   "publisher": "Economic Times",
+   "title": "EV maker Euler Motors raises Rs 437.5 crore",
+   "url": "https://economictimes.indiatimes.com/tech/funding/ev-maker-euler-motors-raises-rs-437-5-crore-from-lightrock-hero-motocorp-others/articleshow/129777725.cms"
+  },
+  {
+   "publisher": "Inc42",
+   "title": "Euler Motors Trims FY25 Net Loss By 12% To INR 200 Cr",
+   "url": "https://inc42.com/buzz/euler-motors-trims-fy25-net-loss-by-12-to-inr-200-cr/"
+  },
+  {
+   "publisher": "VCCircle",
+   "title": "Euler Motors raises fresh equity, debt funding",
+   "url": "https://www.vccircle.com/eulermotors-raises-fresh-equity-debt-funding-from-lightrock-trifecta-others"
+  },
+  {
+   "url": "https://www.moneycontrol.com/automobile/euler-motors-raises-rs-437-5-crore-in-series-e-round-led-by-lightrock-article-13869516.html",
+   "title": "",
+   "fields": "FUNDING",
+   "confidence": "HIGH"
+  },
+  {
+   "url": "https://www.tofler.in/euler-motors-private-limited/company/U72900DL2015PTC275513",
+   "title": "Euler Motors Financials | Company Details - Tofler",
+   "fields": [
+    "cin"
+   ],
+   "confidence": "HIGH"
+  },
+  {
+   "url": "https://www.zaubacorp.com/EULER-MOTORS-PRIVATE-LIMITED-U72900DL2015PTC275513",
+   "title": "EULER MOTORS PRIVATE LIMITED | ZaubaCorp",
+   "fields": [
+    "cin",
+    "incorporation_date"
+   ],
+   "confidence": "HIGH"
+  },
+  {
+   "url": "https://techcrunch.com/2022/10/03/gic-backs-indian-ev-startup-euler-motors-in-60-million-funding/",
+   "publisher": "TechCrunch",
+   "tier": "T1",
+   "publication_date": "2022-10-03",
+   "retrieved_date": "2026-09-15",
+   "confidence": "HIGH",
+   "fields_supported": [
+    "funding_rounds",
+    "founders",
+    "products",
+    "traction",
+    "backorder"
+   ]
+  },
+  {
+   "url": "https://emobilityplus.com/2024/08/14/euler-motors-unveils-cutting-edge-commercial-ev-manufacturing-facility-in-palwal/",
+   "publisher": "EMobility+",
+   "tier": "T2",
+   "publication_date": "2024-08-14",
+   "retrieved_date": "2026-09-15",
+   "confidence": "HIGH",
+   "fields_supported": [
+    "locations",
+    "people",
+    "products",
+    "company"
+   ]
+  }
+ ],
+ "startup_id": "euler motors",
+ "_merged_session2": true,
+ "traction": [
+  {
+   "metric": "vehicles_sold",
+   "value": 3050,
+   "unit": "vehicles",
+   "period": "FY25",
+   "as_of": "2025-03-31",
+   "company_reported": true,
+   "source_url": "https://economictimes.indiatimes.com/tech/funding/ev-maker-euler-motors-raises-rs-437-5-crore-from-lightrock-hero-motocorp-others/articleshow/129777725.cms",
+   "confidence": "HIGH",
+   "notes": "Largely driven by three-wheelers; capacity utilisation ~50% single shift"
+  },
+  {
+   "metric": "vehicles_sold",
+   "value": 6528,
+   "unit": "vehicles",
+   "period": "FY26",
+   "as_of": "2026-03-31",
+   "company_reported": false,
+   "source_url": "https://www.livemint.com/companies/news/after-athers-gain-heros-electric-cv-bet-begins-to-scale-11787222464832.html",
+   "confidence": "HIGH",
+   "notes": "Vahan portal data; 87% YoY growth"
+  },
+  {
+   "metric": "vehicles_sold",
+   "value": 5318,
+   "unit": "vehicles",
+   "period": "H1-FY27 (Apr-Jul 2026)",
+   "as_of": "2026-07-31",
+   "company_reported": false,
+   "source_url": "https://www.livemint.com/companies/news/after-athers-gain-heros-electric-cv-bet-begins-to-scale-11787222464832.html",
+   "confidence": "HIGH",
+   "notes": "First four months of FY27 per Vahan portal"
+  },
+  {
+   "metric": "market_share_3w_cargo",
+   "value": 10,
+   "unit": "percent",
+   "period": "FY26",
+   "as_of": "2026-03-31",
+   "company_reported": true,
+   "source_url": "https://economictimes.indiatimes.com/tech/funding/ev-maker-euler-motors-raises-rs-437-5-crore-from-lightrock-hero-motocorp-others/articleshow/129777725.cms",
+   "confidence": "MEDIUM",
+   "notes": "Pan-India 3W cargo segment share; 20-22% in operating cities"
+  },
+  {
+   "metric": "market_share_4w_cargo",
+   "value": 20,
+   "unit": "percent",
+   "period": "FY26",
+   "as_of": "2026-03-31",
+   "company_reported": true,
+   "source_url": "https://economictimes.indiatimes.com/tech/funding/ev-maker-euler-motors-raises-rs-437-5-crore-from-lightrock-hero-motocorp-others/articleshow/129777725.cms",
+   "confidence": "MEDIUM",
+   "notes": "4W cargo EV segment share per Saurav Kumar"
+  },
+  {
+   "metric": "cities_operating",
+   "value": 112,
+   "unit": "cities",
+   "period": "FY26",
+   "as_of": "2026-08-31",
+   "company_reported": true,
+   "source_url": "https://www.livemint.com/companies/news/after-athers-gain-heros-electric-cv-bet-begins-to-scale-11787222464832.html",
+   "confidence": "HIGH",
+   "notes": "Expanded from 30-35 cities after Hero entry"
+  },
+  {
+   "metric": "production_capacity",
+   "value": 36000,
+   "unit": "vehicles/year",
+   "period": "As-of 2024",
+   "as_of": "2024-08-14",
+   "company_reported": true,
+   "source_url": "https://emobilityplus.com/2024/08/14/euler-motors-unveils-cutting-edge-commercial-ev-manufacturing-facility-in-palwal/",
+   "confidence": "HIGH",
+   "notes": "Palwal facility 3W capacity; 500,000 sq ft"
+  },
+  {
+   "metric": "monthly_production",
+   "value": 1000,
+   "unit": "vehicles/month",
+   "period": "FY26",
+   "as_of": "2026-03-31",
+   "company_reported": true,
+   "source_url": "https://economictimes.indiatimes.com/tech/funding/ev-maker-euler-motors-raises-rs-437-5-crore-from-lightrock-hero-motocorp-others/articleshow/129777725.cms",
+   "confidence": "MEDIUM",
+   "notes": "Plans to double to 2,000/month with third unit"
+  },
+  {
+   "metric": "backorder",
+   "value": 9000,
+   "unit": "vehicles",
+   "period": "As-of Oct 2022",
+   "as_of": "2022-10-03",
+   "company_reported": true,
+   "source_url": "https://techcrunch.com/2022/10/03/gic-backs-indian-ev-startup-euler-motors-in-60-million-funding/",
+   "confidence": "MEDIUM",
+   "notes": "Back-order at time of Series C"
+  },
+  {
+   "metric": "showrooms",
+   "value": 100,
+   "unit": "showrooms",
+   "period": "FY26",
+   "as_of": "2025-09-30",
+   "company_reported": true,
+   "source_url": "https://www.outlookbusiness.com/corporate/euler-motors-aims-to-double-revenue-in-fy26-with-launch-of-1-tonne-e-mini-truck",
+   "confidence": "MEDIUM",
+   "notes": "Operates in 60 cities with 100+ showrooms"
+  }
+ ],
+ "products": [
+  {
+   "name": "HiLoad EV",
+   "category": "electric three-wheeler cargo",
+   "description": "India's most powerful 3W EV; 688 kg payload, 12.4 kWh liquid-cooled battery, ARAI-approved 170 km range",
+   "pricing_model": "approx INR 4.9 lakh (pre-subsidy)",
+   "launch_date": "2022",
+   "status": "active",
+   "source_url": "https://techcrunch.com/2022/10/03/gic-backs-indian-ev-startup-euler-motors-in-60-million-funding/",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Storm EV",
+   "category": "electric four-wheeler LCV",
+   "description": "Country's first 4W LCV with ADAS, Night Vision Assist, 200 km range",
+   "pricing_model": "undisclosed",
+   "launch_date": "2024",
+   "status": "active",
+   "source_url": "https://www.motorindiaonline.in/euler-motors-appointments-ashish-tandon-as-global-head-for-customer-excellence/",
+   "confidence": "MEDIUM"
+  },
+  {
+   "name": "Storm EV LongRange 200",
+   "category": "electric four-wheeler LCV",
+   "description": "Extended range variant of Storm EV",
+   "pricing_model": "undisclosed",
+   "launch_date": "2024",
+   "status": "active",
+   "source_url": "https://inc42.com/buzz/euler-motors-trims-fy25-net-loss-by-12-to-inr-200-cr/",
+   "confidence": "MEDIUM"
+  },
+  {
+   "name": "Storm EV T1500",
+   "category": "electric four-wheeler LCV",
+   "description": "T1500 variant in 4W cargo segment",
+   "pricing_model": "undisclosed",
+   "launch_date": "2024",
+   "status": "active",
+   "source_url": "https://inc42.com/buzz/euler-motors-trims-fy25-net-loss-by-12-to-inr-200-cr/",
+   "confidence": "MEDIUM"
+  },
+  {
+   "name": "Turbo EV 1000",
+   "category": "electric four-wheeler mini truck (1-tonne)",
+   "description": "India's first 1-tonne EV mini truck; starting price INR 5.99 lakh; 4 variants (CITY, FAST CHARGE, MAXX); saves ~INR 1.15 lakh vs diesel",
+   "pricing_model": "INR 5,99,999 (CITY), INR 7,19,999 (MAXX), INR 8,19,999 (FAST CHARGE)",
+   "launch_date": "2025-09-22",
+   "status": "active",
+   "source_url": "https://www.outlookbusiness.com/corporate/euler-motors-aims-to-double-revenue-in-fy26-with-launch-of-1-tonne-e-mini-truck",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "NEO by Euler",
+   "category": "electric auto-rickshaw (passenger)",
+   "description": "Entry into passenger EV segment; priced at INR 3,09,999",
+   "pricing_model": "INR 3,09,999",
+   "launch_date": "2025-08",
+   "status": "active",
+   "source_url": "https://evreporter.com/euler-motors-enters-passenger-ev-segment-with-the-launch-of-neo-by-euler-at-309999/",
+   "confidence": "MEDIUM"
+  },
+  {
+   "name": "HiLoad EV (2023 update)",
+   "category": "electric three-wheeler cargo",
+   "description": "Updated 2023 version with 12.96 kWh battery, 170 km range",
+   "pricing_model": "undisclosed",
+   "launch_date": "2023-04",
+   "status": "active",
+   "source_url": "https://timesofindia.indiatimes.com/auto/commercial-vehicles/euler-motors-launches-2023-hiload-electric-three-wheeler-bigger-12-96-kwh-battery-170-km-range-and-more/articleshow/99381929.cms",
+   "confidence": "MEDIUM"
+  }
+ ],
+ "people": [
+  {
+   "name": "Saurav Kumar",
+   "role": "Founder & CEO",
+   "title": "Founder and Chief Executive Officer",
+   "current": true,
+   "since": "2018",
+   "prior_role": "Co-Founder & CEO at Cube26 (Acquired by Paytm); Tech Lead at Yahoo",
+   "education": "IIT Delhi (per LinkedIn); previously Cube26 IoT startup",
+   "background": "Founded Cube26 (IoT startup acquired by Paytm in 2018); founded Euler Motors in 2018 to address pollution via electric commercial vehicles",
+   "still_active": true,
+   "source_url": "https://www.linkedin.com/in/sauravkumar",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Gaurav Kumar",
+   "role": "Head of Supply Chain & Manufacturing",
+   "title": "Head of Supply Chain and Manufacturing",
+   "current": true,
+   "since": "unknown",
+   "prior_role": "unknown",
+   "education": "unknown",
+   "background": "Director per MCA; mentioned in Palwal facility launch",
+   "still_active": true,
+   "source_url": "https://www.tofler.in/euler-motors-private-limited/company/U72900DL2015PTC275513",
+   "confidence": "MEDIUM"
+  },
+  {
+   "name": "Anal Vijay Singh",
+   "role": "VP Manufacturing & Plant Head",
+   "title": "VP Manufacturing & Plant Head, Palwal",
+   "current": true,
+   "since": "2024-01-11",
+   "prior_role": "Plant Head at Pantnagar Works, Tata Motors Limited (35-year career)",
+   "education": "Certified 1000 Visionary SME Programme (JICA/CII/DIPP GOI)",
+   "background": "Led Tata Motors SCV production; established Tata Intra manufacturing facility; launched Tata Ace EV",
+   "still_active": true,
+   "source_url": "https://auto.economictimes.indiatimes.com/news/commercial-vehicle/euler-motors-appoints-industry-veteran-anal-vijay-singh-as-vp-manufacturing-and-head-of-palwal-facility/106723790",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Ashish Tandon",
+   "role": "Global Head for Customer Excellence",
+   "title": "Global Head - Customer Excellence",
+   "current": true,
+   "since": "2025-02",
+   "prior_role": "Tata Motors (Commercial Vehicles), TAFE, Mahindra & Mahindra",
+   "education": "Engineering + Advanced certification in EV technology from IIT Delhi",
+   "background": "25+ years in automobile sector (ICE and EV); oversees EV technology integration for customer experience",
+   "still_active": true,
+   "source_url": "https://www.motorindiaonline.in/euler-motors-appointments-ashish-tandon-as-global-head-for-customer-excellence/",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Pallavi Arora",
+   "role": "Associate Vice President - Marketing",
+   "title": "AVP - Marketing",
+   "current": true,
+   "since": "2026-02",
+   "prior_role": "unknown",
+   "education": "unknown",
+   "background": "Six-year journey at Euler Motors; elevated to head integrated marketing function",
+   "still_active": true,
+   "source_url": "https://www.autocarpro.in/news/euler-motors-promotes-pallavi-arora-to-associate-vice-president-of-marketing-131333",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Kausalya Nandakumar",
+   "role": "Nominee Director (Hero MotoCorp)",
+   "title": "Board Member / Chief Business Officer - Emerging Mobility",
+   "current": true,
+   "since": "2025-10",
+   "prior_role": "Hero MotoCorp",
+   "education": "unknown",
+   "background": "Hero MotoCorp CBO for emerging mobility business unit; joined Euler board Oct 2025",
+   "still_active": true,
+   "source_url": "https://www.livemint.com/companies/news/after-athers-gain-heros-electric-cv-bet-begins-to-scale-11787222464832.html",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Aayush Parwal",
+   "role": "Nominee Director",
+   "title": "Board Member",
+   "current": true,
+   "since": "unknown",
+   "prior_role": "unknown",
+   "education": "unknown",
+   "background": "Nominee director per MCA filings",
+   "still_active": true,
+   "source_url": "https://www.tofler.in/euler-motors-private-limited/company/U72900DL2015PTC275513",
+   "confidence": "MEDIUM"
+  }
+ ],
+ "legal": [
+  {
+   "type": "regulatory",
+   "entity": "Euler Motors Private Limited",
+   "date": "FY24-FY25",
+   "status": "FAME subsidy received",
+   "description": "Received INR 8.7cr FAME subsidy in FY25 (down 66% from INR 25.3cr in FY24). No evidence of FAME subsidy scrutiny or investigation found in sources.",
+   "source_url": "https://inc42.com/buzz/euler-motors-trims-fy25-net-loss-by-12-to-inr-200-cr/",
+   "confidence": "MEDIUM",
+   "notes": "Subsidy reduction noted but no legal action or scrutiny reported"
+  }
+ ],
+ "locations": [
+  {
+   "type": "registered_office",
+   "address_or_area": "B-99, Second Floor, Panchsheel Vihar",
+   "city": "New Delhi",
+   "state": "Delhi",
+   "country": "India",
+   "as_of": "2026-09-15",
+   "source_url": "https://www.tofler.in/euler-motors-private-limited/company/U72900DL2015PTC275513",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "HQ",
+   "address_or_area": "Delhi-NCR",
+   "city": "Delhi",
+   "state": "Delhi",
+   "country": "India",
+   "as_of": "2026-09-15",
+   "source_url": "https://economictimes.indiatimes.com/tech/funding/ev-maker-euler-motors-raises-rs-437-5-crore-from-lightrock-hero-motocorp-others/articleshow/129777725.cms",
+   "confidence": "HIGH",
+   "notes": "Delhi-based per all major sources"
+  },
+  {
+   "type": "manufacturing",
+   "address_or_area": "Palwal, Haryana",
+   "city": "Palwal",
+   "state": "Haryana",
+   "country": "India",
+   "as_of": "2024-08-14",
+   "source_url": "https://emobilityplus.com/2024/08/14/euler-motors-unveils-cutting-edge-commercial-ev-manufacturing-facility-in-palwal/",
+   "confidence": "HIGH",
+   "notes": "500,000 sq ft facility; 36,000 vehicles/year capacity; Rs 100 crore investment; ISO 9001/14001/45001/IATF 16949 certified"
+  },
+  {
+   "type": "manufacturing",
+   "address_or_area": "Palwal (third unit planned)",
+   "city": "Palwal",
+   "state": "Haryana",
+   "country": "India",
+   "as_of": "2026-03-31",
+   "source_url": "https://economictimes.indiatimes.com/tech/funding/ev-maker-euler-motors-raises-rs-437-5-crore-from-lightrock-hero-motocorp-others/articleshow/129777725.cms",
+   "confidence": "MEDIUM",
+   "notes": "Third manufacturing unit to add ~1,000 vehicles/month capacity in four-wheelers; operational within 6 months of Mar 2026"
+  }
+ ],
+ "customers": [
+  {
+   "name": "BigBasket",
+   "type": "e-commerce / hyperlocal delivery",
+   "announced_date": "unknown",
+   "status": "fleet customer (inferred)",
+   "source_url": "https://www.livemint.com/news/business-of-life/lastmile-delivery-opens-doors-for-adoption-of-electric-vehicles-11610901896423.html",
+   "confidence": "LOW",
+   "notes": "BigBasket mentioned in EV adoption context for last-mile delivery; direct Euler partnership not confirmed"
+  },
+  {
+   "name": "Logistics/fleet operators (unnamed)",
+   "type": "B2B fleet",
+   "announced_date": "unknown",
+   "status": "active customers",
+   "source_url": "https://economictimes.indiatimes.com/tech/funding/ev-maker-euler-motors-raises-rs-437-5-crore-from-lightrock-hero-motocorp-others/articleshow/129777725.cms",
+   "confidence": "MEDIUM",
+   "notes": "Euler Motors sells to logistics, e-commerce, hyperlocal delivery fleets; specific names not confirmed in sources"
+  }
+ ]
+}

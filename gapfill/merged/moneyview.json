@@ -1,0 +1,88 @@
+{
+ "canonical_key": "moneyview",
+ "updates": {
+  "company": {
+   "cin": "U72200KA2014PTC075775",
+   "incorporation_date": "2014-08-11",
+   "legal_name": "Whizdm Innovations Private Limited (renamed Moneyview Private Limited May 2025; Moneyview Limited Jun 2025)"
+  }
+ },
+ "financials_add": [],
+ "round_supplements": [
+  {
+   "match_round_type": "Series E",
+   "match_year": 2022,
+   "round_date": "2022-12",
+   "announcement_date": "2022-12-26",
+   "valuation": "$900M",
+   "valuation_currency": "USD",
+   "valuation_type": "post-money",
+   "new_or_existing": "Apis Partners led",
+   "purpose": "lending growth",
+   "source_url": "https://techcrunch.com/2022/12/26/indian-fintech-money-view-valued-at-900-million-in-new-funding/",
+   "confidence": "HIGH"
+  },
+  {
+   "match_round_type": "Series F",
+   "match_year": 2024,
+   "round_date": "2024-09",
+   "announcement_date": "2024-09",
+   "valuation": "$1.2B",
+   "valuation_currency": "USD",
+   "valuation_type": "post-money",
+   "new_or_existing": "existing (Accel India, Nexus Ventures; $4.6M top-up)",
+   "purpose": "unicorn round",
+   "source_url": "https://entrackr.com/2024/09/exclusive-moneyview-becomes-unicorn-with-new-funding/",
+   "confidence": "MEDIUM"
+  }
+ ],
+ "investors_meta": [],
+ "people": [],
+ "sources": [
+  {
+   "url": "https://www.zaubacorp.com/WHIZDM-INNOVATIONS-PRIVATE-LIMITED-U72200KA2014PTC075775",
+   "title": "Whizdm Innovations Private Limited - ZaubaCorp",
+   "publication_date": null,
+   "fields": [
+    "cin",
+    "incorporation_date"
+   ],
+   "confidence": "MEDIUM"
+  },
+  {
+   "url": "https://techcrunch.com/2022/12/26/indian-fintech-money-view-valued-at-900-million-in-new-funding/",
+   "title": "Indian fintech Money View valued at $900 million in new funding",
+   "publication_date": "2022-12-26",
+   "fields": [
+    "round_supplement"
+   ],
+   "confidence": "HIGH"
+  },
+  {
+   "url": "https://entrackr.com/2024/09/exclusive-moneyview-becomes-unicorn-with-new-funding/",
+   "title": "Exclusive: Moneyview becomes unicorn with new funding",
+   "publication_date": "2024-09",
+   "fields": [
+    "round_supplement"
+   ],
+   "confidence": "MEDIUM"
+  },
+  {
+   "url": "https://inc42.com/buzz/moneyview-turns-unicorn-after-raising-4-6-mn-from-accel-india-nexus-ventures/",
+   "title": "Moneyview Turns Unicorn After Raising $4.6 Mn",
+   "publication_date": "2024-09",
+   "fields": [
+    "round_supplement"
+   ],
+   "confidence": "MEDIUM"
+  }
+ ],
+ "log": [
+  {
+   "query": "Moneyview Whizdm CIN + Series E/F valuations",
+   "found": "CIN U72200KA2014PTC075775 incorp 11 Aug 2014; Series E $75M @ $900M Dec 2022; unicorn $1.2B Sep 2024",
+   "unresolved": ""
+  }
+ ],
+ "still_missing": []
+}

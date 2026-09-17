@@ -1,0 +1,98 @@
+{
+ "canonical_key": "landeed",
+ "startup_id": null,
+ "company": {
+  "company_name": "Landeed",
+  "city": "Hyderabad",
+  "state": "Telangana",
+  "primary_sector": "proptech / property title search",
+  "founded_date": "UNKNOWN",
+  "business_model": "property title search engine + AI/ML (Landeed Labs)",
+  "status": "Active (private)",
+  "startup_stage": "early",
+  "public_private": "private",
+  "official_website": {
+   "v": "https://www.landeed.com",
+   "conf": "high",
+   "src": "https://www.landeed.com",
+   "note": "verified live 2026-09-15: name match on own homepage"
+  },
+  "careers_website": {
+   "v": "https://www.landeed.com/careers",
+   "conf": "high",
+   "src": "https://www.landeed.com",
+   "note": "careers link found on official homepage, probed live"
+  },
+  "website": "https://www.landeed.com"
+ },
+ "funding_rounds": [
+  {
+   "round_type": "Series X",
+   "announced_date": "2025-01-23",
+   "amount": 5,
+   "currency": "USD",
+   "amount_unit": "million",
+   "lead_investors": [
+    "10x Founders Fund"
+   ],
+   "all_investors": [
+    "10x Founders Fund"
+   ],
+   "purpose": "expand AI/ML capabilities via Landeed Labs",
+   "source_url": "https://m.economictimes.com/industry/services/property-/-cstruction/landeed-secures-5-million-series-x-funding-to-expand-ai/ml-capabilities-through-landeed-labs/articleshow/117477159.cms",
+   "tier": "T2",
+   "confidence": "medium"
+  },
+  {
+   "round_type": "pre-seed",
+   "announced_date": "2022-08-10",
+   "amount": 19.5,
+   "currency": "INR",
+   "amount_unit": "crore (~$2.5M)",
+   "lead_investors": [
+    "Justin (surname unverified)"
+   ],
+   "purpose": "property documentation retrieval system",
+   "source_url": "https://realty.economictimes.indiatimes.com/news/allied-industries/landeed-raises-rs-19-5-crore-in-pre-seed-funding-round/93472469",
+   "tier": "T2",
+   "confidence": "low"
+  }
+ ],
+ "founders": [],
+ "financials": [],
+ "events": [],
+ "conflicts": [],
+ "sources": [
+  {
+   "url": "https://timesofindia.indiatimes.com/city/hyderabad/hyd-proptech-startup-landeed-raises-5-million/articleshow/117534264.cms",
+   "title": "Hyd proptech startup Landeed raises $5 Million",
+   "publisher": "TOI",
+   "publication_date": "2025-01-25",
+   "retrieved_date": "2026-09-15",
+   "tier": "T2",
+   "claim_supported": "$5M Series X, Hyderabad",
+   "fields_supported": [
+    "company.city",
+    "funding_rounds"
+   ]
+  }
+ ],
+ "research_log": [
+  {
+   "query": "Landeed Hyderabad title search seed funding founders",
+   "found": "$5M Series X Jan 2025 (10x Founders Fund); Rs 19.5 cr pre-seed Aug 2022",
+   "unresolved": "founders, CIN",
+   "next_action": "none in tail budget"
+  }
+ ],
+ "gaps": [
+  "Founders unverified; pre-seed lead surname unverified; CIN/incorporation unverified; no financials."
+ ],
+ "completeness_self": {
+  "identity": 7,
+  "founders": 0,
+  "funding": 7,
+  "financials": 0,
+  "sources": 6
+ }
+}

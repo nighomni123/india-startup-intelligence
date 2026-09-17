@@ -1,0 +1,1088 @@
+{
+ "acquisitions": [
+  {
+   "buyer": "Pristyn Care",
+   "confidence": "MEDIUM",
+   "date": "2022-06",
+   "direction": "made",
+   "disclosed": true,
+   "rationale": "Enter primary healthcare",
+   "source_url": "https://www.vccircle.com/pristyn-care-buys-doctor-consultation-platform-lybrate",
+   "target": "Lybrate (telemedicine platform)",
+   "value": "$20-30M (reported)",
+   "type": "acquisition",
+   "counterparty": "Lybrate"
+  }
+ ],
+ "company": {
+  "business_model": "Surgery marketplace + owned hospitals (asset mix shifting to owned)",
+  "city": "Gurugram",
+  "company_name": "Pristyn Care",
+  "confidence": "HIGH",
+  "country": "India",
+  "customer_type": "B2C (patients)",
+  "founded_date": "2018",
+  "hq_type": "HQ",
+  "last_funding_date": "2025-07-22",
+  "last_funding_round": "Series E extension ($4-5.48M, Peak XV + Hummingbird)",
+  "last_known_valuation": "$1.17-1.4B (unicorn 2021; flat on 2025 extension per filings reporting)",
+  "legal_name": "GHV Advanced Care Pvt Ltd",
+  "notes": "Seeds verified: Gurugram, healthtech surgery, unicorn correct. Founders: Harsimarbir Singh, Vaibhav Kapoor, Garima Sawhney.",
+  "primary_sector": "healthtech (elective surgery chain)",
+  "public_private": "private",
+  "secondary_sectors": [
+   "hospitals",
+   "diagnostics"
+  ],
+  "startup_id": "pristyn care",
+  "startup_stage": "Unicorn (Series E)",
+  "state": "Haryana",
+  "status": "operating",
+  "total_funding_disclosed": "~$180-187M (TheKredible ~$180M; Tracxn $187M; CB Insights $180.67M)",
+  "website": "https://www.pristyncare.com",
+  "cin": "U85300HR2018PTC075460",
+  "incorporation_date": "2018-08-31",
+  "official_website": {
+   "v": "https://www.pristyncare.com",
+   "conf": "high",
+   "src": "https://www.pristyncare.com",
+   "note": "verified live 2026-09-15: name match on own homepage"
+  },
+  "careers_website": {
+   "v": "https://www.pristyncare.com/company/careers/",
+   "conf": "high",
+   "src": "https://www.pristyncare.com",
+   "note": "careers link found on official homepage, probed live"
+  }
+ },
+ "competitors": [
+  {
+   "basis": "explicit",
+   "category": "surgery chain",
+   "confidence": "LOW",
+   "name": "Mykare Health",
+   "source_url": "https://tracxn.com/d/companies/pristyn-care/__QEWxHLBugEsT_XwDFV-JrRNqtedJdqnyI8ro2b-OQf0"
+  }
+ ],
+ "completeness_self": {
+  "customers": 2,
+  "financials": 8,
+  "founders": 8,
+  "funding": 8,
+  "identity": 9,
+  "investors": 8,
+  "legal": 2,
+  "people": 5,
+  "products": 6,
+  "sources": 8,
+  "traction": 7
+ },
+ "conflicts": [
+  {
+   "claim_a": "July 2025 extension $4M (Entrackr/Inc42/CB Insights)",
+   "claim_b": "$5.48M (Tracxn)",
+   "field": "2025 extension amount",
+   "resolution": "Prefer $4M (multiple T3 + filings reporting agree); Tracxn figure may include fees/FX.",
+   "resolved_value": "$4M",
+   "url_a": "https://www.cbinsights.com/company/pristyn-care/financials",
+   "url_b": "https://tracxn.com/d/companies/pristyn-care/__QEWxHLBugEsT_XwDFV-JrRNqtedJdqnyI8ro2b-OQf0"
+  },
+  {
+   "claim_a": "Dec 2021 Series E $100M at $1.4B (Mint)",
+   "claim_b": "$96M (Inc42 table)",
+   "field": "Series E amount",
+   "resolution": "Prefer $100M / $1.4B (company-contemporaneous reporting, widely corroborated).",
+   "resolved_value": "$100M at $1.4B",
+   "url_a": "https://www.livemint.com/companies/news/pristyn-care-scales-back-two-bets-as-it-refocuses-on-hospitals-clinics-diagnostics-medical-management-health-11787555635725.html",
+   "url_b": "https://inc42.com/company/pristyn-care/funding/"
+  }
+ ],
+ "customers": [],
+ "events": [
+  {
+   "announced_date": "2025-07-23",
+   "confidence": "HIGH",
+   "date": "2025-07-22",
+   "description": "34,280 Series E1 CCPS at Rs 10,038.16 each; same share price as last round = flat valuation; authorised capital increased; 8 owned hospitals opened in prior 4 months (~200k sq ft, ~450 beds).",
+   "headline": "Pristyn Care raises $4M Series E extension from Peak XV, Hummingbird",
+   "source_url": "https://www.cbinsights.com/company/pristyn-care/financials",
+   "type": "funding"
+  },
+  {
+   "announced_date": "2024-03-01",
+   "confidence": "HIGH",
+   "date": "2024-03",
+   "description": "~120 employees (7-8% of 1,700); exited 6-8 cities, discontinued 3 categories; IPO eyed 2027.",
+   "headline": "Pristyn Care lays off ~120 employees, eyes FY25 profitability",
+   "source_url": "https://inc42.com/buzz/pristyn-care-lays-off-120-employees-eyes-profitability-by-fy25/",
+   "type": "layoff"
+  },
+  {
+   "announced_date": "2026-08-25",
+   "confidence": "HIGH",
+   "date": "2026-08-25",
+   "description": "Scaling back BeatXP (revenue fell to Rs 20-25 cr FY25 from ~Rs 200 cr FY24) and Lybrate; refocus on owned hospitals/clinics/diagnostics; Rs 180 cr Spec Finance (GIFT City IFSC) investment finalizing.",
+   "headline": "Pristyn Care scales back BeatXP, Lybrate; refocuses on hospitals",
+   "source_url": "https://www.livemint.com/companies/news/pristyn-care-scales-back-two-bets-as-it-refocuses-on-hospitals-clinics-diagnostics-medical-management-health-11787555635725.html",
+   "type": "strategy_shift"
+  }
+ ],
+ "financials": [
+  {
+   "confidence": "HIGH",
+   "currency": "INR",
+   "fiscal_year": "FY24",
+   "metric": "operating_revenue",
+   "source_date": "2025-02-25",
+   "source_title": "Pristyn Care's Loss Flat At INR 381 Cr In FY24",
+   "source_url": "https://inc42.com/buzz/pristyn-cares-loss-flat-at-inr-381-cr-in-fy24/",
+   "unit": "crore",
+   "value": 600.5,
+   "value_type": "press-quoted-filing"
+  },
+  {
+   "confidence": "HIGH",
+   "currency": "INR",
+   "fiscal_year": "FY24",
+   "metric": "net_loss",
+   "source_date": "2025-02-25",
+   "source_title": "Pristyn Care's Loss Flat At INR 381 Cr In FY24",
+   "source_url": "https://inc42.com/buzz/pristyn-cares-loss-flat-at-inr-381-cr-in-fy24/",
+   "unit": "crore",
+   "value": -381,
+   "value_type": "press-quoted-filing"
+  },
+  {
+   "confidence": "HIGH",
+   "currency": "INR",
+   "fiscal_year": "FY23",
+   "metric": "operating_revenue",
+   "source_date": "2024-03-01",
+   "source_title": "Exclusive: Pristyn Care Lays Off 120 Employees",
+   "source_url": "https://inc42.com/buzz/pristyn-care-lays-off-120-employees-eyes-profitability-by-fy25/",
+   "unit": "crore",
+   "value": 452.8,
+   "value_type": "press-quoted-filing"
+  },
+  {
+   "confidence": "MEDIUM",
+   "currency": "INR",
+   "fiscal_year": "FY25",
+   "metric": "consolidated_revenue",
+   "source_date": "2026-08-25",
+   "source_title": "Pristyn Care scales back two bets as it refocuses on hospitals",
+   "source_url": "https://www.livemint.com/companies/news/pristyn-care-scales-back-two-bets-as-it-refocuses-on-hospitals-clinics-diagnostics-medical-management-health-11787555635725.html",
+   "unit": "crore",
+   "value": 442,
+   "value_type": "management"
+  },
+  {
+   "confidence": "MEDIUM",
+   "currency": "INR",
+   "fiscal_year": "FY25",
+   "metric": "consolidated_loss",
+   "source_date": "2026-08-25",
+   "source_title": "Pristyn Care scales back two bets as it refocuses on hospitals",
+   "source_url": "https://www.livemint.com/companies/news/pristyn-care-scales-back-two-bets-as-it-refocuses-on-hospitals-clinics-diagnostics-medical-management-health-11787555635725.html",
+   "unit": "crore",
+   "value": -168,
+   "value_type": "management"
+  }
+ ],
+ "founders": [
+  {
+   "background": "Ex-MobiKwik, Urban Company (per VFS)",
+   "confidence": "HIGH",
+   "name": "Harsimarbir Singh",
+   "role": "Co-founder & CEO",
+   "source_url": "https://www.livemint.com/companies/news/pristyn-care-scales-back-two-bets-as-it-refocuses-on-hospitals-clinics-diagnostics-medical-management-health-11787555635725.html",
+   "still_active": true,
+   "type": "co-founder"
+  },
+  {
+   "background": "Doctor",
+   "confidence": "HIGH",
+   "name": "Vaibhav Kapoor",
+   "role": "Co-founder",
+   "source_url": "https://www.livemint.com/companies/news/pristyn-care-scales-back-two-bets-as-it-refocuses-on-hospitals-clinics-diagnostics-medical-management-health-11787555635725.html",
+   "still_active": true,
+   "type": "co-founder"
+  },
+  {
+   "background": "Doctor",
+   "confidence": "HIGH",
+   "name": "Garima Sawhney",
+   "role": "Co-founder",
+   "source_url": "https://www.livemint.com/companies/news/pristyn-care-scales-back-two-bets-as-it-refocuses-on-hospitals-clinics-diagnostics-medical-management-health-11787555635725.html",
+   "still_active": true,
+   "type": "co-founder"
+  }
+ ],
+ "funding_rounds": [
+  {
+   "all_investors": [
+    "Peak XV Partners"
+   ],
+   "amount": 4000000,
+   "announced_date": "2019-06-02",
+   "confidence": "MEDIUM",
+   "currency": "USD",
+   "lead_investors": [
+    "Peak XV Partners"
+   ],
+   "purpose": "UNKNOWN",
+   "round_date": "2019-06-02",
+   "round_type": "Series A",
+   "source_date": null,
+   "source_title": "Pristyn Care funding table",
+   "source_url": "https://inc42.com/company/pristyn-care/funding/",
+   "tier": "T3",
+   "valuation": null,
+   "valuation_type": null
+  },
+  {
+   "all_investors": [
+    "Peak XV Partners"
+   ],
+   "amount": 12000000,
+   "announced_date": "2019-12-17",
+   "confidence": "MEDIUM",
+   "currency": "USD",
+   "lead_investors": [
+    "Peak XV Partners"
+   ],
+   "purpose": "UNKNOWN",
+   "round_date": "2019-12-17",
+   "round_type": "Series B",
+   "source_date": null,
+   "source_title": "Pristyn Care funding table",
+   "source_url": "https://inc42.com/company/pristyn-care/funding/",
+   "tier": "T3",
+   "valuation": null,
+   "valuation_type": null
+  },
+  {
+   "all_investors": [
+    "Peak XV Partners",
+    "Hummingbird Ventures",
+    "Epiq Capital"
+   ],
+   "amount": 12000000,
+   "announced_date": "2020-09-26",
+   "confidence": "MEDIUM",
+   "currency": "USD",
+   "lead_investors": [
+    "Peak XV Partners"
+   ],
+   "purpose": "UNKNOWN",
+   "round_date": "2020-09-26",
+   "round_type": "Series C",
+   "source_date": null,
+   "source_title": "Pristyn Care funding table",
+   "source_url": "https://inc42.com/company/pristyn-care/funding/",
+   "tier": "T3",
+   "valuation": null,
+   "valuation_type": null
+  },
+  {
+   "all_investors": [
+    "Peak XV Partners",
+    "Hummingbird Ventures",
+    "Epiq Capital"
+   ],
+   "amount": 53000000,
+   "announced_date": "2021-04-19",
+   "confidence": "MEDIUM",
+   "currency": "USD",
+   "lead_investors": [
+    "Peak XV Partners"
+   ],
+   "purpose": "UNKNOWN",
+   "round_date": "2021-04-19",
+   "round_type": "Series D",
+   "source_date": null,
+   "source_title": "Pristyn Care funding table",
+   "source_url": "https://inc42.com/company/pristyn-care/funding/",
+   "tier": "T3",
+   "valuation": null,
+   "valuation_type": null
+  },
+  {
+   "all_investors": [
+    "Tiger Global Management",
+    "Hummingbird Ventures",
+    "Epiq Capital",
+    "Peak XV Partners",
+    "Trifecta Capital"
+   ],
+   "amount": 100000000,
+   "announced_date": "2021-12-07",
+   "confidence": "HIGH",
+   "currency": "USD",
+   "lead_investors": [
+    "Tiger Global Management"
+   ],
+   "purpose": "Growth",
+   "round_date": "2021-12-07",
+   "round_type": "Series E",
+   "source_date": "2026-08-25",
+   "source_title": "Pristyn Care scales back two bets as it refocuses on hospitals",
+   "source_url": "https://www.livemint.com/companies/news/pristyn-care-scales-back-two-bets-as-it-refocuses-on-hospitals-clinics-diagnostics-medical-management-health-11787555635725.html",
+   "tier": "T3",
+   "valuation": 1400000000,
+   "valuation_type": "post-money"
+  },
+  {
+   "all_investors": [
+    "Peak XV Partners",
+    "Hummingbird Ventures"
+   ],
+   "amount": 4000000,
+   "announced_date": "2025-07-23",
+   "confidence": "HIGH",
+   "currency": "USD",
+   "lead_investors": [
+    "Peak XV Partners"
+   ],
+   "purpose": "Scale owned hospitals; bridge to larger round",
+   "round_date": "2025-07-22",
+   "round_type": "Series E extension",
+   "source_date": "2025-07-23",
+   "source_title": "Pristyn Care Stock Price, Funding, Valuation, Revenue & Financial Statements",
+   "source_url": "https://www.cbinsights.com/company/pristyn-care/financials",
+   "tier": "T2",
+   "valuation": null,
+   "valuation_type": null
+  }
+ ],
+ "gaps": [
+  "FY25/FY26 MCA filings not yet filed (per Mint Aug 2026)",
+  "CIN / incorporation date not verified",
+  "Rs 180 cr Spec Finance round status (finalizing, not closed as of Aug 2026)",
+  "Employee headcount current figure not verified",
+  "BeatXP financials separation not verified",
+  "FY25 filing financials"
+ ],
+ "hiring": [
+  {
+   "as_of": "2024-03",
+   "confidence": "HIGH",
+   "fact_type": "layoffs",
+   "source_url": "https://inc42.com/buzz/pristyn-care-lays-off-120-employees-eyes-profitability-by-fy25/",
+   "value": "~120 (~7-8% of 1,700)"
+  }
+ ],
+ "investor_links": [
+  {
+   "confidence": "HIGH",
+   "first_seen": "2019-06",
+   "investor": "Peak XV Partners (Sequoia India)",
+   "investor_type": "VC",
+   "lead": true,
+   "rounds": [
+    "Series A",
+    "Series B",
+    "Series D",
+    "Series E",
+    "Series E extension"
+   ],
+   "source_url": "https://www.cbinsights.com/company/pristyn-care/financials"
+  },
+  {
+   "confidence": "HIGH",
+   "first_seen": "2019-12",
+   "investor": "Hummingbird Ventures",
+   "investor_type": "VC",
+   "lead": false,
+   "rounds": [
+    "Series B",
+    "Series C",
+    "Series D",
+    "Series E",
+    "Series E extension"
+   ],
+   "source_url": "https://www.cbinsights.com/company/pristyn-care/financials"
+  },
+  {
+   "confidence": "MEDIUM",
+   "first_seen": "2021-12",
+   "investor": "Tiger Global Management",
+   "investor_type": "VC",
+   "lead": true,
+   "rounds": [
+    "Series E"
+   ],
+   "source_url": "https://www.livemint.com/companies/news/pristyn-care-scales-back-two-bets-as-it-refocuses-on-hospitals-clinics-diagnostics-medical-management-health-11787555635725.html"
+  },
+  {
+   "confidence": "MEDIUM",
+   "first_seen": "2020-09",
+   "investor": "Epiq Capital",
+   "investor_type": "VC",
+   "lead": false,
+   "rounds": [
+    "Series C",
+    "Series D",
+    "Series E"
+   ],
+   "source_url": "https://www.cbinsights.com/company/pristyn-care/financials"
+  }
+ ],
+ "investors_meta": [],
+ "ip_tech_ai": {
+  "confidence": "LOW",
+  "source_url": null
+ },
+ "legal": [],
+ "locations": [
+  {
+   "as_of": "2026",
+   "city": "Gurugram",
+   "confidence": "HIGH",
+   "source_url": "https://www.livemint.com/companies/news/pristyn-care-scales-back-two-bets-as-it-refocuses-on-hospitals-clinics-diagnostics-medical-management-health-11787555635725.html",
+   "state": "Haryana",
+   "type": "HQ"
+  },
+  {
+   "as_of": "2025",
+   "city": "Multiple (30+ cities; 8 owned hospitals, ~450 beds, ~200k sq ft)",
+   "confidence": "MEDIUM",
+   "source_url": "https://medial.app/news/exclusive-pristyn-care-raises-dollar4-mn-to-scale-in-house-hospitals-preps-for-larger-round-f0edcefd14444",
+   "state": null,
+   "type": "ops"
+  }
+ ],
+ "partnerships": [],
+ "people": [
+  {
+   "confidence": "MEDIUM",
+   "end": "2025-10",
+   "name": "Gaurav Bagga (CPTO/SVP product & engineering)",
+   "position": "Chief Product & Technology Officer",
+   "source_url": "https://www.livemint.com/companies/start-ups/pristyn-care-healthcare-personnel-cto-finance-head-hospital-expansion-unicorn-startup-11759047726054.html",
+   "start": "~2020"
+  }
+ ],
+ "products": [
+  {
+   "category": "elective surgery marketplace (200+ clinics, 700 hospitals, 400+ surgeons per Inc42)",
+   "confidence": "HIGH",
+   "name": "Pristyn Care surgery network",
+   "source_url": "https://inc42.com/buzz/pristyn-care-lays-off-120-employees-eyes-profitability-by-fy25/",
+   "status": "active"
+  },
+  {
+   "category": "D2C fitness hardware (being scaled back)",
+   "confidence": "HIGH",
+   "name": "BeatXP (smartwatches/fitness)",
+   "source_url": "https://www.livemint.com/companies/news/pristyn-care-scales-back-two-bets-as-it-refocuses-on-hospitals-clinics-diagnostics-medical-management-health-11787555635725.html",
+   "status": "scaled-back"
+  },
+  {
+   "category": "telemedicine (being phased out)",
+   "confidence": "MEDIUM",
+   "name": "Lybrate (acquired 2022)",
+   "source_url": "https://www.livemint.com/companies/start-ups/pristyn-care-senior-level-exits-peak-xv-partners-health-tech-startups-unicorn-harsimarbir-singh-lybrate-beatxp-11739428896105.html",
+   "status": "phasing-out"
+  }
+ ],
+ "research_log": [
+  {
+   "found": "Tracxn/Inc42/CB Insights funding; Mint Aug 2026 strategy shift + Rs 180 cr Spec Finance; Entrackr-via-Medial $4M extension",
+   "next_action": "Track Spec Finance close + FY25 MCA filing",
+   "query": "Pristyn Care funding valuation 2025 2026",
+   "unresolved": "Spec Finance close; FY25 filing"
+  },
+  {
+   "found": "Mint: FY25 rev Rs 442 cr, loss Rs 168 cr (mgmt); FY24 Rs 600 cr / -Rs 381 cr; layoffs; exits",
+   "next_action": "done",
+   "query": "Pristyn Care revenue FY25 loss founders layoffs",
+   "unresolved": "FY25 audited filing pending"
+  },
+  {
+   "found": "HTTP 503 on medial.app fetch; relied on search snippet (lower confidence) for owned-hospital footprint",
+   "next_action": "none",
+   "query": "fetch medial.app $4M exclusive",
+   "unresolved": "page body not fetched"
+  },
+  {
+   "date": "2026-09-14",
+   "found": "CIN U85300HR2018PTC075460, inc 31 Aug 2018 (ZaubaCorp, Recur Club); HR matches Gurugram",
+   "query": "GHV Advanced Care Pristyn Care CIN incorporation",
+   "unresolved": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "Pristyn Care acquires Lybrate June 2022",
+   "found": "Acquisition announced June 2022; primary-care expansion; VCCircle and other coverage",
+   "unresolved": "Consideration range is reported rather than officially disclosed",
+   "next_action": "Check company or transaction announcement for consideration"
+  }
+ ],
+ "sources": [
+  {
+   "claim_supported": "Rs 180 cr Spec Finance round; FY25 rev Rs 442 cr/loss Rs 168 cr; BeatXP decline; unicorn 2021 $100M/$1.4B",
+   "fields_supported": [
+    "events",
+    "financials",
+    "funding_rounds"
+   ],
+   "publication_date": "2026-08-25",
+   "publisher": "Mint",
+   "retrieved_date": "2026-09-14",
+   "tier": "T3",
+   "title": "Pristyn Care scales back two bets as it refocuses on hospitals",
+   "url": "https://www.livemint.com/companies/news/pristyn-care-scales-back-two-bets-as-it-refocuses-on-hospitals-clinics-diagnostics-medical-management-health-11787555635725.html"
+  },
+  {
+   "claim_supported": "FY24 op revenue Rs 600.5 cr; net loss Rs 381 cr",
+   "fields_supported": [
+    "financials"
+   ],
+   "publication_date": "2025-02-25",
+   "publisher": "Inc42",
+   "retrieved_date": "2026-09-14",
+   "tier": "T3",
+   "title": "Pristyn Care's Loss Flat At INR 381 Cr In FY24",
+   "url": "https://inc42.com/buzz/pristyn-cares-loss-flat-at-inr-381-cr-in-fy24/"
+  },
+  {
+   "claim_supported": "120 layoffs; FY23 Rs 452.8 cr revenue; IPO 2027 plan",
+   "fields_supported": [
+    "hiring",
+    "financials",
+    "events"
+   ],
+   "publication_date": "2024-03-01",
+   "publisher": "Inc42",
+   "retrieved_date": "2026-09-14",
+   "tier": "T3",
+   "title": "Exclusive: Pristyn Care Lays Off 120 Employees, Eyes Profitability By FY25",
+   "url": "https://inc42.com/buzz/pristyn-care-lays-off-120-employees-eyes-profitability-by-fy25/"
+  },
+  {
+   "claim_supported": "$4M Series E extension; 34,280 E1 CCPS; 8 owned hospitals; TheKredible ~$180M total",
+   "fields_supported": [
+    "funding_rounds",
+    "locations"
+   ],
+   "publication_date": "2025-07-23",
+   "publisher": "Entrackr via Medial (search snippet; fetch 503)",
+   "retrieved_date": "2026-09-14",
+   "tier": "T3",
+   "title": "Exclusive: Pristyn Care raises $4 Mn to scale in-house hospitals",
+   "url": "https://medial.app/news/exclusive-pristyn-care-raises-dollar4-mn-to-scale-in-house-hospitals-preps-for-larger-round-f0edcefd14444"
+  },
+  {
+   "claim_supported": "$180.67M over 7 rounds; Series E-II $4M Jul 2025",
+   "fields_supported": [
+    "funding_rounds",
+    "investor_links"
+   ],
+   "publication_date": "2025-07-23",
+   "publisher": "CB Insights",
+   "retrieved_date": "2026-09-14",
+   "tier": "T2",
+   "title": "Pristyn Care Stock Price, Funding, Valuation, Revenue & Financial Statements",
+   "url": "https://www.cbinsights.com/company/pristyn-care/financials"
+  },
+  {
+   "claim_supported": "Round table A-E amounts; $181M total; $1.17B valuation",
+   "fields_supported": [
+    "funding_rounds"
+   ],
+   "publication_date": null,
+   "publisher": "Inc42 Datalabs",
+   "retrieved_date": "2026-09-14",
+   "tier": "T3",
+   "title": "Total Funding, Rounds & Investors - Pristyn Care",
+   "url": "https://inc42.com/company/pristyn-care/funding/"
+  },
+  {
+   "url": "https://www.zaubacorp.com/GHV-ADVANCED-CARE-PRIVATE-LIMITED-U85300HR2018PTC075460",
+   "title": "GHV ADVANCED CARE PRIVATE LIMITED | ZaubaCorp",
+   "fields": [
+    "cin",
+    "incorporation_date"
+   ],
+   "confidence": "high"
+  },
+  {
+   "url": "https://www.recurclub.com/company/ghv-advanced-care-private-limited",
+   "title": "Ghv Advanced Care Private Limited - Recur Club",
+   "fields": [
+    "cin"
+   ],
+   "confidence": "high"
+  },
+  {
+   "url": "https://www.vccircle.com/pristyn-care-buys-doctor-consultation-platform-lybrate",
+   "title": "Pristyn Care buys doctor consultation platform Lybrate",
+   "tier": "T2",
+   "claim": "acquisition Lybrate (telemedicine platform)"
+  },
+  {
+   "url": "https://www.vccircle.com/pristyn-care-buys-doctor-consultation-platform-lybrate",
+   "title": "Pristyn Care buys doctor consultation platform Lybrate",
+   "tier": "T2",
+   "claim": "acquisition Lybrate (telemedicine platform)"
+  },
+  {
+   "url": "https://www.vccircle.com/pristyn-care-buys-doctor-consultation-platform-lybrate",
+   "title": "Pristyn Care buys doctor consultation platform Lybrate",
+   "tier": "T2",
+   "claim": "acquisition Lybrate (telemedicine platform)"
+  },
+  {
+   "url": "https://www.vccircle.com/pristyn-care-buys-doctor-consultation-platform-lybrate",
+   "title": "Pristyn Care buys doctor consultation platform Lybrate",
+   "tier": "T2",
+   "claim": "acquisition Lybrate (telemedicine platform)"
+  },
+  {
+   "url": "https://www.vccircle.com/pristyn-care-buys-doctor-consultation-platform-lybrate",
+   "title": "Pristyn Care buys doctor consultation platform Lybrate",
+   "tier": "T2",
+   "claim": "acquisition Lybrate (telemedicine platform)"
+  },
+  {
+   "url": "https://www.vccircle.com/pristyn-care-buys-doctor-consultation-platform-lybrate",
+   "title": "Pristyn Care buys doctor consultation platform Lybrate",
+   "tier": "T2",
+   "claim": "acquisition Lybrate (telemedicine platform)"
+  },
+  {
+   "url": "https://www.vccircle.com/pristyn-care-buys-doctor-consultation-platform-lybrate",
+   "title": "Pristyn Care buys doctor consultation platform Lybrate",
+   "tier": "T2",
+   "claim": "acquisition Lybrate (telemedicine platform)"
+  },
+  {
+   "url": "https://www.vccircle.com/pristyn-care-buys-doctor-consultation-platform-lybrate",
+   "title": "Pristyn Care buys doctor consultation platform Lybrate",
+   "tier": "T2",
+   "claim": "acquisition Lybrate (telemedicine platform)"
+  },
+  {
+   "url": "https://www.vccircle.com/pristyn-care-buys-doctor-consultation-platform-lybrate",
+   "title": "Pristyn Care buys doctor consultation platform Lybrate",
+   "tier": "T2",
+   "claim": "acquisition Lybrate (telemedicine platform)"
+  },
+  {
+   "url": "https://www.vccircle.com/pristyn-care-buys-doctor-consultation-platform-lybrate",
+   "title": "Pristyn Care buys doctor consultation platform Lybrate",
+   "tier": "T2",
+   "claim": "acquisition Lybrate (telemedicine platform)"
+  },
+  {
+   "url": "https://www.vccircle.com/pristyn-care-buys-doctor-consultation-platform-lybrate",
+   "title": "Pristyn Care buys doctor consultation platform Lybrate",
+   "tier": "T2",
+   "claim": "acquisition Lybrate (telemedicine platform)"
+  },
+  {
+   "url": "https://www.vccircle.com/pristyn-care-buys-doctor-consultation-platform-lybrate",
+   "title": "Pristyn Care buys doctor consultation platform Lybrate",
+   "tier": "T2",
+   "claim": "acquisition Lybrate (telemedicine platform)"
+  },
+  {
+   "url": "https://www.vccircle.com/pristyn-care-buys-doctor-consultation-platform-lybrate",
+   "title": "Pristyn Care buys doctor consultation platform Lybrate",
+   "tier": "T2",
+   "claim": "acquisition Lybrate (telemedicine platform)"
+  },
+  {
+   "url": "https://www.vccircle.com/pristyn-care-buys-doctor-consultation-platform-lybrate",
+   "title": "Pristyn Care buys doctor consultation platform Lybrate",
+   "tier": "T2",
+   "claim": "acquisition Lybrate (telemedicine platform)"
+  },
+  {
+   "url": "https://www.vccircle.com/pristyn-care-buys-doctor-consultation-platform-lybrate",
+   "title": "Pristyn Care buys doctor consultation platform Lybrate",
+   "tier": "T2",
+   "claim": "acquisition Lybrate (telemedicine platform)"
+  },
+  {
+   "url": "https://www.vccircle.com/pristyn-care-buys-doctor-consultation-platform-lybrate",
+   "title": "Pristyn Care buys doctor consultation platform Lybrate",
+   "tier": "T2",
+   "claim": "acquisition Lybrate (telemedicine platform)"
+  },
+  {
+   "url": "https://www.vccircle.com/pristyn-care-buys-doctor-consultation-platform-lybrate",
+   "title": "Pristyn Care buys doctor consultation platform Lybrate",
+   "tier": "T2",
+   "claim": "acquisition Lybrate (telemedicine platform)"
+  },
+  {
+   "url": "https://www.vccircle.com/pristyn-care-buys-doctor-consultation-platform-lybrate",
+   "title": "Pristyn Care buys doctor consultation platform Lybrate",
+   "tier": "T2",
+   "claim": "acquisition Lybrate (telemedicine platform)"
+  },
+  {
+   "url": "https://www.vccircle.com/pristyn-care-buys-doctor-consultation-platform-lybrate",
+   "title": "Pristyn Care buys doctor consultation platform Lybrate",
+   "tier": "T2",
+   "claim": "acquisition Lybrate (telemedicine platform)"
+  },
+  {
+   "url": "https://www.vccircle.com/pristyn-care-buys-doctor-consultation-platform-lybrate",
+   "title": "Pristyn Care buys doctor consultation platform Lybrate",
+   "tier": "T2",
+   "claim": "acquisition Lybrate (telemedicine platform)"
+  },
+  {
+   "url": "https://www.vccircle.com/pristyn-care-buys-doctor-consultation-platform-lybrate",
+   "title": "Pristyn Care buys doctor consultation platform Lybrate",
+   "tier": "T2",
+   "claim": "acquisition Lybrate (telemedicine platform)"
+  },
+  {
+   "url": "https://www.vccircle.com/pristyn-care-buys-doctor-consultation-platform-lybrate",
+   "title": "Pristyn Care buys doctor consultation platform Lybrate",
+   "tier": "T2",
+   "claim": "acquisition Lybrate (telemedicine platform)"
+  },
+  {
+   "url": "https://www.vccircle.com/pristyn-care-buys-doctor-consultation-platform-lybrate",
+   "title": "Pristyn Care buys doctor consultation platform Lybrate",
+   "tier": "T2",
+   "claim": "acquisition Lybrate (telemedicine platform)"
+  },
+  {
+   "url": "https://www.vccircle.com/pristyn-care-buys-doctor-consultation-platform-lybrate",
+   "title": "Pristyn Care buys doctor consultation platform Lybrate",
+   "tier": "T2",
+   "claim": "acquisition Lybrate (telemedicine platform)"
+  },
+  {
+   "url": "https://www.vccircle.com/pristyn-care-buys-doctor-consultation-platform-lybrate",
+   "title": "Pristyn Care buys doctor consultation platform Lybrate",
+   "tier": "T2",
+   "claim": "acquisition Lybrate (telemedicine platform)"
+  },
+  {
+   "url": "https://www.vccircle.com/pristyn-care-buys-doctor-consultation-platform-lybrate",
+   "title": "Pristyn Care buys doctor consultation platform Lybrate",
+   "tier": "T2",
+   "claim": "acquisition Lybrate (telemedicine platform)"
+  },
+  {
+   "url": "https://www.vccircle.com/pristyn-care-buys-doctor-consultation-platform-lybrate",
+   "title": "Pristyn Care buys doctor consultation platform Lybrate",
+   "tier": "T2",
+   "claim": "acquisition Lybrate (telemedicine platform)"
+  },
+  {
+   "url": "https://www.vccircle.com/pristyn-care-buys-doctor-consultation-platform-lybrate",
+   "title": "Pristyn Care buys doctor consultation platform Lybrate",
+   "tier": "T2",
+   "claim": "acquisition Lybrate (telemedicine platform)"
+  },
+  {
+   "url": "https://www.vccircle.com/pristyn-care-buys-doctor-consultation-platform-lybrate",
+   "title": "Pristyn Care buys doctor consultation platform Lybrate",
+   "tier": "T2",
+   "claim": "acquisition Lybrate (telemedicine platform)"
+  },
+  {
+   "url": "https://www.vccircle.com/pristyn-care-buys-doctor-consultation-platform-lybrate",
+   "title": "Pristyn Care buys doctor consultation platform Lybrate",
+   "tier": "T2",
+   "claim": "acquisition Lybrate (telemedicine platform)"
+  },
+  {
+   "url": "https://www.vccircle.com/pristyn-care-buys-doctor-consultation-platform-lybrate",
+   "title": "Pristyn Care buys doctor consultation platform Lybrate",
+   "tier": "T2",
+   "claim": "acquisition Lybrate (telemedicine platform)"
+  },
+  {
+   "url": "https://www.vccircle.com/pristyn-care-buys-doctor-consultation-platform-lybrate",
+   "title": "Pristyn Care buys doctor consultation platform Lybrate",
+   "tier": "T2",
+   "claim": "acquisition Lybrate (telemedicine platform)"
+  },
+  {
+   "url": "https://www.vccircle.com/pristyn-care-buys-doctor-consultation-platform-lybrate",
+   "title": "Pristyn Care buys doctor consultation platform Lybrate",
+   "tier": "T2",
+   "claim": "acquisition Lybrate (telemedicine platform)"
+  },
+  {
+   "url": "https://www.vccircle.com/pristyn-care-buys-doctor-consultation-platform-lybrate",
+   "title": "Pristyn Care buys doctor consultation platform Lybrate",
+   "tier": "T2",
+   "claim": "acquisition Lybrate (telemedicine platform)"
+  },
+  {
+   "url": "https://www.vccircle.com/pristyn-care-buys-doctor-consultation-platform-lybrate",
+   "title": "Pristyn Care buys doctor consultation platform Lybrate",
+   "tier": "T2",
+   "claim": "acquisition Lybrate (telemedicine platform)"
+  },
+  {
+   "url": "https://www.vccircle.com/pristyn-care-buys-doctor-consultation-platform-lybrate",
+   "title": "Pristyn Care buys doctor consultation platform Lybrate",
+   "tier": "T2",
+   "claim": "acquisition Lybrate (telemedicine platform)"
+  },
+  {
+   "url": "https://www.vccircle.com/pristyn-care-buys-doctor-consultation-platform-lybrate",
+   "title": "Pristyn Care buys doctor consultation platform Lybrate",
+   "tier": "T2",
+   "claim": "acquisition Lybrate (telemedicine platform)"
+  },
+  {
+   "url": "https://www.vccircle.com/pristyn-care-buys-doctor-consultation-platform-lybrate",
+   "title": "Pristyn Care buys doctor consultation platform Lybrate",
+   "tier": "T2",
+   "claim": "acquisition Lybrate (telemedicine platform)"
+  },
+  {
+   "url": "https://www.vccircle.com/pristyn-care-buys-doctor-consultation-platform-lybrate",
+   "title": "Pristyn Care buys doctor consultation platform Lybrate",
+   "tier": "T2",
+   "claim": "acquisition Lybrate (telemedicine platform)"
+  },
+  {
+   "url": "https://www.vccircle.com/pristyn-care-buys-doctor-consultation-platform-lybrate",
+   "title": "Pristyn Care buys doctor consultation platform Lybrate",
+   "tier": "T2",
+   "claim": "acquisition Lybrate (telemedicine platform)"
+  },
+  {
+   "url": "https://www.vccircle.com/pristyn-care-buys-doctor-consultation-platform-lybrate",
+   "title": "Pristyn Care buys doctor consultation platform Lybrate",
+   "tier": "T2",
+   "claim": "acquisition Lybrate (telemedicine platform)"
+  },
+  {
+   "url": "https://www.vccircle.com/pristyn-care-buys-doctor-consultation-platform-lybrate",
+   "title": "Pristyn Care buys doctor consultation platform Lybrate",
+   "tier": "T2",
+   "claim": "acquisition Lybrate (telemedicine platform)"
+  },
+  {
+   "url": "https://www.vccircle.com/pristyn-care-buys-doctor-consultation-platform-lybrate",
+   "title": "Pristyn Care buys doctor consultation platform Lybrate",
+   "tier": "T2",
+   "claim": "acquisition Lybrate (telemedicine platform)"
+  },
+  {
+   "url": "https://www.vccircle.com/pristyn-care-buys-doctor-consultation-platform-lybrate",
+   "title": "Pristyn Care buys doctor consultation platform Lybrate",
+   "tier": "T2",
+   "claim": "acquisition Lybrate (telemedicine platform)"
+  },
+  {
+   "url": "https://www.vccircle.com/pristyn-care-buys-doctor-consultation-platform-lybrate",
+   "title": "Pristyn Care buys doctor consultation platform Lybrate",
+   "tier": "T2",
+   "claim": "acquisition Lybrate (telemedicine platform)"
+  },
+  {
+   "url": "https://www.vccircle.com/pristyn-care-buys-doctor-consultation-platform-lybrate",
+   "title": "Pristyn Care buys doctor consultation platform Lybrate",
+   "tier": "T2",
+   "claim": "acquisition Lybrate (telemedicine platform)"
+  },
+  {
+   "url": "https://www.vccircle.com/pristyn-care-buys-doctor-consultation-platform-lybrate",
+   "title": "Pristyn Care buys doctor consultation platform Lybrate",
+   "tier": "T2",
+   "claim": "acquisition Lybrate (telemedicine platform)"
+  },
+  {
+   "url": "https://www.vccircle.com/pristyn-care-buys-doctor-consultation-platform-lybrate",
+   "title": "Pristyn Care buys doctor consultation platform Lybrate",
+   "tier": "T2",
+   "claim": "acquisition Lybrate (telemedicine platform)"
+  },
+  {
+   "url": "https://www.vccircle.com/pristyn-care-buys-doctor-consultation-platform-lybrate",
+   "title": "Pristyn Care buys doctor consultation platform Lybrate",
+   "tier": "T2",
+   "claim": "acquisition Lybrate (telemedicine platform)"
+  },
+  {
+   "url": "https://www.vccircle.com/pristyn-care-buys-doctor-consultation-platform-lybrate",
+   "title": "Pristyn Care buys doctor consultation platform Lybrate",
+   "tier": "T2",
+   "claim": "acquisition Lybrate (telemedicine platform)"
+  },
+  {
+   "url": "https://www.vccircle.com/pristyn-care-buys-doctor-consultation-platform-lybrate",
+   "title": "Pristyn Care buys doctor consultation platform Lybrate",
+   "tier": "T2",
+   "claim": "acquisition Lybrate (telemedicine platform)"
+  },
+  {
+   "url": "https://www.vccircle.com/pristyn-care-buys-doctor-consultation-platform-lybrate",
+   "title": "Pristyn Care buys doctor consultation platform Lybrate",
+   "tier": "T2",
+   "claim": "acquisition Lybrate (telemedicine platform)"
+  },
+  {
+   "url": "https://www.vccircle.com/pristyn-care-buys-doctor-consultation-platform-lybrate",
+   "title": "Pristyn Care buys doctor consultation platform Lybrate",
+   "tier": "T2",
+   "claim": "acquisition Lybrate (telemedicine platform)"
+  },
+  {
+   "url": "https://www.vccircle.com/pristyn-care-buys-doctor-consultation-platform-lybrate",
+   "title": "Pristyn Care buys doctor consultation platform Lybrate",
+   "tier": "T2",
+   "claim": "acquisition Lybrate (telemedicine platform)"
+  },
+  {
+   "url": "https://www.vccircle.com/pristyn-care-buys-doctor-consultation-platform-lybrate",
+   "title": "Pristyn Care buys doctor consultation platform Lybrate",
+   "tier": "T2",
+   "claim": "acquisition Lybrate (telemedicine platform)"
+  },
+  {
+   "url": "https://www.vccircle.com/pristyn-care-buys-doctor-consultation-platform-lybrate",
+   "title": "Pristyn Care buys doctor consultation platform Lybrate",
+   "tier": "T2",
+   "claim": "acquisition Lybrate (telemedicine platform)"
+  },
+  {
+   "url": "https://www.vccircle.com/pristyn-care-buys-doctor-consultation-platform-lybrate",
+   "title": "Pristyn Care buys doctor consultation platform Lybrate",
+   "tier": "T2",
+   "claim": "acquisition Lybrate (telemedicine platform)"
+  },
+  {
+   "url": "https://www.vccircle.com/pristyn-care-buys-doctor-consultation-platform-lybrate",
+   "title": "Pristyn Care buys doctor consultation platform Lybrate",
+   "tier": "T2",
+   "claim": "acquisition Lybrate (telemedicine platform)"
+  },
+  {
+   "url": "https://www.vccircle.com/pristyn-care-buys-doctor-consultation-platform-lybrate",
+   "title": "Pristyn Care buys doctor consultation platform Lybrate",
+   "tier": "T2",
+   "claim": "acquisition Lybrate (telemedicine platform)"
+  },
+  {
+   "url": "https://www.vccircle.com/pristyn-care-buys-doctor-consultation-platform-lybrate",
+   "title": "Pristyn Care buys doctor consultation platform Lybrate",
+   "tier": "T2",
+   "claim": "acquisition Lybrate (telemedicine platform)"
+  },
+  {
+   "url": "https://www.vccircle.com/pristyn-care-buys-doctor-consultation-platform-lybrate",
+   "title": "Pristyn Care buys doctor consultation platform Lybrate",
+   "tier": "T2",
+   "claim": "acquisition Lybrate (telemedicine platform)"
+  },
+  {
+   "url": "https://www.vccircle.com/pristyn-care-buys-doctor-consultation-platform-lybrate",
+   "title": "Pristyn Care buys doctor consultation platform Lybrate",
+   "tier": "T2",
+   "claim": "acquisition Lybrate (telemedicine platform)"
+  },
+  {
+   "url": "https://www.vccircle.com/pristyn-care-buys-doctor-consultation-platform-lybrate",
+   "title": "Pristyn Care buys doctor consultation platform Lybrate",
+   "tier": "T2",
+   "claim": "acquisition Lybrate (telemedicine platform)"
+  },
+  {
+   "url": "https://www.vccircle.com/pristyn-care-buys-doctor-consultation-platform-lybrate",
+   "title": "Pristyn Care buys doctor consultation platform Lybrate",
+   "tier": "T2",
+   "claim": "acquisition Lybrate (telemedicine platform)"
+  },
+  {
+   "url": "https://www.vccircle.com/pristyn-care-buys-doctor-consultation-platform-lybrate",
+   "title": "Pristyn Care buys doctor consultation platform Lybrate",
+   "tier": "T2",
+   "claim": "acquisition Lybrate (telemedicine platform)"
+  },
+  {
+   "url": "https://www.vccircle.com/pristyn-care-buys-doctor-consultation-platform-lybrate",
+   "title": "Pristyn Care buys doctor consultation platform Lybrate",
+   "tier": "T2",
+   "claim": "acquisition Lybrate (telemedicine platform)"
+  },
+  {
+   "url": "https://www.vccircle.com/pristyn-care-buys-doctor-consultation-platform-lybrate",
+   "title": "Pristyn Care buys doctor consultation platform Lybrate",
+   "tier": "T2",
+   "claim": "acquisition Lybrate (telemedicine platform)"
+  },
+  {
+   "url": "https://www.vccircle.com/pristyn-care-buys-doctor-consultation-platform-lybrate",
+   "title": "Pristyn Care buys doctor consultation platform Lybrate",
+   "tier": "T2",
+   "claim": "acquisition Lybrate (telemedicine platform)"
+  },
+  {
+   "url": "https://www.vccircle.com/pristyn-care-buys-doctor-consultation-platform-lybrate",
+   "title": "Pristyn Care buys doctor consultation platform Lybrate",
+   "tier": "T2",
+   "claim": "acquisition Lybrate (telemedicine platform)"
+  },
+  {
+   "url": "https://www.vccircle.com/pristyn-care-buys-doctor-consultation-platform-lybrate",
+   "title": "Pristyn Care buys doctor consultation platform Lybrate",
+   "tier": "T2",
+   "claim": "acquisition Lybrate (telemedicine platform)"
+  },
+  {
+   "url": "https://www.vccircle.com/pristyn-care-buys-doctor-consultation-platform-lybrate",
+   "title": "Pristyn Care buys doctor consultation platform Lybrate",
+   "tier": "T2",
+   "claim": "acquisition Lybrate (telemedicine platform)"
+  },
+  {
+   "url": "https://www.vccircle.com/pristyn-care-buys-doctor-consultation-platform-lybrate",
+   "title": "Pristyn Care buys doctor consultation platform Lybrate",
+   "tier": "T2",
+   "claim": "acquisition Lybrate (telemedicine platform)"
+  },
+  {
+   "url": "https://www.vccircle.com/pristyn-care-buys-doctor-consultation-platform-lybrate",
+   "title": "Pristyn Care buys doctor consultation platform Lybrate",
+   "tier": "T2",
+   "claim": "acquisition Lybrate (telemedicine platform)"
+  },
+  {
+   "url": "https://www.vccircle.com/pristyn-care-buys-doctor-consultation-platform-lybrate",
+   "title": "Pristyn Care buys doctor consultation platform Lybrate",
+   "tier": "T2",
+   "claim": "acquisition Lybrate (telemedicine platform)"
+  },
+  {
+   "url": "https://www.vccircle.com/pristyn-care-buys-doctor-consultation-platform-lybrate",
+   "title": "Pristyn Care buys doctor consultation platform Lybrate",
+   "tier": "T2",
+   "claim": "acquisition Lybrate (telemedicine platform)"
+  },
+  {
+   "url": "https://www.vccircle.com/pristyn-care-buys-doctor-consultation-platform-lybrate",
+   "title": "Pristyn Care buys doctor consultation platform Lybrate",
+   "tier": "T2",
+   "claim": "acquisition Lybrate (telemedicine platform)"
+  }
+ ],
+ "startup_id": "pristyn care",
+ "traction": [
+  {
+   "as_of": "2025-07",
+   "company_reported": true,
+   "confidence": "MEDIUM",
+   "metric": "owned_hospitals",
+   "period": "2025-07",
+   "source_url": "https://medial.app/news/exclusive-pristyn-care-raises-dollar4-mn-to-scale-in-house-hospitals-preps-for-larger-round-f0edcefd14444",
+   "value": "8 owned hospitals, ~450 beds, ~200k sq ft"
+  }
+ ],
+ "_merged_session2": true
+}

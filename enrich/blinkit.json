@@ -1,0 +1,172 @@
+{
+ "company": {
+  "business_model": "quick-commerce (dark-store, inventory-led)",
+  "city": "Gurugram",
+  "company_name": "Blinkit",
+  "founded_date": "Dec 2013 (as Grofers)",
+  "primary_sector": "quick commerce",
+  "public_private": "private subsidiary of listed Eternal Ltd (Zomato)",
+  "startup_id": "blinkit",
+  "startup_stage": "mature / subsidiary",
+  "status": "ACTIVE — operating subsidiary of Eternal; Q4 FY26 adj EBITDA Rs 37cr profit",
+  "official_website": {
+   "v": "https://blinkit.com/",
+   "conf": "HIGH",
+   "src": "https://blinkit.com/",
+   "note": "Verified through TinyFish render; Blinkit storefront rendered and identified Blink Commerce Private Limited."
+  },
+  "careers_website": {
+   "v": "https://blinkit.com/careers",
+   "conf": "HIGH",
+   "src": "https://blinkit.com/careers",
+   "note": "Verified through TinyFish render; official endpoint redirected to Eternal careers and rendered hiring content."
+  },
+  "website": "https://blinkit.com/"
+ },
+ "completeness_self": {
+  "financials": 7,
+  "founders": 8,
+  "funding": 7,
+  "identity": 9,
+  "investors": 7,
+  "legal": 0,
+  "people": 3,
+  "products": 7,
+  "sources": 7,
+  "traction": 8
+ },
+ "events": [
+  {
+   "date": "2022-06-24",
+   "description": "All-stock deal ~$568M (Rs 4447cr); Eternal took 10% 2021 + $150M loan pre-deal",
+   "headline": "Zomato acquires Blinkit (Grofers) for $568M",
+   "source_url": "https://en.wikipedia.org/wiki/Blinkit",
+   "type": "acquisition"
+  },
+  {
+   "date": "2026-03-12",
+   "description": "Rights-issue infusion as quick-commerce rivalry heats up",
+   "headline": "Eternal infuses Rs 450cr into Blinkit",
+   "source_url": "https://entrackr.com/exclusive/exclusive-eternal-infuses-rs-450-cr-into-blinkit-as-quick-commerce-rivalry-heats-up-11206006",
+   "type": "funding"
+  }
+ ],
+ "financials": [
+  {
+   "currency": "INR",
+   "fiscal_year": "Q4 FY26",
+   "metric": "adjusted EBITDA",
+   "source_title": "Blinkit sees another profitable quarter",
+   "source_url": "https://www.thearcweb.com/article/blinkit-zomato-eternal-quick-commerce-Q4-results-food-delivery-IGbWzh0VOAzqIhIC",
+   "value": 370000000,
+   "value_type": "management"
+  },
+  {
+   "currency": "INR",
+   "fiscal_year": "Q4 FY26",
+   "metric": "revenue (reported 674% YoY on inventory-model transition)",
+   "source_title": "Eternal Q4 profit jumps 4.5x",
+   "source_url": "https://www.business-standard.com/companies/quarterly-results/eternal-q4-profit-jumps-4-5x-on-strong-blinkit-zomato-growth-momentum-126042801226_1.html",
+   "value": 132320000000,
+   "value_type": "management"
+  }
+ ],
+ "founders": [
+  {
+   "confidence": "high",
+   "name": "Albinder Dhindsa",
+   "source_url": "https://en.wikipedia.org/wiki/Blinkit",
+   "type": "founder"
+  },
+  {
+   "confidence": "high",
+   "name": "Saurabh Kumar",
+   "source_url": "https://en.wikipedia.org/wiki/Blinkit",
+   "type": "founder"
+  }
+ ],
+ "funding_rounds": [
+  {
+   "amount": 568,
+   "currency": "USD",
+   "round_type": "acquisition by Zomato (all-stock)",
+   "source_title": "Blinkit Founder Story / acquisition record",
+   "source_url": "https://pitchkaroindia.com/pages/blinkit-founder-story-how-a-4447-crore-deal-created-history",
+   "tier": "T3"
+  }
+ ],
+ "gaps": [
+  "CIN not captured (Grofers India Pvt Ltd registry page not probed)",
+  "Q1 FY27 NOV +19.1% per Rediff — not added, single snippet",
+  "CEO Albinder Dhindsa current role details thin"
+ ],
+ "investor_links": [
+  {
+   "confidence": "high",
+   "investor": "Eternal Ltd (Zomato) — parent",
+   "lead": false,
+   "rounds": [
+    "acquisition 2022",
+    "Rs 450cr rights issue Mar 2026"
+   ],
+   "source_url": "https://entrackr.com/exclusive/exclusive-eternal-infuses-rs-450-cr-into-blinkit-as-quick-commerce-rivalry-heats-up-11206006"
+  }
+ ],
+ "research_log": [
+  {
+   "found": "Market leader; Eternal invested Rs 450cr Mar 2026; Q4 FY26 EBITDA profit Rs 37cr",
+   "query": "Blinkit Zomato Eternal status quick commerce 2026"
+  },
+  {
+   "found": "Founded Dec 2013 Grofers by Albinder Dhindsa + Saurabh Kumar; acquired 2022 $568M",
+   "query": "Blinkit founded 2013 Grofers acquisition Zomato 2022"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "Blinkit official website careers",
+   "found": "Official blinkit.com domain and first-party /careers endpoint verified; endpoint redirects to parent Eternal careers.",
+   "unresolved": "Careers content is branded Eternal after redirect because Blinkit is part of Eternal.",
+   "next_action": "None."
+  }
+ ],
+ "sources": [
+  {
+   "publisher": "Wikipedia",
+   "tier": "T4",
+   "title": "Blinkit",
+   "url": "https://en.wikipedia.org/wiki/Blinkit"
+  },
+  {
+   "publication_date": "2026-03-12",
+   "publisher": "Entrackr",
+   "tier": "T2",
+   "title": "Exclusive: Eternal infuses Rs 450 Cr into Blinkit",
+   "url": "https://entrackr.com/exclusive/exclusive-eternal-infuses-rs-450-cr-into-blinkit-as-quick-commerce-rivalry-heats-up-11206006"
+  },
+  {
+   "publication_date": "2026-04-28",
+   "publisher": "The Arc",
+   "tier": "T2",
+   "title": "Blinkit sees another profitable quarter",
+   "url": "https://www.thearcweb.com/article/blinkit-zomato-eternal-quick-commerce-Q4-results-food-delivery-IGbWzh0VOAzqIhIC"
+  },
+  {
+   "publication_date": "2026-04-28",
+   "publisher": "Business Standard",
+   "tier": "T2",
+   "title": "Eternal Q4 profit jumps 4.5x on strong Blinkit, Zomato growth",
+   "url": "https://www.business-standard.com/companies/quarterly-results/eternal-q4-profit-jumps-4-5x-on-strong-blinkit-zomato-growth-momentum-126042801226_1.html"
+  }
+ ],
+ "startup_id": "blinkit",
+ "traction": [
+  {
+   "as_of": "Q1 FY27",
+   "company_reported": false,
+   "metric": "net order value growth",
+   "source_url": "https://www.rediff.com/business/report/eternal-q1-fy27-blinkits-quick-commerce-growth--market-share-expansion/20260731.htm",
+   "value": "+19.1% QoQ"
+  }
+ ],
+ "_merged_session2": true
+}

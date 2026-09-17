@@ -1,0 +1,1502 @@
+{
+ "company": {
+  "business_model": "B2C ultra-low-cost carrier",
+  "cin": "UNKNOWN",
+  "city": "Mumbai",
+  "company_name": "Akasa Air",
+  "country": "India",
+  "founded_date": "2021",
+  "incorporation_date": "UNKNOWN",
+  "primary_sector": "aviation",
+  "public_private": "private",
+  "startup_stage": "growth",
+  "state": "Maharashtra",
+  "status": "active",
+  "website": "UNKNOWN",
+  "official_website": {
+   "v": "https://safariindia.com",
+   "conf": "high",
+   "src": "https://safariindia.com",
+   "note": "verified live 2026-09-15: name match on own homepage"
+  },
+  "legal_name": {
+   "v": "SNV Aviation Private Limited",
+   "conf": "HIGH",
+   "src": "https://www.tofler.in/snv-aviation-private-limited/company/U63013MH2020PTC350653",
+   "note": "Parent holding company of Akasa Air; CIN U63013MH2020PTC350653",
+   "asof": "2026-09-15"
+  },
+  "description": {
+   "v": "India's fastest-growing low-cost airline operating an all-Boeing 737 MAX fleet",
+   "conf": "HIGH",
+   "src": "https://www.akasaair.com/about-us",
+   "note": "Founded 2021, ops since Aug 2022; 40 aircraft, 36 destinations, 28M+ passengers",
+   "asof": "2026-09-15"
+  },
+  "employee_estimate": {
+   "v": 5314,
+   "conf": "MEDIUM",
+   "src": "https://platform.tracxn.com/a/d/company/6002f9f7f11a721f6549034f/akasa%20air",
+   "note": "Tracxn official employee count; LinkedIn also shows 1001-5000 range",
+   "asof": "2026-09-15"
+  },
+  "hq_type": {
+   "v": "registered",
+   "conf": "HIGH",
+   "src": "https://www.tofler.in/snv-aviation-private-limited/company/U63013MH2020PTC350653",
+   "note": "Registered office and HQ both at Mumbai; operating bases at Bengaluru and Mumbai",
+   "asof": "2026-09-15"
+  },
+  "registered_office": {
+   "v": "12th Floor, Urmi Estate 95, Ganpatrao Kadam Marg, Lower Parel (West), Mumbai, Maharashtra, India, 400013",
+   "conf": "HIGH",
+   "src": "https://www.tofler.in/snv-aviation-private-limited/company/U63013MH2020PTC350653",
+   "note": "MCA21 registered address; also confirmed by PitchBook and LinkedIn",
+   "asof": "2026-09-15"
+  }
+ },
+ "completeness_self": {
+  "financials": 8,
+  "founders": 8,
+  "funding": 8,
+  "identity": 8,
+  "investors": 8,
+  "legal": 5,
+  "people": 5,
+  "products": 6,
+  "sources": 8,
+  "traction": 8
+ },
+ "conflicts": [
+  {
+   "claim_a": "Jhunjhunwala invested $35M for ~40% (Times Now Jul 2021, ET Aug 2024)",
+   "claim_b": "Investing $50M (CNBC TV18 Feb 2022)",
+   "field": "initial investment",
+   "resolution": "$35M initial for ~40% better corroborated (two sources); $50M may include follow-on",
+   "resolved_value": "~$35M initial, family stake ~40-46%",
+   "url_a": "https://economictimes.indiatimes.com/industry/transportation/airlines-/-aviation/rakesh-jhunjhunwalas-lofty-bet-on-akasa-has-grown-fourfold-what-lies-ahead/articleshow/112707365.cms",
+   "url_b": "https://www.cnbctv18.com/aviation/rakesh-jhunjhunwala-investing-50-million-in-akasa-air-says-hes-got-a-game-plan-for-aviation-sector-12531532.htm"
+  },
+  {
+   "field": "cin",
+   "claim_a": "UNKNOWN",
+   "url_a": "",
+   "claim_b": "U63013MH2020PTC350653",
+   "url_b": "",
+   "resolution": "phase3 p3 payload disagrees with existing value; existing kept as preferred pending human review",
+   "resolved_value": "",
+   "reviewed": "p3-merge"
+  },
+  {
+   "field": "incorporation_date",
+   "claim_a": "UNKNOWN",
+   "url_a": "",
+   "claim_b": "2020-11-24",
+   "url_b": "",
+   "resolution": "phase3 p3 payload disagrees with existing value; existing kept as preferred pending human review",
+   "resolved_value": "",
+   "reviewed": "p3-merge"
+  },
+  {
+   "field": "official_website",
+   "claim_a": "https://safariindia.com",
+   "url_a": "https://safariindia.com",
+   "claim_b": "https://www.akasaair.com",
+   "url_b": "",
+   "resolution": "phase3 p3 payload disagrees with existing value; existing kept as preferred pending human review",
+   "resolved_value": "",
+   "reviewed": "p3-merge"
+  },
+  {
+   "field": "initial_investment_amount",
+   "claim_a": "$35M for ~40% stake (ET Aug 2024, Wikipedia)",
+   "url_a": "https://economictimes.indiatimes.com/industry/transportation/airlines-/-aviation/rakesh-jhunjhunwalas-lofty-bet-on-akasa-has-grown-fourfold-what-lies-ahead/articleshow/112707365.cms",
+   "claim_b": "$50M investment (CNBC TV18 Feb 2022)",
+   "url_b": "https://www.cnbctv18.com/aviation/rakesh-jhunjhunwala-investing-50-million-in-akasa-air-says-hes-got-a-game-plan-for-aviation-sector-12531532.htm",
+   "resolution": "$35M initial investment better corroborated by multiple sources; $50M may include follow-on",
+   "resolved_value": "~$35M initial; family stake ~40-46%"
+  },
+  {
+   "field": "funding_round_amount",
+   "claim_a": "$135M (ET Feb 2025)",
+   "url_a": "https://economictimes.indiatimes.com/industry/transportation/airlines-/-aviation/akasa-air-gets-funds-from-azim-premji-ranjan-pai-family-offices/articleshow/117985576.cms",
+   "claim_b": "$125M (completed Aug 2025)",
+   "url_b": "https://www.akasaair.com/news-room/akasa-press-releases/akasa-air-announces-completion-of-strategic-investment-transaction-welcomes-new-investment-partners-to-the-akasian-family",
+   "resolution": "$135M was announced amount (Feb 2025); $125M was completed transaction amount (Aug 2025) after regulatory approvals",
+   "resolved_value": "$125M completed; $135M announced"
+  },
+  {
+   "field": "hq_city",
+   "claim_a": "Mumbai (existing DB, Tofler, Wikipedia)",
+   "url_a": "https://www.tofler.in/snv-aviation-private-limited/company/U63013MH2020PTC350653",
+   "claim_b": "Bengaluru (prompt states Bengaluru HQ)",
+   "url_b": "prompt",
+   "resolution": "Mumbai is correct HQ city; Bengaluru is an operating base only",
+   "resolved_value": "Mumbai"
+  }
+ ],
+ "events": [
+  {
+   "announced_date": "2021-07-29",
+   "confidence": "MEDIUM",
+   "date": "2021-07-29",
+   "description": "Aditya Ghosh joins as co-founder (<10% stake, board member); Dube CEO >15%; Jhunjhunwala ~40%.",
+   "headline": "Aditya Ghosh joins Akasa Air as co-founder",
+   "source_url": "https://www.timesnownews.com/amp/business-economy/companies/article/former-indigo-boss-aditya-ghosh-to-join-hands-with-rakesh-jhunjhunwala-and-vinay-dube-as-co-founder-to-fly-low-cost-airline-akasa-air/791855",
+   "type": "founding"
+  },
+  {
+   "announced_date": "2025-02-06",
+   "confidence": "HIGH",
+   "date": "2025-02-06",
+   "description": "~$135M (Rs 1,200 cr) from Premji Invest, Claypond Capital, 360 ONE Asset; Jhunjhunwala family adds capital, stays largest holder; fleet/international expansion.",
+   "headline": "Akasa Air raises ~$135M from Premji Invest, Claypond, 360 ONE",
+   "source_url": "https://economictimes.indiatimes.com/industry/transportation/airlines-/-aviation/akasa-air-gets-funds-from-azim-premji-ranjan-pai-family-offices/articleshow/117985576.cms",
+   "type": "funding"
+  },
+  {
+   "announced_date": "2026-02-11",
+   "confidence": "MEDIUM",
+   "date": "2026-02-11",
+   "description": "Co-founder & CCO Praveen Iyer resigns (service till Apr 2026); second senior exit in four months.",
+   "headline": "Co-founder Praveen Iyer resigns",
+   "source_url": "https://curlytales.com/india/trending/akasa-air-co-founder-praveen-iyer-resigns-second-senior-exit-in-four-months/",
+   "type": "leadership-exit"
+  },
+  {
+   "announced_date": "2026-06-25",
+   "confidence": "HIGH",
+   "date": "2026-06-25",
+   "description": "FY26 operating revenue +37% on +30% capacity; IPO planned in 2-4 years linked to EBITDA/profitability.",
+   "headline": "FY26 revenue +37%; IPO in 2-4 years",
+   "source_url": "https://safariindia.com/akasa-air-reports-37-revenue-growth-in-fy2025-26/",
+   "type": "financials + IPO guidance"
+  },
+  {
+   "type": "founding",
+   "headline": "Akasa Air founded",
+   "date": "2021-07-29",
+   "description": "Vinay Dube and team announce airline plans; Rakesh Jhunjhunwala invests $35M for ~40% stake",
+   "source_url": "https://economictimes.indiatimes.com/industry/transportation/airlines-/-aviation/rakesh-jhunjhunwalas-lofty-bet-on-akasa-has-grown-fourfold-what-lies-ahead/articleshow/112707365.cms",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "launch",
+   "headline": "Commercial operations commence",
+   "date": "2022-08-07",
+   "description": "First commercial flight Mumbai-Ahmedabad with 2 Boeing 737 MAX aircraft",
+   "source_url": "https://en.wikipedia.org/wiki/Akasa_Air",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "regulatory",
+   "headline": "AOC received from DGCA",
+   "date": "2022-07-07",
+   "description": "Akasa Air receives Air Operator Certificate from DGCA; first airline to use eGCA digital platform",
+   "source_url": "https://www.akasaair.com/news-room/akasa-press-releases/akasa-air-receives-its-air-operator-certificate",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "funding",
+   "headline": "$135M investment from Premji Invest, Claypond, 360 ONE",
+   "date": "2025-02-06",
+   "description": "Marquee investors sign agreements; Jhunjhunwala family commits additional capital",
+   "source_url": "https://economictimes.indiatimes.com/industry/transportation/airlines-/-aviation/akasa-air-gets-funds-from-azim-premji-ranjan-pai-family-offices/articleshow/117985576.cms",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "funding",
+   "headline": "$125M fundraising completed",
+   "date": "2025-08-20",
+   "description": "Strategic investment transactions completed after regulatory approvals",
+   "source_url": "https://www.akasaair.com/news-room/akasa-press-releases/akasa-air-announces-completion-of-strategic-investment-transaction-welcomes-new-investment-partners-to-the-akasian-family",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "leadership-change",
+   "headline": "Belson Coutinho appointed COO",
+   "date": "2025-01-07",
+   "description": "Belson Coutinho moves from CMO to COO role",
+   "source_url": "https://www.business-standard.com/companies/news/akasa-air-belson-coutinho-appointed-coo-125010700535_1.html",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "milestone",
+   "headline": "40th aircraft delivered",
+   "date": "2026-07-04",
+   "description": "9th Boeing 737 MAX delivery of 2026; fleet reaches 40 aircraft",
+   "source_url": "https://www.cnbctv18.com/business/aviation/akasa-air-takes-delivery-of-40th-aircraft-expands-boeing-737-max-fleet-19938620.htm",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "product-launch",
+   "headline": "Akasa Elevate loyalty programme launched",
+   "date": "2026-08-07",
+   "description": "Loyalty programme with four tiers launched on 4th anniversary; retro claim for travel since Apr 1, 2026",
+   "source_url": "https://www.business-standard.com/industry/aviation/akasa-air-launches-loyalty-programme-akasa-elevate-as-airline-turns-4-126080700461_1.html",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "ipo-guidance",
+   "headline": "IPO planned in 2-4 years",
+   "date": "2025-06-25",
+   "description": "CEO Vinay Dube states IPO planned in 2-4 years linked to EBITDA/profitability",
+   "source_url": "https://safariindia.com/akasa-air-reports-37-revenue-growth-in-fy2025-26/",
+   "confidence": "MEDIUM"
+  },
+  {
+   "type": "partnership",
+   "headline": "Etihad Airways codeshare agreement",
+   "date": "2025-03",
+   "description": "First codeshare agreement activated with Etihad Airways",
+   "source_url": "https://www.akasaair.com/news-room/akasa-press-releases/three-years-19-million-passengers-akasa-air-celebrates-record-growth",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "safety",
+   "headline": "DGCA flags repetitive procedural lapses",
+   "date": "2025-10-21",
+   "description": "DGCA notice flags CVR check lapses, audit findings not closed, fatigue training incomplete, EDTO non-compliance",
+   "source_url": "https://www.business-standard.com/industry/aviation/dgca-flags-repetitive-persistent-procedural-lapses-in-akasa-air-s-audit-125102700941_1.html",
+   "confidence": "HIGH"
+  }
+ ],
+ "financials": [
+  {
+   "confidence": "MEDIUM",
+   "currency": "INR",
+   "fiscal_year": "FY24",
+   "metric": "total income",
+   "source_date": "2025-02-06",
+   "source_title": "Premji Invest, Ranjan Pai invests in Akasa Air",
+   "source_url": "https://economictimes.indiatimes.com/industry/transportation/airlines-/-aviation/akasa-air-gets-funds-from-azim-premji-ranjan-pai-family-offices/articleshow/117985576.cms",
+   "unit": "crore",
+   "value": 3144.38,
+   "value_type": "press-quoted-filing"
+  },
+  {
+   "confidence": "MEDIUM",
+   "currency": "INR",
+   "fiscal_year": "FY24",
+   "metric": "net loss",
+   "source_date": "2025-02-06",
+   "source_title": "Premji Invest, Ranjan Pai invests in Akasa Air",
+   "source_url": "https://economictimes.indiatimes.com/industry/transportation/airlines-/-aviation/akasa-air-gets-funds-from-azim-premji-ranjan-pai-family-offices/articleshow/117985576.cms",
+   "unit": "crore",
+   "value": -1670.06,
+   "value_type": "press-quoted-filing"
+  },
+  {
+   "fiscal_year": "FY24",
+   "metric": "total_income",
+   "value": 3144.38,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "press-quoted-filing",
+   "basis": "standalone",
+   "consolidated": "no",
+   "filing_date": "2025-02-06",
+   "source_url": "https://economictimes.indiatimes.com/industry/transportation/airlines-/-aviation/akasa-air-gets-funds-from-azim-premji-ranjan-pai-family-offices/articleshow/117985576.cms",
+   "confidence": "MEDIUM",
+   "notes": "Total income FY24; up from Rs 777.84 cr in FY23"
+  },
+  {
+   "fiscal_year": "FY24",
+   "metric": "net_loss",
+   "value": -1670.06,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "press-quoted-filing",
+   "basis": "standalone",
+   "consolidated": "no",
+   "filing_date": "2025-02-06",
+   "source_url": "https://economictimes.indiatimes.com/industry/transportation/airlines-/-aviation/akasa-air-gets-funds-from-azim-premji-ranjan-pai-family-offices/articleshow/117985576.cms",
+   "confidence": "MEDIUM",
+   "notes": "Net loss FY24; up from Rs 744.53 cr in FY23"
+  },
+  {
+   "fiscal_year": "FY25",
+   "metric": "total_revenue",
+   "value": 4635.7,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "press-quoted-filing",
+   "basis": "standalone",
+   "consolidated": "no",
+   "filing_date": "2025-08-19",
+   "source_url": "https://inc42.com/company/akasa-air/",
+   "confidence": "MEDIUM",
+   "notes": "Revenue FY25; +47.4% from FY24 (Rs 3,144.4 cr)"
+  },
+  {
+   "fiscal_year": "FY25",
+   "metric": "net_loss",
+   "value": -1983,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "press-quoted-filing",
+   "basis": "standalone",
+   "consolidated": "no",
+   "filing_date": "2025-06-30",
+   "source_url": "https://www.business-standard.com/companies/news/akasa-air-fy25-net-loss-widens-to-rs-1983-crore-on-rising-costs-125063001209_1.html",
+   "confidence": "HIGH",
+   "notes": "Standalone net loss FY25; +18.7% YoY; employee costs +36%, maintenance +26.6%, forex +181%"
+  },
+  {
+   "fiscal_year": "FY26",
+   "metric": "total_revenue",
+   "value": 4636,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "press-quoted-filing",
+   "basis": "consolidated",
+   "consolidated": "yes",
+   "filing_date": "2026-06-23",
+   "source_url": "https://www.akasaair.com/news-room/akasa-press-releases/akasa-air-reports-37-revenue-growth-in-fy2025-26-strengthens-foundation-for-long-term-growth",
+   "confidence": "HIGH",
+   "notes": "Operating revenue +37% YoY; capacity +30%; Wikipedia cites Rs 46.36 billion"
+  },
+  {
+   "fiscal_year": "FY26",
+   "metric": "net_loss",
+   "value": -2716,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "press-quoted-filing",
+   "basis": "consolidated",
+   "consolidated": "yes",
+   "filing_date": "2026-08-11",
+   "source_url": "https://www.thehindubusinessline.com/economy/logistics/akasa-air-loss-widens-37to-2716-crore-in-fy26/article71332847.ece",
+   "confidence": "HIGH",
+   "notes": "Consolidated net loss widened 37% YoY from Rs 1,983.5 cr in FY25; marked-to-market forex loss"
+  },
+  {
+   "fiscal_year": "FY23",
+   "metric": "total_income",
+   "value": 777.84,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "press-quoted-filing",
+   "basis": "standalone",
+   "consolidated": "no",
+   "filing_date": "2025-02-06",
+   "source_url": "https://economictimes.indiatimes.com/industry/transportation/airlines-/-aviation/akasa-air-gets-funds-from-azim-premji-ranjan-pai-family-offices/articleshow/117985576.cms",
+   "confidence": "MEDIUM",
+   "notes": "Total income FY23 (partial year, ops started Aug 2022)"
+  }
+ ],
+ "founders": [
+  {
+   "background": "Ex-Jet Airways CEO, ex-GoAir; Delta/American Airlines ops research",
+   "confidence": "HIGH",
+   "name": "Vinay Dube",
+   "role": "Founder & CEO",
+   "source_url": "https://economictimes.indiatimes.com/industry/transportation/airlines-/-aviation/rakesh-jhunjhunwalas-lofty-bet-on-akasa-has-grown-fourfold-what-lies-ahead/articleshow/112707365.cms",
+   "still_active": true,
+   "type": "founder"
+  },
+  {
+   "background": "Ace investor (d. Aug 2022); family holds ~40-46% via wife's name",
+   "confidence": "HIGH",
+   "name": "Rakesh Jhunjhunwala (family)",
+   "role": "Co-founder / anchor investor",
+   "source_url": "https://www.timesnownews.com/amp/business-economy/companies/article/former-indigo-boss-aditya-ghosh-to-join-hands-with-rakesh-jhunjhunwala-and-vinay-dube-as-co-founder-to-fly-low-cost-airline-akasa-air/791855",
+   "still_active": false,
+   "type": "co-founder"
+  },
+  {
+   "background": "Ex-IndiGo president; board member, <10% stake",
+   "confidence": "MEDIUM",
+   "name": "Aditya Ghosh",
+   "role": "Co-founder (board)",
+   "source_url": "https://www.timesnownews.com/amp/business-economy/companies/article/former-indigo-boss-aditya-ghosh-to-join-hands-with-rakesh-jhunjhunwala-and-vinay-dube-as-co-founder-to-fly-low-cost-airline-akasa-air/791855",
+   "still_active": true,
+   "type": "co-founder"
+  },
+  {
+   "name": "Rakesh Jhunjhunwala",
+   "role": "Co-founder / anchor investor",
+   "background": "Billionaire stock investor (d. Aug 2022); invested $35M for ~40% stake; family now holds ~46%",
+   "education": "",
+   "still_active": false,
+   "source_url": "https://www.akasaair.com/news-room/company-statements/company-statement",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Bhavin Joshi",
+   "role": "Co-founder (SVP Strategy)",
+   "background": "Former Jet Airways Strategy & Projects; CFO of travel protection company",
+   "education": "",
+   "still_active": true,
+   "source_url": "https://www.akasaair.com/leadership-team",
+   "confidence": "MEDIUM"
+  },
+  {
+   "name": "Anand Srinivasan",
+   "role": "Co-founder (CIO→CCO)",
+   "background": "Well-known data scientist; successful entrepreneur; built Akasa's revenue management platform",
+   "education": "",
+   "still_active": true,
+   "source_url": "https://www.cnbctv18.com/business/aviation/akasa-air-co-founder-cco-praveen-iyer-exit-anand-srinivasan-commercial-operations-19847607.htm",
+   "confidence": "MEDIUM"
+  },
+  {
+   "name": "Praveen Iyer",
+   "role": "Co-founder (ex-CCO)",
+   "background": "25+ years in commercial and aviation technology; left airline Apr 2026",
+   "education": "",
+   "still_active": false,
+   "source_url": "https://www.cnbctv18.com/business/aviation/akasa-air-co-founder-cco-praveen-iyer-exit-anand-srinivasan-commercial-operations-19847607.htm",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Neelu Khatri",
+   "role": "Co-founder (ex-SVP International)",
+   "background": "SVP International Operations; stepped down Oct 2025",
+   "education": "",
+   "still_active": false,
+   "source_url": "https://www.peoplematters.in/news/leadership/akasa-air-co-founder-praveen-iyer-to-exit-in-april-anand-srinivasan-to-take-over-as-cco-48380",
+   "confidence": "MEDIUM"
+  },
+  {
+   "name": "Sanjay Dube",
+   "role": "Co-founder",
+   "background": "Holds 7.59% stake per ch-aviation Sep 2023 report",
+   "education": "",
+   "still_active": true,
+   "source_url": "https://www.ch-aviation.com/news/132302-indias-akasa-air-eyes-400mn-capital-expansion",
+   "confidence": "MEDIUM"
+  },
+  {
+   "name": "Niraj Dube",
+   "role": "Co-founder",
+   "background": "Holds 7.59% stake per ch-aviation Sep 2023 report",
+   "education": "",
+   "still_active": true,
+   "source_url": "https://www.ch-aviation.com/news/132302-indias-akasa-air-eyes-400mn-capital-expansion",
+   "confidence": "MEDIUM"
+  }
+ ],
+ "funding_rounds": [
+  {
+   "all_investors": [
+    "Rakesh Jhunjhunwala (family)"
+   ],
+   "amount": 35,
+   "announced_date": "2021-07-29",
+   "confidence": "MEDIUM",
+   "currency": "USD",
+   "lead_investors": [
+    "Rakesh Jhunjhunwala (family)"
+   ],
+   "round_date": "2021",
+   "round_type": "seed",
+   "source_date": "2021-07-29",
+   "source_title": "Former IndiGo boss Aditya Ghosh to join hands with Rakesh Jhunjhunwala and Vinay Dube",
+   "source_url": "https://www.timesnownews.com/amp/business-economy/companies/article/former-indigo-boss-aditya-ghosh-to-join-hands-with-rakesh-jhunjhunwala-and-vinay-dube-as-co-founder-to-fly-low-cost-airline-akasa-air/791855",
+   "tier": "T3"
+  },
+  {
+   "all_investors": [
+    "Premji Invest",
+    "Claypond Capital",
+    "360 ONE Asset",
+    "Jhunjhunwala family (follow-on)"
+   ],
+   "amount": 135,
+   "announced_date": "2025-02-06",
+   "confidence": "HIGH",
+   "currency": "USD",
+   "lead_investors": [
+    "Premji Invest",
+    "Claypond Capital"
+   ],
+   "purpose": "Fleet growth, international operations, aircraft payments",
+   "round_date": "2025-02-06",
+   "round_type": "growth-equity",
+   "source_date": "2025-02-06",
+   "source_title": "Premji Invest, Ranjan Pai invests in Akasa Air",
+   "source_url": "https://economictimes.indiatimes.com/industry/transportation/airlines-/-aviation/akasa-air-gets-funds-from-azim-premji-ranjan-pai-family-offices/articleshow/117985576.cms",
+   "tier": "T3",
+   "valuation": "$350M+ (Aug-2024 proposal cited)"
+  },
+  {
+   "round_type": "seed",
+   "announced_date": "2021-07-29",
+   "round_date": "2021-07-29",
+   "amount": 35,
+   "currency": "USD",
+   "valuation": "",
+   "valuation_currency": "",
+   "valuation_type": "",
+   "lead_investors": [
+    "Rakesh Jhunjhunwala (family)"
+   ],
+   "all_investors": [
+    "Rakesh Jhunjhunwala (family)"
+   ],
+   "instrument": "equity",
+   "purpose": "Initial capital for airline launch",
+   "source_url": "https://economictimes.indiatimes.com/industry/transportation/airlines-/-aviation/rakesh-jhunjhunwalas-lofty-bet-on-akasa-has-grown-fourfold-what-lies-ahead/articleshow/112707365.cms",
+   "source_title": "Akasa Air: Rakesh Jhunjhunwala's lofty bet has grown fourfold",
+   "source_date": "2024-08-22",
+   "confidence": "MEDIUM"
+  },
+  {
+   "round_type": "growth-equity",
+   "announced_date": "2025-08-20",
+   "round_date": "2025-08-20",
+   "amount": 125,
+   "currency": "USD",
+   "valuation": "",
+   "valuation_currency": "",
+   "valuation_type": "",
+   "lead_investors": [
+    "Premji Invest",
+    "Claypond Capital",
+    "360 ONE Asset"
+   ],
+   "all_investors": [
+    "Premji Invest",
+    "Claypond Capital",
+    "360 ONE Asset",
+    "Jhunjhunwala family (additional)"
+   ],
+   "instrument": "equity",
+   "purpose": "Fleet expansion, international operations, customer experience",
+   "source_url": "https://www.akasaair.com/news-room/akasa-press-releases/akasa-air-announces-completion-of-strategic-investment-transaction-welcomes-new-investment-partners-to-the-akasian-family",
+   "source_title": "Akasa Air announces completion of strategic investment transaction",
+   "source_date": "2025-08-20",
+   "confidence": "HIGH"
+  },
+  {
+   "round_type": "planned",
+   "announced_date": "2023-09-27",
+   "round_date": "",
+   "amount": 400,
+   "currency": "USD",
+   "valuation": 1000,
+   "valuation_currency": "USD",
+   "valuation_type": "target",
+   "lead_investors": [],
+   "all_investors": [],
+   "instrument": "equity",
+   "purpose": "Capital expansion; multiple tranches planned",
+   "source_url": "https://www.ch-aviation.com/news/132302-indias-akasa-air-eyes-400mn-capital-expansion",
+   "source_title": "India's Akasa Air eyes $400mn capital expansion",
+   "source_date": "2023-09-27",
+   "confidence": "MEDIUM",
+   "notes": "Reported by Mint via ch-aviation; fundraising in multiple tranches with valuation up to $1B from ~$650M; Jhunjhunwala family unlikely to buy additional shares"
+  }
+ ],
+ "gaps": [
+  "CIN/incorporation date not verified via registry aggregator",
+  "FY25/FY26 absolute revenue figures not captured (only +37% growth)",
+  "Website URL not verified this run"
+ ],
+ "investor_links": [
+  {
+   "confidence": "HIGH",
+   "first_seen": "2021",
+   "investor": "Jhunjhunwala family",
+   "investor_type": "family office / anchor",
+   "lead": true,
+   "rounds": [
+    "seed",
+    "growth-equity"
+   ],
+   "source_url": "https://economictimes.indiatimes.com/industry/transportation/airlines-/-aviation/akasa-air-gets-funds-from-azim-premji-ranjan-pai-family-offices/articleshow/117985576.cms"
+  },
+  {
+   "confidence": "HIGH",
+   "first_seen": "2025-02-06",
+   "investor": "Premji Invest",
+   "investor_type": "family office VC",
+   "lead": true,
+   "rounds": [
+    "growth-equity"
+   ],
+   "source_url": "https://economictimes.indiatimes.com/industry/transportation/airlines-/-aviation/akasa-air-gets-funds-from-azim-premji-ranjan-pai-family-offices/articleshow/117985576.cms"
+  },
+  {
+   "confidence": "HIGH",
+   "first_seen": "2025-02-06",
+   "investor": "Claypond Capital (Ranjan Pai)",
+   "investor_type": "family office",
+   "lead": true,
+   "rounds": [
+    "growth-equity"
+   ],
+   "source_url": "https://economictimes.indiatimes.com/industry/transportation/airlines-/-aviation/akasa-air-gets-funds-from-azim-premji-ranjan-pai-family-offices/articleshow/117985576.cms"
+  },
+  {
+   "confidence": "MEDIUM",
+   "first_seen": "2025-02-06",
+   "investor": "360 ONE Asset",
+   "investor_type": "AMC",
+   "lead": false,
+   "rounds": [
+    "growth-equity"
+   ],
+   "source_url": "https://economictimes.indiatimes.com/industry/transportation/airlines-/-aviation/akasa-air-gets-funds-from-azim-premji-ranjan-pai-family-offices/articleshow/117985576.cms"
+  }
+ ],
+ "research_log": [
+  {
+   "found": "FY26 +37% revenue, IPO 2-4yr, co-founder exit, Mumbai funding context",
+   "query": "Akasa Air status funding 2025 2026",
+   "unresolved": "Founding round detail"
+  },
+  {
+   "found": "Founders (Dube/Ghosh/Jhunjhunwala), $35M vs $50M conflict, $135M Feb-2025 round, FY24 income/loss",
+   "query": "Akasa Air founders Vinay Dube funding $130 million valuation Jhunjhunwala",
+   "unresolved": "CIN"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Akasa Air CIN incorporation date registered office Bengaluru",
+   "status": "done",
+   "found": "CIN U63013MH2020PTC350653; incorporated 24 Nov 2020; registered office Mumbai (Lower Parel West); Bengaluru is operating base only",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Akasa Air founder Captain Vinay Dube Rakesh Jhunjhunwala DGCA",
+   "status": "done",
+   "found": "Vinay Dube is Founder & CEO (not a Captain); Rakesh Jhunjhunwala was co-founder/investor (not a Captain); no 'Captain' founder exists",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Akasa Air funding Blind Capital $400M 2025 2026",
+   "status": "done",
+   "found": "$400M target reported by Mint via ch-aviation (Sep 2023); $135M announced Feb 2025, $125M completed Aug 2025; no 'Blind Capital' found",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Akasa Air FY23 FY24 FY25 FY26 revenue loss MCA filing",
+   "status": "done",
+   "found": "FY23: Rs 777.84 cr income; FY24: Rs 3,144.38 cr income, Rs 1,670.06 cr loss; FY25: Rs 4,635.7 cr revenue, Rs 1,983 cr loss; FY26: Rs 4,636 cr revenue, Rs 2,716 cr loss",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Akasa Air aircraft count 2026 routes passengers flown",
+   "status": "done",
+   "found": "40 aircraft as of Jul 2026; 28 domestic + 7 international destinations; 28M+ passengers since launch; 226 Boeing firm order",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Akasa Air CIN incorporation date registered office Bengaluru",
+   "status": "done",
+   "found": "CIN U63013MH2020PTC350653; incorporated 24 Nov 2020; registered office Mumbai (Lower Parel West); Bengaluru is operating base only",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Akasa Air founder Captain Vinay Dube Rakesh Jhunjhunwala DGCA",
+   "status": "done",
+   "found": "Vinay Dube is Founder & CEO (not a Captain); Rakesh Jhunjhunwala was co-founder/investor (not a Captain); no 'Captain' founder exists",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Akasa Air funding Blind Capital $400M 2025 2026",
+   "status": "done",
+   "found": "$400M target reported by Mint via ch-aviation (Sep 2023); $135M announced Feb 2025, $125M completed Aug 2025; no 'Blind Capital' found",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Akasa Air FY23 FY24 FY25 FY26 revenue loss MCA filing",
+   "status": "done",
+   "found": "FY23: Rs 777.84 cr income; FY24: Rs 3,144.38 cr income, Rs 1,670.06 cr loss; FY25: Rs 4,635.7 cr revenue, Rs 1,983 cr loss; FY26: Rs 4,636 cr revenue, Rs 2,716 cr loss",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Akasa Air aircraft count 2026 routes passengers flown",
+   "status": "done",
+   "found": "40 aircraft as of Jul 2026; 28 domestic + 7 international destinations; 28M+ passengers since launch; 226 Boeing firm order",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Akasa Air CIN incorporation date registered office Bengaluru",
+   "status": "done",
+   "found": "CIN U63013MH2020PTC350653; incorporated 24 Nov 2020; registered office Mumbai (Lower Parel West); Bengaluru is operating base only",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Akasa Air founder Captain Vinay Dube Rakesh Jhunjhunwala DGCA",
+   "status": "done",
+   "found": "Vinay Dube is Founder & CEO (not a Captain); Rakesh Jhunjhunwala was co-founder/investor (not a Captain); no 'Captain' founder exists",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Akasa Air funding Blind Capital $400M 2025 2026",
+   "status": "done",
+   "found": "$400M target reported by Mint via ch-aviation (Sep 2023); $135M announced Feb 2025, $125M completed Aug 2025; no 'Blind Capital' found",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Akasa Air FY23 FY24 FY25 FY26 revenue loss MCA filing",
+   "status": "done",
+   "found": "FY23: Rs 777.84 cr income; FY24: Rs 3,144.38 cr income, Rs 1,670.06 cr loss; FY25: Rs 4,635.7 cr revenue, Rs 1,983 cr loss; FY26: Rs 4,636 cr revenue, Rs 2,716 cr loss",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Akasa Air aircraft count 2026 routes passengers flown",
+   "status": "done",
+   "found": "40 aircraft as of Jul 2026; 28 domestic + 7 international destinations; 28M+ passengers since launch; 226 Boeing firm order",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Akasa Air CIN incorporation date registered office Bengaluru",
+   "status": "done",
+   "found": "CIN U63013MH2020PTC350653; incorporated 24 Nov 2020; registered office Mumbai (Lower Parel West); Bengaluru is operating base only",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Akasa Air founder Captain Vinay Dube Rakesh Jhunjhunwala DGCA",
+   "status": "done",
+   "found": "Vinay Dube is Founder & CEO (not a Captain); Rakesh Jhunjhunwala was co-founder/investor (not a Captain); no 'Captain' founder exists",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Akasa Air funding Blind Capital $400M 2025 2026",
+   "status": "done",
+   "found": "$400M target reported by Mint via ch-aviation (Sep 2023); $135M announced Feb 2025, $125M completed Aug 2025; no 'Blind Capital' found",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Akasa Air FY23 FY24 FY25 FY26 revenue loss MCA filing",
+   "status": "done",
+   "found": "FY23: Rs 777.84 cr income; FY24: Rs 3,144.38 cr income, Rs 1,670.06 cr loss; FY25: Rs 4,635.7 cr revenue, Rs 1,983 cr loss; FY26: Rs 4,636 cr revenue, Rs 2,716 cr loss",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Akasa Air aircraft count 2026 routes passengers flown",
+   "status": "done",
+   "found": "40 aircraft as of Jul 2026; 28 domestic + 7 international destinations; 28M+ passengers since launch; 226 Boeing firm order",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Akasa Air CIN incorporation date registered office Bengaluru",
+   "status": "done",
+   "found": "CIN U63013MH2020PTC350653; incorporated 24 Nov 2020; registered office Mumbai (Lower Parel West); Bengaluru is operating base only",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Akasa Air founder Captain Vinay Dube Rakesh Jhunjhunwala DGCA",
+   "status": "done",
+   "found": "Vinay Dube is Founder & CEO (not a Captain); Rakesh Jhunjhunwala was co-founder/investor (not a Captain); no 'Captain' founder exists",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Akasa Air funding Blind Capital $400M 2025 2026",
+   "status": "done",
+   "found": "$400M target reported by Mint via ch-aviation (Sep 2023); $135M announced Feb 2025, $125M completed Aug 2025; no 'Blind Capital' found",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Akasa Air FY23 FY24 FY25 FY26 revenue loss MCA filing",
+   "status": "done",
+   "found": "FY23: Rs 777.84 cr income; FY24: Rs 3,144.38 cr income, Rs 1,670.06 cr loss; FY25: Rs 4,635.7 cr revenue, Rs 1,983 cr loss; FY26: Rs 4,636 cr revenue, Rs 2,716 cr loss",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Akasa Air aircraft count 2026 routes passengers flown",
+   "status": "done",
+   "found": "40 aircraft as of Jul 2026; 28 domestic + 7 international destinations; 28M+ passengers since launch; 226 Boeing firm order",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Akasa Air CIN incorporation date registered office Bengaluru",
+   "status": "done",
+   "found": "CIN U63013MH2020PTC350653; incorporated 24 Nov 2020; registered office Mumbai (Lower Parel West); Bengaluru is operating base only",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Akasa Air founder Captain Vinay Dube Rakesh Jhunjhunwala DGCA",
+   "status": "done",
+   "found": "Vinay Dube is Founder & CEO (not a Captain); Rakesh Jhunjhunwala was co-founder/investor (not a Captain); no 'Captain' founder exists",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Akasa Air funding Blind Capital $400M 2025 2026",
+   "status": "done",
+   "found": "$400M target reported by Mint via ch-aviation (Sep 2023); $135M announced Feb 2025, $125M completed Aug 2025; no 'Blind Capital' found",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Akasa Air FY23 FY24 FY25 FY26 revenue loss MCA filing",
+   "status": "done",
+   "found": "FY23: Rs 777.84 cr income; FY24: Rs 3,144.38 cr income, Rs 1,670.06 cr loss; FY25: Rs 4,635.7 cr revenue, Rs 1,983 cr loss; FY26: Rs 4,636 cr revenue, Rs 2,716 cr loss",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Akasa Air aircraft count 2026 routes passengers flown",
+   "status": "done",
+   "found": "40 aircraft as of Jul 2026; 28 domestic + 7 international destinations; 28M+ passengers since launch; 226 Boeing firm order",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Akasa Air CIN incorporation date registered office Bengaluru",
+   "status": "done",
+   "found": "CIN U63013MH2020PTC350653; incorporated 24 Nov 2020; registered office Mumbai (Lower Parel West); Bengaluru is operating base only",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Akasa Air founder Captain Vinay Dube Rakesh Jhunjhunwala DGCA",
+   "status": "done",
+   "found": "Vinay Dube is Founder & CEO (not a Captain); Rakesh Jhunjhunwala was co-founder/investor (not a Captain); no 'Captain' founder exists",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Akasa Air funding Blind Capital $400M 2025 2026",
+   "status": "done",
+   "found": "$400M target reported by Mint via ch-aviation (Sep 2023); $135M announced Feb 2025, $125M completed Aug 2025; no 'Blind Capital' found",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Akasa Air FY23 FY24 FY25 FY26 revenue loss MCA filing",
+   "status": "done",
+   "found": "FY23: Rs 777.84 cr income; FY24: Rs 3,144.38 cr income, Rs 1,670.06 cr loss; FY25: Rs 4,635.7 cr revenue, Rs 1,983 cr loss; FY26: Rs 4,636 cr revenue, Rs 2,716 cr loss",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Akasa Air aircraft count 2026 routes passengers flown",
+   "status": "done",
+   "found": "40 aircraft as of Jul 2026; 28 domestic + 7 international destinations; 28M+ passengers since launch; 226 Boeing firm order",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Akasa Air CIN incorporation date registered office Bengaluru",
+   "status": "done",
+   "found": "CIN U63013MH2020PTC350653; incorporated 24 Nov 2020; registered office Mumbai (Lower Parel West); Bengaluru is operating base only",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Akasa Air founder Captain Vinay Dube Rakesh Jhunjhunwala DGCA",
+   "status": "done",
+   "found": "Vinay Dube is Founder & CEO (not a Captain); Rakesh Jhunjhunwala was co-founder/investor (not a Captain); no 'Captain' founder exists",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Akasa Air funding Blind Capital $400M 2025 2026",
+   "status": "done",
+   "found": "$400M target reported by Mint via ch-aviation (Sep 2023); $135M announced Feb 2025, $125M completed Aug 2025; no 'Blind Capital' found",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Akasa Air FY23 FY24 FY25 FY26 revenue loss MCA filing",
+   "status": "done",
+   "found": "FY23: Rs 777.84 cr income; FY24: Rs 3,144.38 cr income, Rs 1,670.06 cr loss; FY25: Rs 4,635.7 cr revenue, Rs 1,983 cr loss; FY26: Rs 4,636 cr revenue, Rs 2,716 cr loss",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Akasa Air aircraft count 2026 routes passengers flown",
+   "status": "done",
+   "found": "40 aircraft as of Jul 2026; 28 domestic + 7 international destinations; 28M+ passengers since launch; 226 Boeing firm order",
+   "next_action": "None"
+  }
+ ],
+ "sources": [
+  {
+   "claim_supported": "~$135M round, investors, Jhunjhunwala family stake, FY24 income Rs 3,144cr / loss Rs 1,670cr",
+   "fields_supported": [
+    "funding_rounds",
+    "investor_links",
+    "financials"
+   ],
+   "publication_date": "2025-02-06",
+   "publisher": "Economic Times",
+   "retrieved_date": "2026-09-15",
+   "tier": "T3",
+   "title": "Premji Invest, Ranjan Pai invests in Akasa Air",
+   "url": "https://economictimes.indiatimes.com/industry/transportation/airlines-/-aviation/akasa-air-gets-funds-from-azim-premji-ranjan-pai-family-offices/articleshow/117985576.cms"
+  },
+  {
+   "claim_supported": "$350M valuation proposal, founder/investor history",
+   "fields_supported": [
+    "funding_rounds",
+    "founders"
+   ],
+   "publication_date": "2024-08-22",
+   "publisher": "Economic Times",
+   "retrieved_date": "2026-09-15",
+   "tier": "T3",
+   "title": "Akasa Air: Rakesh Jhunjhunwala's lofty bet has grown fourfold",
+   "url": "https://economictimes.indiatimes.com/industry/transportation/airlines-/-aviation/rakesh-jhunjhunwalas-lofty-bet-on-akasa-has-grown-fourfold-what-lies-ahead/articleshow/112707365.cms"
+  },
+  {
+   "claim_supported": "FY26 +37% revenue growth",
+   "fields_supported": [
+    "events"
+   ],
+   "publication_date": "2026-06-25",
+   "publisher": "Safari India",
+   "retrieved_date": "2026-09-15",
+   "tier": "T3",
+   "title": "Akasa Air Reports 37% Revenue Growth in FY2025-26",
+   "url": "https://safariindia.com/akasa-air-reports-37-revenue-growth-in-fy2025-26/"
+  },
+  {
+   "url": "https://www.tofler.in/snv-aviation-private-limited/company/U63013MH2020PTC350653",
+   "publisher": "Tofler",
+   "tier": "T2",
+   "publication_date": "2025-09-24",
+   "retrieved_date": "2026-09-15",
+   "confidence": "HIGH",
+   "fields_supported": [
+    "legal_name",
+    "cin",
+    "incorporation_date",
+    "registered_office",
+    "hq_type"
+   ]
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Akasa_Air",
+   "publisher": "Wikipedia",
+   "tier": "T3",
+   "publication_date": "2026-09-06",
+   "retrieved_date": "2026-09-15",
+   "confidence": "HIGH",
+   "fields_supported": [
+    "founders",
+    "fleet",
+    "destinations",
+    "events",
+    "legal"
+   ]
+  },
+  {
+   "url": "https://www.akasaair.com/news-room/akasa-press-releases/akasa-air-closes-fy25-26-with-37-aircraft-marks-over-35-yoy-fleet-growth",
+   "publisher": "Akasa Air (company PR)",
+   "tier": "T1",
+   "publication_date": "2026-03-30",
+   "retrieved_date": "2026-09-15",
+   "confidence": "HIGH",
+   "fields_supported": [
+    "traction",
+    "fleet_size",
+    "boeing_firm_order",
+    "passengers_flown_cumulative"
+   ]
+  },
+  {
+   "url": "https://www.cnbctv18.com/business/aviation/akasa-air-takes-delivery-of-40th-aircraft-expands-boeing-737-max-fleet-19938620.htm",
+   "publisher": "CNBC TV18",
+   "tier": "T3",
+   "publication_date": "2026-07-04",
+   "retrieved_date": "2026-09-15",
+   "confidence": "HIGH",
+   "fields_supported": [
+    "traction",
+    "fleet_size",
+    "destinations"
+   ]
+  },
+  {
+   "url": "https://www.akasaair.com/leadership-team",
+   "publisher": "Akasa Air (company PR)",
+   "tier": "T1",
+   "publication_date": "2026-09-15",
+   "retrieved_date": "2026-09-15",
+   "confidence": "HIGH",
+   "fields_supported": [
+    "people",
+    "founders"
+   ]
+  },
+  {
+   "url": "https://www.ch-aviation.com/news/132302-indias-akasa-air-eyes-400mn-capital-expansion",
+   "publisher": "ch-aviation",
+   "tier": "T3",
+   "publication_date": "2023-09-27",
+   "retrieved_date": "2026-09-15",
+   "confidence": "MEDIUM",
+   "fields_supported": [
+    "funding_rounds",
+    "shareholding"
+   ]
+  },
+  {
+   "url": "https://www.akasaair.com/news-room/akasa-press-releases/akasa-air-reports-37-revenue-growth-in-fy2025-26-strengthens-foundation-for-long-term-growth",
+   "publisher": "Akasa Air (company PR)",
+   "tier": "T1",
+   "publication_date": "2026-06-23",
+   "retrieved_date": "2026-09-15",
+   "confidence": "HIGH",
+   "fields_supported": [
+    "financials",
+    "traction"
+   ]
+  },
+  {
+   "url": "https://www.thehindubusinessline.com/economy/logistics/akasa-air-launches-loyalty-programme/article71316391.ece",
+   "publisher": "The Hindu BusinessLine",
+   "tier": "T3",
+   "publication_date": "2026-08-08",
+   "retrieved_date": "2026-09-15",
+   "confidence": "HIGH",
+   "fields_supported": [
+    "products",
+    "traction"
+   ]
+  }
+ ],
+ "startup_id": "akasa air",
+ "_merged_session2": true,
+ "traction": [
+  {
+   "metric": "fleet_size",
+   "value": 40,
+   "unit": "aircraft",
+   "period": "As-of-2026-07",
+   "as_of": "2026-07-04",
+   "company_reported": true,
+   "source_url": "https://www.akasaair.com/news-room/akasa-press-releases/akasa-air-receives-9th-boeing-737-max-delivery-of-2026-fleet-grows-to-40-aircraft",
+   "confidence": "HIGH",
+   "notes": "40 Boeing 737 MAX aircraft; 9 inducted in CY2026 alone"
+  },
+  {
+   "metric": "passengers_flown_cumulative",
+   "value": 28,
+   "unit": "million",
+   "period": "Since-launch-Aug-2022",
+   "as_of": "2026-09-15",
+   "company_reported": true,
+   "source_url": "https://www.akasaair.com/about-us",
+   "confidence": "HIGH",
+   "notes": "Over 28 million passengers since launch; ~29M per Aug 2026 CNBC-TV18"
+  },
+  {
+   "metric": "domestic_destinations",
+   "value": 28,
+   "unit": "cities",
+   "period": "As-of-2026-07",
+   "as_of": "2026-07-04",
+   "company_reported": true,
+   "source_url": "https://www.cnbctv18.com/business/aviation/akasa-air-takes-delivery-of-40th-aircraft-expands-boeing-737-max-fleet-19938620.htm",
+   "confidence": "HIGH",
+   "notes": "28 domestic destinations"
+  },
+  {
+   "metric": "international_destinations",
+   "value": 7,
+   "unit": "cities",
+   "period": "As-of-2026-07",
+   "as_of": "2026-07-04",
+   "company_reported": true,
+   "source_url": "https://www.cnbctv18.com/business/aviation/akasa-air-takes-delivery-of-40th-aircraft-expands-boeing-737-max-fleet-19938620.htm",
+   "confidence": "HIGH",
+   "notes": "7 international: Doha, Jeddah, Riyadh, Abu Dhabi, Kuwait, Phuket, Hanoi"
+  },
+  {
+   "metric": "boeing_firm_order",
+   "value": 226,
+   "unit": "aircraft",
+   "period": "Order-book",
+   "as_of": "2026-09-15",
+   "company_reported": true,
+   "source_url": "https://www.akasaair.com/news-room/akasa-press-releases/akasa-air-closes-fy25-26-with-37-aircraft-marks-over-35-yoy-fleet-growth",
+   "confidence": "HIGH",
+   "notes": "226 Boeing 737 MAX firm order; 186-189 remaining for delivery over next 6 years"
+  },
+  {
+   "metric": "weekly_departures",
+   "value": 1000,
+   "unit": "flights",
+   "period": "FY25",
+   "as_of": "2025-08",
+   "company_reported": true,
+   "source_url": "https://economictimes.indiatimes.com/industry/transportation/airlines-/-aviation/rakesh-jhunjhunwalas-lofty-bet-on-akasa-has-grown-fourfold-what-lies-ahead/articleshow/112707365.cms",
+   "confidence": "MEDIUM",
+   "notes": "1000+ weekly departures targeted by festive season 2025"
+  },
+  {
+   "metric": "market_share",
+   "value": 5.1,
+   "unit": "percent",
+   "period": "2026-Q2",
+   "as_of": "2026-04",
+   "company_reported": false,
+   "source_url": "https://www.happyfares.in/blog/akasa-air-fare-types-addons-guide-2026",
+   "confidence": "LOW",
+   "notes": "Domestic market share ~5.1% per HappyFares; growing ~0.4pp quarterly"
+  }
+ ],
+ "products": [
+  {
+   "name": "Saver fare",
+   "category": "ticket-class",
+   "description": "Basic economy fare: 15kg checked baggage, paid seat selection, buy-on-board meals",
+   "pricing_model": "ancillary",
+   "launch_date": "2022-08-07",
+   "status": "active",
+   "source_url": "https://www.happyfares.in/blog/akasa-air-fare-types-addons-guide-2026",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Flexi fare",
+   "category": "ticket-class",
+   "description": "Enhanced economy: 20kg checked, free seat, complimentary meal, lower change/cancel fees",
+   "pricing_model": "ancillary",
+   "launch_date": "2022-08-07",
+   "status": "active",
+   "source_url": "https://www.happyfares.in/blog/akasa-air-fare-types-addons-guide-2026",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Café Akasa",
+   "category": "in-flight-dining",
+   "description": "Onboard meal service with 45+ gourmet options priced ₹150-750; Seat & Meal Deal combo ₹850 domestic",
+   "pricing_model": "buy-on-board",
+   "launch_date": "2022-08-07",
+   "status": "active",
+   "source_url": "https://www.akasaair.com/add-ons/food-beverage",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Akasa Elevate",
+   "category": "loyalty-programme",
+   "description": "Loyalty programme launched Aug 7, 2026 (4th anniversary); four membership tiers; earn Elevate Points on flights and ancillaries; retro claim for travel since Apr 1, 2026",
+   "pricing_model": "free",
+   "launch_date": "2026-08-07",
+   "status": "active",
+   "source_url": "https://www.business-standard.com/industry/aviation/akasa-air-launches-loyalty-programme-akasa-elevate-as-airline-turns-4-126080700461_1.html",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Pets on Akasa",
+   "category": "pet-travel",
+   "description": "Pet-friendly cabin policy; weight limit extended to 10kg from 7kg; 4800+ pets flown since Nov 2022 launch",
+   "pricing_model": "fee-based",
+   "launch_date": "2022-11",
+   "status": "active",
+   "source_url": "https://www.akasaair.com/news-room/akasa-press-releases/akasa-air-redefines-travel-experience-with-industry-first-offerings",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Akasa GetEarly",
+   "category": "ancillary",
+   "description": "Priority check-in and early boarding ancillary product",
+   "pricing_model": "fee-based",
+   "launch_date": "",
+   "status": "active",
+   "source_url": "https://www.akasaair.com/news-room/akasa-press-releases/akasa-air-redefines-travel-experience-with-industry-first-offerings",
+   "confidence": "MEDIUM"
+  },
+  {
+   "name": "Akasa Holidays",
+   "category": "travel-package",
+   "description": "Holiday packages bundling air travel with hotel stays, transfers, activities, 24/7 on-tour assistance",
+   "pricing_model": "bundled",
+   "launch_date": "",
+   "status": "active",
+   "source_url": "https://www.akasaair.com/news-room/akasa-press-releases/akasa-air-redefines-travel-experience-with-industry-first-offerings",
+   "confidence": "MEDIUM"
+  }
+ ],
+ "people": [
+  {
+   "name": "Vinay Dube",
+   "role": "Founder & CEO",
+   "title": "Managing Director & CEO",
+   "current": true,
+   "since": "2020",
+   "prior_role": "Former CEO of Jet Airways and GoAir; ex-Delta/American Airlines ops research",
+   "source_url": "https://www.akasaair.com/leadership-team",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Rakesh Jhunjhunwala",
+   "role": "Co-founder / anchor investor",
+   "title": "Co-founder (deceased)",
+   "current": false,
+   "since": "2021",
+   "prior_role": "Ace investor (d. Aug 2022); family holds ~46% via wife's name",
+   "source_url": "https://www.akasaair.com/news-room/company-statements/company-statement",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Aditya Ghosh",
+   "role": "Co-founder (board)",
+   "title": "Board member",
+   "current": true,
+   "since": "2021",
+   "prior_role": "Former President of IndiGo; <10% stake",
+   "source_url": "https://www.akasaair.com/leadership-team",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Belson Coutinho",
+   "role": "Chief Operating Officer",
+   "title": "COO",
+   "current": true,
+   "since": "2025-01-06",
+   "prior_role": "Chief Marketing & Experience Officer since inception (2022)",
+   "source_url": "https://www.business-standard.com/companies/news/akasa-air-belson-coutinho-appointed-coo-125010700535_1.html",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Anand Srinivasan",
+   "role": "Chief Commercial Officer",
+   "title": "Co-Founder & CCO",
+   "current": true,
+   "since": "2026-02-11",
+   "prior_role": "Co-Founder & Chief Information Officer; took over CCO role from Praveen Iyer",
+   "source_url": "https://www.cnbctv18.com/business/aviation/akasa-air-co-founder-cco-praveen-iyer-exit-anand-srinivasan-commercial-operations-19847607.htm",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Praveen Iyer",
+   "role": "Ex-Co-Founder & CCO",
+   "title": "Former Co-Founder & CCO",
+   "current": false,
+   "since": "2021",
+   "prior_role": "Left airline end-April 2026",
+   "source_url": "https://www.cnbctv18.com/business/aviation/akasa-air-co-founder-cco-praveen-iyer-exit-anand-srinivasan-commercial-operations-19847607.htm",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Neelu Khatri",
+   "role": "Ex-SVP International Operations",
+   "title": "Former SVP International Operations",
+   "current": false,
+   "since": "2021",
+   "prior_role": "Stepped down Oct 2025",
+   "source_url": "https://www.peoplematters.in/news/leadership/akasa-air-co-founder-praveen-iyer-to-exit-in-april-anand-srinivasan-to-take-over-as-cco-48380",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Ankur Goel",
+   "role": "Chief Financial Officer",
+   "title": "CFO",
+   "current": true,
+   "since": "",
+   "prior_role": "CFO; IT function reports to him after Anand Srinivasan became CCO",
+   "source_url": "https://www.akasaair.com/news-room/akasa-press-releases/akasa-air-closes-fy25-26-with-37-aircraft-marks-over-35-yoy-fleet-growth",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Bhavin Joshi",
+   "role": "SVP Strategy",
+   "title": "SVP Strategy",
+   "current": true,
+   "since": "2022",
+   "prior_role": "Former Jet Airways Strategy & Projects; CFO of travel protection company",
+   "source_url": "https://www.akasaair.com/leadership-team",
+   "confidence": "MEDIUM"
+  },
+  {
+   "name": "Sejal",
+   "role": "Chief Human Resources Officer",
+   "title": "CHRO",
+   "current": true,
+   "since": "",
+   "prior_role": "Dual qualified lawyer (India & England & Wales)",
+   "source_url": "https://www.akasaair.com/leadership-team",
+   "confidence": "MEDIUM"
+  },
+  {
+   "name": "Naarayan T V",
+   "role": "Chief Marketing Officer",
+   "title": "CMO",
+   "current": true,
+   "since": "",
+   "prior_role": "Oversees marketing, corporate communications, ESG, customer experience, eCommerce, loyalty, partnerships",
+   "source_url": "https://www.akasaair.com/leadership-team",
+   "confidence": "MEDIUM"
+  }
+ ],
+ "legal": [
+  {
+   "type": "regulatory",
+   "entity": "DGCA",
+   "date": "2024-10-27",
+   "status": "notice",
+   "description": "DGCA flagged 'repetitive, persistent' procedural lapses in surveillance audit (Apr-Sep 2024); CVR checks marked closed without analyst comments; internal audit findings not closed on time; fatigue training incomplete; EDTO non-compliance; Level II safety violations",
+   "source_url": "https://www.business-standard.com/industry/aviation/dgca-flags-repetitive-persistent-procedural-lapses-in-akasa-air-s-audit-125102700941_1.html",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "penalty",
+   "entity": "DGCA",
+   "date": "2024-10",
+   "status": "confirmed-violation",
+   "description": "₹30 lakh fine for conducting practical training without required approvals, exceeding permissible training hours, appointing unqualified examiners for low-visibility flight operations",
+   "source_url": "https://www.thehindu.com/news/national/dgca-removes-akasa-air-pilot-from-training-duties-after-lapses/article69069410.ece",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "penalty",
+   "entity": "DGCA",
+   "date": "2024-12-24",
+   "status": "confirmed-violation",
+   "description": "₹10 lakh fine for denying boarding to 7 passengers on Bengaluru-Pune flight (Sep 6) and failing to provide mandatory compensation",
+   "source_url": "https://www.ndtvprofit.com/business/akasa-air-gets-dgca-warning-over-lapses-in-dangerous-goods-handling-9949208",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "penalty",
+   "entity": "DGCA",
+   "date": "2024-12-27",
+   "status": "confirmed-violation",
+   "description": "Suspension of Director of Training Niraj Bhatia and Director of Flight Operations Floyd Gracious for 6 months for RNP training on unqualified simulators",
+   "source_url": "https://www.business-standard.com/companies/news/dgca-suspends-two-senior-akasa-air-executives-for-training-lapses-124122701080_1.html",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "warning",
+   "entity": "DGCA",
+   "date": "2025-01-09",
+   "status": "notice",
+   "description": "Warning letter for violating Aircraft (Carriage of Dangerous Goods) Rules 2003; lithium batteries accepted without proper checks; shipments exceeding weight limits; missing shipper details",
+   "source_url": "https://www.ndtvprofit.com/business/akasa-air-gets-dgca-warning-over-lapses-in-dangerous-goods-handling-9949208",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "penalty",
+   "entity": "DGCA",
+   "date": "2025-01-06",
+   "status": "confirmed-violation",
+   "description": "Withdrawal of Line Training Captain (LTC) status for Captain Kuljeet Yadav; pilot relieved from training duties after unstable landing in Bengaluru (Mar 2024); airline failed to provide mandatory corrective training",
+   "source_url": "https://www.thehindu.com/news/national/dgca-removes-akasa-air-pilot-from-training-duties-after-lapses/article69069410.ece",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "ruling",
+   "entity": "Delhi Court",
+   "date": "2026-02",
+   "status": "ruling",
+   "description": "Delhi court ordered Akasa Air to pay ₹10.8 million (US$110,000) to a travel agency for cancellation of 640 seats booked during Dec 2023-Jan 2024",
+   "source_url": "https://en.wikipedia.org/wiki/Akasa_Air",
+   "confidence": "MEDIUM"
+  },
+  {
+   "type": "investigation",
+   "entity": "DGCA",
+   "date": "2024-12",
+   "status": "notice",
+   "description": "Two show-cause notices: (1) failure to ensure Director of Flight Operations revised operations manual within mandatory 6-month period; (2) poor aircraft maintenance standards and lapses at Bengaluru airport spot check",
+   "source_url": "https://www.ndtvprofit.com/business/akasa-air-gets-dgca-warning-over-lapses-in-dangerous-goods-handling-9949208",
+   "confidence": "HIGH"
+  }
+ ],
+ "locations": [
+  {
+   "type": "hq",
+   "address_or_area": "12th Floor, Urmi Estate 95, Ganpatrao Kadam Marg, Lower Parel (West)",
+   "city": "Mumbai",
+   "state": "Maharashtra",
+   "country": "India",
+   "as_of": "2026-09-15",
+   "source_url": "https://www.tofler.in/snv-aviation-private-limited/company/U63013MH2020PTC350653",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "registered_office",
+   "address_or_area": "12th Floor, Urmi Estate 95, Ganpatrao Kadam Marg, Lower Parel (West)",
+   "city": "Mumbai",
+   "state": "Maharashtra",
+   "country": "India",
+   "as_of": "2026-09-15",
+   "source_url": "https://www.tofler.in/snv-aviation-private-limited/company/U63013MH2020PTC350653",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "ops",
+   "address_or_area": "Kempegowda International Airport",
+   "city": "Bengaluru",
+   "state": "Karnataka",
+   "country": "India",
+   "as_of": "2026-09-15",
+   "source_url": "https://en.wikipedia.org/wiki/Akasa_Air",
+   "confidence": "HIGH",
+   "note": "Operating base; 37th/38th/40th aircraft delivered to Bengaluru"
+  },
+  {
+   "type": "ops",
+   "address_or_area": "Chhatrapati Shivaji Maharaj International Airport",
+   "city": "Mumbai",
+   "state": "Maharashtra",
+   "country": "India",
+   "as_of": "2026-09-15",
+   "source_url": "https://en.wikipedia.org/wiki/Akasa_Air",
+   "confidence": "HIGH",
+   "note": "Operating base"
+  },
+  {
+   "type": "ops",
+   "address_or_area": "Indira Gandhi International Airport",
+   "city": "Delhi",
+   "state": "Delhi",
+   "country": "India",
+   "as_of": "2025-10-17",
+   "source_url": "https://www.business-standard.com/about/what-is-akasa-air",
+   "confidence": "HIGH",
+   "note": "3rd operational base from Oct 2025"
+  }
+ ],
+ "customers": [
+  {
+   "name": "MakeMyTrip",
+   "type": "OTA",
+   "announced_date": "",
+   "status": "active",
+   "source_url": "https://www.makemytrip.com/flights/akasa_air-airlines.html",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Cleartrip (Flipkart)",
+   "type": "OTA",
+   "announced_date": "2023-03-09",
+   "status": "active",
+   "source_url": "https://www.cleartrip.com/press/releases/2023",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "1150+ corporate partners",
+   "type": "enterprise",
+   "announced_date": "2025-08",
+   "status": "active",
+   "source_url": "https://www.akasaair.com/news-room/akasa-press-releases/three-years-19-million-passengers-akasa-air-celebrates-record-growth",
+   "confidence": "MEDIUM"
+  }
+ ]
+}

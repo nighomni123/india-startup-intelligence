@@ -1,0 +1,2261 @@
+{
+ "acquisitions": [
+  {
+   "buyer": "OfBusiness",
+   "confidence": "MEDIUM",
+   "date": "2025",
+   "direction": "made",
+   "disclosed": false,
+   "rationale": "Apparel manufacturing presence ahead of IPO",
+   "source_url": "https://www.moneycontrol.com/news/business/startup/ofbusiness-completes-100-buyout-of-indian-design-consolidates-apparel-vertical-ahead-of-ipo-next-fiscal-13713812.html",
+   "target": "Indian Designs (Bengaluru apparel exporter; remaining 30% stake acquired Dec 2025 for full ownership)",
+   "value": "$80-100 million (reported)",
+   "type": "full ownership acquisition",
+   "counterparty": "Indian Design"
+  }
+ ],
+ "company": {
+  "business_model": "B2B commerce + embedded NBFC lending (Oxyzo) + SaaS tools",
+  "city": "Gurugram",
+  "company_name": "OfBusiness",
+  "confidence": "HIGH",
+  "country": "India",
+  "customer_type": "B2B (SMEs)",
+  "founded_date": "2015",
+  "hq_type": "HQ",
+  "last_funding_date": "2025-04-16",
+  "last_funding_round": "Series G extension ($11.7M, Cornerstone Ventures)",
+  "last_known_valuation": "$5B (Dec 2021 Series G; IPO target $5-9B reported Aug 2026)",
+  "legal_name": "OFB Tech Pvt Ltd (converted to OFB Tech Ltd, public limited, per IPO reports)",
+  "notes": "Seeds verified: Gurugram, B2B supply-chain, unicorn status correct. Founders per Tracxn: Bhuvan Kumar Gupta, Asish Mohapatra, Nitin Jain, Biswajit Mishra, Chandranshu Sinha, Jaivee Joseph; CEO Asish Mohapatra.",
+  "primary_sector": "B2B supply-chain commerce / fintech",
+  "public_private": "private (IPO-bound)",
+  "secondary_sectors": [
+   "fintech (Oxyzo NBFC)",
+   "SaaS (BidAssist, Nexizo)"
+  ],
+  "startup_id": "ofbusiness",
+  "startup_stage": "Unicorn (Series G+)",
+  "state": "Haryana",
+  "status": "operating",
+  "total_funding_disclosed": "$867-878M disclosed (CB Insights $867.25M; VFS ~$878M)",
+  "website": "https://www.ofbusiness.com",
+  "cin": "U74140GJ2015PLC154393",
+  "incorporation_date": "2015-08-24",
+  "official_website": {
+   "v": "https://www.ofbusiness.com",
+   "conf": "high",
+   "src": "https://www.ofbusiness.com",
+   "note": "verified live 2026-09-15: name match on own homepage"
+  },
+  "careers_website": {
+   "v": "https://www.ofbcareers.com/",
+   "conf": "high",
+   "src": "https://www.ofbusiness.com",
+   "note": "careers link found on official homepage, probed live"
+  },
+  "description": {
+   "v": "India's leading B2B commerce and fintech platform aggregating raw material procurement (steel, chemicals, agri, apparel) for SMEs, paired with collateral-free working capital financing through NBFC arm Oxyzo",
+   "conf": "HIGH",
+   "src": "https://www.ofbusiness.com/about"
+  },
+  "employee_estimate": {
+   "v": 30000,
+   "conf": "MEDIUM",
+   "src": "https://linkedin.com/company/ofbusiness",
+   "note": "LinkedIn states 30,000+ as of 2026; Tracxn reports 1,385 (likely core); BuiltIn says 1,400; discrepancy likely includes contract/logistics workers",
+   "asof": "2026"
+  },
+  "registered_office": {
+   "v": "B-1102, Sankalp Iconic Tower, Opp. Vikramnagar Colony, Iscon Cross Road, S.G. Highway, Ahmedabad - 380054, Gujarat",
+   "conf": "HIGH",
+   "src": "https://www.ofbusiness.com/about"
+  }
+ },
+ "competitors": [
+  {
+   "basis": "explicit",
+   "category": "B2B commerce",
+   "confidence": "MEDIUM",
+   "name": "Infra.Market",
+   "source_url": "https://valueforstartups.in/ofbusiness_investor_report"
+  },
+  {
+   "basis": "explicit",
+   "category": "B2B commerce",
+   "confidence": "MEDIUM",
+   "name": "Zetwerk",
+   "source_url": "https://valueforstartups.in/ofbusiness_investor_report"
+  },
+  {
+   "basis": "explicit",
+   "category": "B2B commerce",
+   "confidence": "MEDIUM",
+   "name": "Moglix",
+   "source_url": "https://valueforstartups.in/ofbusiness_investor_report"
+  }
+ ],
+ "completeness_self": {
+  "customers": 3,
+  "financials": 8,
+  "founders": 6,
+  "funding": 8,
+  "identity": 8,
+  "investors": 8,
+  "legal": 2,
+  "people": 3,
+  "products": 6,
+  "sources": 7,
+  "traction": 7
+ },
+ "conflicts": [
+  {
+   "claim_a": "Total raised $776M (Tracxn)",
+   "claim_b": "$867.25M (CB Insights) / ~$878M (VFS)",
+   "field": "total_funding",
+   "resolution": "Unresolved; aggregator coverage differs. Use $867-878M range with sources.",
+   "resolved_value": null,
+   "url_a": "https://tracxn.com/d/companies/ofbusiness/__aGc6oWtIgdt0twhERclS3Tonc_PwAwpfQ4cNci53GvA",
+   "url_b": "https://www.cbinsights.com/company/ofbusiness"
+  },
+  {
+   "claim_a": "FY25 consolidated revenue Rs 22,241 cr (VFS report)",
+   "claim_b": "FY26 consolidated revenue Rs 20,645 cr (Business Standard, company-reported)",
+   "field": "revenue",
+   "resolution": "Prefer company-reported FY26 figure via Business Standard (T3 quoting company); VFS is weak-tier aggregator. Likely scope/methodology difference.",
+   "resolved_value": null,
+   "url_a": "https://valueforstartups.in/ofbusiness_investor_report",
+   "url_b": "https://www.business-standard.com/markets/ipo/ofbusiness-reports-net-profit-of-724-crore-in-fy26-ahead-of-planned-ipo-126072901022_1.html"
+  },
+  {
+   "field": "legal_name",
+   "claim_a": "OFB Tech Pvt Ltd (converted to OFB Tech Ltd, public limited, per IPO reports)",
+   "url_a": "",
+   "claim_b": "OFB Tech Limited (formerly OFB Tech Pvt Ltd)",
+   "url_b": "",
+   "resolution": "phase3 p3 payload disagrees with existing value; existing kept as preferred pending human review",
+   "resolved_value": "",
+   "reviewed": "p3-merge"
+  },
+  {
+   "field": "status",
+   "claim_a": "operating",
+   "url_a": "",
+   "claim_b": "operating (IPO-bound)",
+   "url_b": "",
+   "resolution": "phase3 p3 payload disagrees with existing value; existing kept as preferred pending human review",
+   "resolved_value": "",
+   "reviewed": "p3-merge"
+  },
+  {
+   "field": "business_model",
+   "claim_a": "B2B commerce + embedded NBFC lending (Oxyzo) + SaaS tools",
+   "url_a": "",
+   "claim_b": "B2B raw material procurement marketplace + embedded NBFC lending (Oxyzo) + SaaS (BidAssist, Nexizo)",
+   "url_b": "",
+   "resolution": "phase3 p3 payload disagrees with existing value; existing kept as preferred pending human review",
+   "resolved_value": "",
+   "reviewed": "p3-merge"
+  },
+  {
+   "field": "total_funding",
+   "claim_a": "$776M over 15 rounds (Tracxn)",
+   "url_a": "https://tracxn.com/d/companies/ofbusiness/__aGc6oWtIgdt0twhERclS3Tonc_PwAwpfQ4cNci53GvA",
+   "claim_b": "$867.25M (CB Insights) / ~$878M (VFS) / $890.13M (Inc42)",
+   "url_b": "https://www.cbinsights.com/company/ofbusiness/financials",
+   "resolution": "Aggregator coverage differs. Use $878-890M range with sources. Tracxn counts differently."
+  },
+  {
+   "field": "revenue_FY25",
+   "claim_a": "Rs 22,241 cr (VFS Investor Report)",
+   "url_a": "https://valueforstartups.in/ofbusiness_investor_report",
+   "claim_b": "Rs 20,645 cr (Business Standard, FY26 company-reported)",
+   "url_b": "https://www.business-standard.com/markets/ipo/ofbusiness-reports-net-profit-of-724-crore-in-fy26-ahead-of-planned-ipo-126072901022_1.html",
+   "resolution": "Different fiscal years. FY25 = Rs 22,241 cr (VFS); FY26 = Rs 20,645 cr (BS). Not a conflict."
+  }
+ ],
+ "customers": [
+  {
+   "name": "L&T",
+   "type": "Enterprise customer (steel supply)",
+   "announced_date": null,
+   "status": "active",
+   "source_url": "https://www.tribuneindia.com/news/business/ofbusiness-connectivity-reaches-26-states-7-uts-in-india-delivering-170000-consignments-to-smes-in-2024/",
+   "confidence": "MEDIUM"
+  },
+  {
+   "name": "Adani",
+   "type": "Enterprise customer (steel supply)",
+   "announced_date": null,
+   "status": "active",
+   "source_url": "https://www.tribuneindia.com/news/business/ofbusiness-connectivity-reaches-26-states-7-uts-in-india-delivering-170000-consignments-to-smes-in-2024/",
+   "confidence": "MEDIUM"
+  },
+  {
+   "name": "50,000+ SMEs",
+   "type": "Active SME customers",
+   "announced_date": "2026-04-01",
+   "status": "active",
+   "source_url": "https://valueforstartups.in/ofbusiness_investor_report",
+   "confidence": "MEDIUM"
+  },
+  {
+   "name": "100,000+ SMEs (Oxyzo)",
+   "type": "SME lending customers",
+   "announced_date": "2026-06-30",
+   "status": "active",
+   "source_url": "https://www.oxyzo.in/",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "1,500,000+ businesses (BidAssist)",
+   "type": "Tender discovery users",
+   "announced_date": "2026-06-30",
+   "status": "active",
+   "source_url": "https://www.ofbusiness.com/about",
+   "confidence": "MEDIUM"
+  }
+ ],
+ "events": [
+  {
+   "announced_date": "2026-08-05",
+   "confidence": "MEDIUM",
+   "date": "2026-08-05",
+   "description": "Revived IPO plans; up to $800M issue ($200M fresh + remainder OFS); bankers Axis, Morgan Stanley, JPMorgan, Citi; DRHP filing targeted November.",
+   "headline": "OfBusiness revives IPO plans, eyes up to $800M issue",
+   "source_url": "https://economictimes.indiatimes.com/markets/ipos/fpos/softbank-backed-ofbusiness-revives-ipo-plans-eyes-up-to-800-million-issue/articleshow/132895136.cms",
+   "type": "ipo_plan"
+  },
+  {
+   "announced_date": "2026-07-29",
+   "confidence": "HIGH",
+   "date": "FY26",
+   "description": "Consolidated revenue Rs 20,645 cr; PAT Rs 724 cr (up 21% from Rs 597 cr FY25); Oxyzo AUM crossed Rs 10,000 cr; net worth Rs 10,300 cr.",
+   "headline": "OfBusiness reports Rs 724 cr net profit in FY26",
+   "source_url": "https://www.business-standard.com/markets/ipo/ofbusiness-reports-net-profit-of-724-crore-in-fy26-ahead-of-planned-ipo-126072901022_1.html",
+   "type": "financial_result"
+  },
+  {
+   "type": "funding",
+   "headline": "OfBusiness raises $325M Series G at $5B valuation",
+   "date": "2021-12-20",
+   "description": "Series G led by Alpha Wave Global, Tiger Global, SoftBank Vision Fund II at $5B post-money valuation",
+   "source_url": "https://valueforstartups.in/ofbusiness_investor_report",
+   "confidence": "MEDIUM"
+  },
+  {
+   "type": "funding",
+   "headline": "Oxyzo raises $200M Series A at $1B valuation",
+   "date": "2022-03-24",
+   "description": "Oxyzo spun off as standalone unicorn; OfBusiness retains ~75% ownership",
+   "source_url": "https://globalventuring.com/corporate/ofbusiness-spins-off-oxyzo-with-200m",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "acquisition",
+   "headline": "OfBusiness acquires Indian Designs (remaining 30%)",
+   "date": "2025-12",
+   "description": "Full ownership of Bengaluru apparel exporter ahead of IPO",
+   "source_url": "https://www.moneycontrol.com/news/business/startup/ofbusiness-completes-100-buyout-of-indian-design-consolidates-apparel-vertical-ahead-of-ipo-next-fiscal-13713812.html",
+   "confidence": "MEDIUM"
+  },
+  {
+   "type": "funding",
+   "headline": "OfBusiness raises Rs 100 crore from Cornerstone Ventures",
+   "date": "2025-04-16",
+   "description": "Series G extension; latest known equity round",
+   "source_url": "https://economictimes.indiatimes.com/tech/funding/b2b-ecommerce-startup-ofbusiness-raises-rs-100-crore-from-cornerstone-ventures/articleshow/120380377.cms",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "debt",
+   "headline": "Oxyzo raises Rs 100 crore debt from AK Capital Finance",
+   "date": "2025-02-24",
+   "description": "100,000 NCDs at Rs 10,000 each; 9.75% interest; 24-month tenure",
+   "source_url": "https://theheadandtale.com/news/ofbusiness--lending-arm-oxyzo-secures-rs-100-crore-in-debt",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "debt",
+   "headline": "Oxyzo raises Rs 533 crore debt from Neo Group",
+   "date": "2025-05-21",
+   "description": "53,300 NCDs at Rs 1 lakh each; 9.75% average coupon",
+   "source_url": "https://inc42.com/buzz/exclusive-oxyzo-raises-inr-533-cr-debt-from-neo-group-others",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "financial_result",
+   "headline": "OfBusiness reports Rs 724 cr net profit in FY26",
+   "date": "2026-07-29",
+   "description": "Consolidated revenue Rs 20,645 cr; PAT Rs 724 cr (up 21% from Rs 597 cr FY25); Oxyzo AUM crossed Rs 10,000 cr",
+   "source_url": "https://www.business-standard.com/markets/ipo/ofbusiness-reports-net-profit-of-724-crore-in-fy26-ahead-of-planned-ipo-126072901022_1.html",
+   "confidence": "HIGH"
+  }
+ ],
+ "financials": [
+  {
+   "confidence": "HIGH",
+   "currency": "INR",
+   "fiscal_year": "FY26",
+   "metric": "consolidated_revenue",
+   "source_date": "2026-07-29",
+   "source_title": "OfBusiness reports net profit of Rs 724 crore in FY26",
+   "source_url": "https://www.business-standard.com/markets/ipo/ofbusiness-reports-net-profit-of-724-crore-in-fy26-ahead-of-planned-ipo-126072901022_1.html",
+   "unit": "crore",
+   "value": 20645,
+   "value_type": "management"
+  },
+  {
+   "confidence": "HIGH",
+   "currency": "INR",
+   "fiscal_year": "FY26",
+   "metric": "pat",
+   "source_date": "2026-07-29",
+   "source_title": "OfBusiness reports net profit of Rs 724 crore in FY26",
+   "source_url": "https://www.business-standard.com/markets/ipo/ofbusiness-reports-net-profit-of-724-crore-in-fy26-ahead-of-planned-ipo-126072901022_1.html",
+   "unit": "crore",
+   "value": 724,
+   "value_type": "management"
+  },
+  {
+   "confidence": "MEDIUM",
+   "currency": "INR",
+   "fiscal_year": "FY25",
+   "metric": "pat",
+   "source_date": "2026-07-29",
+   "source_title": "OfBusiness reports net profit of Rs 724 crore in FY26",
+   "source_url": "https://www.business-standard.com/markets/ipo/ofbusiness-reports-net-profit-of-724-crore-in-fy26-ahead-of-planned-ipo-126072901022_1.html",
+   "unit": "crore",
+   "value": 597,
+   "value_type": "management"
+  },
+  {
+   "confidence": "LOW",
+   "currency": "INR",
+   "fiscal_year": "FY25",
+   "metric": "consolidated_revenue",
+   "source_date": "2026-05-14",
+   "source_title": "OfBusiness Investor Report 2026",
+   "source_url": "https://valueforstartups.in/ofbusiness_investor_report",
+   "unit": "crore",
+   "value": 22241,
+   "value_type": "estimate"
+  },
+  {
+   "fiscal_year": "FY23",
+   "metric": "consolidated_revenue",
+   "value": 15342,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "audited",
+   "basis": "consolidated",
+   "consolidated": "yes",
+   "filing_date": "2023-10-25",
+   "source_url": "https://entrackr.com/2023/10/ofbusiness-revenue-crosses-rs-15000-cr-in-fy23-profits-surge-2-3x",
+   "source_title": "OfBusiness revenue crosses Rs 15,000 Cr in FY23, profits surge 2.3X",
+   "confidence": "HIGH",
+   "notes": "GMV Rs 15,342 cr; trading 82%, manufacturing 25%"
+  },
+  {
+   "fiscal_year": "FY23",
+   "metric": "gmv",
+   "value": 15342,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "audited",
+   "basis": "consolidated",
+   "consolidated": "yes",
+   "filing_date": "2023-10-25",
+   "source_url": "https://entrackr.com/2023/10/ofbusiness-revenue-crosses-rs-15000-cr-in-fy23-profits-surge-2-3x",
+   "source_title": "OfBusiness revenue crosses Rs 15,000 Cr in FY23",
+   "confidence": "HIGH"
+  },
+  {
+   "fiscal_year": "FY23",
+   "metric": "pat",
+   "value": 463,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "audited",
+   "basis": "consolidated",
+   "consolidated": "yes",
+   "filing_date": "2023-10-25",
+   "source_url": "https://entrackr.com/2023/10/ofbusiness-revenue-crosses-rs-15000-cr-in-fy23-profits-surge-2-3x",
+   "source_title": "OfBusiness revenue crosses Rs 15,000 Cr in FY23",
+   "confidence": "HIGH"
+  },
+  {
+   "fiscal_year": "FY24",
+   "metric": "consolidated_revenue",
+   "value": 19296,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "audited",
+   "basis": "consolidated",
+   "consolidated": "yes",
+   "filing_date": "2024-07-08",
+   "source_url": "https://economictimes.indiatimes.com/tech/startups/ofbusiness-fy24-operating-revenue-up-26-on-year-to-rs-19296-crore/articleshow/111580871.cms",
+   "source_title": "OfBusiness FY24 operating revenue up 26% on year to Rs 19,296 crore",
+   "confidence": "HIGH"
+  },
+  {
+   "fiscal_year": "FY24",
+   "metric": "pat",
+   "value": 603,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "audited",
+   "basis": "consolidated",
+   "consolidated": "yes",
+   "filing_date": "2024-07-08",
+   "source_url": "https://economictimes.indiatimes.com/tech/startups/ofbusiness-fy24-operating-revenue-up-26-on-year-to-rs-19296-crore/articleshow/111580871.cms",
+   "source_title": "OfBusiness FY24 operating revenue up 26% on year to Rs 19,296 crore",
+   "confidence": "HIGH"
+  },
+  {
+   "fiscal_year": "FY24",
+   "metric": "total_assets",
+   "value": 7460,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "audited",
+   "basis": "standalone",
+   "consolidated": "no",
+   "source_url": "https://inc42.com/company/ofbusiness/financials",
+   "source_title": "Inc42 - OfBusiness Financials",
+   "confidence": "MEDIUM"
+  },
+  {
+   "fiscal_year": "FY25",
+   "metric": "consolidated_revenue",
+   "value": 22241,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "press-quoted-filing",
+   "basis": "consolidated",
+   "consolidated": "yes",
+   "filing_date": "2026-05-14",
+   "source_url": "https://valueforstartups.in/ofbusiness_investor_report",
+   "source_title": "OfBusiness Investor Report 2026",
+   "confidence": "MEDIUM",
+   "notes": "VFS report; growth slowed to 15% YoY"
+  },
+  {
+   "fiscal_year": "FY26",
+   "metric": "consolidated_revenue",
+   "value": 20645,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "management",
+   "basis": "consolidated",
+   "consolidated": "yes",
+   "filing_date": "2026-07-29",
+   "source_url": "https://www.business-standard.com/markets/ipo/ofbusiness-reports-net-profit-of-724-crore-in-fy26-ahead-of-planned-ipo-126072901022_1.html",
+   "source_title": "OfBusiness reports net profit of Rs 724 crore in FY26",
+   "confidence": "HIGH"
+  },
+  {
+   "fiscal_year": "FY26",
+   "metric": "pat",
+   "value": 724,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "management",
+   "basis": "consolidated",
+   "consolidated": "yes",
+   "filing_date": "2026-07-29",
+   "source_url": "https://www.business-standard.com/markets/ipo/ofbusiness-reports-net-profit-of-724-crore-in-fy26-ahead-of-planned-ipo-126072901022_1.html",
+   "source_title": "OfBusiness reports net profit of Rs 724 crore in FY26",
+   "confidence": "HIGH"
+  },
+  {
+   "fiscal_year": "FY25",
+   "metric": "pat",
+   "value": 597,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "management",
+   "basis": "consolidated",
+   "consolidated": "yes",
+   "source_url": "https://www.business-standard.com/markets/ipo/ofbusiness-reports-net-profit-of-724-crore-in-fy26-ahead-of-planned-ipo-126072901022_1.html",
+   "source_title": "OfBusiness reports net profit of Rs 724 crore in FY26",
+   "confidence": "MEDIUM"
+  },
+  {
+   "fiscal_year": "FY24",
+   "metric": "oxyzo_pat",
+   "value": 290,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "audited",
+   "basis": "standalone",
+   "consolidated": "no",
+   "filing_date": "2024-05-31",
+   "source_url": "https://www.thearcweb.com/article/fy24-ofbusiness-unit-oxyzos-net-profit-jumps-47-to-rs-291-cr-NtF3uSU3xJsSKku0",
+   "source_title": "FY24: OfBusiness unit Oxyzo's net profit jumps 47% to Rs 291 cr",
+   "confidence": "HIGH"
+  },
+  {
+   "fiscal_year": "FY24",
+   "metric": "oxyzo_revenue",
+   "value": 903,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "audited",
+   "basis": "standalone",
+   "consolidated": "no",
+   "filing_date": "2024-05-31",
+   "source_url": "https://www.thearcweb.com/article/fy24-ofbusiness-unit-oxyzos-net-profit-jumps-47-to-rs-291-cr-NtF3uSU3xJsSKku0",
+   "source_title": "FY24: OfBusiness unit Oxyzo's net profit jumps 47% to Rs 291 cr",
+   "confidence": "HIGH"
+  },
+  {
+   "fiscal_year": "FY25",
+   "metric": "oxyzo_aum",
+   "value": 8341,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "audited",
+   "basis": "standalone",
+   "consolidated": "no",
+   "filing_date": "2025-03-31",
+   "source_url": "https://static.oxyzo.in/oxyzo-docs/Annual-Report-for-the-Financial-Year-2024-25.pdf",
+   "source_title": "Oxyzo Annual Report 2024-25",
+   "confidence": "HIGH"
+  },
+  {
+   "fiscal_year": "FY25",
+   "metric": "oxyzo_borrowings",
+   "value": 6028,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "audited",
+   "basis": "standalone",
+   "consolidated": "no",
+   "filing_date": "2025-03-31",
+   "source_url": "https://static.oxyzo.in/oxyzo-docs/Annual-Report-for-the-Financial-Year-2024-25.pdf",
+   "source_title": "Oxyzo Annual Report 2024-25",
+   "confidence": "HIGH"
+  },
+  {
+   "fiscal_year": "FY25",
+   "metric": "oxyzo_net_worth",
+   "value": 2855,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "audited",
+   "basis": "standalone",
+   "consolidated": "no",
+   "filing_date": "2025-03-31",
+   "source_url": "https://static.oxyzo.in/oxyzo-docs/Annual-Report-for-the-Financial-Year-2024-25.pdf",
+   "source_title": "Oxyzo Annual Report 2024-25",
+   "confidence": "HIGH"
+  },
+  {
+   "fiscal_year": "FY25",
+   "metric": "oxyzo_total_revenue",
+   "value": 1129,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "audited",
+   "basis": "standalone",
+   "consolidated": "no",
+   "filing_date": "2025-03-31",
+   "source_url": "https://static.oxyzo.in/oxyzo-docs/Annual-Report-for-the-Financial-Year-2024-25.pdf",
+   "source_title": "Oxyzo Annual Report 2024-25",
+   "confidence": "HIGH"
+  },
+  {
+   "fiscal_year": "FY24",
+   "metric": "oxyzo_loan_book",
+   "value": 6667,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "audited",
+   "basis": "standalone",
+   "consolidated": "no",
+   "filing_date": "2024-05-31",
+   "source_url": "https://www.thearcweb.com/article/fy24-ofbusiness-unit-oxyzos-net-profit-jumps-47-to-rs-291-cr-NtF3uSU3xJsSKku0",
+   "source_title": "FY24: OfBusiness unit Oxyzo's net profit jumps 47% to Rs 291 cr",
+   "confidence": "HIGH"
+  },
+  {
+   "fiscal_year": "FY25",
+   "metric": "oxyzo_loan_book",
+   "value": 8342,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "audited",
+   "basis": "standalone",
+   "consolidated": "no",
+   "filing_date": "2025-03-31",
+   "source_url": "https://static.oxyzo.in/oxyzo-docs/Annual-Report-for-the-Financial-Year-2024-25.pdf",
+   "source_title": "Oxyzo Annual Report 2024-25",
+   "confidence": "HIGH"
+  },
+  {
+   "fiscal_year": "FY25",
+   "metric": "oxyzo_gross_npa",
+   "value": 1.2,
+   "unit": "percent",
+   "currency": "INR",
+   "value_type": "audited",
+   "basis": "standalone",
+   "consolidated": "no",
+   "filing_date": "2025-03-31",
+   "source_url": "https://www.icra.in/Rating/GetRationalReportFilePdf?id=134004",
+   "source_title": "ICRA Rating Report - Oxyzo Financial Services",
+   "confidence": "HIGH"
+  },
+  {
+   "fiscal_year": "FY23",
+   "metric": "oxyzo_pat",
+   "value": 197,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "audited",
+   "basis": "standalone",
+   "consolidated": "no",
+   "source_url": "https://www.icra.in/Rating/GetRationalReportFilePdf?id=134004",
+   "source_title": "ICRA Rating Report - Oxyzo Financial Services",
+   "confidence": "HIGH"
+  },
+  {
+   "fiscal_year": "FY24",
+   "metric": "oxyzo_pat",
+   "value": 286,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "audited",
+   "basis": "standalone",
+   "consolidated": "no",
+   "source_url": "https://www.icra.in/Rating/GetRationalReportFilePdf?id=134004",
+   "source_title": "ICRA Rating Report - Oxyzo Financial Services",
+   "confidence": "HIGH"
+  },
+  {
+   "fiscal_year": "FY25",
+   "metric": "oxyzo_total_income",
+   "value": 1129,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "audited",
+   "basis": "standalone",
+   "consolidated": "no",
+   "filing_date": "2025-03-31",
+   "source_url": "https://static.oxyzo.in/oxyzo-docs/Annual-Report-for-the-Financial-Year-2024-25.pdf",
+   "source_title": "Oxyzo Annual Report 2024-25",
+   "confidence": "HIGH"
+  }
+ ],
+ "founders": [
+  {
+   "background": "CEO; IIT Kharagpur (per Business Outreach profile)",
+   "confidence": "MEDIUM",
+   "name": "Asish Mohapatra",
+   "role": "Co-founder & CEO",
+   "source_url": "https://www.business-standard.com/markets/ipo/ofbusiness-reports-net-profit-of-724-crore-in-fy26-ahead-of-planned-ipo-126072901022_1.html",
+   "still_active": true,
+   "type": "co-founder"
+  },
+  {
+   "confidence": "LOW",
+   "name": "Bhuvan Kumar Gupta",
+   "role": "Co-founder",
+   "source_url": "https://tracxn.com/d/companies/ofbusiness/__aGc6oWtIgdt0twhERclS3Tonc_PwAwpfQ4cNci53GvA",
+   "still_active": null,
+   "type": "co-founder"
+  },
+  {
+   "confidence": "LOW",
+   "name": "Nitin Jain",
+   "role": "Co-founder",
+   "source_url": "https://tracxn.com/d/companies/ofbusiness/__aGc6oWtIgdt0twhERclS3Tonc_PwAwpfQ4cNci53GvA",
+   "still_active": null,
+   "type": "co-founder"
+  },
+  {
+   "confidence": "LOW",
+   "name": "Ruchi Kalra (Oxyzo co-founder; wife of Asish Mohapatra per VFS)",
+   "role": "Co-founder, Oxyzo",
+   "source_url": "https://valueforstartups.in/ofbusiness_investor_report",
+   "still_active": true,
+   "type": "co-founder"
+  },
+  {
+   "name": "Ruchi Kalra",
+   "role": "Co-founder, CFO & WTD",
+   "background": "IIM Ahmedabad. Former Partner at McKinsey Financial Services Practice. Co-founded OfBusiness and leads Oxyzo as CEO. First Indian husband-wife pair to each lead separate unicorns.",
+   "education": "IIM Ahmedabad",
+   "still_active": true,
+   "source_url": "https://fortune.com/2022/04/12/india-unicorn-couple-ruchi-kalra-asish-mohapatra-oxyzo-husband-wife-ofbusiness-ceo-startup-ipo",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Bhuvan Gupta",
+   "role": "Co-founder & CTO",
+   "background": "Former VP Engineering at Snapdeal. Co-founded OfBusiness in 2015.",
+   "education": null,
+   "still_active": null,
+   "source_url": "https://www.crunchbase.com/organization/ofbusiness",
+   "confidence": "MEDIUM"
+  },
+  {
+   "name": "Vasant Sridhar",
+   "role": "Co-founder & CSO",
+   "background": "Former ITC executive. IIT Madras alumnus. Co-founded OfBusiness in 2015. Leads asset building at Oxyzo.",
+   "education": "IIT Madras",
+   "still_active": true,
+   "source_url": "https://static.oxyzo.in/oxyzo-docs/OFB%20Tech%20Pvt%20/OFB%20Tech%20Pvt%20Ltd%20%28OfBusiness%29%20Annual-Return_2023-24_v1.pdf",
+   "confidence": "MEDIUM"
+  },
+  {
+   "name": "Chandranshu Sinha",
+   "role": "Co-founder",
+   "background": "Co-founded OfBusiness in 2015.",
+   "education": null,
+   "still_active": null,
+   "source_url": "https://platform.tracxn.com/a/d/company/56eba24be4b062c9395ebe22/ofbusiness",
+   "confidence": "MEDIUM"
+  },
+  {
+   "name": "Srinath Ramakkrushnan",
+   "role": "Co-founder",
+   "background": "Co-founded OfBusiness in 2015.",
+   "education": null,
+   "still_active": null,
+   "source_url": "https://www.crunchbase.com/organization/ofbusiness",
+   "confidence": "LOW"
+  }
+ ],
+ "funding_rounds": [
+  {
+   "all_investors": [
+    "Alpha Wave Global",
+    "Tiger Global",
+    "SoftBank"
+   ],
+   "amount": 325000000,
+   "announced_date": "2021-12",
+   "confidence": "MEDIUM",
+   "currency": "USD",
+   "lead_investors": [
+    "Alpha Wave Global",
+    "Tiger Global",
+    "SoftBank"
+   ],
+   "purpose": "Growth",
+   "round_date": "2021-12-20",
+   "round_type": "Series G",
+   "source_date": "2026-05-14",
+   "source_title": "OfBusiness Investor Report 2026",
+   "source_url": "https://valueforstartups.in/ofbusiness_investor_report",
+   "tier": "T5",
+   "valuation": 5000000000,
+   "valuation_type": "post-money"
+  },
+  {
+   "all_investors": [
+    "Cornerstone Ventures"
+   ],
+   "amount": 11700000,
+   "announced_date": "2025-04-16",
+   "confidence": "MEDIUM",
+   "currency": "USD",
+   "lead_investors": [
+    "Cornerstone Ventures"
+   ],
+   "purpose": "UNKNOWN",
+   "round_date": "2025-04-16",
+   "round_type": "Series G extension (Unattributed VC per CB Insights)",
+   "source_date": "2025-04-16",
+   "source_title": "OfBusiness Stock Price, Funding, Valuation, Revenue & Financial Statements",
+   "source_url": "https://www.cbinsights.com/company/ofbusiness/financials",
+   "tier": "T2",
+   "valuation": null,
+   "valuation_type": null
+  },
+  {
+   "all_investors": [
+    "Public (planned)"
+   ],
+   "amount": 800000000,
+   "announced_date": "2026-08-05",
+   "confidence": "MEDIUM",
+   "currency": "USD",
+   "lead_investors": [],
+   "purpose": "$200M fresh issue + remainder OFS",
+   "round_date": null,
+   "round_type": "IPO (planned/rumored)",
+   "source_date": "2026-08-05",
+   "source_title": "SoftBank-backed OfBusiness revives IPO plans, eyes up to $800 million issue",
+   "source_url": "https://economictimes.indiatimes.com/markets/ipos/fpos/softbank-backed-ofbusiness-revives-ipo-plans-eyes-up-to-800-million-issue/articleshow/132895136.cms",
+   "tier": "T3",
+   "valuation": null,
+   "valuation_type": null
+  },
+  {
+   "round_type": "Series A",
+   "announced_date": "2015-09-26",
+   "round_date": "2015-09-26",
+   "amount": 4300000,
+   "currency": "USD",
+   "lead_investors": [
+    "Matrix Partners"
+   ],
+   "all_investors": [
+    "Matrix Partners",
+    "Gopikrishna Patibanda",
+    "Nitin Gupta",
+    "Pranaya Chulet",
+    "Apoorva Patni"
+   ],
+   "purpose": "Seed/Series A - prove procurement model",
+   "source_url": "https://platform.tracxn.com/a/d/company/56eba24be4b062c9395ebe22/ofbusiness",
+   "source_title": "Tracxn - OfBusiness Funding History",
+   "confidence": "MEDIUM"
+  },
+  {
+   "round_type": "Series B",
+   "announced_date": "2016-11-21",
+   "round_date": "2016-11-21",
+   "amount": 11120000,
+   "currency": "USD",
+   "lead_investors": [
+    "Zodius",
+    "Z47"
+   ],
+   "all_investors": [
+    "Zodius",
+    "Rohit Arora",
+    "Rohit Kapoor",
+    "Z47",
+    "Apoorva Patni"
+   ],
+   "purpose": "Category expansion beyond steel",
+   "source_url": "https://platform.tracxn.com/a/d/company/56eba24be4b062c9395ebe22/ofbusiness",
+   "source_title": "Tracxn - OfBusiness Funding History",
+   "confidence": "MEDIUM"
+  },
+  {
+   "round_type": "Series C",
+   "announced_date": "2018-06-26",
+   "round_date": "2018-06-26",
+   "amount": 29300000,
+   "currency": "USD",
+   "lead_investors": [
+    "Z47",
+    "Zodius",
+    "Alpha Wave Global",
+    "Creation Investments"
+   ],
+   "all_investors": [
+    "Z47",
+    "Zodius",
+    "Alpha Wave Global",
+    "Creation Investments"
+   ],
+   "purpose": "Expansion into polymers, chemicals",
+   "source_url": "https://platform.tracxn.com/a/d/company/56eba24be4b062c9395ebe22/ofbusiness",
+   "source_title": "Tracxn - OfBusiness Funding History",
+   "confidence": "MEDIUM"
+  },
+  {
+   "round_type": "Series D",
+   "announced_date": "2019-09-18",
+   "round_date": "2019-09-18",
+   "amount": 34150000,
+   "currency": "USD",
+   "lead_investors": [
+    "Z47",
+    "Zodius",
+    "Norwest Venture Partners",
+    "Alpha Wave Global"
+   ],
+   "all_investors": [
+    "Z47",
+    "Zodius",
+    "Norwest",
+    "Alpha Wave Global",
+    "Creation Investments"
+   ],
+   "purpose": "COVID-era expansion; PPE pivot",
+   "source_url": "https://platform.tracxn.com/a/d/company/56eba24be4b062c9395ebe22/ofbusiness",
+   "source_title": "Tracxn - OfBusiness Funding History",
+   "confidence": "MEDIUM"
+  },
+  {
+   "round_type": "Series E",
+   "announced_date": "2021-07-31",
+   "round_date": "2021-07-31",
+   "amount": 160000000,
+   "currency": "USD",
+   "lead_investors": [
+    "SoftBank Vision Fund II",
+    "Alpha Wave Global"
+   ],
+   "all_investors": [
+    "SoftBank Group",
+    "SoftBank Vision Fund",
+    "Alpha Wave Global"
+   ],
+   "purpose": "Unicorn milestone; acquisitions",
+   "source_url": "https://www.ofbusiness.com/press-media/ofbusiness-turns-unicorn-post-softbank-led-160-million-funding/10079",
+   "source_title": "OfBusiness turns unicorn post SoftBank-led $160 million funding",
+   "confidence": "HIGH"
+  },
+  {
+   "round_type": "Series F",
+   "announced_date": "2021-09-30",
+   "round_date": "2021-09-30",
+   "amount": 194000000,
+   "currency": "USD",
+   "lead_investors": [
+    "Tiger Global"
+   ],
+   "all_investors": [
+    "Tiger Global",
+    "SoftBank Vision Fund II",
+    "Alpha Wave Global",
+    "Marshall Wace",
+    "Z47"
+   ],
+   "purpose": "Expansion; valuation to $3B",
+   "source_url": "https://www.vccircle.com/b2b-ecommerce-platform-ofbusiness-raises-150-mn-series-f-funding-from-tiger-global",
+   "source_title": "B2B ecommerce platform OfBusiness raises $150 mn Series F funding from Tiger Global",
+   "confidence": "HIGH"
+  },
+  {
+   "round_type": "Series G extension",
+   "announced_date": "2025-04-16",
+   "round_date": "2025-04-16",
+   "amount": 11700000,
+   "currency": "USD",
+   "lead_investors": [
+    "Cornerstone Ventures"
+   ],
+   "all_investors": [
+    "Cornerstone Ventures"
+   ],
+   "purpose": "Pre-IPO growth capital",
+   "source_url": "https://www.cbinsights.com/company/ofbusiness/financials",
+   "source_title": "OfBusiness Stock Price, Funding, Valuation, Revenue & Financial Statements",
+   "confidence": "MEDIUM"
+  },
+  {
+   "round_type": "IPO (planned)",
+   "announced_date": "2026-08-05",
+   "round_date": null,
+   "amount": 800000000,
+   "currency": "USD",
+   "lead_investors": [],
+   "all_investors": [
+    "Public (planned)"
+   ],
+   "purpose": "$200M fresh issue + ~$600M OFS; bankers: Axis, Morgan Stanley, JPMorgan, Citi, BofA",
+   "source_url": "https://economictimes.indiatimes.com/markets/ipos/fpos/softbank-backed-ofbusiness-revives-ipo-plans-eyes-up-to-800-million-issue/articleshow/132895136.cms",
+   "source_title": "SoftBank-backed OfBusiness revives IPO plans, eyes up to $800 million issue",
+   "confidence": "MEDIUM"
+  },
+  {
+   "round_type": "Oxyzo Series A",
+   "announced_date": "2022-03-24",
+   "round_date": "2022-03-24",
+   "amount": 200000000,
+   "currency": "USD",
+   "lead_investors": [
+    "Norwest Venture Partners",
+    "Matrix Partners India",
+    "Alpha Wave Global"
+   ],
+   "all_investors": [
+    "Norwest Venture Partners",
+    "Matrix Partners India",
+    "Alpha Wave Global",
+    "Tiger Global",
+    "Creation Investments"
+   ],
+   "purpose": "Oxyzo standalone unicorn round; ~75% retained by OfBusiness",
+   "source_url": "https://globalventuring.com/corporate/ofbusiness-spins-off-oxyzo-with-200m",
+   "source_title": "OfBusiness spins off Oxyzo with $200m",
+   "confidence": "HIGH",
+   "valuation": 1000000000,
+   "valuation_type": "post-money"
+  },
+  {
+   "round_type": "Oxyzo debt (NCD)",
+   "announced_date": "2025-02-24",
+   "round_date": "2025-02-24",
+   "amount": 1000000000,
+   "currency": "INR",
+   "lead_investors": [
+    "AK Capital Finance"
+   ],
+   "all_investors": [
+    "AK Capital Finance"
+   ],
+   "purpose": "Augment long-term resources; working capital",
+   "source_url": "https://theheadandtale.com/news/ofbusiness--lending-arm-oxyzo-secures-rs-100-crore-in-debt",
+   "source_title": "OfBusiness' lending arm Oxyzo secures Rs 100 crore in debt",
+   "confidence": "HIGH"
+  },
+  {
+   "round_type": "Oxyzo debt (NCD)",
+   "announced_date": "2025-05-21",
+   "round_date": "2025-05-21",
+   "amount": 5330000000,
+   "currency": "INR",
+   "lead_investors": [
+    "Neo Group"
+   ],
+   "all_investors": [
+    "Neo Group",
+    "Multiple investors"
+   ],
+   "purpose": "Day-to-day business operations including lending to SMEs",
+   "source_url": "https://inc42.com/buzz/exclusive-oxyzo-raises-inr-533-cr-debt-from-neo-group-others",
+   "source_title": "Exclusive: Oxyzo Raises INR 533 Cr Debt From Neo Group, Others",
+   "confidence": "HIGH"
+  },
+  {
+   "round_type": "Oxyzo debt (NCD)",
+   "announced_date": "2025-03-19",
+   "round_date": "2025-03-19",
+   "amount": 3500000000,
+   "currency": "INR",
+   "lead_investors": [],
+   "all_investors": [
+    "Banks, FIs, NBFCs"
+   ],
+   "purpose": "Fresh debt; total borrowings closed at Rs 6,028 Cr",
+   "source_url": "https://static.oxyzo.in/oxyzo-docs/Annual-Report-for-the-Financial-Year-2024-25.pdf",
+   "source_title": "Oxyzo Annual Report 2024-25",
+   "confidence": "HIGH"
+  },
+  {
+   "round_type": "Oxyzo equity raise (planned)",
+   "announced_date": "2025-09-25",
+   "round_date": null,
+   "amount": 150000000,
+   "currency": "USD",
+   "lead_investors": [
+    "JP Morgan (advisor)"
+   ],
+   "all_investors": [],
+   "purpose": "Primary capital; 20% reserved for internal investors; IPO prep in 2.5-3 years",
+   "source_url": "https://www.livemint.com/news/ofbusiness-smes-oxyzo-jp-morgan-fundraising-private-equity-tiger-global-startup-raw-materials-ofb-tech-11758727780288.html",
+   "source_title": "OfBusiness' lending arm Oxyzo appoints JP Morgan to raise $150 million",
+   "confidence": "MEDIUM"
+  }
+ ],
+ "gaps": [
+  "Incorporation date / CIN not verified",
+  "Full round-by-round history (Series A-F amounts) not verified from primary sources",
+  "FY25 audited revenue unresolved (VFS claim vs company FY26 disclosure)",
+  "Founder roles/backgrounds beyond CEO not verified",
+  "Employee headcount not verified"
+ ],
+ "hiring": [],
+ "investor_links": [
+  {
+   "amount": null,
+   "board_seat": null,
+   "confidence": "MEDIUM",
+   "first_seen": "2021",
+   "investor": "SoftBank Group",
+   "investor_type": "VC",
+   "lead": true,
+   "rounds": [
+    "Series G"
+   ],
+   "source_url": "https://economictimes.indiatimes.com/markets/ipos/fpos/softbank-backed-ofbusiness-revives-ipo-plans-eyes-up-to-800-million-issue/articleshow/132895136.cms"
+  },
+  {
+   "confidence": "MEDIUM",
+   "first_seen": "2021",
+   "investor": "Tiger Global Management",
+   "investor_type": "VC",
+   "lead": true,
+   "rounds": [
+    "Series G"
+   ],
+   "source_url": "https://economictimes.indiatimes.com/markets/ipos/fpos/softbank-backed-ofbusiness-revives-ipo-plans-eyes-up-to-800-million-issue/articleshow/132895136.cms"
+  },
+  {
+   "confidence": "LOW",
+   "first_seen": "2021",
+   "investor": "Alpha Wave Global (Falcon Edge)",
+   "investor_type": "VC",
+   "lead": true,
+   "rounds": [
+    "Series G"
+   ],
+   "source_url": "https://valueforstartups.in/ofbusiness_investor_report"
+  },
+  {
+   "confidence": "LOW",
+   "first_seen": null,
+   "investor": "Norwest Venture Partners",
+   "investor_type": "VC",
+   "lead": false,
+   "rounds": [],
+   "source_url": "https://economictimes.indiatimes.com/markets/ipos/fpos/softbank-backed-ofbusiness-revives-ipo-plans-eyes-up-to-800-million-issue/articleshow/132895136.cms"
+  },
+  {
+   "confidence": "LOW",
+   "first_seen": null,
+   "investor": "Matrix Partners (Z47)",
+   "investor_type": "VC",
+   "lead": false,
+   "rounds": [],
+   "source_url": "https://economictimes.indiatimes.com/markets/ipos/fpos/softbank-backed-ofbusiness-revives-ipo-plans-eyes-up-to-800-million-issue/articleshow/132895136.cms"
+  },
+  {
+   "confidence": "MEDIUM",
+   "first_seen": "2025-04-16",
+   "investor": "Cornerstone Ventures",
+   "investor_type": "VC",
+   "lead": true,
+   "rounds": [
+    "Series G extension"
+   ],
+   "source_url": "https://www.cbinsights.com/company/ofbusiness/financials"
+  }
+ ],
+ "investors_meta": [],
+ "ip_tech_ai": {
+  "confidence": "LOW",
+  "source_url": null
+ },
+ "legal": [
+  {
+   "type": "regulatory",
+   "entity": "Oxyzo Financial Services Limited",
+   "date": "2017-11",
+   "status": "confirmed-compliance",
+   "description": "RBI registered NBFC-NDSI (Middle Layer) under Scale Based Regulation framework. Certificate of Registration N-14.03380. Subject to RBI's SBR directions for NBFC-ML including Compliance Function and CCO requirements.",
+   "source_url": "https://www.oxyzo.in/about",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "regulatory",
+   "entity": "Oxyzo Financial Services Limited",
+   "date": "2024-03-05",
+   "status": "confirmed-compliance",
+   "description": "Converted from Private Limited to Public Limited w.e.f. 5 March 2024. CIN: U65929DL2016PLC306174",
+   "source_url": "https://static.oxyzo.in/oxyzo-docs/Oxyzo_Annual_Report_2024-25.pdf",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "regulatory",
+   "entity": "Oxyzo Financial Services Limited",
+   "date": "2024-01-17",
+   "status": "confirmed-compliance",
+   "description": "SEBI registration for Alternative Investment Fund (AIF) Category II - Oxyzo Investment Trust",
+   "source_url": "https://static.oxyzo.in/oxyzo-docs/Oxyzo_Annual_Report_2024-25.pdf",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "regulatory",
+   "entity": "Oxyzo Financial Services Limited",
+   "date": "2025-03-31",
+   "status": "confirmed-compliance",
+   "description": "ICRA [ICRA]A+ (Stable) / [ICRA]A1+ rating; CRISIL A (Stable) rating. CRAR 34%, LCR 327%. ECL provision Rs 113.09 Cr under Ind AS 109.",
+   "source_url": "https://www.icra.in/Rating/GetRationalReportFilePdf?id=134004",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "regulatory",
+   "entity": "OFB Tech Limited",
+   "date": "2025-12",
+   "status": "confirmed-compliance",
+   "description": "Converted from private to public limited company (OFB Tech Ltd) in preparation for IPO",
+   "source_url": "https://inc42.com/buzz/ipo-bound-ofbusiness-converts-into-public-company/",
+   "confidence": "MEDIUM"
+  },
+  {
+   "type": "regulatory",
+   "entity": "Oxyzo Financial Services Limited",
+   "date": "2026-04-22",
+   "status": "confirmed-compliance",
+   "description": "RBI (NBFCs - Compliance Function) Directions, 2026 applicable to NBFC-ML; requires independent Compliance Function and CCO",
+   "source_url": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/460MD930686EC27D04B4AA9DF4A3481CDD465.PDF",
+   "confidence": "HIGH"
+  }
+ ],
+ "locations": [
+  {
+   "as_of": "2026",
+   "city": "Gurugram",
+   "confidence": "MEDIUM",
+   "source_url": "https://valueforstartups.in/ofbusiness_investor_report",
+   "state": "Haryana",
+   "type": "HQ"
+  },
+  {
+   "type": "hq",
+   "address_or_area": "6th Floor, Global Business Park, Tower A, Besides Guru Dronacharya Metro Station",
+   "city": "Gurugram",
+   "state": "Haryana",
+   "country": "India",
+   "as_of": "2026-09-15",
+   "source_url": "https://www.ofbusiness.com/about",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "registered_office",
+   "address_or_area": "B-1102, Sankalp Iconic Tower, Opp. Vikramnagar Colony, Iscon Cross Road, S.G. Highway",
+   "city": "Ahmedabad",
+   "state": "Gujarat",
+   "country": "India",
+   "as_of": "2026-09-15",
+   "source_url": "https://www.ofbusiness.com/about",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "office",
+   "address_or_area": "1901, and 1902 G Wing, 19th Floor, Lotus Corporate Park, Western Express Highway, Shri Ram Mandir Road, Goregaon East",
+   "city": "Mumbai",
+   "state": "Maharashtra",
+   "country": "India",
+   "as_of": "2026-09-15",
+   "source_url": "https://www.ofbusiness.com/about/contact",
+   "confidence": "HIGH",
+   "notes": "Mumbai is an office, NOT HQ"
+  },
+  {
+   "type": "office",
+   "address_or_area": "Shop No. G-22 C(UGF) D-1 (K-84) Green Park Main",
+   "city": "New Delhi",
+   "state": "Delhi",
+   "country": "India",
+   "as_of": "2026-09-15",
+   "source_url": "https://www.ofbusiness.com/about/contact",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "office",
+   "address_or_area": "Bangalore East, Pottery Rd, Pulikeshi Nagar",
+   "city": "Bengaluru",
+   "state": "Karnataka",
+   "country": "India",
+   "as_of": "2026-09-15",
+   "source_url": "https://craft.co/ofbusiness/locations",
+   "confidence": "MEDIUM"
+  },
+  {
+   "type": "office",
+   "address_or_area": "1st Floor, Tower-A, Global Business Park, Mehrauli-Gurgaon Road, Sector 26",
+   "city": "Gurugram",
+   "state": "Haryana",
+   "country": "India",
+   "as_of": "2026-09-15",
+   "source_url": "https://www.oxyzo.in/about",
+   "confidence": "HIGH",
+   "notes": "Oxyzo HQ"
+  }
+ ],
+ "partnerships": [],
+ "people": [
+  {
+   "name": "Asish Mohapatra",
+   "role": "Co-founder & CEO",
+   "title": "CEO, OfBusiness",
+   "current": true,
+   "since": "2015",
+   "prior_role": "Senior Associate at Matrix Partners (Z47); previously ITC and McKinsey",
+   "education": "IIT Kharagpur, ISB",
+   "source_url": "https://www.forbesindia.com/article/take-one-big-story-of-the-day/from-incredulous-to-incredible-how-ofbusiness-turned-into-a-profitable-unicorn/69557/1",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Ruchi Kalra",
+   "role": "Co-founder, CFO & Whole-Time Director",
+   "title": "CFO, OfBusiness; CEO, Oxyzo",
+   "current": true,
+   "since": "2015",
+   "prior_role": "Partner at McKinsey (Financial Services Practice)",
+   "education": "IIM Ahmedabad",
+   "source_url": "https://fortune.com/2022/04/12/india-unicorn-couple-ruchi-kalra-asish-mohapatra-oxyzo-husband-wife-ofbusiness-ceo-startup-ipo",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Bhuvan Gupta",
+   "role": "Co-founder & CTO",
+   "title": "CTO, OfBusiness",
+   "current": null,
+   "since": "2015",
+   "prior_role": "VP Engineering at Snapdeal",
+   "source_url": "https://www.crunchbase.com/organization/ofbusiness",
+   "confidence": "MEDIUM"
+  },
+  {
+   "name": "Vasant Sridhar",
+   "role": "Co-founder & CSO",
+   "title": "CSO, OfBusiness; Head Sales & Director, Oxyzo",
+   "current": true,
+   "since": "2015",
+   "prior_role": "ITC",
+   "education": "IIT Madras",
+   "source_url": "https://static.oxyzo.in/oxyzo-docs/OFB%20Tech%20Pvt%20/OFB%20Tech%20Pvt%20Ltd%20%28OfBusiness%29%20Annual-Return_2023-24_v1.pdf",
+   "confidence": "MEDIUM"
+  },
+  {
+   "name": "Nitin Jain",
+   "role": "Co-founder",
+   "title": "Co-founder, OfBusiness",
+   "current": null,
+   "since": "2015",
+   "prior_role": "RBS Vice President",
+   "source_url": "https://platform.tracxn.com/a/d/company/56eba24be4b062c9395ebe22/ofbusiness",
+   "confidence": "MEDIUM"
+  },
+  {
+   "name": "Chandranshu Sinha",
+   "role": "Co-founder",
+   "title": "Co-founder, OfBusiness",
+   "current": null,
+   "since": "2015",
+   "source_url": "https://platform.tracxn.com/a/d/company/56eba24be4b062c9395ebe22/ofbusiness",
+   "confidence": "MEDIUM"
+  },
+  {
+   "name": "Vikram Singh",
+   "role": "Business Head",
+   "title": "Business Head - OfBusiness",
+   "current": true,
+   "since": null,
+   "source_url": "https://www.tribuneindia.com/news/business/ofbusiness-connectivity-reaches-26-states-7-uts-in-india-delivering-170000-consignments-to-smes-in-2024/",
+   "confidence": "MEDIUM"
+  },
+  {
+   "name": "Prashant Roy Sharma",
+   "role": "Head of Mid-Market Lending",
+   "title": "Head Mid-Market Lending & Capital Markets, Oxyzo",
+   "current": true,
+   "since": "2017",
+   "prior_role": "Goldman Sachs (Consumer and Retail EMEA M&A)",
+   "source_url": "https://static.oxyzo.in/oxyzo-docs/OFB%20Tech%20Pvt%20/OFB%20Tech%20Pvt%20Ltd%20%28OfBusiness%29%20Annual-Return_2023-24_v1.pdf",
+   "confidence": "MEDIUM"
+  }
+ ],
+ "products": [
+  {
+   "category": "raw material procurement (steel, polymers, chemicals, agri)",
+   "confidence": "MEDIUM",
+   "name": "OfBusiness B2B commerce platform",
+   "source_url": "https://valueforstartups.in/ofbusiness_investor_report",
+   "status": "active"
+  },
+  {
+   "category": "NBFC lending",
+   "confidence": "MEDIUM",
+   "name": "Oxyzo Financial Services (standalone unicorn, ~75% owned)",
+   "source_url": "https://valueforstartups.in/ofbusiness_investor_report",
+   "status": "active"
+  },
+  {
+   "category": "SaaS",
+   "confidence": "LOW",
+   "name": "BidAssist / Nexizo",
+   "source_url": "https://valueforstartups.in/ofbusiness_investor_report",
+   "status": "active"
+  },
+  {
+   "name": "OfBusiness B2B Commerce Platform",
+   "category": "raw material procurement",
+   "description": "Factory-direct sourcing across steel, non-ferrous metals, polymers, chemicals, agri-commodities, apparel, and building materials. Steel ~35% of GMV.",
+   "pricing_model": "Transaction margin (4-6% gross margin)",
+   "launch_date": "2016-02",
+   "status": "active",
+   "source_url": "https://www.ofbusiness.com/about",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Oxyzo Financial Services",
+   "category": "NBFC lending",
+   "description": "RBI-registered Middle Layer NBFC (NBFC-NDSI) providing collateral-free working capital, purchase finance, invoice discounting, term loans, machinery finance to SMEs. CIN U65929DL2016PLC306174. CoR N-14.03380.",
+   "pricing_model": "Interest income (15-18% est. annualized)",
+   "launch_date": "2017-11",
+   "status": "active",
+   "source_url": "https://www.oxyzo.in/about",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "BidAssist",
+   "category": "SaaS / tender discovery",
+   "description": "AI-powered intelligence platform tracking government procurement opportunities across 200+ countries and all Indian government portals. Used by 1.5M+ businesses.",
+   "pricing_model": "Subscription/SaaS",
+   "launch_date": "2018",
+   "status": "active",
+   "source_url": "https://www.ofbusiness.com/about",
+   "confidence": "MEDIUM"
+  },
+  {
+   "name": "Nexizo",
+   "category": "SaaS / AI procurement",
+   "description": "AI-enabled digital platform for supplier discovery, price intelligence, and procurement automation. Processes 25M data points annually for 50M+ government tenders.",
+   "pricing_model": "SaaS subscription",
+   "launch_date": "2025-01-03",
+   "status": "active",
+   "source_url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ofbusiness-unveils-ai-enabled-digital-platform-nexizo-to-drive-b2b-commerce/articleshow/116883803.cms",
+   "confidence": "MEDIUM"
+  },
+  {
+   "name": "Oxyzo Credit Fund I",
+   "category": "Alternative Investment Fund",
+   "description": "SEBI-registered Category II AIF for performing credit investments in mid-sized companies. Launched via Oxyzo Investment Manager.",
+   "pricing_model": "Fund management fees",
+   "launch_date": "2025-07",
+   "status": "active",
+   "source_url": "https://oxyzo.in/about",
+   "confidence": "MEDIUM"
+  },
+  {
+   "name": "OfBusiness Apparel",
+   "category": "Apparel manufacturing",
+   "description": "Private label and contract manufacturing in apparel; acquired Indian Designs (Bengaluru) for full ownership Dec 2025. Revenue tripled to Rs 3,002 cr in FY26.",
+   "pricing_model": "Manufacturing margin",
+   "launch_date": "2025",
+   "status": "active",
+   "source_url": "https://economictimes.indiatimes.com/tech/technology/ofbusiness-apparel-revenue-triples-to-rs-3002-crore-in-fy26/articleshow/133512631.cms",
+   "confidence": "MEDIUM"
+  },
+  {
+   "name": "Tracecost",
+   "category": "SaaS / construction monitoring",
+   "description": "Construction project monitoring tool",
+   "pricing_model": "SaaS subscription",
+   "launch_date": null,
+   "status": "active",
+   "source_url": "https://valueforstartups.in/ofbusiness_investor_report",
+   "confidence": "LOW"
+  }
+ ],
+ "research_log": [
+  {
+   "found": "ET 2026-08-05 IPO revival; BS 2026-07-29 FY26 results; CB Insights/Tracxn funding aggregates",
+   "next_action": "Verify MCA filings + DRHP when filed; confirm Series A-F rounds",
+   "query": "OfBusiness funding valuation 2025 2026",
+   "unresolved": "Exact round history; FY25 audited revenue"
+  },
+  {
+   "found": "tinyfish: BS FY26 story; Oxyzo $150M raise plans; Indian Designs acquisition",
+   "next_action": "done",
+   "query": "OfBusiness founders Asish Mohapatra OFB Tech revenue FY25",
+   "unresolved": "Founder full roster roles"
+  },
+  {
+   "date": "2026-09-14",
+   "found": "CIN U74140GJ2015PLC154393 self-reported in ofbusiness.com footer + Tofler/Tracxn; inc 24 Aug 2015. GJ mismatches Gurugram; ZaubaCorp DL variant U74140DL2015PTC284428 (same date) = possible sister entity",
+   "query": "OFB Tech OfBusiness CIN incorporation Tofler",
+   "unresolved": "GJ vs DL state-code variants"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "OfBusiness Indian Designs acquisition December 2025",
+   "found": "Full buyout, reported transaction value, apparel-vertical rationale",
+   "unresolved": "Official consideration not disclosed",
+   "next_action": "Check IPO filings for final consideration"
+  }
+ ],
+ "sources": [
+  {
+   "claim_supported": "IPO revival up to $800M; bankers; DRHP Nov target",
+   "fields_supported": [
+    "events",
+    "funding_rounds"
+   ],
+   "publication_date": "2026-08-05",
+   "publisher": "Economic Times",
+   "retrieved_date": "2026-09-14",
+   "tier": "T3",
+   "title": "SoftBank-backed OfBusiness revives IPO plans, eyes up to $800 million issue",
+   "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/softbank-backed-ofbusiness-revives-ipo-plans-eyes-up-to-800-million-issue/articleshow/132895136.cms"
+  },
+  {
+   "claim_supported": "FY26 revenue Rs 20,645 cr; PAT Rs 724 cr; Oxyzo AUM",
+   "fields_supported": [
+    "financials",
+    "events"
+   ],
+   "publication_date": "2026-07-29",
+   "publisher": "Business Standard",
+   "retrieved_date": "2026-09-14",
+   "tier": "T3",
+   "title": "OfBusiness reports net profit of Rs 724 crore in FY26 ahead of planned IPO",
+   "url": "https://www.business-standard.com/markets/ipo/ofbusiness-reports-net-profit-of-724-crore-in-fy26-ahead-of-planned-ipo-126072901022_1.html"
+  },
+  {
+   "claim_supported": "$5B valuation; $325M Series G; Oxyzo $1B; IPO structure",
+   "fields_supported": [
+    "funding_rounds",
+    "products"
+   ],
+   "publication_date": "2026-05-14",
+   "publisher": "ValueForStartups",
+   "retrieved_date": "2026-09-14",
+   "tier": "T5",
+   "title": "OfBusiness Investor Report 2026",
+   "url": "https://valueforstartups.in/ofbusiness_investor_report"
+  },
+  {
+   "claim_supported": "$867.25M over 13 rounds; $11.7M latest",
+   "fields_supported": [
+    "funding_rounds"
+   ],
+   "publication_date": "2025-04-16",
+   "publisher": "CB Insights",
+   "retrieved_date": "2026-09-14",
+   "tier": "T2",
+   "title": "OfBusiness Stock Price, Funding, Valuation, Revenue & Financial Statements",
+   "url": "https://www.cbinsights.com/company/ofbusiness/financials"
+  },
+  {
+   "claim_supported": "$776M 15 rounds; $4.98B valuation Oct 2024; founder list",
+   "fields_supported": [
+    "founders",
+    "funding_rounds"
+   ],
+   "publication_date": "2021-09-01",
+   "publisher": "Tracxn",
+   "retrieved_date": "2026-09-14",
+   "tier": "T2",
+   "title": "OfBusiness - 2026 Company Profile, Team, Funding, Competitors & Financials",
+   "url": "https://tracxn.com/d/companies/ofbusiness/__aGc6oWtIgdt0twhERclS3Tonc_PwAwpfQ4cNci53GvA"
+  },
+  {
+   "url": "https://www.ofbusiness.com/",
+   "title": "OfBusiness: B2B Raw Materials Procurement (footer CIN)",
+   "fields": [
+    "cin",
+    "incorporation_date"
+   ],
+   "confidence": "high"
+  },
+  {
+   "url": "https://www.tofler.in/ofb-tech-limited/company/U74140GJ2015PLC154393",
+   "title": "Ofb Tech Limited Financials | Company Details - Tofler",
+   "fields": [
+    "cin",
+    "incorporation_date"
+   ],
+   "confidence": "high"
+  },
+  {
+   "url": "https://www.moneycontrol.com/news/business/startup/ofbusiness-completes-100-buyout-of-indian-design-consolidates-apparel-vertical-ahead-of-ipo-next-fiscal-13713812.html",
+   "title": "OfBusiness completes 100% buyout of Indian Design, consolidates apparel vertical ahead of IPO next fiscal",
+   "tier": "T2",
+   "claim": "acquisition Indian Designs (Bengaluru apparel exporter; remaining 30% stake acquired Dec 2025 for full ownership)"
+  },
+  {
+   "url": "https://www.moneycontrol.com/news/business/startup/ofbusiness-completes-100-buyout-of-indian-design-consolidates-apparel-vertical-ahead-of-ipo-next-fiscal-13713812.html",
+   "title": "OfBusiness completes 100% buyout of Indian Design, consolidates apparel vertical ahead of IPO next fiscal",
+   "tier": "T2",
+   "claim": "acquisition Indian Designs (Bengaluru apparel exporter; remaining 30% stake acquired Dec 2025 for full ownership)"
+  },
+  {
+   "url": "https://www.moneycontrol.com/news/business/startup/ofbusiness-completes-100-buyout-of-indian-design-consolidates-apparel-vertical-ahead-of-ipo-next-fiscal-13713812.html",
+   "title": "OfBusiness completes 100% buyout of Indian Design, consolidates apparel vertical ahead of IPO next fiscal",
+   "tier": "T2",
+   "claim": "acquisition Indian Designs (Bengaluru apparel exporter; remaining 30% stake acquired Dec 2025 for full ownership)"
+  },
+  {
+   "url": "https://www.moneycontrol.com/news/business/startup/ofbusiness-completes-100-buyout-of-indian-design-consolidates-apparel-vertical-ahead-of-ipo-next-fiscal-13713812.html",
+   "title": "OfBusiness completes 100% buyout of Indian Design, consolidates apparel vertical ahead of IPO next fiscal",
+   "tier": "T2",
+   "claim": "acquisition Indian Designs (Bengaluru apparel exporter; remaining 30% stake acquired Dec 2025 for full ownership)"
+  },
+  {
+   "url": "https://www.moneycontrol.com/news/business/startup/ofbusiness-completes-100-buyout-of-indian-design-consolidates-apparel-vertical-ahead-of-ipo-next-fiscal-13713812.html",
+   "title": "OfBusiness completes 100% buyout of Indian Design, consolidates apparel vertical ahead of IPO next fiscal",
+   "tier": "T2",
+   "claim": "acquisition Indian Designs (Bengaluru apparel exporter; remaining 30% stake acquired Dec 2025 for full ownership)"
+  },
+  {
+   "url": "https://www.moneycontrol.com/news/business/startup/ofbusiness-completes-100-buyout-of-indian-design-consolidates-apparel-vertical-ahead-of-ipo-next-fiscal-13713812.html",
+   "title": "OfBusiness completes 100% buyout of Indian Design, consolidates apparel vertical ahead of IPO next fiscal",
+   "tier": "T2",
+   "claim": "acquisition Indian Designs (Bengaluru apparel exporter; remaining 30% stake acquired Dec 2025 for full ownership)"
+  },
+  {
+   "url": "https://www.moneycontrol.com/news/business/startup/ofbusiness-completes-100-buyout-of-indian-design-consolidates-apparel-vertical-ahead-of-ipo-next-fiscal-13713812.html",
+   "title": "OfBusiness completes 100% buyout of Indian Design, consolidates apparel vertical ahead of IPO next fiscal",
+   "tier": "T2",
+   "claim": "acquisition Indian Designs (Bengaluru apparel exporter; remaining 30% stake acquired Dec 2025 for full ownership)"
+  },
+  {
+   "url": "https://www.moneycontrol.com/news/business/startup/ofbusiness-completes-100-buyout-of-indian-design-consolidates-apparel-vertical-ahead-of-ipo-next-fiscal-13713812.html",
+   "title": "OfBusiness completes 100% buyout of Indian Design, consolidates apparel vertical ahead of IPO next fiscal",
+   "tier": "T2",
+   "claim": "acquisition Indian Designs (Bengaluru apparel exporter; remaining 30% stake acquired Dec 2025 for full ownership)"
+  },
+  {
+   "url": "https://www.moneycontrol.com/news/business/startup/ofbusiness-completes-100-buyout-of-indian-design-consolidates-apparel-vertical-ahead-of-ipo-next-fiscal-13713812.html",
+   "title": "OfBusiness completes 100% buyout of Indian Design, consolidates apparel vertical ahead of IPO next fiscal",
+   "tier": "T2",
+   "claim": "acquisition Indian Designs (Bengaluru apparel exporter; remaining 30% stake acquired Dec 2025 for full ownership)"
+  },
+  {
+   "url": "https://www.moneycontrol.com/news/business/startup/ofbusiness-completes-100-buyout-of-indian-design-consolidates-apparel-vertical-ahead-of-ipo-next-fiscal-13713812.html",
+   "title": "OfBusiness completes 100% buyout of Indian Design, consolidates apparel vertical ahead of IPO next fiscal",
+   "tier": "T2",
+   "claim": "acquisition Indian Designs (Bengaluru apparel exporter; remaining 30% stake acquired Dec 2025 for full ownership)"
+  },
+  {
+   "url": "https://www.moneycontrol.com/news/business/startup/ofbusiness-completes-100-buyout-of-indian-design-consolidates-apparel-vertical-ahead-of-ipo-next-fiscal-13713812.html",
+   "title": "OfBusiness completes 100% buyout of Indian Design, consolidates apparel vertical ahead of IPO next fiscal",
+   "tier": "T2",
+   "claim": "acquisition Indian Designs (Bengaluru apparel exporter; remaining 30% stake acquired Dec 2025 for full ownership)"
+  },
+  {
+   "url": "https://www.moneycontrol.com/news/business/startup/ofbusiness-completes-100-buyout-of-indian-design-consolidates-apparel-vertical-ahead-of-ipo-next-fiscal-13713812.html",
+   "title": "OfBusiness completes 100% buyout of Indian Design, consolidates apparel vertical ahead of IPO next fiscal",
+   "tier": "T2",
+   "claim": "acquisition Indian Designs (Bengaluru apparel exporter; remaining 30% stake acquired Dec 2025 for full ownership)"
+  },
+  {
+   "url": "https://www.moneycontrol.com/news/business/startup/ofbusiness-completes-100-buyout-of-indian-design-consolidates-apparel-vertical-ahead-of-ipo-next-fiscal-13713812.html",
+   "title": "OfBusiness completes 100% buyout of Indian Design, consolidates apparel vertical ahead of IPO next fiscal",
+   "tier": "T2",
+   "claim": "acquisition Indian Designs (Bengaluru apparel exporter; remaining 30% stake acquired Dec 2025 for full ownership)"
+  },
+  {
+   "url": "https://www.moneycontrol.com/news/business/startup/ofbusiness-completes-100-buyout-of-indian-design-consolidates-apparel-vertical-ahead-of-ipo-next-fiscal-13713812.html",
+   "title": "OfBusiness completes 100% buyout of Indian Design, consolidates apparel vertical ahead of IPO next fiscal",
+   "tier": "T2",
+   "claim": "acquisition Indian Designs (Bengaluru apparel exporter; remaining 30% stake acquired Dec 2025 for full ownership)"
+  },
+  {
+   "url": "https://www.moneycontrol.com/news/business/startup/ofbusiness-completes-100-buyout-of-indian-design-consolidates-apparel-vertical-ahead-of-ipo-next-fiscal-13713812.html",
+   "title": "OfBusiness completes 100% buyout of Indian Design, consolidates apparel vertical ahead of IPO next fiscal",
+   "tier": "T2",
+   "claim": "acquisition Indian Designs (Bengaluru apparel exporter; remaining 30% stake acquired Dec 2025 for full ownership)"
+  },
+  {
+   "url": "https://www.moneycontrol.com/news/business/startup/ofbusiness-completes-100-buyout-of-indian-design-consolidates-apparel-vertical-ahead-of-ipo-next-fiscal-13713812.html",
+   "title": "OfBusiness completes 100% buyout of Indian Design, consolidates apparel vertical ahead of IPO next fiscal",
+   "tier": "T2",
+   "claim": "acquisition Indian Designs (Bengaluru apparel exporter; remaining 30% stake acquired Dec 2025 for full ownership)"
+  },
+  {
+   "url": "https://www.moneycontrol.com/news/business/startup/ofbusiness-completes-100-buyout-of-indian-design-consolidates-apparel-vertical-ahead-of-ipo-next-fiscal-13713812.html",
+   "title": "OfBusiness completes 100% buyout of Indian Design, consolidates apparel vertical ahead of IPO next fiscal",
+   "tier": "T2",
+   "claim": "acquisition Indian Designs (Bengaluru apparel exporter; remaining 30% stake acquired Dec 2025 for full ownership)"
+  },
+  {
+   "url": "https://www.moneycontrol.com/news/business/startup/ofbusiness-completes-100-buyout-of-indian-design-consolidates-apparel-vertical-ahead-of-ipo-next-fiscal-13713812.html",
+   "title": "OfBusiness completes 100% buyout of Indian Design, consolidates apparel vertical ahead of IPO next fiscal",
+   "tier": "T2",
+   "claim": "acquisition Indian Designs (Bengaluru apparel exporter; remaining 30% stake acquired Dec 2025 for full ownership)"
+  },
+  {
+   "url": "https://www.moneycontrol.com/news/business/startup/ofbusiness-completes-100-buyout-of-indian-design-consolidates-apparel-vertical-ahead-of-ipo-next-fiscal-13713812.html",
+   "title": "OfBusiness completes 100% buyout of Indian Design, consolidates apparel vertical ahead of IPO next fiscal",
+   "tier": "T2",
+   "claim": "acquisition Indian Designs (Bengaluru apparel exporter; remaining 30% stake acquired Dec 2025 for full ownership)"
+  },
+  {
+   "url": "https://www.moneycontrol.com/news/business/startup/ofbusiness-completes-100-buyout-of-indian-design-consolidates-apparel-vertical-ahead-of-ipo-next-fiscal-13713812.html",
+   "title": "OfBusiness completes 100% buyout of Indian Design, consolidates apparel vertical ahead of IPO next fiscal",
+   "tier": "T2",
+   "claim": "acquisition Indian Designs (Bengaluru apparel exporter; remaining 30% stake acquired Dec 2025 for full ownership)"
+  },
+  {
+   "url": "https://www.moneycontrol.com/news/business/startup/ofbusiness-completes-100-buyout-of-indian-design-consolidates-apparel-vertical-ahead-of-ipo-next-fiscal-13713812.html",
+   "title": "OfBusiness completes 100% buyout of Indian Design, consolidates apparel vertical ahead of IPO next fiscal",
+   "tier": "T2",
+   "claim": "acquisition Indian Designs (Bengaluru apparel exporter; remaining 30% stake acquired Dec 2025 for full ownership)"
+  },
+  {
+   "url": "https://www.moneycontrol.com/news/business/startup/ofbusiness-completes-100-buyout-of-indian-design-consolidates-apparel-vertical-ahead-of-ipo-next-fiscal-13713812.html",
+   "title": "OfBusiness completes 100% buyout of Indian Design, consolidates apparel vertical ahead of IPO next fiscal",
+   "tier": "T2",
+   "claim": "acquisition Indian Designs (Bengaluru apparel exporter; remaining 30% stake acquired Dec 2025 for full ownership)"
+  },
+  {
+   "url": "https://www.moneycontrol.com/news/business/startup/ofbusiness-completes-100-buyout-of-indian-design-consolidates-apparel-vertical-ahead-of-ipo-next-fiscal-13713812.html",
+   "title": "OfBusiness completes 100% buyout of Indian Design, consolidates apparel vertical ahead of IPO next fiscal",
+   "tier": "T2",
+   "claim": "acquisition Indian Designs (Bengaluru apparel exporter; remaining 30% stake acquired Dec 2025 for full ownership)"
+  },
+  {
+   "url": "https://www.moneycontrol.com/news/business/startup/ofbusiness-completes-100-buyout-of-indian-design-consolidates-apparel-vertical-ahead-of-ipo-next-fiscal-13713812.html",
+   "title": "OfBusiness completes 100% buyout of Indian Design, consolidates apparel vertical ahead of IPO next fiscal",
+   "tier": "T2",
+   "claim": "acquisition Indian Designs (Bengaluru apparel exporter; remaining 30% stake acquired Dec 2025 for full ownership)"
+  },
+  {
+   "url": "https://www.moneycontrol.com/news/business/startup/ofbusiness-completes-100-buyout-of-indian-design-consolidates-apparel-vertical-ahead-of-ipo-next-fiscal-13713812.html",
+   "title": "OfBusiness completes 100% buyout of Indian Design, consolidates apparel vertical ahead of IPO next fiscal",
+   "tier": "T2",
+   "claim": "acquisition Indian Designs (Bengaluru apparel exporter; remaining 30% stake acquired Dec 2025 for full ownership)"
+  },
+  {
+   "url": "https://www.moneycontrol.com/news/business/startup/ofbusiness-completes-100-buyout-of-indian-design-consolidates-apparel-vertical-ahead-of-ipo-next-fiscal-13713812.html",
+   "title": "OfBusiness completes 100% buyout of Indian Design, consolidates apparel vertical ahead of IPO next fiscal",
+   "tier": "T2",
+   "claim": "acquisition Indian Designs (Bengaluru apparel exporter; remaining 30% stake acquired Dec 2025 for full ownership)"
+  },
+  {
+   "url": "https://www.moneycontrol.com/news/business/startup/ofbusiness-completes-100-buyout-of-indian-design-consolidates-apparel-vertical-ahead-of-ipo-next-fiscal-13713812.html",
+   "title": "OfBusiness completes 100% buyout of Indian Design, consolidates apparel vertical ahead of IPO next fiscal",
+   "tier": "T2",
+   "claim": "acquisition Indian Designs (Bengaluru apparel exporter; remaining 30% stake acquired Dec 2025 for full ownership)"
+  },
+  {
+   "url": "https://www.moneycontrol.com/news/business/startup/ofbusiness-completes-100-buyout-of-indian-design-consolidates-apparel-vertical-ahead-of-ipo-next-fiscal-13713812.html",
+   "title": "OfBusiness completes 100% buyout of Indian Design, consolidates apparel vertical ahead of IPO next fiscal",
+   "tier": "T2",
+   "claim": "acquisition Indian Designs (Bengaluru apparel exporter; remaining 30% stake acquired Dec 2025 for full ownership)"
+  },
+  {
+   "url": "https://www.moneycontrol.com/news/business/startup/ofbusiness-completes-100-buyout-of-indian-design-consolidates-apparel-vertical-ahead-of-ipo-next-fiscal-13713812.html",
+   "title": "OfBusiness completes 100% buyout of Indian Design, consolidates apparel vertical ahead of IPO next fiscal",
+   "tier": "T2",
+   "claim": "acquisition Indian Designs (Bengaluru apparel exporter; remaining 30% stake acquired Dec 2025 for full ownership)"
+  },
+  {
+   "url": "https://www.moneycontrol.com/news/business/startup/ofbusiness-completes-100-buyout-of-indian-design-consolidates-apparel-vertical-ahead-of-ipo-next-fiscal-13713812.html",
+   "title": "OfBusiness completes 100% buyout of Indian Design, consolidates apparel vertical ahead of IPO next fiscal",
+   "tier": "T2",
+   "claim": "acquisition Indian Designs (Bengaluru apparel exporter; remaining 30% stake acquired Dec 2025 for full ownership)"
+  },
+  {
+   "url": "https://www.moneycontrol.com/news/business/startup/ofbusiness-completes-100-buyout-of-indian-design-consolidates-apparel-vertical-ahead-of-ipo-next-fiscal-13713812.html",
+   "title": "OfBusiness completes 100% buyout of Indian Design, consolidates apparel vertical ahead of IPO next fiscal",
+   "tier": "T2",
+   "claim": "acquisition Indian Designs (Bengaluru apparel exporter; remaining 30% stake acquired Dec 2025 for full ownership)"
+  },
+  {
+   "url": "https://www.moneycontrol.com/news/business/startup/ofbusiness-completes-100-buyout-of-indian-design-consolidates-apparel-vertical-ahead-of-ipo-next-fiscal-13713812.html",
+   "title": "OfBusiness completes 100% buyout of Indian Design, consolidates apparel vertical ahead of IPO next fiscal",
+   "tier": "T2",
+   "claim": "acquisition Indian Designs (Bengaluru apparel exporter; remaining 30% stake acquired Dec 2025 for full ownership)"
+  },
+  {
+   "url": "https://www.moneycontrol.com/news/business/startup/ofbusiness-completes-100-buyout-of-indian-design-consolidates-apparel-vertical-ahead-of-ipo-next-fiscal-13713812.html",
+   "title": "OfBusiness completes 100% buyout of Indian Design, consolidates apparel vertical ahead of IPO next fiscal",
+   "tier": "T2",
+   "claim": "acquisition Indian Designs (Bengaluru apparel exporter; remaining 30% stake acquired Dec 2025 for full ownership)"
+  },
+  {
+   "url": "https://www.moneycontrol.com/news/business/startup/ofbusiness-completes-100-buyout-of-indian-design-consolidates-apparel-vertical-ahead-of-ipo-next-fiscal-13713812.html",
+   "title": "OfBusiness completes 100% buyout of Indian Design, consolidates apparel vertical ahead of IPO next fiscal",
+   "tier": "T2",
+   "claim": "acquisition Indian Designs (Bengaluru apparel exporter; remaining 30% stake acquired Dec 2025 for full ownership)"
+  },
+  {
+   "url": "https://www.moneycontrol.com/news/business/startup/ofbusiness-completes-100-buyout-of-indian-design-consolidates-apparel-vertical-ahead-of-ipo-next-fiscal-13713812.html",
+   "title": "OfBusiness completes 100% buyout of Indian Design, consolidates apparel vertical ahead of IPO next fiscal",
+   "tier": "T2",
+   "claim": "acquisition Indian Designs (Bengaluru apparel exporter; remaining 30% stake acquired Dec 2025 for full ownership)"
+  },
+  {
+   "url": "https://www.moneycontrol.com/news/business/startup/ofbusiness-completes-100-buyout-of-indian-design-consolidates-apparel-vertical-ahead-of-ipo-next-fiscal-13713812.html",
+   "title": "OfBusiness completes 100% buyout of Indian Design, consolidates apparel vertical ahead of IPO next fiscal",
+   "tier": "T2",
+   "claim": "acquisition Indian Designs (Bengaluru apparel exporter; remaining 30% stake acquired Dec 2025 for full ownership)"
+  },
+  {
+   "url": "https://www.moneycontrol.com/news/business/startup/ofbusiness-completes-100-buyout-of-indian-design-consolidates-apparel-vertical-ahead-of-ipo-next-fiscal-13713812.html",
+   "title": "OfBusiness completes 100% buyout of Indian Design, consolidates apparel vertical ahead of IPO next fiscal",
+   "tier": "T2",
+   "claim": "acquisition Indian Designs (Bengaluru apparel exporter; remaining 30% stake acquired Dec 2025 for full ownership)"
+  },
+  {
+   "url": "https://www.moneycontrol.com/news/business/startup/ofbusiness-completes-100-buyout-of-indian-design-consolidates-apparel-vertical-ahead-of-ipo-next-fiscal-13713812.html",
+   "title": "OfBusiness completes 100% buyout of Indian Design, consolidates apparel vertical ahead of IPO next fiscal",
+   "tier": "T2",
+   "claim": "acquisition Indian Designs (Bengaluru apparel exporter; remaining 30% stake acquired Dec 2025 for full ownership)"
+  },
+  {
+   "url": "https://www.moneycontrol.com/news/business/startup/ofbusiness-completes-100-buyout-of-indian-design-consolidates-apparel-vertical-ahead-of-ipo-next-fiscal-13713812.html",
+   "title": "OfBusiness completes 100% buyout of Indian Design, consolidates apparel vertical ahead of IPO next fiscal",
+   "tier": "T2",
+   "claim": "acquisition Indian Designs (Bengaluru apparel exporter; remaining 30% stake acquired Dec 2025 for full ownership)"
+  },
+  {
+   "url": "https://www.moneycontrol.com/news/business/startup/ofbusiness-completes-100-buyout-of-indian-design-consolidates-apparel-vertical-ahead-of-ipo-next-fiscal-13713812.html",
+   "title": "OfBusiness completes 100% buyout of Indian Design, consolidates apparel vertical ahead of IPO next fiscal",
+   "tier": "T2",
+   "claim": "acquisition Indian Designs (Bengaluru apparel exporter; remaining 30% stake acquired Dec 2025 for full ownership)"
+  },
+  {
+   "url": "https://www.moneycontrol.com/news/business/startup/ofbusiness-completes-100-buyout-of-indian-design-consolidates-apparel-vertical-ahead-of-ipo-next-fiscal-13713812.html",
+   "title": "OfBusiness completes 100% buyout of Indian Design, consolidates apparel vertical ahead of IPO next fiscal",
+   "tier": "T2",
+   "claim": "acquisition Indian Designs (Bengaluru apparel exporter; remaining 30% stake acquired Dec 2025 for full ownership)"
+  },
+  {
+   "url": "https://www.moneycontrol.com/news/business/startup/ofbusiness-completes-100-buyout-of-indian-design-consolidates-apparel-vertical-ahead-of-ipo-next-fiscal-13713812.html",
+   "title": "OfBusiness completes 100% buyout of Indian Design, consolidates apparel vertical ahead of IPO next fiscal",
+   "tier": "T2",
+   "claim": "acquisition Indian Designs (Bengaluru apparel exporter; remaining 30% stake acquired Dec 2025 for full ownership)"
+  },
+  {
+   "url": "https://www.moneycontrol.com/news/business/startup/ofbusiness-completes-100-buyout-of-indian-design-consolidates-apparel-vertical-ahead-of-ipo-next-fiscal-13713812.html",
+   "title": "OfBusiness completes 100% buyout of Indian Design, consolidates apparel vertical ahead of IPO next fiscal",
+   "tier": "T2",
+   "claim": "acquisition Indian Designs (Bengaluru apparel exporter; remaining 30% stake acquired Dec 2025 for full ownership)"
+  },
+  {
+   "url": "https://www.moneycontrol.com/news/business/startup/ofbusiness-completes-100-buyout-of-indian-design-consolidates-apparel-vertical-ahead-of-ipo-next-fiscal-13713812.html",
+   "title": "OfBusiness completes 100% buyout of Indian Design, consolidates apparel vertical ahead of IPO next fiscal",
+   "tier": "T2",
+   "claim": "acquisition Indian Designs (Bengaluru apparel exporter; remaining 30% stake acquired Dec 2025 for full ownership)"
+  },
+  {
+   "url": "https://www.moneycontrol.com/news/business/startup/ofbusiness-completes-100-buyout-of-indian-design-consolidates-apparel-vertical-ahead-of-ipo-next-fiscal-13713812.html",
+   "title": "OfBusiness completes 100% buyout of Indian Design, consolidates apparel vertical ahead of IPO next fiscal",
+   "tier": "T2",
+   "claim": "acquisition Indian Designs (Bengaluru apparel exporter; remaining 30% stake acquired Dec 2025 for full ownership)"
+  },
+  {
+   "url": "https://www.moneycontrol.com/news/business/startup/ofbusiness-completes-100-buyout-of-indian-design-consolidates-apparel-vertical-ahead-of-ipo-next-fiscal-13713812.html",
+   "title": "OfBusiness completes 100% buyout of Indian Design, consolidates apparel vertical ahead of IPO next fiscal",
+   "tier": "T2",
+   "claim": "acquisition Indian Designs (Bengaluru apparel exporter; remaining 30% stake acquired Dec 2025 for full ownership)"
+  },
+  {
+   "url": "https://www.moneycontrol.com/news/business/startup/ofbusiness-completes-100-buyout-of-indian-design-consolidates-apparel-vertical-ahead-of-ipo-next-fiscal-13713812.html",
+   "title": "OfBusiness completes 100% buyout of Indian Design, consolidates apparel vertical ahead of IPO next fiscal",
+   "tier": "T2",
+   "claim": "acquisition Indian Designs (Bengaluru apparel exporter; remaining 30% stake acquired Dec 2025 for full ownership)"
+  },
+  {
+   "url": "https://www.moneycontrol.com/news/business/startup/ofbusiness-completes-100-buyout-of-indian-design-consolidates-apparel-vertical-ahead-of-ipo-next-fiscal-13713812.html",
+   "title": "OfBusiness completes 100% buyout of Indian Design, consolidates apparel vertical ahead of IPO next fiscal",
+   "tier": "T2",
+   "claim": "acquisition Indian Designs (Bengaluru apparel exporter; remaining 30% stake acquired Dec 2025 for full ownership)"
+  },
+  {
+   "url": "https://www.moneycontrol.com/news/business/startup/ofbusiness-completes-100-buyout-of-indian-design-consolidates-apparel-vertical-ahead-of-ipo-next-fiscal-13713812.html",
+   "title": "OfBusiness completes 100% buyout of Indian Design, consolidates apparel vertical ahead of IPO next fiscal",
+   "tier": "T2",
+   "claim": "acquisition Indian Designs (Bengaluru apparel exporter; remaining 30% stake acquired Dec 2025 for full ownership)"
+  },
+  {
+   "url": "https://www.moneycontrol.com/news/business/startup/ofbusiness-completes-100-buyout-of-indian-design-consolidates-apparel-vertical-ahead-of-ipo-next-fiscal-13713812.html",
+   "title": "OfBusiness completes 100% buyout of Indian Design, consolidates apparel vertical ahead of IPO next fiscal",
+   "tier": "T2",
+   "claim": "acquisition Indian Designs (Bengaluru apparel exporter; remaining 30% stake acquired Dec 2025 for full ownership)"
+  },
+  {
+   "url": "https://www.moneycontrol.com/news/business/startup/ofbusiness-completes-100-buyout-of-indian-design-consolidates-apparel-vertical-ahead-of-ipo-next-fiscal-13713812.html",
+   "title": "OfBusiness completes 100% buyout of Indian Design, consolidates apparel vertical ahead of IPO next fiscal",
+   "tier": "T2",
+   "claim": "acquisition Indian Designs (Bengaluru apparel exporter; remaining 30% stake acquired Dec 2025 for full ownership)"
+  },
+  {
+   "url": "https://www.moneycontrol.com/news/business/startup/ofbusiness-completes-100-buyout-of-indian-design-consolidates-apparel-vertical-ahead-of-ipo-next-fiscal-13713812.html",
+   "title": "OfBusiness completes 100% buyout of Indian Design, consolidates apparel vertical ahead of IPO next fiscal",
+   "tier": "T2",
+   "claim": "acquisition Indian Designs (Bengaluru apparel exporter; remaining 30% stake acquired Dec 2025 for full ownership)"
+  },
+  {
+   "url": "https://www.moneycontrol.com/news/business/startup/ofbusiness-completes-100-buyout-of-indian-design-consolidates-apparel-vertical-ahead-of-ipo-next-fiscal-13713812.html",
+   "title": "OfBusiness completes 100% buyout of Indian Design, consolidates apparel vertical ahead of IPO next fiscal",
+   "tier": "T2",
+   "claim": "acquisition Indian Designs (Bengaluru apparel exporter; remaining 30% stake acquired Dec 2025 for full ownership)"
+  },
+  {
+   "url": "https://www.moneycontrol.com/news/business/startup/ofbusiness-completes-100-buyout-of-indian-design-consolidates-apparel-vertical-ahead-of-ipo-next-fiscal-13713812.html",
+   "title": "OfBusiness completes 100% buyout of Indian Design, consolidates apparel vertical ahead of IPO next fiscal",
+   "tier": "T2",
+   "claim": "acquisition Indian Designs (Bengaluru apparel exporter; remaining 30% stake acquired Dec 2025 for full ownership)"
+  },
+  {
+   "url": "https://www.moneycontrol.com/news/business/startup/ofbusiness-completes-100-buyout-of-indian-design-consolidates-apparel-vertical-ahead-of-ipo-next-fiscal-13713812.html",
+   "title": "OfBusiness completes 100% buyout of Indian Design, consolidates apparel vertical ahead of IPO next fiscal",
+   "tier": "T2",
+   "claim": "acquisition Indian Designs (Bengaluru apparel exporter; remaining 30% stake acquired Dec 2025 for full ownership)"
+  },
+  {
+   "url": "https://www.moneycontrol.com/news/business/startup/ofbusiness-completes-100-buyout-of-indian-design-consolidates-apparel-vertical-ahead-of-ipo-next-fiscal-13713812.html",
+   "title": "OfBusiness completes 100% buyout of Indian Design, consolidates apparel vertical ahead of IPO next fiscal",
+   "tier": "T2",
+   "claim": "acquisition Indian Designs (Bengaluru apparel exporter; remaining 30% stake acquired Dec 2025 for full ownership)"
+  },
+  {
+   "url": "https://www.moneycontrol.com/news/business/startup/ofbusiness-completes-100-buyout-of-indian-design-consolidates-apparel-vertical-ahead-of-ipo-next-fiscal-13713812.html",
+   "title": "OfBusiness completes 100% buyout of Indian Design, consolidates apparel vertical ahead of IPO next fiscal",
+   "tier": "T2",
+   "claim": "acquisition Indian Designs (Bengaluru apparel exporter; remaining 30% stake acquired Dec 2025 for full ownership)"
+  },
+  {
+   "url": "https://www.moneycontrol.com/news/business/startup/ofbusiness-completes-100-buyout-of-indian-design-consolidates-apparel-vertical-ahead-of-ipo-next-fiscal-13713812.html",
+   "title": "OfBusiness completes 100% buyout of Indian Design, consolidates apparel vertical ahead of IPO next fiscal",
+   "tier": "T2",
+   "claim": "acquisition Indian Designs (Bengaluru apparel exporter; remaining 30% stake acquired Dec 2025 for full ownership)"
+  },
+  {
+   "url": "https://www.moneycontrol.com/news/business/startup/ofbusiness-completes-100-buyout-of-indian-design-consolidates-apparel-vertical-ahead-of-ipo-next-fiscal-13713812.html",
+   "title": "OfBusiness completes 100% buyout of Indian Design, consolidates apparel vertical ahead of IPO next fiscal",
+   "tier": "T2",
+   "claim": "acquisition Indian Designs (Bengaluru apparel exporter; remaining 30% stake acquired Dec 2025 for full ownership)"
+  },
+  {
+   "url": "https://www.moneycontrol.com/news/business/startup/ofbusiness-completes-100-buyout-of-indian-design-consolidates-apparel-vertical-ahead-of-ipo-next-fiscal-13713812.html",
+   "title": "OfBusiness completes 100% buyout of Indian Design, consolidates apparel vertical ahead of IPO next fiscal",
+   "tier": "T2",
+   "claim": "acquisition Indian Designs (Bengaluru apparel exporter; remaining 30% stake acquired Dec 2025 for full ownership)"
+  },
+  {
+   "url": "https://www.moneycontrol.com/news/business/startup/ofbusiness-completes-100-buyout-of-indian-design-consolidates-apparel-vertical-ahead-of-ipo-next-fiscal-13713812.html",
+   "title": "OfBusiness completes 100% buyout of Indian Design, consolidates apparel vertical ahead of IPO next fiscal",
+   "tier": "T2",
+   "claim": "acquisition Indian Designs (Bengaluru apparel exporter; remaining 30% stake acquired Dec 2025 for full ownership)"
+  },
+  {
+   "url": "https://www.moneycontrol.com/news/business/startup/ofbusiness-completes-100-buyout-of-indian-design-consolidates-apparel-vertical-ahead-of-ipo-next-fiscal-13713812.html",
+   "title": "OfBusiness completes 100% buyout of Indian Design, consolidates apparel vertical ahead of IPO next fiscal",
+   "tier": "T2",
+   "claim": "acquisition Indian Designs (Bengaluru apparel exporter; remaining 30% stake acquired Dec 2025 for full ownership)"
+  },
+  {
+   "url": "https://www.moneycontrol.com/news/business/startup/ofbusiness-completes-100-buyout-of-indian-design-consolidates-apparel-vertical-ahead-of-ipo-next-fiscal-13713812.html",
+   "title": "OfBusiness completes 100% buyout of Indian Design, consolidates apparel vertical ahead of IPO next fiscal",
+   "tier": "T2",
+   "claim": "acquisition Indian Designs (Bengaluru apparel exporter; remaining 30% stake acquired Dec 2025 for full ownership)"
+  },
+  {
+   "url": "https://www.moneycontrol.com/news/business/startup/ofbusiness-completes-100-buyout-of-indian-design-consolidates-apparel-vertical-ahead-of-ipo-next-fiscal-13713812.html",
+   "title": "OfBusiness completes 100% buyout of Indian Design, consolidates apparel vertical ahead of IPO next fiscal",
+   "tier": "T2",
+   "claim": "acquisition Indian Designs (Bengaluru apparel exporter; remaining 30% stake acquired Dec 2025 for full ownership)"
+  },
+  {
+   "url": "https://www.moneycontrol.com/news/business/startup/ofbusiness-completes-100-buyout-of-indian-design-consolidates-apparel-vertical-ahead-of-ipo-next-fiscal-13713812.html",
+   "title": "OfBusiness completes 100% buyout of Indian Design, consolidates apparel vertical ahead of IPO next fiscal",
+   "tier": "T2",
+   "claim": "acquisition Indian Designs (Bengaluru apparel exporter; remaining 30% stake acquired Dec 2025 for full ownership)"
+  },
+  {
+   "url": "https://www.moneycontrol.com/news/business/startup/ofbusiness-completes-100-buyout-of-indian-design-consolidates-apparel-vertical-ahead-of-ipo-next-fiscal-13713812.html",
+   "title": "OfBusiness completes 100% buyout of Indian Design, consolidates apparel vertical ahead of IPO next fiscal",
+   "tier": "T2",
+   "claim": "acquisition Indian Designs (Bengaluru apparel exporter; remaining 30% stake acquired Dec 2025 for full ownership)"
+  },
+  {
+   "url": "https://www.moneycontrol.com/news/business/startup/ofbusiness-completes-100-buyout-of-indian-design-consolidates-apparel-vertical-ahead-of-ipo-next-fiscal-13713812.html",
+   "title": "OfBusiness completes 100% buyout of Indian Design, consolidates apparel vertical ahead of IPO next fiscal",
+   "tier": "T2",
+   "claim": "acquisition Indian Designs (Bengaluru apparel exporter; remaining 30% stake acquired Dec 2025 for full ownership)"
+  },
+  {
+   "url": "https://www.moneycontrol.com/news/business/startup/ofbusiness-completes-100-buyout-of-indian-design-consolidates-apparel-vertical-ahead-of-ipo-next-fiscal-13713812.html",
+   "title": "OfBusiness completes 100% buyout of Indian Design, consolidates apparel vertical ahead of IPO next fiscal",
+   "tier": "T2",
+   "claim": "acquisition Indian Designs (Bengaluru apparel exporter; remaining 30% stake acquired Dec 2025 for full ownership)"
+  },
+  {
+   "url": "https://www.icra.in/Rating/GetRationalReportFilePdf?id=134004",
+   "publisher": "ICRA",
+   "tier": "T1",
+   "publication_date": "2025-03-27",
+   "retrieved_date": "2026-09-15",
+   "confidence": "HIGH",
+   "fields_supported": [
+    "financials",
+    "legal"
+   ]
+  },
+  {
+   "url": "https://static.oxyzo.in/oxyzo-docs/Annual-Report-for-the-Financial-Year-2024-25.pdf",
+   "publisher": "Oxyzo Annual Report",
+   "tier": "T1",
+   "publication_date": "2025-03-31",
+   "retrieved_date": "2026-09-15",
+   "confidence": "HIGH",
+   "fields_supported": [
+    "financials",
+    "legal",
+    "traction"
+   ]
+  },
+  {
+   "url": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/460MD930686EC27D04B4AA9DF4A3481CDD465.PDF",
+   "publisher": "Reserve Bank of India",
+   "tier": "T1",
+   "publication_date": "2026",
+   "retrieved_date": "2026-09-15",
+   "confidence": "HIGH",
+   "fields_supported": [
+    "legal"
+   ]
+  },
+  {
+   "url": "https://www.ofbusiness.com/about",
+   "publisher": "OfBusiness official website",
+   "tier": "T1",
+   "publication_date": "2026-09-15",
+   "retrieved_date": "2026-09-15",
+   "confidence": "HIGH",
+   "fields_supported": [
+    "company",
+    "locations",
+    "products",
+    "founders"
+   ]
+  },
+  {
+   "url": "https://www.ofbusiness.com/about/contact",
+   "publisher": "OfBusiness official website",
+   "tier": "T1",
+   "publication_date": "2026-09-15",
+   "retrieved_date": "2026-09-15",
+   "confidence": "HIGH",
+   "fields_supported": [
+    "locations",
+    "registered_office"
+   ]
+  },
+  {
+   "url": "https://www.oxyzo.in/",
+   "publisher": "Oxyzo official website",
+   "tier": "T1",
+   "publication_date": "2026-09-15",
+   "retrieved_date": "2026-09-15",
+   "confidence": "HIGH",
+   "fields_supported": [
+    "traction",
+    "legal",
+    "products"
+   ]
+  },
+  {
+   "url": "https://www.forbesindia.com/article/take-one-big-story-of-the-day/from-incredulous-to-incredible-how-ofbusiness-turned-into-a-profitable-unicorn/69557/1",
+   "publisher": "Forbes India",
+   "tier": "T2",
+   "publication_date": "2021-08-03",
+   "retrieved_date": "2026-09-15",
+   "confidence": "HIGH",
+   "fields_supported": [
+    "founders"
+   ]
+  },
+  {
+   "url": "https://www.vccircle.com/b2b-ecommerce-platform-ofbusiness-raises-150-mn-series-f-funding-from-tiger-global",
+   "publisher": "VCCircle",
+   "tier": "T2",
+   "publication_date": "2021-09-30",
+   "retrieved_date": "2026-09-15",
+   "confidence": "HIGH",
+   "fields_supported": [
+    "funding_rounds"
+   ]
+  },
+  {
+   "url": "https://www.moneycontrol.com/news/business/startup/ofbusiness-completes-100-buyout-of-indian-design-consolidates-apparel-vertical-ahead-of-ipo-next-fiscal-13713812.html",
+   "title": "OfBusiness completes 100% buyout of Indian Design, consolidates apparel vertical ahead of IPO next fiscal",
+   "tier": "T2",
+   "claim": "acquisition Indian Designs (Bengaluru apparel exporter; remaining 30% stake acquired Dec 2025 for full ownership)"
+  },
+  {
+   "url": "https://www.moneycontrol.com/news/business/startup/ofbusiness-completes-100-buyout-of-indian-design-consolidates-apparel-vertical-ahead-of-ipo-next-fiscal-13713812.html",
+   "title": "OfBusiness completes 100% buyout of Indian Design, consolidates apparel vertical ahead of IPO next fiscal",
+   "tier": "T2",
+   "claim": "acquisition Indian Designs (Bengaluru apparel exporter; remaining 30% stake acquired Dec 2025 for full ownership)"
+  },
+  {
+   "url": "https://www.moneycontrol.com/news/business/startup/ofbusiness-completes-100-buyout-of-indian-design-consolidates-apparel-vertical-ahead-of-ipo-next-fiscal-13713812.html",
+   "title": "OfBusiness completes 100% buyout of Indian Design, consolidates apparel vertical ahead of IPO next fiscal",
+   "tier": "T2",
+   "claim": "acquisition Indian Designs (Bengaluru apparel exporter; remaining 30% stake acquired Dec 2025 for full ownership)"
+  },
+  {
+   "url": "https://www.moneycontrol.com/news/business/startup/ofbusiness-completes-100-buyout-of-indian-design-consolidates-apparel-vertical-ahead-of-ipo-next-fiscal-13713812.html",
+   "title": "OfBusiness completes 100% buyout of Indian Design, consolidates apparel vertical ahead of IPO next fiscal",
+   "tier": "T2",
+   "claim": "acquisition Indian Designs (Bengaluru apparel exporter; remaining 30% stake acquired Dec 2025 for full ownership)"
+  },
+  {
+   "url": "https://www.moneycontrol.com/news/business/startup/ofbusiness-completes-100-buyout-of-indian-design-consolidates-apparel-vertical-ahead-of-ipo-next-fiscal-13713812.html",
+   "title": "OfBusiness completes 100% buyout of Indian Design, consolidates apparel vertical ahead of IPO next fiscal",
+   "tier": "T2",
+   "claim": "acquisition Indian Designs (Bengaluru apparel exporter; remaining 30% stake acquired Dec 2025 for full ownership)"
+  },
+  {
+   "url": "https://www.moneycontrol.com/news/business/startup/ofbusiness-completes-100-buyout-of-indian-design-consolidates-apparel-vertical-ahead-of-ipo-next-fiscal-13713812.html",
+   "title": "OfBusiness completes 100% buyout of Indian Design, consolidates apparel vertical ahead of IPO next fiscal",
+   "tier": "T2",
+   "claim": "acquisition Indian Designs (Bengaluru apparel exporter; remaining 30% stake acquired Dec 2025 for full ownership)"
+  },
+  {
+   "url": "https://www.moneycontrol.com/news/business/startup/ofbusiness-completes-100-buyout-of-indian-design-consolidates-apparel-vertical-ahead-of-ipo-next-fiscal-13713812.html",
+   "title": "OfBusiness completes 100% buyout of Indian Design, consolidates apparel vertical ahead of IPO next fiscal",
+   "tier": "T2",
+   "claim": "acquisition Indian Designs (Bengaluru apparel exporter; remaining 30% stake acquired Dec 2025 for full ownership)"
+  },
+  {
+   "url": "https://www.moneycontrol.com/news/business/startup/ofbusiness-completes-100-buyout-of-indian-design-consolidates-apparel-vertical-ahead-of-ipo-next-fiscal-13713812.html",
+   "title": "OfBusiness completes 100% buyout of Indian Design, consolidates apparel vertical ahead of IPO next fiscal",
+   "tier": "T2",
+   "claim": "acquisition Indian Designs (Bengaluru apparel exporter; remaining 30% stake acquired Dec 2025 for full ownership)"
+  }
+ ],
+ "startup_id": "ofbusiness",
+ "traction": [
+  {
+   "as_of": "FY26",
+   "company_reported": true,
+   "confidence": "HIGH",
+   "metric": "consolidated_revenue",
+   "period": "FY26",
+   "source_url": "https://www.business-standard.com/markets/ipo/ofbusiness-reports-net-profit-of-724-crore-in-fy26-ahead-of-planned-ipo-126072901022_1.html",
+   "value": "Rs 20,645 cr"
+  },
+  {
+   "as_of": "FY26",
+   "company_reported": true,
+   "confidence": "HIGH",
+   "metric": "oxyzo_aum",
+   "period": "FY26",
+   "source_url": "https://www.business-standard.com/markets/ipo/ofbusiness-reports-net-profit-of-724-crore-in-fy26-ahead-of-planned-ipo-126072901022_1.html",
+   "value": "Rs 10,000 cr+ (assets Rs 11,822 cr)"
+  },
+  {
+   "metric": "consolidated_revenue",
+   "value": 20645,
+   "unit": "crore",
+   "period": "FY26",
+   "as_of": "2026-07-29",
+   "company_reported": true,
+   "source_url": "https://www.business-standard.com/markets/ipo/ofbusiness-reports-net-profit-of-724-crore-in-fy26-ahead-of-planned-ipo-126072901022_1.html",
+   "confidence": "HIGH"
+  },
+  {
+   "metric": "oxyzo_aum",
+   "value": 11000,
+   "unit": "crore",
+   "period": "As-of-2026",
+   "as_of": "2026-06-30",
+   "company_reported": true,
+   "source_url": "https://www.oxyzo.in/",
+   "confidence": "HIGH",
+   "notes": "Oxyzo homepage states 11,000+ Cr AUM"
+  },
+  {
+   "metric": "oxyzo_total_disbursed",
+   "value": 77000,
+   "unit": "crore",
+   "period": "Cumulative",
+   "as_of": "2026-06-30",
+   "company_reported": true,
+   "source_url": "https://www.oxyzo.in/",
+   "confidence": "HIGH",
+   "notes": "Rs 77,000+ Cr total disbursed"
+  },
+  {
+   "metric": "oxyzo_sme_customers",
+   "value": 100000,
+   "unit": "count",
+   "period": "As-of-2026",
+   "as_of": "2026-06-30",
+   "company_reported": true,
+   "source_url": "https://www.oxyzo.in/",
+   "confidence": "HIGH",
+   "notes": "1 Lakh+ SMEs served"
+  },
+  {
+   "metric": "ofbusiness_sme_customers",
+   "value": 50000,
+   "unit": "count",
+   "period": "FY25",
+   "as_of": "2026-04-01",
+   "company_reported": true,
+   "source_url": "https://valueforstartups.in/ofbusiness_investor_report",
+   "confidence": "MEDIUM",
+   "notes": "50K+ active SME clients"
+  },
+  {
+   "metric": "consignments_delivered",
+   "value": 170000,
+   "unit": "count",
+   "period": "FY2024",
+   "as_of": "2025-02-01",
+   "company_reported": true,
+   "source_url": "https://www.tribuneindia.com/news/business/ofbusiness-connectivity-reaches-26-states-7-uts-in-india-delivering-170000-consignments-to-smes-in-2024/",
+   "confidence": "MEDIUM",
+   "notes": "26 States + 7 UTs, 500+ cities, 15 foreign countries"
+  },
+  {
+   "metric": "oxyzo_loan_book",
+   "value": 6850,
+   "unit": "crore",
+   "period": "Q2 FY25",
+   "as_of": "2024-09-30",
+   "company_reported": true,
+   "source_url": "https://www.oxyzo.in/about",
+   "confidence": "HIGH"
+  },
+  {
+   "metric": "bidAssist_businesses",
+   "value": 1500000,
+   "unit": "count",
+   "period": "As-of-2026",
+   "as_of": "2026-06-30",
+   "company_reported": true,
+   "source_url": "https://www.ofbusiness.com/about",
+   "confidence": "MEDIUM",
+   "notes": "1.5 million businesses use BidAssist"
+  },
+  {
+   "metric": "nexizo_data_points",
+   "value": 25000000,
+   "unit": "count",
+   "period": "Annual",
+   "as_of": "2025-02-01",
+   "company_reported": true,
+   "source_url": "https://www.tribuneindia.com/news/business/ofbusiness-connectivity-reaches-26-states-7-uts-in-india-delivering-170000-consignments-to-smes-in-2024/",
+   "confidence": "MEDIUM",
+   "notes": "Nexizo.AI processes 25M data points annually for 50M+ govt tenders"
+  },
+  {
+   "metric": "oxyzo_gross_npa",
+   "value": 1.0,
+   "unit": "percent",
+   "period": "FY24",
+   "as_of": "2024-03-31",
+   "company_reported": true,
+   "source_url": "https://valueforstartups.in/ofbusiness_investor_report",
+   "confidence": "HIGH"
+  },
+  {
+   "metric": "oxyzo_states_covered",
+   "value": 20,
+   "unit": "count",
+   "period": "As-of-2025",
+   "as_of": "2025-09-25",
+   "company_reported": true,
+   "source_url": "https://www.livemint.com/news/ofbusiness-smes-oxyzo-jp-morgan-fundraising-private-equity-tiger-global-startup-raw-materials-ofb-tech-11758727780288.html",
+   "confidence": "HIGH",
+   "notes": "70+ industrial clusters across 20+ states"
+  },
+  {
+   "metric": "ofbusiness_employee_count",
+   "value": 30000,
+   "unit": "count",
+   "period": "FY26",
+   "as_of": "2026-01-01",
+   "company_reported": true,
+   "source_url": "https://linkedin.com/company/ofbusiness",
+   "confidence": "MEDIUM",
+   "notes": "LinkedIn: 30,000+ group employees; Tracxn: 1,385 official"
+  },
+  {
+   "metric": "ofbusiness_revenue_usd",
+   "value": 2500,
+   "unit": "million",
+   "period": "FY25",
+   "as_of": "2025-02-01",
+   "company_reported": true,
+   "source_url": "https://www.tribuneindia.com/news/business/ofbusiness-connectivity-reaches-26-states-7-uts-in-india-delivering-170000-consignments-to-smes-in-2024/",
+   "confidence": "MEDIUM",
+   "notes": "USD 2.5 billion in revenues"
+  }
+ ],
+ "_merged_session2": true
+}

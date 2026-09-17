@@ -1,0 +1,86 @@
+{
+ "canonical_key": "quickshift",
+ "startup_id": null,
+ "company": {
+  "company_name": "QuickShift",
+  "city": "Gurugram",
+  "state": "Haryana",
+  "primary_sector": "logistics / D2C fulfillment",
+  "founded_date": "UNKNOWN",
+  "business_model": "D2C + enterprise full-stack fulfillment, AI-led",
+  "status": "Active (private)",
+  "startup_stage": "early",
+  "public_private": "private",
+  "official_website": {
+   "v": "https://www.quickshift.in",
+   "conf": "high",
+   "src": "https://www.quickshift.in",
+   "note": "verified live 2026-09-15: name match on own homepage"
+  },
+  "website": "https://www.quickshift.in"
+ },
+ "funding_rounds": [
+  {
+   "round_type": "pre-Series A",
+   "announced_date": "2025-11-11",
+   "amount": 22,
+   "currency": "INR",
+   "amount_unit": "crore (~$2.4-2.6M)",
+   "lead_investors": [
+    "Atomic Capital"
+   ],
+   "purpose": "AI-led fulfilment platform, teams, N/S India expansion",
+   "source_url": "https://entrackr.com/snippets/quickshift-raises-rs-22-cr-in-pre-series-a-round-led-by-atomic-capital-10646544",
+   "source_title": "QuickShift raises Rs 22 Cr in pre-Series A round led by Atomic Capital",
+   "tier": "T2",
+   "confidence": "medium"
+  }
+ ],
+ "founders": [],
+ "financials": [],
+ "events": [],
+ "conflicts": [
+  {
+   "field": "funding_rounds[0].amount",
+   "claim_a": "$2.6M (Entrackr/IndianStartupTimes)",
+   "url_a": "https://entrackr.com/snippets/quickshift-raises-rs-22-cr-in-pre-series-a-round-led-by-atomic-capital-10646544",
+   "claim_b": "$2.4M (ET)",
+   "url_b": "https://m.economictimes.com/tech/funding/logistics-platform-quickshift-raises-2-4-million-from-atomic-capital-others/articleshow/125248271.cms",
+   "resolution": "FX conversion variance of same Rs 22 cr; resolved to Rs 22 cr",
+   "resolved_value": "Rs 22 crore"
+  }
+ ],
+ "sources": [
+  {
+   "url": "https://m.economictimes.com/tech/funding/logistics-platform-quickshift-raises-2-4-million-from-atomic-capital-others/articleshow/125248271.cms",
+   "title": "Logistics platform Quickshift raises $2.4 million from Atomic Capital, others",
+   "publisher": "ET",
+   "publication_date": "2025-11-11",
+   "retrieved_date": "2026-09-15",
+   "tier": "T2",
+   "claim_supported": "round corroboration",
+   "fields_supported": [
+    "funding_rounds"
+   ]
+  }
+ ],
+ "research_log": [
+  {
+   "query": "QuickShift logistics funding Atomic Capital",
+   "found": "Rs 22 cr pre-Series A, 6 corroborating outlets",
+   "unresolved": "founders, other participants, financials",
+   "next_action": "none in tail budget"
+  }
+ ],
+ "gaps": [
+  "Founders unverified; co-investors unnamed; no financials; CIN unverified."
+ ],
+ "completeness_self": {
+  "identity": 7,
+  "founders": 0,
+  "funding": 8,
+  "financials": 0,
+  "sources": 7
+ },
+ "_merged_session2": true
+}

@@ -1,0 +1,949 @@
+{
+ "company": {
+  "business_model": "B2B SaaS (HCM suite)",
+  "city": "Hyderabad",
+  "country": "India",
+  "founded_date": "2015",
+  "last_funding_date": "2025-08-14",
+  "last_funding_round": "growth (OTPP $40M)",
+  "last_known_valuation": "~$1B blended (2025 rounds); $1B+ primary claim; unicorn since Jan 2022",
+  "primary_sector": "HR-tech SaaS",
+  "public_private": "private",
+  "secondary_sectors": [
+   "AI HCM"
+  ],
+  "startup_stage": "late (unicorn)",
+  "state": "Telangana",
+  "status": "operating",
+  "cin": "U74900TG2015PTC101793",
+  "incorporation_date": "2015-11-20",
+  "legal_name": "Darwinbox Digital Solutions Private Limited",
+  "official_website": {
+   "v": "https://darwinbox.com",
+   "conf": "high",
+   "src": "https://darwinbox.com",
+   "note": "verified live 2026-09-15: name match on own homepage"
+  },
+  "website": "https://darwinbox.com",
+  "careers_website": {
+   "v": "https://darwinbox.com/careers",
+   "conf": "high",
+   "src": "official homepage path /careers",
+   "note": "verified 2026-09-15"
+  }
+ },
+ "completeness_self": {
+  "customers": 8,
+  "financials": 7,
+  "founders": 8,
+  "funding": 9,
+  "identity": 9,
+  "investors": 9,
+  "legal": 3,
+  "people": 5,
+  "products": 8,
+  "sources": 8,
+  "traction": 8
+ },
+ "conflicts": [
+  {
+   "claim_a": "$140M Mar-2025 round is an up-round, valuation >$1B (company via TechCrunch/TOI)",
+   "claim_b": "Blended primary+secondary valuation ~$950M (ET sources)",
+   "field": "mar2025_valuation",
+   "resolution": "Both preserved: primary component at up-round >$1B per company; blended incl. discounted secondary ~$950M per ET sources.",
+   "url_a": "https://techcrunch.com/2025/03/05/darwinbox-the-hr-upstart-from-india-raises-140m-to-take-on-deel-and-rippling/",
+   "url_b": "https://economictimes.indiatimes.com/tech/funding/hr-services-saas-company-darwinbox-raises-140-million-from-partners-group-kkr-others/articleshow/118731119.cms"
+  }
+ ],
+ "customers": [
+  {
+   "name": "1000+ enterprises, 4M+ employees across 130 countries (incl. Starbucks, Nivea, Cigna, WeWork, Crisil, Adidas)",
+   "source_url": "https://www.otpp.com/en-ca/about-us/news-and-insights/2025/darwinbox-secures-40-million-from-tvg/",
+   "type": "enterprise"
+  }
+ ],
+ "events": [
+  {
+   "confidence": "HIGH",
+   "date": "2025-06-24",
+   "description": "$10M (~Rs 86 cr) buyback benefiting 350+ employees; 3rd buyback in 4 years.",
+   "headline": "$10M ESOP buyback",
+   "source_url": "https://entrackr.com/news/hr-tech-unicorn-darwinbox-completes-10-mn-esop-buyback-9396193",
+   "type": "esop-buyback"
+  }
+ ],
+ "financials": [
+  {
+   "confidence": "MEDIUM",
+   "currency": "INR",
+   "fiscal_year": "FY24",
+   "metric": "total_revenue",
+   "source_date": "2025-03-05",
+   "source_title": "ET: Darwinbox closes $140M round",
+   "source_url": "https://economictimes.indiatimes.com/tech/funding/hr-services-saas-company-darwinbox-raises-140-million-from-partners-group-kkr-others/articleshow/118731119.cms",
+   "unit": "crore",
+   "value": 392,
+   "value_type": "press-quoted-filing"
+  },
+  {
+   "confidence": "MEDIUM",
+   "currency": "USD",
+   "fiscal_year": "FY25",
+   "metric": "ARR_target",
+   "source_date": "2025-03-06",
+   "source_title": "Moneycontrol: Darwinbox set to hit $100M ARR",
+   "source_url": "https://www.moneycontrol.com/news/business/startup/darwinbox-set-to-hit-100-million-arr-by-end-of-2025-expands-focus-on-ai-us-market-12957848.html",
+   "unit": "million",
+   "value": 100,
+   "value_type": "management"
+  }
+ ],
+ "founders": [
+  {
+   "confidence": "HIGH",
+   "name": "Jayant Paleti",
+   "role": "Co-founder",
+   "source_url": "https://www.otpp.com/en-ca/about-us/news-and-insights/2025/darwinbox-secures-40-million-from-tvg/",
+   "still_active": true,
+   "type": "co-founder",
+   "active": "yes",
+   "location": "Hyderabad"
+  },
+  {
+   "confidence": "HIGH",
+   "name": "Chaitanya Peddi",
+   "role": "Co-founder",
+   "source_url": "https://economictimes.indiatimes.com/tech/funding/hr-services-saas-company-darwinbox-raises-140-million-from-partners-group-kkr-others/articleshow/118731119.cms",
+   "still_active": true,
+   "type": "co-founder",
+   "active": "yes",
+   "location": "Hyderabad"
+  },
+  {
+   "confidence": "HIGH",
+   "name": "Rohit Chennamaneni",
+   "role": "Co-founder",
+   "source_url": "https://timesofindia.indiatimes.com/business/india-business/darwinbox-raises-140-million-in-funding-round-co-led-by-partners-group-kkr/articleshow/118732682.cms",
+   "still_active": true,
+   "type": "co-founder",
+   "active": "yes",
+   "location": "Hyderabad"
+  },
+  {
+   "confidence": "MEDIUM",
+   "name": "Vineet Singh",
+   "role": "Co-founder (elevated CTO, Aug 2024)",
+   "source_url": "https://economictimes.indiatimes.com/tech/funding/hr-services-saas-company-darwinbox-raises-140-million-from-partners-group-kkr-others/articleshow/118731119.cms",
+   "still_active": true,
+   "type": "co-founder",
+   "active": "yes",
+   "location": "Hyderabad"
+  }
+ ],
+ "funding_rounds": [
+  {
+   "all_investors": [
+    "Technology Crossover Ventures (TCV)"
+   ],
+   "amount": 72000000,
+   "announced_date": "2022-01-25",
+   "confidence": "HIGH",
+   "currency": "USD",
+   "lead_investors": [
+    "Technology Crossover Ventures (TCV)"
+   ],
+   "round_type": "Series D",
+   "source_title": "YourStory/TechCrunch Jan 2022 (via tinyfish discovery)",
+   "source_url": "https://techcrunch.com/2022/01/24/darwinbox-hr-tech-gartner-tcv-unicorn/",
+   "tier": "T3",
+   "valuation": "$1B+",
+   "valuation_type": "post-money"
+  },
+  {
+   "all_investors": [
+    "Partners Group",
+    "KKR",
+    "Gravity Holdings"
+   ],
+   "amount": 140000000,
+   "announced_date": "2025-03-05",
+   "confidence": "HIGH",
+   "currency": "USD",
+   "lead_investors": [
+    "Partners Group",
+    "KKR"
+   ],
+   "notes": "Mix of primary + secondary (largely secondary); Partners Group ~$75M stake",
+   "round_type": "growth",
+   "source_date": "2025-03-05",
+   "source_title": "TechCrunch: Darwinbox raises $140M",
+   "source_url": "https://techcrunch.com/2025/03/05/darwinbox-the-hr-upstart-from-india-raises-140m-to-take-on-deel-and-rippling/",
+   "tier": "T3",
+   "valuation": "~$950M blended / >$1B primary (conflict preserved)",
+   "valuation_type": "blended"
+  },
+  {
+   "all_investors": [
+    "Teachers' Venture Growth (OTPP)"
+   ],
+   "amount": 40000000,
+   "announced_date": "2025-08-14",
+   "confidence": "HIGH",
+   "currency": "USD",
+   "lead_investors": [
+    "Teachers' Venture Growth (OTPP)"
+   ],
+   "notes": "Primary + secondary; Peak XV partial selldown at ~10x",
+   "round_type": "growth",
+   "source_date": "2025-08-14",
+   "source_title": "ET: Darwinbox secures $40M from OTPP",
+   "source_url": "https://economictimes.indiatimes.com/tech/funding/darwinbox-secures-40-million-funding-from-canadas-otpp/articleshow/123306193.cms",
+   "tier": "T3",
+   "valuation": "~$1B blended",
+   "valuation_type": "blended"
+  }
+ ],
+ "gaps": [
+  "CIN / incorporation date not verified",
+  "FY25 audited revenue not verified (only ARR target + growth guidance)",
+  "Seed/Series A-C amounts not enumerated",
+  "Profitability/loss figures not verified"
+ ],
+ "investor_links": [
+  {
+   "confidence": "HIGH",
+   "investor": "Partners Group",
+   "investor_type": "PE",
+   "lead": true,
+   "rounds": [
+    "2025-03 $140M"
+   ],
+   "source_url": "https://techcrunch.com/2025/03/05/darwinbox-the-hr-upstart-from-india-raises-140m-to-take-on-deel-and-rippling/"
+  },
+  {
+   "confidence": "HIGH",
+   "investor": "KKR",
+   "investor_type": "PE",
+   "lead": true,
+   "rounds": [
+    "2025-03 $140M"
+   ],
+   "source_url": "https://techcrunch.com/2025/03/05/darwinbox-the-hr-upstart-from-india-raises-140m-to-take-on-deel-and-rippling/"
+  },
+  {
+   "confidence": "HIGH",
+   "investor": "Teachers' Venture Growth (OTPP)",
+   "investor_type": "pension-growth",
+   "rounds": [
+    "2025-08 $40M"
+   ],
+   "source_url": "https://www.otpp.com/en-ca/about-us/news-and-insights/2025/darwinbox-secures-40-million-from-tvg/"
+  },
+  {
+   "confidence": "MEDIUM",
+   "investor": "TCV",
+   "investor_type": "VC",
+   "lead": true,
+   "rounds": [
+    "Series D 2022"
+   ],
+   "source_url": "https://techcrunch.com/2022/01/24/darwinbox-hr-tech-gartner-tcv-unicorn/"
+  },
+  {
+   "confidence": "MEDIUM",
+   "investor": "Peak XV Partners",
+   "investor_type": "VC",
+   "rounds": [
+    "early",
+    "partial selldown 2025"
+   ],
+   "source_url": "https://economictimes.indiatimes.com/tech/funding/darwinbox-secures-40-million-funding-from-canadas-otpp/articleshow/123306193.cms"
+  },
+  {
+   "confidence": "MEDIUM",
+   "investor": "Lightspeed",
+   "investor_type": "VC",
+   "rounds": [
+    "Series A 2017",
+    "partial selldown 2025"
+   ],
+   "source_url": "https://economictimes.indiatimes.com/tech/funding/hr-services-saas-company-darwinbox-raises-140-million-from-partners-group-kkr-others/articleshow/118731119.cms"
+  },
+  {
+   "confidence": "MEDIUM",
+   "investor": "Microsoft",
+   "investor_type": "corporate",
+   "rounds": [
+    "extended Series D (Jan 2023, undisclosed)"
+   ],
+   "source_url": "https://www.livemint.com/companies/darwinbox-funding-kkr-partners-group-fundraise-ipo-hrtech-11740480621568.html"
+  }
+ ],
+ "locations": [
+  {
+   "city": "Hyderabad",
+   "confidence": "HIGH",
+   "source_url": "https://timesofindia.indiatimes.com/business/india-business/darwinbox-raises-140-million-in-funding-round-co-led-by-partners-group-kkr/articleshow/118732682.cms",
+   "state": "Telangana",
+   "type": "HQ"
+  }
+ ],
+ "products": [
+  {
+   "category": "HCM SaaS",
+   "description": "Mobile-first AI-enabled HCM: hiring, onboarding, attendance, payroll, engagement, analytics",
+   "name": "Darwinbox HCM platform",
+   "status": "active"
+  }
+ ],
+ "research_log": [
+  {
+   "found": "$140M Mar-2025, $40M Aug-2025, Series D $72M/unicorn, 4 founders, FY24 Rs 392 cr, $100M ARR target, ESOP buyback",
+   "next_action": "Pull MCA filings for FY25; enumerate Seed-Series C",
+   "query": "Darwinbox funding valuation founders revenue customers (web + tinyfish)",
+   "unresolved": "CIN; early rounds; FY25 audited"
+  },
+  {
+   "date": "2026-09-14",
+   "found": "CIN U74900TG2015PTC101793; incorp 20 Nov 2015; TG state-code matches Hyderabad",
+   "query": "Darwinbox Digital Solutions Private Limited CIN incorporation date",
+   "unresolved": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  }
+ ],
+ "sources": [
+  {
+   "claim_supported": "$140M co-led by KKR + Partners Group, mix primary/secondary, up-round",
+   "fields_supported": [
+    "funding_rounds",
+    "investor_links"
+   ],
+   "publication_date": "2025-03-05",
+   "publisher": "TechCrunch",
+   "retrieved_date": "2026-09-14",
+   "tier": "T3",
+   "title": "Darwinbox raises $140M",
+   "url": "https://techcrunch.com/2025/03/05/darwinbox-the-hr-upstart-from-india-raises-140m-to-take-on-deel-and-rippling/"
+  },
+  {
+   "claim_supported": "$140M details, ~$950M blended valuation, Lightspeed partial exit",
+   "fields_supported": [
+    "funding_rounds",
+    "investor_links"
+   ],
+   "publication_date": "2025-03-05",
+   "publisher": "Economic Times",
+   "retrieved_date": "2026-09-14",
+   "tier": "T3",
+   "title": "Darwinbox closes $140M round",
+   "url": "https://economictimes.indiatimes.com/tech/funding/hr-services-saas-company-darwinbox-raises-140-million-from-partners-group-kkr-others/articleshow/118731119.cms"
+  },
+  {
+   "claim_supported": "$40M from TVG/OTPP, primary+secondary, Peak XV 10x",
+   "fields_supported": [
+    "funding_rounds",
+    "investor_links"
+   ],
+   "publication_date": "2025-08-14",
+   "publisher": "Economic Times",
+   "retrieved_date": "2026-09-14",
+   "tier": "T3",
+   "title": "Darwinbox secures $40M from OTPP",
+   "url": "https://economictimes.indiatimes.com/tech/funding/darwinbox-secures-40-million-funding-from-canadas-otpp/articleshow/123306193.cms"
+  },
+  {
+   "claim_supported": "$40M raise, 1000+ enterprises, 4M employees",
+   "fields_supported": [
+    "funding_rounds",
+    "traction"
+   ],
+   "publication_date": "2025-08-14",
+   "publisher": "OTPP (company/ investor primary)",
+   "retrieved_date": "2026-09-14",
+   "tier": "T1",
+   "title": "Darwinbox secures $40M from TVG",
+   "url": "https://www.otpp.com/en-ca/about-us/news-and-insights/2025/darwinbox-secures-40-million-from-tvg/"
+  },
+  {
+   "claim_supported": "$10M ESOP buyback, 350+ employees",
+   "fields_supported": [
+    "events"
+   ],
+   "publication_date": "2025-06-24",
+   "publisher": "Entrackr",
+   "retrieved_date": "2026-09-14",
+   "tier": "T3",
+   "title": "Darwinbox completes $10M ESOP buyback",
+   "url": "https://entrackr.com/news/hr-tech-unicorn-darwinbox-completes-10-mn-esop-buyback-9396193"
+  },
+  {
+   "url": "https://www.zaubacorp.com/DARWINBOX-DIGITAL-SOLUTIONS-PRIVATE-LIMITED-U74900TG2015PTC101793",
+   "title": "DARWINBOX DIGITAL SOLUTIONS PRIVATE LIMITED - ZaubaCorp",
+   "fields": [
+    "cin",
+    "incorporation_date"
+   ],
+   "confidence": "high"
+  },
+  {
+   "url": "https://darwinbox.com/about-us/our-story",
+   "title": "Our Story | About Us - Darwinbox",
+   "tier": "T2",
+   "claim": "founder status Jayant Paleti"
+  },
+  {
+   "url": "https://www.moneycontrol.com/news/business/startup/hr-tech-saas-unicorn-darwinbox-elevates-cto-vineet-singh-as-co-founder-12810395.html",
+   "title": "HR tech SaaS unicorn Darwinbox elevates CTO Vineet Singh as co-founder",
+   "tier": "T2",
+   "claim": "founder status Vineet Singh"
+  }
+ ],
+ "startup_id": "darwinbox",
+ "traction": [
+  {
+   "as_of": "2025-08-01",
+   "metric": "enterprise_customers",
+   "source_url": "https://www.otpp.com/en-ca/about-us/news-and-insights/2025/darwinbox-secures-40-million-from-tvg/",
+   "value": "1000+ enterprises, 4M+ employees, 130 countries"
+  }
+ ],
+ "_merged_session2": true
+}

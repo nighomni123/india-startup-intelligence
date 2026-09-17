@@ -1,0 +1,1426 @@
+{
+ "acquisitions": [],
+ "canonical_key": "acko",
+ "company": {
+  "business_model": "D2C digital insurance (direct-to-consumer, licensed general + life insurer)",
+  "cin": "U74110KA2016PTC120161 (ACKO Technology & Services Pvt Ltd); General Insurance arm CIN U66000KA2016PLC138288, IRDAI Reg No 157",
+  "city": "Bengaluru",
+  "confidence": "HIGH",
+  "country": "India",
+  "customer_type": "B2C",
+  "founded_date": "2016",
+  "hq_type": "operating",
+  "incorporation_date": "2016-09-07",
+  "last_funding_date": "2025-07-30",
+  "last_funding_round": "Series E (undisclosed amount)",
+  "last_known_valuation": "~$1B (ETech Dec 2025: 'valued at slightly lower than a billion dollars'); IPO target $2-2.5B (Reuters Apr 2026, unconfirmed plan)",
+  "legal_name": "ACKO Technology & Services Private Limited (converting to Ltd per acko.com financials page)",
+  "notes": "Seed city corrected: Mumbai -> Bengaluru (company address HSR Layout, ROC Bangalore). General insurance licence 2017; life insurance licence from IRDAI 2023.",
+  "primary_sector": "insurtech",
+  "registered_office": "#36/5, Hustlehub One East, Somasandrapalya, 27th Main Rd, Sector 2, HSR Layout, Bengaluru, Karnataka 560102",
+  "secondary_sectors": [
+   "general insurance",
+   "life insurance (term-only)"
+  ],
+  "startup_id": "acko",
+  "startup_stage": "Unicorn (late stage, IPO-bound)",
+  "state": "Karnataka",
+  "status": "operating",
+  "total_funding_disclosed": "$458M+ across 8 rounds (Inc42); $598M equity per ET Nov 2025 incl. General Catalyst",
+  "website": "https://www.acko.com/",
+  "official_website": {
+   "v": "https://www.acko.com",
+   "conf": "high",
+   "src": "https://www.acko.com",
+   "note": "verified live 2026-09-15: name match on own homepage"
+  },
+  "careers_website": {
+   "v": "https://www.acko.com/careers/",
+   "conf": "high",
+   "src": "https://www.acko.com",
+   "note": "careers link found on official homepage, probed live"
+  }
+ },
+ "competitors": [
+  {
+   "basis": "explicit",
+   "confidence": "HIGH",
+   "name": "Go Digit General Insurance"
+  },
+  {
+   "basis": "explicit",
+   "confidence": "HIGH",
+   "name": "Policybazaar"
+  },
+  {
+   "basis": "explicit",
+   "confidence": "MEDIUM",
+   "name": "InsuranceDekho"
+  }
+ ],
+ "conflicts": [
+  {
+   "claim_a": "Total funding $458M (Inc42, 8 rounds)",
+   "claim_b": "Total equity funding $598M (ET, Nov 2025)",
+   "field": "total_funding_disclosed",
+   "resolution": "Unresolved; Inc42 counts disclosed rounds, ET figure may include unannounced equity. Kept both.",
+   "resolved_value": "",
+   "url_a": "http://inc42.com/company/acko/funding",
+   "url_b": "https://m.economictimes.com/tech/technology/acko-posts-rs-424-crore-loss-even-as-topline-rises-34/articleshow/125387856.cms"
+  }
+ ],
+ "customers": [],
+ "events": [
+  {
+   "announced_date": "2025-07-30",
+   "confidence": "MEDIUM",
+   "date": "2025-07-30",
+   "description": "MS Dhoni joins as investor and brand ambassador (per acko.com news cards).",
+   "headline": "MS Dhoni joins Acko as investor and brand ambassador",
+   "source_url": "https://www.acko.com/gi/enterprise",
+   "type": "partnership"
+  },
+  {
+   "announced_date": "2026-04-27",
+   "confidence": "MEDIUM",
+   "date": "2026-04-27",
+   "description": "Reuters reported Acko targeting $2-2.5B valuation, $300-500M raise, listing early 2027, bankers Morgan Stanley/ICICI Sec/Kotak; confidential DRHP filing expected within 2-3 months. Company did not comment; plan unconfirmed.",
+   "headline": "Reuters: Acko eyes $2-2.5B valuation IPO, early-2027 listing (sources)",
+   "source_url": "https://www.vccircle.com/generalatlantic-backed-acko-eyes-up-to-2-5-bn-valuation-in-ipo",
+   "type": "ipo_plan"
+  },
+  {
+   "announced_date": "2026-06",
+   "confidence": "LOW",
+   "date": "2026-06",
+   "description": "Tracxn news index references Inc42 (Jun 2026) top-brass rejig and Mint (Jun 2026) $300M IPO-by-September story; snippets only, not verified.",
+   "headline": "IPO-bound rejig; Mint reports $300M IPO by Sept at $2B valuation (unverified snippets)",
+   "source_url": "https://platform.tracxn.com/a/d/company/58bf4601e4b0e437d81e04a0/acko",
+   "type": "news"
+  }
+ ],
+ "financials": [
+  {
+   "confidence": "HIGH",
+   "currency": "INR",
+   "fiscal_year": "FY25",
+   "metric": "operating_revenue",
+   "source_date": "2025-11-17",
+   "source_title": "ACKO Narrows FY25 Loss By 36.7% To INR 424 Cr",
+   "source_url": "https://inc42.com/buzz/acko-narrows-fy25-loss-by-36-7-to-inr-424-cr",
+   "unit": "crore",
+   "value": 2836.8,
+   "value_type": "press-quoted-filing"
+  },
+  {
+   "confidence": "HIGH",
+   "currency": "INR",
+   "fiscal_year": "FY25",
+   "metric": "net_loss",
+   "source_date": "2025-11-17",
+   "source_title": "ACKO Narrows FY25 Loss By 36.7% To INR 424 Cr",
+   "source_url": "https://inc42.com/buzz/acko-narrows-fy25-loss-by-36-7-to-inr-424-cr",
+   "unit": "crore",
+   "value": -424.4,
+   "value_type": "press-quoted-filing"
+  },
+  {
+   "confidence": "HIGH",
+   "currency": "INR",
+   "fiscal_year": "FY24",
+   "metric": "operating_revenue",
+   "source_date": "2025-11-17",
+   "source_title": "ACKO Narrows FY25 Loss By 36.7% To INR 424 Cr",
+   "source_url": "https://inc42.com/buzz/acko-narrows-fy25-loss-by-36-7-to-inr-424-cr",
+   "unit": "crore",
+   "value": 2106.3,
+   "value_type": "press-quoted-filing"
+  },
+  {
+   "confidence": "HIGH",
+   "currency": "INR",
+   "fiscal_year": "FY24",
+   "metric": "net_loss",
+   "source_date": "2025-11-17",
+   "source_title": "ACKO Narrows FY25 Loss By 36.7% To INR 424 Cr",
+   "source_url": "https://inc42.com/buzz/acko-narrows-fy25-loss-by-36-7-to-inr-424-cr",
+   "unit": "crore",
+   "value": -669.9,
+   "value_type": "press-quoted-filing"
+  },
+  {
+   "metric": "FY25 operating revenue",
+   "value": "Rs 2,837 crore",
+   "unit": "INR",
+   "currency": "INR",
+   "fiscal_year": "FY25",
+   "value_type": "press-quoted-filing",
+   "basis": "",
+   "source_url": "https://entrackr.com/fintrackr/acko-posts-rs-2837-cr-revenue-in-fy25-trims-losses-by-37-10782318",
+   "source_title": "Acko posts Rs 2,837 Cr revenue in FY25",
+   "source_date": "",
+   "confidence": "HIGH",
+   "notes": ""
+  },
+  {
+   "metric": "FY25 total income",
+   "value": "Rs 2,887 crore",
+   "unit": "INR",
+   "currency": "INR",
+   "fiscal_year": "FY25",
+   "value_type": "press-quoted-filing",
+   "basis": "",
+   "source_url": "https://inc42.com/buzz/acko-narrows-fy25-loss-by-36-7-to-inr-424-cr/",
+   "source_title": "",
+   "source_date": "",
+   "confidence": "HIGH",
+   "notes": ""
+  },
+  {
+   "metric": "FY25 net loss",
+   "value": "Rs 424 crore",
+   "unit": "INR",
+   "currency": "INR",
+   "fiscal_year": "FY25",
+   "value_type": "press-quoted-filing",
+   "basis": "",
+   "source_url": "https://inc42.com/buzz/acko-narrows-fy25-loss-by-36-7-to-inr-424-cr/",
+   "source_title": "",
+   "source_date": "",
+   "confidence": "HIGH",
+   "notes": ""
+  },
+  {
+   "metric": "FY24 operating revenue",
+   "value": "Rs 2,106 crore",
+   "unit": "INR",
+   "currency": "INR",
+   "fiscal_year": "FY24",
+   "value_type": "press-quoted-filing",
+   "basis": "",
+   "source_url": "https://entrackr.com/fintrackr/acko-posts-rs-2837-cr-revenue-in-fy25-trims-losses-by-37-10782318",
+   "source_title": "Acko posts Rs 2,837 Cr revenue in FY25",
+   "source_date": "",
+   "confidence": "HIGH",
+   "notes": ""
+  },
+  {
+   "metric": "FY25 operating revenue",
+   "value": "Rs 2,837 crore",
+   "unit": "INR",
+   "currency": "INR",
+   "fiscal_year": "FY25",
+   "value_type": "press-quoted-filing",
+   "basis": "",
+   "source_url": "https://entrackr.com/fintrackr/acko-posts-rs-2837-cr-revenue-in-fy25-trims-losses-by-37-10782318",
+   "source_title": "Acko posts Rs 2,837 Cr revenue in FY25",
+   "source_date": "",
+   "confidence": "HIGH",
+   "notes": ""
+  },
+  {
+   "metric": "FY25 total income",
+   "value": "Rs 2,887 crore",
+   "unit": "INR",
+   "currency": "INR",
+   "fiscal_year": "FY25",
+   "value_type": "press-quoted-filing",
+   "basis": "",
+   "source_url": "https://inc42.com/buzz/acko-narrows-fy25-loss-by-36-7-to-inr-424-cr/",
+   "source_title": "",
+   "source_date": "",
+   "confidence": "HIGH",
+   "notes": ""
+  },
+  {
+   "metric": "FY25 net loss",
+   "value": "Rs 424 crore",
+   "unit": "INR",
+   "currency": "INR",
+   "fiscal_year": "FY25",
+   "value_type": "press-quoted-filing",
+   "basis": "",
+   "source_url": "https://inc42.com/buzz/acko-narrows-fy25-loss-by-36-7-to-inr-424-cr/",
+   "source_title": "",
+   "source_date": "",
+   "confidence": "HIGH",
+   "notes": ""
+  },
+  {
+   "metric": "FY24 operating revenue",
+   "value": "Rs 2,106 crore",
+   "unit": "INR",
+   "currency": "INR",
+   "fiscal_year": "FY24",
+   "value_type": "press-quoted-filing",
+   "basis": "",
+   "source_url": "https://entrackr.com/fintrackr/acko-posts-rs-2837-cr-revenue-in-fy25-trims-losses-by-37-10782318",
+   "source_title": "Acko posts Rs 2,837 Cr revenue in FY25",
+   "source_date": "",
+   "confidence": "HIGH",
+   "notes": ""
+  }
+ ],
+ "founders": [
+  {
+   "background": "ex-Coverfox founder (Coverfox co-founded 2013)",
+   "confidence": "HIGH",
+   "name": "Varun Dua",
+   "role": "Founder",
+   "source_url": "https://www.acko.com/about-us",
+   "still_active": true,
+   "type": "founder",
+   "active": "yes"
+  },
+  {
+   "background": "",
+   "confidence": "MEDIUM",
+   "name": "Vishwanath Ramarao (Ram)",
+   "role": "Co-Founder",
+   "source_url": "https://www.acko.com/about-us",
+   "still_active": true,
+   "type": "co-founder",
+   "active": "yes"
+  },
+  {
+   "background": "",
+   "confidence": "HIGH",
+   "name": "Ruchi Deepak",
+   "role": "Founder Emeritus",
+   "source_url": "https://www.acko.com/about-us",
+   "still_active": false,
+   "type": "founder",
+   "active": "yes"
+  }
+ ],
+ "funding_rounds": [
+  {
+   "all_investors": [
+    "General Atlantic",
+    "Multiples Private Equity",
+    "CPP Investments",
+    "Lightspeed",
+    "existing investors"
+   ],
+   "amount": 255000000,
+   "announced_date": "2021-10-28",
+   "confidence": "HIGH",
+   "currency": "USD",
+   "lead_investors": [
+    "General Atlantic",
+    "Multiples Private Equity"
+   ],
+   "purpose": "growth/expansion",
+   "round_date": "2021-10-27",
+   "round_type": "Series D",
+   "source_date": "2021-10-28",
+   "source_title": "Online insurer Acko raises $255 million for expansion drive",
+   "source_url": "https://www.thehindu.com/business/Industry/indian-online-insurer-acko-raises-255-million-for-expansion-drive/article37206002.ece",
+   "tier": "T3",
+   "valuation": "$1.1B (unicorn)",
+   "valuation_type": "post-money",
+   "announcement_date": "2021",
+   "valuation_currency": "USD",
+   "new_or_existing": "existing"
+  },
+  {
+   "all_investors": [
+    "Intact Ventures"
+   ],
+   "amount": 60000000,
+   "announced_date": "2020-09-14",
+   "confidence": "MEDIUM",
+   "currency": "USD",
+   "lead_investors": [
+    "Intact Ventures"
+   ],
+   "purpose": "",
+   "round_date": "2020-09-14",
+   "round_type": "Series D",
+   "source_date": null,
+   "source_title": "Acko Funding 2026 – Total Funding, Rounds & Investors",
+   "source_url": "http://inc42.com/company/acko/funding",
+   "tier": "T2",
+   "valuation": "",
+   "valuation_type": ""
+  },
+  {
+   "all_investors": [
+    "Elevation Capital",
+    "others"
+   ],
+   "amount": 65000000,
+   "announced_date": "2019-03-12",
+   "confidence": "MEDIUM",
+   "currency": "USD",
+   "lead_investors": [
+    "Elevation Capital"
+   ],
+   "purpose": "",
+   "round_date": "2019-03-12",
+   "round_type": "Series C",
+   "source_date": null,
+   "source_title": "Acko Funding 2026 – Total Funding, Rounds & Investors",
+   "source_url": "http://inc42.com/company/acko/funding",
+   "tier": "T2",
+   "valuation": "",
+   "valuation_type": ""
+  },
+  {
+   "all_investors": [
+    "Amazon",
+    "Catamaran",
+    "others"
+   ],
+   "amount": 12000000,
+   "announced_date": "2018-05-26",
+   "confidence": "MEDIUM",
+   "currency": "USD",
+   "lead_investors": [
+    "Amazon"
+   ],
+   "purpose": "",
+   "round_date": "2018-05-26",
+   "round_type": "Series B",
+   "source_date": null,
+   "source_title": "Acko Funding 2026 – Total Funding, Rounds & Investors",
+   "source_url": "http://inc42.com/company/acko/funding",
+   "tier": "T2",
+   "valuation": "",
+   "valuation_type": ""
+  },
+  {
+   "all_investors": [
+    "Elevation Capital",
+    "Accel",
+    "others"
+   ],
+   "amount": 30000000,
+   "announced_date": "2017-05-22",
+   "confidence": "MEDIUM",
+   "currency": "USD",
+   "lead_investors": [
+    "Elevation Capital"
+   ],
+   "purpose": "",
+   "round_date": "2017-05-22",
+   "round_type": "Seed",
+   "source_date": null,
+   "source_title": "Acko Funding 2026 – Total Funding, Rounds & Investors",
+   "source_url": "http://inc42.com/company/acko/funding",
+   "tier": "T2",
+   "valuation": "",
+   "valuation_type": ""
+  },
+  {
+   "all_investors": [
+    "General Atlantic"
+   ],
+   "amount": null,
+   "announced_date": "2023-06-06",
+   "confidence": "LOW",
+   "currency": "USD",
+   "lead_investors": [
+    "General Atlantic"
+   ],
+   "purpose": "",
+   "round_date": "2023-06-06",
+   "round_type": "Private Equity",
+   "source_date": null,
+   "source_title": "Acko Funding 2026 – Total Funding, Rounds & Investors",
+   "source_url": "http://inc42.com/company/acko/funding",
+   "tier": "T2",
+   "valuation": "",
+   "valuation_type": ""
+  },
+  {
+   "all_investors": [],
+   "amount": null,
+   "announced_date": "2025-07-30",
+   "confidence": "LOW",
+   "currency": "USD",
+   "lead_investors": [],
+   "purpose": "",
+   "round_date": "2025-07-30",
+   "round_type": "Undisclosed (late stage)",
+   "source_date": null,
+   "source_title": "Acko Funding 2026 – Total Funding, Rounds & Investors",
+   "source_url": "http://inc42.com/company/acko/funding",
+   "tier": "T2",
+   "valuation": "",
+   "valuation_type": ""
+  },
+  {
+   "round_type": "Series E",
+   "amount": "",
+   "currency": "USD",
+   "round_date": "2025-07-30",
+   "valuation": "undisclosed",
+   "valuation_currency": "USD",
+   "valuation_type": "undisclosed",
+   "lead_investors": [],
+   "all_investors": [],
+   "new_or_existing": "new",
+   "purpose": "Pre-IPO funding",
+   "source_url": "https://inc42.com/company/acko/",
+   "confidence": "HIGH",
+   "notes": "added session-2 gapfill",
+   "announcement_date": "2025-07-30"
+  }
+ ],
+ "gaps": [
+  "Exact amounts/dates of Series A/C tranches and 2023/2025 rounds not verified from primary sources",
+  "Employee count (Tracxn 1306 vs Inc42 1754) unresolved",
+  "IPO plan unconfirmed by company; DRHP filing status unknown",
+  "Life-insurance arm financials not separated",
+  "Series E amount and investors (undisclosed)",
+  "Audited FY25 financials",
+  "Exact total funding reconciliation ($458M vs $598M)",
+  "CIN verification from registry"
+ ],
+ "hiring": [],
+ "investor_links": [
+  {
+   "confidence": "HIGH",
+   "first_seen": "2021-10",
+   "investor": "General Atlantic",
+   "investor_type": "PE",
+   "lead": true,
+   "rounds": [
+    "Series D 2021"
+   ],
+   "source_url": "https://www.thehindu.com/business/Industry/indian-online-insurer-acko-raises-255-million-for-expansion-drive/article37206002.ece"
+  },
+  {
+   "confidence": "HIGH",
+   "first_seen": "2021-10",
+   "investor": "Multiples Private Equity",
+   "investor_type": "PE",
+   "lead": true,
+   "rounds": [
+    "Series D 2021"
+   ],
+   "source_url": "https://www.thehindu.com/business/Industry/indian-online-insurer-acko-raises-255-million-for-expansion-drive/article37206002.ece"
+  },
+  {
+   "confidence": "MEDIUM",
+   "first_seen": "2021-10",
+   "investor": "CPP Investments",
+   "investor_type": "pension",
+   "lead": false,
+   "rounds": [
+    "Series D 2021"
+   ],
+   "source_url": "https://www.thehindu.com/business/Industry/indian-online-insurer-acko-raises-255-million-for-expansion-drive/article37206002.ece"
+  },
+  {
+   "confidence": "MEDIUM",
+   "first_seen": "2017",
+   "investor": "Accel",
+   "investor_type": "VC",
+   "lead": false,
+   "rounds": [
+    "Seed",
+    "Series C"
+   ],
+   "source_url": "http://inc42.com/company/acko/funding"
+  },
+  {
+   "confidence": "MEDIUM",
+   "first_seen": "2018",
+   "investor": "Amazon",
+   "investor_type": "corporate",
+   "lead": false,
+   "rounds": [
+    "Series B"
+   ],
+   "source_url": "http://inc42.com/company/acko/funding"
+  },
+  {
+   "confidence": "MEDIUM",
+   "first_seen": "2017",
+   "investor": "Elevation Capital (ex-SAIF)",
+   "investor_type": "VC",
+   "lead": false,
+   "rounds": [
+    "Seed",
+    "Series C"
+   ],
+   "source_url": "http://inc42.com/company/acko/funding"
+  },
+  {
+   "confidence": "MEDIUM",
+   "first_seen": "2021-10",
+   "investor": "Lightspeed Venture Partners",
+   "investor_type": "VC",
+   "lead": false,
+   "rounds": [
+    "Series D 2021"
+   ],
+   "source_url": "https://www.thehindu.com/business/Industry/indian-online-insurer-acko-raises-255-million-for-expansion-drive/article37206002.ece"
+  }
+ ],
+ "investors_meta": [
+  {
+   "investor": "General Atlantic",
+   "type": "Private Equity",
+   "hq_geography": "USA",
+   "india_presence": "Yes",
+   "source_url": "https://thenextweb.com/news/acko-ipo-350-million-india"
+  },
+  {
+   "investor": "Accel",
+   "type": "VC",
+   "hq_geography": "USA",
+   "india_presence": "Yes",
+   "source_url": "https://thenextweb.com/news/acko-ipo-350-million-india"
+  },
+  {
+   "investor": "CPPIB (Canada Pension Plan Investment Board)",
+   "type": "Pension Fund",
+   "hq_geography": "Canada",
+   "india_presence": "Yes",
+   "source_url": "https://thenextweb.com/news/acko-ipo-350-million-india"
+  },
+  {
+   "investor": "Multiples PE",
+   "type": "Private Equity",
+   "hq_geography": "India",
+   "india_presence": "Yes",
+   "source_url": "https://thenextweb.com/news/acko-ipo-350-million-india"
+  },
+  {
+   "investor": "Amazon",
+   "type": "Corporate",
+   "hq_geography": "USA",
+   "india_presence": "Yes",
+   "source_url": "https://thenextweb.com/news/acko-ipo-350-million-india"
+  },
+  {
+   "investor": "General Atlantic",
+   "type": "Private Equity",
+   "hq_geography": "USA",
+   "india_presence": "Yes",
+   "source_url": "https://thenextweb.com/news/acko-ipo-350-million-india"
+  },
+  {
+   "investor": "Accel",
+   "type": "VC",
+   "hq_geography": "USA",
+   "india_presence": "Yes",
+   "source_url": "https://thenextweb.com/news/acko-ipo-350-million-india"
+  },
+  {
+   "investor": "CPPIB (Canada Pension Plan Investment Board)",
+   "type": "Pension Fund",
+   "hq_geography": "Canada",
+   "india_presence": "Yes",
+   "source_url": "https://thenextweb.com/news/acko-ipo-350-million-india"
+  },
+  {
+   "investor": "Multiples PE",
+   "type": "Private Equity",
+   "hq_geography": "India",
+   "india_presence": "Yes",
+   "source_url": "https://thenextweb.com/news/acko-ipo-350-million-india"
+  },
+  {
+   "investor": "Amazon",
+   "type": "Corporate",
+   "hq_geography": "USA",
+   "india_presence": "Yes",
+   "source_url": "https://thenextweb.com/news/acko-ipo-350-million-india"
+  }
+ ],
+ "ip_tech_ai": {
+  "confidence": "LOW",
+  "source_url": "",
+  "stack": "Digital-first insurance platform; AI-led restructuring reported Apr 2026 (snippet only)"
+ },
+ "legal": [
+  {
+   "confidence": "MEDIUM",
+   "dates": "Dec 2024 request rejected; May 2025 revised plan rejected; FY26 compliance deadline",
+   "regulator": "IRDAI",
+   "source_url": "https://inc42.com/buzz/acko-narrows-fy25-loss-by-36-7-to-inr-424-cr",
+   "status": "ongoing",
+   "summary": "IRDAI rejected ACKO's request for relief from Expenses of Management (EoM) limits; auditor flagged as key matter. Must comply by FY26.",
+   "type": "notice"
+  }
+ ],
+ "locations": [
+  {
+   "address_or_area": "HSR Layout, Sector 2",
+   "as_of": "2026",
+   "city": "Bengaluru",
+   "confidence": "HIGH",
+   "source_url": "https://www.acko.com/about-us",
+   "state": "Karnataka",
+   "type": "HQ"
+  }
+ ],
+ "partnerships": [],
+ "people": [
+  {
+   "confidence": "HIGH",
+   "name": "Nitin Sood",
+   "position": "Chief Financial Officer",
+   "source_url": "https://www.acko.com/about-us"
+  },
+  {
+   "name": "Varun Dua",
+   "position": "Founder",
+   "status": "active",
+   "source_url": "https://thenextweb.com/news/acko-ipo-350-million-india"
+  },
+  {
+   "name": "Ruchi Deepak",
+   "position": "Co-founder",
+   "status": "active",
+   "source_url": "https://thenextweb.com/news/acko-ipo-350-million-india"
+  }
+ ],
+ "products": [
+  {
+   "category": "motor insurance",
+   "description": "Car, bike insurance; renewals, claims filing/tracking",
+   "name": "Motor insurance",
+   "status": "active"
+  },
+  {
+   "category": "health insurance",
+   "description": "Retail + corporate/group health; life arm shifted to pure term-only model (Nov 2025)",
+   "name": "Health & Life insurance",
+   "status": "active"
+  },
+  {
+   "category": "travel insurance",
+   "description": "Travel cover incl. group travel",
+   "name": "Travel insurance",
+   "status": "active"
+  }
+ ],
+ "research_log": [
+  {
+   "found": "Series D $255M terms; FY25 financials; IRDAI EoM matter; founders; HQ; IPO-plan reports",
+   "next_action": "Verify DRHP filing when it occurs; confirm 2023/2025 round amounts",
+   "query": "ACKO funding / FY25 / founders / IPO",
+   "unresolved": "Total funding $458M vs $598M; IPO unconfirmed"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "Acko total funding amount discrepancy",
+   "found": "Inc42: $458M; NextWeb: $583M; Caplight: $595M; ET: $598M",
+   "unresolved": "Discrepancy due to counting methodology (disclosed vs total equity)"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "Acko FY25 financials",
+   "found": "Confirmed: Rs 2,837 cr revenue, Rs 424 cr net loss, 35% growth",
+   "unresolved": "Audited vs provisional figures"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "Acko IPO plans 2026",
+   "found": "Confirmed: $2-2.5B target, $300-350M raise, DRHP H2 2026",
+   "unresolved": "Exact IPO timing and raise amount"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "Acko total funding amount discrepancy",
+   "found": "Inc42: $458M; NextWeb: $583M; Caplight: $595M; ET: $598M",
+   "unresolved": "Discrepancy due to counting methodology (disclosed vs total equity)"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "Acko FY25 financials",
+   "found": "Confirmed: Rs 2,837 cr revenue, Rs 424 cr net loss, 35% growth",
+   "unresolved": "Audited vs provisional figures"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "Acko IPO plans 2026",
+   "found": "Confirmed: $2-2.5B target, $300-350M raise, DRHP H2 2026",
+   "unresolved": "Exact IPO timing and raise amount"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "Q-wave claim source-hunt",
+   "found": "6 resolved",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  }
+ ],
+ "sources": [
+  {
+   "claim_supported": "$255M Series D at $1.1B; led by GA + Multiples",
+   "fields_supported": [
+    "funding_rounds"
+   ],
+   "publication_date": "2021-10-28",
+   "publisher": "The Hindu",
+   "retrieved_date": "2026-09-14",
+   "tier": "T3",
+   "title": "Online insurer Acko raises $255 million for expansion drive",
+   "url": "https://www.thehindu.com/business/Industry/indian-online-insurer-acko-raises-255-million-for-expansion-drive/article37206002.ece"
+  },
+  {
+   "claim_supported": "Founders, journey, HQ address, CIN, leadership",
+   "fields_supported": [
+    "company",
+    "founders",
+    "locations"
+   ],
+   "publication_date": null,
+   "publisher": "ACKO",
+   "retrieved_date": "2026-09-14",
+   "tier": "T1",
+   "title": "About ACKO | Award-winning insurance",
+   "url": "https://www.acko.com/about-us"
+  },
+  {
+   "claim_supported": "FY25 revenue 2836.8cr, loss 424.4cr; IRDAI; founded 2016",
+   "fields_supported": [
+    "financials",
+    "legal"
+   ],
+   "publication_date": "2025-11-17",
+   "publisher": "Inc42",
+   "retrieved_date": "2026-09-14",
+   "tier": "T3",
+   "title": "ACKO Narrows FY25 Loss By 36.7% To INR 424 Cr",
+   "url": "https://inc42.com/buzz/acko-narrows-fy25-loss-by-36-7-to-inr-424-cr"
+  },
+  {
+   "claim_supported": "Round list; $458M total; 8 rounds",
+   "fields_supported": [
+    "funding_rounds"
+   ],
+   "publication_date": null,
+   "publisher": "Inc42",
+   "retrieved_date": "2026-09-14",
+   "tier": "T2",
+   "title": "Acko Funding 2026 – Total Funding, Rounds & Investors",
+   "url": "http://inc42.com/company/acko/funding"
+  },
+  {
+   "claim_supported": "IPO target $2-2.5B, $300-500M raise, early-2027 listing (sources)",
+   "fields_supported": [
+    "events"
+   ],
+   "publication_date": "2026-04-27",
+   "publisher": "VCCircle/Reuters",
+   "retrieved_date": "2026-09-14",
+   "tier": "T3",
+   "title": "General Atlantic-backed Acko eyes up to $2.5 bn valuation in IPO",
+   "url": "https://www.vccircle.com/generalatlantic-backed-acko-eyes-up-to-2-5-bn-valuation-in-ipo"
+  },
+  {
+   "claim_supported": "FY25 loss Rs 424cr; valued slightly below $1B; $598M equity raised",
+   "fields_supported": [
+    "financials",
+    "company"
+   ],
+   "publication_date": "2025-11-17",
+   "publisher": "ETtech",
+   "retrieved_date": "2026-09-14",
+   "tier": "T3",
+   "title": "Acko posts Rs 424 crore loss even as topline rises 34%",
+   "url": "https://m.economictimes.com/tech/technology/acko-posts-rs-424-crore-loss-even-as-topline-rises-34/articleshow/125387856.cms"
+  },
+  {
+   "url": "https://entrackr.com/fintrackr/acko-posts-rs-2837-cr-revenue-in-fy25-trims-losses-by-37-10782318",
+   "title": "",
+   "fields": "FINANCIALS",
+   "confidence": "HIGH"
+  },
+  {
+   "url": "https://inc42.com/buzz/acko-narrows-fy25-loss-by-36-7-to-inr-424-cr/",
+   "title": "",
+   "fields": "FINANCIALS",
+   "confidence": "HIGH"
+  },
+  {
+   "url": "https://inc42.com/company/acko/",
+   "title": "",
+   "fields": "FUNDING",
+   "confidence": "HIGH"
+  },
+  {
+   "url": "https://thenextweb.com/news/acko-ipo-350-million-india",
+   "title": "",
+   "fields": "FUNDING",
+   "confidence": "HIGH"
+  },
+  {
+   "url": "https://yourstory.com/companies/acko-insurance",
+   "title": "ACKO Insurance Company Profile Funding & Investors | YourStory",
+   "tier": "T2",
+   "claim": "founder status Varun Dua"
+  },
+  {
+   "url": "https://www.linkedin.com/posts/yourstory-com_meet-vishwanath-ramarao-the-innovative-activity-7209923262938583041-7Lvt",
+   "title": "Meet Vishwanath Ramarao, the innovative CPTO at Acko ... - LinkedIn",
+   "tier": "T2",
+   "claim": "founder status Vishwanath Ramarao (Ram)"
+  }
+ ],
+ "startup_id": "acko",
+ "traction": [
+  {
+   "as_of": "2026",
+   "company_reported": true,
+   "confidence": "LOW",
+   "metric": "customers served (company claim via Caproasia)",
+   "period": "cumulative",
+   "source_url": "https://www.caproasia.com/2026/04/30/india-digital-insurance-platform-acko-insurance-plans-india-ipo-to-raise-350-million-at-2-5-billion-valuation-founded-in-2016-by-varun-dua-vishwanath-ramarao-ruchi-deepak-investors-include-gene/",
+   "value": "75M+ customers; ~900M policies (company-claimed)"
+  }
+ ],
+ "completeness_self": {
+  "customers": 4,
+  "financials": 8,
+  "founders": 8,
+  "funding": 7,
+  "identity": 9,
+  "investors": 7,
+  "legal": 6,
+  "people": 4,
+  "products": 7,
+  "sources": 8,
+  "traction": 4
+ },
+ "_merged_session2": true
+}

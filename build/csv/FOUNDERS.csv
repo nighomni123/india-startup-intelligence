@@ -1,0 +1,796 @@
+founder_id,startup_id,person_id,name,role_title,founder_type,active,departure_date,education,prev_companies,linkedin,location,source_id,confidence
+FDR0001,S0001,P0001,Vimal Kumar (Vivekananthamoorthy Vimalkumar),Co-founder & CEO,co-founder,True,,,,http://linkedin.com/in/kumarvimal,Bengaluru,SRC00006,HIGH
+FDR0002,S0001,P0002,Sheetal Lalwani (Sheetal Pai),Co-founder & COO,co-founder,True,,,,https://linkedin.com/in/sheetalchainraj,Bengaluru,SRC00003,HIGH
+FDR0003,S0001,P0003,Ramanathan R.V.,Co-founder (exited 2019),co-founder,False,2019,,,,,SRC00003,MEDIUM
+FDR0004,S0002,P0005,Madhusudan Ekambaram (Madhusudan E),Co-founder & CEO,co-founder,True,,CEO; linked to Fintech Association for Consumer Empowerment,,,Bengaluru,SRC00031,HIGH
+FDR0005,S0002,P0006,Karthikeyan Krishnaswamy,Co-founder & CTO,co-founder,True,,CTO; ex-NTT Solutions per Tracxn,,,Bengaluru,SRC00041,HIGH
+FDR0006,S0002,P0007,Vivek Veda,Co-founder & CFO,co-founder,True,,CFO; ex-Societe Generale per Tracxn,,,Bengaluru,SRC00041,HIGH
+FDR0007,S0002,P0008,Madhusudan Ekambaram,Co-founder & CEO,,True,,IIM Bangalore; NUS connections,,,,SRC00031,HIGH
+FDR0008,S0003,P0014,Sameer Nigam,Co-founder & CEO,co-founder,True,,CEO; ex-Flipkart; Walmart-ecosystem executive,,https://linkedin.com/in/sanigam,Bengaluru,SRC00080,HIGH
+FDR0009,S0003,P0015,Rahul Chari,Co-founder,co-founder,True,,CTO/CPO; ex-Flipkart,,https://linkedin.com/in/rahulchari,Bengaluru,SRC00080,HIGH
+FDR0010,S0003,P0016,Burzin Engineer,Co-founder,co-founder,False,,Early co-founding engineer (per MCA/press profiles),,https://linkedin.com/in/burzinengineer,Bengaluru,SRC00080,MEDIUM
+FDR0011,S0004,P0028,Harshil Mathur,Co-founder & CEO,co-founder,True,,IIT Roorkee; CEO,,https://linkedin.com/in/harshilmathur,Bengaluru,SRC00094,HIGH
+FDR0012,S0004,P0029,Shashank Kumar,Co-founder (MD),co-founder,True,,IIT Roorkee; MD,,https://linkedin.com/in/kumarshashank,Bengaluru,SRC00094,HIGH
+FDR0013,S0005,P0031,Aadit Palicha,Co-founder & CEO,co-founder,True,,Stanford dropout; CEO; ex-Data structures/projects with Vohra; pandemic pivot from grocery-on-bicycles Mumbai,,https://linkedin.com/in/aadit-palicha,Bengaluru,SRC00110,HIGH
+FDR0014,S0005,P0032,Kaivalya Vohra,Co-founder,co-founder,True,,Stanford dropout; ops/product,,https://linkedin.com/in/kaivalya-vohra,Bengaluru,SRC00110,HIGH
+FDR0015,S0006,P0035,Sharad Sanghi,Co-founder & CEO,co-founder,True,,Founder of Netmagic (acquired by NTT Data 2016); ex-MD/CEO Netmagic till Jun 2023,,https://www.linkedin.com/in/sharadsanghi,Mumbai,SRC00118,HIGH
+FDR0016,S0006,P0036,Anindya Das,Co-founder & CTO,co-founder,True,,Former senior Netmagic executive; cloud infra/network design,,https://www.linkedin.com/in/anindya-das,Mumbai,SRC00122,HIGH
+FDR0017,S0007,P0038,Baskar Subramanian,Managing Director & CEO,co-founder,True,,CEO; IIM-B alumni cohort with co-founders,,https://linkedin.com/in/baskar-subramanian,Bengaluru,SRC00139,MEDIUM
+FDR0018,S0007,P0039,Srividhya Srinivasan,Co-founder,co-founder,True,,,,,Bengaluru,SRC00138,MEDIUM
+FDR0019,S0007,P0040,Arunachalam Srinivasan Karapattu (Srinivasan KA),Co-founder,co-founder,True,,,,,Bengaluru,SRC00138,MEDIUM
+FDR0020,S0008,P0041,Kunal Shah,Founder & CEO,founder,True,June 2026,ex-FreeCharge founder,,https://linkedin.com/in/kunalshah1,Bengaluru,SRC00145,HIGH
+FDR0021,S0009,P0042,Jayant Paleti,Co-founder,co-founder,True,,,,,Hyderabad,SRC00157,HIGH
+FDR0022,S0009,P0043,Chaitanya Peddi,Co-founder,co-founder,True,,,,,Hyderabad,SRC00155,HIGH
+FDR0023,S0009,P0044,Rohit Chennamaneni,Co-founder,co-founder,True,,,,,Hyderabad,SRC00163,HIGH
+FDR0024,S0009,P0045,Vineet Singh,"Co-founder (elevated CTO, Aug 2024)",co-founder,True,,,,,Hyderabad,SRC00155,MEDIUM
+FDR0025,S0010,P0046,Mukund Jha,Co-founder & CEO,co-founder,True,,"ex-Google; co-founder & CTO Dunzo; co-founder Wisdom.ly, Habet",,https://linkedin.com/in/mukund-jha-a1596413,San Francisco,SRC00167,HIGH
+FDR0026,S0010,P0047,Madhav Jha,Co-founder (twin brother),co-founder,True,,ex-Dropbox ML engineer; PhD Penn State; ex-Sandia; Amazon SageMaker team,,,San Francisco,SRC00170,HIGH
+FDR0027,S0011,P0048,Lalit Keshre,Co-founder & CEO,co-founder,True,,Ex-Flipkart product; founded Eduflix; Ittiam Systems; IIT Bombay EE (BTech+MTech microelectronics),,,Bengaluru,SRC00177,HIGH
+FDR0028,S0011,P0049,Harsh Jain,Co-founder & COO,co-founder,True,,Ex-Flipkart product; IIT Delhi EE + Masters Information & Communication Engineering,,,Bengaluru,SRC00177,HIGH
+FDR0029,S0011,P0050,Ishan Bansal,Co-founder,co-founder,True,,Ex-Flipkart; BITS Pilani BE + XLRI MBA (per Tracxn education data),,,Bengaluru,SRC00177,MEDIUM
+FDR0030,S0011,P0051,Neeraj Singh,Co-founder & CTO,co-founder,True,,Ex-Flipkart; technology leadership,,,Bengaluru,SRC00189,MEDIUM
+FDR0031,S0012,P0056,Beerud Sheth,Co-founder & CEO,co-founder,True,,IIT Bombay BTech + MIT MS Computer Science; founded Elance (now Upwork); Merrill Lynch/Citicorp; MIT Media Lab research,,https://www.linkedin.com/in/beerud/,San Francisco,SRC00231,HIGH
+FDR0032,S0013,P0060,Bhavish Aggarwal,Founder,founder,True,,"IIT Bombay BTech; co-founder Ola Cabs, founder Ola Electric; serial unicorn founder",,https://linkedin.com/in/bhavishaggarwal,Bengaluru,SRC00239,HIGH
+FDR0033,S0013,P0061,Krishnamurthy Venugopala Tenneti,Co-founding Director,co-founder,True,,ANI Technologies (Ola) long-time board member,,,Bengaluru,SRC00239,MEDIUM
+FDR0034,S0014,P0074,Vivek Raghavan,Co-founder,co-founder,True,,"Ex-UIDAI/Aadhaar (decade+ DPI), EkStep, Khosla Labs; ex-AI4Bharat; IIT Delhi BTech, PhD CMU/ETH",,https://linkedin.com/in/vivek-raghavan-16005424,Bengaluru,SRC00274,HIGH
+FDR0035,S0014,P0075,Pratyush Kumar,Co-founder & CEO,co-founder,True,,"Ex-Microsoft/IBM researcher, IIT Madras faculty, AI4Bharat founder; IIT Bombay BTech, PhD ETH Zurich",,,Bengaluru,SRC00274,HIGH
+FDR0036,S0015,P0076,Rajan Bajaj,"Co-founder, MD & CEO",founder,True,,"Founder, MD & CEO; largest shareholder of merged bank",,https://linkedin.com/in/rajanbajaj,Guwahati,SRC00283,HIGH
+FDR0037,S0015,P0077,Deepak Malhotra,Co-founder,co-founder,False,,Ex-co-founder,,,,SRC00284,MEDIUM
+FDR0038,S0016,P0078,Ronnie Screwvala,Co-founder & Chairperson,founder,True,,UTV founder (sold to Disney 2012); Unilazer Ventures,,https://linkedin.com/in/ronniescrewvala,Mumbai,SRC00292,HIGH
+FDR0039,S0016,P0079,Mayank Kumar,Co-founder,co-founder,False,,Exited late 2024 to found BorderPlus,,,Mumbai,SRC00289,MEDIUM
+FDR0040,S0016,P0080,Phalgun Kompalli,Co-founder,co-founder,True,,,,,Mumbai,SRC00289,MEDIUM
+FDR0041,S0016,P0081,Ravijot Chugh,Co-founder,co-founder,False,,Left earlier; joined Climb Credit (US) as CPO,,,,SRC00289,MEDIUM
+FDR0042,S0017,P0086,Ritesh Arora,Co-founder & CEO,co-founder,True,,IIT Bombay; ex-Downcase/consulting,,https://in.linkedin.com/in/ritesh-arora-browserstack,,SRC00341,HIGH
+FDR0043,S0017,P0087,Nakul Aggarwal,Co-founder & CTO,co-founder,True,,IIT Bombay; ex-Downcase/consulting,,https://in.linkedin.com/in/nakulaggarwal,,SRC00341,HIGH
+FDR0044,S0018,P0088,Pravin Jadhav,"Founder & CEO, Raise Financial Services",founder,True,,Former Paytm Money CEO,,https://in.linkedin.com/in/pravinj,Mumbai,SRC00366,HIGH
+FDR0045,S0018,P0089,Jay Prakash Gupta,Co-founder,co-founder,True,,,,,,SRC00352,HIGH
+FDR0046,S0018,P0090,Alok Pandey,Co-founder,co-founder,True,,,,,,SRC00352,HIGH
+FDR0047,S0018,P0091,Raunak Rathi,Co-founder and Director,,True,,,,,,SRC00357,MEDIUM
+FDR0048,S0019,P0092,Dharmil Sheth,Co-founder (stepped back from day-to-day Jan 2025; board/observer),co-founder,False,January 2025,,,https://in.linkedin.com/in/dharmilsheth,,SRC00369,HIGH
+FDR0049,S0019,P0093,Dhaval Shah,Co-founder (stepped back Jan 2025),co-founder,False,January 2025,,,,,SRC00369,HIGH
+FDR0050,S0019,P0094,Hardik Dedhia,Co-founder (stepped back Jan 2025),co-founder,False,January 2025,,,,,SRC00369,HIGH
+FDR0051,S0019,P0095,Siddharth Shah,"Co-founder, continuing to lead (2025)",co-founder,True,August 2025,,,,,SRC00369,HIGH
+FDR0052,S0019,P0096,Harsh Parekh,Co-founder,,True,,unknown,,,,SRC00381,MEDIUM
+FDR0053,S0020,P0100,Nalin Agrawal,Co-founder,co-founder,True,,,,https://in.linkedin.com/in/nalinagrawal,,SRC00408,HIGH
+FDR0054,S0020,P0101,Anil Gelra,Co-founder,co-founder,True,,,,https://in.linkedin.com/in/anil-gelra-91890b4,,SRC00408,HIGH
+FDR0055,S0020,P0102,Abhineet Sawa,Co-founder,co-founder,True,,,,https://in.linkedin.com/in/abhineet-sawa-31575b4,,SRC00408,HIGH
+FDR0056,S0021,P0104,Ravi Kumar,Co-founder & CEO,co-founder,True,,,,,,SRC00428,HIGH
+FDR0057,S0021,P0105,Shrini Viswanath,Co-founder,co-founder,True,,,,,,SRC00439,HIGH
+FDR0058,S0021,P0106,Raghu Kumar,Co-founder (per 2021 press; contested — see conflicts),co-founder,True,,,,,,SRC00439,MEDIUM
+FDR0059,S0021,P0107,Kavitha Subramanian,Co-founder (per TOI/company-signal; contested — see conflicts),co-founder,True,,,,,,SRC00440,MEDIUM
+FDR0060,S0021,P0108,Shrinivas Viswanath,Co-founder,,True,,Co-founded Upstox as proprietary trading firm in 2009,,,,SRC00431,HIGH
+FDR0061,S0022,P0110,Vaibhav Gupta,Co-founder & CEO,co-founder,True,,Ex-Flipkart; IIT Delhi; CEO since 2021,,,,SRC00452,HIGH
+FDR0062,S0022,P0111,Sujeet Kumar,Co-founder,co-founder,True,,"Ex-Flipkart; IIT Delhi; board member, stepped back from ops",,,,SRC00452,HIGH
+FDR0063,S0022,P0112,Amod Malviya,Co-founder,co-founder,False,,Ex-Flipkart; IIT Kharagpur; stepped back from ops,,,,SRC00452,HIGH
+FDR0064,S0023,P0114,Varun Dua,Founder,founder,True,,ex-Coverfox founder (Coverfox co-founded 2013),,,,SRC00458,HIGH
+FDR0065,S0023,P0115,Vishwanath Ramarao (Ram),Co-Founder,co-founder,True,,,,,,SRC00458,MEDIUM
+FDR0066,S0023,P0116,Ruchi Deepak,Founder Emeritus,founder,False,,,,,,SRC00458,HIGH
+FDR0067,S0024,P0118,Ashish Singhal,Co-founder & CEO,co-founder,True,,NSUT; ex-Amazon; Group CEO PeepalCo,,,,SRC00472,HIGH
+FDR0068,S0024,P0119,Govind Soni,Co-founder & CTO,co-founder,True,,Co-founder & CTO,,,,SRC00477,HIGH
+FDR0069,S0024,P0120,Vimal Sagar Tiwari,Co-founder & COO,co-founder,True,,Co-founder & COO,,https://in.linkedin.com/in/sagarvimal,,SRC00477,HIGH
+FDR0070,S0025,P0121,Mukesh Bansal,Co-founder,co-founder,True,,Myntra co-founder; IIT Kanpur; Tata Digital President,,,Bengaluru,SRC00491,HIGH
+FDR0071,S0025,P0122,Ankit Nagori,Co-founder (ex),co-founder,False,,Ex-Flipkart; founder EatFit/Curefoods,,,,SRC00497,HIGH
+FDR0072,S0025,P0123,Rishabh Telang,Co-founder & CEO,co-founder,True,,Co-founder & CEO per company records; named in Aug 2026 FIR (denies),,,,SRC00508,MEDIUM
+FDR0073,S0026,P0126,Krish Ramineni,Co-founder & CEO,co-founder,True,,Ex-Microsoft; met co-founder at UPenn/MIT,,https://www.linkedin.com/in/krishramineni,,SRC00515,HIGH
+FDR0074,S0026,P0127,Sam Udotong,Co-founder & CTO,co-founder,True,,Nigerian-American aerospace engineer,,https://www.linkedin.com/in/sudotong,United States,SRC00515,HIGH
+FDR0075,S0027,P0128,Tanmai Gopal,Co-founder & CEO,co-founder,True,,IIT Madras; ex-Microsoft/Polaris; co-founded Owlink,,,,SRC00540,HIGH
+FDR0076,S0027,P0129,Rajoshi Ghosh,Co-founder & COO,co-founder,True,,NUS; co-founded Owlink,,https://www.linkedin.com/in/rajoshighosh,San Francisco,SRC00541,HIGH
+FDR0077,S0028,P0131,Samir Bodas,Co-founder (CEO until 2025; d. 2026 per GeekWire),co-founder,False,January 2026,Ex-Microsoft; Wharton,,https://www.linkedin.com/in/samirbodas,United States,SRC00547,HIGH
+FDR0078,S0028,P0132,Monish Darda,Co-founder & CTO,co-founder,True,,Ex-Microsoft,,,Pune,SRC00547,HIGH
+FDR0079,S0029,P0134,Nilesh Patel,Co-founder & CEO,co-founder,True,,CEO,,,Mountain View,SRC00558,HIGH
+FDR0080,S0029,P0135,Prashant Singh,Co-founder & COO,co-founder,True,,COO,,,,SRC00577,HIGH
+FDR0081,S0029,P0136,Sudhakar Gorti,Co-founder,co-founder,True,,,,2023,,SRC00577,HIGH
+FDR0082,S0030,P0138,Raviteja Dodda,CEO & Co-founder,co-founder,True,,IIT Kharagpur B.Tech CSE,,,,SRC00587,HIGH
+FDR0083,S0030,P0139,Yashwanth Kumar (Kammara Yashwanth Kumar),"CTO, CISO & Co-founder",co-founder,True,,IIT Kharagpur B.Tech CSE,,https://in.linkedin.com/in/yakumar,Bengaluru,SRC00587,HIGH
+FDR0084,S0031,P0142,Puneet Agarwal,MD & CEO,founder,True,,IIT Delhi,,https://in.linkedin.com/in/puneetagarwalindia,Bengaluru,SRC00592,HIGH
+FDR0085,S0031,P0143,Sanjay Aggarwal,Executive Director & CTO,founder,True,,IIT Delhi,,,,SRC00592,HIGH
+FDR0086,S0032,P0144,Dhiraj Rajaram,Founder & CEO,founder,True,,UNKNOWN (UNVERIFIED),,,,SRC00598,HIGH
+FDR0087,S0032,P0145,Ambiga Subramanian (ne Dhiraj; reports vary: Priyanka Ashok listed on Tracxn),"Co-founder, ex-CEO",co-founder,False,,UNKNOWN,,,,SRC00598,MEDIUM
+FDR0088,S0032,P0146,Ambiga Subramanian,"Co-founder, ex-CEO",,False,,UNKNOWN,,,,SRC00598,MEDIUM
+FDR0089,S0033,P0151,Avneesh Agrawal,Co-founder & CEO,co-founder,True,,"PhD (Stanford, per secondary sources)",,,,SRC00605,HIGH
+FDR0090,S0033,P0152,David Julian,Co-founder & CTO,co-founder,False,,Stanford University,,,,SRC00605,HIGH
+FDR0091,S0034,P0155,Abhinav Asthana,Co-founder & CEO,co-founder,True,,,,,,SRC00612,HIGH
+FDR0092,S0034,P0156,Ankit Sobti,Co-founder & CTO,co-founder,True,,,,,,SRC00612,HIGH
+FDR0093,S0034,P0157,Abhijit Kane,Co-founder,co-founder,True,,,,,,SRC00612,HIGH
+FDR0094,S0035,P0160,Bhavin Turakhia,Co-founder & CEO,co-founder,True,,Directi founder; serial entrepreneur,,,,SRC00639,HIGH
+FDR0095,S0035,P0161,Ramki Gaddipati,Co-Founder & CTO,,True,,BITS Pilani,,,,SRC00631,HIGH
+FDR0096,S0035,P0162,Abhijit Jaiswal,Co-Founder,,True,,,,,,SRC00631,MEDIUM
+FDR0097,S0036,P0167,Sachin Bansal,Co-founder (exited 2018),co-founder,False,,Ex-Amazon; now founder Navi,,,,SRC00654,HIGH
+FDR0098,S0036,P0168,Binny Bansal,Co-founder (board exit Jan 2024),co-founder,False,,Ex-Amazon; startup investor,,,,SRC00647,HIGH
+FDR0099,S0037,P0172,Pranav Goel,Co-founder & CEO,co-founder,True,,,,,,SRC00669,HIGH
+FDR0100,S0037,P0173,Uttam Digga,Co-founder & COO,co-founder,True,,,,,,SRC00669,HIGH
+FDR0101,S0037,P0174,Vikas Choudhary,Co-founder,,UNKNOWN,,IIT (institution not specified in sources),,,,SRC00661,MEDIUM
+FDR0102,S0038,P0084,Gaurav Munjal,Co-founder & CEO,co-founder,True,,Flatchat founder,,,,SRC00288,HIGH
+FDR0103,S0038,P0179,Roman Saini,Co-founder,co-founder,True,,"Ex-IAS (doctor, civil servant)",,,,SRC00671,MEDIUM
+FDR0104,S0038,P0180,Hemesh Singh,Co-founder & CTO,co-founder,True,,,,,,SRC00288,MEDIUM
+FDR0105,S0039,P0183,Vamsi Krishna,Co-founder & CEO,co-founder,True,,,,,,SRC00708,HIGH
+FDR0106,S0039,P0184,Pulkit Jain,Co-founder,co-founder,True,,,,,,SRC00708,HIGH
+FDR0107,S0039,P0185,Anand Prakash,Co-founder,co-founder,True,,,,,,SRC00708,HIGH
+FDR0108,S0040,P0188,Amrit Acharya,Co-founder & CEO,co-founder,True,,Non-engineering background per FE profile,,,,SRC00714,HIGH
+FDR0109,S0040,P0189,Amrit Pratik Acharya,Co-founder & CEO,co-founder,True,,IIT,,,,SRC00714,HIGH
+FDR0110,S0040,P0190,Srinath Ramakkrushnan,Co-founder,co-founder,True,,IIT,,,,SRC00716,HIGH
+FDR0111,S0040,P0191,Vishal Chaudhary,Co-founder,co-founder,True,,IIT,,,,SRC00716,HIGH
+FDR0112,S0040,P0192,Rahul Sharma,Co-founder,co-founder,False,,IIT,,,,SRC00724,HIGH
+FDR0113,S0040,P0193,Ankit Fatehpuria,Co-founder,co-founder,True,,Joined March 2019; instrumental in setting up finance function,,,,SRC00722,HIGH
+FDR0114,S0041,P0049,Harsh Jain,Co-founder & CEO,co-founder,True,,"CEO, Dream Sports",,,,SRC00735,HIGH
+FDR0115,S0041,P0195,Bhavit Sheth,Co-founder,co-founder,True,,,,,,SRC00737,HIGH
+FDR0116,S0042,P0196,Naveen Tewari,Founder & CEO,founder,True,,"IIT Kanpur; Harvard Business School; ex-McKinsey, Charles River Ventures; Founder & CEO InMobi & Glance",,,,SRC00756,HIGH
+FDR0117,S0042,P0197,Mohit Saxena,Co-founder,co-founder,,,Co-founder,,,,SRC00753,MEDIUM
+FDR0118,S0042,P0198,Abhay Singhal,Co-founder,co-founder,,,Co-founder,,,,SRC00753,MEDIUM
+FDR0119,S0042,P0199,Piyush Shah,Co-founder,co-founder,,,Co-founder,,,,SRC00753,MEDIUM
+FDR0120,S0043,P0206,Falguni Nayar,"Founder, Executive Chairperson, MD & CEO",founder,True,,IIM Ahmedabad; 18 yrs Kotak Mahindra (MD); ex-investment banker,,,,SRC00776,HIGH
+FDR0121,S0043,P0207,Adwaita Nayar,"Co-founder; Exec Director, CEO Nykaa Fashion & Owned Brands",co-founder,True,,Yale BA; Harvard MBA,,,,SRC00782,MEDIUM
+FDR0122,S0043,P0208,Anchit Nayar,"Executive Director, CEO Beauty (family; co-founder attribution unverified)",co-founder,True,,CEO Beauty (per Q3 FY25 earnings call),,,,SRC00783,MEDIUM
+FDR0123,S0044,P0210,Jaydeep Barman,Co-founder & CEO,co-founder,True,,,,,,SRC00785,HIGH
+FDR0124,S0044,P0211,Kallol Banerjee,Co-founder,co-founder,True,,McKinsey alumnus,,,,SRC00785,HIGH
+FDR0125,S0045,P0216,Fahim Sultan (Fahim Sultan Ali),Founder,founder,True,,,,,,SRC00797,
+FDR0126,S0045,P0217,Fahim Sultan Ali,Founder,,True,,UNKNOWN,,,,SRC00797,HIGH
+FDR0127,S0046,P0219,Srikanth Velamakanni,"Co-founder, Group CEO / Executive Vice-Chairman",co-founder,True,,,,,,SRC00816,HIGH
+FDR0128,S0046,P0220,Pranay Agrawal,Co-founder & CEO (from 2016),co-founder,True,,,,,,SRC00825,HIGH
+FDR0129,S0046,P0221,Nirmal Palaparthi,Co-founder,co-founder,False,,,,,,SRC00825,MEDIUM
+FDR0130,S0046,P0222,Pradeep Suryanarayan,Co-founder,co-founder,False,,,,,,SRC00825,MEDIUM
+FDR0131,S0046,P0223,Ramakrishna Reddy,Co-founder,co-founder,False,,,,,,SRC00825,MEDIUM
+FDR0132,S0047,P0225,S. Karthik Venkateswaran,Co-founder & CEO,co-founder,True,,,,,,SRC00845,
+FDR0133,S0047,P0226,Ashish Jhina,Co-founder & COO,co-founder,True,,,,,,SRC00845,
+FDR0134,S0048,P0232,Anuj Srivastava,Co-founder (CEO/Chairman per varying sources),co-founder,True,,,,,,SRC00851,
+FDR0135,S0048,P0233,Ramakant Sharma,Co-founder & COO/CEO,co-founder,True,,,,,,SRC00851,
+FDR0136,S0048,P0234,Shagufta Anurag,Co-founder,co-founder,False,,,,,,SRC00874,
+FDR0137,S0048,P0235,Saurabh Jain,Co-founder (exited Feb 2026),,False,,Unknown,,,,SRC00860,HIGH
+FDR0138,S0049,P0241,Vidit Aatrey,"Co-founder & CEO (Chairman/MD, promoter per NSE filing)",co-founder,True,,,,,,SRC00903,
+FDR0139,S0049,P0242,Sanjeev Barnwal (Sanjeev Kumar),Co-founder & CTO,co-founder,True,,,,,,SRC00904,
+FDR0140,S0049,P0243,Videt Aatrey,Co-founder & CEO (Chairman/MD),,True,,"IIT Delhi, B.Tech Electrical Engineering",,,,SRC00899,HIGH
+FDR0141,S0049,P0244,Sanjeev Barnwal,Co-founder & CTO,,True,,"IIT Delhi, B.Tech Electrical Engineering",,,,SRC00900,HIGH
+FDR0142,S0050,P0060,Bhavish Aggarwal,Co-founder & CEO (IIT Bombay),co-founder,True,,,,,,SRC00921,
+FDR0143,S0050,P0251,Ankit Bhati,Co-founder & ex-CTO (IIT Bombay; stepped back from day-to-day),co-founder,False,,,,,,SRC00922,
+FDR0144,S0051,P0255,Aravind Sanka,Co-founder & CEO,,True,,N/A,,,,SRC00925,HIGH
+FDR0145,S0051,P0256,Pavan Guntupalli,Co-founder,,True,,N/A,,,,SRC00928,HIGH
+FDR0146,S0051,P0257,SR Rishikesh (Rishikesh SR),Co-founder (tech),co-founder,True,,,,,,SRC00942,
+FDR0147,S0051,P0258,SR Rishikesh (Rishikesh S R),Co-founder (tech),,True,,N/A,,,,SRC00943,HIGH
+FDR0148,S0052,P0260,Ankush Sachdeva,Co-founder & CEO,,True,,IIT Kanpur,,,,SRC00971,HIGH
+FDR0149,S0052,P0261,Bhanu Pratap Singh,Co-founder (stepped back from day-to-day 2023),,,,,,,,SRC00985,
+FDR0150,S0052,P0262,Farid Ahsan,Co-founder (stepped back from day-to-day 2023),,,,,,,,SRC00985,
+FDR0151,S0052,P0263,Manohar Singh Charan,Co-founder & CFO,,True,,UNKNOWN,,,,SRC00973,HIGH
+FDR0152,S0053,P0266,Nirmit Parikh,CEO / Founder,,,,,,,,SRC00998,
+FDR0153,S0053,P0267,Aryan Kenchin,Co-founder,,,,,,,,SRC00998,
+FDR0154,S0054,P0273,Shashvat Nakrani,Co-founder,co-founder,True,,IIT Delhi,,,,SRC01020,HIGH
+FDR0155,S0054,P0274,Ashneer Grover,"Co-founder (ex; joined Nov 2018, resigned Mar 2022)",co-founder,False,,"IIT Delhi, IIM Ahmedabad",,,,SRC01014,HIGH
+FDR0156,S0054,P0275,Bhavik Koladiya,Co-founder (incorporator Mar 2018; exited),co-founder,False,,Product/tech lead; later consultant; equity held via others,,,,SRC01021,MEDIUM
+FDR0157,S0055,P0278,Saurav Kumar,Founder & CEO,,,,,,,,SRC01025,
+FDR0158,S0056,P0284,Akshay Mehrotra,Co-founder & CEO,,,,,,,,SRC01046,
+FDR0159,S0056,P0285,Ashish Goyal,Co-founder & CFO,,,,,,,,SRC01045,
+FDR0160,S0057,P0286,Abhinav Shashank,Co-founder & CEO,co-founder,True,,,,,,SRC01052,HIGH
+FDR0161,S0057,P0287,Kanav Hasija,Co-founder,co-founder,True,,,,,,SRC01054,MEDIUM
+FDR0162,S0057,P0288,Sandeep Gupta,Co-founder,co-founder,True,,,,,,SRC01054,MEDIUM
+FDR0163,S0058,P0289,Awais Ahmed,Founder and CEO,founder,True,,UNKNOWN (undergraduate studies in India per OurFutureAgenda; verify),,,,SRC01077,HIGH
+FDR0164,S0058,P0290,Kshitij Khandelwal,Founder and CTO,founder,True,,UNKNOWN,,,,SRC01077,HIGH
+FDR0165,S0059,P0291,Rajashree Nambiar,"Co-founder, MD & CEO",co-founder,True,,MBA JBIMS; ex-banker,,,,SRC01095,HIGH
+FDR0166,S0059,P0292,Govind Sankaranarayanan,"Co-founder, Wholetime Director & COO",co-founder,True,,27 years at Tata; 30+ yrs experience,,,,SRC01095,HIGH
+FDR0167,S0060,P0294,Sneh Vaswani,Co-founder & CEO,co-founder,True,,IIT Bombay,,,,SRC01103,HIGH
+FDR0168,S0060,P0295,Prashant Iyengar,Co-founder & CTO,co-founder,True,,"IIT Bombay, MTech",,,,SRC01114,HIGH
+FDR0169,S0060,P0296,Chintan Raikar,Co-founder & COO,co-founder,True,,,,,,SRC01114,HIGH
+FDR0170,S0061,P0297,Ravi Ramachandran (legal: Ravishankar Ramachandran),Co-founder & CEO,co-founder,True,,CEO; ex-consumer background per company PR,,,,SRC01118,HIGH
+FDR0171,S0061,P0298,Abhishek Ramanathan,Co-founder,co-founder,UNKNOWN,,,,,,SRC01133,MEDIUM
+FDR0172,S0061,P0299,Projjol Banerjea,Director / co-founder (MCA director),co-founder,True,,,,,,SRC01121,MEDIUM
+FDR0173,S0061,P0300,Swathi Kulkarni,Co-founder (per Inc42 profile; not in MCA director list seen),co-founder,UNKNOWN,,,,,,SRC01125,LOW
+FDR0174,S0061,P0301,Ravi Ramachandran,Co-founder & CEO,,True,,CEO; ex-consumer background per company PR; founded Nua in 2017 after observing women in his life dealing with period discomfort,,,,SRC01124,HIGH
+FDR0175,S0062,P0303,Akshat Nayyar,Co-founder & CEO,co-founder,True,,CEO; telehealth/generics thesis,,,,SRC01138,HIGH
+FDR0176,S0062,P0304,Dr Kunal Wani,Co-founder,co-founder,True,,Medical doctor,,,,SRC01147,HIGH
+FDR0177,S0063,P0306,Satrajit Bhattacharya (also rendered Satrajit Siva Bhattacharya),Founder & Vice Chairman,founder,True,,Ex-HDFC 28 years; dealmaker/strategist; Founder & Vice Chairman,,,,SRC01163,HIGH
+FDR0178,S0063,P0307,Anil Kothuri,MD & CEO (co-founder),co-founder,True,,"Ex-FedFina CEO, Edelweiss Housing, Citi; MD & CEO",,,,SRC01163,HIGH
+FDR0179,S0063,P0308,Kamal Rathi,Co-founder (technology),co-founder,True,,"Ex-Kotak SVP Technology, Paytm, Barclays; technology leadership",,,,SRC01172,MEDIUM
+FDR0180,S0063,P0309,Satrajit Bhattacharya,Founder & Vice Chairman,,True,,UNKNOWN,,,,SRC01175,HIGH
+FDR0181,S0064,P0314,Amit Kumar Aggarwal,Co-founder & CEO,,,,,,,,SRC01181,
+FDR0182,S0064,P0315,Akhil Gupta,Co-founder,,,,,,,,SRC01181,
+FDR0183,S0064,P0316,Saurabh Garg,Co-founder (CPO/CBO per Inc42 2026 feature),,,,,,,,SRC01181,
+FDR0184,S0065,P0318,Pawan Kumar Chandana (Chandana),Co-founder & CEO,co-founder,True,,ISRO scientist; LVM3/Chandrayaan-3 production oversight; IIT graduate,,,,SRC01204,HIGH
+FDR0185,S0065,P0319,Naga Bharath Daka,Co-founder & CTO,co-founder,True,,ISRO scientist; IIT graduate,,,,SRC01204,HIGH
+FDR0186,S0066,P0321,Anirudh Sharma,Co-founder & CEO,,,,,,,,SRC01209,
+FDR0187,S0066,P0322,Rahul Rawat,Co-founder,,,,,,,,SRC01210,
+FDR0188,S0066,P0323,Tanveer Ahmed,Co-founder,,,,,,,,SRC01210,
+FDR0189,S0067,P0324,Trivikraman Thampy,Co-founder & Co-CEO,co-founder,True,,IIT Bombay B.Tech; NYU Economics doctorate; poker/behavioral-economics background; Co-CEO,,,,SRC01236,HIGH
+FDR0190,S0067,P0325,Bhavin Pandya,Co-founder & Co-CEO,co-founder,True,,Purdue engineering; quit NYU Economics PhD; Co-CEO,,,,SRC01236,HIGH
+FDR0191,S0067,P0326,Shubham Aryan,Co-founder,,True,,Unknown,,,,SRC01241,MEDIUM
+FDR0192,S0068,P0336,Aaditya Sharda,Co-founder,co-founder,True,,"Construction family business, decade in building materials",,,,SRC01267,HIGH
+FDR0193,S0068,P0337,Souvik Sengupta,Co-founder,co-founder,True,,"Chartered accountant, IIM Bangalore alumnus; infra/manufacturing since 2009",,,,SRC01267,HIGH
+FDR0194,S0069,P0340,Rehan Hameed,Co-Founder & CTO,co-founder,,,,,,,SRC01277,
+FDR0195,S0069,P0341,Wajahat Qadeer,Co-Founder & Chief Architect,co-founder,,,,,,,SRC01277,
+FDR0196,S0070,P0167,Sachin Bansal,"Founder, Executive Chairman",,True,,"IIT Delhi, BTech",,,,SRC01286,HIGH
+FDR0197,S0070,P0342,Ankit Agarwal,"Co-founder, ex-CFO/ED",co-founder,,,,,,,SRC01300,
+FDR0198,S0071,P0354,Thirukumaran Nagarajan,Co-founder (ex-CEO),co-founder,,,,,,,SRC01317,
+FDR0199,S0071,P0355,Kartheeswaran K K,Co-founder & CEO,co-founder,,,,,,,SRC01313,
+FDR0200,S0071,P0356,Ashutosh Vikram,Co-founder,co-founder,,,,,,,SRC01314,
+FDR0201,S0071,P0357,Sharath Loganathan,Co-founder,co-founder,,,,,,,SRC01313,
+FDR0202,S0071,P0358,Vasudevan Chinnathambi,Co-founder,co-founder,,,,,,,SRC01313,
+FDR0203,S0071,P0359,Kartheeswaran KK,Co-founder & CEO,,True,,Current CEO since Thirukumaran's sabbatical; leads company through profitability and IPO prep,,,,SRC01313,HIGH
+FDR0204,S0071,P0360,Sachin Jose,Co-founder,,False,,Listed as co-founder in Oct 2023 ET article but not on current about-us page,,,,SRC01315,MEDIUM
+FDR0205,S0072,P0370,Lokvir Kapoor,"Executive Chairman, Co-founder",co-founder,True,,"IIT Kanpur BTech, IIM Bangalore MBA; ex-Schlumberger; Executive Chairman",,,,SRC01339,MEDIUM
+FDR0206,S0072,P0371,Rajul Garg,Co-founder,co-founder,False,,Limited public detail,,,,SRC01324,MEDIUM
+FDR0207,S0072,P0372,Tarun Upadhyay (Upaday),Co-founder,co-founder,False,,,,,,SRC01332,LOW
+FDR0208,S0072,P0373,Tarun Upadhyay,Co-founder (left early),,False,,Unknown,,,,SRC01332,MEDIUM
+FDR0209,S0073,P0377,Aravind Mani,Co-founder & CEO,co-founder,,,,,,,SRC01372,
+FDR0210,S0073,P0378,Vipin George,Co-founder & CPO,co-founder,,,,,,,SRC01372,
+FDR0211,S0074,P0379,Srikrishnan Ganesan,Co-founder & CEO,co-founder,,,,,,,SRC01376,
+FDR0212,S0074,P0380,Vignesh Girishankar,Co-founder,co-founder,,,,,,,SRC01376,
+FDR0213,S0074,P0381,Deepak Bala,Co-founder & CTO,co-founder,,,,,,,SRC01376,
+FDR0214,S0075,P0382,Mohit Kumar,Co-founder & CEO,co-founder,,,,,,,SRC01397,
+FDR0215,S0075,P0383,Vatsal Singhal,Co-founder & CTO,co-founder,,,,,,,SRC01397,
+FDR0216,S0076,P0391,Sushant Goel,,co-founder,True,,,,,,SRC01438,HIGH
+FDR0217,S0076,P0392,Ayush Bathwal,,co-founder,True,,,,,,SRC01438,HIGH
+FDR0218,S0076,P0321,Anirudh Sharma,,co-founder,True,,,,,,SRC01438,HIGH
+FDR0219,S0077,P0398,Swarup Bose,Founder & CEO,founder,True,,16+ years cold chain logistics; prior cold-storage panel mfg + reefer transport ventures,,,,SRC01459,HIGH
+FDR0220,S0077,P0399,Rajneesh Raman,Co-founder & COO,co-founder,True,,,,,,SRC01458,HIGH
+FDR0221,S0077,P0400,Arbind Jain,Co-founder & CTO,co-founder,True,,,,,,SRC01458,HIGH
+FDR0222,S0078,P0401,Tanuj Shori,Founder & CEO,founder,True,,IIM Lucknow; ex-ED Nomura; Founder & CEO,,,,SRC01469,HIGH
+FDR0223,S0078,P0402,Kanika Gupta Shori,Co-founder,co-founder,True,,Wharton graduate; banking + entertainment background,,,,SRC01469,HIGH
+FDR0224,S0079,P0408,Ajinkya Kulkarni,Co-founder & CEO,co-founder,True,,,,,,SRC01478,HIGH
+FDR0225,S0079,P0409,Abhik Patel,Co-founder,co-founder,True,,,,,,SRC01483,HIGH
+FDR0226,S0079,P0410,Shashank Chimaladari,Co-founder,co-founder,True,,,,,,SRC01483,HIGH
+FDR0227,S0079,P0411,Anshul Gupta,Co-founder,co-founder,True,,,,,,SRC01483,HIGH
+FDR0228,S0080,P0412,Naman Pushp,Founder & CEO,founder,True,,,,,,SRC01486,HIGH
+FDR0229,S0081,P0413,Saurabh Chandra,Founder & CEO,founder,True,,CEO,,,,SRC01491,HIGH
+FDR0230,S0081,P0414,Vinay V (Viswanathan Vinay per Tracxn),,founder,,,,,,,SRC00088,MEDIUM
+FDR0231,S0081,P0415,Saad Nasser (alt. spelling Saad Naseer per Crunchbase),,founder,,,,,,,SRC01494,MEDIUM
+FDR0232,S0082,P0416,Ilan Zerbib,Founder & CEO,founder,True,,"5 years Shopify director of engineering, payments (per TechCrunch)",,,,SRC01498,HIGH
+FDR0233,S0083,P0417,Aman Gupta,Co-founder (CMO),co-founder,True,,Ex-Harman International director-sales; CMO; Shark Tank India,,,,SRC01506,HIGH
+FDR0234,S0083,P0418,Sameer Ashok Mehta,Co-founder,co-founder,True,,Entrepreneur; operations,,,,SRC01506,HIGH
+FDR0235,S0084,P0419,Bipin Preet Singh,Co-founder & CEO,co-founder,True,,Co-founder; CEO,,,,SRC01519,MEDIUM
+FDR0236,S0084,P0420,Upasana Taku,"Co-founder, ED & CFO",co-founder,True,,"Co-founder, ED & CFO",,,,SRC01517,HIGH
+FDR0237,S0085,P0421,Asish Mohapatra,Co-founder & CEO,co-founder,True,,CEO; IIT Kharagpur (per Business Outreach profile),,,,SRC01530,MEDIUM
+FDR0238,S0085,P0422,Bhuvan Kumar Gupta,Co-founder,co-founder,,,,,,,SRC01533,LOW
+FDR0239,S0085,P0264,Nitin Jain,Co-founder,co-founder,,,,,,,SRC01533,LOW
+FDR0240,S0085,P0423,Ruchi Kalra (Oxyzo co-founder; wife of Asish Mohapatra per VFS),"Co-founder, Oxyzo",co-founder,True,,,,,,SRC01531,LOW
+FDR0241,S0085,P0424,Ruchi Kalra,"Co-founder, CFO & WTD",,True,,IIM Ahmedabad,,,,SRC01551,HIGH
+FDR0242,S0085,P0425,Bhuvan Gupta,Co-founder & CTO,,,,Former VP Engineering at Snapdeal. Co-founded OfBusiness in 2015.,,,,SRC01552,MEDIUM
+FDR0243,S0085,P0426,Vasant Sridhar,Co-founder & CSO,,True,,IIT Madras,,,,SRC01553,MEDIUM
+FDR0244,S0085,P0427,Chandranshu Sinha,Co-founder,,,,Co-founded OfBusiness in 2015.,,,,SRC01545,MEDIUM
+FDR0245,S0085,P0190,Srinath Ramakkrushnan,Co-founder,,,,Co-founded OfBusiness in 2015.,,,,SRC01552,LOW
+FDR0246,S0086,P0430,Harsimarbir Singh,Co-founder & CEO,co-founder,True,,"Ex-MobiKwik, Urban Company (per VFS)",,,,SRC01569,HIGH
+FDR0247,S0086,P0431,Vaibhav Kapoor,Co-founder,co-founder,True,,Doctor,,,,SRC01569,HIGH
+FDR0248,S0086,P0432,Garima Sawhney,Co-founder,co-founder,True,,Doctor,,,,SRC01569,HIGH
+FDR0249,S0087,P0434,Aniket Shah,CEO & Co-founder,co-founder,True,,CEO & co-founder (per company blog),,,,SRC01582,HIGH
+FDR0250,S0087,P0435,Ujjwal Sukheja,Co-founder,co-founder,True,,,,,,SRC01582,HIGH
+FDR0251,S0087,P0436,Saran S.,Co-founder,co-founder,True,,,,,,SRC01582,HIGH
+FDR0252,S0088,P0439,Vishal Sikka,Co-founder & CEO,co-founder,True,,Former CEO Infosys (2014-2017); CTO SAP (architected HANA); founder VianAI,,,,SRC01603,HIGH
+FDR0253,S0088,P0440,Navin Budhiraja,"CTO, co-founder",co-founder,True,,Former CTO of SAP SuccessFactors,,,,SRC01603,MEDIUM
+FDR0254,S0088,P0441,Sanjay Rajagopalan,"Chief Design Officer, co-founder",co-founder,True,,,,,,SRC01603,MEDIUM
+FDR0255,S0089,P0442,Anoop Srikantaswamy,Co-founder & CEO,co-founder,True,,"Mechanical engineer, Cornell management; Toyota Kirloskar, 9+ yrs Volvo Group global vehicle programmes, Accenture e-mobility, head of product development at Ola",,,,SRC01608,HIGH
+FDR0256,S0089,P0443,Ravi Kulkarni,Co-founder & COO,co-founder,True,,Former Volvo Group colleague of Srikantaswamy,,,,SRC01610,HIGH
+FDR0257,S0090,P0444,Deepanshu Arora,Co-founder & CEO,co-founder,True,,"IIT Kanpur alumnus; previously ran network of international preschools, worked with K-12 schools",,,,SRC01613,HIGH
+FDR0258,S0090,P0445,Parita Parekh,Co-founder,co-founder,True,,,,,,SRC01613,HIGH
+FDR0259,S0090,P0446,Misbah Jafary,Co-founder,co-founder,True,,,,,,SRC01613,HIGH
+FDR0260,S0090,P0447,Gautam Arora,Co-founder,co-founder,True,,,,,,SRC01624,MEDIUM
+FDR0261,S0090,P0448,Nikhil Poonawala,Co-founder,co-founder,True,,,,,,SRC01624,MEDIUM
+FDR0262,S0091,P0452,Aayush Rai,Co-founder & CEO,co-founder,True,,IIT Roorkee (BTech IDD ECE); ex-Research Engineer Siemens; Forbes 30 Under 30 Asia 2019; YC W19,,,,SRC01635,HIGH
+FDR0263,S0091,P0453,Varun AV,Co-founder,co-founder,True,,,,,,SRC01632,HIGH
+FDR0264,S0092,P0454,Vinay Dube,Founder & CEO,founder,True,,"Ex-Jet Airways CEO, ex-GoAir; Delta/American Airlines ops research",,,,SRC01638,HIGH
+FDR0265,S0092,P0455,Rakesh Jhunjhunwala (family),Co-founder / anchor investor,co-founder,False,,Ace investor (d. Aug 2022); family holds ~40-46% via wife's name,,,,SRC01648,HIGH
+FDR0266,S0092,P0456,Aditya Ghosh,Co-founder (board),co-founder,True,,"Ex-IndiGo president; board member, <10% stake",,,,SRC01648,MEDIUM
+FDR0267,S0092,P0457,Rakesh Jhunjhunwala,Co-founder / anchor investor,,False,,Billionaire stock investor (d. Aug 2022); invested $35M for ~40% stake; family now holds ~46%,,,,SRC01650,HIGH
+FDR0268,S0092,P0458,Bhavin Joshi,Co-founder (SVP Strategy),,True,,Former Jet Airways Strategy & Projects; CFO of travel protection company,,,,SRC01644,MEDIUM
+FDR0269,S0092,P0459,Anand Srinivasan,Co-founder (CIO→CCO),,True,,Well-known data scientist; successful entrepreneur; built Akasa's revenue management platform,,,,SRC01651,MEDIUM
+FDR0270,S0092,P0460,Praveen Iyer,Co-founder (ex-CCO),,False,,25+ years in commercial and aviation technology; left airline Apr 2026,,,,SRC01651,HIGH
+FDR0271,S0092,P0461,Neelu Khatri,Co-founder (ex-SVP International),,False,,SVP International Operations; stepped down Oct 2025,,,,SRC01652,MEDIUM
+FDR0272,S0092,P0462,Sanjay Dube,Co-founder,,True,,Holds 7.59% stake per ch-aviation Sep 2023 report,,,,SRC01645,MEDIUM
+FDR0273,S0092,P0463,Niraj Dube,Co-founder,,True,,Holds 7.59% stake per ch-aviation Sep 2023 report,,,,SRC01645,MEDIUM
+FDR0274,S0093,P0411,Anshul Gupta,Co-Founder,co-founder,True,,IIT graduate; ex-Deutsche Bank analyst,,,,SRC01680,HIGH
+FDR0275,S0093,P0468,Amit Raj,Co-Founder,co-founder,True,,IIT graduate,,,,SRC01680,HIGH
+FDR0276,S0094,P0470,Ashwin Damera,Co-Founder & CEO,co-founder,True,,,,,,SRC01687,HIGH
+FDR0277,S0094,P0471,Chaitanya Kalipatnapu,Co-Founder & Executive Director,co-founder,True,,,,,,SRC01689,HIGH
+FDR0278,S0095,P0474,Rohit Chawla,Founder & CEO,founder,True,,"Founder, The Man Company; INSEAD + Carnegie Mellon",,,,SRC01726,HIGH
+FDR0279,S0095,P0475,Sifat Khurana,Co-Founder & CMO/CBO,co-founder,True,,"Ex-Ogilvy, Ex-Leo Burnett; NIFT",,,,SRC01726,HIGH
+FDR0280,S0095,P0476,Vimal Bhola,Co-Founder & Chief Scientist,co-founder,True,,"Ex-J&J, Ex-Unilever; Chief R&D Scientist",,,,SRC01726,HIGH
+FDR0281,S0096,P0482,Vaibhav Singh,Co-Founder,co-founder,True,,IIT Kharagpur; Columbia University; CFA,,,,SRC01754,HIGH
+FDR0282,S0096,P0483,Arnav Kumar,Co-Founder,co-founder,True,,IIT Kharagpur; ex-SAIF Partners VC,,,,SRC01754,HIGH
+FDR0283,S0096,P0484,Rajan Chaudhary,Co-Founder (elevated 2025),co-founder,True,,elevated from within (Entrackr Apr 2025),,,,SRC01744,MEDIUM
+FDR0284,S0096,P0485,Anshul Agarwal,CFO (Tracxn-listed as founder),,True,,unknown,,,,SRC01747,LOW
+FDR0285,S0097,P0491,Nitish Mittersain,"Founder; MD (stepped down as CEO Aug 2026, stays on strategy)",founder,True,,,,,,SRC01757,HIGH
+FDR0286,S0098,P0264,Nitin Jain,"Chairman & Managing Director, Neo Group; ex-CEO Edelweiss Wealth",founder,True,,,,,,SRC01767,HIGH
+FDR0287,S0098,P0493,Hemant Daga,"Co-founder & CEO, Neo Asset Management",co-founder,True,,,,,,SRC01766,MEDIUM
+FDR0288,S0098,P0494,Varun Bajpai,"Co-founder, Neo Group",co-founder,True,,,,,,SRC01766,MEDIUM
+FDR0289,S0098,P0495,Shajikumar Devakar,"Co-founder & CEO, Neo Wealth Management",co-founder,True,,,,,,SRC01766,MEDIUM
+FDR0290,S0098,P0496,Puneet Jain,"Co-founder & CIO, Neo Asset Management",co-founder,True,,,,,,SRC01766,MEDIUM
+FDR0291,S0099,P0501,Ranjith Mukundan,Co-founder & CEO,co-founder,True,,,,,,SRC01779,HIGH
+FDR0292,S0099,P0502,Ravishankar Shiroor,Co-founder & COO,co-founder,True,,,,,,SRC01779,HIGH
+FDR0293,S0099,P0503,Praveen Nale,Co-founder & CTO,co-founder,True,,,,,,SRC01779,HIGH
+FDR0294,S0099,P0504,Ramakrishna Adukuri,Co-founder (software),co-founder,True,,,,,,SRC01779,MEDIUM
+FDR0295,S0099,P0505,Venkatesh Seshasayee,Co-founder (domain solutions),co-founder,True,,,,,,SRC01779,MEDIUM
+FDR0296,S0100,P0506,Abhishek Agarwal (Monty),Founder,founder,True,,,,,,SRC01784,HIGH
+FDR0297,S0101,P0514,Akash Gupta,Co-founder & CEO,co-founder,True,,,,,,SRC01792,HIGH
+FDR0298,S0101,P0515,Rashi Agarwal,Co-founder & CBO,co-founder,True,,,,,,SRC01792,HIGH
+FDR0299,S0101,P0516,Tushar Mehta,Co-founder,co-founder,True,,,,,,SRC01796,MEDIUM
+FDR0300,S0102,P0517,Pankaj Poddar,"Promoter, MD & CEO",founder,True,,ex-Chief Risk Officer SBFC Finance; ex-Bajaj Finserv (SME/mortgages risk); ex-Standard Chartered (SME risk),,,,SRC01800,HIGH
+FDR0301,S0103,P0518,Shubhayu Sardar,Co-founder & COO,co-founder,True,,ex-ISRO scientist,,,,SRC01806,HIGH
+FDR0302,S0103,P0519,Prashant Sharma,Co-founder & CTO,co-founder,True,,aerospace engineer,,,,SRC01806,HIGH
+FDR0303,S0103,P0520,Manu J. Nair,Co-founder & CEO,co-founder,True,,,,,,SRC01806,HIGH
+FDR0304,S0104,P0521,Sunil Gupta,Co-founder & CEO,co-founder,True,,,,,,SRC01816,HIGH
+FDR0305,S0104,P0522,Srinivasa Rao Aluri,Co-founder & Chairman,co-founder,True,,,,,,SRC01816,HIGH
+FDR0306,S0104,P0523,Mark Mathias,Head of Production (listed in founding team; Wikipedia names as founder),founder,True,,,,,,SRC01818,MEDIUM
+FDR0307,S0104,P0524,Anil Prabhakar,Technical Advisor (Wikipedia names as founder),founder,True,,,,,,SRC01818,MEDIUM
+FDR0308,S0104,P0525,Pravin Kini,Co-founder (Tracxn),,False,,Listed as co-founder by Tracxn; not listed on company site founding team,,,,SRC01817,MEDIUM
+FDR0309,S0105,P0537,Narayan Subramaniam,Co-founder & CEO,co-founder,True,,,,,,SRC01834,HIGH
+FDR0310,S0105,P0538,Niraj Rajmohan,Co-founder & CTO,co-founder,True,,,,,,SRC01834,HIGH
+FDR0311,S0106,P0122,Ankit Nagori,"Founder, Chairman, MD & CEO",founder,True,,ex-Flipkart CBO; co-founder Cure.fit; IIT Guwahati,,,,SRC01841,HIGH
+FDR0312,S0107,P0542,Sandeep Jethwani,Co-founder,co-founder,True,,ex-IIFL Wealth Senior Managing Partner,,,,SRC01864,HIGH
+FDR0313,S0107,P0543,Vaibhav Porwal,Co-founder,co-founder,True,,ex-IIFL Wealth Senior Managing Partner,,,,SRC01864,HIGH
+FDR0314,S0107,P0544,Sahil Contractor,Co-founder,co-founder,True,,ex-IIFL Wealth Senior Managing Partner,,,,SRC01864,HIGH
+FDR0315,S0108,P0546,Apoorva Bajaj,CEO,founder,True,,,,,,SRC01872,MEDIUM
+FDR0316,S0108,P0547,Shivaani Mehrotra Bajaj,Co-founder,co-founder,True,,,,,,SRC01872,MEDIUM
+FDR0317,S0109,P0548,Saurabh Pandey,Co-founder & CEO,co-founder,True,,Ex-Flipkart P&L leader; 14+ yrs experience,,,,SRC01879,HIGH
+FDR0318,S0109,P0549,Akshay Dubey,Co-founder & COO (to Oct 2023 per LinkedIn),co-founder,False,,Ex-Flipkart; IIT KGP,,,,SRC01881,MEDIUM
+FDR0319,S0110,P0555,Ishendra Agarwal,Founder & CEO,founder,True,,CEO; IIT Kanpur alumnus,,,,SRC01910,HIGH
+FDR0320,S0110,P0556,Nikita Prasad,Co-founder,co-founder,True,,Creative Head; NIFT,,,,SRC01921,MEDIUM
+FDR0321,S0110,P0557,Aditya Labroo,Co-founder & COO,co-founder,True,,COO elevated to co-founder (Jun 2025),,,,SRC01921,MEDIUM
+FDR0322,S0110,P0558,Sachin Shetty,Co-founder (ex),,False,,UNKNOWN,,,,SRC01925,MEDIUM
+FDR0323,S0111,P0564,UNKNOWN,Founders not verified in LITE pass,founder,True,,,,,,,LOW
+FDR0324,S0112,P0507,Rahul Garg,Founder & CEO,founder,True,,IIT Kanpur; ISB,,,,SRC01945,HIGH
+FDR0325,S0113,P0565,Sai Srinivas (Garimella Sai Srinivas Kiran),Co-founder & CEO,co-founder,True,,,,,,SRC01969,HIGH
+FDR0326,S0114,P0566,Alakh Pandey,Founder & CEO,founder,True,,Not disclosed publicly,,,,SRC01970,HIGH
+FDR0327,S0114,P0567,Prateek Maheshwari,Co-Founder,co-founder,True,,IIT BHU (Mechanical Engineering),,,,SRC01970,HIGH
+FDR0328,S0115,P0568,AB Gupta (Abhijit Gupta),Co-Founder,co-founder,True,,N/A,,,,SRC01980,HIGH
+FDR0329,S0115,P0569,Nikhil Gupta,Co-Founder,co-founder,True,,N/A,,,,SRC01981,HIGH
+FDR0330,S0116,P0570,Abhishek Bansal,Co-Founder & CEO,co-founder,True,,N/A,,,,SRC01984,HIGH
+FDR0331,S0116,P0571,Vaibhav Khandelwal,Co-Founder & CTO,co-founder,True,,N/A,,,,SRC01991,HIGH
+FDR0332,S0116,P0572,Gaurav Jaithliya,Co-Founder,co-founder,True,,N/A,,,,SRC01991,HIGH
+FDR0333,S0116,P0573,Praharsh Chandra,Co-Founder,co-founder,True,,N/A,,,,SRC01986,HIGH
+FDR0334,S0117,P0574,Vasanth Kamath,Co-Founder & CEO,co-founder,True,,IIT Kharagpur,,,,SRC01998,HIGH
+FDR0335,S0117,P0575,Anugrah Shrivastava,Co-Founder,co-founder,True,,IIT Kharagpur,,,,SRC01997,HIGH
+FDR0336,S0117,P0576,Rohan Gupta,Co-Founder,co-founder,True,,IIT Kharagpur,,,,SRC01997,HIGH
+FDR0337,S0118,P0577,Ajay Lakhotia,Founder & Chief Evolution Officer,co-founder,True,,ISB (Indian School of Business); MBA Analytical Finance & Strategy,,,,SRC02002,HIGH
+FDR0338,S0118,P0578,Vijay Lakhotia,Director,co-founder,True,,N/A,,,,SRC02002,HIGH
+FDR0339,S0119,P0580,Amit Gupta,Co-Founder & CEO,co-founder,True,,"IIT Kanpur (B.Tech Mechanical Engineering, 2000); Harvard Business School Executive MBA",,,,SRC02017,HIGH
+FDR0340,S0119,P0581,RK Misra,Co-Founder,co-founder,True,,IIT Kanpur; Tokyo University; Harvard Kennedy School,,,,SRC02017,HIGH
+FDR0341,S0119,P0582,Naveen Dachuri,Co-Founder & CTO,co-founder,True,,Co-founder and CTO of Yulu,,,,SRC02013,HIGH
+FDR0342,S0119,P0583,Anuj Tewari,Co-Founder & CFO,co-founder,True,,Elevated to co-founder in November 2023; previously CFO,,,,SRC02016,HIGH
+FDR0343,S0119,P0584,Hemant Gupta,Co-Founder,co-founder,,,,,,,SRC02013,MEDIUM
+FDR0344,S0120,P0589,Sudheer Koneru,Founder & CEO,founder,,,Founded Zenoti (formerly ManageMySpa); previously CTO at Mozaik Media,,,,SRC02038,HIGH
+FDR0345,S0120,P0590,Dheeraj Koneru,Founder,co-founder,,,Co-founder; previously CTO at Mozaik Media,,,,SRC02038,HIGH
+FDR0346,S0120,P0591,Anand Arvind,Founder,co-founder,,,,,,,SRC02038,MEDIUM
+FDR0347,S0120,P0592,Saritha Katikaneni,Founder,co-founder,,,,,,,SRC02038,MEDIUM
+FDR0348,S0120,P0593,Sunil Kumar,Founder,co-founder,,,,,,,SRC02038,MEDIUM
+FDR0349,S0121,P0598,Aarti Vaishnav,Founder & CEO,founder,,,Founder and CEO of Exxat; quoted in Accel-KKR press release,,,,SRC02060,HIGH
+FDR0350,S0122,P0599,Rohan Ganapathy,Co-Founder & CEO,co-founder,,,Co-founder and CEO of Bellatrix Aerospace; quoted in Pre-Series B press release,,,,SRC02067,HIGH
+FDR0351,S0122,P0600,Yashas Karanam,Co-Founder & COO,co-founder,,,Co-founder and COO; quoted on manufacturing milestones,,,,SRC02067,HIGH
+FDR0352,S0122,P0601,Saagar Mala,Co-Founder,co-founder,,,,,,,SRC02069,MEDIUM
+FDR0353,S0123,P0602,Romita Mazumdar,Founder & CEO,founder,,,Founded Foxtale in 2021; D2C skincare brand; launched Hula Hoop by Foxtale in Dec 2025,,,,SRC02074,HIGH
+FDR0354,S0123,P0603,Surianarayanan,Co-Founder,co-founder,,,,,,,SRC02076,MEDIUM
+FDR0355,S0124,P0605,Suyash Singh,Founder & CEO,founder,True,,CEO; IIT Madras,,,,SRC02091,HIGH
+FDR0356,S0124,P0606,Denil Chawda,Co-founder,co-founder,True,,,,,,SRC02089,MEDIUM
+FDR0357,S0124,P0607,Kishan Thakkar,Co-founder,co-founder,True,,,,,,SRC02089,MEDIUM
+FDR0358,S0124,P0608,Pranit Mehta,Co-founder,co-founder,True,,,,,,SRC02089,MEDIUM
+FDR0359,S0124,P0609,Rakshit Bhatt,Co-founder,co-founder,True,,,,,,SRC02089,MEDIUM
+FDR0360,S0125,P0610,Bob Pattillo,Founder (also founder of Gray Matters Capital),founder,True,,,,,,SRC02096,HIGH
+FDR0361,S0125,P0611,Puneeth Thimmegowda,Founder,founder,True,,,,,,SRC02096,HIGH
+FDR0362,S0126,P0616,Siddharth Dungarwal,Founder & CEO,founder,True,,,,,,SRC02103,HIGH
+FDR0363,S0126,P0617,Rishabh Nigam,Co-founder,,True,,"Worked in growth roles at ZEE5, Pocket FM, upGrad",,,,SRC02107,MEDIUM
+FDR0364,S0126,P0618,Nandini Shrivastava,Co-founder,,True,,,,,,SRC02107,MEDIUM
+FDR0365,S0127,P0619,Anurag Sinha,Co-founder & CEO,co-founder,True,,,,,,SRC02118,HIGH
+FDR0366,S0127,P0620,Vibhav Hathi,Co-founder,co-founder,True,,,,,,SRC02119,HIGH
+FDR0367,S0127,P0621,Rupesh Kumar,Co-founder,co-founder,True,,,,,,SRC02119,HIGH
+FDR0368,S0128,P0622,Karan Mehta,Founder,founder,True,,"Founder, Kissht; Carnegie Mellon",,,,SRC02132,HIGH
+FDR0369,S0128,P0623,Sonali Jindal,Founder,founder,True,,"Co-founder, Kissht",,,,SRC02124,HIGH
+FDR0370,S0128,P0624,Karan Mukesh Mehta,Co-Founder,,True,,UNKNOWN,,,,SRC02127,HIGH
+FDR0371,S0129,P0625,Neha Mittal,CEO & Co-founder,co-founder,True,,"ex-head of product Retention & Growth at Pinterest and Twitter; co-founded CityStructure; founding engineer Sensorflow; ex-CZI, Goldman Sachs",,,,SRC02135,HIGH
+FDR0372,S0129,P0626,Jeff Hara,Co-founder & CTO,co-founder,True,,ML/recommendation systems (per YesPress profile),,,,SRC02134,MEDIUM
+FDR0373,S0130,P0627,Hemant Kabra (Hemant Mahendrakumar Kabra),Founder & MD,founder,True,,"Founder & MD, BGauss; angel investor",,,,SRC02151,HIGH
+FDR0374,S0130,P0628,Hemant Mahendrakumar Kabra,Founder & MD,,True,,Founder & MD of BGauss; Director of RR Global; angel investor background,,,,SRC02141,HIGH
+FDR0375,S0131,P0632,Sheetanshu Tyagi,Co-founder & CEO,co-founder,True,,,,,,SRC02159,HIGH
+FDR0376,S0131,P0633,Rahul Patel (Rahul Ratilal Patel),Co-founder,co-founder,True,,,,,,SRC02159,HIGH
+FDR0377,S0134,P0634,Krish Subramanian,CEO & Co-founder,co-founder,True,,,,,,SRC02172,HIGH
+FDR0378,S0134,P0635,Rajaraman Santhanam,CPO & Co-founder,co-founder,True,,,,,,SRC02172,HIGH
+FDR0379,S0134,P0636,Saravanan KP,CTO & Co-founder,co-founder,True,,,,,,SRC02172,HIGH
+FDR0380,S0134,P0637,Thiyagarajan T (Thiyagu),Co-founder (ex),co-founder,False,,,,,,SRC02187,MEDIUM
+FDR0381,S0135,P0645,Sahil Barua,"Co-founder, MD & CEO",co-founder,True,,,,,,SRC02219,HIGH
+FDR0382,S0135,P0646,Kapil Bharati,"Co-founder, CTO",co-founder,True,,,,,,SRC02221,HIGH
+FDR0383,S0135,P0647,Suraj Saharan,Co-founder,co-founder,True,,,,,,SRC02221,HIGH
+FDR0384,S0135,P0648,Mohit Tandon,Co-founder,co-founder,False,,,,,,SRC02221,HIGH
+FDR0385,S0135,P0649,Bhavesh Manglani,Co-founder,co-founder,False,,,,,,SRC02221,HIGH
+FDR0386,S0136,P0664,Darshan Singh Rana,"Managing Director, Chairman & Founder",founder,True,,,,,,SRC02235,HIGH
+FDR0387,S0136,P0665,Sudhir Rana,Co-founder / Director,co-founder,True,,,,,,SRC02232,HIGH
+FDR0388,S0137,P0159,Girish Mathrubootham,Founder (Executive Chairman; CEO until 2024),founder,True,,"MBA, University of Madras",,,,SRC02242,HIGH
+FDR0389,S0137,P0666,Shan Krishnasamy,Co-founder (ex),co-founder,False,,,,,,SRC02243,HIGH
+FDR0390,S0138,P0329,Ritesh Agarwal,Founder & CEO,founder,True,,,,,,SRC02250,HIGH
+FDR0391,S0139,P0657,Yashish Dahiya,Co-Founder & CEO,founder,True,,Unknown,,,,SRC02271,MEDIUM
+FDR0392,S0139,P0675,Alok Bansal,Co-Founder,co-founder,True,,Unknown,,,,SRC02271,MEDIUM
+FDR0393,S0139,P0676,Avaneesh Nirjar,Co-Founder & COO,co-founder,True,,Unknown,,,,SRC02271,MEDIUM
+FDR0394,S0139,P0677,Tarun Mathur,Co-Founder & CBO,co-founder,False,,Unknown,,,,SRC02271,MEDIUM
+FDR0395,S0139,P0678,Manoj Sharma,Co-Founder,co-founder,False,,Unknown,,,,SRC02271,MEDIUM
+FDR0396,S0140,P0679,Umesh Sachdev,Co-Founder & CEO,founder,True,,IIT Madras (incubated),,,,SRC02276,HIGH
+FDR0397,S0140,P0680,Ravi Saraogi,Co-Founder & President APAC,co-founder,True,,IIT Madras (incubated),,,,SRC02276,HIGH
+FDR0398,S0141,P0681,Abhiraj Singh Bhal,"Chairperson, MD & CEO",founder,True,,,,,,SRC02284,HIGH
+FDR0399,S0141,P0682,Raghav Chandra,Executive Director & CTOPO,co-founder,True,,,,,,SRC02284,HIGH
+FDR0400,S0141,P0683,Varun Khaitan,Executive Director & COO,co-founder,True,,,,,,SRC02284,HIGH
+FDR0401,S0142,P0684,Deepinder Goyal,"Founder, Vice Chairman & Non-Executive Director",founder,True,,IIT Delhi,,,,SRC02292,HIGH
+FDR0402,S0142,P0685,Pankaj Chaddah,Co-Founder,co-founder,False,,IIT Delhi,,,,SRC02292,HIGH
+FDR0403,S0143,P0686,Vivek Sinha,Founder & CEO,founder,True,,"MBA, ISB",,,,SRC02299,HIGH
+FDR0404,S0143,P0687,Khubaib,Co-Founder (Lanstitut),co-founder,True,,Unknown,,,,SRC02301,MEDIUM
+FDR0405,S0144,P0688,Manish Agarwal,Co-founder / Elder Council,co-founder,True,,,,,,SRC02304,
+FDR0406,S0144,P0689,Ishank Gupta,Co-founder,co-founder,True,,,,,,SRC02304,
+FDR0407,S0145,P0691,Rohit Choudhary,Co-founder & CEO,co-founder,True,,,,,,SRC02326,
+FDR0408,S0145,P0692,Keertay Agarwal,Co-founder & COO,co-founder,True,,,,,,SRC02328,
+FDR0409,S0145,P0693,Yash Banwani,Co-founder & CTO,co-founder,True,,,,,,SRC02328,
+FDR0410,S0146,P0698,Arun Papaiah,Co-founder & CEO,co-founder,True,,,,,,SRC02346,
+FDR0411,S0146,P0699,Srinivasan Namala,Co-founder,co-founder,True,,,,,,SRC02346,
+FDR0412,S0146,P0700,Aditya Kulkarni,Co-founder & CSO,co-founder,True,,,,,,SRC02347,
+FDR0413,S0146,P0701,Arun B. Papaiah,Co-founder & CEO,,True,,"MBA, Royal Melbourne Institute of Technology; BSc, Christ University",,,,SRC02349,HIGH
+FDR0414,S0147,P0712,Ankur Gigras,Co-founder & CEO,co-founder,True,,,,,,SRC02362,
+FDR0415,S0147,P0713,Vikas Chauhan,Co-founder & COO,co-founder,True,,,,,,SRC02366,
+FDR0416,S0147,P0714,Aman Priya Khanna,Co-founder,co-founder,True,,,,,,SRC02366,
+FDR0417,S0148,P0715,Abhinav Pathak,"Co-founder & CEO (ex-Perpule, acquired by Amazon)",co-founder,True,,,,,,SRC02368,
+FDR0418,S0148,P0716,Abhinav Zutshi,Co-founder (ex-Landmark Group),co-founder,True,,,,,,SRC02368,
+FDR0419,S0149,P0717,"{'v': 'Harshvardhan Lunia', 'src': 'IndiaFilings, Tracxn'}","{'v': 'Co-Founder, former CEO', 'src': 'ET'}","{'v': 'co-founder', 'src': 'Tracxn'}","{'v': 'Yes (as shareholder, legal dispute)', 'src': 'ET'}",,{},,,,SRC02387,HIGH
+FDR0420,S0149,P0718,"{'v': 'Mukul Sachan', 'src': 'Tracxn'}","{'v': 'Co-Founder (departed 2019)', 'src': 'Tracxn'}","{'v': 'co-founder', 'src': 'Tracxn'}","{'v': 'Yes (shareholder)', 'src': 'ET'}",,{},,,,SRC02386,HIGH
+FDR0421,S0150,P0657,"{'v': 'Yashish Dahiya', 'src': 'Tracxn, Avataar VC'}","{'v': 'Founder & CEO', 'src': 'Tracxn'}","{'v': 'founder', 'src': 'Tracxn'}","{'v': 'Yes', 'src': 'Tracxn'}",,{},,,,SRC02403,HIGH
+FDR0422,S0150,P0675,"{'v': 'Alok Bansal', 'src': 'Avataar VC, MCA'}","{'v': 'Co-Founder & Executive Vice Chairman', 'src': 'Avataar VC'}","{'v': 'co-founder', 'src': 'Avataar VC'}","{'v': 'Yes', 'src': 'Avataar VC'}",,{},,,,SRC02401,HIGH
+FDR0423,S0151,P0719,"{'v': 'Rustom Lawyer', 'src': 'Tracxn, Tofler'}","{'v': 'Co-Founder & CEO', 'src': 'Tracxn'}","{'v': 'co-founder', 'src': 'Tracxn'}","{'v': 'Yes', 'src': 'Tofler'}",,{},,,,SRC02404,HIGH
+FDR0424,S0151,P0720,"{'v': 'Shiraz Austin', 'src': 'Tracxn, Tofler'}","{'v': 'Co-Founder', 'src': 'Tracxn'}","{'v': 'co-founder', 'src': 'Tracxn'}","{'v': 'Yes', 'src': 'Tofler'}",,{},,,,SRC02404,HIGH
+FDR0425,S0152,P0721,"{'v': 'Ram Anant', 'src': 'Tracxn, LinkedIn, Infineon PR'}","{'v': 'Founder & CEO', 'src': 'Infineon PR'}","{'v': 'founder', 'src': 'Tracxn'}","{'v': 'Yes (joining Infineon)', 'src': 'Infineon PR'}",,{},,,,SRC02411,HIGH
+FDR0426,S0152,P0722,"{'v': 'Vikram Gakhar', 'src': 'Tracxn, LinkedIn'}","{'v': 'Co-Founder & Director, Mixed Signal Design', 'src': 'LinkedIn'}","{'v': 'co-founder', 'src': 'Tracxn'}","{'v': 'Yes', 'src': 'LinkedIn'}",,{},,,,SRC02415,HIGH
+FDR0427,S0152,P0723,"{'v': 'Preetam Tadeparthy', 'src': 'Tracxn, LinkedIn'}","{'v': 'Co-Founder, CTO & VP Engineering', 'src': 'LinkedIn'}","{'v': 'co-founder', 'src': 'Tracxn'}","{'v': 'Yes', 'src': 'LinkedIn'}",,{},,,,SRC02415,HIGH
+FDR0428,S0152,P0724,"{'v': 'Dattatreya Baragur Suryanarayana', 'src': 'Tracxn, LinkedIn'}","{'v': 'Co-Founder, Director Analog', 'src': 'LinkedIn'}","{'v': 'co-founder', 'src': 'Tracxn'}","{'v': 'Yes', 'src': 'LinkedIn'}",,{},,,,SRC02415,HIGH
+FDR0429,S0153,P0725,"{'v': 'Nikhil Ramaswamy', 'src': 'Tracxn, LinkedIn'}","{'v': 'Co-Founder & CEO', 'src': 'Tracxn'}","{'v': 'co-founder', 'src': 'Tracxn'}","{'v': 'Yes', 'src': 'LinkedIn'}",,{},,,,SRC02420,HIGH
+FDR0430,S0153,P0726,"{'v': 'Gokul N A', 'src': 'Tracxn, LinkedIn'}","{'v': 'Founder (Design, Product & Brand)', 'src': 'LinkedIn'}","{'v': 'founder', 'src': 'Tracxn'}","{'v': 'Yes', 'src': 'LinkedIn'}",,{},,,,SRC02420,HIGH
+FDR0431,S0153,P0725,Nikhil Ramaswamy,Co-Founder & CEO,,True,,BE (Hons) BITS Pilani (2007-2011),,,,SRC02437,HIGH
+FDR0432,S0153,P0727,Gokul NA,"Founder - Design, Product & Brand / CTO",,True,,Not disclosed,,,,SRC02420,HIGH
+FDR0433,S0154,P0730,Srivatsan Sridhar,Co-founder and CEO,co-founder,True,,"Engineering degree from Coimbatore Institute of Technology, MBA from Indian School of Business",,,,SRC02442,HIGH
+FDR0434,S0154,P0731,Movin Jain,Co-founder,co-founder,True,,"B.Tech Computer Science from IIT Delhi, MBA from IIM Ahmedabad",,,,SRC02456,HIGH
+FDR0435,S0155,P0735,Arjun P. Gupta,Founder & CEO,founder,True,,UC Berkeley,,,,SRC02467,HIGH
+FDR0436,S0155,P0736,Sidhartha P. Gupta,Co-founder & CFO,co-founder,True,,USC Marshall School of Business,,,,SRC02468,HIGH
+FDR0437,S0155,P0737,Ujjal Majumdar,Co-founder & COO,co-founder,True,,Unknown,,,,SRC02459,MEDIUM
+FDR0438,S0156,P0738,Rakesh Malik,Co-founder & CEO,co-founder,True,,"B.E. Electronics and Electrical Communications, Punjab Engineering College",,,,SRC02470,HIGH
+FDR0439,S0156,P0739,Pratap Narayan Singh,Co-founder & CTO,co-founder,True,,"B.Tech Electrical Engineering, IIT Roorkee",,,,SRC02470,HIGH
+FDR0440,S0157,P0744,Dr. Sonam Kothari,Founder,founder,True,,Unknown,,,,SRC02481,HIGH
+FDR0441,S0157,P0745,Dr. Abhishek Sen,Founder,founder,True,,Unknown,,,,SRC02481,HIGH
+FDR0442,S0158,P0746,Vineeta Singh,CEO,,True,,IIM Ahmedabad,,,,SRC02495,HIGH
+FDR0443,S0158,P0747,Kaushik Mukherjee,COO,,True,,IIM Ahmedabad,,,,SRC02498,HIGH
+FDR0444,S0159,P0750,Prem Bhatia,CEO / Co-founder,co-founder,,,,,,,SRC02509,
+FDR0445,S0159,P0751,Ashwin Puri,Co-founder,co-founder,,,,,,,SRC00088,
+FDR0446,S0159,P0752,Vivek P.,Co-founder & CTO,,True,,"MS, PhD Carnegie Mellon University; BBS Savitribai Phule Pune University",,,,SRC02505,HIGH
+FDR0447,S0161,P0759,Dheemanth Nagaraj,,co-founder,,,,,,,SRC02538,
+FDR0448,S0161,P0760,Ashok Jagannathan,,co-founder,,,,,,,SRC02538,
+FDR0449,S0161,P0761,Srikanth Nimmagadda,,co-founder,,,,,,,SRC02538,
+FDR0450,S0161,P0762,Rajesh Vivekanandham,,co-founder,,,,,,,SRC02538,
+FDR0451,S0162,P0764,Sangeet Agrawal,,co-founder,,,,,,,SRC02556,
+FDR0452,S0162,P0765,Navin Parwal,,co-founder,,,,,,,SRC02556,
+FDR0453,S0163,P0770,Amitava Saha,,co-founder,,,,,,,SRC02564,
+FDR0454,S0163,P0771,Supam Maheshwari,,co-founder,,,,,,,SRC02564,
+FDR0455,S0163,P0772,Supam Satyanarayan Maheshwari,Co-Founder,,True,,"Serial entrepreneur; founder of Babyhug, WorldOfMoms, Brainvisa Technologies; serves on boards of 4 companies",,,,SRC02565,HIGH
+FDR0456,S0163,P0773,Rajdeep Meda,Co-Founder,,True,,,,,,SRC02565,MEDIUM
+FDR0457,S0163,P0774,Macey Quinn,Co-Founder,,True,,,,,,SRC02565,MEDIUM
+FDR0458,S0163,P0775,Shaikh Awesh,Co-Founder,,True,,,,,,SRC02565,MEDIUM
+FDR0459,S0163,P0776,Johnson Smith,Co-Founder,,True,,,,,,SRC02565,MEDIUM
+FDR0460,S0163,P0777,Devendra Kumari,Co-Founder,,True,,,,,,SRC02565,MEDIUM
+FDR0461,S0164,P0783,Amit Chawla,,founder,,,,,,,SRC02572,MEDIUM
+FDR0462,S0164,P0784,Shreeram Ramanathan,,founder,,,,,,,SRC02572,MEDIUM
+FDR0463,S0164,P0785,Amit Kumar Chawla,Co-Founder & CEO,,True,,Co-founded Fundly.ai in 2021; described as bringing experience from RBL Bank context (per fundedstartupsdaily). CEO since inception.,,,,SRC02576,HIGH
+FDR0464,S0164,P0786,Shreeram V Ramanathan,Co-Founder,,True,,Co-founded Fundly.ai in 2021. Active on LinkedIn posting about the Pre-Series A raise.,,,,SRC02583,HIGH
+FDR0465,S0164,P0787,Neha Ramcharanlal Virmani,Co-Founder,,True,,Listed by Tracxn as co-founder; no press coverage found.,,,,SRC02576,LOW
+FDR0466,S0164,P0788,Veena Vinod Chawla,Co-Founder,,True,,Listed by Tracxn as co-founder; no press coverage found.,,,,SRC02576,LOW
+FDR0467,S0165,P0790,Mohit Anand,Co-founder and CEO,,True,,"IIT BHU (BHU), Varanasi",,,,SRC02593,HIGH
+FDR0468,S0165,P0791,Sarthak Dubey,Co-founder and COO,,True,,Manipal Institute of Technology,,,,SRC02593,HIGH
+FDR0469,S0165,P0792,Mayank Morya,Co-founder and CTO,,True,,IIT Mandi,,,,SRC02591,HIGH
+FDR0470,S0165,P0793,Akshit Kaushik,Co-founder and CBO,,True,,IIT BHU,,,,SRC02591,HIGH
+FDR0471,S0166,P0797,Jugal Anchalia,Co-founder & CEO,co-founder,,,,,,,SRC02600,HIGH
+FDR0472,S0166,P0798,Abhishek Kumar,,co-founder,,,,,,,SRC02600,HIGH
+FDR0473,S0167,P0799,Geetansh Bamania,"Promoter, Chairperson & co-founder",co-founder,,,,,,,SRC02610,HIGH
+FDR0474,S0167,P0800,Ajay Nain,,co-founder,,,,,,,SRC02611,MEDIUM
+FDR0475,S0168,P0033,Albinder Dhindsa,,founder,,,,,,,SRC02613,HIGH
+FDR0476,S0168,P0802,Saurabh Kumar,,founder,,,,,,,SRC02613,HIGH
+FDR0477,S0169,P0803,"{'v': 'Ankush Malik', 'conf': 'high', 'src': 'Fortune India'}","{'v': 'CEO', 'type': 'co-founder'}",,True,,{'v': 'Renewable energy IPP executive'},,,,SRC02621,HIGH
+FDR0478,S0170,P0564,"{'v': 'UNKNOWN', 'conf': 'low', 'src': 'Failory lists founders as —'}","{'v': 'Founder(s)', 'type': 'founder'}",,True,,{'v': 'Not identified in sources'},,,,SRC02622,LOW
+FDR0479,S0171,P0804,"{'v': 'Sriharsha Majety', 'conf': 'high', 'src': 'Inventiva'}","{'v': 'CEO', 'type': 'co-founder'}",,True,,{'v': 'CEO of Swiggy; candid in shareholder letters'},,,,SRC02632,HIGH
+FDR0480,S0171,P0805,"{'v': 'Nandan Reddy', 'conf': 'medium', 'src': 'General knowledge'}","{'v': 'Co-founder', 'type': 'co-founder'}",,True,,,,,,SRC02631,LOW
+FDR0481,S0171,P0806,"{'v': 'Rahul Jaimini', 'conf': 'medium', 'src': 'General knowledge'}","{'v': 'Co-founder', 'type': 'co-founder'}",,False,,,,,,SRC02631,LOW
+FDR0482,S0172,P0807,"{'v': 'Shubham Gupta', 'conf': 'high', 'src': 'foundersday, Entrackr'}","{'v': 'Founder', 'type': 'founder'}",,True,,"{'v': ""Started brand out of economic necessity when father's textile business faced bankruptcy""}",,,,SRC02640,HIGH
+FDR0483,S0172,P0808,"{'v': 'Sanjay Gupta', 'conf': 'medium', 'src': 'Entrackr (RoC filing)'}","{'v': 'Co-founder/Director', 'type': 'co-founder'}",,True,,,,,,SRC02638,MEDIUM
+FDR0484,S0172,P0809,"{'v': 'Reena Gupta', 'conf': 'medium', 'src': 'Entrackr (RoC filing)'}","{'v': 'Co-founder/Director', 'type': 'co-founder'}",,True,,,,,,SRC02638,MEDIUM
+FDR0485,S0173,P0810,"{'v': 'Aridni Shah', 'conf': 'high', 'src': 'Inc42'}","{'v': 'Cofounder and CEO', 'type': 'co-founder'}",,True,,{'v': 'AI/biotech entrepreneur; leads antibody therapeutics development'},,,,SRC02644,HIGH
+FDR0486,S0173,P0811,"{'v': 'Trisha Chatterjee', 'conf': 'high', 'src': 'Inc42'}","{'v': 'Cofounder', 'type': 'co-founder'}",,True,,{'v': 'Co-founded immunitoAI with Aridni Shah in 2020'},,,,SRC02644,HIGH
+FDR0487,S0174,P0593,Sunil Kumar,Co-Founder & CEO,founder,True,,"Former Intel, ARM, Broadcom; co-founder of Zenoti (SaaS unicorn)",,,,SRC02653,HIGH
+FDR0488,S0174,P0812,Renuka Prasad,Co-Founder,co-founder,True,,,,,,SRC02653,MEDIUM
+FDR0489,S0174,P0813,Kanagaraju Ponnusamy,Co-Founder & Head of Engineering,co-founder,True,,,,,,SRC02654,HIGH
+FDR0490,S0174,P0814,Dinesh Annayya,Co-Founder,co-founder,True,,,,,,SRC02651,HIGH
+FDR0491,S0174,P0815,Harpreet Wadhawan,Co-Founder,co-founder,True,,,,,,SRC02653,MEDIUM
+FDR0492,S0174,P0816,Jansen Cheng,VP Global BD & Co-Founder,co-founder,True,,,,,,SRC02655,HIGH
+FDR0493,S0175,P0817,Kishan Aswath,Co-Founder & CEO,founder,True,,Previously led Enterprise Architecture at Happiest Minds Technologies,,,,SRC02663,HIGH
+FDR0494,S0175,P0818,Amit Ashok Kulkarni,Co-Founder & CTO,co-founder,True,,20+ years in enterprise SaaS; drives product and North America sales,,,,SRC02663,HIGH
+FDR0495,S0175,P0819,Ranganath Seetharamu,Co-Founder & COO,co-founder,True,,22+ years in senior management roles,,,,SRC02663,HIGH
+FDR0496,S0176,P0264,Nitin Jain,"Chairman & MD, Neo Group",founder,True,,"Ex-CEO, PAG - Edelweiss Wealth Management Services",,,,SRC02669,HIGH
+FDR0497,S0176,P0494,Varun Bajpai,Co-Founder & Chairman,co-founder,True,,25+ years in financial services; former Country Head Macquarie Group India; ex-Deutsche Bank,,,,SRC02670,HIGH
+FDR0498,S0176,P0493,Hemant Daga,"Co-Founder & CEO, Neo Asset Management",co-founder,True,,,,,,SRC02671,HIGH
+FDR0499,S0176,P0496,Puneet Jain,"Co-Founder & CIO, Neo Asset Management",co-founder,True,,,,,,SRC02671,HIGH
+FDR0500,S0176,P0495,Shajikumar Devakar,"Co-Founder & CEO, Neo Wealth Management",co-founder,True,,22+ years in wealth management; ET Best Leader Award 2018,,,,SRC02672,HIGH
+FDR0501,S0176,P0820,Srikanth A V,"Co-Founder & CEO, Neo Wealth Partners",co-founder,True,,,,,,SRC02669,MEDIUM
+FDR0502,S0177,P0821,Aneesh Reddy Boddu,"Founder, MD & CEO",founder,True,,IIT Kharagpur,,,,SRC02678,HIGH
+FDR0503,S0177,P0822,Krishna Mehra,Co-Founder,co-founder,False,,IIT Kharagpur,,,,SRC02680,HIGH
+FDR0504,S0177,P0823,Ajay Modani,Former Co-Founder,co-founder,False,,IIT Kharagpur,,,,SRC02680,HIGH
+FDR0505,S0177,P0824,Anant Choubey,Co-Founder & COO & CFO,co-founder,True,,,,,,SRC02679,HIGH
+FDR0506,S0177,P0825,Sridhar Bollam,Co-Founder & CCO North America,co-founder,True,,,,,,SRC02679,HIGH
+FDR0507,S0178,P0826,Prateek Jindal,Founder & CEO,founder,True,,IIM Mumbai (MBA),,,,SRC02688,HIGH
+FDR0508,S0178,P0827,Nitin Gupta,Co-founder (Uni Cards),co-founder,False,,Co-founded Uni Cards with Prateek Jindal; PowerUp incubated within Uni Cards,,,,SRC02687,MEDIUM
+FDR0509,S0179,P0828,"{'v': 'Monil Singhal', 'role': 'co-founder', 'type': 'co-founder', 'confidence': 0.95, 'src': 'ET'}",,,,,,,,,,
+FDR0510,S0179,P0829,"{'v': 'Puneet Arora', 'role': 'co-founder', 'type': 'co-founder', 'confidence': 0.95, 'src': 'ET'}",,,,,,,,,,
+FDR0511,S0179,P0830,"{'v': 'Ankit Gupta', 'role': 'co-founder', 'type': 'co-founder', 'confidence': 0.95, 'src': 'ET'}",,,,,,,,,,
+FDR0512,S0180,P0831,"{'v': 'Shalesh Thusoo', 'role': 'Founder, CEO', 'type': 'founder', 'background': 'Former Intel/chip veteran', 'confidence': 0.9, 'src': 'tsavoritesi.com'}",,,,,,,,,,
+FDR0513,S0180,P0832,"{'v': 'Guntram Wolski', 'role': 'Co-Founder, CDD', 'type': 'co-founder', 'confidence': 0.85, 'src': 'tsavoritesi.com'}",,,,,,,,,,
+FDR0514,S0180,P0833,"{'v': 'Mike Uhler', 'role': 'Co-Founder, COO', 'type': 'co-founder', 'confidence': 0.85, 'src': 'tsavoritesi.com'}",,,,,,,,,,
+FDR0515,S0180,P0834,"{'v': 'Sarvagya Kochak', 'role': 'CTO', 'type': 'co-founder', 'confidence': 0.8, 'src': 'tsavoritesi.com'}",,,,,,,,,,
+FDR0516,S0180,P0835,"{'v': 'Shirish Seetharam', 'role': 'Co-Founder, VP BD', 'type': 'co-founder', 'confidence': 0.8, 'src': 'tsavoritesi.com'}",,,,,,,,,,
+FDR0517,S0180,P0836,"{'v': 'Chandra Joshi', 'role': 'Co-Founder, VP SW', 'type': 'co-founder', 'confidence': 0.8, 'src': 'tsavoritesi.com'}",,,,,,,,,,
+FDR0518,S0181,P0837,"{'v': 'Devansh Jain', 'role': 'Executive Director', 'type': 'executive', 'background': 'INOXGFL Group', 'confidence': 0.85, 'src': 'ET'}",,,,,,,,,,
+FDR0519,S0182,P0838,"{'v': 'Vivek Mishra', 'role': 'co-founder', 'type': 'co-founder', 'background': 'PhD robotics, aerospace engineering', 'confidence': 0.9, 'src': 'Inc42'}",,,,,,,,,,
+FDR0520,S0182,P0839,"{'v': 'Vikash Mishra', 'role': 'co-founder', 'type': 'co-founder', 'background': 'PhD aerospace engineering, advanced materials', 'confidence': 0.9, 'src': 'Inc42'}",,,,,,,,,,
+FDR0521,S0182,P0840,"{'v': 'Nitin Katiyar', 'role': 'co-founder', 'type': 'co-founder', 'confidence': 0.8, 'src': 'CARE Ratings'}",,,,,,,,,,
+FDR0522,S0183,P0843,"{'v': 'Pulkit Khurana', 'role': 'co-founder', 'type': 'co-founder', 'background': 'IIT Kanpur alumnus', 'confidence': 0.95, 'src': 'Wikipedia'}",,,,,,,,,,
+FDR0523,S0183,P0844,"{'v': 'Siddharth Sikka', 'role': 'co-founder', 'type': 'co-founder', 'background': 'IIT Kanpur alumnus', 'confidence': 0.95, 'src': 'Wikipedia'}",,,,,,,,,,
+FDR0524,S0185,P0845,Ritwik Khare,Founder & CEO,,True,,"MBA Gold Medalist, Faculty of Management Studies, University of Delhi; B.Com Honors, Shri Ram College of Commerce (SRCC)",,,,SRC02735,HIGH
+FDR0525,S0185,P0846,Karan Miglani,Co-Founder & CPO,,True,,"FMS Delhi Gold Medalist, SRCC B.Com Honors",,,,SRC02736,HIGH
+FDR0526,S0188,P0848,Nithin Kamath,Founder & CEO,founder,True,,stockbroker,,,,SRC02751,MEDIUM
+FDR0527,S0189,P0262,Farid Ahsan,"Co-founder, CEO",founder,,,"Former COO of ShareChat, IIT Kanpur alumnus",,,,SRC02753,HIGH
+FDR0528,S0189,P0261,Bhanu Pratap Singh,Co-founder,founder,,,"Former CTO of ShareChat, IIT Kanpur alumnus",,,,SRC02753,HIGH
+FDR0529,S0191,P0849,Shreyaans Jain,"Co-founder, CEO",founder,,,,,,,SRC02759,HIGH
+FDR0530,S0191,P0850,Rohit Ramakrishnan,Co-founder,founder,,,,,,,SRC02759,HIGH
+FDR0531,S0191,P0851,Aloke Kumar,Co-founder,founder,,,,,,,SRC02759,HIGH
+FDR0532,S0192,P0852,Venkataraman Natarajan,"Co-founder, COO",founder,,,,,,,SRC02764,HIGH
+FDR0533,S0192,P0853,Krishna Vaidyanathan,Co-founder,founder,,,,,,,SRC02764,HIGH
+FDR0534,S0193,P0854,Vaibhav Tambe,"Co-founder, CEO",founder,,,,,,,SRC02767,HIGH
+FDR0535,S0193,P0855,Lavin Kotian,Co-founder,founder,,,,,,,SRC02770,HIGH
+FDR0536,S0193,P0856,Pulak Jain,Co-founder,founder,,,,,,,SRC02770,HIGH
+FDR0537,S0193,P0857,Sachin Gupta,Co-founder,founder,,,,,,,SRC02770,HIGH
+FDR0538,S0194,P0858,James Solomon,CEO & Co-Founder,founder,True,,IIT Bombay,,,,SRC02773,HIGH
+FDR0539,S0194,P0859,Suman Hiremath,Co-Founder,founder,True,,UNKNOWN,,,,SRC02774,MEDIUM
+FDR0540,S0195,P0860,Mohak Nahta,Founder & CEO,founder,True,,Carnegie Mellon University,,,,SRC02780,HIGH
+FDR0541,S0195,P0564,Unknown,Co-Founder,co-founder,True,,UNKNOWN,,,,,LOW
+FDR0542,S0196,P0861,Capt. Ishver Dholakiya,Founder & Managing Director,founder,True,,UNKNOWN,,,,SRC02788,HIGH
+FDR0543,S0196,P0862,Bharat Bhut,Co-Founder,founder,True,,UNKNOWN,,,,SRC02789,MEDIUM
+FDR0544,S0197,P0863,Mohit Bedi,Co-Founder,founder,True,,UNKNOWN,,,,SRC02795,HIGH
+FDR0545,S0197,P0864,Siddharth Mehta,"Co-Founder, COO & CFO",founder,True,,UNKNOWN,,,,SRC02796,HIGH
+FDR0546,S0197,P0865,Anup Kumar Agrawal,Co-Founder,founder,True,,UNKNOWN,,,,SRC02807,MEDIUM
+FDR0547,S0197,P0866,Anup Agrawal,Co-Founder & CEO,,True,,UNKNOWN,,,,SRC02796,HIGH
+FDR0548,S0198,P0870,Abhishek Murarka,CEO & Co-Founder,founder,True,,UNKNOWN,,,,SRC02812,HIGH
+FDR0549,S0198,P0871,Tushar Patil,Co-Founder & COO,founder,True,,UNKNOWN,,,,SRC02813,HIGH
+FDR0550,S0198,P0872,Devanshu Mishra,Co-Founder,founder,True,,UNKNOWN,,,,SRC02814,MEDIUM
+FDR0551,S0199,P0873,Srinath Ravichandran,"CEO, Co-founder",co-founder,True,,UNKNOWN,,,,SRC02822,HIGH
+FDR0552,S0199,P0874,Moin SPM,Co-founder,co-founder,True,,UNKNOWN,,,,SRC02822,HIGH
+FDR0553,S0200,P0875,Ashish Deora,Founder & CEO,founder,True,,Founded Aurum Ventures in 1996 at age 21,,,,SRC02827,HIGH
+FDR0554,S0201,P0876,Dhruv Arora,Founder & CEO,founder,True,,,,,,SRC02837,HIGH
+FDR0555,S0202,P0877,Dr. Ashvini Jakhar,Founder & CEO,founder,True,,"Ex-McKinsey, ISB, Indian Navy",,,,SRC02843,HIGH
+FDR0556,S0203,P0878,Manas Khandelwal,Founder,founder,True,,UNKNOWN,,,,SRC02851,HIGH
+FDR0557,S0203,P0879,Varun Khandelwal,Founder,founder,True,,UNKNOWN,,,,SRC02851,HIGH
+FDR0558,S0203,P0880,Sumit Ghosh,Founder,founder,True,,UNKNOWN,,,,SRC02851,HIGH
+FDR0559,S0207,P0881,Ritesh Singh Chandel,co-founder,co-founder,True,,IIT Roorkee,,,,SRC02858,HIGH
+FDR0560,S0207,P0882,Sonu Kumar,co-founder,co-founder,True,,IIT Roorkee,,,,SRC02858,HIGH
+FDR0561,S0207,P0883,Rushabh Kothari,co-founder,co-founder,True,,UNKNOWN,,,,SRC02858,HIGH
+FDR0562,S0208,P0884,Jyothis Indirabhai,co-founder,co-founder,True,,UNKNOWN,,,,SRC02868,MEDIUM
+FDR0563,S0208,P0885,Sreejith Varma,co-founder,co-founder,True,,UNKNOWN,,,,SRC02868,MEDIUM
+FDR0564,S0208,P0886,Deepa Geetha,co-founder,co-founder,True,,UNKNOWN,,,,SRC02868,MEDIUM
+FDR0565,S0209,P0564,UNKNOWN,Founder/MD,founder,True,,Aavishkaar Group,,,,SRC02880,LOW
+FDR0566,S0209,P0887,Vineet Chandra Chandra Rai,Founder & Chairman,,True,,"Founder of Aavishkaar Group, Intellecap, IntelleGrow",,,,SRC02875,HIGH
+FDR0567,S0209,P0888,Shubhankar Sengupta,Co-Founder,,False,,,,,,SRC02875,MEDIUM
+FDR0568,S0210,P0901,Tarun Mehta,"Co-founder, CEO",founder,True,,IIT Madras,,,,SRC02895,HIGH
+FDR0569,S0210,P0902,Swapnil Jain,Co-founder,co-founder,True,,IIT Madras,,,,SRC02896,HIGH
+FDR0570,S0211,P0564,UNKNOWN,Founder/CEO,founder,True,,Wealth management,,,,SRC02901,LOW
+FDR0571,S0211,P0903,Anirudha Taparia,Founder & CEO,,True,,Co-Founder & Joint CEO of 360 ONE Wealth (previously IIFL Wealth); SVP & Citibanking Head (North India) at Citibank; decade at Citibank before that,,,,SRC02904,HIGH
+FDR0572,S0211,P0904,Sidhartha Shaw,Co-Founder,,True,,,,,,SRC02914,MEDIUM
+FDR0573,S0211,P0905,Vijeeta Sharma,Co-Founder,,True,,Director since incorporation (MCA),,,,SRC02906,MEDIUM
+FDR0574,S0211,P0906,Pankaj Walia,Co-Founder,,True,,Standard Chartered Bank 22-year veteran & Head of Private Banking India,,,,SRC02911,HIGH
+FDR0575,S0212,P0564,UNKNOWN,Founder/CEO,founder,True,,Logistics/e-commerce,,,,SRC02920,LOW
+FDR0576,S0213,P0911,Raoul Nanavati,Co-founder,founder,True,,Cornell Tech,,,,SRC02936,HIGH
+FDR0577,S0213,P0912,Jai Nanavati,Co-founder,co-founder,True,,Cornell Tech,,,,SRC02936,HIGH
+FDR0578,S0214,P0914,Shashwat Sahai,Co-founder,co-founder,,,,,,,SRC02946,HIGH
+FDR0579,S0214,P0915,Chandan Jha,Co-founder,co-founder,,,,,,,SRC02946,HIGH
+FDR0580,S0215,P0916,Tarun Lawadia,Founder & CEO,founder,,,20+ years in auto leasing per company profile snippet,,,,SRC02957,HIGH
+FDR0581,S0215,P0917,Sameer Kalra,Co-founder / COO,co-founder,,,,,,,SRC02957,HIGH
+FDR0582,S0216,P0919,Tejas Jain,Founder & CEO,founder,,,,,,,SRC02965,HIGH
+FDR0583,S0217,P0920,Sridhar Pinnapureddy,Founder & Chairman,founder,,,,,,,SRC02970,HIGH
+FDR0584,S0218,P0921,Ratheesh Nair,Founder & CEO,founder,,,15+ years in product design and online consumer behavior per profile,,,,SRC02977,HIGH
+FDR0585,S0218,P0922,Abhitosh Kumar Pandey,Co-founder,co-founder,,,,,,,SRC02977,MEDIUM
+FDR0586,S0218,P0923,Jay Patel,Co-founder,co-founder,,,,,,,SRC02977,MEDIUM
+FDR0587,S0218,P0924,Harshad Apte,Co-founder,co-founder,,,,,,,SRC02977,MEDIUM
+FDR0588,S0219,P0925,Nimish Goel,Co-Founder,co-founder,,,Entrepreneur,,,,SRC02984,HIGH
+FDR0589,S0219,P0926,Devender Bindal,Co-Founder,co-founder,,,Entrepreneur,,,,SRC02984,HIGH
+FDR0590,S0220,P0927,Ameya Sathe,Co-Founder & CEO,co-founder,,,IIT Kanpur alumni,,,,SRC02990,HIGH
+FDR0591,S0220,P0928,Darshil Dharod,Co-Founder,co-founder,,,IIT Kanpur alumni,,,,SRC02991,HIGH
+FDR0592,S0221,P0929,Gautam Kumar Singh,CEO & Co-Founder,co-founder,,,"IISc, RF & High-Speed Communication",,,,SRC02997,HIGH
+FDR0593,S0221,P0930,Abhra Bagchi,Co-Founder,co-founder,,,,,,,SRC02994,HIGH
+FDR0594,S0221,P0931,Shabaaz Syed,Co-Founder,co-founder,,,,,,,SRC02994,HIGH
+FDR0595,S0221,P0932,Prasun Bhattacharyya,Co-Founder,co-founder,,,,,,,SRC02994,HIGH
+FDR0596,S0222,P0933,Raghu Venkatesh,"Co-Founder, CBO",co-founder,,,Robotics,,,,SRC03004,HIGH
+FDR0597,S0222,P0934,Ebin Sunny,Co-Founder,co-founder,,,"Robotics Engineer, formerly Just Robotics",,,,SRC03005,HIGH
+FDR0598,S0222,P0935,Ribin Mathew,Co-Founder,co-founder,,,Robotics,,,,SRC03006,HIGH
+FDR0599,S0222,P0936,Raj Mohan,Co-Founder,co-founder,,,,,,,SRC03003,HIGH
+FDR0600,S0223,P0937,Saurabh Maheshwari,Co-Founder,co-founder,,,,,,,SRC03010,HIGH
+FDR0601,S0223,P0938,Subham Kumar Boundia,Co-Founder,co-founder,,,,,,,SRC03010,HIGH
+FDR0602,S0223,P0939,Alok Maurya,Co-Founder,co-founder,,,,,,,SRC03010,HIGH
+FDR0603,S0224,P0940,Sunil,co-founder,,,,,,,,SRC03014,LOW
+FDR0604,S0224,P0941,Sabari,co-founder,,,,,,,,SRC03014,LOW
+FDR0605,S0224,P0942,Dushyant,co-founder,,,,,,,,SRC03014,LOW
+FDR0606,S0224,P0943,Anil,founder listed in source,,,,,,,,SRC03014,LOW
+FDR0607,S0226,P0944,Utkarsh Gupta,co-founder,,,,,,,,SRC01075,MEDIUM
+FDR0608,S0226,P0945,Dishant Daryani,co-founder,,,,,,,,SRC01075,MEDIUM
+FDR0609,S0228,P0946,Suresh Kondamudi,co-founder,,,,,,,,SRC03034,MEDIUM
+FDR0610,S0228,P0947,Anand Jain,co-founder,,,,,,,,SRC03034,MEDIUM
+FDR0611,S0228,P0948,Sunil Thomas,co-founder,,,,,,,,SRC03034,MEDIUM
+FDR0612,S0229,P0952,Pushkar Mukewar,CEO and Founder,founder,True,,Wharton School,,,,SRC03045,HIGH
+FDR0613,S0229,P0953,Neil Kothari,Co-Founder,co-founder,True,,Wharton School,,,,SRC03050,HIGH
+FDR0614,S0230,P0954,Ranvir Singh,"Founder, Chairman & CEO",founder,True,,"IIT Bombay, IIM Bangalore",,,,SRC03054,HIGH
+FDR0615,S0230,P0955,Krishnan Vishwanathan,"Founder, CFO & Executive Director",co-founder,True,,IIM Bangalore,,,,SRC03054,HIGH
+FDR0616,S0231,P0956,Peyush Bansal,"Chairman, MD, CEO, Co-founder and Promoter",founder,True,,IIT Delhi,,,,SRC03066,HIGH
+FDR0617,S0231,P0957,Neha Bansal,"Executive Director, Global Head of Merchandising, Co-founder and Promoter",co-founder,True,,Unknown,,,,SRC03067,HIGH
+FDR0618,S0231,P0958,Amit Chaudhary,"Executive Director, Global Head of Expansion, Co-founder and Promoter",co-founder,True,,Unknown,,,,SRC03065,HIGH
+FDR0619,S0231,P0959,Sumeet Kapahi,"Global Head of Sourcing, Co-founder and Promoter",co-founder,True,,Unknown,,,,SRC03065,HIGH
+FDR0620,S0232,P0960,Jayaprakash Sinha,Founder,founder,True,,"IIM Bangalore, CFA",,,,SRC03072,HIGH
+FDR0621,S0232,P0961,Kamal Nayan,Team Member,co-founder,True,,"BIT Mesra, IIM Bangalore",,,,SRC03072,MEDIUM
+FDR0622,S0232,P0962,Ritesh Sinha,Team Member,co-founder,True,,Unknown,,,,SRC03072,MEDIUM
+FDR0623,S0233,P0963,Chris George,Co-Founder & Group CEO,founder,True,,Unknown,,,,SRC00388,HIGH
+FDR0624,S0233,P0964,Gagan Kapur,Chairman,co-founder,True,,Unknown,,,,SRC03076,HIGH
+FDR0625,S0233,P0965,Pankaj Shukla,COO,co-founder,True,,Unknown,,,,SRC03079,MEDIUM
+FDR0626,S0234,P0966,Prashant Warier,Co-founder and CEO,co-founder,True,,AI healthcare entrepreneur,,,,SRC01494,MEDIUM
+FDR0627,S0234,P0967,Pooja Rao,Co-founder,co-founder,UNKNOWN,,AI healthcare entrepreneur,,,,SRC01494,MEDIUM
+FDR0628,S0235,P0968,Devang Kumar,Founder & CEO,founder,True,,Circularity and recycling executive,,https://in.linkedin.com/in/devang-kumar-8253b738a,,SRC03087,HIGH
+FDR0629,S0236,P0969,Jeet Chandan,Co-founder,co-founder,True,,Creator of Rogue Heist,,,,SRC03091,HIGH
+FDR0630,S0236,P0970,Vidhit Mehta,Co-founder,co-founder,True,,Creator of Rogue Heist,,,,SRC03091,HIGH
+FDR0631,S0237,P0971,Ankur Pandey,Co-founder,co-founder,UNKNOWN,,Edtech entrepreneur,,,,SRC00088,MEDIUM
+FDR0632,S0237,P0972,Pallav Pandey,Co-founder,co-founder,UNKNOWN,,Edtech entrepreneur,,,,SRC00088,MEDIUM
+FDR0633,S0238,P0973,Shardul Sheth,Co-founder,co-founder,True,,Agritech entrepreneur,,,,SRC03103,MEDIUM
+FDR0634,S0238,P0974,Sitanshu Sheth,Co-founder,co-founder,True,,Agritech entrepreneur,,,,SRC03103,MEDIUM
+FDR0635,S0239,P0980,Kshitij Chaudhary,Co-founder & CEO,co-founder,True,,Ex-BCG; IIT Delhi,,,,SRC03139,HIGH
+FDR0636,S0239,P0981,Anuj Punjani,Co-founder & CTO,co-founder,True,,Ex-Apple,,,,SRC03139,HIGH
+FDR0637,S0239,P0982,Jaikishan Dulani,Co-founder,co-founder,True,,,,,,SRC02855,LOW
+FDR0638,S0239,P0983,Sumit Mishra,Co-founder,co-founder,True,,,,,,SRC02855,LOW
+FDR0639,S0240,P0984,Brotish Das,Co-founder & CEO,co-founder,True,,,,,,SRC03143,HIGH
+FDR0640,S0240,P0985,Som Kamal Chatterjee,Co-founder & COO,co-founder,True,,,,,,SRC03146,HIGH
+FDR0641,S0240,P0986,Bodhisattwa Gupta,Co-founder & CBO,co-founder,True,,,,,,SRC03143,HIGH
+FDR0642,S0241,P0987,Chattanathan Devarajan,Founder,founder,True,,,,,,SRC03152,LOW
+FDR0643,S0242,P0993,Vaibhav Jain,Founder & CEO,founder,True,,,,,,SRC03171,HIGH
+FDR0644,S0242,P0994,Mayank Agarwal,Co-founder,co-founder,True,,,,,,SRC03172,MEDIUM
+FDR0645,S0243,P0995,Anuj Rathi,Co-founder,co-founder,True,,Former Swiggy and Zomato product leader,,,,SRC03177,HIGH
+FDR0646,S0243,P0996,Prashant Parashar,Co-founder,co-founder,True,,Former Swiggy and Zomato technology leader,,,,SRC03177,HIGH
+FDR0647,S0246,P0997,Himanshu Goyal,Co-Founder,,True,,BITS Pilani (engineering),,,,SRC03188,HIGH
+FDR0648,S0246,P0998,Gaurav Mandlecha,Co-Founder,,True,,BITS Pilani (Economics and Mechanical Engineering),,,,SRC03188,HIGH
+FDR0649,S0248,P0999,Priyanka Singhal,Founder & CEO,,True,,"Electronics and Communication Engineering, Amritsar",,,,SRC03200,HIGH
+FDR0650,S0252,P1008,Ranjani Narayan,co-founder,,,,,,,,,
+FDR0651,S0255,P1009,Vinay Bagri,,,,,,,,,,
+FDR0652,S0255,P1010,Virender Bisht,,,,,,,,,,
+FDR0653,S0256,P1016,Prateep Basu,,,,,,,,,,
+FDR0654,S0257,P1020,Nitya Sharma,Co-founder & CEO,,,,,,,,,
+FDR0655,S0258,P1021,Virendra Gupta,,,,,,,,,,
+FDR0656,S0258,P1022,Umang Bedi,Co-founder,,True,,Harvard Business School; engineering graduate from University of Pune,,,,,HIGH
+FDR0657,S0258,P1023,Shailendra Sharma,Co-founder (ex),,False,,UNKNOWN,,,,,MEDIUM
+FDR0658,S0259,P1036,Sagar Daryani,Co-founder & CEO,,,,,,,,,
+FDR0659,S0259,P1037,Binod Homagai,Co-founder,,,,,,,,,
+FDR0660,S0260,P1038,Jobin Joseph,,,,,,,,,,
+FDR0661,S0260,P1039,Kaustubh K. Jadhav,,,,,,,,,,
+FDR0662,S0261,P1040,Nitin Verma,Founder & CEO,,,,,,,,,
+FDR0663,S0262,P1041,Rohit Ramesh,,,,,,,,,,
+FDR0664,S0262,P1042,Ankit Choudhary,,,,,,,,,,
+FDR0665,S0263,P1043,Dhananjai Hari,,,,,,,,,,
+FDR0666,S0263,P1044,Neeraj Mishra,,,,,,,,,,
+FDR0667,S0264,P1045,B L Mittal,Founder and Executive Chairman,founder,True,,UNKNOWN,,,,SRC03322,HIGH
+FDR0668,S0265,P1046,Puneet Gupta,Co-founder,founder,True,,UNKNOWN,,,,SRC03327,HIGH
+FDR0669,S0265,P1047,Anmol Jain,Co-founder,founder,True,,UNKNOWN,,,,SRC03327,HIGH
+FDR0670,S0266,P1048,Amit Jain,Co-founder,founder,True,,UNKNOWN,,,,SRC03329,HIGH
+FDR0671,S0266,P1049,Anurag Jain,Co-founder,founder,True,,UNKNOWN,,,,SRC03329,HIGH
+FDR0672,S0267,P1050,Mridul Babbar,Co-founder,founder,True,,UNKNOWN,,,,SRC03333,HIGH
+FDR0673,S0267,P1051,Nikunj Parashar,Co-founder,founder,True,,UNKNOWN,,,,SRC03333,HIGH
+FDR0674,S0268,P1052,Aavrit Singhal,Chief Product Officer,co-founder,True,,UNKNOWN,,,,SRC03337,HIGH
+FDR0675,S0268,P1053,Siddesh Ramasubramanian,CEO,co-founder,True,,UNKNOWN,,,,SRC03337,HIGH
+FDR0676,S0268,P1054,Malay Kumar Poddar,Managing Director,co-founder,True,,UNKNOWN,,,,SRC03337,HIGH
+FDR0677,S0269,P1055,Dr. Tinku Acharya,Founder,founder,True,,UNKNOWN,,,,SRC03340,HIGH
+FDR0678,S0270,P1056,Manav Bansal,Co-founder,founder,True,,UNKNOWN,,,,SRC03343,HIGH
+FDR0679,S0270,P1057,Alpna Jain,Co-founder,founder,True,,UNKNOWN,,,,SRC03343,HIGH
+FDR0680,S0271,P1058,Dhirendra Nalin Mahyavanshi,Co-founder and Promoter,founder,True,,UNKNOWN,,,,SRC03346,HIGH
+FDR0681,S0271,P1059,Vinayak Pathak,Co-founder,founder,True,,UNKNOWN,,,,SRC03345,HIGH
+FDR0682,S0272,P1060,Satprem Mohanty,Co-founder,founder,True,,UNKNOWN,,,,SRC03348,HIGH
+FDR0683,S0272,P1061,Mithil Sejpal,Co-founder,founder,True,,UNKNOWN,,,,SRC03350,HIGH
+FDR0684,S0273,P1062,Avnish Chhabria,Founder and CEO,founder,True,,UNKNOWN,,,,SRC03353,HIGH
+FDR0685,S0273,P1063,Saurabh Kapoor,Co-founder,co-founder,True,,UNKNOWN,,,,SRC03354,HIGH
+FDR0686,S0274,P1064,Shrey Agarwal,CEO & Co-Founder,,,,,,,,SRC03359,
+FDR0687,S0274,P1065,Sparsh Agarwal,Co-Founder,,,,,,,,SRC03359,
+FDR0688,S0275,P1066,Sanjeev Kumar,Founder & CEO,,,,,,,,SRC03362,
+FDR0689,S0276,P1067,Vijay Jain,Co-Founder,,,,,,,,SRC03365,
+FDR0690,S0276,P1068,Vivek Jain,Co-Founder,,,,,,,,SRC03365,
+FDR0691,S0277,P1069,Anupam Gupta,Co-Founder (President),,,,,,,,SRC03368,
+FDR0692,S0277,P1070,Anirudh Kala,Co-Founder,,,,,,,,SRC03369,
+FDR0693,S0278,P1071,Arvind Kondangi Lakshmikumar,Founder / CEO,,True,,"PhD Robotics Carnegie Mellon; MS Engineering Software Systems BITS Pilani; former Head of Technology and Operations at Sarnoff Corporation. Worked with DARPA, NASA, US Army, AFRL, ",,,,SRC03387,HIGH
+FDR0694,S0278,P1072,Ankit Kumar,Co-Founder / CRO & CBO,,True,,"B.Tech CSE IIIT Hyderabad; 20+ years in R&D programs for defence, surveillance, automotive safety globally.",,,,SRC03387,HIGH
+FDR0695,S0278,P1073,Cecilia D'Souza,Co-Founder / CRO,,True,,Chartered Accountant (ICAI); BSc from Bangalore University. Executive Director and Chief Commercial Officer.,,,,SRC03387,HIGH
+FDR0696,S0278,P1074,Sudeep George,Co-Founder,,False,,BE from Kuvempu University. Listed as co-founder on Tracxn and Inc42.,,,,SRC03381,MEDIUM
+FDR0697,S0279,P0205,Mansi Jain,Co-Founder,,,,,,,,SRC03403,
+FDR0698,S0279,P1080,Rajesh Jain,Co-Founder,,,,,,,,SRC03403,
+FDR0699,S0281,P1082,Divanshu Kumar,CEO & Co-Founder,,,,,,,,SRC03410,
+FDR0700,S0281,P1083,Moinak Banerjee,CTO & Co-Founder,,,,,,,,SRC03410,
+FDR0701,S0283,P1084,Meghna Agarwal,Co-Founder,,,,,,,,SRC03432,
+FDR0702,S0284,P1091,Neetish Sarda,Founder & Managing Director,founder,True,,Science graduate from University of London; previously worked at Vision Comptech Integrators and family business in manufacturing/real estate/IT,,,,SRC03440,HIGH
+FDR0703,S0284,P1092,Harsh Binani,Co-founder,co-founder,True,,McKinsey consulting; previously at Medanta Medicity,,,,SRC03440,HIGH
+FDR0704,S0285,P1093,Aditya Shah,Founder & Managing Director,founder,True,,"Co-founded Amnex in 2008; technocrat focused on IoT, GIS, AI/ML, Blockchain solutions",,,,SRC03446,HIGH
+FDR0705,S0285,P1094,Tapan Gosaliya,Co-founder & Director,co-founder,True,,"Co-founded Amnex in 2008; technocrat focused on IoT, GIS, AI/ML, Blockchain solutions",,,,SRC03446,HIGH
+FDR0706,S0286,P1097,Deep Kalra,Founder & Chairman,founder,True,,Founded MakeMyTrip in 2000 targeting US-India travel for Indian diaspora,,,,SRC03450,HIGH
+FDR0707,S0286,P1098,Rajesh Magow,Co-founder & Group CEO,co-founder,True,,Co-founder and current Group CEO; quoted on Flamingo Transworld acquisition,,,,SRC03451,HIGH
+FDR0708,S0286,P1099,Sachin Bhatia,Co-founder,co-founder,False,,Co-founder of MakeMyTrip,,,,SRC03452,MEDIUM
+FDR0709,S0286,P1100,Keyur Joshi,Co-founder,co-founder,False,,Co-founder of MakeMyTrip,,,,SRC03452,MEDIUM
+FDR0710,S0287,P1101,Niraj Singh,Founder & CEO,founder,True,,Previously founding partner at Outbox Ventures,,,,SRC03454,HIGH
+FDR0711,S0287,P1102,Mohit Gupta,Co-founder,co-founder,True,,Ex-Flipkart,,,,SRC03454,HIGH
+FDR0712,S0287,P1103,Ramanshu Mahaur,Co-founder,co-founder,False,,Ex-Adobe,,,,SRC03458,HIGH
+FDR0713,S0287,P1104,Ganesh Pawar,Co-founder,co-founder,False,,Co-founder of Spinny,,,,SRC03454,HIGH
+FDR0714,S0288,P1105,Mukesh Deogune,CEO & Co-founder,founder,True,,IIT BHU Varanasi alumnus; previously created $2M ARR logistics biz; Forbes 200 DGEMS,,,,SRC03464,HIGH
+FDR0715,S0288,P1106,Gagan Chaturvedi,Co-founder,co-founder,True,,IIM Ahmedabad; previously at Signo; co-founded Traqo,,,,SRC03465,HIGH
+FDR0716,S0288,P1107,Vaibhav Kumar,Co-founder,co-founder,True,,Co-founder of Traqo; technology background,,,,SRC03461,HIGH
+FDR0717,S0289,P1108,Mishu Ahluwalia,Co-founder,founder,True,,Co-founded Trevel in 2025,,,,SRC03469,HIGH
+FDR0718,S0289,P1109,Rishi Raj Kochhar,Co-founder,co-founder,True,,Co-founded Trevel in 2025,,,,SRC03469,HIGH
+FDR0719,S0289,P1110,Sahil Jindal,Co-founder,co-founder,True,,Co-founded Trevel; featured by Forbes India,,,,SRC03470,HIGH
+FDR0720,S0290,P1111,Umesh Kumar,Co-founder & CEO,founder,True,,IIT Roorkee CSE '23; previously co-founded SkoolStream (acquired by Bodhi AI in March 2022),,,,SRC03474,HIGH
+FDR0721,S0290,P1112,Saksham Sarda,Co-founder,co-founder,True,,Co-founded Runable; previously worked on AI infrastructure,,,,SRC03475,HIGH
+FDR0722,S0291,P1114,Anshuman Ruia,Founder,founder,True,,Second generation of Ruia family that founded Essar; financial expertise and project execution,,,,SRC03487,HIGH
+FDR0723,S0292,P1115,Ashok Hariharan,CEO & Co-founder,founder,True,,Penn State engineering and ISB graduate; previously developed high-speed network processors and led corporate strategy,,,,SRC03493,HIGH
+FDR0724,S0292,P1116,Vineet Jawa,Co-founder,co-founder,True,,ISB graduate; later co-founded credit risk platform CredRight,,,,SRC03493,HIGH
+FDR0725,S0292,P1117,Hatim Baheranwala,Co-founder,co-founder,True,,Co-founded IDfy in 2011,,,,SRC03497,HIGH
+FDR0726,S0293,P1118,Amit Kumar,Co-founder & CEO,founder,True,,Launched Qween as bootstrapped venture; CEO; based in Bengaluru,,,,SRC03503,HIGH
+FDR0727,S0293,P1119,Suyash Motarwar,Co-founder & CTPO,co-founder,True,,Co-founded Qween; CTPO; technology strategy; previously at Suci,,,,SRC03504,HIGH
+FDR0728,S0296,P1120,Aditi Murarka Agrawal,co-founder,,,,,,,,SRC03514,MEDIUM
+FDR0729,S0296,P1121,Anurag Agrawal,co-founder,,,,,,,,SRC03514,MEDIUM
+FDR0730,S0301,P1123,Prukalpa Sankar,co-founder & CEO,,,,,,,,SRC03543,MEDIUM
+FDR0731,S0304,P1124,Kartik Kini,Chief Strategy and Execution Officer,executive,True,,,,,,SRC03553,MEDIUM
+FDR0732,S0305,P1125,Raghav Parvataraju,CEO,,,,,,,,SRC03557,HIGH
+FDR0733,S0305,P1126,Raghavendra Parvataraju,CEO,,True,,IIT graduate (unverified — some coverage references IIT background but no specific institute confirmed in sources),,,,SRC03557,HIGH
+FDR0734,S0305,P1127,Vijay Ponukumati,CTO,,True,,UNKNOWN,,,,SRC03557,HIGH
+FDR0735,S0305,P1128,Mohan Konyala,CPO,,True,,UNKNOWN,,,,SRC03557,HIGH
+FDR0736,S0305,P1129,Ashutosh Bordekar,CFO,,True,,UNKNOWN,,,,SRC03557,HIGH
+FDR0737,S0306,P1131,Saurabh Agarwal,Founder & CEO,,,,,,,,SRC03564,HIGH
+FDR0738,S0306,P1132,Akshay Agarwal,Co-founder,,,,,,,,SRC03565,HIGH
+FDR0739,S0307,P1133,Shashwath T.R.,Co-founder and CEO,,True,,SRM Engineering College,,,,SRC03569,HIGH
+FDR0740,S0307,P1134,Sharan Srinivas J.,Co-founder and CTO,,True,,"Meenakshi Sundararajan Engineering College, Anna University (2012); ETH Zurich (Masters in Computational Science)",,,,SRC03569,HIGH
+FDR0741,S0309,P1135,Navneet Singh,Founder & CEO,,,,,,,,SRC03583,MEDIUM
+FDR0742,S0309,P1136,Kiran V. Sharma,Chief Strategy Officer,,,,,,,,SRC02584,MEDIUM
+FDR0743,S0310,P1137,Vikram Chopra,CEO,founder,True,,,,,,SRC03592,HIGH
+FDR0744,S0310,P1138,Mehul Agarwal,Co-founder,co-founder,False,,,,,,SRC03610,HIGH
+FDR0745,S0312,P1144,Kushagra Srivastava,Founder & CEO,,,,,,,,SRC03629,MEDIUM
+FDR0746,S0313,P1145,Sanjay Srikanth Nekkanti,Co-founder & CEO,,,,,,,,SRC03630,HIGH
+FDR0747,S0313,P1146,Krishna Teja Penamakuru,Co-founder,,,,,,,,SRC03631,MEDIUM
+FDR0748,S0314,P1147,Ajay Upadhyaya,Co-founder,co-founder,,,,,,,SRC03634,MEDIUM
+FDR0749,S0316,P1148,Kunal Popat,Co-founder,co-founder,,,,,,,SRC03645,HIGH
+FDR0750,S0316,P1149,Kunal Chimanlal Popat,Founder & CEO,founder,True,,"Nirma Institute of Technology (Chemical Engineering), ICFAI (Brand Management), NMIMS (MBA Marketing)",,,,SRC03650,HIGH
+FDR0751,S0316,P1150,Kinjal Kunal Popat,Co-founder & COO,co-founder,True,,NIFD (Fashion),,,,SRC03651,HIGH
+FDR0752,S0316,P1151,Rajnikant Kishorkumar Shah,Director,director,True,,Director of R for Rabbit Baby Products Pvt Ltd per MCA records; tenure 4 years.,,,,SRC03647,MEDIUM
+FDR0753,S0316,P1152,Sumit Sinha,Nominee Director,director,True,,Co-founder and Managing Partner of Filter Capital; nominee director on R for Rabbit board post-Series B.,,,,SRC03647,HIGH
+FDR0754,S0320,P1153,Radhika Patil,Co-founder,co-founder,,,,,,,SRC03673,MEDIUM
+FDR0755,S0320,P1154,Bharath Patil,Co-founder and CTO,,True,,"MS Electronics, IISc",,,,SRC03685,HIGH
+FDR0756,S0322,P1156,Ankit Agrawal,Founder & CEO,,True,,Former Head of Insurance Division at CarDekho (joined 2015); founded InsuranceDekho as insurance arm of CarDekho before spin-off; BW 40 Under 40 awardee,,,,SRC03709,HIGH
+FDR0757,S0322,P1157,Ish Babbar,Co-Founder & CTO,,True,,Co-founded InsuranceDekho with Ankit Agrawal in 2016; serves as Chief Technology Officer,,,,SRC03703,HIGH
+FDR0758,S0325,P0085,Gaurav Kumar,Founder and CEO,founder,True,,Fintech,,,,SRC03729,HIGH
+FDR0759,S0326,P1164,Prashant Jalan,Founder,founder,True,,Former applied AI lead at Google,,,,SRC03733,HIGH
+FDR0760,S0328,P0564,Unknown,Founder(s),founder,True,,Logistics/tech,,,,SRC03739,MEDIUM
+FDR0761,S0330,P0564,Unknown,Founder(s),founder,True,,Fintech,,,,SRC03744,MEDIUM
+FDR0762,S0331,P0564,Unknown,Founder(s),founder,True,,Fintech,,,,SRC03746,MEDIUM
+FDR0763,S0332,P0564,Unknown,Founder(s),founder,True,,Marine robotics,,,,SRC03750,MEDIUM
+FDR0764,S0333,P1165,Athil Krishna,Founder/CEO,founder,True,,Humanoid robotics,,,,SRC03754,HIGH
+FDR0765,S0343,P1166,Krishna Veer Singh,Founder,founder,,,,,,,,
+FDR0766,S0343,P1167,Tarun Gupta,Co-Founder,co-founder,,,,,,,,
+FDR0767,S0345,P1168,Prateek Agarwal,Founder,founder,,,,,,,,
+FDR0768,S0345,P1169,Harshit Madan,Co-founder,co-founder,,,,,,,,
+FDR0769,S0345,P1170,Pavan Patil,Co-founder,co-founder,,,,,,,,
+FDR0770,S0354,P1171,Priy Ranjan,CEO,founder,,,,,,,SRC03849,HIGH
+FDR0771,S0354,P1172,Ankit Bansal,CTO,co-founder,,,,,,,SRC03845,HIGH
+FDR0772,S0354,P1173,Ishan Rakshit,co-founder,co-founder,,,,,,,SRC03850,HIGH
+FDR0773,S0354,P1174,Prafful Goyal,co-founder,co-founder,,,,,,,SRC03845,MEDIUM
+FDR0774,S0355,P1175,Sudarshan Kamath,CEO / Co-founder,founder,,,"Former Elevation Capital investor, AI engineer",,,,SRC03856,HIGH
+FDR0775,S0355,P1176,Akshat Mandloi,Co-founder,co-founder,,,Engineer,,,,SRC03857,HIGH
+FDR0776,S0356,P1177,Vrinda Kapoor,CEO / Founder,founder,,,"Tech entrepreneur, incubated at IIT Delhi, Berkeley SkyDeck accelerator",,,,SRC03859,HIGH
+FDR0777,S0356,P1178,Vinayak Dalmia,Co-founder,co-founder,,,,,,,SRC03861,HIGH
+FDR0778,S0357,P1179,Chirag Gupta,Founder & CEO,founder,,,Former Deloitte consultant,,,,SRC03868,HIGH
+FDR0779,S0357,P1180,Ankur Gupta,Co-founder,co-founder,,,,,,,SRC03869,HIGH
+FDR0780,S0359,P1181,Vikas Taneja,Founder & Director,founder,,,,,,,SRC03875,HIGH
+FDR0781,S0359,P1182,Prithvi Raj Singh,Founder & Director,founder,,,,,,,SRC03875,HIGH
+FDR0782,S0359,P1183,Deepak Singh,Founder,founder,,,,,,,SRC03880,HIGH
+FDR0783,S0361,P1184,Deepak Gullapalli,Founder & Chairman,founder,,,Founded Head Digital Works (then Head Infotech) in 2006,,,,SRC03887,HIGH
+FDR0784,S0361,P1185,Siddharth Sharma,CEO,executive,,,,,,,SRC03889,HIGH
+FDR0785,S0363,P0241,Vidit Aatrey,Founder & CEO (Meesho),founder,,,,,,,SRC03904,MEDIUM
+FDR0786,S0363,P0564,unknown,KiranaClub founder,founder,,,,,,,SRC03899,LOW
+FDR0787,S0365,P1186,Navkiran Singh,Founder & CEO,founder,,,,,,,,
+FDR0788,S0365,P1187,Varun Ganjoo,Co-Founder,co-founder,,,,,,,,
+FDR0789,S0365,P1188,Puneet Singh,Co-Founder,co-founder,,,,,,,,
+FDR0790,S0366,P1189,Harsh Prateek,Founder,founder,,,,,,,,
+FDR0791,S0366,P1190,Mayank Sahu,Co-founder,co-founder,,,,,,,,
+FDR0792,S0367,P1191,"{'v': 'Dilsher Singh Malhi', 'conf': 0.9, 'src': 'ET Now'}","{'v': 'Co-founder', 'conf': 0.9}","{'v': 'founder', 'conf': 0.9}","{'v': True, 'conf': 0.7, 'src': 'inferred'}",,"{'v': 'IIT Kanpur alumnus', 'conf': 0.9, 'src': 'ET Now'}",,,,SRC03930,HIGH
+FDR0793,S0367,P1191,Dilsher Singh Malhi,Co-founder and CEO,,True,,IIT Kanpur (Chemical Engineering); EPFL Switzerland,,,,SRC03930,HIGH
+FDR0794,S0367,P1192,Siddhant Saurabh,Co-founder,,True,,unknown,,,,SRC03935,HIGH
+FDR0795,S0368,P1196,Akshar Vastarpara,Founder & CEO,,,,,,,,SRC03947,HIGH

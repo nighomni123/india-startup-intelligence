@@ -1,0 +1,257 @@
+{
+ "company": {
+  "business_model": "EV-as-a-service rentals + last-mile delivery ops; FOCO franchise model",
+  "cin": "U63000HR2017PTC070227",
+  "city": "Gurugram",
+  "company_name": "Zypp Electric",
+  "country": "India",
+  "founded_date": "2017",
+  "incorporation_date": "2017-08-08",
+  "legal_name": "Bycyshare Technologies Private Limited",
+  "primary_sector": "EV fleet / logistics tech",
+  "public_private": "private",
+  "startup_stage": "late (Series C, pre-IPO)",
+  "state": "Haryana",
+  "status": "active",
+  "website": "https://zypp.app",
+  "official_website": {
+   "v": "https://zypp.app",
+   "conf": "high",
+   "src": "https://zypp.app",
+   "note": "verified live 2026-09-15: name match on own homepage"
+  },
+  "careers_website": {
+   "v": "https://zypp.app/careers",
+   "conf": "high",
+   "src": "https://zypp.app",
+   "note": "careers link found on official homepage, probed live"
+  }
+ },
+ "completeness_self": {
+  "financials": 8,
+  "founders": 8,
+  "funding": 8,
+  "identity": 9,
+  "investors": 8,
+  "legal": 2,
+  "people": 3,
+  "products": 6,
+  "sources": 8,
+  "traction": 8
+ },
+ "conflicts": [
+  {
+   "field": "FY26 revenue",
+   "claim_a": "Rs 461cr operating revenue FY26 (+5.2%), loss Rs 59.7cr (Inc42/CBInsights citing MCA)",
+   "claim_b": "Rs 448.6cr FY25 revenue (Mint Jun 2026 citing Tracxn)",
+   "resolution": "Different fiscal years; both kept with year labels.",
+   "url_a": "https://www.cbinsights.com/company/mobycy",
+   "url_b": "https://www.livemint.com/companies/start-ups/zypp-electric-ipo-fundraising-valuation-pre-ipo-funding-ev-as-a-service/amp-11782032496965.html"
+  }
+ ],
+ "events": [
+  {
+   "announced_date": "2026-06-21",
+   "date": "2026-06-21",
+   "description": "$40-50M pre-IPO round to ~double $331M valuation; IPO $150-200M targeted FY28; Axis/SBI Cap/DAM appointed.",
+   "headline": "Pre-IPO round + $200M IPO plan, bankers appointed",
+   "source_url": "https://www.livemint.com/companies/zypp-electric-ipo-ev-logistics-electric-vehicles-axis-capital-sbi-capital-markets-dam-capital-pre-ipo-funding-11782104481548.html",
+   "type": "IPO-plan"
+  }
+ ],
+ "financials": [
+  {
+   "currency": "INR",
+   "fiscal_year": "FY24",
+   "metric": "revenue (management-quoted)",
+   "source_title": "Zypp Electric Raises $15Mn Investment From ENEOS",
+   "source_url": "https://www.saurenergy.com/solar-energy-news/zypp-electric-raises-15mn-investment-from-eneos",
+   "value": "325 Cr",
+   "value_type": "management"
+  },
+  {
+   "currency": "INR",
+   "fiscal_year": "FY26",
+   "metric": "operating revenue (MCA-cited)",
+   "source_title": "CBInsights Zypp Electric profile",
+   "source_url": "https://www.cbinsights.com/company/mobycy",
+   "value": "461 Cr",
+   "value_type": "press-quoted-filing"
+  },
+  {
+   "currency": "INR",
+   "fiscal_year": "FY26",
+   "metric": "net loss (MCA-cited)",
+   "source_title": "CBInsights Zypp Electric profile",
+   "source_url": "https://www.cbinsights.com/company/mobycy",
+   "value": "-59.7 Cr",
+   "value_type": "press-quoted-filing"
+  }
+ ],
+ "founders": [
+  {
+   "confidence": "HIGH",
+   "name": "Akash Gupta",
+   "role": "Co-founder & CEO",
+   "source_url": "https://www.vccircle.com/japans-eneos-leads-zypp-electric-s-series-c-funding",
+   "still_active": true,
+   "type": "co-founder"
+  },
+  {
+   "confidence": "HIGH",
+   "name": "Rashi Agarwal",
+   "role": "Co-founder & CBO",
+   "source_url": "https://www.vccircle.com/japans-eneos-leads-zypp-electric-s-series-c-funding",
+   "still_active": true,
+   "type": "co-founder"
+  },
+  {
+   "confidence": "MEDIUM",
+   "name": "Tushar Mehta",
+   "role": "Co-founder",
+   "source_url": "https://www.crunchbase.com/organization/mobycy",
+   "still_active": true,
+   "type": "co-founder"
+  }
+ ],
+ "funding_rounds": [
+  {
+   "all_investors": [
+    "Gogoro",
+    "Goodyear Ventures",
+    "9Unicorns",
+    "WFC",
+    "Venture Catalysts",
+    "LetsVenture",
+    "IAN",
+    "Ivygrowth",
+    "Grip"
+   ],
+   "amount": "25000000",
+   "announced_date": "2023-02-08",
+   "currency": "USD",
+   "lead_investors": [
+    "Gogoro"
+   ],
+   "round_type": "Series B ($20M equity + $5M debt)",
+   "source_date": "2023-02-08",
+   "source_title": "Indian EV startup Zypp Electric raises $25 million in Gogoro-led round",
+   "source_url": "https://www.livemint.com/companies/start-ups/indian-ev-startup-zypp-electric-raises-25-million-in-gogoro-led-round-11675860027833.html",
+   "tier": "T3",
+   "valuation": "~Rs 1,300cr",
+   "valuation_type": "company-claimed"
+  },
+  {
+   "all_investors": [
+    "ENEOS",
+    "9unicorns",
+    "IAN Fund",
+    "Venture Catalysts",
+    "WFC"
+   ],
+   "amount": "15000000",
+   "announced_date": "2024-05-27",
+   "currency": "USD",
+   "lead_investors": [
+    "ENEOS"
+   ],
+   "purpose": "fleet 21k→200k scooters, 15 cities by 2026",
+   "round_type": "Series C (C1 equity close; $50M round: $40M eq + $10M debt)",
+   "source_date": "2024-05-27",
+   "source_title": "Japan's Eneos leads Zypp Electric's Series C funding",
+   "source_url": "https://www.vccircle.com/japans-eneos-leads-zypp-electric-s-series-c-funding",
+   "tier": "T3"
+  }
+ ],
+ "gaps": [
+  "Pre-IPO round close outcome not verified (expected late 2026).",
+  "Early Series A ($7M) investors not itemized for LITE.",
+  "Headcount: LinkedIn 1,001-5,000 vs Tracxn 1,099 official — band only."
+ ],
+ "investor_links": [
+  {
+   "confidence": "HIGH",
+   "investor": "Gogoro",
+   "investor_type": "corporate/strategic",
+   "lead": true,
+   "rounds": [
+    "Series B Feb 2023"
+   ],
+   "source_url": "https://www.livemint.com/companies/start-ups/indian-ev-startup-zypp-electric-raises-25-million-in-gogoro-led-round-11675860027833.html"
+  },
+  {
+   "confidence": "HIGH",
+   "investor": "ENEOS Group",
+   "investor_type": "corporate/strategic",
+   "lead": true,
+   "rounds": [
+    "Series C May 2024"
+   ],
+   "source_url": "https://www.vccircle.com/japans-eneos-leads-zypp-electric-s-series-c-funding"
+  },
+  {
+   "confidence": "HIGH",
+   "investor": "Goodyear Ventures",
+   "investor_type": "CVC",
+   "lead": false,
+   "rounds": [
+    "Series B Feb 2023"
+   ],
+   "source_url": "https://www.livemint.com/companies/start-ups/indian-ev-startup-zypp-electric-raises-25-million-in-gogoro-led-round-11675860027833.html"
+  }
+ ],
+ "research_log": [
+  {
+   "found": "ACTIVE, IPO-bound; Gurugram (batch city Bengaluru is wrong — corrected with evidence); CIN U63000HR2017PTC070227; founders; FY26 MCA revenue/loss",
+   "query": "Zypp Electric startup status 2025 2026 shutdown acquisition",
+   "unresolved": "Pre-IPO close outcome"
+  },
+  {
+   "found": "Series B $25M Gogoro Feb 2023; Series C1 $15M ENEOS May 2024; FY24 rev Rs 325cr",
+   "query": "Zypp Electric Series C funding ENEOS Gogoro December 2024 founders",
+   "unresolved": "None for LITE"
+  }
+ ],
+ "sources": [
+  {
+   "publication_date": "2023-02-08",
+   "publisher": "Mint",
+   "retrieved_date": "2026-09-15",
+   "tier": "T3",
+   "title": "Indian EV startup Zypp Electric raises $25 million in Gogoro-led round",
+   "url": "https://www.livemint.com/companies/start-ups/indian-ev-startup-zypp-electric-raises-25-million-in-gogoro-led-round-11675860027833.html"
+  },
+  {
+   "publication_date": "2024-05-27",
+   "publisher": "VCCircle",
+   "retrieved_date": "2026-09-15",
+   "tier": "T3",
+   "title": "Japan's Eneos leads Zypp Electric's Series C funding",
+   "url": "https://www.vccircle.com/japans-eneos-leads-zypp-electric-s-series-c-funding"
+  },
+  {
+   "publication_date": "2026-06-22",
+   "publisher": "Mint",
+   "retrieved_date": "2026-09-15",
+   "tier": "T3",
+   "title": "Zypp Electric gears up for $200 million IPO, appoints bankers",
+   "url": "https://www.livemint.com/companies/zypp-electric-ipo-ev-logistics-electric-vehicles-axis-capital-sbi-capital-markets-dam-capital-pre-ipo-funding-11782104481548.html"
+  },
+  {
+   "publisher": "CBInsights (MCA-cited FY26 figures)",
+   "retrieved_date": "2026-09-15",
+   "tier": "T2",
+   "title": "Zypp Electric CBInsights profile",
+   "url": "https://www.cbinsights.com/company/mobycy"
+  },
+  {
+   "publisher": "Tracxn (registry snippet)",
+   "retrieved_date": "2026-09-15",
+   "tier": "T2",
+   "title": "Zypp Electric Tracxn (Bycyshare CIN)",
+   "url": "http://tracxn.com/d/companies/zypp-electric/__U96AIh11fa25kr6vVshWgWmUjnbdhH8Yl6GqHtiPPfE"
+  }
+ ],
+ "startup_id": "zypp electric",
+ "_merged_session2": true
+}

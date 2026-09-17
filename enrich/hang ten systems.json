@@ -1,0 +1,190 @@
+{
+ "company": {
+  "business_model": "B2B AI-native enterprise software services",
+  "cin": "UNKNOWN",
+  "city": "Bengaluru",
+  "company_name": "Hang Ten Systems",
+  "country": "India",
+  "founded_date": "2026",
+  "incorporation_date": "UNKNOWN",
+  "primary_sector": "AI enterprise software services",
+  "public_private": "private",
+  "startup_stage": "seed",
+  "state": "Karnataka",
+  "status": "active",
+  "website": "https://hangten.ai/",
+  "official_website": {
+   "v": "https://hangten.ai",
+   "conf": "high",
+   "src": "https://hangten.ai",
+   "note": "verified live 2026-09-15: name match on own homepage"
+  },
+  "careers_website": {
+   "v": "https://hangten.ai/careers",
+   "conf": "high",
+   "src": "https://hangten.ai",
+   "note": "careers link found on official homepage, probed live"
+  }
+ },
+ "completeness_self": {
+  "financials": 2,
+  "founders": 8,
+  "funding": 8,
+  "identity": 7,
+  "investors": 7,
+  "legal": 5,
+  "people": 4,
+  "products": 6,
+  "sources": 7,
+  "traction": 5
+ },
+ "conflicts": [],
+ "events": [
+  {
+   "announced_date": "2026-06-24",
+   "confidence": "HIGH",
+   "date": "2026-06-24",
+   "description": "Enterprise AI services company founded by Vishal Sikka exits stealth with $32M seed led by Mayfield, strategic investment from Aramco Ventures; board includes Jerry Yang; customers include Siemens Gamesa Renewable Energy and Fresenius.",
+   "headline": "Hang Ten Systems raises $32M seed, exits stealth",
+   "source_url": "https://hangten.ai/press",
+   "type": "launch + funding"
+  }
+ ],
+ "financials": [],
+ "founders": [
+  {
+   "background": "Former CEO Infosys (2014-2017); CTO SAP (architected HANA); founder VianAI",
+   "confidence": "HIGH",
+   "name": "Vishal Sikka",
+   "role": "Co-founder & CEO",
+   "source_url": "https://techcrunch.com/2026/06/24/former-infosys-chief-has-a-new-startup-that-wants-to-challenge-the-it-services-world/",
+   "still_active": true,
+   "type": "co-founder"
+  },
+  {
+   "background": "Former CTO of SAP SuccessFactors",
+   "confidence": "MEDIUM",
+   "name": "Navin Budhiraja",
+   "role": "CTO, co-founder",
+   "source_url": "https://techcrunch.com/2026/06/24/former-infosys-chief-has-a-new-startup-that-wants-to-challenge-the-it-services-world/",
+   "still_active": true,
+   "type": "co-founder"
+  },
+  {
+   "confidence": "MEDIUM",
+   "name": "Sanjay Rajagopalan",
+   "role": "Chief Design Officer, co-founder",
+   "source_url": "https://techcrunch.com/2026/06/24/former-infosys-chief-has-a-new-startup-that-wants-to-challenge-the-it-services-world/",
+   "still_active": true,
+   "type": "co-founder"
+  }
+ ],
+ "funding_rounds": [
+  {
+   "all_investors": [
+    "Mayfield",
+    "Aramco Ventures",
+    "angel investors"
+   ],
+   "amount": 32,
+   "announced_date": "2026-06-24",
+   "confidence": "HIGH",
+   "currency": "USD",
+   "lead_investors": [
+    "Mayfield"
+   ],
+   "purpose": "Team build-out and expanding work with global enterprises",
+   "round_date": "2026-06-24",
+   "round_type": "seed",
+   "source_date": "2026-06-24",
+   "source_title": "Hang Ten Systems raises $32 million to help enterprises succeed with AI",
+   "source_url": "https://hangten.ai/press",
+   "tier": "T1"
+  }
+ ],
+ "gaps": [
+  "CIN/incorporation date not verified (US HQ Palo Alto; Bengaluru presence per discovery but no registry page surfaced)",
+  "No revenue/financials (one month old at launch)",
+  "Full co-founder list varies across sources (Tracxn names Pradeep K Panicker; TechCrunch names Budhiraja/Rajagopalan/Liu)"
+ ],
+ "investor_links": [
+  {
+   "confidence": "HIGH",
+   "first_seen": "2026-06-24",
+   "investor": "Mayfield",
+   "investor_type": "VC",
+   "lead": true,
+   "rounds": [
+    "seed"
+   ],
+   "source_url": "https://hangten.ai/press"
+  },
+  {
+   "confidence": "HIGH",
+   "first_seen": "2026-06-24",
+   "investor": "Aramco Ventures",
+   "investor_type": "CVC (strategic)",
+   "lead": false,
+   "rounds": [
+    "seed"
+   ],
+   "source_url": "https://hangten.ai/press"
+  }
+ ],
+ "research_log": [
+  {
+   "found": "TechCrunch + ET + company press confirming $32M seed, founders, customers",
+   "query": "Hang Ten Systems startup status/shutdown/acquisition 2025 2026",
+   "unresolved": "India legal entity details"
+  },
+  {
+   "found": "Co-founder names (Budhiraja, Rajagopalan, Liu); Bengaluru-India angle",
+   "query": "Hang Ten Systems Vishal Sikka founders Bengaluru India office",
+   "unresolved": "Exact India office address"
+  }
+ ],
+ "sources": [
+  {
+   "claim_supported": "$32M seed, lead, customers, Sikka quotes",
+   "fields_supported": [
+    "funding_rounds",
+    "company",
+    "investor_links"
+   ],
+   "publication_date": "2026-06-24",
+   "publisher": "Hang Ten Systems",
+   "retrieved_date": "2026-09-15",
+   "tier": "T1",
+   "title": "Hang Ten Systems raises $32 million to help enterprises succeed with AI",
+   "url": "https://hangten.ai/press"
+  },
+  {
+   "claim_supported": "Seed details, HQ Palo Alto, co-founders, VianAI background",
+   "fields_supported": [
+    "company",
+    "founders",
+    "funding_rounds"
+   ],
+   "publication_date": "2026-06-24",
+   "publisher": "TechCrunch",
+   "retrieved_date": "2026-09-15",
+   "tier": "T3",
+   "title": "Former Infosys chief has a new startup that wants to challenge the IT services world",
+   "url": "https://techcrunch.com/2026/06/24/former-infosys-chief-has-a-new-startup-that-wants-to-challenge-the-it-services-world/"
+  },
+  {
+   "claim_supported": "$32M seed led by Mayfield, Aramco backing, Jerry Yang board",
+   "fields_supported": [
+    "funding_rounds"
+   ],
+   "publication_date": "2026-06-24",
+   "publisher": "Economic Times",
+   "retrieved_date": "2026-09-15",
+   "tier": "T3",
+   "title": "Vishal Sikka's AI startup Hang Ten Systems raises $32 million led by Mayfield",
+   "url": "https://economictimes.indiatimes.com/tech/funding/vishal-sikkas-ai-startup-hang-ten-systems-raises-32-million-led-by-mayfield/articleshow/131971910.cms"
+  }
+ ],
+ "startup_id": "hang ten systems",
+ "_merged_session2": true
+}

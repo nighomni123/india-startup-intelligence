@@ -1,0 +1,1059 @@
+{
+ "company": {
+  "business_model": "transaction-fee crypto exchange + wealthtech (Lemonn) + custody (DigiVault)",
+  "city": "Bengaluru (operating; Tracxn lists Chennai/Tamil Nadu — conflict)",
+  "country": "India",
+  "customer_type": "B2C retail + HNI/institutional",
+  "founded_date": "2017",
+  "last_funding_date": "2021-10-06",
+  "last_funding_round": "Series C",
+  "last_known_valuation": "$1.9B (Oct 2021)",
+  "legal_name": "Bitkuber Investments Pvt Ltd (operating as CoinSwitch); parent PeepalCo / Chain Labs Pte Ltd Singapore",
+  "primary_sector": "crypto/fintech",
+  "secondary_sectors": [
+   "wealthtech",
+   "custody"
+  ],
+  "startup_id": "coinswitch kuber",
+  "startup_stage": "Unicorn (Series C)",
+  "status": "active",
+  "total_funding_disclosed": "~$301.5-302M",
+  "website": "https://coinswitch.co",
+  "cin": "U65990KA2021PTC145060",
+  "incorporation_date": "2021-03-09",
+  "official_website": {
+   "v": "https://coinswitch.co",
+   "conf": "high",
+   "src": "https://coinswitch.co",
+   "note": "verified live 2026-09-15: name match on own homepage"
+  },
+  "careers_website": {
+   "v": "https://recruiterflow.com/coinswitch/jobs",
+   "conf": "high",
+   "src": "official homepage nav",
+   "note": "verified 2026-09-15"
+  }
+ },
+ "competitors": [
+  {
+   "basis": "explicit",
+   "category": "crypto exchange",
+   "confidence": "MEDIUM",
+   "source_url": "https://pitchbook.com:8443/profiles/company/436520-71",
+   "name": "WazirX"
+  },
+  {
+   "basis": "explicit",
+   "category": "crypto exchange",
+   "confidence": "MEDIUM",
+   "source_url": "https://www.vccircle.com/coinswitch-becomes-second-indian-crypto-unicorn-after-funding-led-by-a16z-coinbase-ventures",
+   "name": "CoinDCX"
+  }
+ ],
+ "completeness_self": {
+  "customers": 4,
+  "financials": 8,
+  "founders": 8,
+  "funding": 9,
+  "identity": 8,
+  "investors": 9,
+  "legal": 8,
+  "people": 5,
+  "products": 7,
+  "sources": 8,
+  "traction": 7
+ },
+ "conflicts": [
+  {
+   "claim_a": "HQ Bengaluru (company, press, Dealroom)",
+   "field": "HQ city",
+   "resolution": "Operating HQ Bengaluru per company/press; Tracxn registry shows Chennai — likely registered-entity quirk; keep Bengaluru operating",
+   "resolved_value": "Bengaluru (operating)",
+   "url_a": "https://coinswitch.co/press/coinswitch-kuber-raises-usd-260-million-in-series-c-funding-from-coinbase-ventures-and-andreessen-horowitz-a16z",
+   "url_b": "https://platform.tracxn.com/a/d/company/59676ccbe4b04cbde60478d4/coinswitch"
+  }
+ ],
+ "customers": [],
+ "events": [
+  {
+   "announced_date": "2021-10-06",
+   "confidence": "HIGH",
+   "date": "2021-10-06",
+   "description": "a16z first India investment; unicorn at $1.9B",
+   "headline": "$260M Series C led by a16z + Coinbase Ventures",
+   "source_url": "https://coinswitch.co/press/coinswitch-kuber-raises-usd-260-million-in-series-c-funding-from-coinbase-ventures-and-andreessen-horowitz-a16z",
+   "type": "funding"
+  },
+  {
+   "announced_date": "2022-08-27",
+   "confidence": "HIGH",
+   "date": "2022-08-25",
+   "description": "ED searched Bengaluru offices re business model, onboarding, KYC, forex compliance; CEO cooperating",
+   "headline": "ED search / FEMA-linked probe",
+   "source_url": "https://www.reuters.com/world/india/indias-coinswitch-cooperating-with-financial-crime-agency-probe-ceo-2022-08-27",
+   "type": "regulatory"
+  },
+  {
+   "announced_date": "2024-03-15",
+   "confidence": "HIGH",
+   "date": "2024-03-15",
+   "description": "Response to 80%+ revenue slump; stocks/MF/IPOs via Lemonn under PeepalCo",
+   "headline": "Diversification into wealthtech announced",
+   "source_url": "https://www.livemint.com/companies/crypto-exchange-coinswitch-to-diversify-into-wealth-management-11710506989624.html",
+   "type": "strategy"
+  },
+  {
+   "announced_date": "2026-03-01",
+   "confidence": "MEDIUM",
+   "date": "2026-03-01",
+   "description": "HNI/institutional custody offering",
+   "headline": "DigiVault custody launch",
+   "source_url": "https://platform.tracxn.com/a/d/company/59676ccbe4b04cbde60478d4/coinswitch",
+   "type": "product_launch"
+  }
+ ],
+ "financials": [
+  {
+   "confidence": "HIGH",
+   "currency": "INR",
+   "fiscal_year": "FY23",
+   "metric": "operating_revenue",
+   "source_date": "2024-03-15",
+   "source_title": "CoinSwitch to diversify into wealth products",
+   "source_url": "https://www.livemint.com/companies/crypto-exchange-coinswitch-to-diversify-into-wealth-management-11710506989624.html",
+   "unit": "crore",
+   "value": 45.6,
+   "value_type": "press-quoted-filing"
+  },
+  {
+   "confidence": "HIGH",
+   "currency": "INR",
+   "fiscal_year": "FY22",
+   "metric": "operating_revenue",
+   "source_url": "https://www.livemint.com/companies/crypto-exchange-coinswitch-to-diversify-into-wealth-management-11710506989624.html",
+   "unit": "crore",
+   "value": 248.6,
+   "value_type": "press-quoted-filing"
+  },
+  {
+   "confidence": "MEDIUM",
+   "currency": "USD",
+   "fiscal_year": "FY25",
+   "metric": "operating_revenue (Singapore parent Chain Labs)",
+   "source_date": "2025-11-06",
+   "source_title": "CoinSwitch FY25 loss doubles",
+   "source_url": "https://inc42.com/buzz/coinswitchs-fy25-loss-more-than-doubles-to-37-6-mn",
+   "unit": "million",
+   "value": 14.6,
+   "value_type": "press-quoted-filing"
+  },
+  {
+   "confidence": "MEDIUM",
+   "currency": "USD",
+   "fiscal_year": "FY25",
+   "metric": "PAT (parent)",
+   "source_url": "https://inc42.com/buzz/coinswitchs-fy25-loss-more-than-doubles-to-37-6-mn",
+   "unit": "million",
+   "value": -37.6,
+   "value_type": "press-quoted-filing"
+  },
+  {
+   "confidence": "MEDIUM",
+   "currency": "INR",
+   "fiscal_year": "FY25",
+   "metric": "standalone revenue (Venture Intelligence)",
+   "source_url": "https://companies.ventureintelligence.com/company/CoinSwitch",
+   "unit": "crore",
+   "value": 90.81,
+   "value_type": "press-quoted-filing"
+  }
+ ],
+ "founders": [
+  {
+   "background": "NSUT; ex-Amazon; Group CEO PeepalCo",
+   "confidence": "HIGH",
+   "name": "Ashish Singhal",
+   "role": "Co-founder & CEO",
+   "source_url": "https://coinswitch.co/press/coinswitch-kuber-raises-usd-260-million-in-series-c-funding-from-coinbase-ventures-and-andreessen-horowitz-a16z",
+   "still_active": true,
+   "type": "co-founder",
+   "active": "yes"
+  },
+  {
+   "background": "Co-founder & CTO",
+   "confidence": "HIGH",
+   "name": "Govind Soni",
+   "role": "Co-founder & CTO",
+   "source_url": "https://timesofindia.indiatimes.com/business/cryptocurrency/bitcoin/cryptocurrency-platform-coinswitch-kube-raises-260-million-valued-at-1-9-billion/articleshow/86805635.cms",
+   "still_active": true,
+   "type": "co-founder",
+   "active": "yes"
+  },
+  {
+   "background": "Co-founder & COO",
+   "confidence": "HIGH",
+   "name": "Vimal Sagar Tiwari",
+   "role": "Co-founder & COO",
+   "source_url": "https://timesofindia.indiatimes.com/business/cryptocurrency/bitcoin/cryptocurrency-platform-coinswitch-kube-raises-260-million-valued-at-1-9-billion/articleshow/86805635.cms",
+   "still_active": true,
+   "type": "co-founder",
+   "active": "yes",
+   "linkedin": "https://in.linkedin.com/in/sagarvimal"
+  }
+ ],
+ "funding_rounds": [
+  {
+   "all_investors": [
+    "Sequoia Capital India",
+    "Ribbit Capital",
+    "Paradigm",
+    "Kunal Shah"
+   ],
+   "amount": 15,
+   "announced_date": "2021-01-13",
+   "confidence": "HIGH",
+   "currency": "USD",
+   "lead_investors": [
+    "Ribbit Capital",
+    "Paradigm"
+   ],
+   "round_date": "2021-01-13",
+   "round_type": "Series A",
+   "source_title": "Dealroom/CB Insights",
+   "source_url": "https://app.dealroom.co/companies/coinswitch",
+   "tier": "T2"
+  },
+  {
+   "all_investors": [
+    "Tiger Global"
+   ],
+   "amount": 25,
+   "announced_date": "2021-04-22",
+   "confidence": "HIGH",
+   "currency": "USD",
+   "lead_investors": [
+    "Tiger Global"
+   ],
+   "round_date": "2021-04-22",
+   "round_type": "Series B",
+   "source_date": "2021-04-22",
+   "source_title": "CoinSwitch valued at $500M after $25M from Tiger",
+   "source_url": "https://m.economictimes.com/tech/funding/coinswitch-kuber-valued-at-500-million-after-raising-25-million-from-tiger/articleshow/82195549.cms",
+   "tier": "T3",
+   "valuation": "$500M+",
+   "valuation_type": "post-money"
+  },
+  {
+   "all_investors": [
+    "Andreessen Horowitz (a16z)",
+    "Coinbase Ventures",
+    "Paradigm",
+    "Ribbit Capital",
+    "Sequoia Capital India",
+    "Tiger Global"
+   ],
+   "amount": 260,
+   "announced_date": "2021-10-06",
+   "confidence": "HIGH",
+   "currency": "USD",
+   "lead_investors": [
+    "Andreessen Horowitz (a16z)",
+    "Coinbase Ventures"
+   ],
+   "round_date": "2021-10-06",
+   "round_type": "Series C",
+   "source_date": "2021-10-06",
+   "source_title": "CoinSwitch Kuber raises $260M Series C",
+   "source_url": "https://coinswitch.co/press/coinswitch-kuber-raises-usd-260-million-in-series-c-funding-from-coinbase-ventures-and-andreessen-horowitz-a16z",
+   "tier": "T1",
+   "valuation": "$1.9B",
+   "valuation_type": "post-money",
+   "announcement_date": "2021-10-06",
+   "valuation_currency": "USD",
+   "purpose": "Growth; a16z first India investment"
+  }
+ ],
+ "gaps": [
+  "FY26 financials unverified",
+  "ED probe outcome/status post-2022 unverified",
+  "CIN/DPIIT unverified",
+  "Lemonn traction figures unverified",
+  "CIN state-code conflict unresolved: U65990KA2021PTC145060 (Tofler) vs U65990TN2021PTC191472 (ZaubaCorp TN page) — needs MCA primary check"
+ ],
+ "hiring": [],
+ "investor_links": [
+  {
+   "confidence": "HIGH",
+   "first_seen": "2021",
+   "investor": "Andreessen Horowitz (a16z)",
+   "investor_type": "VC",
+   "lead": true,
+   "rounds": [
+    "Series C 2021"
+   ],
+   "source_url": "https://coinswitch.co/press/coinswitch-kuber-raises-usd-260-million-in-series-c-funding-from-coinbase-ventures-and-andreessen-horowitz-a16z"
+  },
+  {
+   "confidence": "HIGH",
+   "first_seen": "2021",
+   "investor": "Coinbase Ventures",
+   "investor_type": "CVC",
+   "lead": true,
+   "rounds": [
+    "Series C 2021"
+   ],
+   "source_url": "https://coinswitch.co/press/coinswitch-kuber-raises-usd-260-million-in-series-c-funding-from-coinbase-ventures-and-andreessen-horowitz-a16z"
+  },
+  {
+   "confidence": "HIGH",
+   "first_seen": "2021",
+   "investor": "Tiger Global",
+   "investor_type": "VC",
+   "lead": true,
+   "rounds": [
+    "Series B",
+    "Series C"
+   ],
+   "source_url": "https://m.economictimes.com/tech/funding/coinswitch-kuber-valued-at-500-million-after-raising-25-million-from-tiger/articleshow/82195549.cms"
+  },
+  {
+   "confidence": "HIGH",
+   "first_seen": "2021",
+   "investor": "Peak XV Partners (Sequoia India)",
+   "investor_type": "VC",
+   "rounds": [
+    "Series A",
+    "Series C"
+   ],
+   "source_url": "https://coinswitch.co/press/coinswitch-kuber-raises-usd-260-million-in-series-c-funding-from-coinbase-ventures-and-andreessen-horowitz-a16z"
+  },
+  {
+   "confidence": "MEDIUM",
+   "first_seen": "2021",
+   "investor": "Paradigm",
+   "investor_type": "VC",
+   "rounds": [
+    "Series A",
+    "Series C"
+   ],
+   "source_url": "https://coinswitch.co/press/coinswitch-kuber-raises-usd-260-million-in-series-c-funding-from-coinbase-ventures-and-andreessen-horowitz-a16z"
+  },
+  {
+   "confidence": "MEDIUM",
+   "first_seen": "2021",
+   "investor": "Ribbit Capital",
+   "investor_type": "VC",
+   "rounds": [
+    "Series A",
+    "Series C"
+   ],
+   "source_url": "https://coinswitch.co/press/coinswitch-kuber-raises-usd-260-million-in-series-c-funding-from-coinbase-ventures-and-andreessen-horowitz-a16z"
+  }
+ ],
+ "ip_tech_ai": {},
+ "legal": [
+  {
+   "confidence": "HIGH",
+   "dates": "2022-08",
+   "regulator": "Enforcement Directorate",
+   "status": "cooperating; outcome unverified",
+   "summary": "ED search of Bengaluru offices; suspected FEMA issues; not money-laundering per CEO",
+   "type": "investigation"
+  },
+  {
+   "confidence": "MEDIUM",
+   "dates": "FY25",
+   "regulator": "n/a (civil)",
+   "status": "proceedings filed",
+   "summary": "$7.6M user assets hit by WazirX breach; CoinSwitch absorbed hit, sued WazirX",
+   "type": "complaint"
+  }
+ ],
+ "locations": [
+  {
+   "as_of": "2026",
+   "city": "Bengaluru",
+   "confidence": "HIGH",
+   "source_url": "https://timesofindia.indiatimes.com/business/cryptocurrency/bitcoin/cryptocurrency-platform-coinswitch-kube-raises-260-million-valued-at-1-9-billion/articleshow/86805635.cms",
+   "state": "Karnataka",
+   "type": "HQ"
+  }
+ ],
+ "partnerships": [],
+ "people": [],
+ "products": [
+  {
+   "category": "crypto exchange",
+   "description": "Spot, futures, SIP, trading bots on 100+ assets",
+   "name": "CoinSwitch app",
+   "source_url": "https://coinswitch.co/press/coinswitch-kuber-raises-usd-260-million-in-series-c-funding-from-coinbase-ventures-and-andreessen-horowitz-a16z",
+   "status": "live"
+  },
+  {
+   "category": "wealthtech",
+   "description": "Stocks, mutual funds, IPOs",
+   "name": "Lemonn",
+   "source_url": "https://inc42.com/buzz/coinswitchs-fy25-loss-more-than-doubles-to-37-6-mn",
+   "status": "live"
+  },
+  {
+   "category": "custody",
+   "description": "HNI/institutional crypto custody",
+   "name": "DigiVault",
+   "source_url": "https://platform.tracxn.com/a/d/company/59676ccbe4b04cbde60478d4/coinswitch",
+   "status": "live"
+  }
+ ],
+ "research_log": [
+  {
+   "found": "Series A/B/C, $1.9B, founders, investors",
+   "next_action": "done",
+   "query": "CoinSwitch funding valuation investors",
+   "unresolved": "none"
+  },
+  {
+   "found": "FY23/FY25 financials, ED probe, Lemonn, WazirX suit",
+   "next_action": "done",
+   "query": "CoinSwitch founders revenue FY25 ED legal",
+   "unresolved": "ED outcome"
+  },
+  {
+   "found": "Reuters fetch 401 (logged); using search snippet facts at HIGH conf (Reuters T3 newswire)",
+   "next_action": "none",
+   "query": "fetch reuters ED probe",
+   "unresolved": "page body"
+  },
+  {
+   "date": "2026-09-14",
+   "found": "Bitkuber Investments Pvt Ltd incorporated 09 Mar 2021; Tofler shows CIN U65990KA2021PTC145060 (Karnataka); ZaubaCorp also lists a TN variant U65990TN2021PTC191472 — same date; InstaFinancials mixes both (CIN KA page shows TN CIN). Registry-duplicate conflict preserved.",
+   "query": "Bitkuber Investments CoinSwitch CIN incorporation date Tofler ZaubaCorp"
+  },
+  {
+   "date": "2026-09-14",
+   "found": "Series C $260M Oct 6 2021 at $1.9B valuation, led by a16z + Coinbase Ventures (TOI, Moneycontrol, Entrackr agree)",
+   "query": "CoinSwitch Series C valuation $1.9 billion October 2021 a16z"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  }
+ ],
+ "sources": [
+  {
+   "claim_supported": "$260M Series C, $1.9B, investors, users",
+   "fields_supported": [
+    "funding_rounds",
+    "founders"
+   ],
+   "publication_date": "2021-10-06",
+   "publisher": "CoinSwitch (company)",
+   "retrieved_date": "2026-09-14",
+   "tier": "T1",
+   "title": "CoinSwitch Kuber raises $260M Series C",
+   "url": "https://coinswitch.co/press/coinswitch-kuber-raises-usd-260-million-in-series-c-funding-from-coinbase-ventures-and-andreessen-horowitz-a16z"
+  },
+  {
+   "claim_supported": "$25M Series B at $500M+",
+   "fields_supported": [
+    "funding_rounds"
+   ],
+   "publication_date": "2021-04-22",
+   "publisher": "Economic Times",
+   "retrieved_date": "2026-09-14",
+   "tier": "T3",
+   "title": "CoinSwitch valued at $500M after $25M from Tiger",
+   "url": "https://m.economictimes.com/tech/funding/coinswitch-kuber-valued-at-500-million-after-raising-25-million-from-tiger/articleshow/82195549.cms"
+  },
+  {
+   "claim_supported": "ED search, cooperation, FEMA angle",
+   "fields_supported": [
+    "legal"
+   ],
+   "publication_date": "2022-08-27",
+   "publisher": "Reuters",
+   "retrieved_date": "2026-09-14",
+   "tier": "T3",
+   "title": "CoinSwitch cooperating with financial crime agency probe",
+   "url": "https://www.reuters.com/world/india/indias-coinswitch-cooperating-with-financial-crime-agency-probe-ceo-2022-08-27"
+  },
+  {
+   "claim_supported": "FY25 parent loss/revenue, WazirX, Lemonn",
+   "fields_supported": [
+    "financials",
+    "legal"
+   ],
+   "publication_date": "2025-11-06",
+   "publisher": "Inc42",
+   "retrieved_date": "2026-09-14",
+   "tier": "T3",
+   "title": "CoinSwitch FY25 loss doubles to $37.6M",
+   "url": "https://inc42.com/buzz/coinswitchs-fy25-loss-more-than-doubles-to-37-6-mn"
+  },
+  {
+   "claim_supported": "FY23 revenue slump, diversification",
+   "fields_supported": [
+    "financials"
+   ],
+   "publication_date": "2024-03-15",
+   "publisher": "Mint",
+   "retrieved_date": "2026-09-14",
+   "tier": "T3",
+   "title": "CoinSwitch to diversify into wealth products",
+   "url": "https://www.livemint.com/companies/crypto-exchange-coinswitch-to-diversify-into-wealth-management-11710506989624.html"
+  },
+  {
+   "url": "https://timesofindia.indiatimes.com/business/cryptocurrency/bitcoin/cryptocurrency-platform-coinswitch-kube-raises-260-million-valued-at-1-9-billion/articleshow/86805635.cms",
+   "title": "",
+   "fields": "FUNDING",
+   "confidence": "MEDIUM"
+  },
+  {
+   "url": "https://www.tofler.in/bitkuber-investments-private-limited/company/U65990KA2021PTC145060",
+   "title": "bitkuber investments private limited - Tofler",
+   "fields": [
+    "incorporation_date"
+   ],
+   "confidence": "HIGH"
+  },
+  {
+   "url": "https://www.zaubacorp.com/BITKUBER-INVESTMENTS-PRIVATE-LIMITED-U65990KA2021PTC145060",
+   "title": "BITKUBER INVESTMENTS PRIVATE LIMITED | ZaubaCorp",
+   "fields": [
+    "cin"
+   ],
+   "confidence": "MEDIUM"
+  },
+  {
+   "url": "https://www.linkedin.com/posts/ashish-singhal-peepalco_people-often-say-%F0%9D%97%A1%F0%9D%96%B2%F0%9E%97%F0%9A%BF-%F0%9D%97%AF%F0%9F%98%82%F0%9F%98%83%F0%9F%98%BF-%F0%9F%97%B1-activity-7483026324811403264-H6Xm",
+   "title": "Ashish Singhal's Post - LinkedIn",
+   "tier": "T2",
+   "claim": "founder status Ashish Singhal"
+  },
+  {
+   "url": "https://in.linkedin.com/company/coinswitch",
+   "title": "CoinSwitch | LinkedIn",
+   "tier": "T2",
+   "claim": "founder status Govind Soni"
+  },
+  {
+   "url": "https://in.linkedin.com/in/sagarvimal",
+   "title": "Vimal Sagar Tiwari - Co-founder, CoinSwitch (India's largest crypto ...",
+   "tier": "T2",
+   "claim": "founder status Vimal Sagar Tiwari"
+  }
+ ],
+ "startup_id": "coinswitch kuber",
+ "traction": [
+  {
+   "as_of": "2024-03",
+   "company_reported": true,
+   "confidence": "MEDIUM",
+   "metric": "registered users",
+   "period": "2024",
+   "source_url": "https://coinswitch.co/building-blocks/author/ashish",
+   "value": "2 crore+"
+  }
+ ],
+ "canonical_key": "coinswitch kuber",
+ "_merged_session2": true
+}

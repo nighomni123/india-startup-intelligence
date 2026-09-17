@@ -1,0 +1,935 @@
+{
+ "company": {
+  "business_model": "B2B2C SaaS / AI platform (vibe-coding → SMB operating system)",
+  "city": "Bengaluru",
+  "country": "India",
+  "founded_date": "2024 (founded); public launch Jun 2025",
+  "last_funding_date": "2026-07-15",
+  "last_funding_round": "Series C",
+  "last_known_valuation": "$1.5B post-money (Jul 2026)",
+  "primary_sector": "AI dev-tools / vibe-coding",
+  "public_private": "private",
+  "secondary_sectors": [
+   "SMB SaaS",
+   "AI agents"
+  ],
+  "startup_stage": "unicorn",
+  "state": "Karnataka",
+  "status": "operating",
+  "cin": {
+   "v": "3914600 (EMERGENT LABS INC., UK) / U62010KA2026PTC222737 (EMERGENE AI PRIVATE LIMITED, India)",
+   "date": "2024-06-12 (EMERGENT LABS INC.) / 2026-06-20 (EMERGENE AI PRIVATE LIMITED)",
+   "conf": "MEDIUM",
+   "src": "Tracxn/IndiaFilings/UpForge registry aggregator pages"
+  },
+  "incorporation_date": {
+   "v": "12 June 2024 (EMERGENT LABS INC., UK entity) / 20 June 2026 (EMERGENE AI PRIVATE LIMITED, India entity)",
+   "date": "2024-06-12",
+   "conf": "MEDIUM",
+   "src": "Tracxn/IndiaFilings/UpForge registry aggregator pages"
+  },
+  "official_website": {
+   "v": "https://emergent.sh",
+   "conf": "high",
+   "src": "https://emergent.sh",
+   "note": "verified live 2026-09-15: name match on own homepage"
+  },
+  "careers_website": {
+   "v": "https://emergent.sh/careers",
+   "conf": "high",
+   "src": "https://emergent.sh",
+   "note": "careers link found on official homepage, probed live"
+  },
+  "website": "https://emergent.sh"
+ },
+ "completeness_self": {
+  "customers": 7,
+  "financials": 5,
+  "founders": 8,
+  "funding": 9,
+  "identity": 8,
+  "investors": 9,
+  "legal": 2,
+  "people": 4,
+  "products": 8,
+  "sources": 8,
+  "traction": 8
+ },
+ "conflicts": [
+  {
+   "claim_a": "Series B $70M at $300M valuation in January 2026 (TechCrunch) / closed December (Forbes India)",
+   "claim_b": "Company table: Series B Jan 2026; Series A Sep 2025 $23M",
+   "field": "seriesB_timing",
+   "resolution": "Treat as announced Jan 2026, closed Dec 2025 (standard lag). Use Jan 2026 announced date.",
+   "url_a": "https://techcrunch.com/2026/07/15/indian-ai-coding-startup-emergent-becomes-a-unicorn-just-over-a-year-after-launch/",
+   "url_b": "https://emergent.sh/news/emergent-now-a-unicorn-at-1-5-billion-valuation"
+  }
+ ],
+ "customers": [
+  {
+   "name": "SMBs, solo founders, creators; 70-80% non-coders",
+   "source_url": "https://emergent.sh/news/emergent-now-a-unicorn-at-1-5-billion-valuation",
+   "type": "sme-consumer"
+  }
+ ],
+ "financials": [
+  {
+   "confidence": "MEDIUM",
+   "currency": "USD",
+   "fiscal_year": "FY26",
+   "metric": "ARR_run_rate",
+   "source_date": "2026-02-17",
+   "source_title": "AWS: Emergent hit $100M annualized revenue",
+   "source_url": "https://aws.amazon.com/aws-startups/learn/from-yc-to-aws-how-emergent-hit-100m-usd-annualized-revenue-in-8-months/",
+   "unit": "million",
+   "value": 100,
+   "value_type": "management"
+  },
+  {
+   "confidence": "MEDIUM",
+   "currency": "USD",
+   "fiscal_year": "FY26",
+   "metric": "ARR",
+   "source_date": "2026-07-15",
+   "source_title": "Fortune India: Emergent unicorn",
+   "source_url": "https://www.fortuneindia.com/startups-news/emergent-becomes-the-latest-unicorn-in-indias-ai-space-with-series-c-funding/148456",
+   "unit": "million",
+   "value": 120,
+   "value_type": "management"
+  }
+ ],
+ "founders": [
+  {
+   "background": "ex-Google; co-founder & CTO Dunzo; co-founder Wisdom.ly, Habet",
+   "confidence": "HIGH",
+   "name": "Mukund Jha",
+   "role": "Co-founder & CEO",
+   "source_url": "https://techcrunch.com/2026/07/15/indian-ai-coding-startup-emergent-becomes-a-unicorn-just-over-a-year-after-launch/",
+   "still_active": true,
+   "type": "co-founder",
+   "active": "yes",
+   "location": "San Francisco",
+   "linkedin": "https://linkedin.com/in/mukund-jha-a1596413"
+  },
+  {
+   "background": "ex-Dropbox ML engineer; PhD Penn State; ex-Sandia; Amazon SageMaker team",
+   "confidence": "HIGH",
+   "name": "Madhav Jha",
+   "role": "Co-founder (twin brother)",
+   "source_url": "https://www.vccircle.com/agenticai-startup-emergent-enters-unicorn-club-with-series-c-round",
+   "still_active": true,
+   "type": "co-founder",
+   "active": "yes",
+   "location": "San Francisco"
+  }
+ ],
+ "funding_rounds": [
+  {
+   "all_investors": [
+    "Y Combinator",
+    "Together Fund"
+   ],
+   "amount": 7000000,
+   "announced_date": "2024-01-01",
+   "confidence": "MEDIUM",
+   "currency": "USD",
+   "round_type": "Seed",
+   "source_title": "Company Series C announcement (round table)",
+   "source_url": "https://emergent.sh/news/emergent-now-a-unicorn-at-1-5-billion-valuation",
+   "tier": "T1"
+  },
+  {
+   "all_investors": [
+    "Lightspeed",
+    "Together Fund",
+    "Y Combinator",
+    "Prosus Ventures"
+   ],
+   "amount": 23000000,
+   "announced_date": "2025-09-01",
+   "confidence": "HIGH",
+   "currency": "USD",
+   "lead_investors": [
+    "Lightspeed"
+   ],
+   "round_type": "Series A",
+   "source_title": "VCCircle: Emergent enters unicorn club",
+   "source_url": "https://www.vccircle.com/agenticai-startup-emergent-enters-unicorn-club-with-series-c-round",
+   "tier": "T3"
+  },
+  {
+   "all_investors": [
+    "Khosla Ventures",
+    "SoftBank Vision Fund 2"
+   ],
+   "amount": 70000000,
+   "announced_date": "2026-01-01",
+   "confidence": "HIGH",
+   "currency": "USD",
+   "lead_investors": [
+    "Khosla Ventures",
+    "SoftBank Vision Fund 2"
+   ],
+   "round_type": "Series B",
+   "source_date": "2026-07-15",
+   "source_title": "TechCrunch: Emergent unicorn $130M Series C",
+   "source_url": "https://techcrunch.com/2026/07/15/indian-ai-coding-startup-emergent-becomes-a-unicorn-just-over-a-year-after-launch/",
+   "tier": "T3",
+   "valuation": "$300M",
+   "valuation_type": "post-money"
+  },
+  {
+   "all_investors": [
+    "Creaegis",
+    "MNI Ventures-Claypond Capital",
+    "Sentinel Global",
+    "Khosla Ventures",
+    "SoftBank Vision Fund 2",
+    "Lightspeed",
+    "Y Combinator"
+   ],
+   "amount": 130000000,
+   "announced_date": "2026-07-15",
+   "confidence": "HIGH",
+   "currency": "USD",
+   "lead_investors": [
+    "Creaegis"
+   ],
+   "notes": "Co-leads: MNI Ventures-Claypond, Sentinel Global; total funding $230M",
+   "round_type": "Series C",
+   "source_date": "2026-07-15",
+   "source_title": "TechCrunch: Emergent unicorn $130M Series C",
+   "source_url": "https://techcrunch.com/2026/07/15/indian-ai-coding-startup-emergent-becomes-a-unicorn-just-over-a-year-after-launch/",
+   "tier": "T3",
+   "valuation": "$1.5B post-money",
+   "valuation_type": "post-money"
+  }
+ ],
+ "gaps": [
+  "Legal entity name / CIN / incorporation date not verified",
+  "Google AI Futures Fund Dec-2025 amount undisclosed",
+  "FY revenue (audited MCA) not available — ARR is management-claimed run-rate",
+  "Employee headcount not verified",
+  "Profitability not disclosed"
+ ],
+ "investor_links": [
+  {
+   "confidence": "HIGH",
+   "investor": "Creaegis",
+   "investor_type": "PE",
+   "lead": true,
+   "rounds": [
+    "Series C"
+   ],
+   "source_url": "https://techcrunch.com/2026/07/15/indian-ai-coding-startup-emergent-becomes-a-unicorn-just-over-a-year-after-launch/"
+  },
+  {
+   "confidence": "HIGH",
+   "investor": "Khosla Ventures",
+   "investor_type": "VC",
+   "lead": true,
+   "rounds": [
+    "Series B",
+    "Series C"
+   ],
+   "source_url": "https://techcrunch.com/2026/07/15/indian-ai-coding-startup-emergent-becomes-a-unicorn-just-over-a-year-after-launch/"
+  },
+  {
+   "confidence": "HIGH",
+   "investor": "SoftBank Vision Fund 2",
+   "investor_type": "VC",
+   "lead": true,
+   "rounds": [
+    "Series B",
+    "Series C"
+   ],
+   "source_url": "https://techcrunch.com/2026/07/15/indian-ai-coding-startup-emergent-becomes-a-unicorn-just-over-a-year-after-launch/"
+  },
+  {
+   "confidence": "HIGH",
+   "investor": "Lightspeed",
+   "investor_type": "VC",
+   "lead": true,
+   "rounds": [
+    "Series A",
+    "Series C"
+   ],
+   "source_url": "https://www.vccircle.com/agenticai-startup-emergent-enters-unicorn-club-with-series-c-round"
+  },
+  {
+   "confidence": "MEDIUM",
+   "investor": "Y Combinator",
+   "investor_type": "accelerator",
+   "rounds": [
+    "Seed",
+    "Series A",
+    "Series B",
+    "Series C"
+   ],
+   "source_url": "https://emergent.sh/news/emergent-now-a-unicorn-at-1-5-billion-valuation"
+  },
+  {
+   "confidence": "MEDIUM",
+   "investor": "Google AI Futures Fund",
+   "investor_type": "corporate",
+   "rounds": [
+    "strategic Dec 2025 (undisclosed)"
+   ],
+   "source_url": "https://emergent.sh/news/emergent-now-a-unicorn-at-1-5-billion-valuation"
+  }
+ ],
+ "locations": [
+  {
+   "city": "Bengaluru",
+   "confidence": "MEDIUM",
+   "source_url": "https://www.fortuneindia.com/startups-news/emergent-becomes-the-latest-unicorn-in-indias-ai-space-with-series-c-funding/148456",
+   "state": "Karnataka",
+   "type": "HQ"
+  },
+  {
+   "city": "San Francisco",
+   "confidence": "MEDIUM",
+   "source_url": "https://www.fortuneindia.com/startups-news/emergent-becomes-the-latest-unicorn-in-indias-ai-space-with-series-c-funding/148456",
+   "state": "California",
+   "type": "office"
+  }
+ ],
+ "products": [
+  {
+   "category": "AI dev platform",
+   "description": "Agentic AI: natural-language prompts → full-stack production web/mobile apps incl. hosting, testing, deployment, debugging; mobile app builder; planned agent builder",
+   "name": "Emergent platform",
+   "status": "active"
+  }
+ ],
+ "research_log": [
+  {
+   "found": "Series C $130M/$1.5B, full round table, founders, ARR $100-120M, 12M apps, investors",
+   "next_action": "Verify legal entity via MCA/DPIIT; confirm headcount",
+   "query": "Emergent unicorn Series C founders ARR",
+   "unresolved": "Legal entity; headcount; audited financials"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  }
+ ],
+ "sources": [
+  {
+   "claim_supported": "Series C $130M at $1.5B led by Creaegis; total $230M; Series B $70M/$300M",
+   "fields_supported": [
+    "funding_rounds",
+    "investor_links"
+   ],
+   "publication_date": "2026-07-15",
+   "publisher": "TechCrunch",
+   "retrieved_date": "2026-09-14",
+   "tier": "T3",
+   "title": "Emergent becomes unicorn with $130M Series C",
+   "url": "https://techcrunch.com/2026/07/15/indian-ai-coding-startup-emergent-becomes-a-unicorn-just-over-a-year-after-launch/"
+  },
+  {
+   "claim_supported": "Round table Seed-Series C; 12M apps; 70% non-coders",
+   "fields_supported": [
+    "funding_rounds",
+    "traction"
+   ],
+   "publication_date": "2026-07-16",
+   "publisher": "Emergent (company)",
+   "retrieved_date": "2026-09-14",
+   "tier": "T1",
+   "title": "Emergent is now a unicorn ($130M Series C, $1.5B)",
+   "url": "https://emergent.sh/news/emergent-now-a-unicorn-at-1-5-billion-valuation"
+  },
+  {
+   "claim_supported": "$1.5B valuation, $120M ARR, founders, launch Jun 2025",
+   "fields_supported": [
+    "funding_rounds",
+    "traction"
+   ],
+   "publication_date": "2026-07-15",
+   "publisher": "Fortune India",
+   "retrieved_date": "2026-09-14",
+   "tier": "T3",
+   "title": "Emergent becomes latest unicorn in AI space",
+   "url": "https://www.fortuneindia.com/startups-news/emergent-becomes-the-latest-unicorn-in-indias-ai-space-with-series-c-funding/148456"
+  },
+  {
+   "claim_supported": "Series A $23M Lightspeed; Series B $70M; Google AI Futures Fund",
+   "fields_supported": [
+    "funding_rounds"
+   ],
+   "publication_date": "2026-07-15",
+   "publisher": "VCCircle",
+   "retrieved_date": "2026-09-14",
+   "tier": "T3",
+   "title": "Emergent enters unicorn club",
+   "url": "https://www.vccircle.com/agenticai-startup-emergent-enters-unicorn-club-with-series-c-round"
+  },
+  {
+   "url": "https://techcrunch.com/2025/09/24/emergent-raises-23m-from-lightspeed-to-let-consumers-build-apps",
+   "title": "Emergent raises $23M from Lightspeed to let consumers build apps | TechCrunch",
+   "tier": "T2",
+   "claim": "founder status Mukund Jha"
+  },
+  {
+   "url": "https://emergent.sh/author/madhav-jha",
+   "title": "Madhav Jha | Emergent",
+   "tier": "T2",
+   "claim": "founder status Madhav Jha"
+  }
+ ],
+ "startup_id": "emergent",
+ "traction": [
+  {
+   "as_of": "2026-07-01",
+   "company_reported": true,
+   "metric": "apps_built",
+   "source_url": "https://emergent.sh/news/emergent-now-a-unicorn-at-1-5-billion-valuation",
+   "value": "12M+"
+  },
+  {
+   "as_of": "2026-02-01",
+   "company_reported": true,
+   "metric": "ARR_run_rate",
+   "source_url": "https://aws.amazon.com/aws-startups/learn/from-yc-to-aws-how-emergent-hit-100m-usd-annualized-revenue-in-8-months/",
+   "value": "$100M (8 months post-launch)"
+  }
+ ],
+ "_merged_session2": true
+}

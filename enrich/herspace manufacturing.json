@@ -1,0 +1,1860 @@
+{
+ "canonical_key": "herspace manufacturing",
+ "company": {
+  "business_model": "B2B managed worker accommodation near manufacturing clusters",
+  "cin": "U74999KA2021PTC146084",
+  "city": "Bengaluru",
+  "company_name": "HerSpace Manufacturing",
+  "founded_date": "2023 (operating co); Herspace Pvt Ltd incorporated 01 Apr 2021 per registry aggregators",
+  "primary_sector": "proptech / workforce housing",
+  "public_private": "Private",
+  "startup_stage": "Growth (committed capital)",
+  "official_website": {
+   "v": "https://herspace.co",
+   "conf": "HIGH",
+   "src": "hyperresearch fetch verified - page title 'Herspace | Dignified living for India's workforce' with footer '© 2026 HerSpace Manufacturing Pvt Ltd'",
+   "note": "Company-branded domain confirmed. No careers page visible on site navigation."
+  },
+  "website": "https://herspace.co",
+  "legal_name": {
+   "v": "HerSpace Manufacturing Pvt Ltd",
+   "conf": "HIGH",
+   "src": "https://www.zaubacorp.com/HERSPACE-MANUFACTURING-PRIVATE-LIMITED-U25129KA2025PTC197307",
+   "note": "Two entities: HERSPACE PRIVATE LIMITED (CIN U74999KA2021PTC146084, inc 01/04/2021) and HERSPACE MANUFACTURING PRIVATE LIMITED (CIN U25129KA2025PTC197307, inc 25/01/2025). The operating company at herspace.co is HERSPACE PRIVATE LIMITED.",
+   "asof": "2026-09-15"
+  },
+  "incorporation_date": {
+   "v": "2021-04-01",
+   "conf": "HIGH",
+   "src": "https://credonex.com/company/herspace-private-limited-U74999KA2021PTC146084",
+   "note": "HERSPACE PRIVATE LIMITED incorporated 01/04/2021 per MCA. Press says 'Founded in 2023' (operational launch). HerSpace Manufacturing Pvt Ltd (U25129KA2025PTC197307) incorporated 25/01/2025.",
+   "asof": "2026-09-15"
+  },
+  "status": {
+   "v": "Active",
+   "conf": "HIGH",
+   "src": "https://credonex.com/company/herspace-private-limited-U74999KA2021PTC146084",
+   "note": "Company status Active per MCA. Last AGM 30/09/2024.",
+   "asof": "2026-09-15"
+  },
+  "state": {
+   "v": "Karnataka",
+   "conf": "HIGH",
+   "src": "https://credonex.com/company/herspace-private-limited-U74999KA2021PTC146084",
+   "note": "Karnataka per MCA registry.",
+   "asof": "2026-09-15"
+  },
+  "country": {
+   "v": "India",
+   "conf": "HIGH",
+   "src": "https://herspace.co",
+   "note": "Company website and MCA both confirm India.",
+   "asof": "2026-09-15"
+  },
+  "description": {
+   "v": "HerSpace designs, manufactures, deploys and operates modular workforce housing for industrial workers near manufacturing clusters. Products include worker dormitories (50-1000+ beds), HerSpace Secure (women's housing with biometric access and female wardens), family units for supervisors, and site offices/welfare blocks.",
+   "conf": "HIGH",
+   "src": "https://herspace.co",
+   "note": "Company website confirms full product range. NOT aerospace composites/DFR.",
+   "asof": "2026-09-15"
+  },
+  "employee_estimate": {
+   "v": "UNKNOWN",
+   "conf": "LOW",
+   "src": "",
+   "note": "No employee count found. Company website has no careers page visible.",
+   "asof": "2026-09-15"
+  },
+  "hq_type": {
+   "v": "HQ",
+   "conf": "HIGH",
+   "src": "https://herspace.co",
+   "note": "34th Cross Road, Jayanagar 4th T Block, Bengaluru, Karnataka 560041.",
+   "asof": "2026-09-15"
+  },
+  "registered_office": {
+   "v": "No 17/1, 3rd Cross, Malleshwaram, Bangalore, Karnataka - 560003",
+   "conf": "HIGH",
+   "src": "https://credonex.com/company/herspace-private-limited-U74999KA2021PTC146084",
+   "note": "MCA registered office.",
+   "asof": "2026-09-15"
+  }
+ },
+ "completeness_self": {
+  "financials": 2,
+  "founders": 8,
+  "funding": 9,
+  "identity": 9,
+  "investors": 9,
+  "legal": 5,
+  "people": 6,
+  "products": 7,
+  "sources": 8,
+  "traction": 6
+ },
+ "conflicts": [
+  {
+   "claim_a": "$40M closed/secured (Mint, DealStreetAsia, YourStory, Entrackr)",
+   "claim_b": "$40M in advanced talks, not closed (StartupTalky, Sep 2026)",
+   "field": "funding_rounds[0].status",
+   "resolution": "Most outlets report as secured commitment deployed over 30 months; one outlet flags not-closed. Record as committed, note uncertainty.",
+   "resolved_value": "$40M commitment (close status disputed)",
+   "url_a": "https://www.livemint.com/companies/start-ups/herspace-manufacturing-raises-50-million-gray-matters-capital-11788770709275.html",
+   "url_b": "https://startuptalky.com/news/herspace-advanced-talks-40-million-gray-matters-capital/"
+  },
+  {
+   "field": "primary_sector",
+   "claim_a": "proptech / workforce housing",
+   "url_a": "",
+   "claim_b": "workforce housing / proptech",
+   "url_b": "",
+   "resolution": "phase3 p3 payload disagrees with existing value; existing kept as preferred pending human review",
+   "resolved_value": "",
+   "reviewed": "p3-merge"
+  },
+  {
+   "field": "company.primary_sector",
+   "claim_a": "aerospace composites/DFR (P3-WAVE prompt)",
+   "claim_b": "workforce housing / proptech (company website, Mint, Machine Insider, all search results)",
+   "url_a": "P3-WAVE prompt",
+   "url_b": "https://herspace.co",
+   "resolution": "All verified sources confirm workforce housing. No aerospace company named 'HerSpace Manufacturing' exists in any search. The P3-WAVE prompt description is incorrect.",
+   "resolved_value": "workforce housing / proptech"
+  }
+ ],
+ "events": [
+  {
+   "confidence": "High",
+   "date": "2026-09-07",
+   "description": "$40M fresh commitment from GMC; total $50M incl. $10M in 2025; deployed over 30 months as debt/quasi-equity/equity; expansion across Greater Bengaluru, Hosur, Chennai, Andhra Pradesh.",
+   "headline": "$40M commitment from Gray Matters Capital",
+   "source_url": "https://www.livemint.com/companies/start-ups/herspace-manufacturing-raises-50-million-gray-matters-capital-11788770709275.html",
+   "type": "funding"
+  },
+  {
+   "type": "funding",
+   "headline": "HerSpace raises $50 million from Gray Matters Capital",
+   "date": "2026-09-07",
+   "description": "$40M fresh commitment from GMC; total $50M incl. $10M in 2025; deployed over 30 months as debt/quasi-equity/equity; expansion across Greater Bengaluru, Hosur, Chennai, Andhra Pradesh.",
+   "source_url": "https://www.livemint.com/companies/start-ups/herspace-manufacturing-raises-50-million-gray-matters-capital-11788770709275.html",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "funding",
+   "headline": "Gray Matters Capital initial $10M investment",
+   "date": "2025-01-01",
+   "description": "GMC invested $10 million in HerSpace in 2025 as initial backing.",
+   "source_url": "https://www.livemint.com/companies/start-ups/herspace-manufacturing-raises-50-million-gray-matters-capital-11788770709275.html",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "launch",
+   "headline": "HerSpace Manufacturing Pvt Ltd incorporated",
+   "date": "2025-01-25",
+   "description": "HERSPACE MANUFACTURING PRIVATE LIMITED (CIN U25129KA2025PTC197307) incorporated with NIC code 251 (rubber/chemical products). Directors: Banthalapad Nagaraja Simha and Thimmegowda Puneeth.",
+   "source_url": "https://www.tofler.in/herspace-manufacturing-private-limited/company/U25129KA2025PTC197307",
+   "confidence": "HIGH"
+  }
+ ],
+ "financials": [],
+ "founders": [
+  {
+   "confidence": "High",
+   "name": "Bob Pattillo",
+   "role": "Founder (also founder of Gray Matters Capital)",
+   "source_url": "https://startuptalky.com/news/herspace-advanced-talks-40-million-gray-matters-capital/",
+   "still_active": true,
+   "type": "founder"
+  },
+  {
+   "confidence": "High",
+   "name": "Puneeth Thimmegowda",
+   "role": "Founder",
+   "source_url": "https://startuptalky.com/news/herspace-advanced-talks-40-million-gray-matters-capital/",
+   "still_active": true,
+   "type": "founder"
+  },
+  {
+   "name": "Bob Pattillo",
+   "role": "Founder",
+   "background": "Founder of Gray Matters Capital (impact investor). Founded HerSpace in 2023.",
+   "education": "UNKNOWN",
+   "still_active": true,
+   "source_url": "https://www.livemint.com/companies/start-ups/herspace-manufacturing-raises-50-million-gray-matters-capital-11788770709275.html",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Puneeth Thimmegowda",
+   "role": "Co-founder",
+   "background": "Co-founded HerSpace in 2023. Also director of HerSpace Manufacturing Pvt Ltd (U25129KA2025PTC197307).",
+   "education": "UNKNOWN",
+   "still_active": true,
+   "source_url": "https://www.machineinsider.com/herspace-manufacturing-pvt-ltd-secures-50-million-funding",
+   "confidence": "HIGH"
+  }
+ ],
+ "funding_rounds": [
+  {
+   "all_investors": [
+    "Gray Matters Capital"
+   ],
+   "amount": 10,
+   "announced_date": "2025",
+   "confidence": "High",
+   "currency": "USD",
+   "lead_investors": [
+    "Gray Matters Capital"
+   ],
+   "purpose": "Initial backing",
+   "round_type": "Seed/early",
+   "source_date": "2026-09-07",
+   "source_title": "HerSpace raises $50 million from Gray Matters Capital",
+   "source_url": "https://www.livemint.com/companies/start-ups/herspace-manufacturing-raises-50-million-gray-matters-capital-11788770709275.html",
+   "tier": "T2"
+  },
+  {
+   "all_investors": [
+    "Gray Matters Capital"
+   ],
+   "amount": 40,
+   "announced_date": "2026-09-07",
+   "confidence": "Medium-High",
+   "currency": "USD",
+   "lead_investors": [
+    "Gray Matters Capital"
+   ],
+   "purpose": "Expand housing network in KA/TN/AP manufacturing hubs; people and systems",
+   "round_type": "Growth commitment (debt + quasi-equity + equity over 30 months)",
+   "source_date": "2026-09-07",
+   "source_title": "HerSpace raises $50 million from Gray Matters Capital",
+   "source_url": "https://www.livemint.com/companies/start-ups/herspace-manufacturing-raises-50-million-gray-matters-capital-11788770709275.html",
+   "tier": "T2"
+  },
+  {
+   "round_type": "Seed/early",
+   "announced_date": "2025-01-01",
+   "round_date": "2025",
+   "amount": 10,
+   "currency": "USD",
+   "valuation": "",
+   "valuation_currency": "",
+   "valuation_type": "",
+   "lead_investors": [
+    "Gray Matters Capital"
+   ],
+   "all_investors": [
+    "Gray Matters Capital"
+   ],
+   "instrument": "equity",
+   "purpose": "Initial backing",
+   "source_url": "https://www.livemint.com/companies/start-ups/herspace-manufacturing-raises-50-million-gray-matters-capital-11788770709275.html",
+   "source_title": "HerSpace raises $50 million from Gray Matters Capital",
+   "source_date": "2026-09-07",
+   "confidence": "HIGH"
+  },
+  {
+   "round_type": "Growth commitment",
+   "announced_date": "2026-09-07",
+   "round_date": "2026-09-07",
+   "amount": 40,
+   "currency": "USD",
+   "valuation": "",
+   "valuation_currency": "",
+   "valuation_type": "",
+   "lead_investors": [
+    "Gray Matters Capital"
+   ],
+   "all_investors": [
+    "Gray Matters Capital"
+   ],
+   "instrument": "debt + quasi-equity + equity over 30 months",
+   "purpose": "Expand housing network in Greater Bengaluru/Hosur, Chennai, Andhra Pradesh; people and systems",
+   "source_url": "https://www.livemint.com/companies/start-ups/herspace-manufacturing-raises-50-million-gray-matters-capital-11788770709275.html",
+   "source_title": "HerSpace raises $50 million from Gray Matters Capital",
+   "source_date": "2026-09-07",
+   "confidence": "HIGH"
+  }
+ ],
+ "gaps": [
+  "Valuation undisclosed",
+  "Revenue/occupancy financials not found",
+  "Incorporation discrepancy: founded 2023 (press) vs Herspace Pvt Ltd 01 Apr 2021 (registry aggregators) — needs MCA confirmation",
+  "Related-party nature (founder = investor founder) means no external pricing signal"
+ ],
+ "investor_links": [
+  {
+   "confidence": "High",
+   "first_seen": "2025",
+   "investor": "Gray Matters Capital",
+   "investor_type": "Impact investor",
+   "lead": true,
+   "rounds": [
+    "2025 $10M",
+    "2026 $40M commitment"
+   ],
+   "source_url": "https://www.livemint.com/companies/start-ups/herspace-manufacturing-raises-50-million-gray-matters-capital-11788770709275.html"
+  }
+ ],
+ "people": [
+  {
+   "confidence": "High",
+   "name": "Simha Nagaraj",
+   "position": "CEO & Director",
+   "source_url": "https://startuptalky.com/news/herspace-advanced-talks-40-million-gray-matters-capital/",
+   "start": "UNKNOWN"
+  },
+  {
+   "name": "Bob Pattillo",
+   "role": "Founder",
+   "title": "Founder",
+   "current": true,
+   "since": "2023",
+   "prior_role": "Founder of Gray Matters Capital",
+   "source_url": "https://www.livemint.com/companies/start-ups/herspace-manufacturing-raises-50-million-gray-matters-capital-11788770709275.html",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Puneeth Thimmegowda",
+   "role": "Founder",
+   "title": "Founder",
+   "current": true,
+   "since": "2023",
+   "prior_role": "UNKNOWN",
+   "source_url": "https://www.machineinsider.com/herspace-manufacturing-pvt-ltd-secures-50-million-funding",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Radhakrishnan Anoop",
+   "role": "Director",
+   "title": "Director",
+   "current": true,
+   "since": "2021-04-01",
+   "prior_role": "UNKNOWN",
+   "source_url": "https://credonex.com/company/herspace-private-limited-U74999KA2021PTC146084",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Sita Sircar",
+   "role": "Director",
+   "title": "Director",
+   "current": true,
+   "since": "2021-04-01",
+   "prior_role": "UNKNOWN",
+   "source_url": "https://credonex.com/company/herspace-private-limited-U74999KA2021PTC146084",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Robert Alexander Pattillo",
+   "role": "Director",
+   "title": "Director",
+   "current": true,
+   "since": "2024-05-24",
+   "prior_role": "UNKNOWN",
+   "source_url": "https://credonex.com/company/herspace-private-limited-U74999KA2021PTC146084",
+   "confidence": "HIGH"
+  }
+ ],
+ "research_log": [
+  {
+   "found": "$40M + $10M; expansion geography; structure",
+   "next_action": "none",
+   "query": "HerSpace Manufacturing Gray Matters Capital funding 2026",
+   "unresolved": "close status disputed"
+  },
+  {
+   "found": "Founders Bob Pattillo + Puneeth Thimmegowda; CEO Simha Nagaraj; CIN U74999KA2021PTC146084; 950+ beds",
+   "next_action": "none",
+   "query": "HerSpace founders CIN incorporation",
+   "unresolved": "incorporation vs founding date mismatch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "HerSpace Manufacturing aerospace composites DFR Bengaluru",
+   "status": "logged",
+   "found": "Zero results. No aerospace company named 'HerSpace Manufacturing' exists in any search engine or database.",
+   "next_action": "Confirm with user that P3-WAVE prompt description may be incorrect; company is workforce housing.",
+   "agent": "hyperresearch + monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "HerSpace Manufacturing CIN U74999KA2021PTC146084 MCA",
+   "status": "done",
+   "found": "HERSPACE PRIVATE LIMITED (U74999KA2021PTC146084) incorporated 01/04/2021, active, Bangalore. Directors: Radhakrishnan Anoop, Sita Sircar, Robert Alexander Pattillo.",
+   "next_action": "none",
+   "agent": "credonex"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "HerSpace Manufacturing Pvt Ltd U25129KA2025PTC197307",
+   "status": "done",
+   "found": "HERSPACE MANUFACTURING PRIVATE LIMITED (U25129KA2025PTC197307) incorporated 25/01/2025, NIC 251 (rubber/chemical), directors: Banthalapad Nagaraja Simha, Thimmegowda Puneeth.",
+   "next_action": "none",
+   "agent": "tofler"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "HerSpace Manufacturing women-led aerospace founders",
+   "status": "logged",
+   "found": "Company is 'largely women-led' in terms of workforce (80% women workers per Facebook/Instagram), NOT women founders. Founders are Bob Pattillo and Puneeth Thimmegowda (male).",
+   "next_action": "none",
+   "agent": "monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "HerSpace Manufacturing aerospace composites DFR Bengaluru",
+   "status": "logged",
+   "found": "Zero results. No aerospace company named 'HerSpace Manufacturing' exists in any search engine or database.",
+   "next_action": "Confirm with user that P3-WAVE prompt description may be incorrect; company is workforce housing.",
+   "agent": "hyperresearch + monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "HerSpace Manufacturing CIN U74999KA2021PTC146084 MCA",
+   "status": "done",
+   "found": "HERSPACE PRIVATE LIMITED (U74999KA2021PTC146084) incorporated 01/04/2021, active, Bangalore. Directors: Radhakrishnan Anoop, Sita Sircar, Robert Alexander Pattillo.",
+   "next_action": "none",
+   "agent": "credonex"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "HerSpace Manufacturing Pvt Ltd U25129KA2025PTC197307",
+   "status": "done",
+   "found": "HERSPACE MANUFACTURING PRIVATE LIMITED (U25129KA2025PTC197307) incorporated 25/01/2025, NIC 251 (rubber/chemical), directors: Banthalapad Nagaraja Simha, Thimmegowda Puneeth.",
+   "next_action": "none",
+   "agent": "tofler"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "HerSpace Manufacturing women-led aerospace founders",
+   "status": "logged",
+   "found": "Company is 'largely women-led' in terms of workforce (80% women workers per Facebook/Instagram), NOT women founders. Founders are Bob Pattillo and Puneeth Thimmegowda (male).",
+   "next_action": "none",
+   "agent": "monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "HerSpace Manufacturing aerospace composites DFR Bengaluru",
+   "status": "logged",
+   "found": "Zero results. No aerospace company named 'HerSpace Manufacturing' exists in any search engine or database.",
+   "next_action": "Confirm with user that P3-WAVE prompt description may be incorrect; company is workforce housing.",
+   "agent": "hyperresearch + monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "HerSpace Manufacturing CIN U74999KA2021PTC146084 MCA",
+   "status": "done",
+   "found": "HERSPACE PRIVATE LIMITED (U74999KA2021PTC146084) incorporated 01/04/2021, active, Bangalore. Directors: Radhakrishnan Anoop, Sita Sircar, Robert Alexander Pattillo.",
+   "next_action": "none",
+   "agent": "credonex"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "HerSpace Manufacturing Pvt Ltd U25129KA2025PTC197307",
+   "status": "done",
+   "found": "HERSPACE MANUFACTURING PRIVATE LIMITED (U25129KA2025PTC197307) incorporated 25/01/2025, NIC 251 (rubber/chemical), directors: Banthalapad Nagaraja Simha, Thimmegowda Puneeth.",
+   "next_action": "none",
+   "agent": "tofler"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "HerSpace Manufacturing women-led aerospace founders",
+   "status": "logged",
+   "found": "Company is 'largely women-led' in terms of workforce (80% women workers per Facebook/Instagram), NOT women founders. Founders are Bob Pattillo and Puneeth Thimmegowda (male).",
+   "next_action": "none",
+   "agent": "monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "HerSpace Manufacturing aerospace composites DFR Bengaluru",
+   "status": "logged",
+   "found": "Zero results. No aerospace company named 'HerSpace Manufacturing' exists in any search engine or database.",
+   "next_action": "Confirm with user that P3-WAVE prompt description may be incorrect; company is workforce housing.",
+   "agent": "hyperresearch + monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "HerSpace Manufacturing CIN U74999KA2021PTC146084 MCA",
+   "status": "done",
+   "found": "HERSPACE PRIVATE LIMITED (U74999KA2021PTC146084) incorporated 01/04/2021, active, Bangalore. Directors: Radhakrishnan Anoop, Sita Sircar, Robert Alexander Pattillo.",
+   "next_action": "none",
+   "agent": "credonex"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "HerSpace Manufacturing Pvt Ltd U25129KA2025PTC197307",
+   "status": "done",
+   "found": "HERSPACE MANUFACTURING PRIVATE LIMITED (U25129KA2025PTC197307) incorporated 25/01/2025, NIC 251 (rubber/chemical), directors: Banthalapad Nagaraja Simha, Thimmegowda Puneeth.",
+   "next_action": "none",
+   "agent": "tofler"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "HerSpace Manufacturing women-led aerospace founders",
+   "status": "logged",
+   "found": "Company is 'largely women-led' in terms of workforce (80% women workers per Facebook/Instagram), NOT women founders. Founders are Bob Pattillo and Puneeth Thimmegowda (male).",
+   "next_action": "none",
+   "agent": "monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "HerSpace Manufacturing aerospace composites DFR Bengaluru",
+   "status": "logged",
+   "found": "Zero results. No aerospace company named 'HerSpace Manufacturing' exists in any search engine or database.",
+   "next_action": "Confirm with user that P3-WAVE prompt description may be incorrect; company is workforce housing.",
+   "agent": "hyperresearch + monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "HerSpace Manufacturing CIN U74999KA2021PTC146084 MCA",
+   "status": "done",
+   "found": "HERSPACE PRIVATE LIMITED (U74999KA2021PTC146084) incorporated 01/04/2021, active, Bangalore. Directors: Radhakrishnan Anoop, Sita Sircar, Robert Alexander Pattillo.",
+   "next_action": "none",
+   "agent": "credonex"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "HerSpace Manufacturing Pvt Ltd U25129KA2025PTC197307",
+   "status": "done",
+   "found": "HERSPACE MANUFACTURING PRIVATE LIMITED (U25129KA2025PTC197307) incorporated 25/01/2025, NIC 251 (rubber/chemical), directors: Banthalapad Nagaraja Simha, Thimmegowda Puneeth.",
+   "next_action": "none",
+   "agent": "tofler"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "HerSpace Manufacturing women-led aerospace founders",
+   "status": "logged",
+   "found": "Company is 'largely women-led' in terms of workforce (80% women workers per Facebook/Instagram), NOT women founders. Founders are Bob Pattillo and Puneeth Thimmegowda (male).",
+   "next_action": "none",
+   "agent": "monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "HerSpace Manufacturing aerospace composites DFR Bengaluru",
+   "status": "logged",
+   "found": "Zero results. No aerospace company named 'HerSpace Manufacturing' exists in any search engine or database.",
+   "next_action": "Confirm with user that P3-WAVE prompt description may be incorrect; company is workforce housing.",
+   "agent": "hyperresearch + monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "HerSpace Manufacturing CIN U74999KA2021PTC146084 MCA",
+   "status": "done",
+   "found": "HERSPACE PRIVATE LIMITED (U74999KA2021PTC146084) incorporated 01/04/2021, active, Bangalore. Directors: Radhakrishnan Anoop, Sita Sircar, Robert Alexander Pattillo.",
+   "next_action": "none",
+   "agent": "credonex"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "HerSpace Manufacturing Pvt Ltd U25129KA2025PTC197307",
+   "status": "done",
+   "found": "HERSPACE MANUFACTURING PRIVATE LIMITED (U25129KA2025PTC197307) incorporated 25/01/2025, NIC 251 (rubber/chemical), directors: Banthalapad Nagaraja Simha, Thimmegowda Puneeth.",
+   "next_action": "none",
+   "agent": "tofler"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "HerSpace Manufacturing women-led aerospace founders",
+   "status": "logged",
+   "found": "Company is 'largely women-led' in terms of workforce (80% women workers per Facebook/Instagram), NOT women founders. Founders are Bob Pattillo and Puneeth Thimmegowda (male).",
+   "next_action": "none",
+   "agent": "monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "HerSpace Manufacturing aerospace composites DFR Bengaluru",
+   "status": "logged",
+   "found": "Zero results. No aerospace company named 'HerSpace Manufacturing' exists in any search engine or database.",
+   "next_action": "Confirm with user that P3-WAVE prompt description may be incorrect; company is workforce housing.",
+   "agent": "hyperresearch + monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "HerSpace Manufacturing CIN U74999KA2021PTC146084 MCA",
+   "status": "done",
+   "found": "HERSPACE PRIVATE LIMITED (U74999KA2021PTC146084) incorporated 01/04/2021, active, Bangalore. Directors: Radhakrishnan Anoop, Sita Sircar, Robert Alexander Pattillo.",
+   "next_action": "none",
+   "agent": "credonex"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "HerSpace Manufacturing Pvt Ltd U25129KA2025PTC197307",
+   "status": "done",
+   "found": "HERSPACE MANUFACTURING PRIVATE LIMITED (U25129KA2025PTC197307) incorporated 25/01/2025, NIC 251 (rubber/chemical), directors: Banthalapad Nagaraja Simha, Thimmegowda Puneeth.",
+   "next_action": "none",
+   "agent": "tofler"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "HerSpace Manufacturing women-led aerospace founders",
+   "status": "logged",
+   "found": "Company is 'largely women-led' in terms of workforce (80% women workers per Facebook/Instagram), NOT women founders. Founders are Bob Pattillo and Puneeth Thimmegowda (male).",
+   "next_action": "none",
+   "agent": "monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "HerSpace Manufacturing aerospace composites DFR Bengaluru",
+   "status": "logged",
+   "found": "Zero results. No aerospace company named 'HerSpace Manufacturing' exists in any search engine or database.",
+   "next_action": "Confirm with user that P3-WAVE prompt description may be incorrect; company is workforce housing.",
+   "agent": "hyperresearch + monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "HerSpace Manufacturing CIN U74999KA2021PTC146084 MCA",
+   "status": "done",
+   "found": "HERSPACE PRIVATE LIMITED (U74999KA2021PTC146084) incorporated 01/04/2021, active, Bangalore. Directors: Radhakrishnan Anoop, Sita Sircar, Robert Alexander Pattillo.",
+   "next_action": "none",
+   "agent": "credonex"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "HerSpace Manufacturing Pvt Ltd U25129KA2025PTC197307",
+   "status": "done",
+   "found": "HERSPACE MANUFACTURING PRIVATE LIMITED (U25129KA2025PTC197307) incorporated 25/01/2025, NIC 251 (rubber/chemical), directors: Banthalapad Nagaraja Simha, Thimmegowda Puneeth.",
+   "next_action": "none",
+   "agent": "tofler"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "HerSpace Manufacturing women-led aerospace founders",
+   "status": "logged",
+   "found": "Company is 'largely women-led' in terms of workforce (80% women workers per Facebook/Instagram), NOT women founders. Founders are Bob Pattillo and Puneeth Thimmegowda (male).",
+   "next_action": "none",
+   "agent": "monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "HerSpace Manufacturing aerospace composites DFR Bengaluru",
+   "status": "logged",
+   "found": "Zero results. No aerospace company named 'HerSpace Manufacturing' exists in any search engine or database.",
+   "next_action": "Confirm with user that P3-WAVE prompt description may be incorrect; company is workforce housing.",
+   "agent": "hyperresearch + monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "HerSpace Manufacturing CIN U74999KA2021PTC146084 MCA",
+   "status": "done",
+   "found": "HERSPACE PRIVATE LIMITED (U74999KA2021PTC146084) incorporated 01/04/2021, active, Bangalore. Directors: Radhakrishnan Anoop, Sita Sircar, Robert Alexander Pattillo.",
+   "next_action": "none",
+   "agent": "credonex"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "HerSpace Manufacturing Pvt Ltd U25129KA2025PTC197307",
+   "status": "done",
+   "found": "HERSPACE MANUFACTURING PRIVATE LIMITED (U25129KA2025PTC197307) incorporated 25/01/2025, NIC 251 (rubber/chemical), directors: Banthalapad Nagaraja Simha, Thimmegowda Puneeth.",
+   "next_action": "none",
+   "agent": "tofler"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "HerSpace Manufacturing women-led aerospace founders",
+   "status": "logged",
+   "found": "Company is 'largely women-led' in terms of workforce (80% women workers per Facebook/Instagram), NOT women founders. Founders are Bob Pattillo and Puneeth Thimmegowda (male).",
+   "next_action": "none",
+   "agent": "monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "HerSpace Manufacturing aerospace composites DFR Bengaluru",
+   "status": "logged",
+   "found": "Zero results. No aerospace company named 'HerSpace Manufacturing' exists in any search engine or database.",
+   "next_action": "Confirm with user that P3-WAVE prompt description may be incorrect; company is workforce housing.",
+   "agent": "hyperresearch + monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "HerSpace Manufacturing CIN U74999KA2021PTC146084 MCA",
+   "status": "done",
+   "found": "HERSPACE PRIVATE LIMITED (U74999KA2021PTC146084) incorporated 01/04/2021, active, Bangalore. Directors: Radhakrishnan Anoop, Sita Sircar, Robert Alexander Pattillo.",
+   "next_action": "none",
+   "agent": "credonex"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "HerSpace Manufacturing Pvt Ltd U25129KA2025PTC197307",
+   "status": "done",
+   "found": "HERSPACE MANUFACTURING PRIVATE LIMITED (U25129KA2025PTC197307) incorporated 25/01/2025, NIC 251 (rubber/chemical), directors: Banthalapad Nagaraja Simha, Thimmegowda Puneeth.",
+   "next_action": "none",
+   "agent": "tofler"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "HerSpace Manufacturing women-led aerospace founders",
+   "status": "logged",
+   "found": "Company is 'largely women-led' in terms of workforce (80% women workers per Facebook/Instagram), NOT women founders. Founders are Bob Pattillo and Puneeth Thimmegowda (male).",
+   "next_action": "none",
+   "agent": "monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "HerSpace Manufacturing aerospace composites DFR Bengaluru",
+   "status": "logged",
+   "found": "Zero results. No aerospace company named 'HerSpace Manufacturing' exists in any search engine or database.",
+   "next_action": "Confirm with user that P3-WAVE prompt description may be incorrect; company is workforce housing.",
+   "agent": "hyperresearch + monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "HerSpace Manufacturing CIN U74999KA2021PTC146084 MCA",
+   "status": "done",
+   "found": "HERSPACE PRIVATE LIMITED (U74999KA2021PTC146084) incorporated 01/04/2021, active, Bangalore. Directors: Radhakrishnan Anoop, Sita Sircar, Robert Alexander Pattillo.",
+   "next_action": "none",
+   "agent": "credonex"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "HerSpace Manufacturing Pvt Ltd U25129KA2025PTC197307",
+   "status": "done",
+   "found": "HERSPACE MANUFACTURING PRIVATE LIMITED (U25129KA2025PTC197307) incorporated 25/01/2025, NIC 251 (rubber/chemical), directors: Banthalapad Nagaraja Simha, Thimmegowda Puneeth.",
+   "next_action": "none",
+   "agent": "tofler"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "HerSpace Manufacturing women-led aerospace founders",
+   "status": "logged",
+   "found": "Company is 'largely women-led' in terms of workforce (80% women workers per Facebook/Instagram), NOT women founders. Founders are Bob Pattillo and Puneeth Thimmegowda (male).",
+   "next_action": "none",
+   "agent": "monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "HerSpace Manufacturing aerospace composites DFR Bengaluru",
+   "status": "logged",
+   "found": "Zero results. No aerospace company named 'HerSpace Manufacturing' exists in any search engine or database.",
+   "next_action": "Confirm with user that P3-WAVE prompt description may be incorrect; company is workforce housing.",
+   "agent": "hyperresearch + monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "HerSpace Manufacturing CIN U74999KA2021PTC146084 MCA",
+   "status": "done",
+   "found": "HERSPACE PRIVATE LIMITED (U74999KA2021PTC146084) incorporated 01/04/2021, active, Bangalore. Directors: Radhakrishnan Anoop, Sita Sircar, Robert Alexander Pattillo.",
+   "next_action": "none",
+   "agent": "credonex"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "HerSpace Manufacturing Pvt Ltd U25129KA2025PTC197307",
+   "status": "done",
+   "found": "HERSPACE MANUFACTURING PRIVATE LIMITED (U25129KA2025PTC197307) incorporated 25/01/2025, NIC 251 (rubber/chemical), directors: Banthalapad Nagaraja Simha, Thimmegowda Puneeth.",
+   "next_action": "none",
+   "agent": "tofler"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "HerSpace Manufacturing women-led aerospace founders",
+   "status": "logged",
+   "found": "Company is 'largely women-led' in terms of workforce (80% women workers per Facebook/Instagram), NOT women founders. Founders are Bob Pattillo and Puneeth Thimmegowda (male).",
+   "next_action": "none",
+   "agent": "monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "HerSpace Manufacturing aerospace composites DFR Bengaluru",
+   "status": "logged",
+   "found": "Zero results. No aerospace company named 'HerSpace Manufacturing' exists in any search engine or database.",
+   "next_action": "Confirm with user that P3-WAVE prompt description may be incorrect; company is workforce housing.",
+   "agent": "hyperresearch + monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "HerSpace Manufacturing CIN U74999KA2021PTC146084 MCA",
+   "status": "done",
+   "found": "HERSPACE PRIVATE LIMITED (U74999KA2021PTC146084) incorporated 01/04/2021, active, Bangalore. Directors: Radhakrishnan Anoop, Sita Sircar, Robert Alexander Pattillo.",
+   "next_action": "none",
+   "agent": "credonex"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "HerSpace Manufacturing Pvt Ltd U25129KA2025PTC197307",
+   "status": "done",
+   "found": "HERSPACE MANUFACTURING PRIVATE LIMITED (U25129KA2025PTC197307) incorporated 25/01/2025, NIC 251 (rubber/chemical), directors: Banthalapad Nagaraja Simha, Thimmegowda Puneeth.",
+   "next_action": "none",
+   "agent": "tofler"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "HerSpace Manufacturing women-led aerospace founders",
+   "status": "logged",
+   "found": "Company is 'largely women-led' in terms of workforce (80% women workers per Facebook/Instagram), NOT women founders. Founders are Bob Pattillo and Puneeth Thimmegowda (male).",
+   "next_action": "none",
+   "agent": "monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "HerSpace Manufacturing aerospace composites DFR Bengaluru",
+   "status": "logged",
+   "found": "Zero results. No aerospace company named 'HerSpace Manufacturing' exists in any search engine or database.",
+   "next_action": "Confirm with user that P3-WAVE prompt description may be incorrect; company is workforce housing.",
+   "agent": "hyperresearch + monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "HerSpace Manufacturing CIN U74999KA2021PTC146084 MCA",
+   "status": "done",
+   "found": "HERSPACE PRIVATE LIMITED (U74999KA2021PTC146084) incorporated 01/04/2021, active, Bangalore. Directors: Radhakrishnan Anoop, Sita Sircar, Robert Alexander Pattillo.",
+   "next_action": "none",
+   "agent": "credonex"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "HerSpace Manufacturing Pvt Ltd U25129KA2025PTC197307",
+   "status": "done",
+   "found": "HERSPACE MANUFACTURING PRIVATE LIMITED (U25129KA2025PTC197307) incorporated 25/01/2025, NIC 251 (rubber/chemical), directors: Banthalapad Nagaraja Simha, Thimmegowda Puneeth.",
+   "next_action": "none",
+   "agent": "tofler"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "HerSpace Manufacturing women-led aerospace founders",
+   "status": "logged",
+   "found": "Company is 'largely women-led' in terms of workforce (80% women workers per Facebook/Instagram), NOT women founders. Founders are Bob Pattillo and Puneeth Thimmegowda (male).",
+   "next_action": "none",
+   "agent": "monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "HerSpace Manufacturing aerospace composites DFR Bengaluru",
+   "status": "logged",
+   "found": "Zero results. No aerospace company named 'HerSpace Manufacturing' exists in any search engine or database.",
+   "next_action": "Confirm with user that P3-WAVE prompt description may be incorrect; company is workforce housing.",
+   "agent": "hyperresearch + monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "HerSpace Manufacturing CIN U74999KA2021PTC146084 MCA",
+   "status": "done",
+   "found": "HERSPACE PRIVATE LIMITED (U74999KA2021PTC146084) incorporated 01/04/2021, active, Bangalore. Directors: Radhakrishnan Anoop, Sita Sircar, Robert Alexander Pattillo.",
+   "next_action": "none",
+   "agent": "credonex"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "HerSpace Manufacturing Pvt Ltd U25129KA2025PTC197307",
+   "status": "done",
+   "found": "HERSPACE MANUFACTURING PRIVATE LIMITED (U25129KA2025PTC197307) incorporated 25/01/2025, NIC 251 (rubber/chemical), directors: Banthalapad Nagaraja Simha, Thimmegowda Puneeth.",
+   "next_action": "none",
+   "agent": "tofler"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "HerSpace Manufacturing women-led aerospace founders",
+   "status": "logged",
+   "found": "Company is 'largely women-led' in terms of workforce (80% women workers per Facebook/Instagram), NOT women founders. Founders are Bob Pattillo and Puneeth Thimmegowda (male).",
+   "next_action": "none",
+   "agent": "monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "HerSpace Manufacturing aerospace composites DFR Bengaluru",
+   "status": "logged",
+   "found": "Zero results. No aerospace company named 'HerSpace Manufacturing' exists in any search engine or database.",
+   "next_action": "Confirm with user that P3-WAVE prompt description may be incorrect; company is workforce housing.",
+   "agent": "hyperresearch + monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "HerSpace Manufacturing CIN U74999KA2021PTC146084 MCA",
+   "status": "done",
+   "found": "HERSPACE PRIVATE LIMITED (U74999KA2021PTC146084) incorporated 01/04/2021, active, Bangalore. Directors: Radhakrishnan Anoop, Sita Sircar, Robert Alexander Pattillo.",
+   "next_action": "none",
+   "agent": "credonex"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "HerSpace Manufacturing Pvt Ltd U25129KA2025PTC197307",
+   "status": "done",
+   "found": "HERSPACE MANUFACTURING PRIVATE LIMITED (U25129KA2025PTC197307) incorporated 25/01/2025, NIC 251 (rubber/chemical), directors: Banthalapad Nagaraja Simha, Thimmegowda Puneeth.",
+   "next_action": "none",
+   "agent": "tofler"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "HerSpace Manufacturing women-led aerospace founders",
+   "status": "logged",
+   "found": "Company is 'largely women-led' in terms of workforce (80% women workers per Facebook/Instagram), NOT women founders. Founders are Bob Pattillo and Puneeth Thimmegowda (male).",
+   "next_action": "none",
+   "agent": "monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "HerSpace Manufacturing aerospace composites DFR Bengaluru",
+   "status": "logged",
+   "found": "Zero results. No aerospace company named 'HerSpace Manufacturing' exists in any search engine or database.",
+   "next_action": "Confirm with user that P3-WAVE prompt description may be incorrect; company is workforce housing.",
+   "agent": "hyperresearch + monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "HerSpace Manufacturing CIN U74999KA2021PTC146084 MCA",
+   "status": "done",
+   "found": "HERSPACE PRIVATE LIMITED (U74999KA2021PTC146084) incorporated 01/04/2021, active, Bangalore. Directors: Radhakrishnan Anoop, Sita Sircar, Robert Alexander Pattillo.",
+   "next_action": "none",
+   "agent": "credonex"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "HerSpace Manufacturing Pvt Ltd U25129KA2025PTC197307",
+   "status": "done",
+   "found": "HERSPACE MANUFACTURING PRIVATE LIMITED (U25129KA2025PTC197307) incorporated 25/01/2025, NIC 251 (rubber/chemical), directors: Banthalapad Nagaraja Simha, Thimmegowda Puneeth.",
+   "next_action": "none",
+   "agent": "tofler"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "HerSpace Manufacturing women-led aerospace founders",
+   "status": "logged",
+   "found": "Company is 'largely women-led' in terms of workforce (80% women workers per Facebook/Instagram), NOT women founders. Founders are Bob Pattillo and Puneeth Thimmegowda (male).",
+   "next_action": "none",
+   "agent": "monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "HerSpace Manufacturing aerospace composites DFR Bengaluru",
+   "status": "logged",
+   "found": "Zero results. No aerospace company named 'HerSpace Manufacturing' exists in any search engine or database.",
+   "next_action": "Confirm with user that P3-WAVE prompt description may be incorrect; company is workforce housing.",
+   "agent": "hyperresearch + monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "HerSpace Manufacturing CIN U74999KA2021PTC146084 MCA",
+   "status": "done",
+   "found": "HERSPACE PRIVATE LIMITED (U74999KA2021PTC146084) incorporated 01/04/2021, active, Bangalore. Directors: Radhakrishnan Anoop, Sita Sircar, Robert Alexander Pattillo.",
+   "next_action": "none",
+   "agent": "credonex"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "HerSpace Manufacturing Pvt Ltd U25129KA2025PTC197307",
+   "status": "done",
+   "found": "HERSPACE MANUFACTURING PRIVATE LIMITED (U25129KA2025PTC197307) incorporated 25/01/2025, NIC 251 (rubber/chemical), directors: Banthalapad Nagaraja Simha, Thimmegowda Puneeth.",
+   "next_action": "none",
+   "agent": "tofler"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "HerSpace Manufacturing women-led aerospace founders",
+   "status": "logged",
+   "found": "Company is 'largely women-led' in terms of workforce (80% women workers per Facebook/Instagram), NOT women founders. Founders are Bob Pattillo and Puneeth Thimmegowda (male).",
+   "next_action": "none",
+   "agent": "monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "HerSpace Manufacturing aerospace composites DFR Bengaluru",
+   "status": "logged",
+   "found": "Zero results. No aerospace company named 'HerSpace Manufacturing' exists in any search engine or database.",
+   "next_action": "Confirm with user that P3-WAVE prompt description may be incorrect; company is workforce housing.",
+   "agent": "hyperresearch + monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "HerSpace Manufacturing CIN U74999KA2021PTC146084 MCA",
+   "status": "done",
+   "found": "HERSPACE PRIVATE LIMITED (U74999KA2021PTC146084) incorporated 01/04/2021, active, Bangalore. Directors: Radhakrishnan Anoop, Sita Sircar, Robert Alexander Pattillo.",
+   "next_action": "none",
+   "agent": "credonex"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "HerSpace Manufacturing Pvt Ltd U25129KA2025PTC197307",
+   "status": "done",
+   "found": "HERSPACE MANUFACTURING PRIVATE LIMITED (U25129KA2025PTC197307) incorporated 25/01/2025, NIC 251 (rubber/chemical), directors: Banthalapad Nagaraja Simha, Thimmegowda Puneeth.",
+   "next_action": "none",
+   "agent": "tofler"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "HerSpace Manufacturing women-led aerospace founders",
+   "status": "logged",
+   "found": "Company is 'largely women-led' in terms of workforce (80% women workers per Facebook/Instagram), NOT women founders. Founders are Bob Pattillo and Puneeth Thimmegowda (male).",
+   "next_action": "none",
+   "agent": "monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "HerSpace Manufacturing aerospace composites DFR Bengaluru",
+   "status": "logged",
+   "found": "Zero results. No aerospace company named 'HerSpace Manufacturing' exists in any search engine or database.",
+   "next_action": "Confirm with user that P3-WAVE prompt description may be incorrect; company is workforce housing.",
+   "agent": "hyperresearch + monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "HerSpace Manufacturing CIN U74999KA2021PTC146084 MCA",
+   "status": "done",
+   "found": "HERSPACE PRIVATE LIMITED (U74999KA2021PTC146084) incorporated 01/04/2021, active, Bangalore. Directors: Radhakrishnan Anoop, Sita Sircar, Robert Alexander Pattillo.",
+   "next_action": "none",
+   "agent": "credonex"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "HerSpace Manufacturing Pvt Ltd U25129KA2025PTC197307",
+   "status": "done",
+   "found": "HERSPACE MANUFACTURING PRIVATE LIMITED (U25129KA2025PTC197307) incorporated 25/01/2025, NIC 251 (rubber/chemical), directors: Banthalapad Nagaraja Simha, Thimmegowda Puneeth.",
+   "next_action": "none",
+   "agent": "tofler"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "HerSpace Manufacturing women-led aerospace founders",
+   "status": "logged",
+   "found": "Company is 'largely women-led' in terms of workforce (80% women workers per Facebook/Instagram), NOT women founders. Founders are Bob Pattillo and Puneeth Thimmegowda (male).",
+   "next_action": "none",
+   "agent": "monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "HerSpace Manufacturing aerospace composites DFR Bengaluru",
+   "status": "logged",
+   "found": "Zero results. No aerospace company named 'HerSpace Manufacturing' exists in any search engine or database.",
+   "next_action": "Confirm with user that P3-WAVE prompt description may be incorrect; company is workforce housing.",
+   "agent": "hyperresearch + monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "HerSpace Manufacturing CIN U74999KA2021PTC146084 MCA",
+   "status": "done",
+   "found": "HERSPACE PRIVATE LIMITED (U74999KA2021PTC146084) incorporated 01/04/2021, active, Bangalore. Directors: Radhakrishnan Anoop, Sita Sircar, Robert Alexander Pattillo.",
+   "next_action": "none",
+   "agent": "credonex"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "HerSpace Manufacturing Pvt Ltd U25129KA2025PTC197307",
+   "status": "done",
+   "found": "HERSPACE MANUFACTURING PRIVATE LIMITED (U25129KA2025PTC197307) incorporated 25/01/2025, NIC 251 (rubber/chemical), directors: Banthalapad Nagaraja Simha, Thimmegowda Puneeth.",
+   "next_action": "none",
+   "agent": "tofler"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "HerSpace Manufacturing women-led aerospace founders",
+   "status": "logged",
+   "found": "Company is 'largely women-led' in terms of workforce (80% women workers per Facebook/Instagram), NOT women founders. Founders are Bob Pattillo and Puneeth Thimmegowda (male).",
+   "next_action": "none",
+   "agent": "monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "HerSpace Manufacturing aerospace composites DFR Bengaluru",
+   "status": "logged",
+   "found": "Zero results. No aerospace company named 'HerSpace Manufacturing' exists in any search engine or database.",
+   "next_action": "Confirm with user that P3-WAVE prompt description may be incorrect; company is workforce housing.",
+   "agent": "hyperresearch + monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "HerSpace Manufacturing CIN U74999KA2021PTC146084 MCA",
+   "status": "done",
+   "found": "HERSPACE PRIVATE LIMITED (U74999KA2021PTC146084) incorporated 01/04/2021, active, Bangalore. Directors: Radhakrishnan Anoop, Sita Sircar, Robert Alexander Pattillo.",
+   "next_action": "none",
+   "agent": "credonex"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "HerSpace Manufacturing Pvt Ltd U25129KA2025PTC197307",
+   "status": "done",
+   "found": "HERSPACE MANUFACTURING PRIVATE LIMITED (U25129KA2025PTC197307) incorporated 25/01/2025, NIC 251 (rubber/chemical), directors: Banthalapad Nagaraja Simha, Thimmegowda Puneeth.",
+   "next_action": "none",
+   "agent": "tofler"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "HerSpace Manufacturing women-led aerospace founders",
+   "status": "logged",
+   "found": "Company is 'largely women-led' in terms of workforce (80% women workers per Facebook/Instagram), NOT women founders. Founders are Bob Pattillo and Puneeth Thimmegowda (male).",
+   "next_action": "none",
+   "agent": "monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "HerSpace Manufacturing aerospace composites DFR Bengaluru",
+   "status": "logged",
+   "found": "Zero results. No aerospace company named 'HerSpace Manufacturing' exists in any search engine or database.",
+   "next_action": "Confirm with user that P3-WAVE prompt description may be incorrect; company is workforce housing.",
+   "agent": "hyperresearch + monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "HerSpace Manufacturing CIN U74999KA2021PTC146084 MCA",
+   "status": "done",
+   "found": "HERSPACE PRIVATE LIMITED (U74999KA2021PTC146084) incorporated 01/04/2021, active, Bangalore. Directors: Radhakrishnan Anoop, Sita Sircar, Robert Alexander Pattillo.",
+   "next_action": "none",
+   "agent": "credonex"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "HerSpace Manufacturing Pvt Ltd U25129KA2025PTC197307",
+   "status": "done",
+   "found": "HERSPACE MANUFACTURING PRIVATE LIMITED (U25129KA2025PTC197307) incorporated 25/01/2025, NIC 251 (rubber/chemical), directors: Banthalapad Nagaraja Simha, Thimmegowda Puneeth.",
+   "next_action": "none",
+   "agent": "tofler"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "HerSpace Manufacturing women-led aerospace founders",
+   "status": "logged",
+   "found": "Company is 'largely women-led' in terms of workforce (80% women workers per Facebook/Instagram), NOT women founders. Founders are Bob Pattillo and Puneeth Thimmegowda (male).",
+   "next_action": "none",
+   "agent": "monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "HerSpace Manufacturing aerospace composites DFR Bengaluru",
+   "status": "logged",
+   "found": "Zero results. No aerospace company named 'HerSpace Manufacturing' exists in any search engine or database.",
+   "next_action": "Confirm with user that P3-WAVE prompt description may be incorrect; company is workforce housing.",
+   "agent": "hyperresearch + monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "HerSpace Manufacturing CIN U74999KA2021PTC146084 MCA",
+   "status": "done",
+   "found": "HERSPACE PRIVATE LIMITED (U74999KA2021PTC146084) incorporated 01/04/2021, active, Bangalore. Directors: Radhakrishnan Anoop, Sita Sircar, Robert Alexander Pattillo.",
+   "next_action": "none",
+   "agent": "credonex"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "HerSpace Manufacturing Pvt Ltd U25129KA2025PTC197307",
+   "status": "done",
+   "found": "HERSPACE MANUFACTURING PRIVATE LIMITED (U25129KA2025PTC197307) incorporated 25/01/2025, NIC 251 (rubber/chemical), directors: Banthalapad Nagaraja Simha, Thimmegowda Puneeth.",
+   "next_action": "none",
+   "agent": "tofler"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "HerSpace Manufacturing women-led aerospace founders",
+   "status": "logged",
+   "found": "Company is 'largely women-led' in terms of workforce (80% women workers per Facebook/Instagram), NOT women founders. Founders are Bob Pattillo and Puneeth Thimmegowda (male).",
+   "next_action": "none",
+   "agent": "monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "HerSpace Manufacturing aerospace composites DFR Bengaluru",
+   "status": "logged",
+   "found": "Zero results. No aerospace company named 'HerSpace Manufacturing' exists in any search engine or database.",
+   "next_action": "Confirm with user that P3-WAVE prompt description may be incorrect; company is workforce housing.",
+   "agent": "hyperresearch + monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "HerSpace Manufacturing CIN U74999KA2021PTC146084 MCA",
+   "status": "done",
+   "found": "HERSPACE PRIVATE LIMITED (U74999KA2021PTC146084) incorporated 01/04/2021, active, Bangalore. Directors: Radhakrishnan Anoop, Sita Sircar, Robert Alexander Pattillo.",
+   "next_action": "none",
+   "agent": "credonex"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "HerSpace Manufacturing Pvt Ltd U25129KA2025PTC197307",
+   "status": "done",
+   "found": "HERSPACE MANUFACTURING PRIVATE LIMITED (U25129KA2025PTC197307) incorporated 25/01/2025, NIC 251 (rubber/chemical), directors: Banthalapad Nagaraja Simha, Thimmegowda Puneeth.",
+   "next_action": "none",
+   "agent": "tofler"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "HerSpace Manufacturing women-led aerospace founders",
+   "status": "logged",
+   "found": "Company is 'largely women-led' in terms of workforce (80% women workers per Facebook/Instagram), NOT women founders. Founders are Bob Pattillo and Puneeth Thimmegowda (male).",
+   "next_action": "none",
+   "agent": "monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "HerSpace Manufacturing aerospace composites DFR Bengaluru",
+   "status": "logged",
+   "found": "Zero results. No aerospace company named 'HerSpace Manufacturing' exists in any search engine or database.",
+   "next_action": "Confirm with user that P3-WAVE prompt description may be incorrect; company is workforce housing.",
+   "agent": "hyperresearch + monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "HerSpace Manufacturing CIN U74999KA2021PTC146084 MCA",
+   "status": "done",
+   "found": "HERSPACE PRIVATE LIMITED (U74999KA2021PTC146084) incorporated 01/04/2021, active, Bangalore. Directors: Radhakrishnan Anoop, Sita Sircar, Robert Alexander Pattillo.",
+   "next_action": "none",
+   "agent": "credonex"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "HerSpace Manufacturing Pvt Ltd U25129KA2025PTC197307",
+   "status": "done",
+   "found": "HERSPACE MANUFACTURING PRIVATE LIMITED (U25129KA2025PTC197307) incorporated 25/01/2025, NIC 251 (rubber/chemical), directors: Banthalapad Nagaraja Simha, Thimmegowda Puneeth.",
+   "next_action": "none",
+   "agent": "tofler"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "HerSpace Manufacturing women-led aerospace founders",
+   "status": "logged",
+   "found": "Company is 'largely women-led' in terms of workforce (80% women workers per Facebook/Instagram), NOT women founders. Founders are Bob Pattillo and Puneeth Thimmegowda (male).",
+   "next_action": "none",
+   "agent": "monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "HerSpace Manufacturing aerospace composites DFR Bengaluru",
+   "status": "logged",
+   "found": "Zero results. No aerospace company named 'HerSpace Manufacturing' exists in any search engine or database.",
+   "next_action": "Confirm with user that P3-WAVE prompt description may be incorrect; company is workforce housing.",
+   "agent": "hyperresearch + monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "HerSpace Manufacturing CIN U74999KA2021PTC146084 MCA",
+   "status": "done",
+   "found": "HERSPACE PRIVATE LIMITED (U74999KA2021PTC146084) incorporated 01/04/2021, active, Bangalore. Directors: Radhakrishnan Anoop, Sita Sircar, Robert Alexander Pattillo.",
+   "next_action": "none",
+   "agent": "credonex"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "HerSpace Manufacturing Pvt Ltd U25129KA2025PTC197307",
+   "status": "done",
+   "found": "HERSPACE MANUFACTURING PRIVATE LIMITED (U25129KA2025PTC197307) incorporated 25/01/2025, NIC 251 (rubber/chemical), directors: Banthalapad Nagaraja Simha, Thimmegowda Puneeth.",
+   "next_action": "none",
+   "agent": "tofler"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "HerSpace Manufacturing women-led aerospace founders",
+   "status": "logged",
+   "found": "Company is 'largely women-led' in terms of workforce (80% women workers per Facebook/Instagram), NOT women founders. Founders are Bob Pattillo and Puneeth Thimmegowda (male).",
+   "next_action": "none",
+   "agent": "monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "HerSpace Manufacturing aerospace composites DFR Bengaluru",
+   "status": "logged",
+   "found": "Zero results. No aerospace company named 'HerSpace Manufacturing' exists in any search engine or database.",
+   "next_action": "Confirm with user that P3-WAVE prompt description may be incorrect; company is workforce housing.",
+   "agent": "hyperresearch + monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "HerSpace Manufacturing CIN U74999KA2021PTC146084 MCA",
+   "status": "done",
+   "found": "HERSPACE PRIVATE LIMITED (U74999KA2021PTC146084) incorporated 01/04/2021, active, Bangalore. Directors: Radhakrishnan Anoop, Sita Sircar, Robert Alexander Pattillo.",
+   "next_action": "none",
+   "agent": "credonex"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "HerSpace Manufacturing Pvt Ltd U25129KA2025PTC197307",
+   "status": "done",
+   "found": "HERSPACE MANUFACTURING PRIVATE LIMITED (U25129KA2025PTC197307) incorporated 25/01/2025, NIC 251 (rubber/chemical), directors: Banthalapad Nagaraja Simha, Thimmegowda Puneeth.",
+   "next_action": "none",
+   "agent": "tofler"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "HerSpace Manufacturing women-led aerospace founders",
+   "status": "logged",
+   "found": "Company is 'largely women-led' in terms of workforce (80% women workers per Facebook/Instagram), NOT women founders. Founders are Bob Pattillo and Puneeth Thimmegowda (male).",
+   "next_action": "none",
+   "agent": "monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "HerSpace Manufacturing aerospace composites DFR Bengaluru",
+   "status": "logged",
+   "found": "Zero results. No aerospace company named 'HerSpace Manufacturing' exists in any search engine or database.",
+   "next_action": "Confirm with user that P3-WAVE prompt description may be incorrect; company is workforce housing.",
+   "agent": "hyperresearch + monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "HerSpace Manufacturing CIN U74999KA2021PTC146084 MCA",
+   "status": "done",
+   "found": "HERSPACE PRIVATE LIMITED (U74999KA2021PTC146084) incorporated 01/04/2021, active, Bangalore. Directors: Radhakrishnan Anoop, Sita Sircar, Robert Alexander Pattillo.",
+   "next_action": "none",
+   "agent": "credonex"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "HerSpace Manufacturing Pvt Ltd U25129KA2025PTC197307",
+   "status": "done",
+   "found": "HERSPACE MANUFACTURING PRIVATE LIMITED (U25129KA2025PTC197307) incorporated 25/01/2025, NIC 251 (rubber/chemical), directors: Banthalapad Nagaraja Simha, Thimmegowda Puneeth.",
+   "next_action": "none",
+   "agent": "tofler"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "HerSpace Manufacturing women-led aerospace founders",
+   "status": "logged",
+   "found": "Company is 'largely women-led' in terms of workforce (80% women workers per Facebook/Instagram), NOT women founders. Founders are Bob Pattillo and Puneeth Thimmegowda (male).",
+   "next_action": "none",
+   "agent": "monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "HerSpace Manufacturing aerospace composites DFR Bengaluru",
+   "status": "logged",
+   "found": "Zero results. No aerospace company named 'HerSpace Manufacturing' exists in any search engine or database.",
+   "next_action": "Confirm with user that P3-WAVE prompt description may be incorrect; company is workforce housing.",
+   "agent": "hyperresearch + monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "HerSpace Manufacturing CIN U74999KA2021PTC146084 MCA",
+   "status": "done",
+   "found": "HERSPACE PRIVATE LIMITED (U74999KA2021PTC146084) incorporated 01/04/2021, active, Bangalore. Directors: Radhakrishnan Anoop, Sita Sircar, Robert Alexander Pattillo.",
+   "next_action": "none",
+   "agent": "credonex"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "HerSpace Manufacturing Pvt Ltd U25129KA2025PTC197307",
+   "status": "done",
+   "found": "HERSPACE MANUFACTURING PRIVATE LIMITED (U25129KA2025PTC197307) incorporated 25/01/2025, NIC 251 (rubber/chemical), directors: Banthalapad Nagaraja Simha, Thimmegowda Puneeth.",
+   "next_action": "none",
+   "agent": "tofler"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "HerSpace Manufacturing women-led aerospace founders",
+   "status": "logged",
+   "found": "Company is 'largely women-led' in terms of workforce (80% women workers per Facebook/Instagram), NOT women founders. Founders are Bob Pattillo and Puneeth Thimmegowda (male).",
+   "next_action": "none",
+   "agent": "monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "HerSpace Manufacturing aerospace composites DFR Bengaluru",
+   "status": "logged",
+   "found": "Zero results. No aerospace company named 'HerSpace Manufacturing' exists in any search engine or database.",
+   "next_action": "Confirm with user that P3-WAVE prompt description may be incorrect; company is workforce housing.",
+   "agent": "hyperresearch + monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "HerSpace Manufacturing CIN U74999KA2021PTC146084 MCA",
+   "status": "done",
+   "found": "HERSPACE PRIVATE LIMITED (U74999KA2021PTC146084) incorporated 01/04/2021, active, Bangalore. Directors: Radhakrishnan Anoop, Sita Sircar, Robert Alexander Pattillo.",
+   "next_action": "none",
+   "agent": "credonex"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "HerSpace Manufacturing Pvt Ltd U25129KA2025PTC197307",
+   "status": "done",
+   "found": "HERSPACE MANUFACTURING PRIVATE LIMITED (U25129KA2025PTC197307) incorporated 25/01/2025, NIC 251 (rubber/chemical), directors: Banthalapad Nagaraja Simha, Thimmegowda Puneeth.",
+   "next_action": "none",
+   "agent": "tofler"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "HerSpace Manufacturing women-led aerospace founders",
+   "status": "logged",
+   "found": "Company is 'largely women-led' in terms of workforce (80% women workers per Facebook/Instagram), NOT women founders. Founders are Bob Pattillo and Puneeth Thimmegowda (male).",
+   "next_action": "none",
+   "agent": "monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "HerSpace Manufacturing aerospace composites DFR Bengaluru",
+   "status": "logged",
+   "found": "Zero results. No aerospace company named 'HerSpace Manufacturing' exists in any search engine or database.",
+   "next_action": "Confirm with user that P3-WAVE prompt description may be incorrect; company is workforce housing.",
+   "agent": "hyperresearch + monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "HerSpace Manufacturing CIN U74999KA2021PTC146084 MCA",
+   "status": "done",
+   "found": "HERSPACE PRIVATE LIMITED (U74999KA2021PTC146084) incorporated 01/04/2021, active, Bangalore. Directors: Radhakrishnan Anoop, Sita Sircar, Robert Alexander Pattillo.",
+   "next_action": "none",
+   "agent": "credonex"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "HerSpace Manufacturing Pvt Ltd U25129KA2025PTC197307",
+   "status": "done",
+   "found": "HERSPACE MANUFACTURING PRIVATE LIMITED (U25129KA2025PTC197307) incorporated 25/01/2025, NIC 251 (rubber/chemical), directors: Banthalapad Nagaraja Simha, Thimmegowda Puneeth.",
+   "next_action": "none",
+   "agent": "tofler"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "HerSpace Manufacturing women-led aerospace founders",
+   "status": "logged",
+   "found": "Company is 'largely women-led' in terms of workforce (80% women workers per Facebook/Instagram), NOT women founders. Founders are Bob Pattillo and Puneeth Thimmegowda (male).",
+   "next_action": "none",
+   "agent": "monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "HerSpace Manufacturing aerospace composites DFR Bengaluru",
+   "status": "logged",
+   "found": "Zero results. No aerospace company named 'HerSpace Manufacturing' exists in any search engine or database.",
+   "next_action": "Confirm with user that P3-WAVE prompt description may be incorrect; company is workforce housing.",
+   "agent": "hyperresearch + monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "HerSpace Manufacturing CIN U74999KA2021PTC146084 MCA",
+   "status": "done",
+   "found": "HERSPACE PRIVATE LIMITED (U74999KA2021PTC146084) incorporated 01/04/2021, active, Bangalore. Directors: Radhakrishnan Anoop, Sita Sircar, Robert Alexander Pattillo.",
+   "next_action": "none",
+   "agent": "credonex"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "HerSpace Manufacturing Pvt Ltd U25129KA2025PTC197307",
+   "status": "done",
+   "found": "HERSPACE MANUFACTURING PRIVATE LIMITED (U25129KA2025PTC197307) incorporated 25/01/2025, NIC 251 (rubber/chemical), directors: Banthalapad Nagaraja Simha, Thimmegowda Puneeth.",
+   "next_action": "none",
+   "agent": "tofler"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "HerSpace Manufacturing women-led aerospace founders",
+   "status": "logged",
+   "found": "Company is 'largely women-led' in terms of workforce (80% women workers per Facebook/Instagram), NOT women founders. Founders are Bob Pattillo and Puneeth Thimmegowda (male).",
+   "next_action": "none",
+   "agent": "monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "HerSpace Manufacturing aerospace composites DFR Bengaluru",
+   "status": "logged",
+   "found": "Zero results. No aerospace company named 'HerSpace Manufacturing' exists in any search engine or database.",
+   "next_action": "Confirm with user that P3-WAVE prompt description may be incorrect; company is workforce housing.",
+   "agent": "hyperresearch + monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "HerSpace Manufacturing CIN U74999KA2021PTC146084 MCA",
+   "status": "done",
+   "found": "HERSPACE PRIVATE LIMITED (U74999KA2021PTC146084) incorporated 01/04/2021, active, Bangalore. Directors: Radhakrishnan Anoop, Sita Sircar, Robert Alexander Pattillo.",
+   "next_action": "none",
+   "agent": "credonex"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "HerSpace Manufacturing Pvt Ltd U25129KA2025PTC197307",
+   "status": "done",
+   "found": "HERSPACE MANUFACTURING PRIVATE LIMITED (U25129KA2025PTC197307) incorporated 25/01/2025, NIC 251 (rubber/chemical), directors: Banthalapad Nagaraja Simha, Thimmegowda Puneeth.",
+   "next_action": "none",
+   "agent": "tofler"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "HerSpace Manufacturing women-led aerospace founders",
+   "status": "logged",
+   "found": "Company is 'largely women-led' in terms of workforce (80% women workers per Facebook/Instagram), NOT women founders. Founders are Bob Pattillo and Puneeth Thimmegowda (male).",
+   "next_action": "none",
+   "agent": "monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "HerSpace Manufacturing aerospace composites DFR Bengaluru",
+   "status": "logged",
+   "found": "Zero results. No aerospace company named 'HerSpace Manufacturing' exists in any search engine or database.",
+   "next_action": "Confirm with user that P3-WAVE prompt description may be incorrect; company is workforce housing.",
+   "agent": "hyperresearch + monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "HerSpace Manufacturing CIN U74999KA2021PTC146084 MCA",
+   "status": "done",
+   "found": "HERSPACE PRIVATE LIMITED (U74999KA2021PTC146084) incorporated 01/04/2021, active, Bangalore. Directors: Radhakrishnan Anoop, Sita Sircar, Robert Alexander Pattillo.",
+   "next_action": "none",
+   "agent": "credonex"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "HerSpace Manufacturing Pvt Ltd U25129KA2025PTC197307",
+   "status": "done",
+   "found": "HERSPACE MANUFACTURING PRIVATE LIMITED (U25129KA2025PTC197307) incorporated 25/01/2025, NIC 251 (rubber/chemical), directors: Banthalapad Nagaraja Simha, Thimmegowda Puneeth.",
+   "next_action": "none",
+   "agent": "tofler"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "HerSpace Manufacturing women-led aerospace founders",
+   "status": "logged",
+   "found": "Company is 'largely women-led' in terms of workforce (80% women workers per Facebook/Instagram), NOT women founders. Founders are Bob Pattillo and Puneeth Thimmegowda (male).",
+   "next_action": "none",
+   "agent": "monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "HerSpace Manufacturing aerospace composites DFR Bengaluru",
+   "status": "logged",
+   "found": "Zero results. No aerospace company named 'HerSpace Manufacturing' exists in any search engine or database.",
+   "next_action": "Confirm with user that P3-WAVE prompt description may be incorrect; company is workforce housing.",
+   "agent": "hyperresearch + monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "HerSpace Manufacturing CIN U74999KA2021PTC146084 MCA",
+   "status": "done",
+   "found": "HERSPACE PRIVATE LIMITED (U74999KA2021PTC146084) incorporated 01/04/2021, active, Bangalore. Directors: Radhakrishnan Anoop, Sita Sircar, Robert Alexander Pattillo.",
+   "next_action": "none",
+   "agent": "credonex"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "HerSpace Manufacturing Pvt Ltd U25129KA2025PTC197307",
+   "status": "done",
+   "found": "HERSPACE MANUFACTURING PRIVATE LIMITED (U25129KA2025PTC197307) incorporated 25/01/2025, NIC 251 (rubber/chemical), directors: Banthalapad Nagaraja Simha, Thimmegowda Puneeth.",
+   "next_action": "none",
+   "agent": "tofler"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "HerSpace Manufacturing women-led aerospace founders",
+   "status": "logged",
+   "found": "Company is 'largely women-led' in terms of workforce (80% women workers per Facebook/Instagram), NOT women founders. Founders are Bob Pattillo and Puneeth Thimmegowda (male).",
+   "next_action": "none",
+   "agent": "monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "HerSpace Manufacturing aerospace composites DFR Bengaluru",
+   "status": "logged",
+   "found": "Zero results. No aerospace company named 'HerSpace Manufacturing' exists in any search engine or database.",
+   "next_action": "Confirm with user that P3-WAVE prompt description may be incorrect; company is workforce housing.",
+   "agent": "hyperresearch + monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "HerSpace Manufacturing CIN U74999KA2021PTC146084 MCA",
+   "status": "done",
+   "found": "HERSPACE PRIVATE LIMITED (U74999KA2021PTC146084) incorporated 01/04/2021, active, Bangalore. Directors: Radhakrishnan Anoop, Sita Sircar, Robert Alexander Pattillo.",
+   "next_action": "none",
+   "agent": "credonex"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "HerSpace Manufacturing Pvt Ltd U25129KA2025PTC197307",
+   "status": "done",
+   "found": "HERSPACE MANUFACTURING PRIVATE LIMITED (U25129KA2025PTC197307) incorporated 25/01/2025, NIC 251 (rubber/chemical), directors: Banthalapad Nagaraja Simha, Thimmegowda Puneeth.",
+   "next_action": "none",
+   "agent": "tofler"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "HerSpace Manufacturing women-led aerospace founders",
+   "status": "logged",
+   "found": "Company is 'largely women-led' in terms of workforce (80% women workers per Facebook/Instagram), NOT women founders. Founders are Bob Pattillo and Puneeth Thimmegowda (male).",
+   "next_action": "none",
+   "agent": "monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "HerSpace Manufacturing aerospace composites DFR Bengaluru",
+   "status": "logged",
+   "found": "Zero results. No aerospace company named 'HerSpace Manufacturing' exists in any search engine or database.",
+   "next_action": "Confirm with user that P3-WAVE prompt description may be incorrect; company is workforce housing.",
+   "agent": "hyperresearch + monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "HerSpace Manufacturing CIN U74999KA2021PTC146084 MCA",
+   "status": "done",
+   "found": "HERSPACE PRIVATE LIMITED (U74999KA2021PTC146084) incorporated 01/04/2021, active, Bangalore. Directors: Radhakrishnan Anoop, Sita Sircar, Robert Alexander Pattillo.",
+   "next_action": "none",
+   "agent": "credonex"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "HerSpace Manufacturing Pvt Ltd U25129KA2025PTC197307",
+   "status": "done",
+   "found": "HERSPACE MANUFACTURING PRIVATE LIMITED (U25129KA2025PTC197307) incorporated 25/01/2025, NIC 251 (rubber/chemical), directors: Banthalapad Nagaraja Simha, Thimmegowda Puneeth.",
+   "next_action": "none",
+   "agent": "tofler"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "HerSpace Manufacturing women-led aerospace founders",
+   "status": "logged",
+   "found": "Company is 'largely women-led' in terms of workforce (80% women workers per Facebook/Instagram), NOT women founders. Founders are Bob Pattillo and Puneeth Thimmegowda (male).",
+   "next_action": "none",
+   "agent": "monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "HerSpace Manufacturing aerospace composites DFR Bengaluru",
+   "status": "logged",
+   "found": "Zero results. No aerospace company named 'HerSpace Manufacturing' exists in any search engine or database.",
+   "next_action": "Confirm with user that P3-WAVE prompt description may be incorrect; company is workforce housing.",
+   "agent": "hyperresearch + monid"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "HerSpace Manufacturing CIN U74999KA2021PTC146084 MCA",
+   "status": "done",
+   "found": "HERSPACE PRIVATE LIMITED (U74999KA2021PTC146084) incorporated 01/04/2021, active, Bangalore. Directors: Radhakrishnan Anoop, Sita Sircar, Robert Alexander Pattillo.",
+   "next_action": "none",
+   "agent": "credonex"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "HerSpace Manufacturing Pvt Ltd U25129KA2025PTC197307",
+   "status": "done",
+   "found": "HERSPACE MANUFACTURING PRIVATE LIMITED (U25129KA2025PTC197307) incorporated 25/01/2025, NIC 251 (rubber/chemical), directors: Banthalapad Nagaraja Simha, Thimmegowda Puneeth.",
+   "next_action": "none",
+   "agent": "tofler"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "HerSpace Manufacturing women-led aerospace founders",
+   "status": "logged",
+   "found": "Company is 'largely women-led' in terms of workforce (80% women workers per Facebook/Instagram), NOT women founders. Founders are Bob Pattillo and Puneeth Thimmegowda (male).",
+   "next_action": "none",
+   "agent": "monid"
+  }
+ ],
+ "sources": [
+  {
+   "claim_supported": "$50M total commitment; deployment structure; geography",
+   "fields_supported": [
+    "funding_rounds",
+    "company"
+   ],
+   "publication_date": "2026-09-07",
+   "publisher": "Mint",
+   "tier": "T2",
+   "title": "HerSpace raises $50 million from Gray Matters Capital",
+   "url": "https://www.livemint.com/companies/start-ups/herspace-manufacturing-raises-50-million-gray-matters-capital-11788770709275.html"
+  },
+  {
+   "claim_supported": "$40M advanced talks not closed; founders; CEO",
+   "fields_supported": [
+    "founders",
+    "people",
+    "conflicts"
+   ],
+   "publication_date": "2026-09-07",
+   "publisher": "StartupTalky",
+   "tier": "T4",
+   "title": "HerSpace in Advanced Talks for $40 Mn From Gray Matters",
+   "url": "https://startuptalky.com/news/herspace-advanced-talks-40-million-gray-matters-capital/"
+  },
+  {
+   "claim_supported": "CIN U74999KA2021PTC146084; incorporated 01 Apr 2021; ROC Bangalore",
+   "fields_supported": [
+    "company.cin"
+   ],
+   "publication_date": "UNKNOWN",
+   "publisher": "ZaubaCorp (aggregator)",
+   "tier": "T4",
+   "title": "HERSPACE PRIVATE LIMITED",
+   "url": "https://www.zaubacorp.com"
+  },
+  {
+   "url": "https://herspace.co",
+   "publisher": "HerSpace Manufacturing Pvt Ltd",
+   "tier": "T1",
+   "publication_date": "2026-09-15",
+   "retrieved_date": "2026-09-15",
+   "confidence": "HIGH",
+   "fields_supported": [
+    "company.description",
+    "company.business_model",
+    "products",
+    "locations",
+    "traction"
+   ],
+   "note": "Company website verified via hyperresearch fetch. Title: 'Herspace | Dignified living for India's workforce.'"
+  },
+  {
+   "url": "https://www.machineinsider.com/herspace-manufacturing-pvt-ltd-secures-50-million-funding",
+   "publisher": "Machine Insider",
+   "tier": "T3",
+   "publication_date": "2026-09-08",
+   "retrieved_date": "2026-09-15",
+   "confidence": "HIGH",
+   "fields_supported": [
+    "founders",
+    "people",
+    "funding_rounds",
+    "events"
+   ],
+   "note": "Confirms founders Bob Pattillo and Puneeth Thimmegowda, CEO Simha Nagaraj."
+  },
+  {
+   "url": "https://credonex.com/company/herspace-private-limited-U74999KA2021PTC146084",
+   "publisher": "Credonex",
+   "tier": "T4",
+   "publication_date": "UNKNOWN",
+   "retrieved_date": "2026-09-15",
+   "confidence": "HIGH",
+   "fields_supported": [
+    "company.cin",
+    "company.incorporation_date",
+    "company.status",
+    "people"
+   ],
+   "note": "MCA registry data. Directors: Radhakrishnan Anoop, Sita Sircar, Robert Alexander Pattillo."
+  },
+  {
+   "url": "https://www.tofler.in/herspace-manufacturing-private-limited/company/U25129KA2025PTC197307",
+   "publisher": "Tofler",
+   "tier": "T4",
+   "publication_date": "2026-07-05",
+   "retrieved_date": "2026-09-15",
+   "confidence": "HIGH",
+   "fields_supported": [
+    "company.legal_name",
+    "company.incorporation_date",
+    "company.locations"
+   ],
+   "note": "HERSPACE MANUFACTURING PRIVATE LIMITED (U25129KA2025PTC197307), incorporated 25/01/2025, NIC 251."
+  },
+  {
+   "url": "https://www.zaubacorp.com/HERSPACE-MANUFACTURING-PRIVATE-LIMITED-U25129KA2025PTC197307",
+   "publisher": "ZaubaCorp",
+   "tier": "T4",
+   "publication_date": "UNKNOWN",
+   "retrieved_date": "2026-09-15",
+   "confidence": "MEDIUM",
+   "fields_supported": [
+    "company.cin"
+   ],
+   "note": "CIN U25129KA2025PTC197307, NIC code 251."
+  }
+ ],
+ "startup_id": "herspace manufacturing",
+ "traction": [
+  {
+   "as_of": "Sep 2026",
+   "company_reported": true,
+   "confidence": "Medium",
+   "metric": "modular beds delivered and operating",
+   "period": "Sep 2026",
+   "source_url": "https://www.indianweb2.com",
+   "value": "950+"
+  },
+  {
+   "metric": "modular beds operating",
+   "value": 950,
+   "unit": "beds",
+   "period": "Sep 2026",
+   "as_of": "2026-09-07",
+   "company_reported": true,
+   "source_url": "https://www.livemint.com/companies/start-ups/herspace-manufacturing-raises-50-million-gray-matters-capital-11788770709275.html",
+   "confidence": "HIGH",
+   "notes": "Company reported 950+ modular beds in operation."
+  },
+  {
+   "metric": "beds in pipeline",
+   "value": 10000,
+   "unit": "beds",
+   "period": "Sep 2026",
+   "as_of": "2026-09-07",
+   "company_reported": true,
+   "source_url": "https://www.livemint.com/companies/start-ups/herspace-manufacturing-raises-50-million-gray-matters-capital-11788770709275.html",
+   "confidence": "HIGH",
+   "notes": "Pipeline exceeding 10,000 beds. No timeline disclosed."
+  },
+  {
+   "metric": "beds deployed single site case study",
+   "value": 432,
+   "unit": "beds",
+   "period": "Q1 2026",
+   "as_of": "2026-09-07",
+   "company_reported": true,
+   "source_url": "https://herspace.co",
+   "confidence": "MEDIUM",
+   "notes": "Case study: 432 workers moved into HerSpace housing in 6 weeks; 12% fewer missed shifts in Q1. Automotive manufacturing site in Tamil Nadu."
+  }
+ ],
+ "products": [
+  {
+   "name": "Core Worker Dormitories",
+   "category": "workforce housing",
+   "description": "Twin and quad modular rooms with shared amenities, 50 to 1000+ beds. Factory-built, deployed in 60 days.",
+   "pricing_model": "B2B lease",
+   "launch_date": "UNKNOWN",
+   "status": "active",
+   "source_url": "https://herspace.co",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "HerSpace Secure",
+   "category": "women's housing",
+   "description": "Dedicated access-controlled accommodation with female wardens, 24/7 monitoring, biometric entry. Designed for women workers in manufacturing.",
+   "pricing_model": "B2B lease",
+   "launch_date": "UNKNOWN",
+   "status": "active",
+   "source_url": "https://herspace.co",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Long-stay Family Units",
+   "category": "workforce housing",
+   "description": "Self-contained 1-2 room units for supervisors and long-tenure staff who relocate with families.",
+   "pricing_model": "B2B lease",
+   "launch_date": "UNKNOWN",
+   "status": "active",
+   "source_url": "https://herspace.co",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Site Offices & Welfare",
+   "category": "site infrastructure",
+   "description": "Modular offices, clinics, dining and recreation blocks for industrial sites.",
+   "pricing_model": "B2B lease",
+   "launch_date": "UNKNOWN",
+   "status": "active",
+   "source_url": "https://herspace.co",
+   "confidence": "HIGH"
+  }
+ ],
+ "locations": [
+  {
+   "type": "hq",
+   "address_or_area": "34th Cross Road, Jayanagar 4th T Block",
+   "city": "Bengaluru",
+   "state": "Karnataka",
+   "country": "India",
+   "as_of": "2026-09-15",
+   "source_url": "https://herspace.co",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "registered_office",
+   "address_or_area": "No 17/1, 3rd Cross, Malleshwaram",
+   "city": "Bengaluru",
+   "state": "Karnataka",
+   "country": "India",
+   "as_of": "2026-09-15",
+   "source_url": "https://credonex.com/company/herspace-private-limited-U74999KA2021PTC146084",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "ops",
+   "address_or_area": "Jayanagar III Block, Bangalore South",
+   "city": "Bengaluru",
+   "state": "Karnataka",
+   "country": "India",
+   "as_of": "2026-09-15",
+   "source_url": "https://www.tofler.in/herspace-manufacturing-private-limited/company/U25129KA2025PTC197307",
+   "confidence": "MEDIUM",
+   "notes": "HerSpace Manufacturing Pvt Ltd (U25129KA2025PTC197307) registered at No. 76, 10th Main Road, Jayangar III Block."
+  }
+ ],
+ "customers": [
+  {
+   "name": "UNKNOWN",
+   "type": "enterprise",
+   "announced_date": "",
+   "status": "unnamed",
+   "source_url": "https://www.livemint.com/companies/start-ups/herspace-manufacturing-raises-50-million-gray-matters-capital-11788770709275.html",
+   "confidence": "LOW",
+   "notes": "Mint article states company 'did not name its customers.' A case study references an automotive manufacturing company in Tamil Nadu that placed 200 women with HerSpace. No ISRO/DRDO/space company customers found."
+  }
+ ]
+}

@@ -1,0 +1,847 @@
+startup_id,company,milestone_type,milestone,period,value,unit,currency,source_id,confidence,notes
+S0001,Juspay,founded,2012,2012,,,,,DERIVED,founded date from STARTUPS
+S0001,Juspay,first_funding,Series C,2021-12-15,4470.0,INR Mn,INR,SRC00013,DERIVED,first funding event from FUNDING
+S0001,Juspay,latest_revenue,FY25,FY25,514.31,INR crore,,,DERIVED,latest FY revenue from FINANCIALS
+S0001,Juspay,legal_event,complaint,2024-12,,,,SRC00003,DERIVED,legal/regulatory event from LEGAL_REGULATORY
+S0001,Juspay,current_state,active private,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0002,KreditBee,first_funding,Series C (tranche 2),2021-03-22,5215.0,INR Mn,INR,SRC00042,DERIVED,first funding event from FUNDING
+S0002,KreditBee,latest_revenue,FY25,FY25,2712.0,INR crore,,,DERIVED,latest FY revenue from FINANCIALS
+S0002,KreditBee,legal_event,regulatory,2026-07-27,,,,SRC00061,DERIVED,legal/regulatory event from LEGAL_REGULATORY
+S0002,KreditBee,current_state,"active, pre-IPO",2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0003,PhonePe,first_funding,growth/secondary mix,2023-01-01,8280.0,INR Mn,INR,SRC00080,DERIVED,first funding event from FUNDING
+S0003,PhonePe,current_state,"active, IPO-bound",2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0004,Razorpay,first_funding,Series C,2019-06-18,6450.0,INR Mn,INR,SRC00093,DERIVED,first funding event from FUNDING
+S0004,Razorpay,acquisition,made,2025-06-17,,,,SRC00098,DERIVED,acquisition event from ACQUISITIONS
+S0004,Razorpay,current_state,"active, IPO-bound",2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0005,Zepto,first_funding,seed,2021-07-01,,INR Mn,INR,SRC00110,DERIVED,first funding event from FUNDING
+S0005,Zepto,latest_revenue,FY26,FY26,22624.0,INR crore,,,DERIVED,latest FY revenue from FINANCIALS
+S0005,Zepto,legal_event,regulatory,2026-04-08,,,,SRC00109,DERIVED,legal/regulatory event from LEGAL_REGULATORY
+S0005,Zepto,current_state,"active, IPO-deferred to Feb-May 2027 window",2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0006,Neysa,founded,2023-01-01,2023-01-01,,,,,DERIVED,founded date from STARTUPS
+S0006,Neysa,first_funding,Seed,2024-04-10,1674.0,INR Mn,INR,SRC00117,DERIVED,first funding event from FUNDING
+S0006,Neysa,latest_revenue,FY27 (PROJECTED),FY27 (PROJECTED),3.0,INR crore,,,DERIVED,latest FY revenue from FINANCIALS
+S0006,Neysa,current_state,Active,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0007,Amagi,founded,2008,2008,,,,,DERIVED,founded date from STARTUPS
+S0007,Amagi,first_funding,Series F-II,2022-11-01,7850.0,INR Mn,INR,SRC00136,DERIVED,first funding event from FUNDING
+S0007,Amagi,latest_revenue,FY26,FY26,1506.0,INR crore,,,DERIVED,latest FY revenue from FINANCIALS
+S0007,Amagi,current_state,operating,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0008,CRED,founded,2018,2018,,,,,DERIVED,founded date from STARTUPS
+S0008,CRED,first_funding,Series E (reported Oct 2021),2021-10-01,18699.5,INR Mn,INR,SRC00145,DERIVED,first funding event from FUNDING
+S0008,CRED,current_state,operating,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0009,Darwinbox,founded,2015,2015,,,,,DERIVED,founded date from STARTUPS
+S0009,Darwinbox,first_funding,Series D,2022-01-25,5652.0,INR Mn,INR,SRC00162,DERIVED,first funding event from FUNDING
+S0009,Darwinbox,latest_revenue,FY24,FY24,392.0,INR crore,,,DERIVED,latest FY revenue from FINANCIALS
+S0009,Darwinbox,current_state,operating,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0010,Emergent,founded,2024,2024,,,,,DERIVED,founded date from STARTUPS
+S0010,Emergent,first_funding,Seed,2024-01-01,585.9,INR Mn,INR,SRC00168,DERIVED,first funding event from FUNDING
+S0010,Emergent,current_state,operating,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0011,Groww,founded,2016,2016,,,,,DERIVED,founded date from STARTUPS
+S0011,Groww,first_funding,Series A,2019-01-23,533.2,INR Mn,INR,SRC00180,DERIVED,first funding event from FUNDING
+S0011,Groww,latest_revenue,FY25,FY25,4056.0,INR crore,,,DERIVED,latest FY revenue from FINANCIALS
+S0011,Groww,acquisition,made,2025,,,,SRC00188,DERIVED,acquisition event from ACQUISITIONS
+S0011,Groww,legal_event,regulatory,2026-01-14,,,,SRC00199,DERIVED,legal/regulatory event from LEGAL_REGULATORY
+S0011,Groww,current_state,Public,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0012,Gupshup,founded,2004,2004,,,,,DERIVED,founded date from STARTUPS
+S0012,Gupshup,first_funding,Series F,2021-04-08,7450.0,INR Mn,INR,SRC00230,DERIVED,first funding event from FUNDING
+S0012,Gupshup,acquisition,made,2022-04,,,,SRC00229,DERIVED,acquisition event from ACQUISITIONS
+S0012,Gupshup,current_state,Private,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0013,Krutrim,founded,2023-04-01,2023-04-01,,,,,DERIVED,founded date from STARTUPS
+S0013,Krutrim,first_funding,Debt,2023-10-01,1987.2,INR Mn,INR,SRC00242,DERIVED,first funding event from FUNDING
+S0013,Krutrim,latest_revenue,FY26,FY26,300.0,INR crore,,,DERIVED,latest FY revenue from FINANCIALS
+S0013,Krutrim,legal_event,complaint,2025-10-26,,,,SRC00261,DERIVED,legal/regulatory event from LEGAL_REGULATORY
+S0013,Krutrim,current_state,Private,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0014,Sarvam AI,founded,2023-07-01,2023-07-01,,,,,DERIVED,founded date from STARTUPS
+S0014,Sarvam AI,first_funding,Seed (disclosed within $41M announcement),2023-12-07,993.6,INR Mn,INR,SRC00273,DERIVED,first funding event from FUNDING
+S0014,Sarvam AI,current_state,Private,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0015,Slice,first_funding,Series B,2021-11-28,16390.0,INR Mn,INR,SRC00282,DERIVED,first funding event from FUNDING
+S0015,Slice,latest_revenue,FY27-Q1,FY27-Q1,413.8,INR crore,,,DERIVED,latest FY revenue from FINANCIALS
+S0015,Slice,legal_event,notice,2022,,,,,DERIVED,legal/regulatory event from LEGAL_REGULATORY
+S0015,Slice,current_state,active (bank),2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0016,upGrad,founded,2015,2015,,,,,DERIVED,founded date from STARTUPS
+S0016,upGrad,first_funding,Equity,2021-08-01,13782.5,INR Mn,INR,SRC00292,DERIVED,first funding event from FUNDING
+S0016,upGrad,latest_revenue,FY25,FY25,1569.3,INR crore,,,DERIVED,latest FY revenue from FINANCIALS
+S0016,upGrad,acquisition,made,2026-09-01,,,,SRC00288,DERIVED,acquisition event from ACQUISITIONS
+S0016,upGrad,legal_event,notice,Cleared July 2026,,,,SRC00324,DERIVED,legal/regulatory event from LEGAL_REGULATORY
+S0016,upGrad,current_state,Active,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0017,BrowserStack,founded,2011,2011,,,,,DERIVED,founded date from STARTUPS
+S0017,BrowserStack,first_funding,Series A,2018-01-01,4300.0,INR Mn,INR,SRC00347,DERIVED,first funding event from FUNDING
+S0017,BrowserStack,acquisition,made,2025-2026,,,,SRC00338,DERIVED,acquisition event from ACQUISITIONS
+S0017,BrowserStack,current_state,Active,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0018,Dhan,founded,2021,2021,,,,,DERIVED,founded date from STARTUPS
+S0018,Dhan,first_funding,Seed,2021-02-01,,INR Mn,INR,SRC00354,DERIVED,first funding event from FUNDING
+S0018,Dhan,latest_revenue,FY26,FY26,904.9,INR crore,,,DERIVED,latest FY revenue from FINANCIALS
+S0018,Dhan,acquisition,received,May 2026,,,,SRC00361,DERIVED,acquisition event from ACQUISITIONS
+S0018,Dhan,legal_event,regulatory,2026-03-31,,,,SRC00355,DERIVED,legal/regulatory event from LEGAL_REGULATORY
+S0018,Dhan,current_state,active,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0019,PharmEasy,founded,2015,2015,,,,,DERIVED,founded date from STARTUPS
+S0019,PharmEasy,latest_revenue,FY26,FY26,6869.0,INR crore,,,DERIVED,latest FY revenue from FINANCIALS
+S0019,PharmEasy,acquisition,made,2021,,,,SRC00376,DERIVED,acquisition event from ACQUISITIONS
+S0019,PharmEasy,legal_event,regulatory,2025-11-21,,,,SRC00384,DERIVED,legal/regulatory event from LEGAL_REGULATORY
+S0019,PharmEasy,current_state,active,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0020,Snapmint,founded,2017,2017,,,,,DERIVED,founded date from STARTUPS
+S0020,Snapmint,first_funding,debt+equity (unlettered),2022-10-17,1648.5,INR Mn,INR,SRC00410,DERIVED,first funding event from FUNDING
+S0020,Snapmint,current_state,active,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0021,Upstox,founded,2009,2009,,,,,DERIVED,founded date from STARTUPS
+S0021,Upstox,first_funding,Series B,2019-09-24,2150.0,INR Mn,INR,SRC00428,DERIVED,first funding event from FUNDING
+S0021,Upstox,latest_revenue,FY25,FY25,1208.0,INR crore,,,DERIVED,latest FY revenue from FINANCIALS
+S0021,Upstox,legal_event,regulatory,2024-ongoing,,,,SRC00431,DERIVED,legal/regulatory event from LEGAL_REGULATORY
+S0021,Upstox,current_state,active,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0022,Udaan,founded,2016,2016,,,,,DERIVED,founded date from STARTUPS
+S0022,Udaan,first_funding,Series G,2025-02-17,6427.5,INR Mn,INR,SRC00443,DERIVED,first funding event from FUNDING
+S0022,Udaan,legal_event,insolvency,2026-07,,,,,DERIVED,legal/regulatory event from LEGAL_REGULATORY
+S0022,Udaan,current_state,"active, pre-IPO; parent insolvency proceedings reported Jul 2026",2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0023,ACKO,founded,2016,2016,,,,,DERIVED,founded date from STARTUPS
+S0023,ACKO,first_funding,Seed,2017-05-22,2580.0,INR Mn,INR,SRC00460,DERIVED,first funding event from FUNDING
+S0023,ACKO,legal_event,notice,Dec 2024 request rejected; May 2025 revised plan rejected; FY26 compliance deadline,,,,SRC00459,DERIVED,legal/regulatory event from LEGAL_REGULATORY
+S0023,ACKO,current_state,operating,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0024,CoinSwitch Kuber,founded,2017,2017,,,,,DERIVED,founded date from STARTUPS
+S0024,CoinSwitch Kuber,first_funding,Series A,2021-01-13,1117.5,INR Mn,INR,SRC00483,DERIVED,first funding event from FUNDING
+S0024,CoinSwitch Kuber,legal_event,complaint,FY25,,,,,DERIVED,legal/regulatory event from LEGAL_REGULATORY
+S0024,CoinSwitch Kuber,current_state,active,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0025,Cult.fit (CureFit),founded,2016,2016,,,,,DERIVED,founded date from STARTUPS
+S0025,Cult.fit (CureFit),first_funding,Series A,2016-07-04,1290.0,INR Mn,INR,SRC00506,DERIVED,first funding event from FUNDING
+S0025,Cult.fit (CureFit),legal_event,allegation,2026-08,,,,,DERIVED,legal/regulatory event from LEGAL_REGULATORY
+S0025,Cult.fit (CureFit),current_state,"active, IPO-track",2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0026,Fireflies AI,first_funding,Seed,2019-10-29,,INR Mn,INR,SRC00518,DERIVED,first funding event from FUNDING
+S0026,Fireflies AI,latest_revenue,FY24,FY24,3.7,INR crore,,,DERIVED,latest FY revenue from FINANCIALS
+S0026,Fireflies AI,legal_event,allegation,filed Dec 2025; Mar 2026 cases,,,,SRC00517,DERIVED,legal/regulatory event from LEGAL_REGULATORY
+S0026,Fireflies AI,current_state,"Active, profitable",2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0027,Hasura,first_funding,Seed,2017-08-02,137.6,INR Mn,INR,SRC00533,DERIVED,first funding event from FUNDING
+S0027,Hasura,current_state,Active,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0028,Icertis,first_funding,Series E,2019-07-17,9890.0,INR Mn,INR,SRC00547,DERIVED,first funding event from FUNDING
+S0028,Icertis,acquisition,made,2025-11-19,,,,SRC00550,DERIVED,acquisition event from ACQUISITIONS
+S0028,Icertis,current_state,Active,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0029,LeadSquared,first_funding,Seed,2013-04-26,,INR Mn,INR,SRC00572,DERIVED,first funding event from FUNDING
+S0029,LeadSquared,latest_revenue,FY25,FY25,366.3,INR crore,,,DERIVED,latest FY revenue from FINANCIALS
+S0029,LeadSquared,current_state,"Active, loss-making, narrowing losses",2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0030,MoEngage,founded,2014,2014,,,,,DERIVED,founded date from STARTUPS
+S0030,MoEngage,first_funding,Series E,2022-06-01,6044.5,INR Mn,INR,SRC00581,DERIVED,first funding event from FUNDING
+S0030,MoEngage,current_state,active,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0031,Moneyview,founded,2014,2014,,,,,DERIVED,founded date from STARTUPS
+S0031,Moneyview,first_funding,Series E,2022-12-26,5887.5,INR Mn,INR,SRC00589,DERIVED,first funding event from FUNDING
+S0031,Moneyview,latest_revenue,FY25,FY25,2339.1,INR crore,,,DERIVED,latest FY revenue from FINANCIALS
+S0031,Moneyview,acquisition,made,2024-09-12,,,,SRC00594,DERIVED,acquisition event from ACQUISITIONS
+S0031,Moneyview,current_state,active,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0032,Mu Sigma,founded,2004,2004,,,,,DERIVED,founded date from STARTUPS
+S0032,Mu Sigma,first_funding,Series A / growth,2008-09-25,2580.0,INR Mn,INR,SRC00598,DERIVED,first funding event from FUNDING
+S0032,Mu Sigma,latest_revenue,FY25,FY25,500.0,INR crore,,,DERIVED,latest FY revenue from FINANCIALS
+S0032,Mu Sigma,legal_event,litigation,2016-03-10,,,,SRC00598,DERIVED,legal/regulatory event from LEGAL_REGULATORY
+S0032,Mu Sigma,current_state,active,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0033,Netradyne,founded,2015,2015,,,,,DERIVED,founded date from STARTUPS
+S0033,Netradyne,first_funding,Series A,2016-07-15,1558.32,INR Mn,INR,SRC00607,DERIVED,first funding event from FUNDING
+S0033,Netradyne,acquisition,made,2026,,,,SRC00610,DERIVED,acquisition event from ACQUISITIONS
+S0033,Netradyne,current_state,active,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0034,Postman,founded,2014,2014,,,,,DERIVED,founded date from STARTUPS
+S0034,Postman,first_funding,Seed,2014-10-31,84.02,INR Mn,INR,SRC00615,DERIVED,first funding event from FUNDING
+S0034,Postman,latest_revenue,FY24,FY24,185.7,INR crore,,,DERIVED,latest FY revenue from FINANCIALS
+S0034,Postman,current_state,active,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0035,Zeta,founded,2015,2015,,,,,DERIVED,founded date from STARTUPS
+S0035,Zeta,first_funding,Series C,2019-07-23,,INR Mn,INR,SRC00638,DERIVED,first funding event from FUNDING
+S0035,Zeta,latest_revenue,FY24,FY24,893.12,INR crore,,,DERIVED,latest FY revenue from FINANCIALS
+S0035,Zeta,legal_event,regulatory,2020-12,,,,SRC00628,DERIVED,legal/regulatory event from LEGAL_REGULATORY
+S0035,Zeta,current_state,active,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0036,Flipkart,founded,2007,2007,,,,,DERIVED,founded date from STARTUPS
+S0036,Flipkart,first_funding,Acquisition (majority stake),2018-05-09,1376000.0,INR Mn,INR,SRC00651,DERIVED,first funding event from FUNDING
+S0036,Flipkart,latest_revenue,FY25,FY25,20433.9,INR crore,,,DERIVED,latest FY revenue from FINANCIALS
+S0036,Flipkart,legal_event,investigation,2020-01-13,,,,SRC00652,DERIVED,legal/regulatory event from LEGAL_REGULATORY
+S0036,Flipkart,current_state,active,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0037,Porter,founded,2014,2014,,,,,DERIVED,founded date from STARTUPS
+S0037,Porter,first_funding,Seed,2015-02-20,41.37,INR Mn,INR,SRC00662,DERIVED,first funding event from FUNDING
+S0037,Porter,latest_revenue,FY25,FY25,4306.2,INR crore,,,DERIVED,latest FY revenue from FINANCIALS
+S0037,Porter,current_state,active,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0038,Unacademy,founded,2015,2015,,,,,DERIVED,founded date from STARTUPS
+S0038,Unacademy,first_funding,Series H,2021-08-01,32780.0,INR Mn,INR,SRC00288,DERIVED,first funding event from FUNDING
+S0038,Unacademy,latest_revenue,FY25,FY25,826.3,INR crore,,,DERIVED,latest FY revenue from FINANCIALS
+S0038,Unacademy,legal_event,investigation,2026-07-07,,,,SRC00685,DERIVED,legal/regulatory event from LEGAL_REGULATORY
+S0038,Unacademy,current_state,acquired (Sep 2026),2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0039,Vedantu,founded,2014,2014,,,,,DERIVED,founded date from STARTUPS
+S0039,Vedantu,first_funding,Series F,2025-09-26,,INR Mn,INR,SRC00699,DERIVED,first funding event from FUNDING
+S0039,Vedantu,latest_revenue,FY25,FY25,227.0,INR crore,,,DERIVED,latest FY revenue from FINANCIALS
+S0039,Vedantu,current_state,active,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0040,Zetwerk,founded,2018,2018,,,,,DERIVED,founded date from STARTUPS
+S0040,Zetwerk,first_funding,Series E,2021-08-20,11175.0,INR Mn,INR,SRC00723,DERIVED,first funding event from FUNDING
+S0040,Zetwerk,latest_revenue,FY26,FY26,15913.0,INR crore,,,DERIVED,latest FY revenue from FINANCIALS
+S0040,Zetwerk,legal_event,litigation,2026-07-22,,,,SRC00725,DERIVED,legal/regulatory event from LEGAL_REGULATORY
+S0040,Zetwerk,current_state,active,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0041,Dream11 (Dream Sports),founded,2008,2008,,,,,DERIVED,founded date from STARTUPS
+S0041,Dream11 (Dream Sports),first_funding,Series A,2014,,INR Mn,INR,SRC00747,DERIVED,first funding event from FUNDING
+S0041,Dream11 (Dream Sports),legal_event,ruling,"Passed Lok Sabha Aug 20, Rajya Sabha Aug 21, 2025",,,,SRC00738,DERIVED,legal/regulatory event from LEGAL_REGULATORY
+S0041,Dream11 (Dream Sports),current_state,operating-pivoting (RMG shut Aug 2025; free-to-play + non-RMG pivot),2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0042,InMobi,founded,2007,2007,,,,,DERIVED,founded date from STARTUPS
+S0042,InMobi,first_funding,"Equity (early backer; ~$200-220M invested, per ET Dec 2025)",2011,,INR Mn,INR,SRC00752,DERIVED,first funding event from FUNDING
+S0042,InMobi,latest_revenue,FY25,FY25,470.9,INR crore,,,DERIVED,latest FY revenue from FINANCIALS
+S0042,InMobi,acquisition,made,,,,,SRC00759,DERIVED,acquisition event from ACQUISITIONS
+S0042,InMobi,legal_event,regulatory,2024-07,,,,SRC00760,DERIVED,legal/regulatory event from LEGAL_REGULATORY
+S0042,InMobi,current_state,operating,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0043,Nykaa,founded,2012-04-01,2012-04-01,,,,,DERIVED,founded date from STARTUPS
+S0043,Nykaa,first_funding,Primary (unicorn round),2019-03-01,,INR Mn,INR,SRC00777,DERIVED,first funding event from FUNDING
+S0043,Nykaa,latest_revenue,Q1 FY27,Q1 FY27,2782.0,INR crore,,,DERIVED,latest FY revenue from FINANCIALS
+S0043,Nykaa,acquisition,made,2026-08-04,,,,SRC00781,DERIVED,acquisition event from ACQUISITIONS
+S0043,Nykaa,current_state,listed-operating,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0044,Rebel Foods,founded,2011,2011,,,,,DERIVED,founded date from STARTUPS
+S0044,Rebel Foods,first_funding,Series A,2017,,INR Mn,INR,SRC00795,DERIVED,first funding event from FUNDING
+S0044,Rebel Foods,latest_revenue,FY26,FY26,1957.0,INR crore,,,DERIVED,latest FY revenue from FINANCIALS
+S0044,Rebel Foods,acquisition,made,2022-04-07,,,,SRC00791,DERIVED,acquisition event from ACQUISITIONS
+S0044,Rebel Foods,legal_event,regulatory,2024-12,,,,SRC00785,DERIVED,legal/regulatory event from LEGAL_REGULATORY
+S0044,Rebel Foods,current_state,active,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0045,Drools,founded,2009,2009,,,,,DERIVED,founded date from STARTUPS
+S0045,Drools,first_funding,Private Equity minority,2023-06-20,4968.0,INR Mn,INR,SRC00797,DERIVED,first funding event from FUNDING
+S0045,Drools,latest_revenue,FY25,FY25,932.0,INR crore,,,DERIVED,latest FY revenue from FINANCIALS
+S0045,Drools,current_state,Active,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0046,Fractal Analytics,founded,2000,2000,,,,,DERIVED,founded date from STARTUPS
+S0046,Fractal Analytics,first_funding,Series C,2016-05-10,8600.0,INR Mn,INR,SRC00824,DERIVED,first funding event from FUNDING
+S0046,Fractal Analytics,acquisition,made,2018-03,,,,SRC00823,DERIVED,acquisition event from ACQUISITIONS
+S0046,Fractal Analytics,current_state,public,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0047,Jumbotail,founded,2015-11-04,2015-11-04,,,,,DERIVED,founded date from STARTUPS
+S0047,Jumbotail,first_funding,Seed,2015-12-16,169.42,INR Mn,INR,SRC00837,DERIVED,first funding event from FUNDING
+S0047,Jumbotail,latest_revenue,FY25,FY25,725.1,INR crore,,,DERIVED,latest FY revenue from FINANCIALS
+S0047,Jumbotail,legal_event,acquisition,2025-05-27,,,,SRC00849,DERIVED,legal/regulatory event from LEGAL_REGULATORY
+S0047,Jumbotail,current_state,Active,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0048,Livspace,founded,2014,2014,,,,,DERIVED,founded date from STARTUPS
+S0048,Livspace,first_funding,Series A,2014-12-17,395.6,INR Mn,INR,SRC00867,DERIVED,first funding event from FUNDING
+S0048,Livspace,latest_revenue,FY23,FY23,1148.0,INR crore,,,DERIVED,latest FY revenue from FINANCIALS
+S0048,Livspace,legal_event,regulatory,2024-09-18,,,,SRC00884,DERIVED,legal/regulatory event from LEGAL_REGULATORY
+S0048,Livspace,current_state,Active,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0049,Meesho,founded,2015-12-01,2015-12-01,,,,,DERIVED,founded date from STARTUPS
+S0049,Meesho,first_funding,Seed,2015,25.8,INR Mn,INR,SRC00894,DERIVED,first funding event from FUNDING
+S0049,Meesho,latest_revenue,FY25,FY25,9387.5,INR crore,,,DERIVED,latest FY revenue from FINANCIALS
+S0049,Meesho,legal_event,investigation,2026-05,,,,SRC00905,DERIVED,legal/regulatory event from LEGAL_REGULATORY
+S0049,Meesho,current_state,Active / Listed,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0050,Ola (ANI Technologies),founded,2010-12-03,2010-12-03,,,,,DERIVED,founded date from STARTUPS
+S0050,Ola (ANI Technologies),first_funding,Series F,2015-12-11,,INR Mn,INR,SRC00494,DERIVED,first funding event from FUNDING
+S0050,Ola (ANI Technologies),current_state,Active,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0051,Rapido,founded,2015,2015,,,,,DERIVED,founded date from STARTUPS
+S0051,Rapido,first_funding,Seed,2016,,INR Mn,INR,SRC00938,DERIVED,first funding event from FUNDING
+S0051,Rapido,legal_event,regulatory,2026-08-14,,,,SRC00935,DERIVED,legal/regulatory event from LEGAL_REGULATORY
+S0051,Rapido,current_state,Active,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0052,ShareChat,founded,2015,2015,,,,,DERIVED,founded date from STARTUPS
+S0052,ShareChat,first_funding,Seed,2015-10-03,60.2,INR Mn,INR,SRC00980,DERIVED,first funding event from FUNDING
+S0052,ShareChat,legal_event,regulatory,2025,,,,SRC00987,DERIVED,legal/regulatory event from LEGAL_REGULATORY
+S0052,ShareChat,current_state,active,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0053,Apna,founded,2019,2019,,,,,DERIVED,founded date from STARTUPS
+S0053,Apna,first_funding,Seed,2019-07-01,258.0,INR Mn,INR,SRC00998,DERIVED,first funding event from FUNDING
+S0053,Apna,legal_event,regulatory,2025-02-19,,,,SRC00998,DERIVED,legal/regulatory event from LEGAL_REGULATORY
+S0053,Apna,current_state,active,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0054,BharatPe,founded,2018-03-01,2018-03-01,,,,,DERIVED,founded date from STARTUPS
+S0054,BharatPe,first_funding,Series C,2020-02-01,5550.0,INR Mn,INR,SRC01019,DERIVED,first funding event from FUNDING
+S0054,BharatPe,legal_event,settlement,2022-2024; settled 2024-09-30,,,,SRC01014,DERIVED,legal/regulatory event from LEGAL_REGULATORY
+S0054,BharatPe,current_state,active,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0055,Euler Motors,founded,2018,2018,,,,,DERIVED,founded date from STARTUPS
+S0055,Euler Motors,first_funding,Series C,2022-10-03,4710.0,INR Mn,INR,SRC01031,DERIVED,first funding event from FUNDING
+S0055,Euler Motors,latest_revenue,FY25,FY25,206.0,INR crore,,,DERIVED,latest FY revenue from FINANCIALS
+S0055,Euler Motors,legal_event,regulatory,FY24-FY25,,,,SRC01026,DERIVED,legal/regulatory event from LEGAL_REGULATORY
+S0055,Euler Motors,current_state,active,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0057,Innovaccer,founded,2014,2014,,,,,DERIVED,founded date from STARTUPS
+S0057,Innovaccer,first_funding,Series E,2021-12-14,11175.0,INR Mn,INR,SRC01054,DERIVED,first funding event from FUNDING
+S0057,Innovaccer,current_state,active,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0058,Pixxel,first_funding,Seed,2021-03-17,543.85,INR Mn,INR,SRC01066,DERIVED,first funding event from FUNDING
+S0058,Pixxel,current_state,operating,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0059,Ecofy Finance (Ecofy),founded,2022,2022,,,,,DERIVED,founded date from STARTUPS
+S0059,Ecofy Finance (Ecofy),first_funding,Series B,2024-01-12,900.0,INR Mn,INR,SRC01092,DERIVED,first funding event from FUNDING
+S0059,Ecofy Finance (Ecofy),acquisition,made,2022-12-13,,,,SRC01100,DERIVED,acquisition event from ACQUISITIONS
+S0059,Ecofy Finance (Ecofy),current_state,active,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0060,Miko Technologies,founded,2015,2015,,,,,DERIVED,founded date from STARTUPS
+S0060,Miko Technologies,first_funding,Series B,2021-08-11,2160.5,INR Mn,INR,SRC01113,DERIVED,first funding event from FUNDING
+S0060,Miko Technologies,current_state,active,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0061,Nua,founded,2017,2017,,,,,DERIVED,founded date from STARTUPS
+S0061,Nua,first_funding,Series A,2019,344.0,INR Mn,INR,SRC01118,DERIVED,first funding event from FUNDING
+S0061,Nua,latest_revenue,FY25,FY25,96.1,INR crore,,,DERIVED,latest FY revenue from FINANCIALS
+S0061,Nua,current_state,active,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0062,Truemeds,founded,2019,2019,,,,,DERIVED,founded date from STARTUPS
+S0062,Truemeds,first_funding,Seed,2020-05-16,36.84,INR Mn,INR,SRC01155,DERIVED,first funding event from FUNDING
+S0062,Truemeds,legal_event,licence,2024-11-05,,,,SRC01149,DERIVED,legal/regulatory event from LEGAL_REGULATORY
+S0062,Truemeds,current_state,active,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0063,Weaver Services,founded,2024-04-01,2024-04-01,,,,,DERIVED,founded date from STARTUPS
+S0063,Weaver Services,first_funding,Growth equity,2025-08-19,14569.0,INR Mn,INR,SRC01163,DERIVED,first funding event from FUNDING
+S0063,Weaver Services,latest_revenue,FY25,FY25,3886.0,INR crore,,,DERIVED,latest FY revenue from FINANCIALS
+S0063,Weaver Services,acquisition,made,2026-03-18,,,,SRC01171,DERIVED,acquisition event from ACQUISITIONS
+S0063,Weaver Services,legal_event,regulatory,2025-08,,,,SRC01177,DERIVED,legal/regulatory event from LEGAL_REGULATORY
+S0063,Weaver Services,current_state,active,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0064,NoBroker,founded,2014,2014,,,,,DERIVED,founded date from STARTUPS
+S0064,NoBroker,first_funding,Series C,2019-06-22,4386.0,INR Mn,INR,SRC01193,DERIVED,first funding event from FUNDING
+S0064,NoBroker,legal_event,licence,Unknown,,,,SRC01191,DERIVED,legal/regulatory event from LEGAL_REGULATORY
+S0064,NoBroker,current_state,active,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0065,Skyroot Aerospace,founded,2018,2018,,,,,DERIVED,founded date from STARTUPS
+S0065,Skyroot Aerospace,first_funding,Series B,2022-09-01,4003.5,INR Mn,INR,SRC01207,DERIVED,first funding event from FUNDING
+S0065,Skyroot Aerospace,current_state,active,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0066,Digantara,founded,2020,2020,,,,,DERIVED,founded date from STARTUPS
+S0066,Digantara,first_funding,Grant (prize money),2020-08-20,0.25,INR Mn,INR,SRC01215,DERIVED,first funding event from FUNDING
+S0066,Digantara,latest_revenue,FY25,FY25,4.7,INR crore,,,DERIVED,latest FY revenue from FINANCIALS
+S0066,Digantara,current_state,active,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0067,Games24x7,founded,2006,2006,,,,,DERIVED,founded date from STARTUPS
+S0067,Games24x7,first_funding,Seed,2006-06-01,,INR Mn,INR,SRC01240,DERIVED,first funding event from FUNDING
+S0067,Games24x7,latest_revenue,FY23,FY23,2023.0,INR crore,,,DERIVED,latest FY revenue from FINANCIALS
+S0067,Games24x7,legal_event,ruling,Passed Aug 2025; in effect Sept 2025,,,,SRC01243,DERIVED,legal/regulatory event from LEGAL_REGULATORY
+S0067,Games24x7,current_state,active (distressed pivot — RMG banned Aug 2025),2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0068,Infra.Market,founded,2016,2016,,,,,DERIVED,founded date from STARTUPS
+S0068,Infra.Market,first_funding,Seed/Series A,2019,860.0,INR Mn,INR,SRC01259,DERIVED,first funding event from FUNDING
+S0068,Infra.Market,latest_revenue,FY26,FY26,20000.0,INR crore,,,DERIVED,latest FY revenue from FINANCIALS
+S0068,Infra.Market,acquisition,made,2023,,,,SRC01261,DERIVED,acquisition event from ACQUISITIONS
+S0068,Infra.Market,legal_event,regulatory,2026-01,,,,SRC01273,DERIVED,legal/regulatory event from LEGAL_REGULATORY
+S0068,Infra.Market,current_state,active private,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0070,Navi,founded,2018,2018,,,,,DERIVED,founded date from STARTUPS
+S0070,Navi,first_funding,Convertible Debt,2024-05-23,1507.62,INR Mn,INR,SRC01292,DERIVED,first funding event from FUNDING
+S0070,Navi,latest_revenue,FY26,FY26,3091.0,INR crore,,,DERIVED,latest FY revenue from FINANCIALS
+S0070,Navi,legal_event,penalty,2026-02-10,,,,SRC01287,DERIVED,legal/regulatory event from LEGAL_REGULATORY
+S0070,Navi,current_state,active,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0071,Ninjacart,founded,2015,2015,,,,,DERIVED,founded date from STARTUPS
+S0071,Ninjacart,first_funding,Series B,2018-12-12,3100.0,INR Mn,INR,SRC01317,DERIVED,first funding event from FUNDING
+S0071,Ninjacart,latest_revenue,FY25,FY25,1634.0,INR crore,,,DERIVED,latest FY revenue from FINANCIALS
+S0071,Ninjacart,legal_event,insolvency,,,,,SRC01312,DERIVED,legal/regulatory event from LEGAL_REGULATORY
+S0071,Ninjacart,current_state,active,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0072,Pine Labs,founded,1998,1998,,,,,DERIVED,founded date from STARTUPS
+S0072,Pine Labs,first_funding,Seed,2009-01-01,,INR Mn,INR,SRC01333,DERIVED,first funding event from FUNDING
+S0072,Pine Labs,latest_revenue,FY26,FY26,306754.0,INR crore,,,DERIVED,latest FY revenue from FINANCIALS
+S0072,Pine Labs,legal_event,regulatory,2026-03-23,,,,SRC01328,DERIVED,legal/regulatory event from LEGAL_REGULATORY
+S0072,Pine Labs,current_state,operating,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0073,River Mobility,founded,2021-03-01,2021-03-01,,,,,DERIVED,founded date from STARTUPS
+S0073,River Mobility,first_funding,Series A,2023-06-01,1242.0,INR Mn,INR,SRC01371,DERIVED,first funding event from FUNDING
+S0073,River Mobility,current_state,active,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0074,Rocketlane,founded,2020-04-01,2020-04-01,,,,,DERIVED,founded date from STARTUPS
+S0074,Rocketlane,first_funding,Series A,2022-01-19,1413.0,INR Mn,INR,SRC01381,DERIVED,first funding event from FUNDING
+S0074,Rocketlane,current_state,active,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0075,Ultrahuman,founded,2019-12-01,2019-12-01,,,,,DERIVED,founded date from STARTUPS
+S0075,Ultrahuman,first_funding,Seed,2019-12-11,,INR Mn,INR,SRC01408,DERIVED,first funding event from FUNDING
+S0075,Ultrahuman,latest_revenue,FY25,FY25,65.8,INR crore,,,DERIVED,latest FY revenue from FINANCIALS
+S0075,Ultrahuman,legal_event,regulatory,2026-03-24,,,,SRC01429,DERIVED,legal/regulatory event from LEGAL_REGULATORY
+S0075,Ultrahuman,current_state,active,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0076,Third Wave Coffee,founded,2016,2016,,,,,DERIVED,founded date from STARTUPS
+S0076,Third Wave Coffee,first_funding,Series A,2021,447.0,INR Mn,INR,SRC01440,DERIVED,first funding event from FUNDING
+S0076,Third Wave Coffee,latest_revenue,FY26,FY26,337.0,INR crore,,,DERIVED,latest FY revenue from FINANCIALS
+S0076,Third Wave Coffee,current_state,"ACTIVE — Rs 408 crore (~$43M) round led by WestBridge Capital announced Aug 2026; 240+ cafes, targeting 320 by FY-end",2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0077,Celcius Logistics,founded,2020,2020,,,,,DERIVED,founded date from STARTUPS
+S0077,Celcius Logistics,first_funding,Series B (equity + debt + secondary),2025-05-06,21425.0,INR Mn,INR,SRC01457,DERIVED,first funding event from FUNDING
+S0077,Celcius Logistics,latest_revenue,FY24,FY24,90.9,INR crore,,,DERIVED,latest FY revenue from FINANCIALS
+S0077,Celcius Logistics,current_state,active private,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0078,Square Yards,founded,2014,2014,,,,,DERIVED,founded date from STARTUPS
+S0078,Square Yards,first_funding,Private,2014,,INR Mn,INR,SRC01472,DERIVED,first funding event from FUNDING
+S0078,Square Yards,latest_revenue,FY26,FY26,2086.0,INR crore,,,DERIVED,latest FY revenue from FINANCIALS
+S0078,Square Yards,current_state,operating,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0079,Wint Wealth,founded,2020,2020,,,,,DERIVED,founded date from STARTUPS
+S0079,Wint Wealth,first_funding,Series A,2022-05-01,1334.5,INR Mn,INR,SRC01482,DERIVED,first funding event from FUNDING
+S0079,Wint Wealth,latest_revenue,FY23,FY23,9.66,INR crore,,,DERIVED,latest FY revenue from FINANCIALS
+S0079,Wint Wealth,legal_event,notice,2023 approval,,,,SRC01478,DERIVED,legal/regulatory event from LEGAL_REGULATORY
+S0079,Wint Wealth,current_state,active private,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0080,Airbound,founded,2023,2023,,,,,DERIVED,founded date from STARTUPS
+S0080,Airbound,first_funding,Seed,2025-10-14,741.31,INR Mn,INR,SRC01487,DERIVED,first funding event from FUNDING
+S0080,Airbound,current_state,ACTIVE — $37M Series A led by Greenoaks announced Aug 2026; Andhra Pradesh commercial deployment agreement,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0081,Ati Motors,founded,2017,2017,,,,,DERIVED,founded date from STARTUPS
+S0081,Ati Motors,first_funding,Series A,2023-07-21,902.52,INR Mn,INR,SRC01492,DERIVED,first funding event from FUNDING
+S0081,Ati Motors,latest_revenue,FY25,FY25,8.9,INR crore,,,DERIVED,latest FY revenue from FINANCIALS
+S0081,Ati Motors,current_state,"ACTIVE — $20M Series B Jan 2025 (NGP Capital + Walden Catalyst); expanding US/APAC, Detroit HQ expansion",2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0083,boAt,founded,2016,2016,,,,,DERIVED,founded date from STARTUPS
+S0083,boAt,first_funding,Series B,2021-01-05,7450.0,INR Mn,INR,SRC01506,DERIVED,first funding event from FUNDING
+S0083,boAt,latest_revenue,FY25,FY25,3070.0,INR crore,,,DERIVED,latest FY revenue from FINANCIALS
+S0083,boAt,current_state,operating,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0084,MobiKwik,founded,2008,2008,,,,,DERIVED,founded date from STARTUPS
+S0084,MobiKwik,first_funding,Series C,2016-05-01,4300.0,INR Mn,INR,SRC01518,DERIVED,first funding event from FUNDING
+S0084,MobiKwik,latest_revenue,FY26,FY26,1106.5,INR crore,,,DERIVED,latest FY revenue from FINANCIALS
+S0084,MobiKwik,current_state,operating,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0085,OfBusiness,founded,2015,2015,,,,,DERIVED,founded date from STARTUPS
+S0085,OfBusiness,first_funding,Series A,2015-09-26,369.8,INR Mn,INR,SRC01545,DERIVED,first funding event from FUNDING
+S0085,OfBusiness,acquisition,made,2025,,,,SRC01536,DERIVED,acquisition event from ACQUISITIONS
+S0085,OfBusiness,legal_event,regulatory,2026-04-22,,,,SRC01539,DERIVED,legal/regulatory event from LEGAL_REGULATORY
+S0085,OfBusiness,current_state,operating,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0086,Pristyn Care,founded,2018,2018,,,,,DERIVED,founded date from STARTUPS
+S0086,Pristyn Care,first_funding,Series A,2019-06-02,344.0,INR Mn,INR,SRC01574,DERIVED,first funding event from FUNDING
+S0086,Pristyn Care,acquisition,made,2022-06,,,,SRC01577,DERIVED,acquisition event from ACQUISITIONS
+S0086,Pristyn Care,current_state,operating,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0087,Swish,founded,2024,2024,,,,,DERIVED,founded date from STARTUPS
+S0087,Swish,first_funding,Seed,2024-11-19,167.4,INR Mn,INR,SRC01584,DERIVED,first funding event from FUNDING
+S0087,Swish,latest_revenue,FY26,FY26,490529.82,INR crore,,,DERIVED,latest FY revenue from FINANCIALS
+S0087,Swish,current_state,ACTIVE — $24M round led by Bertelsmann India Investments reported Sep 2026; $38M Series B announced Mar 2026 (company blog),2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0089,Moonrider,first_funding,seed,2025-01-07,188.54,INR Mn,INR,SRC01607,DERIVED,first funding event from FUNDING
+S0089,Moonrider,current_state,active,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0090,Toddle,founded,2019,2019,,,,,DERIVED,founded date from STARTUPS
+S0090,Toddle,first_funding,series-a,2023-01-10,1407.6,INR Mn,INR,SRC01613,DERIVED,first funding event from FUNDING
+S0090,Toddle,legal_event,regulatory,2025-07-10,,,,SRC01617,DERIVED,legal/regulatory event from LEGAL_REGULATORY
+S0090,Toddle,current_state,active,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0092,Akasa Air,founded,2021,2021,,,,,DERIVED,founded date from STARTUPS
+S0092,Akasa Air,first_funding,seed,2021-07-29,2607.5,INR Mn,INR,SRC01648,DERIVED,first funding event from FUNDING
+S0092,Akasa Air,latest_revenue,FY26,FY26,4636.0,INR crore,,,DERIVED,latest FY revenue from FINANCIALS
+S0092,Akasa Air,legal_event,ruling,2026-02,,,,SRC01641,DERIVED,legal/regulatory event from LEGAL_REGULATORY
+S0092,Akasa Air,current_state,active,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0093,EatClub (BOX8),founded,2012,2012,,,,,DERIVED,founded date from STARTUPS
+S0093,EatClub (BOX8),first_funding,Seed/Early,2015,,INR Mn,INR,SRC01677,DERIVED,first funding event from FUNDING
+S0093,EatClub (BOX8),latest_revenue,FY25,FY25,749.5,INR crore,,,DERIVED,latest FY revenue from FINANCIALS
+S0093,EatClub (BOX8),current_state,active,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0094,Eruditus,founded,2010,2010,,,,,DERIVED,founded date from STARTUPS
+S0094,Eruditus,first_funding,Stake acquisition,2017-04-03,,INR Mn,INR,SRC01702,DERIVED,first funding event from FUNDING
+S0094,Eruditus,latest_revenue,FY24,FY24,3733.0,INR crore,,,DERIVED,latest FY revenue from FINANCIALS
+S0094,Eruditus,acquisition,made,2021-05-20,,,,SRC01692,DERIVED,acquisition event from ACQUISITIONS
+S0094,Eruditus,current_state,active,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0095,Innovist,founded,2018,2018,,,,,DERIVED,founded date from STARTUPS
+S0095,Innovist,first_funding,Series A,2023-05-09,579.6,INR Mn,INR,SRC01724,DERIVED,first funding event from FUNDING
+S0095,Innovist,latest_revenue,FY25,FY25,301.4,INR crore,,,DERIVED,latest FY revenue from FINANCIALS
+S0095,Innovist,acquisition,received,2026-06-18,,,,SRC01728,DERIVED,acquisition event from ACQUISITIONS
+S0095,Innovist,current_state,active (acquired-but-operating),2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0096,Leap (LeapScholar),founded,2019,2019,,,,,DERIVED,founded date from STARTUPS
+S0096,Leap (LeapScholar),first_funding,Series A,2020-03-01,407.0,INR Mn,INR,SRC01748,DERIVED,first funding event from FUNDING
+S0096,Leap (LeapScholar),latest_revenue,FY24,FY24,202.6,INR crore,,,DERIVED,latest FY revenue from FINANCIALS
+S0096,Leap (LeapScholar),acquisition,made,2025-03-07,,,,SRC01743,DERIVED,acquisition event from ACQUISITIONS
+S0096,Leap (LeapScholar),current_state,active,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0097,Nazara Technologies,founded,1999,1999,,,,,DERIVED,founded date from STARTUPS
+S0097,Nazara Technologies,first_funding,Post-IPO,2021-10-06,3149.84,INR Mn,INR,SRC01760,DERIVED,first funding event from FUNDING
+S0097,Nazara Technologies,latest_revenue,FY25,FY25,1623.9,INR crore,,,DERIVED,latest FY revenue from FINANCIALS
+S0097,Nazara Technologies,acquisition,made,2026-03-18,,,,SRC01761,DERIVED,acquisition event from ACQUISITIONS
+S0097,Nazara Technologies,current_state,active (listed),2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0098,Neo (Neo Wealth),founded,2021,2021,,,,,DERIVED,founded date from STARTUPS
+S0098,Neo (Neo Wealth),first_funding,angel/seed,2021-12-15,2980.0,INR Mn,INR,SRC01770,DERIVED,first funding event from FUNDING
+S0098,Neo (Neo Wealth),legal_event,regulatory,UNKNOWN,,,,SRC01765,DERIVED,legal/regulatory event from LEGAL_REGULATORY
+S0098,Neo (Neo Wealth),current_state,active,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0099,Stellapps,founded,2011,2011,,,,,DERIVED,founded date from STARTUPS
+S0099,Stellapps,first_funding,Series B,2018-05-30,1204.0,INR Mn,INR,SRC01781,DERIVED,first funding event from FUNDING
+S0099,Stellapps,current_state,active,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0100,Purple Style Labs,founded,2015,2015,,,,,DERIVED,founded date from STARTUPS
+S0100,Purple Style Labs,first_funding,Pre-Series D,2022-06-01,785.0,INR Mn,INR,SRC01784,DERIVED,first funding event from FUNDING
+S0100,Purple Style Labs,latest_revenue,FY26,FY26,557.83,INR crore,,,DERIVED,latest FY revenue from FINANCIALS
+S0100,Purple Style Labs,legal_event,regulatory,2026-01-23,,,,SRC01788,DERIVED,legal/regulatory event from LEGAL_REGULATORY
+S0100,Purple Style Labs,current_state,active (listed),2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0101,Zypp Electric,founded,2017,2017,,,,,DERIVED,founded date from STARTUPS
+S0101,Zypp Electric,first_funding,Series B ($20M equity + $5M debt),2023-02-08,2070.0,INR Mn,INR,SRC01791,DERIVED,first funding event from FUNDING
+S0101,Zypp Electric,current_state,active,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0102,Business Nextgen Finance,founded,2025,2025,,,,,DERIVED,founded date from STARTUPS
+S0102,Business Nextgen Finance,first_funding,equity (first institutional),2026-09-03,2150.0,INR Mn,INR,SRC01800,DERIVED,first funding event from FUNDING
+S0102,Business Nextgen Finance,current_state,active,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0103,EtherealX (Ethereal Exploration),founded,2022,2022,,,,,DERIVED,founded date from STARTUPS
+S0103,EtherealX (Ethereal Exploration),first_funding,Seed,2024-08-06,418.5,INR Mn,INR,SRC01808,DERIVED,first funding event from FUNDING
+S0103,EtherealX (Ethereal Exploration),latest_revenue,FY25,FY25,1.1,INR crore,,,DERIVED,latest FY revenue from FINANCIALS
+S0103,EtherealX (Ethereal Exploration),current_state,active,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0104,QNu Labs,founded,2016,2016,,,,,DERIVED,founded date from STARTUPS
+S0104,QNu Labs,first_funding,Grant (prize money),2024-11-26,664.78,INR Mn,INR,SRC01817,DERIVED,first funding event from FUNDING
+S0104,QNu Labs,latest_revenue,FY25,FY25,4794409.82,INR crore,,,DERIVED,latest FY revenue from FINANCIALS
+S0104,QNu Labs,current_state,active,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0105,Ultraviolette,founded,2016,2016,,,,,DERIVED,founded date from STARTUPS
+S0105,Ultraviolette,first_funding,Series E (tranche),2025-08-01,1799.7,INR Mn,INR,SRC01829,DERIVED,first funding event from FUNDING
+S0105,Ultraviolette,latest_revenue,FY25,FY25,36.1,INR crore,,,DERIVED,latest FY revenue from FINANCIALS
+S0105,Ultraviolette,current_state,active,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0106,Curefoods,founded,2020,2020,,,,,DERIVED,founded date from STARTUPS
+S0106,Curefoods,first_funding,Seed,2020,,INR Mn,INR,SRC01853,DERIVED,first funding event from FUNDING
+S0106,Curefoods,latest_revenue,FY25,FY25,775.49,INR crore,,,DERIVED,latest FY revenue from FINANCIALS
+S0106,Curefoods,legal_event,notice,DRHP Jun 2025; SEBI approval ~Oct 2025,,,,SRC01837,DERIVED,legal/regulatory event from LEGAL_REGULATORY
+S0106,Curefoods,current_state,active,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0107,Dezerv,founded,2021-04-01,2021-04-01,,,,,DERIVED,founded date from STARTUPS
+S0107,Dezerv,first_funding,Series B,2024-07-09,265.0,INR Mn,INR,SRC01863,DERIVED,first funding event from FUNDING
+S0107,Dezerv,current_state,active,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0108,Edubuk,founded,2019,2019,,,,,DERIVED,founded date from STARTUPS
+S0108,Edubuk,first_funding,Incubator/Accelerator,2024-08-12,,INR Mn,INR,SRC01874,DERIVED,first funding event from FUNDING
+S0108,Edubuk,current_state,active,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0109,EloElo,founded,2020-07-01,2020-07-01,,,,,DERIVED,founded date from STARTUPS
+S0109,EloElo,first_funding,Seed,2021-07-27,156.45,INR Mn,INR,SRC01890,DERIVED,first funding event from FUNDING
+S0109,EloElo,latest_revenue,FY25,FY25,75.8,INR crore,,,DERIVED,latest FY revenue from FINANCIALS
+S0109,EloElo,current_state,active,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0110,GIVA,founded,2019,2019,,,,,DERIVED,founded date from STARTUPS
+S0110,GIVA,first_funding,Series B,2023-07-05,2000.0,INR Mn,INR,SRC01923,DERIVED,first funding event from FUNDING
+S0110,GIVA,latest_revenue,FY25,FY25,5230000000.0,INR crore,,,DERIVED,latest FY revenue from FINANCIALS
+S0110,GIVA,legal_event,licence,,,,,SRC01915,DERIVED,legal/regulatory event from LEGAL_REGULATORY
+S0110,GIVA,current_state,active,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0112,Moglix,founded,2015,2015,,,,,DERIVED,founded date from STARTUPS
+S0112,Moglix,first_funding,Series E,2021-05-17,8940.0,INR Mn,INR,SRC01945,DERIVED,first funding event from FUNDING
+S0112,Moglix,latest_revenue,FY25,FY25,692.8,INR crore,,,DERIVED,latest FY revenue from FINANCIALS
+S0112,Moglix,acquisition,made,October 2022,,,,SRC01957,DERIVED,acquisition event from ACQUISITIONS
+S0112,Moglix,current_state,Active / private,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0114,PhysicsWallah,founded,2020,2020,,,,,DERIVED,founded date from STARTUPS
+S0114,PhysicsWallah,first_funding,Series A,2022-06-07,7850.0,INR Mn,INR,SRC01973,DERIVED,first funding event from FUNDING
+S0114,PhysicsWallah,current_state,"Public (listed on NSE: PWL, BSE: 544609 on Nov 18, 2025)",2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0115,Popo Global,founded,2017,2017,,,,,DERIVED,founded date from STARTUPS
+S0115,Popo Global,first_funding,Strategic Investment (Significant Minority),2026-09-11,5320.0,INR Mn,INR,SRC01979,DERIVED,first funding event from FUNDING
+S0115,Popo Global,current_state,ACTIVE,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0116,Shadowfax,founded,2015,2015,,,,,DERIVED,founded date from STARTUPS
+S0116,Shadowfax,first_funding,Series A,2015,1591.0,INR Mn,INR,SRC01988,DERIVED,first funding event from FUNDING
+S0116,Shadowfax,current_state,"Public (listed on NSE: SHADOWFAX, BSE: 544685)",2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0117,Smallcase,first_funding,Series A,2019-02-12,,INR Mn,INR,SRC01997,DERIVED,first funding event from FUNDING
+S0117,Smallcase,current_state,ACTIVE,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0118,StockGro,first_funding,Seed,2020-06-24,74.0,INR Mn,INR,SRC02002,DERIVED,first funding event from FUNDING
+S0118,StockGro,latest_revenue,FY25,FY25,1255000000.0,INR crore,,,DERIVED,latest FY revenue from FINANCIALS
+S0118,StockGro,legal_event,regulatory,UNKNOWN,,,,SRC02006,DERIVED,legal/regulatory event from LEGAL_REGULATORY
+S0118,StockGro,current_state,ACTIVE,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0119,Yulu,first_funding,Series B,2022-09-11,6437.0,INR Mn,INR,SRC02018,DERIVED,first funding event from FUNDING
+S0119,Yulu,latest_revenue,FY24,FY24,122.8,INR crore,,,DERIVED,latest FY revenue from FINANCIALS
+S0119,Yulu,legal_event,complaint,N/A,,,,,DERIVED,legal/regulatory event from LEGAL_REGULATORY
+S0119,Yulu,current_state,ACTIVE,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0120,Zenoti,founded,2010,2010,,,,,DERIVED,founded date from STARTUPS
+S0120,Zenoti,first_funding,Series A,2015-07-27,516.0,INR Mn,INR,SRC02036,DERIVED,first funding event from FUNDING
+S0120,Zenoti,latest_revenue,FY25,FY25,336.0,INR crore,,,DERIVED,latest FY revenue from FINANCIALS
+S0120,Zenoti,current_state,ACTIVE,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0121,Exxat,founded,2011,2011,,,,,DERIVED,founded date from STARTUPS
+S0121,Exxat,first_funding,Series C,2026-01-14,3915.0,INR Mn,INR,SRC02061,DERIVED,first funding event from FUNDING
+S0121,Exxat,current_state,ACTIVE,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0122,Bellatrix Aerospace,founded,2015,2015,,,,,DERIVED,founded date from STARTUPS
+S0122,Bellatrix Aerospace,first_funding,Pre-Series B,2026-03-27,1740.0,INR Mn,INR,SRC02067,DERIVED,first funding event from FUNDING
+S0122,Bellatrix Aerospace,current_state,ACTIVE,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0123,Foxtale,founded,2021,2021,,,,,DERIVED,founded date from STARTUPS
+S0123,Foxtale,first_funding,Series C,2025-01-14,2571.0,INR Mn,INR,SRC02075,DERIVED,first funding event from FUNDING
+S0123,Foxtale,latest_revenue,FY25,FY25,206.0,INR crore,,,DERIVED,latest FY revenue from FINANCIALS
+S0123,Foxtale,current_state,ACTIVE,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0125,HerSpace Manufacturing,founded,2023,2023,,,,,DERIVED,founded date from STARTUPS
+S0125,HerSpace Manufacturing,first_funding,Seed/early,2025,857.0,INR Mn,INR,SRC02095,DERIVED,first funding event from FUNDING
+S0125,HerSpace Manufacturing,current_state,Active,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0126,Snitch,founded,2018,2018,,,,,DERIVED,founded date from STARTUPS
+S0126,Snitch,first_funding,Series A (Rs 110 Cr),2023-12-01,1084.68,INR Mn,INR,SRC02104,DERIVED,first funding event from FUNDING
+S0126,Snitch,current_state,Active,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0128,Rezolv,founded,2024-10-01,2024-10-01,,,,,DERIVED,founded date from STARTUPS
+S0128,Rezolv,first_funding,Seed,2025,299.95,INR Mn,INR,SRC02125,DERIVED,first funding event from FUNDING
+S0128,Rezolv,latest_revenue,FY25,FY25,10.0,INR crore,,,DERIVED,latest FY revenue from FINANCIALS
+S0128,Rezolv,current_state,Active,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0130,BGauss,founded,2020,2020,,,,,DERIVED,founded date from STARTUPS
+S0130,BGauss,first_funding,Series A,2022-04-01,52.0,INR Mn,INR,SRC02139,DERIVED,first funding event from FUNDING
+S0130,BGauss,latest_revenue,FY25,FY25,238.9,INR crore,,,DERIVED,latest FY revenue from FINANCIALS
+S0130,BGauss,current_state,active,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0131,Emo Energy,founded,2022,2022,,,,,DERIVED,founded date from STARTUPS
+S0131,Emo Energy,first_funding,Seed,2024-05-01,100.44,INR Mn,INR,SRC02159,DERIVED,first funding event from FUNDING
+S0131,Emo Energy,current_state,active,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0134,Chargebee,founded,2011,2011,,,,,DERIVED,founded date from STARTUPS
+S0134,Chargebee,first_funding,Angel,2012-09-30,31.82,INR Mn,INR,SRC02188,DERIVED,first funding event from FUNDING
+S0134,Chargebee,latest_revenue,FY25,FY25,372.9,INR crore,,,DERIVED,latest FY revenue from FINANCIALS
+S0134,Chargebee,legal_event,none,,,,,SRC02205,DERIVED,legal/regulatory event from LEGAL_REGULATORY
+S0134,Chargebee,current_state,Active,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0135,Delhivery,founded,2011,2011,,,,,DERIVED,founded date from STARTUPS
+S0135,Delhivery,first_funding,Series H,2021-05-30,20636.5,INR Mn,INR,SRC02219,DERIVED,first funding event from FUNDING
+S0135,Delhivery,latest_revenue,FY26,FY26,10508.0,INR crore,,,DERIVED,latest FY revenue from FINANCIALS
+S0135,Delhivery,legal_event,regulatory,2026-03-20,,,,SRC02217,DERIVED,legal/regulatory event from LEGAL_REGULATORY
+S0135,Delhivery,current_state,Active,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0137,Freshworks,founded,2010,2010,,,,,DERIVED,founded date from STARTUPS
+S0137,Freshworks,first_funding,Series H,2019-11-04,12900.0,INR Mn,INR,SRC02239,DERIVED,first funding event from FUNDING
+S0137,Freshworks,current_state,Active,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0138,OYO,founded,2013,2013,,,,,DERIVED,founded date from STARTUPS
+S0138,OYO,first_funding,Series G,2024-12-15,,INR Mn,INR,SRC02261,DERIVED,first funding event from FUNDING
+S0138,OYO,latest_revenue,FY25,FY25,6463.0,INR crore,,,DERIVED,latest FY revenue from FINANCIALS
+S0138,OYO,legal_event,notice,2025-04,,,,SRC02267,DERIVED,legal/regulatory event from LEGAL_REGULATORY
+S0138,OYO,current_state,Active,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0139,Policybazaar,founded,2008,2008,,,,,DERIVED,founded date from STARTUPS
+S0139,Policybazaar,first_funding,Series G,2021-02-24,,INR Mn,INR,SRC02271,DERIVED,first funding event from FUNDING
+S0139,Policybazaar,current_state,,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0140,Uniphore,founded,2008,2008,,,,,DERIVED,founded date from STARTUPS
+S0140,Uniphore,first_funding,Series D,2021-03-31,,INR Mn,INR,SRC02279,DERIVED,first funding event from FUNDING
+S0140,Uniphore,current_state,,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0141,Urban Company,founded,2014,2014,,,,,DERIVED,founded date from STARTUPS
+S0141,Urban Company,first_funding,Pre-IPO Secondary,2024-09-01,,INR Mn,INR,,DERIVED,first funding event from FUNDING
+S0141,Urban Company,current_state,,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0142,Zomato,founded,2008-07-10,2008-07-10,,,,,DERIVED,founded date from STARTUPS
+S0142,Zomato,first_funding,IPO,2021-07-01,,INR Mn,INR,SRC02292,DERIVED,first funding event from FUNDING
+S0142,Zomato,current_state,,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0143,Emversity,founded,2023,2023,,,,,DERIVED,founded date from STARTUPS
+S0143,Emversity,first_funding,Seed,2023-12-19,,INR Mn,INR,SRC02299,DERIVED,first funding event from FUNDING
+S0143,Emversity,latest_revenue,FY25,FY25,7.1,INR crore,,,DERIVED,latest FY revenue from FINANCIALS
+S0143,Emversity,current_state,,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0144,KGeN (Kratos Gamer Network),founded,2022,2022,,,,,DERIVED,founded date from STARTUPS
+S0144,KGeN (Kratos Gamer Network),first_funding,ICO,2022-03-08,,INR Mn,INR,SRC02309,DERIVED,first funding event from FUNDING
+S0144,KGeN (Kratos Gamer Network),current_state,Active,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0145,Seekho,founded,2020,2020,,,,,DERIVED,founded date from STARTUPS
+S0145,Seekho,first_funding,Seed,2023-03-01,248.4,INR Mn,INR,SRC02326,DERIVED,first funding event from FUNDING
+S0145,Seekho,latest_revenue,FY25,FY25,1435000000.0,INR crore,,,DERIVED,latest FY revenue from FINANCIALS
+S0145,Seekho,legal_event,complaint,2025-09-28,,,,SRC02153,DERIVED,legal/regulatory event from LEGAL_REGULATORY
+S0145,Seekho,current_state,Active,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0146,Avammune Therapeutics,founded,2020,2020,,,,,DERIVED,founded date from STARTUPS
+S0146,Avammune Therapeutics,first_funding,Seed,2022-07-15,,INR Mn,INR,SRC02355,DERIVED,first funding event from FUNDING
+S0146,Avammune Therapeutics,current_state,Active,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0147,HexaHealth,founded,2021-06-23,2021-06-23,,,,,DERIVED,founded date from STARTUPS
+S0147,HexaHealth,first_funding,Seed,2021-09-14,342.7,INR Mn,INR,SRC02365,DERIVED,first funding event from FUNDING
+S0147,HexaHealth,current_state,,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0148,Escape Plan (travel gear),founded,2025-05-01,2025-05-01,,,,,DERIVED,founded date from STARTUPS
+S0148,Escape Plan (travel gear),first_funding,Seed,2025-07-22,428.5,INR Mn,INR,SRC02368,DERIVED,first funding event from FUNDING
+S0148,Escape Plan (travel gear),latest_revenue,FY25,FY25,10.0,INR crore,,,DERIVED,latest FY revenue from FINANCIALS
+S0148,Escape Plan (travel gear),current_state,Active,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0149,Lendingkart,founded,2014-12-15,2014-12-15,,,,,DERIVED,founded date from STARTUPS
+S0149,Lendingkart,first_funding,Series E3,2025-03-27,2528.15,INR Mn,INR,SRC02386,DERIVED,first funding event from FUNDING
+S0149,Lendingkart,current_state,"Active (distressed, Fullerton majority takeover)",2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0150,PB Healthcare,founded,2025-01-01,2025-01-01,,,,,DERIVED,founded date from STARTUPS
+S0150,PB Healthcare,first_funding,Seed,2025-05-08,18682.6,INR Mn,INR,SRC02396,DERIVED,first funding event from FUNDING
+S0150,PB Healthcare,current_state,Active,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0151,Augnito,founded,2022-02-18,2022-02-18,,,,,DERIVED,founded date from STARTUPS
+S0151,Augnito,first_funding,Seed,2022-11-21,,INR Mn,INR,SRC02404,DERIVED,first funding event from FUNDING
+S0151,Augnito,current_state,Active,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0152,C2i Semiconductors,founded,2024-06-05,2024-06-05,,,,,DERIVED,founded date from STARTUPS
+S0152,C2i Semiconductors,first_funding,Series A (extension),2026-05-27,1452.9,INR Mn,INR,SRC02412,DERIVED,first funding event from FUNDING
+S0152,C2i Semiconductors,current_state,"Active (acquisition by Infineon announced Aug 24, 2026, expected to close Q3 2026)",2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0153,CynLr,founded,2019,2019,,,,,DERIVED,founded date from STARTUPS
+S0153,CynLr,first_funding,Seed,2019-08-06,66.65,INR Mn,INR,SRC02424,DERIVED,first funding event from FUNDING
+S0153,CynLr,latest_revenue,FY2024,FY2024,3100000.0,INR crore,,,DERIVED,latest FY revenue from FINANCIALS
+S0153,CynLr,legal_event,regulatory,2023-09-30,,,,SRC02425,DERIVED,legal/regulatory event from LEGAL_REGULATORY
+S0153,CynLr,current_state,Active,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0154,Skydo,first_funding,Pre-Series A,2024-08-13,418.5,INR Mn,INR,SRC02455,DERIVED,first funding event from FUNDING
+S0154,Skydo,latest_revenue,FY25,FY25,9.1,INR crore,,,DERIVED,latest FY revenue from FINANCIALS
+S0154,Skydo,legal_event,licence,May 2026,,,,SRC02450,DERIVED,legal/regulatory event from LEGAL_REGULATORY
+S0154,Skydo,current_state,ACTIVE,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0155,Smart Joules,current_state,,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0156,VerveSemi (Vervesemi),first_funding,Series A (INR equivalent),2026-02-18,90.5,INR Mn,INR,SRC02473,DERIVED,first funding event from FUNDING
+S0156,VerveSemi (Vervesemi),latest_revenue,FY25,FY25,16.4,INR crore,,,DERIVED,latest FY revenue from FINANCIALS
+S0156,VerveSemi (Vervesemi),current_state,Active,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0157,Butterfly Learnings,first_funding,Seed,2022-01-01,157.0,INR Mn,INR,SRC02488,DERIVED,first funding event from FUNDING
+S0157,Butterfly Learnings,latest_revenue,FY25,FY25,155000000.0,INR crore,,,DERIVED,latest FY revenue from FINANCIALS
+S0157,Butterfly Learnings,current_state,Active,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0158,Sugar Cosmetics,founded,2015,2015,,,,,DERIVED,founded date from STARTUPS
+S0158,Sugar Cosmetics,first_funding,Series D,2022,3925.0,INR Mn,INR,,DERIVED,first funding event from FUNDING
+S0158,Sugar Cosmetics,latest_revenue,FY26,FY26,3800000000.0,INR crore,,,DERIVED,latest FY revenue from FINANCIALS
+S0158,Sugar Cosmetics,legal_event,regulatory,2026-06-30,,,,SRC02497,DERIVED,legal/regulatory event from LEGAL_REGULATORY
+S0158,Sugar Cosmetics,current_state,active,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0159,Graas.ai (Graas),founded,2022,2022,,,,,DERIVED,founded date from STARTUPS
+S0159,Graas.ai (Graas),first_funding,Seed,2022-04-01,560.49,INR Mn,INR,SRC02522,DERIVED,first funding event from FUNDING
+S0159,Graas.ai (Graas),latest_revenue,FY25,FY25,31.0,INR crore,,,DERIVED,latest FY revenue from FINANCIALS
+S0159,Graas.ai (Graas),legal_event,,,,,,,DERIVED,legal/regulatory event from LEGAL_REGULATORY
+S0159,Graas.ai (Graas),current_state,Active,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0161,Agrani Labs,first_funding,Series A (ongoing/negotiating),2026-09-01,4350.0,INR Mn,INR,SRC02534,DERIVED,first funding event from FUNDING
+S0161,Agrani Labs,current_state,Active,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0162,Mokobara,founded,2019,2019,,,,,DERIVED,founded date from STARTUPS
+S0162,Mokobara,first_funding,Seed,2020-03-09,23.68,INR Mn,INR,SRC02553,DERIVED,first funding event from FUNDING
+S0162,Mokobara,latest_revenue,FY25,FY25,2400000000.0,INR crore,,,DERIVED,latest FY revenue from FINANCIALS
+S0162,Mokobara,legal_event,litigation,2025,,,,SRC02552,DERIVED,legal/regulatory event from LEGAL_REGULATORY
+S0162,Mokobara,current_state,Active,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0163,XpressBees,founded,2015,2015,,,,,DERIVED,founded date from STARTUPS
+S0163,XpressBees,first_funding,Series A,2015-11-05,1075.0,INR Mn,INR,SRC02565,DERIVED,first funding event from FUNDING
+S0163,XpressBees,latest_revenue,FY25,FY25,1000.0,INR crore,,,DERIVED,latest FY revenue from FINANCIALS
+S0163,XpressBees,legal_event,regulatory,2024-11-23,,,,SRC02567,DERIVED,legal/regulatory event from LEGAL_REGULATORY
+S0163,XpressBees,current_state,Active,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0164,Fundly.ai,founded,2021,2021,,,,,DERIVED,founded date from STARTUPS
+S0164,Fundly.ai,first_funding,seed,2023-05-08,248.4,INR Mn,INR,SRC02581,DERIVED,first funding event from FUNDING
+S0164,Fundly.ai,latest_revenue,FY25,FY25,30.1,INR crore,,,DERIVED,latest FY revenue from FINANCIALS
+S0164,Fundly.ai,legal_event,regulatory,,,,,SRC02574,DERIVED,legal/regulatory event from LEGAL_REGULATORY
+S0164,Fundly.ai,current_state,ACTIVE — raised $4M Sep 2026,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0165,Mitigata,founded,2023,2023,,,,,DERIVED,founded date from STARTUPS
+S0165,Mitigata,first_funding,Series A,2025-08-04,505.63,INR Mn,INR,SRC02591,DERIVED,first funding event from FUNDING
+S0165,Mitigata,latest_revenue,FY25,FY25,40.0,INR crore,,,DERIVED,latest FY revenue from FINANCIALS
+S0165,Mitigata,current_state,ACTIVE — $15M Series B Jun 2026,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0167,RentoMojo,founded,2014,2014,,,,,DERIVED,founded date from STARTUPS
+S0167,RentoMojo,first_funding,IPO,2026-03-30,1255.57,INR Mn,INR,SRC02605,DERIVED,first funding event from FUNDING
+S0167,RentoMojo,latest_revenue,FY26,FY26,3870.0,INR crore,,,DERIVED,latest FY revenue from FINANCIALS
+S0167,RentoMojo,current_state,"ACTIVE — Rs 1255.57cr IPO Sep 9-11 2026, 72.88x subscribed; allotment Sep 15",2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0169,Juniper Green Energy,founded,2018,2018,,,,,DERIVED,founded date from STARTUPS
+S0169,Juniper Green Energy,first_funding,Debt Financing,2018,,INR Mn,INR,SRC02622,DERIVED,first funding event from FUNDING
+S0169,Juniper Green Energy,current_state,,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0170,Serentica Renewables,founded,2022,2022,,,,,DERIVED,founded date from STARTUPS
+S0170,Serentica Renewables,first_funding,Equity/Debt,2022,,INR Mn,INR,SRC02623,DERIVED,first funding event from FUNDING
+S0170,Serentica Renewables,current_state,,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0171,Swiggy,founded,2014,2014,,,,,DERIVED,founded date from STARTUPS
+S0171,Swiggy,first_funding,Pre-IPO,2022,,INR Mn,INR,SRC02632,DERIVED,first funding event from FUNDING
+S0171,Swiggy,latest_revenue,FY25,FY25,15226.76,INR crore,,,DERIVED,latest FY revenue from FINANCIALS
+S0171,Swiggy,current_state,,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0172,Bonkers Corner,founded,2020,2020,,,,,DERIVED,founded date from STARTUPS
+S0172,Bonkers Corner,first_funding,Series A,2026-03-06,,INR Mn,INR,SRC02638,DERIVED,first funding event from FUNDING
+S0172,Bonkers Corner,current_state,,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0173,immunitoAI,founded,2020,2020,,,,,DERIVED,founded date from STARTUPS
+S0173,immunitoAI,first_funding,Series A,2025-11-25,,INR Mn,INR,SRC02644,DERIVED,first funding event from FUNDING
+S0173,immunitoAI,current_state,,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0174,BigEndian Semiconductors,founded,2024-03-16,2024-03-16,,,,,DERIVED,founded date from STARTUPS
+S0174,BigEndian Semiconductors,first_funding,Seed,2024-09-03,,INR Mn,INR,SRC02652,DERIVED,first funding event from FUNDING
+S0174,BigEndian Semiconductors,current_state,Active,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0175,Mojro Technologies,founded,2016-05-23,2016-05-23,,,,,DERIVED,founded date from STARTUPS
+S0175,Mojro Technologies,first_funding,Seed,2018-04-11,,INR Mn,INR,SRC02662,DERIVED,first funding event from FUNDING
+S0175,Mojro Technologies,latest_revenue,FY25,FY25,10.6,INR crore,,,DERIVED,latest FY revenue from FINANCIALS
+S0175,Mojro Technologies,current_state,Active,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0176,Neo (Neo Investment Value Advisors),founded,2021-09-10,2021-09-10,,,,,DERIVED,founded date from STARTUPS
+S0176,Neo (Neo Investment Value Advisors),first_funding,Series B,2026-03-25,,INR Mn,INR,SRC02666,DERIVED,first funding event from FUNDING
+S0176,Neo (Neo Investment Value Advisors),current_state,Active,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0177,Capillary Technologies,founded,2012-03-15,2012-03-15,,,,,DERIVED,founded date from STARTUPS
+S0177,Capillary Technologies,first_funding,IPO,2025-11-14,,INR Mn,INR,SRC02677,DERIVED,first funding event from FUNDING
+S0177,Capillary Technologies,current_state,Active (Publicly Listed),2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0178,PowerUp Money,founded,2024-03-04,2024-03-04,,,,,DERIVED,founded date from STARTUPS
+S0178,PowerUp Money,first_funding,Seed,2025-06-11,,INR Mn,INR,SRC02685,DERIVED,first funding event from FUNDING
+S0178,PowerUp Money,current_state,Active,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0179,Truva,founded,2023,2023,,,,,DERIVED,founded date from STARTUPS
+S0179,Truva,first_funding,seed,2024-08-12,,INR Mn,INR,SRC02692,DERIVED,first funding event from FUNDING
+S0179,Truva,current_state,active,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0180,Tsavorite,founded,2023,2023,,,,,DERIVED,founded date from STARTUPS
+S0180,Tsavorite,first_funding,pre_orders,2025-11-10,,INR Mn,INR,SRC02698,DERIVED,first funding event from FUNDING
+S0180,Tsavorite,current_state,active,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0181,Inox Clean Energy,founded,2017-11-20,2017-11-20,,,,,DERIVED,founded date from STARTUPS
+S0181,Inox Clean Energy,first_funding,private_equity,2026-01-01,31000.0,INR Mn,INR,SRC02700,DERIVED,first funding event from FUNDING
+S0181,Inox Clean Energy,current_state,active,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0182,Raphe mPhibr,founded,2017-07-21,2017-07-21,,,,,DERIVED,founded date from STARTUPS
+S0182,Raphe mPhibr,first_funding,seed,2022-08-01,,INR Mn,INR,SRC02710,DERIVED,first funding event from FUNDING
+S0182,Raphe mPhibr,current_state,active,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0183,Battery Smart,founded,2019-11-01,2019-11-01,,,,,DERIVED,founded date from STARTUPS
+S0183,Battery Smart,first_funding,seed,2020-06-01,,INR Mn,INR,SRC02716,DERIVED,first funding event from FUNDING
+S0183,Battery Smart,current_state,active,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0185,Elivaas,first_funding,Seed,2023-11-27,207.0,INR Mn,INR,SRC02734,DERIVED,first funding event from FUNDING
+S0185,Elivaas,latest_revenue,FY25,FY25,17.96,INR crore,,,DERIVED,latest FY revenue from FINANCIALS
+S0185,Elivaas,current_state,ACTIVE,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0189,General Autonomy,founded,2023-05-10,2023-05-10,,,,,DERIVED,founded date from STARTUPS
+S0189,General Autonomy,first_funding,Pre-Seed,2023-11-14,,INR Mn,INR,SRC02753,DERIVED,first funding event from FUNDING
+S0189,General Autonomy,current_state,Active,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0191,QOSMIC,founded,2025,2025,,,,,DERIVED,founded date from STARTUPS
+S0191,QOSMIC,first_funding,Seed,2026-06-24,,INR Mn,INR,SRC02760,DERIVED,first funding event from FUNDING
+S0191,QOSMIC,current_state,Active,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0192,Hachidori Robotics,founded,2019-08-16,2019-08-16,,,,,DERIVED,founded date from STARTUPS
+S0192,Hachidori Robotics,first_funding,Seed,2022-08-23,,INR Mn,INR,SRC02764,DERIVED,first funding event from FUNDING
+S0192,Hachidori Robotics,current_state,Active,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0193,TransBnk,founded,2022,2022,,,,,DERIVED,founded date from STARTUPS
+S0193,TransBnk,first_funding,Series B,2025-08-27,,INR Mn,INR,SRC02767,DERIVED,first funding event from FUNDING
+S0193,TransBnk,current_state,Active,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0194,Olee Space,founded,2023,2023,,,,,DERIVED,founded date from STARTUPS
+S0194,Olee Space,first_funding,seed,2025-08-13,257.1,INR Mn,INR,SRC02772,DERIVED,first funding event from FUNDING
+S0194,Olee Space,current_state,active,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0195,Atlys,founded,2020,2020,,,,,DERIVED,founded date from STARTUPS
+S0195,Atlys,first_funding,Series C,2026-03-16,3132.0,INR Mn,INR,SRC02778,DERIVED,first funding event from FUNDING
+S0195,Atlys,current_state,active,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0196,Goldi Solar,founded,2011-02-23,2011-02-23,,,,,DERIVED,founded date from STARTUPS
+S0196,Goldi Solar,first_funding,pre-IPO,2025-10-29,14220.0,INR Mn,INR,SRC02787,DERIVED,first funding event from FUNDING
+S0196,Goldi Solar,current_state,active,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0197,Kiwi (Gokiwi Tech),founded,2022,2022,,,,,DERIVED,founded date from STARTUPS
+S0197,Kiwi (Gokiwi Tech),first_funding,Seed,2022-12-30,694.52,INR Mn,INR,SRC02795,DERIVED,first funding event from FUNDING
+S0197,Kiwi (Gokiwi Tech),latest_revenue,FY25,FY25,9.6,INR crore,,,DERIVED,latest FY revenue from FINANCIALS
+S0197,Kiwi (Gokiwi Tech),legal_event,licence,2026-04-26,,,,SRC02795,DERIVED,legal/regulatory event from LEGAL_REGULATORY
+S0197,Kiwi (Gokiwi Tech),current_state,active,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0200,Aurm,founded,2013-06-27,2013-06-27,,,,,DERIVED,founded date from STARTUPS
+S0200,Aurm,latest_revenue,FY25,FY25,285.0,INR crore,,,DERIVED,latest FY revenue from FINANCIALS
+S0200,Aurm,current_state,,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0201,Syfe,founded,2019,2019,,,,,DERIVED,founded date from STARTUPS
+S0201,Syfe,current_state,,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0202,Prozo,founded,2014-07-10,2014-07-10,,,,,DERIVED,founded date from STARTUPS
+S0202,Prozo,first_funding,Total funding,2026-09-15,,INR Mn,INR,SRC02842,DERIVED,first funding event from FUNDING
+S0202,Prozo,latest_revenue,FY26,FY26,275.0,INR crore,,,DERIVED,latest FY revenue from FINANCIALS
+S0202,Prozo,current_state,,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0203,Jurisphere.ai,founded,2024,2024,,,,,DERIVED,founded date from STARTUPS
+S0203,Jurisphere.ai,current_state,active,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0207,Arivihan,founded,2024,2024,,,,,DERIVED,founded date from STARTUPS
+S0207,Arivihan,first_funding,Pre-Series A,2025-07-31,,INR Mn,INR,SRC02859,DERIVED,first funding event from FUNDING
+S0207,Arivihan,current_state,,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0208,Netrasemi (NetraSemi),founded,2020,2020,,,,,DERIVED,founded date from STARTUPS
+S0208,Netrasemi (NetraSemi),first_funding,Series A,2025-07-24,1070.0,INR Mn,INR,SRC02863,DERIVED,first funding event from FUNDING
+S0208,Netrasemi (NetraSemi),current_state,,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0209,Arohan Financial Services,founded,2006,2006,,,,,DERIVED,founded date from STARTUPS
+S0209,Arohan Financial Services,first_funding,Series A,2008-07-05,,INR Mn,INR,SRC02875,DERIVED,first funding event from FUNDING
+S0209,Arohan Financial Services,latest_revenue,FY25,FY25,1000.0,INR crore,,,DERIVED,latest FY revenue from FINANCIALS
+S0209,Arohan Financial Services,legal_event,regulatory_action,Oct 2024 - Jan 2025,,,,SRC02879,DERIVED,legal/regulatory event from LEGAL_REGULATORY
+S0209,Arohan Financial Services,current_state,ACTIVE - Pre-IPO,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0210,Ather Energy,founded,2013,2013,,,,,DERIVED,founded date from STARTUPS
+S0210,Ather Energy,first_funding,IPO,2025-04-28,,INR Mn,INR,SRC02894,DERIVED,first funding event from FUNDING
+S0210,Ather Energy,current_state,ACTIVE - Listed,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0211,Nexedge Capital,first_funding,Maiden Round,2026-08-25,1740.0,INR Mn,INR,SRC02904,DERIVED,first funding event from FUNDING
+S0211,Nexedge Capital,latest_revenue,FY25,FY25,994667.64,INR crore,,,DERIVED,latest FY revenue from FINANCIALS
+S0211,Nexedge Capital,legal_event,compliance,FY2024-2025,,,,SRC02905,DERIVED,legal/regulatory event from LEGAL_REGULATORY
+S0211,Nexedge Capital,current_state,ACTIVE,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0213,Navana.ai,founded,2018,2018,,,,,DERIVED,founded date from STARTUPS
+S0213,Navana.ai,first_funding,Pre-Series A,2025-07-15,7.0,INR Mn,INR,SRC02925,DERIVED,first funding event from FUNDING
+S0213,Navana.ai,latest_revenue,FY25,FY25,2130000.0,INR crore,,,DERIVED,latest FY revenue from FINANCIALS
+S0213,Navana.ai,current_state,ACTIVE,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0215,PumPumPum,founded,2018,2018,,,,,DERIVED,founded date from STARTUPS
+S0215,PumPumPum,first_funding,Seed,2020-07-01,21.66,INR Mn,INR,SRC02951,DERIVED,first funding event from FUNDING
+S0215,PumPumPum,current_state,ACTIVE,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0222,ANSCER Robotics,founded,2020,2020,,,,,DERIVED,founded date from STARTUPS
+S0222,ANSCER Robotics,first_funding,Seed,2025-02-13,,INR Mn,INR,SRC03002,DERIVED,first funding event from FUNDING
+S0222,ANSCER Robotics,current_state,,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0226,Comet,founded,2023,2023,,,,,DERIVED,founded date from STARTUPS
+S0226,Comet,first_funding,Series A,2024-07-01,42.3,INR Mn,INR,SRC03024,DERIVED,first funding event from FUNDING
+S0226,Comet,latest_revenue,FY25,FY25,29100000.0,INR crore,,,DERIVED,latest FY revenue from FINANCIALS
+S0226,Comet,current_state,ACTIVE,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0228,CleverTap,founded,2013,2013,,,,,DERIVED,founded date from STARTUPS
+S0228,CleverTap,first_funding,Seed,2013,,INR Mn,INR,SRC03039,DERIVED,first funding event from FUNDING
+S0228,CleverTap,latest_revenue,FY25,FY25,523.1,INR crore,,,DERIVED,latest FY revenue from FINANCIALS
+S0228,CleverTap,acquisition,made,2022,,,,SRC03034,DERIVED,acquisition event from ACQUISITIONS
+S0228,CleverTap,current_state,ACTIVE,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0237,Uolo,founded,2014,2014,,,,,DERIVED,founded date from STARTUPS
+S0237,Uolo,first_funding,Series A / debt mix,2022-12-07,1766.25,INR Mn,INR,SRC03099,DERIVED,first funding event from FUNDING
+S0237,Uolo,latest_revenue,FY20,FY20,88.12,INR crore,,,DERIVED,latest FY revenue from FINANCIALS
+S0237,Uolo,current_state,Active; private edtech,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0238,AgroStar,founded,2013,2013,,,,,DERIVED,founded date from STARTUPS
+S0238,AgroStar,first_funding,Seed,2013-04-04,63.12,INR Mn,INR,SRC03122,DERIVED,first funding event from FUNDING
+S0238,AgroStar,latest_revenue,FY25,FY25,864.0,INR crore,,,DERIVED,latest FY revenue from FINANCIALS
+S0238,AgroStar,legal_event,licence,2008-10-20,,,,SRC03128,DERIVED,legal/regulatory event from LEGAL_REGULATORY
+S0238,AgroStar,current_state,Active; private agritech,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0239,30 Sundays,founded,2024,2024,,,,,DERIVED,founded date from STARTUPS
+S0239,30 Sundays,first_funding,pre-seed,2024-11-08,64.45,INR Mn,INR,SRC03138,DERIVED,first funding event from FUNDING
+S0239,30 Sundays,current_state,active,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0241,Arya.ag (Arya),founded,2013,2013,,,,,DERIVED,founded date from STARTUPS
+S0241,Arya.ag (Arya),first_funding,Pre-Series B,2020-03-01,444.0,INR Mn,INR,SRC03157,DERIVED,first funding event from FUNDING
+S0241,Arya.ag (Arya),latest_revenue,FY25,FY25,447.0,INR crore,,,DERIVED,latest FY revenue from FINANCIALS
+S0241,Arya.ag (Arya),legal_event,insolvency,2026-09-10,,,,SRC03152,DERIVED,legal/regulatory event from LEGAL_REGULATORY
+S0241,Arya.ag (Arya),current_state,active,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0242,Hubilo,first_funding,Series B,2021-10-11,9312.5,INR Mn,INR,SRC03169,DERIVED,first funding event from FUNDING
+S0242,Hubilo,latest_revenue,FY25,FY25,10.0,INR crore,,,DERIVED,latest FY revenue from FINANCIALS
+S0242,Hubilo,acquisition,received,2025-09-16,,,,SRC03168,DERIVED,acquisition event from ACQUISITIONS
+S0242,Hubilo,current_state,active; acquired by Brandlive on 2025-09-16,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0246,Vecton AI,first_funding,pre-seed,2026-08-11,6.0,INR Mn,INR,SRC03183,DERIVED,first funding event from FUNDING
+S0246,Vecton AI,latest_revenue,FY25,FY25,100000.0,INR crore,,,DERIVED,latest FY revenue from FINANCIALS
+S0246,Vecton AI,current_state,ACTIVE,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0248,Ammunic Systems,first_funding,accelerator/incubator,2024,,INR Mn,INR,SRC03206,DERIVED,first funding event from FUNDING
+S0248,Ammunic Systems,latest_revenue,FY25,FY25,100.0,INR crore,,,DERIVED,latest FY revenue from FINANCIALS
+S0248,Ammunic Systems,current_state,ACTIVE,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0255,Niyo,first_funding,Seed,2016-01-20,12.9,INR Mn,INR,SRC03229,DERIVED,first funding event from FUNDING
+S0255,Niyo,latest_revenue,FY25,FY25,123.4,INR crore,,,DERIVED,latest FY revenue from FINANCIALS
+S0255,Niyo,legal_event,licence,2026-08-05,,,,SRC03235,DERIVED,legal/regulatory event from LEGAL_REGULATORY
+S0255,Niyo,current_state,"ACTIVE — agreed to acquire Capital India Finance RemitX forex business for Rs 11.4 cr, Sep 2026",2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0256,SatSure,first_funding,Seed,2019-02-11,,INR Mn,INR,SRC03265,DERIVED,first funding event from FUNDING
+S0256,SatSure,latest_revenue,FY25,FY25,35.0,INR crore,,,DERIVED,latest FY revenue from FINANCIALS
+S0256,SatSure,current_state,"ACTIVE — IN-SPACe Technology Adoption Fund selectee, 2026",2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0258,VerSe Innovation,first_funding,Series F,2019-07-01,2150.0,INR Mn,INR,SRC03301,DERIVED,first funding event from FUNDING
+S0258,VerSe Innovation,latest_revenue,FY25,FY25,2071.0,INR crore,,,DERIVED,latest FY revenue from FINANCIALS
+S0258,VerSe Innovation,legal_event,allegation,2025-05-30,,,,,DERIVED,legal/regulatory event from LEGAL_REGULATORY
+S0258,VerSe Innovation,current_state,ACTIVE — operating; 350 layoffs May 2025 (AI automation/profitability); Builder.ai round-tripping allegation overhang,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0278,Tonbo Imaging,first_funding,Seed,2011-10-16,43.0,INR Mn,INR,SRC03385,DERIVED,first funding event from FUNDING
+S0278,Tonbo Imaging,latest_revenue,FY26,FY26,367.9,INR crore,,,DERIVED,latest FY revenue from FINANCIALS
+S0278,Tonbo Imaging,legal_event,regulatory,2026-07-06,,,,SRC03380,DERIVED,legal/regulatory event from LEGAL_REGULATORY
+S0278,Tonbo Imaging,current_state,Active — DRHP filed with SEBI Dec 2025 for IPO,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0280,Yuma Energy,founded,2022,2022,,,,,DERIVED,founded date from STARTUPS
+S0280,Yuma Energy,first_funding,Acquisition,2026-09-01,,INR Mn,INR,SRC01075,DERIVED,first funding event from FUNDING
+S0280,Yuma Energy,current_state,Active — $35M Series A Sep 2026 led by Magna,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0283,IndiQube,first_funding,Angel,2017-09-11,26.83,INR Mn,INR,SRC03431,DERIVED,first funding event from FUNDING
+S0283,IndiQube,latest_revenue,FY26,FY26,1469.0,INR crore,,,DERIVED,latest FY revenue from FINANCIALS
+S0283,IndiQube,current_state,"Active & listed — Rs 700 Cr IPO (Rs 650 Cr fresh + Rs 50 Cr OFS), price band Rs 225–237, listed ~July 2025",2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0284,Smartworks,founded,2016,2016,,,,,DERIVED,founded date from STARTUPS
+S0284,Smartworks,latest_revenue,FY26 Q4,FY26 Q4,5462.0,INR crore,,,DERIVED,latest FY revenue from FINANCIALS
+S0284,Smartworks,current_state,,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0285,Amnex Infotechnologies (Amnex),founded,2008-01-01,2008-01-01,,,,,DERIVED,founded date from STARTUPS
+S0285,Amnex Infotechnologies (Amnex),first_funding,Growth Capital,2025-08-18,4600.0,INR Mn,INR,SRC03445,DERIVED,first funding event from FUNDING
+S0285,Amnex Infotechnologies (Amnex),current_state,,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0286,MakeMyTrip,founded,2000,2000,,,,,DERIVED,founded date from STARTUPS
+S0286,MakeMyTrip,first_funding,IPO,2010-09-17,6923.0,INR Mn,INR,SRC03450,DERIVED,first funding event from FUNDING
+S0286,MakeMyTrip,current_state,,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0287,Spinny,founded,2015,2015,,,,,DERIVED,founded date from STARTUPS
+S0287,Spinny,first_funding,Series E,2021-11-24,18625.0,INR Mn,INR,SRC03457,DERIVED,first funding event from FUNDING
+S0287,Spinny,current_state,,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0288,Traqo,founded,2022,2022,,,,,DERIVED,founded date from STARTUPS
+S0288,Traqo,first_funding,Seed,2025-11-11,85.53,INR Mn,INR,SRC03461,DERIVED,first funding event from FUNDING
+S0288,Traqo,latest_revenue,FY25,FY25,1.9,INR crore,,,DERIVED,latest FY revenue from FINANCIALS
+S0288,Traqo,current_state,,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0289,Trevel,founded,2025-09-01,2025-09-01,,,,,DERIVED,founded date from STARTUPS
+S0289,Trevel,first_funding,Seed,2026-06-12,87.0,INR Mn,INR,SRC03467,DERIVED,first funding event from FUNDING
+S0289,Trevel,current_state,,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0290,Runable,founded,2025,2025,,,,,DERIVED,founded date from STARTUPS
+S0290,Runable,first_funding,Seed,2025-01-01,,INR Mn,INR,SRC03482,DERIVED,first funding event from FUNDING
+S0290,Runable,legal_event,licence,2025-05-05,,,,SRC03477,DERIVED,legal/regulatory event from LEGAL_REGULATORY
+S0290,Runable,current_state,Active,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0291,GreenLine,founded,2021,2021,,,,,DERIVED,founded date from STARTUPS
+S0291,GreenLine,first_funding,Equity Investment,2025-04-10,23567.5,INR Mn,INR,SRC03488,DERIVED,first funding event from FUNDING
+S0291,GreenLine,current_state,,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0292,IDfy,founded,2011,2011,,,,,DERIVED,founded date from STARTUPS
+S0292,IDfy,first_funding,Series F (earlier),2024,1422.9,INR Mn,INR,SRC03448,DERIVED,first funding event from FUNDING
+S0292,IDfy,current_state,,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0293,QWEEN,founded,2024,2024,,,,,DERIVED,founded date from STARTUPS
+S0293,QWEEN,first_funding,Corporate Round,2025-12-04,10000.0,INR Mn,INR,SRC03500,DERIVED,first funding event from FUNDING
+S0293,QWEEN,current_state,,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0296,Nestasia,founded,2019,2019,,,,,DERIVED,founded date from STARTUPS
+S0296,Nestasia,first_funding,Series A,2021-12-15,298.0,INR Mn,INR,SRC03521,DERIVED,first funding event from FUNDING
+S0296,Nestasia,latest_revenue,FY26,FY26,177.0,INR crore,,,DERIVED,latest FY revenue from FINANCIALS
+S0296,Nestasia,current_state,Active (private),2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0305,Graph AI,founded,2024,2024,,,,,DERIVED,founded date from STARTUPS
+S0305,Graph AI,first_funding,Seed,2025-10-01,257.1,INR Mn,INR,SRC03558,DERIVED,first funding event from FUNDING
+S0305,Graph AI,latest_revenue,FY25,FY25,1.08,INR crore,,,DERIVED,latest FY revenue from FINANCIALS
+S0305,Graph AI,current_state,Active,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0307,Mindgrove Technologies,current_state,Active,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0309,Kepler Aerospace,founded,2018,2018,,,,,DERIVED,founded date from STARTUPS
+S0309,Kepler Aerospace,first_funding,Seed,2026-09-01,696.0,INR Mn,INR,SRC03582,DERIVED,first funding event from FUNDING
+S0309,Kepler Aerospace,latest_revenue,FY25,FY25,10.0,INR crore,,,DERIVED,latest FY revenue from FINANCIALS
+S0309,Kepler Aerospace,current_state,Active,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0310,CARS24,first_funding,Series A,2015-11-25,,INR Mn,INR,SRC03608,DERIVED,first funding event from FUNDING
+S0310,CARS24,latest_revenue,FY25,FY25,6233.0,INR crore,,,DERIVED,latest FY revenue from FINANCIALS
+S0310,CARS24,legal_event,regulatory,2026-09-15,,,,SRC03621,DERIVED,legal/regulatory event from LEGAL_REGULATORY
+S0310,CARS24,current_state,ACTIVE,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0316,R for Rabbit,founded,2014,2014,,,,,DERIVED,founded date from STARTUPS
+S0316,R for Rabbit,first_funding,Seed,2014,40.0,INR Mn,INR,SRC03650,DERIVED,first funding event from FUNDING
+S0316,R for Rabbit,latest_revenue,FY24,FY24,170.0,INR crore,,,DERIVED,latest FY revenue from FINANCIALS
+S0316,R for Rabbit,current_state,Active,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0320,Cradlewise,first_funding,Angel,2018-02-06,335.22,INR Mn,INR,SRC03686,DERIVED,first funding event from FUNDING
+S0320,Cradlewise,latest_revenue,FY25,FY25,10.0,INR crore,,,DERIVED,latest FY revenue from FINANCIALS
+S0320,Cradlewise,legal_event,regulatory,2026-09-04,,,,SRC03681,DERIVED,legal/regulatory event from LEGAL_REGULATORY
+S0320,Cradlewise,current_state,Active,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0322,InsuranceDekho,first_funding,Series A,2023-02-09,12420.0,INR Mn,INR,SRC03708,DERIVED,first funding event from FUNDING
+S0322,InsuranceDekho,latest_revenue,FY25,FY25,1290.0,INR crore,,,DERIVED,latest FY revenue from FINANCIALS
+S0322,InsuranceDekho,current_state,Active,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0367,Zupee,founded,2018,2018,,,,,DERIVED,founded date from STARTUPS
+S0367,Zupee,first_funding,Seed,2019-01-01,86.0,INR Mn,INR,SRC03935,DERIVED,first funding event from FUNDING
+S0367,Zupee,latest_revenue,FY24,FY24,1123.0,INR crore,,,DERIVED,latest FY revenue from FINANCIALS
+S0367,Zupee,current_state,ACTIVE,2026-09-16,,,,,DERIVED,current company status from STARTUPS
+S0368,Vicharak,founded,2021,2021,,,,,DERIVED,founded date from STARTUPS
+S0368,Vicharak,first_funding,Seed,2024-06-25,10.02,INR Mn,INR,SRC03947,DERIVED,first funding event from FUNDING
+S0368,Vicharak,legal_event,Incorporation,2023-12-05,,,,SRC03950,DERIVED,legal/regulatory event from LEGAL_REGULATORY
+S0368,Vicharak,current_state,Active,2026-09-16,,,,,DERIVED,current company status from STARTUPS

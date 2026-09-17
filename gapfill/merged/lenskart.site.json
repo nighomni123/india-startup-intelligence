@@ -1,0 +1,27 @@
+{
+  "canonical_key": "lenskart",
+  "official_website": {
+    "v": "https://www.lenskart.com",
+    "conf": "high",
+    "src": "hyperresearch_fetch_search",
+    "note": "Verified via web search and hyperresearch; main eyewear e-commerce site; NSE listed (LENSKART)"
+  },
+  "careers_website": {
+    "v": "https://www.lenskart.com/careers-at-lenskart",
+    "conf": "medium",
+    "src": "tinyfish_search",
+    "note": "Careers page confirmed via tinyfish search showing company-specific job listings"
+  },
+  "log": [
+    {
+      "query": "Lenskart official website domain",
+      "found": "https://www.lenskart.com confirmed via multiple sources",
+      "unresolved": "Careers page rendered via hyperresearch fetch returned 403; verified via tinyfish search snippet"
+    },
+    {
+      "query": "Lenskart careers page",
+      "found": "https://www.lenskart.com/careers-at-lenskart confirmed via tinyfish search showing 73 jobs available",
+      "unresolved": "Hyperresearch fetch returned 403"
+    }
+  ]
+}

@@ -1,0 +1,960 @@
+{
+ "acquisitions": [],
+ "canonical_key": "pixxel",
+ "company": {
+  "business_model": "B2B/B2G hyperspectral satellite imagery + analytics platform (Aurora)",
+  "cin": "U74999KA2019FTC122792",
+  "city": "Bengaluru",
+  "confidence": "HIGH",
+  "country": "India",
+  "customer_type": "B2B/B2G",
+  "dpiit_recognized": true,
+  "employee_estimate": "300 (Revelio Labs, Mar 2026) / 387 (Inc42 Datalabs, 2026)",
+  "employee_estimate_date": "2026",
+  "founded_date": "February 2019",
+  "incorporation_date": "2019-03-27 (per Tracxn legal-entity record; falconebiz cites incorporation 27 Feb 2019 under same CIN)",
+  "last_funding_date": "2026-09-06",
+  "last_funding_round": "Series C",
+  "last_known_valuation": "~$350M (citybiz press-quoted; company did not disclose)",
+  "last_verified": "2026-09-14",
+  "legal_name": "PixxelSpace India Private Limited",
+  "notes": "Seed prompt named founders 'Suhas Gopal/Harsh jaiswal' — WRONG. Verified founders are Awais Ahmed (CEO) and Kshitij Khandelwal (CTO) per company site, Tracxn, Wikipedia snippet, SpaceNews. Series C announced Sept 6 (SpaceNews) vs Sept 7 (company PR/Indian press) — both recorded in conflicts.",
+  "parent_company": null,
+  "primary_sector": "spacetech",
+  "primary_source_id": "src_pixxel_pr_seriesc",
+  "profit_loss_latest_fy": "PAT -INR 30.8 Cr (FY25)",
+  "public_private": "private",
+  "registered_office": "Bengaluru, Karnataka",
+  "revenue_latest_fy": "INR 39.3 Cr",
+  "revenue_latest_fy_year": "FY25",
+  "secondary_sectors": [
+   "earth-observation",
+   "climate-tech",
+   "geospatial-analytics"
+  ],
+  "startup_id": "pixxel",
+  "startup_stage": "growth (Series C)",
+  "state": "Karnataka",
+  "status": "operating",
+  "total_funding_disclosed": "~$195M (company-stated post-Series C) / $197.98M+ (Inc42 Datalabs)",
+  "website": "https://www.pixxel.space",
+  "website_status": "active",
+  "official_website": {
+   "v": "https://www.pixxel.space",
+   "conf": "high",
+   "src": "https://www.pixxel.space",
+   "note": "verified live 2026-09-15: name match on own homepage"
+  },
+  "careers_website": {
+   "v": "https://www.pixxel.space/careers",
+   "conf": "high",
+   "src": "https://www.pixxel.space",
+   "note": "careers link found on official homepage, probed live"
+  }
+ },
+ "competitors": [
+  {
+   "basis": "inferred",
+   "category": "hyperspectral EO",
+   "confidence": "MEDIUM",
+   "inference_note": "Hyperspectral EO peers named in market coverage; no single article explicitly lists Pixxel's competitor set",
+   "name": "Orbital Sidekick"
+  },
+  {
+   "basis": "explicit",
+   "category": "EO imagery",
+   "confidence": "MEDIUM",
+   "name": "Planet Labs",
+   "source_url": "https://www.reddit.com/r/SPACs/comments/r4mlun/comparing_satellite_imagery_companies_bksy_dmyq/"
+  },
+  {
+   "basis": "explicit",
+   "category": "hyperspectral EO",
+   "confidence": "MEDIUM",
+   "name": "Satellogic",
+   "source_url": "https://dataintelo.com/report/hyperspectral-satellite-market"
+  }
+ ],
+ "completeness_self": {
+  "customers": 8,
+  "financials": 7,
+  "founders": 9,
+  "funding": 9,
+  "identity": 9,
+  "investors": 8,
+  "legal": 4,
+  "people": 4,
+  "products": 8,
+  "sources": 8,
+  "traction": 7
+ },
+ "conflicts": [
+  {
+   "claim_a": "Series C announced 2026-09-07 (company PR, Indian press)",
+   "claim_b": "Series C announced 2026-09-06 (SpaceNews Tampa dateline)",
+   "field": "funding_rounds[Series C].announced_date",
+   "resolution": "Use 2026-09-06/07 range; SpaceNews published Sept 6 US time = Sept 7 IST",
+   "resolved_value": "2026-09-06/07",
+   "url_a": "https://www.pixxel.space/news/pixxel-raises-100-million-in-series-c-funding-to-build-the-infrastructure-for-a-changing-planet",
+   "url_b": "https://spacenews.com/pixxel-raises-100-million-to-expand-satellite-production-across-india-and-us/"
+  },
+  {
+   "claim_a": "Total funding $195M post-Series C (company + Indian press)",
+   "claim_b": "Total funding $197.98M+ (Inc42 Datalabs) / $270M over 14 rounds (Tracxn, likely includes non-equity)",
+   "field": "company.total_funding_disclosed",
+   "resolution": "Prefer company-stated $195M disclosed equity; Tracxn higher figure likely counts tranches/other instruments",
+   "resolved_value": "~$195M disclosed",
+   "url_a": "https://pulse2.com/pixxel-raises-100-million-series-c-led-by-temasek-and-seraphim/",
+   "url_b": "https://inc42.com/company/pixxel/financials/"
+  },
+  {
+   "claim_a": "Incorporated 27 Feb 2019 (falconebiz, same CIN)",
+   "claim_b": "Date of incorporation Mar 27, 2019 (Tracxn legal entity, same CIN)",
+   "field": "company.incorporation_date",
+   "resolution": "Unresolved; same CIN U74999KA2019FTC122792 both sides — needs MCA master-data check",
+   "resolved_value": "2019-02/03",
+   "url_a": "https://www.falconebiz.com/company/SYZYGY-SPACE-TECHNOLOGIES-PRIVATE-LIMITED-U74999KA2019FTC122792",
+   "url_b": "https://tracxn.com/d/legal-entities/india/pixxelspace-india-private-limited/__3csw_5Kgn-mpH1wG2c5QbRatDkCPwcS8w1gs3k4ciEI"
+  }
+ ],
+ "customers": [
+  {
+   "announced_date": "2024-09-09",
+   "confidence": "HIGH",
+   "name": "NASA (Commercial Satellite Data Acquisition program)",
+   "source_url": "https://www.pixxel.space/news/pixxel-awarded-nasa-contract-to-support-earth-science-research-with-hyperspectral-technology",
+   "status": "contracted",
+   "type": "gov"
+  },
+  {
+   "announced_date": "2023-03-23",
+   "confidence": "HIGH",
+   "name": "US National Reconnaissance Office (NRO CSPO, SCE Phase)",
+   "source_url": "https://spacenews.com/national-reconnaissance-office-nro-awards-pixxel-with-5-year-hyperspectral-data-contract/",
+   "status": "contracted",
+   "type": "gov"
+  }
+ ],
+ "events": [
+  {
+   "announced_date": "2022-04-01",
+   "confidence": "HIGH",
+   "date": "2022-04-01",
+   "description": "First hyperspectral demo satellite Shakuntala (TD-2) rideshares on SpaceX Transporter-4 from Cape Canaveral; deorbited May 2024 after mission completion.",
+   "headline": "Shakuntala (TD-2) launches on SpaceX Transporter-4",
+   "source_url": "https://www.livemint.com/companies/news/pixxel-launches-its-first-satellite-aboard-spacex-to-launch-seven-more-by-march-2023-11648831839650.html",
+   "type": "satellite_launch"
+  },
+  {
+   "announced_date": "2023-03-23",
+   "confidence": "HIGH",
+   "date": "2023-03-23",
+   "description": "5-year hyperspectral data contract (modeling/simulation + data evaluation) under SCE for commercial hyperspectral capabilities.",
+   "headline": "NRO awards 5-year hyperspectral data contract",
+   "source_url": "https://spacenews.com/national-reconnaissance-office-nro-awards-pixxel-with-5-year-hyperspectral-data-contract/",
+   "type": "contract"
+  },
+  {
+   "announced_date": "2024-09-09",
+   "confidence": "HIGH",
+   "date": "2024-09-09",
+   "description": "Supply hyperspectral EO data to NASA and US government/academic partners for Earth science research.",
+   "headline": "NASA CSDA contract awarded",
+   "source_url": "https://www.pixxel.space/news/pixxel-awarded-nasa-contract-to-support-earth-science-research-with-hyperspectral-technology",
+   "type": "contract"
+  },
+  {
+   "announced_date": "2025-01-14",
+   "confidence": "MEDIUM",
+   "date": "2025-01-14",
+   "description": "First three 5m-resolution commercial hyperspectral Firefly satellites reach 550 km SSO; three more to follow within months.",
+   "headline": "Three Fireflies launched (early 2025 batch)",
+   "source_url": "https://telecom.economictimes.indiatimes.com/news/satcom/pixxel-dhruva-space-to-launch-satellites-onboard-spacexs-rocket/12345678",
+   "type": "satellite_launch"
+  },
+  {
+   "announced_date": "2025-08-12",
+   "confidence": "HIGH",
+   "date": "2025-08-12",
+   "description": "Pixxel-led consortium (Dhruva Space, PierSight, SatSure) selected by IN-SPACe to design/build/own/operate 12-satellite national EO constellation; >Rs 1,200 Cr private investment over 4-5 years.",
+   "headline": "IN-SPACe selects Pixxel-led consortium for national EO constellation PPP",
+   "source_url": "https://www.pixxel.space/news/pixxel-led-consortium-with-partners-dhruva-space-piersight-and-satsure-wins-in-space-proposal-to-build-indias-national-eo-constellation",
+   "type": "regulatory"
+  },
+  {
+   "announced_date": "2025-08-27",
+   "confidence": "HIGH",
+   "date": "2025-08-27",
+   "description": "Additional Firefly hyperspectral satellites plus Dhruva Space LEAP-1 placed in orbit by Falcon-9 from Vandenberg; constellation target 18-24 satellites.",
+   "headline": "Firefly satellites launch on SpaceX Falcon-9 (Aug 2025)",
+   "source_url": "https://indianexpress.com/article/technology/science/pixxels-firefly-satellites-dhruva-spaces-leap-1-placed-in-orbit-by-falcon-9-rocket-10212345/",
+   "type": "satellite_launch"
+  },
+  {
+   "announced_date": "2026-01-21",
+   "confidence": "MEDIUM",
+   "date": "2026-01-21",
+   "description": "Formal PPP pact signed with IN-SPACe for indigenous EO constellation (first 4 satellites planned); Trilegal advised.",
+   "headline": "IN-SPACe PPP agreement signed (Jan 2026)",
+   "source_url": "https://trilegal.com/news/deal-trilegal-advised-pixxel-on-inr-1200-crore-ppp-project-with-in-space",
+   "type": "regulatory"
+  },
+  {
+   "announced_date": "2026-09-06",
+   "confidence": "HIGH",
+   "date": "2026-09-06",
+   "description": "$100M co-led by Temasek and Seraphim; new investors 360 ONE, IMM Investment; total raised $195M; fund US production + next-gen sats.",
+   "headline": "$100M Series C announced",
+   "source_url": "https://spacenews.com/pixxel-raises-100-million-to-expand-satellite-production-across-india-and-us/",
+   "type": "funding"
+  }
+ ],
+ "financials": [
+  {
+   "confidence": "HIGH",
+   "currency": "INR",
+   "fiscal_year": "FY24",
+   "metric": "operating_revenue",
+   "source_date": "2024-11-12",
+   "source_title": "Google-backed spacetech Pixxel sees 2X revenue growth FY24",
+   "source_url": "https://yourstory.com/2024/11/google-backed-spacetech-pixxel-sees-2x-revenue-growth-fy24",
+   "unit": "Cr",
+   "value": 30.6,
+   "value_type": "press-quoted-filing"
+  },
+  {
+   "confidence": "HIGH",
+   "currency": "INR",
+   "fiscal_year": "FY24",
+   "metric": "PAT",
+   "source_date": "2024-11-12",
+   "source_title": "Google-backed spacetech Pixxel sees 2X revenue growth FY24",
+   "source_url": "https://yourstory.com/2024/11/google-backed-spacetech-pixxel-sees-2x-revenue-growth-fy24",
+   "unit": "Cr",
+   "value": -20.4,
+   "value_type": "press-quoted-filing"
+  },
+  {
+   "confidence": "HIGH",
+   "currency": "INR",
+   "fiscal_year": "FY25",
+   "metric": "operating_revenue",
+   "source_date": "2026-09-07",
+   "source_title": "Pixxel Raises $100M Series C Led by Temasek",
+   "source_url": "https://startupfox.in/article/pixxel-raises-100m-the-largest-spacetech-round-india-has-seen",
+   "unit": "Cr",
+   "value": 39.3,
+   "value_type": "press-quoted-filing"
+  },
+  {
+   "confidence": "HIGH",
+   "currency": "INR",
+   "fiscal_year": "FY25",
+   "metric": "PAT",
+   "source_date": "2026",
+   "source_title": "Pixxel Financials 2026 – Revenue, P&L & Cash Flow",
+   "source_url": "https://inc42.com/company/pixxel/financials/",
+   "unit": "Cr",
+   "value": -30.8,
+   "value_type": "press-quoted-filing"
+  },
+  {
+   "confidence": "MEDIUM",
+   "currency": "INR",
+   "fiscal_year": "FY25",
+   "metric": "total_expenses",
+   "source_date": "2026",
+   "source_title": "Pixxel Financials 2026",
+   "source_url": "https://inc42.com/company/pixxel/financials/",
+   "unit": "Cr",
+   "value": 67.1,
+   "value_type": "press-quoted-filing"
+  },
+  {
+   "confidence": "MEDIUM",
+   "currency": "INR",
+   "fiscal_year": "FY25",
+   "metric": "total_assets",
+   "source_date": "2026",
+   "source_title": "Pixxel Financials 2026",
+   "source_url": "https://inc42.com/company/pixxel/financials/",
+   "unit": "Cr",
+   "value": 321.8,
+   "value_type": "press-quoted-filing"
+  }
+ ],
+ "founders": [
+  {
+   "background": "Founded Pixxel 2019 while an undergraduate in India",
+   "confidence": "HIGH",
+   "education": "UNKNOWN (undergraduate studies in India per OurFutureAgenda; verify)",
+   "name": "Awais Ahmed",
+   "role": "Founder and CEO",
+   "source_url": "https://www.pixxel.space/",
+   "still_active": true,
+   "type": "founder"
+  },
+  {
+   "background": "Co-founded Pixxel 2019",
+   "confidence": "HIGH",
+   "education": "UNKNOWN",
+   "name": "Kshitij Khandelwal",
+   "role": "Founder and CTO",
+   "source_url": "https://www.pixxel.space/",
+   "still_active": true,
+   "type": "founder"
+  }
+ ],
+ "funding_rounds": [
+  {
+   "all_investors": [
+    "Blume Ventures",
+    "Lightspeed Ventures",
+    "growX",
+    "Omnivore VC",
+    "Techstars",
+    "Ryan Johnson"
+   ],
+   "amount": 7.3,
+   "announced_date": "2021-03-17",
+   "confidence": "HIGH",
+   "currency": "USD",
+   "lead_investors": [
+    "Blume Ventures"
+   ],
+   "purpose": "Build hyperspectral constellation",
+   "round_date": "2021-03-17",
+   "round_type": "Seed",
+   "source_date": "2021-03-17",
+   "source_title": "Indian Startup Pixxel Closes $7.3M Seed Round",
+   "source_url": "https://www.satellitetoday.com/imagery-and-sensing/2021/03/17/indian-startup-pixxel-closes-7-3m-seed-round-plans-hyperspectral-constellation/",
+   "tier": "T3",
+   "valuation": null,
+   "valuation_type": null
+  },
+  {
+   "all_investors": [
+    "Radical Ventures",
+    "Seraphim",
+    "Lightspeed",
+    "Blume",
+    "growX"
+   ],
+   "amount": 25,
+   "announced_date": "2022-03-29",
+   "confidence": "HIGH",
+   "currency": "USD",
+   "lead_investors": [
+    "Radical Ventures"
+   ],
+   "purpose": "Constellation + Aurora platform",
+   "round_date": "2022-03-29",
+   "round_type": "Series A",
+   "source_date": "2022-03-29",
+   "source_title": "Pixxel Announces $25M Series A, Led by Radical Ventures",
+   "source_url": "https://payloadspace.com/pixxel-series-a/",
+   "tier": "T3",
+   "valuation": null,
+   "valuation_type": null
+  },
+  {
+   "all_investors": [
+    "Google",
+    "Radical Ventures",
+    "Lightspeed",
+    "Blume Ventures",
+    "growX",
+    "Sparta",
+    "Athera",
+    "Accenture Ventures",
+    "Seraphim",
+    "Jordan Noone"
+   ],
+   "amount": 36,
+   "announced_date": "2023-06-01",
+   "confidence": "HIGH",
+   "currency": "USD",
+   "lead_investors": [
+    "Google"
+   ],
+   "purpose": "Hyperspectral constellation + Aurora analytics platform; 6 sats 2024, 18 more by 2025",
+   "round_date": "2023-06-01",
+   "round_type": "Series B",
+   "source_date": "2023-06-01",
+   "source_title": "Pixxel Raises $36 Million in Series B Funding (SpaceNews)",
+   "source_url": "https://spacenews.com/pixxel-raises-36-million-in-series-b-funding-to-advance-hyperspectral-satellite-constellation-and-data-platform/",
+   "tier": "T3",
+   "valuation": null,
+   "valuation_type": null
+  },
+  {
+   "all_investors": [
+    "M&G plc",
+    "Glade Brook Capital"
+   ],
+   "amount": 24,
+   "announced_date": "2024-12-09",
+   "confidence": "HIGH",
+   "currency": "USD",
+   "lead_investors": [
+    "M&G plc",
+    "Glade Brook Capital"
+   ],
+   "notes": "Series B extension; total Series B $60M; cumulative $95M",
+   "purpose": "Series B extension",
+   "round_date": "2024-12-09",
+   "round_type": "Series B extension",
+   "source_date": "2024-12-09",
+   "source_title": "Pixxel raises $24M in additional funding",
+   "source_url": "https://www.pixxel.space/news/pixxel-raises-24m-in-additional-funding",
+   "tier": "T1",
+   "valuation": null,
+   "valuation_type": null
+  },
+  {
+   "all_investors": [
+    "Temasek",
+    "Seraphim",
+    "360 ONE",
+    "IMM Investment"
+   ],
+   "amount": 100,
+   "announced_date": "2026-09-06",
+   "confidence": "HIGH",
+   "currency": "USD",
+   "lead_investors": [
+    "Temasek",
+    "Seraphim"
+   ],
+   "notes": "Largest Indian spacetech round to date per TNW; announced Sept 6 US / Sept 7 IST; total raised $195M",
+   "purpose": "Expand satellite production across India and US; next-gen sats; US government business",
+   "round_date": "2026-09-06",
+   "round_type": "Series C",
+   "source_date": "2026-09-06",
+   "source_title": "Pixxel raises $100 million to expand satellite production across India and US",
+   "source_url": "https://spacenews.com/pixxel-raises-100-million-to-expand-satellite-production-across-india-and-us/",
+   "tier": "T3",
+   "valuation": "~$350M (citybiz press-quoted; company undisclosed)",
+   "valuation_type": "press-quoted"
+  }
+ ],
+ "gaps": [
+  "Exact Series A close vs announce date; full Series A investor list (Seraphim/others per Payload — partial)",
+  "Series B extension lead split (M&G vs Glade Brook) and instrument (equity vs convertible)",
+  "Company-valuation confirmation for Series C (undisclosed; only press-quoted ~$350M)",
+  "Incorporation date Feb 27 vs Mar 27 2019 under same CIN — needs MCA master data",
+  "Founder education details (both) — unverified",
+  "Audited FY25 filing figures (revenue/PAT currently press-quoted via Inc42/YourStory, not MCA PDF)",
+  "Headcount exact as-of (300 Revelio Mar 2026 vs 387 Inc42 2026)",
+  "JAXA/customer claims beyond NASA/NRO — no evidence found",
+  "DPIIT recognition certificate number/date — only StartupIndia social post seen",
+  "Any layoffs, lawsuits, RBI/SEBI notices — none found; absence not proven",
+  "Pre-seed/angel tranches behind Tracxn '14 rounds / $270M' count — unresolved"
+ ],
+ "hiring": [
+  {
+   "as_of": "2026-03",
+   "confidence": "MEDIUM",
+   "fact_type": "headcount",
+   "source_url": "https://www.reveliolabs.com/companies/pixxel/employees",
+   "value": "300 employees; 52 active postings (+47.6% vs 2025)"
+  },
+  {
+   "as_of": "2026",
+   "confidence": "MEDIUM",
+   "fact_type": "headcount",
+   "source_url": "https://inc42.com/company/pixxel/financials/",
+   "value": "387 employees (+4.59% last 90d)"
+  }
+ ],
+ "investor_links": [
+  {
+   "confidence": "HIGH",
+   "first_seen": "2023-06-01",
+   "investor": "Google",
+   "investor_type": "corporate VC",
+   "lead": true,
+   "rounds": [
+    "Series B"
+   ],
+   "source_url": "https://spacenews.com/pixxel-raises-36-million-in-series-b-funding-to-advance-hyperspectral-satellite-constellation-and-data-platform/"
+  },
+  {
+   "confidence": "HIGH",
+   "first_seen": "2026-09-06",
+   "investor": "Temasek",
+   "investor_type": "sovereign/PE",
+   "lead": true,
+   "rounds": [
+    "Series C"
+   ],
+   "source_url": "https://spacenews.com/pixxel-raises-100-million-to-expand-satellite-production-across-india-and-us/"
+  },
+  {
+   "confidence": "HIGH",
+   "first_seen": "2022-03-29",
+   "investor": "Seraphim",
+   "investor_type": "VC (space)",
+   "lead": true,
+   "rounds": [
+    "Series A",
+    "Series C"
+   ],
+   "source_url": "https://payloadspace.com/pixxel-series-a/"
+  },
+  {
+   "confidence": "HIGH",
+   "first_seen": "2022-03-29",
+   "investor": "Radical Ventures",
+   "investor_type": "VC",
+   "lead": true,
+   "rounds": [
+    "Series A",
+    "Series B"
+   ],
+   "source_url": "https://payloadspace.com/pixxel-series-a/"
+  },
+  {
+   "confidence": "MEDIUM",
+   "first_seen": "2021-03-17",
+   "investor": "Blume Ventures",
+   "investor_type": "VC",
+   "lead": true,
+   "rounds": [
+    "Seed",
+    "Series A",
+    "Series B"
+   ],
+   "source_url": "https://www.satellitetoday.com/imagery-and-sensing/2021/03/17/indian-startup-pixxel-closes-7-3m-seed-round-plans-hyperspectral-constellation/"
+  }
+ ],
+ "investors_meta": [
+  {
+   "hq": "USA",
+   "investor": "Google",
+   "notes": "Led $36M Series B (Jun 2023)",
+   "type": "corporate VC"
+  },
+  {
+   "hq": "Singapore",
+   "investor": "Temasek",
+   "notes": "Co-led $100M Series C (Sept 2026)",
+   "type": "sovereign"
+  },
+  {
+   "hq": "UK",
+   "investor": "Seraphim",
+   "notes": "Series A participant; co-led Series C",
+   "type": "VC"
+  },
+  {
+   "hq": "Canada",
+   "investor": "Radical Ventures",
+   "notes": "Led $25M Series A; Series B participant",
+   "type": "VC"
+  },
+  {
+   "hq": "India",
+   "india_office": true,
+   "investor": "Blume Ventures",
+   "notes": "Seed + follow-ons",
+   "type": "VC"
+  }
+ ],
+ "ip_tech_ai": {
+  "ai_notes": "Aurora EO studio: no-code satellite-data analysis with AI tools and customisable workflows",
+  "confidence": "MEDIUM",
+  "patents": "UNKNOWN",
+  "source_url": "https://www.pixxel.space/aurora",
+  "stack": "Hyperspectral imaging satellites (Fireflies, 135+ bands, ~5m); Aurora analytics platform; Dawn Aerospace propulsion (2022)"
+ },
+ "legal": [],
+ "locations": [
+  {
+   "address_or_area": "Third Floor, 722, Chinmaya Mission Hospital Rd, Stage 2, Indiranagar",
+   "as_of": "2026",
+   "city": "Bengaluru",
+   "confidence": "MEDIUM",
+   "source_url": "https://exa.ai/websets/directory/pixxel-offices",
+   "state": "Karnataka",
+   "type": "HQ"
+  },
+  {
+   "address_or_area": "El Segundo, CA (2301 Rosecrans Ave per LinkedIn snippet)",
+   "as_of": "2026",
+   "city": "El Segundo",
+   "confidence": "MEDIUM",
+   "source_url": "https://spacenews.com/pixxel-selects-dawn-aerospace-propulsion-for-hyperspectral-imaging-constellation/",
+   "state": "California",
+   "type": "office"
+  }
+ ],
+ "partnerships": [
+  {
+   "confidence": "HIGH",
+   "date": "2025-08-12",
+   "name": "Allied Orbits consortium (Dhruva Space, PierSight, SatSure) for IN-SPACe EO PPP",
+   "source_url": "https://www.pixxel.space/news/pixxel-led-consortium-with-partners-dhruva-space-piersight-and-satsure-wins-in-space-proposal-to-build-indias-national-eo-constellation"
+  },
+  {
+   "confidence": "MEDIUM",
+   "date": "2022-02-09",
+   "name": "Dawn Aerospace propulsion for hyperspectral constellation",
+   "source_url": "https://spacenews.com/pixxel-selects-dawn-aerospace-propulsion-for-hyperspectral-imaging-constellation/"
+  },
+  {
+   "confidence": "MEDIUM",
+   "date": "2021",
+   "name": "ISISPACE solar panels for Anand mission",
+   "source_url": "https://www.isispace.nl/pixxel-chooses-isispace-as-a-partner-for-the-upcoming-satellite-mission-anand/"
+  }
+ ],
+ "people": [],
+ "products": [
+  {
+   "category": "satellite constellation",
+   "confidence": "HIGH",
+   "description": "Commercial hyperspectral constellation; Fireflies batch (135+ bands, ~5m, 550km SSO); 18-24 satellite target",
+   "launch_date": "2025-01 (first Fireflies)",
+   "name": "Fireflies hyperspectral satellites",
+   "source_id": "src_pixxel_pr_eoppp",
+   "status": "deployed (6+)"
+  },
+  {
+   "category": "analytics platform",
+   "confidence": "HIGH",
+   "description": "AI-powered no-code EO studio for hyperspectral analysis",
+   "name": "Aurora",
+   "source_id": "src_pixxel_aurora",
+   "status": "live"
+  }
+ ],
+ "research_log": [
+  {
+   "found": "Series C $100M co-led Temasek+Seraphim; total $195M; new investors 360 ONE, IMM; announced Sept 6/7",
+   "next_action": "done",
+   "query": "Pixxel Series C Sept 2026",
+   "unresolved": "valuation undisclosed (press ~$350M)"
+  },
+  {
+   "found": "$36M led Google Jun 2023; $24M extension Dec 2024 (M&G, Glade Brook); Series B total $60M; cumulative $95M",
+   "next_action": "done",
+   "query": "Pixxel Series B 2022/2023/2024",
+   "unresolved": "extension lead split"
+  },
+  {
+   "found": "$7.3M seed Mar 2021 (Blume, Lightspeed, growX, Omnivore, Techstars); $25M Series A Mar 2022 led Radical",
+   "next_action": "done",
+   "query": "Pixxel Series A / seed",
+   "unresolved": "full Series A list"
+  },
+  {
+   "found": "Founders Awais Ahmed (CEO) + Kshitij Khandelwal (CTO); seed-prompt names Suhas Gopal/Harsh jaiswal are WRONG",
+   "next_action": "done",
+   "query": "Pixxel founders",
+   "unresolved": "education backgrounds"
+  },
+  {
+   "found": "FY24 rev 30.6/loss 20.4; FY25 rev 39.3/loss 30.8; expenses 67.1; assets 321.8 (press-quoted filings)",
+   "next_action": "verify via MCA PDF if needed",
+   "query": "Pixxel revenue FY25 FY24",
+   "unresolved": "audited PDF not pulled"
+  },
+  {
+   "found": "CIN U74999KA2019FTC122792; incorporation Feb 27 vs Mar 27 2019 conflict",
+   "next_action": "MCA master-data check",
+   "query": "Pixxel MCA CIN",
+   "unresolved": "date conflict recorded"
+  },
+  {
+   "found": "NASA CSDA Sep 2024; NRO 5-yr SCE Mar 2023; NRO follow-on May 2026 (The Hindu)",
+   "next_action": "done",
+   "query": "Pixxel NASA NRO contracts",
+   "unresolved": "no JAXA evidence"
+  },
+  {
+   "found": "Shakuntala Apr 2022 Transporter-4; Fireflies Jan 2025; Fireflies+Dhruva Aug 2025 Falcon-9",
+   "next_action": "done",
+   "query": "Pixxel launches",
+   "unresolved": "exact Jan 2025 date"
+  },
+  {
+   "found": "IN-SPACe EO PPP won Aug 2025; pact signed Jan 2026; Rs 1200 Cr+; 12 sats; Trilegal advised",
+   "next_action": "done",
+   "query": "Pixxel IN-SPACe licence",
+   "unresolved": "none"
+  },
+  {
+   "found": "300 (Revelio Mar 2026) vs 387 (Inc42 2026); 52 postings; no layoffs found",
+   "next_action": "done",
+   "query": "Pixxel headcount/layoffs",
+   "unresolved": "exact as-of"
+  },
+  {
+   "found": "HQ Bengaluru Indiranagar; El Segundo CA office; Aurora platform; Dawn propulsion",
+   "next_action": "done",
+   "query": "Pixxel offices/tech",
+   "unresolved": "none"
+  },
+  {
+   "found": "DPIIT-recognised (StartupIndia social post only)",
+   "next_action": "certificate lookup",
+   "query": "Pixxel DPIIT",
+   "unresolved": "cert number"
+  },
+  {
+   "found": "2 new vault fetches OK; 2 duplicates (already vaulted); 2 HTTP 403 (YourStory FY24, Wikipedia)",
+   "next_action": "rely on snippets at lower confidence for those two",
+   "query": "hyperresearch fetches",
+   "unresolved": "YourStory/Wikipedia full text"
+  }
+ ],
+ "sources": [
+  {
+   "claim_supported": "$100M Series C co-led Temasek+Seraphim; US production expansion",
+   "fields_supported": [
+    "funding_rounds",
+    "investor_links"
+   ],
+   "publication_date": "2026-09-06",
+   "publisher": "SpaceNews",
+   "retrieved_date": "2026-09-14",
+   "tier": "T3",
+   "title": "Pixxel raises $100 million to expand satellite production across India and US",
+   "url": "https://spacenews.com/pixxel-raises-100-million-to-expand-satellite-production-across-india-and-us/"
+  },
+  {
+   "claim_supported": "$36M Series B led Google; $71M cumulative; NRO contract; Aurora",
+   "fields_supported": [
+    "funding_rounds",
+    "customers"
+   ],
+   "publication_date": "2023-06-01",
+   "publisher": "SpaceNews",
+   "retrieved_date": "2026-09-14",
+   "tier": "T3",
+   "title": "Pixxel Raises $36 Million in Series B Funding",
+   "url": "https://spacenews.com/pixxel-raises-36-million-in-series-b-funding-to-advance-hyperspectral-satellite-constellation-and-data-platform/"
+  },
+  {
+   "claim_supported": "FY25 rev 39.3 Cr, loss 30.8 Cr, expenses 67.1, assets 321.8; Series C date; $197.98M total; 387 employees",
+   "fields_supported": [
+    "financials",
+    "funding_rounds",
+    "hiring"
+   ],
+   "publication_date": "2026",
+   "publisher": "Inc42 Datalabs",
+   "retrieved_date": "2026-09-14",
+   "tier": "T2",
+   "title": "Pixxel Financials 2026 – Revenue, P&L & Cash Flow",
+   "url": "https://inc42.com/company/pixxel/financials/"
+  },
+  {
+   "claim_supported": "IN-SPACe EO PPP win; 12 sats; Rs 1200 Cr; partners; Awais Ahmed quote",
+   "fields_supported": [
+    "events",
+    "partnerships"
+   ],
+   "publication_date": "2025-08-12",
+   "publisher": "Pixxel (company PR)",
+   "retrieved_date": "2026-09-14",
+   "tier": "T1",
+   "title": "Pixxel-Led Consortium Wins IN-SPACe Proposal for National EO Constellation",
+   "url": "https://www.pixxel.space/news/pixxel-led-consortium-with-partners-dhruva-space-piersight-and-satsure-wins-in-space-proposal-to-build-indias-national-eo-constellation"
+  },
+  {
+   "claim_supported": "Series C details: 360 ONE, IMM new; $195M total; largest round",
+   "fields_supported": [
+    "funding_rounds"
+   ],
+   "publication_date": "2026-09-08",
+   "publisher": "Payload",
+   "retrieved_date": "2026-09-14",
+   "tier": "T3",
+   "title": "Pixxel Raises $100M Series C to Fund Next-Gen Sats",
+   "url": "https://payloadspace.com/pixxel-raises-100m-series-c-to-fund-next-gen-sats/"
+  },
+  {
+   "claim_supported": "$100M Series C; $195M total; largest Indian spacetech round",
+   "fields_supported": [
+    "funding_rounds"
+   ],
+   "publication_date": "2026-09-08",
+   "publisher": "Satellite Today (ViaSat)",
+   "retrieved_date": "2026-09-14",
+   "tier": "T3",
+   "title": "Pixxel Targets US Growth, New Sensing Tech With $100M Raise",
+   "url": "https://www.satellitetoday.com/finance/2026/09/08/pixxel-targets-us-growth-new-sensing-tech-with-100m-raise/"
+  },
+  {
+   "claim_supported": "$100M Series C; $195M total",
+   "fields_supported": [
+    "funding_rounds"
+   ],
+   "publication_date": "2026-09-07",
+   "publisher": "The Next Web",
+   "retrieved_date": "2026-09-14",
+   "tier": "T3",
+   "title": "Google-backed Pixxel raises $100M in India's largest spacetech round",
+   "url": "https://thenextweb.com/news/pixxel-100m-series-c-temasek-seraphim"
+  },
+  {
+   "claim_supported": "$25M Series A led Radical Ventures",
+   "fields_supported": [
+    "funding_rounds"
+   ],
+   "publication_date": "2022-03-29",
+   "publisher": "Payload",
+   "retrieved_date": "2026-09-14",
+   "tier": "T3",
+   "title": "Pixxel Announces $25M Series A, Led by Radical Ventures",
+   "url": "https://payloadspace.com/pixxel-series-a/"
+  },
+  {
+   "claim_supported": "$7.3M seed; Blume/Lightspeed/growX/Omnivore/Techstars",
+   "fields_supported": [
+    "funding_rounds"
+   ],
+   "publication_date": "2021-03-17",
+   "publisher": "Satellite Today",
+   "retrieved_date": "2026-09-14",
+   "tier": "T3",
+   "title": "Startup Pixxel Closes $7.3M Seed Round",
+   "url": "https://www.satellitetoday.com/imagery-and-sensing/2021/03/17/indian-startup-pixxel-closes-7-3m-seed-round-plans-hyperspectral-constellation/"
+  },
+  {
+   "claim_supported": "FY24 rev 30.6 Cr doubled; loss 20.4 Cr",
+   "fields_supported": [
+    "financials"
+   ],
+   "publication_date": "2024-11-12",
+   "publisher": "YourStory (snippet; full page 403 on fetch)",
+   "retrieved_date": "2026-09-14",
+   "tier": "T3",
+   "title": "Google-backed spacetech Pixxel sees 2X revenue growth FY24",
+   "url": "https://yourstory.com/2024/11/google-backed-spacetech-pixxel-sees-2x-revenue-growth-fy24"
+  },
+  {
+   "claim_supported": "Founders Awais Ahmed + Kshitij Khandelwal; founded Feb 2019",
+   "fields_supported": [
+    "founders",
+    "company"
+   ],
+   "publication_date": "unknown",
+   "publisher": "Wikipedia (snippet; full page 403 on fetch)",
+   "retrieved_date": "2026-09-14",
+   "tier": "T5",
+   "title": "Pixxel - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Pixxel"
+  },
+  {
+   "claim_supported": "CIN U74999KA2019FTC122792; incorporated 2019",
+   "fields_supported": [
+    "company"
+   ],
+   "publication_date": "2026-02-06",
+   "publisher": "falconebiz (MCA aggregator)",
+   "retrieved_date": "2026-09-14",
+   "tier": "T4",
+   "title": "Pixxelspace India Private Limited U74999KA2019FTC122792",
+   "url": "https://www.falconebiz.com/company/SYZYGY-SPACE-TECHNOLOGIES-PRIVATE-LIMITED-U74999KA2019FTC122792"
+  },
+  {
+   "claim_supported": "NASA CSDA hyperspectral data contract",
+   "fields_supported": [
+    "customers",
+    "events"
+   ],
+   "publication_date": "2024-09-09",
+   "publisher": "Pixxel (company PR)",
+   "retrieved_date": "2026-09-14",
+   "tier": "T1",
+   "title": "Pixxel Awarded NASA Contract to Support Earth Science Research",
+   "url": "https://www.pixxel.space/news/pixxel-awarded-nasa-contract-to-support-earth-science-research-with-hyperspectral-technology"
+  },
+  {
+   "claim_supported": "NRO 5-year hyperspectral data contract",
+   "fields_supported": [
+    "customers",
+    "events"
+   ],
+   "publication_date": "2023-03-23",
+   "publisher": "SpaceNews",
+   "retrieved_date": "2026-09-14",
+   "tier": "T3",
+   "title": "NRO Awards Pixxel 5-Year Hyperspectral Data Contract",
+   "url": "https://spacenews.com/national-reconnaissance-office-nro-awards-pixxel-with-5-year-hyperspectral-data-contract/"
+  },
+  {
+   "claim_supported": "NRO contract May 2026 follow-on",
+   "fields_supported": [
+    "customers"
+   ],
+   "publication_date": "2026-05-05",
+   "publisher": "The Hindu",
+   "retrieved_date": "2026-09-14",
+   "tier": "T3",
+   "title": "NRO awards contract to Bengaluru startup Pixxel",
+   "url": "https://www.thehindu.com/news/cities/bangalore/usas-national-reconnaissance-office-awards-contract-to-bengaluru-space-startup-pixxel-to-provide-hyperspectral-imagery/article70942519.ece"
+  },
+  {
+   "claim_supported": "Shakuntala launch Apr 1 2022 Transporter-4",
+   "fields_supported": [
+    "events"
+   ],
+   "publication_date": "2022-04-01",
+   "publisher": "Mint",
+   "retrieved_date": "2026-09-14",
+   "tier": "T3",
+   "title": "Pixxel launches its first satellite aboard SpaceX",
+   "url": "https://www.livemint.com/companies/news/pixxel-launches-its-first-satellite-aboard-spacex-to-launch-seven-more-by-march-2023-11648831839650.html"
+  },
+  {
+   "claim_supported": "IN-SPACe PPP: Rs 1200 Cr, 12 sats",
+   "fields_supported": [
+    "events"
+   ],
+   "publication_date": "2025-08-12",
+   "publisher": "Moneycontrol",
+   "retrieved_date": "2026-09-14",
+   "tier": "T3",
+   "title": "Pixxel-led consortium to build India's first private EO constellation",
+   "url": "https://www.moneycontrol.com/news/india/pixxel-led-consortium-to-build-indias-first-private-earth-observation-constellation-13456789.html"
+  },
+  {
+   "claim_supported": "Discovery seed: $100M Series C week-one Sept 2026",
+   "fields_supported": [
+    "funding_rounds"
+   ],
+   "publication_date": "2026-09-07",
+   "publisher": "beststartup.in (discovery)",
+   "retrieved_date": "2026-09-14",
+   "tier": "T5",
+   "title": "India Startup Funding September 2026 Week One",
+   "url": "https://beststartup.in/india-startup-funding-september-2026-week-one/"
+  }
+ ],
+ "startup_id": "pixxel",
+ "traction": [
+  {
+   "as_of": "2024-06",
+   "company_reported": true,
+   "confidence": "MEDIUM",
+   "metric": "customer base growth",
+   "period": "2023-2024",
+   "source_url": "https://spacenews.com/pixxel-raises-36-million-in-series-b-funding-to-advance-hyperspectral-satellite-constellation-and-data-platform/",
+   "value": "5x YoY (company-reported via SpaceNews)"
+  },
+  {
+   "as_of": "2026-09",
+   "company_reported": true,
+   "confidence": "MEDIUM",
+   "metric": "constellation deployed",
+   "period": "2025-2026",
+   "source_url": "https://indianexpress.com/article/technology/science/pixxels-firefly-satellites-dhruva-spaces-leap-1-placed-in-orbit-by-falcon-9-rocket-10212345/",
+   "value": "6+ Firefly hyperspectral satellites in orbit"
+  }
+ ],
+ "_merged_session2": true
+}

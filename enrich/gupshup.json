@@ -1,0 +1,2726 @@
+{
+ "acquisitions": [
+  {
+   "buyer": "Gupshup",
+   "confidence": "HIGH",
+   "date": "2022-02-02",
+   "direction": "made",
+   "disclosed": false,
+   "rationale": "Add voice/cloud-telephony suite to messaging platform",
+   "source_url": "https://www.businesswire.com/news/home/20220202005128/en/Gupshup-Acquires-AI-Powered-Voice-Leader-Knowlarity-Strengthens-Conversational-Engagement-Portfolio",
+   "target": "Knowlarity Communications",
+   "type": "product acquisition",
+   "counterparty": "Knowlarity Communications",
+   "value": "undisclosed"
+  },
+  {
+   "buyer": "Gupshup",
+   "confidence": "MEDIUM",
+   "date": "2021-09",
+   "direction": "made",
+   "disclosed": false,
+   "rationale": "RCS business messaging capability",
+   "source_url": "https://timesofindia.indiatimes.com/gupshup-acquires-us-based-dotgo/articleshow/86455632.cms",
+   "target": "DOTGO",
+   "type": "product acquisition",
+   "counterparty": "DOTGO",
+   "value": "undisclosed"
+  },
+  {
+   "buyer": "Gupshup",
+   "confidence": "MEDIUM",
+   "date": "2022-04",
+   "direction": "made",
+   "disclosed": false,
+   "rationale": "Conversational AI for banking/fintech",
+   "source_url": "https://entrackr.com/2022/04/gupshup-acquires-active-ai/",
+   "target": "Active.ai",
+   "type": "product acquisition",
+   "counterparty": "Active.ai",
+   "value": "undisclosed"
+  }
+ ],
+ "company": {
+  "business_model": "B2B SaaS / CPaaS conversational messaging + AI agents across WhatsApp, RCS, SMS, voice",
+  "city": "Mumbai (India ops; HQ San Francisco, USA)",
+  "confidence": "MEDIUM",
+  "country": "India/USA",
+  "customer_type": "B2B enterprises",
+  "employee_estimate": "~900-963",
+  "founded_date": "2004",
+  "last_funding_date": "2025-07-22",
+  "last_funding_round": "Series F extension ($60M equity+debt, unpriced)",
+  "last_known_valuation": "$1.4B (2021 unicorn); Fidelity internal mark $278M (Jan 2026); latest round unpriced",
+  "legal_name": "Gupshup Technology India Private Limited (India entity)",
+  "primary_sector": "AI / conversational SaaS",
+  "primary_source_id": "techcrunch-2025-07",
+  "secondary_sectors": [
+   "CPaaS",
+   "messaging API",
+   "AI agents"
+  ],
+  "startup_id": "gupshup",
+  "startup_stage": "Late-stage unicorn (valuation disputed)",
+  "status": "Private",
+  "total_funding_disclosed": "~$445-544M (sources vary)",
+  "website": "https://www.gupshup.ai",
+  "cin": "U72100MH2005PTC150425",
+  "incorporation_date": "2005-01-05",
+  "official_website": {
+   "v": "https://www.gupshup.ai",
+   "conf": "high",
+   "src": "https://www.gupshup.ai",
+   "note": "verified live 2026-09-15: name match on own homepage"
+  },
+  "careers_website": {
+   "v": "https://www.gupshup.ai/careers",
+   "conf": "high",
+   "src": "https://www.gupshup.ai",
+   "note": "careers link found on official homepage, probed live"
+  }
+ },
+ "competitors": [
+  {
+   "basis": "explicit",
+   "confidence": "MEDIUM",
+   "name": "Twilio"
+  },
+  {
+   "basis": "explicit",
+   "confidence": "MEDIUM",
+   "name": "Infobip"
+  },
+  {
+   "basis": "explicit",
+   "confidence": "MEDIUM",
+   "name": "Kore.ai"
+  }
+ ],
+ "conflicts": [
+  {
+   "claim_a": "Total funding ~$445.8M (Tracxn)",
+   "claim_b": "Total funding $544.1M+ (Inc42)",
+   "field": "company.total_funding_disclosed",
+   "resolution": "Different round-inclusion methodology; report range",
+   "resolved_value": "~$445-544M",
+   "url_a": "https://platform.tracxn.com",
+   "url_b": "https://inc42.com/company/gupshup/financials"
+  },
+  {
+   "claim_a": "Seed city Bengaluru (batch seed)",
+   "claim_b": "Mumbai HQ (Tracxn), SF HQ (CB Insights/Wikipedia), Delhi (Inc42 page)",
+   "field": "company.city",
+   "resolution": "India operating HQ Mumbai; global HQ San Francisco; seed city corrected to Mumbai",
+   "resolved_value": "Mumbai (India), San Francisco (global HQ)",
+   "url_a": "batch b08.json",
+   "url_b": "https://en.wikipedia.org/wiki/Gupshup"
+  }
+ ],
+ "customers": [
+  {
+   "confidence": "MEDIUM",
+   "name": "HDFC Bank",
+   "source_url": "https://www.thearcweb.com/company/gupshup",
+   "type": "enterprise"
+  },
+  {
+   "confidence": "MEDIUM",
+   "name": "Flipkart",
+   "source_url": "https://www.thearcweb.com/company/gupshup",
+   "type": "enterprise"
+  },
+  {
+   "confidence": "MEDIUM",
+   "name": "Zomato",
+   "source_url": "https://www.thearcweb.com/company/gupshup",
+   "type": "enterprise"
+  },
+  {
+   "confidence": "MEDIUM",
+   "name": "Ola",
+   "source_url": "https://www.thearcweb.com/company/gupshup",
+   "type": "enterprise"
+  }
+ ],
+ "events": [
+  {
+   "announced_date": "2025-07-23",
+   "confidence": "HIGH",
+   "date": "2025-07-22",
+   "description": "$60M equity+debt from Globespan + EvolutionX; IPO eyed in 12-24 months, India listing considered",
+   "headline": "Gupshup raises $60M, eyes IPO",
+   "source_url": "https://techcrunch.com/2025/07/22/gupshup-raises-60m-in-equity-and-debt-leaves-unicorn-status-hanging",
+   "type": "funding"
+  },
+  {
+   "announced_date": "2026-04-03",
+   "confidence": "HIGH",
+   "date": "2026-04-03",
+   "description": "Fidelity fund pegs Gupshup at $278M vs $1.4B in 2021 (-80%)",
+   "headline": "Fidelity marks down Gupshup valuation to $278M",
+   "source_url": "https://m.economictimes.com/tech/startups/fidelity-marks-down-conversational-ai-platform-gupshups-valuation-by-80-to-278-million/articleshow/129997269.cms",
+   "type": "valuation_markdown"
+  }
+ ],
+ "financials": [
+  {
+   "confidence": "MEDIUM",
+   "currency": "INR",
+   "fiscal_year": "FY25",
+   "metric": "revenue (India unit)",
+   "source_date": "2026-04-03",
+   "source_title": "Fidelity marks down Gupshup valuation by 80%",
+   "source_url": "https://m.economictimes.com/tech/startups/fidelity-marks-down-conversational-ai-platform-gupshups-valuation-by-80-to-278-million/articleshow/129997269.cms",
+   "unit": "crore",
+   "value": 1943.0,
+   "value_type": "press-quoted-filing"
+  },
+  {
+   "confidence": "MEDIUM",
+   "currency": "INR",
+   "fiscal_year": "FY25",
+   "metric": "net_profit (India unit)",
+   "source_date": "2026-04-03",
+   "source_title": "Fidelity marks down Gupshup valuation by 80%",
+   "source_url": "https://m.economictimes.com/tech/startups/fidelity-marks-down-conversational-ai-platform-gupshups-valuation-by-80-to-278-million/articleshow/129997269.cms",
+   "unit": "crore",
+   "value": 26.0,
+   "value_type": "press-quoted-filing"
+  },
+  {
+   "confidence": "MEDIUM",
+   "currency": "INR",
+   "fiscal_year": "FY23",
+   "metric": "revenue (India entity)",
+   "source_date": "2025-07-23",
+   "source_title": "Gupshup Raises $60M Ahead of IPO",
+   "source_url": "https://www.livemint.com/companies/start-ups/b2b-ai-firm-gupshup-secures-60-million-in-fresh-funding-eyes-ipo-in-12-24-months-11753204523533.html",
+   "unit": "crore",
+   "value": 1618.6,
+   "value_type": "press-quoted-filing"
+  },
+  {
+   "metric": "India unit FY25 revenue",
+   "value": "Rs 1,943 crore",
+   "unit": "INR",
+   "currency": "INR",
+   "fiscal_year": "FY25",
+   "value_type": "press-quoted-filing",
+   "basis": "",
+   "source_url": "https://cio.economictimes.indiatimes.com/news/corporate-news/fidelity-marks-down-conversational-ai-platform-gupshups-valuation-by-80-to-278-million/130014072",
+   "source_title": "Fidelity marks down Gupshup valuation by 80% to $278M",
+   "source_date": "",
+   "confidence": "HIGH",
+   "notes": ""
+  },
+  {
+   "metric": "India unit FY25 net profit",
+   "value": "Rs 26 crore",
+   "unit": "INR",
+   "currency": "INR",
+   "fiscal_year": "FY25",
+   "value_type": "press-quoted-filing",
+   "basis": "",
+   "source_url": "https://cio.economictimes.indiatimes.com/news/corporate-news/fidelity-marks-down-conversational-ai-platform-gupshups-valuation-by-80-to-278-million/130014072",
+   "source_title": "Fidelity marks down Gupshup valuation by 80% to $278M",
+   "source_date": "",
+   "confidence": "HIGH",
+   "notes": ""
+  },
+  {
+   "metric": "Global revenue estimate",
+   "value": "$250M (2024)",
+   "unit": "USD",
+   "currency": "USD",
+   "fiscal_year": "FY24",
+   "value_type": "estimate",
+   "basis": "",
+   "source_url": "https://www.cbinsights.com/company/gupshup/financials",
+   "source_title": "GupShup Stock Price, Funding, Valuation, Revenue",
+   "source_date": "",
+   "confidence": "MEDIUM",
+   "notes": ""
+  },
+  {
+   "metric": "India unit FY25 revenue",
+   "value": "Rs 1,943 crore",
+   "unit": "INR",
+   "currency": "INR",
+   "fiscal_year": "FY25",
+   "value_type": "press-quoted-filing",
+   "basis": "",
+   "source_url": "https://cio.economictimes.indiatimes.com/news/corporate-news/fidelity-marks-down-conversational-ai-platform-gupshups-valuation-by-80-to-278-million/130014072",
+   "source_title": "Fidelity marks down Gupshup valuation by 80% to $278M",
+   "source_date": "",
+   "confidence": "HIGH",
+   "notes": ""
+  },
+  {
+   "metric": "India unit FY25 net profit",
+   "value": "Rs 26 crore",
+   "unit": "INR",
+   "currency": "INR",
+   "fiscal_year": "FY25",
+   "value_type": "press-quoted-filing",
+   "basis": "",
+   "source_url": "https://cio.economictimes.indiatimes.com/news/corporate-news/fidelity-marks-down-conversational-ai-platform-gupshups-valuation-by-80-to-278-million/130014072",
+   "source_title": "Fidelity marks down Gupshup valuation by 80% to $278M",
+   "source_date": "",
+   "confidence": "HIGH",
+   "notes": ""
+  },
+  {
+   "metric": "Global revenue estimate",
+   "value": "$250M (2024)",
+   "unit": "USD",
+   "currency": "USD",
+   "fiscal_year": "FY24",
+   "value_type": "estimate",
+   "basis": "",
+   "source_url": "https://www.cbinsights.com/company/gupshup/financials",
+   "source_title": "GupShup Stock Price, Funding, Valuation, Revenue",
+   "source_date": "",
+   "confidence": "MEDIUM",
+   "notes": ""
+  }
+ ],
+ "founders": [
+  {
+   "background": "IIT Bombay BTech + MIT MS Computer Science; founded Elance (now Upwork); Merrill Lynch/Citicorp; MIT Media Lab research",
+   "confidence": "HIGH",
+   "name": "Beerud Sheth",
+   "role": "Co-founder & CEO",
+   "source_url": "http://www.gupshup.io/developer/resources/img/team/bio/Beerud_Bio.pdf",
+   "still_active": true,
+   "type": "co-founder",
+   "active": "yes",
+   "location": "San Francisco",
+   "linkedin": "https://www.linkedin.com/in/beerud/"
+  }
+ ],
+ "funding_rounds": [
+  {
+   "all_investors": [
+    "Tiger Global"
+   ],
+   "amount": 100.0,
+   "announced_date": "2021-04-08",
+   "confidence": "HIGH",
+   "currency": "USD",
+   "lead_investors": [
+    "Tiger Global"
+   ],
+   "round_type": "Series F",
+   "source_date": "2021-04-08",
+   "source_title": "Enterprise conversational messaging startup Gupshup raises $100M",
+   "source_url": "https://voicebot.ai/2021/04/08/enterprise-conversational-messaging-startup-gupshup-raises-100m",
+   "tier": "T3",
+   "valuation": "$1.4B"
+  },
+  {
+   "all_investors": [
+    "Fidelity",
+    "Tiger Global",
+    "Think Investments",
+    "Malabar Investments",
+    "Harbor Spring Capital",
+    "Neuberger Berman",
+    "White Oak",
+    "Neeraj Arora"
+   ],
+   "amount": 240.0,
+   "announced_date": "2021-07-28",
+   "confidence": "HIGH",
+   "currency": "USD",
+   "lead_investors": [
+    "Fidelity"
+   ],
+   "round_type": "Series F extension",
+   "source_date": "2021-07-28",
+   "source_title": "Fenwick Represents Gupshup in Additional $240M Series F Financing",
+   "source_url": "https://www.fenwick.com/insights/experience/fenwick-represents-gupshup-in-additional-240-million-series-f-financing",
+   "tier": "T4",
+   "valuation": "$1.4B"
+  },
+  {
+   "all_investors": [
+    "Globespan Capital Partners",
+    "EvolutionX Debt Capital"
+   ],
+   "amount": 60.0,
+   "announced_date": "2025-07-22",
+   "confidence": "HIGH",
+   "currency": "USD",
+   "lead_investors": [
+    "Globespan Capital Partners"
+   ],
+   "round_type": "Series F extension (equity+debt, unpriced)",
+   "source_date": "2025-07-23",
+   "source_title": "Gupshup raises $60M in equity and debt, leaves unicorn status hanging",
+   "source_url": "https://techcrunch.com/2025/07/22/gupshup-raises-60m-in-equity-and-debt-leaves-unicorn-status-hanging",
+   "tier": "T3"
+  },
+  {
+   "round_type": "Series F extension",
+   "amount": "",
+   "currency": "USD",
+   "round_date": "2025-07-22",
+   "valuation": "undisclosed",
+   "valuation_currency": "USD",
+   "valuation_type": "unpriced",
+   "lead_investors": [],
+   "all_investors": [],
+   "new_or_existing": "new",
+   "purpose": "Expand AI messaging platform, explore India IPO domicile shift",
+   "source_url": "https://techcrunch.com/2025/07/22/gupshup-raises-60m-in-equity-and-debt-leaves-unicorn-status-hanging/",
+   "confidence": "HIGH",
+   "notes": "added session-2 gapfill",
+   "announcement_date": "2025-07-22"
+  },
+  {
+   "round_type": "Series F follow-on",
+   "amount": "",
+   "currency": "USD",
+   "round_date": "2021-07-28",
+   "valuation": "$1.4 billion",
+   "valuation_currency": "USD",
+   "valuation_type": "post-money",
+   "lead_investors": [],
+   "all_investors": [],
+   "new_or_existing": "existing",
+   "purpose": "Secondary + primary, employee exits",
+   "source_url": "https://inc42.com/company/gupshup/funding/",
+   "confidence": "HIGH",
+   "notes": "added session-2 gapfill",
+   "announcement_date": "2021-07-28"
+  }
+ ],
+ "gaps": [
+  "Audited FY24/FY25 India-entity numbers only via press quotes, no direct filing fetched",
+  "Exact debt/equity split of July 2025 $60M undisclosed",
+  "Co-founder details beyond Beerud Sheth unverified",
+  "Domicile-flip tax implications unquantified",
+  "Exact equity vs debt split in $60M round",
+  "Audited global financials (only India unit data available)",
+  "Series C/D details from early rounds",
+  "CEO Sheth full name and background",
+  "incorporation_date cross-check (05 Jan 2005 single-sourced)",
+  "valuations"
+ ],
+ "hiring": [
+  {
+   "as_of": "2025-2026",
+   "confidence": "MEDIUM",
+   "fact_type": "layoffs",
+   "source_url": "https://m.economictimes.com/tech/startups/fidelity-marks-down-conversational-ai-platform-gupshups-valuation-by-80-to-278-million/articleshow/129997269.cms",
+   "value": "~300 employees laid off post-2021 growth"
+  }
+ ],
+ "investor_links": [
+  {
+   "confidence": "HIGH",
+   "first_seen": "2021",
+   "investor": "Tiger Global",
+   "investor_type": "VC",
+   "lead": true,
+   "rounds": [
+    "Series F"
+   ],
+   "source_url": "https://voicebot.ai/2021/04/08/enterprise-conversational-messaging-startup-gupshup-raises-100m"
+  },
+  {
+   "confidence": "HIGH",
+   "first_seen": "2021",
+   "investor": "Fidelity Investments",
+   "investor_type": "Mutual fund / crossover",
+   "lead": true,
+   "rounds": [
+    "Series F extension"
+   ],
+   "source_url": "https://www.fenwick.com/insights/experience/fenwick-represents-gupshup-in-additional-240-million-series-f-financing"
+  },
+  {
+   "confidence": "MEDIUM",
+   "first_seen": "2021",
+   "investor": "Think Investments",
+   "investor_type": "VC",
+   "lead": false,
+   "rounds": [
+    "Series F extension"
+   ],
+   "source_url": "https://www.fenwick.com/insights/experience/fenwick-represents-gupshup-in-additional-240-million-series-f-financing"
+  },
+  {
+   "confidence": "MEDIUM",
+   "first_seen": "2021",
+   "investor": "Malabar Investments",
+   "investor_type": "VC",
+   "lead": false,
+   "rounds": [
+    "Series F extension"
+   ],
+   "source_url": "https://www.fenwick.com/insights/experience/fenwick-represents-gupshup-in-additional-240-million-series-f-financing"
+  },
+  {
+   "confidence": "HIGH",
+   "first_seen": "2025",
+   "investor": "Globespan Capital Partners",
+   "investor_type": "VC",
+   "lead": true,
+   "rounds": [
+    "2025 extension"
+   ],
+   "source_url": "https://techcrunch.com/2025/07/22/gupshup-raises-60m-in-equity-and-debt-leaves-unicorn-status-hanging"
+  },
+  {
+   "confidence": "HIGH",
+   "first_seen": "2025",
+   "investor": "EvolutionX Debt Capital",
+   "investor_type": "Debt",
+   "lead": false,
+   "rounds": [
+    "2025 extension"
+   ],
+   "source_url": "https://techcrunch.com/2025/07/22/gupshup-raises-60m-in-equity-and-debt-leaves-unicorn-status-hanging"
+  }
+ ],
+ "investors_meta": [
+  {
+   "investor": "Globespan Capital Partners",
+   "type": "Venture Capital",
+   "hq_geography": "USA",
+   "india_presence": "Yes",
+   "source_url": "https://techcrunch.com/2025/07/22/gupshup-raises-60m-in-equity-and-debt-leaves-unicorn-status-hanging/"
+  },
+  {
+   "investor": "EvolutionX Debt Capital",
+   "type": "Debt Fund",
+   "hq_geography": "Singapore",
+   "india_presence": "Yes",
+   "source_url": "https://techcrunch.com/2025/07/22/gupshup-raises-60m-in-equity-and-debt-leaves-unicorn-status-hanging/"
+  },
+  {
+   "investor": "Fidelity Investments",
+   "type": "Asset Management",
+   "hq_geography": "USA",
+   "india_presence": "Yes",
+   "source_url": "https://cio.economictimes.indiatimes.com/news/corporate-news/fidelity-marks-down-conversational-ai-platform-gupshups-valuation-by-80-to-278-million/130014072"
+  },
+  {
+   "investor": "Tiger Global Management",
+   "type": "Hedge Fund/VC",
+   "hq_geography": "USA",
+   "india_presence": "Yes",
+   "source_url": "https://inc42.com/company/gupshup/funding/"
+  },
+  {
+   "investor": "Globespan Capital Partners",
+   "type": "Venture Capital",
+   "hq_geography": "USA",
+   "india_presence": "Yes",
+   "source_url": "https://techcrunch.com/2025/07/22/gupshup-raises-60m-in-equity-and-debt-leaves-unicorn-status-hanging/"
+  },
+  {
+   "investor": "EvolutionX Debt Capital",
+   "type": "Debt Fund",
+   "hq_geography": "Singapore",
+   "india_presence": "Yes",
+   "source_url": "https://techcrunch.com/2025/07/22/gupshup-raises-60m-in-equity-and-debt-leaves-unicorn-status-hanging/"
+  },
+  {
+   "investor": "Fidelity Investments",
+   "type": "Asset Management",
+   "hq_geography": "USA",
+   "india_presence": "Yes",
+   "source_url": "https://cio.economictimes.indiatimes.com/news/corporate-news/fidelity-marks-down-conversational-ai-platform-gupshups-valuation-by-80-to-278-million/130014072"
+  },
+  {
+   "investor": "Tiger Global Management",
+   "type": "Hedge Fund/VC",
+   "hq_geography": "USA",
+   "india_presence": "Yes",
+   "source_url": "https://inc42.com/company/gupshup/funding/"
+  }
+ ],
+ "ip_tech_ai": {
+  "ai_notes": "Auto Bot Builder (Mar 2023, LLM chatbot creation); Llama 2 integration (Jul 2023); AI agents, campaign copilot, agent assist; 120B+ messages/year",
+  "confidence": "MEDIUM",
+  "source_url": "https://en.wikipedia.org/wiki/Gupshup"
+ },
+ "legal": [],
+ "locations": [
+  {
+   "as_of": "2026",
+   "city": "San Francisco",
+   "confidence": "MEDIUM",
+   "source_url": "https://www.cbinsights.com/company/gupshup",
+   "state": "California",
+   "type": "HQ"
+  },
+  {
+   "as_of": "2026",
+   "city": "Mumbai",
+   "confidence": "MEDIUM",
+   "source_url": "https://platform.tracxn.com",
+   "state": "Maharashtra",
+   "type": "office"
+  }
+ ],
+ "partnerships": [],
+ "people": [
+  {
+   "confidence": "MEDIUM",
+   "name": "Ravi Dugar",
+   "position": "CFO",
+   "source_url": "http://gupshup.ai/about-us"
+  },
+  {
+   "name": "Sheth (co-founder)",
+   "position": "Co-founder",
+   "status": "active",
+   "source_url": "https://techcrunch.com/2025/07/22/gupshup-raises-60m-in-equity-and-debt-leaves-unicorn-status-hanging/"
+  },
+  {
+   "name": "Andy Goldfarb",
+   "position": "Cofounder & Managing Partner (Globespan)",
+   "status": "active",
+   "source_url": "https://economictimes.indiatimes.com/tech/funding/conversational-ai-platform-gupshup-raises-60-million-from-globespan-evolutionx/articleshow/122852452.cms"
+  }
+ ],
+ "products": [
+  {
+   "category": "CPaaS",
+   "name": "Conversational messaging platform (WhatsApp, RCS, SMS, Instagram, voice)"
+  },
+  {
+   "category": "AI",
+   "name": "AI agents / Auto Bot Builder / campaign copilot / agent assist"
+  }
+ ],
+ "research_log": [
+  {
+   "found": "$100M Apr 2021 @ $1.4B; +$240M Jul 2021; $60M Jul 2025 unpriced; Fidelity markdown to $278M Jan 2026; FY25 India rev Rs 1,943 cr -5%, PAT Rs 26 cr -52%; Knowlarity/DOTGO/Active.ai acquisitions; 300 layoffs; IPO plans",
+   "next_action": "Done; gaps recorded",
+   "query": "Gupshup funding / valuation / founders / financials / acquisitions / layoffs",
+   "unresolved": "Audited filings; debt split; co-founders"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "Gupshup $60M Series F extension July 2025",
+   "found": "Confirmed: $60M equity+debt from Globespan + EvolutionX, Jul 22 2025, unpriced",
+   "unresolved": "Exact equity vs debt split not disclosed"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "Gupshup Fidelity valuation markdown",
+   "found": "Confirmed: $278M as of Jan 2026, down from $1.4B peak",
+   "unresolved": "Fidelity's internal mark vs market valuation"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "Gupshup total funding amount",
+   "found": "Tracxn: $446M; Inc42: $544.1M; discrepancy due to counting methodology",
+   "unresolved": "Which figure is more accurate"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "Gupshup $60M Series F extension July 2025",
+   "found": "Confirmed: $60M equity+debt from Globespan + EvolutionX, Jul 22 2025, unpriced",
+   "unresolved": "Exact equity vs debt split not disclosed"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "Gupshup Fidelity valuation markdown",
+   "found": "Confirmed: $278M as of Jan 2026, down from $1.4B peak",
+   "unresolved": "Fidelity's internal mark vs market valuation"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "Gupshup total funding amount",
+   "found": "Tracxn: $446M; Inc42: $544.1M; discrepancy due to counting methodology",
+   "unresolved": "Which figure is more accurate"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "Q-wave claim source-hunt",
+   "found": "6 resolved",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "found": "CIN U72100MH2005PTC150425, inc 05 Jan 2005 via ZaubaCorp (confirmed by Tracxn, InstaFinancials)",
+   "query": "Gupshup Technology India CIN",
+   "unresolved": "valuation (disputed, unfound within budget)"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "1 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  }
+ ],
+ "sources": [
+  {
+   "claim_supported": "$60M 2025 round, IPO plans, valuation ambiguity",
+   "fields_supported": [
+    "funding_rounds",
+    "events"
+   ],
+   "publication_date": "2025-07-23",
+   "publisher": "TechCrunch",
+   "retrieved_date": "2026-09-14",
+   "tier": "T3",
+   "title": "Gupshup raises $60M in equity and debt, leaves unicorn status hanging",
+   "url": "https://techcrunch.com/2025/07/22/gupshup-raises-60m-in-equity-and-debt-leaves-unicorn-status-hanging"
+  },
+  {
+   "claim_supported": "Fidelity $278M markdown; FY25 India rev/PAT; layoffs; domicile shift",
+   "fields_supported": [
+    "financials",
+    "events",
+    "hiring"
+   ],
+   "publication_date": "2026-04-03",
+   "publisher": "Economic Times",
+   "retrieved_date": "2026-09-14",
+   "tier": "T3",
+   "title": "Fidelity marks down conversational AI platform Gupshup's valuation by 80% to $278 million",
+   "url": "https://m.economictimes.com/tech/startups/fidelity-marks-down-conversational-ai-platform-gupshups-valuation-by-80-to-278-million/articleshow/129997269.cms"
+  },
+  {
+   "claim_supported": "$60M round, IPO timeline, FY23 financials",
+   "fields_supported": [
+    "funding_rounds",
+    "financials"
+   ],
+   "publication_date": "2025-07-23",
+   "publisher": "Mint",
+   "retrieved_date": "2026-09-14",
+   "tier": "T3",
+   "title": "Gupshup Raises $60M Ahead of IPO, Eyes India Listing Amid Valuation Reset",
+   "url": "https://www.livemint.com/companies/start-ups/b2b-ai-firm-gupshup-secures-60-million-in-fresh-funding-eyes-ipo-in-12-24-months-11753204523533.html"
+  },
+  {
+   "claim_supported": "+$240M Series F details",
+   "fields_supported": [
+    "funding_rounds",
+    "investor_links"
+   ],
+   "publication_date": "2021-07-28",
+   "publisher": "Fenwick (law firm)",
+   "retrieved_date": "2026-09-14",
+   "tier": "T4",
+   "title": "Fenwick Represents Gupshup in Additional $240M Series F Financing",
+   "url": "https://www.fenwick.com/insights/experience/fenwick-represents-gupshup-in-additional-240-million-series-f-financing"
+  },
+  {
+   "claim_supported": "Knowlarity acquisition",
+   "fields_supported": [
+    "acquisitions"
+   ],
+   "publication_date": "2022-02-02",
+   "publisher": "Business Wire (company release)",
+   "retrieved_date": "2026-09-14",
+   "tier": "T1",
+   "title": "Gupshup Acquires AI-Powered Voice Leader, Knowlarity",
+   "url": "https://www.businesswire.com/news/home/20220202005128/en/Gupshup-Acquires-AI-Powered-Voice-Leader-Knowlarity-Strengthens-Conversational-Engagement-Portfolio"
+  },
+  {
+   "url": "https://cio.economictimes.indiatimes.com/news/corporate-news/fidelity-marks-down-conversational-ai-platform-gupshups-valuation-by-80-to-278-million/130014072",
+   "title": "",
+   "fields": "FINANCIALS",
+   "confidence": "HIGH"
+  },
+  {
+   "url": "https://www.cbinsights.com/company/gupshup/financials",
+   "title": "",
+   "fields": "FINANCIALS",
+   "confidence": "MEDIUM"
+  },
+  {
+   "url": "https://techcrunch.com/2025/07/22/gupshup-raises-60m-in-equity-and-debt-leaves-unicorn-status-hanging/",
+   "title": "",
+   "fields": "FUNDING",
+   "confidence": "HIGH"
+  },
+  {
+   "url": "https://inc42.com/company/gupshup/funding/",
+   "title": "",
+   "fields": "FUNDING",
+   "confidence": "HIGH"
+  },
+  {
+   "url": "https://economictimes.indiatimes.com/tech/funding/conversational-ai-platform-gupshup-raises-60-million-from-globespan-evolutionx/articleshow/122852452.cms",
+   "title": "",
+   "fields": "PEOPLE",
+   "confidence": "MEDIUM"
+  },
+  {
+   "url": "https://tracxn.com/d/companies/gupshup/__4RK6fQfQ29qCJutue7y-FB-qWKoJ6lyiVOBNLDldOKA/funding-and-investors",
+   "title": "Gupshup total funding raised is approximately $445-544M across 9 rounds",
+   "fields": "quarantine-resolved",
+   "confidence": "MEDIUM"
+  },
+  {
+   "url": "https://www.zaubacorp.com",
+   "title": "GUPSHUP TECHNOLOGY INDIA PRIVATE LIMITED | ZaubaCorp",
+   "fields": [
+    "cin",
+    "incorporation_date"
+   ],
+   "confidence": "high"
+  },
+  {
+   "url": "https://gupshup.ai/about-us",
+   "title": "Gupshup About Us",
+   "tier": "T2",
+   "claim": "founder status Beerud Sheth"
+  },
+  {
+   "url": "https://www.businesswire.com/news/home/20220202005128/en/Gupshup-Acquires-AI-Powered-Voice-Leader-Knowlarity-Strengthens-Conversational-Engagement-Portfolio",
+   "title": "Gupshup Acquires AI-Powered Voice Leader, Knowlarity",
+   "tier": "T2",
+   "claim": "acquisition Knowlarity Communications"
+  },
+  {
+   "url": "https://timesofindia.indiatimes.com/gupshup-acquires-us-based-dotgo/articleshow/86455632.cms",
+   "title": "Gupshup acquires US-based Dotgo",
+   "tier": "T2",
+   "claim": "acquisition DOTGO"
+  },
+  {
+   "url": "https://entrackr.com/2022/04/gupshup-acquires-active-ai/",
+   "title": "Gupshup acquires Active.AI",
+   "tier": "T2",
+   "claim": "acquisition Active.ai"
+  },
+  {
+   "url": "https://www.businesswire.com/news/home/20220202005128/en/Gupshup-Acquires-AI-Powered-Voice-Leader-Knowlarity-Strengthens-Conversational-Engagement-Portfolio",
+   "title": "Gupshup Acquires AI-Powered Voice Leader, Knowlarity",
+   "tier": "T2",
+   "claim": "acquisition Knowlarity Communications"
+  },
+  {
+   "url": "https://timesofindia.indiatimes.com/gupshup-acquires-us-based-dotgo/articleshow/86455632.cms",
+   "title": "Gupshup acquires US-based Dotgo",
+   "tier": "T2",
+   "claim": "acquisition DOTGO"
+  },
+  {
+   "url": "https://entrackr.com/2022/04/gupshup-acquires-active-ai/",
+   "title": "Gupshup acquires Active.AI",
+   "tier": "T2",
+   "claim": "acquisition Active.ai"
+  },
+  {
+   "url": "https://www.businesswire.com/news/home/20220202005128/en/Gupshup-Acquires-AI-Powered-Voice-Leader-Knowlarity-Strengthens-Conversational-Engagement-Portfolio",
+   "title": "Gupshup Acquires AI-Powered Voice Leader, Knowlarity",
+   "tier": "T2",
+   "claim": "acquisition Knowlarity Communications"
+  },
+  {
+   "url": "https://timesofindia.indiatimes.com/gupshup-acquires-us-based-dotgo/articleshow/86455632.cms",
+   "title": "Gupshup acquires US-based Dotgo",
+   "tier": "T2",
+   "claim": "acquisition DOTGO"
+  },
+  {
+   "url": "https://entrackr.com/2022/04/gupshup-acquires-active-ai/",
+   "title": "Gupshup acquires Active.AI",
+   "tier": "T2",
+   "claim": "acquisition Active.ai"
+  },
+  {
+   "url": "https://www.businesswire.com/news/home/20220202005128/en/Gupshup-Acquires-AI-Powered-Voice-Leader-Knowlarity-Strengthens-Conversational-Engagement-Portfolio",
+   "title": "Gupshup Acquires AI-Powered Voice Leader, Knowlarity",
+   "tier": "T2",
+   "claim": "acquisition Knowlarity Communications"
+  },
+  {
+   "url": "https://timesofindia.indiatimes.com/gupshup-acquires-us-based-dotgo/articleshow/86455632.cms",
+   "title": "Gupshup acquires US-based Dotgo",
+   "tier": "T2",
+   "claim": "acquisition DOTGO"
+  },
+  {
+   "url": "https://entrackr.com/2022/04/gupshup-acquires-active-ai/",
+   "title": "Gupshup acquires Active.AI",
+   "tier": "T2",
+   "claim": "acquisition Active.ai"
+  },
+  {
+   "url": "https://www.businesswire.com/news/home/20220202005128/en/Gupshup-Acquires-AI-Powered-Voice-Leader-Knowlarity-Strengthens-Conversational-Engagement-Portfolio",
+   "title": "Gupshup Acquires AI-Powered Voice Leader, Knowlarity",
+   "tier": "T2",
+   "claim": "acquisition Knowlarity Communications"
+  },
+  {
+   "url": "https://timesofindia.indiatimes.com/gupshup-acquires-us-based-dotgo/articleshow/86455632.cms",
+   "title": "Gupshup acquires US-based Dotgo",
+   "tier": "T2",
+   "claim": "acquisition DOTGO"
+  },
+  {
+   "url": "https://entrackr.com/2022/04/gupshup-acquires-active-ai/",
+   "title": "Gupshup acquires Active.AI",
+   "tier": "T2",
+   "claim": "acquisition Active.ai"
+  },
+  {
+   "url": "https://www.businesswire.com/news/home/20220202005128/en/Gupshup-Acquires-AI-Powered-Voice-Leader-Knowlarity-Strengthens-Conversational-Engagement-Portfolio",
+   "title": "Gupshup Acquires AI-Powered Voice Leader, Knowlarity",
+   "tier": "T2",
+   "claim": "acquisition Knowlarity Communications"
+  },
+  {
+   "url": "https://timesofindia.indiatimes.com/gupshup-acquires-us-based-dotgo/articleshow/86455632.cms",
+   "title": "Gupshup acquires US-based Dotgo",
+   "tier": "T2",
+   "claim": "acquisition DOTGO"
+  },
+  {
+   "url": "https://entrackr.com/2022/04/gupshup-acquires-active-ai/",
+   "title": "Gupshup acquires Active.AI",
+   "tier": "T2",
+   "claim": "acquisition Active.ai"
+  },
+  {
+   "url": "https://www.businesswire.com/news/home/20220202005128/en/Gupshup-Acquires-AI-Powered-Voice-Leader-Knowlarity-Strengthens-Conversational-Engagement-Portfolio",
+   "title": "Gupshup Acquires AI-Powered Voice Leader, Knowlarity",
+   "tier": "T2",
+   "claim": "acquisition Knowlarity Communications"
+  },
+  {
+   "url": "https://timesofindia.indiatimes.com/gupshup-acquires-us-based-dotgo/articleshow/86455632.cms",
+   "title": "Gupshup acquires US-based Dotgo",
+   "tier": "T2",
+   "claim": "acquisition DOTGO"
+  },
+  {
+   "url": "https://entrackr.com/2022/04/gupshup-acquires-active-ai/",
+   "title": "Gupshup acquires Active.AI",
+   "tier": "T2",
+   "claim": "acquisition Active.ai"
+  },
+  {
+   "url": "https://www.businesswire.com/news/home/20220202005128/en/Gupshup-Acquires-AI-Powered-Voice-Leader-Knowlarity-Strengthens-Conversational-Engagement-Portfolio",
+   "title": "Gupshup Acquires AI-Powered Voice Leader, Knowlarity",
+   "tier": "T2",
+   "claim": "acquisition Knowlarity Communications"
+  },
+  {
+   "url": "https://timesofindia.indiatimes.com/gupshup-acquires-us-based-dotgo/articleshow/86455632.cms",
+   "title": "Gupshup acquires US-based Dotgo",
+   "tier": "T2",
+   "claim": "acquisition DOTGO"
+  },
+  {
+   "url": "https://entrackr.com/2022/04/gupshup-acquires-active-ai/",
+   "title": "Gupshup acquires Active.AI",
+   "tier": "T2",
+   "claim": "acquisition Active.ai"
+  },
+  {
+   "url": "https://www.businesswire.com/news/home/20220202005128/en/Gupshup-Acquires-AI-Powered-Voice-Leader-Knowlarity-Strengthens-Conversational-Engagement-Portfolio",
+   "title": "Gupshup Acquires AI-Powered Voice Leader, Knowlarity",
+   "tier": "T2",
+   "claim": "acquisition Knowlarity Communications"
+  },
+  {
+   "url": "https://timesofindia.indiatimes.com/gupshup-acquires-us-based-dotgo/articleshow/86455632.cms",
+   "title": "Gupshup acquires US-based Dotgo",
+   "tier": "T2",
+   "claim": "acquisition DOTGO"
+  },
+  {
+   "url": "https://entrackr.com/2022/04/gupshup-acquires-active-ai/",
+   "title": "Gupshup acquires Active.AI",
+   "tier": "T2",
+   "claim": "acquisition Active.ai"
+  },
+  {
+   "url": "https://www.businesswire.com/news/home/20220202005128/en/Gupshup-Acquires-AI-Powered-Voice-Leader-Knowlarity-Strengthens-Conversational-Engagement-Portfolio",
+   "title": "Gupshup Acquires AI-Powered Voice Leader, Knowlarity",
+   "tier": "T2",
+   "claim": "acquisition Knowlarity Communications"
+  },
+  {
+   "url": "https://timesofindia.indiatimes.com/gupshup-acquires-us-based-dotgo/articleshow/86455632.cms",
+   "title": "Gupshup acquires US-based Dotgo",
+   "tier": "T2",
+   "claim": "acquisition DOTGO"
+  },
+  {
+   "url": "https://entrackr.com/2022/04/gupshup-acquires-active-ai/",
+   "title": "Gupshup acquires Active.AI",
+   "tier": "T2",
+   "claim": "acquisition Active.ai"
+  },
+  {
+   "url": "https://www.businesswire.com/news/home/20220202005128/en/Gupshup-Acquires-AI-Powered-Voice-Leader-Knowlarity-Strengthens-Conversational-Engagement-Portfolio",
+   "title": "Gupshup Acquires AI-Powered Voice Leader, Knowlarity",
+   "tier": "T2",
+   "claim": "acquisition Knowlarity Communications"
+  },
+  {
+   "url": "https://timesofindia.indiatimes.com/gupshup-acquires-us-based-dotgo/articleshow/86455632.cms",
+   "title": "Gupshup acquires US-based Dotgo",
+   "tier": "T2",
+   "claim": "acquisition DOTGO"
+  },
+  {
+   "url": "https://entrackr.com/2022/04/gupshup-acquires-active-ai/",
+   "title": "Gupshup acquires Active.AI",
+   "tier": "T2",
+   "claim": "acquisition Active.ai"
+  },
+  {
+   "url": "https://www.businesswire.com/news/home/20220202005128/en/Gupshup-Acquires-AI-Powered-Voice-Leader-Knowlarity-Strengthens-Conversational-Engagement-Portfolio",
+   "title": "Gupshup Acquires AI-Powered Voice Leader, Knowlarity",
+   "tier": "T2",
+   "claim": "acquisition Knowlarity Communications"
+  },
+  {
+   "url": "https://timesofindia.indiatimes.com/gupshup-acquires-us-based-dotgo/articleshow/86455632.cms",
+   "title": "Gupshup acquires US-based Dotgo",
+   "tier": "T2",
+   "claim": "acquisition DOTGO"
+  },
+  {
+   "url": "https://entrackr.com/2022/04/gupshup-acquires-active-ai/",
+   "title": "Gupshup acquires Active.AI",
+   "tier": "T2",
+   "claim": "acquisition Active.ai"
+  },
+  {
+   "url": "https://www.businesswire.com/news/home/20220202005128/en/Gupshup-Acquires-AI-Powered-Voice-Leader-Knowlarity-Strengthens-Conversational-Engagement-Portfolio",
+   "title": "Gupshup Acquires AI-Powered Voice Leader, Knowlarity",
+   "tier": "T2",
+   "claim": "acquisition Knowlarity Communications"
+  },
+  {
+   "url": "https://timesofindia.indiatimes.com/gupshup-acquires-us-based-dotgo/articleshow/86455632.cms",
+   "title": "Gupshup acquires US-based Dotgo",
+   "tier": "T2",
+   "claim": "acquisition DOTGO"
+  },
+  {
+   "url": "https://entrackr.com/2022/04/gupshup-acquires-active-ai/",
+   "title": "Gupshup acquires Active.AI",
+   "tier": "T2",
+   "claim": "acquisition Active.ai"
+  },
+  {
+   "url": "https://www.businesswire.com/news/home/20220202005128/en/Gupshup-Acquires-AI-Powered-Voice-Leader-Knowlarity-Strengthens-Conversational-Engagement-Portfolio",
+   "title": "Gupshup Acquires AI-Powered Voice Leader, Knowlarity",
+   "tier": "T2",
+   "claim": "acquisition Knowlarity Communications"
+  },
+  {
+   "url": "https://timesofindia.indiatimes.com/gupshup-acquires-us-based-dotgo/articleshow/86455632.cms",
+   "title": "Gupshup acquires US-based Dotgo",
+   "tier": "T2",
+   "claim": "acquisition DOTGO"
+  },
+  {
+   "url": "https://entrackr.com/2022/04/gupshup-acquires-active-ai/",
+   "title": "Gupshup acquires Active.AI",
+   "tier": "T2",
+   "claim": "acquisition Active.ai"
+  },
+  {
+   "url": "https://www.businesswire.com/news/home/20220202005128/en/Gupshup-Acquires-AI-Powered-Voice-Leader-Knowlarity-Strengthens-Conversational-Engagement-Portfolio",
+   "title": "Gupshup Acquires AI-Powered Voice Leader, Knowlarity",
+   "tier": "T2",
+   "claim": "acquisition Knowlarity Communications"
+  },
+  {
+   "url": "https://timesofindia.indiatimes.com/gupshup-acquires-us-based-dotgo/articleshow/86455632.cms",
+   "title": "Gupshup acquires US-based Dotgo",
+   "tier": "T2",
+   "claim": "acquisition DOTGO"
+  },
+  {
+   "url": "https://entrackr.com/2022/04/gupshup-acquires-active-ai/",
+   "title": "Gupshup acquires Active.AI",
+   "tier": "T2",
+   "claim": "acquisition Active.ai"
+  },
+  {
+   "url": "https://www.businesswire.com/news/home/20220202005128/en/Gupshup-Acquires-AI-Powered-Voice-Leader-Knowlarity-Strengthens-Conversational-Engagement-Portfolio",
+   "title": "Gupshup Acquires AI-Powered Voice Leader, Knowlarity",
+   "tier": "T2",
+   "claim": "acquisition Knowlarity Communications"
+  },
+  {
+   "url": "https://timesofindia.indiatimes.com/gupshup-acquires-us-based-dotgo/articleshow/86455632.cms",
+   "title": "Gupshup acquires US-based Dotgo",
+   "tier": "T2",
+   "claim": "acquisition DOTGO"
+  },
+  {
+   "url": "https://entrackr.com/2022/04/gupshup-acquires-active-ai/",
+   "title": "Gupshup acquires Active.AI",
+   "tier": "T2",
+   "claim": "acquisition Active.ai"
+  },
+  {
+   "url": "https://www.businesswire.com/news/home/20220202005128/en/Gupshup-Acquires-AI-Powered-Voice-Leader-Knowlarity-Strengthens-Conversational-Engagement-Portfolio",
+   "title": "Gupshup Acquires AI-Powered Voice Leader, Knowlarity",
+   "tier": "T2",
+   "claim": "acquisition Knowlarity Communications"
+  },
+  {
+   "url": "https://timesofindia.indiatimes.com/gupshup-acquires-us-based-dotgo/articleshow/86455632.cms",
+   "title": "Gupshup acquires US-based Dotgo",
+   "tier": "T2",
+   "claim": "acquisition DOTGO"
+  },
+  {
+   "url": "https://entrackr.com/2022/04/gupshup-acquires-active-ai/",
+   "title": "Gupshup acquires Active.AI",
+   "tier": "T2",
+   "claim": "acquisition Active.ai"
+  },
+  {
+   "url": "https://www.businesswire.com/news/home/20220202005128/en/Gupshup-Acquires-AI-Powered-Voice-Leader-Knowlarity-Strengthens-Conversational-Engagement-Portfolio",
+   "title": "Gupshup Acquires AI-Powered Voice Leader, Knowlarity",
+   "tier": "T2",
+   "claim": "acquisition Knowlarity Communications"
+  },
+  {
+   "url": "https://timesofindia.indiatimes.com/gupshup-acquires-us-based-dotgo/articleshow/86455632.cms",
+   "title": "Gupshup acquires US-based Dotgo",
+   "tier": "T2",
+   "claim": "acquisition DOTGO"
+  },
+  {
+   "url": "https://entrackr.com/2022/04/gupshup-acquires-active-ai/",
+   "title": "Gupshup acquires Active.AI",
+   "tier": "T2",
+   "claim": "acquisition Active.ai"
+  },
+  {
+   "url": "https://www.businesswire.com/news/home/20220202005128/en/Gupshup-Acquires-AI-Powered-Voice-Leader-Knowlarity-Strengthens-Conversational-Engagement-Portfolio",
+   "title": "Gupshup Acquires AI-Powered Voice Leader, Knowlarity",
+   "tier": "T2",
+   "claim": "acquisition Knowlarity Communications"
+  },
+  {
+   "url": "https://timesofindia.indiatimes.com/gupshup-acquires-us-based-dotgo/articleshow/86455632.cms",
+   "title": "Gupshup acquires US-based Dotgo",
+   "tier": "T2",
+   "claim": "acquisition DOTGO"
+  },
+  {
+   "url": "https://entrackr.com/2022/04/gupshup-acquires-active-ai/",
+   "title": "Gupshup acquires Active.AI",
+   "tier": "T2",
+   "claim": "acquisition Active.ai"
+  },
+  {
+   "url": "https://www.businesswire.com/news/home/20220202005128/en/Gupshup-Acquires-AI-Powered-Voice-Leader-Knowlarity-Strengthens-Conversational-Engagement-Portfolio",
+   "title": "Gupshup Acquires AI-Powered Voice Leader, Knowlarity",
+   "tier": "T2",
+   "claim": "acquisition Knowlarity Communications"
+  },
+  {
+   "url": "https://timesofindia.indiatimes.com/gupshup-acquires-us-based-dotgo/articleshow/86455632.cms",
+   "title": "Gupshup acquires US-based Dotgo",
+   "tier": "T2",
+   "claim": "acquisition DOTGO"
+  },
+  {
+   "url": "https://entrackr.com/2022/04/gupshup-acquires-active-ai/",
+   "title": "Gupshup acquires Active.AI",
+   "tier": "T2",
+   "claim": "acquisition Active.ai"
+  },
+  {
+   "url": "https://www.businesswire.com/news/home/20220202005128/en/Gupshup-Acquires-AI-Powered-Voice-Leader-Knowlarity-Strengthens-Conversational-Engagement-Portfolio",
+   "title": "Gupshup Acquires AI-Powered Voice Leader, Knowlarity",
+   "tier": "T2",
+   "claim": "acquisition Knowlarity Communications"
+  },
+  {
+   "url": "https://timesofindia.indiatimes.com/gupshup-acquires-us-based-dotgo/articleshow/86455632.cms",
+   "title": "Gupshup acquires US-based Dotgo",
+   "tier": "T2",
+   "claim": "acquisition DOTGO"
+  },
+  {
+   "url": "https://entrackr.com/2022/04/gupshup-acquires-active-ai/",
+   "title": "Gupshup acquires Active.AI",
+   "tier": "T2",
+   "claim": "acquisition Active.ai"
+  },
+  {
+   "url": "https://www.businesswire.com/news/home/20220202005128/en/Gupshup-Acquires-AI-Powered-Voice-Leader-Knowlarity-Strengthens-Conversational-Engagement-Portfolio",
+   "title": "Gupshup Acquires AI-Powered Voice Leader, Knowlarity",
+   "tier": "T2",
+   "claim": "acquisition Knowlarity Communications"
+  },
+  {
+   "url": "https://timesofindia.indiatimes.com/gupshup-acquires-us-based-dotgo/articleshow/86455632.cms",
+   "title": "Gupshup acquires US-based Dotgo",
+   "tier": "T2",
+   "claim": "acquisition DOTGO"
+  },
+  {
+   "url": "https://entrackr.com/2022/04/gupshup-acquires-active-ai/",
+   "title": "Gupshup acquires Active.AI",
+   "tier": "T2",
+   "claim": "acquisition Active.ai"
+  },
+  {
+   "url": "https://www.businesswire.com/news/home/20220202005128/en/Gupshup-Acquires-AI-Powered-Voice-Leader-Knowlarity-Strengthens-Conversational-Engagement-Portfolio",
+   "title": "Gupshup Acquires AI-Powered Voice Leader, Knowlarity",
+   "tier": "T2",
+   "claim": "acquisition Knowlarity Communications"
+  },
+  {
+   "url": "https://timesofindia.indiatimes.com/gupshup-acquires-us-based-dotgo/articleshow/86455632.cms",
+   "title": "Gupshup acquires US-based Dotgo",
+   "tier": "T2",
+   "claim": "acquisition DOTGO"
+  },
+  {
+   "url": "https://entrackr.com/2022/04/gupshup-acquires-active-ai/",
+   "title": "Gupshup acquires Active.AI",
+   "tier": "T2",
+   "claim": "acquisition Active.ai"
+  },
+  {
+   "url": "https://www.businesswire.com/news/home/20220202005128/en/Gupshup-Acquires-AI-Powered-Voice-Leader-Knowlarity-Strengthens-Conversational-Engagement-Portfolio",
+   "title": "Gupshup Acquires AI-Powered Voice Leader, Knowlarity",
+   "tier": "T2",
+   "claim": "acquisition Knowlarity Communications"
+  },
+  {
+   "url": "https://timesofindia.indiatimes.com/gupshup-acquires-us-based-dotgo/articleshow/86455632.cms",
+   "title": "Gupshup acquires US-based Dotgo",
+   "tier": "T2",
+   "claim": "acquisition DOTGO"
+  },
+  {
+   "url": "https://entrackr.com/2022/04/gupshup-acquires-active-ai/",
+   "title": "Gupshup acquires Active.AI",
+   "tier": "T2",
+   "claim": "acquisition Active.ai"
+  },
+  {
+   "url": "https://www.businesswire.com/news/home/20220202005128/en/Gupshup-Acquires-AI-Powered-Voice-Leader-Knowlarity-Strengthens-Conversational-Engagement-Portfolio",
+   "title": "Gupshup Acquires AI-Powered Voice Leader, Knowlarity",
+   "tier": "T2",
+   "claim": "acquisition Knowlarity Communications"
+  },
+  {
+   "url": "https://timesofindia.indiatimes.com/gupshup-acquires-us-based-dotgo/articleshow/86455632.cms",
+   "title": "Gupshup acquires US-based Dotgo",
+   "tier": "T2",
+   "claim": "acquisition DOTGO"
+  },
+  {
+   "url": "https://entrackr.com/2022/04/gupshup-acquires-active-ai/",
+   "title": "Gupshup acquires Active.AI",
+   "tier": "T2",
+   "claim": "acquisition Active.ai"
+  },
+  {
+   "url": "https://www.businesswire.com/news/home/20220202005128/en/Gupshup-Acquires-AI-Powered-Voice-Leader-Knowlarity-Strengthens-Conversational-Engagement-Portfolio",
+   "title": "Gupshup Acquires AI-Powered Voice Leader, Knowlarity",
+   "tier": "T2",
+   "claim": "acquisition Knowlarity Communications"
+  },
+  {
+   "url": "https://timesofindia.indiatimes.com/gupshup-acquires-us-based-dotgo/articleshow/86455632.cms",
+   "title": "Gupshup acquires US-based Dotgo",
+   "tier": "T2",
+   "claim": "acquisition DOTGO"
+  },
+  {
+   "url": "https://entrackr.com/2022/04/gupshup-acquires-active-ai/",
+   "title": "Gupshup acquires Active.AI",
+   "tier": "T2",
+   "claim": "acquisition Active.ai"
+  },
+  {
+   "url": "https://www.businesswire.com/news/home/20220202005128/en/Gupshup-Acquires-AI-Powered-Voice-Leader-Knowlarity-Strengthens-Conversational-Engagement-Portfolio",
+   "title": "Gupshup Acquires AI-Powered Voice Leader, Knowlarity",
+   "tier": "T2",
+   "claim": "acquisition Knowlarity Communications"
+  },
+  {
+   "url": "https://timesofindia.indiatimes.com/gupshup-acquires-us-based-dotgo/articleshow/86455632.cms",
+   "title": "Gupshup acquires US-based Dotgo",
+   "tier": "T2",
+   "claim": "acquisition DOTGO"
+  },
+  {
+   "url": "https://entrackr.com/2022/04/gupshup-acquires-active-ai/",
+   "title": "Gupshup acquires Active.AI",
+   "tier": "T2",
+   "claim": "acquisition Active.ai"
+  },
+  {
+   "url": "https://www.businesswire.com/news/home/20220202005128/en/Gupshup-Acquires-AI-Powered-Voice-Leader-Knowlarity-Strengthens-Conversational-Engagement-Portfolio",
+   "title": "Gupshup Acquires AI-Powered Voice Leader, Knowlarity",
+   "tier": "T2",
+   "claim": "acquisition Knowlarity Communications"
+  },
+  {
+   "url": "https://timesofindia.indiatimes.com/gupshup-acquires-us-based-dotgo/articleshow/86455632.cms",
+   "title": "Gupshup acquires US-based Dotgo",
+   "tier": "T2",
+   "claim": "acquisition DOTGO"
+  },
+  {
+   "url": "https://entrackr.com/2022/04/gupshup-acquires-active-ai/",
+   "title": "Gupshup acquires Active.AI",
+   "tier": "T2",
+   "claim": "acquisition Active.ai"
+  },
+  {
+   "url": "https://www.businesswire.com/news/home/20220202005128/en/Gupshup-Acquires-AI-Powered-Voice-Leader-Knowlarity-Strengthens-Conversational-Engagement-Portfolio",
+   "title": "Gupshup Acquires AI-Powered Voice Leader, Knowlarity",
+   "tier": "T2",
+   "claim": "acquisition Knowlarity Communications"
+  },
+  {
+   "url": "https://timesofindia.indiatimes.com/gupshup-acquires-us-based-dotgo/articleshow/86455632.cms",
+   "title": "Gupshup acquires US-based Dotgo",
+   "tier": "T2",
+   "claim": "acquisition DOTGO"
+  },
+  {
+   "url": "https://entrackr.com/2022/04/gupshup-acquires-active-ai/",
+   "title": "Gupshup acquires Active.AI",
+   "tier": "T2",
+   "claim": "acquisition Active.ai"
+  },
+  {
+   "url": "https://www.businesswire.com/news/home/20220202005128/en/Gupshup-Acquires-AI-Powered-Voice-Leader-Knowlarity-Strengthens-Conversational-Engagement-Portfolio",
+   "title": "Gupshup Acquires AI-Powered Voice Leader, Knowlarity",
+   "tier": "T2",
+   "claim": "acquisition Knowlarity Communications"
+  },
+  {
+   "url": "https://timesofindia.indiatimes.com/gupshup-acquires-us-based-dotgo/articleshow/86455632.cms",
+   "title": "Gupshup acquires US-based Dotgo",
+   "tier": "T2",
+   "claim": "acquisition DOTGO"
+  },
+  {
+   "url": "https://entrackr.com/2022/04/gupshup-acquires-active-ai/",
+   "title": "Gupshup acquires Active.AI",
+   "tier": "T2",
+   "claim": "acquisition Active.ai"
+  },
+  {
+   "url": "https://www.businesswire.com/news/home/20220202005128/en/Gupshup-Acquires-AI-Powered-Voice-Leader-Knowlarity-Strengthens-Conversational-Engagement-Portfolio",
+   "title": "Gupshup Acquires AI-Powered Voice Leader, Knowlarity",
+   "tier": "T2",
+   "claim": "acquisition Knowlarity Communications"
+  },
+  {
+   "url": "https://timesofindia.indiatimes.com/gupshup-acquires-us-based-dotgo/articleshow/86455632.cms",
+   "title": "Gupshup acquires US-based Dotgo",
+   "tier": "T2",
+   "claim": "acquisition DOTGO"
+  },
+  {
+   "url": "https://entrackr.com/2022/04/gupshup-acquires-active-ai/",
+   "title": "Gupshup acquires Active.AI",
+   "tier": "T2",
+   "claim": "acquisition Active.ai"
+  },
+  {
+   "url": "https://www.businesswire.com/news/home/20220202005128/en/Gupshup-Acquires-AI-Powered-Voice-Leader-Knowlarity-Strengthens-Conversational-Engagement-Portfolio",
+   "title": "Gupshup Acquires AI-Powered Voice Leader, Knowlarity",
+   "tier": "T2",
+   "claim": "acquisition Knowlarity Communications"
+  },
+  {
+   "url": "https://timesofindia.indiatimes.com/gupshup-acquires-us-based-dotgo/articleshow/86455632.cms",
+   "title": "Gupshup acquires US-based Dotgo",
+   "tier": "T2",
+   "claim": "acquisition DOTGO"
+  },
+  {
+   "url": "https://entrackr.com/2022/04/gupshup-acquires-active-ai/",
+   "title": "Gupshup acquires Active.AI",
+   "tier": "T2",
+   "claim": "acquisition Active.ai"
+  },
+  {
+   "url": "https://www.businesswire.com/news/home/20220202005128/en/Gupshup-Acquires-AI-Powered-Voice-Leader-Knowlarity-Strengthens-Conversational-Engagement-Portfolio",
+   "title": "Gupshup Acquires AI-Powered Voice Leader, Knowlarity",
+   "tier": "T2",
+   "claim": "acquisition Knowlarity Communications"
+  },
+  {
+   "url": "https://timesofindia.indiatimes.com/gupshup-acquires-us-based-dotgo/articleshow/86455632.cms",
+   "title": "Gupshup acquires US-based Dotgo",
+   "tier": "T2",
+   "claim": "acquisition DOTGO"
+  },
+  {
+   "url": "https://entrackr.com/2022/04/gupshup-acquires-active-ai/",
+   "title": "Gupshup acquires Active.AI",
+   "tier": "T2",
+   "claim": "acquisition Active.ai"
+  },
+  {
+   "url": "https://www.businesswire.com/news/home/20220202005128/en/Gupshup-Acquires-AI-Powered-Voice-Leader-Knowlarity-Strengthens-Conversational-Engagement-Portfolio",
+   "title": "Gupshup Acquires AI-Powered Voice Leader, Knowlarity",
+   "tier": "T2",
+   "claim": "acquisition Knowlarity Communications"
+  },
+  {
+   "url": "https://timesofindia.indiatimes.com/gupshup-acquires-us-based-dotgo/articleshow/86455632.cms",
+   "title": "Gupshup acquires US-based Dotgo",
+   "tier": "T2",
+   "claim": "acquisition DOTGO"
+  },
+  {
+   "url": "https://entrackr.com/2022/04/gupshup-acquires-active-ai/",
+   "title": "Gupshup acquires Active.AI",
+   "tier": "T2",
+   "claim": "acquisition Active.ai"
+  },
+  {
+   "url": "https://www.businesswire.com/news/home/20220202005128/en/Gupshup-Acquires-AI-Powered-Voice-Leader-Knowlarity-Strengthens-Conversational-Engagement-Portfolio",
+   "title": "Gupshup Acquires AI-Powered Voice Leader, Knowlarity",
+   "tier": "T2",
+   "claim": "acquisition Knowlarity Communications"
+  },
+  {
+   "url": "https://timesofindia.indiatimes.com/gupshup-acquires-us-based-dotgo/articleshow/86455632.cms",
+   "title": "Gupshup acquires US-based Dotgo",
+   "tier": "T2",
+   "claim": "acquisition DOTGO"
+  },
+  {
+   "url": "https://entrackr.com/2022/04/gupshup-acquires-active-ai/",
+   "title": "Gupshup acquires Active.AI",
+   "tier": "T2",
+   "claim": "acquisition Active.ai"
+  },
+  {
+   "url": "https://www.businesswire.com/news/home/20220202005128/en/Gupshup-Acquires-AI-Powered-Voice-Leader-Knowlarity-Strengthens-Conversational-Engagement-Portfolio",
+   "title": "Gupshup Acquires AI-Powered Voice Leader, Knowlarity",
+   "tier": "T2",
+   "claim": "acquisition Knowlarity Communications"
+  },
+  {
+   "url": "https://timesofindia.indiatimes.com/gupshup-acquires-us-based-dotgo/articleshow/86455632.cms",
+   "title": "Gupshup acquires US-based Dotgo",
+   "tier": "T2",
+   "claim": "acquisition DOTGO"
+  },
+  {
+   "url": "https://entrackr.com/2022/04/gupshup-acquires-active-ai/",
+   "title": "Gupshup acquires Active.AI",
+   "tier": "T2",
+   "claim": "acquisition Active.ai"
+  },
+  {
+   "url": "https://www.businesswire.com/news/home/20220202005128/en/Gupshup-Acquires-AI-Powered-Voice-Leader-Knowlarity-Strengthens-Conversational-Engagement-Portfolio",
+   "title": "Gupshup Acquires AI-Powered Voice Leader, Knowlarity",
+   "tier": "T2",
+   "claim": "acquisition Knowlarity Communications"
+  },
+  {
+   "url": "https://timesofindia.indiatimes.com/gupshup-acquires-us-based-dotgo/articleshow/86455632.cms",
+   "title": "Gupshup acquires US-based Dotgo",
+   "tier": "T2",
+   "claim": "acquisition DOTGO"
+  },
+  {
+   "url": "https://entrackr.com/2022/04/gupshup-acquires-active-ai/",
+   "title": "Gupshup acquires Active.AI",
+   "tier": "T2",
+   "claim": "acquisition Active.ai"
+  },
+  {
+   "url": "https://www.businesswire.com/news/home/20220202005128/en/Gupshup-Acquires-AI-Powered-Voice-Leader-Knowlarity-Strengthens-Conversational-Engagement-Portfolio",
+   "title": "Gupshup Acquires AI-Powered Voice Leader, Knowlarity",
+   "tier": "T2",
+   "claim": "acquisition Knowlarity Communications"
+  },
+  {
+   "url": "https://timesofindia.indiatimes.com/gupshup-acquires-us-based-dotgo/articleshow/86455632.cms",
+   "title": "Gupshup acquires US-based Dotgo",
+   "tier": "T2",
+   "claim": "acquisition DOTGO"
+  },
+  {
+   "url": "https://entrackr.com/2022/04/gupshup-acquires-active-ai/",
+   "title": "Gupshup acquires Active.AI",
+   "tier": "T2",
+   "claim": "acquisition Active.ai"
+  },
+  {
+   "url": "https://www.businesswire.com/news/home/20220202005128/en/Gupshup-Acquires-AI-Powered-Voice-Leader-Knowlarity-Strengthens-Conversational-Engagement-Portfolio",
+   "title": "Gupshup Acquires AI-Powered Voice Leader, Knowlarity",
+   "tier": "T2",
+   "claim": "acquisition Knowlarity Communications"
+  },
+  {
+   "url": "https://timesofindia.indiatimes.com/gupshup-acquires-us-based-dotgo/articleshow/86455632.cms",
+   "title": "Gupshup acquires US-based Dotgo",
+   "tier": "T2",
+   "claim": "acquisition DOTGO"
+  },
+  {
+   "url": "https://entrackr.com/2022/04/gupshup-acquires-active-ai/",
+   "title": "Gupshup acquires Active.AI",
+   "tier": "T2",
+   "claim": "acquisition Active.ai"
+  },
+  {
+   "url": "https://www.businesswire.com/news/home/20220202005128/en/Gupshup-Acquires-AI-Powered-Voice-Leader-Knowlarity-Strengthens-Conversational-Engagement-Portfolio",
+   "title": "Gupshup Acquires AI-Powered Voice Leader, Knowlarity",
+   "tier": "T2",
+   "claim": "acquisition Knowlarity Communications"
+  },
+  {
+   "url": "https://timesofindia.indiatimes.com/gupshup-acquires-us-based-dotgo/articleshow/86455632.cms",
+   "title": "Gupshup acquires US-based Dotgo",
+   "tier": "T2",
+   "claim": "acquisition DOTGO"
+  },
+  {
+   "url": "https://entrackr.com/2022/04/gupshup-acquires-active-ai/",
+   "title": "Gupshup acquires Active.AI",
+   "tier": "T2",
+   "claim": "acquisition Active.ai"
+  },
+  {
+   "url": "https://www.businesswire.com/news/home/20220202005128/en/Gupshup-Acquires-AI-Powered-Voice-Leader-Knowlarity-Strengthens-Conversational-Engagement-Portfolio",
+   "title": "Gupshup Acquires AI-Powered Voice Leader, Knowlarity",
+   "tier": "T2",
+   "claim": "acquisition Knowlarity Communications"
+  },
+  {
+   "url": "https://timesofindia.indiatimes.com/gupshup-acquires-us-based-dotgo/articleshow/86455632.cms",
+   "title": "Gupshup acquires US-based Dotgo",
+   "tier": "T2",
+   "claim": "acquisition DOTGO"
+  },
+  {
+   "url": "https://entrackr.com/2022/04/gupshup-acquires-active-ai/",
+   "title": "Gupshup acquires Active.AI",
+   "tier": "T2",
+   "claim": "acquisition Active.ai"
+  },
+  {
+   "url": "https://www.businesswire.com/news/home/20220202005128/en/Gupshup-Acquires-AI-Powered-Voice-Leader-Knowlarity-Strengthens-Conversational-Engagement-Portfolio",
+   "title": "Gupshup Acquires AI-Powered Voice Leader, Knowlarity",
+   "tier": "T2",
+   "claim": "acquisition Knowlarity Communications"
+  },
+  {
+   "url": "https://timesofindia.indiatimes.com/gupshup-acquires-us-based-dotgo/articleshow/86455632.cms",
+   "title": "Gupshup acquires US-based Dotgo",
+   "tier": "T2",
+   "claim": "acquisition DOTGO"
+  },
+  {
+   "url": "https://entrackr.com/2022/04/gupshup-acquires-active-ai/",
+   "title": "Gupshup acquires Active.AI",
+   "tier": "T2",
+   "claim": "acquisition Active.ai"
+  },
+  {
+   "url": "https://www.businesswire.com/news/home/20220202005128/en/Gupshup-Acquires-AI-Powered-Voice-Leader-Knowlarity-Strengthens-Conversational-Engagement-Portfolio",
+   "title": "Gupshup Acquires AI-Powered Voice Leader, Knowlarity",
+   "tier": "T2",
+   "claim": "acquisition Knowlarity Communications"
+  },
+  {
+   "url": "https://timesofindia.indiatimes.com/gupshup-acquires-us-based-dotgo/articleshow/86455632.cms",
+   "title": "Gupshup acquires US-based Dotgo",
+   "tier": "T2",
+   "claim": "acquisition DOTGO"
+  },
+  {
+   "url": "https://entrackr.com/2022/04/gupshup-acquires-active-ai/",
+   "title": "Gupshup acquires Active.AI",
+   "tier": "T2",
+   "claim": "acquisition Active.ai"
+  },
+  {
+   "url": "https://www.businesswire.com/news/home/20220202005128/en/Gupshup-Acquires-AI-Powered-Voice-Leader-Knowlarity-Strengthens-Conversational-Engagement-Portfolio",
+   "title": "Gupshup Acquires AI-Powered Voice Leader, Knowlarity",
+   "tier": "T2",
+   "claim": "acquisition Knowlarity Communications"
+  },
+  {
+   "url": "https://timesofindia.indiatimes.com/gupshup-acquires-us-based-dotgo/articleshow/86455632.cms",
+   "title": "Gupshup acquires US-based Dotgo",
+   "tier": "T2",
+   "claim": "acquisition DOTGO"
+  },
+  {
+   "url": "https://entrackr.com/2022/04/gupshup-acquires-active-ai/",
+   "title": "Gupshup acquires Active.AI",
+   "tier": "T2",
+   "claim": "acquisition Active.ai"
+  },
+  {
+   "url": "https://www.businesswire.com/news/home/20220202005128/en/Gupshup-Acquires-AI-Powered-Voice-Leader-Knowlarity-Strengthens-Conversational-Engagement-Portfolio",
+   "title": "Gupshup Acquires AI-Powered Voice Leader, Knowlarity",
+   "tier": "T2",
+   "claim": "acquisition Knowlarity Communications"
+  },
+  {
+   "url": "https://timesofindia.indiatimes.com/gupshup-acquires-us-based-dotgo/articleshow/86455632.cms",
+   "title": "Gupshup acquires US-based Dotgo",
+   "tier": "T2",
+   "claim": "acquisition DOTGO"
+  },
+  {
+   "url": "https://entrackr.com/2022/04/gupshup-acquires-active-ai/",
+   "title": "Gupshup acquires Active.AI",
+   "tier": "T2",
+   "claim": "acquisition Active.ai"
+  },
+  {
+   "url": "https://www.businesswire.com/news/home/20220202005128/en/Gupshup-Acquires-AI-Powered-Voice-Leader-Knowlarity-Strengthens-Conversational-Engagement-Portfolio",
+   "title": "Gupshup Acquires AI-Powered Voice Leader, Knowlarity",
+   "tier": "T2",
+   "claim": "acquisition Knowlarity Communications"
+  },
+  {
+   "url": "https://timesofindia.indiatimes.com/gupshup-acquires-us-based-dotgo/articleshow/86455632.cms",
+   "title": "Gupshup acquires US-based Dotgo",
+   "tier": "T2",
+   "claim": "acquisition DOTGO"
+  },
+  {
+   "url": "https://entrackr.com/2022/04/gupshup-acquires-active-ai/",
+   "title": "Gupshup acquires Active.AI",
+   "tier": "T2",
+   "claim": "acquisition Active.ai"
+  },
+  {
+   "url": "https://www.businesswire.com/news/home/20220202005128/en/Gupshup-Acquires-AI-Powered-Voice-Leader-Knowlarity-Strengthens-Conversational-Engagement-Portfolio",
+   "title": "Gupshup Acquires AI-Powered Voice Leader, Knowlarity",
+   "tier": "T2",
+   "claim": "acquisition Knowlarity Communications"
+  },
+  {
+   "url": "https://timesofindia.indiatimes.com/gupshup-acquires-us-based-dotgo/articleshow/86455632.cms",
+   "title": "Gupshup acquires US-based Dotgo",
+   "tier": "T2",
+   "claim": "acquisition DOTGO"
+  },
+  {
+   "url": "https://entrackr.com/2022/04/gupshup-acquires-active-ai/",
+   "title": "Gupshup acquires Active.AI",
+   "tier": "T2",
+   "claim": "acquisition Active.ai"
+  },
+  {
+   "url": "https://www.businesswire.com/news/home/20220202005128/en/Gupshup-Acquires-AI-Powered-Voice-Leader-Knowlarity-Strengthens-Conversational-Engagement-Portfolio",
+   "title": "Gupshup Acquires AI-Powered Voice Leader, Knowlarity",
+   "tier": "T2",
+   "claim": "acquisition Knowlarity Communications"
+  },
+  {
+   "url": "https://timesofindia.indiatimes.com/gupshup-acquires-us-based-dotgo/articleshow/86455632.cms",
+   "title": "Gupshup acquires US-based Dotgo",
+   "tier": "T2",
+   "claim": "acquisition DOTGO"
+  },
+  {
+   "url": "https://entrackr.com/2022/04/gupshup-acquires-active-ai/",
+   "title": "Gupshup acquires Active.AI",
+   "tier": "T2",
+   "claim": "acquisition Active.ai"
+  },
+  {
+   "url": "https://www.businesswire.com/news/home/20220202005128/en/Gupshup-Acquires-AI-Powered-Voice-Leader-Knowlarity-Strengthens-Conversational-Engagement-Portfolio",
+   "title": "Gupshup Acquires AI-Powered Voice Leader, Knowlarity",
+   "tier": "T2",
+   "claim": "acquisition Knowlarity Communications"
+  },
+  {
+   "url": "https://timesofindia.indiatimes.com/gupshup-acquires-us-based-dotgo/articleshow/86455632.cms",
+   "title": "Gupshup acquires US-based Dotgo",
+   "tier": "T2",
+   "claim": "acquisition DOTGO"
+  },
+  {
+   "url": "https://entrackr.com/2022/04/gupshup-acquires-active-ai/",
+   "title": "Gupshup acquires Active.AI",
+   "tier": "T2",
+   "claim": "acquisition Active.ai"
+  },
+  {
+   "url": "https://www.businesswire.com/news/home/20220202005128/en/Gupshup-Acquires-AI-Powered-Voice-Leader-Knowlarity-Strengthens-Conversational-Engagement-Portfolio",
+   "title": "Gupshup Acquires AI-Powered Voice Leader, Knowlarity",
+   "tier": "T2",
+   "claim": "acquisition Knowlarity Communications"
+  },
+  {
+   "url": "https://timesofindia.indiatimes.com/gupshup-acquires-us-based-dotgo/articleshow/86455632.cms",
+   "title": "Gupshup acquires US-based Dotgo",
+   "tier": "T2",
+   "claim": "acquisition DOTGO"
+  },
+  {
+   "url": "https://entrackr.com/2022/04/gupshup-acquires-active-ai/",
+   "title": "Gupshup acquires Active.AI",
+   "tier": "T2",
+   "claim": "acquisition Active.ai"
+  },
+  {
+   "url": "https://www.businesswire.com/news/home/20220202005128/en/Gupshup-Acquires-AI-Powered-Voice-Leader-Knowlarity-Strengthens-Conversational-Engagement-Portfolio",
+   "title": "Gupshup Acquires AI-Powered Voice Leader, Knowlarity",
+   "tier": "T2",
+   "claim": "acquisition Knowlarity Communications"
+  },
+  {
+   "url": "https://timesofindia.indiatimes.com/gupshup-acquires-us-based-dotgo/articleshow/86455632.cms",
+   "title": "Gupshup acquires US-based Dotgo",
+   "tier": "T2",
+   "claim": "acquisition DOTGO"
+  },
+  {
+   "url": "https://entrackr.com/2022/04/gupshup-acquires-active-ai/",
+   "title": "Gupshup acquires Active.AI",
+   "tier": "T2",
+   "claim": "acquisition Active.ai"
+  },
+  {
+   "url": "https://www.businesswire.com/news/home/20220202005128/en/Gupshup-Acquires-AI-Powered-Voice-Leader-Knowlarity-Strengthens-Conversational-Engagement-Portfolio",
+   "title": "Gupshup Acquires AI-Powered Voice Leader, Knowlarity",
+   "tier": "T2",
+   "claim": "acquisition Knowlarity Communications"
+  },
+  {
+   "url": "https://timesofindia.indiatimes.com/gupshup-acquires-us-based-dotgo/articleshow/86455632.cms",
+   "title": "Gupshup acquires US-based Dotgo",
+   "tier": "T2",
+   "claim": "acquisition DOTGO"
+  },
+  {
+   "url": "https://entrackr.com/2022/04/gupshup-acquires-active-ai/",
+   "title": "Gupshup acquires Active.AI",
+   "tier": "T2",
+   "claim": "acquisition Active.ai"
+  },
+  {
+   "url": "https://www.businesswire.com/news/home/20220202005128/en/Gupshup-Acquires-AI-Powered-Voice-Leader-Knowlarity-Strengthens-Conversational-Engagement-Portfolio",
+   "title": "Gupshup Acquires AI-Powered Voice Leader, Knowlarity",
+   "tier": "T2",
+   "claim": "acquisition Knowlarity Communications"
+  },
+  {
+   "url": "https://timesofindia.indiatimes.com/gupshup-acquires-us-based-dotgo/articleshow/86455632.cms",
+   "title": "Gupshup acquires US-based Dotgo",
+   "tier": "T2",
+   "claim": "acquisition DOTGO"
+  },
+  {
+   "url": "https://entrackr.com/2022/04/gupshup-acquires-active-ai/",
+   "title": "Gupshup acquires Active.AI",
+   "tier": "T2",
+   "claim": "acquisition Active.ai"
+  },
+  {
+   "url": "https://www.businesswire.com/news/home/20220202005128/en/Gupshup-Acquires-AI-Powered-Voice-Leader-Knowlarity-Strengthens-Conversational-Engagement-Portfolio",
+   "title": "Gupshup Acquires AI-Powered Voice Leader, Knowlarity",
+   "tier": "T2",
+   "claim": "acquisition Knowlarity Communications"
+  },
+  {
+   "url": "https://timesofindia.indiatimes.com/gupshup-acquires-us-based-dotgo/articleshow/86455632.cms",
+   "title": "Gupshup acquires US-based Dotgo",
+   "tier": "T2",
+   "claim": "acquisition DOTGO"
+  },
+  {
+   "url": "https://entrackr.com/2022/04/gupshup-acquires-active-ai/",
+   "title": "Gupshup acquires Active.AI",
+   "tier": "T2",
+   "claim": "acquisition Active.ai"
+  },
+  {
+   "url": "https://www.businesswire.com/news/home/20220202005128/en/Gupshup-Acquires-AI-Powered-Voice-Leader-Knowlarity-Strengthens-Conversational-Engagement-Portfolio",
+   "title": "Gupshup Acquires AI-Powered Voice Leader, Knowlarity",
+   "tier": "T2",
+   "claim": "acquisition Knowlarity Communications"
+  },
+  {
+   "url": "https://timesofindia.indiatimes.com/gupshup-acquires-us-based-dotgo/articleshow/86455632.cms",
+   "title": "Gupshup acquires US-based Dotgo",
+   "tier": "T2",
+   "claim": "acquisition DOTGO"
+  },
+  {
+   "url": "https://entrackr.com/2022/04/gupshup-acquires-active-ai/",
+   "title": "Gupshup acquires Active.AI",
+   "tier": "T2",
+   "claim": "acquisition Active.ai"
+  },
+  {
+   "url": "https://www.businesswire.com/news/home/20220202005128/en/Gupshup-Acquires-AI-Powered-Voice-Leader-Knowlarity-Strengthens-Conversational-Engagement-Portfolio",
+   "title": "Gupshup Acquires AI-Powered Voice Leader, Knowlarity",
+   "tier": "T2",
+   "claim": "acquisition Knowlarity Communications"
+  },
+  {
+   "url": "https://timesofindia.indiatimes.com/gupshup-acquires-us-based-dotgo/articleshow/86455632.cms",
+   "title": "Gupshup acquires US-based Dotgo",
+   "tier": "T2",
+   "claim": "acquisition DOTGO"
+  },
+  {
+   "url": "https://entrackr.com/2022/04/gupshup-acquires-active-ai/",
+   "title": "Gupshup acquires Active.AI",
+   "tier": "T2",
+   "claim": "acquisition Active.ai"
+  },
+  {
+   "url": "https://www.businesswire.com/news/home/20220202005128/en/Gupshup-Acquires-AI-Powered-Voice-Leader-Knowlarity-Strengthens-Conversational-Engagement-Portfolio",
+   "title": "Gupshup Acquires AI-Powered Voice Leader, Knowlarity",
+   "tier": "T2",
+   "claim": "acquisition Knowlarity Communications"
+  },
+  {
+   "url": "https://timesofindia.indiatimes.com/gupshup-acquires-us-based-dotgo/articleshow/86455632.cms",
+   "title": "Gupshup acquires US-based Dotgo",
+   "tier": "T2",
+   "claim": "acquisition DOTGO"
+  },
+  {
+   "url": "https://entrackr.com/2022/04/gupshup-acquires-active-ai/",
+   "title": "Gupshup acquires Active.AI",
+   "tier": "T2",
+   "claim": "acquisition Active.ai"
+  },
+  {
+   "url": "https://www.businesswire.com/news/home/20220202005128/en/Gupshup-Acquires-AI-Powered-Voice-Leader-Knowlarity-Strengthens-Conversational-Engagement-Portfolio",
+   "title": "Gupshup Acquires AI-Powered Voice Leader, Knowlarity",
+   "tier": "T2",
+   "claim": "acquisition Knowlarity Communications"
+  },
+  {
+   "url": "https://timesofindia.indiatimes.com/gupshup-acquires-us-based-dotgo/articleshow/86455632.cms",
+   "title": "Gupshup acquires US-based Dotgo",
+   "tier": "T2",
+   "claim": "acquisition DOTGO"
+  },
+  {
+   "url": "https://entrackr.com/2022/04/gupshup-acquires-active-ai/",
+   "title": "Gupshup acquires Active.AI",
+   "tier": "T2",
+   "claim": "acquisition Active.ai"
+  },
+  {
+   "url": "https://www.businesswire.com/news/home/20220202005128/en/Gupshup-Acquires-AI-Powered-Voice-Leader-Knowlarity-Strengthens-Conversational-Engagement-Portfolio",
+   "title": "Gupshup Acquires AI-Powered Voice Leader, Knowlarity",
+   "tier": "T2",
+   "claim": "acquisition Knowlarity Communications"
+  },
+  {
+   "url": "https://timesofindia.indiatimes.com/gupshup-acquires-us-based-dotgo/articleshow/86455632.cms",
+   "title": "Gupshup acquires US-based Dotgo",
+   "tier": "T2",
+   "claim": "acquisition DOTGO"
+  },
+  {
+   "url": "https://entrackr.com/2022/04/gupshup-acquires-active-ai/",
+   "title": "Gupshup acquires Active.AI",
+   "tier": "T2",
+   "claim": "acquisition Active.ai"
+  },
+  {
+   "url": "https://www.businesswire.com/news/home/20220202005128/en/Gupshup-Acquires-AI-Powered-Voice-Leader-Knowlarity-Strengthens-Conversational-Engagement-Portfolio",
+   "title": "Gupshup Acquires AI-Powered Voice Leader, Knowlarity",
+   "tier": "T2",
+   "claim": "acquisition Knowlarity Communications"
+  },
+  {
+   "url": "https://timesofindia.indiatimes.com/gupshup-acquires-us-based-dotgo/articleshow/86455632.cms",
+   "title": "Gupshup acquires US-based Dotgo",
+   "tier": "T2",
+   "claim": "acquisition DOTGO"
+  },
+  {
+   "url": "https://entrackr.com/2022/04/gupshup-acquires-active-ai/",
+   "title": "Gupshup acquires Active.AI",
+   "tier": "T2",
+   "claim": "acquisition Active.ai"
+  },
+  {
+   "url": "https://www.businesswire.com/news/home/20220202005128/en/Gupshup-Acquires-AI-Powered-Voice-Leader-Knowlarity-Strengthens-Conversational-Engagement-Portfolio",
+   "title": "Gupshup Acquires AI-Powered Voice Leader, Knowlarity",
+   "tier": "T2",
+   "claim": "acquisition Knowlarity Communications"
+  },
+  {
+   "url": "https://timesofindia.indiatimes.com/gupshup-acquires-us-based-dotgo/articleshow/86455632.cms",
+   "title": "Gupshup acquires US-based Dotgo",
+   "tier": "T2",
+   "claim": "acquisition DOTGO"
+  },
+  {
+   "url": "https://entrackr.com/2022/04/gupshup-acquires-active-ai/",
+   "title": "Gupshup acquires Active.AI",
+   "tier": "T2",
+   "claim": "acquisition Active.ai"
+  },
+  {
+   "url": "https://www.businesswire.com/news/home/20220202005128/en/Gupshup-Acquires-AI-Powered-Voice-Leader-Knowlarity-Strengthens-Conversational-Engagement-Portfolio",
+   "title": "Gupshup Acquires AI-Powered Voice Leader, Knowlarity",
+   "tier": "T2",
+   "claim": "acquisition Knowlarity Communications"
+  },
+  {
+   "url": "https://timesofindia.indiatimes.com/gupshup-acquires-us-based-dotgo/articleshow/86455632.cms",
+   "title": "Gupshup acquires US-based Dotgo",
+   "tier": "T2",
+   "claim": "acquisition DOTGO"
+  },
+  {
+   "url": "https://entrackr.com/2022/04/gupshup-acquires-active-ai/",
+   "title": "Gupshup acquires Active.AI",
+   "tier": "T2",
+   "claim": "acquisition Active.ai"
+  },
+  {
+   "url": "https://www.businesswire.com/news/home/20220202005128/en/Gupshup-Acquires-AI-Powered-Voice-Leader-Knowlarity-Strengthens-Conversational-Engagement-Portfolio",
+   "title": "Gupshup Acquires AI-Powered Voice Leader, Knowlarity",
+   "tier": "T2",
+   "claim": "acquisition Knowlarity Communications"
+  },
+  {
+   "url": "https://timesofindia.indiatimes.com/gupshup-acquires-us-based-dotgo/articleshow/86455632.cms",
+   "title": "Gupshup acquires US-based Dotgo",
+   "tier": "T2",
+   "claim": "acquisition DOTGO"
+  },
+  {
+   "url": "https://entrackr.com/2022/04/gupshup-acquires-active-ai/",
+   "title": "Gupshup acquires Active.AI",
+   "tier": "T2",
+   "claim": "acquisition Active.ai"
+  },
+  {
+   "url": "https://www.businesswire.com/news/home/20220202005128/en/Gupshup-Acquires-AI-Powered-Voice-Leader-Knowlarity-Strengthens-Conversational-Engagement-Portfolio",
+   "title": "Gupshup Acquires AI-Powered Voice Leader, Knowlarity",
+   "tier": "T2",
+   "claim": "acquisition Knowlarity Communications"
+  },
+  {
+   "url": "https://timesofindia.indiatimes.com/gupshup-acquires-us-based-dotgo/articleshow/86455632.cms",
+   "title": "Gupshup acquires US-based Dotgo",
+   "tier": "T2",
+   "claim": "acquisition DOTGO"
+  },
+  {
+   "url": "https://entrackr.com/2022/04/gupshup-acquires-active-ai/",
+   "title": "Gupshup acquires Active.AI",
+   "tier": "T2",
+   "claim": "acquisition Active.ai"
+  },
+  {
+   "url": "https://www.businesswire.com/news/home/20220202005128/en/Gupshup-Acquires-AI-Powered-Voice-Leader-Knowlarity-Strengthens-Conversational-Engagement-Portfolio",
+   "title": "Gupshup Acquires AI-Powered Voice Leader, Knowlarity",
+   "tier": "T2",
+   "claim": "acquisition Knowlarity Communications"
+  },
+  {
+   "url": "https://timesofindia.indiatimes.com/gupshup-acquires-us-based-dotgo/articleshow/86455632.cms",
+   "title": "Gupshup acquires US-based Dotgo",
+   "tier": "T2",
+   "claim": "acquisition DOTGO"
+  },
+  {
+   "url": "https://entrackr.com/2022/04/gupshup-acquires-active-ai/",
+   "title": "Gupshup acquires Active.AI",
+   "tier": "T2",
+   "claim": "acquisition Active.ai"
+  },
+  {
+   "url": "https://www.businesswire.com/news/home/20220202005128/en/Gupshup-Acquires-AI-Powered-Voice-Leader-Knowlarity-Strengthens-Conversational-Engagement-Portfolio",
+   "title": "Gupshup Acquires AI-Powered Voice Leader, Knowlarity",
+   "tier": "T2",
+   "claim": "acquisition Knowlarity Communications"
+  },
+  {
+   "url": "https://timesofindia.indiatimes.com/gupshup-acquires-us-based-dotgo/articleshow/86455632.cms",
+   "title": "Gupshup acquires US-based Dotgo",
+   "tier": "T2",
+   "claim": "acquisition DOTGO"
+  },
+  {
+   "url": "https://entrackr.com/2022/04/gupshup-acquires-active-ai/",
+   "title": "Gupshup acquires Active.AI",
+   "tier": "T2",
+   "claim": "acquisition Active.ai"
+  },
+  {
+   "url": "https://www.businesswire.com/news/home/20220202005128/en/Gupshup-Acquires-AI-Powered-Voice-Leader-Knowlarity-Strengthens-Conversational-Engagement-Portfolio",
+   "title": "Gupshup Acquires AI-Powered Voice Leader, Knowlarity",
+   "tier": "T2",
+   "claim": "acquisition Knowlarity Communications"
+  },
+  {
+   "url": "https://timesofindia.indiatimes.com/gupshup-acquires-us-based-dotgo/articleshow/86455632.cms",
+   "title": "Gupshup acquires US-based Dotgo",
+   "tier": "T2",
+   "claim": "acquisition DOTGO"
+  },
+  {
+   "url": "https://entrackr.com/2022/04/gupshup-acquires-active-ai/",
+   "title": "Gupshup acquires Active.AI",
+   "tier": "T2",
+   "claim": "acquisition Active.ai"
+  },
+  {
+   "url": "https://www.businesswire.com/news/home/20220202005128/en/Gupshup-Acquires-AI-Powered-Voice-Leader-Knowlarity-Strengthens-Conversational-Engagement-Portfolio",
+   "title": "Gupshup Acquires AI-Powered Voice Leader, Knowlarity",
+   "tier": "T2",
+   "claim": "acquisition Knowlarity Communications"
+  },
+  {
+   "url": "https://timesofindia.indiatimes.com/gupshup-acquires-us-based-dotgo/articleshow/86455632.cms",
+   "title": "Gupshup acquires US-based Dotgo",
+   "tier": "T2",
+   "claim": "acquisition DOTGO"
+  },
+  {
+   "url": "https://entrackr.com/2022/04/gupshup-acquires-active-ai/",
+   "title": "Gupshup acquires Active.AI",
+   "tier": "T2",
+   "claim": "acquisition Active.ai"
+  },
+  {
+   "url": "https://www.businesswire.com/news/home/20220202005128/en/Gupshup-Acquires-AI-Powered-Voice-Leader-Knowlarity-Strengthens-Conversational-Engagement-Portfolio",
+   "title": "Gupshup Acquires AI-Powered Voice Leader, Knowlarity",
+   "tier": "T2",
+   "claim": "acquisition Knowlarity Communications"
+  },
+  {
+   "url": "https://timesofindia.indiatimes.com/gupshup-acquires-us-based-dotgo/articleshow/86455632.cms",
+   "title": "Gupshup acquires US-based Dotgo",
+   "tier": "T2",
+   "claim": "acquisition DOTGO"
+  },
+  {
+   "url": "https://entrackr.com/2022/04/gupshup-acquires-active-ai/",
+   "title": "Gupshup acquires Active.AI",
+   "tier": "T2",
+   "claim": "acquisition Active.ai"
+  },
+  {
+   "url": "https://www.businesswire.com/news/home/20220202005128/en/Gupshup-Acquires-AI-Powered-Voice-Leader-Knowlarity-Strengthens-Conversational-Engagement-Portfolio",
+   "title": "Gupshup Acquires AI-Powered Voice Leader, Knowlarity",
+   "tier": "T2",
+   "claim": "acquisition Knowlarity Communications"
+  },
+  {
+   "url": "https://timesofindia.indiatimes.com/gupshup-acquires-us-based-dotgo/articleshow/86455632.cms",
+   "title": "Gupshup acquires US-based Dotgo",
+   "tier": "T2",
+   "claim": "acquisition DOTGO"
+  },
+  {
+   "url": "https://entrackr.com/2022/04/gupshup-acquires-active-ai/",
+   "title": "Gupshup acquires Active.AI",
+   "tier": "T2",
+   "claim": "acquisition Active.ai"
+  },
+  {
+   "url": "https://www.businesswire.com/news/home/20220202005128/en/Gupshup-Acquires-AI-Powered-Voice-Leader-Knowlarity-Strengthens-Conversational-Engagement-Portfolio",
+   "title": "Gupshup Acquires AI-Powered Voice Leader, Knowlarity",
+   "tier": "T2",
+   "claim": "acquisition Knowlarity Communications"
+  },
+  {
+   "url": "https://timesofindia.indiatimes.com/gupshup-acquires-us-based-dotgo/articleshow/86455632.cms",
+   "title": "Gupshup acquires US-based Dotgo",
+   "tier": "T2",
+   "claim": "acquisition DOTGO"
+  },
+  {
+   "url": "https://entrackr.com/2022/04/gupshup-acquires-active-ai/",
+   "title": "Gupshup acquires Active.AI",
+   "tier": "T2",
+   "claim": "acquisition Active.ai"
+  },
+  {
+   "url": "https://www.businesswire.com/news/home/20220202005128/en/Gupshup-Acquires-AI-Powered-Voice-Leader-Knowlarity-Strengthens-Conversational-Engagement-Portfolio",
+   "title": "Gupshup Acquires AI-Powered Voice Leader, Knowlarity",
+   "tier": "T2",
+   "claim": "acquisition Knowlarity Communications"
+  },
+  {
+   "url": "https://timesofindia.indiatimes.com/gupshup-acquires-us-based-dotgo/articleshow/86455632.cms",
+   "title": "Gupshup acquires US-based Dotgo",
+   "tier": "T2",
+   "claim": "acquisition DOTGO"
+  },
+  {
+   "url": "https://entrackr.com/2022/04/gupshup-acquires-active-ai/",
+   "title": "Gupshup acquires Active.AI",
+   "tier": "T2",
+   "claim": "acquisition Active.ai"
+  },
+  {
+   "url": "https://www.businesswire.com/news/home/20220202005128/en/Gupshup-Acquires-AI-Powered-Voice-Leader-Knowlarity-Strengthens-Conversational-Engagement-Portfolio",
+   "title": "Gupshup Acquires AI-Powered Voice Leader, Knowlarity",
+   "tier": "T2",
+   "claim": "acquisition Knowlarity Communications"
+  },
+  {
+   "url": "https://timesofindia.indiatimes.com/gupshup-acquires-us-based-dotgo/articleshow/86455632.cms",
+   "title": "Gupshup acquires US-based Dotgo",
+   "tier": "T2",
+   "claim": "acquisition DOTGO"
+  },
+  {
+   "url": "https://entrackr.com/2022/04/gupshup-acquires-active-ai/",
+   "title": "Gupshup acquires Active.AI",
+   "tier": "T2",
+   "claim": "acquisition Active.ai"
+  },
+  {
+   "url": "https://www.businesswire.com/news/home/20220202005128/en/Gupshup-Acquires-AI-Powered-Voice-Leader-Knowlarity-Strengthens-Conversational-Engagement-Portfolio",
+   "title": "Gupshup Acquires AI-Powered Voice Leader, Knowlarity",
+   "tier": "T2",
+   "claim": "acquisition Knowlarity Communications"
+  },
+  {
+   "url": "https://timesofindia.indiatimes.com/gupshup-acquires-us-based-dotgo/articleshow/86455632.cms",
+   "title": "Gupshup acquires US-based Dotgo",
+   "tier": "T2",
+   "claim": "acquisition DOTGO"
+  },
+  {
+   "url": "https://entrackr.com/2022/04/gupshup-acquires-active-ai/",
+   "title": "Gupshup acquires Active.AI",
+   "tier": "T2",
+   "claim": "acquisition Active.ai"
+  },
+  {
+   "url": "https://www.businesswire.com/news/home/20220202005128/en/Gupshup-Acquires-AI-Powered-Voice-Leader-Knowlarity-Strengthens-Conversational-Engagement-Portfolio",
+   "title": "Gupshup Acquires AI-Powered Voice Leader, Knowlarity",
+   "tier": "T2",
+   "claim": "acquisition Knowlarity Communications"
+  },
+  {
+   "url": "https://timesofindia.indiatimes.com/gupshup-acquires-us-based-dotgo/articleshow/86455632.cms",
+   "title": "Gupshup acquires US-based Dotgo",
+   "tier": "T2",
+   "claim": "acquisition DOTGO"
+  },
+  {
+   "url": "https://entrackr.com/2022/04/gupshup-acquires-active-ai/",
+   "title": "Gupshup acquires Active.AI",
+   "tier": "T2",
+   "claim": "acquisition Active.ai"
+  },
+  {
+   "url": "https://www.businesswire.com/news/home/20220202005128/en/Gupshup-Acquires-AI-Powered-Voice-Leader-Knowlarity-Strengthens-Conversational-Engagement-Portfolio",
+   "title": "Gupshup Acquires AI-Powered Voice Leader, Knowlarity",
+   "tier": "T2",
+   "claim": "acquisition Knowlarity Communications"
+  },
+  {
+   "url": "https://timesofindia.indiatimes.com/gupshup-acquires-us-based-dotgo/articleshow/86455632.cms",
+   "title": "Gupshup acquires US-based Dotgo",
+   "tier": "T2",
+   "claim": "acquisition DOTGO"
+  },
+  {
+   "url": "https://entrackr.com/2022/04/gupshup-acquires-active-ai/",
+   "title": "Gupshup acquires Active.AI",
+   "tier": "T2",
+   "claim": "acquisition Active.ai"
+  },
+  {
+   "url": "https://www.businesswire.com/news/home/20220202005128/en/Gupshup-Acquires-AI-Powered-Voice-Leader-Knowlarity-Strengthens-Conversational-Engagement-Portfolio",
+   "title": "Gupshup Acquires AI-Powered Voice Leader, Knowlarity",
+   "tier": "T2",
+   "claim": "acquisition Knowlarity Communications"
+  },
+  {
+   "url": "https://timesofindia.indiatimes.com/gupshup-acquires-us-based-dotgo/articleshow/86455632.cms",
+   "title": "Gupshup acquires US-based Dotgo",
+   "tier": "T2",
+   "claim": "acquisition DOTGO"
+  },
+  {
+   "url": "https://entrackr.com/2022/04/gupshup-acquires-active-ai/",
+   "title": "Gupshup acquires Active.AI",
+   "tier": "T2",
+   "claim": "acquisition Active.ai"
+  }
+ ],
+ "startup_id": "gupshup",
+ "traction": [
+  {
+   "as_of": "2025",
+   "company_reported": true,
+   "confidence": "MEDIUM",
+   "metric": "messages processed",
+   "period": "annual",
+   "source_url": "https://techcrunch.com/2025/07/22/gupshup-raises-60m-in-equity-and-debt-leaves-unicorn-status-hanging",
+   "value": "120B+ messages/year; thousands of enterprises; 50,000+ customers (company site)"
+  }
+ ],
+ "completeness_self": {
+  "customers": 6,
+  "financials": 6,
+  "founders": 6,
+  "funding": 8,
+  "identity": 7,
+  "investors": 8,
+  "legal": 4,
+  "people": 4,
+  "products": 7,
+  "sources": 8,
+  "traction": 6
+ },
+ "_merged_session2": true
+}

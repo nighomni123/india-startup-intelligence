@@ -1,0 +1,240 @@
+{
+ "company": {
+  "business_model": "B2B AI infrastructure — model routing / cost optimization + financial layer (Autonomous Spend API) for AI agents",
+  "cin": "",
+  "city": "San Francisco (US) — NOT Bengaluru; batch city attribution unsupported by evidence",
+  "company_name": "Sapiom",
+  "country": "United States (per all observed coverage)",
+  "founded_date": "",
+  "incorporation_date": "",
+  "primary_sector": "AI infrastructure / agentic tooling",
+  "public_private": "Private",
+  "startup_stage": "Early (Series A)",
+  "state": "",
+  "status": "ACTIVE — $35M Series A Aug 2026 (Dragonfly-led per Semafor); Anthropic participation reported. WARNING: company appears US-based, not Indian — possible batch misattribution or name collision.",
+  "total_funding_disclosed": "~$50M ($15M seed Feb 2026 + $35M Series A Aug 2026)",
+  "official_website": {
+   "v": "https://www.sapiom.ai",
+   "conf": "high",
+   "src": "https://www.sapiom.ai",
+   "note": "verified live 2026-09-15: name match on own homepage"
+  },
+  "careers_website": {
+   "v": "https://www.sapiom.ai/careers/",
+   "conf": "high",
+   "src": "https://www.sapiom.ai",
+   "note": "careers link found on official homepage, probed live"
+  },
+  "website": "https://www.sapiom.ai"
+ },
+ "completeness_self": {
+  "financials": 0,
+  "founders": 6,
+  "funding": 7,
+  "identity": 5,
+  "investors": 6,
+  "legal": 0,
+  "people": 1,
+  "products": 6,
+  "sources": 7,
+  "traction": 3
+ },
+ "conflicts": [
+  {
+   "claim_a": "Batch manifest: Sapiom, Bengaluru, AI infra agentic, 'active' (Tracxn platform URL)",
+   "claim_b": "All news coverage (TechCrunch, Semafor, Dealroom, Memeburn, AI Insider, Okta): San Francisco startup founded by ex-Shopify Ilan Zerbib",
+   "field": "hq_city / country",
+   "resolution": "Evidence strongly favors San Francisco, USA. Batch Bengaluru attribution unsupported — flag for upstream dedupe/exclusion as foreign. No registry/CIN evidence of an Indian entity.",
+   "url_a": "https://platform.tracxn.com/a/d/company/6895db3bf8267c29c005fc25/sapiom",
+   "url_b": "https://techcrunch.com/2026/02/05/sapiom-raises-15m-to-help-ai-agents-buy-their-own-tech-tools/",
+   "resolved_value": "San Francisco, USA (ESTIMATE pending primary confirmation)"
+  }
+ ],
+ "events": [
+  {
+   "announced_date": "2026-08-05",
+   "confidence": "MEDIUM",
+   "date": "2026-08-05",
+   "description": "$35M Series A reportedly led by Dragonfly (Haseeb Qureshi); model-routing product; claimed to cut one startup's Anthropic bill $1.2M (per Memeburn summary).",
+   "headline": "$35M Series A to cut AI-agent run costs",
+   "source_url": "https://www.semafor.com/article/08/05/2026/startup-sapiom-routes-clients-ai-to-lowest-cost-tokens",
+   "type": "funding"
+  },
+  {
+   "announced_date": "2026-02-05",
+   "confidence": "HIGH",
+   "date": "2026-02-05",
+   "description": "$15M seed for financial infrastructure layer handling auth + micro-payments so AI agents can buy tools; founder ex-Shopify payments engineering director.",
+   "headline": "$15M seed (financial infrastructure for AI agents)",
+   "source_url": "https://techcrunch.com/2026/02/05/sapiom-raises-15m-to-help-ai-agents-buy-their-own-tech-tools/",
+   "type": "funding"
+  }
+ ],
+ "financials": [],
+ "founders": [
+  {
+   "background": "5 years Shopify director of engineering, payments (per TechCrunch)",
+   "confidence": "HIGH",
+   "name": "Ilan Zerbib",
+   "role": "Founder & CEO",
+   "source_url": "https://techcrunch.com/2026/02/05/sapiom-raises-15m-to-help-ai-agents-buy-their-own-tech-tools/",
+   "still_active": true,
+   "type": "founder"
+  }
+ ],
+ "funding_rounds": [
+  {
+   "all_investors": [
+    "Dragonfly (reported lead)",
+    "Anthropic (reported participant)"
+   ],
+   "amount": "35",
+   "announced_date": "2026-08-05",
+   "confidence": "MEDIUM",
+   "currency": "USD",
+   "lead_investors": [
+    "Dragonfly"
+   ],
+   "purpose": "Scale model-routing / agent cost-optimization infra",
+   "round_type": "Series A",
+   "source_date": "2026-08-05",
+   "source_title": "Startup Sapiom routes clients' AI to lowest-cost tokens — Semafor",
+   "source_url": "https://www.semafor.com/article/08/05/2026/startup-sapiom-routes-clients-ai-to-lowest-cost-tokens",
+   "tier": "T3"
+  },
+  {
+   "all_investors": [
+    "Accel (backing, per TechCrunch snippet)"
+   ],
+   "amount": "15",
+   "announced_date": "2026-02-05",
+   "confidence": "HIGH",
+   "currency": "USD",
+   "lead_investors": [],
+   "purpose": "Build financial infrastructure layer for AI agents",
+   "round_type": "Seed",
+   "source_date": "2026-02-05",
+   "source_title": "Sapiom raises $15M to help AI agents buy their own tech tools — TechCrunch",
+   "source_url": "https://techcrunch.com/2026/02/05/sapiom-raises-15m-to-help-ai-agents-buy-their-own-tech-tools/",
+   "tier": "T3"
+  }
+ ],
+ "gaps": [
+  "No evidence of Indian incorporation, Bengaluru ops, CIN, or DPIIT record — core identity gap vs batch",
+  "Founding date unverified",
+  "Series A lead/participants single-sourced via snippets (Semafor/Dealroom/Memeburn) — full article text not fetched",
+  "Revenue/financials undisclosed",
+  "Recommend upstream review: exclude as foreign-only OR confirm distinct Indian entity named Sapiom"
+ ],
+ "investor_links": [
+  {
+   "confidence": "MEDIUM",
+   "first_seen": "2026-02",
+   "investor": "Accel",
+   "investor_type": "VC",
+   "lead": false,
+   "rounds": [
+    "Seed Feb 2026 (backing per TechCrunch snippet)"
+   ],
+   "source_url": "https://techcrunch.com/2026/02/05/sapiom-raises-15m-to-help-ai-agents-buy-their-own-tech-tools/"
+  },
+  {
+   "confidence": "MEDIUM",
+   "first_seen": "2026-08",
+   "investor": "Dragonfly",
+   "investor_type": "VC",
+   "lead": true,
+   "rounds": [
+    "Series A Aug 2026 (reported)"
+   ],
+   "source_url": "https://www.semafor.com/article/08/05/2026/startup-sapiom-routes-clients-ai-to-lowest-cost-tokens"
+  },
+  {
+   "confidence": "LOW",
+   "first_seen": "2026-08",
+   "investor": "Anthropic",
+   "investor_type": "Strategic corporate",
+   "lead": false,
+   "rounds": [
+    "Series A Aug 2026 (reported participant)"
+   ],
+   "source_url": "https://memeburn.com/sapiom-raises-35m-to-route-ai-agents-to-cheaper-models/"
+  }
+ ],
+ "products": [
+  {
+   "category": "AI agent infrastructure: model routing + Autonomous Spend API (machine-to-business payments)",
+   "confidence": "MEDIUM",
+   "name": "Sapiom agent infrastructure layer",
+   "source_url": "https://www.sapiom.ai",
+   "status": "live"
+  }
+ ],
+ "research_log": [
+  {
+   "found": "Sapiom = SF startup, Ilan Zerbib, $35M Series A (Dragonfly), $15M seed Feb 2026, Anthropic backer — no Indian footprint in any result",
+   "next_action": "Probe Bengaluru angle explicitly",
+   "query": "Sapiom startup AI status funding 2026",
+   "unresolved": "Indian entity?"
+  },
+  {
+   "found": "No Bengaluru evidence; all sources US. Fetched TechCrunch seed article to vault.",
+   "next_action": "Done — write ACTIVE-with-HQ-conflict JSON, flag for upstream",
+   "query": "Sapiom Bengaluru AI startup founders",
+   "unresolved": "Batch city attribution"
+  }
+ ],
+ "sources": [
+  {
+   "claim_supported": "$15M seed, founder Ilan Zerbib ex-Shopify, financial-infra product",
+   "fields_supported": [
+    "funding_rounds",
+    "founders",
+    "products"
+   ],
+   "publication_date": "2026-02-05",
+   "publisher": "TechCrunch",
+   "retrieved_date": "2026-09-15",
+   "tier": "T3",
+   "title": "Sapiom raises $15M to help AI agents buy their own tech tools",
+   "url": "https://techcrunch.com/2026/02/05/sapiom-raises-15m-to-help-ai-agents-buy-their-own-tech-tools/"
+  },
+  {
+   "claim_supported": "$35M Series A led by Dragonfly, lowest-cost token routing",
+   "fields_supported": [
+    "funding_rounds"
+   ],
+   "publication_date": "2026-08-05",
+   "publisher": "Semafor",
+   "retrieved_date": "2026-09-15",
+   "tier": "T3",
+   "title": "Startup Sapiom routes clients' AI to lowest-cost tokens",
+   "url": "https://www.semafor.com/article/08/05/2026/startup-sapiom-routes-clients-ai-to-lowest-cost-tokens"
+  },
+  {
+   "claim_supported": "$35M Series A to cut agent costs",
+   "fields_supported": [
+    "funding_rounds"
+   ],
+   "publisher": "Dealroom",
+   "retrieved_date": "2026-09-15",
+   "tier": "T2",
+   "title": "Sapiom raises $35M Series A to cut the cost of running AI agents",
+   "url": "https://app.dealroom.co/news/note/sapiom-raises-35m-series-a-to-cut-the-cost-of-running-ai-agents"
+  },
+  {
+   "claim_supported": "Anthropic as backer; $1.2M bill-cut anecdote",
+   "fields_supported": [
+    "investor_links"
+   ],
+   "publisher": "Memeburn",
+   "retrieved_date": "2026-09-15",
+   "tier": "T3",
+   "title": "Sapiom Raises $35M to Route AI Agents to Cheaper Models. Anthropic Is a Backer",
+   "url": "https://memeburn.com/sapiom-raises-35m-to-route-ai-agents-to-cheaper-models/"
+  }
+ ],
+ "startup_id": "sapiom",
+ "traction": [],
+ "_merged_session2": true
+}

@@ -1,0 +1,45 @@
+{
+ "canonical_key": "lenskart",
+ "updates": {
+  "company": {
+   "city": "Faridabad",
+   "state": "Haryana",
+   "registered_office": "12/3 Mathura Road, NH2, Sector 27D, Faridabad (per Craft); corporate office Vatik Mindscapes, Sector 27B, Faridabad; HQ also cited Gurugram"
+  }
+ },
+ "financials_add": [],
+ "round_supplements": [],
+ "investors_meta": [],
+ "people": [],
+ "sources": [
+  {
+   "url": "https://craft.co/lenskart/locations",
+   "title": "Lenskart Corporate Headquarters, Office Locations",
+   "publication_date": null,
+   "fields": [
+    "city",
+    "registered_office"
+   ],
+   "confidence": "MEDIUM"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Lenskart",
+   "title": "Lenskart - Wikipedia",
+   "publication_date": null,
+   "fields": [
+    "city"
+   ],
+   "confidence": "LOW"
+  }
+ ],
+ "log": [
+  {
+   "query": "Lenskart registered office city",
+   "found": "Faridabad (Craft + Justdial corporate office); CONFLICT: Wikipedia says HQ Gurgaon — likely operating HQ vs registered",
+   "unresolved": "exact MCA registered address"
+  }
+ ],
+ "still_missing": [
+  "MCA-exact registered address"
+ ]
+}

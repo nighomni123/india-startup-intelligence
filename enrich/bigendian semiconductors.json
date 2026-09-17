@@ -1,0 +1,330 @@
+{
+ "startup_id": "bigendian semiconductors",
+ "company": {
+  "company_name": {
+   "v": "BigEndian Semiconductors",
+   "conf": 1.0
+  },
+  "status": {
+   "v": "Active",
+   "date": "2026-05-08",
+   "conf": 1.0
+  },
+  "city": {
+   "v": "Bengaluru",
+   "conf": 1.0
+  },
+  "primary_sector": {
+   "v": "Semiconductors / Fabless chip design",
+   "conf": 1.0
+  },
+  "startup_stage": {
+   "v": "Growth (Pre-Series A)",
+   "conf": 0.9
+  },
+  "public_private": {
+   "v": "Private",
+   "conf": 1.0
+  },
+  "founded_date": {
+   "v": "2024-03-16",
+   "conf": 1.0
+  },
+  "business_model": {
+   "v": "Fabless semiconductor design; builds secure Vision AI SoCs",
+   "conf": 0.95
+  },
+  "cin": {
+   "v": "U26109KA2024PTC186339",
+   "conf": 1.0
+  },
+  "incorporation_date": {
+   "v": "2024-03-16",
+   "conf": 1.0
+  },
+  "registered_office": {
+   "v": "2nd Floor, Aviation Complex, 16-17, Road No 7EPIP, Whitefield, Bangalore South, Karnataka, 560066",
+   "conf": 1.0
+  },
+  "official_website": {
+   "v": "https://bigendiansemi.com",
+   "conf": "high",
+   "src": "https://bigendiansemi.com",
+   "note": "verified live 2026-09-15: name match on own homepage"
+  },
+  "careers_website": {
+   "v": "https://bigendiansemi.com/career/",
+   "conf": "high",
+   "src": "https://bigendiansemi.com",
+   "note": "careers link found on official homepage, probed live"
+  },
+  "website": "https://bigendiansemi.com"
+ },
+ "funding_rounds": [
+  {
+   "round_type": "Seed",
+   "announced_date": "2024-09-03",
+   "amount": {
+    "v": 3000000,
+    "currency": "USD"
+   },
+   "lead_investors": [
+    "Vertex Ventures SEA & India"
+   ],
+   "all_investors": [
+    "Vertex Ventures SEA & India",
+    "IAN Group",
+    "IvyCap Ventures"
+   ],
+   "purpose": "Build SoC solutions for surveillance cameras",
+   "source_url": "https://inc42.com/buzz/from-skyroot-to-pronto-indian-startups-raised-132-mn-this-week",
+   "source_title": "Inc42: From Skyroot to Pronto",
+   "source_date": "2024-09-06",
+   "tier": "T2",
+   "confidence": 0.9
+  },
+  {
+   "round_type": "Pre-Series A",
+   "announced_date": "2026-05-06",
+   "amount": {
+    "v": 6000000,
+    "currency": "USD"
+   },
+   "lead_investors": [
+    "IAN Alpha Fund"
+   ],
+   "all_investors": [
+    "IAN Alpha Fund",
+    "Vertex Ventures SEA & India",
+    "IvyCap Ventures"
+   ],
+   "purpose": "Commercialise first Vision AI SoC after tape-out",
+   "source_url": "https://economictimes.indiatimes.com/tech/funding/bigendian-semiconductors-bags-6-million-funding-to-scale-indigenous-visionai-chips/articleshow/130842533.cms",
+   "source_title": "ET: BigEndian bags $6M",
+   "source_date": "2026-05-06",
+   "tier": "T1",
+   "confidence": 1.0
+  }
+ ],
+ "founders": [
+  {
+   "name": "Sunil Kumar",
+   "role": "Co-Founder & CEO",
+   "type": "founder",
+   "background": "Former Intel, ARM, Broadcom; co-founder of Zenoti (SaaS unicorn)",
+   "still_active": true,
+   "source_url": "https://bigendiansemi.com/our-team/",
+   "confidence": 0.95
+  },
+  {
+   "name": "Renuka Prasad",
+   "role": "Co-Founder",
+   "type": "co-founder",
+   "still_active": true,
+   "source_url": "https://bigendiansemi.com/our-team/",
+   "confidence": 0.8
+  },
+  {
+   "name": "Kanagaraju Ponnusamy",
+   "role": "Co-Founder & Head of Engineering",
+   "type": "co-founder",
+   "still_active": true,
+   "source_url": "https://www.vertexventures.sg/projects/bigendian-semiconductors/",
+   "confidence": 0.85
+  },
+  {
+   "name": "Dinesh Annayya",
+   "role": "Co-Founder",
+   "type": "co-founder",
+   "still_active": true,
+   "source_url": "https://www.tofler.in/bigendian-semiconductors-private-limited/company/U26109KA2024PTC186339",
+   "confidence": 0.9
+  },
+  {
+   "name": "Harpreet Wadhawan",
+   "role": "Co-Founder",
+   "type": "co-founder",
+   "still_active": true,
+   "source_url": "https://bigendiansemi.com/our-team/",
+   "confidence": 0.8
+  },
+  {
+   "name": "Jansen Cheng",
+   "role": "VP Global BD & Co-Founder",
+   "type": "co-founder",
+   "still_active": true,
+   "source_url": "https://linkedin.com/company/bigendiansemi",
+   "confidence": 0.85
+  }
+ ],
+ "investor_links": [
+  {
+   "investor": "IAN Alpha Fund",
+   "investor_type": "Venture Capital (SEBI Cat II AIF)",
+   "first_seen": "2026-05-06",
+   "rounds": [
+    "Pre-Series A"
+   ],
+   "lead": true,
+   "amount": {
+    "v": 6000000,
+    "currency": "USD"
+   },
+   "source_url": "https://iangroup.vc/2026/05/06/ian-alpha-fund-leads-usd-6-million-investment-round-in-bigendian-semiconductors/",
+   "confidence": 1.0
+  },
+  {
+   "investor": "Vertex Ventures SEA & India",
+   "investor_type": "Venture Capital",
+   "first_seen": "2024-09-02",
+   "rounds": [
+    "Seed",
+    "Pre-Series A"
+   ],
+   "lead": false,
+   "source_url": "https://www.vertexventures.sg/projects/bigendian-semiconductors/",
+   "confidence": 0.95
+  },
+  {
+   "investor": "IvyCap Ventures",
+   "investor_type": "Venture Capital",
+   "first_seen": "2024-09-02",
+   "rounds": [
+    "Seed",
+    "Pre-Series A"
+   ],
+   "lead": false,
+   "source_url": "https://economictimes.indiatimes.com/tech/funding/bigendian-semiconductors-bags-6-million-funding-to-scale-indigenous-visionai-chips/articleshow/130842533.cms",
+   "confidence": 0.9
+  }
+ ],
+ "financials": [
+  {
+   "fiscal_year": "FY25",
+   "metric": "Paid-up capital",
+   "value": 312300,
+   "unit": "INR",
+   "currency": "INR",
+   "value_type": "audited",
+   "source_url": "https://www.tofler.in/bigendian-semiconductors-private-limited/company/U26109KA2024PTC186339",
+   "source_title": "Tofler",
+   "source_date": "2026-05-26",
+   "confidence": 0.9
+  },
+  {
+   "fiscal_year": "FY26",
+   "metric": "Total funding raised",
+   "value": 9000000,
+   "unit": "USD",
+   "currency": "USD",
+   "value_type": "press-quoted-filing",
+   "source_url": "https://www.cbinsights.com/company/bigendian-semiconductors",
+   "source_title": "CB Insights",
+   "source_date": "2026-05-06",
+   "confidence": 0.95
+  }
+ ],
+ "events": [
+  {
+   "date": "2024-09-03",
+   "announced_date": "2024-09-03",
+   "type": "funding",
+   "headline": "BigEndian raises $3M Seed round",
+   "description": "Seed round to build SoC solutions for surveillance cameras",
+   "source_url": "https://inc42.com/buzz/from-skyroot-to-pronto-indian-startups-raised-132-mn-this-week",
+   "confidence": 0.9
+  },
+  {
+   "date": "2026-05-06",
+   "announced_date": "2026-05-06",
+   "type": "funding",
+   "headline": "BigEndian raises $6M Pre-Series A led by IAN Alpha Fund",
+   "description": "Pre-production round to commercialise first Vision AI SoC",
+   "source_url": "https://economictimes.indiatimes.com/tech/funding/bigendian-semiconductors-bags-6-million-funding-to-scale-indigenous-visionai-chips/articleshow/130842533.cms",
+   "confidence": 1.0
+  },
+  {
+   "date": "2026-05-08",
+   "announced_date": "2026-05-08",
+   "type": "product_milestone",
+   "headline": "BigEndian completes tape-out of first chipset",
+   "description": "Entering production and commercialisation phase",
+   "source_url": "https://economictimes.indiatimes.com/tech/funding/bigendian-semiconductors-bags-6-million-funding-to-scale-indigenous-visionai-chips/articleshow/130842533.cms",
+   "confidence": 0.9
+  }
+ ],
+ "sources": [
+  {
+   "url": "https://economictimes.indiatimes.com/tech/funding/bigendian-semiconductors-bags-6-million-funding-to-scale-indigenous-visionai-chips/articleshow/130842533.cms",
+   "title": "ET: BigEndian bags $6M",
+   "publisher": "The Economic Times",
+   "publication_date": "2026-05-06",
+   "tier": "T1",
+   "claim_supported": "funding, founders",
+   "fields_supported": [
+    "funding_rounds",
+    "founders"
+   ]
+  },
+  {
+   "url": "https://www.vertexventures.sg/news/bigendian-semiconductors-raises-6m-to-strengthen-india-s-fabless-semiconductor-ecosystem/",
+   "title": "Vertex Ventures: BigEndian Raises $6M",
+   "publisher": "Vertex Ventures",
+   "publication_date": "2026-05-06",
+   "tier": "T1",
+   "claim_supported": "funding_rounds, investors",
+   "fields_supported": [
+    "funding_rounds",
+    "investor_links"
+   ]
+  },
+  {
+   "url": "https://www.tofler.in/bigendian-semiconductors-private-limited/company/U26109KA2024PTC186339",
+   "title": "Tofler: Bigendian Semiconductors",
+   "publisher": "Tofler",
+   "publication_date": "2026-05-26",
+   "tier": "T4",
+   "claim_supported": "CIN, incorporation_date",
+   "fields_supported": [
+    "company.cin",
+    "company.incorporation_date"
+   ]
+  }
+ ],
+ "gaps": [
+  "Revenue figures not publicly disclosed",
+  "Exact valuation not disclosed",
+  "Founders' educational backgrounds beyond Sunil Kumar not verified"
+ ],
+ "research_log": [
+  {
+   "query": "BigEndian Semiconductors startup status shutdown 2025 2026",
+   "found": "ACTIVE - raised $6M Pre-Series A in May 2026",
+   "unresolved": "None"
+  },
+  {
+   "query": "BigEndian CIN incorporation founders",
+   "found": "CIN U26109KA2024PTC186339, incorporated 16 Mar 2024, 6 founders",
+   "unresolved": "Founders' backgrounds"
+  },
+  {
+   "query": "BigEndian funding rounds investors",
+   "found": "Seed $3M (Sep 2024) + Pre-Series A $6M (May 2026), total $9M",
+   "unresolved": "Exact valuation"
+  }
+ ],
+ "completeness_self": {
+  "identity": 9,
+  "founders": 8,
+  "funding": 9,
+  "investors": 8,
+  "financials": 5,
+  "products": 7,
+  "traction": 5,
+  "people": 6,
+  "customers": 4,
+  "legal": 8,
+  "sources": 9
+ },
+ "_merged_session2": true
+}

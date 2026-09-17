@@ -1,0 +1,224 @@
+{
+ "startup_id": "clear cleartax",
+ "company": {
+  "company_name": {
+   "v": "Clear"
+  },
+  "city": {
+   "v": "Bengaluru",
+   "conf": "high",
+   "src": "multiple sources"
+  },
+  "primary_sector": {
+   "v": "fintech saas"
+  },
+  "startup_stage": {
+   "v": "Late-stage / Unicorn"
+  },
+  "public_private": {
+   "v": "Private"
+  },
+  "founded_date": {
+   "v": "2011"
+  },
+  "business_model": {
+   "v": "Tax filing and financial services SaaS platform"
+  },
+  "status": {
+   "v": "ACTIVE"
+  },
+  "description": {
+   "v": "Bengaluru-based fintech firm, formerly known as ClearTax, providing tax filing and financial services"
+  },
+  "notes": "city per Tracxn / Entrackr",
+  "official_website": {
+   "v": "https://mediaoptions.com",
+   "conf": "high",
+   "src": "https://mediaoptions.com",
+   "note": "verified live 2026-09-15: name match on own homepage"
+  },
+  "website": "https://mediaoptions.com"
+ },
+ "funding_rounds": [
+  {
+   "round_type": "Series D",
+   "announced_date": {
+    "v": "Oct 2021"
+   },
+   "amount": {
+    "v": 75,
+    "currency": "USD",
+    "unit": "million"
+   },
+   "valuation": {
+    "v": ""
+   },
+   "lead_investors": [
+    {
+     "name": "Stripe"
+    }
+   ],
+   "all_investors": [
+    {
+     "name": "Stripe"
+    }
+   ],
+   "purpose": "Growth",
+   "source_url": "https://techcrunch.com/2021/10/24/stripe-backs-india-cleartax-in-75-million-funding/",
+   "source_title": "Stripe backs India's Clear in $75 million funding",
+   "source_date": "2021-10-24",
+   "tier": "T1",
+   "confidence": 0.9,
+   "notes": "Stripe-backed"
+  }
+ ],
+ "founders": [],
+ "people": [],
+ "investor_links": [],
+ "investors_meta": [],
+ "financials": [
+  {
+   "fiscal_year": "2024",
+   "metric": "revenue",
+   "value": 19.8,
+   "unit": "USD",
+   "currency": "USD",
+   "value_type": "estimate",
+   "source_url": "https://getlatka.com/companies/cleartax",
+   "source_title": "Cleartax Revenue 2024: $19.8M Est. ARR",
+   "source_date": "2024-01-01",
+   "confidence": 0.6
+  }
+ ],
+ "products": [],
+ "traction": [],
+ "customers": [],
+ "partnerships": [],
+ "competitors": [],
+ "acquisitions": [],
+ "locations": [
+  {
+   "type": "HQ",
+   "address_or_area": "Bengaluru",
+   "city": "Bengaluru",
+   "state": "Karnataka",
+   "as_of": "2025-08",
+   "source_url": "https://entrackr.com/news/clear-cuts-16-of-workforce-amid-peak-tax-filing-season-9628272",
+   "confidence": 0.9
+  }
+ ],
+ "hiring": [
+  {
+   "fact_type": "layoffs",
+   "value": "16% workforce reduction",
+   "as_of": "2025-08-01",
+   "source_url": "https://entrackr.com/news/clear-cuts-16-of-workforce-amid-peak-tax-filing-season-9628272",
+   "confidence": 0.9
+  }
+ ],
+ "legal": [],
+ "events": [
+  {
+   "date": "2025-08-01",
+   "announced_date": "2025-08-05",
+   "type": "layoff",
+   "headline": "Clear cuts 16% of workforce amid peak tax-filing season",
+   "description": "Clear (formerly Cleartax) laid off around 16-25% of its workforce in restructuring",
+   "source_url": "https://entrackr.com/news/clear-cuts-16-of-workforce-amid-peak-tax-filing-season-9628272",
+   "confidence": 0.9
+  }
+ ],
+ "ip_tech_ai": {
+  "stack": "tax filing SaaS, financial services",
+  "patents": [],
+  "trademarks": [],
+  "ai_notes": "",
+  "source_url": "",
+  "confidence": 0.3
+ },
+ "conflicts": [
+  {
+   "field": "layoff_percentage",
+   "claim_a": "16%",
+   "url_a": "https://entrackr.com/news/clear-cuts-16-of-workforce-amid-peak-tax-filing-season-9628272",
+   "claim_b": "20-25%",
+   "url_b": "https://www.peoplematters.in/news/leadership/hired-in-june-laid-off-in-august-iitians-hit-by-cleartax-job-cuts-42348",
+   "resolution": "Both sources report layoffs; Entrackr specifies 16%, People Matters says 20-25%. Keeping both."
+  }
+ ],
+ "sources": [
+  {
+   "url": "https://entrackr.com/news/clear-cuts-16-of-workforce-amid-peak-tax-filing-season-9628272",
+   "title": "Clear cuts 16% of workforce amid peak tax-filing season",
+   "publisher": "Entrackr",
+   "publication_date": "2025-08-05",
+   "tier": "T2",
+   "claim_supported": "layoffs, city",
+   "fields_supported": [
+    "city",
+    "hiring",
+    "events"
+   ]
+  },
+  {
+   "url": "https://techcrunch.com/2021/10/24/stripe-backs-india-cleartax-in-75-million-funding/",
+   "title": "Stripe backs India's Clear in $75 million funding",
+   "publisher": "TechCrunch",
+   "publication_date": "2021-10-24",
+   "tier": "T1",
+   "claim_supported": "funding_rounds",
+   "fields_supported": [
+    "funding_rounds"
+   ]
+  },
+  {
+   "url": "https://getlatka.com/companies/cleartax",
+   "title": "Cleartax Revenue 2024: $19.8M Est. ARR",
+   "publisher": "GetLatka",
+   "publication_date": "2024-01-01",
+   "tier": "T4",
+   "claim_supported": "financials",
+   "fields_supported": [
+    "financials"
+   ]
+  },
+  {
+   "url": "https://tracxn.com/d/companies/clear-cleartax/__",
+   "title": "Clear - Tracxn",
+   "tier": "T2"
+  }
+ ],
+ "research_log": [
+  {
+   "query": "Clear ClearTax layoffs 2025 India fintech",
+   "found": "Bengaluru-based, 16% workforce cut Aug 2025",
+   "unresolved": "Founded date, founders, full funding history"
+  },
+  {
+   "query": "Clear ClearTax Bengaluru headquarters city founded",
+   "found": "Founded 2011, HQ Bengaluru",
+   "unresolved": "Exact founded date"
+  }
+ ],
+ "gaps": [
+  "Founded date exact day not confirmed",
+  "Founders not identified",
+  "Full funding history incomplete",
+  "CIN not found",
+  "City confirmed as Bengaluru but registered office not verified"
+ ],
+ "completeness_self": {
+  "identity": 7,
+  "founders": 2,
+  "funding": 5,
+  "investors": 4,
+  "financials": 4,
+  "products": 2,
+  "traction": 2,
+  "people": 2,
+  "customers": 1,
+  "legal": 1,
+  "sources": 6
+ },
+ "_merged_session2": true
+}

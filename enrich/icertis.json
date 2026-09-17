@@ -1,0 +1,1364 @@
+{
+ "acquisitions": [
+  {
+   "confidence": "HIGH",
+   "date": "2025-11-19",
+   "direction": "made",
+   "disclosed": false,
+   "rationale": "AI-first contracting: surgical redlining, automated playbooks, pre-signature agents",
+   "source_url": "https://www.indianstartuptimes.com/investment/icertis-acquires-yc-backed-dioptra-to-power-the-next-era-of-ai-led-contract-intelligence/",
+   "target": "Dioptra (YC 2022, NYC)",
+   "value": "undisclosed",
+   "type": "product acquisition",
+   "counterparty": "Dioptra"
+  }
+ ],
+ "company": {
+  "business_model": "B2B SaaS (CLM)",
+  "city": "Pune (India ops) / Bellevue (HQ)",
+  "confidence": "HIGH",
+  "country": "US + India",
+  "customer_type": "B2B enterprise",
+  "employee_estimate": 2100,
+  "employee_estimate_date": "2025",
+  "hq_type": "HQ Bellevue WA; major Pune office",
+  "legal_name": "Icertis Inc.",
+  "notes": "Seed city Bengaluru WRONG — India ops in Pune, Maharashtra. Founded 2009. Unicorn since 2019. CEO transition: Samir Bodas → Anand Subbaraman (2025).",
+  "primary_sector": "SaaS / contract lifecycle management",
+  "startup_id": "icertis",
+  "startup_stage": "Unicorn, late-stage",
+  "status": "Active",
+  "website": "https://www.icertis.com",
+  "cin": {
+   "v": "U72900PN2009PTC134043",
+   "date": "2009-05-29",
+   "conf": "HIGH",
+   "src": "Tracxn/TheCompanyCheck/IndiaMART registry aggregator pages"
+  },
+  "incorporation_date": {
+   "v": "29 May 2009",
+   "date": "2009-05-29",
+   "conf": "HIGH",
+   "src": "Tracxn/TheCompanyCheck/IndiaMART registry aggregator pages"
+  },
+  "official_website": {
+   "v": "https://www.icertis.com",
+   "conf": "high",
+   "src": "https://www.icertis.com",
+   "note": "verified live 2026-09-15: name match on own homepage"
+  },
+  "careers_website": {
+   "v": "https://www.icertis.com/company/careers/",
+   "conf": "high",
+   "src": "https://www.icertis.com",
+   "note": "careers link found on official homepage, probed live"
+  }
+ },
+ "competitors": [],
+ "conflicts": [
+  {
+   "claim_a": "Total $497M/12 rounds (Tracxn)",
+   "claim_b": "Total $566M/10 rounds (Inc42); $571.5M/13 rounds (CBInsights)",
+   "field": "total_funding",
+   "resolution": "Disclosed primary + debt counted differently; use range and note.",
+   "resolved_value": "~$497-571M depending on debt inclusion",
+   "url_a": "https://tracxn.com/d/companies/icertis/__OqW1f7Fcf6Ue7D7UGy6OBRv0PPqutOPzj3b48GO6gi0/funding-and-investors",
+   "url_b": "http://inc42.com/company/icertis/funding"
+  },
+  {
+   "claim_a": "Mar 2025 $50M = Series F (Tracxn/VCCircle)",
+   "claim_b": "Mar 2025 $50M = Series G (CBInsights)",
+   "field": "latest round label",
+   "resolution": "Same $50M event; label differs by counter. Record as Series F/G $50M Mar 2025.",
+   "resolved_value": "$50M Mar 2025 (F/G label conflict)",
+   "url_a": "https://www.vccircle.com/premjiinvest-backed-icertis-raises-50-mn-in-fresh-funding",
+   "url_b": "http://cbinsights.com/company/icertis/financials"
+  }
+ ],
+ "customers": [],
+ "events": [
+  {
+   "announced_date": "2025-03-19",
+   "confidence": "HIGH",
+   "date": "2025-03-18",
+   "description": "SEC filing: $50M from 5 undisclosed investors; follows 2022 SVB debt facilities.",
+   "headline": "$50M fresh funding (SEC filing)",
+   "source_url": "https://www.vccircle.com/premjiinvest-backed-icertis-raises-50-mn-in-fresh-funding",
+   "type": "funding"
+  },
+  {
+   "announced_date": "2025-11-19",
+   "confidence": "HIGH",
+   "date": "2025-11-19",
+   "description": "YC-grad Dioptra team (5 incl. founders) joins Icertis product/engineering.",
+   "headline": "Acquires Dioptra",
+   "source_url": "http://icertis.com/company/news/icertis-acquires-dioptra-to-deliver-ai-first-contracting-experience-for-legal",
+   "type": "acquisition"
+  }
+ ],
+ "financials": [
+  {
+   "confidence": "MEDIUM",
+   "currency": "USD",
+   "fiscal_year": "FY25",
+   "metric": "ARR",
+   "source_title": "Sacra Icertis profile",
+   "source_url": "http://sacra.com/c/icertis",
+   "value": "~350M (approaching; 300M end-2024)",
+   "value_type": "press-quoted-filing"
+  }
+ ],
+ "founders": [
+  {
+   "background": "Ex-Microsoft; Wharton",
+   "confidence": "HIGH",
+   "name": "Samir Bodas",
+   "role": "Co-founder (CEO until 2025; d. 2026 per GeekWire)",
+   "source_url": "https://www.vccircle.com/premjiinvest-backed-icertis-raises-50-mn-in-fresh-funding",
+   "still_active": false,
+   "type": "co-founder",
+   "active": "no — died January 2026",
+   "departure_date": "January 2026",
+   "location": "United States",
+   "linkedin": "https://www.linkedin.com/in/samirbodas"
+  },
+  {
+   "background": "Ex-Microsoft",
+   "confidence": "HIGH",
+   "name": "Monish Darda",
+   "role": "Co-founder & CTO",
+   "source_url": "https://www.vccircle.com/premjiinvest-backed-icertis-raises-50-mn-in-fresh-funding",
+   "still_active": true,
+   "type": "co-founder",
+   "active": "yes — co-founder and chief mentor/CTO; also co-founder of HumanTronik",
+   "location": "Pune"
+  }
+ ],
+ "funding_rounds": [
+  {
+   "all_investors": [
+    "Ignition",
+    "Greycroft",
+    "Eight Roads",
+    "B Capital"
+   ],
+   "amount": "115M",
+   "announced_date": "2019-07-17",
+   "confidence": "HIGH",
+   "currency": "USD",
+   "lead_investors": [
+    "PremjiInvest",
+    "Greycroft"
+   ],
+   "round_date": "2019-07-17",
+   "round_type": "Series E",
+   "source_title": "VCCircle Icertis $50M",
+   "source_url": "https://www.vccircle.com/premjiinvest-backed-icertis-raises-50-mn-in-fresh-funding",
+   "tier": "T3"
+  },
+  {
+   "all_investors": [
+    "B Capital",
+    "Premji Invest",
+    "e.ventures",
+    "PSP",
+    "Greycroft"
+   ],
+   "amount": "80M",
+   "announced_date": "2021-03-11",
+   "confidence": "HIGH",
+   "currency": "USD",
+   "lead_investors": [
+    "Meritech"
+   ],
+   "round_date": "2021-03-11",
+   "round_type": "Series F",
+   "source_title": "Tracxn Icertis funding",
+   "source_url": "https://tracxn.com/d/companies/icertis/__OqW1f7Fcf6Ue7D7UGy6OBRv0PPqutOPzj3b48GO6gi0/funding-and-investors",
+   "tier": "T2",
+   "valuation": "2.8B",
+   "valuation_type": "post-money"
+  },
+  {
+   "all_investors": [
+    "undisclosed (5 per SEC filing)"
+   ],
+   "amount": "50M",
+   "announced_date": "2025-03-19",
+   "confidence": "HIGH",
+   "currency": "USD",
+   "lead_investors": [],
+   "round_date": "2025-03-18",
+   "round_type": "Series F/G (label conflicts)",
+   "source_date": "2025-03-19",
+   "source_title": "PremjiInvest-backed Icertis raises $50 mn (VCCircle)",
+   "source_url": "https://www.vccircle.com/premjiinvest-backed-icertis-raises-50-mn-in-fresh-funding",
+   "tier": "T3"
+  }
+ ],
+ "gaps": [
+  "Audited FY24/25 revenue/PAT unverified (ARR only, management-quoted)",
+  "Feb 2026 rumored M&A (PitchBook) unverified",
+  "CEO transition date details unverified"
+ ],
+ "investor_links": [
+  {
+   "confidence": "HIGH",
+   "first_seen": "2019",
+   "investor": "PremjiInvest",
+   "investor_type": "PE/VC",
+   "lead": true,
+   "rounds": [
+    "Series E"
+   ],
+   "source_url": "https://www.vccircle.com/premjiinvest-backed-icertis-raises-50-mn-in-fresh-funding"
+  },
+  {
+   "confidence": "HIGH",
+   "first_seen": "2015",
+   "investor": "Greycroft",
+   "investor_type": "VC",
+   "lead": false,
+   "rounds": [
+    "Series A-G"
+   ],
+   "source_url": "http://cbinsights.com/company/icertis/financials"
+  },
+  {
+   "confidence": "MEDIUM",
+   "first_seen": "2021",
+   "investor": "SoftBank Vision Fund II (secondary)",
+   "investor_type": "VC",
+   "lead": false,
+   "rounds": [
+    "Secondary"
+   ],
+   "source_url": "http://sacra.com/c/icertis"
+  },
+  {
+   "confidence": "MEDIUM",
+   "first_seen": "2022",
+   "investor": "SAP (strategic minority)",
+   "investor_type": "Corporate",
+   "lead": false,
+   "rounds": [
+    "Corporate Minority"
+   ],
+   "source_url": "http://sacra.com/c/icertis"
+  }
+ ],
+ "legal": [],
+ "locations": [
+  {
+   "address_or_area": "Bellevue WA",
+   "as_of": "2025",
+   "city": "Bellevue",
+   "confidence": "HIGH",
+   "source_url": "https://pitchbook.com/profiles/company/58368-97",
+   "state": "Washington",
+   "type": "HQ"
+  },
+  {
+   "address_or_area": "Pune",
+   "as_of": "2025",
+   "city": "Pune",
+   "confidence": "HIGH",
+   "source_url": "https://www.vccircle.com/premjiinvest-backed-icertis-raises-50-mn-in-fresh-funding",
+   "state": "Maharashtra",
+   "type": "ops"
+  }
+ ],
+ "people": [
+  {
+   "confidence": "HIGH",
+   "name": "Anand Subbaraman",
+   "position": "CEO (2025-)",
+   "source_url": "http://icertis.com/company/news/icertis-acquires-dioptra-to-deliver-ai-first-contracting-experience-for-legal"
+  }
+ ],
+ "products": [
+  {
+   "confidence": "HIGH",
+   "name": "Icertis Contract Intelligence (ICI) + Icertis Vera AI agents"
+  }
+ ],
+ "research_log": [
+  {
+   "found": "$497M/12 rounds; $50M Mar 2025; $5B val; Dioptra deal",
+   "next_action": "done",
+   "query": "Icertis funding valuation 2025 2026",
+   "unresolved": "round-label conflict"
+  },
+  {
+   "found": "ARR ~$350M; founders; CEO; acquisition terms undisclosed",
+   "next_action": "done",
+   "query": "Icertis founders revenue FY25 ARR Dioptra acquisition",
+   "unresolved": "audited financials"
+  },
+  {
+   "found": "2 fetches ok (VCCircle, Icertis PR)",
+   "next_action": "done",
+   "query": "fetch load-bearing pages",
+   "unresolved": null
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  }
+ ],
+ "sources": [
+  {
+   "claim_supported": "$50M Mar 2025 SEC filing; history; Pune office",
+   "fields_supported": [
+    "funding_rounds",
+    "locations"
+   ],
+   "publication_date": "2025-03-19",
+   "publisher": "VCCircle",
+   "retrieved_date": "2026-09-14",
+   "tier": "T3",
+   "title": "PremjiInvest-backed Icertis raises $50 mn in fresh funding",
+   "url": "https://www.vccircle.com/premjiinvest-backed-icertis-raises-50-mn-in-fresh-funding"
+  },
+  {
+   "claim_supported": "Dioptra acquisition rationale/team",
+   "fields_supported": [
+    "acquisitions"
+   ],
+   "publication_date": "2025-11-19",
+   "publisher": "Icertis (company PR)",
+   "retrieved_date": "2026-09-14",
+   "tier": "T1",
+   "title": "Icertis Acquires Dioptra...",
+   "url": "http://icertis.com/company/news/icertis-acquires-dioptra-to-deliver-ai-first-contracting-experience-for-legal"
+  },
+  {
+   "claim_supported": "ARR ~$350M; SoftBank secondary; SAP minority",
+   "fields_supported": [
+    "financials",
+    "investor_links"
+   ],
+   "publication_date": null,
+   "publisher": "Sacra",
+   "retrieved_date": "2026-09-14",
+   "tier": "T2",
+   "title": "Icertis revenue, valuation & funding",
+   "url": "http://sacra.com/c/icertis"
+  },
+  {
+   "url": "https://www.indianstartuptimes.com/investment/icertis-acquires-yc-backed-dioptra-to-power-the-next-era-of-ai-led-contract-intelligence/",
+   "title": "Icertis acquires YC-backed Dioptra to power the next era of AI-led contract intelligence",
+   "tier": "T2",
+   "claim": "acquisition Dioptra (YC 2022, NYC)"
+  },
+  {
+   "url": "https://www.linkedin.com/posts/yourstory-com_samirbodas-icertis-saasunicorn-activity-7422880344342839296-yPrJ",
+   "title": "Samir Bodas, co-founder of SaaS unicorn Icertis, has died after a battle with cancer - LinkedIn",
+   "tier": "T2",
+   "claim": "founder status Samir Bodas"
+  },
+  {
+   "url": "https://in.linkedin.com/in/monishdarda",
+   "title": "Monish Darda - Co-founder at HumanTronik. Co-founder and Chief ...",
+   "tier": "T2",
+   "claim": "founder status Monish Darda"
+  },
+  {
+   "url": "https://www.indianstartuptimes.com/investment/icertis-acquires-yc-backed-dioptra-to-power-the-next-era-of-ai-led-contract-intelligence/",
+   "title": "Icertis acquires YC-backed Dioptra to power the next era of AI-led contract intelligence",
+   "tier": "T2",
+   "claim": "acquisition Dioptra (YC 2022, NYC)"
+  },
+  {
+   "url": "https://www.indianstartuptimes.com/investment/icertis-acquires-yc-backed-dioptra-to-power-the-next-era-of-ai-led-contract-intelligence/",
+   "title": "Icertis acquires YC-backed Dioptra to power the next era of AI-led contract intelligence",
+   "tier": "T2",
+   "claim": "acquisition Dioptra (YC 2022, NYC)"
+  },
+  {
+   "url": "https://www.indianstartuptimes.com/investment/icertis-acquires-yc-backed-dioptra-to-power-the-next-era-of-ai-led-contract-intelligence/",
+   "title": "Icertis acquires YC-backed Dioptra to power the next era of AI-led contract intelligence",
+   "tier": "T2",
+   "claim": "acquisition Dioptra (YC 2022, NYC)"
+  },
+  {
+   "url": "https://www.indianstartuptimes.com/investment/icertis-acquires-yc-backed-dioptra-to-power-the-next-era-of-ai-led-contract-intelligence/",
+   "title": "Icertis acquires YC-backed Dioptra to power the next era of AI-led contract intelligence",
+   "tier": "T2",
+   "claim": "acquisition Dioptra (YC 2022, NYC)"
+  },
+  {
+   "url": "https://www.indianstartuptimes.com/investment/icertis-acquires-yc-backed-dioptra-to-power-the-next-era-of-ai-led-contract-intelligence/",
+   "title": "Icertis acquires YC-backed Dioptra to power the next era of AI-led contract intelligence",
+   "tier": "T2",
+   "claim": "acquisition Dioptra (YC 2022, NYC)"
+  },
+  {
+   "url": "https://www.indianstartuptimes.com/investment/icertis-acquires-yc-backed-dioptra-to-power-the-next-era-of-ai-led-contract-intelligence/",
+   "title": "Icertis acquires YC-backed Dioptra to power the next era of AI-led contract intelligence",
+   "tier": "T2",
+   "claim": "acquisition Dioptra (YC 2022, NYC)"
+  },
+  {
+   "url": "https://www.indianstartuptimes.com/investment/icertis-acquires-yc-backed-dioptra-to-power-the-next-era-of-ai-led-contract-intelligence/",
+   "title": "Icertis acquires YC-backed Dioptra to power the next era of AI-led contract intelligence",
+   "tier": "T2",
+   "claim": "acquisition Dioptra (YC 2022, NYC)"
+  },
+  {
+   "url": "https://www.indianstartuptimes.com/investment/icertis-acquires-yc-backed-dioptra-to-power-the-next-era-of-ai-led-contract-intelligence/",
+   "title": "Icertis acquires YC-backed Dioptra to power the next era of AI-led contract intelligence",
+   "tier": "T2",
+   "claim": "acquisition Dioptra (YC 2022, NYC)"
+  },
+  {
+   "url": "https://www.indianstartuptimes.com/investment/icertis-acquires-yc-backed-dioptra-to-power-the-next-era-of-ai-led-contract-intelligence/",
+   "title": "Icertis acquires YC-backed Dioptra to power the next era of AI-led contract intelligence",
+   "tier": "T2",
+   "claim": "acquisition Dioptra (YC 2022, NYC)"
+  },
+  {
+   "url": "https://www.indianstartuptimes.com/investment/icertis-acquires-yc-backed-dioptra-to-power-the-next-era-of-ai-led-contract-intelligence/",
+   "title": "Icertis acquires YC-backed Dioptra to power the next era of AI-led contract intelligence",
+   "tier": "T2",
+   "claim": "acquisition Dioptra (YC 2022, NYC)"
+  },
+  {
+   "url": "https://www.indianstartuptimes.com/investment/icertis-acquires-yc-backed-dioptra-to-power-the-next-era-of-ai-led-contract-intelligence/",
+   "title": "Icertis acquires YC-backed Dioptra to power the next era of AI-led contract intelligence",
+   "tier": "T2",
+   "claim": "acquisition Dioptra (YC 2022, NYC)"
+  },
+  {
+   "url": "https://www.indianstartuptimes.com/investment/icertis-acquires-yc-backed-dioptra-to-power-the-next-era-of-ai-led-contract-intelligence/",
+   "title": "Icertis acquires YC-backed Dioptra to power the next era of AI-led contract intelligence",
+   "tier": "T2",
+   "claim": "acquisition Dioptra (YC 2022, NYC)"
+  },
+  {
+   "url": "https://www.indianstartuptimes.com/investment/icertis-acquires-yc-backed-dioptra-to-power-the-next-era-of-ai-led-contract-intelligence/",
+   "title": "Icertis acquires YC-backed Dioptra to power the next era of AI-led contract intelligence",
+   "tier": "T2",
+   "claim": "acquisition Dioptra (YC 2022, NYC)"
+  },
+  {
+   "url": "https://www.indianstartuptimes.com/investment/icertis-acquires-yc-backed-dioptra-to-power-the-next-era-of-ai-led-contract-intelligence/",
+   "title": "Icertis acquires YC-backed Dioptra to power the next era of AI-led contract intelligence",
+   "tier": "T2",
+   "claim": "acquisition Dioptra (YC 2022, NYC)"
+  },
+  {
+   "url": "https://www.indianstartuptimes.com/investment/icertis-acquires-yc-backed-dioptra-to-power-the-next-era-of-ai-led-contract-intelligence/",
+   "title": "Icertis acquires YC-backed Dioptra to power the next era of AI-led contract intelligence",
+   "tier": "T2",
+   "claim": "acquisition Dioptra (YC 2022, NYC)"
+  },
+  {
+   "url": "https://www.indianstartuptimes.com/investment/icertis-acquires-yc-backed-dioptra-to-power-the-next-era-of-ai-led-contract-intelligence/",
+   "title": "Icertis acquires YC-backed Dioptra to power the next era of AI-led contract intelligence",
+   "tier": "T2",
+   "claim": "acquisition Dioptra (YC 2022, NYC)"
+  },
+  {
+   "url": "https://www.indianstartuptimes.com/investment/icertis-acquires-yc-backed-dioptra-to-power-the-next-era-of-ai-led-contract-intelligence/",
+   "title": "Icertis acquires YC-backed Dioptra to power the next era of AI-led contract intelligence",
+   "tier": "T2",
+   "claim": "acquisition Dioptra (YC 2022, NYC)"
+  },
+  {
+   "url": "https://www.indianstartuptimes.com/investment/icertis-acquires-yc-backed-dioptra-to-power-the-next-era-of-ai-led-contract-intelligence/",
+   "title": "Icertis acquires YC-backed Dioptra to power the next era of AI-led contract intelligence",
+   "tier": "T2",
+   "claim": "acquisition Dioptra (YC 2022, NYC)"
+  },
+  {
+   "url": "https://www.indianstartuptimes.com/investment/icertis-acquires-yc-backed-dioptra-to-power-the-next-era-of-ai-led-contract-intelligence/",
+   "title": "Icertis acquires YC-backed Dioptra to power the next era of AI-led contract intelligence",
+   "tier": "T2",
+   "claim": "acquisition Dioptra (YC 2022, NYC)"
+  },
+  {
+   "url": "https://www.indianstartuptimes.com/investment/icertis-acquires-yc-backed-dioptra-to-power-the-next-era-of-ai-led-contract-intelligence/",
+   "title": "Icertis acquires YC-backed Dioptra to power the next era of AI-led contract intelligence",
+   "tier": "T2",
+   "claim": "acquisition Dioptra (YC 2022, NYC)"
+  },
+  {
+   "url": "https://www.indianstartuptimes.com/investment/icertis-acquires-yc-backed-dioptra-to-power-the-next-era-of-ai-led-contract-intelligence/",
+   "title": "Icertis acquires YC-backed Dioptra to power the next era of AI-led contract intelligence",
+   "tier": "T2",
+   "claim": "acquisition Dioptra (YC 2022, NYC)"
+  },
+  {
+   "url": "https://www.indianstartuptimes.com/investment/icertis-acquires-yc-backed-dioptra-to-power-the-next-era-of-ai-led-contract-intelligence/",
+   "title": "Icertis acquires YC-backed Dioptra to power the next era of AI-led contract intelligence",
+   "tier": "T2",
+   "claim": "acquisition Dioptra (YC 2022, NYC)"
+  },
+  {
+   "url": "https://www.indianstartuptimes.com/investment/icertis-acquires-yc-backed-dioptra-to-power-the-next-era-of-ai-led-contract-intelligence/",
+   "title": "Icertis acquires YC-backed Dioptra to power the next era of AI-led contract intelligence",
+   "tier": "T2",
+   "claim": "acquisition Dioptra (YC 2022, NYC)"
+  },
+  {
+   "url": "https://www.indianstartuptimes.com/investment/icertis-acquires-yc-backed-dioptra-to-power-the-next-era-of-ai-led-contract-intelligence/",
+   "title": "Icertis acquires YC-backed Dioptra to power the next era of AI-led contract intelligence",
+   "tier": "T2",
+   "claim": "acquisition Dioptra (YC 2022, NYC)"
+  },
+  {
+   "url": "https://www.indianstartuptimes.com/investment/icertis-acquires-yc-backed-dioptra-to-power-the-next-era-of-ai-led-contract-intelligence/",
+   "title": "Icertis acquires YC-backed Dioptra to power the next era of AI-led contract intelligence",
+   "tier": "T2",
+   "claim": "acquisition Dioptra (YC 2022, NYC)"
+  },
+  {
+   "url": "https://www.indianstartuptimes.com/investment/icertis-acquires-yc-backed-dioptra-to-power-the-next-era-of-ai-led-contract-intelligence/",
+   "title": "Icertis acquires YC-backed Dioptra to power the next era of AI-led contract intelligence",
+   "tier": "T2",
+   "claim": "acquisition Dioptra (YC 2022, NYC)"
+  },
+  {
+   "url": "https://www.indianstartuptimes.com/investment/icertis-acquires-yc-backed-dioptra-to-power-the-next-era-of-ai-led-contract-intelligence/",
+   "title": "Icertis acquires YC-backed Dioptra to power the next era of AI-led contract intelligence",
+   "tier": "T2",
+   "claim": "acquisition Dioptra (YC 2022, NYC)"
+  },
+  {
+   "url": "https://www.indianstartuptimes.com/investment/icertis-acquires-yc-backed-dioptra-to-power-the-next-era-of-ai-led-contract-intelligence/",
+   "title": "Icertis acquires YC-backed Dioptra to power the next era of AI-led contract intelligence",
+   "tier": "T2",
+   "claim": "acquisition Dioptra (YC 2022, NYC)"
+  },
+  {
+   "url": "https://www.indianstartuptimes.com/investment/icertis-acquires-yc-backed-dioptra-to-power-the-next-era-of-ai-led-contract-intelligence/",
+   "title": "Icertis acquires YC-backed Dioptra to power the next era of AI-led contract intelligence",
+   "tier": "T2",
+   "claim": "acquisition Dioptra (YC 2022, NYC)"
+  },
+  {
+   "url": "https://www.indianstartuptimes.com/investment/icertis-acquires-yc-backed-dioptra-to-power-the-next-era-of-ai-led-contract-intelligence/",
+   "title": "Icertis acquires YC-backed Dioptra to power the next era of AI-led contract intelligence",
+   "tier": "T2",
+   "claim": "acquisition Dioptra (YC 2022, NYC)"
+  },
+  {
+   "url": "https://www.indianstartuptimes.com/investment/icertis-acquires-yc-backed-dioptra-to-power-the-next-era-of-ai-led-contract-intelligence/",
+   "title": "Icertis acquires YC-backed Dioptra to power the next era of AI-led contract intelligence",
+   "tier": "T2",
+   "claim": "acquisition Dioptra (YC 2022, NYC)"
+  },
+  {
+   "url": "https://www.indianstartuptimes.com/investment/icertis-acquires-yc-backed-dioptra-to-power-the-next-era-of-ai-led-contract-intelligence/",
+   "title": "Icertis acquires YC-backed Dioptra to power the next era of AI-led contract intelligence",
+   "tier": "T2",
+   "claim": "acquisition Dioptra (YC 2022, NYC)"
+  },
+  {
+   "url": "https://www.indianstartuptimes.com/investment/icertis-acquires-yc-backed-dioptra-to-power-the-next-era-of-ai-led-contract-intelligence/",
+   "title": "Icertis acquires YC-backed Dioptra to power the next era of AI-led contract intelligence",
+   "tier": "T2",
+   "claim": "acquisition Dioptra (YC 2022, NYC)"
+  },
+  {
+   "url": "https://www.indianstartuptimes.com/investment/icertis-acquires-yc-backed-dioptra-to-power-the-next-era-of-ai-led-contract-intelligence/",
+   "title": "Icertis acquires YC-backed Dioptra to power the next era of AI-led contract intelligence",
+   "tier": "T2",
+   "claim": "acquisition Dioptra (YC 2022, NYC)"
+  },
+  {
+   "url": "https://www.indianstartuptimes.com/investment/icertis-acquires-yc-backed-dioptra-to-power-the-next-era-of-ai-led-contract-intelligence/",
+   "title": "Icertis acquires YC-backed Dioptra to power the next era of AI-led contract intelligence",
+   "tier": "T2",
+   "claim": "acquisition Dioptra (YC 2022, NYC)"
+  },
+  {
+   "url": "https://www.indianstartuptimes.com/investment/icertis-acquires-yc-backed-dioptra-to-power-the-next-era-of-ai-led-contract-intelligence/",
+   "title": "Icertis acquires YC-backed Dioptra to power the next era of AI-led contract intelligence",
+   "tier": "T2",
+   "claim": "acquisition Dioptra (YC 2022, NYC)"
+  },
+  {
+   "url": "https://www.indianstartuptimes.com/investment/icertis-acquires-yc-backed-dioptra-to-power-the-next-era-of-ai-led-contract-intelligence/",
+   "title": "Icertis acquires YC-backed Dioptra to power the next era of AI-led contract intelligence",
+   "tier": "T2",
+   "claim": "acquisition Dioptra (YC 2022, NYC)"
+  },
+  {
+   "url": "https://www.indianstartuptimes.com/investment/icertis-acquires-yc-backed-dioptra-to-power-the-next-era-of-ai-led-contract-intelligence/",
+   "title": "Icertis acquires YC-backed Dioptra to power the next era of AI-led contract intelligence",
+   "tier": "T2",
+   "claim": "acquisition Dioptra (YC 2022, NYC)"
+  },
+  {
+   "url": "https://www.indianstartuptimes.com/investment/icertis-acquires-yc-backed-dioptra-to-power-the-next-era-of-ai-led-contract-intelligence/",
+   "title": "Icertis acquires YC-backed Dioptra to power the next era of AI-led contract intelligence",
+   "tier": "T2",
+   "claim": "acquisition Dioptra (YC 2022, NYC)"
+  },
+  {
+   "url": "https://www.indianstartuptimes.com/investment/icertis-acquires-yc-backed-dioptra-to-power-the-next-era-of-ai-led-contract-intelligence/",
+   "title": "Icertis acquires YC-backed Dioptra to power the next era of AI-led contract intelligence",
+   "tier": "T2",
+   "claim": "acquisition Dioptra (YC 2022, NYC)"
+  },
+  {
+   "url": "https://www.indianstartuptimes.com/investment/icertis-acquires-yc-backed-dioptra-to-power-the-next-era-of-ai-led-contract-intelligence/",
+   "title": "Icertis acquires YC-backed Dioptra to power the next era of AI-led contract intelligence",
+   "tier": "T2",
+   "claim": "acquisition Dioptra (YC 2022, NYC)"
+  },
+  {
+   "url": "https://www.indianstartuptimes.com/investment/icertis-acquires-yc-backed-dioptra-to-power-the-next-era-of-ai-led-contract-intelligence/",
+   "title": "Icertis acquires YC-backed Dioptra to power the next era of AI-led contract intelligence",
+   "tier": "T2",
+   "claim": "acquisition Dioptra (YC 2022, NYC)"
+  },
+  {
+   "url": "https://www.indianstartuptimes.com/investment/icertis-acquires-yc-backed-dioptra-to-power-the-next-era-of-ai-led-contract-intelligence/",
+   "title": "Icertis acquires YC-backed Dioptra to power the next era of AI-led contract intelligence",
+   "tier": "T2",
+   "claim": "acquisition Dioptra (YC 2022, NYC)"
+  },
+  {
+   "url": "https://www.indianstartuptimes.com/investment/icertis-acquires-yc-backed-dioptra-to-power-the-next-era-of-ai-led-contract-intelligence/",
+   "title": "Icertis acquires YC-backed Dioptra to power the next era of AI-led contract intelligence",
+   "tier": "T2",
+   "claim": "acquisition Dioptra (YC 2022, NYC)"
+  },
+  {
+   "url": "https://www.indianstartuptimes.com/investment/icertis-acquires-yc-backed-dioptra-to-power-the-next-era-of-ai-led-contract-intelligence/",
+   "title": "Icertis acquires YC-backed Dioptra to power the next era of AI-led contract intelligence",
+   "tier": "T2",
+   "claim": "acquisition Dioptra (YC 2022, NYC)"
+  },
+  {
+   "url": "https://www.indianstartuptimes.com/investment/icertis-acquires-yc-backed-dioptra-to-power-the-next-era-of-ai-led-contract-intelligence/",
+   "title": "Icertis acquires YC-backed Dioptra to power the next era of AI-led contract intelligence",
+   "tier": "T2",
+   "claim": "acquisition Dioptra (YC 2022, NYC)"
+  },
+  {
+   "url": "https://www.indianstartuptimes.com/investment/icertis-acquires-yc-backed-dioptra-to-power-the-next-era-of-ai-led-contract-intelligence/",
+   "title": "Icertis acquires YC-backed Dioptra to power the next era of AI-led contract intelligence",
+   "tier": "T2",
+   "claim": "acquisition Dioptra (YC 2022, NYC)"
+  },
+  {
+   "url": "https://www.indianstartuptimes.com/investment/icertis-acquires-yc-backed-dioptra-to-power-the-next-era-of-ai-led-contract-intelligence/",
+   "title": "Icertis acquires YC-backed Dioptra to power the next era of AI-led contract intelligence",
+   "tier": "T2",
+   "claim": "acquisition Dioptra (YC 2022, NYC)"
+  },
+  {
+   "url": "https://www.indianstartuptimes.com/investment/icertis-acquires-yc-backed-dioptra-to-power-the-next-era-of-ai-led-contract-intelligence/",
+   "title": "Icertis acquires YC-backed Dioptra to power the next era of AI-led contract intelligence",
+   "tier": "T2",
+   "claim": "acquisition Dioptra (YC 2022, NYC)"
+  },
+  {
+   "url": "https://www.indianstartuptimes.com/investment/icertis-acquires-yc-backed-dioptra-to-power-the-next-era-of-ai-led-contract-intelligence/",
+   "title": "Icertis acquires YC-backed Dioptra to power the next era of AI-led contract intelligence",
+   "tier": "T2",
+   "claim": "acquisition Dioptra (YC 2022, NYC)"
+  },
+  {
+   "url": "https://www.indianstartuptimes.com/investment/icertis-acquires-yc-backed-dioptra-to-power-the-next-era-of-ai-led-contract-intelligence/",
+   "title": "Icertis acquires YC-backed Dioptra to power the next era of AI-led contract intelligence",
+   "tier": "T2",
+   "claim": "acquisition Dioptra (YC 2022, NYC)"
+  },
+  {
+   "url": "https://www.indianstartuptimes.com/investment/icertis-acquires-yc-backed-dioptra-to-power-the-next-era-of-ai-led-contract-intelligence/",
+   "title": "Icertis acquires YC-backed Dioptra to power the next era of AI-led contract intelligence",
+   "tier": "T2",
+   "claim": "acquisition Dioptra (YC 2022, NYC)"
+  },
+  {
+   "url": "https://www.indianstartuptimes.com/investment/icertis-acquires-yc-backed-dioptra-to-power-the-next-era-of-ai-led-contract-intelligence/",
+   "title": "Icertis acquires YC-backed Dioptra to power the next era of AI-led contract intelligence",
+   "tier": "T2",
+   "claim": "acquisition Dioptra (YC 2022, NYC)"
+  },
+  {
+   "url": "https://www.indianstartuptimes.com/investment/icertis-acquires-yc-backed-dioptra-to-power-the-next-era-of-ai-led-contract-intelligence/",
+   "title": "Icertis acquires YC-backed Dioptra to power the next era of AI-led contract intelligence",
+   "tier": "T2",
+   "claim": "acquisition Dioptra (YC 2022, NYC)"
+  },
+  {
+   "url": "https://www.indianstartuptimes.com/investment/icertis-acquires-yc-backed-dioptra-to-power-the-next-era-of-ai-led-contract-intelligence/",
+   "title": "Icertis acquires YC-backed Dioptra to power the next era of AI-led contract intelligence",
+   "tier": "T2",
+   "claim": "acquisition Dioptra (YC 2022, NYC)"
+  },
+  {
+   "url": "https://www.indianstartuptimes.com/investment/icertis-acquires-yc-backed-dioptra-to-power-the-next-era-of-ai-led-contract-intelligence/",
+   "title": "Icertis acquires YC-backed Dioptra to power the next era of AI-led contract intelligence",
+   "tier": "T2",
+   "claim": "acquisition Dioptra (YC 2022, NYC)"
+  },
+  {
+   "url": "https://www.indianstartuptimes.com/investment/icertis-acquires-yc-backed-dioptra-to-power-the-next-era-of-ai-led-contract-intelligence/",
+   "title": "Icertis acquires YC-backed Dioptra to power the next era of AI-led contract intelligence",
+   "tier": "T2",
+   "claim": "acquisition Dioptra (YC 2022, NYC)"
+  },
+  {
+   "url": "https://www.indianstartuptimes.com/investment/icertis-acquires-yc-backed-dioptra-to-power-the-next-era-of-ai-led-contract-intelligence/",
+   "title": "Icertis acquires YC-backed Dioptra to power the next era of AI-led contract intelligence",
+   "tier": "T2",
+   "claim": "acquisition Dioptra (YC 2022, NYC)"
+  },
+  {
+   "url": "https://www.indianstartuptimes.com/investment/icertis-acquires-yc-backed-dioptra-to-power-the-next-era-of-ai-led-contract-intelligence/",
+   "title": "Icertis acquires YC-backed Dioptra to power the next era of AI-led contract intelligence",
+   "tier": "T2",
+   "claim": "acquisition Dioptra (YC 2022, NYC)"
+  },
+  {
+   "url": "https://www.indianstartuptimes.com/investment/icertis-acquires-yc-backed-dioptra-to-power-the-next-era-of-ai-led-contract-intelligence/",
+   "title": "Icertis acquires YC-backed Dioptra to power the next era of AI-led contract intelligence",
+   "tier": "T2",
+   "claim": "acquisition Dioptra (YC 2022, NYC)"
+  },
+  {
+   "url": "https://www.indianstartuptimes.com/investment/icertis-acquires-yc-backed-dioptra-to-power-the-next-era-of-ai-led-contract-intelligence/",
+   "title": "Icertis acquires YC-backed Dioptra to power the next era of AI-led contract intelligence",
+   "tier": "T2",
+   "claim": "acquisition Dioptra (YC 2022, NYC)"
+  },
+  {
+   "url": "https://www.indianstartuptimes.com/investment/icertis-acquires-yc-backed-dioptra-to-power-the-next-era-of-ai-led-contract-intelligence/",
+   "title": "Icertis acquires YC-backed Dioptra to power the next era of AI-led contract intelligence",
+   "tier": "T2",
+   "claim": "acquisition Dioptra (YC 2022, NYC)"
+  },
+  {
+   "url": "https://www.indianstartuptimes.com/investment/icertis-acquires-yc-backed-dioptra-to-power-the-next-era-of-ai-led-contract-intelligence/",
+   "title": "Icertis acquires YC-backed Dioptra to power the next era of AI-led contract intelligence",
+   "tier": "T2",
+   "claim": "acquisition Dioptra (YC 2022, NYC)"
+  },
+  {
+   "url": "https://www.indianstartuptimes.com/investment/icertis-acquires-yc-backed-dioptra-to-power-the-next-era-of-ai-led-contract-intelligence/",
+   "title": "Icertis acquires YC-backed Dioptra to power the next era of AI-led contract intelligence",
+   "tier": "T2",
+   "claim": "acquisition Dioptra (YC 2022, NYC)"
+  },
+  {
+   "url": "https://www.indianstartuptimes.com/investment/icertis-acquires-yc-backed-dioptra-to-power-the-next-era-of-ai-led-contract-intelligence/",
+   "title": "Icertis acquires YC-backed Dioptra to power the next era of AI-led contract intelligence",
+   "tier": "T2",
+   "claim": "acquisition Dioptra (YC 2022, NYC)"
+  },
+  {
+   "url": "https://www.indianstartuptimes.com/investment/icertis-acquires-yc-backed-dioptra-to-power-the-next-era-of-ai-led-contract-intelligence/",
+   "title": "Icertis acquires YC-backed Dioptra to power the next era of AI-led contract intelligence",
+   "tier": "T2",
+   "claim": "acquisition Dioptra (YC 2022, NYC)"
+  },
+  {
+   "url": "https://www.indianstartuptimes.com/investment/icertis-acquires-yc-backed-dioptra-to-power-the-next-era-of-ai-led-contract-intelligence/",
+   "title": "Icertis acquires YC-backed Dioptra to power the next era of AI-led contract intelligence",
+   "tier": "T2",
+   "claim": "acquisition Dioptra (YC 2022, NYC)"
+  },
+  {
+   "url": "https://www.indianstartuptimes.com/investment/icertis-acquires-yc-backed-dioptra-to-power-the-next-era-of-ai-led-contract-intelligence/",
+   "title": "Icertis acquires YC-backed Dioptra to power the next era of AI-led contract intelligence",
+   "tier": "T2",
+   "claim": "acquisition Dioptra (YC 2022, NYC)"
+  },
+  {
+   "url": "https://www.indianstartuptimes.com/investment/icertis-acquires-yc-backed-dioptra-to-power-the-next-era-of-ai-led-contract-intelligence/",
+   "title": "Icertis acquires YC-backed Dioptra to power the next era of AI-led contract intelligence",
+   "tier": "T2",
+   "claim": "acquisition Dioptra (YC 2022, NYC)"
+  },
+  {
+   "url": "https://www.indianstartuptimes.com/investment/icertis-acquires-yc-backed-dioptra-to-power-the-next-era-of-ai-led-contract-intelligence/",
+   "title": "Icertis acquires YC-backed Dioptra to power the next era of AI-led contract intelligence",
+   "tier": "T2",
+   "claim": "acquisition Dioptra (YC 2022, NYC)"
+  },
+  {
+   "url": "https://www.indianstartuptimes.com/investment/icertis-acquires-yc-backed-dioptra-to-power-the-next-era-of-ai-led-contract-intelligence/",
+   "title": "Icertis acquires YC-backed Dioptra to power the next era of AI-led contract intelligence",
+   "tier": "T2",
+   "claim": "acquisition Dioptra (YC 2022, NYC)"
+  },
+  {
+   "url": "https://www.indianstartuptimes.com/investment/icertis-acquires-yc-backed-dioptra-to-power-the-next-era-of-ai-led-contract-intelligence/",
+   "title": "Icertis acquires YC-backed Dioptra to power the next era of AI-led contract intelligence",
+   "tier": "T2",
+   "claim": "acquisition Dioptra (YC 2022, NYC)"
+  },
+  {
+   "url": "https://www.indianstartuptimes.com/investment/icertis-acquires-yc-backed-dioptra-to-power-the-next-era-of-ai-led-contract-intelligence/",
+   "title": "Icertis acquires YC-backed Dioptra to power the next era of AI-led contract intelligence",
+   "tier": "T2",
+   "claim": "acquisition Dioptra (YC 2022, NYC)"
+  },
+  {
+   "url": "https://www.indianstartuptimes.com/investment/icertis-acquires-yc-backed-dioptra-to-power-the-next-era-of-ai-led-contract-intelligence/",
+   "title": "Icertis acquires YC-backed Dioptra to power the next era of AI-led contract intelligence",
+   "tier": "T2",
+   "claim": "acquisition Dioptra (YC 2022, NYC)"
+  },
+  {
+   "url": "https://www.indianstartuptimes.com/investment/icertis-acquires-yc-backed-dioptra-to-power-the-next-era-of-ai-led-contract-intelligence/",
+   "title": "Icertis acquires YC-backed Dioptra to power the next era of AI-led contract intelligence",
+   "tier": "T2",
+   "claim": "acquisition Dioptra (YC 2022, NYC)"
+  },
+  {
+   "url": "https://www.indianstartuptimes.com/investment/icertis-acquires-yc-backed-dioptra-to-power-the-next-era-of-ai-led-contract-intelligence/",
+   "title": "Icertis acquires YC-backed Dioptra to power the next era of AI-led contract intelligence",
+   "tier": "T2",
+   "claim": "acquisition Dioptra (YC 2022, NYC)"
+  }
+ ],
+ "startup_id": "icertis",
+ "traction": [
+  {
+   "as_of": "2025",
+   "company_reported": true,
+   "confidence": "MEDIUM",
+   "metric": "contracts managed / Fortune 100",
+   "period": "2025",
+   "source_url": "https://www.vccircle.com/premjiinvest-backed-icertis-raises-50-mn-in-fresh-funding",
+   "value": "10M+ contracts; 30%+ Fortune 100 clients"
+  }
+ ],
+ "_merged_session2": true
+}

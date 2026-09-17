@@ -1,0 +1,27 @@
+{
+  "canonical_key": "makemytrip",
+  "official_website": {
+    "v": "https://www.makemytrip.com",
+    "conf": "high",
+    "src": "web_search_tinyfish",
+    "note": "Verified via web search and tinyfish; India's leading online travel company"
+  },
+  "careers_website": {
+    "v": "https://careers.makemytrip.com",
+    "conf": "medium",
+    "src": "web_search",
+    "note": "Careers page URL confirmed via web search; hyperresearch fetch returned junk content"
+  },
+  "log": [
+    {
+      "query": "MakeMyTrip official website",
+      "found": "https://www.makemytrip.com confirmed via web search and tinyfish",
+      "unresolved": ""
+    },
+    {
+      "query": "MakeMyTrip careers page",
+      "found": "https://careers.makemytrip.com confirmed via web search",
+      "unresolved": "Hyperresearch fetch returned junk content"
+    }
+  ]
+}

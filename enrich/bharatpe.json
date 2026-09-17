@@ -1,0 +1,459 @@
+{
+ "company": {
+  "business_model": "B2B2C merchant payments + lending",
+  "city": "New Delhi",
+  "country": "India",
+  "founded_date": "2018-03",
+  "hq_type": "HQ",
+  "legal_name": "Resilient Innovations Private Limited",
+  "primary_sector": "fintech payments/lending",
+  "startup_id": "bharatpe",
+  "startup_stage": "Unicorn (Series E)",
+  "status": "active",
+  "website": "https://bharatpe.com",
+  "cin": "U74999DL2018PTC331205",
+  "incorporation_date": "2018-03-20",
+  "official_website": {
+   "v": "https://bharatpe.com",
+   "conf": "high",
+   "src": "https://bharatpe.com",
+   "note": "verified live 2026-09-15: name match on own homepage"
+  },
+  "careers_website": {
+   "v": "https://bharatpe.com/career",
+   "conf": "high",
+   "src": "https://bharatpe.com",
+   "note": "careers link found on official homepage, probed live"
+  }
+ },
+ "completeness_self": {
+  "customers": 7,
+  "financials": 8,
+  "founders": 9,
+  "funding": 9,
+  "identity": 9,
+  "investors": 8,
+  "legal": 8,
+  "people": 6,
+  "products": 7,
+  "sources": 8,
+  "traction": 7
+ },
+ "conflicts": [
+  {
+   "claim_a": "FY25 operating revenue Rs 1,667 Cr (Entrackr filings)",
+   "claim_b": "FY25 revenue Rs 1,733.6 Cr (Inc42)",
+   "field": "revenue_fy25",
+   "resolution": "Use Entrackr filing figure Rs 1,667 Cr as primary; note Inc42 variance.",
+   "resolved_value": "Rs 1,667 Cr operating revenue",
+   "url_a": "https://entrackr.com/fintrackr/bharatpe-turns-ebitda-profitable-in-fy25-revenue-touches-rs-1667-cr-10501335",
+   "url_b": "https://inc42.com/company/bharatpe/"
+  }
+ ],
+ "customers": [
+  {
+   "name": "~13M merchants; 450M monthly UPI txns (Oct 2024, company-reported)",
+   "source_url": "https://economictimes.indiatimes.com/tech/technology/bharatpe-firmly-on-profitability-track-eyes-100-million-round/articleshow/123003600.cms",
+   "status": "company-reported",
+   "type": "sme"
+  }
+ ],
+ "events": [
+  {
+   "announced_date": "2025-05",
+   "confidence": "HIGH",
+   "date": "2025-05",
+   "description": "Final RBI PA licence received.",
+   "headline": "RBI payment aggregator licence",
+   "source_url": "https://economictimes.indiatimes.com/tech/technology/bharatpe-firmly-on-profitability-track-eyes-100-million-round/articleshow/123003600.cms",
+   "type": "regulatory"
+  },
+  {
+   "announced_date": "2025-09-12",
+   "confidence": "HIGH",
+   "date": "2025-09-12",
+   "description": "IPO prep; pre-IPO raise Rs 800-1,200 Cr at ~11.5-12x revenue; $80-100M Coatue talks.",
+   "headline": "IPO prep, pre-IPO round plans",
+   "source_url": "https://www.cnbctv18.com/market/bharatpe-pre-ipo-fundraise-profitability-growth-paytm-comparison-19673229.htm",
+   "type": "funding"
+  },
+  {
+   "announced_date": "2024-09-30",
+   "confidence": "HIGH",
+   "date": "2024-09-30",
+   "description": "All disputes settled; part of Grover shares to Resilient Growth Trust.",
+   "headline": "Settlement with Ashneer Grover",
+   "source_url": "https://en.wikipedia.org/wiki/BharatPe",
+   "type": "legal"
+  }
+ ],
+ "financials": [
+  {
+   "confidence": "HIGH",
+   "currency": "INR",
+   "fiscal_year": "FY25",
+   "metric": "operating revenue",
+   "source_title": "BharatPe turns EBITDA profitable in FY25",
+   "source_url": "https://entrackr.com/fintrackr/bharatpe-turns-ebitda-profitable-in-fy25-revenue-touches-rs-1667-cr-10501335",
+   "unit": "Cr",
+   "value": "1667 (vs 1426 in FY24, +16.9%)",
+   "value_type": "press-quoted-filing"
+  },
+  {
+   "confidence": "HIGH",
+   "currency": "INR",
+   "fiscal_year": "FY25",
+   "metric": "EBITDA / PAT",
+   "source_title": "BharatPe turns EBITDA profitable in FY25",
+   "source_url": "https://entrackr.com/fintrackr/bharatpe-turns-ebitda-profitable-in-fy25-revenue-touches-rs-1667-cr-10501335",
+   "unit": "Cr",
+   "value": "EBITDA +47 (adj +195.5 ex-ESOP); net loss -88 (vs -492 FY24); adj PBT +6 per FE",
+   "value_type": "press-quoted-filing"
+  },
+  {
+   "confidence": "MEDIUM",
+   "currency": "INR",
+   "fiscal_year": "FY24",
+   "metric": "operating revenue",
+   "source_title": "ET: firmly on profitability track",
+   "source_url": "https://economictimes.indiatimes.com/tech/technology/bharatpe-firmly-on-profitability-track-eyes-100-million-round/articleshow/123003600.cms",
+   "unit": "Cr",
+   "value": "1486 (+27%); net loss -491 (vs -927 FY23)",
+   "value_type": "press-quoted-filing"
+  }
+ ],
+ "founders": [
+  {
+   "background": "IIT Delhi (Textile Tech); conceived BharatPe in college",
+   "confidence": "HIGH",
+   "education": "IIT Delhi",
+   "name": "Shashvat Nakrani",
+   "role": "Co-founder",
+   "source_url": "https://en.wikipedia.org/wiki/Shashvat_Nakrani",
+   "still_active": true,
+   "type": "co-founder"
+  },
+  {
+   "background": "IIT Delhi + IIM Ahmedabad; ex-Grofers/Kotak; exited 2022; settled Sep 2024",
+   "confidence": "HIGH",
+   "education": "IIT Delhi, IIM Ahmedabad",
+   "name": "Ashneer Grover",
+   "role": "Co-founder (ex; joined Nov 2018, resigned Mar 2022)",
+   "source_url": "https://en.wikipedia.org/wiki/BharatPe",
+   "still_active": false,
+   "type": "co-founder"
+  },
+  {
+   "background": "Product/tech lead; later consultant; equity held via others",
+   "confidence": "MEDIUM",
+   "name": "Bhavik Koladiya",
+   "role": "Co-founder (incorporator Mar 2018; exited)",
+   "source_url": "https://inc42.com/features/the-bharatpe-saga-here-are-all-the-key-players/",
+   "still_active": false,
+   "type": "co-founder"
+  }
+ ],
+ "funding_rounds": [
+  {
+   "all_investors": [
+    "Tiger Global",
+    "Peak XV/Sequoia",
+    "Coatue",
+    "Ribbit",
+    "Dragoneer",
+    "Steadview",
+    "Steadfast"
+   ],
+   "amount": "370M",
+   "announced_date": "2021-08-03",
+   "confidence": "HIGH",
+   "currency": "USD",
+   "lead_investors": [
+    "Tiger Global"
+   ],
+   "round_type": "Series E",
+   "source_title": "BharatPe Funding 2026 – Total Funding, Rounds & Investors (Inc42)",
+   "source_url": "https://inc42.com/company/bharatpe/funding/",
+   "tier": "T3",
+   "valuation": "2.85B",
+   "valuation_type": "post-money",
+   "announcement_date": "2021-08-04",
+   "valuation_currency": "USD",
+   "new_or_existing": "new (Tiger Global lead)"
+  },
+  {
+   "amount": "108M",
+   "announced_date": "2021-02-10",
+   "confidence": "HIGH",
+   "currency": "USD",
+   "lead_investors": [
+    "Peak XV/Sequoia"
+   ],
+   "round_type": "Series D",
+   "source_title": "BharatPe Funding (Inc42)",
+   "source_url": "https://inc42.com/company/bharatpe/funding/",
+   "tier": "T3",
+   "valuation": "900M",
+   "valuation_type": "post-money"
+  },
+  {
+   "amount": "75M",
+   "announced_date": "2020-02-01",
+   "confidence": "MEDIUM",
+   "currency": "USD",
+   "lead_investors": [
+    "Coatue"
+   ],
+   "round_type": "Series C",
+   "source_title": "BharatPe Valuation 2026 (plisio, cites trajectory)",
+   "source_url": "https://plisio.net/tradfi/bharatpe-valuation",
+   "tier": "T5"
+  },
+  {
+   "all_investors": [
+    "Alteria Capital + others"
+   ],
+   "amount": "15M",
+   "announced_date": "2025-05-05",
+   "confidence": "HIGH",
+   "currency": "USD",
+   "round_type": "Debt",
+   "source_title": "BharatPe Funding (Inc42)",
+   "source_url": "https://inc42.com/company/bharatpe/funding/",
+   "tier": "T3"
+  },
+  {
+   "confidence": "MEDIUM",
+   "currency": "USD",
+   "round_type": "Secondary",
+   "source_title": "BharatPe turns EBITDA profitable in FY25 (Entrackr)",
+   "source_url": "https://entrackr.com/fintrackr/bharatpe-turns-ebitda-profitable-in-fy25-revenue-touches-rs-1667-cr-10501335",
+   "tier": "T3",
+   "valuation": "2.85B",
+   "valuation_type": "secondary-implied"
+  }
+ ],
+ "gaps": [
+  "Full round-by-round debt schedule not reconciled ($584M vs $883M total claims across DBs)",
+  "Unity Small Finance Bank stake economics unverified",
+  "Pre-IPO $80-100M Coatue round status unconfirmed",
+  "financials: no FY25 revenue/loss figures surfaced in this wave (enrich file already holds 3 financials entries)",
+  "round_dates: exact announcement dates for pre-Series-E rounds not verified here",
+  "valuations: pre-IPO Coatue round close/valuation unconfirmed (talks-stage)"
+ ],
+ "investor_links": [
+  {
+   "confidence": "HIGH",
+   "investor": "Tiger Global",
+   "investor_type": "VC",
+   "lead": true,
+   "rounds": [
+    "Series E"
+   ],
+   "source_url": "https://plisio.net/tradfi/bharatpe-valuation"
+  },
+  {
+   "confidence": "HIGH",
+   "investor": "Peak XV Partners (Sequoia India)",
+   "investor_type": "VC",
+   "lead": true,
+   "rounds": [
+    "Seed",
+    "Series A",
+    "Series D",
+    "Series E"
+   ],
+   "source_url": "https://inc42.com/company/bharatpe/funding/"
+  },
+  {
+   "confidence": "HIGH",
+   "investor": "Coatue",
+   "investor_type": "VC",
+   "lead": true,
+   "rounds": [
+    "Series C",
+    "Series D"
+   ],
+   "source_url": "https://plisio.net/tradfi/bharatpe-valuation"
+  },
+  {
+   "confidence": "MEDIUM",
+   "investor": "Ribbit Capital",
+   "investor_type": "VC",
+   "rounds": [
+    "Series E"
+   ],
+   "source_url": "https://tracxn.com/d/companies/bharatpe/__z1vktwhUhiN982R6xgMSEhyBS3Djtq3VGo9zdUy6agg"
+  },
+  {
+   "confidence": "MEDIUM",
+   "investor": "Dragoneer",
+   "investor_type": "VC",
+   "rounds": [
+    "Series E"
+   ],
+   "source_url": "https://entrackr.com/fintrackr/bharatpe-turns-ebitda-profitable-in-fy25-revenue-touches-rs-1667-cr-10501335"
+  }
+ ],
+ "investors_meta": [],
+ "legal": [
+  {
+   "confidence": "HIGH",
+   "dates": "2022-2024; settled 2024-09-30",
+   "regulator": "civil/criminal proceedings",
+   "source_url": "https://en.wikipedia.org/wiki/BharatPe",
+   "status": "settled",
+   "summary": "Gov dispute vs Ashneer Grover (embezzlement/GST/data-theft claims); cross-suits settled Sep 2024",
+   "type": "settlement"
+  }
+ ],
+ "locations": [
+  {
+   "city": "New Delhi/Gurugram",
+   "confidence": "MEDIUM",
+   "source_url": "https://en.wikipedia.org/wiki/BharatPe",
+   "state": "Delhi",
+   "type": "HQ"
+  }
+ ],
+ "people": [
+  {
+   "confidence": "MEDIUM",
+   "name": "Nalin Negi",
+   "position": "CEO (ex-CFO)",
+   "source_url": "https://economictimes.indiatimes.com/tech/technology/bharatpe-firmly-on-profitability-track-eyes-100-million-round/articleshow/123003600.cms"
+  },
+  {
+   "confidence": "MEDIUM",
+   "name": "Rajnish Kumar",
+   "position": "Chairman",
+   "source_url": "https://economictimes.indiatimes.com/tech/technology/bharatpe-firmly-on-profitability-track-eyes-100-million-round/articleshow/123003600.cms"
+  }
+ ],
+ "products": [
+  {
+   "category": "merchant QR/UPI, POS, lending, PA gateway",
+   "name": "BharatPe merchant stack",
+   "status": "active"
+  }
+ ],
+ "research_log": [
+  {
+   "found": "Founders, Series C/D/E, FY24/25 financials, IPO plans, settlement, PA licence",
+   "next_action": "Done; debt schedule + Unity SFB remain gaps",
+   "query": "BharatPe funding valuation FY25 revenue founders",
+   "unresolved": "Debt totals; Unity SFB stake; pre-IPO close"
+  },
+  {
+   "date": "2026-09-14",
+   "found": "CIN U74999DL2018PTC331205, incorporated 20 Mar 2018, legal name Resilient Innovations Private Limited via ZaubaCorp snippet",
+   "query": "BharatPe Resilient Innovations Private Limited CIN incorporation",
+   "unresolved": "FY25 filing figures not surfaced in searched results"
+  },
+  {
+   "date": "2026-09-14",
+   "found": "Series E $370M led by Tiger Global, Aug 2021, $2.85B valuation via Fintech Futures/Fintech Global snippets; pre-IPO $80-100M Coatue round still in talks-stage per Entrackr exclusive",
+   "query": "BharatPe Series E 370 million valuation August 2021 Tiger Global Dragoneer",
+   "unresolved": "FY25 revenue/loss figures; pre-IPO Coatue round close status"
+  }
+ ],
+ "sources": [
+  {
+   "claim_supported": "FY25 revenue 1667 Cr, EBITDA +47, $650M raised, $2.85B secondary",
+   "fields_supported": [
+    "financials",
+    "funding"
+   ],
+   "publication_date": "2025-09-25",
+   "publisher": "Entrackr",
+   "retrieved_date": "2026-09-14",
+   "tier": "T3",
+   "title": "BharatPe turns EBITDA profitable in FY25, revenue touches Rs 1,667 Cr",
+   "url": "https://entrackr.com/fintrackr/bharatpe-turns-ebitda-profitable-in-fy25-revenue-touches-rs-1667-cr-10501335"
+  },
+  {
+   "claim_supported": "Pre-IPO 800-1200 Cr, FY25 profitable, PA licence, Coatue talks",
+   "fields_supported": [
+    "events",
+    "financials"
+   ],
+   "publication_date": "2025-09-12",
+   "publisher": "CNBC TV18",
+   "retrieved_date": "2026-09-14",
+   "tier": "T3",
+   "title": "BharatPe prepares for IPO, eyes public funding for next growth phase",
+   "url": "https://www.cnbctv18.com/market/bharatpe-pre-ipo-fundraise-profitability-growth-paytm-comparison-19673229.htm"
+  },
+  {
+   "claim_supported": "FY24 revenue, profitability track, $80-100M raise target",
+   "fields_supported": [
+    "financials",
+    "funding"
+   ],
+   "publisher": "Economic Times",
+   "retrieved_date": "2026-09-14",
+   "tier": "T3",
+   "title": "BharatPe firmly on profitability track, eyes $100 million round",
+   "url": "https://economictimes.indiatimes.com/tech/technology/bharatpe-firmly-on-profitability-track-eyes-100-million-round/articleshow/123003600.cms"
+  },
+  {
+   "claim_supported": "Founders, settlement, revenue",
+   "fields_supported": [
+    "founders",
+    "legal"
+   ],
+   "publisher": "Wikipedia",
+   "retrieved_date": "2026-09-14",
+   "tier": "T5",
+   "title": "BharatPe",
+   "url": "https://en.wikipedia.org/wiki/BharatPe"
+  },
+  {
+   "claim_supported": "Round table, $883M total",
+   "fields_supported": [
+    "funding"
+   ],
+   "publisher": "Inc42",
+   "retrieved_date": "2026-09-14",
+   "tier": "T3",
+   "title": "BharatPe Funding 2026",
+   "url": "https://inc42.com/company/bharatpe/funding/"
+  },
+  {
+   "url": "https://www.fintechfutures.com/fintech/indian-fintech-bharatpe-secures-unicorn-status-with-370m-series-e-round",
+   "title": "",
+   "fields": "FUNDING",
+   "confidence": "high"
+  },
+  {
+   "url": "https://www.zaubacorp.com/RESILIENT-INNOVATIONS-PRIVATE-LIMITED-U74999DL2018PTC331205",
+   "title": "RESILIENT INNOVATIONS PRIVATE LIMITED | ZaubaCorp",
+   "fields": [
+    "updates.company.cin",
+    "updates.company.incorporation_date",
+    "updates.company.legal_name"
+   ],
+   "confidence": "high"
+  },
+  {
+   "url": "https://entrackr.com/exclusive/exclusive-bharatpe-set-to-raise-80-100-mn-pre-ipo-round-led-by-coatue-9646773",
+   "title": "Exclusive: BharatPe set to raise $80-100 Mn pre-IPO round led by Coatue",
+   "fields": [
+    "round_supplements"
+   ],
+   "confidence": "medium"
+  }
+ ],
+ "startup_id": "bharatpe",
+ "traction": [
+  {
+   "as_of": "2025",
+   "company_reported": false,
+   "confidence": "MEDIUM",
+   "metric": "revenue mix",
+   "source_url": "https://www.cnbctv18.com/market/bharatpe-pre-ipo-fundraise-profitability-growth-paytm-comparison-19673229.htm",
+   "value": "Lending 57% of revenue; FY25 revenue ~1500-1667 Cr"
+  }
+ ],
+ "_merged_session2": true
+}

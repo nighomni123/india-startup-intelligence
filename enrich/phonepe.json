@@ -1,0 +1,4161 @@
+{
+ "canonical_key": "phonepe",
+ "company": {
+  "city": "Bengaluru",
+  "country": "India",
+  "legal_name": "PhonePe Limited (redomiciled India 2022; ex-Flipkart hive-off 2020)",
+  "primary_sector": "fintech payments",
+  "secondary_sectors": [
+   "UPI payments",
+   "lending distribution",
+   "insurance distribution",
+   "wealth/stocks",
+   "consumer tech (Pincode, Indus Appstore)"
+  ],
+  "startup_id": "phonepe",
+  "startup_stage": "late / pre-IPO (confidential DRHP Sep 2025, UDRHP Jan 2026)",
+  "status": "active, IPO-bound",
+  "website": "https://www.phonepe.com",
+  "official_website": {
+   "v": "https://www.phonepe.com",
+   "conf": "high",
+   "src": "https://www.phonepe.com",
+   "note": "verified live 2026-09-15: name match on own homepage"
+  },
+  "careers_website": {
+   "v": "https://www.phonepe.com/careers/",
+   "conf": "high",
+   "src": "https://www.phonepe.com",
+   "note": "careers link found on official homepage, probed live"
+  },
+  "cin": {
+   "v": "U67190KA2012PLC176031",
+   "conf": "MEDIUM",
+   "src": "https://www.recurclub.com/company/phonepe-limited",
+   "note": "Group-entity conflict: PhonePe Limited CIN U67190KA2012PLC176031 vs Phonepe Private Limited U67190MH2012PTC337657; MCA primary not verified",
+   "asof": "2026-09-15"
+  },
+  "incorporation_date": {
+   "v": "2015-12",
+   "conf": "MEDIUM",
+   "src": "https://www.phonepe.com/about-us/",
+   "note": "Operating founding Dec 2015; registry entity dates 2012; needs primary confirmation",
+   "asof": "2026-09-15"
+  },
+  "state": {
+   "v": "Karnataka",
+   "conf": "HIGH",
+   "src": "https://www.phonepe.com/about-us/",
+   "note": "",
+   "asof": "2026-09-15"
+  },
+  "business_model": {
+   "v": "UPI payments platform + financial services distribution (lending, insurance, wealth) + consumer tech (Indus Appstore, Pincode)",
+   "conf": "HIGH",
+   "src": "https://www.phonepe.com/about-us/",
+   "note": "",
+   "asof": "2026-09-15"
+  },
+  "description": {
+   "v": "India's largest digital payments platform; anchored by UPI payments, expanded into insurance, lending, wealth (Share.Market), and consumer tech (Indus Appstore)",
+   "conf": "HIGH",
+   "src": "https://www.phonepe.com/about-us/",
+   "note": "",
+   "asof": "2026-09-15"
+  },
+  "employee_estimate": {
+   "v": 50000,
+   "conf": "MEDIUM",
+   "src": "https://www.phonepe.com/press/",
+   "note": "ESTIMATE based on 400M daily transactions scale and 718M users; no verified headcount found",
+   "asof": "2026-07-01"
+  },
+  "public_private": {
+   "v": "private",
+   "conf": "HIGH",
+   "src": "https://www.phonepe.com/about-us/",
+   "note": "IPO-bound but not yet listed",
+   "asof": "2026-09-15"
+  },
+  "hq_type": {
+   "v": "HQ",
+   "conf": "HIGH",
+   "src": "https://www.phonepe.com/about-us/",
+   "note": "",
+   "asof": "2026-09-15"
+  },
+  "registered_office": {
+   "v": "Bengaluru, Karnataka",
+   "conf": "MEDIUM",
+   "src": "https://www.phonepe.com/about-us/",
+   "note": "CIN suggests Karnataka registration",
+   "asof": "2026-09-15"
+  }
+ },
+ "competitors": [
+  {
+   "basis": "explicit",
+   "confidence": "HIGH",
+   "name": "Google Pay",
+   "source_url": "https://www.business-standard.com/markets/ipo/phonepe-ipo-walmart-backed-valuation-exits-upi-transactions-offer-126030400379_1.html"
+  },
+  {
+   "basis": "explicit",
+   "confidence": "HIGH",
+   "name": "Paytm",
+   "source_url": "https://www.business-standard.com/markets/ipo/phonepe-ipo-walmart-backed-valuation-exits-upi-transactions-offer-126030400379_1.html"
+  }
+ ],
+ "completeness_self": {
+  "customers": 5,
+  "financials": 9,
+  "founders": 8,
+  "funding": 8,
+  "identity": 8,
+  "investors": 9,
+  "legal": 3,
+  "people": 5,
+  "products": 7,
+  "sources": 8,
+  "traction": 8
+ },
+ "conflicts": [
+  {
+   "claim_a": "IPO raise ~$1.35B / Rs 10,000-12,000cr (Sep 2025 reports)",
+   "claim_b": "IPO raise $900M-$1.05B at $9-10.5B valuation (Reuters Mar 2026 sources)",
+   "field": "IPO size/valuation target",
+   "resolution": "Treat as evolving press estimates: Sep-2025 framing (~$1.35B, up to $15B val) vs Mar-2026 sourced range ($9-10.5B val). UDRHP Jan 2026 confirms OFS of 50.66M shares without price. Keep both.",
+   "resolved_value": "Range $0.9-1.35B; valuation target $9-15B press range",
+   "url_a": "https://www.reuters.com/world/india/walmart-backed-phonepe-files-india-ipo-via-confidential-route-2025-09-24/",
+   "url_b": "https://www.reuters.com/world/india/walmart-backed-phonepe-targets-up-105-billion-valuation-india-ipo-sources-say-2026-03-04/"
+  },
+  {
+   "claim_a": "FY25 operating revenue Rs 7,114.9cr (FE/Tofler)",
+   "claim_b": "FY25 operating revenue Rs 7,148.6cr consolidated (Mint/MCA)",
+   "field": "FY25 revenue",
+   "resolution": "Minor definitional rounding (standalone vs consolidated incl. other income lines). Keep both; use 7,115cr operating as headline.",
+   "resolved_value": "~Rs 7,115cr operating revenue FY25",
+   "url_a": "https://www.financialexpress.com/business/industry-ipo-bound-phonepes-revenue-rises-40-in-fy25-losses-narrow-3985842/",
+   "url_b": "https://www.livemint.com/companies/company-results/phonepe-revenue-phonepe-ipo-phonepe-losses-phonepe-financials-digital-payments-11758551525010.html"
+  },
+  {
+   "field": "legal_name",
+   "claim_a": "PhonePe Limited (redomiciled India 2022; ex-Flipkart hive-off 2020)",
+   "url_a": "",
+   "claim_b": "PhonePe Limited",
+   "url_b": "",
+   "resolution": "phase3 p3 payload disagrees with existing value; existing kept as preferred pending human review",
+   "resolved_value": "",
+   "reviewed": "p3-merge"
+  },
+  {
+   "field": "startup_stage",
+   "claim_a": "late / pre-IPO (confidential DRHP Sep 2025, UDRHP Jan 2026)",
+   "url_a": "",
+   "claim_b": "late / pre-IPO",
+   "url_b": "",
+   "resolution": "phase3 p3 payload disagrees with existing value; existing kept as preferred pending human review",
+   "resolved_value": "",
+   "reviewed": "p3-merge"
+  },
+  {
+   "field": "CIN",
+   "claim_a": "PhonePe Limited CIN U67190KA2012PLC176031 (RecurClub)",
+   "url_a": "https://www.recurclub.com/company/phonepe-limited",
+   "claim_b": "Phonepe Private Limited U67190MH2012PTC337657 (Tracxn)",
+   "url_b": "https://tracxn.com/",
+   "resolution": "Group-entity conflict: PhonePe Limited (post-redomicile) vs Phonepe Private Limited (pre-redomicile). Needs MCA21 primary check. Keep both.",
+   "resolved_value": "UNRESOLVED - needs MCA21 primary verification"
+  }
+ ],
+ "customers": [
+  {
+   "name": "50+ million lifetime registered merchants",
+   "type": "merchant",
+   "announced_date": "2026-07-01",
+   "status": "active",
+   "source_url": "https://www.phonepe.com/press/",
+   "confidence": "HIGH",
+   "notes": "PhonePe official media kit as of July 2026"
+  },
+  {
+   "name": "718 million lifetime registered users",
+   "type": "consumer",
+   "announced_date": "2026-07-01",
+   "status": "active",
+   "source_url": "https://www.phonepe.com/press/",
+   "confidence": "HIGH",
+   "notes": "PhonePe official media kit as of July 2026"
+  }
+ ],
+ "events": [
+  {
+   "announced_date": "2025-09-24",
+   "confidence": "HIGH",
+   "date": "2025-09-24",
+   "description": "Confidential pre-filed DRHP; pure OFS; bankers Kotak, Citi, Morgan Stanley, JPMorgan.",
+   "headline": "PhonePe files confidential IPO papers with SEBI",
+   "source_url": "https://www.thehindubusinessline.com/markets/phonepe-files-confidential-ipo-papers-with-sebi-eyes-1000012000-cr-via-ofs/article70089225.ece",
+   "type": "IPO filing"
+  },
+  {
+   "announced_date": "2026-01-22",
+   "confidence": "HIGH",
+   "date": "2026-01-21",
+   "description": "UDRHP: OFS up to 50,660,446 shares; Walmart 45.94M, Tiger 1.04M, Microsoft 3.68M.",
+   "headline": "PhonePe files updated DRHP (UDRHP-I)",
+   "source_url": "https://entrackr.com/news/phonepe-files-updated-drhp-walmart-to-sell-9-stake-via-ofs-11020697",
+   "type": "IPO filing"
+  },
+  {
+   "announced_date": "2026-01-22",
+   "confidence": "HIGH",
+   "date": "2025-09-01",
+   "description": "Nigam + Chari sold Rs 3,937cr (~$430M) to General Atlantic; GA stake 8.9%.",
+   "headline": "Co-founders sell $430M stake to General Atlantic",
+   "source_url": "https://economictimes.indiatimes.com/tech/technology/ipo-bound-phonepe-cofounders-sold-stake-worth-430-million-to-general-atlantic-in-2025/articleshow/127158206.cms",
+   "type": "secondary"
+  },
+  {
+   "type": "IPO filing",
+   "headline": "PhonePe files confidential DRHP with SEBI",
+   "date": "2025-09-24",
+   "description": "Confidential pre-filed DRHP; pure OFS; bankers Kotak, Citi, Morgan Stanley, JPMorgan",
+   "source_url": "https://www.thehindubusinessline.com/markets/phonepe-files-confidential-ipo-papers-with-sebi-eyes-1000012000-cr-via-ofs/article70089225.ece",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "funding",
+   "headline": "PhonePe raises $350M at over $12B valuation",
+   "date": "2023-01-01",
+   "description": "Growth round led by General Atlantic; $850M total in round per Fintech Futures",
+   "source_url": "https://entrackr.com/2023/01/phonepe-raises-350-mn-at-over-12-bn-valuation/",
+   "confidence": "MEDIUM"
+  },
+  {
+   "type": "product launch",
+   "headline": "PhonePe launches PulsePro: Actionable Data Intelligence",
+   "date": "2026-07-30",
+   "description": "Business data intelligence platform; Strategy Head Karthik Raghupathy shares insights",
+   "source_url": "https://www.phonepe.com/press/",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "partnership",
+   "headline": "PhonePe PulsePro signs MoU with MeitY for PM GatiShakti",
+   "date": "2026-08-20",
+   "description": "MoU with Ministry of Electronics and IT to power PM GatiShakti",
+   "source_url": "https://www.phonepe.com/press/",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "product launch",
+   "headline": "PhonePe launches UPI 123Pay for feature phone users",
+   "date": "2026-08-31",
+   "description": "UPI payments for 200M+ feature phone users",
+   "source_url": "https://www.phonepe.com/press/",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "partnership",
+   "headline": "PhonePe partners with DPIIT to empower startups",
+   "date": "2026-08-21",
+   "description": "MoU signed with DPIIT to boost startup ecosystem",
+   "source_url": "https://www.phonepe.com/press/",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "product launch",
+   "headline": "PhonePe launches Fixed Deposit Distribution",
+   "date": "2026-08-06",
+   "description": "FD distribution in partnership with leading banks & NBFCs",
+   "source_url": "https://www.phonepe.com/press/",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "partnership",
+   "headline": "PhonePe and Visa partner for cardless payments",
+   "date": "2026-09-09",
+   "description": "Comprehensive cardless payments for millions of Indians globally",
+   "source_url": "https://www.phonepe.com/press/",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "IPO",
+   "headline": "PhonePe IPO delayed over valuation mismatch",
+   "date": "2026-09-09",
+   "description": "TOI reports PhonePe and Zepto delayed IPOs over valuation mismatch; IPO-bound but delayed",
+   "source_url": "https://timesofindia.indiatimes.com/business/india-business/valuation-reset-startups-begin-losing-unicorn-tag/articleshow/133950675.cms",
+   "confidence": "MEDIUM"
+  },
+  {
+   "type": "leadership",
+   "headline": "PhonePe CEO Sameer Nigam assures UPI payments remain free",
+   "date": "2026-08-08",
+   "description": "CEO Sameer Nigam confirms UPI payments will remain free for consumers",
+   "source_url": "https://www.moneycontrol.com/",
+   "confidence": "HIGH"
+  }
+ ],
+ "financials": [
+  {
+   "confidence": "HIGH",
+   "currency": "INR",
+   "fiscal_year": "FY25",
+   "metric": "revenue from operations",
+   "source_date": "2025-09-22",
+   "source_title": "IPO-bound PhonePe's revenue rises 40% in FY25",
+   "source_url": "https://www.financialexpress.com/business/industry-ipo-bound-phonepes-revenue-rises-40-in-fy25-losses-narrow-3985842/",
+   "unit": "crore",
+   "value": 7115.0,
+   "value_type": "press-quoted-filing"
+  },
+  {
+   "confidence": "HIGH",
+   "currency": "INR",
+   "fiscal_year": "FY25",
+   "metric": "net loss (consolidated)",
+   "source_date": "2025-09-22",
+   "source_title": "PhonePe cuts losses as revenue tops Rs 7,000 crore in FY25",
+   "source_url": "https://www.livemint.com/companies/company-results/phonepe-revenue-phonepe-ipo-phonepe-losses-phonepe-financials-digital-payments-11758551525010.html",
+   "unit": "crore",
+   "value": -1727.0,
+   "value_type": "press-quoted-filing"
+  },
+  {
+   "confidence": "MEDIUM",
+   "currency": "INR",
+   "fiscal_year": "FY25",
+   "metric": "adjusted PAT (ex-ESOP)",
+   "source_date": "2025-09-22",
+   "source_title": "IPO-bound PhonePe's revenue rises 40% in FY25",
+   "source_url": "https://www.financialexpress.com/business/industry-ipo-bound-phonepes-revenue-rises-40-in-fy25-losses-narrow-3985842/",
+   "unit": "crore",
+   "value": 630.0,
+   "value_type": "management"
+  },
+  {
+   "confidence": "MEDIUM",
+   "currency": "INR",
+   "fiscal_year": "FY24",
+   "metric": "revenue from operations",
+   "source_date": "2025-09-22",
+   "source_title": "IPO-bound PhonePe's revenue rises 40% in FY25",
+   "source_url": "https://www.financialexpress.com/business/industry-ipo-bound-phonepes-revenue-rises-40-in-fy25-losses-narrow-3985842/",
+   "unit": "crore",
+   "value": 5064.0,
+   "value_type": "press-quoted-filing"
+  },
+  {
+   "confidence": "HIGH",
+   "currency": "INR",
+   "fiscal_year": "H1-FY26",
+   "metric": "revenue (6 months to Sep 2025, +22% YoY)",
+   "source_date": "2026-01-22",
+   "source_title": "PhonePe cofounders sold stake worth $430M (ET)",
+   "source_url": "https://economictimes.indiatimes.com/tech/technology/ipo-bound-phonepe-cofounders-sold-stake-worth-430-million-to-general-atlantic-in-2025/articleshow/127158206.cms",
+   "unit": "crore",
+   "value": 3918.0,
+   "value_type": "press-quoted-filing"
+  },
+  {
+   "fiscal_year": "FY25",
+   "metric": "revenue from operations",
+   "value": 7115.0,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "press-quoted-filing",
+   "basis": "standalone",
+   "consolidated": "no",
+   "filing_date": "2025-09-22",
+   "source_url": "https://www.financialexpress.com/business/industry-ipo-bound-phonepes-revenue-rises-40-in-fy25-losses-narrow-3985842/",
+   "source_title": "IPO-bound PhonePe's revenue rises 40% in FY25",
+   "confidence": "HIGH",
+   "notes": "40% YoY growth from FY24 Rs 5,064cr"
+  },
+  {
+   "fiscal_year": "FY25",
+   "metric": "net loss (consolidated)",
+   "value": -1727.0,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "press-quoted-filing",
+   "basis": "consolidated",
+   "consolidated": "yes",
+   "filing_date": "2025-09-22",
+   "source_url": "https://www.livemint.com/companies/company-results/phonepe-revenue-phonepe-ipo-phonepe-losses-phonepe-financials-digital-payments-11758551525010.html",
+   "source_title": "PhonePe cuts losses as revenue tops Rs 7,000 crore in FY25",
+   "confidence": "HIGH",
+   "notes": ""
+  },
+  {
+   "fiscal_year": "FY25",
+   "metric": "adjusted PAT (ex-ESOP)",
+   "value": 630.0,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "management",
+   "basis": "standalone",
+   "consolidated": "no",
+   "filing_date": "2025-09-22",
+   "source_url": "https://www.financialexpress.com/business/industry-ipo-bound-phonepes-revenue-rises-40-in-fy25-losses-narrow-3985842/",
+   "source_title": "IPO-bound PhonePe's revenue rises 40% in FY25",
+   "confidence": "MEDIUM",
+   "notes": "Ex-ESOP adjusted profit"
+  },
+  {
+   "fiscal_year": "FY24",
+   "metric": "revenue from operations",
+   "value": 5064.0,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "press-quoted-filing",
+   "basis": "standalone",
+   "consolidated": "no",
+   "filing_date": "2025-09-22",
+   "source_url": "https://www.financialexpress.com/business/industry-ipo-bound-phonepes-revenue-rises-40-in-fy25-losses-narrow-3985842/",
+   "source_title": "IPO-bound PhonePe's revenue rises 40% in FY25",
+   "confidence": "HIGH",
+   "notes": ""
+  },
+  {
+   "fiscal_year": "H1-FY26",
+   "metric": "revenue (6 months to Sep 2025, +22% YoY)",
+   "value": 3918.0,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "press-quoted-filing",
+   "basis": "consolidated",
+   "consolidated": "yes",
+   "filing_date": "2026-01-22",
+   "source_url": "https://economictimes.indiatimes.com/tech/technology/ipo-bound-phonepe-cofounders-sold-stake-worth-430-million-to-general-atlantic-in-2025/articleshow/127158206.cms",
+   "source_title": "PhonePe cofounders sold stake worth $430M",
+   "confidence": "MEDIUM",
+   "notes": "H1-FY26 revenue"
+  }
+ ],
+ "founders": [
+  {
+   "background": "CEO; ex-Flipkart; Walmart-ecosystem executive",
+   "confidence": "HIGH",
+   "name": "Sameer Nigam",
+   "role": "Co-founder & CEO",
+   "source_url": "https://www.livemint.com/companies/company-results/phonepe-revenue-phonepe-ipo-phonepe-losses-phonepe-financials-digital-payments-11758551525010.html",
+   "still_active": true,
+   "type": "co-founder",
+   "active": "yes",
+   "location": "Bengaluru",
+   "linkedin": "https://linkedin.com/in/sanigam"
+  },
+  {
+   "background": "CTO/CPO; ex-Flipkart",
+   "confidence": "HIGH",
+   "name": "Rahul Chari",
+   "role": "Co-founder",
+   "source_url": "https://www.livemint.com/companies/company-results/phonepe-revenue-phonepe-ipo-phonepe-losses-phonepe-financials-digital-payments-11758551525010.html",
+   "still_active": true,
+   "type": "co-founder",
+   "active": "yes",
+   "location": "Bengaluru",
+   "linkedin": "https://linkedin.com/in/rahulchari"
+  },
+  {
+   "background": "Early co-founding engineer (per MCA/press profiles)",
+   "confidence": "MEDIUM",
+   "name": "Burzin Engineer",
+   "role": "Co-founder",
+   "source_url": "https://www.livemint.com/companies/company-results/phonepe-revenue-phonepe-ipo-phonepe-losses-phonepe-financials-digital-payments-11758551525010.html",
+   "still_active": false,
+   "type": "co-founder",
+   "active": "yes",
+   "location": "Bengaluru",
+   "linkedin": "https://linkedin.com/in/burzinengineer"
+  },
+  {
+   "name": "Rahul Chari",
+   "role": "Co-founder & CTO",
+   "background": "ex-Flipkart",
+   "education": "",
+   "still_active": true,
+   "source_url": "https://www.phonepe.com/about-us/",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Burzin Engineer",
+   "role": "Co-founder & Chief Reliability Officer",
+   "background": "early co-founding engineer",
+   "education": "",
+   "still_active": true,
+   "source_url": "https://www.phonepe.com/about-us/",
+   "confidence": "HIGH"
+  }
+ ],
+ "funding_rounds": [
+  {
+   "all_investors": [
+    "Walmart",
+    "General Atlantic",
+    "Tiger Global",
+    "Microsoft",
+    "Ribbit"
+   ],
+   "amount": 100.0,
+   "announced_date": "2023-01-01",
+   "confidence": "HIGH",
+   "currency": "USD",
+   "lead_investors": [
+    "General Atlantic"
+   ],
+   "notes": "Last private primary; pre-money $12B; ~$1B raised cumulatively per Mint",
+   "round_date": "2023-01-01",
+   "round_type": "growth/secondary mix",
+   "source_date": "2025-09-22",
+   "source_title": "PhonePe cuts losses as revenue tops Rs 7,000 crore in FY25",
+   "source_url": "https://www.livemint.com/companies/company-results/phonepe-revenue-phonepe-ipo-phonepe-losses-phonepe-financials-digital-payments-11758551525010.html",
+   "tier": "T3",
+   "valuation": 12000000000.0,
+   "valuation_type": "pre-money"
+  },
+  {
+   "all_investors": [
+    "General Atlantic"
+   ],
+   "amount": 430.0,
+   "announced_date": "2026-01-22",
+   "confidence": "HIGH",
+   "currency": "USD",
+   "lead_investors": [
+    "General Atlantic"
+   ],
+   "notes": "Founders sold Rs 3,937cr to GA Sep 2025; GA total ~$1.15B, 8.9% stake",
+   "round_date": "2025-09-01",
+   "round_type": "secondary",
+   "source_date": "2026-01-22",
+   "source_title": "PhonePe cofounders sold stake worth $430M to General Atlantic",
+   "source_url": "https://economictimes.indiatimes.com/tech/technology/ipo-bound-phonepe-cofounders-sold-stake-worth-430-million-to-general-atlantic-in-2025/articleshow/127158206.cms",
+   "tier": "T3"
+  },
+  {
+   "round_type": "Growth equity",
+   "amount": "",
+   "currency": "USD",
+   "round_date": "2023-01",
+   "valuation": "12B",
+   "valuation_currency": "USD",
+   "valuation_type": "pre-money",
+   "lead_investors": [],
+   "all_investors": [],
+   "new_or_existing": "",
+   "purpose": "Growth capital post-redomiciling; $850M total in round per Fintech Futures",
+   "source_url": "https://entrackr.com/2023/01/phonepe-raises-350-mn-at-over-12-bn-valuation/",
+   "confidence": "MEDIUM",
+   "notes": "added session-2 gapfill"
+  },
+  {
+   "round_type": "growth/secondary",
+   "announced_date": "2023-01-15",
+   "round_date": "2023-01-01",
+   "amount": 350.0,
+   "currency": "USD",
+   "valuation": 12000000000.0,
+   "valuation_currency": "USD",
+   "valuation_type": "pre-money",
+   "lead_investors": [
+    "General Atlantic"
+   ],
+   "all_investors": [
+    "General Atlantic",
+    "Walmart",
+    "Tiger Global",
+    "Microsoft",
+    "Ribbit"
+   ],
+   "instrument": "equity",
+   "purpose": "Growth capital post-redomiciling",
+   "source_url": "https://entrackr.com/2023/01/phonepe-raises-350-mn-at-over-12-bn-valuation/",
+   "source_title": "PhonePe raises $350Mn at over $12Bn valuation",
+   "source_date": "2023-01-01",
+   "tier": "T3",
+   "confidence": "MEDIUM",
+   "notes": "$850M total in round per Fintech Futures; last private primary"
+  }
+ ],
+ "gaps": [
+  "CIN not verified",
+  "FY26 full-year pending",
+  "IPO price band/valuation unresolved (press ranges only)",
+  "UPI market-share exact figure not pinned to a fetched page",
+  "cin — group-entity conflict (U67190KA2012PLC176031 vs U67190MH2012PTC337657); needs MCA primary check on PhonePe Limited post-redomicile entity",
+  "incorporation_date — operating founding Dec 2015 vs registry entity dates 2012; needs primary confirmation"
+ ],
+ "hiring": [],
+ "investor_links": [
+  {
+   "confidence": "HIGH",
+   "first_seen": "2018",
+   "investor": "Walmart (WM Digital Commerce Holdings)",
+   "investor_type": "strategic/corporate",
+   "lead": true,
+   "rounds": [
+    "acquisition-via-Flipkart",
+    "growth"
+   ],
+   "source_url": "https://entrackr.com/news/phonepe-files-updated-drhp-walmart-to-sell-9-stake-via-ofs-11020697"
+  },
+  {
+   "confidence": "HIGH",
+   "first_seen": "2023",
+   "investor": "General Atlantic",
+   "investor_type": "PE",
+   "lead": true,
+   "rounds": [
+    "2023 growth",
+    "2025 secondary"
+   ],
+   "source_url": "https://economictimes.indiatimes.com/tech/technology/ipo-bound-phonepe-cofounders-sold-stake-worth-430-million-to-general-atlantic-in-2025/articleshow/127158206.cms"
+  },
+  {
+   "confidence": "HIGH",
+   "first_seen": "2021",
+   "investor": "Tiger Global",
+   "investor_type": "VC",
+   "lead": false,
+   "rounds": [
+    "growth"
+   ],
+   "source_url": "https://entrackr.com/news/phonepe-files-updated-drhp-walmart-to-sell-9-stake-via-ofs-11020697"
+  },
+  {
+   "confidence": "HIGH",
+   "first_seen": "2022",
+   "investor": "Microsoft",
+   "investor_type": "strategic",
+   "lead": false,
+   "rounds": [
+    "growth"
+   ],
+   "source_url": "https://entrackr.com/news/phonepe-files-updated-drhp-walmart-to-sell-9-stake-via-ofs-11020697"
+  }
+ ],
+ "investors_meta": [],
+ "legal": [],
+ "locations": [
+  {
+   "as_of": "2025-09-24",
+   "city": "Bengaluru",
+   "confidence": "HIGH",
+   "source_url": "https://www.fortuneindia.com/markets/ipo/phonepe-files-confidential-draft-for-12000-crore-ipo-walmart-tiger-global-microsoft-eye-10-stake-sale/126934",
+   "state": "Karnataka",
+   "type": "HQ"
+  },
+  {
+   "type": "hq",
+   "address_or_area": "Bengaluru",
+   "city": "Bengaluru",
+   "state": "Karnataka",
+   "country": "India",
+   "as_of": "2026-09-15",
+   "source_url": "https://www.phonepe.com/about-us/",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "registered_office",
+   "address_or_area": "Bengaluru, Karnataka",
+   "city": "Bengaluru",
+   "state": "Karnataka",
+   "country": "India",
+   "as_of": "2026-09-15",
+   "source_url": "https://www.recurclub.com/company/phonepe-limited",
+   "confidence": "MEDIUM",
+   "notes": "CIN U67190KA2012PLC176031 suggests Karnataka registration"
+  }
+ ],
+ "partnerships": [],
+ "people": [
+  {
+   "confidence": "MEDIUM",
+   "name": "Ankit Gunvantrai Popat",
+   "position": "Company Secretary & Compliance Officer",
+   "source_url": "https://images.moneycontrol.com/news_html_files/pdffiles/Jan2026/phonepe-limited.pdf"
+  },
+  {
+   "name": "Sameer Nigam",
+   "role": "Founder, Whole-time Director and CEO",
+   "title": "Chief Executive Officer",
+   "current": true,
+   "since": "2015",
+   "prior_role": "ex-Flipkart executive",
+   "source_url": "https://www.phonepe.com/about-us/",
+   "confidence": "HIGH",
+   "notes": "Confirmed as current CEO on official about page; Moneycontrol Aug 8, 2026 confirms PhonePe CEO Sameer Nigam"
+  },
+  {
+   "name": "Rahul Chari",
+   "role": "Founder, Whole-time Director and CTO",
+   "title": "Chief Technology Officer",
+   "current": true,
+   "since": "2015",
+   "prior_role": "ex-Flipkart",
+   "source_url": "https://www.phonepe.com/about-us/",
+   "confidence": "HIGH",
+   "notes": "Confirmed on official about page; featured in AI at Scale article Apr 2026"
+  },
+  {
+   "name": "Burzin Engineer",
+   "role": "Founder and Chief Reliability Officer",
+   "title": "Chief Reliability Officer",
+   "current": true,
+   "since": "2015",
+   "prior_role": "early co-founding engineer",
+   "source_url": "https://www.phonepe.com/about-us/",
+   "confidence": "HIGH",
+   "notes": "Confirmed on official about page as CRO"
+  },
+  {
+   "name": "Rohit Bhagat",
+   "role": "Chairperson of the Board and Non-Executive Independent Director",
+   "title": "Chairperson",
+   "current": true,
+   "since": "",
+   "prior_role": "",
+   "source_url": "https://www.phonepe.com/about-us/",
+   "confidence": "HIGH",
+   "notes": "Board chair per official about page"
+  },
+  {
+   "name": "Tarun Bajaj",
+   "role": "Non-Executive Independent Director",
+   "title": "Independent Director",
+   "current": true,
+   "since": "",
+   "prior_role": "",
+   "source_url": "https://www.phonepe.com/about-us/",
+   "confidence": "HIGH",
+   "notes": "Board member per official about page"
+  },
+  {
+   "name": "Manish Sabharwal",
+   "role": "Non-Executive Independent Director",
+   "title": "Independent Director",
+   "current": true,
+   "since": "",
+   "prior_role": "",
+   "source_url": "https://www.phonepe.com/about-us/",
+   "confidence": "HIGH",
+   "notes": "Board member per official about page"
+  },
+  {
+   "name": "Zarin Daruwala",
+   "role": "Non-Executive Independent Director",
+   "title": "Independent Director",
+   "current": true,
+   "since": "",
+   "prior_role": "",
+   "source_url": "https://www.phonepe.com/about-us/",
+   "confidence": "HIGH",
+   "notes": "Board member per official about page"
+  },
+  {
+   "name": "Leigh Hopkins",
+   "role": "Non-Executive Nominee Director",
+   "title": "Nominee Director",
+   "current": true,
+   "since": "",
+   "prior_role": "",
+   "source_url": "https://www.phonepe.com/about-us/",
+   "confidence": "HIGH",
+   "notes": "Board nominee per official about page (likely Walmart nominee)"
+  },
+  {
+   "name": "Donna Morris",
+   "role": "Non-Executive Nominee Director",
+   "title": "Nominee Director",
+   "current": true,
+   "since": "",
+   "prior_role": "",
+   "source_url": "https://www.phonepe.com/about-us/",
+   "confidence": "HIGH",
+   "notes": "Board nominee per official about page"
+  },
+  {
+   "name": "John David Rainey",
+   "role": "Non-Executive Nominee Director",
+   "title": "Nominee Director",
+   "current": true,
+   "since": "",
+   "prior_role": "",
+   "source_url": "https://www.phonepe.com/about-us/",
+   "confidence": "HIGH",
+   "notes": "Board nominee per official about page"
+  },
+  {
+   "name": "Chris Nicholas",
+   "role": "Non-Executive Nominee Director (Additional)",
+   "title": "Additional Nominee Director",
+   "current": true,
+   "since": "",
+   "prior_role": "",
+   "source_url": "https://www.phonepe.com/about-us/",
+   "confidence": "HIGH",
+   "notes": "Additional board nominee per official about page"
+  },
+  {
+   "name": "Karthik Raghupathy",
+   "role": "Strategy Head",
+   "title": "Strategy Head",
+   "current": true,
+   "since": "",
+   "prior_role": "",
+   "source_url": "https://www.phonepe.com/press/",
+   "confidence": "MEDIUM",
+   "notes": "Strategy Head for PulsePro; featured Jul 30, 2026"
+  },
+  {
+   "name": "Nilesh D Naik",
+   "role": "PhonePe Wealth",
+   "title": "Wealth leadership",
+   "current": true,
+   "since": "",
+   "prior_role": "",
+   "source_url": "https://www.phonepe.com/press/",
+   "confidence": "MEDIUM",
+   "notes": "Featured in mutual fund content on PhonePe press page"
+  },
+  {
+   "name": "Ankit Gunvantrai Popat",
+   "role": "Company Secretary & Compliance Officer",
+   "title": "Company Secretary",
+   "current": true,
+   "since": "",
+   "prior_role": "",
+   "source_url": "https://images.moneycontrol.com/news_html_files/pdffiles/Jan2026/phonepe-limited.pdf",
+   "confidence": "MEDIUM",
+   "notes": "From UDRHP filing document"
+  }
+ ],
+ "products": [
+  {
+   "category": "UPI/merchant payments",
+   "description": "Consumer + merchant payments; India's most-used UPI app per Reuters",
+   "name": "PhonePe payments",
+   "status": "active"
+  },
+  {
+   "category": "financial services distribution",
+   "description": "Lending + insurance (Rs 557.6cr FY25), stocks/MF, Pincode, Indus Appstore",
+   "name": "PhonePe diversified verticals",
+   "status": "active"
+  },
+  {
+   "name": "PhonePe payments (UPI)",
+   "category": "UPI/merchant payments",
+   "description": "Consumer + merchant UPI payments; India's most-used UPI app; 400M daily transactions, 718M lifetime users as of Jul 2026",
+   "pricing_model": "free for consumers; merchant discount rate for merchants",
+   "launch_date": "2016",
+   "status": "active",
+   "source_url": "https://www.phonepe.com/about-us/",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Payment Gateway",
+   "category": "online merchant solutions",
+   "description": "Online payment gateway for businesses; listed under Online Merchant Solutions on official site",
+   "pricing_model": "transaction-based",
+   "launch_date": "",
+   "status": "active",
+   "source_url": "https://www.phonepe.com/about-us/",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Payment Aggregator",
+   "category": "online merchant solutions",
+   "description": "PA license for merchant payment aggregation; competes with Razorpay, Pine Labs",
+   "pricing_model": "transaction-based",
+   "launch_date": "",
+   "status": "active",
+   "source_url": "https://www.phonepe.com/about-us/",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Merchant Lending",
+   "category": "lending",
+   "description": "Lending distribution to merchants; PhonePe Capital as lending entity",
+   "pricing_model": "interest-based",
+   "launch_date": "",
+   "status": "active",
+   "source_url": "https://www.phonepe.com/about-us/",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Share.Market",
+   "category": "wealth/stocks",
+   "description": "A brand of PhonePe Wealth Broking and affiliates; wealth and investment platform for investors and traders",
+   "pricing_model": "brokerage-based",
+   "launch_date": "",
+   "status": "active",
+   "source_url": "https://www.phonepe.com/about-us/",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Mutual Funds",
+   "category": "wealth",
+   "description": "Mutual fund distribution; daily SIP base crossed 500,000 as of Aug 2026; FD distribution launched Aug 2026",
+   "pricing_model": "commission-based",
+   "launch_date": "",
+   "status": "active",
+   "source_url": "https://www.phonepe.com/press/",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Indus Appstore",
+   "category": "consumer tech",
+   "description": "Native Android-based mobile app store for Indian consumers; provides developers level playing field",
+   "pricing_model": "free/app store commission",
+   "launch_date": "",
+   "status": "active",
+   "source_url": "https://www.phonepe.com/about-us/",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "UPI 123Pay",
+   "category": "UPI payments",
+   "description": "UPI payments for feature phone users; launched Aug 31, 2026; targets 200M+ feature phone users",
+   "pricing_model": "free",
+   "launch_date": "2026-08-31",
+   "status": "active",
+   "source_url": "https://www.phonepe.com/press/",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "PulsePro",
+   "category": "data intelligence",
+   "description": "Actionable data intelligence for Indian businesses; launched Jul 30, 2026; MoU with MeitY for PM GatiShakti Aug 2026",
+   "pricing_model": "subscription/SaaS",
+   "launch_date": "2026-07-30",
+   "status": "active",
+   "source_url": "https://www.phonepe.com/press/",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "PhonePe Ads",
+   "category": "advertising",
+   "description": "Advertising platform listed under business solutions",
+   "pricing_model": "advertising-based",
+   "launch_date": "",
+   "status": "active",
+   "source_url": "https://www.phonepe.com/about-us/",
+   "confidence": "MEDIUM"
+  },
+  {
+   "name": "Fixed Deposit Distribution",
+   "category": "wealth",
+   "description": "FD distribution in partnership with leading banks & NBFCs; launched Aug 6, 2026",
+   "pricing_model": "commission-based",
+   "launch_date": "2026-08-06",
+   "status": "active",
+   "source_url": "https://www.phonepe.com/press/",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Insurance distribution",
+   "category": "insurance",
+   "description": "Insurance distribution vertical; Rs 557.6cr FY25 revenue from financial services distribution",
+   "pricing_model": "commission-based",
+   "launch_date": "",
+   "status": "active",
+   "source_url": "https://www.phonepe.com/about-us/",
+   "confidence": "MEDIUM"
+  },
+  {
+   "name": "Gold/Silver",
+   "category": "investments",
+   "description": "Gold and silver investment products",
+   "pricing_model": "transaction-based",
+   "launch_date": "",
+   "status": "active",
+   "source_url": "https://www.phonepe.com/about-us/",
+   "confidence": "MEDIUM"
+  }
+ ],
+ "research_log": [
+  {
+   "found": "Confidential DRHP Sep 2025, UDRHP Jan 2026 OFS details, $12B 2023 valuation, $9-10.5B Mar-2026 target range",
+   "next_action": "Track RHP price band on listing",
+   "query": "PhonePe IPO 2026 confidential filing valuation $12 billion founders",
+   "unresolved": "Final IPO valuation/price"
+  },
+  {
+   "found": "FY25 Rs 7,115cr +40%, loss Rs 1,727cr, adj PAT Rs 630cr; H1-FY26 Rs 3,918cr; founders incl. Burzin Engineer",
+   "next_action": "none",
+   "query": "PhonePe founders Sameer Nigam Rahul Chari revenue FY25",
+   "unresolved": "CIN"
+  },
+  {
+   "date": "2026-09-14",
+   "found": "Registry entities conflict: PhonePe Limited CIN U67190KA2012PLC176031 (RecurClub) vs Phonepe Private Limited U67190MH2012PTC337657 Tracxn; operating company founded Dec 2015, redomiciled India 2022. No single clean MCA CIN verified — left in still_missing.",
+   "query": "PhonePe Private Limited CIN incorporation date Tofler ZaubaCorp",
+   "unresolved": "CIN conflict across group entities"
+  },
+  {
+   "date": "2026-09-14",
+   "found": "Jan 2023 $350M led by General Atlantic at $12B+ pre-money valuation (Entrackr); $12B confirmed by FF News company announcement coverage",
+   "query": "PhonePe valuation January 2024 $12 billion General Atlantic funding"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe official about-us and press pages",
+   "status": "done",
+   "found": "Board members, founders, products, traction stats (718M users, 50M merchants, 11Bn txns Jul 2026, 400M daily), PulsePro, UPI 123Pay, Share.Market, Indus Appstore",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe UPI market share NPCI",
+   "status": "done",
+   "found": "PhonePe confirmed #1 in UPI TPAP ranking; ~50% share per Reuters Mar 2026; Navi article confirms top 3 = PhonePe, Google Pay, Paytm",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe IPO status and valuation",
+   "status": "done",
+   "found": "UDRHP Jan 2026 confirmed; IPO delayed per TOI Sep 2026 valuation mismatch; press range $9-15B",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe products and launches 2026",
+   "status": "done",
+   "found": "PulsePro (Jul 2026), UPI 123Pay (Aug 2026), FD distribution (Aug 2026), Visa partnership (Sep 2026), DPIIT MoU (Aug 2026)",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe legal/RBI notices",
+   "status": "logged",
+   "found": "No specific legal/RBI notice found in search results; no UPI data adjudication found",
+   "next_action": "Search MCA/SEBI for regulatory actions",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe $650M buyback and Broadcom/CVP",
+   "status": "logged",
+   "found": "No evidence found for $650M buyback or Broadcom/CVP acquisition connection to PhonePe",
+   "next_action": "These claims may be inaccurate or refer to different entity",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe MCA filing PhonePe Payments Pvt Ltd",
+   "status": "logged",
+   "found": "No MCA filing data retrieved; CIN conflict unresolved",
+   "next_action": "Verify MCA21 primary for PhonePe Limited vs Phonepe Private Limited",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe official about-us and press pages",
+   "status": "done",
+   "found": "Board members, founders, products, traction stats (718M users, 50M merchants, 11Bn txns Jul 2026, 400M daily), PulsePro, UPI 123Pay, Share.Market, Indus Appstore",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe UPI market share NPCI",
+   "status": "done",
+   "found": "PhonePe confirmed #1 in UPI TPAP ranking; ~50% share per Reuters Mar 2026; Navi article confirms top 3 = PhonePe, Google Pay, Paytm",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe IPO status and valuation",
+   "status": "done",
+   "found": "UDRHP Jan 2026 confirmed; IPO delayed per TOI Sep 2026 valuation mismatch; press range $9-15B",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe products and launches 2026",
+   "status": "done",
+   "found": "PulsePro (Jul 2026), UPI 123Pay (Aug 2026), FD distribution (Aug 2026), Visa partnership (Sep 2026), DPIIT MoU (Aug 2026)",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe legal/RBI notices",
+   "status": "logged",
+   "found": "No specific legal/RBI notice found in search results; no UPI data adjudication found",
+   "next_action": "Search MCA/SEBI for regulatory actions",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe $650M buyback and Broadcom/CVP",
+   "status": "logged",
+   "found": "No evidence found for $650M buyback or Broadcom/CVP acquisition connection to PhonePe",
+   "next_action": "These claims may be inaccurate or refer to different entity",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe MCA filing PhonePe Payments Pvt Ltd",
+   "status": "logged",
+   "found": "No MCA filing data retrieved; CIN conflict unresolved",
+   "next_action": "Verify MCA21 primary for PhonePe Limited vs Phonepe Private Limited",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe official about-us and press pages",
+   "status": "done",
+   "found": "Board members, founders, products, traction stats (718M users, 50M merchants, 11Bn txns Jul 2026, 400M daily), PulsePro, UPI 123Pay, Share.Market, Indus Appstore",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe UPI market share NPCI",
+   "status": "done",
+   "found": "PhonePe confirmed #1 in UPI TPAP ranking; ~50% share per Reuters Mar 2026; Navi article confirms top 3 = PhonePe, Google Pay, Paytm",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe IPO status and valuation",
+   "status": "done",
+   "found": "UDRHP Jan 2026 confirmed; IPO delayed per TOI Sep 2026 valuation mismatch; press range $9-15B",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe products and launches 2026",
+   "status": "done",
+   "found": "PulsePro (Jul 2026), UPI 123Pay (Aug 2026), FD distribution (Aug 2026), Visa partnership (Sep 2026), DPIIT MoU (Aug 2026)",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe legal/RBI notices",
+   "status": "logged",
+   "found": "No specific legal/RBI notice found in search results; no UPI data adjudication found",
+   "next_action": "Search MCA/SEBI for regulatory actions",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe $650M buyback and Broadcom/CVP",
+   "status": "logged",
+   "found": "No evidence found for $650M buyback or Broadcom/CVP acquisition connection to PhonePe",
+   "next_action": "These claims may be inaccurate or refer to different entity",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe MCA filing PhonePe Payments Pvt Ltd",
+   "status": "logged",
+   "found": "No MCA filing data retrieved; CIN conflict unresolved",
+   "next_action": "Verify MCA21 primary for PhonePe Limited vs Phonepe Private Limited",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe official about-us and press pages",
+   "status": "done",
+   "found": "Board members, founders, products, traction stats (718M users, 50M merchants, 11Bn txns Jul 2026, 400M daily), PulsePro, UPI 123Pay, Share.Market, Indus Appstore",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe UPI market share NPCI",
+   "status": "done",
+   "found": "PhonePe confirmed #1 in UPI TPAP ranking; ~50% share per Reuters Mar 2026; Navi article confirms top 3 = PhonePe, Google Pay, Paytm",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe IPO status and valuation",
+   "status": "done",
+   "found": "UDRHP Jan 2026 confirmed; IPO delayed per TOI Sep 2026 valuation mismatch; press range $9-15B",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe products and launches 2026",
+   "status": "done",
+   "found": "PulsePro (Jul 2026), UPI 123Pay (Aug 2026), FD distribution (Aug 2026), Visa partnership (Sep 2026), DPIIT MoU (Aug 2026)",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe legal/RBI notices",
+   "status": "logged",
+   "found": "No specific legal/RBI notice found in search results; no UPI data adjudication found",
+   "next_action": "Search MCA/SEBI for regulatory actions",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe $650M buyback and Broadcom/CVP",
+   "status": "logged",
+   "found": "No evidence found for $650M buyback or Broadcom/CVP acquisition connection to PhonePe",
+   "next_action": "These claims may be inaccurate or refer to different entity",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe MCA filing PhonePe Payments Pvt Ltd",
+   "status": "logged",
+   "found": "No MCA filing data retrieved; CIN conflict unresolved",
+   "next_action": "Verify MCA21 primary for PhonePe Limited vs Phonepe Private Limited",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe official about-us and press pages",
+   "status": "done",
+   "found": "Board members, founders, products, traction stats (718M users, 50M merchants, 11Bn txns Jul 2026, 400M daily), PulsePro, UPI 123Pay, Share.Market, Indus Appstore",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe UPI market share NPCI",
+   "status": "done",
+   "found": "PhonePe confirmed #1 in UPI TPAP ranking; ~50% share per Reuters Mar 2026; Navi article confirms top 3 = PhonePe, Google Pay, Paytm",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe IPO status and valuation",
+   "status": "done",
+   "found": "UDRHP Jan 2026 confirmed; IPO delayed per TOI Sep 2026 valuation mismatch; press range $9-15B",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe products and launches 2026",
+   "status": "done",
+   "found": "PulsePro (Jul 2026), UPI 123Pay (Aug 2026), FD distribution (Aug 2026), Visa partnership (Sep 2026), DPIIT MoU (Aug 2026)",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe legal/RBI notices",
+   "status": "logged",
+   "found": "No specific legal/RBI notice found in search results; no UPI data adjudication found",
+   "next_action": "Search MCA/SEBI for regulatory actions",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe $650M buyback and Broadcom/CVP",
+   "status": "logged",
+   "found": "No evidence found for $650M buyback or Broadcom/CVP acquisition connection to PhonePe",
+   "next_action": "These claims may be inaccurate or refer to different entity",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe MCA filing PhonePe Payments Pvt Ltd",
+   "status": "logged",
+   "found": "No MCA filing data retrieved; CIN conflict unresolved",
+   "next_action": "Verify MCA21 primary for PhonePe Limited vs Phonepe Private Limited",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe official about-us and press pages",
+   "status": "done",
+   "found": "Board members, founders, products, traction stats (718M users, 50M merchants, 11Bn txns Jul 2026, 400M daily), PulsePro, UPI 123Pay, Share.Market, Indus Appstore",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe UPI market share NPCI",
+   "status": "done",
+   "found": "PhonePe confirmed #1 in UPI TPAP ranking; ~50% share per Reuters Mar 2026; Navi article confirms top 3 = PhonePe, Google Pay, Paytm",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe IPO status and valuation",
+   "status": "done",
+   "found": "UDRHP Jan 2026 confirmed; IPO delayed per TOI Sep 2026 valuation mismatch; press range $9-15B",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe products and launches 2026",
+   "status": "done",
+   "found": "PulsePro (Jul 2026), UPI 123Pay (Aug 2026), FD distribution (Aug 2026), Visa partnership (Sep 2026), DPIIT MoU (Aug 2026)",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe legal/RBI notices",
+   "status": "logged",
+   "found": "No specific legal/RBI notice found in search results; no UPI data adjudication found",
+   "next_action": "Search MCA/SEBI for regulatory actions",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe $650M buyback and Broadcom/CVP",
+   "status": "logged",
+   "found": "No evidence found for $650M buyback or Broadcom/CVP acquisition connection to PhonePe",
+   "next_action": "These claims may be inaccurate or refer to different entity",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe MCA filing PhonePe Payments Pvt Ltd",
+   "status": "logged",
+   "found": "No MCA filing data retrieved; CIN conflict unresolved",
+   "next_action": "Verify MCA21 primary for PhonePe Limited vs Phonepe Private Limited",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe official about-us and press pages",
+   "status": "done",
+   "found": "Board members, founders, products, traction stats (718M users, 50M merchants, 11Bn txns Jul 2026, 400M daily), PulsePro, UPI 123Pay, Share.Market, Indus Appstore",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe UPI market share NPCI",
+   "status": "done",
+   "found": "PhonePe confirmed #1 in UPI TPAP ranking; ~50% share per Reuters Mar 2026; Navi article confirms top 3 = PhonePe, Google Pay, Paytm",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe IPO status and valuation",
+   "status": "done",
+   "found": "UDRHP Jan 2026 confirmed; IPO delayed per TOI Sep 2026 valuation mismatch; press range $9-15B",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe products and launches 2026",
+   "status": "done",
+   "found": "PulsePro (Jul 2026), UPI 123Pay (Aug 2026), FD distribution (Aug 2026), Visa partnership (Sep 2026), DPIIT MoU (Aug 2026)",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe legal/RBI notices",
+   "status": "logged",
+   "found": "No specific legal/RBI notice found in search results; no UPI data adjudication found",
+   "next_action": "Search MCA/SEBI for regulatory actions",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe $650M buyback and Broadcom/CVP",
+   "status": "logged",
+   "found": "No evidence found for $650M buyback or Broadcom/CVP acquisition connection to PhonePe",
+   "next_action": "These claims may be inaccurate or refer to different entity",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe MCA filing PhonePe Payments Pvt Ltd",
+   "status": "logged",
+   "found": "No MCA filing data retrieved; CIN conflict unresolved",
+   "next_action": "Verify MCA21 primary for PhonePe Limited vs Phonepe Private Limited",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe official about-us and press pages",
+   "status": "done",
+   "found": "Board members, founders, products, traction stats (718M users, 50M merchants, 11Bn txns Jul 2026, 400M daily), PulsePro, UPI 123Pay, Share.Market, Indus Appstore",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe UPI market share NPCI",
+   "status": "done",
+   "found": "PhonePe confirmed #1 in UPI TPAP ranking; ~50% share per Reuters Mar 2026; Navi article confirms top 3 = PhonePe, Google Pay, Paytm",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe IPO status and valuation",
+   "status": "done",
+   "found": "UDRHP Jan 2026 confirmed; IPO delayed per TOI Sep 2026 valuation mismatch; press range $9-15B",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe products and launches 2026",
+   "status": "done",
+   "found": "PulsePro (Jul 2026), UPI 123Pay (Aug 2026), FD distribution (Aug 2026), Visa partnership (Sep 2026), DPIIT MoU (Aug 2026)",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe legal/RBI notices",
+   "status": "logged",
+   "found": "No specific legal/RBI notice found in search results; no UPI data adjudication found",
+   "next_action": "Search MCA/SEBI for regulatory actions",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe $650M buyback and Broadcom/CVP",
+   "status": "logged",
+   "found": "No evidence found for $650M buyback or Broadcom/CVP acquisition connection to PhonePe",
+   "next_action": "These claims may be inaccurate or refer to different entity",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe MCA filing PhonePe Payments Pvt Ltd",
+   "status": "logged",
+   "found": "No MCA filing data retrieved; CIN conflict unresolved",
+   "next_action": "Verify MCA21 primary for PhonePe Limited vs Phonepe Private Limited",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe official about-us and press pages",
+   "status": "done",
+   "found": "Board members, founders, products, traction stats (718M users, 50M merchants, 11Bn txns Jul 2026, 400M daily), PulsePro, UPI 123Pay, Share.Market, Indus Appstore",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe UPI market share NPCI",
+   "status": "done",
+   "found": "PhonePe confirmed #1 in UPI TPAP ranking; ~50% share per Reuters Mar 2026; Navi article confirms top 3 = PhonePe, Google Pay, Paytm",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe IPO status and valuation",
+   "status": "done",
+   "found": "UDRHP Jan 2026 confirmed; IPO delayed per TOI Sep 2026 valuation mismatch; press range $9-15B",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe products and launches 2026",
+   "status": "done",
+   "found": "PulsePro (Jul 2026), UPI 123Pay (Aug 2026), FD distribution (Aug 2026), Visa partnership (Sep 2026), DPIIT MoU (Aug 2026)",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe legal/RBI notices",
+   "status": "logged",
+   "found": "No specific legal/RBI notice found in search results; no UPI data adjudication found",
+   "next_action": "Search MCA/SEBI for regulatory actions",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe $650M buyback and Broadcom/CVP",
+   "status": "logged",
+   "found": "No evidence found for $650M buyback or Broadcom/CVP acquisition connection to PhonePe",
+   "next_action": "These claims may be inaccurate or refer to different entity",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe MCA filing PhonePe Payments Pvt Ltd",
+   "status": "logged",
+   "found": "No MCA filing data retrieved; CIN conflict unresolved",
+   "next_action": "Verify MCA21 primary for PhonePe Limited vs Phonepe Private Limited",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe official about-us and press pages",
+   "status": "done",
+   "found": "Board members, founders, products, traction stats (718M users, 50M merchants, 11Bn txns Jul 2026, 400M daily), PulsePro, UPI 123Pay, Share.Market, Indus Appstore",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe UPI market share NPCI",
+   "status": "done",
+   "found": "PhonePe confirmed #1 in UPI TPAP ranking; ~50% share per Reuters Mar 2026; Navi article confirms top 3 = PhonePe, Google Pay, Paytm",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe IPO status and valuation",
+   "status": "done",
+   "found": "UDRHP Jan 2026 confirmed; IPO delayed per TOI Sep 2026 valuation mismatch; press range $9-15B",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe products and launches 2026",
+   "status": "done",
+   "found": "PulsePro (Jul 2026), UPI 123Pay (Aug 2026), FD distribution (Aug 2026), Visa partnership (Sep 2026), DPIIT MoU (Aug 2026)",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe legal/RBI notices",
+   "status": "logged",
+   "found": "No specific legal/RBI notice found in search results; no UPI data adjudication found",
+   "next_action": "Search MCA/SEBI for regulatory actions",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe $650M buyback and Broadcom/CVP",
+   "status": "logged",
+   "found": "No evidence found for $650M buyback or Broadcom/CVP acquisition connection to PhonePe",
+   "next_action": "These claims may be inaccurate or refer to different entity",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe MCA filing PhonePe Payments Pvt Ltd",
+   "status": "logged",
+   "found": "No MCA filing data retrieved; CIN conflict unresolved",
+   "next_action": "Verify MCA21 primary for PhonePe Limited vs Phonepe Private Limited",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe official about-us and press pages",
+   "status": "done",
+   "found": "Board members, founders, products, traction stats (718M users, 50M merchants, 11Bn txns Jul 2026, 400M daily), PulsePro, UPI 123Pay, Share.Market, Indus Appstore",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe UPI market share NPCI",
+   "status": "done",
+   "found": "PhonePe confirmed #1 in UPI TPAP ranking; ~50% share per Reuters Mar 2026; Navi article confirms top 3 = PhonePe, Google Pay, Paytm",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe IPO status and valuation",
+   "status": "done",
+   "found": "UDRHP Jan 2026 confirmed; IPO delayed per TOI Sep 2026 valuation mismatch; press range $9-15B",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe products and launches 2026",
+   "status": "done",
+   "found": "PulsePro (Jul 2026), UPI 123Pay (Aug 2026), FD distribution (Aug 2026), Visa partnership (Sep 2026), DPIIT MoU (Aug 2026)",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe legal/RBI notices",
+   "status": "logged",
+   "found": "No specific legal/RBI notice found in search results; no UPI data adjudication found",
+   "next_action": "Search MCA/SEBI for regulatory actions",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe $650M buyback and Broadcom/CVP",
+   "status": "logged",
+   "found": "No evidence found for $650M buyback or Broadcom/CVP acquisition connection to PhonePe",
+   "next_action": "These claims may be inaccurate or refer to different entity",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe MCA filing PhonePe Payments Pvt Ltd",
+   "status": "logged",
+   "found": "No MCA filing data retrieved; CIN conflict unresolved",
+   "next_action": "Verify MCA21 primary for PhonePe Limited vs Phonepe Private Limited",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe official about-us and press pages",
+   "status": "done",
+   "found": "Board members, founders, products, traction stats (718M users, 50M merchants, 11Bn txns Jul 2026, 400M daily), PulsePro, UPI 123Pay, Share.Market, Indus Appstore",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe UPI market share NPCI",
+   "status": "done",
+   "found": "PhonePe confirmed #1 in UPI TPAP ranking; ~50% share per Reuters Mar 2026; Navi article confirms top 3 = PhonePe, Google Pay, Paytm",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe IPO status and valuation",
+   "status": "done",
+   "found": "UDRHP Jan 2026 confirmed; IPO delayed per TOI Sep 2026 valuation mismatch; press range $9-15B",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe products and launches 2026",
+   "status": "done",
+   "found": "PulsePro (Jul 2026), UPI 123Pay (Aug 2026), FD distribution (Aug 2026), Visa partnership (Sep 2026), DPIIT MoU (Aug 2026)",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe legal/RBI notices",
+   "status": "logged",
+   "found": "No specific legal/RBI notice found in search results; no UPI data adjudication found",
+   "next_action": "Search MCA/SEBI for regulatory actions",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe $650M buyback and Broadcom/CVP",
+   "status": "logged",
+   "found": "No evidence found for $650M buyback or Broadcom/CVP acquisition connection to PhonePe",
+   "next_action": "These claims may be inaccurate or refer to different entity",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe MCA filing PhonePe Payments Pvt Ltd",
+   "status": "logged",
+   "found": "No MCA filing data retrieved; CIN conflict unresolved",
+   "next_action": "Verify MCA21 primary for PhonePe Limited vs Phonepe Private Limited",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe official about-us and press pages",
+   "status": "done",
+   "found": "Board members, founders, products, traction stats (718M users, 50M merchants, 11Bn txns Jul 2026, 400M daily), PulsePro, UPI 123Pay, Share.Market, Indus Appstore",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe UPI market share NPCI",
+   "status": "done",
+   "found": "PhonePe confirmed #1 in UPI TPAP ranking; ~50% share per Reuters Mar 2026; Navi article confirms top 3 = PhonePe, Google Pay, Paytm",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe IPO status and valuation",
+   "status": "done",
+   "found": "UDRHP Jan 2026 confirmed; IPO delayed per TOI Sep 2026 valuation mismatch; press range $9-15B",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe products and launches 2026",
+   "status": "done",
+   "found": "PulsePro (Jul 2026), UPI 123Pay (Aug 2026), FD distribution (Aug 2026), Visa partnership (Sep 2026), DPIIT MoU (Aug 2026)",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe legal/RBI notices",
+   "status": "logged",
+   "found": "No specific legal/RBI notice found in search results; no UPI data adjudication found",
+   "next_action": "Search MCA/SEBI for regulatory actions",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe $650M buyback and Broadcom/CVP",
+   "status": "logged",
+   "found": "No evidence found for $650M buyback or Broadcom/CVP acquisition connection to PhonePe",
+   "next_action": "These claims may be inaccurate or refer to different entity",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe MCA filing PhonePe Payments Pvt Ltd",
+   "status": "logged",
+   "found": "No MCA filing data retrieved; CIN conflict unresolved",
+   "next_action": "Verify MCA21 primary for PhonePe Limited vs Phonepe Private Limited",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe official about-us and press pages",
+   "status": "done",
+   "found": "Board members, founders, products, traction stats (718M users, 50M merchants, 11Bn txns Jul 2026, 400M daily), PulsePro, UPI 123Pay, Share.Market, Indus Appstore",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe UPI market share NPCI",
+   "status": "done",
+   "found": "PhonePe confirmed #1 in UPI TPAP ranking; ~50% share per Reuters Mar 2026; Navi article confirms top 3 = PhonePe, Google Pay, Paytm",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe IPO status and valuation",
+   "status": "done",
+   "found": "UDRHP Jan 2026 confirmed; IPO delayed per TOI Sep 2026 valuation mismatch; press range $9-15B",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe products and launches 2026",
+   "status": "done",
+   "found": "PulsePro (Jul 2026), UPI 123Pay (Aug 2026), FD distribution (Aug 2026), Visa partnership (Sep 2026), DPIIT MoU (Aug 2026)",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe legal/RBI notices",
+   "status": "logged",
+   "found": "No specific legal/RBI notice found in search results; no UPI data adjudication found",
+   "next_action": "Search MCA/SEBI for regulatory actions",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe $650M buyback and Broadcom/CVP",
+   "status": "logged",
+   "found": "No evidence found for $650M buyback or Broadcom/CVP acquisition connection to PhonePe",
+   "next_action": "These claims may be inaccurate or refer to different entity",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe MCA filing PhonePe Payments Pvt Ltd",
+   "status": "logged",
+   "found": "No MCA filing data retrieved; CIN conflict unresolved",
+   "next_action": "Verify MCA21 primary for PhonePe Limited vs Phonepe Private Limited",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe official about-us and press pages",
+   "status": "done",
+   "found": "Board members, founders, products, traction stats (718M users, 50M merchants, 11Bn txns Jul 2026, 400M daily), PulsePro, UPI 123Pay, Share.Market, Indus Appstore",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe UPI market share NPCI",
+   "status": "done",
+   "found": "PhonePe confirmed #1 in UPI TPAP ranking; ~50% share per Reuters Mar 2026; Navi article confirms top 3 = PhonePe, Google Pay, Paytm",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe IPO status and valuation",
+   "status": "done",
+   "found": "UDRHP Jan 2026 confirmed; IPO delayed per TOI Sep 2026 valuation mismatch; press range $9-15B",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe products and launches 2026",
+   "status": "done",
+   "found": "PulsePro (Jul 2026), UPI 123Pay (Aug 2026), FD distribution (Aug 2026), Visa partnership (Sep 2026), DPIIT MoU (Aug 2026)",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe legal/RBI notices",
+   "status": "logged",
+   "found": "No specific legal/RBI notice found in search results; no UPI data adjudication found",
+   "next_action": "Search MCA/SEBI for regulatory actions",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe $650M buyback and Broadcom/CVP",
+   "status": "logged",
+   "found": "No evidence found for $650M buyback or Broadcom/CVP acquisition connection to PhonePe",
+   "next_action": "These claims may be inaccurate or refer to different entity",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe MCA filing PhonePe Payments Pvt Ltd",
+   "status": "logged",
+   "found": "No MCA filing data retrieved; CIN conflict unresolved",
+   "next_action": "Verify MCA21 primary for PhonePe Limited vs Phonepe Private Limited",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe official about-us and press pages",
+   "status": "done",
+   "found": "Board members, founders, products, traction stats (718M users, 50M merchants, 11Bn txns Jul 2026, 400M daily), PulsePro, UPI 123Pay, Share.Market, Indus Appstore",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe UPI market share NPCI",
+   "status": "done",
+   "found": "PhonePe confirmed #1 in UPI TPAP ranking; ~50% share per Reuters Mar 2026; Navi article confirms top 3 = PhonePe, Google Pay, Paytm",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe IPO status and valuation",
+   "status": "done",
+   "found": "UDRHP Jan 2026 confirmed; IPO delayed per TOI Sep 2026 valuation mismatch; press range $9-15B",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe products and launches 2026",
+   "status": "done",
+   "found": "PulsePro (Jul 2026), UPI 123Pay (Aug 2026), FD distribution (Aug 2026), Visa partnership (Sep 2026), DPIIT MoU (Aug 2026)",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe legal/RBI notices",
+   "status": "logged",
+   "found": "No specific legal/RBI notice found in search results; no UPI data adjudication found",
+   "next_action": "Search MCA/SEBI for regulatory actions",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe $650M buyback and Broadcom/CVP",
+   "status": "logged",
+   "found": "No evidence found for $650M buyback or Broadcom/CVP acquisition connection to PhonePe",
+   "next_action": "These claims may be inaccurate or refer to different entity",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe MCA filing PhonePe Payments Pvt Ltd",
+   "status": "logged",
+   "found": "No MCA filing data retrieved; CIN conflict unresolved",
+   "next_action": "Verify MCA21 primary for PhonePe Limited vs Phonepe Private Limited",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe official about-us and press pages",
+   "status": "done",
+   "found": "Board members, founders, products, traction stats (718M users, 50M merchants, 11Bn txns Jul 2026, 400M daily), PulsePro, UPI 123Pay, Share.Market, Indus Appstore",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe UPI market share NPCI",
+   "status": "done",
+   "found": "PhonePe confirmed #1 in UPI TPAP ranking; ~50% share per Reuters Mar 2026; Navi article confirms top 3 = PhonePe, Google Pay, Paytm",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe IPO status and valuation",
+   "status": "done",
+   "found": "UDRHP Jan 2026 confirmed; IPO delayed per TOI Sep 2026 valuation mismatch; press range $9-15B",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe products and launches 2026",
+   "status": "done",
+   "found": "PulsePro (Jul 2026), UPI 123Pay (Aug 2026), FD distribution (Aug 2026), Visa partnership (Sep 2026), DPIIT MoU (Aug 2026)",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe legal/RBI notices",
+   "status": "logged",
+   "found": "No specific legal/RBI notice found in search results; no UPI data adjudication found",
+   "next_action": "Search MCA/SEBI for regulatory actions",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe $650M buyback and Broadcom/CVP",
+   "status": "logged",
+   "found": "No evidence found for $650M buyback or Broadcom/CVP acquisition connection to PhonePe",
+   "next_action": "These claims may be inaccurate or refer to different entity",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe MCA filing PhonePe Payments Pvt Ltd",
+   "status": "logged",
+   "found": "No MCA filing data retrieved; CIN conflict unresolved",
+   "next_action": "Verify MCA21 primary for PhonePe Limited vs Phonepe Private Limited",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe official about-us and press pages",
+   "status": "done",
+   "found": "Board members, founders, products, traction stats (718M users, 50M merchants, 11Bn txns Jul 2026, 400M daily), PulsePro, UPI 123Pay, Share.Market, Indus Appstore",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe UPI market share NPCI",
+   "status": "done",
+   "found": "PhonePe confirmed #1 in UPI TPAP ranking; ~50% share per Reuters Mar 2026; Navi article confirms top 3 = PhonePe, Google Pay, Paytm",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe IPO status and valuation",
+   "status": "done",
+   "found": "UDRHP Jan 2026 confirmed; IPO delayed per TOI Sep 2026 valuation mismatch; press range $9-15B",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe products and launches 2026",
+   "status": "done",
+   "found": "PulsePro (Jul 2026), UPI 123Pay (Aug 2026), FD distribution (Aug 2026), Visa partnership (Sep 2026), DPIIT MoU (Aug 2026)",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe legal/RBI notices",
+   "status": "logged",
+   "found": "No specific legal/RBI notice found in search results; no UPI data adjudication found",
+   "next_action": "Search MCA/SEBI for regulatory actions",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe $650M buyback and Broadcom/CVP",
+   "status": "logged",
+   "found": "No evidence found for $650M buyback or Broadcom/CVP acquisition connection to PhonePe",
+   "next_action": "These claims may be inaccurate or refer to different entity",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe MCA filing PhonePe Payments Pvt Ltd",
+   "status": "logged",
+   "found": "No MCA filing data retrieved; CIN conflict unresolved",
+   "next_action": "Verify MCA21 primary for PhonePe Limited vs Phonepe Private Limited",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe official about-us and press pages",
+   "status": "done",
+   "found": "Board members, founders, products, traction stats (718M users, 50M merchants, 11Bn txns Jul 2026, 400M daily), PulsePro, UPI 123Pay, Share.Market, Indus Appstore",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe UPI market share NPCI",
+   "status": "done",
+   "found": "PhonePe confirmed #1 in UPI TPAP ranking; ~50% share per Reuters Mar 2026; Navi article confirms top 3 = PhonePe, Google Pay, Paytm",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe IPO status and valuation",
+   "status": "done",
+   "found": "UDRHP Jan 2026 confirmed; IPO delayed per TOI Sep 2026 valuation mismatch; press range $9-15B",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe products and launches 2026",
+   "status": "done",
+   "found": "PulsePro (Jul 2026), UPI 123Pay (Aug 2026), FD distribution (Aug 2026), Visa partnership (Sep 2026), DPIIT MoU (Aug 2026)",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe legal/RBI notices",
+   "status": "logged",
+   "found": "No specific legal/RBI notice found in search results; no UPI data adjudication found",
+   "next_action": "Search MCA/SEBI for regulatory actions",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe $650M buyback and Broadcom/CVP",
+   "status": "logged",
+   "found": "No evidence found for $650M buyback or Broadcom/CVP acquisition connection to PhonePe",
+   "next_action": "These claims may be inaccurate or refer to different entity",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe MCA filing PhonePe Payments Pvt Ltd",
+   "status": "logged",
+   "found": "No MCA filing data retrieved; CIN conflict unresolved",
+   "next_action": "Verify MCA21 primary for PhonePe Limited vs Phonepe Private Limited",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe official about-us and press pages",
+   "status": "done",
+   "found": "Board members, founders, products, traction stats (718M users, 50M merchants, 11Bn txns Jul 2026, 400M daily), PulsePro, UPI 123Pay, Share.Market, Indus Appstore",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe UPI market share NPCI",
+   "status": "done",
+   "found": "PhonePe confirmed #1 in UPI TPAP ranking; ~50% share per Reuters Mar 2026; Navi article confirms top 3 = PhonePe, Google Pay, Paytm",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe IPO status and valuation",
+   "status": "done",
+   "found": "UDRHP Jan 2026 confirmed; IPO delayed per TOI Sep 2026 valuation mismatch; press range $9-15B",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe products and launches 2026",
+   "status": "done",
+   "found": "PulsePro (Jul 2026), UPI 123Pay (Aug 2026), FD distribution (Aug 2026), Visa partnership (Sep 2026), DPIIT MoU (Aug 2026)",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe legal/RBI notices",
+   "status": "logged",
+   "found": "No specific legal/RBI notice found in search results; no UPI data adjudication found",
+   "next_action": "Search MCA/SEBI for regulatory actions",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe $650M buyback and Broadcom/CVP",
+   "status": "logged",
+   "found": "No evidence found for $650M buyback or Broadcom/CVP acquisition connection to PhonePe",
+   "next_action": "These claims may be inaccurate or refer to different entity",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe MCA filing PhonePe Payments Pvt Ltd",
+   "status": "logged",
+   "found": "No MCA filing data retrieved; CIN conflict unresolved",
+   "next_action": "Verify MCA21 primary for PhonePe Limited vs Phonepe Private Limited",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe official about-us and press pages",
+   "status": "done",
+   "found": "Board members, founders, products, traction stats (718M users, 50M merchants, 11Bn txns Jul 2026, 400M daily), PulsePro, UPI 123Pay, Share.Market, Indus Appstore",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe UPI market share NPCI",
+   "status": "done",
+   "found": "PhonePe confirmed #1 in UPI TPAP ranking; ~50% share per Reuters Mar 2026; Navi article confirms top 3 = PhonePe, Google Pay, Paytm",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe IPO status and valuation",
+   "status": "done",
+   "found": "UDRHP Jan 2026 confirmed; IPO delayed per TOI Sep 2026 valuation mismatch; press range $9-15B",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe products and launches 2026",
+   "status": "done",
+   "found": "PulsePro (Jul 2026), UPI 123Pay (Aug 2026), FD distribution (Aug 2026), Visa partnership (Sep 2026), DPIIT MoU (Aug 2026)",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe legal/RBI notices",
+   "status": "logged",
+   "found": "No specific legal/RBI notice found in search results; no UPI data adjudication found",
+   "next_action": "Search MCA/SEBI for regulatory actions",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe $650M buyback and Broadcom/CVP",
+   "status": "logged",
+   "found": "No evidence found for $650M buyback or Broadcom/CVP acquisition connection to PhonePe",
+   "next_action": "These claims may be inaccurate or refer to different entity",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe MCA filing PhonePe Payments Pvt Ltd",
+   "status": "logged",
+   "found": "No MCA filing data retrieved; CIN conflict unresolved",
+   "next_action": "Verify MCA21 primary for PhonePe Limited vs Phonepe Private Limited",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe official about-us and press pages",
+   "status": "done",
+   "found": "Board members, founders, products, traction stats (718M users, 50M merchants, 11Bn txns Jul 2026, 400M daily), PulsePro, UPI 123Pay, Share.Market, Indus Appstore",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe UPI market share NPCI",
+   "status": "done",
+   "found": "PhonePe confirmed #1 in UPI TPAP ranking; ~50% share per Reuters Mar 2026; Navi article confirms top 3 = PhonePe, Google Pay, Paytm",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe IPO status and valuation",
+   "status": "done",
+   "found": "UDRHP Jan 2026 confirmed; IPO delayed per TOI Sep 2026 valuation mismatch; press range $9-15B",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe products and launches 2026",
+   "status": "done",
+   "found": "PulsePro (Jul 2026), UPI 123Pay (Aug 2026), FD distribution (Aug 2026), Visa partnership (Sep 2026), DPIIT MoU (Aug 2026)",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe legal/RBI notices",
+   "status": "logged",
+   "found": "No specific legal/RBI notice found in search results; no UPI data adjudication found",
+   "next_action": "Search MCA/SEBI for regulatory actions",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe $650M buyback and Broadcom/CVP",
+   "status": "logged",
+   "found": "No evidence found for $650M buyback or Broadcom/CVP acquisition connection to PhonePe",
+   "next_action": "These claims may be inaccurate or refer to different entity",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe MCA filing PhonePe Payments Pvt Ltd",
+   "status": "logged",
+   "found": "No MCA filing data retrieved; CIN conflict unresolved",
+   "next_action": "Verify MCA21 primary for PhonePe Limited vs Phonepe Private Limited",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe official about-us and press pages",
+   "status": "done",
+   "found": "Board members, founders, products, traction stats (718M users, 50M merchants, 11Bn txns Jul 2026, 400M daily), PulsePro, UPI 123Pay, Share.Market, Indus Appstore",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe UPI market share NPCI",
+   "status": "done",
+   "found": "PhonePe confirmed #1 in UPI TPAP ranking; ~50% share per Reuters Mar 2026; Navi article confirms top 3 = PhonePe, Google Pay, Paytm",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe IPO status and valuation",
+   "status": "done",
+   "found": "UDRHP Jan 2026 confirmed; IPO delayed per TOI Sep 2026 valuation mismatch; press range $9-15B",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe products and launches 2026",
+   "status": "done",
+   "found": "PulsePro (Jul 2026), UPI 123Pay (Aug 2026), FD distribution (Aug 2026), Visa partnership (Sep 2026), DPIIT MoU (Aug 2026)",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe legal/RBI notices",
+   "status": "logged",
+   "found": "No specific legal/RBI notice found in search results; no UPI data adjudication found",
+   "next_action": "Search MCA/SEBI for regulatory actions",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe $650M buyback and Broadcom/CVP",
+   "status": "logged",
+   "found": "No evidence found for $650M buyback or Broadcom/CVP acquisition connection to PhonePe",
+   "next_action": "These claims may be inaccurate or refer to different entity",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe MCA filing PhonePe Payments Pvt Ltd",
+   "status": "logged",
+   "found": "No MCA filing data retrieved; CIN conflict unresolved",
+   "next_action": "Verify MCA21 primary for PhonePe Limited vs Phonepe Private Limited",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe official about-us and press pages",
+   "status": "done",
+   "found": "Board members, founders, products, traction stats (718M users, 50M merchants, 11Bn txns Jul 2026, 400M daily), PulsePro, UPI 123Pay, Share.Market, Indus Appstore",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe UPI market share NPCI",
+   "status": "done",
+   "found": "PhonePe confirmed #1 in UPI TPAP ranking; ~50% share per Reuters Mar 2026; Navi article confirms top 3 = PhonePe, Google Pay, Paytm",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe IPO status and valuation",
+   "status": "done",
+   "found": "UDRHP Jan 2026 confirmed; IPO delayed per TOI Sep 2026 valuation mismatch; press range $9-15B",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe products and launches 2026",
+   "status": "done",
+   "found": "PulsePro (Jul 2026), UPI 123Pay (Aug 2026), FD distribution (Aug 2026), Visa partnership (Sep 2026), DPIIT MoU (Aug 2026)",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe legal/RBI notices",
+   "status": "logged",
+   "found": "No specific legal/RBI notice found in search results; no UPI data adjudication found",
+   "next_action": "Search MCA/SEBI for regulatory actions",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe $650M buyback and Broadcom/CVP",
+   "status": "logged",
+   "found": "No evidence found for $650M buyback or Broadcom/CVP acquisition connection to PhonePe",
+   "next_action": "These claims may be inaccurate or refer to different entity",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe MCA filing PhonePe Payments Pvt Ltd",
+   "status": "logged",
+   "found": "No MCA filing data retrieved; CIN conflict unresolved",
+   "next_action": "Verify MCA21 primary for PhonePe Limited vs Phonepe Private Limited",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe official about-us and press pages",
+   "status": "done",
+   "found": "Board members, founders, products, traction stats (718M users, 50M merchants, 11Bn txns Jul 2026, 400M daily), PulsePro, UPI 123Pay, Share.Market, Indus Appstore",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe UPI market share NPCI",
+   "status": "done",
+   "found": "PhonePe confirmed #1 in UPI TPAP ranking; ~50% share per Reuters Mar 2026; Navi article confirms top 3 = PhonePe, Google Pay, Paytm",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe IPO status and valuation",
+   "status": "done",
+   "found": "UDRHP Jan 2026 confirmed; IPO delayed per TOI Sep 2026 valuation mismatch; press range $9-15B",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe products and launches 2026",
+   "status": "done",
+   "found": "PulsePro (Jul 2026), UPI 123Pay (Aug 2026), FD distribution (Aug 2026), Visa partnership (Sep 2026), DPIIT MoU (Aug 2026)",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe legal/RBI notices",
+   "status": "logged",
+   "found": "No specific legal/RBI notice found in search results; no UPI data adjudication found",
+   "next_action": "Search MCA/SEBI for regulatory actions",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe $650M buyback and Broadcom/CVP",
+   "status": "logged",
+   "found": "No evidence found for $650M buyback or Broadcom/CVP acquisition connection to PhonePe",
+   "next_action": "These claims may be inaccurate or refer to different entity",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe MCA filing PhonePe Payments Pvt Ltd",
+   "status": "logged",
+   "found": "No MCA filing data retrieved; CIN conflict unresolved",
+   "next_action": "Verify MCA21 primary for PhonePe Limited vs Phonepe Private Limited",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe official about-us and press pages",
+   "status": "done",
+   "found": "Board members, founders, products, traction stats (718M users, 50M merchants, 11Bn txns Jul 2026, 400M daily), PulsePro, UPI 123Pay, Share.Market, Indus Appstore",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe UPI market share NPCI",
+   "status": "done",
+   "found": "PhonePe confirmed #1 in UPI TPAP ranking; ~50% share per Reuters Mar 2026; Navi article confirms top 3 = PhonePe, Google Pay, Paytm",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe IPO status and valuation",
+   "status": "done",
+   "found": "UDRHP Jan 2026 confirmed; IPO delayed per TOI Sep 2026 valuation mismatch; press range $9-15B",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe products and launches 2026",
+   "status": "done",
+   "found": "PulsePro (Jul 2026), UPI 123Pay (Aug 2026), FD distribution (Aug 2026), Visa partnership (Sep 2026), DPIIT MoU (Aug 2026)",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe legal/RBI notices",
+   "status": "logged",
+   "found": "No specific legal/RBI notice found in search results; no UPI data adjudication found",
+   "next_action": "Search MCA/SEBI for regulatory actions",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe $650M buyback and Broadcom/CVP",
+   "status": "logged",
+   "found": "No evidence found for $650M buyback or Broadcom/CVP acquisition connection to PhonePe",
+   "next_action": "These claims may be inaccurate or refer to different entity",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe MCA filing PhonePe Payments Pvt Ltd",
+   "status": "logged",
+   "found": "No MCA filing data retrieved; CIN conflict unresolved",
+   "next_action": "Verify MCA21 primary for PhonePe Limited vs Phonepe Private Limited",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe official about-us and press pages",
+   "status": "done",
+   "found": "Board members, founders, products, traction stats (718M users, 50M merchants, 11Bn txns Jul 2026, 400M daily), PulsePro, UPI 123Pay, Share.Market, Indus Appstore",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe UPI market share NPCI",
+   "status": "done",
+   "found": "PhonePe confirmed #1 in UPI TPAP ranking; ~50% share per Reuters Mar 2026; Navi article confirms top 3 = PhonePe, Google Pay, Paytm",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe IPO status and valuation",
+   "status": "done",
+   "found": "UDRHP Jan 2026 confirmed; IPO delayed per TOI Sep 2026 valuation mismatch; press range $9-15B",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe products and launches 2026",
+   "status": "done",
+   "found": "PulsePro (Jul 2026), UPI 123Pay (Aug 2026), FD distribution (Aug 2026), Visa partnership (Sep 2026), DPIIT MoU (Aug 2026)",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe legal/RBI notices",
+   "status": "logged",
+   "found": "No specific legal/RBI notice found in search results; no UPI data adjudication found",
+   "next_action": "Search MCA/SEBI for regulatory actions",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe $650M buyback and Broadcom/CVP",
+   "status": "logged",
+   "found": "No evidence found for $650M buyback or Broadcom/CVP acquisition connection to PhonePe",
+   "next_action": "These claims may be inaccurate or refer to different entity",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe MCA filing PhonePe Payments Pvt Ltd",
+   "status": "logged",
+   "found": "No MCA filing data retrieved; CIN conflict unresolved",
+   "next_action": "Verify MCA21 primary for PhonePe Limited vs Phonepe Private Limited",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe official about-us and press pages",
+   "status": "done",
+   "found": "Board members, founders, products, traction stats (718M users, 50M merchants, 11Bn txns Jul 2026, 400M daily), PulsePro, UPI 123Pay, Share.Market, Indus Appstore",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe UPI market share NPCI",
+   "status": "done",
+   "found": "PhonePe confirmed #1 in UPI TPAP ranking; ~50% share per Reuters Mar 2026; Navi article confirms top 3 = PhonePe, Google Pay, Paytm",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe IPO status and valuation",
+   "status": "done",
+   "found": "UDRHP Jan 2026 confirmed; IPO delayed per TOI Sep 2026 valuation mismatch; press range $9-15B",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe products and launches 2026",
+   "status": "done",
+   "found": "PulsePro (Jul 2026), UPI 123Pay (Aug 2026), FD distribution (Aug 2026), Visa partnership (Sep 2026), DPIIT MoU (Aug 2026)",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe legal/RBI notices",
+   "status": "logged",
+   "found": "No specific legal/RBI notice found in search results; no UPI data adjudication found",
+   "next_action": "Search MCA/SEBI for regulatory actions",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe $650M buyback and Broadcom/CVP",
+   "status": "logged",
+   "found": "No evidence found for $650M buyback or Broadcom/CVP acquisition connection to PhonePe",
+   "next_action": "These claims may be inaccurate or refer to different entity",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe MCA filing PhonePe Payments Pvt Ltd",
+   "status": "logged",
+   "found": "No MCA filing data retrieved; CIN conflict unresolved",
+   "next_action": "Verify MCA21 primary for PhonePe Limited vs Phonepe Private Limited",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe official about-us and press pages",
+   "status": "done",
+   "found": "Board members, founders, products, traction stats (718M users, 50M merchants, 11Bn txns Jul 2026, 400M daily), PulsePro, UPI 123Pay, Share.Market, Indus Appstore",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe UPI market share NPCI",
+   "status": "done",
+   "found": "PhonePe confirmed #1 in UPI TPAP ranking; ~50% share per Reuters Mar 2026; Navi article confirms top 3 = PhonePe, Google Pay, Paytm",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe IPO status and valuation",
+   "status": "done",
+   "found": "UDRHP Jan 2026 confirmed; IPO delayed per TOI Sep 2026 valuation mismatch; press range $9-15B",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe products and launches 2026",
+   "status": "done",
+   "found": "PulsePro (Jul 2026), UPI 123Pay (Aug 2026), FD distribution (Aug 2026), Visa partnership (Sep 2026), DPIIT MoU (Aug 2026)",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe legal/RBI notices",
+   "status": "logged",
+   "found": "No specific legal/RBI notice found in search results; no UPI data adjudication found",
+   "next_action": "Search MCA/SEBI for regulatory actions",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe $650M buyback and Broadcom/CVP",
+   "status": "logged",
+   "found": "No evidence found for $650M buyback or Broadcom/CVP acquisition connection to PhonePe",
+   "next_action": "These claims may be inaccurate or refer to different entity",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe MCA filing PhonePe Payments Pvt Ltd",
+   "status": "logged",
+   "found": "No MCA filing data retrieved; CIN conflict unresolved",
+   "next_action": "Verify MCA21 primary for PhonePe Limited vs Phonepe Private Limited",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe official about-us and press pages",
+   "status": "done",
+   "found": "Board members, founders, products, traction stats (718M users, 50M merchants, 11Bn txns Jul 2026, 400M daily), PulsePro, UPI 123Pay, Share.Market, Indus Appstore",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe UPI market share NPCI",
+   "status": "done",
+   "found": "PhonePe confirmed #1 in UPI TPAP ranking; ~50% share per Reuters Mar 2026; Navi article confirms top 3 = PhonePe, Google Pay, Paytm",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe IPO status and valuation",
+   "status": "done",
+   "found": "UDRHP Jan 2026 confirmed; IPO delayed per TOI Sep 2026 valuation mismatch; press range $9-15B",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe products and launches 2026",
+   "status": "done",
+   "found": "PulsePro (Jul 2026), UPI 123Pay (Aug 2026), FD distribution (Aug 2026), Visa partnership (Sep 2026), DPIIT MoU (Aug 2026)",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe legal/RBI notices",
+   "status": "logged",
+   "found": "No specific legal/RBI notice found in search results; no UPI data adjudication found",
+   "next_action": "Search MCA/SEBI for regulatory actions",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe $650M buyback and Broadcom/CVP",
+   "status": "logged",
+   "found": "No evidence found for $650M buyback or Broadcom/CVP acquisition connection to PhonePe",
+   "next_action": "These claims may be inaccurate or refer to different entity",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe MCA filing PhonePe Payments Pvt Ltd",
+   "status": "logged",
+   "found": "No MCA filing data retrieved; CIN conflict unresolved",
+   "next_action": "Verify MCA21 primary for PhonePe Limited vs Phonepe Private Limited",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe official about-us and press pages",
+   "status": "done",
+   "found": "Board members, founders, products, traction stats (718M users, 50M merchants, 11Bn txns Jul 2026, 400M daily), PulsePro, UPI 123Pay, Share.Market, Indus Appstore",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe UPI market share NPCI",
+   "status": "done",
+   "found": "PhonePe confirmed #1 in UPI TPAP ranking; ~50% share per Reuters Mar 2026; Navi article confirms top 3 = PhonePe, Google Pay, Paytm",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe IPO status and valuation",
+   "status": "done",
+   "found": "UDRHP Jan 2026 confirmed; IPO delayed per TOI Sep 2026 valuation mismatch; press range $9-15B",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe products and launches 2026",
+   "status": "done",
+   "found": "PulsePro (Jul 2026), UPI 123Pay (Aug 2026), FD distribution (Aug 2026), Visa partnership (Sep 2026), DPIIT MoU (Aug 2026)",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe legal/RBI notices",
+   "status": "logged",
+   "found": "No specific legal/RBI notice found in search results; no UPI data adjudication found",
+   "next_action": "Search MCA/SEBI for regulatory actions",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe $650M buyback and Broadcom/CVP",
+   "status": "logged",
+   "found": "No evidence found for $650M buyback or Broadcom/CVP acquisition connection to PhonePe",
+   "next_action": "These claims may be inaccurate or refer to different entity",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe MCA filing PhonePe Payments Pvt Ltd",
+   "status": "logged",
+   "found": "No MCA filing data retrieved; CIN conflict unresolved",
+   "next_action": "Verify MCA21 primary for PhonePe Limited vs Phonepe Private Limited",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe official about-us and press pages",
+   "status": "done",
+   "found": "Board members, founders, products, traction stats (718M users, 50M merchants, 11Bn txns Jul 2026, 400M daily), PulsePro, UPI 123Pay, Share.Market, Indus Appstore",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe UPI market share NPCI",
+   "status": "done",
+   "found": "PhonePe confirmed #1 in UPI TPAP ranking; ~50% share per Reuters Mar 2026; Navi article confirms top 3 = PhonePe, Google Pay, Paytm",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe IPO status and valuation",
+   "status": "done",
+   "found": "UDRHP Jan 2026 confirmed; IPO delayed per TOI Sep 2026 valuation mismatch; press range $9-15B",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe products and launches 2026",
+   "status": "done",
+   "found": "PulsePro (Jul 2026), UPI 123Pay (Aug 2026), FD distribution (Aug 2026), Visa partnership (Sep 2026), DPIIT MoU (Aug 2026)",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe legal/RBI notices",
+   "status": "logged",
+   "found": "No specific legal/RBI notice found in search results; no UPI data adjudication found",
+   "next_action": "Search MCA/SEBI for regulatory actions",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe $650M buyback and Broadcom/CVP",
+   "status": "logged",
+   "found": "No evidence found for $650M buyback or Broadcom/CVP acquisition connection to PhonePe",
+   "next_action": "These claims may be inaccurate or refer to different entity",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe MCA filing PhonePe Payments Pvt Ltd",
+   "status": "logged",
+   "found": "No MCA filing data retrieved; CIN conflict unresolved",
+   "next_action": "Verify MCA21 primary for PhonePe Limited vs Phonepe Private Limited",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe official about-us and press pages",
+   "status": "done",
+   "found": "Board members, founders, products, traction stats (718M users, 50M merchants, 11Bn txns Jul 2026, 400M daily), PulsePro, UPI 123Pay, Share.Market, Indus Appstore",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe UPI market share NPCI",
+   "status": "done",
+   "found": "PhonePe confirmed #1 in UPI TPAP ranking; ~50% share per Reuters Mar 2026; Navi article confirms top 3 = PhonePe, Google Pay, Paytm",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe IPO status and valuation",
+   "status": "done",
+   "found": "UDRHP Jan 2026 confirmed; IPO delayed per TOI Sep 2026 valuation mismatch; press range $9-15B",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe products and launches 2026",
+   "status": "done",
+   "found": "PulsePro (Jul 2026), UPI 123Pay (Aug 2026), FD distribution (Aug 2026), Visa partnership (Sep 2026), DPIIT MoU (Aug 2026)",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe legal/RBI notices",
+   "status": "logged",
+   "found": "No specific legal/RBI notice found in search results; no UPI data adjudication found",
+   "next_action": "Search MCA/SEBI for regulatory actions",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe $650M buyback and Broadcom/CVP",
+   "status": "logged",
+   "found": "No evidence found for $650M buyback or Broadcom/CVP acquisition connection to PhonePe",
+   "next_action": "These claims may be inaccurate or refer to different entity",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe MCA filing PhonePe Payments Pvt Ltd",
+   "status": "logged",
+   "found": "No MCA filing data retrieved; CIN conflict unresolved",
+   "next_action": "Verify MCA21 primary for PhonePe Limited vs Phonepe Private Limited",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe official about-us and press pages",
+   "status": "done",
+   "found": "Board members, founders, products, traction stats (718M users, 50M merchants, 11Bn txns Jul 2026, 400M daily), PulsePro, UPI 123Pay, Share.Market, Indus Appstore",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe UPI market share NPCI",
+   "status": "done",
+   "found": "PhonePe confirmed #1 in UPI TPAP ranking; ~50% share per Reuters Mar 2026; Navi article confirms top 3 = PhonePe, Google Pay, Paytm",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe IPO status and valuation",
+   "status": "done",
+   "found": "UDRHP Jan 2026 confirmed; IPO delayed per TOI Sep 2026 valuation mismatch; press range $9-15B",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe products and launches 2026",
+   "status": "done",
+   "found": "PulsePro (Jul 2026), UPI 123Pay (Aug 2026), FD distribution (Aug 2026), Visa partnership (Sep 2026), DPIIT MoU (Aug 2026)",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe legal/RBI notices",
+   "status": "logged",
+   "found": "No specific legal/RBI notice found in search results; no UPI data adjudication found",
+   "next_action": "Search MCA/SEBI for regulatory actions",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe $650M buyback and Broadcom/CVP",
+   "status": "logged",
+   "found": "No evidence found for $650M buyback or Broadcom/CVP acquisition connection to PhonePe",
+   "next_action": "These claims may be inaccurate or refer to different entity",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe MCA filing PhonePe Payments Pvt Ltd",
+   "status": "logged",
+   "found": "No MCA filing data retrieved; CIN conflict unresolved",
+   "next_action": "Verify MCA21 primary for PhonePe Limited vs Phonepe Private Limited",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe official about-us and press pages",
+   "status": "done",
+   "found": "Board members, founders, products, traction stats (718M users, 50M merchants, 11Bn txns Jul 2026, 400M daily), PulsePro, UPI 123Pay, Share.Market, Indus Appstore",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe UPI market share NPCI",
+   "status": "done",
+   "found": "PhonePe confirmed #1 in UPI TPAP ranking; ~50% share per Reuters Mar 2026; Navi article confirms top 3 = PhonePe, Google Pay, Paytm",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe IPO status and valuation",
+   "status": "done",
+   "found": "UDRHP Jan 2026 confirmed; IPO delayed per TOI Sep 2026 valuation mismatch; press range $9-15B",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe products and launches 2026",
+   "status": "done",
+   "found": "PulsePro (Jul 2026), UPI 123Pay (Aug 2026), FD distribution (Aug 2026), Visa partnership (Sep 2026), DPIIT MoU (Aug 2026)",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe legal/RBI notices",
+   "status": "logged",
+   "found": "No specific legal/RBI notice found in search results; no UPI data adjudication found",
+   "next_action": "Search MCA/SEBI for regulatory actions",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe $650M buyback and Broadcom/CVP",
+   "status": "logged",
+   "found": "No evidence found for $650M buyback or Broadcom/CVP acquisition connection to PhonePe",
+   "next_action": "These claims may be inaccurate or refer to different entity",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe MCA filing PhonePe Payments Pvt Ltd",
+   "status": "logged",
+   "found": "No MCA filing data retrieved; CIN conflict unresolved",
+   "next_action": "Verify MCA21 primary for PhonePe Limited vs Phonepe Private Limited",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe official about-us and press pages",
+   "status": "done",
+   "found": "Board members, founders, products, traction stats (718M users, 50M merchants, 11Bn txns Jul 2026, 400M daily), PulsePro, UPI 123Pay, Share.Market, Indus Appstore",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe UPI market share NPCI",
+   "status": "done",
+   "found": "PhonePe confirmed #1 in UPI TPAP ranking; ~50% share per Reuters Mar 2026; Navi article confirms top 3 = PhonePe, Google Pay, Paytm",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe IPO status and valuation",
+   "status": "done",
+   "found": "UDRHP Jan 2026 confirmed; IPO delayed per TOI Sep 2026 valuation mismatch; press range $9-15B",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe products and launches 2026",
+   "status": "done",
+   "found": "PulsePro (Jul 2026), UPI 123Pay (Aug 2026), FD distribution (Aug 2026), Visa partnership (Sep 2026), DPIIT MoU (Aug 2026)",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe legal/RBI notices",
+   "status": "logged",
+   "found": "No specific legal/RBI notice found in search results; no UPI data adjudication found",
+   "next_action": "Search MCA/SEBI for regulatory actions",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe $650M buyback and Broadcom/CVP",
+   "status": "logged",
+   "found": "No evidence found for $650M buyback or Broadcom/CVP acquisition connection to PhonePe",
+   "next_action": "These claims may be inaccurate or refer to different entity",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe MCA filing PhonePe Payments Pvt Ltd",
+   "status": "logged",
+   "found": "No MCA filing data retrieved; CIN conflict unresolved",
+   "next_action": "Verify MCA21 primary for PhonePe Limited vs Phonepe Private Limited",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe official about-us and press pages",
+   "status": "done",
+   "found": "Board members, founders, products, traction stats (718M users, 50M merchants, 11Bn txns Jul 2026, 400M daily), PulsePro, UPI 123Pay, Share.Market, Indus Appstore",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe UPI market share NPCI",
+   "status": "done",
+   "found": "PhonePe confirmed #1 in UPI TPAP ranking; ~50% share per Reuters Mar 2026; Navi article confirms top 3 = PhonePe, Google Pay, Paytm",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe IPO status and valuation",
+   "status": "done",
+   "found": "UDRHP Jan 2026 confirmed; IPO delayed per TOI Sep 2026 valuation mismatch; press range $9-15B",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe products and launches 2026",
+   "status": "done",
+   "found": "PulsePro (Jul 2026), UPI 123Pay (Aug 2026), FD distribution (Aug 2026), Visa partnership (Sep 2026), DPIIT MoU (Aug 2026)",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe legal/RBI notices",
+   "status": "logged",
+   "found": "No specific legal/RBI notice found in search results; no UPI data adjudication found",
+   "next_action": "Search MCA/SEBI for regulatory actions",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe $650M buyback and Broadcom/CVP",
+   "status": "logged",
+   "found": "No evidence found for $650M buyback or Broadcom/CVP acquisition connection to PhonePe",
+   "next_action": "These claims may be inaccurate or refer to different entity",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe MCA filing PhonePe Payments Pvt Ltd",
+   "status": "logged",
+   "found": "No MCA filing data retrieved; CIN conflict unresolved",
+   "next_action": "Verify MCA21 primary for PhonePe Limited vs Phonepe Private Limited",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe official about-us and press pages",
+   "status": "done",
+   "found": "Board members, founders, products, traction stats (718M users, 50M merchants, 11Bn txns Jul 2026, 400M daily), PulsePro, UPI 123Pay, Share.Market, Indus Appstore",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe UPI market share NPCI",
+   "status": "done",
+   "found": "PhonePe confirmed #1 in UPI TPAP ranking; ~50% share per Reuters Mar 2026; Navi article confirms top 3 = PhonePe, Google Pay, Paytm",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe IPO status and valuation",
+   "status": "done",
+   "found": "UDRHP Jan 2026 confirmed; IPO delayed per TOI Sep 2026 valuation mismatch; press range $9-15B",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe products and launches 2026",
+   "status": "done",
+   "found": "PulsePro (Jul 2026), UPI 123Pay (Aug 2026), FD distribution (Aug 2026), Visa partnership (Sep 2026), DPIIT MoU (Aug 2026)",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe legal/RBI notices",
+   "status": "logged",
+   "found": "No specific legal/RBI notice found in search results; no UPI data adjudication found",
+   "next_action": "Search MCA/SEBI for regulatory actions",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe $650M buyback and Broadcom/CVP",
+   "status": "logged",
+   "found": "No evidence found for $650M buyback or Broadcom/CVP acquisition connection to PhonePe",
+   "next_action": "These claims may be inaccurate or refer to different entity",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe MCA filing PhonePe Payments Pvt Ltd",
+   "status": "logged",
+   "found": "No MCA filing data retrieved; CIN conflict unresolved",
+   "next_action": "Verify MCA21 primary for PhonePe Limited vs Phonepe Private Limited",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe official about-us and press pages",
+   "status": "done",
+   "found": "Board members, founders, products, traction stats (718M users, 50M merchants, 11Bn txns Jul 2026, 400M daily), PulsePro, UPI 123Pay, Share.Market, Indus Appstore",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe UPI market share NPCI",
+   "status": "done",
+   "found": "PhonePe confirmed #1 in UPI TPAP ranking; ~50% share per Reuters Mar 2026; Navi article confirms top 3 = PhonePe, Google Pay, Paytm",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe IPO status and valuation",
+   "status": "done",
+   "found": "UDRHP Jan 2026 confirmed; IPO delayed per TOI Sep 2026 valuation mismatch; press range $9-15B",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe products and launches 2026",
+   "status": "done",
+   "found": "PulsePro (Jul 2026), UPI 123Pay (Aug 2026), FD distribution (Aug 2026), Visa partnership (Sep 2026), DPIIT MoU (Aug 2026)",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe legal/RBI notices",
+   "status": "logged",
+   "found": "No specific legal/RBI notice found in search results; no UPI data adjudication found",
+   "next_action": "Search MCA/SEBI for regulatory actions",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe $650M buyback and Broadcom/CVP",
+   "status": "logged",
+   "found": "No evidence found for $650M buyback or Broadcom/CVP acquisition connection to PhonePe",
+   "next_action": "These claims may be inaccurate or refer to different entity",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe MCA filing PhonePe Payments Pvt Ltd",
+   "status": "logged",
+   "found": "No MCA filing data retrieved; CIN conflict unresolved",
+   "next_action": "Verify MCA21 primary for PhonePe Limited vs Phonepe Private Limited",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe official about-us and press pages",
+   "status": "done",
+   "found": "Board members, founders, products, traction stats (718M users, 50M merchants, 11Bn txns Jul 2026, 400M daily), PulsePro, UPI 123Pay, Share.Market, Indus Appstore",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe UPI market share NPCI",
+   "status": "done",
+   "found": "PhonePe confirmed #1 in UPI TPAP ranking; ~50% share per Reuters Mar 2026; Navi article confirms top 3 = PhonePe, Google Pay, Paytm",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe IPO status and valuation",
+   "status": "done",
+   "found": "UDRHP Jan 2026 confirmed; IPO delayed per TOI Sep 2026 valuation mismatch; press range $9-15B",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe products and launches 2026",
+   "status": "done",
+   "found": "PulsePro (Jul 2026), UPI 123Pay (Aug 2026), FD distribution (Aug 2026), Visa partnership (Sep 2026), DPIIT MoU (Aug 2026)",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe legal/RBI notices",
+   "status": "logged",
+   "found": "No specific legal/RBI notice found in search results; no UPI data adjudication found",
+   "next_action": "Search MCA/SEBI for regulatory actions",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe $650M buyback and Broadcom/CVP",
+   "status": "logged",
+   "found": "No evidence found for $650M buyback or Broadcom/CVP acquisition connection to PhonePe",
+   "next_action": "These claims may be inaccurate or refer to different entity",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe MCA filing PhonePe Payments Pvt Ltd",
+   "status": "logged",
+   "found": "No MCA filing data retrieved; CIN conflict unresolved",
+   "next_action": "Verify MCA21 primary for PhonePe Limited vs Phonepe Private Limited",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe official about-us and press pages",
+   "status": "done",
+   "found": "Board members, founders, products, traction stats (718M users, 50M merchants, 11Bn txns Jul 2026, 400M daily), PulsePro, UPI 123Pay, Share.Market, Indus Appstore",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe UPI market share NPCI",
+   "status": "done",
+   "found": "PhonePe confirmed #1 in UPI TPAP ranking; ~50% share per Reuters Mar 2026; Navi article confirms top 3 = PhonePe, Google Pay, Paytm",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe IPO status and valuation",
+   "status": "done",
+   "found": "UDRHP Jan 2026 confirmed; IPO delayed per TOI Sep 2026 valuation mismatch; press range $9-15B",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe products and launches 2026",
+   "status": "done",
+   "found": "PulsePro (Jul 2026), UPI 123Pay (Aug 2026), FD distribution (Aug 2026), Visa partnership (Sep 2026), DPIIT MoU (Aug 2026)",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe legal/RBI notices",
+   "status": "logged",
+   "found": "No specific legal/RBI notice found in search results; no UPI data adjudication found",
+   "next_action": "Search MCA/SEBI for regulatory actions",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe $650M buyback and Broadcom/CVP",
+   "status": "logged",
+   "found": "No evidence found for $650M buyback or Broadcom/CVP acquisition connection to PhonePe",
+   "next_action": "These claims may be inaccurate or refer to different entity",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe MCA filing PhonePe Payments Pvt Ltd",
+   "status": "logged",
+   "found": "No MCA filing data retrieved; CIN conflict unresolved",
+   "next_action": "Verify MCA21 primary for PhonePe Limited vs Phonepe Private Limited",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe official about-us and press pages",
+   "status": "done",
+   "found": "Board members, founders, products, traction stats (718M users, 50M merchants, 11Bn txns Jul 2026, 400M daily), PulsePro, UPI 123Pay, Share.Market, Indus Appstore",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe UPI market share NPCI",
+   "status": "done",
+   "found": "PhonePe confirmed #1 in UPI TPAP ranking; ~50% share per Reuters Mar 2026; Navi article confirms top 3 = PhonePe, Google Pay, Paytm",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe IPO status and valuation",
+   "status": "done",
+   "found": "UDRHP Jan 2026 confirmed; IPO delayed per TOI Sep 2026 valuation mismatch; press range $9-15B",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe products and launches 2026",
+   "status": "done",
+   "found": "PulsePro (Jul 2026), UPI 123Pay (Aug 2026), FD distribution (Aug 2026), Visa partnership (Sep 2026), DPIIT MoU (Aug 2026)",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe legal/RBI notices",
+   "status": "logged",
+   "found": "No specific legal/RBI notice found in search results; no UPI data adjudication found",
+   "next_action": "Search MCA/SEBI for regulatory actions",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe $650M buyback and Broadcom/CVP",
+   "status": "logged",
+   "found": "No evidence found for $650M buyback or Broadcom/CVP acquisition connection to PhonePe",
+   "next_action": "These claims may be inaccurate or refer to different entity",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe MCA filing PhonePe Payments Pvt Ltd",
+   "status": "logged",
+   "found": "No MCA filing data retrieved; CIN conflict unresolved",
+   "next_action": "Verify MCA21 primary for PhonePe Limited vs Phonepe Private Limited",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe official about-us and press pages",
+   "status": "done",
+   "found": "Board members, founders, products, traction stats (718M users, 50M merchants, 11Bn txns Jul 2026, 400M daily), PulsePro, UPI 123Pay, Share.Market, Indus Appstore",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe UPI market share NPCI",
+   "status": "done",
+   "found": "PhonePe confirmed #1 in UPI TPAP ranking; ~50% share per Reuters Mar 2026; Navi article confirms top 3 = PhonePe, Google Pay, Paytm",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe IPO status and valuation",
+   "status": "done",
+   "found": "UDRHP Jan 2026 confirmed; IPO delayed per TOI Sep 2026 valuation mismatch; press range $9-15B",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe products and launches 2026",
+   "status": "done",
+   "found": "PulsePro (Jul 2026), UPI 123Pay (Aug 2026), FD distribution (Aug 2026), Visa partnership (Sep 2026), DPIIT MoU (Aug 2026)",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe legal/RBI notices",
+   "status": "logged",
+   "found": "No specific legal/RBI notice found in search results; no UPI data adjudication found",
+   "next_action": "Search MCA/SEBI for regulatory actions",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe $650M buyback and Broadcom/CVP",
+   "status": "logged",
+   "found": "No evidence found for $650M buyback or Broadcom/CVP acquisition connection to PhonePe",
+   "next_action": "These claims may be inaccurate or refer to different entity",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PhonePe MCA filing PhonePe Payments Pvt Ltd",
+   "status": "logged",
+   "found": "No MCA filing data retrieved; CIN conflict unresolved",
+   "next_action": "Verify MCA21 primary for PhonePe Limited vs Phonepe Private Limited",
+   "agent": "P3-WAVE"
+  }
+ ],
+ "sources": [
+  {
+   "claim_supported": "Confidential IPO filing Sep 2025, $12B last valuation, mid-2026 listing aim",
+   "fields_supported": [
+    "events",
+    "funding"
+   ],
+   "publication_date": "2025-09-24",
+   "publisher": "Reuters",
+   "retrieved_date": "2026-09-14",
+   "tier": "T3",
+   "title": "Walmart-backed PhonePe files for India IPO, targets mid-2026 listing",
+   "url": "https://www.reuters.com/world/india/walmart-backed-phonepe-files-india-ipo-via-confidential-route-2025-09-24/"
+  },
+  {
+   "claim_supported": "$9-10.5B IPO valuation target, $0.9-1.05B raise, Walmart/Tiger/Microsoft selldown",
+   "fields_supported": [
+    "events",
+    "investors"
+   ],
+   "publication_date": "2026-03-04",
+   "publisher": "Reuters",
+   "retrieved_date": "2026-09-14",
+   "tier": "T3",
+   "title": "PhonePe targets up to $10.5B valuation in IPO",
+   "url": "https://www.reuters.com/world/india/walmart-backed-phonepe-targets-up-105-billion-valuation-india-ipo-sources-say-2026-03-04/"
+  },
+  {
+   "claim_supported": "FY25 revenue/loss/adjusted profit detail",
+   "fields_supported": [
+    "financials"
+   ],
+   "publication_date": "2025-09-22",
+   "publisher": "Financial Express",
+   "retrieved_date": "2026-09-14",
+   "tier": "T3",
+   "title": "IPO-bound PhonePe's revenue rises 40% in FY25, losses narrow",
+   "url": "https://www.financialexpress.com/business/industry-ipo-bound-phonepes-revenue-rises-40-in-fy25-losses-narrow-3985842/"
+  },
+  {
+   "claim_supported": "UDRHP share counts, stakes (Walmart 71.77%, GA 8.89%, founders 2.55% each)",
+   "fields_supported": [
+    "investors",
+    "events"
+   ],
+   "publication_date": "2026-01-22",
+   "publisher": "Entrackr",
+   "retrieved_date": "2026-09-14",
+   "tier": "T3",
+   "title": "PhonePe files updated DRHP; Walmart to sell 9% stake via OFS",
+   "url": "https://entrackr.com/news/phonepe-files-updated-drhp-walmart-to-sell-9-stake-via-ofs-11020697"
+  },
+  {
+   "claim_supported": "$430M founder secondary to GA; H1-FY26 financials",
+   "fields_supported": [
+    "funding",
+    "financials",
+    "investors"
+   ],
+   "publication_date": "2026-01-22",
+   "publisher": "Economic Times",
+   "retrieved_date": "2026-09-14",
+   "tier": "T3",
+   "title": "PhonePe cofounders sold stake worth $430M to General Atlantic",
+   "url": "https://economictimes.indiatimes.com/tech/technology/ipo-bound-phonepe-cofounders-sold-stake-worth-430-million-to-general-atlantic-in-2025/articleshow/127158206.cms"
+  },
+  {
+   "url": "https://entrackr.com/2023/01/phonepe-raises-350-mn-at-over-12-bn-valuation/",
+   "title": "",
+   "fields": "FUNDING",
+   "confidence": "MEDIUM"
+  },
+  {
+   "url": "https://www.recurclub.com/company/phonepe-limited",
+   "title": "PhonePe Limited - Company Profile, Directors & Financials",
+   "fields": [
+    "cin"
+   ],
+   "confidence": "MEDIUM"
+  },
+  {
+   "url": "https://ir.phonepe.com/governance",
+   "title": "PhonePe Governance | PhonePe Investor Relations",
+   "tier": "T2",
+   "claim": "founder status Sameer Nigam"
+  },
+  {
+   "url": "https://www.phonepe.com/about-us/",
+   "title": "",
+   "fields": "PEOPLE",
+   "confidence": "HIGH"
+  },
+  {
+   "url": "https://www.phonepe.com/press/",
+   "title": "",
+   "fields": "PEOPLE",
+   "confidence": "MEDIUM"
+  },
+  {
+   "url": "https://images.moneycontrol.com/news_html_files/pdffiles/Jan2026/phonepe-limited.pdf",
+   "title": "",
+   "fields": "PEOPLE",
+   "confidence": "MEDIUM"
+  },
+  {
+   "url": "https://www.livemint.com/companies/company-results/phonepe-revenue-phonepe-ipo-phonepe-losses-phonepe-financials-digital-payments-11758551525010.html",
+   "title": "PhonePe cuts losses as revenue tops Rs 7,000 crore in FY25",
+   "fields": "company",
+   "confidence": "HIGH"
+  },
+  {
+   "url": "https://timesofindia.indiatimes.com/business/india-business/valuation-reset-startups-begin-losing-unicorn-tag/articleshow/133950675.cms",
+   "title": "Valuation reset: Startups begin losing unicorn tag",
+   "fields": "company",
+   "confidence": "MEDIUM"
+  },
+  {
+   "url": "https://www.livemint.com/companies/news/navi-finserv-loan-growth-upi-platform-merchant-finance-lap/amp-11787154859866.html",
+   "title": "Navi's UPI growth fuels NBFC arm's loan expansion",
+   "fields": "company",
+   "confidence": "MEDIUM"
+  }
+ ],
+ "startup_id": "phonepe",
+ "traction": [
+  {
+   "as_of": "2026-03-01",
+   "company_reported": false,
+   "confidence": "MEDIUM",
+   "metric": "UPI market share",
+   "period": "Jan 2026",
+   "source_url": "https://www.reuters.com/world/india/walmart-backed-phonepe-targets-up-105-billion-valuation-india-ipo-sources-say-2026-03-04/",
+   "value": "~half of UPI payments"
+  },
+  {
+   "metric": "lifetime registered users",
+   "value": 718,
+   "unit": "million",
+   "period": "As-of-July-2026",
+   "as_of": "2026-07-01",
+   "company_reported": true,
+   "source_url": "https://www.phonepe.com/press/",
+   "confidence": "HIGH",
+   "notes": "From PhonePe official press/media kit page"
+  },
+  {
+   "metric": "lifetime registered merchants",
+   "value": 50,
+   "unit": "million",
+   "period": "As-of-July-2026",
+   "as_of": "2026-07-01",
+   "company_reported": true,
+   "source_url": "https://www.phonepe.com/press/",
+   "confidence": "HIGH",
+   "notes": "From PhonePe official press/media kit page"
+  },
+  {
+   "metric": "customer transactions in month",
+   "value": 11,
+   "unit": "billion",
+   "period": "July 2026",
+   "as_of": "2026-07-01",
+   "company_reported": true,
+   "source_url": "https://www.phonepe.com/press/",
+   "confidence": "HIGH",
+   "notes": "From PhonePe official press/media kit page"
+  },
+  {
+   "metric": "daily transactions",
+   "value": 400,
+   "unit": "million",
+   "period": "As-of-August-2026",
+   "as_of": "2026-08-01",
+   "company_reported": true,
+   "source_url": "https://www.phonepe.com/press/",
+   "confidence": "HIGH",
+   "notes": "From India Today Impact Feature headline on PhonePe press page"
+  },
+  {
+   "metric": "UPI market share",
+   "value": 50,
+   "unit": "percent",
+   "period": "Jan 2026",
+   "as_of": "2026-01-01",
+   "company_reported": false,
+   "source_url": "https://www.reuters.com/world/india/walmart-backed-phonepe-targets-up-105-billion-valuation-india-ipo-sources-say-2026-03-04/",
+   "confidence": "MEDIUM",
+   "notes": "Reuters reports PhonePe has ~half of UPI payments; Navi article confirms PhonePe #1 in UPI TPAP ranking"
+  },
+  {
+   "metric": "daily SIP base",
+   "value": 500000,
+   "unit": "count",
+   "period": "As-of-August-2026",
+   "as_of": "2026-08-03",
+   "company_reported": true,
+   "source_url": "https://www.business-standard.com/",
+   "confidence": "MEDIUM",
+   "notes": "PhonePe Daily SIP base crosses 500,000 per Business Standard Aug 3, 2026"
+  }
+ ],
+ "_merged_session2": true
+}

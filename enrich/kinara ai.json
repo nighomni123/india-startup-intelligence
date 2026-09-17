@@ -1,0 +1,212 @@
+{
+ "company": {
+  "business_model": "B2B hardware + software (discrete NPUs Ara-1/Ara-2 + SDK)",
+  "city": "Hyderabad (India R&D; HQ Los Altos, USA)",
+  "customer_type": "enterprise",
+  "dpiit": "",
+  "employee_estimate": "~100",
+  "founded_date": "2014",
+  "legal_name": "Kinara, Inc. (India: KINARA AI PRIVATE LIMITED, CIN U72900TG2018PTC125714, inc Jul 17 2018)",
+  "parent/subsidiary": "Subsidiary of NXP Semiconductors since H1 2025 close (acquired)",
+  "primary_sector": "edge-ai chips",
+  "public_private": "private (acquired)",
+  "startup_stage": "acquired",
+  "status": "acquired",
+  "website": "http://kinara.ai",
+  "cin": "U72900TG2018PTC125714",
+  "incorporation_date": "2018-07-17",
+  "official_website": {
+   "v": "https://kinara.ai",
+   "conf": "high",
+   "src": "https://kinara.ai (search result; also staging.kinara.ai confirmed; acquired by NXP Semiconductors 2025)",
+   "note": "W-wave verified 2026-09-15; acquired by NXP in 2025"
+  },
+  "careers_website": {
+   "v": "https://kinara.ai/careers",
+   "conf": "MED",
+   "src": "https://kinara.ai/careers (search result; returns 301 redirect)",
+   "note": "Careers page URL found but redirects; company acquired by NXP so may not be actively hiring"
+  }
+ },
+ "completeness_self": {
+  "financials": 3,
+  "founders": 8,
+  "funding": 7,
+  "identity": 7,
+  "investors": 6
+ },
+ "conflicts": [
+  {
+   "claim_a": "$54M total raised (EE Times/DCD/NXP coverage)",
+   "claim_b": "$36M total (Tracxn snippet)",
+   "field": "total funding",
+   "resolution": "use $54M per company-adjacent press (EE Times Feb 2025); Tracxn partial capture noted",
+   "url_a": "https://www.eetimes.com/nxp-acquires-ai-chip-startup-kinara",
+   "url_b": "https://platform.tracxn.com/a/d/company/62b3091ceac61421544873d1/kinara ai"
+  }
+ ],
+ "events": [
+  {
+   "date": "2025-02-10",
+   "description": "NXP agrees to acquire Kinara for $307M all-cash; expected close H1 2025.",
+   "headline": "NXP agrees to acquire Kinara for $307M",
+   "source_url": "https://investors.nxp.com/news-releases/news-release-details/nxp-agrees-acquire-edge-ai-pioneer-kinara-redefine-intelligent",
+   "type": "acquisition"
+  }
+ ],
+ "financials": [
+  {
+   "currency": "USD",
+   "fiscal_year": "FY25",
+   "metric": "revenue",
+   "source_title": "Kinara AI - 2026 Company Profile & Team",
+   "source_url": "http://tracxn.com/d/companies/kinara-ai/__xQGFYyFOnnCsCf4w-8d1tfkj9msL10NyLUYDUav1z3M",
+   "value": "INR 10-50 Cr",
+   "value_type": "press-quoted-filing"
+  }
+ ],
+ "founders": [
+  {
+   "name": "Rehan Hameed",
+   "role": "Co-Founder & CTO",
+   "source_url": "https://www.crunchbase.com/organization/deep-vision-c7a3",
+   "type": "co-founder"
+  },
+  {
+   "name": "Wajahat Qadeer",
+   "role": "Co-Founder & Chief Architect",
+   "source_url": "https://www.crunchbase.com/organization/deep-vision-c7a3",
+   "type": "co-founder"
+  }
+ ],
+ "funding_rounds": [
+  {
+   "amount": 35000000,
+   "currency": "USD",
+   "date": "2021-09-14",
+   "leads": "Tiger Global Management",
+   "source_url": "https://platform.tracxn.com/a/d/company/62b3091ceac61421544873d1/kinara ai",
+   "type": "Series B"
+  },
+  {
+   "round_type": "Acquisition (NXP Semiconductors; enrich $35M round type/date still unverified)",
+   "amount": "",
+   "currency": "USD",
+   "round_date": "",
+   "valuation": "~307000000",
+   "valuation_currency": "USD",
+   "valuation_type": "acquisition_price_reported",
+   "lead_investors": [],
+   "all_investors": [],
+   "new_or_existing": "",
+   "purpose": "",
+   "source_url": "https://stocksdownunder.com/acquisition-of-kinara-is-big-news/",
+   "confidence": "medium",
+   "notes": "added session-2 gapfill"
+  }
+ ],
+ "gaps": [
+  "India-subsidiary financials not verified from MCA; employee split US vs Hyderabad unverified; seed/Series A details unverified",
+  "round_type/announcement_date of enrich $35M round",
+  "FY25/26 filing financials"
+ ],
+ "investor_links": [
+  {
+   "investor": "Tiger Global Management",
+   "rounds": [
+    "Series B"
+   ]
+  },
+  {
+   "investor": "Silicon Motion Technology",
+   "rounds": []
+  }
+ ],
+ "research_log": [
+  {
+   "found": "acquisition $307M, founders, $54M raised, Hyderabad team ~100",
+   "query": "Kinara AI edge AI chips startup funding 2025 2026",
+   "unresolved": "MCA figures"
+  },
+  {
+   "found": "founders Rehan Hameed/Wajahat Qadeer, Stanford PhD roots, CEO Ravi Annavajjhala",
+   "query": "Kinara AI founders Rehan Hameed Wajahat Qadeer",
+   "unresolved": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "Kinara AI NXP acquisition funding",
+   "found": "$307M NXP acquisition widely reported; Tracxn page not in own results",
+   "unresolved": "$36M total-funding figure still unverified"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "Q-wave claim source-hunt",
+   "found": "0 resolved",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "found": "CIN U72900TG2018PTC125714, inc 17 Jul 2018 (Tofler, Tracxn, InstaFinancials, FalconeBiz agree)",
+   "query": "Kinara AI Private Limited CIN Tofler ZaubaCorp",
+   "unresolved": "none on CIN"
+  },
+  {
+   "date": "2026-09-14",
+   "found": "NXP buying Kinara for ~US$307m (StocksDownUnder Feb 2025); NXP confirmed completion 27 Oct 2025",
+   "query": "Kinara NXP acquisition deal value valuation",
+   "unresolved": "exact round-type/date of enrich $35M round"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "Kinara AI official website India semiconductor",
+   "found": "kinara.ai confirmed",
+   "unresolved": ""
+  },
+  {
+   "date": "2026-09-14",
+   "query": "Kinara AI careers page jobs",
+   "found": "kinara.ai/careers found but 301 redirect",
+   "unresolved": "Company acquired by NXP; careers may be inactive"
+  }
+ ],
+ "sources": [
+  {
+   "publication_date": "2025-02-11",
+   "publisher": "EE Times",
+   "tier": "T3",
+   "title": "NXP Acquires AI Chip Startup Kinara",
+   "url": "https://www.eetimes.com/nxp-acquires-ai-chip-startup-kinara"
+  },
+  {
+   "publisher": "NXP",
+   "tier": "T1",
+   "title": "NXP Agrees to Acquire Edge AI Pioneer Kinara",
+   "url": "https://investors.nxp.com/news-releases/news-release-details/nxp-agrees-acquire-edge-ai-pioneer-kinara-redefine-intelligent"
+  },
+  {
+   "publisher": "Crunchbase",
+   "tier": "T2",
+   "title": "Kinara - Crunchbase Company Profile & Funding",
+   "url": "https://www.crunchbase.com/organization/deep-vision-c7a3"
+  },
+  {
+   "url": "https://stocksdownunder.com/acquisition-of-kinara-is-big-news/",
+   "title": "",
+   "fields": "FUNDING",
+   "confidence": "medium"
+  },
+  {
+   "url": "https://www.tofler.in",
+   "title": "Kinara Ai Financials | Company Details",
+   "fields": [
+    "cin",
+    "incorporation_date"
+   ],
+   "confidence": "high"
+  }
+ ],
+ "startup_id": "kinara ai",
+ "_merged_session2": true
+}

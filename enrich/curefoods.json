@@ -1,0 +1,1267 @@
+{
+ "company": {
+  "business_model": "Multi-brand cloud kitchens + QSR dine-in/kiosks; brand incubation",
+  "city": "Bengaluru",
+  "company_name": "Curefoods",
+  "country": "India",
+  "founded_date": "2020",
+  "legal_name": "Curefoods India Limited",
+  "primary_sector": "foodtech cloud kitchen",
+  "public_private": "private",
+  "secondary_sectors": [
+   "QSR"
+  ],
+  "startup_stage": "late (Series D + DRHP filed; IPO deferred)",
+  "state": "Karnataka",
+  "status": "active",
+  "website": "https://curefoods.in",
+  "official_website": {
+   "v": "https://www.curefoods.in",
+   "conf": "high",
+   "src": "https://www.curefoods.in",
+   "note": "verified live 2026-09-15: name match on own homepage"
+  },
+  "careers_website": {
+   "v": "https://www.curefoods.in/pages/careers",
+   "conf": "high",
+   "src": "https://www.curefoods.in",
+   "note": "careers link found on official homepage, probed live"
+  },
+  "cin": {
+   "v": "U55209KA2020PLC139614",
+   "conf": "HIGH",
+   "src": "https://www.zaubacorp.com/CUREFOODS-INDIA-PRIVATE-LIMITED-U55209KA2020PTC139614",
+   "note": "MCA CIN; originally U55209KA2020PTC139614 (private), converted to PLC Jun 2025"
+  },
+  "incorporation_date": {
+   "v": "2020-10-10",
+   "conf": "HIGH",
+   "src": "https://www.zaubacorp.com/CUREFOODS-INDIA-PRIVATE-LIMITED-U55209KA2020PTC139614",
+   "note": "Certificate of incorporation dated Oct 10, 2020 from RoC Central Registration Centre"
+  },
+  "description": {
+   "v": "Bengaluru-headquartered house of food brands founded in 2020 by Ankit Nagori. Builds and scales F&B brands (healthy meals, biryani, pizza, desserts, celebration cakes) from shared cloud kitchen and dine-in network across India.",
+   "conf": "HIGH",
+   "src": "https://www.curefoods.in/",
+   "note": "From company FAQ"
+  },
+  "employee_estimate": {
+   "v": 3254,
+   "conf": "MEDIUM",
+   "src": "https://platform.tracxn.com/a/d/company/5d6402ebf256b90d035a5c02/curefoods",
+   "note": "Tracxn official employee count; LinkedIn shows 501-1000 (likely different definition)"
+  },
+  "hq_type": {
+   "v": "corporate_office",
+   "conf": "HIGH",
+   "src": "https://www.curefoods.in/documents/drhp.pdf",
+   "note": "Corporate office at Sparkplug Coworks, Koramangala; registered office at Madiwala"
+  },
+  "registered_office": {
+   "v": "No. 72/4, Roopena Agrahara, Hosur Road, Madiwala Post, Bengaluru 560 068, Karnataka, India",
+   "conf": "HIGH",
+   "src": "https://www.curefoods.in/documents/drhp.pdf",
+   "note": "From DRHP; RoC Bangalore"
+  },
+  "official_website_asof": {
+   "v": "2026-09-15",
+   "conf": "HIGH",
+   "src": "https://www.curefoods.in/",
+   "note": "Verified"
+  }
+ },
+ "completeness_self": {
+  "financials": 8,
+  "founders": 8,
+  "funding": 9,
+  "identity": 9,
+  "investors": 8,
+  "legal": 6,
+  "people": 5,
+  "products": 8,
+  "sources": 8,
+  "traction": 7
+ },
+ "conflicts": [
+  {
+   "claim_a": "FY25 operating revenue Rs 746 Cr, loss Rs 170 Cr (ET via ISN/BW, Jun 2026)",
+   "claim_b": "FY25 revenue Rs 7.45bn, loss Rs 1.7bn (Verdict/Yahoo, Jun 2026) — consistent",
+   "field": "fy25_financials",
+   "resolution": "Figures agree (Rs 745-746 Cr revenue; Rs 170 Cr loss). Tracxn $91.7M (~Rs 760 Cr) broadly consistent.",
+   "resolved_value": "Revenue ~Rs 745 Cr; loss ~Rs 170 Cr (FY25)",
+   "url_a": "https://indianstartupnews.com/news/curefoods-puts-ipo-plans-on-hold-as-market-volatility-hits-startup-listings-12013624",
+   "url_b": "https://finance.yahoo.com/markets/stocks/articles/curefoods-postpones-ipo-plan-amid-111507906.html"
+  },
+  {
+   "claim_a": "281 cloud kitchens + 99 kiosks (company site, current)",
+   "claim_b": "502 service locations across 70+ cities at DRHP filing (ISN, Jun 2026)",
+   "field": "scale",
+   "resolution": "Different dates/definitions (current site vs Jun-2025 DRHP filing); both preserved with as-of",
+   "resolved_value": "502 locations (Jun 2025 DRHP); 281 kitchens + 99 kiosks (site, current)",
+   "url_a": "https://www.curefoods.in/",
+   "url_b": "https://indianstartupnews.com/news/curefoods-puts-ipo-plans-on-hold-as-market-volatility-hits-startup-listings-12013624"
+  },
+  {
+   "field": "business_model",
+   "claim_a": "Multi-brand cloud kitchens + QSR dine-in/kiosks; brand incubation",
+   "url_a": "",
+   "claim_b": "Multi-brand cloud kitchen + QSR dine-in/kiosks; brand incubation via acquisition",
+   "url_b": "",
+   "resolution": "phase3 p3 payload disagrees with existing value; existing kept as preferred pending human review",
+   "resolved_value": "",
+   "reviewed": "p3-merge"
+  }
+ ],
+ "customers": [],
+ "events": [
+  {
+   "announced_date": "2025-06",
+   "confidence": "HIGH",
+   "date": "2025-06",
+   "description": "DRHP: Rs 800 Cr fresh issue + 4.08 Cr shares OFS (Accel, Chiratae, Iron Pillar, Alteria, Curefit HC); founder Nagori not selling.",
+   "headline": "DRHP filed with SEBI",
+   "source_url": "https://www.cnbctv18.com/market/curefoods-delays-ipo-plans-amid-west-asia-uncertainty-explores-private-fundraise-sources-ws-el-19921468.htm",
+   "type": "ipo_filing"
+  },
+  {
+   "announced_date": "2025-09-26",
+   "confidence": "HIGH",
+   "date": "2025-09-26",
+   "description": "1.28 Cr shares at Rs 124/share from 3State Ventures; values co ~Rs 4,000 Cr (~$450M); adjustable against IPO fresh issue.",
+   "headline": "Rs 160 Cr pre-IPO placement from 3State Ventures",
+   "source_url": "https://m.economictimes.com/tech/funding/binny-bansals-3state-ventures-invests-rs-160-crore-in-curefoods-pre-ipo-round/articleshow/124146159.cms",
+   "type": "funding"
+  },
+  {
+   "announced_date": "2026-06-08",
+   "confidence": "HIGH",
+   "date": "2026-06-08",
+   "description": "SEBI-approved IPO put on hold after roadshows (MFs balked at Rs 4,000 Cr valuation); exploring pre-IPO raise; filed Jun 2025, approved ~Oct 2025.",
+   "headline": "IPO deferred; pre-IPO raise explored",
+   "source_url": "https://www.cnbctv18.com/market/curefoods-delays-ipo-plans-amid-west-asia-uncertainty-explores-private-fundraise-sources-ws-el-19921468.htm",
+   "type": "ipo_delay"
+  },
+  {
+   "announced_date": "2024-12-18",
+   "confidence": "HIGH",
+   "date": "2024-12-18",
+   "description": "$40M mix of primary+secondary; Iron Pillar, Chiratae, Three State re-upped; Shinhan Group + Landmark Group new; offline expansion + UAE launch.",
+   "headline": "$40M Series D",
+   "source_url": "https://www.cnbctv18.com/travel/food-and-drinks/curefoods-raises-40-m-in-series-d-funding-19526155.htm",
+   "type": "funding"
+  },
+  {
+   "type": "funding",
+   "headline": "Series A: $13M led by Iron Pillar",
+   "date": "2021-08-25",
+   "description": "Series A to acquire digital food brands; total raised $20M between Seed and Series A",
+   "source_url": "https://www.thehindubusinessline.com/companies/eatfit-parent-curefoods-raises-13-million-series-a-funding/article36087844.ece",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "acquisition",
+   "headline": "Acquired 7 food brands",
+   "date": "2021-10-22",
+   "description": "CakeZone, MasalaBox, Paratha Box, Olio, Crusto, Chaat Street, Ammi's Biryani acquired; exclusive rights for YumLane, Sharief Bhai, Aligarh House",
+   "source_url": "https://www.thehindubusinessline.com/companies/eatfits-parent-curefoods-acquires-7-food-brands/article37128971.ece",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "funding",
+   "headline": "Series B: $62M",
+   "date": "2022-01-12",
+   "description": "$52M equity + $10M debt from Iron Pillar, Chiratae, Sixteenth Street, Accel, Binny Bansal",
+   "source_url": "https://www.cnbctv18.com/startup/curefoods-raises-62-million-to-expand-its-house-of-food-brands-12102192.htm",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "acquisition",
+   "headline": "Acquired 5 more D2C brands",
+   "date": "2022-01-04",
+   "description": "Juno's Pizza, Cupcake Noggins, Iceberg, Nomad Pizzas, White Kitchens; portfolio reached 20+ brands",
+   "source_url": "https://retail.economictimes.indiatimes.com/news/food-entertainment/food-services/curefoods-acquires-5-direct-to-consumer-brands-for-undisclosed-amount/88689988",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "funding",
+   "headline": "Series C: $50M",
+   "date": "2022-06-01",
+   "description": "Led by Winter Capital (Crimson Winter Ltd); existing investors Iron Pillar, Accel, Chiratae participated",
+   "source_url": "https://www.thehindubusinessline.com/companies/curefoods-raises-50mn-series-c-round/article65487249.ece",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "acquisition",
+   "headline": "Majority stake in Frozen Bottle",
+   "date": "2022-03-10",
+   "description": "Acquired majority stake in milkshake brand Frozen Bottle",
+   "source_url": "https://www.vccircle.com/curefoods-picks-up-majority-stake-in-milkshake-brand-frozen-bottle",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "funding",
+   "headline": "₹300 Cr round led by Three State Ventures",
+   "date": "2023-04-06",
+   "description": "₹240Cr from Three State Ventures; IronPillar, Chiratae, ASK Finance, Winter Capital participated",
+   "source_url": "https://www.thehindu.com/business/cloud-kitchen-curefoods-raises-300-crore-from-binny-bansal-others/article66707612.ece",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "funding",
+   "headline": "Series D: $40M",
+   "date": "2024-12-18",
+   "description": "Iron Pillar, Chiratae, Three State re-upped; Shinhan Group + Landmark Group new; offline expansion + UAE launch",
+   "source_url": "https://www.cnbctv18.com/travel/food-and-drinks/curefoods-raises-40-m-in-series-d-funding-19526155.htm",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "acquisition",
+   "headline": "Acquired Krispy Kreme India operations",
+   "date": "2024-12-31",
+   "description": "Pan-India rights from Landmark Group; multi-year franchising agreement; 350+ locations target in 5 years",
+   "source_url": "https://www.ndtvprofit.com/business/curefoods-buys-south-west-operations-of-krispy-kreme-from-landmark-group-9934254",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "funding",
+   "headline": "Pre-IPO placement: ₹160 Cr from 3State Ventures",
+   "date": "2025-09-26",
+   "description": "1.28 Cr shares at Rs 124/share; valuation ~Rs 4,000 Cr (~$450M)",
+   "source_url": "https://m.economictimes.com/tech/funding/binny-bansals-3state-ventures-invests-rs-160-crore-in-curefoods-pre-ipo-round/articleshow/124146159.cms",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "partnership",
+   "headline": "Ksheer Sagar partnership",
+   "date": "2025-08-28",
+   "description": "Exclusive partnership with 50-year-old heritage mithai brand from Varanasi; rollout in Delhi NCR and Lucknow",
+   "source_url": "https://www.restaurantindia.in/news/restaurant-india-news-curefoods-expands-portfolio-with-50-year-old-mithai-brand-ksheer-sagar",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "ipo_filing",
+   "headline": "DRHP filed with SEBI",
+   "date": "2025-06-28",
+   "description": "Rs 800 Cr fresh issue + 4.08 Cr OFS; JM Financial, IIFL, Nuvama as bankers",
+   "source_url": "https://www.cnbctv18.com/market/curefoods-delays-ipo-plans-amid-west-asia-uncertainty-explores-private-fundraise-sources-ws-el-19921468.htm",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "ipo_delay",
+   "headline": "IPO deferred",
+   "date": "2026-06-08",
+   "description": "SEBI-approved IPO put on hold; MFs balked at Rs 4,000 Cr valuation; exploring pre-IPO raise",
+   "source_url": "https://www.cnbctv18.com/market/curefoods-delays-ipo-plans-amid-west-asia-uncertainty-explores-private-fundraise-sources-ws-el-19921468.htm",
+   "confidence": "HIGH"
+  }
+ ],
+ "financials": [
+  {
+   "confidence": "HIGH",
+   "currency": "INR",
+   "fiscal_year": "FY25",
+   "metric": "operating_revenue",
+   "source_title": "Curefoods puts IPO plans on hold (ISN, citing ET)",
+   "source_url": "https://indianstartupnews.com/news/curefoods-puts-ipo-plans-on-hold-as-market-volatility-hits-startup-listings-12013624",
+   "unit": "crore",
+   "value": 746,
+   "value_type": "press-quoted-filing"
+  },
+  {
+   "confidence": "HIGH",
+   "currency": "INR",
+   "fiscal_year": "FY25",
+   "metric": "net_loss",
+   "source_title": "Curefoods puts IPO plans on hold (ISN, citing ET)",
+   "source_url": "https://indianstartupnews.com/news/curefoods-puts-ipo-plans-on-hold-as-market-volatility-hits-startup-listings-12013624",
+   "unit": "crore",
+   "value": 170,
+   "value_type": "press-quoted-filing"
+  },
+  {
+   "fiscal_year": "FY23",
+   "metric": "total_revenue",
+   "value": 411.5,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "press-quoted-filing",
+   "basis": "standalone",
+   "source_url": "https://www.livemint.com/companies/news/curefoods-revenue-expansion-plans-ankit-nagori-founder-food-inflation-eatfit-frozen-bottle-nomad-pizza-11733975531612.html",
+   "source_title": "Curefoods expects ₹900 crore in revenue, Ebitda breakeven this year",
+   "source_date": "2024-12-12",
+   "confidence": "HIGH"
+  },
+  {
+   "fiscal_year": "FY23",
+   "metric": "net_loss",
+   "value": 342.7,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "press-quoted-filing",
+   "basis": "standalone",
+   "source_url": "https://www.livemint.com/companies/news/curefoods-revenue-expansion-plans-ankit-nagori-founder-food-inflation-eatfit-frozen-bottle-nomad-pizza-11733975531612.html",
+   "source_title": "Curefoods expects ₹900 crore in revenue, Ebitda breakeven this year",
+   "source_date": "2024-12-12",
+   "confidence": "HIGH"
+  },
+  {
+   "fiscal_year": "FY24",
+   "metric": "operating_revenue",
+   "value": 585.1,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "press-quoted-filing",
+   "basis": "standalone",
+   "source_url": "https://www.thehindubusinessline.com/companies/curefoods-revenue-up-50-in-fy24-losses-halve/article69019153.ece",
+   "source_title": "Curefoods' revenue up 50% in FY24, losses halve",
+   "source_date": "2024-12-23",
+   "confidence": "HIGH"
+  },
+  {
+   "fiscal_year": "FY24",
+   "metric": "total_income",
+   "value": 635.09,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "press-quoted-filing",
+   "basis": "standalone",
+   "source_url": "https://www.livemint.com/companies/news/curefoods-revenue-expansion-plans-ankit-nagori-founder-food-inflation-eatfit-frozen-bottle-nomad-pizza-11733975531612.html",
+   "source_title": "Curefoods expects ₹900 crore in revenue, Ebitda breakeven this year",
+   "source_date": "2024-12-12",
+   "confidence": "HIGH"
+  },
+  {
+   "fiscal_year": "FY24",
+   "metric": "net_loss",
+   "value": 172.6,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "press-quoted-filing",
+   "basis": "standalone",
+   "source_url": "https://www.thehindubusinessline.com/companies/curefoods-revenue-up-50-in-fy24-losses-halve/article69019153.ece",
+   "source_title": "Curefoods' revenue up 50% in FY24, losses halve",
+   "source_date": "2024-12-23",
+   "confidence": "HIGH"
+  },
+  {
+   "fiscal_year": "FY25",
+   "metric": "operating_revenue",
+   "value": 745.8,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "DRHP",
+   "basis": "standalone",
+   "source_url": "https://inc42.com/buzz/ipo-bound-curefoods-fy25-loss-almost-flat-at-inr-170-cr",
+   "source_title": "IPO-Bound Curefoods' FY25 Loss Almost Flat At INR 170 Cr",
+   "source_date": "2025-07-01",
+   "confidence": "HIGH"
+  },
+  {
+   "fiscal_year": "FY25",
+   "metric": "net_loss",
+   "value": 169.9,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "DRHP",
+   "basis": "standalone",
+   "source_url": "https://inc42.com/buzz/ipo-bound-curefoods-fy25-loss-almost-flat-at-inr-170-cr",
+   "source_title": "IPO-Bound Curefoods' FY25 Loss Almost Flat At INR 170 Cr",
+   "source_date": "2025-07-01",
+   "confidence": "HIGH"
+  },
+  {
+   "fiscal_year": "FY25",
+   "metric": "total_revenue",
+   "value": 775.49,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "press-quoted-filing",
+   "basis": "standalone",
+   "source_url": "https://ipowatch.in/curefoods-ipo",
+   "source_title": "Curefoods IPO - IPO Watch",
+   "source_date": "2026-08-11",
+   "confidence": "MEDIUM"
+  }
+ ],
+ "founders": [
+  {
+   "background": "ex-Flipkart CBO; co-founder Cure.fit; IIT Guwahati",
+   "confidence": "HIGH",
+   "name": "Ankit Nagori",
+   "role": "Founder, Chairman, MD & CEO",
+   "source_url": "https://www.curefoods.in/",
+   "still_active": true,
+   "type": "founder"
+  }
+ ],
+ "funding_rounds": [
+  {
+   "all_investors": [
+    "Iron Pillar",
+    "Chiratae Ventures",
+    "Three State Ventures",
+    "Shinhan Group",
+    "Landmark Group"
+   ],
+   "amount": 40,
+   "announced_date": "2024-12-18",
+   "confidence": "HIGH",
+   "currency": "USD",
+   "lead_investors": [
+    "Iron Pillar",
+    "Chiratae Ventures",
+    "Three State Ventures"
+   ],
+   "notes": "Mix of primary + secondary.",
+   "round_date": "2024-12",
+   "round_type": "Series D",
+   "source_date": "2024-12-18",
+   "source_title": "Curefoods raises $40 million in Series D funding - CNBC TV18",
+   "source_url": "https://www.cnbctv18.com/travel/food-and-drinks/curefoods-raises-40-m-in-series-d-funding-19526155.htm",
+   "tier": "T3"
+  },
+  {
+   "all_investors": [
+    "3State Ventures"
+   ],
+   "amount": 160,
+   "announced_date": "2025-09-26",
+   "confidence": "HIGH",
+   "currency": "INR",
+   "lead_investors": [
+    "3State Ventures"
+   ],
+   "notes": "Pre-IPO placement at Rs 124/share; ~Rs 4,000 Cr valuation.",
+   "round_date": "2025-09-26",
+   "round_type": "Pre-IPO",
+   "source_date": "2025-09-26",
+   "source_title": "Curefoods raises Rs 160 cr in pre-IPO placement from Binny Bansal's 3State Ventures",
+   "source_url": "https://m.economictimes.com/tech/funding/binny-bansals-3state-ventures-invests-rs-160-crore-in-curefoods-pre-ipo-round/articleshow/124146159.cms",
+   "tier": "T3",
+   "valuation": 4000,
+   "valuation_type": "post-money (press-quoted)"
+  },
+  {
+   "round_type": "Seed",
+   "announced_date": "2020",
+   "round_date": "2020",
+   "amount": null,
+   "currency": "USD",
+   "confidence": "LOW",
+   "source_url": "https://www.thehindubusinessline.com/companies/eatfit-parent-curefoods-raises-13-million-series-a-funding/article36087844.ece",
+   "source_title": "EatFit parent Curefoods raises $13 million series A funding",
+   "source_date": "2021-08-25"
+  },
+  {
+   "round_type": "Series A",
+   "announced_date": "2021-08-25",
+   "round_date": "2021-08-25",
+   "amount": 13,
+   "currency": "USD",
+   "valuation": null,
+   "lead_investors": [
+    "Iron Pillar"
+   ],
+   "all_investors": [
+    "Iron Pillar",
+    "Nordstar",
+    "Binny Bansal",
+    "Adil Allana",
+    "Rashmi Kwatra",
+    "Lydia Jett",
+    "Kunal Shah"
+   ],
+   "purpose": "Acquire more digital food brands across geographies; expand across multiple cities",
+   "source_url": "https://www.thehindubusinessline.com/companies/eatfit-parent-curefoods-raises-13-million-series-a-funding/article36087844.ece",
+   "source_title": "EatFit parent Curefoods raises $13 million series A funding",
+   "source_date": "2021-08-25",
+   "confidence": "HIGH"
+  },
+  {
+   "round_type": "Series B",
+   "announced_date": "2022-01-12",
+   "round_date": "2022-01-12",
+   "amount": 62,
+   "currency": "USD",
+   "valuation": 280,
+   "valuation_type": "press-quoted (industry source)",
+   "lead_investors": [
+    "Iron Pillar",
+    "Chiratae Ventures",
+    "Sixteenth Street Capital",
+    "Accel Partners",
+    "Binny Bansal"
+   ],
+   "all_investors": [
+    "Iron Pillar",
+    "Chiratae Ventures",
+    "Sixteenth Street Capital",
+    "Accel Partners",
+    "Binny Bansal",
+    "Alteria Capital",
+    "BlackSoil Capital",
+    "Trifecta Capital"
+   ],
+   "purpose": "Continue acquiring cloud kitchen brands; build D2C platform",
+   "source_url": "https://www.cnbctv18.com/startup/curefoods-raises-62-million-to-expand-its-house-of-food-brands-12102192.htm",
+   "source_title": "Curefoods raises $62 million to expand its house of food brands",
+   "source_date": "2022-01-12",
+   "confidence": "HIGH"
+  },
+  {
+   "round_type": "Series C",
+   "announced_date": "2022-06-01",
+   "round_date": "2022-06-01",
+   "amount": 50,
+   "currency": "USD",
+   "valuation": null,
+   "lead_investors": [
+    "Winter Capital (Crimson Winter Ltd)"
+   ],
+   "all_investors": [
+    "Iron Pillar",
+    "Accel India",
+    "Chiratae Ventures",
+    "Sixteenth Street Capital",
+    "Alteria Capital",
+    "Rukam Capital",
+    "Potential Ventures X4",
+    "NB Ventures",
+    "Trifecta Capital"
+   ],
+   "purpose": "Expansion of existing brands into newer geographies; acquisition of newer brands",
+   "source_url": "https://www.thehindubusinessline.com/companies/curefoods-raises-50mn-series-c-round/article65487249.ece",
+   "source_title": "Curefoods raises $50mn Series C round",
+   "source_date": "2022-06-02",
+   "confidence": "HIGH"
+  },
+  {
+   "round_type": "Series C (continued)",
+   "announced_date": "2023-04-06",
+   "round_date": "2023-04-06",
+   "amount": 300,
+   "currency": "INR",
+   "valuation": null,
+   "lead_investors": [
+    "Three State Ventures (Binny Bansal)"
+   ],
+   "all_investors": [
+    "Three State Ventures",
+    "Iron Pillar",
+    "Chiratae Ventures",
+    "ASK Finance",
+    "Winter Capital"
+   ],
+   "purpose": "Expand geographical reach; diversify brands into offline formats; open 50 new locations",
+   "source_url": "https://www.thehindu.com/business/cloud-kitchen-curefoods-raises-300-crore-from-binny-bansal-others/article66707612.ece",
+   "source_title": "Cloud kitchen Curefoods raises ₹300 crore from Binny Bansal, others",
+   "source_date": "2023-04-06",
+   "confidence": "HIGH"
+  },
+  {
+   "round_type": "Series D",
+   "announced_date": "2024-12-18",
+   "round_date": "2024-12-18",
+   "amount": 40,
+   "currency": "USD",
+   "valuation": 375,
+   "valuation_type": "press-quoted (Tracxn)",
+   "lead_investors": [
+    "Iron Pillar",
+    "Chiratae Ventures",
+    "Three State Ventures"
+   ],
+   "all_investors": [
+    "Iron Pillar",
+    "Chiratae Ventures",
+    "Three State Ventures",
+    "Shinhan Group",
+    "Landmark Group",
+    "Esya Capital Advisors"
+   ],
+   "purpose": "Offline expansion + UAE launch",
+   "source_url": "https://www.cnbctv18.com/travel/food-and-drinks/curefoods-raises-40-m-in-series-d-funding-19526155.htm",
+   "source_title": "Curefoods raises $40 million in Series D funding",
+   "source_date": "2024-12-18",
+   "confidence": "HIGH"
+  },
+  {
+   "round_type": "Conventional Debt",
+   "announced_date": "2025-03-24",
+   "round_date": "2025-03-24",
+   "amount": 6.6,
+   "currency": "USD",
+   "valuation": null,
+   "lead_investors": [
+    "BlackSoil",
+    "Caspian",
+    "Binny Bansal"
+   ],
+   "all_investors": [
+    "BlackSoil",
+    "Caspian",
+    "Binny Bansal"
+   ],
+   "purpose": "Working capital",
+   "source_url": "https://platform.tracxn.com/a/d/company/5d6402ebf256b90d035a5c02/curefoods",
+   "source_title": "Curefoods - Tracxn funding rounds",
+   "source_date": "2025-03-24",
+   "confidence": "MEDIUM"
+  },
+  {
+   "round_type": "Angel",
+   "announced_date": "2025-02-03",
+   "round_date": "2025-02-03",
+   "amount": null,
+   "currency": "USD",
+   "valuation": null,
+   "lead_investors": [
+    "Hrithik Roshan"
+   ],
+   "all_investors": [
+    "Hrithik Roshan"
+   ],
+   "purpose": "Investor-ambassador for Kitchens of EatFit",
+   "source_url": "https://curefoods.in/news",
+   "source_title": "Curefoods Newsroom",
+   "source_date": "2025-02-03",
+   "confidence": "MEDIUM"
+  }
+ ],
+ "gaps": [
+  "CIN not surfaced in this run — needs gapfill",
+  "FY24 audited split (Rs 585 Cr rev / Rs 172 Cr loss per Verdict) single-sourced",
+  "Current (post-Jun-2026) pre-IPO raise status unknown"
+ ],
+ "investor_links": [
+  {
+   "confidence": "HIGH",
+   "first_seen": "2023",
+   "investor": "3State Ventures (Binny Bansal)",
+   "investor_type": "family office/VC",
+   "lead": true,
+   "rounds": [
+    "Series C",
+    "Series D",
+    "Pre-IPO"
+   ],
+   "source_url": "https://m.economictimes.com/tech/funding/binny-bansals-3state-ventures-invests-rs-160-crore-in-curefoods-pre-ipo-round/articleshow/124146159.cms"
+  },
+  {
+   "confidence": "HIGH",
+   "first_seen": "2022",
+   "investor": "Iron Pillar",
+   "investor_type": "VC",
+   "lead": false,
+   "rounds": [
+    "Series C",
+    "Series D"
+   ],
+   "source_url": "https://www.cnbctv18.com/travel/food-and-drinks/curefoods-raises-40-m-in-series-d-funding-19526155.htm"
+  },
+  {
+   "confidence": "HIGH",
+   "first_seen": "2022",
+   "investor": "Chiratae Ventures",
+   "investor_type": "VC",
+   "lead": false,
+   "rounds": [
+    "Series C",
+    "Series D"
+   ],
+   "source_url": "https://www.cnbctv18.com/travel/food-and-drinks/curefoods-raises-40-m-in-series-d-funding-19526155.htm"
+  },
+  {
+   "confidence": "MEDIUM",
+   "first_seen": "2022",
+   "investor": "Accel",
+   "investor_type": "VC",
+   "lead": false,
+   "rounds": [
+    "Series C"
+   ],
+   "source_url": "https://indianstartupnews.com/news/curefoods-puts-ipo-plans-on-hold-as-market-volatility-hits-startup-listings-12013624"
+  },
+  {
+   "confidence": "MEDIUM",
+   "first_seen": "2024-12",
+   "investor": "Shinhan Group",
+   "investor_type": "corporate",
+   "lead": false,
+   "rounds": [
+    "Series D"
+   ],
+   "source_url": "https://www.cnbctv18.com/travel/food-and-drinks/curefoods-raises-40-m-in-series-d-funding-19526155.htm"
+  },
+  {
+   "investor": "Sixteenth Street Capital",
+   "investor_type": "VC",
+   "first_seen": "2022",
+   "rounds": [
+    "Series B",
+    "Series C"
+   ],
+   "lead": false,
+   "source_url": "https://www.cnbctv18.com/startup/curefoods-raises-62-million-to-expand-its-house-of-food-brands-12102192.htm",
+   "confidence": "HIGH"
+  },
+  {
+   "investor": "Landmark Group",
+   "investor_type": "corporate",
+   "first_seen": "2024-12",
+   "rounds": [
+    "Series D"
+   ],
+   "lead": false,
+   "source_url": "https://www.cnbctv18.com/travel/food-and-drinks/curefoods-raises-40-m-in-series-d-funding-19526155.htm",
+   "confidence": "MEDIUM"
+  },
+  {
+   "investor": "Alteria Capital",
+   "investor_type": "venture debt",
+   "first_seen": "2021",
+   "rounds": [
+    "Series B (debt)",
+    "Series C (debt)"
+   ],
+   "lead": false,
+   "source_url": "https://www.cnbctv18.com/startup/curefoods-raises-62-million-to-expand-its-house-of-food-brands-12102192.htm",
+   "confidence": "HIGH"
+  },
+  {
+   "investor": "Hrithik Roshan",
+   "investor_type": "angel",
+   "first_seen": "2025-02",
+   "rounds": [
+    "Angel"
+   ],
+   "lead": false,
+   "source_url": "https://curefoods.in/news",
+   "confidence": "MEDIUM"
+  }
+ ],
+ "investors_meta": [],
+ "legal": [
+  {
+   "confidence": "MEDIUM",
+   "dates": "DRHP Jun 2025; SEBI approval ~Oct 2025",
+   "regulator": "SEBI",
+   "source_url": "https://www.cnbctv18.com/market/curefoods-delays-ipo-plans-amid-west-asia-uncertainty-explores-private-fundraise-sources-ws-el-19921468.htm",
+   "status": "approved-then-deferred",
+   "summary": "DRHP (Rs 800 Cr fresh + 4.08 Cr OFS) approved; listing deferred Jun 2026 on market volatility",
+   "type": "notice"
+  },
+  {
+   "type": "regulatory",
+   "entity": "SEBI",
+   "date": "2025-06-28",
+   "status": "approved-then-deferred",
+   "description": "DRHP filed Jun 28, 2025 for Rs 800Cr fresh issue + 4.08Cr OFS; SEBI approval ~Oct 2025; IPO deferred Jun 2026 amid market volatility and West Asia uncertainty",
+   "source_url": "https://www.cnbctv18.com/market/curefoods-delays-ipo-plans-amid-west-asia-uncertainty-explores-private-fundraise-sources-ws-el-19921468.htm",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "regulatory",
+   "entity": "SEBI",
+   "date": "2026-06-08",
+   "status": "deferred",
+   "description": "IPO put on hold after roadshows; MFs balked at Rs 4,000 Cr valuation; exploring pre-IPO raise",
+   "source_url": "https://www.cnbctv18.com/market/curefoods-delays-ipo-plans-amid-west-asia-uncertainty-explores-private-fundraise-sources-ws-el-19921468.htm",
+   "confidence": "HIGH"
+  }
+ ],
+ "locations": [
+  {
+   "type": "registered_office",
+   "address_or_area": "No. 72/4, Roopena Agrahara, Hosur Road, Madiwala Post",
+   "city": "Bengaluru",
+   "state": "Karnataka",
+   "country": "India",
+   "as_of": "2020-10-10",
+   "source_url": "https://www.curefoods.in/documents/drhp.pdf",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "hq",
+   "address_or_area": "Sparkplug Coworks, 42, 2nd Floor, 100 Feet Road, Koramangala 4th Block",
+   "city": "Bengaluru",
+   "state": "Karnataka",
+   "country": "India",
+   "as_of": "2026-09-15",
+   "source_url": "https://www.curefoods.in/documents/drhp.pdf",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "ops",
+   "address_or_area": "502 service locations across 70+ cities",
+   "city": "Pan-India",
+   "state": "Karnataka",
+   "country": "India",
+   "as_of": "2025-03",
+   "source_url": "https://www.cnbctv18.com/market/curefoods-delays-ipo-plans-amid-west-asia-uncertainty-explores-private-fundraise-sources-ws-el-19921468.htm",
+   "confidence": "HIGH"
+  }
+ ],
+ "partnerships": [
+  {
+   "confidence": "MEDIUM",
+   "description": "Pan-India rights for doughnut/coffee brand",
+   "name": "Krispy Kreme India operations",
+   "source_url": "https://m.economictimes.com/tech/funding/binny-bansals-3state-ventures-invests-rs-160-crore-in-curefoods-pre-ipo-round/articleshow/124146159.cms"
+  }
+ ],
+ "people": [
+  {
+   "confidence": "HIGH",
+   "name": "Gokul Kandhi Umayorubhagan",
+   "position": "Whole-time Director & COO",
+   "source_url": "https://curefoods.in/investors/board"
+  },
+  {
+   "confidence": "MEDIUM",
+   "name": "Avani Vishal Davda",
+   "position": "Independent Director",
+   "source_url": "https://curefoods.in/investors/board"
+  },
+  {
+   "name": "Ankit Nagori",
+   "role": "Founder, Chairman, MD & CEO",
+   "education": "IIT Guwahati",
+   "still_active": true,
+   "source_url": "https://www.curefoods.in/",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Hrithik Roshan",
+   "role": "Investor-Ambassador for Kitchens of EatFit",
+   "still_active": true,
+   "source_url": "https://curefoods.in/news",
+   "confidence": "MEDIUM"
+  }
+ ],
+ "products": [
+  {
+   "category": "food brands",
+   "description": "Health-food brand",
+   "name": "EatFit",
+   "source_url": "https://www.curefoods.in/",
+   "status": "live"
+  },
+  {
+   "category": "food brands",
+   "description": "Pizza brand",
+   "name": "Nomad Pizza",
+   "source_url": "https://www.curefoods.in/",
+   "status": "live"
+  },
+  {
+   "category": "food brands",
+   "description": "Biryani brand",
+   "name": "Sharief Bhai Biryani",
+   "source_url": "https://www.curefoods.in/",
+   "status": "live"
+  },
+  {
+   "category": "food brands",
+   "description": "Desserts/cakes/beverages brands",
+   "name": "CakeZone / Frozen Bottle / Krispy Kreme (IN)",
+   "source_url": "https://www.curefoods.in/",
+   "status": "live"
+  },
+  {
+   "name": "Eatfit (Kitchens of EatFit)",
+   "category": "healthy meals",
+   "description": "Health-food brand; rebranded as Kitchens of EatFit with Hrithik Roshan as investor-ambassador",
+   "status": "live",
+   "source_url": "https://www.curefoods.in/",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Olio Pizza",
+   "category": "pizza",
+   "description": "Gourmet pizza; 26 cities; crossed ₹100Cr ARR",
+   "status": "live",
+   "source_url": "https://www.curefoods.in/",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "CakeZone",
+   "category": "desserts/cakes",
+   "description": "Cakes and celebrations; 12 cities; crossed ₹100Cr ARR",
+   "status": "live",
+   "source_url": "https://www.curefoods.in/",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Frozen Bottle",
+   "category": "desserts/milkshakes",
+   "description": "100% veg, 100% eggless milkshakes and ice-cream; majority stake acquired Mar 2022",
+   "status": "live",
+   "source_url": "https://www.curefoods.in/",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Krispy Kreme (India)",
+   "category": "doughnuts/coffee",
+   "description": "Pan-India rights acquired Dec 2024 from Landmark Group; multi-year franchising agreement; 350+ locations target in 5 years",
+   "status": "live",
+   "source_url": "https://www.ndtvprofit.com/business/curefoods-buys-south-west-operations-of-krispy-kreme-from-landmark-group-9934254",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Arambam",
+   "category": "South Indian",
+   "description": "Flavours of South India - wholesome South Indian built on millets; 12 cities",
+   "status": "live",
+   "source_url": "https://www.curefoods.in/",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Ksheer Sagar",
+   "category": "mithai/sweets",
+   "description": "Exclusive partnership with 50-year-old heritage sweets brand from Varanasi; rollout in Delhi NCR and Lucknow (Aug 2025)",
+   "status": "partnership",
+   "source_url": "https://www.restaurantindia.in/news/restaurant-india-news-curefoods-expands-portfolio-with-50-year-old-mithai-brand-ksheer-sagar",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Great Indian Khichdi",
+   "category": "Indian meals",
+   "description": "Brand mentioned in CNBC TV18 article as part of portfolio",
+   "status": "live",
+   "source_url": "https://www.cnbctv18.com/market/curefoods-delays-ipo-plans-amid-west-asia-uncertainty-explores-private-fundraise-sources-ws-el-19921468.htm",
+   "confidence": "MEDIUM"
+  },
+  {
+   "name": "Millet Express",
+   "category": "health",
+   "description": "Brand mentioned in CNBC TV18 article as part of portfolio",
+   "status": "live",
+   "source_url": "https://www.cnbctv18.com/market/curefoods-delays-ipo-plans-amid-west-asia-uncertainty-explores-private-fundraise-sources-ws-el-19921468.htm",
+   "confidence": "MEDIUM"
+  },
+  {
+   "name": "Chaat Street",
+   "category": "street food",
+   "description": "Acquired Oct 2021; online chaat brand",
+   "status": "acquired",
+   "source_url": "https://www.vccircle.com/iron-pillar-backed-curefoods-acquires-seven-food-brands",
+   "confidence": "HIGH"
+  }
+ ],
+ "research_log": [
+  {
+   "found": "ACTIVE (IPO deferred, not defunct); $40M Series D Dec 2024; Rs 160Cr pre-IPO Sep 2025; FY25 rev Rs 746Cr/loss Rs 170Cr; founder Ankit Nagori",
+   "next_action": "Write enrich JSON; flag CIN for gapfill",
+   "query": "Curefoods status/IPO/funding/founder/CIN/financials",
+   "unresolved": "CIN; current pre-IPO raise status"
+  }
+ ],
+ "sources": [
+  {
+   "fields_supported": [
+    "ipo",
+    "funding",
+    "valuation"
+   ],
+   "publication_date": "2026-06-08",
+   "publisher": "CNBC TV18",
+   "retrieved_date": "2026-09-15",
+   "tier": "T3",
+   "title": "Curefoods delays IPO plans amid West Asia uncertainty, explores private fundraise: Sources",
+   "url": "https://www.cnbctv18.com/market/curefoods-delays-ipo-plans-amid-west-asia-uncertainty-explores-private-fundraise-sources-ws-el-19921468.htm"
+  },
+  {
+   "fields_supported": [
+    "funding",
+    "valuation"
+   ],
+   "publication_date": "2025-09-26",
+   "publisher": "Economic Times",
+   "retrieved_date": "2026-09-15",
+   "tier": "T3",
+   "title": "Curefoods raises Rs 160 cr in pre-IPO placement from Binny Bansal's 3State Ventures",
+   "url": "https://m.economictimes.com/tech/funding/binny-bansals-3state-ventures-invests-rs-160-crore-in-curefoods-pre-ipo-round/articleshow/124146159.cms"
+  },
+  {
+   "fields_supported": [
+    "funding",
+    "investors"
+   ],
+   "publication_date": "2024-12-18",
+   "publisher": "CNBC TV18",
+   "retrieved_date": "2026-09-15",
+   "tier": "T3",
+   "title": "Curefoods raises $40 million in Series D funding",
+   "url": "https://www.cnbctv18.com/travel/food-and-drinks/curefoods-raises-40-m-in-series-d-funding-19526155.htm"
+  },
+  {
+   "fields_supported": [
+    "financials",
+    "ipo"
+   ],
+   "publication_date": "2026-06-08",
+   "publisher": "Indian Startup News (citing ET)",
+   "retrieved_date": "2026-09-15",
+   "tier": "T3",
+   "title": "Curefoods puts IPO plans on hold as market volatility hits startup listings",
+   "url": "https://indianstartupnews.com/news/curefoods-puts-ipo-plans-on-hold-as-market-volatility-hits-startup-listings-12013624"
+  },
+  {
+   "fields_supported": [
+    "identity",
+    "brands",
+    "scale"
+   ],
+   "publication_date": null,
+   "publisher": "Curefoods (company site, vault-fetched)",
+   "retrieved_date": "2026-09-15",
+   "tier": "T1",
+   "title": "Curefoods | Creating iconic food brands",
+   "url": "https://www.curefoods.in/"
+  },
+  {
+   "url": "https://www.curefoods.in/documents/drhp.pdf",
+   "title": "DRHP - Curefoods India Limited",
+   "publisher": "Curefoods India Limited / SEBI",
+   "publication_date": "2025-06-28",
+   "retrieved_date": "2026-09-15",
+   "tier": "T1",
+   "confidence": "HIGH",
+   "fields_supported": [
+    "legal_name",
+    "cin",
+    "incorporation_date",
+    "registered_office",
+    "corporate_office",
+    "financials",
+    "shareholding"
+   ]
+  },
+  {
+   "url": "https://inc42.com/buzz/ipo-bound-curefoods-fy25-loss-almost-flat-at-inr-170-cr",
+   "title": "IPO-Bound Curefoods' FY25 Loss Almost Flat At INR 170 Cr",
+   "publisher": "Inc42",
+   "publication_date": "2025-07-01",
+   "retrieved_date": "2026-09-15",
+   "tier": "T3",
+   "confidence": "HIGH",
+   "fields_supported": [
+    "financials"
+   ]
+  },
+  {
+   "url": "https://www.thehindubusinessline.com/companies/curefoods-revenue-up-50-in-fy24-losses-halve/article69019153.ece",
+   "title": "Curefoods' revenue up 50% in FY24, losses halve",
+   "publisher": "The Hindu BusinessLine",
+   "publication_date": "2024-12-23",
+   "retrieved_date": "2026-09-15",
+   "tier": "T3",
+   "confidence": "HIGH",
+   "fields_supported": [
+    "financials",
+    "traction"
+   ]
+  },
+  {
+   "url": "https://www.livemint.com/companies/news/curefoods-revenue-expansion-plans-ankit-nagori-founder-food-inflation-eatfit-frozen-bottle-nomad-pizza-11733975531612.html",
+   "title": "Curefoods expects ₹900 crore in revenue, Ebitda breakeven th",
+   "publisher": "LiveMint",
+   "publication_date": "2024-12-12",
+   "retrieved_date": "2026-09-15",
+   "tier": "T3",
+   "confidence": "HIGH",
+   "fields_supported": [
+    "financials",
+    "funding"
+   ]
+  },
+  {
+   "url": "https://www.zaubacorp.com/CUREFOODS-INDIA-PRIVATE-LIMITED-U55209KA2020PTC139614",
+   "title": "CUREFOODS INDIA PRIVATE LIMITED | ZaubaCorp",
+   "publisher": "ZaubaCorp (MCA data)",
+   "publication_date": null,
+   "retrieved_date": "2026-09-15",
+   "tier": "T2",
+   "confidence": "HIGH",
+   "fields_supported": [
+    "cin",
+    "incorporation_date",
+    "registered_office",
+    "directors"
+   ]
+  },
+  {
+   "url": "https://platform.tracxn.com/a/d/company/5d6402ebf256b90d035a5c02/curefoods",
+   "title": "Curefoods - Tracxn",
+   "publisher": "Tracxn",
+   "publication_date": "2026",
+   "retrieved_date": "2026-09-15",
+   "tier": "T2",
+   "confidence": "MEDIUM",
+   "fields_supported": [
+    "funding_rounds",
+    "employees",
+    "acquisitions",
+    "valuation"
+   ]
+  },
+  {
+   "url": "https://www.thehindubusinessline.com/companies/curefoods-raises-50mn-series-c-round/article65487249.ece",
+   "title": "Curefoods raises $50mn Series C round",
+   "publisher": "The Hindu BusinessLine",
+   "publication_date": "2022-06-02",
+   "retrieved_date": "2026-09-15",
+   "tier": "T3",
+   "confidence": "HIGH",
+   "fields_supported": [
+    "funding"
+   ]
+  },
+  {
+   "url": "https://www.cnbctv18.com/startup/curefoods-raises-62-million-to-expand-its-house-of-food-brands-12102192.htm",
+   "title": "Curefoods raises $62 million to expand its house of food bra",
+   "publisher": "CNBC TV18",
+   "publication_date": "2022-01-12",
+   "retrieved_date": "2026-09-15",
+   "tier": "T3",
+   "confidence": "HIGH",
+   "fields_supported": [
+    "funding"
+   ]
+  },
+  {
+   "url": "https://www.ndtvprofit.com/business/curefoods-buys-south-west-operations-of-krispy-kreme-from-landmark-group-9934254",
+   "title": "Curefoods Buys South, West Operations Of Krispy Kreme From L",
+   "publisher": "NDTV Profit",
+   "publication_date": "2024-12-31",
+   "retrieved_date": "2026-09-15",
+   "tier": "T3",
+   "confidence": "HIGH",
+   "fields_supported": [
+    "acquisitions",
+    "events"
+   ]
+  },
+  {
+   "url": "https://www.restaurantindia.in/news/restaurant-india-news-curefoods-expands-portfolio-with-50-year-old-mithai-brand-ksheer-sagar",
+   "title": "Curefoods Expands Portfolio with 50-Year-Old Mithai Brand Ks",
+   "publisher": "Restaurant India / IndianRetailer",
+   "publication_date": "2025-08-28",
+   "retrieved_date": "2026-09-15",
+   "tier": "T3",
+   "confidence": "HIGH",
+   "fields_supported": [
+    "products",
+    "partnerships"
+   ]
+  },
+  {
+   "url": "https://www.thehindu.com/business/cloud-kitchen-curefoods-raises-300-crore-from-binny-bansal-others/article66707612.ece",
+   "title": "Cloud kitchen Curefoods raises ₹300 crore from Binny Bansal,",
+   "publisher": "The Hindu",
+   "publication_date": "2023-04-06",
+   "retrieved_date": "2026-09-15",
+   "tier": "T3",
+   "confidence": "HIGH",
+   "fields_supported": [
+    "funding"
+   ]
+  },
+  {
+   "url": "https://www.thehindubusinessline.com/companies/eatfit-parent-curefoods-raises-13-million-series-a-funding/article36087844.ece",
+   "title": "EatFit parent Curefoods raises $13 million series A funding",
+   "publisher": "The Hindu BusinessLine",
+   "publication_date": "2021-08-25",
+   "retrieved_date": "2026-09-15",
+   "tier": "T3",
+   "confidence": "HIGH",
+   "fields_supported": [
+    "funding"
+   ]
+  }
+ ],
+ "startup_id": "curefoods",
+ "traction": [
+  {
+   "as_of": "2025-06",
+   "company_reported": false,
+   "confidence": "MEDIUM",
+   "metric": "service locations at DRHP",
+   "source_url": "https://indianstartupnews.com/news/curefoods-puts-ipo-plans-on-hold-as-market-volatility-hits-startup-listings-12013624",
+   "value": "502 across 70+ cities"
+  },
+  {
+   "metric": "service locations",
+   "value": 502,
+   "unit": "locations",
+   "period": "As-of-2025-03",
+   "as_of": "2025-03",
+   "company_reported": true,
+   "source_url": "https://www.cnbctv18.com/market/curefoods-delays-ipo-plans-amid-west-asia-uncertainty-explores-private-fundraise-sources-ws-el-19921468.htm",
+   "source_title": "Curefoods delays IPO plans amid West Asia uncertainty",
+   "confidence": "HIGH"
+  },
+  {
+   "metric": "cloud kitchens",
+   "value": 281,
+   "unit": "kitchens",
+   "period": "As-of-2026-09",
+   "as_of": "2026-09-15",
+   "company_reported": true,
+   "source_url": "https://www.curefoods.in/",
+   "source_title": "Curefoods homepage",
+   "source_date": "2026-09-15",
+   "confidence": "MEDIUM"
+  },
+  {
+   "metric": "kiosks",
+   "value": 99,
+   "unit": "kiosks",
+   "period": "As-of-2026-09",
+   "as_of": "2026-09-15",
+   "company_reported": true,
+   "source_url": "https://www.curefoods.in/",
+   "source_title": "Curefoods homepage",
+   "source_date": "2026-09-15",
+   "confidence": "MEDIUM"
+  },
+  {
+   "metric": "cities",
+   "value": 40,
+   "unit": "cities",
+   "period": "As-of-2026-09",
+   "as_of": "2026-09-15",
+   "company_reported": true,
+   "source_url": "https://www.curefoods.in/",
+   "source_title": "Curefoods homepage (LinkedIn)",
+   "source_date": "2026-09-15",
+   "confidence": "MEDIUM"
+  },
+  {
+   "metric": "brands crossing ₹100Cr ARR",
+   "value": 4,
+   "unit": "brands",
+   "period": "As-of-2025-06",
+   "as_of": "2025-06",
+   "company_reported": true,
+   "source_url": "https://www.cnbctv18.com/market/curefoods-delays-ipo-plans-amid-west-asia-uncertainty-explores-private-fundraise-sources-ws-el-19921468.htm",
+   "source_title": "Curefoods delays IPO plans",
+   "source_date": "2026-06-08",
+   "confidence": "HIGH"
+  },
+  {
+   "metric": "employees",
+   "value": 3254,
+   "unit": "employees",
+   "period": "As-of-2026",
+   "as_of": "2026",
+   "company_reported": false,
+   "source_url": "https://platform.tracxn.com/a/d/company/5d6402ebf256b90d035a5c02/curefoods",
+   "source_title": "Curefoods - Tracxn",
+   "source_date": "2026",
+   "confidence": "MEDIUM"
+  }
+ ],
+ "_merged_session2": true
+}

@@ -1,0 +1,919 @@
+{
+ "acquisitions": [
+  {
+   "confidence": "MEDIUM",
+   "date": "2026",
+   "direction": "made",
+   "disclosed": false,
+   "rationale": "European GTM/distribution + enterprise relationships (per CNBC TV18 analysis)",
+   "source_url": "https://www.businesswire.com/news/home/20260505151874/en/Netradyne-Strengthens-Global-Leadership-and-Expands-Presence-in-Europe-Through-the-Acquisition-of-Moove-Connected-Mobility",
+   "target": "Moove Connected Mobility (Netherlands)",
+   "type": "vertical integration",
+   "counterparty": "Moove Connected Mobility",
+   "value": "undisclosed"
+  }
+ ],
+ "company": {
+  "business_model": "B2B SaaS + hardware (Driver-i dashcams, edge AI)",
+  "city": "Bengaluru",
+  "country": "India",
+  "customer_type": "B2B enterprise fleets",
+  "employee_estimate": 773,
+  "employee_estimate_date": "2025",
+  "founded_date": "2015",
+  "hq_type": "HQ San Diego, USA; major office Bengaluru",
+  "legal_name": "Netradyne Inc. / Netradyne Technology India Pvt Ltd (UNVERIFIED split)",
+  "notes": "Seed verified: Bengaluru-deep; dual San Diego + Bengaluru. First Indian unicorn of 2025 ($90M Series D, Jan 2025). Founders ex-Qualcomm with 300+ patents combined.",
+  "primary_sector": "AI / computer vision / fleet safety telematics",
+  "secondary_sectors": [
+   "edge computing",
+   "logistics SaaS"
+  ],
+  "startup_id": "netradyne",
+  "startup_stage": "Unicorn (Series D)",
+  "status": "active",
+  "website": "https://www.netradyne.com",
+  "cin": "U72200KA2015FTC083845",
+  "incorporation_date": "2015-11-04",
+  "official_website": {
+   "v": "https://www.netradyne.com",
+   "conf": "high",
+   "src": "https://www.netradyne.com",
+   "note": "verified live 2026-09-15: name match on own homepage"
+  },
+  "careers_website": {
+   "v": "https://www.netradyne.com/company/careers",
+   "conf": "high",
+   "src": "https://www.netradyne.com",
+   "note": "careers link found on official homepage, probed live"
+  }
+ },
+ "completeness_self": {
+  "customers": 8,
+  "financials": 5,
+  "founders": 9,
+  "funding": 9,
+  "identity": 9,
+  "investors": 9,
+  "legal": 3,
+  "people": 6,
+  "products": 9,
+  "sources": 9,
+  "traction": 8
+ },
+ "conflicts": [
+  {
+   "claim_a": "$1.34B post-money (Inc42/CEO) vs $1.35B pre-money (TechCrunch) vs $1.43B (Forge secondary)",
+   "field": "Series D valuation",
+   "resolution": "Company-PR/Inc42 $1.34B post-money most defensible; TechCrunch pre-money phrasing kept as alternate; Forge secondary-market figure not primary",
+   "resolved_value": "$1.34B post-money",
+   "url_a": "https://inc42.com/features/logistics-ai-provider-netradyne-is-the-first-unicorn-of-2025",
+   "url_b": "https://techcrunch.com/2025/01/17/netradyne-snags-90m-at-1-25b-valuation-to-expand-smart-dashcams-for-commercial-fleets"
+  }
+ ],
+ "customers": [
+  {
+   "name": "Amazon, Shell, Reliance Industries, Hindustan Unilever; 3000+ customers, 450K+ subscribers",
+   "source_url": "https://techcrunch.com/2025/01/17/netradyne-snags-90m-at-1-25b-valuation-to-expand-smart-dashcams-for-commercial-fleets",
+   "status": "active",
+   "type": "enterprise"
+  }
+ ],
+ "events": [
+  {
+   "announced_date": "2025-01-16",
+   "confidence": "HIGH",
+   "date": "2025-01-16",
+   "description": "$90M led Point72 Private Investments; Qualcomm Ventures, Pavilion Capital; R&D + GTM + global expansion; 3000+ customers, 450K subs",
+   "headline": "$90M Series D at $1.34B; first unicorn of 2025",
+   "source_url": "https://www.netradyne.com/news/netradyne-r-raises-90-million-in-series-d-funding-led-by-point72-private-investments",
+   "type": "funding"
+  },
+  {
+   "announced_date": "2025-06-05",
+   "confidence": "MEDIUM",
+   "date": "2025-06-05",
+   "description": "50% YoY growth; profitable by late 2025/early 2026; expand 10 to 15 countries by end-2026",
+   "headline": "Profitability + expansion guidance",
+   "source_url": "https://inc42.com/features/logistics-ai-provider-netradyne-is-the-first-unicorn-of-2025",
+   "type": "guidance"
+  }
+ ],
+ "financials": [
+  {
+   "confidence": "LOW",
+   "currency": "INR",
+   "fiscal_year": "FY25",
+   "metric": "revenue (India entity, press-quoted MCA)",
+   "source_title": "CNBC TV18 unicorn profile",
+   "source_url": "https://inc42.com/features/logistics-ai-provider-netradyne-is-the-first-unicorn-of-2025",
+   "value": 293.5,
+   "value_type": "press-quoted-filing",
+   "unit": "crore"
+  },
+  {
+   "confidence": "LOW",
+   "currency": "INR",
+   "fiscal_year": "FY25",
+   "metric": "PAT (India entity, press-quoted MCA)",
+   "source_title": "CNBC TV18 unicorn profile",
+   "source_url": "https://inc42.com/features/logistics-ai-provider-netradyne-is-the-first-unicorn-of-2025",
+   "value": 13.8,
+   "value_type": "press-quoted-filing",
+   "unit": "crore"
+  }
+ ],
+ "founders": [
+  {
+   "background": "Ex-Qualcomm SVP Tech/Biz, President Qualcomm India & South Asia; 200+ US patents; Stanford PhD (per secondary bios, UNVERIFIED degree detail)",
+   "confidence": "HIGH",
+   "education": "PhD (Stanford, per secondary sources)",
+   "name": "Avneesh Agrawal",
+   "role": "Co-founder & CEO",
+   "source_url": "https://www.netradyne.com/news/netradyne-r-raises-90-million-in-series-d-funding-led-by-point72-private-investments",
+   "still_active": true,
+   "type": "co-founder"
+  },
+  {
+   "background": "Ex-Qualcomm Principal Engineer 12 yrs; 100+ US patents; Stanford (per Equilar)",
+   "confidence": "HIGH",
+   "education": "Stanford University",
+   "name": "David Julian",
+   "role": "Co-founder & CTO",
+   "source_url": "https://www.netradyne.com/news/netradyne-r-raises-90-million-in-series-d-funding-led-by-point72-private-investments",
+   "still_active": false,
+   "type": "co-founder",
+   "notes": "Current CTO listed as Sreekanth Annapureddy on about page; Julian may have stepped back — UNVERIFIED transition date"
+  }
+ ],
+ "funding_rounds": [
+  {
+   "all_investors": [
+    "Reliance Industries"
+   ],
+   "amount": 18120000,
+   "announced_date": "2016-07-15",
+   "confidence": "MEDIUM",
+   "currency": "USD",
+   "lead_investors": [
+    "Reliance Industries"
+   ],
+   "round_date": "2016-07-15",
+   "round_type": "Series A",
+   "source_title": "Forge Netradyne stock page (cap-table derived)",
+   "source_url": "https://inc42.com/features/logistics-ai-provider-netradyne-is-the-first-unicorn-of-2025",
+   "tier": "T2"
+  },
+  {
+   "all_investors": [
+    "M12",
+    "Point72 Ventures",
+    "Reliance Industries"
+   ],
+   "amount": 21000000,
+   "announced_date": "2018-09-27",
+   "confidence": "MEDIUM",
+   "currency": "USD",
+   "lead_investors": [
+    "M12",
+    "Point72 Ventures"
+   ],
+   "round_date": "2018-09-27",
+   "round_type": "Series B",
+   "source_title": "Forge-derived",
+   "source_url": "https://inc42.com/features/logistics-ai-provider-netradyne-is-the-first-unicorn-of-2025",
+   "tier": "T2"
+  },
+  {
+   "all_investors": [
+    "SoftBank Vision Fund",
+    "M12",
+    "Point72 Ventures"
+   ],
+   "amount": 150000000,
+   "announced_date": "2021-07-15",
+   "confidence": "HIGH",
+   "currency": "USD",
+   "lead_investors": [
+    "SoftBank Vision Fund"
+   ],
+   "round_date": "2021-07-15",
+   "round_type": "Series C",
+   "source_title": "Netradyne first unicorn of 2025 (recaps C)",
+   "source_url": "https://inc42.com/features/logistics-ai-provider-netradyne-is-the-first-unicorn-of-2025",
+   "tier": "T3",
+   "valuation": "$786.68M (Forge-derived, LOW weight)"
+  },
+  {
+   "all_investors": [
+    "Silicon Valley Bank"
+   ],
+   "amount": 65000000,
+   "announced_date": "2022-01-01",
+   "confidence": "MEDIUM",
+   "currency": "USD",
+   "lead_investors": [
+    "Silicon Valley Bank"
+   ],
+   "notes": "Mezzanine debt+equity mix",
+   "round_date": "2022-01-01",
+   "round_type": "Debt/mezzanine",
+   "source_title": "VCCircle via search",
+   "source_url": "https://inc42.com/features/logistics-ai-provider-netradyne-is-the-first-unicorn-of-2025",
+   "tier": "T3"
+  },
+  {
+   "all_investors": [
+    "Point72 Private Investments",
+    "Qualcomm Ventures",
+    "Pavilion Capital"
+   ],
+   "amount": 90000000,
+   "announced_date": "2025-01-16",
+   "confidence": "HIGH",
+   "currency": "USD",
+   "lead_investors": [
+    "Point72 Private Investments"
+   ],
+   "purpose": "R&D, GTM, global expansion (Japan/Spain/Ireland/France/Italy)",
+   "round_date": "2025-01-16",
+   "round_type": "Series D",
+   "source_date": "2025-01-16",
+   "source_title": "Netradyne Raises $90 Million in Series D",
+   "source_url": "https://www.netradyne.com/news/netradyne-r-raises-90-million-in-series-d-funding-led-by-point72-private-investments",
+   "tier": "T1",
+   "valuation": "$1.34B post-money",
+   "valuation_type": "post-money",
+   "announcement_date": "2025-01-17",
+   "valuation_currency": "USD"
+  }
+ ],
+ "gaps": [
+  "Audited consolidated financials not verified; India-entity FY25 figures are press-quoted",
+  "David Julian current role/transition date unverified",
+  "CIN/MCA registration unverified"
+ ],
+ "investor_links": [
+  {
+   "confidence": "HIGH",
+   "first_seen": "2016",
+   "investor": "Reliance Industries",
+   "investor_type": "corporate",
+   "lead": true,
+   "rounds": [
+    "Series A"
+   ],
+   "source_url": "https://inc42.com/features/logistics-ai-provider-netradyne-is-the-first-unicorn-of-2025"
+  },
+  {
+   "confidence": "HIGH",
+   "first_seen": "2021",
+   "investor": "SoftBank Vision Fund",
+   "investor_type": "VC",
+   "lead": true,
+   "rounds": [
+    "Series C"
+   ],
+   "source_url": "https://inc42.com/features/logistics-ai-provider-netradyne-is-the-first-unicorn-of-2025"
+  },
+  {
+   "confidence": "HIGH",
+   "first_seen": "2018",
+   "investor": "Point72 Private Investments/Ventures",
+   "investor_type": "VC",
+   "lead": true,
+   "rounds": [
+    "Series B",
+    "Series D"
+   ],
+   "source_url": "https://www.netradyne.com/news/netradyne-r-raises-90-million-in-series-d-funding-led-by-point72-private-investments"
+  },
+  {
+   "confidence": "HIGH",
+   "first_seen": "2025",
+   "investor": "Qualcomm Ventures",
+   "investor_type": "CVC",
+   "lead": false,
+   "rounds": [
+    "Series D"
+   ],
+   "source_url": "https://www.netradyne.com/news/netradyne-r-raises-90-million-in-series-d-funding-led-by-point72-private-investments"
+  },
+  {
+   "confidence": "MEDIUM",
+   "first_seen": "2018",
+   "investor": "M12 (Microsoft)",
+   "investor_type": "CVC",
+   "lead": false,
+   "rounds": [
+    "Series B",
+    "Series C"
+   ],
+   "source_url": "https://inc42.com/features/logistics-ai-provider-netradyne-is-the-first-unicorn-of-2025"
+  }
+ ],
+ "investors_meta": [],
+ "locations": [
+  {
+   "as_of": "2025",
+   "city": "San Diego",
+   "confidence": "HIGH",
+   "source_url": "https://www.netradyne.com/news/netradyne-r-raises-90-million-in-series-d-funding-led-by-point72-private-investments",
+   "state": "California",
+   "type": "HQ"
+  },
+  {
+   "as_of": "2025",
+   "city": "Bengaluru",
+   "confidence": "HIGH",
+   "source_url": "https://www.netradyne.com/news/netradyne-r-raises-90-million-in-series-d-funding-led-by-point72-private-investments",
+   "state": "Karnataka",
+   "type": "ops"
+  }
+ ],
+ "people": [
+  {
+   "confidence": "MEDIUM",
+   "name": "Sreekanth Annapureddy",
+   "position": "Chief Technology Officer (current listing)",
+   "source_url": "https://www.netradyne.com/news/netradyne-r-raises-90-million-in-series-d-funding-led-by-point72-private-investments"
+  },
+  {
+   "confidence": "MEDIUM",
+   "name": "Durgadutt Nedungadi",
+   "position": "SVP & GM, Middle East, India & APAC",
+   "source_url": "https://inc42.com/features/logistics-ai-provider-netradyne-is-the-first-unicorn-of-2025"
+  }
+ ],
+ "products": [
+  {
+   "category": "AI dashcam + fleet safety telematics",
+   "description": "Driver-i: dual cameras, edge AI, 99% accuracy behavior analysis, DriverStars rewards, compliance/claims tools",
+   "name": "Driver-i",
+   "status": "active"
+  }
+ ],
+ "research_log": [
+  {
+   "found": "Series D $90M Jan 2025 $1.34B; Series C $150M 2021; founders ex-Qualcomm; customers; expansion/profit guidance",
+   "next_action": "MCA India-entity filing for audited FY25 if deepened",
+   "query": "Netradyne funding founders Series C",
+   "unresolved": "Consolidated financials; Julian transition"
+  },
+  {
+   "date": "2026-09-14",
+   "found": "CIN U72200KA2015FTC083845; incorporated 04 Nov 2015 (ZaubaCorp, Tofler, Tracxn agree)",
+   "query": "Netradyne Technology India Private Limited CIN incorporation date Tofler"
+  },
+  {
+   "date": "2026-09-14",
+   "found": "Series D $90M Jan 2025 at $1.34B valuation (Inc42); CNBC TV18 confirms $1.34B",
+   "query": "Netradyne Series D valuation January 2025 $90 million unicorn"
+  }
+ ],
+ "sources": [
+  {
+   "fields_supported": [
+    "funding",
+    "valuation",
+    "traction"
+   ],
+   "publication_date": "2025-01-16",
+   "publisher": "Netradyne (company)",
+   "retrieved_date": "2026-09-14",
+   "tier": "T1",
+   "title": "Netradyne Raises $90 Million in Series D Funding Led by Point72 Private Investments",
+   "url": "https://www.netradyne.com/news/netradyne-r-raises-90-million-in-series-d-funding-led-by-point72-private-investments"
+  },
+  {
+   "fields_supported": [
+    "funding",
+    "valuation"
+   ],
+   "publication_date": "2025-01-17",
+   "publisher": "TechCrunch",
+   "retrieved_date": "2026-09-14",
+   "tier": "T3",
+   "title": "Netradyne snags $90M at $1.35B valuation",
+   "url": "https://techcrunch.com/2025/01/17/netradyne-snags-90m-at-1-25b-valuation-to-expand-smart-dashcams-for-commercial-fleets"
+  },
+  {
+   "fields_supported": [
+    "funding",
+    "investors",
+    "history"
+   ],
+   "publication_date": "2025-01-20",
+   "publisher": "Inc42",
+   "retrieved_date": "2026-09-14",
+   "tier": "T3",
+   "title": "Logistics AI Startup Netradyne Is The First Unicorn Of 2025",
+   "url": "https://inc42.com/features/logistics-ai-provider-netradyne-is-the-first-unicorn-of-2025"
+  },
+  {
+   "url": "https://inc42.com/features/logistics-ai-provider-netradyne-is-the-first-unicorn-of-2025/",
+   "title": "",
+   "fields": "FUNDING",
+   "confidence": "MEDIUM"
+  },
+  {
+   "url": "https://www.zaubacorp.com/NETRADYNE-TECHNOLOGY-INDIA-PRIVATE-LIMITED-U72200KA2015FTC083845",
+   "title": "NETRADYNE TECHNOLOGY INDIA PRIVATE LIMITED | ZaubaCorp",
+   "fields": [
+    "cin",
+    "incorporation_date"
+   ],
+   "confidence": "HIGH"
+  },
+  {
+   "url": "https://www.tofler.in/netradyne-technology-india-private-limited/company/U72200KA2015FTC083845",
+   "title": "Netradyne Technology India Financials | Company Details - Tofler",
+   "fields": [
+    "cin"
+   ],
+   "confidence": "HIGH"
+  },
+  {
+   "url": "https://www.businesswire.com/news/home/20260505151874/en/Netradyne-Strengthens-Global-Leadership-and-Expands-Presence-in-Europe-Through-the-Acquisition-of-Moove-Connected-Mobility",
+   "title": "Netradyne Strengthens Global Leadership and Expands Presence in Europe Through the Acquisition of Moove Connected Mobility",
+   "tier": "T2",
+   "claim": "acquisition Moove Connected Mobility (Netherlands)"
+  },
+  {
+   "url": "https://www.businesswire.com/news/home/20260505151874/en/Netradyne-Strengthens-Global-Leadership-and-Expands-Presence-in-Europe-Through-the-Acquisition-of-Moove-Connected-Mobility",
+   "title": "Netradyne Strengthens Global Leadership and Expands Presence in Europe Through the Acquisition of Moove Connected Mobility",
+   "tier": "T2",
+   "claim": "acquisition Moove Connected Mobility (Netherlands)"
+  },
+  {
+   "url": "https://www.businesswire.com/news/home/20260505151874/en/Netradyne-Strengthens-Global-Leadership-and-Expands-Presence-in-Europe-Through-the-Acquisition-of-Moove-Connected-Mobility",
+   "title": "Netradyne Strengthens Global Leadership and Expands Presence in Europe Through the Acquisition of Moove Connected Mobility",
+   "tier": "T2",
+   "claim": "acquisition Moove Connected Mobility (Netherlands)"
+  },
+  {
+   "url": "https://www.businesswire.com/news/home/20260505151874/en/Netradyne-Strengthens-Global-Leadership-and-Expands-Presence-in-Europe-Through-the-Acquisition-of-Moove-Connected-Mobility",
+   "title": "Netradyne Strengthens Global Leadership and Expands Presence in Europe Through the Acquisition of Moove Connected Mobility",
+   "tier": "T2",
+   "claim": "acquisition Moove Connected Mobility (Netherlands)"
+  },
+  {
+   "url": "https://www.businesswire.com/news/home/20260505151874/en/Netradyne-Strengthens-Global-Leadership-and-Expands-Presence-in-Europe-Through-the-Acquisition-of-Moove-Connected-Mobility",
+   "title": "Netradyne Strengthens Global Leadership and Expands Presence in Europe Through the Acquisition of Moove Connected Mobility",
+   "tier": "T2",
+   "claim": "acquisition Moove Connected Mobility (Netherlands)"
+  },
+  {
+   "url": "https://www.businesswire.com/news/home/20260505151874/en/Netradyne-Strengthens-Global-Leadership-and-Expands-Presence-in-Europe-Through-the-Acquisition-of-Moove-Connected-Mobility",
+   "title": "Netradyne Strengthens Global Leadership and Expands Presence in Europe Through the Acquisition of Moove Connected Mobility",
+   "tier": "T2",
+   "claim": "acquisition Moove Connected Mobility (Netherlands)"
+  },
+  {
+   "url": "https://www.businesswire.com/news/home/20260505151874/en/Netradyne-Strengthens-Global-Leadership-and-Expands-Presence-in-Europe-Through-the-Acquisition-of-Moove-Connected-Mobility",
+   "title": "Netradyne Strengthens Global Leadership and Expands Presence in Europe Through the Acquisition of Moove Connected Mobility",
+   "tier": "T2",
+   "claim": "acquisition Moove Connected Mobility (Netherlands)"
+  },
+  {
+   "url": "https://www.businesswire.com/news/home/20260505151874/en/Netradyne-Strengthens-Global-Leadership-and-Expands-Presence-in-Europe-Through-the-Acquisition-of-Moove-Connected-Mobility",
+   "title": "Netradyne Strengthens Global Leadership and Expands Presence in Europe Through the Acquisition of Moove Connected Mobility",
+   "tier": "T2",
+   "claim": "acquisition Moove Connected Mobility (Netherlands)"
+  },
+  {
+   "url": "https://www.businesswire.com/news/home/20260505151874/en/Netradyne-Strengthens-Global-Leadership-and-Expands-Presence-in-Europe-Through-the-Acquisition-of-Moove-Connected-Mobility",
+   "title": "Netradyne Strengthens Global Leadership and Expands Presence in Europe Through the Acquisition of Moove Connected Mobility",
+   "tier": "T2",
+   "claim": "acquisition Moove Connected Mobility (Netherlands)"
+  },
+  {
+   "url": "https://www.businesswire.com/news/home/20260505151874/en/Netradyne-Strengthens-Global-Leadership-and-Expands-Presence-in-Europe-Through-the-Acquisition-of-Moove-Connected-Mobility",
+   "title": "Netradyne Strengthens Global Leadership and Expands Presence in Europe Through the Acquisition of Moove Connected Mobility",
+   "tier": "T2",
+   "claim": "acquisition Moove Connected Mobility (Netherlands)"
+  },
+  {
+   "url": "https://www.businesswire.com/news/home/20260505151874/en/Netradyne-Strengthens-Global-Leadership-and-Expands-Presence-in-Europe-Through-the-Acquisition-of-Moove-Connected-Mobility",
+   "title": "Netradyne Strengthens Global Leadership and Expands Presence in Europe Through the Acquisition of Moove Connected Mobility",
+   "tier": "T2",
+   "claim": "acquisition Moove Connected Mobility (Netherlands)"
+  },
+  {
+   "url": "https://www.businesswire.com/news/home/20260505151874/en/Netradyne-Strengthens-Global-Leadership-and-Expands-Presence-in-Europe-Through-the-Acquisition-of-Moove-Connected-Mobility",
+   "title": "Netradyne Strengthens Global Leadership and Expands Presence in Europe Through the Acquisition of Moove Connected Mobility",
+   "tier": "T2",
+   "claim": "acquisition Moove Connected Mobility (Netherlands)"
+  },
+  {
+   "url": "https://www.businesswire.com/news/home/20260505151874/en/Netradyne-Strengthens-Global-Leadership-and-Expands-Presence-in-Europe-Through-the-Acquisition-of-Moove-Connected-Mobility",
+   "title": "Netradyne Strengthens Global Leadership and Expands Presence in Europe Through the Acquisition of Moove Connected Mobility",
+   "tier": "T2",
+   "claim": "acquisition Moove Connected Mobility (Netherlands)"
+  },
+  {
+   "url": "https://www.businesswire.com/news/home/20260505151874/en/Netradyne-Strengthens-Global-Leadership-and-Expands-Presence-in-Europe-Through-the-Acquisition-of-Moove-Connected-Mobility",
+   "title": "Netradyne Strengthens Global Leadership and Expands Presence in Europe Through the Acquisition of Moove Connected Mobility",
+   "tier": "T2",
+   "claim": "acquisition Moove Connected Mobility (Netherlands)"
+  },
+  {
+   "url": "https://www.businesswire.com/news/home/20260505151874/en/Netradyne-Strengthens-Global-Leadership-and-Expands-Presence-in-Europe-Through-the-Acquisition-of-Moove-Connected-Mobility",
+   "title": "Netradyne Strengthens Global Leadership and Expands Presence in Europe Through the Acquisition of Moove Connected Mobility",
+   "tier": "T2",
+   "claim": "acquisition Moove Connected Mobility (Netherlands)"
+  },
+  {
+   "url": "https://www.businesswire.com/news/home/20260505151874/en/Netradyne-Strengthens-Global-Leadership-and-Expands-Presence-in-Europe-Through-the-Acquisition-of-Moove-Connected-Mobility",
+   "title": "Netradyne Strengthens Global Leadership and Expands Presence in Europe Through the Acquisition of Moove Connected Mobility",
+   "tier": "T2",
+   "claim": "acquisition Moove Connected Mobility (Netherlands)"
+  },
+  {
+   "url": "https://www.businesswire.com/news/home/20260505151874/en/Netradyne-Strengthens-Global-Leadership-and-Expands-Presence-in-Europe-Through-the-Acquisition-of-Moove-Connected-Mobility",
+   "title": "Netradyne Strengthens Global Leadership and Expands Presence in Europe Through the Acquisition of Moove Connected Mobility",
+   "tier": "T2",
+   "claim": "acquisition Moove Connected Mobility (Netherlands)"
+  },
+  {
+   "url": "https://www.businesswire.com/news/home/20260505151874/en/Netradyne-Strengthens-Global-Leadership-and-Expands-Presence-in-Europe-Through-the-Acquisition-of-Moove-Connected-Mobility",
+   "title": "Netradyne Strengthens Global Leadership and Expands Presence in Europe Through the Acquisition of Moove Connected Mobility",
+   "tier": "T2",
+   "claim": "acquisition Moove Connected Mobility (Netherlands)"
+  },
+  {
+   "url": "https://www.businesswire.com/news/home/20260505151874/en/Netradyne-Strengthens-Global-Leadership-and-Expands-Presence-in-Europe-Through-the-Acquisition-of-Moove-Connected-Mobility",
+   "title": "Netradyne Strengthens Global Leadership and Expands Presence in Europe Through the Acquisition of Moove Connected Mobility",
+   "tier": "T2",
+   "claim": "acquisition Moove Connected Mobility (Netherlands)"
+  },
+  {
+   "url": "https://www.businesswire.com/news/home/20260505151874/en/Netradyne-Strengthens-Global-Leadership-and-Expands-Presence-in-Europe-Through-the-Acquisition-of-Moove-Connected-Mobility",
+   "title": "Netradyne Strengthens Global Leadership and Expands Presence in Europe Through the Acquisition of Moove Connected Mobility",
+   "tier": "T2",
+   "claim": "acquisition Moove Connected Mobility (Netherlands)"
+  },
+  {
+   "url": "https://www.businesswire.com/news/home/20260505151874/en/Netradyne-Strengthens-Global-Leadership-and-Expands-Presence-in-Europe-Through-the-Acquisition-of-Moove-Connected-Mobility",
+   "title": "Netradyne Strengthens Global Leadership and Expands Presence in Europe Through the Acquisition of Moove Connected Mobility",
+   "tier": "T2",
+   "claim": "acquisition Moove Connected Mobility (Netherlands)"
+  },
+  {
+   "url": "https://www.businesswire.com/news/home/20260505151874/en/Netradyne-Strengthens-Global-Leadership-and-Expands-Presence-in-Europe-Through-the-Acquisition-of-Moove-Connected-Mobility",
+   "title": "Netradyne Strengthens Global Leadership and Expands Presence in Europe Through the Acquisition of Moove Connected Mobility",
+   "tier": "T2",
+   "claim": "acquisition Moove Connected Mobility (Netherlands)"
+  },
+  {
+   "url": "https://www.businesswire.com/news/home/20260505151874/en/Netradyne-Strengthens-Global-Leadership-and-Expands-Presence-in-Europe-Through-the-Acquisition-of-Moove-Connected-Mobility",
+   "title": "Netradyne Strengthens Global Leadership and Expands Presence in Europe Through the Acquisition of Moove Connected Mobility",
+   "tier": "T2",
+   "claim": "acquisition Moove Connected Mobility (Netherlands)"
+  },
+  {
+   "url": "https://www.businesswire.com/news/home/20260505151874/en/Netradyne-Strengthens-Global-Leadership-and-Expands-Presence-in-Europe-Through-the-Acquisition-of-Moove-Connected-Mobility",
+   "title": "Netradyne Strengthens Global Leadership and Expands Presence in Europe Through the Acquisition of Moove Connected Mobility",
+   "tier": "T2",
+   "claim": "acquisition Moove Connected Mobility (Netherlands)"
+  },
+  {
+   "url": "https://www.businesswire.com/news/home/20260505151874/en/Netradyne-Strengthens-Global-Leadership-and-Expands-Presence-in-Europe-Through-the-Acquisition-of-Moove-Connected-Mobility",
+   "title": "Netradyne Strengthens Global Leadership and Expands Presence in Europe Through the Acquisition of Moove Connected Mobility",
+   "tier": "T2",
+   "claim": "acquisition Moove Connected Mobility (Netherlands)"
+  },
+  {
+   "url": "https://www.businesswire.com/news/home/20260505151874/en/Netradyne-Strengthens-Global-Leadership-and-Expands-Presence-in-Europe-Through-the-Acquisition-of-Moove-Connected-Mobility",
+   "title": "Netradyne Strengthens Global Leadership and Expands Presence in Europe Through the Acquisition of Moove Connected Mobility",
+   "tier": "T2",
+   "claim": "acquisition Moove Connected Mobility (Netherlands)"
+  },
+  {
+   "url": "https://www.businesswire.com/news/home/20260505151874/en/Netradyne-Strengthens-Global-Leadership-and-Expands-Presence-in-Europe-Through-the-Acquisition-of-Moove-Connected-Mobility",
+   "title": "Netradyne Strengthens Global Leadership and Expands Presence in Europe Through the Acquisition of Moove Connected Mobility",
+   "tier": "T2",
+   "claim": "acquisition Moove Connected Mobility (Netherlands)"
+  },
+  {
+   "url": "https://www.businesswire.com/news/home/20260505151874/en/Netradyne-Strengthens-Global-Leadership-and-Expands-Presence-in-Europe-Through-the-Acquisition-of-Moove-Connected-Mobility",
+   "title": "Netradyne Strengthens Global Leadership and Expands Presence in Europe Through the Acquisition of Moove Connected Mobility",
+   "tier": "T2",
+   "claim": "acquisition Moove Connected Mobility (Netherlands)"
+  },
+  {
+   "url": "https://www.businesswire.com/news/home/20260505151874/en/Netradyne-Strengthens-Global-Leadership-and-Expands-Presence-in-Europe-Through-the-Acquisition-of-Moove-Connected-Mobility",
+   "title": "Netradyne Strengthens Global Leadership and Expands Presence in Europe Through the Acquisition of Moove Connected Mobility",
+   "tier": "T2",
+   "claim": "acquisition Moove Connected Mobility (Netherlands)"
+  },
+  {
+   "url": "https://www.businesswire.com/news/home/20260505151874/en/Netradyne-Strengthens-Global-Leadership-and-Expands-Presence-in-Europe-Through-the-Acquisition-of-Moove-Connected-Mobility",
+   "title": "Netradyne Strengthens Global Leadership and Expands Presence in Europe Through the Acquisition of Moove Connected Mobility",
+   "tier": "T2",
+   "claim": "acquisition Moove Connected Mobility (Netherlands)"
+  },
+  {
+   "url": "https://www.businesswire.com/news/home/20260505151874/en/Netradyne-Strengthens-Global-Leadership-and-Expands-Presence-in-Europe-Through-the-Acquisition-of-Moove-Connected-Mobility",
+   "title": "Netradyne Strengthens Global Leadership and Expands Presence in Europe Through the Acquisition of Moove Connected Mobility",
+   "tier": "T2",
+   "claim": "acquisition Moove Connected Mobility (Netherlands)"
+  },
+  {
+   "url": "https://www.businesswire.com/news/home/20260505151874/en/Netradyne-Strengthens-Global-Leadership-and-Expands-Presence-in-Europe-Through-the-Acquisition-of-Moove-Connected-Mobility",
+   "title": "Netradyne Strengthens Global Leadership and Expands Presence in Europe Through the Acquisition of Moove Connected Mobility",
+   "tier": "T2",
+   "claim": "acquisition Moove Connected Mobility (Netherlands)"
+  },
+  {
+   "url": "https://www.businesswire.com/news/home/20260505151874/en/Netradyne-Strengthens-Global-Leadership-and-Expands-Presence-in-Europe-Through-the-Acquisition-of-Moove-Connected-Mobility",
+   "title": "Netradyne Strengthens Global Leadership and Expands Presence in Europe Through the Acquisition of Moove Connected Mobility",
+   "tier": "T2",
+   "claim": "acquisition Moove Connected Mobility (Netherlands)"
+  },
+  {
+   "url": "https://www.businesswire.com/news/home/20260505151874/en/Netradyne-Strengthens-Global-Leadership-and-Expands-Presence-in-Europe-Through-the-Acquisition-of-Moove-Connected-Mobility",
+   "title": "Netradyne Strengthens Global Leadership and Expands Presence in Europe Through the Acquisition of Moove Connected Mobility",
+   "tier": "T2",
+   "claim": "acquisition Moove Connected Mobility (Netherlands)"
+  },
+  {
+   "url": "https://www.businesswire.com/news/home/20260505151874/en/Netradyne-Strengthens-Global-Leadership-and-Expands-Presence-in-Europe-Through-the-Acquisition-of-Moove-Connected-Mobility",
+   "title": "Netradyne Strengthens Global Leadership and Expands Presence in Europe Through the Acquisition of Moove Connected Mobility",
+   "tier": "T2",
+   "claim": "acquisition Moove Connected Mobility (Netherlands)"
+  },
+  {
+   "url": "https://www.businesswire.com/news/home/20260505151874/en/Netradyne-Strengthens-Global-Leadership-and-Expands-Presence-in-Europe-Through-the-Acquisition-of-Moove-Connected-Mobility",
+   "title": "Netradyne Strengthens Global Leadership and Expands Presence in Europe Through the Acquisition of Moove Connected Mobility",
+   "tier": "T2",
+   "claim": "acquisition Moove Connected Mobility (Netherlands)"
+  },
+  {
+   "url": "https://www.businesswire.com/news/home/20260505151874/en/Netradyne-Strengthens-Global-Leadership-and-Expands-Presence-in-Europe-Through-the-Acquisition-of-Moove-Connected-Mobility",
+   "title": "Netradyne Strengthens Global Leadership and Expands Presence in Europe Through the Acquisition of Moove Connected Mobility",
+   "tier": "T2",
+   "claim": "acquisition Moove Connected Mobility (Netherlands)"
+  },
+  {
+   "url": "https://www.businesswire.com/news/home/20260505151874/en/Netradyne-Strengthens-Global-Leadership-and-Expands-Presence-in-Europe-Through-the-Acquisition-of-Moove-Connected-Mobility",
+   "title": "Netradyne Strengthens Global Leadership and Expands Presence in Europe Through the Acquisition of Moove Connected Mobility",
+   "tier": "T2",
+   "claim": "acquisition Moove Connected Mobility (Netherlands)"
+  },
+  {
+   "url": "https://www.businesswire.com/news/home/20260505151874/en/Netradyne-Strengthens-Global-Leadership-and-Expands-Presence-in-Europe-Through-the-Acquisition-of-Moove-Connected-Mobility",
+   "title": "Netradyne Strengthens Global Leadership and Expands Presence in Europe Through the Acquisition of Moove Connected Mobility",
+   "tier": "T2",
+   "claim": "acquisition Moove Connected Mobility (Netherlands)"
+  },
+  {
+   "url": "https://www.businesswire.com/news/home/20260505151874/en/Netradyne-Strengthens-Global-Leadership-and-Expands-Presence-in-Europe-Through-the-Acquisition-of-Moove-Connected-Mobility",
+   "title": "Netradyne Strengthens Global Leadership and Expands Presence in Europe Through the Acquisition of Moove Connected Mobility",
+   "tier": "T2",
+   "claim": "acquisition Moove Connected Mobility (Netherlands)"
+  },
+  {
+   "url": "https://www.businesswire.com/news/home/20260505151874/en/Netradyne-Strengthens-Global-Leadership-and-Expands-Presence-in-Europe-Through-the-Acquisition-of-Moove-Connected-Mobility",
+   "title": "Netradyne Strengthens Global Leadership and Expands Presence in Europe Through the Acquisition of Moove Connected Mobility",
+   "tier": "T2",
+   "claim": "acquisition Moove Connected Mobility (Netherlands)"
+  },
+  {
+   "url": "https://www.businesswire.com/news/home/20260505151874/en/Netradyne-Strengthens-Global-Leadership-and-Expands-Presence-in-Europe-Through-the-Acquisition-of-Moove-Connected-Mobility",
+   "title": "Netradyne Strengthens Global Leadership and Expands Presence in Europe Through the Acquisition of Moove Connected Mobility",
+   "tier": "T2",
+   "claim": "acquisition Moove Connected Mobility (Netherlands)"
+  },
+  {
+   "url": "https://www.businesswire.com/news/home/20260505151874/en/Netradyne-Strengthens-Global-Leadership-and-Expands-Presence-in-Europe-Through-the-Acquisition-of-Moove-Connected-Mobility",
+   "title": "Netradyne Strengthens Global Leadership and Expands Presence in Europe Through the Acquisition of Moove Connected Mobility",
+   "tier": "T2",
+   "claim": "acquisition Moove Connected Mobility (Netherlands)"
+  },
+  {
+   "url": "https://www.businesswire.com/news/home/20260505151874/en/Netradyne-Strengthens-Global-Leadership-and-Expands-Presence-in-Europe-Through-the-Acquisition-of-Moove-Connected-Mobility",
+   "title": "Netradyne Strengthens Global Leadership and Expands Presence in Europe Through the Acquisition of Moove Connected Mobility",
+   "tier": "T2",
+   "claim": "acquisition Moove Connected Mobility (Netherlands)"
+  },
+  {
+   "url": "https://www.businesswire.com/news/home/20260505151874/en/Netradyne-Strengthens-Global-Leadership-and-Expands-Presence-in-Europe-Through-the-Acquisition-of-Moove-Connected-Mobility",
+   "title": "Netradyne Strengthens Global Leadership and Expands Presence in Europe Through the Acquisition of Moove Connected Mobility",
+   "tier": "T2",
+   "claim": "acquisition Moove Connected Mobility (Netherlands)"
+  },
+  {
+   "url": "https://www.businesswire.com/news/home/20260505151874/en/Netradyne-Strengthens-Global-Leadership-and-Expands-Presence-in-Europe-Through-the-Acquisition-of-Moove-Connected-Mobility",
+   "title": "Netradyne Strengthens Global Leadership and Expands Presence in Europe Through the Acquisition of Moove Connected Mobility",
+   "tier": "T2",
+   "claim": "acquisition Moove Connected Mobility (Netherlands)"
+  },
+  {
+   "url": "https://www.businesswire.com/news/home/20260505151874/en/Netradyne-Strengthens-Global-Leadership-and-Expands-Presence-in-Europe-Through-the-Acquisition-of-Moove-Connected-Mobility",
+   "title": "Netradyne Strengthens Global Leadership and Expands Presence in Europe Through the Acquisition of Moove Connected Mobility",
+   "tier": "T2",
+   "claim": "acquisition Moove Connected Mobility (Netherlands)"
+  },
+  {
+   "url": "https://www.businesswire.com/news/home/20260505151874/en/Netradyne-Strengthens-Global-Leadership-and-Expands-Presence-in-Europe-Through-the-Acquisition-of-Moove-Connected-Mobility",
+   "title": "Netradyne Strengthens Global Leadership and Expands Presence in Europe Through the Acquisition of Moove Connected Mobility",
+   "tier": "T2",
+   "claim": "acquisition Moove Connected Mobility (Netherlands)"
+  },
+  {
+   "url": "https://www.businesswire.com/news/home/20260505151874/en/Netradyne-Strengthens-Global-Leadership-and-Expands-Presence-in-Europe-Through-the-Acquisition-of-Moove-Connected-Mobility",
+   "title": "Netradyne Strengthens Global Leadership and Expands Presence in Europe Through the Acquisition of Moove Connected Mobility",
+   "tier": "T2",
+   "claim": "acquisition Moove Connected Mobility (Netherlands)"
+  },
+  {
+   "url": "https://www.businesswire.com/news/home/20260505151874/en/Netradyne-Strengthens-Global-Leadership-and-Expands-Presence-in-Europe-Through-the-Acquisition-of-Moove-Connected-Mobility",
+   "title": "Netradyne Strengthens Global Leadership and Expands Presence in Europe Through the Acquisition of Moove Connected Mobility",
+   "tier": "T2",
+   "claim": "acquisition Moove Connected Mobility (Netherlands)"
+  },
+  {
+   "url": "https://www.businesswire.com/news/home/20260505151874/en/Netradyne-Strengthens-Global-Leadership-and-Expands-Presence-in-Europe-Through-the-Acquisition-of-Moove-Connected-Mobility",
+   "title": "Netradyne Strengthens Global Leadership and Expands Presence in Europe Through the Acquisition of Moove Connected Mobility",
+   "tier": "T2",
+   "claim": "acquisition Moove Connected Mobility (Netherlands)"
+  },
+  {
+   "url": "https://www.businesswire.com/news/home/20260505151874/en/Netradyne-Strengthens-Global-Leadership-and-Expands-Presence-in-Europe-Through-the-Acquisition-of-Moove-Connected-Mobility",
+   "title": "Netradyne Strengthens Global Leadership and Expands Presence in Europe Through the Acquisition of Moove Connected Mobility",
+   "tier": "T2",
+   "claim": "acquisition Moove Connected Mobility (Netherlands)"
+  },
+  {
+   "url": "https://www.businesswire.com/news/home/20260505151874/en/Netradyne-Strengthens-Global-Leadership-and-Expands-Presence-in-Europe-Through-the-Acquisition-of-Moove-Connected-Mobility",
+   "title": "Netradyne Strengthens Global Leadership and Expands Presence in Europe Through the Acquisition of Moove Connected Mobility",
+   "tier": "T2",
+   "claim": "acquisition Moove Connected Mobility (Netherlands)"
+  },
+  {
+   "url": "https://www.businesswire.com/news/home/20260505151874/en/Netradyne-Strengthens-Global-Leadership-and-Expands-Presence-in-Europe-Through-the-Acquisition-of-Moove-Connected-Mobility",
+   "title": "Netradyne Strengthens Global Leadership and Expands Presence in Europe Through the Acquisition of Moove Connected Mobility",
+   "tier": "T2",
+   "claim": "acquisition Moove Connected Mobility (Netherlands)"
+  },
+  {
+   "url": "https://www.businesswire.com/news/home/20260505151874/en/Netradyne-Strengthens-Global-Leadership-and-Expands-Presence-in-Europe-Through-the-Acquisition-of-Moove-Connected-Mobility",
+   "title": "Netradyne Strengthens Global Leadership and Expands Presence in Europe Through the Acquisition of Moove Connected Mobility",
+   "tier": "T2",
+   "claim": "acquisition Moove Connected Mobility (Netherlands)"
+  },
+  {
+   "url": "https://www.businesswire.com/news/home/20260505151874/en/Netradyne-Strengthens-Global-Leadership-and-Expands-Presence-in-Europe-Through-the-Acquisition-of-Moove-Connected-Mobility",
+   "title": "Netradyne Strengthens Global Leadership and Expands Presence in Europe Through the Acquisition of Moove Connected Mobility",
+   "tier": "T2",
+   "claim": "acquisition Moove Connected Mobility (Netherlands)"
+  },
+  {
+   "url": "https://www.businesswire.com/news/home/20260505151874/en/Netradyne-Strengthens-Global-Leadership-and-Expands-Presence-in-Europe-Through-the-Acquisition-of-Moove-Connected-Mobility",
+   "title": "Netradyne Strengthens Global Leadership and Expands Presence in Europe Through the Acquisition of Moove Connected Mobility",
+   "tier": "T2",
+   "claim": "acquisition Moove Connected Mobility (Netherlands)"
+  },
+  {
+   "url": "https://www.businesswire.com/news/home/20260505151874/en/Netradyne-Strengthens-Global-Leadership-and-Expands-Presence-in-Europe-Through-the-Acquisition-of-Moove-Connected-Mobility",
+   "title": "Netradyne Strengthens Global Leadership and Expands Presence in Europe Through the Acquisition of Moove Connected Mobility",
+   "tier": "T2",
+   "claim": "acquisition Moove Connected Mobility (Netherlands)"
+  },
+  {
+   "url": "https://www.businesswire.com/news/home/20260505151874/en/Netradyne-Strengthens-Global-Leadership-and-Expands-Presence-in-Europe-Through-the-Acquisition-of-Moove-Connected-Mobility",
+   "title": "Netradyne Strengthens Global Leadership and Expands Presence in Europe Through the Acquisition of Moove Connected Mobility",
+   "tier": "T2",
+   "claim": "acquisition Moove Connected Mobility (Netherlands)"
+  },
+  {
+   "url": "https://www.businesswire.com/news/home/20260505151874/en/Netradyne-Strengthens-Global-Leadership-and-Expands-Presence-in-Europe-Through-the-Acquisition-of-Moove-Connected-Mobility",
+   "title": "Netradyne Strengthens Global Leadership and Expands Presence in Europe Through the Acquisition of Moove Connected Mobility",
+   "tier": "T2",
+   "claim": "acquisition Moove Connected Mobility (Netherlands)"
+  },
+  {
+   "url": "https://www.businesswire.com/news/home/20260505151874/en/Netradyne-Strengthens-Global-Leadership-and-Expands-Presence-in-Europe-Through-the-Acquisition-of-Moove-Connected-Mobility",
+   "title": "Netradyne Strengthens Global Leadership and Expands Presence in Europe Through the Acquisition of Moove Connected Mobility",
+   "tier": "T2",
+   "claim": "acquisition Moove Connected Mobility (Netherlands)"
+  },
+  {
+   "url": "https://www.businesswire.com/news/home/20260505151874/en/Netradyne-Strengthens-Global-Leadership-and-Expands-Presence-in-Europe-Through-the-Acquisition-of-Moove-Connected-Mobility",
+   "title": "Netradyne Strengthens Global Leadership and Expands Presence in Europe Through the Acquisition of Moove Connected Mobility",
+   "tier": "T2",
+   "claim": "acquisition Moove Connected Mobility (Netherlands)"
+  },
+  {
+   "url": "https://www.businesswire.com/news/home/20260505151874/en/Netradyne-Strengthens-Global-Leadership-and-Expands-Presence-in-Europe-Through-the-Acquisition-of-Moove-Connected-Mobility",
+   "title": "Netradyne Strengthens Global Leadership and Expands Presence in Europe Through the Acquisition of Moove Connected Mobility",
+   "tier": "T2",
+   "claim": "acquisition Moove Connected Mobility (Netherlands)"
+  },
+  {
+   "url": "https://www.businesswire.com/news/home/20260505151874/en/Netradyne-Strengthens-Global-Leadership-and-Expands-Presence-in-Europe-Through-the-Acquisition-of-Moove-Connected-Mobility",
+   "title": "Netradyne Strengthens Global Leadership and Expands Presence in Europe Through the Acquisition of Moove Connected Mobility",
+   "tier": "T2",
+   "claim": "acquisition Moove Connected Mobility (Netherlands)"
+  },
+  {
+   "url": "https://www.businesswire.com/news/home/20260505151874/en/Netradyne-Strengthens-Global-Leadership-and-Expands-Presence-in-Europe-Through-the-Acquisition-of-Moove-Connected-Mobility",
+   "title": "Netradyne Strengthens Global Leadership and Expands Presence in Europe Through the Acquisition of Moove Connected Mobility",
+   "tier": "T2",
+   "claim": "acquisition Moove Connected Mobility (Netherlands)"
+  },
+  {
+   "url": "https://www.businesswire.com/news/home/20260505151874/en/Netradyne-Strengthens-Global-Leadership-and-Expands-Presence-in-Europe-Through-the-Acquisition-of-Moove-Connected-Mobility",
+   "title": "Netradyne Strengthens Global Leadership and Expands Presence in Europe Through the Acquisition of Moove Connected Mobility",
+   "tier": "T2",
+   "claim": "acquisition Moove Connected Mobility (Netherlands)"
+  },
+  {
+   "url": "https://www.businesswire.com/news/home/20260505151874/en/Netradyne-Strengthens-Global-Leadership-and-Expands-Presence-in-Europe-Through-the-Acquisition-of-Moove-Connected-Mobility",
+   "title": "Netradyne Strengthens Global Leadership and Expands Presence in Europe Through the Acquisition of Moove Connected Mobility",
+   "tier": "T2",
+   "claim": "acquisition Moove Connected Mobility (Netherlands)"
+  },
+  {
+   "url": "https://www.businesswire.com/news/home/20260505151874/en/Netradyne-Strengthens-Global-Leadership-and-Expands-Presence-in-Europe-Through-the-Acquisition-of-Moove-Connected-Mobility",
+   "title": "Netradyne Strengthens Global Leadership and Expands Presence in Europe Through the Acquisition of Moove Connected Mobility",
+   "tier": "T2",
+   "claim": "acquisition Moove Connected Mobility (Netherlands)"
+  },
+  {
+   "url": "https://www.businesswire.com/news/home/20260505151874/en/Netradyne-Strengthens-Global-Leadership-and-Expands-Presence-in-Europe-Through-the-Acquisition-of-Moove-Connected-Mobility",
+   "title": "Netradyne Strengthens Global Leadership and Expands Presence in Europe Through the Acquisition of Moove Connected Mobility",
+   "tier": "T2",
+   "claim": "acquisition Moove Connected Mobility (Netherlands)"
+  },
+  {
+   "url": "https://www.businesswire.com/news/home/20260505151874/en/Netradyne-Strengthens-Global-Leadership-and-Expands-Presence-in-Europe-Through-the-Acquisition-of-Moove-Connected-Mobility",
+   "title": "Netradyne Strengthens Global Leadership and Expands Presence in Europe Through the Acquisition of Moove Connected Mobility",
+   "tier": "T2",
+   "claim": "acquisition Moove Connected Mobility (Netherlands)"
+  },
+  {
+   "url": "https://www.businesswire.com/news/home/20260505151874/en/Netradyne-Strengthens-Global-Leadership-and-Expands-Presence-in-Europe-Through-the-Acquisition-of-Moove-Connected-Mobility",
+   "title": "Netradyne Strengthens Global Leadership and Expands Presence in Europe Through the Acquisition of Moove Connected Mobility",
+   "tier": "T2",
+   "claim": "acquisition Moove Connected Mobility (Netherlands)"
+  },
+  {
+   "url": "https://www.businesswire.com/news/home/20260505151874/en/Netradyne-Strengthens-Global-Leadership-and-Expands-Presence-in-Europe-Through-the-Acquisition-of-Moove-Connected-Mobility",
+   "title": "Netradyne Strengthens Global Leadership and Expands Presence in Europe Through the Acquisition of Moove Connected Mobility",
+   "tier": "T2",
+   "claim": "acquisition Moove Connected Mobility (Netherlands)"
+  },
+  {
+   "url": "https://www.businesswire.com/news/home/20260505151874/en/Netradyne-Strengthens-Global-Leadership-and-Expands-Presence-in-Europe-Through-the-Acquisition-of-Moove-Connected-Mobility",
+   "title": "Netradyne Strengthens Global Leadership and Expands Presence in Europe Through the Acquisition of Moove Connected Mobility",
+   "tier": "T2",
+   "claim": "acquisition Moove Connected Mobility (Netherlands)"
+  },
+  {
+   "url": "https://www.businesswire.com/news/home/20260505151874/en/Netradyne-Strengthens-Global-Leadership-and-Expands-Presence-in-Europe-Through-the-Acquisition-of-Moove-Connected-Mobility",
+   "title": "Netradyne Strengthens Global Leadership and Expands Presence in Europe Through the Acquisition of Moove Connected Mobility",
+   "tier": "T2",
+   "claim": "acquisition Moove Connected Mobility (Netherlands)"
+  },
+  {
+   "url": "https://www.businesswire.com/news/home/20260505151874/en/Netradyne-Strengthens-Global-Leadership-and-Expands-Presence-in-Europe-Through-the-Acquisition-of-Moove-Connected-Mobility",
+   "title": "Netradyne Strengthens Global Leadership and Expands Presence in Europe Through the Acquisition of Moove Connected Mobility",
+   "tier": "T2",
+   "claim": "acquisition Moove Connected Mobility (Netherlands)"
+  },
+  {
+   "url": "https://www.businesswire.com/news/home/20260505151874/en/Netradyne-Strengthens-Global-Leadership-and-Expands-Presence-in-Europe-Through-the-Acquisition-of-Moove-Connected-Mobility",
+   "title": "Netradyne Strengthens Global Leadership and Expands Presence in Europe Through the Acquisition of Moove Connected Mobility",
+   "tier": "T2",
+   "claim": "acquisition Moove Connected Mobility (Netherlands)"
+  },
+  {
+   "url": "https://www.businesswire.com/news/home/20260505151874/en/Netradyne-Strengthens-Global-Leadership-and-Expands-Presence-in-Europe-Through-the-Acquisition-of-Moove-Connected-Mobility",
+   "title": "Netradyne Strengthens Global Leadership and Expands Presence in Europe Through the Acquisition of Moove Connected Mobility",
+   "tier": "T2",
+   "claim": "acquisition Moove Connected Mobility (Netherlands)"
+  }
+ ],
+ "startup_id": "netradyne",
+ "traction": [
+  {
+   "as_of": "2025-01",
+   "company_reported": true,
+   "confidence": "HIGH",
+   "metric": "customers / subscribers",
+   "source_url": "https://www.netradyne.com/news/netradyne-r-raises-90-million-in-series-d-funding-led-by-point72-private-investments",
+   "value": "3000+ customers, 450K+ active subscribers"
+  },
+  {
+   "as_of": "2025",
+   "company_reported": true,
+   "confidence": "MEDIUM",
+   "metric": "driving data",
+   "source_url": "https://inc42.com/features/logistics-ai-provider-netradyne-is-the-first-unicorn-of-2025",
+   "value": "20B+ miles processed; 65% growth"
+  }
+ ],
+ "_merged_session2": true
+}

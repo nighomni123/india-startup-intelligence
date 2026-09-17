@@ -1,0 +1,1112 @@
+{
+ "company": {
+  "business_model": "B2B SaaS, product-led growth",
+  "city": "San Francisco / Pleasanton",
+  "confidence": "HIGH",
+  "country": "United States",
+  "customer_type": "B2B + prosumer",
+  "employee_estimate": 106,
+  "employee_estimate_date": "2026",
+  "hq_type": "HQ (US); remote-first, no Bengaluru HQ",
+  "legal_name": "Fireflies AI Corp",
+  "notes": "Seed said Bengaluru — WRONG. US company (SF/Pleasanton/Miami per sources); Indian-origin co-founder Krish Ramineni. Profitable since 2023; $1B valuation via June 2025 tender offer, not a primary round.",
+  "primary_sector": "AI / meeting transcription",
+  "startup_id": "fireflies ai",
+  "startup_stage": "Unicorn (tender valuation)",
+  "status": "Active, profitable",
+  "website": "https://fireflies.ai",
+  "cin": "6201865 (Belgium registration; US entity: Fireflies AI Corp)",
+  "incorporation_date": "2016-11-01",
+  "registered_office": "149 Natoma Street, San Francisco, CA 94105 (US); registered in Belgium",
+  "last_funding_date": "2025-06-12",
+  "last_funding_round": "Tender Offer (Secondary)",
+  "last_known_valuation": "$1Bn (tender offer valuation, Jun 12, 2025)",
+  "official_website": {
+   "v": "https://fireflies.ai",
+   "conf": "high",
+   "src": "https://fireflies.ai",
+   "note": "verified live 2026-09-15: name match on own homepage"
+  },
+  "careers_website": {
+   "v": "https://jobs.gem.com/fireflies",
+   "conf": "high",
+   "src": "official homepage nav",
+   "note": "verified 2026-09-15"
+  }
+ },
+ "competitors": [
+  {
+   "basis": "explicit",
+   "confidence": "MEDIUM",
+   "name": "Otter.ai"
+  },
+  {
+   "basis": "explicit",
+   "confidence": "MEDIUM",
+   "name": "Read AI"
+  },
+  {
+   "basis": "explicit",
+   "confidence": "MEDIUM",
+   "name": "Recall.ai"
+  }
+ ],
+ "conflicts": [
+  {
+   "claim_a": "Total funding $19M (Tracxn/Caplight/getlatka)",
+   "claim_b": "Total funding $19.1M (GetLatka); PitchBook $19M",
+   "field": "total_funding",
+   "resolution": "Use ~$19M disclosed primary funding; tender 2025 is secondary liquidity, not primary raise.",
+   "resolved_value": "$19M",
+   "url_a": "https://tracxn.com/d/companies/fireflies/__Or2uIsFu9ZUcCFmE2xXJMNv7F6yan5k-nxkVOfE1cMQ",
+   "url_b": "http://getlatka.com/companies/firefliesai"
+  },
+  {
+   "claim_a": "Founded 2016 (most sources)",
+   "claim_b": "Founded 2014 (PitchBook FAQ)",
+   "field": "founded_date",
+   "resolution": "Use 2016 (company + majority); note PitchBook 2014 outlier.",
+   "resolved_value": "2016",
+   "url_a": "https://techfundingnews.com/fireflies-ai-unicorn-status-ai-meeting/",
+   "url_b": "http://pitchbook.com/profiles/company/172275-22"
+  },
+  {
+   "claim_a": "HQ Pleasanton/San Francisco CA",
+   "claim_b": "HQ Miami FL (PitchBook/Crunchbase)",
+   "field": "hq_city",
+   "resolution": "US HQ certain; city varies by source/year (remote-first). Record both, prefer SF Bay Area per company PR.",
+   "resolved_value": "San Francisco Bay Area, US",
+   "url_a": "https://www.businesswire.com/news/home/20250612531860/en/Fireflies-Reaches-%241-Billion-Valuation-Partners-With-Perplexity-to-Bring-Real-time-Web-Search-to-Meetings",
+   "url_b": "https://pitchbook.com/profiles/company/172275-22"
+  }
+ ],
+ "customers": [],
+ "events": [
+  {
+   "announced_date": "2025-06-12",
+   "confidence": "HIGH",
+   "date": "2025-06-12",
+   "description": "First tender offer gives early-employee liquidity; valuation crosses $1B. Company says profitable since 2023, triple-digit YoY growth, no primary capital since 2021.",
+   "headline": "Fireflies reaches $1B valuation via first tender offer; partners with Perplexity",
+   "source_url": "https://www.businesswire.com/news/home/20250612531860/en/Fireflies-Reaches-%241-Billion-Valuation-Partners-With-Perplexity-to-Bring-Real-time-Web-Search-to-Meetings",
+   "type": "valuation_milestone"
+  },
+  {
+   "confidence": "MEDIUM",
+   "date": "2025-06-12",
+   "description": "Voice-activated 'Talk to Fireflies' with Perplexity real-time web search across Zoom/Meet/Teams.",
+   "headline": "Launches Talk to Fireflies with Perplexity",
+   "source_url": "https://techfundingnews.com/fireflies-ai-unicorn-status-ai-meeting/",
+   "type": "product_launch"
+  }
+ ],
+ "financials": [
+  {
+   "confidence": "LOW",
+   "currency": "USD",
+   "fiscal_year": "FY24",
+   "metric": "revenue_arr",
+   "source_title": "GetLatka Fireflies page",
+   "source_url": "http://getlatka.com/companies/firefliesai",
+   "value": "10.9M",
+   "value_type": "estimate"
+  },
+  {
+   "confidence": "MEDIUM",
+   "currency": "USD",
+   "fiscal_year": "FY24",
+   "metric": "profitability",
+   "source_title": "BusinessWire company announcement",
+   "source_url": "https://www.businesswire.com/news/home/20250612531860/en/Fireflies-Reaches-%241-Billion-Valuation-Partners-With-Perplexity-to-Bring-Real-time-Web-Search-to-Meetings",
+   "value": "profitable since 2023 (management claim)",
+   "value_type": "management"
+  },
+  {
+   "metric": "revenue",
+   "value": "USD 3,255,660",
+   "unit": "USD",
+   "currency": "USD",
+   "fiscal_year": "FY24",
+   "value_type": "database",
+   "basis": "",
+   "source_url": "https://platform.tracxn.com/a/d/company/57bf4bfee4b00f3f2a5704da/fireflies",
+   "source_title": "Fireflies - Tracxn",
+   "source_date": "",
+   "confidence": "MEDIUM",
+   "notes": "Tracxn latest estimated revenue figure"
+  },
+  {
+   "metric": "revenue",
+   "value": "Rs 3.7 Cr+",
+   "unit": "INR crore",
+   "currency": "INR",
+   "fiscal_year": "FY24",
+   "value_type": "database",
+   "basis": "",
+   "source_url": "https://inc42.com/company/fireflies",
+   "source_title": "Fireflies - Inc42",
+   "source_date": "",
+   "confidence": "LOW",
+   "notes": "Inc42 reports revenue Rs 3.7 Cr+ for FY24"
+  },
+  {
+   "metric": "total funding raised",
+   "value": "USD 19M",
+   "unit": "USD",
+   "currency": "USD",
+   "fiscal_year": "all",
+   "value_type": "database",
+   "basis": "",
+   "source_url": "https://www.cbinsights.com/company/fireflies",
+   "source_title": "Fireflies.ai - CB Insights",
+   "source_date": "",
+   "confidence": "HIGH",
+   "notes": "Total disclosed primary funding $19M across Seed and Series A"
+  }
+ ],
+ "founders": [
+  {
+   "background": "Ex-Microsoft; met co-founder at UPenn/MIT",
+   "confidence": "HIGH",
+   "name": "Krish Ramineni",
+   "role": "Co-founder & CEO",
+   "source_url": "https://techfundingnews.com/fireflies-ai-unicorn-status-ai-meeting/",
+   "still_active": true,
+   "type": "co-founder",
+   "active": "yes",
+   "linkedin": "https://www.linkedin.com/in/krishramineni"
+  },
+  {
+   "background": "Nigerian-American aerospace engineer",
+   "confidence": "HIGH",
+   "name": "Sam Udotong",
+   "role": "Co-founder & CTO",
+   "source_url": "https://techfundingnews.com/fireflies-ai-unicorn-status-ai-meeting/",
+   "still_active": true,
+   "type": "co-founder",
+   "active": "yes",
+   "location": "United States",
+   "linkedin": "https://www.linkedin.com/in/sudotong"
+  }
+ ],
+ "funding_rounds": [
+  {
+   "all_investors": [],
+   "amount": "14M",
+   "announced_date": "2021-05-24",
+   "confidence": "HIGH",
+   "currency": "USD",
+   "lead_investors": [
+    "Khosla Ventures"
+   ],
+   "purpose": "growth",
+   "round_date": "2021-05-24",
+   "round_type": "Series A",
+   "source_date": "2021-05-24",
+   "source_title": "Series A reports via Tracxn/Caplight",
+   "source_url": "https://www.caplight.com/company/fireflies-ai",
+   "tier": "T2",
+   "announcement_date": "2021-05-24",
+   "valuation": "Unknown",
+   "valuation_currency": "USD",
+   "valuation_type": "UNKNOWN",
+   "new_or_existing": "new"
+  },
+  {
+   "all_investors": [
+    "early employees (liquidity)"
+   ],
+   "amount": null,
+   "announced_date": "2025-06-12",
+   "confidence": "HIGH",
+   "currency": "USD",
+   "lead_investors": [],
+   "notes": "Secondary tender, not primary capital; valuation >$1B",
+   "purpose": "employee liquidity",
+   "round_date": "2025-06-12",
+   "round_type": "Tender / Secondary",
+   "source_date": "2025-06-12",
+   "source_title": "Fireflies Reaches $1 Billion Valuation (BusinessWire)",
+   "source_url": "https://www.businesswire.com/news/home/20250612531860/en/Fireflies-Reaches-%241-Billion-Valuation-Partners-With-Perplexity-to-Bring-Real-time-Web-Search-to-Meetings",
+   "tier": "T1",
+   "valuation": "1B+",
+   "valuation_type": "tender-implied"
+  },
+  {
+   "round_type": "Tender Offer",
+   "amount": "",
+   "currency": "USD",
+   "round_date": "2025-06-12",
+   "valuation": "$1Bn",
+   "valuation_currency": "USD",
+   "valuation_type": "tender offer (secondary)",
+   "lead_investors": [],
+   "all_investors": [],
+   "new_or_existing": "existing",
+   "purpose": "Liquidity for early team members; secondary transaction",
+   "source_url": "https://www.businesswire.com/news/home/20250612531860/en/Fireflies-Reaches-%241-Billion-Valuation-Partners-With-Perplexity-to-Bring-Real-time-Web-Search-to-Meetings",
+   "confidence": "HIGH",
+   "notes": "added session-2 gapfill"
+  },
+  {
+   "round_type": "Seed",
+   "amount": "",
+   "currency": "USD",
+   "round_date": "2019-10-29",
+   "valuation": "Unknown",
+   "valuation_currency": "USD",
+   "valuation_type": "UNKNOWN",
+   "lead_investors": [],
+   "all_investors": [],
+   "new_or_existing": "new",
+   "purpose": "Early stage",
+   "source_url": "https://platform.tracxn.com/a/d/company/57bf4bfee4b00f3f2a5704da/fireflies",
+   "confidence": "HIGH",
+   "notes": "added session-2 gapfill"
+  }
+ ],
+ "gaps": [
+  "No audited financials (US private, no MCA filings)",
+  "Seed-round amounts/dates not verified from primary source",
+  "India presence (if any) unverified — appears none beyond founder origin",
+  "FY25 revenue not disclosed",
+  "US CIN / incorporation details from US state registry (Delaware or California)",
+  "Audited financial statements (company is private; no SEC filings)",
+  "Exact revenue figures (company does not publicly disclose)",
+  "Employee headcount exact figure (Tracxn 126, Forbes 200, PitchBook 120)",
+  "DPIIT recognition (not applicable - US company)",
+  "FY25-26 financials"
+ ],
+ "hiring": [
+  {
+   "confidence": "MEDIUM",
+   "fact_type": "headcount",
+   "source_url": "http://pitchbook.com/profiles/company/172275-22",
+   "value": "~100-126 employees, remote across 20+ countries",
+   "value_type": null
+  }
+ ],
+ "investor_links": [
+  {
+   "confidence": "HIGH",
+   "first_seen": "2021",
+   "investor": "Khosla Ventures",
+   "investor_type": "VC",
+   "lead": true,
+   "rounds": [
+    "Series A"
+   ],
+   "source_url": "https://www.caplight.com/company/fireflies-ai"
+  },
+  {
+   "confidence": "HIGH",
+   "first_seen": "2019",
+   "investor": "Canaan Partners",
+   "investor_type": "VC",
+   "lead": false,
+   "rounds": [
+    "Seed",
+    "Series A"
+   ],
+   "source_url": "https://www.caplight.com/company/fireflies-ai"
+  }
+ ],
+ "legal": [
+  {
+   "confidence": "MEDIUM",
+   "dates": "filed Dec 2025; Mar 2026 cases",
+   "regulator": "US District Courts (IL, CA)",
+   "status": "ongoing per 2026 dockets",
+   "summary": "Class-action complaints re alleged unlawful recording/data collection (Cruz v Fireflies IL; Parrinello v Fireflies CA) — allegations only.",
+   "source_url": "https://dockets.justia.com/docket/illinois/ilcdce/3:2025cv03399/98340",
+   "type": "allegation"
+  }
+ ],
+ "locations": [
+  {
+   "address_or_area": "Pleasanton / San Francisco",
+   "as_of": "2025",
+   "city": "San Francisco",
+   "confidence": "MEDIUM",
+   "source_url": "https://www.businesswire.com/news/home/20250612531860/en/Fireflies-Reaches-%241-Billion-Valuation-Partners-With-Perplexity-to-Bring-Real-time-Web-Search-to-Meetings",
+   "state": "California",
+   "type": "HQ"
+  }
+ ],
+ "partnerships": [
+  {
+   "confidence": "HIGH",
+   "name": "Perplexity — real-time web search in meetings",
+   "source_url": "https://www.businesswire.com/news/home/20250612531860/en/Fireflies-Reaches-%241-Billion-Valuation-Partners-With-Perplexity-to-Bring-Real-time-Web-Search-to-Meetings"
+  }
+ ],
+ "products": [
+  {
+   "confidence": "HIGH",
+   "name": "Fireflies.ai meeting assistant (record/transcribe/summarize/action items, CRM integrations)"
+  }
+ ],
+ "research_log": [
+  {
+   "found": "$1B tender valuation; founders; profitability claim; investors",
+   "next_action": "done",
+   "query": "Fireflies AI funding valuation 2025 2026",
+   "unresolved": "seed amounts"
+  },
+  {
+   "found": "lawsuits; revenue estimate $10.9M; HQ conflict",
+   "next_action": "done",
+   "query": "Fireflies AI founders revenue lawsuit 2025",
+   "unresolved": "audited financials"
+  },
+  {
+   "found": "2 fetches failed (403); TFN fetch ok",
+   "next_action": "rely on snippets for BusinessWire facts",
+   "query": "fetch load-bearing pages",
+   "unresolved": "BusinessWire fetch 403"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "fireflies ai CIN incorporation date founded 2016",
+   "found": "Fireflies AI Corp incorporated Nov 1, 2016 (per Tracxn legal entity data, Belgium registration CIN 6201865). US HQ at 149 Natoma St, San Francisco. Founded 2016 by Krish Ramineni and Sam Udotong (MIT alumni).",
+   "unresolved": "Fireflies is a US company with Belgium registration; no Indian CIN exists. PitchBook lists founding year as 2014 (outlier); majority of sources say 2016."
+  },
+  {
+   "date": "2026-09-14",
+   "query": "fireflies ai valuation 2025 2026 unicorn tender offer",
+   "found": "Reached $1Bn valuation Jun 12, 2025 via first tender offer. Total primary funding $19M (Seed 2019, Series A May 2021). Profitable since 2023. Secondary transaction Jan 2026 also recorded. 126 employees (Tracxn) / 200 (Forbes).",
+   "unresolved": "No primary funding round since 2021; valuation from tender offer (secondary), not a priced primary round. Exact revenue figures not disclosed by company."
+  },
+  {
+   "date": "2026-09-14",
+   "query": "Q-wave claim source-hunt",
+   "found": "1 resolved",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  }
+ ],
+ "sources": [
+  {
+   "claim_supported": "$1B tender valuation; profitability; Perplexity partnership",
+   "fields_supported": [
+    "events",
+    "valuation",
+    "partnerships"
+   ],
+   "publication_date": "2025-06-12",
+   "publisher": "BusinessWire (company PR)",
+   "retrieved_date": "2026-09-14",
+   "tier": "T1",
+   "title": "Fireflies Reaches $1 Billion Valuation...",
+   "url": "https://www.businesswire.com/news/home/20250612531860/en/Fireflies-Reaches-%241-Billion-Valuation-Partners-With-Perplexity-to-Bring-Real-time-Web-Search-to-Meetings"
+  },
+  {
+   "claim_supported": "founders; lean growth; valuation context",
+   "fields_supported": [
+    "founders",
+    "events"
+   ],
+   "publication_date": "2025-06-13",
+   "publisher": "TechFundingNews",
+   "retrieved_date": "2026-09-14",
+   "tier": "T3",
+   "title": "Fireflies ignites a $1B valuation...",
+   "url": "https://techfundingnews.com/fireflies-ai-unicorn-status-ai-meeting/"
+  },
+  {
+   "claim_supported": "rounds; investors; HQ",
+   "fields_supported": [
+    "funding_rounds",
+    "investor_links"
+   ],
+   "publication_date": null,
+   "publisher": "Caplight",
+   "retrieved_date": "2026-09-14",
+   "tier": "T2",
+   "title": "Fireflies.ai Valuation, Funding Rounds & Stock Price",
+   "url": "https://www.caplight.com/company/fireflies-ai"
+  },
+  {
+   "claim_supported": "class-action allegations",
+   "fields_supported": [
+    "legal"
+   ],
+   "publication_date": "2025-12-18",
+   "publisher": "Justia dockets",
+   "retrieved_date": "2026-09-14",
+   "tier": "T1",
+   "title": "Cruz v. Fireflies.AI Corp docket",
+   "url": "https://dockets.justia.com/docket/illinois/ilcdce/3:2025cv03399/98340"
+  },
+  {
+   "url": "https://platform.tracxn.com/a/d/company/57bf4bfee4b00f3f2a5704da/fireflies",
+   "title": "",
+   "fields": "FINANCIALS",
+   "confidence": "MEDIUM"
+  },
+  {
+   "url": "https://inc42.com/company/fireflies",
+   "title": "",
+   "fields": "FINANCIALS",
+   "confidence": "LOW"
+  },
+  {
+   "url": "https://www.cbinsights.com/company/fireflies",
+   "title": "",
+   "fields": "FINANCIALS",
+   "confidence": "HIGH"
+  },
+  {
+   "url": "https://www.forbes.com/companies/firefliesai",
+   "title": "Fireflies.ai | Company Overview & News",
+   "fields": [
+    "founding_year",
+    "headquarters",
+    "employees"
+   ],
+   "confidence": "HIGH"
+  },
+  {
+   "url": "http://fireflies.ai/blog/fireflies-1-billion-valuation",
+   "title": "Fireflies reaches $1 billion valuation, partners with Perplexity",
+   "fields": [
+    "valuation",
+    "tender_offer",
+    "profitability",
+    "growth"
+   ],
+   "confidence": "HIGH"
+  },
+  {
+   "url": "https://pitchbook.com/profiles/company/172275-22",
+   "title": "Fireflies.ai 2026 Company Profile: Valuation, Funding & Investors | PitchBook",
+   "fields": [
+    "founding_year",
+    "employees",
+    "funding_rounds"
+   ],
+   "confidence": "MEDIUM"
+  },
+  {
+   "url": "http://www.fireflies.ai/product",
+   "title": "Fireflies.ai meeting assistant (record/transcribe/summarize/action items, CRM integrations)",
+   "fields": "quarantine-resolved",
+   "confidence": "HIGH"
+  },
+  {
+   "url": "https://fireflies.ai/about-us",
+   "title": "Fireflies.ai About Us | Transforming Meetings with AI App & Notetaker",
+   "tier": "T2",
+   "claim": "founder status Krish Ramineni"
+  },
+  {
+   "url": "https://www.linkedin.com/in/sudotong",
+   "title": "Sam Udotong - Fireflies.ai - LinkedIn",
+   "tier": "T2",
+   "claim": "founder status Sam Udotong"
+  }
+ ],
+ "startup_id": "fireflies ai",
+ "traction": [
+  {
+   "as_of": "2025-06",
+   "company_reported": true,
+   "confidence": "MEDIUM",
+   "metric": "users/orgs",
+   "period": "2025-06",
+   "source_url": "https://www.businesswire.com/news/home/20250612531860/en/Fireflies-Reaches-%241-Billion-Valuation-Partners-With-Perplexity-to-Bring-Real-time-Web-Search-to-Meetings",
+   "value": "20M+ users; 500k+ orgs; 2B meeting minutes; 75% Fortune 500"
+  }
+ ],
+ "investors_meta": [
+  {
+   "investor": "Khosla Ventures",
+   "type": "Venture Capital",
+   "hq_geography": "United States",
+   "india_presence": "No",
+   "source_url": "https://www.cbinsights.com/company/fireflies"
+  },
+  {
+   "investor": "Canaan Partners",
+   "type": "Venture Capital",
+   "hq_geography": "United States",
+   "india_presence": "No",
+   "source_url": "https://www.cbinsights.com/company/fireflies"
+  },
+  {
+   "investor": "Coelius Capital",
+   "type": "Investment",
+   "hq_geography": "Unknown",
+   "india_presence": "No",
+   "source_url": "https://www.caplight.com/company/fireflies-ai"
+  },
+  {
+   "investor": "Deep Ventures",
+   "type": "Venture Capital",
+   "hq_geography": "Unknown",
+   "india_presence": "No",
+   "source_url": "https://platform.tracxn.com/a/d/company/57bf4bfee4b00f3f2a5704da/fireflies"
+  },
+  {
+   "investor": "F7 Ventures",
+   "type": "Venture Capital",
+   "hq_geography": "United States",
+   "india_presence": "No",
+   "source_url": "https://platform.tracxn.com/a/d/company/57bf4bfee4b00f3f2a5704da/fireflies"
+  },
+  {
+   "investor": "Forum Ventures",
+   "type": "Venture Capital",
+   "hq_geography": "United States",
+   "india_presence": "No",
+   "source_url": "https://platform.tracxn.com/a/d/company/57bf4bfee4b00f3f2a5704da/fireflies"
+  },
+  {
+   "investor": "Right Side Capital Management",
+   "type": "Venture Capital",
+   "hq_geography": "United States",
+   "india_presence": "No",
+   "source_url": "https://platform.tracxn.com/a/d/company/57bf4bfee4b00f3f2a5704da/fireflies"
+  },
+  {
+   "investor": "April Underwood",
+   "type": "Angel Investor",
+   "hq_geography": "United States",
+   "india_presence": "No",
+   "source_url": "https://platform.tracxn.com/a/d/company/57bf4bfee4b00f3f2a5704da/fireflies"
+  },
+  {
+   "investor": "Sandhya Venkatachalam",
+   "type": "Angel Investor",
+   "hq_geography": "United States",
+   "india_presence": "No",
+   "source_url": "https://platform.tracxn.com/a/d/company/57bf4bfee4b00f3f2a5704da/fireflies"
+  },
+  {
+   "investor": "Perplexity",
+   "type": "Strategic Partner",
+   "hq_geography": "United States",
+   "india_presence": "No",
+   "source_url": "https://www.businesswire.com/news/home/20250612531860/en/Fireflies-Reaches-%241-Billion-Valuation-Partners-With-Perplexity-to-Bring-Real-time-Web-Search-to-Meetings"
+  }
+ ],
+ "people": [
+  {
+   "name": "Krish Ramineni",
+   "position": "Co-Founder & CEO",
+   "status": "active",
+   "source_url": "https://platform.tracxn.com/a/d/company/57bf4bfee4b00f3f2a5704da/fireflies"
+  },
+  {
+   "name": "Sam Udotong",
+   "position": "Co-Founder & CTO",
+   "status": "active",
+   "source_url": "https://platform.tracxn.com/a/d/company/57bf4bfee4b00f3f2a5704da/fireflies"
+  }
+ ],
+ "_merged_session2": true
+}

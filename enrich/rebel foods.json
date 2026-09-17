@@ -1,0 +1,2603 @@
+{
+ "acquisitions": [
+  {
+   "confidence": "MEDIUM",
+   "date": "2022-04-07",
+   "direction": "made",
+   "disclosed": true,
+   "rationale": "Expand into premium desserts/chocolate retail",
+   "source_url": "https://retail.economictimes.indiatimes.com/news/food-entertainment/food-services/cloud-kitchen-company-rebel-foods-acquires-majority-stake-in-chocolate-brand-smoor/90703637",
+   "target": "Smoor (chocolates/desserts)",
+   "type": "product acquisition",
+   "counterparty": "Smoor",
+   "value": "undisclosed"
+  }
+ ],
+ "canonical_key": "rebel foods",
+ "company": {
+  "business_model": "Cloud kitchens + omnichannel (EatSure food courts, Wendy's franchise)",
+  "city": "Mumbai",
+  "confidence": "HIGH",
+  "country": "India",
+  "customer_type": "B2C",
+  "founded_date": "2011",
+  "hq_type": "operating",
+  "legal_name": "Rebel Foods Private Limited (formerly Faasos Food Services)",
+  "primary_sector": "foodtech/cloud kitchen",
+  "primary_source_id": "et-kkr-dec2024",
+  "startup_id": "rebel foods",
+  "startup_stage": "Unicorn (late-stage, pre-IPO)",
+  "state": "Maharashtra",
+  "status": "active",
+  "total_funding_disclosed": "~$780M (CB Insights, 25 rounds, as of Apr 2025)",
+  "website": "https://www.rebelfoods.com",
+  "cin": "U93000PN2010PTC136943",
+  "incorporation_date": "2010-07-27",
+  "official_website": {
+   "v": "https://www.rebelfoods.com",
+   "conf": "high",
+   "src": "https://www.rebelfoods.com",
+   "note": "verified live 2026-09-15: name match on own homepage"
+  },
+  "careers_website": {
+   "v": "https://www.rebelfoods.com/join-our-team",
+   "conf": "high",
+   "src": "https://www.rebelfoods.com",
+   "note": "playwright render 2026-09-15"
+  },
+  "description": {
+   "v": "Rebel Foods is India's largest cloud kitchen company operating multiple food brands from delivery-only kitchens. Portfolio includes Faasos, Behrouz Biryani, Oven Story Pizza, Lunchbox, The Good Bowl, Sweet Truth, Mandarin Oak. Also holds master franchise for Wendy's India (160 stores).",
+   "conf": "HIGH",
+   "src": "https://www.straitstimes.com/business/companies-markets/temasek-leads-282m-fundraising-round-for-india-start-up-rebel-foods-ahead-of-planned-ipo",
+   "note": "",
+   "asof": "2024-12"
+  },
+  "employee_estimate": {
+   "v": 6040,
+   "conf": "MEDIUM",
+   "src": "https://www.thekredible.com/company/rebel-foods",
+   "note": "Tracxn data; unverified from primary source",
+   "asof": "2024"
+  },
+  "public_private": {
+   "v": "private",
+   "conf": "HIGH",
+   "src": "https://www.straitstimes.com/business/companies-markets/temasek-leads-282m-fundraising-round-for-india-start-up-rebel-foods-ahead-of-planned-ipo",
+   "note": "IPO planned 2026; not yet listed",
+   "asof": "2026-09-15"
+  }
+ },
+ "competitors": [
+  {
+   "basis": "explicit",
+   "confidence": "MEDIUM",
+   "name": "Curefoods"
+  },
+  {
+   "basis": "explicit",
+   "confidence": "MEDIUM",
+   "name": "EatClub (Box8)"
+  }
+ ],
+ "completeness_self": {
+  "customers": 5,
+  "financials": 9,
+  "founders": 8,
+  "funding": 9,
+  "identity": 9,
+  "investors": 8,
+  "legal": 5,
+  "people": 4,
+  "products": 8,
+  "sources": 8,
+  "traction": 7
+ },
+ "conflicts": [
+  {
+   "claim_a": "$210M Series G at $1.4B valuation (company statement)",
+   "claim_b": "$210M round largely secondary at ~$750-800M valuation",
+   "field": "Series G valuation Dec 2024",
+   "resolution": "Both true per ET: primary infusion at $1.4B flat; secondary sale at ~$750-800M discount",
+   "resolved_value": "Primary $1.4B; secondary ~$750-800M",
+   "url_a": "https://www.straitstimes.com/business/companies-markets/temasek-leads-282m-fundraising-round-for-india-start-up-rebel-foods-ahead-of-planned-ipo",
+   "url_b": "https://m.economictimes.com/tech/technology/kkr-invests-in-rebel-foods-valuing-the-cloud-kitchen-brand-at-around-800-million/articleshow/116462887.cms"
+  },
+  {
+   "field": "legal_name",
+   "claim_a": "Rebel Foods Private Limited (formerly Faasos Food Services)",
+   "url_a": "",
+   "claim_b": "Rebel Foods Private Limited",
+   "url_b": "",
+   "resolution": "phase3 p3 payload disagrees with existing value; existing kept as preferred pending human review",
+   "resolved_value": "",
+   "reviewed": "p3-merge"
+  },
+  {
+   "field": "business_model",
+   "claim_a": "Cloud kitchens + omnichannel (EatSure food courts, Wendy's franchise)",
+   "url_a": "",
+   "claim_b": "Cloud kitchens + omnichannel (EatSure food courts, Wendy's India franchise, brand portfolio)",
+   "url_b": "",
+   "resolution": "phase3 p3 payload disagrees with existing value; existing kept as preferred pending human review",
+   "resolved_value": "",
+   "reviewed": "p3-merge"
+  },
+  {
+   "field": "Founder identity",
+   "claim_a": "Jaydeep Barman and Kallol Banerjee are co-founders (multiple sources)",
+   "url_a": "https://m.economictimes.com/tech/technology/kkr-invests-in-rebel-foods-valuing-the-cloud-kitchen-brand-at-around-800-million/articleshow/116462887.cms",
+   "claim_b": "Raghav Joshi quoted as 'co-founder' in Smoor PR",
+   "url_b": "https://retail.economictimes.indiatimes.com/news/food-entertainment/food-services/cloud-kitchen-company-rebel-foods-acquires-majority-stake-in-chocolate-brand-smoor/90703637",
+   "resolution": "Barman and Banerjee are primary co-founders (2011); Joshi may be a later co-founder or executive",
+   "resolved_value": "Primary founders: Barman, Banerjee; Joshi role uncertain"
+  },
+  {
+   "field": "Ankush Grover CEO",
+   "claim_a": "Ankush Grover replaced Jaydeep Barman as CEO",
+   "url_a": "https://m.economictimes.com/tech/funding/cloud-kitchen-firm-eatclub-to-raise-rs-185-crore-from-tiger-global-a91-partners-360-one/articleshow/122909399.cms",
+   "claim_b": "Jaydeep Barman still listed as CEO in Dec 2024 ET article",
+   "url_b": "https://m.economictimes.com/tech/technology/kkr-invests-in-rebel-foods-valuing-the-cloud-kitchen-brand-at-around-800-million/articleshow/116462887.cms",
+   "resolution": "The EatClub article's sentence about Barman/Grover is ambiguous; may refer to EatClub not Rebel Foods. NOT confirmed for Rebel Foods.",
+   "resolved_value": "UNCONFIRMED - likely EatClub, not Rebel Foods"
+  }
+ ],
+ "customers": [
+  {
+   "name": "Zomato",
+   "type": "aggregator",
+   "announced_date": null,
+   "status": "active",
+   "source_url": "https://m.economictimes.com/tech/technology/rebel-foods-posts-rise-in-fy24-revenue-to-rs-1420-crore-trims-losses/articleshow/112924120.cms",
+   "confidence": "MEDIUM",
+   "notes": "Rebel Foods derives revenue via food delivery aggregators"
+  },
+  {
+   "name": "Swiggy",
+   "type": "aggregator",
+   "announced_date": null,
+   "status": "active",
+   "source_url": "",
+   "confidence": "MEDIUM",
+   "notes": "Standard aggregator partner for cloud kitchens"
+  },
+  {
+   "name": "Wendy's India",
+   "type": "franchise partner",
+   "announced_date": null,
+   "status": "active",
+   "source_url": "https://www.straitstimes.com/business/companies-markets/temasek-leads-282m-fundraising-round-for-india-start-up-rebel-foods-ahead-of-planned-ipo",
+   "confidence": "HIGH",
+   "notes": "Master franchise operator"
+  }
+ ],
+ "events": [
+  {
+   "announced_date": "2024-12-12",
+   "confidence": "HIGH",
+   "date": "2024-12-12",
+   "description": "$210M Series G led by Temasek with Evolvence; mix of primary + secondary",
+   "headline": "Temasek-led $210M Series G",
+   "source_url": "https://www.straitstimes.com/business/companies-markets/temasek-leads-282m-fundraising-round-for-india-start-up-rebel-foods-ahead-of-planned-ipo",
+   "type": "funding"
+  },
+  {
+   "announced_date": "2024-12-19",
+   "confidence": "HIGH",
+   "date": "2024-12-19",
+   "description": "KKR acquired stake via secondary purchase; Coatue/Lightbox sold part stakes",
+   "headline": "KKR secondary investment",
+   "source_url": "https://m.economictimes.com/tech/technology/kkr-invests-in-rebel-foods-valuing-the-cloud-kitchen-brand-at-around-800-million/articleshow/116462887.cms",
+   "type": "funding"
+  },
+  {
+   "announced_date": "2025-04-22",
+   "confidence": "MEDIUM",
+   "date": "2025-04-22",
+   "description": "$25M from QIA at $1.4B valuation for omnichannel/food-court expansion (reported, company did not comment)",
+   "headline": "$25M QIA top-up reported",
+   "source_url": "https://finance.yahoo.com/news/rebel-foods-secures-25m-qatar-141914835.html",
+   "type": "funding"
+  },
+  {
+   "type": "founding",
+   "headline": "Rebel Foods founded",
+   "date": "2011",
+   "description": "Founded by Jaydeep Barman and Kallol Banerjee as Faasos Food Services",
+   "source_url": "https://m.economictimes.com/tech/technology/kkr-invests-in-rebel-foods-valuing-the-cloud-kitchen-brand-at-around-800-million/articleshow/116462887.cms",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "funding",
+   "headline": "Series F - $175M from QIA",
+   "date": "2021-10-07",
+   "description": "Rebel Foods turned unicorn at $1.4B valuation",
+   "source_url": "https://m.economictimes.com/tech/technology/rebel-foods-posts-rise-in-fy24-revenue-to-rs-1420-crore-trims-losses/articleshow/112924120.cms",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "acquisition",
+   "headline": "Acquired majority stake in Smoor",
+   "date": "2022-04-07",
+   "description": "Acquired majority stake in chocolate brand Smoor as part of $150M investment plan for acquiring food brands (Rebel Launcher)",
+   "source_url": "https://retail.economictimes.indiatimes.com/news/food-entertainment/food-services/cloud-kitchen-company-rebel-foods-acquires-majority-stake-in-chocolate-brand-smoor/90703637",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "funding",
+   "headline": "$25M from QIA top-up",
+   "date": "2025-04-22",
+   "description": "$25M from Qatar Investment Authority at $1.4B valuation for omnichannel expansion",
+   "source_url": "https://finance.yahoo.com/news/rebel-foods-secures-25m-qatar-141914835.html",
+   "confidence": "MEDIUM"
+  },
+  {
+   "type": "ipo",
+   "headline": "IPO planned for 2026",
+   "date": "2024-12-12",
+   "description": "CFO Piyush Kakkad stated IPO planned in 18-24 month timeframe from Dec 2024",
+   "source_url": "https://www.straitstimes.com/business/companies-markets/temasek-leads-282m-fundraising-round-for-india-start-up-rebel-foods-ahead-of-planned-ipo",
+   "confidence": "HIGH",
+   "notes": "No DRHP filed as of Sep 2026 based on available sources"
+  },
+  {
+   "type": "financial",
+   "headline": "FY26 results: Loss down 16%, Revenue up 21%",
+   "date": "2026-09-15",
+   "description": "FY26 loss reduced to Rs 282 Cr; revenue grew 21% YoY",
+   "source_url": "https://inc42.com/startups/to-infinity-beyond-indian-spacetech-startups-winning-space-race/",
+   "confidence": "MEDIUM",
+   "notes": "From Inc42 headline; full article behind paywall"
+  }
+ ],
+ "financials": [
+  {
+   "confidence": "HIGH",
+   "currency": "INR",
+   "fiscal_year": "FY25",
+   "metric": "operating_revenue",
+   "source_title": "Rebel Foods growth slows in FY25, reports Rs 336 Cr loss",
+   "source_url": "http://entrackr.com/fintrackr/rebel-foods-growth-slows-in-fy25-reports-rs-336-cr-loss-10884067",
+   "value": "1617 crore",
+   "value_type": "press-quoted-filing"
+  },
+  {
+   "confidence": "HIGH",
+   "currency": "INR",
+   "fiscal_year": "FY25",
+   "metric": "net_loss",
+   "source_url": "http://entrackr.com/fintrackr/rebel-foods-growth-slows-in-fy25-reports-rs-336-cr-loss-10884067",
+   "value": "336 crore",
+   "value_type": "press-quoted-filing"
+  },
+  {
+   "confidence": "HIGH",
+   "currency": "INR",
+   "fiscal_year": "FY24",
+   "metric": "operating_revenue",
+   "source_title": "Rebel Foods posts rise in FY24 revenue",
+   "source_url": "https://m.economictimes.com/tech/technology/rebel-foods-posts-rise-in-fy24-revenue-to-rs-1420-crore-trims-losses/articleshow/112924120.cms",
+   "value": "1420 crore",
+   "value_type": "press-quoted-filing"
+  },
+  {
+   "confidence": "HIGH",
+   "currency": "INR",
+   "fiscal_year": "FY24",
+   "metric": "net_loss",
+   "source_url": "https://m.economictimes.com/tech/technology/rebel-foods-posts-rise-in-fy24-revenue-to-rs-1420-crore-trims-losses/articleshow/112924120.cms",
+   "value": "378 crore",
+   "value_type": "press-quoted-filing"
+  },
+  {
+   "fiscal_year": "FY23",
+   "metric": "total_revenue",
+   "value": 1195,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "press-quoted-filing",
+   "basis": "consolidated",
+   "consolidated": "yes",
+   "source_url": "https://m.economictimes.com/tech/technology/rebel-foods-posts-rise-in-fy24-revenue-to-rs-1420-crore-trims-losses/articleshow/112924120.cms",
+   "source_title": "Rebel Foods posts rise in FY24 revenue to Rs 1,420 crore",
+   "source_date": "2024-08-30",
+   "confidence": "HIGH",
+   "notes": "FY23 revenue from operations"
+  },
+  {
+   "fiscal_year": "FY23",
+   "metric": "net_loss",
+   "value": 656,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "press-quoted-filing",
+   "basis": "consolidated",
+   "consolidated": "yes",
+   "source_url": "https://m.economictimes.com/tech/technology/rebel-foods-posts-rise-in-fy24-revenue-to-rs-1420-crore-trims-losses/articleshow/112924120.cms",
+   "source_title": "Rebel Foods posts rise in FY24 revenue to Rs 1,420 crore",
+   "source_date": "2024-08-30",
+   "confidence": "HIGH",
+   "notes": "FY23 net loss"
+  },
+  {
+   "fiscal_year": "FY24",
+   "metric": "total_revenue",
+   "value": 1420,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "press-quoted-filing",
+   "basis": "consolidated",
+   "consolidated": "yes",
+   "source_url": "https://m.economictimes.com/tech/technology/rebel-foods-posts-rise-in-fy24-revenue-to-rs-1420-crore-trims-losses/articleshow/112924120.cms",
+   "source_title": "Rebel Foods posts rise in FY24 revenue to Rs 1,420 crore",
+   "source_date": "2024-08-30",
+   "confidence": "HIGH",
+   "notes": "19% YoY growth from FY23"
+  },
+  {
+   "fiscal_year": "FY24",
+   "metric": "net_loss",
+   "value": 378,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "press-quoted-filing",
+   "basis": "consolidated",
+   "consolidated": "yes",
+   "source_url": "https://m.economictimes.com/tech/technology/rebel-foods-posts-rise-in-fy24-revenue-to-rs-1420-crore-trims-losses/articleshow/112924120.cms",
+   "source_title": "Rebel Foods posts rise in FY24 revenue to Rs 1,420 crore",
+   "source_date": "2024-08-30",
+   "confidence": "HIGH",
+   "notes": "42% reduction from FY23 loss of Rs 656 Cr"
+  },
+  {
+   "fiscal_year": "FY25",
+   "metric": "total_revenue",
+   "value": 1617,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "press-quoted-filing",
+   "basis": "consolidated",
+   "consolidated": "yes",
+   "source_url": "http://entrackr.com/fintrackr/rebel-foods-growth-slows-in-fy25-reports-rs-336-cr-loss-10884067",
+   "source_title": "Rebel Foods growth slows in FY25, reports Rs 336 Cr loss",
+   "source_date": "2025-12-05",
+   "confidence": "HIGH",
+   "notes": "14% YoY growth; food product sales Rs 1,565 Cr (97% of revenue)"
+  },
+  {
+   "fiscal_year": "FY25",
+   "metric": "net_loss",
+   "value": 336,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "press-quoted-filing",
+   "basis": "consolidated",
+   "consolidated": "yes",
+   "source_url": "http://entrackr.com/fintrackr/rebel-foods-growth-slows-in-fy25-reports-rs-336-cr-loss-10884067",
+   "source_title": "Rebel Foods growth slows in FY25, reports Rs 336 Cr loss",
+   "source_date": "2025-12-05",
+   "confidence": "HIGH",
+   "notes": "12% reduction from FY24 loss"
+  },
+  {
+   "fiscal_year": "FY25",
+   "metric": "total_income",
+   "value": 1658,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "press-quoted-filing",
+   "basis": "consolidated",
+   "consolidated": "yes",
+   "source_url": "http://entrackr.com/fintrackr/rebel-foods-growth-slows-in-fy25-reports-rs-336-cr-loss-10884067",
+   "source_title": "Rebel Foods growth slows in FY25, reports Rs 336 Cr loss",
+   "source_date": "2025-12-05",
+   "confidence": "HIGH",
+   "notes": "Includes non-operating revenue of Rs 41 Cr"
+  },
+  {
+   "fiscal_year": "FY26",
+   "metric": "net_loss",
+   "value": 282,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "press-quoted-filing",
+   "basis": "consolidated",
+   "consolidated": "yes",
+   "source_url": "https://inc42.com/startups/to-infinity-beyond-indian-spacetech-startups-winning-space-race/",
+   "source_title": "Inc42 article listing (sidebar: Rebel Foods Cuts FY26 Loss By 16% To ₹282 Cr, Revenue Jumps 21%)",
+   "source_date": "2026-09-15",
+   "confidence": "MEDIUM",
+   "notes": "From Inc42 sidebar headline; full article behind paywall"
+  },
+  {
+   "fiscal_year": "FY26",
+   "metric": "total_revenue",
+   "value": 1957,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "estimate",
+   "basis": "consolidated",
+   "consolidated": "yes",
+   "source_url": "https://inc42.com/startups/to-infinity-beyond-indian-spacetech-startups-winning-space-race/",
+   "source_title": "Inc42 sidebar: Revenue Jumps 21%",
+   "source_date": "2026-09-15",
+   "confidence": "MEDIUM",
+   "notes": "ESTIMATE: 21% growth over FY25's Rs 1,617 Cr = ~Rs 1,957 Cr"
+  }
+ ],
+ "founders": [
+  {
+   "confidence": "HIGH",
+   "name": "Jaydeep Barman",
+   "role": "Co-founder & CEO",
+   "source_url": "https://m.economictimes.com/tech/technology/kkr-invests-in-rebel-foods-valuing-the-cloud-kitchen-brand-at-around-800-million/articleshow/116462887.cms",
+   "still_active": true,
+   "type": "co-founder"
+  },
+  {
+   "background": "McKinsey alumnus",
+   "confidence": "HIGH",
+   "name": "Kallol Banerjee",
+   "role": "Co-founder",
+   "source_url": "https://m.economictimes.com/tech/technology/kkr-invests-in-rebel-foods-valuing-the-cloud-kitchen-brand-at-around-800-million/articleshow/116462887.cms",
+   "still_active": true,
+   "type": "co-founder"
+  }
+ ],
+ "funding_rounds": [
+  {
+   "all_investors": [
+    "Temasek",
+    "Evolvence Capital"
+   ],
+   "amount": 210000000,
+   "announced_date": "2024-12-12",
+   "confidence": "HIGH",
+   "currency": "USD",
+   "lead_investors": [
+    "Temasek"
+   ],
+   "round_type": "Series G",
+   "source_date": "2024-12-12",
+   "source_title": "Temasek leads $282m fund-raising round for Rebel Foods",
+   "source_url": "https://www.straitstimes.com/business/companies-markets/temasek-leads-282m-fundraising-round-for-india-start-up-rebel-foods-ahead-of-planned-ipo",
+   "tier": "T3",
+   "valuation": "1.4B (primary); ~750-800M (secondary portion)",
+   "valuation_type": "post-money (primary)"
+  },
+  {
+   "all_investors": [
+    "KKR (secondary buyer)",
+    "Coatue (seller)",
+    "Lightbox (seller)"
+   ],
+   "announced_date": "2024-12-19",
+   "confidence": "HIGH",
+   "currency": "USD",
+   "lead_investors": [
+    "KKR"
+   ],
+   "round_type": "Secondary",
+   "source_date": "2024-12-19",
+   "source_title": "KKR buys secondary shares in Rebel Foods",
+   "source_url": "https://m.economictimes.com/tech/technology/kkr-invests-in-rebel-foods-valuing-the-cloud-kitchen-brand-at-around-800-million/articleshow/116462887.cms",
+   "tier": "T3",
+   "valuation": "~750-800M",
+   "valuation_type": "secondary transaction valuation"
+  },
+  {
+   "all_investors": [
+    "Qatar Investment Authority"
+   ],
+   "amount": 25000000,
+   "announced_date": "2025-04-22",
+   "confidence": "MEDIUM",
+   "currency": "USD",
+   "lead_investors": [
+    "Qatar Investment Authority"
+   ],
+   "notes": "Reported by Mint via Verdict/Yahoo; company did not comment; fetch hit login wall",
+   "round_type": "Unattributed top-up",
+   "source_date": "2025-04-22",
+   "source_title": "Rebel Foods secures $25m from Qatar Investment Authority",
+   "source_url": "https://finance.yahoo.com/news/rebel-foods-secures-25m-qatar-141914835.html",
+   "tier": "T3",
+   "valuation": "1.4B",
+   "valuation_type": "reported post-money"
+  },
+  {
+   "all_investors": [
+    "Qatar Investment Authority"
+   ],
+   "amount": 175000000,
+   "announced_date": "2021-10-07",
+   "confidence": "MEDIUM",
+   "currency": "USD",
+   "lead_investors": [
+    "Qatar Investment Authority"
+   ],
+   "round_type": "Series F",
+   "source_title": "Rebel Foods posts rise in FY24 revenue (unicorn reference)",
+   "source_url": "https://m.economictimes.com/tech/technology/rebel-foods-posts-rise-in-fy24-revenue-to-rs-1420-crore-trims-losses/articleshow/112924120.cms",
+   "tier": "T3",
+   "valuation": "1.4B",
+   "valuation_type": "post-money"
+  },
+  {
+   "round_type": "Top-up (unattributed)",
+   "announced_date": "2025-04-22",
+   "amount": 25000000,
+   "currency": "USD",
+   "valuation": 1400000000,
+   "valuation_currency": "USD",
+   "valuation_type": "reported post-money",
+   "lead_investors": [
+    "Qatar Investment Authority"
+   ],
+   "all_investors": [
+    "Qatar Investment Authority"
+   ],
+   "purpose": "Omnichannel/food-court expansion",
+   "source_url": "https://finance.yahoo.com/news/rebel-foods-secures-25m-qatar-141914835.html",
+   "source_title": "Rebel Foods secures $25m from Qatar Investment Authority",
+   "source_date": "2025-04-22",
+   "confidence": "MEDIUM",
+   "notes": "Reported by Mint/Verdict/Yahoo; company did not comment"
+  },
+  {
+   "round_type": "Series A",
+   "announced_date": "2017",
+   "amount": null,
+   "currency": "USD",
+   "valuation": null,
+   "valuation_type": "",
+   "lead_investors": [],
+   "all_investors": [
+    "Sequoia India (now Peak XV Partners)"
+   ],
+   "purpose": "",
+   "source_url": "https://www.livemint.com/companies/kkr-to-invest-50-75-million-in-rebel-foods-at-860-million-valuation/amp-11734012801567.html",
+   "source_title": "KKR to invest $50-75 mn in Rebel Foods at $800-860 mn valuation",
+   "source_date": "2019",
+   "confidence": "LOW"
+  },
+  {
+   "round_type": "Series B",
+   "announced_date": "2018",
+   "amount": null,
+   "currency": "USD",
+   "valuation": null,
+   "valuation_type": "",
+   "lead_investors": [],
+   "all_investors": [
+    "Coatue",
+    "Lightbox"
+   ],
+   "purpose": "",
+   "source_url": "https://m.economictimes.com/tech/technology/kkr-invests-in-rebel-foods-valuing-the-cloud-kitchen-brand-at-around-800-million/articleshow/116462887.cms",
+   "source_title": "KKR buys secondary shares in Rebel Foods",
+   "source_date": "2024-12-19",
+   "confidence": "LOW"
+  },
+  {
+   "round_type": "Series C",
+   "announced_date": "2019",
+   "amount": null,
+   "currency": "USD",
+   "valuation": null,
+   "valuation_type": "",
+   "lead_investors": [],
+   "all_investors": [
+    "Peak XV Partners",
+    "Coatue",
+    "Lightbox"
+   ],
+   "purpose": "",
+   "source_url": "https://www.livemint.com/companies/kkr-to-invest-50-75-million-in-rebel-foods-at-860-million-valuation/amp-11734012801567.html",
+   "source_title": "KKR to invest $50-75 mn in Rebel Foods at $800-860 mn valuation",
+   "source_date": "2019",
+   "confidence": "LOW"
+  }
+ ],
+ "gaps": [
+  "FY25 audited filing not directly read (relied on Entrackr/Inc42 summaries of RoC filing)",
+  "IPO timeline (2026) unconfirmed beyond Dec 2024 statements",
+  "Employee count (Tracxn 6040) unverified",
+  "Ankush Grover Global CEO appointment (Inc42 Nov 2025) not verified",
+  "FY25/FY26 filing financials",
+  "round dates/valuations beyond enrich file"
+ ],
+ "hiring": [],
+ "investor_links": [
+  {
+   "confidence": "HIGH",
+   "investor": "Temasek",
+   "investor_type": "sovereign",
+   "lead": true,
+   "rounds": [
+    "Series G"
+   ],
+   "source_url": "https://www.straitstimes.com/business/companies-markets/temasek-leads-282m-fundraising-round-for-india-start-up-rebel-foods-ahead-of-planned-ipo"
+  },
+  {
+   "confidence": "HIGH",
+   "investor": "Qatar Investment Authority",
+   "investor_type": "sovereign",
+   "lead": true,
+   "rounds": [
+    "Series F",
+    "2025 top-up"
+   ],
+   "source_url": "https://finance.yahoo.com/news/rebel-foods-secures-25m-qatar-141914835.html"
+  },
+  {
+   "confidence": "HIGH",
+   "investor": "KKR",
+   "investor_type": "PE",
+   "lead": true,
+   "rounds": [
+    "Secondary Dec 2024"
+   ],
+   "source_url": "https://m.economictimes.com/tech/technology/kkr-invests-in-rebel-foods-valuing-the-cloud-kitchen-brand-at-around-800-million/articleshow/116462887.cms"
+  },
+  {
+   "confidence": "MEDIUM",
+   "investor": "Evolvence Capital",
+   "investor_type": "PE",
+   "rounds": [
+    "Series G"
+   ],
+   "source_url": "https://m.economictimes.com/tech/technology/kkr-invests-in-rebel-foods-valuing-the-cloud-kitchen-brand-at-around-800-million/articleshow/116462887.cms"
+  },
+  {
+   "confidence": "MEDIUM",
+   "investor": "Coatue",
+   "investor_type": "VC",
+   "rounds": [
+    "earlier"
+   ],
+   "source_url": "https://m.economictimes.com/tech/technology/kkr-invests-in-rebel-foods-valuing-the-cloud-kitchen-brand-at-around-800-million/articleshow/116462887.cms"
+  },
+  {
+   "confidence": "MEDIUM",
+   "investor": "Peak XV Partners (Sequoia India)",
+   "investor_type": "VC",
+   "rounds": [
+    "earlier"
+   ],
+   "source_url": "https://www.livemint.com/companies/kkr-to-invest-50-75-million-in-rebel-foods-at-860-million-valuation/amp-11734012801567.html"
+  }
+ ],
+ "investors_meta": [],
+ "ip_tech_ai": {
+  "ai_notes": "Using AI for demand forecasting, sourcing, kitchen productivity (per CFO interview Dec 2024)",
+  "confidence": "MEDIUM",
+  "source_url": "https://www.straitstimes.com/business/companies-markets/temasek-leads-282m-fundraising-round-for-india-start-up-rebel-foods-ahead-of-planned-ipo"
+ },
+ "legal": [
+  {
+   "type": "regulatory",
+   "entity": "Competition Commission of India",
+   "date": "2024-12",
+   "status": "approved",
+   "description": "CCI approved investments from both KKR and Temasek in Rebel Foods",
+   "source_url": "https://m.economictimes.com/tech/technology/kkr-invests-in-rebel-foods-valuing-the-cloud-kitchen-brand-at-around-800-million/articleshow/116462887.cms",
+   "confidence": "HIGH"
+  }
+ ],
+ "locations": [
+  {
+   "as_of": "2024-12",
+   "city": "Mumbai",
+   "confidence": "HIGH",
+   "source_url": "https://m.economictimes.com/tech/technology/kkr-invests-in-rebel-foods-valuing-the-cloud-kitchen-brand-at-around-800-million/articleshow/116462887.cms",
+   "state": "Maharashtra",
+   "type": "HQ"
+  },
+  {
+   "type": "hq",
+   "address_or_area": "Mumbai",
+   "city": "Mumbai",
+   "state": "Maharashtra",
+   "country": "India",
+   "as_of": "2024-12",
+   "source_url": "https://m.economictimes.com/tech/technology/kkr-invests-in-rebel-foods-valuing-the-cloud-kitchen-brand-at-around-800-million/articleshow/116462887.cms",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "registered_office",
+   "address_or_area": "Pune",
+   "city": "Pune",
+   "state": "Maharashtra",
+   "country": "India",
+   "as_of": "2010-07-27",
+   "source_url": "https://www.zaubacorp.com/REBEL-FOODS-PRIVATE-LIMITED-U93000PN2010PTC136943",
+   "confidence": "HIGH",
+   "notes": "CIN indicates Pune RoC registration"
+  },
+  {
+   "type": "ops",
+   "address_or_area": "UAE",
+   "city": "",
+   "state": "",
+   "country": "UAE",
+   "as_of": "2024-12",
+   "source_url": "https://www.straitstimes.com/business/companies-markets/temasek-leads-282m-fundraising-round-for-india-start-up-rebel-foods-ahead-of-planned-ipo",
+   "confidence": "HIGH",
+   "notes": "International operations"
+  },
+  {
+   "type": "ops",
+   "address_or_area": "UK",
+   "city": "",
+   "state": "",
+   "country": "UK",
+   "as_of": "2024-12",
+   "source_url": "https://www.straitstimes.com/business/companies-markets/temasek-leads-282m-fundraising-round-for-india-start-up-rebel-foods-ahead-of-planned-ipo",
+   "confidence": "HIGH",
+   "notes": "International operations"
+  }
+ ],
+ "partnerships": [
+  {
+   "confidence": "HIGH",
+   "name": "Wendy's India master franchise (160 stores)",
+   "source_url": "https://www.straitstimes.com/business/companies-markets/temasek-leads-282m-fundraising-round-for-india-start-up-rebel-foods-ahead-of-planned-ipo"
+  }
+ ],
+ "people": [
+  {
+   "name": "Jaydeep Barman",
+   "role": "Co-founder & CEO",
+   "title": "Chief Executive Officer",
+   "current": true,
+   "since": "2011",
+   "prior_role": "McKinsey & Co",
+   "source_url": "https://m.economictimes.com/tech/technology/kkr-invests-in-rebel-foods-valuing-the-cloud-kitchen-brand-at-around-800-million/articleshow/116462887.cms",
+   "confidence": "HIGH",
+   "notes": "McKinsey alumnus; transitioning to chairman role per EatClub article context (may be EatClub not Rebel Foods - ambiguous)"
+  },
+  {
+   "name": "Kallol Banerjee",
+   "role": "Co-founder",
+   "title": "",
+   "current": true,
+   "since": "2011",
+   "prior_role": "McKinsey & Co",
+   "source_url": "https://m.economictimes.com/tech/technology/kkr-invests-in-rebel-foods-valuing-the-cloud-kitchen-brand-at-around-800-million/articleshow/116462887.cms",
+   "confidence": "HIGH",
+   "notes": "McKinsey alumnus"
+  },
+  {
+   "name": "Raghav Joshi",
+   "role": "Co-founder",
+   "title": "",
+   "current": null,
+   "since": null,
+   "prior_role": "",
+   "source_url": "https://retail.economictimes.indiatimes.com/news/food-entertainment/food-services/cloud-kitchen-company-rebel-foods-acquires-majority-stake-in-chocolate-brand-smoor/90703637",
+   "confidence": "MEDIUM",
+   "notes": "Quoted as 'co-founder of Rebel Foods' in Smoor acquisition PR (Apr 2022)"
+  },
+  {
+   "name": "Piyush Kakkad",
+   "role": "CFO",
+   "title": "Chief Financial Officer",
+   "current": true,
+   "since": null,
+   "prior_role": "",
+   "source_url": "https://www.straitstimes.com/business/companies-markets/temasek-leads-282m-fundraising-round-for-india-start-up-rebel-foods-ahead-of-planned-ipo",
+   "confidence": "HIGH",
+   "notes": "Quoted in Bloomberg interview about IPO plans"
+  },
+  {
+   "name": "Ankush Grover",
+   "role": "CEO",
+   "title": "Chief Executive Officer",
+   "current": null,
+   "since": null,
+   "prior_role": "",
+   "source_url": "https://m.economictimes.com/tech/funding/cloud-kitchen-firm-eatclub-to-raise-rs-185-crore-from-tiger-global-a91-partners-360-one/articleshow/122909399.cms",
+   "confidence": "LOW",
+   "notes": "Mentioned as CEO in EatClub article context; ambiguous whether Rebel Foods or EatClub CEO. INC42 article headline says 'Ankush Grover' as CEO but article is about EatClub. NOT confirmed for Rebel Foods."
+  },
+  {
+   "name": "Akshay Tanna",
+   "role": "Partner, Head of India Private Equity",
+   "title": "KKR",
+   "current": true,
+   "since": null,
+   "prior_role": "",
+   "source_url": "https://m.economictimes.com/tech/technology/kkr-invests-in-rebel-foods-valuing-the-cloud-kitchen-brand-at-around-800-million/articleshow/116462887.cms",
+   "confidence": "HIGH",
+   "notes": "KKR representative quoted on Rebel Foods investment"
+  }
+ ],
+ "products": [
+  {
+   "category": "cloud kitchen brands",
+   "confidence": "HIGH",
+   "name": "Faasos, Behrouz Biryani, Oven Story Pizza, Lunchbox, The Good Bowl, Sweet Truth, EatSure",
+   "source_url": "https://m.economictimes.com/tech/technology/kkr-invests-in-rebel-foods-valuing-the-cloud-kitchen-brand-at-around-800-million/articleshow/116462887.cms",
+   "status": "active"
+  },
+  {
+   "name": "Faasos",
+   "category": "cloud kitchen brand",
+   "description": "Original brand; Indian fast food",
+   "pricing_model": "delivery-only",
+   "launch_date": "2011",
+   "status": "active",
+   "source_url": "https://m.economictimes.com/tech/technology/kkr-invests-in-rebel-foods-valuing-the-cloud-kitchen-brand-at-around-800-million/articleshow/116462887.cms",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Behrouz Biryani",
+   "category": "cloud kitchen brand",
+   "description": "Biryani brand",
+   "pricing_model": "delivery-only",
+   "launch_date": "2011",
+   "status": "active",
+   "source_url": "https://m.economictimes.com/tech/technology/kkr-invests-in-rebel-foods-valuing-the-cloud-kitchen-brand-at-around-800-million/articleshow/116462887.cms",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Oven Story Pizza",
+   "category": "cloud kitchen brand",
+   "description": "Pizza brand",
+   "pricing_model": "delivery-only",
+   "launch_date": "2011",
+   "status": "active",
+   "source_url": "https://www.straitstimes.com/business/companies-markets/temasek-leads-282m-fundraising-round-for-india-start-up-rebel-foods-ahead-of-planned-ipo",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Lunchbox",
+   "category": "cloud kitchen brand",
+   "description": "Indian meal brand",
+   "pricing_model": "delivery-only",
+   "launch_date": "2011",
+   "status": "active",
+   "source_url": "https://m.economictimes.com/tech/technology/kkr-invests-in-rebel-foods-valuing-the-cloud-kitchen-brand-at-around-800-million/articleshow/116462887.cms",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "The Good Bowl",
+   "category": "cloud kitchen brand",
+   "description": "Healthy meal brand",
+   "pricing_model": "delivery-only",
+   "launch_date": "2011",
+   "status": "active",
+   "source_url": "https://m.economictimes.com/tech/technology/kkr-invests-in-rebel-foods-valuing-the-cloud-kitchen-brand-at-around-800-million/articleshow/116462887.cms",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Sweet Truth",
+   "category": "cloud kitchen brand",
+   "description": "Desserts brand",
+   "pricing_model": "delivery-only",
+   "launch_date": "2011",
+   "status": "active",
+   "source_url": "https://m.economictimes.com/tech/technology/kkr-invests-in-rebel-foods-valuing-the-cloud-kitchen-brand-at-around-800-million/articleshow/116462887.cms",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Mandarin Oak",
+   "category": "cloud kitchen brand",
+   "description": "Indian-Chinese brand",
+   "pricing_model": "delivery-only",
+   "launch_date": "2011",
+   "status": "active",
+   "source_url": "https://www.straitstimes.com/business/companies-markets/temasek-leads-282m-fundraising-round-for-india-start-up-rebel-foods-ahead-of-planned-ipo",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "The Biryani Life",
+   "category": "cloud kitchen brand",
+   "description": "Biryani brand",
+   "pricing_model": "delivery-only",
+   "launch_date": "2011",
+   "status": "active",
+   "source_url": "http://entrackr.com/fintrackr/rebel-foods-growth-slows-in-fy25-reports-rs-336-cr-loss-10884067",
+   "confidence": "MEDIUM"
+  },
+  {
+   "name": "Slay Coffee",
+   "category": "cloud kitchen brand",
+   "description": "Coffee brand",
+   "pricing_model": "delivery-only",
+   "launch_date": "2011",
+   "status": "active",
+   "source_url": "https://retail.economictimes.indiatimes.com/news/food-entertainment/food-services/cloud-kitchen-company-rebel-foods-acquires-majority-stake-in-chocolate-brand-smoor/90703637",
+   "confidence": "MEDIUM"
+  },
+  {
+   "name": "Smoor",
+   "category": "chocolates/desserts",
+   "description": "Luxury chocolates, cakes, desserts; acquired majority stake Apr 2022",
+   "pricing_model": "retail + online",
+   "launch_date": "2015",
+   "status": "active (acquired)",
+   "source_url": "https://retail.economictimes.indiatimes.com/news/food-entertainment/food-services/cloud-kitchen-company-rebel-foods-acquires-majority-stake-in-chocolate-brand-smoor/90703637",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "EatSure",
+   "category": "food court aggregator",
+   "description": "Smartphone service described as 'foodcourt on an app'; offline outlets",
+   "pricing_model": "aggregator",
+   "launch_date": "2011",
+   "status": "active",
+   "source_url": "https://www.straitstimes.com/business/companies-markets/temasek-leads-282m-fundraising-round-for-india-start-up-rebel-foods-ahead-of-planned-ipo",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Wendy's India",
+   "category": "franchise",
+   "description": "Master franchise holder for Wendy's in India; 160 stores",
+   "pricing_model": "franchise",
+   "launch_date": "2011",
+   "status": "active",
+   "source_url": "https://www.straitstimes.com/business/companies-markets/temasek-leads-282m-fundraising-round-for-india-start-up-rebel-foods-ahead-of-planned-ipo",
+   "confidence": "HIGH"
+  }
+ ],
+ "research_log": [
+  {
+   "found": "Series G $210M, KKR secondary, QIA $25M, FY25/FY24 financials, founders",
+   "next_action": "Verify IPO filing + Ankush Grover CEO + CIN",
+   "query": "Rebel Foods funding / revenue FY25 / founders",
+   "unresolved": "Audited RoC PDF; IPO date"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "Rebel Foods Private Limited CIN incorporation date Faasos",
+   "found": "CIN U93000PN2010PTC136943, incorporated 27 Jul 2010 (Pune RoC)",
+   "unresolved": ""
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rebel Foods founder identity verification",
+   "status": "done",
+   "found": "Founders confirmed as Jaydeep Barman and Kallol Banerjee (McKinsey alumni). Raghav Joshi mentioned as co-founder in Smoor PR. No 'Reetesh Raj' or 'Aniket Bajaj' found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rebel Foods IPO/DRHP status 2025-26",
+   "status": "done",
+   "found": "IPO planned for 2026 per CFO Piyush Kakkad (Dec 2024). No DRHP filed as of Sep 2026 based on available sources.",
+   "next_action": "Monitor for DRHP filing",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rebel Foods FY23-FY25 financials",
+   "status": "done",
+   "found": "FY23: Rs 1,195 Cr rev / Rs 656 Cr loss. FY24: Rs 1,420 Cr rev / Rs 378 Cr loss. FY25: Rs 1,617 Cr rev / Rs 336 Cr loss. FY26: Loss Rs 282 Cr, Revenue +21%.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rebel Foods legal/FSSAI issues",
+   "status": "done",
+   "found": "Only CCI approval for KKR/Temasek investments found. No FSSAI notices or cloud kitchen regulatory actions found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rebel Foods Rent2Dine acquisition",
+   "status": "done",
+   "found": "No evidence of Rent2Dine acquisition found. Only Smoor acquisition confirmed.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rebel Foods WestBridge/Good Games investors",
+   "status": "done",
+   "found": "WestBridge Capital not found as Rebel Foods investor. Lead investors are QIA, Temasek, KKR, Coatue, Lightbox, Peak XV.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rebel Foods founder identity verification",
+   "status": "done",
+   "found": "Founders confirmed as Jaydeep Barman and Kallol Banerjee (McKinsey alumni). Raghav Joshi mentioned as co-founder in Smoor PR. No 'Reetesh Raj' or 'Aniket Bajaj' found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rebel Foods IPO/DRHP status 2025-26",
+   "status": "done",
+   "found": "IPO planned for 2026 per CFO Piyush Kakkad (Dec 2024). No DRHP filed as of Sep 2026 based on available sources.",
+   "next_action": "Monitor for DRHP filing",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rebel Foods FY23-FY25 financials",
+   "status": "done",
+   "found": "FY23: Rs 1,195 Cr rev / Rs 656 Cr loss. FY24: Rs 1,420 Cr rev / Rs 378 Cr loss. FY25: Rs 1,617 Cr rev / Rs 336 Cr loss. FY26: Loss Rs 282 Cr, Revenue +21%.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rebel Foods legal/FSSAI issues",
+   "status": "done",
+   "found": "Only CCI approval for KKR/Temasek investments found. No FSSAI notices or cloud kitchen regulatory actions found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rebel Foods Rent2Dine acquisition",
+   "status": "done",
+   "found": "No evidence of Rent2Dine acquisition found. Only Smoor acquisition confirmed.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rebel Foods WestBridge/Good Games investors",
+   "status": "done",
+   "found": "WestBridge Capital not found as Rebel Foods investor. Lead investors are QIA, Temasek, KKR, Coatue, Lightbox, Peak XV.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rebel Foods founder identity verification",
+   "status": "done",
+   "found": "Founders confirmed as Jaydeep Barman and Kallol Banerjee (McKinsey alumni). Raghav Joshi mentioned as co-founder in Smoor PR. No 'Reetesh Raj' or 'Aniket Bajaj' found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rebel Foods IPO/DRHP status 2025-26",
+   "status": "done",
+   "found": "IPO planned for 2026 per CFO Piyush Kakkad (Dec 2024). No DRHP filed as of Sep 2026 based on available sources.",
+   "next_action": "Monitor for DRHP filing",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rebel Foods FY23-FY25 financials",
+   "status": "done",
+   "found": "FY23: Rs 1,195 Cr rev / Rs 656 Cr loss. FY24: Rs 1,420 Cr rev / Rs 378 Cr loss. FY25: Rs 1,617 Cr rev / Rs 336 Cr loss. FY26: Loss Rs 282 Cr, Revenue +21%.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rebel Foods legal/FSSAI issues",
+   "status": "done",
+   "found": "Only CCI approval for KKR/Temasek investments found. No FSSAI notices or cloud kitchen regulatory actions found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rebel Foods Rent2Dine acquisition",
+   "status": "done",
+   "found": "No evidence of Rent2Dine acquisition found. Only Smoor acquisition confirmed.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rebel Foods WestBridge/Good Games investors",
+   "status": "done",
+   "found": "WestBridge Capital not found as Rebel Foods investor. Lead investors are QIA, Temasek, KKR, Coatue, Lightbox, Peak XV.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rebel Foods founder identity verification",
+   "status": "done",
+   "found": "Founders confirmed as Jaydeep Barman and Kallol Banerjee (McKinsey alumni). Raghav Joshi mentioned as co-founder in Smoor PR. No 'Reetesh Raj' or 'Aniket Bajaj' found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rebel Foods IPO/DRHP status 2025-26",
+   "status": "done",
+   "found": "IPO planned for 2026 per CFO Piyush Kakkad (Dec 2024). No DRHP filed as of Sep 2026 based on available sources.",
+   "next_action": "Monitor for DRHP filing",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rebel Foods FY23-FY25 financials",
+   "status": "done",
+   "found": "FY23: Rs 1,195 Cr rev / Rs 656 Cr loss. FY24: Rs 1,420 Cr rev / Rs 378 Cr loss. FY25: Rs 1,617 Cr rev / Rs 336 Cr loss. FY26: Loss Rs 282 Cr, Revenue +21%.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rebel Foods legal/FSSAI issues",
+   "status": "done",
+   "found": "Only CCI approval for KKR/Temasek investments found. No FSSAI notices or cloud kitchen regulatory actions found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rebel Foods Rent2Dine acquisition",
+   "status": "done",
+   "found": "No evidence of Rent2Dine acquisition found. Only Smoor acquisition confirmed.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rebel Foods WestBridge/Good Games investors",
+   "status": "done",
+   "found": "WestBridge Capital not found as Rebel Foods investor. Lead investors are QIA, Temasek, KKR, Coatue, Lightbox, Peak XV.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rebel Foods founder identity verification",
+   "status": "done",
+   "found": "Founders confirmed as Jaydeep Barman and Kallol Banerjee (McKinsey alumni). Raghav Joshi mentioned as co-founder in Smoor PR. No 'Reetesh Raj' or 'Aniket Bajaj' found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rebel Foods IPO/DRHP status 2025-26",
+   "status": "done",
+   "found": "IPO planned for 2026 per CFO Piyush Kakkad (Dec 2024). No DRHP filed as of Sep 2026 based on available sources.",
+   "next_action": "Monitor for DRHP filing",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rebel Foods FY23-FY25 financials",
+   "status": "done",
+   "found": "FY23: Rs 1,195 Cr rev / Rs 656 Cr loss. FY24: Rs 1,420 Cr rev / Rs 378 Cr loss. FY25: Rs 1,617 Cr rev / Rs 336 Cr loss. FY26: Loss Rs 282 Cr, Revenue +21%.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rebel Foods legal/FSSAI issues",
+   "status": "done",
+   "found": "Only CCI approval for KKR/Temasek investments found. No FSSAI notices or cloud kitchen regulatory actions found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rebel Foods Rent2Dine acquisition",
+   "status": "done",
+   "found": "No evidence of Rent2Dine acquisition found. Only Smoor acquisition confirmed.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rebel Foods WestBridge/Good Games investors",
+   "status": "done",
+   "found": "WestBridge Capital not found as Rebel Foods investor. Lead investors are QIA, Temasek, KKR, Coatue, Lightbox, Peak XV.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rebel Foods founder identity verification",
+   "status": "done",
+   "found": "Founders confirmed as Jaydeep Barman and Kallol Banerjee (McKinsey alumni). Raghav Joshi mentioned as co-founder in Smoor PR. No 'Reetesh Raj' or 'Aniket Bajaj' found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rebel Foods IPO/DRHP status 2025-26",
+   "status": "done",
+   "found": "IPO planned for 2026 per CFO Piyush Kakkad (Dec 2024). No DRHP filed as of Sep 2026 based on available sources.",
+   "next_action": "Monitor for DRHP filing",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rebel Foods FY23-FY25 financials",
+   "status": "done",
+   "found": "FY23: Rs 1,195 Cr rev / Rs 656 Cr loss. FY24: Rs 1,420 Cr rev / Rs 378 Cr loss. FY25: Rs 1,617 Cr rev / Rs 336 Cr loss. FY26: Loss Rs 282 Cr, Revenue +21%.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rebel Foods legal/FSSAI issues",
+   "status": "done",
+   "found": "Only CCI approval for KKR/Temasek investments found. No FSSAI notices or cloud kitchen regulatory actions found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rebel Foods Rent2Dine acquisition",
+   "status": "done",
+   "found": "No evidence of Rent2Dine acquisition found. Only Smoor acquisition confirmed.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rebel Foods WestBridge/Good Games investors",
+   "status": "done",
+   "found": "WestBridge Capital not found as Rebel Foods investor. Lead investors are QIA, Temasek, KKR, Coatue, Lightbox, Peak XV.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rebel Foods founder identity verification",
+   "status": "done",
+   "found": "Founders confirmed as Jaydeep Barman and Kallol Banerjee (McKinsey alumni). Raghav Joshi mentioned as co-founder in Smoor PR. No 'Reetesh Raj' or 'Aniket Bajaj' found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rebel Foods IPO/DRHP status 2025-26",
+   "status": "done",
+   "found": "IPO planned for 2026 per CFO Piyush Kakkad (Dec 2024). No DRHP filed as of Sep 2026 based on available sources.",
+   "next_action": "Monitor for DRHP filing",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rebel Foods FY23-FY25 financials",
+   "status": "done",
+   "found": "FY23: Rs 1,195 Cr rev / Rs 656 Cr loss. FY24: Rs 1,420 Cr rev / Rs 378 Cr loss. FY25: Rs 1,617 Cr rev / Rs 336 Cr loss. FY26: Loss Rs 282 Cr, Revenue +21%.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rebel Foods legal/FSSAI issues",
+   "status": "done",
+   "found": "Only CCI approval for KKR/Temasek investments found. No FSSAI notices or cloud kitchen regulatory actions found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rebel Foods Rent2Dine acquisition",
+   "status": "done",
+   "found": "No evidence of Rent2Dine acquisition found. Only Smoor acquisition confirmed.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rebel Foods WestBridge/Good Games investors",
+   "status": "done",
+   "found": "WestBridge Capital not found as Rebel Foods investor. Lead investors are QIA, Temasek, KKR, Coatue, Lightbox, Peak XV.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rebel Foods founder identity verification",
+   "status": "done",
+   "found": "Founders confirmed as Jaydeep Barman and Kallol Banerjee (McKinsey alumni). Raghav Joshi mentioned as co-founder in Smoor PR. No 'Reetesh Raj' or 'Aniket Bajaj' found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rebel Foods IPO/DRHP status 2025-26",
+   "status": "done",
+   "found": "IPO planned for 2026 per CFO Piyush Kakkad (Dec 2024). No DRHP filed as of Sep 2026 based on available sources.",
+   "next_action": "Monitor for DRHP filing",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rebel Foods FY23-FY25 financials",
+   "status": "done",
+   "found": "FY23: Rs 1,195 Cr rev / Rs 656 Cr loss. FY24: Rs 1,420 Cr rev / Rs 378 Cr loss. FY25: Rs 1,617 Cr rev / Rs 336 Cr loss. FY26: Loss Rs 282 Cr, Revenue +21%.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rebel Foods legal/FSSAI issues",
+   "status": "done",
+   "found": "Only CCI approval for KKR/Temasek investments found. No FSSAI notices or cloud kitchen regulatory actions found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rebel Foods Rent2Dine acquisition",
+   "status": "done",
+   "found": "No evidence of Rent2Dine acquisition found. Only Smoor acquisition confirmed.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rebel Foods WestBridge/Good Games investors",
+   "status": "done",
+   "found": "WestBridge Capital not found as Rebel Foods investor. Lead investors are QIA, Temasek, KKR, Coatue, Lightbox, Peak XV.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rebel Foods founder identity verification",
+   "status": "done",
+   "found": "Founders confirmed as Jaydeep Barman and Kallol Banerjee (McKinsey alumni). Raghav Joshi mentioned as co-founder in Smoor PR. No 'Reetesh Raj' or 'Aniket Bajaj' found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rebel Foods IPO/DRHP status 2025-26",
+   "status": "done",
+   "found": "IPO planned for 2026 per CFO Piyush Kakkad (Dec 2024). No DRHP filed as of Sep 2026 based on available sources.",
+   "next_action": "Monitor for DRHP filing",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rebel Foods FY23-FY25 financials",
+   "status": "done",
+   "found": "FY23: Rs 1,195 Cr rev / Rs 656 Cr loss. FY24: Rs 1,420 Cr rev / Rs 378 Cr loss. FY25: Rs 1,617 Cr rev / Rs 336 Cr loss. FY26: Loss Rs 282 Cr, Revenue +21%.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rebel Foods legal/FSSAI issues",
+   "status": "done",
+   "found": "Only CCI approval for KKR/Temasek investments found. No FSSAI notices or cloud kitchen regulatory actions found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rebel Foods Rent2Dine acquisition",
+   "status": "done",
+   "found": "No evidence of Rent2Dine acquisition found. Only Smoor acquisition confirmed.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rebel Foods WestBridge/Good Games investors",
+   "status": "done",
+   "found": "WestBridge Capital not found as Rebel Foods investor. Lead investors are QIA, Temasek, KKR, Coatue, Lightbox, Peak XV.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rebel Foods founder identity verification",
+   "status": "done",
+   "found": "Founders confirmed as Jaydeep Barman and Kallol Banerjee (McKinsey alumni). Raghav Joshi mentioned as co-founder in Smoor PR. No 'Reetesh Raj' or 'Aniket Bajaj' found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rebel Foods IPO/DRHP status 2025-26",
+   "status": "done",
+   "found": "IPO planned for 2026 per CFO Piyush Kakkad (Dec 2024). No DRHP filed as of Sep 2026 based on available sources.",
+   "next_action": "Monitor for DRHP filing",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rebel Foods FY23-FY25 financials",
+   "status": "done",
+   "found": "FY23: Rs 1,195 Cr rev / Rs 656 Cr loss. FY24: Rs 1,420 Cr rev / Rs 378 Cr loss. FY25: Rs 1,617 Cr rev / Rs 336 Cr loss. FY26: Loss Rs 282 Cr, Revenue +21%.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rebel Foods legal/FSSAI issues",
+   "status": "done",
+   "found": "Only CCI approval for KKR/Temasek investments found. No FSSAI notices or cloud kitchen regulatory actions found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rebel Foods Rent2Dine acquisition",
+   "status": "done",
+   "found": "No evidence of Rent2Dine acquisition found. Only Smoor acquisition confirmed.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rebel Foods WestBridge/Good Games investors",
+   "status": "done",
+   "found": "WestBridge Capital not found as Rebel Foods investor. Lead investors are QIA, Temasek, KKR, Coatue, Lightbox, Peak XV.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rebel Foods founder identity verification",
+   "status": "done",
+   "found": "Founders confirmed as Jaydeep Barman and Kallol Banerjee (McKinsey alumni). Raghav Joshi mentioned as co-founder in Smoor PR. No 'Reetesh Raj' or 'Aniket Bajaj' found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rebel Foods IPO/DRHP status 2025-26",
+   "status": "done",
+   "found": "IPO planned for 2026 per CFO Piyush Kakkad (Dec 2024). No DRHP filed as of Sep 2026 based on available sources.",
+   "next_action": "Monitor for DRHP filing",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rebel Foods FY23-FY25 financials",
+   "status": "done",
+   "found": "FY23: Rs 1,195 Cr rev / Rs 656 Cr loss. FY24: Rs 1,420 Cr rev / Rs 378 Cr loss. FY25: Rs 1,617 Cr rev / Rs 336 Cr loss. FY26: Loss Rs 282 Cr, Revenue +21%.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rebel Foods legal/FSSAI issues",
+   "status": "done",
+   "found": "Only CCI approval for KKR/Temasek investments found. No FSSAI notices or cloud kitchen regulatory actions found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rebel Foods Rent2Dine acquisition",
+   "status": "done",
+   "found": "No evidence of Rent2Dine acquisition found. Only Smoor acquisition confirmed.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rebel Foods WestBridge/Good Games investors",
+   "status": "done",
+   "found": "WestBridge Capital not found as Rebel Foods investor. Lead investors are QIA, Temasek, KKR, Coatue, Lightbox, Peak XV.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rebel Foods founder identity verification",
+   "status": "done",
+   "found": "Founders confirmed as Jaydeep Barman and Kallol Banerjee (McKinsey alumni). Raghav Joshi mentioned as co-founder in Smoor PR. No 'Reetesh Raj' or 'Aniket Bajaj' found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rebel Foods IPO/DRHP status 2025-26",
+   "status": "done",
+   "found": "IPO planned for 2026 per CFO Piyush Kakkad (Dec 2024). No DRHP filed as of Sep 2026 based on available sources.",
+   "next_action": "Monitor for DRHP filing",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rebel Foods FY23-FY25 financials",
+   "status": "done",
+   "found": "FY23: Rs 1,195 Cr rev / Rs 656 Cr loss. FY24: Rs 1,420 Cr rev / Rs 378 Cr loss. FY25: Rs 1,617 Cr rev / Rs 336 Cr loss. FY26: Loss Rs 282 Cr, Revenue +21%.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rebel Foods legal/FSSAI issues",
+   "status": "done",
+   "found": "Only CCI approval for KKR/Temasek investments found. No FSSAI notices or cloud kitchen regulatory actions found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rebel Foods Rent2Dine acquisition",
+   "status": "done",
+   "found": "No evidence of Rent2Dine acquisition found. Only Smoor acquisition confirmed.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rebel Foods WestBridge/Good Games investors",
+   "status": "done",
+   "found": "WestBridge Capital not found as Rebel Foods investor. Lead investors are QIA, Temasek, KKR, Coatue, Lightbox, Peak XV.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rebel Foods founder identity verification",
+   "status": "done",
+   "found": "Founders confirmed as Jaydeep Barman and Kallol Banerjee (McKinsey alumni). Raghav Joshi mentioned as co-founder in Smoor PR. No 'Reetesh Raj' or 'Aniket Bajaj' found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rebel Foods IPO/DRHP status 2025-26",
+   "status": "done",
+   "found": "IPO planned for 2026 per CFO Piyush Kakkad (Dec 2024). No DRHP filed as of Sep 2026 based on available sources.",
+   "next_action": "Monitor for DRHP filing",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rebel Foods FY23-FY25 financials",
+   "status": "done",
+   "found": "FY23: Rs 1,195 Cr rev / Rs 656 Cr loss. FY24: Rs 1,420 Cr rev / Rs 378 Cr loss. FY25: Rs 1,617 Cr rev / Rs 336 Cr loss. FY26: Loss Rs 282 Cr, Revenue +21%.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rebel Foods legal/FSSAI issues",
+   "status": "done",
+   "found": "Only CCI approval for KKR/Temasek investments found. No FSSAI notices or cloud kitchen regulatory actions found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rebel Foods Rent2Dine acquisition",
+   "status": "done",
+   "found": "No evidence of Rent2Dine acquisition found. Only Smoor acquisition confirmed.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rebel Foods WestBridge/Good Games investors",
+   "status": "done",
+   "found": "WestBridge Capital not found as Rebel Foods investor. Lead investors are QIA, Temasek, KKR, Coatue, Lightbox, Peak XV.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rebel Foods founder identity verification",
+   "status": "done",
+   "found": "Founders confirmed as Jaydeep Barman and Kallol Banerjee (McKinsey alumni). Raghav Joshi mentioned as co-founder in Smoor PR. No 'Reetesh Raj' or 'Aniket Bajaj' found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rebel Foods IPO/DRHP status 2025-26",
+   "status": "done",
+   "found": "IPO planned for 2026 per CFO Piyush Kakkad (Dec 2024). No DRHP filed as of Sep 2026 based on available sources.",
+   "next_action": "Monitor for DRHP filing",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rebel Foods FY23-FY25 financials",
+   "status": "done",
+   "found": "FY23: Rs 1,195 Cr rev / Rs 656 Cr loss. FY24: Rs 1,420 Cr rev / Rs 378 Cr loss. FY25: Rs 1,617 Cr rev / Rs 336 Cr loss. FY26: Loss Rs 282 Cr, Revenue +21%.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rebel Foods legal/FSSAI issues",
+   "status": "done",
+   "found": "Only CCI approval for KKR/Temasek investments found. No FSSAI notices or cloud kitchen regulatory actions found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rebel Foods Rent2Dine acquisition",
+   "status": "done",
+   "found": "No evidence of Rent2Dine acquisition found. Only Smoor acquisition confirmed.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rebel Foods WestBridge/Good Games investors",
+   "status": "done",
+   "found": "WestBridge Capital not found as Rebel Foods investor. Lead investors are QIA, Temasek, KKR, Coatue, Lightbox, Peak XV.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rebel Foods founder identity verification",
+   "status": "done",
+   "found": "Founders confirmed as Jaydeep Barman and Kallol Banerjee (McKinsey alumni). Raghav Joshi mentioned as co-founder in Smoor PR. No 'Reetesh Raj' or 'Aniket Bajaj' found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rebel Foods IPO/DRHP status 2025-26",
+   "status": "done",
+   "found": "IPO planned for 2026 per CFO Piyush Kakkad (Dec 2024). No DRHP filed as of Sep 2026 based on available sources.",
+   "next_action": "Monitor for DRHP filing",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rebel Foods FY23-FY25 financials",
+   "status": "done",
+   "found": "FY23: Rs 1,195 Cr rev / Rs 656 Cr loss. FY24: Rs 1,420 Cr rev / Rs 378 Cr loss. FY25: Rs 1,617 Cr rev / Rs 336 Cr loss. FY26: Loss Rs 282 Cr, Revenue +21%.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rebel Foods legal/FSSAI issues",
+   "status": "done",
+   "found": "Only CCI approval for KKR/Temasek investments found. No FSSAI notices or cloud kitchen regulatory actions found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rebel Foods Rent2Dine acquisition",
+   "status": "done",
+   "found": "No evidence of Rent2Dine acquisition found. Only Smoor acquisition confirmed.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rebel Foods WestBridge/Good Games investors",
+   "status": "done",
+   "found": "WestBridge Capital not found as Rebel Foods investor. Lead investors are QIA, Temasek, KKR, Coatue, Lightbox, Peak XV.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rebel Foods founder identity verification",
+   "status": "done",
+   "found": "Founders confirmed as Jaydeep Barman and Kallol Banerjee (McKinsey alumni). Raghav Joshi mentioned as co-founder in Smoor PR. No 'Reetesh Raj' or 'Aniket Bajaj' found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rebel Foods IPO/DRHP status 2025-26",
+   "status": "done",
+   "found": "IPO planned for 2026 per CFO Piyush Kakkad (Dec 2024). No DRHP filed as of Sep 2026 based on available sources.",
+   "next_action": "Monitor for DRHP filing",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rebel Foods FY23-FY25 financials",
+   "status": "done",
+   "found": "FY23: Rs 1,195 Cr rev / Rs 656 Cr loss. FY24: Rs 1,420 Cr rev / Rs 378 Cr loss. FY25: Rs 1,617 Cr rev / Rs 336 Cr loss. FY26: Loss Rs 282 Cr, Revenue +21%.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rebel Foods legal/FSSAI issues",
+   "status": "done",
+   "found": "Only CCI approval for KKR/Temasek investments found. No FSSAI notices or cloud kitchen regulatory actions found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rebel Foods Rent2Dine acquisition",
+   "status": "done",
+   "found": "No evidence of Rent2Dine acquisition found. Only Smoor acquisition confirmed.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rebel Foods WestBridge/Good Games investors",
+   "status": "done",
+   "found": "WestBridge Capital not found as Rebel Foods investor. Lead investors are QIA, Temasek, KKR, Coatue, Lightbox, Peak XV.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rebel Foods founder identity verification",
+   "status": "done",
+   "found": "Founders confirmed as Jaydeep Barman and Kallol Banerjee (McKinsey alumni). Raghav Joshi mentioned as co-founder in Smoor PR. No 'Reetesh Raj' or 'Aniket Bajaj' found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rebel Foods IPO/DRHP status 2025-26",
+   "status": "done",
+   "found": "IPO planned for 2026 per CFO Piyush Kakkad (Dec 2024). No DRHP filed as of Sep 2026 based on available sources.",
+   "next_action": "Monitor for DRHP filing",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rebel Foods FY23-FY25 financials",
+   "status": "done",
+   "found": "FY23: Rs 1,195 Cr rev / Rs 656 Cr loss. FY24: Rs 1,420 Cr rev / Rs 378 Cr loss. FY25: Rs 1,617 Cr rev / Rs 336 Cr loss. FY26: Loss Rs 282 Cr, Revenue +21%.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rebel Foods legal/FSSAI issues",
+   "status": "done",
+   "found": "Only CCI approval for KKR/Temasek investments found. No FSSAI notices or cloud kitchen regulatory actions found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rebel Foods Rent2Dine acquisition",
+   "status": "done",
+   "found": "No evidence of Rent2Dine acquisition found. Only Smoor acquisition confirmed.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rebel Foods WestBridge/Good Games investors",
+   "status": "done",
+   "found": "WestBridge Capital not found as Rebel Foods investor. Lead investors are QIA, Temasek, KKR, Coatue, Lightbox, Peak XV.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rebel Foods founder identity verification",
+   "status": "done",
+   "found": "Founders confirmed as Jaydeep Barman and Kallol Banerjee (McKinsey alumni). Raghav Joshi mentioned as co-founder in Smoor PR. No 'Reetesh Raj' or 'Aniket Bajaj' found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rebel Foods IPO/DRHP status 2025-26",
+   "status": "done",
+   "found": "IPO planned for 2026 per CFO Piyush Kakkad (Dec 2024). No DRHP filed as of Sep 2026 based on available sources.",
+   "next_action": "Monitor for DRHP filing",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rebel Foods FY23-FY25 financials",
+   "status": "done",
+   "found": "FY23: Rs 1,195 Cr rev / Rs 656 Cr loss. FY24: Rs 1,420 Cr rev / Rs 378 Cr loss. FY25: Rs 1,617 Cr rev / Rs 336 Cr loss. FY26: Loss Rs 282 Cr, Revenue +21%.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rebel Foods legal/FSSAI issues",
+   "status": "done",
+   "found": "Only CCI approval for KKR/Temasek investments found. No FSSAI notices or cloud kitchen regulatory actions found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rebel Foods Rent2Dine acquisition",
+   "status": "done",
+   "found": "No evidence of Rent2Dine acquisition found. Only Smoor acquisition confirmed.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rebel Foods WestBridge/Good Games investors",
+   "status": "done",
+   "found": "WestBridge Capital not found as Rebel Foods investor. Lead investors are QIA, Temasek, KKR, Coatue, Lightbox, Peak XV.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rebel Foods founder identity verification",
+   "status": "done",
+   "found": "Founders confirmed as Jaydeep Barman and Kallol Banerjee (McKinsey alumni). Raghav Joshi mentioned as co-founder in Smoor PR. No 'Reetesh Raj' or 'Aniket Bajaj' found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rebel Foods IPO/DRHP status 2025-26",
+   "status": "done",
+   "found": "IPO planned for 2026 per CFO Piyush Kakkad (Dec 2024). No DRHP filed as of Sep 2026 based on available sources.",
+   "next_action": "Monitor for DRHP filing",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rebel Foods FY23-FY25 financials",
+   "status": "done",
+   "found": "FY23: Rs 1,195 Cr rev / Rs 656 Cr loss. FY24: Rs 1,420 Cr rev / Rs 378 Cr loss. FY25: Rs 1,617 Cr rev / Rs 336 Cr loss. FY26: Loss Rs 282 Cr, Revenue +21%.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rebel Foods legal/FSSAI issues",
+   "status": "done",
+   "found": "Only CCI approval for KKR/Temasek investments found. No FSSAI notices or cloud kitchen regulatory actions found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rebel Foods Rent2Dine acquisition",
+   "status": "done",
+   "found": "No evidence of Rent2Dine acquisition found. Only Smoor acquisition confirmed.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rebel Foods WestBridge/Good Games investors",
+   "status": "done",
+   "found": "WestBridge Capital not found as Rebel Foods investor. Lead investors are QIA, Temasek, KKR, Coatue, Lightbox, Peak XV.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rebel Foods founder identity verification",
+   "status": "done",
+   "found": "Founders confirmed as Jaydeep Barman and Kallol Banerjee (McKinsey alumni). Raghav Joshi mentioned as co-founder in Smoor PR. No 'Reetesh Raj' or 'Aniket Bajaj' found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rebel Foods IPO/DRHP status 2025-26",
+   "status": "done",
+   "found": "IPO planned for 2026 per CFO Piyush Kakkad (Dec 2024). No DRHP filed as of Sep 2026 based on available sources.",
+   "next_action": "Monitor for DRHP filing",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rebel Foods FY23-FY25 financials",
+   "status": "done",
+   "found": "FY23: Rs 1,195 Cr rev / Rs 656 Cr loss. FY24: Rs 1,420 Cr rev / Rs 378 Cr loss. FY25: Rs 1,617 Cr rev / Rs 336 Cr loss. FY26: Loss Rs 282 Cr, Revenue +21%.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rebel Foods legal/FSSAI issues",
+   "status": "done",
+   "found": "Only CCI approval for KKR/Temasek investments found. No FSSAI notices or cloud kitchen regulatory actions found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rebel Foods Rent2Dine acquisition",
+   "status": "done",
+   "found": "No evidence of Rent2Dine acquisition found. Only Smoor acquisition confirmed.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rebel Foods WestBridge/Good Games investors",
+   "status": "done",
+   "found": "WestBridge Capital not found as Rebel Foods investor. Lead investors are QIA, Temasek, KKR, Coatue, Lightbox, Peak XV.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rebel Foods founder identity verification",
+   "status": "done",
+   "found": "Founders confirmed as Jaydeep Barman and Kallol Banerjee (McKinsey alumni). Raghav Joshi mentioned as co-founder in Smoor PR. No 'Reetesh Raj' or 'Aniket Bajaj' found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rebel Foods IPO/DRHP status 2025-26",
+   "status": "done",
+   "found": "IPO planned for 2026 per CFO Piyush Kakkad (Dec 2024). No DRHP filed as of Sep 2026 based on available sources.",
+   "next_action": "Monitor for DRHP filing",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rebel Foods FY23-FY25 financials",
+   "status": "done",
+   "found": "FY23: Rs 1,195 Cr rev / Rs 656 Cr loss. FY24: Rs 1,420 Cr rev / Rs 378 Cr loss. FY25: Rs 1,617 Cr rev / Rs 336 Cr loss. FY26: Loss Rs 282 Cr, Revenue +21%.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rebel Foods legal/FSSAI issues",
+   "status": "done",
+   "found": "Only CCI approval for KKR/Temasek investments found. No FSSAI notices or cloud kitchen regulatory actions found.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rebel Foods Rent2Dine acquisition",
+   "status": "done",
+   "found": "No evidence of Rent2Dine acquisition found. Only Smoor acquisition confirmed.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rebel Foods WestBridge/Good Games investors",
+   "status": "done",
+   "found": "WestBridge Capital not found as Rebel Foods investor. Lead investors are QIA, Temasek, KKR, Coatue, Lightbox, Peak XV.",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  }
+ ],
+ "sources": [
+  {
+   "publication_date": "2024-12-19",
+   "publisher": "Economic Times",
+   "retrieved_date": "2026-09-14",
+   "tier": "T3",
+   "title": "KKR buys secondary shares in Rebel Foods valuing firm at ~$800M",
+   "url": "https://m.economictimes.com/tech/technology/kkr-invests-in-rebel-foods-valuing-the-cloud-kitchen-brand-at-around-800-million/articleshow/116462887.cms"
+  },
+  {
+   "publication_date": "2024-12-12",
+   "publisher": "Straits Times/Bloomberg",
+   "retrieved_date": "2026-09-14",
+   "tier": "T3",
+   "title": "Temasek leads $282m fund-raising round for Rebel Foods",
+   "url": "https://www.straitstimes.com/business/companies-markets/temasek-leads-282m-fundraising-round-for-india-start-up-rebel-foods-ahead-of-planned-ipo"
+  },
+  {
+   "publication_date": "2025-04-22",
+   "publisher": "Verdict/Yahoo",
+   "retrieved_date": "2026-09-14",
+   "tier": "T3",
+   "title": "Rebel Foods secures $25m from Qatar Investment Authority",
+   "url": "https://finance.yahoo.com/news/rebel-foods-secures-25m-qatar-141914835.html"
+  },
+  {
+   "claim_supported": "FY25 revenue Rs 1,617cr, loss Rs 336cr",
+   "publication_date": null,
+   "publisher": "Entrackr",
+   "retrieved_date": "2026-09-14",
+   "tier": "T3",
+   "title": "Rebel Foods growth slows in FY25, reports Rs 336 Cr loss",
+   "url": "http://entrackr.com/fintrackr/rebel-foods-growth-slows-in-fy25-reports-rs-336-cr-loss-10884067"
+  },
+  {
+   "publication_date": "2024-08-30",
+   "publisher": "Economic Times",
+   "retrieved_date": "2026-09-14",
+   "tier": "T3",
+   "title": "Rebel Foods posts rise in FY24 revenue to Rs 1,420 crore",
+   "url": "https://m.economictimes.com/tech/technology/rebel-foods-posts-rise-in-fy24-revenue-to-rs-1420-crore-trims-losses/articleshow/112924120.cms"
+  },
+  {
+   "url": "https://www.zaubacorp.com/REBEL-FOODS-PRIVATE-LIMITED-U93000PN2010PTC136943",
+   "title": "REBEL FOODS PRIVATE LIMITED | ZaubaCorp",
+   "fields": [
+    "cin",
+    "incorporation_date"
+   ],
+   "confidence": "medium-high"
+  },
+  {
+   "url": "https://retail.economictimes.indiatimes.com/news/food-entertainment/food-services/cloud-kitchen-company-rebel-foods-acquires-majority-stake-in-chocolate-brand-smoor/90703637",
+   "title": "Cloud kitchen company Rebel Foods acquires majority stake in chocolate brand Smoor",
+   "tier": "T2",
+   "claim": "acquisition Smoor (chocolates/desserts)"
+  },
+  {
+   "url": "https://retail.economictimes.indiatimes.com/news/food-entertainment/food-services/cloud-kitchen-company-rebel-foods-acquires-majority-stake-in-chocolate-brand-smoor/90703637",
+   "title": "Cloud kitchen company Rebel Foods acquires majority stake in chocolate brand Smoor",
+   "tier": "T2",
+   "claim": "acquisition Smoor (chocolates/desserts)"
+  },
+  {
+   "url": "https://retail.economictimes.indiatimes.com/news/food-entertainment/food-services/cloud-kitchen-company-rebel-foods-acquires-majority-stake-in-chocolate-brand-smoor/90703637",
+   "title": "Cloud kitchen company Rebel Foods acquires majority stake in chocolate brand Smoor",
+   "tier": "T2",
+   "claim": "acquisition Smoor (chocolates/desserts)"
+  },
+  {
+   "url": "https://retail.economictimes.indiatimes.com/news/food-entertainment/food-services/cloud-kitchen-company-rebel-foods-acquires-majority-stake-in-chocolate-brand-smoor/90703637",
+   "title": "Cloud kitchen company Rebel Foods acquires majority stake in chocolate brand Smoor",
+   "tier": "T2",
+   "claim": "acquisition Smoor (chocolates/desserts)"
+  },
+  {
+   "url": "https://retail.economictimes.indiatimes.com/news/food-entertainment/food-services/cloud-kitchen-company-rebel-foods-acquires-majority-stake-in-chocolate-brand-smoor/90703637",
+   "title": "Cloud kitchen company Rebel Foods acquires majority stake in chocolate brand Smoor",
+   "tier": "T2",
+   "claim": "acquisition Smoor (chocolates/desserts)"
+  },
+  {
+   "url": "https://retail.economictimes.indiatimes.com/news/food-entertainment/food-services/cloud-kitchen-company-rebel-foods-acquires-majority-stake-in-chocolate-brand-smoor/90703637",
+   "title": "Cloud kitchen company Rebel Foods acquires majority stake in chocolate brand Smoor",
+   "tier": "T2",
+   "claim": "acquisition Smoor (chocolates/desserts)"
+  },
+  {
+   "url": "https://retail.economictimes.indiatimes.com/news/food-entertainment/food-services/cloud-kitchen-company-rebel-foods-acquires-majority-stake-in-chocolate-brand-smoor/90703637",
+   "title": "Cloud kitchen company Rebel Foods acquires majority stake in chocolate brand Smoor",
+   "tier": "T2",
+   "claim": "acquisition Smoor (chocolates/desserts)"
+  },
+  {
+   "url": "https://retail.economictimes.indiatimes.com/news/food-entertainment/food-services/cloud-kitchen-company-rebel-foods-acquires-majority-stake-in-chocolate-brand-smoor/90703637",
+   "title": "Cloud kitchen company Rebel Foods acquires majority stake in chocolate brand Smoor",
+   "tier": "T2",
+   "claim": "acquisition Smoor (chocolates/desserts)"
+  },
+  {
+   "url": "https://retail.economictimes.indiatimes.com/news/food-entertainment/food-services/cloud-kitchen-company-rebel-foods-acquires-majority-stake-in-chocolate-brand-smoor/90703637",
+   "title": "Cloud kitchen company Rebel Foods acquires majority stake in chocolate brand Smoor",
+   "tier": "T2",
+   "claim": "acquisition Smoor (chocolates/desserts)"
+  },
+  {
+   "url": "https://retail.economictimes.indiatimes.com/news/food-entertainment/food-services/cloud-kitchen-company-rebel-foods-acquires-majority-stake-in-chocolate-brand-smoor/90703637",
+   "title": "Cloud kitchen company Rebel Foods acquires majority stake in chocolate brand Smoor",
+   "tier": "T2",
+   "claim": "acquisition Smoor (chocolates/desserts)"
+  },
+  {
+   "url": "https://retail.economictimes.indiatimes.com/news/food-entertainment/food-services/cloud-kitchen-company-rebel-foods-acquires-majority-stake-in-chocolate-brand-smoor/90703637",
+   "title": "Cloud kitchen company Rebel Foods acquires majority stake in chocolate brand Smoor",
+   "tier": "T2",
+   "claim": "acquisition Smoor (chocolates/desserts)"
+  },
+  {
+   "url": "https://retail.economictimes.indiatimes.com/news/food-entertainment/food-services/cloud-kitchen-company-rebel-foods-acquires-majority-stake-in-chocolate-brand-smoor/90703637",
+   "title": "Cloud kitchen company Rebel Foods acquires majority stake in chocolate brand Smoor",
+   "tier": "T2",
+   "claim": "acquisition Smoor (chocolates/desserts)"
+  },
+  {
+   "url": "https://retail.economictimes.indiatimes.com/news/food-entertainment/food-services/cloud-kitchen-company-rebel-foods-acquires-majority-stake-in-chocolate-brand-smoor/90703637",
+   "title": "Cloud kitchen company Rebel Foods acquires majority stake in chocolate brand Smoor",
+   "tier": "T2",
+   "claim": "acquisition Smoor (chocolates/desserts)"
+  },
+  {
+   "url": "https://retail.economictimes.indiatimes.com/news/food-entertainment/food-services/cloud-kitchen-company-rebel-foods-acquires-majority-stake-in-chocolate-brand-smoor/90703637",
+   "title": "Cloud kitchen company Rebel Foods acquires majority stake in chocolate brand Smoor",
+   "tier": "T2",
+   "claim": "acquisition Smoor (chocolates/desserts)"
+  },
+  {
+   "url": "https://retail.economictimes.indiatimes.com/news/food-entertainment/food-services/cloud-kitchen-company-rebel-foods-acquires-majority-stake-in-chocolate-brand-smoor/90703637",
+   "title": "Cloud kitchen company Rebel Foods acquires majority stake in chocolate brand Smoor",
+   "tier": "T2",
+   "claim": "acquisition Smoor (chocolates/desserts)"
+  },
+  {
+   "url": "https://retail.economictimes.indiatimes.com/news/food-entertainment/food-services/cloud-kitchen-company-rebel-foods-acquires-majority-stake-in-chocolate-brand-smoor/90703637",
+   "title": "Cloud kitchen company Rebel Foods acquires majority stake in chocolate brand Smoor",
+   "tier": "T2",
+   "claim": "acquisition Smoor (chocolates/desserts)"
+  },
+  {
+   "url": "https://retail.economictimes.indiatimes.com/news/food-entertainment/food-services/cloud-kitchen-company-rebel-foods-acquires-majority-stake-in-chocolate-brand-smoor/90703637",
+   "title": "Cloud kitchen company Rebel Foods acquires majority stake in chocolate brand Smoor",
+   "tier": "T2",
+   "claim": "acquisition Smoor (chocolates/desserts)"
+  },
+  {
+   "url": "https://retail.economictimes.indiatimes.com/news/food-entertainment/food-services/cloud-kitchen-company-rebel-foods-acquires-majority-stake-in-chocolate-brand-smoor/90703637",
+   "title": "Cloud kitchen company Rebel Foods acquires majority stake in chocolate brand Smoor",
+   "tier": "T2",
+   "claim": "acquisition Smoor (chocolates/desserts)"
+  },
+  {
+   "url": "https://retail.economictimes.indiatimes.com/news/food-entertainment/food-services/cloud-kitchen-company-rebel-foods-acquires-majority-stake-in-chocolate-brand-smoor/90703637",
+   "title": "Cloud kitchen company Rebel Foods acquires majority stake in chocolate brand Smoor",
+   "tier": "T2",
+   "claim": "acquisition Smoor (chocolates/desserts)"
+  },
+  {
+   "url": "https://retail.economictimes.indiatimes.com/news/food-entertainment/food-services/cloud-kitchen-company-rebel-foods-acquires-majority-stake-in-chocolate-brand-smoor/90703637",
+   "title": "Cloud kitchen company Rebel Foods acquires majority stake in chocolate brand Smoor",
+   "tier": "T2",
+   "claim": "acquisition Smoor (chocolates/desserts)"
+  },
+  {
+   "url": "https://retail.economictimes.indiatimes.com/news/food-entertainment/food-services/cloud-kitchen-company-rebel-foods-acquires-majority-stake-in-chocolate-brand-smoor/90703637",
+   "title": "Cloud kitchen company Rebel Foods acquires majority stake in chocolate brand Smoor",
+   "tier": "T2",
+   "claim": "acquisition Smoor (chocolates/desserts)"
+  },
+  {
+   "url": "https://retail.economictimes.indiatimes.com/news/food-entertainment/food-services/cloud-kitchen-company-rebel-foods-acquires-majority-stake-in-chocolate-brand-smoor/90703637",
+   "title": "Cloud kitchen company Rebel Foods acquires majority stake in chocolate brand Smoor",
+   "tier": "T2",
+   "claim": "acquisition Smoor (chocolates/desserts)"
+  },
+  {
+   "url": "https://retail.economictimes.indiatimes.com/news/food-entertainment/food-services/cloud-kitchen-company-rebel-foods-acquires-majority-stake-in-chocolate-brand-smoor/90703637",
+   "title": "Cloud kitchen company Rebel Foods acquires majority stake in chocolate brand Smoor",
+   "tier": "T2",
+   "claim": "acquisition Smoor (chocolates/desserts)"
+  },
+  {
+   "url": "https://retail.economictimes.indiatimes.com/news/food-entertainment/food-services/cloud-kitchen-company-rebel-foods-acquires-majority-stake-in-chocolate-brand-smoor/90703637",
+   "title": "Cloud kitchen company Rebel Foods acquires majority stake in chocolate brand Smoor",
+   "tier": "T2",
+   "claim": "acquisition Smoor (chocolates/desserts)"
+  },
+  {
+   "url": "https://retail.economictimes.indiatimes.com/news/food-entertainment/food-services/cloud-kitchen-company-rebel-foods-acquires-majority-stake-in-chocolate-brand-smoor/90703637",
+   "title": "Cloud kitchen company Rebel Foods acquires majority stake in chocolate brand Smoor",
+   "tier": "T2",
+   "claim": "acquisition Smoor (chocolates/desserts)"
+  },
+  {
+   "url": "https://retail.economictimes.indiatimes.com/news/food-entertainment/food-services/cloud-kitchen-company-rebel-foods-acquires-majority-stake-in-chocolate-brand-smoor/90703637",
+   "title": "Cloud kitchen company Rebel Foods acquires majority stake in chocolate brand Smoor",
+   "tier": "T2",
+   "claim": "acquisition Smoor (chocolates/desserts)"
+  },
+  {
+   "url": "https://retail.economictimes.indiatimes.com/news/food-entertainment/food-services/cloud-kitchen-company-rebel-foods-acquires-majority-stake-in-chocolate-brand-smoor/90703637",
+   "title": "Cloud kitchen company Rebel Foods acquires majority stake in chocolate brand Smoor",
+   "tier": "T2",
+   "claim": "acquisition Smoor (chocolates/desserts)"
+  },
+  {
+   "url": "https://retail.economictimes.indiatimes.com/news/food-entertainment/food-services/cloud-kitchen-company-rebel-foods-acquires-majority-stake-in-chocolate-brand-smoor/90703637",
+   "title": "Cloud kitchen company Rebel Foods acquires majority stake in chocolate brand Smoor",
+   "tier": "T2",
+   "claim": "acquisition Smoor (chocolates/desserts)"
+  },
+  {
+   "url": "https://retail.economictimes.indiatimes.com/news/food-entertainment/food-services/cloud-kitchen-company-rebel-foods-acquires-majority-stake-in-chocolate-brand-smoor/90703637",
+   "title": "Cloud kitchen company Rebel Foods acquires majority stake in chocolate brand Smoor",
+   "tier": "T2",
+   "claim": "acquisition Smoor (chocolates/desserts)"
+  },
+  {
+   "url": "https://retail.economictimes.indiatimes.com/news/food-entertainment/food-services/cloud-kitchen-company-rebel-foods-acquires-majority-stake-in-chocolate-brand-smoor/90703637",
+   "title": "Cloud kitchen company Rebel Foods acquires majority stake in chocolate brand Smoor",
+   "tier": "T2",
+   "claim": "acquisition Smoor (chocolates/desserts)"
+  },
+  {
+   "url": "https://retail.economictimes.indiatimes.com/news/food-entertainment/food-services/cloud-kitchen-company-rebel-foods-acquires-majority-stake-in-chocolate-brand-smoor/90703637",
+   "title": "Cloud kitchen company Rebel Foods acquires majority stake in chocolate brand Smoor",
+   "tier": "T2",
+   "claim": "acquisition Smoor (chocolates/desserts)"
+  },
+  {
+   "url": "https://retail.economictimes.indiatimes.com/news/food-entertainment/food-services/cloud-kitchen-company-rebel-foods-acquires-majority-stake-in-chocolate-brand-smoor/90703637",
+   "title": "Cloud kitchen company Rebel Foods acquires majority stake in chocolate brand Smoor",
+   "tier": "T2",
+   "claim": "acquisition Smoor (chocolates/desserts)"
+  },
+  {
+   "url": "https://retail.economictimes.indiatimes.com/news/food-entertainment/food-services/cloud-kitchen-company-rebel-foods-acquires-majority-stake-in-chocolate-brand-smoor/90703637",
+   "title": "Cloud kitchen company Rebel Foods acquires majority stake in chocolate brand Smoor",
+   "tier": "T2",
+   "claim": "acquisition Smoor (chocolates/desserts)"
+  },
+  {
+   "url": "https://retail.economictimes.indiatimes.com/news/food-entertainment/food-services/cloud-kitchen-company-rebel-foods-acquires-majority-stake-in-chocolate-brand-smoor/90703637",
+   "title": "Cloud kitchen company Rebel Foods acquires majority stake in chocolate brand Smoor",
+   "tier": "T2",
+   "claim": "acquisition Smoor (chocolates/desserts)"
+  },
+  {
+   "url": "https://retail.economictimes.indiatimes.com/news/food-entertainment/food-services/cloud-kitchen-company-rebel-foods-acquires-majority-stake-in-chocolate-brand-smoor/90703637",
+   "title": "Cloud kitchen company Rebel Foods acquires majority stake in chocolate brand Smoor",
+   "tier": "T2",
+   "claim": "acquisition Smoor (chocolates/desserts)"
+  },
+  {
+   "url": "https://retail.economictimes.indiatimes.com/news/food-entertainment/food-services/cloud-kitchen-company-rebel-foods-acquires-majority-stake-in-chocolate-brand-smoor/90703637",
+   "title": "Cloud kitchen company Rebel Foods acquires majority stake in chocolate brand Smoor",
+   "tier": "T2",
+   "claim": "acquisition Smoor (chocolates/desserts)"
+  },
+  {
+   "url": "https://retail.economictimes.indiatimes.com/news/food-entertainment/food-services/cloud-kitchen-company-rebel-foods-acquires-majority-stake-in-chocolate-brand-smoor/90703637",
+   "title": "Cloud kitchen company Rebel Foods acquires majority stake in chocolate brand Smoor",
+   "tier": "T2",
+   "claim": "acquisition Smoor (chocolates/desserts)"
+  },
+  {
+   "url": "https://retail.economictimes.indiatimes.com/news/food-entertainment/food-services/cloud-kitchen-company-rebel-foods-acquires-majority-stake-in-chocolate-brand-smoor/90703637",
+   "title": "Cloud kitchen company Rebel Foods acquires majority stake in chocolate brand Smoor",
+   "tier": "T2",
+   "claim": "acquisition Smoor (chocolates/desserts)"
+  },
+  {
+   "url": "https://retail.economictimes.indiatimes.com/news/food-entertainment/food-services/cloud-kitchen-company-rebel-foods-acquires-majority-stake-in-chocolate-brand-smoor/90703637",
+   "title": "Cloud kitchen company Rebel Foods acquires majority stake in chocolate brand Smoor",
+   "tier": "T2",
+   "claim": "acquisition Smoor (chocolates/desserts)"
+  },
+  {
+   "url": "https://retail.economictimes.indiatimes.com/news/food-entertainment/food-services/cloud-kitchen-company-rebel-foods-acquires-majority-stake-in-chocolate-brand-smoor/90703637",
+   "title": "Cloud kitchen company Rebel Foods acquires majority stake in chocolate brand Smoor",
+   "tier": "T2",
+   "claim": "acquisition Smoor (chocolates/desserts)"
+  },
+  {
+   "url": "https://retail.economictimes.indiatimes.com/news/food-entertainment/food-services/cloud-kitchen-company-rebel-foods-acquires-majority-stake-in-chocolate-brand-smoor/90703637",
+   "title": "Cloud kitchen company Rebel Foods acquires majority stake in chocolate brand Smoor",
+   "tier": "T2",
+   "claim": "acquisition Smoor (chocolates/desserts)"
+  },
+  {
+   "url": "https://retail.economictimes.indiatimes.com/news/food-entertainment/food-services/cloud-kitchen-company-rebel-foods-acquires-majority-stake-in-chocolate-brand-smoor/90703637",
+   "title": "Cloud kitchen company Rebel Foods acquires majority stake in chocolate brand Smoor",
+   "tier": "T2",
+   "claim": "acquisition Smoor (chocolates/desserts)"
+  },
+  {
+   "url": "https://retail.economictimes.indiatimes.com/news/food-entertainment/food-services/cloud-kitchen-company-rebel-foods-acquires-majority-stake-in-chocolate-brand-smoor/90703637",
+   "title": "Cloud kitchen company Rebel Foods acquires majority stake in chocolate brand Smoor",
+   "tier": "T2",
+   "claim": "acquisition Smoor (chocolates/desserts)"
+  },
+  {
+   "url": "https://retail.economictimes.indiatimes.com/news/food-entertainment/food-services/cloud-kitchen-company-rebel-foods-acquires-majority-stake-in-chocolate-brand-smoor/90703637",
+   "title": "Cloud kitchen company Rebel Foods acquires majority stake in chocolate brand Smoor",
+   "tier": "T2",
+   "claim": "acquisition Smoor (chocolates/desserts)"
+  },
+  {
+   "url": "https://retail.economictimes.indiatimes.com/news/food-entertainment/food-services/cloud-kitchen-company-rebel-foods-acquires-majority-stake-in-chocolate-brand-smoor/90703637",
+   "title": "Cloud kitchen company Rebel Foods acquires majority stake in chocolate brand Smoor",
+   "tier": "T2",
+   "claim": "acquisition Smoor (chocolates/desserts)"
+  },
+  {
+   "url": "https://retail.economictimes.indiatimes.com/news/food-entertainment/food-services/cloud-kitchen-company-rebel-foods-acquires-majority-stake-in-chocolate-brand-smoor/90703637",
+   "title": "Cloud kitchen company Rebel Foods acquires majority stake in chocolate brand Smoor",
+   "tier": "T2",
+   "claim": "acquisition Smoor (chocolates/desserts)"
+  },
+  {
+   "url": "https://retail.economictimes.indiatimes.com/news/food-entertainment/food-services/cloud-kitchen-company-rebel-foods-acquires-majority-stake-in-chocolate-brand-smoor/90703637",
+   "title": "Cloud kitchen company Rebel Foods acquires majority stake in chocolate brand Smoor",
+   "tier": "T2",
+   "claim": "acquisition Smoor (chocolates/desserts)"
+  },
+  {
+   "url": "https://retail.economictimes.indiatimes.com/news/food-entertainment/food-services/cloud-kitchen-company-rebel-foods-acquires-majority-stake-in-chocolate-brand-smoor/90703637",
+   "title": "Cloud kitchen company Rebel Foods acquires majority stake in chocolate brand Smoor",
+   "tier": "T2",
+   "claim": "acquisition Smoor (chocolates/desserts)"
+  },
+  {
+   "url": "https://retail.economictimes.indiatimes.com/news/food-entertainment/food-services/cloud-kitchen-company-rebel-foods-acquires-majority-stake-in-chocolate-brand-smoor/90703637",
+   "title": "Cloud kitchen company Rebel Foods acquires majority stake in chocolate brand Smoor",
+   "tier": "T2",
+   "claim": "acquisition Smoor (chocolates/desserts)"
+  },
+  {
+   "url": "https://retail.economictimes.indiatimes.com/news/food-entertainment/food-services/cloud-kitchen-company-rebel-foods-acquires-majority-stake-in-chocolate-brand-smoor/90703637",
+   "title": "Cloud kitchen company Rebel Foods acquires majority stake in chocolate brand Smoor",
+   "tier": "T2",
+   "claim": "acquisition Smoor (chocolates/desserts)"
+  },
+  {
+   "url": "https://retail.economictimes.indiatimes.com/news/food-entertainment/food-services/cloud-kitchen-company-rebel-foods-acquires-majority-stake-in-chocolate-brand-smoor/90703637",
+   "title": "Cloud kitchen company Rebel Foods acquires majority stake in chocolate brand Smoor",
+   "tier": "T2",
+   "claim": "acquisition Smoor (chocolates/desserts)"
+  },
+  {
+   "url": "https://retail.economictimes.indiatimes.com/news/food-entertainment/food-services/cloud-kitchen-company-rebel-foods-acquires-majority-stake-in-chocolate-brand-smoor/90703637",
+   "title": "Cloud kitchen company Rebel Foods acquires majority stake in chocolate brand Smoor",
+   "tier": "T2",
+   "claim": "acquisition Smoor (chocolates/desserts)"
+  },
+  {
+   "url": "https://retail.economictimes.indiatimes.com/news/food-entertainment/food-services/cloud-kitchen-company-rebel-foods-acquires-majority-stake-in-chocolate-brand-smoor/90703637",
+   "title": "Cloud kitchen company Rebel Foods acquires majority stake in chocolate brand Smoor",
+   "tier": "T2",
+   "claim": "acquisition Smoor (chocolates/desserts)"
+  },
+  {
+   "url": "https://retail.economictimes.indiatimes.com/news/food-entertainment/food-services/cloud-kitchen-company-rebel-foods-acquires-majority-stake-in-chocolate-brand-smoor/90703637",
+   "title": "Cloud kitchen company Rebel Foods acquires majority stake in chocolate brand Smoor",
+   "tier": "T2",
+   "claim": "acquisition Smoor (chocolates/desserts)"
+  },
+  {
+   "url": "https://retail.economictimes.indiatimes.com/news/food-entertainment/food-services/cloud-kitchen-company-rebel-foods-acquires-majority-stake-in-chocolate-brand-smoor/90703637",
+   "title": "Cloud kitchen company Rebel Foods acquires majority stake in chocolate brand Smoor",
+   "tier": "T2",
+   "claim": "acquisition Smoor (chocolates/desserts)"
+  },
+  {
+   "url": "https://retail.economictimes.indiatimes.com/news/food-entertainment/food-services/cloud-kitchen-company-rebel-foods-acquires-majority-stake-in-chocolate-brand-smoor/90703637",
+   "title": "Cloud kitchen company Rebel Foods acquires majority stake in chocolate brand Smoor",
+   "tier": "T2",
+   "claim": "acquisition Smoor (chocolates/desserts)"
+  },
+  {
+   "url": "https://inc42.com/startups/to-infinity-beyond-indian-spacetech-startups-winning-space-race/",
+   "publisher": "Inc42",
+   "tier": "T2",
+   "publication_date": "2026-09-15",
+   "retrieved_date": "2026-09-15",
+   "confidence": "MEDIUM",
+   "fields_supported": [
+    "financials",
+    "events"
+   ]
+  },
+  {
+   "url": "https://m.economictimes.com/tech/funding/cloud-kitchen-firm-eatclub-to-raise-rs-185-crore-from-tiger-global-a91-partners-360-one/articleshow/122909399.cms",
+   "publisher": "Economic Times",
+   "tier": "T2",
+   "publication_date": "2025-07-25",
+   "retrieved_date": "2026-09-15",
+   "confidence": "MEDIUM",
+   "fields_supported": [
+    "people",
+    "conflicts"
+   ]
+  },
+  {
+   "url": "https://retail.economictimes.indiatimes.com/news/food-entertainment/food-services/cloud-kitchen-company-rebel-foods-acquires-majority-stake-in-chocolate-brand-smoor/90703637",
+   "title": "Cloud kitchen company Rebel Foods acquires majority stake in chocolate brand Smoor",
+   "tier": "T2",
+   "claim": "acquisition Smoor (chocolates/desserts)"
+  },
+  {
+   "url": "https://retail.economictimes.indiatimes.com/news/food-entertainment/food-services/cloud-kitchen-company-rebel-foods-acquires-majority-stake-in-chocolate-brand-smoor/90703637",
+   "title": "Cloud kitchen company Rebel Foods acquires majority stake in chocolate brand Smoor",
+   "tier": "T2",
+   "claim": "acquisition Smoor (chocolates/desserts)"
+  },
+  {
+   "url": "https://retail.economictimes.indiatimes.com/news/food-entertainment/food-services/cloud-kitchen-company-rebel-foods-acquires-majority-stake-in-chocolate-brand-smoor/90703637",
+   "title": "Cloud kitchen company Rebel Foods acquires majority stake in chocolate brand Smoor",
+   "tier": "T2",
+   "claim": "acquisition Smoor (chocolates/desserts)"
+  },
+  {
+   "url": "https://retail.economictimes.indiatimes.com/news/food-entertainment/food-services/cloud-kitchen-company-rebel-foods-acquires-majority-stake-in-chocolate-brand-smoor/90703637",
+   "title": "Cloud kitchen company Rebel Foods acquires majority stake in chocolate brand Smoor",
+   "tier": "T2",
+   "claim": "acquisition Smoor (chocolates/desserts)"
+  },
+  {
+   "url": "https://retail.economictimes.indiatimes.com/news/food-entertainment/food-services/cloud-kitchen-company-rebel-foods-acquires-majority-stake-in-chocolate-brand-smoor/90703637",
+   "title": "Cloud kitchen company Rebel Foods acquires majority stake in chocolate brand Smoor",
+   "tier": "T2",
+   "claim": "acquisition Smoor (chocolates/desserts)"
+  },
+  {
+   "url": "https://retail.economictimes.indiatimes.com/news/food-entertainment/food-services/cloud-kitchen-company-rebel-foods-acquires-majority-stake-in-chocolate-brand-smoor/90703637",
+   "title": "Cloud kitchen company Rebel Foods acquires majority stake in chocolate brand Smoor",
+   "tier": "T2",
+   "claim": "acquisition Smoor (chocolates/desserts)"
+  },
+  {
+   "url": "https://retail.economictimes.indiatimes.com/news/food-entertainment/food-services/cloud-kitchen-company-rebel-foods-acquires-majority-stake-in-chocolate-brand-smoor/90703637",
+   "title": "Cloud kitchen company Rebel Foods acquires majority stake in chocolate brand Smoor",
+   "tier": "T2",
+   "claim": "acquisition Smoor (chocolates/desserts)"
+  },
+  {
+   "url": "https://retail.economictimes.indiatimes.com/news/food-entertainment/food-services/cloud-kitchen-company-rebel-foods-acquires-majority-stake-in-chocolate-brand-smoor/90703637",
+   "title": "Cloud kitchen company Rebel Foods acquires majority stake in chocolate brand Smoor",
+   "tier": "T2",
+   "claim": "acquisition Smoor (chocolates/desserts)"
+  },
+  {
+   "url": "https://retail.economictimes.indiatimes.com/news/food-entertainment/food-services/cloud-kitchen-company-rebel-foods-acquires-majority-stake-in-chocolate-brand-smoor/90703637",
+   "title": "Cloud kitchen company Rebel Foods acquires majority stake in chocolate brand Smoor",
+   "tier": "T2",
+   "claim": "acquisition Smoor (chocolates/desserts)"
+  },
+  {
+   "url": "https://retail.economictimes.indiatimes.com/news/food-entertainment/food-services/cloud-kitchen-company-rebel-foods-acquires-majority-stake-in-chocolate-brand-smoor/90703637",
+   "title": "Cloud kitchen company Rebel Foods acquires majority stake in chocolate brand Smoor",
+   "tier": "T2",
+   "claim": "acquisition Smoor (chocolates/desserts)"
+  },
+  {
+   "url": "https://retail.economictimes.indiatimes.com/news/food-entertainment/food-services/cloud-kitchen-company-rebel-foods-acquires-majority-stake-in-chocolate-brand-smoor/90703637",
+   "title": "Cloud kitchen company Rebel Foods acquires majority stake in chocolate brand Smoor",
+   "tier": "T2",
+   "claim": "acquisition Smoor (chocolates/desserts)"
+  },
+  {
+   "url": "https://retail.economictimes.indiatimes.com/news/food-entertainment/food-services/cloud-kitchen-company-rebel-foods-acquires-majority-stake-in-chocolate-brand-smoor/90703637",
+   "title": "Cloud kitchen company Rebel Foods acquires majority stake in chocolate brand Smoor",
+   "tier": "T2",
+   "claim": "acquisition Smoor (chocolates/desserts)"
+  },
+  {
+   "url": "https://retail.economictimes.indiatimes.com/news/food-entertainment/food-services/cloud-kitchen-company-rebel-foods-acquires-majority-stake-in-chocolate-brand-smoor/90703637",
+   "title": "Cloud kitchen company Rebel Foods acquires majority stake in chocolate brand Smoor",
+   "tier": "T2",
+   "claim": "acquisition Smoor (chocolates/desserts)"
+  },
+  {
+   "url": "https://retail.economictimes.indiatimes.com/news/food-entertainment/food-services/cloud-kitchen-company-rebel-foods-acquires-majority-stake-in-chocolate-brand-smoor/90703637",
+   "title": "Cloud kitchen company Rebel Foods acquires majority stake in chocolate brand Smoor",
+   "tier": "T2",
+   "claim": "acquisition Smoor (chocolates/desserts)"
+  },
+  {
+   "url": "https://retail.economictimes.indiatimes.com/news/food-entertainment/food-services/cloud-kitchen-company-rebel-foods-acquires-majority-stake-in-chocolate-brand-smoor/90703637",
+   "title": "Cloud kitchen company Rebel Foods acquires majority stake in chocolate brand Smoor",
+   "tier": "T2",
+   "claim": "acquisition Smoor (chocolates/desserts)"
+  },
+  {
+   "url": "https://retail.economictimes.indiatimes.com/news/food-entertainment/food-services/cloud-kitchen-company-rebel-foods-acquires-majority-stake-in-chocolate-brand-smoor/90703637",
+   "title": "Cloud kitchen company Rebel Foods acquires majority stake in chocolate brand Smoor",
+   "tier": "T2",
+   "claim": "acquisition Smoor (chocolates/desserts)"
+  },
+  {
+   "url": "https://retail.economictimes.indiatimes.com/news/food-entertainment/food-services/cloud-kitchen-company-rebel-foods-acquires-majority-stake-in-chocolate-brand-smoor/90703637",
+   "title": "Cloud kitchen company Rebel Foods acquires majority stake in chocolate brand Smoor",
+   "tier": "T2",
+   "claim": "acquisition Smoor (chocolates/desserts)"
+  },
+  {
+   "url": "https://retail.economictimes.indiatimes.com/news/food-entertainment/food-services/cloud-kitchen-company-rebel-foods-acquires-majority-stake-in-chocolate-brand-smoor/90703637",
+   "title": "Cloud kitchen company Rebel Foods acquires majority stake in chocolate brand Smoor",
+   "tier": "T2",
+   "claim": "acquisition Smoor (chocolates/desserts)"
+  },
+  {
+   "url": "https://retail.economictimes.indiatimes.com/news/food-entertainment/food-services/cloud-kitchen-company-rebel-foods-acquires-majority-stake-in-chocolate-brand-smoor/90703637",
+   "title": "Cloud kitchen company Rebel Foods acquires majority stake in chocolate brand Smoor",
+   "tier": "T2",
+   "claim": "acquisition Smoor (chocolates/desserts)"
+  },
+  {
+   "url": "https://retail.economictimes.indiatimes.com/news/food-entertainment/food-services/cloud-kitchen-company-rebel-foods-acquires-majority-stake-in-chocolate-brand-smoor/90703637",
+   "title": "Cloud kitchen company Rebel Foods acquires majority stake in chocolate brand Smoor",
+   "tier": "T2",
+   "claim": "acquisition Smoor (chocolates/desserts)"
+  },
+  {
+   "url": "https://retail.economictimes.indiatimes.com/news/food-entertainment/food-services/cloud-kitchen-company-rebel-foods-acquires-majority-stake-in-chocolate-brand-smoor/90703637",
+   "title": "Cloud kitchen company Rebel Foods acquires majority stake in chocolate brand Smoor",
+   "tier": "T2",
+   "claim": "acquisition Smoor (chocolates/desserts)"
+  }
+ ],
+ "startup_id": "rebel foods",
+ "traction": [
+  {
+   "as_of": "2024-12",
+   "confidence": "HIGH",
+   "metric": "cloud kitchens",
+   "source_url": "https://www.straitstimes.com/business/companies-markets/temasek-leads-282m-fundraising-round-for-india-start-up-rebel-foods-ahead-of-planned-ipo",
+   "value": "450 kitchens across 75 cities (India, MENA, UK)"
+  },
+  {
+   "metric": "cloud_kitchens",
+   "value": 450,
+   "unit": "kitchens",
+   "period": "As-of-2024-12",
+   "as_of": "2024-12-12",
+   "company_reported": true,
+   "source_url": "https://www.straitstimes.com/business/companies-markets/temasek-leads-282m-fundraising-round-for-india-start-up-rebel-foods-ahead-of-planned-ipo",
+   "confidence": "HIGH",
+   "notes": "450 dark kitchens across 75 cities in India, MENA, UK"
+  },
+  {
+   "metric": "cities",
+   "value": 75,
+   "unit": "cities",
+   "period": "As-of-2024-12",
+   "as_of": "2024-12-12",
+   "company_reported": true,
+   "source_url": "https://www.straitstimes.com/business/companies-markets/temasek-leads-282m-fundraising-round-for-india-start-up-rebel-foods-ahead-of-planned-ipo",
+   "confidence": "HIGH",
+   "notes": "India, UAE, UK"
+  },
+  {
+   "metric": "kitchens_target_2029",
+   "value": 800,
+   "unit": "kitchens",
+   "period": "By-2029",
+   "as_of": "2024-12-12",
+   "company_reported": true,
+   "source_url": "https://www.straitstimes.com/business/companies-markets/temasek-leads-282m-fundraising-round-for-india-start-up-rebel-foods-ahead-of-planned-ipo",
+   "confidence": "HIGH",
+   "notes": "CFO Piyush Kakkad stated target"
+  },
+  {
+   "metric": "cities_target_2029",
+   "value": 200,
+   "unit": "cities",
+   "period": "By-2029",
+   "as_of": "2024-12-12",
+   "company_reported": true,
+   "source_url": "https://www.straitstimes.com/business/companies-markets/temasek-leads-282m-fundraising-round-for-india-start-up-rebel-foods-ahead-of-planned-ipo",
+   "confidence": "HIGH",
+   "notes": "CFO Piyush Kakkad stated target"
+  },
+  {
+   "metric": "wendy_stores",
+   "value": 160,
+   "unit": "stores",
+   "period": "As-of-2024-12",
+   "as_of": "2024-12-12",
+   "company_reported": true,
+   "source_url": "https://www.straitstimes.com/business/companies-markets/temasek-leads-282m-fundraising-round-for-india-start-up-rebel-foods-ahead-of-planned-ipo",
+   "confidence": "HIGH",
+   "notes": "Wendy's India master franchise"
+  },
+  {
+   "metric": "revenue_growth_yoy",
+   "value": 14,
+   "unit": "percent",
+   "period": "FY25",
+   "as_of": "2025-12-05",
+   "company_reported": false,
+   "source_url": "http://entrackr.com/fintrackr/rebel-foods-growth-slows-in-fy25-reports-rs-336-cr-loss-10884067",
+   "confidence": "HIGH",
+   "notes": "Revenue grew 14% YoY in FY25"
+  },
+  {
+   "metric": "revenue_growth_yoy",
+   "value": 21,
+   "unit": "percent",
+   "period": "FY26",
+   "as_of": "2026-09-15",
+   "company_reported": false,
+   "source_url": "https://inc42.com/startups/to-infinity-beyond-indian-spacetech-startups-winning-space-race/",
+   "confidence": "MEDIUM",
+   "notes": "From Inc42 headline; full article behind paywall"
+  },
+  {
+   "metric": "orders_per_day",
+   "value": null,
+   "unit": "",
+   "period": "",
+   "as_of": "",
+   "company_reported": false,
+   "source_url": "",
+   "confidence": "LOW",
+   "notes": "Not found in sources"
+  }
+ ],
+ "_merged_session2": true
+}

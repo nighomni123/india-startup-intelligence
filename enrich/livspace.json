@@ -1,0 +1,1905 @@
+{
+ "company": {
+  "business_model": "Marketplace + services (design-to-installation fees, commissions, private label)",
+  "city": "Bengaluru (HQ); Singapore domicile (reverse flip planned); ops India/Singapore/Middle East",
+  "customer_type": "B2C homeowners",
+  "dpiit": "",
+  "employee_estimate": "6500 (PitchBook 2026)",
+  "founded_date": "2014 (ET/VCCircle; some Tracxn rows say 2015/2012 — 2014 used)",
+  "legal_name": "Home Interior Designs E-commerce Pvt Ltd (India); group via Singapore",
+  "parent_subsidiary": "Independent private",
+  "primary_sector": "Home interiors marketplace",
+  "public_private": "Private",
+  "startup_stage": "Unicorn (Series F, Feb 2022, $1.2B)",
+  "status": "Active",
+  "website": "https://livspace.com",
+  "cin": "U52390HR2014PTC131277",
+  "incorporation_date": "2014-06-23",
+  "registered_state_note": "HR = Haryana (Gurugram registered office); HQ Bengaluru, Singapore domicile — registered state differs from HQ, India operating entity.",
+  "official_website": {
+   "v": "https://www.livspace.com",
+   "conf": "high",
+   "src": "https://www.livspace.com",
+   "note": "verified live 2026-09-15: name match on own homepage"
+  },
+  "careers_website": {
+   "v": "https://www.livspace.com/in/careers",
+   "conf": "high",
+   "src": "https://www.livspace.com",
+   "note": "careers link found on official homepage, probed live"
+  },
+  "state": {
+   "v": "Karnataka",
+   "conf": "HIGH",
+   "src": "https://www.livspace.com/in/about-us",
+   "note": "Operational HQ Karnataka; registered office Haryana per MCA",
+   "asof": "2026-09-15"
+  },
+  "country": {
+   "v": "India",
+   "conf": "HIGH",
+   "src": "https://www.livspace.com/in/about-us",
+   "note": "Operations India, Singapore, Middle East",
+   "asof": "2026-09-15"
+  },
+  "hq_type": {
+   "v": "operational HQ Bengaluru; registered office Haryana",
+   "conf": "HIGH",
+   "src": "https://www.instafinancials.com/company/livspace-india-private-limited-U52390HR2014PTC131277",
+   "note": "MCA registered address: Unit No R2-102, First Floor, M3M Cornerwalk, DLF QE, Haryana 122002; operational HQ at RMZ Ecoworld, Bellandur, Bengaluru",
+   "asof": "2026-09-15"
+  },
+  "registered_office": {
+   "v": "Unit No R2-102, First Floor, M3M Cornerwalk, DLF QE, Dlf Qe, Haryana 122002, India",
+   "conf": "HIGH",
+   "src": "https://www.instafinancials.com/company/livspace-india-private-limited-U52390HR2014PTC131277",
+   "note": "MCA registered office; ROC Haryana",
+   "asof": "2026-09-15"
+  }
+ },
+ "completeness_self": {
+  "financials": 8,
+  "founders": 7,
+  "funding": 8,
+  "identity": 7,
+  "investors": 7,
+  "overall": "low-medium; LITE core layer only"
+ },
+ "conflicts": [
+  {
+   "claim_a": "Founded 2014",
+   "claim_b": "Founded 2012 / 2015 in some profiles",
+   "field": "founded year",
+   "resolution": "Use 2014 per ET/VCCircle founder reporting",
+   "url_a": "https://m.economictimes.com/tech/funding/livspace-turns-unicorn-with-180-million-funding-led-by-kkr/articleshow/89419186.cms",
+   "url_b": "https://www.vccircle.com/livspace-raises-46m-helion-bessemer-others"
+  },
+  {
+   "field": "legal_name",
+   "claim_a": "Home Interior Designs E-commerce Pvt Ltd (India); group via Singapore",
+   "url_a": "",
+   "claim_b": "Livspace India Private Limited (formerly Home Interior Designs E-commerce Pvt Ltd)",
+   "url_b": "",
+   "resolution": "phase3 p3 payload disagrees with existing value; existing kept as preferred pending human review",
+   "resolved_value": "",
+   "reviewed": "p3-merge"
+  },
+  {
+   "field": "city",
+   "claim_a": "Bengaluru (HQ); Singapore domicile (reverse flip planned); ops India/Singapore/Middle East",
+   "url_a": "",
+   "claim_b": "Bengaluru",
+   "url_b": "",
+   "resolution": "phase3 p3 payload disagrees with existing value; existing kept as preferred pending human review",
+   "resolved_value": "",
+   "reviewed": "p3-merge"
+  },
+  {
+   "field": "business_model",
+   "claim_a": "Marketplace + services (design-to-installation fees, commissions, private label)",
+   "url_a": "",
+   "claim_b": "Marketplace + services (design-to-installation fees, commissions, private label); franchise model (Livspace Studios)",
+   "url_b": "",
+   "resolution": "phase3 p3 payload disagrees with existing value; existing kept as preferred pending human review",
+   "resolved_value": "",
+   "reviewed": "p3-merge"
+  },
+  {
+   "field": "employee_estimate",
+   "claim_a": "6500 (PitchBook 2026)",
+   "url_a": "",
+   "claim_b": "6500",
+   "url_b": "",
+   "resolution": "phase3 p3 payload disagrees with existing value; existing kept as preferred pending human review",
+   "resolved_value": "",
+   "reviewed": "p3-merge"
+  },
+  {
+   "field": "founded_year",
+   "claim_a": "Founded 2014 (ET/VCCircle/Livspace official)",
+   "url_a": "https://www.livspace.com/in/about-us",
+   "claim_b": "Founded 2015 (some profiles/Dealroom) or 2012 (VCCircle article)",
+   "url_b": "https://www.vccircle.com/tpg-growth-goldman-sachs-lead-series-c-funding-round-in-livspace",
+   "resolution": "Use 2014 per MCA incorporation date (23 Jun 2014) and Livspace official website",
+   "resolved_value": "2014"
+  },
+  {
+   "field": "total_funding",
+   "claim_a": "$450M (company statement)",
+   "url_a": "https://www.businesswire.com/news/home/20220207005993/en/Livspace-Turns-Unicorn-with-USD-$180-Million-Series-F-Round-Led-by-KKR",
+   "claim_b": "$512M in 14 rounds (Tracxn)",
+   "url_b": "https://tracxn.com/d/companies/livspace/__jW3bucmuxxt7wnW0Ru8fEhLj0iTod5V8Roa0OsWdp9I",
+   "resolution": "Tracxn includes later tranches (2024-2025) not counted in company's $450M figure; use $512M as total raised to date",
+   "resolved_value": "$512M"
+  },
+  {
+   "field": "employee_count",
+   "claim_a": "6,500 (PitchBook 2026)",
+   "url_a": "https://pitchbook.com/profiles/company/100535-50",
+   "claim_b": "7,887 (Inc42); 4,353 (Tracxn official); ~8,000 pre-layoff (Feb 2026 reports)",
+   "url_b": "https://inc42.com/company/Livspace/people/",
+   "resolution": "Post-layoff estimate ~7,000; PitchBook 6,500 may reflect latest count; Tracxn 4,353 may be India-only",
+   "resolved_value": "6,500-7,000 (post-layoff)"
+  },
+  {
+   "field": "founder_GNAN",
+   "claim_a": "GNAN listed as founder in some sources",
+   "url_a": "user_prompt",
+   "claim_b": "No GNAN found; founders are Anuj Srivastava, Ramakant Sharma, Saurabh Jain, Shagufta Anurag",
+   "url_b": "https://www.livspace.com/in/about-us",
+   "resolution": "GNAN likely refers to Gokul Rajaram (angel investor, not founder) or is an error; verified founders via MCA and official website",
+   "resolved_value": "No GNAN founder; verified founders are Srivastava, Sharma, Jain, Anurag"
+  }
+ ],
+ "events": [
+  {
+   "date": "2022-02-08",
+   "headline": "Raised $180M led by KKR at $1.2B; unicorn",
+   "source_url": "https://m.economictimes.com/tech/funding/livspace-turns-unicorn-with-180-million-funding-led-by-kkr/articleshow/89419186.cms",
+   "type": "funding"
+  },
+  {
+   "date": "2024-02-29",
+   "headline": "Series F tranche from Saint-Gobain (undisclosed)",
+   "source_url": "http://tracxn.com/d/companies/livspace/__jW3bucmuxxt7wnW0Ru8fEhLj0iTod5V8Roa0OsWdp9I/funding-and-investors",
+   "type": "funding"
+  },
+  {
+   "type": "funding",
+   "headline": "Series F $180M led by KKR at $1.2B valuation; unicorn status",
+   "date": "2022-02-07",
+   "description": "Livspace turned unicorn; participated by Ingka Group, Jungle Ventures, Venturi Partners, Peugeot Investments",
+   "source_url": "https://www.businesswire.com/news/home/20220207005993/en/Livspace-Turns-Unicorn-with-USD-$180-Million-Series-F-Round-Led-by-KKR",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "acquisition",
+   "headline": "Acquired majority stake in Qanvast (Singapore)",
+   "date": "2022-02-07",
+   "description": "Singapore-based home remodeling platform connecting homeowners and professionals",
+   "source_url": "https://www.businesswire.com/news/home/20220207005993/en/Livspace-Turns-Unicorn-with-USD-$180-Million-Series-F-Round-Led-by-KKR",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "partnership",
+   "headline": "Joint venture with Alsulaiman Group in Saudi Arabia",
+   "date": "2021",
+   "description": "$50M joint investment with Ikea's operating partner in Saudi Arabia",
+   "source_url": "https://www.forbesindia.com/article/take-one-big-story-of-the-day/home-interiors-startup-livspace-turns-unicorn/73495/1",
+   "source_title": "Forbes India - Livspace turns unicorn",
+   "confidence": "MEDIUM"
+  },
+  {
+   "type": "restructuring",
+   "headline": "Sets aside $100M for acquisitions",
+   "date": "2022-10-10",
+   "description": "Active discussions with 8-9 companies for consolidation",
+   "source_url": "https://www.livemint.com/companies/start-ups/kkrbacked-livspace-sets-aside-100-million-for-acquisitions-11665359544709.html",
+   "source_title": "KKR-backed Livspace sets aside $100M for acquisitions - LiveMint",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "funding",
+   "headline": "INR 427Cr capital infusion from Singapore parent for reverse flip",
+   "date": "2025-04-28",
+   "description": "Rights issue of 1.85Cr equity shares at Rs 230/share; part of reverse flipping process for IPO",
+   "source_url": "https://inc42.com/buzz/exclusive-with-reverse-flip-in-cart-livspace-nets-inr-427-cr-from-singapore-parent",
+   "source_title": "Inc42 - Livspace nets INR 427Cr",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "layoff",
+   "headline": "Laid off ~1,000 employees (12% of workforce) in AI pivot",
+   "date": "2026-02-20",
+   "description": "Shift to AI-native agentic organisation; AI agents integrated across Sales, Ops, Design, Marketing; co-founder Saurabh Jain exited",
+   "source_url": "https://www.cnbctv18.com/business/startup/kkr-backed-livspace-cuts-1000-jobs-in-ai-pivot-co-founder-exits-report-ws-l-19854853.htm",
+   "source_title": "CNBC TV18 - Livspace cuts 1,000 jobs",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "acquisition",
+   "headline": "Acquired Abby Lighting And Switchgear",
+   "date": "2025-12-27",
+   "description": "Electrical equipment sector acquisition",
+   "source_url": "https://pitchbook.com/profiles/company/100535-50",
+   "source_title": "PitchBook - Livspace Acquisitions",
+   "confidence": "MEDIUM"
+  },
+  {
+   "type": "funding",
+   "headline": "Secondary transaction completed",
+   "date": "2026-07-19",
+   "description": "Secondary private transaction per PitchBook",
+   "source_url": "https://pitchbook.com/profiles/company/100535-50",
+   "source_title": "PitchBook - Livspace 2026 Profile",
+   "confidence": "MEDIUM"
+  }
+ ],
+ "financials": [
+  {
+   "currency": "INR",
+   "fiscal_year": "FY25",
+   "metric": "operating revenue (Singapore consolidated filing, press-quoted)",
+   "source_title": "Livspace posts Rs 1,460 Cr revenue in FY25; losses shrink 42%",
+   "source_url": "http://entrackr.com/fintrackr/livspace-posts-rs-1460-cr-revenue-in-fy25-losses-shrink-42-10559863",
+   "value": "1460Cr (FY24: 1185Cr); net loss ~243Cr",
+   "value_type": "press-quoted-filing"
+  },
+  {
+   "fiscal_year": "FY23",
+   "metric": "total_revenue",
+   "value": 1148,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "press-quoted-filing",
+   "basis": "consolidated",
+   "consolidated": "yes",
+   "source_url": "https://en.wikipedia.org/wiki/Livspace",
+   "source_title": "Livspace - Wikipedia",
+   "confidence": "MEDIUM",
+   "notes": "Wikipedia cites FY23 revenue Rs 1,148 crore; VCCircle reported ~Rs 1,100 crore from CSO interview"
+  },
+  {
+   "fiscal_year": "FY23",
+   "metric": "ebitda_loss_before_esops",
+   "value": 581,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "management",
+   "basis": "consolidated",
+   "consolidated": "yes",
+   "source_url": "https://www.livemint.com/companies/start-ups/home-d-cor-startup-livspace-achieves-85-top-line-growth-expands-to-45-50-cities-improves-financial-health-in-fy23-11694770446898.html",
+   "source_title": "Livspace posts strong revenue growth in FY23 - LiveMint",
+   "confidence": "HIGH",
+   "notes": "Ebitda margin before ESOPs -50.7% in FY23 vs -95.2% in FY22"
+  },
+  {
+   "fiscal_year": "FY24",
+   "metric": "operating_revenue",
+   "value": 1185,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "press-quoted-filing",
+   "basis": "consolidated",
+   "consolidated": "yes",
+   "source_url": "http://entrackr.com/fintrackr/livspace-posts-rs-1460-cr-revenue-in-fy25-losses-shrink-42-10559863",
+   "source_title": "Livspace posts Rs 1,460 Cr revenue in FY25 - Entrackr",
+   "confidence": "HIGH",
+   "notes": "Consolidated Singapore filing; India contributed 85% of operating revenue"
+  },
+  {
+   "fiscal_year": "FY24",
+   "metric": "net_loss",
+   "value": 416,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "press-quoted-filing",
+   "basis": "consolidated",
+   "consolidated": "yes",
+   "source_url": "https://www.cnbctv18.com/business/startup/kkr-backed-livspace-cuts-1000-jobs-in-ai-pivot-co-founder-exits-report-ws-l-19854853.htm",
+   "source_title": "KKR-backed Livspace cuts 1,000 jobs - CNBC TV18",
+   "confidence": "HIGH"
+  },
+  {
+   "fiscal_year": "FY25",
+   "metric": "operating_revenue",
+   "value": 1460,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "press-quoted-filing",
+   "basis": "consolidated",
+   "consolidated": "yes",
+   "source_url": "https://m.economictimes.com/tech/startups/homedecor-startup-livspaces-fy25-revenue-rises-23-to-rs-1460-crore/articleshow/124520597.cms",
+   "source_title": "Homedecor startup Livspace's FY25 revenue rises 23% to Rs 1,460 crore - Economic Times",
+   "confidence": "HIGH",
+   "notes": "Singapore consolidated filing; including other income Rs 52Cr, total revenue Rs 1,512Cr"
+  },
+  {
+   "fiscal_year": "FY25",
+   "metric": "standalone_revenue",
+   "value": 1276.5,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "press-quoted-filing",
+   "basis": "standalone",
+   "consolidated": "no",
+   "source_url": "http://thearcweb.com/article/livspace-revenue-up-36-in-fy25-co-appoints-new-cfo-9YZi9LoGKI1HVIQM",
+   "source_title": "Livspace revenue up 36% in FY25 - The Arc Web",
+   "confidence": "MEDIUM",
+   "notes": "Standalone India entity revenue; FY24 standalone was Rs 941.4 crore"
+  },
+  {
+   "fiscal_year": "FY25",
+   "metric": "net_loss",
+   "value": 242,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "press-quoted-filing",
+   "basis": "consolidated",
+   "consolidated": "yes",
+   "source_url": "https://www.cnbctv18.com/business/startup/kkr-backed-livspace-cuts-1000-jobs-in-ai-pivot-co-founder-exits-report-ws-l-19854853.htm",
+   "source_title": "KKR-backed Livspace cuts 1,000 jobs - CNBC TV18",
+   "confidence": "HIGH",
+   "notes": "Losses narrowed 42% from Rs 416Cr in FY24"
+  },
+  {
+   "fiscal_year": "FY25",
+   "metric": "adjusted_ebitda_loss_before_esops",
+   "value": 131,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "management",
+   "basis": "consolidated",
+   "consolidated": "yes",
+   "source_url": "https://m.economictimes.com/tech/startups/homedecor-startup-livspaces-fy25-revenue-rises-23-to-rs-1460-crore/articleshow/124520597.cms",
+   "source_title": "Economic Times - Livspace FY25",
+   "confidence": "HIGH",
+   "notes": "Narrowed 47% from Rs 246Cr in FY24"
+  },
+  {
+   "fiscal_year": "FY25",
+   "metric": "gross_profit",
+   "value": 752,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "management",
+   "basis": "consolidated",
+   "consolidated": "yes",
+   "source_url": "https://m.economictimes.com/tech/startups/homedecor-startup-livspaces-fy25-revenue-rises-23-to-rs-1460-crore/articleshow/124520597.cms",
+   "source_title": "Economic Times - Livspace FY25",
+   "confidence": "HIGH",
+   "notes": "Gross margin 51.5%; gross profit grew 26% from Rs 598Cr in FY24"
+  },
+  {
+   "fiscal_year": "FY25",
+   "metric": "total_revenue_singapore_sgd",
+   "value": 231,
+   "unit": "million",
+   "currency": "SGD",
+   "value_type": "press-quoted-filing",
+   "basis": "consolidated",
+   "consolidated": "yes",
+   "source_url": "http://tracxn.com/d/legal-entities/singapore/livspace-pte.ltd./__Qkyjd9QBiW9hW6vSEGPudhXR3-0a7MsDjyr2tyXEhaQ",
+   "source_title": "LIVSPACE PTE. LTD. - Tracxn",
+   "confidence": "MEDIUM",
+   "notes": "Singapore parent entity revenue for FY ending Mar 31, 2025"
+  }
+ ],
+ "founders": [
+  {
+   "name": "Anuj Srivastava",
+   "role": "Co-founder (CEO/Chairman per varying sources)",
+   "source_url": "https://m.economictimes.com/tech/funding/livspace-turns-unicorn-with-180-million-funding-led-by-kkr/articleshow/89419186.cms",
+   "still_active": true,
+   "type": "co-founder"
+  },
+  {
+   "name": "Ramakant Sharma",
+   "role": "Co-founder & COO/CEO",
+   "source_url": "https://m.economictimes.com/tech/funding/livspace-turns-unicorn-with-180-million-funding-led-by-kkr/articleshow/89419186.cms",
+   "still_active": true,
+   "type": "co-founder"
+  },
+  {
+   "name": "Shagufta Anurag",
+   "role": "Co-founder",
+   "source_url": "https://www.vccircle.com/livspace-raises-46m-helion-bessemer-others",
+   "still_active": false,
+   "type": "co-founder"
+  },
+  {
+   "name": "Anuj Srivastava",
+   "role": "Co-founder and Chairman of the Board",
+   "background": "Former Global Head of Product Marketing at Google e-commerce team; IIT Kanpur; MBA London Business School",
+   "education": "IIT Kanpur (BTech), London Business School (MBA)",
+   "still_active": true,
+   "source_url": "https://www.livspace.com/in/about-us",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Ramakant Sharma",
+   "role": "Co-founder and CEO",
+   "background": "Former VP Engineering at Myntra; IIT Kanpur; MBA Indian School of Business Hyderabad",
+   "education": "IIT Kanpur (BTech), ISB Hyderabad (MBA)",
+   "still_active": true,
+   "source_url": "https://www.livspace.com/in/about-us",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Saurabh Jain",
+   "role": "Co-founder (exited Feb 2026)",
+   "background": "Founder of DezignUp (acquired by Livspace 2015); Director per MCA since 2022-01-12",
+   "education": "Unknown",
+   "still_active": false,
+   "source_url": "https://www.zaubacorp.com/HOME-INTERIOR-DESIGNS-E-COMMERCE-PRIVATE-LIMITED-U52390KA2014PTC074986",
+   "source_title": "ZaubaCorp - Directors",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Shagufta Anurag",
+   "role": "Co-founder (inactive)",
+   "background": "Founder of Space Matrix (architecture and design firm); sister-in-law of Anuj Srivastava",
+   "education": "Unknown",
+   "still_active": false,
+   "source_url": "https://www.forbesindia.com/article/take-one-big-story-of-the-day/home-interiors-startup-livspace-turns-unicorn/73495/1",
+   "source_title": "Forbes India - Livspace turns unicorn",
+   "confidence": "MEDIUM"
+  }
+ ],
+ "funding_rounds": [
+  {
+   "amount": "70M",
+   "announced_date": "2018-09-19",
+   "currency": "USD",
+   "lead_investors": [
+    "TPG Growth",
+    "Goldman Sachs"
+   ],
+   "round_type": "Series C",
+   "source_url": "https://www.vccircle.com/tpg-growth-goldman-sachs-lead-series-c-funding-round-in-livspace"
+  },
+  {
+   "amount": "180M",
+   "announced_date": "2022-02-08",
+   "currency": "USD",
+   "lead_investors": [
+    "KKR"
+   ],
+   "round_type": "Series F",
+   "source_url": "https://m.economictimes.com/tech/funding/livspace-turns-unicorn-with-180-million-funding-led-by-kkr/articleshow/89419186.cms",
+   "valuation": "$1.2B"
+  },
+  {
+   "amount": "Undisclosed",
+   "announced_date": "2024-02-29",
+   "currency": "USD",
+   "lead_investors": [
+    "Saint-Gobain"
+   ],
+   "round_type": "Series F tranche",
+   "source_url": "http://tracxn.com/d/companies/livspace/__jW3bucmuxxt7wnW0Ru8fEhLj0iTod5V8Roa0OsWdp9I/funding-and-investors"
+  },
+  {
+   "round_type": "Series A",
+   "announced_date": "2014-12-17",
+   "amount": 4.6,
+   "currency": "USD",
+   "lead_investors": [
+    "Helion Venture Partners",
+    "Jungle Ventures",
+    "Bessemer Venture Partners",
+    "Oak Group"
+   ],
+   "source_url": "https://platform.tracxn.com/a/d/company/531a276be4b0f7e166091074/livspace",
+   "source_title": "Tracxn - Livspace Funding",
+   "confidence": "HIGH"
+  },
+  {
+   "round_type": "Series A (second tranche)",
+   "announced_date": "2015-08-11",
+   "amount": 8.6,
+   "currency": "USD",
+   "lead_investors": [
+    "Bessemer Venture Partners",
+    "Jungle Ventures",
+    "Helion Venture Partners",
+    "Gokul Rajaram"
+   ],
+   "source_url": "https://platform.tracxn.com/a/d/company/531a276be4b0f7e166091074/livspace",
+   "source_title": "Tracxn - Livspace Funding",
+   "confidence": "HIGH"
+  },
+  {
+   "round_type": "Series B",
+   "announced_date": "2016-05-13",
+   "amount": 15.0,
+   "currency": "USD",
+   "lead_investors": [
+    "Bessemer Venture Partners",
+    "Helion Venture Partners",
+    "Jungle Ventures",
+    "Oak Group"
+   ],
+   "source_url": "https://sg.news.yahoo.com/livspace-raises-us-15m-help-personalise-interior-home-160358305.html",
+   "source_title": "Livspace raises US$15M (e27/Yahoo)",
+   "confidence": "HIGH"
+  },
+  {
+   "round_type": "Series C",
+   "announced_date": "2018-09-19",
+   "amount": 70.0,
+   "currency": "USD",
+   "lead_investors": [
+    "TPG Growth",
+    "Goldman Sachs"
+   ],
+   "all_investors": [
+    "Bessemer Venture Partners",
+    "Jungle Ventures",
+    "Helion Venture Partners"
+   ],
+   "source_url": "https://www.vccircle.com/tpg-growth-goldman-sachs-lead-series-c-funding-round-in-livspace",
+   "source_title": "TPG Growth, Goldman Sachs lead Series C funding round in Livspace - VCCircle",
+   "confidence": "HIGH"
+  },
+  {
+   "round_type": "Series D",
+   "announced_date": "2019-05-20",
+   "amount": null,
+   "currency": "USD",
+   "lead_investors": [
+    "IKEA (Ingka Group)"
+   ],
+   "source_url": "https://platform.tracxn.com/a/d/company/531a276be4b0f7e166091074/livspace",
+   "source_title": "Tracxn - Livspace Funding",
+   "confidence": "MEDIUM"
+  },
+  {
+   "round_type": "Series D (second tranche)",
+   "announced_date": "2020-01-28",
+   "amount": 60.0,
+   "currency": "USD",
+   "lead_investors": [
+    "Kharis Capital",
+    "Venturi Partners",
+    "Tahoe Investment Group"
+   ],
+   "source_url": "https://platform.tracxn.com/a/d/company/531a276be4b0f7e166091074/livspace",
+   "source_title": "Tracxn - Livspace Funding",
+   "confidence": "HIGH"
+  },
+  {
+   "round_type": "Series D (third tranche)",
+   "announced_date": "2020-09-03",
+   "amount": 90.0,
+   "currency": "USD",
+   "lead_investors": [
+    "Goldman Sachs",
+    "EDBI",
+    "Venturi Partners",
+    "Ingka Group",
+    "Kharis Capital"
+   ],
+   "source_url": "https://platform.tracxn.com/a/d/company/531a276be4b0f7e166091074/livspace",
+   "source_title": "Tracxn - Livspace Funding",
+   "confidence": "HIGH"
+  },
+  {
+   "round_type": "Venture Debt",
+   "announced_date": "2020-10-02",
+   "amount": null,
+   "currency": "USD",
+   "lead_investors": [
+    "Trifecta Capital"
+   ],
+   "source_url": "https://platform.tracxn.com/a/d/company/531a276be4b0f7e166091074/livspace",
+   "source_title": "Tracxn - Livspace Funding",
+   "confidence": "MEDIUM"
+  },
+  {
+   "round_type": "Series F (first tranche)",
+   "announced_date": "2021-10-07",
+   "amount": 57.8,
+   "currency": "USD",
+   "valuation": 647,
+   "valuation_currency": "USD",
+   "valuation_type": "post-money",
+   "lead_investors": [
+    "Saint-Gobain",
+    "IKEA (Ingka Group)"
+   ],
+   "all_investors": [
+    "TPG",
+    "QuaeroQ",
+    "Trifecta Capital",
+    "JV LivSpace SPV",
+    "Jungle Ventures"
+   ],
+   "source_url": "https://tracxn.com/d/companies/livspace/__jW3bucmuxxt7wnW0Ru8fEhLj0iTod5V8Roa0OsWdp9I",
+   "source_title": "Tracxn - Livspace Funding Rounds",
+   "confidence": "HIGH"
+  },
+  {
+   "round_type": "Series F (second tranche)",
+   "announced_date": "2022-02-07",
+   "amount": 180.0,
+   "currency": "USD",
+   "valuation": 1200,
+   "valuation_currency": "USD",
+   "valuation_type": "post-money",
+   "lead_investors": [
+    "KKR"
+   ],
+   "all_investors": [
+    "Jungle Ventures",
+    "Venturi Partners",
+    "Peugeot Invest",
+    "Ingka Group",
+    "EDBI",
+    "Reno Asia Holdings"
+   ],
+   "purpose": "Global expansion, brand building, M&A",
+   "source_url": "https://www.businesswire.com/news/home/20220207005993/en/Livspace-Turns-Unicorn-with-USD-$180-Million-Series-F-Round-Led-by-KKR",
+   "source_title": "Livspace Turns Unicorn with USD $180 Million Series F Round Led by KKR - BusinessWire",
+   "confidence": "HIGH"
+  },
+  {
+   "round_type": "Series F tranche",
+   "announced_date": "2024-02-29",
+   "amount": null,
+   "currency": "USD",
+   "lead_investors": [
+    "Saint-Gobain"
+   ],
+   "source_url": "http://tracxn.com/d/companies/livspace/__jW3bucmuxxt7wnW0Ru8fEhLj0iTod5V8Roa0OsWdp9I",
+   "source_title": "Tracxn - Livspace Funding",
+   "confidence": "MEDIUM"
+  },
+  {
+   "round_type": "Late VC",
+   "announced_date": "2025-04-28",
+   "amount": 427.21,
+   "currency": "INR",
+   "purpose": "Reverse flip to India; IPO preparation",
+   "lead_investors": [
+    "Singapore parent entity (rights issue)"
+   ],
+   "source_url": "https://inc42.com/buzz/exclusive-with-reverse-flip-in-cart-livspace-nets-inr-427-cr-from-singapore-parent",
+   "source_title": "Exclusive: With Reverse Flip In Cart, Livspace Nets INR 427 Cr From Singapore Parent - Inc42",
+   "confidence": "HIGH"
+  },
+  {
+   "round_type": "Late VC",
+   "announced_date": "2025-07-24",
+   "amount": 42.0,
+   "currency": "USD",
+   "lead_investors": [
+    "Undisclosed"
+   ],
+   "source_url": "https://inc42.com/company/Livspace/funding",
+   "source_title": "Livspace Funding - Inc42",
+   "confidence": "MEDIUM"
+  },
+  {
+   "round_type": "Secondary Transaction",
+   "announced_date": "2026-07-19",
+   "amount": null,
+   "currency": "USD",
+   "lead_investors": [
+    "Undisclosed"
+   ],
+   "source_url": "https://pitchbook.com/profiles/company/100535-50",
+   "source_title": "PitchBook - Livspace 2026 Profile",
+   "confidence": "MEDIUM"
+  }
+ ],
+ "gaps": [
+  "Legal/CIN not verified",
+  "DPIIT unverified",
+  "Total raised $450M (company) vs $512M/14 rounds (Tracxn) — minor conflict noted, unresolved",
+  "fresh source URL for $1.2B Series F valuation (already in enrich)"
+ ],
+ "investor_links": [
+  {
+   "investor": "KKR",
+   "lead": true,
+   "rounds": [
+    "Series F 2022"
+   ],
+   "source_url": "https://m.economictimes.com/tech/funding/livspace-turns-unicorn-with-180-million-funding-led-by-kkr/articleshow/89419186.cms"
+  },
+  {
+   "investor": "Ingka Group (IKEA), Jungle Ventures, Venturi Partners, Peugeot Invest",
+   "lead": false,
+   "rounds": [
+    "Series D-F"
+   ],
+   "source_url": "https://m.economictimes.com/tech/funding/livspace-turns-unicorn-with-180-million-funding-led-by-kkr/articleshow/89419186.cms"
+  },
+  {
+   "investor": "Saint-Gobain",
+   "lead": true,
+   "rounds": [
+    "2021, 2024 tranches"
+   ],
+   "source_url": "http://tracxn.com/d/companies/livspace/__jW3bucmuxxt7wnW0Ru8fEhLj0iTod5V8Roa0OsWdp9I/funding-and-investors"
+  }
+ ],
+ "research_log": [
+  {
+   "found": "Series C/F rounds, FY24/FY25 revenue, 3 founders, unicorn",
+   "next_action": "None at LITE scope",
+   "query": "Livspace funding/revenue/founders",
+   "unresolved": "CIN, DPIIT"
+  },
+  {
+   "date": "2026-09-14",
+   "found": "Livspace India Pvt Ltd CIN U52390HR2014PTC131277, incorp 23 Jun 2014 (Tofler/Tracxn/InstaFinancials)",
+   "query": "Livspace Home Designs Private Limited CIN incorporation date Tofler",
+   "unresolved": "fresh $1.2B valuation source not probed this wave"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Livspace funding SoftBank $150M Series C",
+   "status": "logged",
+   "found": "No SoftBank funding found. Series C was $70M led by TPG Growth/Goldman Sachs (2018). Tracxn shows 14 rounds totaling $512M. No SoftBank in investor list.",
+   "next_action": "Note SoftBank claim is incorrect; proceed with verified funding data"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Livspace founders GNAN verification",
+   "status": "done",
+   "found": "No GNAN founder. Verified founders: Anuj Srivastava, Ramakant Sharma, Saurabh Jain (exited Feb 2026), Shagufta Anurag (inactive). MCA shows Saurabh Jain as director (DIN 06996148).",
+   "next_action": "Update founders section with verified data"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Livspace MCA filing financials FY23-FY25",
+   "status": "done",
+   "found": "CIN U52390HR2014PTC131277 (Livspace India Pvt Ltd, Haryana ROC); previous CIN U52390KA2014PTC074986 (Bangalore). FY25 consolidated revenue Rs 1,460Cr; standalone Rs 1,276.5Cr. Balance sheet filed 31 Mar 2025.",
+   "next_action": "Populate financials with standalone vs consolidated distinction"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Livspace franchise model and products",
+   "status": "done",
+   "found": "Franchise model confirmed via FranchiseByte: Rs 5L fee, 50% revenue sharing, 10-20 outlets. Products: Select, Vesta, Bello, Vinciago, Livspace Home, Canvas platform.",
+   "next_action": "Add products and franchise details"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Livspace 2024-26 events (layoffs, reverse flip, IPO)",
+   "status": "done",
+   "found": "Feb 2026: 1,000 layoffs (12% workforce), co-founder Saurabh Jain exited. Apr 2025: INR 427Cr infusion for reverse flip. IPO delayed from late 2025/early 2026.",
+   "next_action": "Add events and legal sections"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Livspace funding SoftBank $150M Series C",
+   "status": "logged",
+   "found": "No SoftBank funding found. Series C was $70M led by TPG Growth/Goldman Sachs (2018). Tracxn shows 14 rounds totaling $512M. No SoftBank in investor list.",
+   "next_action": "Note SoftBank claim is incorrect; proceed with verified funding data"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Livspace founders GNAN verification",
+   "status": "done",
+   "found": "No GNAN founder. Verified founders: Anuj Srivastava, Ramakant Sharma, Saurabh Jain (exited Feb 2026), Shagufta Anurag (inactive). MCA shows Saurabh Jain as director (DIN 06996148).",
+   "next_action": "Update founders section with verified data"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Livspace MCA filing financials FY23-FY25",
+   "status": "done",
+   "found": "CIN U52390HR2014PTC131277 (Livspace India Pvt Ltd, Haryana ROC); previous CIN U52390KA2014PTC074986 (Bangalore). FY25 consolidated revenue Rs 1,460Cr; standalone Rs 1,276.5Cr. Balance sheet filed 31 Mar 2025.",
+   "next_action": "Populate financials with standalone vs consolidated distinction"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Livspace franchise model and products",
+   "status": "done",
+   "found": "Franchise model confirmed via FranchiseByte: Rs 5L fee, 50% revenue sharing, 10-20 outlets. Products: Select, Vesta, Bello, Vinciago, Livspace Home, Canvas platform.",
+   "next_action": "Add products and franchise details"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Livspace 2024-26 events (layoffs, reverse flip, IPO)",
+   "status": "done",
+   "found": "Feb 2026: 1,000 layoffs (12% workforce), co-founder Saurabh Jain exited. Apr 2025: INR 427Cr infusion for reverse flip. IPO delayed from late 2025/early 2026.",
+   "next_action": "Add events and legal sections"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Livspace funding SoftBank $150M Series C",
+   "status": "logged",
+   "found": "No SoftBank funding found. Series C was $70M led by TPG Growth/Goldman Sachs (2018). Tracxn shows 14 rounds totaling $512M. No SoftBank in investor list.",
+   "next_action": "Note SoftBank claim is incorrect; proceed with verified funding data"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Livspace founders GNAN verification",
+   "status": "done",
+   "found": "No GNAN founder. Verified founders: Anuj Srivastava, Ramakant Sharma, Saurabh Jain (exited Feb 2026), Shagufta Anurag (inactive). MCA shows Saurabh Jain as director (DIN 06996148).",
+   "next_action": "Update founders section with verified data"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Livspace MCA filing financials FY23-FY25",
+   "status": "done",
+   "found": "CIN U52390HR2014PTC131277 (Livspace India Pvt Ltd, Haryana ROC); previous CIN U52390KA2014PTC074986 (Bangalore). FY25 consolidated revenue Rs 1,460Cr; standalone Rs 1,276.5Cr. Balance sheet filed 31 Mar 2025.",
+   "next_action": "Populate financials with standalone vs consolidated distinction"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Livspace franchise model and products",
+   "status": "done",
+   "found": "Franchise model confirmed via FranchiseByte: Rs 5L fee, 50% revenue sharing, 10-20 outlets. Products: Select, Vesta, Bello, Vinciago, Livspace Home, Canvas platform.",
+   "next_action": "Add products and franchise details"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Livspace 2024-26 events (layoffs, reverse flip, IPO)",
+   "status": "done",
+   "found": "Feb 2026: 1,000 layoffs (12% workforce), co-founder Saurabh Jain exited. Apr 2025: INR 427Cr infusion for reverse flip. IPO delayed from late 2025/early 2026.",
+   "next_action": "Add events and legal sections"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Livspace funding SoftBank $150M Series C",
+   "status": "logged",
+   "found": "No SoftBank funding found. Series C was $70M led by TPG Growth/Goldman Sachs (2018). Tracxn shows 14 rounds totaling $512M. No SoftBank in investor list.",
+   "next_action": "Note SoftBank claim is incorrect; proceed with verified funding data"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Livspace founders GNAN verification",
+   "status": "done",
+   "found": "No GNAN founder. Verified founders: Anuj Srivastava, Ramakant Sharma, Saurabh Jain (exited Feb 2026), Shagufta Anurag (inactive). MCA shows Saurabh Jain as director (DIN 06996148).",
+   "next_action": "Update founders section with verified data"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Livspace MCA filing financials FY23-FY25",
+   "status": "done",
+   "found": "CIN U52390HR2014PTC131277 (Livspace India Pvt Ltd, Haryana ROC); previous CIN U52390KA2014PTC074986 (Bangalore). FY25 consolidated revenue Rs 1,460Cr; standalone Rs 1,276.5Cr. Balance sheet filed 31 Mar 2025.",
+   "next_action": "Populate financials with standalone vs consolidated distinction"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Livspace franchise model and products",
+   "status": "done",
+   "found": "Franchise model confirmed via FranchiseByte: Rs 5L fee, 50% revenue sharing, 10-20 outlets. Products: Select, Vesta, Bello, Vinciago, Livspace Home, Canvas platform.",
+   "next_action": "Add products and franchise details"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Livspace 2024-26 events (layoffs, reverse flip, IPO)",
+   "status": "done",
+   "found": "Feb 2026: 1,000 layoffs (12% workforce), co-founder Saurabh Jain exited. Apr 2025: INR 427Cr infusion for reverse flip. IPO delayed from late 2025/early 2026.",
+   "next_action": "Add events and legal sections"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Livspace funding SoftBank $150M Series C",
+   "status": "logged",
+   "found": "No SoftBank funding found. Series C was $70M led by TPG Growth/Goldman Sachs (2018). Tracxn shows 14 rounds totaling $512M. No SoftBank in investor list.",
+   "next_action": "Note SoftBank claim is incorrect; proceed with verified funding data"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Livspace founders GNAN verification",
+   "status": "done",
+   "found": "No GNAN founder. Verified founders: Anuj Srivastava, Ramakant Sharma, Saurabh Jain (exited Feb 2026), Shagufta Anurag (inactive). MCA shows Saurabh Jain as director (DIN 06996148).",
+   "next_action": "Update founders section with verified data"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Livspace MCA filing financials FY23-FY25",
+   "status": "done",
+   "found": "CIN U52390HR2014PTC131277 (Livspace India Pvt Ltd, Haryana ROC); previous CIN U52390KA2014PTC074986 (Bangalore). FY25 consolidated revenue Rs 1,460Cr; standalone Rs 1,276.5Cr. Balance sheet filed 31 Mar 2025.",
+   "next_action": "Populate financials with standalone vs consolidated distinction"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Livspace franchise model and products",
+   "status": "done",
+   "found": "Franchise model confirmed via FranchiseByte: Rs 5L fee, 50% revenue sharing, 10-20 outlets. Products: Select, Vesta, Bello, Vinciago, Livspace Home, Canvas platform.",
+   "next_action": "Add products and franchise details"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Livspace 2024-26 events (layoffs, reverse flip, IPO)",
+   "status": "done",
+   "found": "Feb 2026: 1,000 layoffs (12% workforce), co-founder Saurabh Jain exited. Apr 2025: INR 427Cr infusion for reverse flip. IPO delayed from late 2025/early 2026.",
+   "next_action": "Add events and legal sections"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Livspace funding SoftBank $150M Series C",
+   "status": "logged",
+   "found": "No SoftBank funding found. Series C was $70M led by TPG Growth/Goldman Sachs (2018). Tracxn shows 14 rounds totaling $512M. No SoftBank in investor list.",
+   "next_action": "Note SoftBank claim is incorrect; proceed with verified funding data"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Livspace founders GNAN verification",
+   "status": "done",
+   "found": "No GNAN founder. Verified founders: Anuj Srivastava, Ramakant Sharma, Saurabh Jain (exited Feb 2026), Shagufta Anurag (inactive). MCA shows Saurabh Jain as director (DIN 06996148).",
+   "next_action": "Update founders section with verified data"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Livspace MCA filing financials FY23-FY25",
+   "status": "done",
+   "found": "CIN U52390HR2014PTC131277 (Livspace India Pvt Ltd, Haryana ROC); previous CIN U52390KA2014PTC074986 (Bangalore). FY25 consolidated revenue Rs 1,460Cr; standalone Rs 1,276.5Cr. Balance sheet filed 31 Mar 2025.",
+   "next_action": "Populate financials with standalone vs consolidated distinction"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Livspace franchise model and products",
+   "status": "done",
+   "found": "Franchise model confirmed via FranchiseByte: Rs 5L fee, 50% revenue sharing, 10-20 outlets. Products: Select, Vesta, Bello, Vinciago, Livspace Home, Canvas platform.",
+   "next_action": "Add products and franchise details"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Livspace 2024-26 events (layoffs, reverse flip, IPO)",
+   "status": "done",
+   "found": "Feb 2026: 1,000 layoffs (12% workforce), co-founder Saurabh Jain exited. Apr 2025: INR 427Cr infusion for reverse flip. IPO delayed from late 2025/early 2026.",
+   "next_action": "Add events and legal sections"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Livspace funding SoftBank $150M Series C",
+   "status": "logged",
+   "found": "No SoftBank funding found. Series C was $70M led by TPG Growth/Goldman Sachs (2018). Tracxn shows 14 rounds totaling $512M. No SoftBank in investor list.",
+   "next_action": "Note SoftBank claim is incorrect; proceed with verified funding data"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Livspace founders GNAN verification",
+   "status": "done",
+   "found": "No GNAN founder. Verified founders: Anuj Srivastava, Ramakant Sharma, Saurabh Jain (exited Feb 2026), Shagufta Anurag (inactive). MCA shows Saurabh Jain as director (DIN 06996148).",
+   "next_action": "Update founders section with verified data"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Livspace MCA filing financials FY23-FY25",
+   "status": "done",
+   "found": "CIN U52390HR2014PTC131277 (Livspace India Pvt Ltd, Haryana ROC); previous CIN U52390KA2014PTC074986 (Bangalore). FY25 consolidated revenue Rs 1,460Cr; standalone Rs 1,276.5Cr. Balance sheet filed 31 Mar 2025.",
+   "next_action": "Populate financials with standalone vs consolidated distinction"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Livspace franchise model and products",
+   "status": "done",
+   "found": "Franchise model confirmed via FranchiseByte: Rs 5L fee, 50% revenue sharing, 10-20 outlets. Products: Select, Vesta, Bello, Vinciago, Livspace Home, Canvas platform.",
+   "next_action": "Add products and franchise details"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Livspace 2024-26 events (layoffs, reverse flip, IPO)",
+   "status": "done",
+   "found": "Feb 2026: 1,000 layoffs (12% workforce), co-founder Saurabh Jain exited. Apr 2025: INR 427Cr infusion for reverse flip. IPO delayed from late 2025/early 2026.",
+   "next_action": "Add events and legal sections"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Livspace funding SoftBank $150M Series C",
+   "status": "logged",
+   "found": "No SoftBank funding found. Series C was $70M led by TPG Growth/Goldman Sachs (2018). Tracxn shows 14 rounds totaling $512M. No SoftBank in investor list.",
+   "next_action": "Note SoftBank claim is incorrect; proceed with verified funding data"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Livspace founders GNAN verification",
+   "status": "done",
+   "found": "No GNAN founder. Verified founders: Anuj Srivastava, Ramakant Sharma, Saurabh Jain (exited Feb 2026), Shagufta Anurag (inactive). MCA shows Saurabh Jain as director (DIN 06996148).",
+   "next_action": "Update founders section with verified data"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Livspace MCA filing financials FY23-FY25",
+   "status": "done",
+   "found": "CIN U52390HR2014PTC131277 (Livspace India Pvt Ltd, Haryana ROC); previous CIN U52390KA2014PTC074986 (Bangalore). FY25 consolidated revenue Rs 1,460Cr; standalone Rs 1,276.5Cr. Balance sheet filed 31 Mar 2025.",
+   "next_action": "Populate financials with standalone vs consolidated distinction"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Livspace franchise model and products",
+   "status": "done",
+   "found": "Franchise model confirmed via FranchiseByte: Rs 5L fee, 50% revenue sharing, 10-20 outlets. Products: Select, Vesta, Bello, Vinciago, Livspace Home, Canvas platform.",
+   "next_action": "Add products and franchise details"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Livspace 2024-26 events (layoffs, reverse flip, IPO)",
+   "status": "done",
+   "found": "Feb 2026: 1,000 layoffs (12% workforce), co-founder Saurabh Jain exited. Apr 2025: INR 427Cr infusion for reverse flip. IPO delayed from late 2025/early 2026.",
+   "next_action": "Add events and legal sections"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Livspace funding SoftBank $150M Series C",
+   "status": "logged",
+   "found": "No SoftBank funding found. Series C was $70M led by TPG Growth/Goldman Sachs (2018). Tracxn shows 14 rounds totaling $512M. No SoftBank in investor list.",
+   "next_action": "Note SoftBank claim is incorrect; proceed with verified funding data"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Livspace founders GNAN verification",
+   "status": "done",
+   "found": "No GNAN founder. Verified founders: Anuj Srivastava, Ramakant Sharma, Saurabh Jain (exited Feb 2026), Shagufta Anurag (inactive). MCA shows Saurabh Jain as director (DIN 06996148).",
+   "next_action": "Update founders section with verified data"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Livspace MCA filing financials FY23-FY25",
+   "status": "done",
+   "found": "CIN U52390HR2014PTC131277 (Livspace India Pvt Ltd, Haryana ROC); previous CIN U52390KA2014PTC074986 (Bangalore). FY25 consolidated revenue Rs 1,460Cr; standalone Rs 1,276.5Cr. Balance sheet filed 31 Mar 2025.",
+   "next_action": "Populate financials with standalone vs consolidated distinction"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Livspace franchise model and products",
+   "status": "done",
+   "found": "Franchise model confirmed via FranchiseByte: Rs 5L fee, 50% revenue sharing, 10-20 outlets. Products: Select, Vesta, Bello, Vinciago, Livspace Home, Canvas platform.",
+   "next_action": "Add products and franchise details"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Livspace 2024-26 events (layoffs, reverse flip, IPO)",
+   "status": "done",
+   "found": "Feb 2026: 1,000 layoffs (12% workforce), co-founder Saurabh Jain exited. Apr 2025: INR 427Cr infusion for reverse flip. IPO delayed from late 2025/early 2026.",
+   "next_action": "Add events and legal sections"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Livspace funding SoftBank $150M Series C",
+   "status": "logged",
+   "found": "No SoftBank funding found. Series C was $70M led by TPG Growth/Goldman Sachs (2018). Tracxn shows 14 rounds totaling $512M. No SoftBank in investor list.",
+   "next_action": "Note SoftBank claim is incorrect; proceed with verified funding data"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Livspace founders GNAN verification",
+   "status": "done",
+   "found": "No GNAN founder. Verified founders: Anuj Srivastava, Ramakant Sharma, Saurabh Jain (exited Feb 2026), Shagufta Anurag (inactive). MCA shows Saurabh Jain as director (DIN 06996148).",
+   "next_action": "Update founders section with verified data"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Livspace MCA filing financials FY23-FY25",
+   "status": "done",
+   "found": "CIN U52390HR2014PTC131277 (Livspace India Pvt Ltd, Haryana ROC); previous CIN U52390KA2014PTC074986 (Bangalore). FY25 consolidated revenue Rs 1,460Cr; standalone Rs 1,276.5Cr. Balance sheet filed 31 Mar 2025.",
+   "next_action": "Populate financials with standalone vs consolidated distinction"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Livspace franchise model and products",
+   "status": "done",
+   "found": "Franchise model confirmed via FranchiseByte: Rs 5L fee, 50% revenue sharing, 10-20 outlets. Products: Select, Vesta, Bello, Vinciago, Livspace Home, Canvas platform.",
+   "next_action": "Add products and franchise details"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Livspace 2024-26 events (layoffs, reverse flip, IPO)",
+   "status": "done",
+   "found": "Feb 2026: 1,000 layoffs (12% workforce), co-founder Saurabh Jain exited. Apr 2025: INR 427Cr infusion for reverse flip. IPO delayed from late 2025/early 2026.",
+   "next_action": "Add events and legal sections"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Livspace funding SoftBank $150M Series C",
+   "status": "logged",
+   "found": "No SoftBank funding found. Series C was $70M led by TPG Growth/Goldman Sachs (2018). Tracxn shows 14 rounds totaling $512M. No SoftBank in investor list.",
+   "next_action": "Note SoftBank claim is incorrect; proceed with verified funding data"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Livspace founders GNAN verification",
+   "status": "done",
+   "found": "No GNAN founder. Verified founders: Anuj Srivastava, Ramakant Sharma, Saurabh Jain (exited Feb 2026), Shagufta Anurag (inactive). MCA shows Saurabh Jain as director (DIN 06996148).",
+   "next_action": "Update founders section with verified data"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Livspace MCA filing financials FY23-FY25",
+   "status": "done",
+   "found": "CIN U52390HR2014PTC131277 (Livspace India Pvt Ltd, Haryana ROC); previous CIN U52390KA2014PTC074986 (Bangalore). FY25 consolidated revenue Rs 1,460Cr; standalone Rs 1,276.5Cr. Balance sheet filed 31 Mar 2025.",
+   "next_action": "Populate financials with standalone vs consolidated distinction"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Livspace franchise model and products",
+   "status": "done",
+   "found": "Franchise model confirmed via FranchiseByte: Rs 5L fee, 50% revenue sharing, 10-20 outlets. Products: Select, Vesta, Bello, Vinciago, Livspace Home, Canvas platform.",
+   "next_action": "Add products and franchise details"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Livspace 2024-26 events (layoffs, reverse flip, IPO)",
+   "status": "done",
+   "found": "Feb 2026: 1,000 layoffs (12% workforce), co-founder Saurabh Jain exited. Apr 2025: INR 427Cr infusion for reverse flip. IPO delayed from late 2025/early 2026.",
+   "next_action": "Add events and legal sections"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Livspace funding SoftBank $150M Series C",
+   "status": "logged",
+   "found": "No SoftBank funding found. Series C was $70M led by TPG Growth/Goldman Sachs (2018). Tracxn shows 14 rounds totaling $512M. No SoftBank in investor list.",
+   "next_action": "Note SoftBank claim is incorrect; proceed with verified funding data"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Livspace founders GNAN verification",
+   "status": "done",
+   "found": "No GNAN founder. Verified founders: Anuj Srivastava, Ramakant Sharma, Saurabh Jain (exited Feb 2026), Shagufta Anurag (inactive). MCA shows Saurabh Jain as director (DIN 06996148).",
+   "next_action": "Update founders section with verified data"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Livspace MCA filing financials FY23-FY25",
+   "status": "done",
+   "found": "CIN U52390HR2014PTC131277 (Livspace India Pvt Ltd, Haryana ROC); previous CIN U52390KA2014PTC074986 (Bangalore). FY25 consolidated revenue Rs 1,460Cr; standalone Rs 1,276.5Cr. Balance sheet filed 31 Mar 2025.",
+   "next_action": "Populate financials with standalone vs consolidated distinction"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Livspace franchise model and products",
+   "status": "done",
+   "found": "Franchise model confirmed via FranchiseByte: Rs 5L fee, 50% revenue sharing, 10-20 outlets. Products: Select, Vesta, Bello, Vinciago, Livspace Home, Canvas platform.",
+   "next_action": "Add products and franchise details"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Livspace 2024-26 events (layoffs, reverse flip, IPO)",
+   "status": "done",
+   "found": "Feb 2026: 1,000 layoffs (12% workforce), co-founder Saurabh Jain exited. Apr 2025: INR 427Cr infusion for reverse flip. IPO delayed from late 2025/early 2026.",
+   "next_action": "Add events and legal sections"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Livspace funding SoftBank $150M Series C",
+   "status": "logged",
+   "found": "No SoftBank funding found. Series C was $70M led by TPG Growth/Goldman Sachs (2018). Tracxn shows 14 rounds totaling $512M. No SoftBank in investor list.",
+   "next_action": "Note SoftBank claim is incorrect; proceed with verified funding data"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Livspace founders GNAN verification",
+   "status": "done",
+   "found": "No GNAN founder. Verified founders: Anuj Srivastava, Ramakant Sharma, Saurabh Jain (exited Feb 2026), Shagufta Anurag (inactive). MCA shows Saurabh Jain as director (DIN 06996148).",
+   "next_action": "Update founders section with verified data"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Livspace MCA filing financials FY23-FY25",
+   "status": "done",
+   "found": "CIN U52390HR2014PTC131277 (Livspace India Pvt Ltd, Haryana ROC); previous CIN U52390KA2014PTC074986 (Bangalore). FY25 consolidated revenue Rs 1,460Cr; standalone Rs 1,276.5Cr. Balance sheet filed 31 Mar 2025.",
+   "next_action": "Populate financials with standalone vs consolidated distinction"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Livspace franchise model and products",
+   "status": "done",
+   "found": "Franchise model confirmed via FranchiseByte: Rs 5L fee, 50% revenue sharing, 10-20 outlets. Products: Select, Vesta, Bello, Vinciago, Livspace Home, Canvas platform.",
+   "next_action": "Add products and franchise details"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Livspace 2024-26 events (layoffs, reverse flip, IPO)",
+   "status": "done",
+   "found": "Feb 2026: 1,000 layoffs (12% workforce), co-founder Saurabh Jain exited. Apr 2025: INR 427Cr infusion for reverse flip. IPO delayed from late 2025/early 2026.",
+   "next_action": "Add events and legal sections"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Livspace funding SoftBank $150M Series C",
+   "status": "logged",
+   "found": "No SoftBank funding found. Series C was $70M led by TPG Growth/Goldman Sachs (2018). Tracxn shows 14 rounds totaling $512M. No SoftBank in investor list.",
+   "next_action": "Note SoftBank claim is incorrect; proceed with verified funding data"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Livspace founders GNAN verification",
+   "status": "done",
+   "found": "No GNAN founder. Verified founders: Anuj Srivastava, Ramakant Sharma, Saurabh Jain (exited Feb 2026), Shagufta Anurag (inactive). MCA shows Saurabh Jain as director (DIN 06996148).",
+   "next_action": "Update founders section with verified data"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Livspace MCA filing financials FY23-FY25",
+   "status": "done",
+   "found": "CIN U52390HR2014PTC131277 (Livspace India Pvt Ltd, Haryana ROC); previous CIN U52390KA2014PTC074986 (Bangalore). FY25 consolidated revenue Rs 1,460Cr; standalone Rs 1,276.5Cr. Balance sheet filed 31 Mar 2025.",
+   "next_action": "Populate financials with standalone vs consolidated distinction"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Livspace franchise model and products",
+   "status": "done",
+   "found": "Franchise model confirmed via FranchiseByte: Rs 5L fee, 50% revenue sharing, 10-20 outlets. Products: Select, Vesta, Bello, Vinciago, Livspace Home, Canvas platform.",
+   "next_action": "Add products and franchise details"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Livspace 2024-26 events (layoffs, reverse flip, IPO)",
+   "status": "done",
+   "found": "Feb 2026: 1,000 layoffs (12% workforce), co-founder Saurabh Jain exited. Apr 2025: INR 427Cr infusion for reverse flip. IPO delayed from late 2025/early 2026.",
+   "next_action": "Add events and legal sections"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Livspace funding SoftBank $150M Series C",
+   "status": "logged",
+   "found": "No SoftBank funding found. Series C was $70M led by TPG Growth/Goldman Sachs (2018). Tracxn shows 14 rounds totaling $512M. No SoftBank in investor list.",
+   "next_action": "Note SoftBank claim is incorrect; proceed with verified funding data"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Livspace founders GNAN verification",
+   "status": "done",
+   "found": "No GNAN founder. Verified founders: Anuj Srivastava, Ramakant Sharma, Saurabh Jain (exited Feb 2026), Shagufta Anurag (inactive). MCA shows Saurabh Jain as director (DIN 06996148).",
+   "next_action": "Update founders section with verified data"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Livspace MCA filing financials FY23-FY25",
+   "status": "done",
+   "found": "CIN U52390HR2014PTC131277 (Livspace India Pvt Ltd, Haryana ROC); previous CIN U52390KA2014PTC074986 (Bangalore). FY25 consolidated revenue Rs 1,460Cr; standalone Rs 1,276.5Cr. Balance sheet filed 31 Mar 2025.",
+   "next_action": "Populate financials with standalone vs consolidated distinction"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Livspace franchise model and products",
+   "status": "done",
+   "found": "Franchise model confirmed via FranchiseByte: Rs 5L fee, 50% revenue sharing, 10-20 outlets. Products: Select, Vesta, Bello, Vinciago, Livspace Home, Canvas platform.",
+   "next_action": "Add products and franchise details"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Livspace 2024-26 events (layoffs, reverse flip, IPO)",
+   "status": "done",
+   "found": "Feb 2026: 1,000 layoffs (12% workforce), co-founder Saurabh Jain exited. Apr 2025: INR 427Cr infusion for reverse flip. IPO delayed from late 2025/early 2026.",
+   "next_action": "Add events and legal sections"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Livspace funding SoftBank $150M Series C",
+   "status": "logged",
+   "found": "No SoftBank funding found. Series C was $70M led by TPG Growth/Goldman Sachs (2018). Tracxn shows 14 rounds totaling $512M. No SoftBank in investor list.",
+   "next_action": "Note SoftBank claim is incorrect; proceed with verified funding data"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Livspace founders GNAN verification",
+   "status": "done",
+   "found": "No GNAN founder. Verified founders: Anuj Srivastava, Ramakant Sharma, Saurabh Jain (exited Feb 2026), Shagufta Anurag (inactive). MCA shows Saurabh Jain as director (DIN 06996148).",
+   "next_action": "Update founders section with verified data"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Livspace MCA filing financials FY23-FY25",
+   "status": "done",
+   "found": "CIN U52390HR2014PTC131277 (Livspace India Pvt Ltd, Haryana ROC); previous CIN U52390KA2014PTC074986 (Bangalore). FY25 consolidated revenue Rs 1,460Cr; standalone Rs 1,276.5Cr. Balance sheet filed 31 Mar 2025.",
+   "next_action": "Populate financials with standalone vs consolidated distinction"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Livspace franchise model and products",
+   "status": "done",
+   "found": "Franchise model confirmed via FranchiseByte: Rs 5L fee, 50% revenue sharing, 10-20 outlets. Products: Select, Vesta, Bello, Vinciago, Livspace Home, Canvas platform.",
+   "next_action": "Add products and franchise details"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Livspace 2024-26 events (layoffs, reverse flip, IPO)",
+   "status": "done",
+   "found": "Feb 2026: 1,000 layoffs (12% workforce), co-founder Saurabh Jain exited. Apr 2025: INR 427Cr infusion for reverse flip. IPO delayed from late 2025/early 2026.",
+   "next_action": "Add events and legal sections"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Livspace funding SoftBank $150M Series C",
+   "status": "logged",
+   "found": "No SoftBank funding found. Series C was $70M led by TPG Growth/Goldman Sachs (2018). Tracxn shows 14 rounds totaling $512M. No SoftBank in investor list.",
+   "next_action": "Note SoftBank claim is incorrect; proceed with verified funding data"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Livspace founders GNAN verification",
+   "status": "done",
+   "found": "No GNAN founder. Verified founders: Anuj Srivastava, Ramakant Sharma, Saurabh Jain (exited Feb 2026), Shagufta Anurag (inactive). MCA shows Saurabh Jain as director (DIN 06996148).",
+   "next_action": "Update founders section with verified data"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Livspace MCA filing financials FY23-FY25",
+   "status": "done",
+   "found": "CIN U52390HR2014PTC131277 (Livspace India Pvt Ltd, Haryana ROC); previous CIN U52390KA2014PTC074986 (Bangalore). FY25 consolidated revenue Rs 1,460Cr; standalone Rs 1,276.5Cr. Balance sheet filed 31 Mar 2025.",
+   "next_action": "Populate financials with standalone vs consolidated distinction"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Livspace franchise model and products",
+   "status": "done",
+   "found": "Franchise model confirmed via FranchiseByte: Rs 5L fee, 50% revenue sharing, 10-20 outlets. Products: Select, Vesta, Bello, Vinciago, Livspace Home, Canvas platform.",
+   "next_action": "Add products and franchise details"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Livspace 2024-26 events (layoffs, reverse flip, IPO)",
+   "status": "done",
+   "found": "Feb 2026: 1,000 layoffs (12% workforce), co-founder Saurabh Jain exited. Apr 2025: INR 427Cr infusion for reverse flip. IPO delayed from late 2025/early 2026.",
+   "next_action": "Add events and legal sections"
+  }
+ ],
+ "sources": [
+  {
+   "publication_date": "2022-02-08",
+   "publisher": "Economic Times",
+   "tier": "T3",
+   "title": "Livspace closes new funding led by KKR at $1.2 billion valuation",
+   "url": "https://m.economictimes.com/tech/funding/livspace-turns-unicorn-with-180-million-funding-led-by-kkr/articleshow/89419186.cms"
+  },
+  {
+   "publication_date": "2025-10-13",
+   "publisher": "Economic Times",
+   "tier": "T3",
+   "title": "Homedecor startup Livspace's FY25 revenue rises 23% to Rs 1,460 crore",
+   "url": "https://m.economictimes.com/tech/startups/homedecor-startup-livspaces-fy25-revenue-rises-23-to-rs-1460-crore/articleshow/124520597.cms"
+  },
+  {
+   "publication_date": "2025-10-14",
+   "publisher": "Entrackr",
+   "tier": "T3",
+   "title": "Livspace posts Rs 1,460 Cr revenue in FY25; losses shrink 42%",
+   "url": "http://entrackr.com/fintrackr/livspace-posts-rs-1460-cr-revenue-in-fy25-losses-shrink-42-10559863"
+  },
+  {
+   "url": "https://www.tofler.in/livspace-india-private-limited/company/U52390HR2014PTC131277",
+   "title": "Livspace India Financials | Company Details - Tofler",
+   "fields": [
+    "cin",
+    "incorporation_date"
+   ],
+   "confidence": "high"
+  },
+  {
+   "url": "https://tracxn.com/d/legal-entities/india/livspace-india-private-limited/__Nk8yLHI4In7SSF3QHPl0_Drh-mulXmJYo2oV8H0TLlA",
+   "title": "LIVSPACE INDIA PRIVATE LIMITED - Company Profile - Tracxn",
+   "fields": [
+    "cin",
+    "incorporation_date"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "url": "https://www.livspace.com/in/about-us",
+   "publisher": "Livspace (company website)",
+   "tier": "T1",
+   "publication_date": "2026-09-15",
+   "retrieved_date": "2026-09-15",
+   "confidence": "HIGH",
+   "fields_supported": [
+    "founders",
+    "company_description",
+    "growth_journey",
+    "products"
+   ],
+   "claim_supported": "Founders Anuj Srivastava and Ramakant Sharma; founded 2014"
+  },
+  {
+   "url": "https://www.businesswire.com/news/home/20220207005993/en/Livspace-Turns-Unicorn-with-USD-$180-Million-Series-F-Round-Led-by-KKR",
+   "publisher": "BusinessWire",
+   "tier": "T3",
+   "publication_date": "2022-02-08",
+   "retrieved_date": "2026-09-15",
+   "confidence": "HIGH",
+   "fields_supported": [
+    "funding_rounds",
+    "valuation",
+    "investors",
+    "traction"
+   ],
+   "claim_supported": "$180M Series F led by KKR at $1.2B+ valuation"
+  },
+  {
+   "url": "https://www.cnbctv18.com/business/startup/kkr-backed-livspace-cuts-1000-jobs-in-ai-pivot-co-founder-exits-report-ws-l-19854853.htm",
+   "publisher": "CNBC TV18",
+   "tier": "T3",
+   "publication_date": "2026-02-20",
+   "retrieved_date": "2026-09-15",
+   "confidence": "HIGH",
+   "fields_supported": [
+    "people",
+    "events",
+    "financials"
+   ],
+   "claim_supported": "1,000 layoffs; co-founder Saurabh Jain exit; FY25 revenue/losses"
+  },
+  {
+   "url": "https://www.instafinancials.com/company/livspace-india-private-limited-U52390HR2014PTC131277",
+   "publisher": "InstaFinancials (MCA data)",
+   "tier": "T2",
+   "publication_date": "2026-07-11",
+   "retrieved_date": "2026-09-15",
+   "confidence": "HIGH",
+   "fields_supported": [
+    "cin",
+    "incorporation_date",
+    "status",
+    "registered_office"
+   ],
+   "claim_supported": "CIN U52390HR2014PTC131277; incorporated 23 Jun 2014; Active"
+  },
+  {
+   "url": "https://www.zaubacorp.com/HOME-INTERIOR-DESIGNS-E-COMMERCE-PRIVATE-LIMITED-U52390KA2014PTC074986",
+   "publisher": "ZaubaCorp (MCA data)",
+   "tier": "T2",
+   "publication_date": "2026-09-15",
+   "retrieved_date": "2026-09-15",
+   "confidence": "HIGH",
+   "fields_supported": [
+    "cin",
+    "directors",
+    "registered_address"
+   ],
+   "claim_supported": "Saurabh Jain as director (DIN 06996148); registered address Bengaluru"
+  },
+  {
+   "url": "https://tracxn.com/d/companies/livspace/__jW3bucmuxxt7wnW0Ru8fEhLj0iTod5V8Roa0OsWdp9I",
+   "publisher": "Tracxn",
+   "tier": "T2",
+   "publication_date": "2026-09-03",
+   "retrieved_date": "2026-09-15",
+   "confidence": "MEDIUM",
+   "fields_supported": [
+    "funding_rounds",
+    "investors",
+    "valuation"
+   ],
+   "claim_supported": "14 rounds, $512M total; latest round Feb 29, 2024"
+  },
+  {
+   "url": "https://franchisebyte.com/interior-design-franchise/livspace-franchise",
+   "publisher": "FranchiseByte",
+   "tier": "T4",
+   "publication_date": "2022-06-21",
+   "retrieved_date": "2026-09-15",
+   "confidence": "MEDIUM",
+   "fields_supported": [
+    "products",
+    "business_model"
+   ],
+   "claim_supported": "Franchise model details: Rs 5L fee, 50% revenue sharing, 10-20 outlets"
+  },
+  {
+   "url": "https://www.vccircle.com/kkrbacked-livspace-s-topline-rises-21-in-fy24-ebitda-loss-halves",
+   "publisher": "VCCircle",
+   "tier": "T3",
+   "publication_date": "2024-09-18",
+   "retrieved_date": "2026-09-15",
+   "confidence": "HIGH",
+   "fields_supported": [
+    "financials",
+    "products",
+    "traction"
+   ],
+   "claim_supported": "FY24 revenue +21%; ARR Rs 1,500Cr Q2 FY25; Bello/Vinciago brands"
+  },
+  {
+   "url": "https://inc42.com/buzz/exclusive-with-reverse-flip-in-cart-livspace-nets-inr-427-cr-from-singapore-parent",
+   "publisher": "Inc42",
+   "tier": "T3",
+   "publication_date": "2025-04-28",
+   "retrieved_date": "2026-09-15",
+   "confidence": "HIGH",
+   "fields_supported": [
+    "events",
+    "financials"
+   ],
+   "claim_supported": "INR 427Cr capital infusion for reverse flip; rights issue details"
+  },
+  {
+   "url": "https://www.livemint.com/companies/start-ups/home-d-cor-startup-livspace-achieves-85-top-line-growth-expands-to-45-50-cities-improves-financial-health-in-fy23-11694770446898.html",
+   "publisher": "LiveMint",
+   "tier": "T3",
+   "publication_date": "2023-09-15",
+   "retrieved_date": "2026-09-15",
+   "confidence": "HIGH",
+   "fields_supported": [
+    "financials",
+    "traction"
+   ],
+   "claim_supported": "FY23 revenue ~Rs 1,100Cr; 85% growth; 45-50 cities; Ebitda loss Rs 581Cr"
+  },
+  {
+   "url": "https://www.thehindubusinessline.com/companies/livspace-narrows-fy25-losses-eyes-reverse-flip-to-india-by-year-end/article70158774.ece",
+   "publisher": "The Hindu BusinessLine",
+   "tier": "T3",
+   "publication_date": "2025-10-13",
+   "retrieved_date": "2026-09-15",
+   "confidence": "HIGH",
+   "fields_supported": [
+    "financials",
+    "traction",
+    "events"
+   ],
+   "claim_supported": "FY25 revenue Rs 1,460Cr; adjusted EBITDA loss Rs 131Cr; 150+ stores in 90 cities"
+  },
+  {
+   "url": "https://platform.tracxn.com/a/d/company/531a276be4b0f7e166091074/livspace",
+   "publisher": "Tracxn",
+   "tier": "T2",
+   "publication_date": "2026-09-15",
+   "retrieved_date": "2026-09-15",
+   "confidence": "MEDIUM",
+   "fields_supported": [
+    "founders",
+    "people",
+    "company"
+   ],
+   "claim_supported": "Founders list including Saurabh Jain; CXO team; employee count 4,353"
+  }
+ ],
+ "startup_id": "livspace",
+ "_merged_session2": true,
+ "traction": [
+  {
+   "metric": "experience_centres",
+   "value": 123,
+   "unit": "count",
+   "period": "As-of-2026",
+   "as_of": "2026-07-24",
+   "company_reported": true,
+   "source_url": "https://www.livspace.com/in/magazine/livspace101-livspace-experience-centre",
+   "source_title": "Livspace Experience Centre - Livspace Magazine",
+   "confidence": "MEDIUM",
+   "notes": "123 centres across 95+ cities; plans to expand to 200+ stores in 100+ cities"
+  },
+  {
+   "metric": "cities_operational",
+   "value": 95,
+   "unit": "count",
+   "period": "As-of-2026",
+   "as_of": "2026-07-24",
+   "company_reported": true,
+   "source_url": "https://www.livspace.com/in/magazine/livspace101-livspace-experience-centre",
+   "source_title": "Livspace Experience Centre",
+   "confidence": "MEDIUM",
+   "notes": "Operational in 95+ cities across India"
+  },
+  {
+   "metric": "homes_delivered",
+   "value": 50000,
+   "unit": "count",
+   "period": "As-of-2026",
+   "as_of": "2026-07-24",
+   "company_reported": true,
+   "source_url": "https://www.livspace.com/in/interiors/delhi/narela",
+   "source_title": "Livspace Delhi - Narela",
+   "confidence": "MEDIUM",
+   "notes": "50,000+ homes delivered; earlier claims of 100,000+ rooms (2022) and 1.2Lakh rooms designed"
+  },
+  {
+   "metric": "designers",
+   "value": 3500,
+   "unit": "count",
+   "period": "As-of-2026",
+   "as_of": "2026-07-24",
+   "company_reported": true,
+   "source_url": "https://www.livspace.com/in/interiors/delhi/narela",
+   "source_title": "Livspace Delhi - Narela",
+   "confidence": "MEDIUM"
+  },
+  {
+   "metric": "countries_operational",
+   "value": 4,
+   "unit": "count",
+   "period": "As-of-2026",
+   "as_of": "2026-07-24",
+   "company_reported": true,
+   "source_url": "https://www.livspace.com/in/interiors/delhi/narela",
+   "source_title": "Livspace Delhi - Narela",
+   "confidence": "MEDIUM",
+   "notes": "India, Singapore, Malaysia, Middle East"
+  },
+  {
+   "metric": "gmv_runrate",
+   "value": 350,
+   "unit": "million",
+   "currency": "USD",
+   "period": "FY22 Q1 (Apr 2022)",
+   "as_of": "2022-02-08",
+   "company_reported": true,
+   "source_url": "https://www.vccircle.com/online-home-d-cor-firm-livspace-turns-unicorn-with-180-mn-fund-raise-from-kkr-others",
+   "source_title": "VCCircle - Livspace unicorn",
+   "confidence": "MEDIUM",
+   "notes": "CEO claimed GMV runrate $350-400M from April 2022; expected to double in 12 months"
+  },
+  {
+   "metric": "cities_FY23",
+   "value": 45,
+   "unit": "count",
+   "period": "FY23 (as of Mar 2023)",
+   "as_of": "2023-09-15",
+   "company_reported": true,
+   "source_url": "https://www.livemint.com/companies/start-ups/home-d-cor-startup-livspace-achieves-85-top-line-growth-expands-to-45-50-cities-improves-financial-health-in-fy23-11694770446898.html",
+   "source_title": "Livspace posts strong revenue growth in FY23 - LiveMint",
+   "confidence": "HIGH",
+   "notes": "Expanded from 6-7 cities by end of March 2021 to 45-50 cities by end of FY23"
+  },
+  {
+   "metric": "stores_FY25",
+   "value": 150,
+   "unit": "count",
+   "period": "FY25 (as of Oct 2025)",
+   "as_of": "2025-10-13",
+   "company_reported": true,
+   "source_url": "https://www.thehindubusinessline.com/companies/livspace-narrows-fy25-losses-eyes-reverse-flip-to-india-by-year-end/article70158774.ece",
+   "source_title": "Livspace narrows FY25 losses - Hindu BusinessLine",
+   "confidence": "HIGH",
+   "notes": "Plans to expand retail network from 150+ stores in 90 cities to 200+ in 100+ cities"
+  }
+ ],
+ "products": [
+  {
+   "name": "Livspace Select",
+   "category": "Modular home solutions",
+   "description": "Modular solutions for kitchens, wardrobes, and storage; quick-setup partial home interiors",
+   "pricing_model": "Project-based",
+   "launch_date": "2014",
+   "status": "Active",
+   "source_url": "https://www.livspace.com/in/interiors/offerings/full-home-interiors",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Livspace Vesta",
+   "category": "Full home interiors",
+   "description": "End-to-end full home interior design and renovation; projects typically start at Rs 10 lakhs",
+   "pricing_model": "Project-based",
+   "launch_date": "2014",
+   "status": "Active",
+   "source_url": "https://www.livspace.com/in/interiors/offerings/full-home-interiors",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Bello",
+   "category": "Affordable interiors",
+   "description": "Affordable interior design offering",
+   "pricing_model": "Project-based",
+   "launch_date": "2024",
+   "status": "Active",
+   "source_url": "https://www.vccircle.com/kkrbacked-livspace-s-topline-rises-21-in-fy24-ebitda-loss-halves",
+   "source_title": "KKR-Backed Livspace's Topline Rises 21% In FY24 - VCCircle",
+   "confidence": "MEDIUM"
+  },
+  {
+   "name": "Vinciago",
+   "category": "Premium interiors",
+   "description": "Premium interior design offering",
+   "pricing_model": "Project-based",
+   "launch_date": "2024",
+   "status": "Active",
+   "source_url": "https://www.vccircle.com/kkrbacked-livspace-s-topline-rises-21-in-fy24-ebitda-loss-halves",
+   "source_title": "KKR-Backed Livspace's Topline Rises 21% In FY24 - VCCircle",
+   "confidence": "MEDIUM"
+  },
+  {
+   "name": "Livspace Home",
+   "category": "Soft furnishings and homeware",
+   "description": "Private-label soft furnishings, furniture, and homeware; new private-label line of kitchen appliances (hobs, chimneys)",
+   "pricing_model": "Retail",
+   "launch_date": "2025",
+   "status": "Active",
+   "source_url": "https://www.thehindubusinessline.com/companies/livspace-narrows-fy25-losses-eyes-reverse-flip-to-india-by-year-end/article70158774.ece",
+   "source_title": "Livspace narrows FY25 losses - Hindu BusinessLine",
+   "confidence": "MEDIUM"
+  },
+  {
+   "name": "Canvas",
+   "category": "Design automation platform",
+   "description": "Proprietary design-to-installation technology platform for designers; launched 2016",
+   "pricing_model": "B2B SaaS",
+   "launch_date": "2016",
+   "status": "Active",
+   "source_url": "https://livspace.io/",
+   "source_title": "Livspace Tech - Canvas",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Livspace Franchise",
+   "category": "Franchise model",
+   "description": "Franchise outlets (Livspace Studios); 1000-2000 sq ft area; Rs 5L franchise fee + Rs 30-35L infra; ~50% revenue sharing; 10-20 franchise outlets",
+   "pricing_model": "Revenue sharing",
+   "launch_date": "2014",
+   "status": "Active",
+   "source_url": "https://franchisebyte.com/interior-design-franchise/livspace-franchise",
+   "source_title": "Livspace Franchise - FranchiseByte",
+   "confidence": "MEDIUM"
+  }
+ ],
+ "people": [
+  {
+   "name": "Anuj Srivastava",
+   "role": "Co-founder and Chairman of the Board",
+   "title": "Co-founder",
+   "current": true,
+   "since": "2014",
+   "prior_role": "Global Head of Product Marketing, Google (e-commerce team); IIT Kanpur; MBA London Business School",
+   "source_url": "https://www.livspace.com/in/about-us",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Ramakant Sharma",
+   "role": "Co-founder and CEO",
+   "title": "CEO",
+   "current": true,
+   "since": "2014",
+   "prior_role": "VP Engineering, Myntra; IIT Kanpur; MBA Indian School of Business Hyderabad",
+   "source_url": "https://www.livspace.com/in/about-us",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Saurabh Jain",
+   "role": "Co-founder (exited)",
+   "title": "Co-founder & Chief Business Officer",
+   "current": false,
+   "since": "2015",
+   "end_date": "2026-02-20",
+   "prior_role": "Founder of DezignUp (acquired by Livspace 2015); Director since 2022-01-12 per MCA",
+   "source_url": "https://www.cnbctv18.com/business/startup/kkr-backed-livspace-cuts-1000-jobs-in-ai-pivot-co-founder-exits-report-ws-l-19854853.htm",
+   "source_title": "CNBC TV18 - Livspace co-founder exits",
+   "confidence": "HIGH",
+   "notes": "Exited after 11 years; confirmed by company spokesperson to Moneycontrol"
+  },
+  {
+   "name": "Shagufta Anurag",
+   "role": "Co-founder",
+   "title": "Co-founder",
+   "current": false,
+   "since": "2014",
+   "prior_role": "Founder of Space Matrix (architecture/design firm)",
+   "source_url": "https://www.forbesindia.com/article/take-one-big-story-of-the-day/home-interiors-startup-livspace-turns-unicorn/73495/1",
+   "source_title": "Forbes India - Livspace turns unicorn",
+   "confidence": "MEDIUM",
+   "notes": "Sister-in-law of Anuj Srivastava; listed as co-founder in some sources; not currently active per Tracxn"
+  },
+  {
+   "name": "Ankit Shah",
+   "role": "Chief Strategy Officer",
+   "title": "CSO",
+   "current": false,
+   "since": "2022",
+   "prior_role": "Former Goldman Sachs Executive Director",
+   "source_url": "https://www.livemint.com/companies/start-ups/kkrbacked-livspace-sets-aside-100-million-for-acquisitions-11665359544709.html",
+   "source_title": "KKR-backed Livspace sets aside $100M for acquisitions - LiveMint",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Kartik Bhandari",
+   "role": "Chief Marketing Officer",
+   "title": "CMO",
+   "current": true,
+   "source_url": "https://platform.tracxn.com/a/d/company/531a276be4b0f7e166091074/livspace",
+   "source_title": "Tracxn - Livspace CXO Team",
+   "confidence": "MEDIUM"
+  },
+  {
+   "name": "Lalit Mittal",
+   "role": "Chief Business Officer - India",
+   "title": "CBO India",
+   "current": true,
+   "source_url": "https://platform.tracxn.com/a/d/company/531a276be4b0f7e166091074/livspace",
+   "source_title": "Tracxn - Livspace CXO Team",
+   "confidence": "MEDIUM"
+  },
+  {
+   "name": "Abhishek Kasina",
+   "role": "Group Chief Product Officer",
+   "title": "GCPO",
+   "current": true,
+   "source_url": "https://platform.tracxn.com/a/d/company/531a276be4b0f7e166091074/livspace",
+   "source_title": "Tracxn - Livspace CXO Team",
+   "confidence": "MEDIUM"
+  },
+  {
+   "name": "Gourav Khetan",
+   "role": "Exited key person",
+   "title": "Unknown",
+   "current": false,
+   "source_url": "https://inc42.com/company/Livspace/people/",
+   "source_title": "Inc42 - Livspace Key People",
+   "confidence": "LOW",
+   "notes": "Recently exited per Inc42"
+  }
+ ],
+ "legal": [
+  {
+   "type": "regulatory",
+   "entity": "MCA (Ministry of Corporate Affairs)",
+   "date": "2014-06-23",
+   "status": "confirmed-compliance",
+   "description": "CIN U52390HR2014PTC131277; Active status; AGM held 30 Sep 2025; balance sheet filed 31 Mar 2025; 32 GST numbers registered across 19 states",
+   "source_url": "https://www.instafinancials.com/company/livspace-india-private-limited-U52390HR2014PTC131277",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "regulatory",
+   "entity": "SEBI/Exchange (planned)",
+   "date": "2024-09-18",
+   "status": "in-progress",
+   "description": "Reverse flip from Singapore to India for IPO; in-principle board approval obtained; INR 427Cr capital infusion from Singapore parent via rights issue (1.85Cr shares at Rs 230/share); IPO target late 2025/early 2026 but delayed",
+   "source_url": "https://m.economictimes.com/tech/startups/livspace-to-file-for-domicile-flip-from-singapore-for-ipo-in-2025-26/articleshow/113435269.cms",
+   "source_title": "Livspace to file for domicile flip from Singapore for IPO - Economic Times",
+   "confidence": "HIGH"
+  }
+ ],
+ "locations": [
+  {
+   "type": "registered_office",
+   "address_or_area": "Unit No R2-102, First Floor, M3M Cornerwalk, DLF QE",
+   "city": "Gurugram",
+   "state": "Haryana",
+   "country": "India",
+   "as_of": "2026-09-15",
+   "source_url": "https://www.instafinancials.com/company/livspace-india-private-limited-U52390HR2014PTC131277",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "hq",
+   "address_or_area": "Campus 32, Unit No 404, RMZ Ecoworld, Adarsh Palm Retreat, Bellandur",
+   "city": "Bengaluru",
+   "state": "Karnataka",
+   "country": "India",
+   "as_of": "2026-09-15",
+   "source_url": "https://pitchbook.com/profiles/company/100535-50",
+   "source_title": "PitchBook - Livspace HQ",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "ops",
+   "address_or_area": "3rd Floor, Aurbis Business Park, Survey No. 58, 7 Outer Ring Road, Devarabisanahalli, Bellandur",
+   "city": "Bengaluru",
+   "state": "Karnataka",
+   "country": "India",
+   "as_of": "2026-09-15",
+   "source_url": "https://www.zaubacorp.com/HOME-INTERIOR-DESIGNS-E-COMMERCE-PRIVATE-LIMITED-U52390KA2014PTC074986",
+   "source_title": "ZaubaCorp - Home Interior Designs",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "ops",
+   "address_or_area": "306 Tanglin Road",
+   "city": "Singapore",
+   "state": "",
+   "country": "Singapore",
+   "as_of": "2026-09-15",
+   "source_url": "https://tracxn.com/d/companies/livspace/__jW3bucmuxxt7wnW0Ru8fEhLj0iTod5V8Roa0OsWdp9I",
+   "source_title": "Tracxn - Livspace registered address Singapore",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "office",
+   "address_or_area": "Experience centres across 95+ cities including Delhi, Mumbai, Chennai, Hyderabad, Ahmedabad, Jaipur, Kochi",
+   "city": "Multiple",
+   "state": "Multiple",
+   "country": "India",
+   "as_of": "2026-07-24",
+   "source_url": "https://www.livspace.com/in/magazine/livspace101-livspace-experience-centre",
+   "confidence": "MEDIUM"
+  }
+ ],
+ "customers": [
+  {
+   "name": "Individual homeowners (B2C)",
+   "type": "consumer",
+   "announced_date": "2014",
+   "status": "Active",
+   "source_url": "https://www.livspace.com/in/about-us",
+   "confidence": "HIGH",
+   "notes": "Primary customer segment; B2C homeowners across India, Singapore, Middle East"
+  }
+ ]
+}

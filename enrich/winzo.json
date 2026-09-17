@@ -1,0 +1,83 @@
+{
+ "canonical_key": "winzo",
+ "startup_id": null,
+ "company": {
+  "company_name": "WinZO",
+  "city": "New Delhi",
+  "state": "Delhi",
+  "primary_sector": "gaming / real-money",
+  "founded_date": "UNKNOWN",
+  "business_model": "real-money gaming platform",
+  "status": "Active but distressed — unpaid salaries since Jan 2026, ED chargesheet Jan 2026, frozen bank accounts (per Inc42 Jun 2026)",
+  "startup_stage": "late",
+  "public_private": "private",
+  "official_website": {
+   "v": "https://www.winzogames.com",
+   "conf": "high",
+   "src": "hyperresearch_fetch",
+   "note": "Verified via hyperresearch fetch; India's leading gaming platform"
+  },
+  "website": "https://www.winzogames.com"
+ },
+ "funding_rounds": [],
+ "founders": [],
+ "financials": [],
+ "events": [
+  {
+   "date": "2026-01-27",
+   "type": "legal",
+   "headline": "ED chargesheet alleges bots/AI manipulated game algorithms, cheating players of Rs 734 cr",
+   "source_url": "https://indianstartupnews.com/news/ed-alleges-winzo-used-bots-ai-to-manipulate-game-algorithms-and-cheat-players-of-rs-734-crore-11032925",
+   "confidence": "medium"
+  },
+  {
+   "date": "2026-06-10",
+   "type": "distress",
+   "headline": "Unpaid employees since January, frozen bank accounts, failing new bets",
+   "source_url": "https://inc42.com/buzz/unpaid-salaries-and-flailing-new-bets-deepen-winzos-survival-bid/",
+   "confidence": "medium"
+  },
+  {
+   "date": "2026-04-10",
+   "type": "legal",
+   "headline": "Karnataka HC warns ED of costs over challenge to Nanda bail",
+   "source_url": "https://m.economictimes.com/tech/startups/winzo-case-hc-warns-ed-of-costs-if-challenge-to-nandas-bail-is-unnecessary/articleshow/130170137.cms",
+   "confidence": "medium"
+  }
+ ],
+ "conflicts": [],
+ "sources": [
+  {
+   "url": "https://inc42.com/buzz/unpaid-salaries-and-flailing-new-bets-deepen-winzos-survival-bid/",
+   "title": "WinZO's Crisis Deepens: Unpaid Employees, Legal Troubles And Failing New Bets",
+   "publisher": "Inc42",
+   "publication_date": "2026-06-10",
+   "retrieved_date": "2026-09-15",
+   "tier": "T2",
+   "claim_supported": "distress status",
+   "fields_supported": [
+    "company.status",
+    "events"
+   ]
+  }
+ ],
+ "research_log": [
+  {
+   "query": "WinZO startup status 2025 2026",
+   "found": "distress + ED enforcement coverage; no shutdown — ACTIVE",
+   "unresolved": "founders, rounds, financials",
+   "next_action": "founder/round history if budget allows"
+  }
+ ],
+ "gaps": [
+  "Founders unverified; funding history unverified; no financials; city needs confirmation."
+ ],
+ "completeness_self": {
+  "identity": 5,
+  "founders": 0,
+  "funding": 0,
+  "financials": 0,
+  "sources": 5
+ },
+ "_merged_session2": true
+}

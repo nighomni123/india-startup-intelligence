@@ -1,0 +1,3184 @@
+{
+ "acquisitions": [],
+ "company": {
+  "business_model": "Full-stack AI cloud infrastructure + Indic LLMs + AI apps (Kruti assistant, Krutrim Cloud); pivoted 2025-26 to AI-cloud-led model",
+  "city": "Bengaluru",
+  "confidence": "HIGH",
+  "country": "India",
+  "customer_type": "B2B enterprises + consumers (Kruti)",
+  "employee_estimate": "~222-234 (early 2026; down from ~640-660 mid-2025 post-layoffs)",
+  "founded_date": "2023-04 (incorporated Krutrim SI Designs Pvt Ltd 2023-04-05; launched Apr 2023)",
+  "last_funding_date": "2024-04-12",
+  "last_funding_round": "Angel (minor); major: Series B Jan 2024",
+  "last_known_valuation": "$1B (Jan 2024 unicorn); $230M founder commitment reported Feb 2025",
+  "legal_name": "Krutrim SI Designs Private Limited",
+  "primary_sector": "AI / AI cloud infrastructure",
+  "primary_source_id": "bs-unicorn",
+  "secondary_sectors": [
+   "LLMs",
+   "GPU cloud",
+   "AI apps"
+  ],
+  "startup_id": "krutrim",
+  "startup_stage": "Unicorn",
+  "status": "Private",
+  "total_funding_disclosed": "~$75M disclosed (Tracxn: $50M Series B + $24M debt + minor); $230M founder commitment (2025, largely family office)",
+  "website": "https://www.olakrutrim.com",
+  "cin": "U62099KA2023PTC171879",
+  "incorporation_date": "2023-04-05",
+  "registered_state_note": "KA = Karnataka (Bengaluru); matches HQ.",
+  "official_website": {
+   "v": "https://www.olakrutrim.com",
+   "conf": "high",
+   "src": "https://www.olakrutrim.com",
+   "note": "verified live 2026-09-15: name match on own homepage"
+  },
+  "state": {
+   "v": "Karnataka",
+   "conf": "HIGH",
+   "src": "https://www.instafinancials.com/company/krutrim-si-designs-private-limited-U62099KA2023PTC171879",
+   "note": "ROC Bangalore",
+   "asof": "2026-09-15"
+  },
+  "public_private": {
+   "v": "Private",
+   "conf": "HIGH",
+   "src": "https://www.instafinancials.com/company/krutrim-si-designs-private-limited-U62099KA2023PTC171879",
+   "note": "Private UnListed per MCA",
+   "asof": "2026-09-15"
+  },
+  "hq_type": {
+   "v": "registered_office",
+   "conf": "HIGH",
+   "src": "https://www.instafinancials.com/company/krutrim-si-designs-private-limited-U62099KA2023PTC171879",
+   "note": "Wing C Prestige RMZ Star Tech Industrial Layout Hosur Road Bangalore South",
+   "asof": "2026-09-15"
+  },
+  "registered_office": {
+   "v": "Wing C, Prestige RMZ Star Tech Industrial Layout, Hosur Road, Bangalore South, Bangalore, Karnataka, 560034",
+   "conf": "HIGH",
+   "src": "https://www.instafinancials.com/company/krutrim-si-designs-private-limited-U62099KA2023PTC171879",
+   "note": "MCA registered office",
+   "asof": "2026-09-15"
+  }
+ },
+ "competitors": [
+  {
+   "basis": "inferred",
+   "confidence": "MEDIUM",
+   "inference_note": "Named together as Indic-LLM builders in Jan 2024 coverage",
+   "name": "Sarvam AI"
+  }
+ ],
+ "conflicts": [
+  {
+   "claim_a": "Founded by Bhavish Aggarwal alone (Tracxn)",
+   "claim_b": "Launched by Aggarwal + Krishnamurthy Venugopala Tenneti (director, Ola/ANI board member)",
+   "field": "founders",
+   "resolution": "Aggarwal is founder; Tenneti co-founding director per company/incorporation reporting",
+   "resolved_value": "Bhavish Aggarwal (founder) + K V Tenneti (co-founding director)",
+   "url_a": "https://platform.tracxn.com",
+   "url_b": "https://www.business-standard.com/companies/start-ups/bhavish-aggarwal-s-ai-startup-krutrim-turns-unicorn-after-raising-50-mn-124012600652_1.html"
+  },
+  {
+   "field": "status",
+   "claim_a": "Private",
+   "url_a": "",
+   "claim_b": "Active",
+   "url_b": "",
+   "resolution": "phase3 p3 payload disagrees with existing value; existing kept as preferred pending human review",
+   "resolved_value": "",
+   "reviewed": "p3-merge"
+  },
+  {
+   "field": "business_model",
+   "claim_a": "Full-stack AI cloud infrastructure + Indic LLMs + AI apps (Kruti assistant, Krutrim Cloud); pivoted 2025-26 to AI-cloud-led model",
+   "url_a": "",
+   "claim_b": "Full-stack AI cloud infrastructure; enterprise GPU compute; AI cloud services for telecom, FS, healthcare, logistics",
+   "url_b": "",
+   "resolution": "phase3 p3 payload disagrees with existing value; existing kept as preferred pending human review",
+   "resolved_value": "",
+   "reviewed": "p3-merge"
+  },
+  {
+   "field": "employee_estimate",
+   "claim_a": "~222-234 (early 2026; down from ~640-660 mid-2025 post-layoffs)",
+   "url_a": "",
+   "claim_b": "150",
+   "url_b": "",
+   "resolution": "phase3 p3 payload disagrees with existing value; existing kept as preferred pending human review",
+   "resolved_value": "",
+   "reviewed": "p3-merge"
+  }
+ ],
+ "customers": [
+  {
+   "name": "Ola Group companies",
+   "type": "parent_ecosystem",
+   "announced_date": "2025-05-22",
+   "status": "active",
+   "source_url": "https://www.moneycontrol.com/news/business/startup/bhavish-aggarwal-led-krutrim-pivots-from-building-ai-models-chip-design-to-cloud-services-13908186.html",
+   "confidence": "HIGH",
+   "notes": "Ola group shifted entire workload to Krutrim Cloud; Azure spend now 0; 2500+ devs signed up"
+  },
+  {
+   "name": "25+ enterprise customers",
+   "type": "external",
+   "announced_date": "2026-05-04",
+   "status": "active",
+   "source_url": "https://www.moneycontrol.com/news/business/startup/bhavish-aggarwal-led-krutrim-pivots-from-building-ai-models-chip-design-to-cloud-services-13908186.html",
+   "confidence": "MEDIUM",
+   "notes": "Telecom, FS, consumer internet, healthcare, logistics; majority of GPU capacity committed"
+  }
+ ],
+ "events": [
+  {
+   "announced_date": "2024-01-26",
+   "confidence": "HIGH",
+   "date": "2024-01-26",
+   "description": "$50M equity @ $1B; Matrix Partners India (Z47) led; India's first AI unicorn, fastest unicorn",
+   "headline": "Krutrim becomes India's first AI unicorn",
+   "source_url": "https://www.business-standard.com/companies/start-ups/bhavish-aggarwal-s-ai-startup-krutrim-turns-unicorn-after-raising-50-mn-124012600652_1.html",
+   "type": "funding"
+  },
+  {
+   "announced_date": "2025-02-04",
+   "confidence": "HIGH",
+   "date": "2025-02-04",
+   "description": "$230M largely via founder family office; seeks $1.15B total by next year; open-sourced models; Nvidia supercomputer plan",
+   "headline": "Bhavish Aggarwal to invest $230M in Krutrim",
+   "source_url": "https://techcrunch.com/2025/02/04/softbank-backed-billionaire-to-invest-230m-in-indian-ai-startup-krutrim",
+   "type": "funding_commitment"
+  },
+  {
+   "announced_date": "2026-05-04",
+   "confidence": "HIGH",
+   "date": "2026-05-04",
+   "description": "Paused chip design + LLM building; reallocated to cloud stack; FY26 rev ~Rs 300 cr (3x), first PAT margin >10%; 25+ enterprise customers; self-sustaining",
+   "headline": "Krutrim pivots to AI cloud services",
+   "source_url": "https://www.moneycontrol.com/news/business/startup/bhavish-aggarwal-led-krutrim-pivots-from-building-ai-models-chip-design-to-cloud-services-13908186.html",
+   "type": "pivot"
+  },
+  {
+   "type": "acquisition",
+   "headline": "Krutrim acquires Bodhi Computing",
+   "date": "2023",
+   "description": "Acquired Bengaluru-based AI startup focused on chip design",
+   "source_url": "https://inc42.com/features/bhavish-aggarwal-ola-krutrim-ai-ambitions-rut/",
+   "confidence": "MEDIUM"
+  },
+  {
+   "type": "partnership",
+   "headline": "Nvidia supercomputer deployment announced",
+   "date": "2025-02-04",
+   "description": "Plans to build India's largest supercomputer in partnership with Nvidia; scheduled live March 2025",
+   "source_url": "https://techcrunch.com/2025/02/04/softbank-backed-billionaire-to-invest-230m-in-indian-ai-startup-krutrim",
+   "confidence": "MEDIUM"
+  },
+  {
+   "type": "regulatory",
+   "headline": "Ola Electric share pledge for Krutrim funding",
+   "date": "2025-03-06",
+   "description": "Bhavish Aggarwal pledged 5.88 crore Ola Electric shares to secure funding for Krutrim",
+   "source_url": "https://www.moneycontrol.com/news/business/startup/bhavish-aggarwal-led-krutrim-pivots-from-building-ai-models-chip-design-to-cloud-services-13908186.html",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "layoff",
+   "headline": "First round of layoffs",
+   "date": "2025-06",
+   "description": "Smaller workforce reduction; linguistics team affected",
+   "source_url": "https://www.hrkatha.com/news/ola-krutrim-lays-off-100-employees-amid-strategic-restructuring/",
+   "confidence": "MEDIUM"
+  },
+  {
+   "type": "layoff",
+   "headline": "Third round of layoffs; leadership exits",
+   "date": "2025-09-02",
+   "description": "~50 employees in linguistics team laid off; 200+ total departures including leadership exits; Goutham Ramkumar, Rajesh Jayaram, Ramesh Babu Giri, Vineet Agarwal, Ajay Raut, Kishore Kulkarni departed",
+   "source_url": "https://m.economictimes.com/tech/artificial-intelligence/third-round-of-layoffs-more-leadership-exits-hit-krutrim/articleshow/123642927.cms",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "tragedy",
+   "headline": "Engineer suicide incident",
+   "date": "2025-05-18",
+   "description": "25-year-old Krutrim techie found dead by suicide in Bengaluru; toxic work culture allegations; FIR on Bhavish Aggarwal",
+   "source_url": "https://www.ndtv.com/india-news/25-year-old-krutrim-techie-found-dead-in-bengaluru-toxic-work-culture-blamed-8447681",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "layoff",
+   "headline": "Second round of layoffs (July 2026)",
+   "date": "2026-07-28",
+   "description": "Cut ~20-25 jobs (~50% of current workforce); hit product and engineering teams; workforce from 550+ (Aug 2025) to ~150-160 (March 2026)",
+   "source_url": "https://www.indiatoday.in/technology/news/story/krutrim-layoffs-bhavish-aggarwal-ai-startup-cloud-focus-ola-revenue-2957916-2026-07-28",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "product",
+   "headline": "Kruti app pulled from app stores",
+   "date": "2026-04",
+   "description": "Kruti AI assistant went offline and remained inaccessible across web and app stores",
+   "source_url": "https://techcrunch.com/2026/05/05/indias-first-genai-unicorn-shifts-to-cloud-services-as-ai-model-ambitions-face-reality/",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "regulatory",
+   "headline": "Ola Electric promoter pledges additional shares",
+   "date": "2025-09-10",
+   "description": "10.71 crore shares (2.43% equity) pledged in favour of Axis Trustee Services for Krutrim Data Centre; replaces earlier NDU from Dec 2024 and March 2025",
+   "source_url": "https://entrackr.com/news/ola-electric-promoter-pledges-243-stake-to-secure-debt-for-krutrim-10090460",
+   "confidence": "HIGH"
+  }
+ ],
+ "financials": [
+  {
+   "confidence": "MEDIUM",
+   "currency": "INR",
+   "fiscal_year": "FY26",
+   "metric": "revenue",
+   "source_date": "2026-05-04",
+   "source_title": "Krutrim pivots from building AI models, chip design to cloud services",
+   "source_url": "https://www.moneycontrol.com/news/business/startup/bhavish-aggarwal-led-krutrim-pivots-from-building-ai-models-chip-design-to-cloud-services-13908186.html",
+   "unit": "crore",
+   "value": 300.0,
+   "value_type": "management"
+  },
+  {
+   "confidence": "MEDIUM",
+   "currency": "INR",
+   "fiscal_year": "FY26",
+   "metric": "PAT margin",
+   "source_date": "2026-05-04",
+   "source_title": "Krutrim pivots from building AI models, chip design to cloud services",
+   "source_url": "https://www.moneycontrol.com/news/business/startup/bhavish-aggarwal-led-krutrim-pivots-from-building-ai-models-chip-design-to-cloud-services-13908186.html",
+   "unit": "percent",
+   "value": 10.0,
+   "value_type": "management"
+  },
+  {
+   "confidence": "LOW",
+   "currency": "INR",
+   "fiscal_year": "FY24",
+   "metric": "revenue (legal entity)",
+   "source_date": "2026-09-14",
+   "source_title": "Tracxn legal entity page",
+   "source_url": "http://tracxn.com/d/legal-entities/india/krutrim-si-designs-private-limited/__9G50xTDabip2JhKF0KQ-mP-paWAXgVRrSmd5d814fCo",
+   "unit": "crore",
+   "value": 3.09,
+   "value_type": "press-quoted-filing"
+  },
+  {
+   "fiscal_year": "FY24",
+   "metric": "revenue",
+   "value": 3.09,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "press-quoted-filing",
+   "basis": "standalone",
+   "source_url": "http://tracxn.com/d/legal-entities/india/krutrim-si-designs-private-limited/__9G50xTDabip2JhKF0KQ-mP-paWAXgVRrSmd5d814fCo",
+   "source_title": "Tracxn legal entity page",
+   "source_date": "2026-09-14",
+   "confidence": "LOW",
+   "notes": "Press-quoted filing figure"
+  },
+  {
+   "fiscal_year": "FY25",
+   "metric": "revenue",
+   "value": 100.0,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "estimate",
+   "basis": "standalone",
+   "source_url": "https://www.moneycontrol.com/news/business/startup/bhavish-aggarwal-led-krutrim-pivots-from-building-ai-models-chip-design-to-cloud-services-13908186.html",
+   "source_title": "Krutrim pivots from building AI models, chip design to cloud services",
+   "source_date": "2026-05-04",
+   "confidence": "LOW",
+   "notes": "Implied from 3x FY26 growth statement; ~90% from Ola Group"
+  },
+  {
+   "fiscal_year": "FY26",
+   "metric": "total_revenue",
+   "value": 300.0,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "management",
+   "basis": "standalone",
+   "source_url": "https://www.moneycontrol.com/news/business/startup/bhavish-aggarwal-led-krutrim-pivots-from-building-ai-models-chip-design-to-cloud-services-13908186.html",
+   "source_title": "Krutrim pivots from building AI models, chip design to cloud services",
+   "source_date": "2026-05-04",
+   "confidence": "MEDIUM",
+   "notes": "~Rs 300 crore; 3x FY25; ~90% from Ola Group companies"
+  },
+  {
+   "fiscal_year": "FY26",
+   "metric": "net_profit",
+   "value": 0,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "management",
+   "basis": "standalone",
+   "source_url": "https://www.moneycontrol.com/news/business/startup/bhavish-aggarwal-led-krutrim-pivots-from-building-ai-models-chip-design-to-cloud-services-13908186.html",
+   "source_title": "Krutrim pivots from building AI models, chip design to cloud services",
+   "source_date": "2026-05-04",
+   "confidence": "MEDIUM",
+   "notes": "First annual net profit; PAT margin >10%"
+  },
+  {
+   "fiscal_year": "FY26",
+   "metric": "PAT_margin",
+   "value": 10.0,
+   "unit": "percent",
+   "currency": "INR",
+   "value_type": "management",
+   "basis": "standalone",
+   "source_url": "https://www.moneycontrol.com/news/business/startup/bhavish-aggarwal-led-krutrim-pivots-from-building-ai-models-chip-design-to-cloud-services-13908186.html",
+   "source_title": "Krutrim pivots from building AI models, chip design to cloud services",
+   "source_date": "2026-05-04",
+   "confidence": "MEDIUM",
+   "notes": "First PAT margin >10%"
+  }
+ ],
+ "founders": [
+  {
+   "background": "IIT Bombay BTech; co-founder Ola Cabs, founder Ola Electric; serial unicorn founder",
+   "confidence": "HIGH",
+   "name": "Bhavish Aggarwal",
+   "role": "Founder",
+   "source_url": "https://www.business-standard.com/companies/start-ups/bhavish-aggarwal-s-ai-startup-krutrim-turns-unicorn-after-raising-50-mn-124012600652_1.html",
+   "still_active": true,
+   "type": "founder",
+   "active": "yes",
+   "location": "Bengaluru",
+   "linkedin": "https://linkedin.com/in/bhavishaggarwal"
+  },
+  {
+   "background": "ANI Technologies (Ola) long-time board member",
+   "confidence": "MEDIUM",
+   "name": "Krishnamurthy Venugopala Tenneti",
+   "role": "Co-founding Director",
+   "source_url": "https://www.business-standard.com/companies/start-ups/bhavish-aggarwal-s-ai-startup-krutrim-turns-unicorn-after-raising-50-mn-124012600652_1.html",
+   "still_active": true,
+   "type": "co-founder",
+   "active": "yes",
+   "location": "Bengaluru"
+  }
+ ],
+ "funding_rounds": [
+  {
+   "all_investors": [
+    "Matrix Partners India (Z47)"
+   ],
+   "amount": 24.0,
+   "announced_date": "2023-10",
+   "confidence": "MEDIUM",
+   "currency": "USD",
+   "lead_investors": [
+    "Matrix Partners India"
+   ],
+   "round_type": "Debt",
+   "source_date": "2024-01-27",
+   "source_title": "Krutrim AI turns unicorn with $50 million funding from Matrix, others",
+   "source_url": "https://m.economictimes.com/tech/funding/ola-founder-bhavish-aggarwals-krutrim-ai-turns-unicorn-with-50-million-funding-from-matrix-others/articleshow/107166669.cms",
+   "tier": "T3"
+  },
+  {
+   "all_investors": [
+    "Matrix Partners India (Z47)",
+    "others"
+   ],
+   "amount": 50.0,
+   "announced_date": "2024-01-26",
+   "confidence": "HIGH",
+   "currency": "USD",
+   "lead_investors": [
+    "Matrix Partners India"
+   ],
+   "round_type": "Series B (first equity round)",
+   "source_date": "2024-01-26",
+   "source_title": "Bhavish Aggarwal's AI startup Krutrim turns unicorn after raising $50 mn",
+   "source_url": "https://www.business-standard.com/companies/start-ups/bhavish-aggarwal-s-ai-startup-krutrim-turns-unicorn-after-raising-50-mn-124012600652_1.html",
+   "tier": "T3",
+   "valuation": "$1B"
+  },
+  {
+   "round_type": "Founder commitment",
+   "announced_date": "2025-02-04",
+   "amount": 230.0,
+   "currency": "USD",
+   "lead_investors": [
+    "Bhavish Aggarwal (family office)"
+   ],
+   "all_investors": [
+    "Bhavish Aggarwal family office"
+   ],
+   "instrument": "personal investment",
+   "purpose": "Krutrim AI Labs, Rs 2000 crore investment plan",
+   "source_url": "https://techcrunch.com/2025/02/04/softbank-backed-billionaire-to-invest-230m-in-indian-ai-startup-krutrim",
+   "source_title": "SoftBank-backed billionaire to invest $230M in Indian AI startup Krutrim",
+   "source_date": "2025-02-04",
+   "confidence": "HIGH"
+  },
+  {
+   "round_type": "Debt (share pledge)",
+   "announced_date": "2025-03-06",
+   "amount": 0,
+   "currency": "INR",
+   "lead_investors": [
+    "Axis Trustee Services (on behalf of Avendus, InCred, India Credit Opportunities)"
+   ],
+   "all_investors": [
+    "Avendus",
+    "InCred",
+    "India Credit Opportunities"
+   ],
+   "instrument": "share pledge (Ola Electric shares)",
+   "purpose": "Krutrim Data Centre funding",
+   "source_url": "https://entrackr.com/news/ola-electric-promoter-pledges-243-stake-to-secure-debt-for-krutrim-10090460",
+   "source_title": "Ola Electric promoter pledges 2.43% stake to secure debt for Krutrim",
+   "source_date": "2025-09-10",
+   "confidence": "HIGH"
+  }
+ ],
+ "gaps": [
+  "FY25 revenue not directly verified (implied ~Rs 100 cr from 3x FY26 growth statement — ESTIMATE, not stated)",
+  "FY24/FY25 audited PAT undisclosed",
+  "$230M founder commitment: disbursed vs pledged unclear",
+  "Layoff scale ('nearly half', Jul 2026 YourStory) not independently verified",
+  "Kruti assistant availability issues (Entrackr Apr 2026) not verified",
+  "fresh source URL for $1B Series B valuation (already in enrich)"
+ ],
+ "hiring": [
+  {
+   "as_of": "2026-07",
+   "confidence": "LOW",
+   "fact_type": "layoffs",
+   "source_url": "https://yourstory.com/2026/07/krutrim-lays-off-nearly-half-workforce",
+   "value": "Nearly half of workforce (headline-only; body not fetched)"
+  }
+ ],
+ "investor_links": [
+  {
+   "confidence": "HIGH",
+   "first_seen": "2023",
+   "investor": "Matrix Partners India / Z47",
+   "investor_type": "VC",
+   "lead": true,
+   "rounds": [
+    "Debt 2023",
+    "Series B Jan 2024"
+   ],
+   "source_url": "https://www.business-standard.com/companies/start-ups/bhavish-aggarwal-s-ai-startup-krutrim-turns-unicorn-after-raising-50-mn-124012600652_1.html"
+  }
+ ],
+ "investors_meta": [
+  {
+   "india_presence": "Yes (Mumbai/Bengaluru)",
+   "investor": "Matrix Partners India (now Z47)",
+   "notes": "Early backer of Ola Cabs and Ola Electric",
+   "type": "VC"
+  }
+ ],
+ "ip_tech_ai": {
+  "ai_notes": "Krutrim-1 (7B params, Jan 2024); Krutrim-2 with 128k context; Kruti assistant; BharatBench eval; open-sourced models (Feb 2025); 13 patents (Tracxn); chip program paused late 2025",
+  "confidence": "MEDIUM",
+  "source_url": "https://techcrunch.com/2025/02/04/softbank-backed-billionaire-to-invest-230m-in-indian-ai-startup-krutrim"
+ },
+ "legal": [
+  {
+   "type": "complaint",
+   "entity": "Bhavish Aggarwal / Ola Krutrim",
+   "date": "2025-05-18",
+   "status": "investigation",
+   "description": "25-year-old Krutrim engineer found dead by suicide in Bengaluru; FIR filed on Bhavish Aggarwal; 28-page suicide notes alleged work pressure and unpaid salary; police summoned Ola Krutrim manager",
+   "source_url": "https://www.ndtv.com/india-news/25-year-old-krutrim-techie-found-dead-in-bengaluru-toxic-work-culture-blamed-8447681",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "complaint",
+   "entity": "Ola Krutrim",
+   "date": "2025-10-26",
+   "status": "allegation",
+   "description": "Former employees allege toxic work culture; second suicide incident reported; South First report",
+   "source_url": "https://thesouthfirst.com/karnataka/expected-to-work-like-a-slave-former-employees-allege-toxic-work-culture-at-ola-after-two-suicides-this-year/",
+   "confidence": "MEDIUM"
+  },
+  {
+   "type": "regulatory",
+   "entity": "Ola Electric promoter",
+   "date": "2025-03-06",
+   "status": "disclosed",
+   "description": "Bhavish Aggarwal pledged 5.88 crore Ola Electric shares to secure funding for Krutrim; later pledged additional shares; pledges released after repayment",
+   "source_url": "https://www.moneycontrol.com/news/business/startup/bhavish-aggarwal-led-krutrim-pivots-from-building-ai-models-chip-design-to-cloud-services-13908186.html",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "regulatory",
+   "entity": "Ola Electric promoter",
+   "date": "2025-09-10",
+   "status": "disclosed",
+   "description": "Ola Electric promoter pledged 10.71 crore shares (2.43% equity, 8.09% of promoter holdings) in favour of Axis Trustee Services on behalf of Avendus, InCred, India Credit Opportunities funds for Krutrim Data Centre",
+   "source_url": "https://entrackr.com/news/ola-electric-promoter-pledges-243-stake-to-secure-debt-for-krutrim-10090460",
+   "confidence": "HIGH"
+  }
+ ],
+ "locations": [
+  {
+   "as_of": "2024",
+   "city": "Bengaluru",
+   "confidence": "HIGH",
+   "source_url": "https://www.business-standard.com/companies/start-ups/bhavish-aggarwal-s-ai-startup-krutrim-turns-unicorn-after-raising-50-mn-124012600652_1.html",
+   "state": "Karnataka",
+   "type": "HQ"
+  },
+  {
+   "type": "registered_office",
+   "address_or_area": "Wing C, Prestige RMZ Star Tech Industrial Layout, Hosur Road, Bangalore South",
+   "city": "Bengaluru",
+   "state": "Karnataka",
+   "country": "India",
+   "as_of": "2026-09-15",
+   "source_url": "https://www.instafinancials.com/company/krutrim-si-designs-private-limited-U62099KA2023PTC171879",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "ops",
+   "address_or_area": "Bengaluru and San Francisco",
+   "city": "Bengaluru",
+   "state": "Karnataka",
+   "country": "India",
+   "as_of": "2024-01",
+   "source_url": "https://www.business-standard.com/companies/start-ups/bhavish-aggarwal-s-ai-startup-krutrim-turns-unicorn-after-raising-50-mn-124012600652_1.html",
+   "confidence": "HIGH",
+   "notes": "Team of computer scientists based in Bengaluru and San Francisco"
+  }
+ ],
+ "partnerships": [
+  {
+   "confidence": "MEDIUM",
+   "name": "Nvidia (supercomputer deployment, per Feb 2025 announcement)",
+   "source_url": "https://techcrunch.com/2025/02/04/softbank-backed-billionaire-to-invest-230m-in-indian-ai-startup-krutrim"
+  }
+ ],
+ "people": [
+  {
+   "name": "Bhavish Aggarwal",
+   "role": "Founder, CEO",
+   "title": "Founder and Chairman",
+   "current": true,
+   "since": "2023-04",
+   "prior_role": "Co-founder Ola Cabs; Founder Ola Electric",
+   "source_url": "https://www.business-standard.com/companies/start-ups/bhavish-aggarwal-s-ai-startup-krutrim-turns-unicorn-after-raising-50-mn-124012600652_1.html",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Krishnamurthy Venugopala Tenneti",
+   "role": "Co-founding Director",
+   "title": "Director",
+   "current": true,
+   "since": "2023-04",
+   "prior_role": "ANI Technologies (Ola) board member",
+   "source_url": "https://www.business-standard.com/companies/start-ups/bhavish-aggarwal-s-ai-startup-krutrim-turns-unicorn-after-raising-50-mn-124012600652_1.html",
+   "confidence": "MEDIUM"
+  },
+  {
+   "name": "Navendu Agarwal",
+   "role": "SVP, Head of Business",
+   "title": "SVP and Head of Business",
+   "current": true,
+   "since": "unknown",
+   "prior_role": "unknown",
+   "source_url": "https://inc42.com/features/bhavish-aggarwal-ola-krutrim-ai-ambitions-rut/",
+   "confidence": "MEDIUM"
+  },
+  {
+   "name": "Raguraman Barathalwar",
+   "role": "CTO and VP of Engineering",
+   "title": "CTO and VP of Engineering",
+   "current": true,
+   "since": "unknown",
+   "prior_role": "unknown",
+   "source_url": "https://inc42.com/features/bhavish-aggarwal-ola-krutrim-ai-ambitions-rut/",
+   "confidence": "MEDIUM"
+  },
+  {
+   "name": "Sheetal Chittawar",
+   "role": "Director, Silicon Strategy",
+   "title": "Director, Silicon Strategy Division",
+   "current": true,
+   "since": "unknown",
+   "prior_role": "unknown",
+   "source_url": "https://inc42.com/features/bhavish-aggarwal-ola-krutrim-ai-ambitions-rut/",
+   "confidence": "MEDIUM"
+  },
+  {
+   "name": "Sambit Sahu",
+   "role": "Cofounder (Bodhi Computing)",
+   "title": "Cofounder",
+   "current": false,
+   "since": "2023",
+   "prior_role": "Bodhi Computing cofounder",
+   "source_url": "https://inc42.com/features/bhavish-aggarwal-ola-krutrim-ai-ambitions-rut/",
+   "confidence": "MEDIUM",
+   "end_date": "2025"
+  },
+  {
+   "name": "Sunit S",
+   "role": "Senior Product Leader",
+   "title": "Senior Product Leader",
+   "current": false,
+   "since": "unknown",
+   "prior_role": "unknown",
+   "source_url": "https://inc42.com/features/bhavish-aggarwal-ola-krutrim-ai-ambitions-rut/",
+   "confidence": "MEDIUM",
+   "end_date": "2025"
+  },
+  {
+   "name": "Chandra Khatri",
+   "role": "Founding Head of AI",
+   "title": "Founding Head of AI",
+   "current": false,
+   "since": "2023",
+   "prior_role": "unknown",
+   "source_url": "https://inc42.com/features/bhavish-aggarwal-ola-krutrim-ai-ambitions-rut/",
+   "confidence": "MEDIUM",
+   "end_date": "2025"
+  },
+  {
+   "name": "Goutham Ramkumar",
+   "role": "Director - Evaluation and AI Data",
+   "title": "Director - Evaluation and AI Data",
+   "current": false,
+   "since": "unknown",
+   "prior_role": "unknown",
+   "source_url": "https://m.economictimes.com/tech/artificial-intelligence/third-round-of-layoffs-more-leadership-exits-hit-krutrim/articleshow/123642927.cms",
+   "confidence": "MEDIUM",
+   "end_date": "2025"
+  },
+  {
+   "name": "Rajesh Jayaram",
+   "role": "Senior Director - Platform Hardware Architect",
+   "title": "Senior Director - Platform Hardware Architect",
+   "current": false,
+   "since": "unknown",
+   "prior_role": "unknown",
+   "source_url": "https://m.economictimes.com/tech/artificial-intelligence/third-round-of-layoffs-more-leadership-exits-hit-krutrim/articleshow/123642927.cms",
+   "confidence": "MEDIUM",
+   "end_date": "2025"
+  },
+  {
+   "name": "Ramesh Babu Giri",
+   "role": "Head of Software Engineering - AI Server",
+   "title": "Head of Software Engineering - AI Server",
+   "current": false,
+   "since": "unknown",
+   "prior_role": "unknown",
+   "source_url": "https://m.economictimes.com/tech/artificial-intelligence/third-round-of-layoffs-more-leadership-exits-hit-krutrim/articleshow/123642927.cms",
+   "confidence": "MEDIUM",
+   "end_date": "2025"
+  },
+  {
+   "name": "Vineet Agarwal",
+   "role": "Director - Corporate Finance & IR",
+   "title": "Director - Corporate Finance & Investors Relations",
+   "current": false,
+   "since": "unknown",
+   "prior_role": "unknown",
+   "source_url": "https://m.economictimes.com/tech/artificial-intelligence/third-round-of-layoffs-more-leadership-exits-hit-krutrim/articleshow/123642927.cms",
+   "confidence": "MEDIUM",
+   "end_date": "2025"
+  },
+  {
+   "name": "Ajay Raut",
+   "role": "Senior Director - Cloud Architect",
+   "title": "Senior Director - Cloud Architect",
+   "current": false,
+   "since": "unknown",
+   "prior_role": "unknown",
+   "source_url": "https://m.economictimes.com/tech/artificial-intelligence/third-round-of-layoffs-more-leadership-exits-hit-krutrim/articleshow/123642927.cms",
+   "confidence": "MEDIUM",
+   "end_date": "2025"
+  },
+  {
+   "name": "Kishore Kulkarni",
+   "role": "Senior Technologist",
+   "title": "Senior Technologist",
+   "current": false,
+   "since": "unknown",
+   "prior_role": "unknown",
+   "source_url": "https://m.economictimes.com/tech/artificial-intelligence/third-round-of-layoffs-more-leadership-exits-hit-krutrim/articleshow/123642927.cms",
+   "confidence": "MEDIUM",
+   "end_date": "2025"
+  }
+ ],
+ "products": [
+  {
+   "category": "cloud",
+   "name": "Krutrim Cloud (GPU clusters, model repos, AI customer-care agents, mapping, language hub)"
+  },
+  {
+   "category": "AI models",
+   "name": "Krutrim LLMs (Krutrim-1/2, Indic multilingual, open-sourced Feb 2025)"
+  },
+  {
+   "category": "app",
+   "name": "Kruti AI assistant"
+  },
+  {
+   "name": "Krutrim Cloud",
+   "category": "cloud",
+   "description": "Full-stack AI cloud platform; GPU clusters, model repos, AI customer-care agents, mapping, language hub; built entirely in-house",
+   "launch_date": "2025",
+   "status": "active",
+   "source_url": "https://www.moneycontrol.com/news/business/startup/bhavish-aggarwal-led-krutrim-pivots-from-building-ai-models-chip-design-to-cloud-services-13908186.html",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Krutrim Maps",
+   "category": "cloud",
+   "description": "Mapping service within Krutrim Cloud",
+   "launch_date": "unknown",
+   "status": "active",
+   "source_url": "https://www.indiatoday.in/technology/news/story/krutrim-layoffs-bhavish-aggarwal-ai-startup-cloud-focus-ola-revenue-2957916-2026-07-28",
+   "confidence": "MEDIUM"
+  },
+  {
+   "name": "Krutrim LLM (Krutrim-1/2)",
+   "category": "AI models",
+   "description": "Krutrim-1 (7B params, Jan 2024); Krutrim-2 (12B params, 128k context, open-sourced Feb 2025); BharatBench eval framework",
+   "launch_date": "2024-01",
+   "status": "paused",
+   "source_url": "https://techcrunch.com/2025/02/04/softbank-backed-billionaire-to-invest-230m-in-indian-ai-startup-krutrim",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Krutrim 3",
+   "category": "AI models",
+   "description": "Largest LLM, multibillion parameters; under development",
+   "launch_date": "unknown",
+   "status": "development_paused",
+   "source_url": "https://m.economictimes.com/tech/artificial-intelligence/third-round-of-layoffs-more-leadership-exits-hit-krutrim/articleshow/123642927.cms",
+   "confidence": "MEDIUM"
+  },
+  {
+   "name": "Kruti AI assistant",
+   "category": "app",
+   "description": "AI assistant app; voice-first interaction for Indian market",
+   "launch_date": "2025-06",
+   "status": "pulled_from_stores",
+   "source_url": "https://techcrunch.com/2026/05/05/indias-first-genai-unicorn-shifts-to-cloud-services-as-ai-model-ambitions-face-reality/",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Krutrim semiconductor/chip program",
+   "category": "hardware",
+   "description": "Indigenous AI chip design; GPUs for AI applications by 2027 announced Aug 2024",
+   "launch_date": "2024-08",
+   "status": "paused_late_2025",
+   "source_url": "https://inc42.com/features/bhavish-aggarwal-ola-krutrim-ai-ambitions-rut/",
+   "confidence": "HIGH"
+  }
+ ],
+ "research_log": [
+  {
+   "found": "$50M @ $1B Jan 2024 (Matrix); $24M debt Oct 2023; $230M founder commitment Feb 2025; FY26 Rs 300 cr rev 3x + first profit; cloud pivot, chip pause; 25+ enterprise customers; layoff headline",
+   "next_action": "Done; gaps recorded",
+   "query": "Krutrim funding / valuation / founders / FY25-26 financials / pivot / layoffs",
+   "unresolved": "FY25 audited; layoff scale; $230M disbursement"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "Q-wave claim source-hunt",
+   "found": "3 resolved",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "found": "Krutrim Si Designs CIN U62099KA2023PTC171879, incorp 05 Apr 2023, ROC Bangalore (Tofler/Tracxn/InstaFinancials)",
+   "query": "Krutrim SI Designs Ola Krutrim CIN incorporation date Tofler",
+   "unresolved": "fresh $1B valuation source not probed this wave"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "MCA filings and financials",
+   "status": "done",
+   "found": "CIN U62099KA2023PTC171879, incorporated 05 Apr 2023, Active status, registered office Bengaluru; AGM 30 Sep 2025; balance sheet 31 Mar 2025; authorized capital Rs 306.99 Cr; paid-up Rs 306.79 Cr",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Layoffs and workforce",
+   "status": "done",
+   "found": "3+ rounds of layoffs since June 2025; 200+ total departures; workforce from 550+ (Aug 2025) to ~150-160 (March 2026); July 2026 round cut ~50% of remaining; employee complaints on pending expenses and delayed exit payments",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Executive departures and leadership",
+   "status": "done",
+   "found": "12+ senior executives departed since April 2025 including Goutham Ramkumar, Rajesh Jayaram, Ramesh Babu Giri, Vineet Agarwal, Ajay Raut, Kishore Kulkarni, Sambit Sahu, Sunit S, Chandra Khatri; current leadership: Navendu Agarwal (SVP), Raguraman Barathalwar (CTO), Sheetal Chittawar (Director Silicon Strategy)",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Ola Electric share pledge and funding",
+   "status": "done",
+   "found": "March 2025: 5.88 crore Ola Electric shares pledged; Sept 2025: 10.71 crore shares (2.43% equity) pledged for Krutrim Data Centre via Axis Trustee/Avendus/InCred; pledges later released after repayment",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Engineer suicide and legal issues",
+   "status": "done",
+   "found": "May 2025: 25-year-old engineer died by suicide; FIR on Bhavish Aggarwal; Oct 2025: second suicide; toxic work culture allegations",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Product status and Kruti app",
+   "status": "done",
+   "found": "Kruti app pulled from stores April 2026; 207,000 downloads since June 2025 launch; chip design paused late 2025; LLM building paused; Krutrim 3 development uncertain",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Revenue composition and external traction",
+   "status": "done",
+   "found": "~90% of FY25 revenue from Ola Group; FY26 revenue ~Rs 300 Cr (3x); first PAT >10%; 25+ enterprise customers; majority GPU capacity committed externally",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "MCA filings and financials",
+   "status": "done",
+   "found": "CIN U62099KA2023PTC171879, incorporated 05 Apr 2023, Active status, registered office Bengaluru; AGM 30 Sep 2025; balance sheet 31 Mar 2025; authorized capital Rs 306.99 Cr; paid-up Rs 306.79 Cr",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Layoffs and workforce",
+   "status": "done",
+   "found": "3+ rounds of layoffs since June 2025; 200+ total departures; workforce from 550+ (Aug 2025) to ~150-160 (March 2026); July 2026 round cut ~50% of remaining; employee complaints on pending expenses and delayed exit payments",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Executive departures and leadership",
+   "status": "done",
+   "found": "12+ senior executives departed since April 2025 including Goutham Ramkumar, Rajesh Jayaram, Ramesh Babu Giri, Vineet Agarwal, Ajay Raut, Kishore Kulkarni, Sambit Sahu, Sunit S, Chandra Khatri; current leadership: Navendu Agarwal (SVP), Raguraman Barathalwar (CTO), Sheetal Chittawar (Director Silicon Strategy)",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Ola Electric share pledge and funding",
+   "status": "done",
+   "found": "March 2025: 5.88 crore Ola Electric shares pledged; Sept 2025: 10.71 crore shares (2.43% equity) pledged for Krutrim Data Centre via Axis Trustee/Avendus/InCred; pledges later released after repayment",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Engineer suicide and legal issues",
+   "status": "done",
+   "found": "May 2025: 25-year-old engineer died by suicide; FIR on Bhavish Aggarwal; Oct 2025: second suicide; toxic work culture allegations",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Product status and Kruti app",
+   "status": "done",
+   "found": "Kruti app pulled from stores April 2026; 207,000 downloads since June 2025 launch; chip design paused late 2025; LLM building paused; Krutrim 3 development uncertain",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Revenue composition and external traction",
+   "status": "done",
+   "found": "~90% of FY25 revenue from Ola Group; FY26 revenue ~Rs 300 Cr (3x); first PAT >10%; 25+ enterprise customers; majority GPU capacity committed externally",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "MCA filings and financials",
+   "status": "done",
+   "found": "CIN U62099KA2023PTC171879, incorporated 05 Apr 2023, Active status, registered office Bengaluru; AGM 30 Sep 2025; balance sheet 31 Mar 2025; authorized capital Rs 306.99 Cr; paid-up Rs 306.79 Cr",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Layoffs and workforce",
+   "status": "done",
+   "found": "3+ rounds of layoffs since June 2025; 200+ total departures; workforce from 550+ (Aug 2025) to ~150-160 (March 2026); July 2026 round cut ~50% of remaining; employee complaints on pending expenses and delayed exit payments",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Executive departures and leadership",
+   "status": "done",
+   "found": "12+ senior executives departed since April 2025 including Goutham Ramkumar, Rajesh Jayaram, Ramesh Babu Giri, Vineet Agarwal, Ajay Raut, Kishore Kulkarni, Sambit Sahu, Sunit S, Chandra Khatri; current leadership: Navendu Agarwal (SVP), Raguraman Barathalwar (CTO), Sheetal Chittawar (Director Silicon Strategy)",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Ola Electric share pledge and funding",
+   "status": "done",
+   "found": "March 2025: 5.88 crore Ola Electric shares pledged; Sept 2025: 10.71 crore shares (2.43% equity) pledged for Krutrim Data Centre via Axis Trustee/Avendus/InCred; pledges later released after repayment",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Engineer suicide and legal issues",
+   "status": "done",
+   "found": "May 2025: 25-year-old engineer died by suicide; FIR on Bhavish Aggarwal; Oct 2025: second suicide; toxic work culture allegations",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Product status and Kruti app",
+   "status": "done",
+   "found": "Kruti app pulled from stores April 2026; 207,000 downloads since June 2025 launch; chip design paused late 2025; LLM building paused; Krutrim 3 development uncertain",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Revenue composition and external traction",
+   "status": "done",
+   "found": "~90% of FY25 revenue from Ola Group; FY26 revenue ~Rs 300 Cr (3x); first PAT >10%; 25+ enterprise customers; majority GPU capacity committed externally",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "MCA filings and financials",
+   "status": "done",
+   "found": "CIN U62099KA2023PTC171879, incorporated 05 Apr 2023, Active status, registered office Bengaluru; AGM 30 Sep 2025; balance sheet 31 Mar 2025; authorized capital Rs 306.99 Cr; paid-up Rs 306.79 Cr",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Layoffs and workforce",
+   "status": "done",
+   "found": "3+ rounds of layoffs since June 2025; 200+ total departures; workforce from 550+ (Aug 2025) to ~150-160 (March 2026); July 2026 round cut ~50% of remaining; employee complaints on pending expenses and delayed exit payments",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Executive departures and leadership",
+   "status": "done",
+   "found": "12+ senior executives departed since April 2025 including Goutham Ramkumar, Rajesh Jayaram, Ramesh Babu Giri, Vineet Agarwal, Ajay Raut, Kishore Kulkarni, Sambit Sahu, Sunit S, Chandra Khatri; current leadership: Navendu Agarwal (SVP), Raguraman Barathalwar (CTO), Sheetal Chittawar (Director Silicon Strategy)",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Ola Electric share pledge and funding",
+   "status": "done",
+   "found": "March 2025: 5.88 crore Ola Electric shares pledged; Sept 2025: 10.71 crore shares (2.43% equity) pledged for Krutrim Data Centre via Axis Trustee/Avendus/InCred; pledges later released after repayment",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Engineer suicide and legal issues",
+   "status": "done",
+   "found": "May 2025: 25-year-old engineer died by suicide; FIR on Bhavish Aggarwal; Oct 2025: second suicide; toxic work culture allegations",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Product status and Kruti app",
+   "status": "done",
+   "found": "Kruti app pulled from stores April 2026; 207,000 downloads since June 2025 launch; chip design paused late 2025; LLM building paused; Krutrim 3 development uncertain",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Revenue composition and external traction",
+   "status": "done",
+   "found": "~90% of FY25 revenue from Ola Group; FY26 revenue ~Rs 300 Cr (3x); first PAT >10%; 25+ enterprise customers; majority GPU capacity committed externally",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "MCA filings and financials",
+   "status": "done",
+   "found": "CIN U62099KA2023PTC171879, incorporated 05 Apr 2023, Active status, registered office Bengaluru; AGM 30 Sep 2025; balance sheet 31 Mar 2025; authorized capital Rs 306.99 Cr; paid-up Rs 306.79 Cr",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Layoffs and workforce",
+   "status": "done",
+   "found": "3+ rounds of layoffs since June 2025; 200+ total departures; workforce from 550+ (Aug 2025) to ~150-160 (March 2026); July 2026 round cut ~50% of remaining; employee complaints on pending expenses and delayed exit payments",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Executive departures and leadership",
+   "status": "done",
+   "found": "12+ senior executives departed since April 2025 including Goutham Ramkumar, Rajesh Jayaram, Ramesh Babu Giri, Vineet Agarwal, Ajay Raut, Kishore Kulkarni, Sambit Sahu, Sunit S, Chandra Khatri; current leadership: Navendu Agarwal (SVP), Raguraman Barathalwar (CTO), Sheetal Chittawar (Director Silicon Strategy)",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Ola Electric share pledge and funding",
+   "status": "done",
+   "found": "March 2025: 5.88 crore Ola Electric shares pledged; Sept 2025: 10.71 crore shares (2.43% equity) pledged for Krutrim Data Centre via Axis Trustee/Avendus/InCred; pledges later released after repayment",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Engineer suicide and legal issues",
+   "status": "done",
+   "found": "May 2025: 25-year-old engineer died by suicide; FIR on Bhavish Aggarwal; Oct 2025: second suicide; toxic work culture allegations",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Product status and Kruti app",
+   "status": "done",
+   "found": "Kruti app pulled from stores April 2026; 207,000 downloads since June 2025 launch; chip design paused late 2025; LLM building paused; Krutrim 3 development uncertain",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Revenue composition and external traction",
+   "status": "done",
+   "found": "~90% of FY25 revenue from Ola Group; FY26 revenue ~Rs 300 Cr (3x); first PAT >10%; 25+ enterprise customers; majority GPU capacity committed externally",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "MCA filings and financials",
+   "status": "done",
+   "found": "CIN U62099KA2023PTC171879, incorporated 05 Apr 2023, Active status, registered office Bengaluru; AGM 30 Sep 2025; balance sheet 31 Mar 2025; authorized capital Rs 306.99 Cr; paid-up Rs 306.79 Cr",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Layoffs and workforce",
+   "status": "done",
+   "found": "3+ rounds of layoffs since June 2025; 200+ total departures; workforce from 550+ (Aug 2025) to ~150-160 (March 2026); July 2026 round cut ~50% of remaining; employee complaints on pending expenses and delayed exit payments",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Executive departures and leadership",
+   "status": "done",
+   "found": "12+ senior executives departed since April 2025 including Goutham Ramkumar, Rajesh Jayaram, Ramesh Babu Giri, Vineet Agarwal, Ajay Raut, Kishore Kulkarni, Sambit Sahu, Sunit S, Chandra Khatri; current leadership: Navendu Agarwal (SVP), Raguraman Barathalwar (CTO), Sheetal Chittawar (Director Silicon Strategy)",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Ola Electric share pledge and funding",
+   "status": "done",
+   "found": "March 2025: 5.88 crore Ola Electric shares pledged; Sept 2025: 10.71 crore shares (2.43% equity) pledged for Krutrim Data Centre via Axis Trustee/Avendus/InCred; pledges later released after repayment",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Engineer suicide and legal issues",
+   "status": "done",
+   "found": "May 2025: 25-year-old engineer died by suicide; FIR on Bhavish Aggarwal; Oct 2025: second suicide; toxic work culture allegations",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Product status and Kruti app",
+   "status": "done",
+   "found": "Kruti app pulled from stores April 2026; 207,000 downloads since June 2025 launch; chip design paused late 2025; LLM building paused; Krutrim 3 development uncertain",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Revenue composition and external traction",
+   "status": "done",
+   "found": "~90% of FY25 revenue from Ola Group; FY26 revenue ~Rs 300 Cr (3x); first PAT >10%; 25+ enterprise customers; majority GPU capacity committed externally",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "MCA filings and financials",
+   "status": "done",
+   "found": "CIN U62099KA2023PTC171879, incorporated 05 Apr 2023, Active status, registered office Bengaluru; AGM 30 Sep 2025; balance sheet 31 Mar 2025; authorized capital Rs 306.99 Cr; paid-up Rs 306.79 Cr",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Layoffs and workforce",
+   "status": "done",
+   "found": "3+ rounds of layoffs since June 2025; 200+ total departures; workforce from 550+ (Aug 2025) to ~150-160 (March 2026); July 2026 round cut ~50% of remaining; employee complaints on pending expenses and delayed exit payments",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Executive departures and leadership",
+   "status": "done",
+   "found": "12+ senior executives departed since April 2025 including Goutham Ramkumar, Rajesh Jayaram, Ramesh Babu Giri, Vineet Agarwal, Ajay Raut, Kishore Kulkarni, Sambit Sahu, Sunit S, Chandra Khatri; current leadership: Navendu Agarwal (SVP), Raguraman Barathalwar (CTO), Sheetal Chittawar (Director Silicon Strategy)",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Ola Electric share pledge and funding",
+   "status": "done",
+   "found": "March 2025: 5.88 crore Ola Electric shares pledged; Sept 2025: 10.71 crore shares (2.43% equity) pledged for Krutrim Data Centre via Axis Trustee/Avendus/InCred; pledges later released after repayment",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Engineer suicide and legal issues",
+   "status": "done",
+   "found": "May 2025: 25-year-old engineer died by suicide; FIR on Bhavish Aggarwal; Oct 2025: second suicide; toxic work culture allegations",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Product status and Kruti app",
+   "status": "done",
+   "found": "Kruti app pulled from stores April 2026; 207,000 downloads since June 2025 launch; chip design paused late 2025; LLM building paused; Krutrim 3 development uncertain",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Revenue composition and external traction",
+   "status": "done",
+   "found": "~90% of FY25 revenue from Ola Group; FY26 revenue ~Rs 300 Cr (3x); first PAT >10%; 25+ enterprise customers; majority GPU capacity committed externally",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "MCA filings and financials",
+   "status": "done",
+   "found": "CIN U62099KA2023PTC171879, incorporated 05 Apr 2023, Active status, registered office Bengaluru; AGM 30 Sep 2025; balance sheet 31 Mar 2025; authorized capital Rs 306.99 Cr; paid-up Rs 306.79 Cr",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Layoffs and workforce",
+   "status": "done",
+   "found": "3+ rounds of layoffs since June 2025; 200+ total departures; workforce from 550+ (Aug 2025) to ~150-160 (March 2026); July 2026 round cut ~50% of remaining; employee complaints on pending expenses and delayed exit payments",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Executive departures and leadership",
+   "status": "done",
+   "found": "12+ senior executives departed since April 2025 including Goutham Ramkumar, Rajesh Jayaram, Ramesh Babu Giri, Vineet Agarwal, Ajay Raut, Kishore Kulkarni, Sambit Sahu, Sunit S, Chandra Khatri; current leadership: Navendu Agarwal (SVP), Raguraman Barathalwar (CTO), Sheetal Chittawar (Director Silicon Strategy)",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Ola Electric share pledge and funding",
+   "status": "done",
+   "found": "March 2025: 5.88 crore Ola Electric shares pledged; Sept 2025: 10.71 crore shares (2.43% equity) pledged for Krutrim Data Centre via Axis Trustee/Avendus/InCred; pledges later released after repayment",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Engineer suicide and legal issues",
+   "status": "done",
+   "found": "May 2025: 25-year-old engineer died by suicide; FIR on Bhavish Aggarwal; Oct 2025: second suicide; toxic work culture allegations",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Product status and Kruti app",
+   "status": "done",
+   "found": "Kruti app pulled from stores April 2026; 207,000 downloads since June 2025 launch; chip design paused late 2025; LLM building paused; Krutrim 3 development uncertain",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Revenue composition and external traction",
+   "status": "done",
+   "found": "~90% of FY25 revenue from Ola Group; FY26 revenue ~Rs 300 Cr (3x); first PAT >10%; 25+ enterprise customers; majority GPU capacity committed externally",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "MCA filings and financials",
+   "status": "done",
+   "found": "CIN U62099KA2023PTC171879, incorporated 05 Apr 2023, Active status, registered office Bengaluru; AGM 30 Sep 2025; balance sheet 31 Mar 2025; authorized capital Rs 306.99 Cr; paid-up Rs 306.79 Cr",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Layoffs and workforce",
+   "status": "done",
+   "found": "3+ rounds of layoffs since June 2025; 200+ total departures; workforce from 550+ (Aug 2025) to ~150-160 (March 2026); July 2026 round cut ~50% of remaining; employee complaints on pending expenses and delayed exit payments",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Executive departures and leadership",
+   "status": "done",
+   "found": "12+ senior executives departed since April 2025 including Goutham Ramkumar, Rajesh Jayaram, Ramesh Babu Giri, Vineet Agarwal, Ajay Raut, Kishore Kulkarni, Sambit Sahu, Sunit S, Chandra Khatri; current leadership: Navendu Agarwal (SVP), Raguraman Barathalwar (CTO), Sheetal Chittawar (Director Silicon Strategy)",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Ola Electric share pledge and funding",
+   "status": "done",
+   "found": "March 2025: 5.88 crore Ola Electric shares pledged; Sept 2025: 10.71 crore shares (2.43% equity) pledged for Krutrim Data Centre via Axis Trustee/Avendus/InCred; pledges later released after repayment",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Engineer suicide and legal issues",
+   "status": "done",
+   "found": "May 2025: 25-year-old engineer died by suicide; FIR on Bhavish Aggarwal; Oct 2025: second suicide; toxic work culture allegations",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Product status and Kruti app",
+   "status": "done",
+   "found": "Kruti app pulled from stores April 2026; 207,000 downloads since June 2025 launch; chip design paused late 2025; LLM building paused; Krutrim 3 development uncertain",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Revenue composition and external traction",
+   "status": "done",
+   "found": "~90% of FY25 revenue from Ola Group; FY26 revenue ~Rs 300 Cr (3x); first PAT >10%; 25+ enterprise customers; majority GPU capacity committed externally",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "MCA filings and financials",
+   "status": "done",
+   "found": "CIN U62099KA2023PTC171879, incorporated 05 Apr 2023, Active status, registered office Bengaluru; AGM 30 Sep 2025; balance sheet 31 Mar 2025; authorized capital Rs 306.99 Cr; paid-up Rs 306.79 Cr",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Layoffs and workforce",
+   "status": "done",
+   "found": "3+ rounds of layoffs since June 2025; 200+ total departures; workforce from 550+ (Aug 2025) to ~150-160 (March 2026); July 2026 round cut ~50% of remaining; employee complaints on pending expenses and delayed exit payments",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Executive departures and leadership",
+   "status": "done",
+   "found": "12+ senior executives departed since April 2025 including Goutham Ramkumar, Rajesh Jayaram, Ramesh Babu Giri, Vineet Agarwal, Ajay Raut, Kishore Kulkarni, Sambit Sahu, Sunit S, Chandra Khatri; current leadership: Navendu Agarwal (SVP), Raguraman Barathalwar (CTO), Sheetal Chittawar (Director Silicon Strategy)",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Ola Electric share pledge and funding",
+   "status": "done",
+   "found": "March 2025: 5.88 crore Ola Electric shares pledged; Sept 2025: 10.71 crore shares (2.43% equity) pledged for Krutrim Data Centre via Axis Trustee/Avendus/InCred; pledges later released after repayment",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Engineer suicide and legal issues",
+   "status": "done",
+   "found": "May 2025: 25-year-old engineer died by suicide; FIR on Bhavish Aggarwal; Oct 2025: second suicide; toxic work culture allegations",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Product status and Kruti app",
+   "status": "done",
+   "found": "Kruti app pulled from stores April 2026; 207,000 downloads since June 2025 launch; chip design paused late 2025; LLM building paused; Krutrim 3 development uncertain",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Revenue composition and external traction",
+   "status": "done",
+   "found": "~90% of FY25 revenue from Ola Group; FY26 revenue ~Rs 300 Cr (3x); first PAT >10%; 25+ enterprise customers; majority GPU capacity committed externally",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "MCA filings and financials",
+   "status": "done",
+   "found": "CIN U62099KA2023PTC171879, incorporated 05 Apr 2023, Active status, registered office Bengaluru; AGM 30 Sep 2025; balance sheet 31 Mar 2025; authorized capital Rs 306.99 Cr; paid-up Rs 306.79 Cr",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Layoffs and workforce",
+   "status": "done",
+   "found": "3+ rounds of layoffs since June 2025; 200+ total departures; workforce from 550+ (Aug 2025) to ~150-160 (March 2026); July 2026 round cut ~50% of remaining; employee complaints on pending expenses and delayed exit payments",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Executive departures and leadership",
+   "status": "done",
+   "found": "12+ senior executives departed since April 2025 including Goutham Ramkumar, Rajesh Jayaram, Ramesh Babu Giri, Vineet Agarwal, Ajay Raut, Kishore Kulkarni, Sambit Sahu, Sunit S, Chandra Khatri; current leadership: Navendu Agarwal (SVP), Raguraman Barathalwar (CTO), Sheetal Chittawar (Director Silicon Strategy)",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Ola Electric share pledge and funding",
+   "status": "done",
+   "found": "March 2025: 5.88 crore Ola Electric shares pledged; Sept 2025: 10.71 crore shares (2.43% equity) pledged for Krutrim Data Centre via Axis Trustee/Avendus/InCred; pledges later released after repayment",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Engineer suicide and legal issues",
+   "status": "done",
+   "found": "May 2025: 25-year-old engineer died by suicide; FIR on Bhavish Aggarwal; Oct 2025: second suicide; toxic work culture allegations",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Product status and Kruti app",
+   "status": "done",
+   "found": "Kruti app pulled from stores April 2026; 207,000 downloads since June 2025 launch; chip design paused late 2025; LLM building paused; Krutrim 3 development uncertain",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Revenue composition and external traction",
+   "status": "done",
+   "found": "~90% of FY25 revenue from Ola Group; FY26 revenue ~Rs 300 Cr (3x); first PAT >10%; 25+ enterprise customers; majority GPU capacity committed externally",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "MCA filings and financials",
+   "status": "done",
+   "found": "CIN U62099KA2023PTC171879, incorporated 05 Apr 2023, Active status, registered office Bengaluru; AGM 30 Sep 2025; balance sheet 31 Mar 2025; authorized capital Rs 306.99 Cr; paid-up Rs 306.79 Cr",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Layoffs and workforce",
+   "status": "done",
+   "found": "3+ rounds of layoffs since June 2025; 200+ total departures; workforce from 550+ (Aug 2025) to ~150-160 (March 2026); July 2026 round cut ~50% of remaining; employee complaints on pending expenses and delayed exit payments",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Executive departures and leadership",
+   "status": "done",
+   "found": "12+ senior executives departed since April 2025 including Goutham Ramkumar, Rajesh Jayaram, Ramesh Babu Giri, Vineet Agarwal, Ajay Raut, Kishore Kulkarni, Sambit Sahu, Sunit S, Chandra Khatri; current leadership: Navendu Agarwal (SVP), Raguraman Barathalwar (CTO), Sheetal Chittawar (Director Silicon Strategy)",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Ola Electric share pledge and funding",
+   "status": "done",
+   "found": "March 2025: 5.88 crore Ola Electric shares pledged; Sept 2025: 10.71 crore shares (2.43% equity) pledged for Krutrim Data Centre via Axis Trustee/Avendus/InCred; pledges later released after repayment",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Engineer suicide and legal issues",
+   "status": "done",
+   "found": "May 2025: 25-year-old engineer died by suicide; FIR on Bhavish Aggarwal; Oct 2025: second suicide; toxic work culture allegations",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Product status and Kruti app",
+   "status": "done",
+   "found": "Kruti app pulled from stores April 2026; 207,000 downloads since June 2025 launch; chip design paused late 2025; LLM building paused; Krutrim 3 development uncertain",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Revenue composition and external traction",
+   "status": "done",
+   "found": "~90% of FY25 revenue from Ola Group; FY26 revenue ~Rs 300 Cr (3x); first PAT >10%; 25+ enterprise customers; majority GPU capacity committed externally",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "MCA filings and financials",
+   "status": "done",
+   "found": "CIN U62099KA2023PTC171879, incorporated 05 Apr 2023, Active status, registered office Bengaluru; AGM 30 Sep 2025; balance sheet 31 Mar 2025; authorized capital Rs 306.99 Cr; paid-up Rs 306.79 Cr",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Layoffs and workforce",
+   "status": "done",
+   "found": "3+ rounds of layoffs since June 2025; 200+ total departures; workforce from 550+ (Aug 2025) to ~150-160 (March 2026); July 2026 round cut ~50% of remaining; employee complaints on pending expenses and delayed exit payments",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Executive departures and leadership",
+   "status": "done",
+   "found": "12+ senior executives departed since April 2025 including Goutham Ramkumar, Rajesh Jayaram, Ramesh Babu Giri, Vineet Agarwal, Ajay Raut, Kishore Kulkarni, Sambit Sahu, Sunit S, Chandra Khatri; current leadership: Navendu Agarwal (SVP), Raguraman Barathalwar (CTO), Sheetal Chittawar (Director Silicon Strategy)",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Ola Electric share pledge and funding",
+   "status": "done",
+   "found": "March 2025: 5.88 crore Ola Electric shares pledged; Sept 2025: 10.71 crore shares (2.43% equity) pledged for Krutrim Data Centre via Axis Trustee/Avendus/InCred; pledges later released after repayment",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Engineer suicide and legal issues",
+   "status": "done",
+   "found": "May 2025: 25-year-old engineer died by suicide; FIR on Bhavish Aggarwal; Oct 2025: second suicide; toxic work culture allegations",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Product status and Kruti app",
+   "status": "done",
+   "found": "Kruti app pulled from stores April 2026; 207,000 downloads since June 2025 launch; chip design paused late 2025; LLM building paused; Krutrim 3 development uncertain",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Revenue composition and external traction",
+   "status": "done",
+   "found": "~90% of FY25 revenue from Ola Group; FY26 revenue ~Rs 300 Cr (3x); first PAT >10%; 25+ enterprise customers; majority GPU capacity committed externally",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "MCA filings and financials",
+   "status": "done",
+   "found": "CIN U62099KA2023PTC171879, incorporated 05 Apr 2023, Active status, registered office Bengaluru; AGM 30 Sep 2025; balance sheet 31 Mar 2025; authorized capital Rs 306.99 Cr; paid-up Rs 306.79 Cr",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Layoffs and workforce",
+   "status": "done",
+   "found": "3+ rounds of layoffs since June 2025; 200+ total departures; workforce from 550+ (Aug 2025) to ~150-160 (March 2026); July 2026 round cut ~50% of remaining; employee complaints on pending expenses and delayed exit payments",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Executive departures and leadership",
+   "status": "done",
+   "found": "12+ senior executives departed since April 2025 including Goutham Ramkumar, Rajesh Jayaram, Ramesh Babu Giri, Vineet Agarwal, Ajay Raut, Kishore Kulkarni, Sambit Sahu, Sunit S, Chandra Khatri; current leadership: Navendu Agarwal (SVP), Raguraman Barathalwar (CTO), Sheetal Chittawar (Director Silicon Strategy)",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Ola Electric share pledge and funding",
+   "status": "done",
+   "found": "March 2025: 5.88 crore Ola Electric shares pledged; Sept 2025: 10.71 crore shares (2.43% equity) pledged for Krutrim Data Centre via Axis Trustee/Avendus/InCred; pledges later released after repayment",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Engineer suicide and legal issues",
+   "status": "done",
+   "found": "May 2025: 25-year-old engineer died by suicide; FIR on Bhavish Aggarwal; Oct 2025: second suicide; toxic work culture allegations",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Product status and Kruti app",
+   "status": "done",
+   "found": "Kruti app pulled from stores April 2026; 207,000 downloads since June 2025 launch; chip design paused late 2025; LLM building paused; Krutrim 3 development uncertain",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Revenue composition and external traction",
+   "status": "done",
+   "found": "~90% of FY25 revenue from Ola Group; FY26 revenue ~Rs 300 Cr (3x); first PAT >10%; 25+ enterprise customers; majority GPU capacity committed externally",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "MCA filings and financials",
+   "status": "done",
+   "found": "CIN U62099KA2023PTC171879, incorporated 05 Apr 2023, Active status, registered office Bengaluru; AGM 30 Sep 2025; balance sheet 31 Mar 2025; authorized capital Rs 306.99 Cr; paid-up Rs 306.79 Cr",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Layoffs and workforce",
+   "status": "done",
+   "found": "3+ rounds of layoffs since June 2025; 200+ total departures; workforce from 550+ (Aug 2025) to ~150-160 (March 2026); July 2026 round cut ~50% of remaining; employee complaints on pending expenses and delayed exit payments",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Executive departures and leadership",
+   "status": "done",
+   "found": "12+ senior executives departed since April 2025 including Goutham Ramkumar, Rajesh Jayaram, Ramesh Babu Giri, Vineet Agarwal, Ajay Raut, Kishore Kulkarni, Sambit Sahu, Sunit S, Chandra Khatri; current leadership: Navendu Agarwal (SVP), Raguraman Barathalwar (CTO), Sheetal Chittawar (Director Silicon Strategy)",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Ola Electric share pledge and funding",
+   "status": "done",
+   "found": "March 2025: 5.88 crore Ola Electric shares pledged; Sept 2025: 10.71 crore shares (2.43% equity) pledged for Krutrim Data Centre via Axis Trustee/Avendus/InCred; pledges later released after repayment",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Engineer suicide and legal issues",
+   "status": "done",
+   "found": "May 2025: 25-year-old engineer died by suicide; FIR on Bhavish Aggarwal; Oct 2025: second suicide; toxic work culture allegations",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Product status and Kruti app",
+   "status": "done",
+   "found": "Kruti app pulled from stores April 2026; 207,000 downloads since June 2025 launch; chip design paused late 2025; LLM building paused; Krutrim 3 development uncertain",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Revenue composition and external traction",
+   "status": "done",
+   "found": "~90% of FY25 revenue from Ola Group; FY26 revenue ~Rs 300 Cr (3x); first PAT >10%; 25+ enterprise customers; majority GPU capacity committed externally",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "MCA filings and financials",
+   "status": "done",
+   "found": "CIN U62099KA2023PTC171879, incorporated 05 Apr 2023, Active status, registered office Bengaluru; AGM 30 Sep 2025; balance sheet 31 Mar 2025; authorized capital Rs 306.99 Cr; paid-up Rs 306.79 Cr",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Layoffs and workforce",
+   "status": "done",
+   "found": "3+ rounds of layoffs since June 2025; 200+ total departures; workforce from 550+ (Aug 2025) to ~150-160 (March 2026); July 2026 round cut ~50% of remaining; employee complaints on pending expenses and delayed exit payments",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Executive departures and leadership",
+   "status": "done",
+   "found": "12+ senior executives departed since April 2025 including Goutham Ramkumar, Rajesh Jayaram, Ramesh Babu Giri, Vineet Agarwal, Ajay Raut, Kishore Kulkarni, Sambit Sahu, Sunit S, Chandra Khatri; current leadership: Navendu Agarwal (SVP), Raguraman Barathalwar (CTO), Sheetal Chittawar (Director Silicon Strategy)",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Ola Electric share pledge and funding",
+   "status": "done",
+   "found": "March 2025: 5.88 crore Ola Electric shares pledged; Sept 2025: 10.71 crore shares (2.43% equity) pledged for Krutrim Data Centre via Axis Trustee/Avendus/InCred; pledges later released after repayment",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Engineer suicide and legal issues",
+   "status": "done",
+   "found": "May 2025: 25-year-old engineer died by suicide; FIR on Bhavish Aggarwal; Oct 2025: second suicide; toxic work culture allegations",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Product status and Kruti app",
+   "status": "done",
+   "found": "Kruti app pulled from stores April 2026; 207,000 downloads since June 2025 launch; chip design paused late 2025; LLM building paused; Krutrim 3 development uncertain",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Revenue composition and external traction",
+   "status": "done",
+   "found": "~90% of FY25 revenue from Ola Group; FY26 revenue ~Rs 300 Cr (3x); first PAT >10%; 25+ enterprise customers; majority GPU capacity committed externally",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "MCA filings and financials",
+   "status": "done",
+   "found": "CIN U62099KA2023PTC171879, incorporated 05 Apr 2023, Active status, registered office Bengaluru; AGM 30 Sep 2025; balance sheet 31 Mar 2025; authorized capital Rs 306.99 Cr; paid-up Rs 306.79 Cr",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Layoffs and workforce",
+   "status": "done",
+   "found": "3+ rounds of layoffs since June 2025; 200+ total departures; workforce from 550+ (Aug 2025) to ~150-160 (March 2026); July 2026 round cut ~50% of remaining; employee complaints on pending expenses and delayed exit payments",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Executive departures and leadership",
+   "status": "done",
+   "found": "12+ senior executives departed since April 2025 including Goutham Ramkumar, Rajesh Jayaram, Ramesh Babu Giri, Vineet Agarwal, Ajay Raut, Kishore Kulkarni, Sambit Sahu, Sunit S, Chandra Khatri; current leadership: Navendu Agarwal (SVP), Raguraman Barathalwar (CTO), Sheetal Chittawar (Director Silicon Strategy)",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Ola Electric share pledge and funding",
+   "status": "done",
+   "found": "March 2025: 5.88 crore Ola Electric shares pledged; Sept 2025: 10.71 crore shares (2.43% equity) pledged for Krutrim Data Centre via Axis Trustee/Avendus/InCred; pledges later released after repayment",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Engineer suicide and legal issues",
+   "status": "done",
+   "found": "May 2025: 25-year-old engineer died by suicide; FIR on Bhavish Aggarwal; Oct 2025: second suicide; toxic work culture allegations",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Product status and Kruti app",
+   "status": "done",
+   "found": "Kruti app pulled from stores April 2026; 207,000 downloads since June 2025 launch; chip design paused late 2025; LLM building paused; Krutrim 3 development uncertain",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Revenue composition and external traction",
+   "status": "done",
+   "found": "~90% of FY25 revenue from Ola Group; FY26 revenue ~Rs 300 Cr (3x); first PAT >10%; 25+ enterprise customers; majority GPU capacity committed externally",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "MCA filings and financials",
+   "status": "done",
+   "found": "CIN U62099KA2023PTC171879, incorporated 05 Apr 2023, Active status, registered office Bengaluru; AGM 30 Sep 2025; balance sheet 31 Mar 2025; authorized capital Rs 306.99 Cr; paid-up Rs 306.79 Cr",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Layoffs and workforce",
+   "status": "done",
+   "found": "3+ rounds of layoffs since June 2025; 200+ total departures; workforce from 550+ (Aug 2025) to ~150-160 (March 2026); July 2026 round cut ~50% of remaining; employee complaints on pending expenses and delayed exit payments",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Executive departures and leadership",
+   "status": "done",
+   "found": "12+ senior executives departed since April 2025 including Goutham Ramkumar, Rajesh Jayaram, Ramesh Babu Giri, Vineet Agarwal, Ajay Raut, Kishore Kulkarni, Sambit Sahu, Sunit S, Chandra Khatri; current leadership: Navendu Agarwal (SVP), Raguraman Barathalwar (CTO), Sheetal Chittawar (Director Silicon Strategy)",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Ola Electric share pledge and funding",
+   "status": "done",
+   "found": "March 2025: 5.88 crore Ola Electric shares pledged; Sept 2025: 10.71 crore shares (2.43% equity) pledged for Krutrim Data Centre via Axis Trustee/Avendus/InCred; pledges later released after repayment",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Engineer suicide and legal issues",
+   "status": "done",
+   "found": "May 2025: 25-year-old engineer died by suicide; FIR on Bhavish Aggarwal; Oct 2025: second suicide; toxic work culture allegations",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Product status and Kruti app",
+   "status": "done",
+   "found": "Kruti app pulled from stores April 2026; 207,000 downloads since June 2025 launch; chip design paused late 2025; LLM building paused; Krutrim 3 development uncertain",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Revenue composition and external traction",
+   "status": "done",
+   "found": "~90% of FY25 revenue from Ola Group; FY26 revenue ~Rs 300 Cr (3x); first PAT >10%; 25+ enterprise customers; majority GPU capacity committed externally",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "MCA filings and financials",
+   "status": "done",
+   "found": "CIN U62099KA2023PTC171879, incorporated 05 Apr 2023, Active status, registered office Bengaluru; AGM 30 Sep 2025; balance sheet 31 Mar 2025; authorized capital Rs 306.99 Cr; paid-up Rs 306.79 Cr",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Layoffs and workforce",
+   "status": "done",
+   "found": "3+ rounds of layoffs since June 2025; 200+ total departures; workforce from 550+ (Aug 2025) to ~150-160 (March 2026); July 2026 round cut ~50% of remaining; employee complaints on pending expenses and delayed exit payments",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Executive departures and leadership",
+   "status": "done",
+   "found": "12+ senior executives departed since April 2025 including Goutham Ramkumar, Rajesh Jayaram, Ramesh Babu Giri, Vineet Agarwal, Ajay Raut, Kishore Kulkarni, Sambit Sahu, Sunit S, Chandra Khatri; current leadership: Navendu Agarwal (SVP), Raguraman Barathalwar (CTO), Sheetal Chittawar (Director Silicon Strategy)",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Ola Electric share pledge and funding",
+   "status": "done",
+   "found": "March 2025: 5.88 crore Ola Electric shares pledged; Sept 2025: 10.71 crore shares (2.43% equity) pledged for Krutrim Data Centre via Axis Trustee/Avendus/InCred; pledges later released after repayment",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Engineer suicide and legal issues",
+   "status": "done",
+   "found": "May 2025: 25-year-old engineer died by suicide; FIR on Bhavish Aggarwal; Oct 2025: second suicide; toxic work culture allegations",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Product status and Kruti app",
+   "status": "done",
+   "found": "Kruti app pulled from stores April 2026; 207,000 downloads since June 2025 launch; chip design paused late 2025; LLM building paused; Krutrim 3 development uncertain",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Revenue composition and external traction",
+   "status": "done",
+   "found": "~90% of FY25 revenue from Ola Group; FY26 revenue ~Rs 300 Cr (3x); first PAT >10%; 25+ enterprise customers; majority GPU capacity committed externally",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "MCA filings and financials",
+   "status": "done",
+   "found": "CIN U62099KA2023PTC171879, incorporated 05 Apr 2023, Active status, registered office Bengaluru; AGM 30 Sep 2025; balance sheet 31 Mar 2025; authorized capital Rs 306.99 Cr; paid-up Rs 306.79 Cr",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Layoffs and workforce",
+   "status": "done",
+   "found": "3+ rounds of layoffs since June 2025; 200+ total departures; workforce from 550+ (Aug 2025) to ~150-160 (March 2026); July 2026 round cut ~50% of remaining; employee complaints on pending expenses and delayed exit payments",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Executive departures and leadership",
+   "status": "done",
+   "found": "12+ senior executives departed since April 2025 including Goutham Ramkumar, Rajesh Jayaram, Ramesh Babu Giri, Vineet Agarwal, Ajay Raut, Kishore Kulkarni, Sambit Sahu, Sunit S, Chandra Khatri; current leadership: Navendu Agarwal (SVP), Raguraman Barathalwar (CTO), Sheetal Chittawar (Director Silicon Strategy)",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Ola Electric share pledge and funding",
+   "status": "done",
+   "found": "March 2025: 5.88 crore Ola Electric shares pledged; Sept 2025: 10.71 crore shares (2.43% equity) pledged for Krutrim Data Centre via Axis Trustee/Avendus/InCred; pledges later released after repayment",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Engineer suicide and legal issues",
+   "status": "done",
+   "found": "May 2025: 25-year-old engineer died by suicide; FIR on Bhavish Aggarwal; Oct 2025: second suicide; toxic work culture allegations",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Product status and Kruti app",
+   "status": "done",
+   "found": "Kruti app pulled from stores April 2026; 207,000 downloads since June 2025 launch; chip design paused late 2025; LLM building paused; Krutrim 3 development uncertain",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Revenue composition and external traction",
+   "status": "done",
+   "found": "~90% of FY25 revenue from Ola Group; FY26 revenue ~Rs 300 Cr (3x); first PAT >10%; 25+ enterprise customers; majority GPU capacity committed externally",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "MCA filings and financials",
+   "status": "done",
+   "found": "CIN U62099KA2023PTC171879, incorporated 05 Apr 2023, Active status, registered office Bengaluru; AGM 30 Sep 2025; balance sheet 31 Mar 2025; authorized capital Rs 306.99 Cr; paid-up Rs 306.79 Cr",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Layoffs and workforce",
+   "status": "done",
+   "found": "3+ rounds of layoffs since June 2025; 200+ total departures; workforce from 550+ (Aug 2025) to ~150-160 (March 2026); July 2026 round cut ~50% of remaining; employee complaints on pending expenses and delayed exit payments",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Executive departures and leadership",
+   "status": "done",
+   "found": "12+ senior executives departed since April 2025 including Goutham Ramkumar, Rajesh Jayaram, Ramesh Babu Giri, Vineet Agarwal, Ajay Raut, Kishore Kulkarni, Sambit Sahu, Sunit S, Chandra Khatri; current leadership: Navendu Agarwal (SVP), Raguraman Barathalwar (CTO), Sheetal Chittawar (Director Silicon Strategy)",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Ola Electric share pledge and funding",
+   "status": "done",
+   "found": "March 2025: 5.88 crore Ola Electric shares pledged; Sept 2025: 10.71 crore shares (2.43% equity) pledged for Krutrim Data Centre via Axis Trustee/Avendus/InCred; pledges later released after repayment",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Engineer suicide and legal issues",
+   "status": "done",
+   "found": "May 2025: 25-year-old engineer died by suicide; FIR on Bhavish Aggarwal; Oct 2025: second suicide; toxic work culture allegations",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Product status and Kruti app",
+   "status": "done",
+   "found": "Kruti app pulled from stores April 2026; 207,000 downloads since June 2025 launch; chip design paused late 2025; LLM building paused; Krutrim 3 development uncertain",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Revenue composition and external traction",
+   "status": "done",
+   "found": "~90% of FY25 revenue from Ola Group; FY26 revenue ~Rs 300 Cr (3x); first PAT >10%; 25+ enterprise customers; majority GPU capacity committed externally",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "MCA filings and financials",
+   "status": "done",
+   "found": "CIN U62099KA2023PTC171879, incorporated 05 Apr 2023, Active status, registered office Bengaluru; AGM 30 Sep 2025; balance sheet 31 Mar 2025; authorized capital Rs 306.99 Cr; paid-up Rs 306.79 Cr",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Layoffs and workforce",
+   "status": "done",
+   "found": "3+ rounds of layoffs since June 2025; 200+ total departures; workforce from 550+ (Aug 2025) to ~150-160 (March 2026); July 2026 round cut ~50% of remaining; employee complaints on pending expenses and delayed exit payments",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Executive departures and leadership",
+   "status": "done",
+   "found": "12+ senior executives departed since April 2025 including Goutham Ramkumar, Rajesh Jayaram, Ramesh Babu Giri, Vineet Agarwal, Ajay Raut, Kishore Kulkarni, Sambit Sahu, Sunit S, Chandra Khatri; current leadership: Navendu Agarwal (SVP), Raguraman Barathalwar (CTO), Sheetal Chittawar (Director Silicon Strategy)",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Ola Electric share pledge and funding",
+   "status": "done",
+   "found": "March 2025: 5.88 crore Ola Electric shares pledged; Sept 2025: 10.71 crore shares (2.43% equity) pledged for Krutrim Data Centre via Axis Trustee/Avendus/InCred; pledges later released after repayment",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Engineer suicide and legal issues",
+   "status": "done",
+   "found": "May 2025: 25-year-old engineer died by suicide; FIR on Bhavish Aggarwal; Oct 2025: second suicide; toxic work culture allegations",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Product status and Kruti app",
+   "status": "done",
+   "found": "Kruti app pulled from stores April 2026; 207,000 downloads since June 2025 launch; chip design paused late 2025; LLM building paused; Krutrim 3 development uncertain",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Revenue composition and external traction",
+   "status": "done",
+   "found": "~90% of FY25 revenue from Ola Group; FY26 revenue ~Rs 300 Cr (3x); first PAT >10%; 25+ enterprise customers; majority GPU capacity committed externally",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "MCA filings and financials",
+   "status": "done",
+   "found": "CIN U62099KA2023PTC171879, incorporated 05 Apr 2023, Active status, registered office Bengaluru; AGM 30 Sep 2025; balance sheet 31 Mar 2025; authorized capital Rs 306.99 Cr; paid-up Rs 306.79 Cr",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Layoffs and workforce",
+   "status": "done",
+   "found": "3+ rounds of layoffs since June 2025; 200+ total departures; workforce from 550+ (Aug 2025) to ~150-160 (March 2026); July 2026 round cut ~50% of remaining; employee complaints on pending expenses and delayed exit payments",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Executive departures and leadership",
+   "status": "done",
+   "found": "12+ senior executives departed since April 2025 including Goutham Ramkumar, Rajesh Jayaram, Ramesh Babu Giri, Vineet Agarwal, Ajay Raut, Kishore Kulkarni, Sambit Sahu, Sunit S, Chandra Khatri; current leadership: Navendu Agarwal (SVP), Raguraman Barathalwar (CTO), Sheetal Chittawar (Director Silicon Strategy)",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Ola Electric share pledge and funding",
+   "status": "done",
+   "found": "March 2025: 5.88 crore Ola Electric shares pledged; Sept 2025: 10.71 crore shares (2.43% equity) pledged for Krutrim Data Centre via Axis Trustee/Avendus/InCred; pledges later released after repayment",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Engineer suicide and legal issues",
+   "status": "done",
+   "found": "May 2025: 25-year-old engineer died by suicide; FIR on Bhavish Aggarwal; Oct 2025: second suicide; toxic work culture allegations",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Product status and Kruti app",
+   "status": "done",
+   "found": "Kruti app pulled from stores April 2026; 207,000 downloads since June 2025 launch; chip design paused late 2025; LLM building paused; Krutrim 3 development uncertain",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Revenue composition and external traction",
+   "status": "done",
+   "found": "~90% of FY25 revenue from Ola Group; FY26 revenue ~Rs 300 Cr (3x); first PAT >10%; 25+ enterprise customers; majority GPU capacity committed externally",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "MCA filings and financials",
+   "status": "done",
+   "found": "CIN U62099KA2023PTC171879, incorporated 05 Apr 2023, Active status, registered office Bengaluru; AGM 30 Sep 2025; balance sheet 31 Mar 2025; authorized capital Rs 306.99 Cr; paid-up Rs 306.79 Cr",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Layoffs and workforce",
+   "status": "done",
+   "found": "3+ rounds of layoffs since June 2025; 200+ total departures; workforce from 550+ (Aug 2025) to ~150-160 (March 2026); July 2026 round cut ~50% of remaining; employee complaints on pending expenses and delayed exit payments",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Executive departures and leadership",
+   "status": "done",
+   "found": "12+ senior executives departed since April 2025 including Goutham Ramkumar, Rajesh Jayaram, Ramesh Babu Giri, Vineet Agarwal, Ajay Raut, Kishore Kulkarni, Sambit Sahu, Sunit S, Chandra Khatri; current leadership: Navendu Agarwal (SVP), Raguraman Barathalwar (CTO), Sheetal Chittawar (Director Silicon Strategy)",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Ola Electric share pledge and funding",
+   "status": "done",
+   "found": "March 2025: 5.88 crore Ola Electric shares pledged; Sept 2025: 10.71 crore shares (2.43% equity) pledged for Krutrim Data Centre via Axis Trustee/Avendus/InCred; pledges later released after repayment",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Engineer suicide and legal issues",
+   "status": "done",
+   "found": "May 2025: 25-year-old engineer died by suicide; FIR on Bhavish Aggarwal; Oct 2025: second suicide; toxic work culture allegations",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Product status and Kruti app",
+   "status": "done",
+   "found": "Kruti app pulled from stores April 2026; 207,000 downloads since June 2025 launch; chip design paused late 2025; LLM building paused; Krutrim 3 development uncertain",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Revenue composition and external traction",
+   "status": "done",
+   "found": "~90% of FY25 revenue from Ola Group; FY26 revenue ~Rs 300 Cr (3x); first PAT >10%; 25+ enterprise customers; majority GPU capacity committed externally",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "MCA filings and financials",
+   "status": "done",
+   "found": "CIN U62099KA2023PTC171879, incorporated 05 Apr 2023, Active status, registered office Bengaluru; AGM 30 Sep 2025; balance sheet 31 Mar 2025; authorized capital Rs 306.99 Cr; paid-up Rs 306.79 Cr",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Layoffs and workforce",
+   "status": "done",
+   "found": "3+ rounds of layoffs since June 2025; 200+ total departures; workforce from 550+ (Aug 2025) to ~150-160 (March 2026); July 2026 round cut ~50% of remaining; employee complaints on pending expenses and delayed exit payments",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Executive departures and leadership",
+   "status": "done",
+   "found": "12+ senior executives departed since April 2025 including Goutham Ramkumar, Rajesh Jayaram, Ramesh Babu Giri, Vineet Agarwal, Ajay Raut, Kishore Kulkarni, Sambit Sahu, Sunit S, Chandra Khatri; current leadership: Navendu Agarwal (SVP), Raguraman Barathalwar (CTO), Sheetal Chittawar (Director Silicon Strategy)",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Ola Electric share pledge and funding",
+   "status": "done",
+   "found": "March 2025: 5.88 crore Ola Electric shares pledged; Sept 2025: 10.71 crore shares (2.43% equity) pledged for Krutrim Data Centre via Axis Trustee/Avendus/InCred; pledges later released after repayment",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Engineer suicide and legal issues",
+   "status": "done",
+   "found": "May 2025: 25-year-old engineer died by suicide; FIR on Bhavish Aggarwal; Oct 2025: second suicide; toxic work culture allegations",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Product status and Kruti app",
+   "status": "done",
+   "found": "Kruti app pulled from stores April 2026; 207,000 downloads since June 2025 launch; chip design paused late 2025; LLM building paused; Krutrim 3 development uncertain",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Revenue composition and external traction",
+   "status": "done",
+   "found": "~90% of FY25 revenue from Ola Group; FY26 revenue ~Rs 300 Cr (3x); first PAT >10%; 25+ enterprise customers; majority GPU capacity committed externally",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "MCA filings and financials",
+   "status": "done",
+   "found": "CIN U62099KA2023PTC171879, incorporated 05 Apr 2023, Active status, registered office Bengaluru; AGM 30 Sep 2025; balance sheet 31 Mar 2025; authorized capital Rs 306.99 Cr; paid-up Rs 306.79 Cr",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Layoffs and workforce",
+   "status": "done",
+   "found": "3+ rounds of layoffs since June 2025; 200+ total departures; workforce from 550+ (Aug 2025) to ~150-160 (March 2026); July 2026 round cut ~50% of remaining; employee complaints on pending expenses and delayed exit payments",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Executive departures and leadership",
+   "status": "done",
+   "found": "12+ senior executives departed since April 2025 including Goutham Ramkumar, Rajesh Jayaram, Ramesh Babu Giri, Vineet Agarwal, Ajay Raut, Kishore Kulkarni, Sambit Sahu, Sunit S, Chandra Khatri; current leadership: Navendu Agarwal (SVP), Raguraman Barathalwar (CTO), Sheetal Chittawar (Director Silicon Strategy)",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Ola Electric share pledge and funding",
+   "status": "done",
+   "found": "March 2025: 5.88 crore Ola Electric shares pledged; Sept 2025: 10.71 crore shares (2.43% equity) pledged for Krutrim Data Centre via Axis Trustee/Avendus/InCred; pledges later released after repayment",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Engineer suicide and legal issues",
+   "status": "done",
+   "found": "May 2025: 25-year-old engineer died by suicide; FIR on Bhavish Aggarwal; Oct 2025: second suicide; toxic work culture allegations",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Product status and Kruti app",
+   "status": "done",
+   "found": "Kruti app pulled from stores April 2026; 207,000 downloads since June 2025 launch; chip design paused late 2025; LLM building paused; Krutrim 3 development uncertain",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Revenue composition and external traction",
+   "status": "done",
+   "found": "~90% of FY25 revenue from Ola Group; FY26 revenue ~Rs 300 Cr (3x); first PAT >10%; 25+ enterprise customers; majority GPU capacity committed externally",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "MCA filings and financials",
+   "status": "done",
+   "found": "CIN U62099KA2023PTC171879, incorporated 05 Apr 2023, Active status, registered office Bengaluru; AGM 30 Sep 2025; balance sheet 31 Mar 2025; authorized capital Rs 306.99 Cr; paid-up Rs 306.79 Cr",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Layoffs and workforce",
+   "status": "done",
+   "found": "3+ rounds of layoffs since June 2025; 200+ total departures; workforce from 550+ (Aug 2025) to ~150-160 (March 2026); July 2026 round cut ~50% of remaining; employee complaints on pending expenses and delayed exit payments",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Executive departures and leadership",
+   "status": "done",
+   "found": "12+ senior executives departed since April 2025 including Goutham Ramkumar, Rajesh Jayaram, Ramesh Babu Giri, Vineet Agarwal, Ajay Raut, Kishore Kulkarni, Sambit Sahu, Sunit S, Chandra Khatri; current leadership: Navendu Agarwal (SVP), Raguraman Barathalwar (CTO), Sheetal Chittawar (Director Silicon Strategy)",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Ola Electric share pledge and funding",
+   "status": "done",
+   "found": "March 2025: 5.88 crore Ola Electric shares pledged; Sept 2025: 10.71 crore shares (2.43% equity) pledged for Krutrim Data Centre via Axis Trustee/Avendus/InCred; pledges later released after repayment",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Engineer suicide and legal issues",
+   "status": "done",
+   "found": "May 2025: 25-year-old engineer died by suicide; FIR on Bhavish Aggarwal; Oct 2025: second suicide; toxic work culture allegations",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Product status and Kruti app",
+   "status": "done",
+   "found": "Kruti app pulled from stores April 2026; 207,000 downloads since June 2025 launch; chip design paused late 2025; LLM building paused; Krutrim 3 development uncertain",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Revenue composition and external traction",
+   "status": "done",
+   "found": "~90% of FY25 revenue from Ola Group; FY26 revenue ~Rs 300 Cr (3x); first PAT >10%; 25+ enterprise customers; majority GPU capacity committed externally",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "MCA filings and financials",
+   "status": "done",
+   "found": "CIN U62099KA2023PTC171879, incorporated 05 Apr 2023, Active status, registered office Bengaluru; AGM 30 Sep 2025; balance sheet 31 Mar 2025; authorized capital Rs 306.99 Cr; paid-up Rs 306.79 Cr",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Layoffs and workforce",
+   "status": "done",
+   "found": "3+ rounds of layoffs since June 2025; 200+ total departures; workforce from 550+ (Aug 2025) to ~150-160 (March 2026); July 2026 round cut ~50% of remaining; employee complaints on pending expenses and delayed exit payments",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Executive departures and leadership",
+   "status": "done",
+   "found": "12+ senior executives departed since April 2025 including Goutham Ramkumar, Rajesh Jayaram, Ramesh Babu Giri, Vineet Agarwal, Ajay Raut, Kishore Kulkarni, Sambit Sahu, Sunit S, Chandra Khatri; current leadership: Navendu Agarwal (SVP), Raguraman Barathalwar (CTO), Sheetal Chittawar (Director Silicon Strategy)",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Ola Electric share pledge and funding",
+   "status": "done",
+   "found": "March 2025: 5.88 crore Ola Electric shares pledged; Sept 2025: 10.71 crore shares (2.43% equity) pledged for Krutrim Data Centre via Axis Trustee/Avendus/InCred; pledges later released after repayment",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Engineer suicide and legal issues",
+   "status": "done",
+   "found": "May 2025: 25-year-old engineer died by suicide; FIR on Bhavish Aggarwal; Oct 2025: second suicide; toxic work culture allegations",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Product status and Kruti app",
+   "status": "done",
+   "found": "Kruti app pulled from stores April 2026; 207,000 downloads since June 2025 launch; chip design paused late 2025; LLM building paused; Krutrim 3 development uncertain",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Revenue composition and external traction",
+   "status": "done",
+   "found": "~90% of FY25 revenue from Ola Group; FY26 revenue ~Rs 300 Cr (3x); first PAT >10%; 25+ enterprise customers; majority GPU capacity committed externally",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "MCA filings and financials",
+   "status": "done",
+   "found": "CIN U62099KA2023PTC171879, incorporated 05 Apr 2023, Active status, registered office Bengaluru; AGM 30 Sep 2025; balance sheet 31 Mar 2025; authorized capital Rs 306.99 Cr; paid-up Rs 306.79 Cr",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Layoffs and workforce",
+   "status": "done",
+   "found": "3+ rounds of layoffs since June 2025; 200+ total departures; workforce from 550+ (Aug 2025) to ~150-160 (March 2026); July 2026 round cut ~50% of remaining; employee complaints on pending expenses and delayed exit payments",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Executive departures and leadership",
+   "status": "done",
+   "found": "12+ senior executives departed since April 2025 including Goutham Ramkumar, Rajesh Jayaram, Ramesh Babu Giri, Vineet Agarwal, Ajay Raut, Kishore Kulkarni, Sambit Sahu, Sunit S, Chandra Khatri; current leadership: Navendu Agarwal (SVP), Raguraman Barathalwar (CTO), Sheetal Chittawar (Director Silicon Strategy)",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Ola Electric share pledge and funding",
+   "status": "done",
+   "found": "March 2025: 5.88 crore Ola Electric shares pledged; Sept 2025: 10.71 crore shares (2.43% equity) pledged for Krutrim Data Centre via Axis Trustee/Avendus/InCred; pledges later released after repayment",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Engineer suicide and legal issues",
+   "status": "done",
+   "found": "May 2025: 25-year-old engineer died by suicide; FIR on Bhavish Aggarwal; Oct 2025: second suicide; toxic work culture allegations",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Product status and Kruti app",
+   "status": "done",
+   "found": "Kruti app pulled from stores April 2026; 207,000 downloads since June 2025 launch; chip design paused late 2025; LLM building paused; Krutrim 3 development uncertain",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Revenue composition and external traction",
+   "status": "done",
+   "found": "~90% of FY25 revenue from Ola Group; FY26 revenue ~Rs 300 Cr (3x); first PAT >10%; 25+ enterprise customers; majority GPU capacity committed externally",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "MCA filings and financials",
+   "status": "done",
+   "found": "CIN U62099KA2023PTC171879, incorporated 05 Apr 2023, Active status, registered office Bengaluru; AGM 30 Sep 2025; balance sheet 31 Mar 2025; authorized capital Rs 306.99 Cr; paid-up Rs 306.79 Cr",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Layoffs and workforce",
+   "status": "done",
+   "found": "3+ rounds of layoffs since June 2025; 200+ total departures; workforce from 550+ (Aug 2025) to ~150-160 (March 2026); July 2026 round cut ~50% of remaining; employee complaints on pending expenses and delayed exit payments",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Executive departures and leadership",
+   "status": "done",
+   "found": "12+ senior executives departed since April 2025 including Goutham Ramkumar, Rajesh Jayaram, Ramesh Babu Giri, Vineet Agarwal, Ajay Raut, Kishore Kulkarni, Sambit Sahu, Sunit S, Chandra Khatri; current leadership: Navendu Agarwal (SVP), Raguraman Barathalwar (CTO), Sheetal Chittawar (Director Silicon Strategy)",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Ola Electric share pledge and funding",
+   "status": "done",
+   "found": "March 2025: 5.88 crore Ola Electric shares pledged; Sept 2025: 10.71 crore shares (2.43% equity) pledged for Krutrim Data Centre via Axis Trustee/Avendus/InCred; pledges later released after repayment",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Engineer suicide and legal issues",
+   "status": "done",
+   "found": "May 2025: 25-year-old engineer died by suicide; FIR on Bhavish Aggarwal; Oct 2025: second suicide; toxic work culture allegations",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Product status and Kruti app",
+   "status": "done",
+   "found": "Kruti app pulled from stores April 2026; 207,000 downloads since June 2025 launch; chip design paused late 2025; LLM building paused; Krutrim 3 development uncertain",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Revenue composition and external traction",
+   "status": "done",
+   "found": "~90% of FY25 revenue from Ola Group; FY26 revenue ~Rs 300 Cr (3x); first PAT >10%; 25+ enterprise customers; majority GPU capacity committed externally",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "MCA filings and financials",
+   "status": "done",
+   "found": "CIN U62099KA2023PTC171879, incorporated 05 Apr 2023, Active status, registered office Bengaluru; AGM 30 Sep 2025; balance sheet 31 Mar 2025; authorized capital Rs 306.99 Cr; paid-up Rs 306.79 Cr",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Layoffs and workforce",
+   "status": "done",
+   "found": "3+ rounds of layoffs since June 2025; 200+ total departures; workforce from 550+ (Aug 2025) to ~150-160 (March 2026); July 2026 round cut ~50% of remaining; employee complaints on pending expenses and delayed exit payments",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Executive departures and leadership",
+   "status": "done",
+   "found": "12+ senior executives departed since April 2025 including Goutham Ramkumar, Rajesh Jayaram, Ramesh Babu Giri, Vineet Agarwal, Ajay Raut, Kishore Kulkarni, Sambit Sahu, Sunit S, Chandra Khatri; current leadership: Navendu Agarwal (SVP), Raguraman Barathalwar (CTO), Sheetal Chittawar (Director Silicon Strategy)",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Ola Electric share pledge and funding",
+   "status": "done",
+   "found": "March 2025: 5.88 crore Ola Electric shares pledged; Sept 2025: 10.71 crore shares (2.43% equity) pledged for Krutrim Data Centre via Axis Trustee/Avendus/InCred; pledges later released after repayment",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Engineer suicide and legal issues",
+   "status": "done",
+   "found": "May 2025: 25-year-old engineer died by suicide; FIR on Bhavish Aggarwal; Oct 2025: second suicide; toxic work culture allegations",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Product status and Kruti app",
+   "status": "done",
+   "found": "Kruti app pulled from stores April 2026; 207,000 downloads since June 2025 launch; chip design paused late 2025; LLM building paused; Krutrim 3 development uncertain",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Revenue composition and external traction",
+   "status": "done",
+   "found": "~90% of FY25 revenue from Ola Group; FY26 revenue ~Rs 300 Cr (3x); first PAT >10%; 25+ enterprise customers; majority GPU capacity committed externally",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "MCA filings and financials",
+   "status": "done",
+   "found": "CIN U62099KA2023PTC171879, incorporated 05 Apr 2023, Active status, registered office Bengaluru; AGM 30 Sep 2025; balance sheet 31 Mar 2025; authorized capital Rs 306.99 Cr; paid-up Rs 306.79 Cr",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Layoffs and workforce",
+   "status": "done",
+   "found": "3+ rounds of layoffs since June 2025; 200+ total departures; workforce from 550+ (Aug 2025) to ~150-160 (March 2026); July 2026 round cut ~50% of remaining; employee complaints on pending expenses and delayed exit payments",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Executive departures and leadership",
+   "status": "done",
+   "found": "12+ senior executives departed since April 2025 including Goutham Ramkumar, Rajesh Jayaram, Ramesh Babu Giri, Vineet Agarwal, Ajay Raut, Kishore Kulkarni, Sambit Sahu, Sunit S, Chandra Khatri; current leadership: Navendu Agarwal (SVP), Raguraman Barathalwar (CTO), Sheetal Chittawar (Director Silicon Strategy)",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Ola Electric share pledge and funding",
+   "status": "done",
+   "found": "March 2025: 5.88 crore Ola Electric shares pledged; Sept 2025: 10.71 crore shares (2.43% equity) pledged for Krutrim Data Centre via Axis Trustee/Avendus/InCred; pledges later released after repayment",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Engineer suicide and legal issues",
+   "status": "done",
+   "found": "May 2025: 25-year-old engineer died by suicide; FIR on Bhavish Aggarwal; Oct 2025: second suicide; toxic work culture allegations",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Product status and Kruti app",
+   "status": "done",
+   "found": "Kruti app pulled from stores April 2026; 207,000 downloads since June 2025 launch; chip design paused late 2025; LLM building paused; Krutrim 3 development uncertain",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Revenue composition and external traction",
+   "status": "done",
+   "found": "~90% of FY25 revenue from Ola Group; FY26 revenue ~Rs 300 Cr (3x); first PAT >10%; 25+ enterprise customers; majority GPU capacity committed externally",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "MCA filings and financials",
+   "status": "done",
+   "found": "CIN U62099KA2023PTC171879, incorporated 05 Apr 2023, Active status, registered office Bengaluru; AGM 30 Sep 2025; balance sheet 31 Mar 2025; authorized capital Rs 306.99 Cr; paid-up Rs 306.79 Cr",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Layoffs and workforce",
+   "status": "done",
+   "found": "3+ rounds of layoffs since June 2025; 200+ total departures; workforce from 550+ (Aug 2025) to ~150-160 (March 2026); July 2026 round cut ~50% of remaining; employee complaints on pending expenses and delayed exit payments",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Executive departures and leadership",
+   "status": "done",
+   "found": "12+ senior executives departed since April 2025 including Goutham Ramkumar, Rajesh Jayaram, Ramesh Babu Giri, Vineet Agarwal, Ajay Raut, Kishore Kulkarni, Sambit Sahu, Sunit S, Chandra Khatri; current leadership: Navendu Agarwal (SVP), Raguraman Barathalwar (CTO), Sheetal Chittawar (Director Silicon Strategy)",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Ola Electric share pledge and funding",
+   "status": "done",
+   "found": "March 2025: 5.88 crore Ola Electric shares pledged; Sept 2025: 10.71 crore shares (2.43% equity) pledged for Krutrim Data Centre via Axis Trustee/Avendus/InCred; pledges later released after repayment",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Engineer suicide and legal issues",
+   "status": "done",
+   "found": "May 2025: 25-year-old engineer died by suicide; FIR on Bhavish Aggarwal; Oct 2025: second suicide; toxic work culture allegations",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Product status and Kruti app",
+   "status": "done",
+   "found": "Kruti app pulled from stores April 2026; 207,000 downloads since June 2025 launch; chip design paused late 2025; LLM building paused; Krutrim 3 development uncertain",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Revenue composition and external traction",
+   "status": "done",
+   "found": "~90% of FY25 revenue from Ola Group; FY26 revenue ~Rs 300 Cr (3x); first PAT >10%; 25+ enterprise customers; majority GPU capacity committed externally",
+   "next_action": "none"
+  }
+ ],
+ "sources": [
+  {
+   "claim_supported": "$50M @ $1B unicorn, founders, LLM debut",
+   "fields_supported": [
+    "funding_rounds",
+    "founders"
+   ],
+   "publication_date": "2024-01-26",
+   "publisher": "Business Standard",
+   "retrieved_date": "2026-09-14",
+   "tier": "T3",
+   "title": "Bhavish Aggarwal's AI startup Krutrim turns unicorn after raising $50 mn",
+   "url": "https://www.business-standard.com/companies/start-ups/bhavish-aggarwal-s-ai-startup-krutrim-turns-unicorn-after-raising-50-mn-124012600652_1.html"
+  },
+  {
+   "claim_supported": "$230M founder investment, open-source, Nvidia supercomputer",
+   "fields_supported": [
+    "events"
+   ],
+   "publication_date": "2025-02-04",
+   "publisher": "TechCrunch",
+   "retrieved_date": "2026-09-14",
+   "tier": "T3",
+   "title": "SoftBank-backed billionaire to invest $230M in Indian AI startup Krutrim",
+   "url": "https://techcrunch.com/2025/02/04/softbank-backed-billionaire-to-invest-230m-in-indian-ai-startup-krutrim"
+  },
+  {
+   "claim_supported": "AI-cloud pivot, FY26 Rs 300 cr revenue, first profit, 25+ customers",
+   "fields_supported": [
+    "financials",
+    "events",
+    "traction"
+   ],
+   "publication_date": "2026-05-04",
+   "publisher": "Moneycontrol",
+   "retrieved_date": "2026-09-14",
+   "tier": "T3",
+   "title": "Bhavish Aggarwal-led Krutrim pivots from building AI models, chip design to cloud services",
+   "url": "https://www.moneycontrol.com/news/business/startup/bhavish-aggarwal-led-krutrim-pivots-from-building-ai-models-chip-design-to-cloud-services-13908186.html"
+  },
+  {
+   "claim_supported": "$24M debt Oct 2023",
+   "fields_supported": [
+    "funding_rounds"
+   ],
+   "publication_date": "2024-01-27",
+   "publisher": "Economic Times",
+   "retrieved_date": "2026-09-14",
+   "tier": "T3",
+   "title": "Krutrim AI turns unicorn with $50 million funding from Matrix, others",
+   "url": "https://m.economictimes.com/tech/funding/ola-founder-bhavish-aggarwals-krutrim-ai-turns-unicorn-with-50-million-funding-from-matrix-others/articleshow/107166669.cms"
+  },
+  {
+   "url": "https://www.olakrutrim.com/cloud",
+   "title": "Krutrim Cloud (GPU clusters, model repos, AI customer-care agents, mapping, language hub)",
+   "fields": "quarantine-resolved",
+   "confidence": "HIGH"
+  },
+  {
+   "url": "https://tech.olakrutrim.com/krutrim-2-a-best-in-class-large-language-model-for-indic-languages",
+   "title": "Krutrim LLMs (Krutrim-1/2, Indic multilingual, open-sourced Feb 2025)",
+   "fields": "quarantine-resolved",
+   "confidence": "HIGH"
+  },
+  {
+   "url": "https://m.economictimes.com/tech/artificial-intelligence/krutrim-announces-agentic-ai-assistant-kruti-to-launch-on-june-12/articleshow/121727949.cms",
+   "title": "Kruti AI assistant",
+   "fields": "quarantine-resolved",
+   "confidence": "HIGH"
+  },
+  {
+   "url": "https://www.tofler.in/krutrim-si-designs-private-limited/company/U62099KA2023PTC171879",
+   "title": "Krutrim Si Designs Financials | Company Details - Tofler",
+   "fields": [
+    "cin",
+    "incorporation_date"
+   ],
+   "confidence": "high"
+  },
+  {
+   "url": "https://yourstory.com/companies/krutrim-si-designs",
+   "title": "Krutrim SI Designs Company Profile Funding & Investors | YourStory",
+   "fields": [
+    "incorporation_date"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "url": "https://www.business-standard.com/companies/start-ups/krutrim-reports-first-profit-triples-revenue-as-it-pivots-to-ai-cloud-126050401703_1.html",
+   "title": "Krutrim reports first profit, triples revenue as it pivots to AI cloud | Business Standard",
+   "tier": "T2",
+   "claim": "founder status Bhavish Aggarwal"
+  },
+  {
+   "url": "https://inc42.com/features/bhavish-aggarwal-ola-krutrim-ai-ambitions-rut/",
+   "title": "",
+   "fields": "PEOPLE",
+   "confidence": "MEDIUM"
+  },
+  {
+   "url": "https://m.economictimes.com/tech/artificial-intelligence/third-round-of-layoffs-more-leadership-exits-hit-krutrim/articleshow/123642927.cms",
+   "title": "",
+   "fields": "PEOPLE",
+   "confidence": "MEDIUM"
+  },
+  {
+   "url": "https://techcrunch.com/2026/05/05/indias-first-genai-unicorn-shifts-to-cloud-services-as-ai-model-ambitions-face-reality/",
+   "title": "",
+   "fields": "company",
+   "confidence": "HIGH"
+  },
+  {
+   "url": "https://www.indiatoday.in/technology/news/story/krutrim-layoffs-bhavish-aggarwal-ai-startup-cloud-focus-ola-revenue-2957916-2026-07-28",
+   "title": "",
+   "fields": "company",
+   "confidence": "HIGH"
+  },
+  {
+   "url": "https://www.instafinancials.com/company/krutrim-si-designs-private-limited-U62099KA2023PTC171879",
+   "title": "",
+   "fields": "company",
+   "confidence": "HIGH"
+  },
+  {
+   "url": "https://entrackr.com/news/ola-electric-promoter-pledges-243-stake-to-secure-debt-for-krutrim-10090460",
+   "title": "",
+   "fields": "company",
+   "confidence": "HIGH"
+  },
+  {
+   "url": "https://www.hrkatha.com/news/ola-krutrim-lays-off-100-employees-amid-strategic-restructuring/",
+   "title": "",
+   "fields": "company",
+   "confidence": "MEDIUM"
+  },
+  {
+   "url": "https://www.ndtv.com/india-news/25-year-old-krutrim-techie-found-dead-in-bengaluru-toxic-work-culture-blamed-8447681",
+   "title": "",
+   "fields": "company",
+   "confidence": "HIGH"
+  },
+  {
+   "url": "https://entrackr.com/news/krutrim-pivots-to-ai-cloud-clocks-rs-300-cr-revenue-in-fy26-11800907",
+   "title": "",
+   "fields": "company",
+   "confidence": "HIGH"
+  },
+  {
+   "url": "https://www.olakrutrim.com",
+   "title": "",
+   "fields": "company",
+   "confidence": "HIGH"
+  }
+ ],
+ "startup_id": "krutrim",
+ "traction": [
+  {
+   "as_of": "2026-05",
+   "company_reported": true,
+   "confidence": "MEDIUM",
+   "metric": "enterprise customers",
+   "period": "May 2026",
+   "source_url": "https://www.moneycontrol.com/news/business/startup/bhavish-aggarwal-led-krutrim-pivots-from-building-ai-models-chip-design-to-cloud-services-13908186.html",
+   "value": "25+ large enterprises across telecom, FS, consumer internet, healthcare, logistics"
+  },
+  {
+   "metric": "enterprise customers",
+   "value": 25,
+   "unit": "count",
+   "period": "As-of-2026-05",
+   "as_of": "2026-05-04",
+   "company_reported": true,
+   "source_url": "https://www.moneycontrol.com/news/business/startup/bhavish-aggarwal-led-krutrim-pivots-from-building-ai-models-chip-design-to-cloud-services-13908186.html",
+   "confidence": "MEDIUM",
+   "notes": "25+ large enterprises across telecom, FS, consumer internet, healthcare, logistics"
+  },
+  {
+   "metric": "Kruti app downloads",
+   "value": 207000,
+   "unit": "count",
+   "period": "As-of-2025-09",
+   "as_of": "2025-09-02",
+   "company_reported": false,
+   "source_url": "https://m.economictimes.com/tech/artificial-intelligence/third-round-of-layoffs-more-leadership-exits-hit-krutrim/articleshow/123642927.cms",
+   "confidence": "MEDIUM",
+   "notes": "SensorTower data; app pulled from stores April 2026"
+  },
+  {
+   "metric": "revenue from Ola Group",
+   "value": 90.0,
+   "unit": "percent",
+   "period": "FY25",
+   "as_of": "2026-05-05",
+   "company_reported": false,
+   "source_url": "https://techcrunch.com/2026/05/05/indias-first-genai-unicorn-shifts-to-cloud-services-as-ai-model-ambitions-face-reality/",
+   "confidence": "MEDIUM",
+   "notes": "~90% of FY25 revenue from group companies; external demand remains question"
+  },
+  {
+   "metric": "GPU compute capacity committed",
+   "value": 0,
+   "unit": "percent",
+   "period": "As-of-2026-05",
+   "as_of": "2026-05-04",
+   "company_reported": true,
+   "source_url": "https://www.moneycontrol.com/news/business/startup/bhavish-aggarwal-led-krutrim-pivots-from-building-ai-models-chip-design-to-cloud-services-13908186.html",
+   "confidence": "MEDIUM",
+   "notes": "Majority of GPU capacity committed to external enterprise workloads"
+  }
+ ],
+ "completeness_self": {
+  "customers": 4,
+  "financials": 6,
+  "founders": 8,
+  "funding": 7,
+  "identity": 8,
+  "investors": 6,
+  "legal": 4,
+  "people": 3,
+  "products": 7,
+  "sources": 8,
+  "traction": 6
+ },
+ "_merged_session2": true
+}

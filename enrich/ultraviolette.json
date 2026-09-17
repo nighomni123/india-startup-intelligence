@@ -1,0 +1,390 @@
+{
+ "company": {
+  "business_model": "B2C premium EV motorcycles + energy infrastructure; expanding to scooters (Tesseract) and crossover (X-47/Shockwave)",
+  "city": "Bengaluru",
+  "company_name": "Ultraviolette Automotive",
+  "country": "India",
+  "founded_date": "2016",
+  "legal_name": "Ultraviolette Automotive Private Limited",
+  "primary_sector": "ev motorcycles",
+  "public_private": "private",
+  "secondary_sectors": [
+   "battery tech",
+   "charging infrastructure"
+  ],
+  "startup_stage": "Series E",
+  "state": "Karnataka",
+  "status": "active",
+  "website": "https://www.ultraviolette.com/",
+  "official_website": {
+   "v": "https://www.ultraviolette.com",
+   "conf": "high",
+   "src": "https://www.ultraviolette.com",
+   "note": "verified live 2026-09-15: name match on own homepage"
+  },
+  "careers_website": {
+   "v": "https://www.ultraviolette.com/careers",
+   "conf": "high",
+   "src": "https://www.ultraviolette.com",
+   "note": "careers link found on official homepage, probed live"
+  }
+ },
+ "completeness_self": {
+  "financials": 7,
+  "founders": 9,
+  "funding": 8,
+  "identity": 8,
+  "investors": 8,
+  "legal": 5,
+  "people": 3,
+  "products": 8,
+  "sources": 8,
+  "traction": 7
+ },
+ "conflicts": [
+  {
+   "claim_a": "Rs 1,000 Cr Hosur BIGGA factory plan (New Indian Express, Sep 10 2026)",
+   "claim_b": "Rs 779 Cr Hosur plant figure (Business Standard/Reuters, Sep 10 2026)",
+   "field": "hosur_plant_capex",
+   "resolution": "Both Sep-10-2026 reports of same announcement; Rs 779 Cr (Reuters via BS) is wire-sourced, Rs 1,000 Cr (TNIE) is company-event figure. Preserved both.",
+   "resolved_value": "Rs 779-1,000 Cr range across reports",
+   "url_a": "https://www.newindianexpress.com/business/2026/Sep/10/ultraviolette-to-invest-rs-1000-cr-for-new-facility-in-hosur-ramp-up-capacity-in-bengaluru",
+   "url_b": "https://www.business-standard.com/companies/start-ups/ultraviolette-plans-779-crore-tamil-nadu-plant-as-ev-demand-surges-126091000359_1.html"
+  }
+ ],
+ "customers": [],
+ "events": [
+  {
+   "announced_date": "2025-12-04",
+   "confidence": "HIGH",
+   "date": "2025-12-04",
+   "description": "$45M as part of ongoing Series E from Zoho Corporation and Lingotto (Exor); follow-on to $21M from TDK Ventures (Aug 2025); scale F77/X-47, develop Shockwave + Tesseract; 30 cities to 100 by mid-2026.",
+   "headline": "Ultraviolette secures $45M from Zoho + Lingotto (Series E)",
+   "source_url": "http://ultraviolette.com/press-release/ultraviolette-secures-growth-capital-from-zoho-and-lingotto",
+   "type": "funding"
+  },
+  {
+   "announced_date": "2026-09-10",
+   "confidence": "HIGH",
+   "date": "2026-09-10",
+   "description": "BIGGA Factory at SIPCOT Hosur; phased capacity 250k scaling to 500k units/yr; Tesseract scooter + future portfolio; funded via capex+equity+internal flows+some debt.",
+   "headline": "Rs 779-1,000 Cr Hosur factory plan",
+   "source_url": "https://www.business-standard.com/companies/start-ups/ultraviolette-plans-779-crore-tamil-nadu-plant-as-ev-demand-surges-126091000359_1.html",
+   "type": "expansion"
+  },
+  {
+   "announced_date": "2026-09-11",
+   "confidence": "MEDIUM",
+   "date": "2026-09-11",
+   "description": "~Rs 500 Cr stitch-together from Yali Capital (new), Speciale Invest + TDK Ventures (existing); talks confidential, size/valuation not final (Mint sources).",
+   "headline": "Rs 500 Cr ongoing raise eyed (Mint sources)",
+   "source_url": "https://www.livemint.com/companies/ultraviolette-automotive-ultraviolette-auto-electric-vehicles-ev-funding-yali-capital-speciale-invest-tdk-ventures-11789110678964.html",
+   "type": "funding_rumor"
+  }
+ ],
+ "financials": [
+  {
+   "confidence": "HIGH",
+   "currency": "INR",
+   "fiscal_year": "FY25",
+   "metric": "revenue",
+   "source_title": "EV bike maker Ultraviolette raises $45 million (ET, citing Tracxn)",
+   "source_url": "https://economictimes.indiatimes.com/tech/funding/ev-bike-maker-ultraviolette-raises-45-million-from-zoho-ferrari-owner-exors-lingotto/articleshow/125761524.cms",
+   "unit": "crore",
+   "value": 36.1,
+   "value_type": "press-quoted-filing"
+  },
+  {
+   "confidence": "HIGH",
+   "currency": "INR",
+   "fiscal_year": "FY25",
+   "metric": "net_loss",
+   "source_title": "EV bike maker Ultraviolette raises $45 million (ET)",
+   "source_url": "https://economictimes.indiatimes.com/tech/funding/ev-bike-maker-ultraviolette-raises-45-million-from-zoho-ferrari-owner-exors-lingotto/articleshow/125761524.cms",
+   "unit": "crore",
+   "value": 116.3,
+   "value_type": "press-quoted-filing"
+  }
+ ],
+ "founders": [
+  {
+   "confidence": "HIGH",
+   "name": "Narayan Subramaniam",
+   "role": "Co-founder & CEO",
+   "source_url": "http://ultraviolette.com/about",
+   "still_active": true,
+   "type": "co-founder"
+  },
+  {
+   "confidence": "HIGH",
+   "name": "Niraj Rajmohan",
+   "role": "Co-founder & CTO",
+   "source_url": "http://ultraviolette.com/about",
+   "still_active": true,
+   "type": "co-founder"
+  }
+ ],
+ "funding_rounds": [
+  {
+   "all_investors": [
+    "TDK Ventures"
+   ],
+   "amount": 21,
+   "announced_date": "2025-08",
+   "confidence": "MEDIUM",
+   "currency": "USD",
+   "lead_investors": [
+    "TDK Ventures"
+   ],
+   "notes": "Part of ongoing Series E; reported inside Dec-2025 $45M coverage.",
+   "round_date": "2025-08",
+   "round_type": "Series E (tranche)",
+   "source_date": "2025-12-04",
+   "source_title": "EV bike maker Ultraviolette raises $45 million from Zoho, Ferrari-owner Exor's Lingotto",
+   "source_url": "https://economictimes.indiatimes.com/tech/funding/ev-bike-maker-ultraviolette-raises-45-million-from-zoho-ferrari-owner-exors-lingotto/articleshow/125761524.cms",
+   "tier": "T3"
+  },
+  {
+   "all_investors": [
+    "Zoho Corporation",
+    "Lingotto"
+   ],
+   "amount": 45,
+   "announced_date": "2025-12-04",
+   "confidence": "HIGH",
+   "currency": "USD",
+   "lead_investors": [
+    "Zoho Corporation",
+    "Lingotto"
+   ],
+   "round_date": "2025-12-04",
+   "round_type": "Series E (tranche)",
+   "source_date": "2025-12-04",
+   "source_title": "Ultraviolette secures growth capital from Zoho and Lingotto (company press release)",
+   "source_url": "http://ultraviolette.com/press-release/ultraviolette-secures-growth-capital-from-zoho-and-lingotto",
+   "tier": "T1"
+  }
+ ],
+ "gaps": [
+  "CIN/incorporation date not surfaced in this run (registry aggregator did not appear) — needs gapfill",
+  "Audited MCA P&L not directly verified",
+  "Valuation of Series E not disclosed",
+  "Rs 500 Cr Mint-sourced raise unconfirmed"
+ ],
+ "investor_links": [
+  {
+   "confidence": "HIGH",
+   "first_seen": "2025-08",
+   "investor": "TDK Ventures",
+   "investor_type": "CVC",
+   "lead": true,
+   "rounds": [
+    "Series E"
+   ],
+   "source_url": "https://economictimes.indiatimes.com/tech/funding/ev-bike-maker-ultraviolette-raises-45-million-from-zoho-ferrari-owner-exors-lingotto/articleshow/125761524.cms"
+  },
+  {
+   "confidence": "HIGH",
+   "first_seen": "2025-12",
+   "investor": "Zoho Corporation",
+   "investor_type": "corporate",
+   "lead": true,
+   "rounds": [
+    "Series E"
+   ],
+   "source_url": "http://ultraviolette.com/press-release/ultraviolette-secures-growth-capital-from-zoho-and-lingotto"
+  },
+  {
+   "confidence": "HIGH",
+   "first_seen": "2025-12",
+   "investor": "Lingotto (Exor NV)",
+   "investor_type": "investment firm",
+   "lead": true,
+   "rounds": [
+    "Series E"
+   ],
+   "source_url": "http://ultraviolette.com/press-release/ultraviolette-secures-growth-capital-from-zoho-and-lingotto"
+  },
+  {
+   "confidence": "MEDIUM",
+   "first_seen": "2017",
+   "investor": "TVS Motor",
+   "investor_type": "corporate",
+   "lead": false,
+   "rounds": [
+    "Seed+",
+    "Series C"
+   ],
+   "source_url": "https://economictimes.indiatimes.com/tech/funding/ev-bike-maker-ultraviolette-raises-45-million-from-zoho-ferrari-owner-exors-lingotto/articleshow/125761524.cms"
+  },
+  {
+   "confidence": "MEDIUM",
+   "first_seen": "2022",
+   "investor": "Qualcomm Ventures",
+   "investor_type": "CVC",
+   "lead": false,
+   "rounds": [
+    "Series D"
+   ],
+   "source_url": "https://economictimes.indiatimes.com/tech/funding/ev-bike-maker-ultraviolette-raises-45-million-from-zoho-ferrari-owner-exors-lingotto/articleshow/125761524.cms"
+  },
+  {
+   "confidence": "MEDIUM",
+   "first_seen": "2022",
+   "investor": "Speciale Invest",
+   "investor_type": "VC",
+   "lead": false,
+   "rounds": [
+    "Series D",
+    "Series E (eyed)"
+   ],
+   "source_url": "https://www.livemint.com/companies/ultraviolette-automotive-ultraviolette-auto-electric-vehicles-ev-funding-yali-capital-speciale-invest-tdk-ventures-11789110678964.html"
+  }
+ ],
+ "investors_meta": [],
+ "legal": [],
+ "locations": [
+  {
+   "address_or_area": "SIPCOT Industrial Park, Shoolagiri, Hosur (planned BIGGA Factory)",
+   "as_of": "2026-09",
+   "city": "Hosur",
+   "confidence": "MEDIUM",
+   "source_url": "https://www.newindianexpress.com/business/2026/Sep/10/ultraviolette-to-invest-rs-1000-cr-for-new-facility-in-hosur-ramp-up-capacity-in-bengaluru",
+   "state": "Tamil Nadu",
+   "type": "mfg (planned)"
+  }
+ ],
+ "partnerships": [
+  {
+   "confidence": "MEDIUM",
+   "description": "Fast-charging network collaboration",
+   "name": "Bolt Earth",
+   "source_url": "https://www.livemint.com/companies/ultraviolette-automotive-ultraviolette-auto-electric-vehicles-ev-funding-yali-capital-speciale-invest-tdk-ventures/amp-11789110678964.html"
+  }
+ ],
+ "people": [],
+ "products": [
+  {
+   "category": "EV motorcycle",
+   "description": "Electric sports bike; UK sales started 2025",
+   "name": "F77 Mach 2 / Superstreet",
+   "source_url": "https://www.livemint.com/companies/ultraviolette-automotive-ultraviolette-auto-electric-vehicles-ev-funding-yali-capital-speciale-invest-tdk-ventures-11789110678964.html",
+   "status": "live"
+  },
+  {
+   "category": "EV motorcycle",
+   "description": "Crossover motorcycle launched ~2025",
+   "name": "X-47",
+   "source_url": "https://economictimes.indiatimes.com/tech/funding/ev-bike-maker-ultraviolette-raises-45-million-from-zoho-ferrari-owner-exors-lingotto/articleshow/125761524.cms",
+   "status": "live"
+  },
+  {
+   "category": "EV scooter",
+   "description": "Upcoming scooter platform; Hosur capacity anchor",
+   "name": "Tesseract",
+   "source_url": "https://www.newindianexpress.com/business/2026/Sep/10/ultraviolette-to-invest-rs-1000-cr-for-new-facility-in-hosur-ramp-up-capacity-in-bengaluru",
+   "status": "upcoming"
+  }
+ ],
+ "research_log": [
+  {
+   "found": "ACTIVE; Series E $45M Dec 2025 + $21M TDK tranche; FY25 rev Rs 36.1Cr/loss Rs 116.3Cr; Hosur plant; company press page fetch failed (JUNK_CONTENT)",
+   "next_action": "Write enrich JSON; flag CIN for gapfill",
+   "query": "Ultraviolette status/funding/founders/CIN/revenue",
+   "unresolved": "CIN/incorporation; valuation; Rs 500Cr raise confirmation"
+  }
+ ],
+ "sources": [
+  {
+   "fields_supported": [
+    "funding",
+    "investors",
+    "financials",
+    "products"
+   ],
+   "publication_date": "2025-12-04",
+   "publisher": "Economic Times",
+   "retrieved_date": "2026-09-15",
+   "tier": "T3",
+   "title": "EV bike maker Ultraviolette raises $45 million from Zoho, Ferrari-owner Exor's Lingotto",
+   "url": "https://economictimes.indiatimes.com/tech/funding/ev-bike-maker-ultraviolette-raises-45-million-from-zoho-ferrari-owner-exors-lingotto/articleshow/125761524.cms"
+  },
+  {
+   "fields_supported": [
+    "funding",
+    "investors"
+   ],
+   "publication_date": "2025-12-04",
+   "publisher": "Ultraviolette (company press release)",
+   "retrieved_date": "2026-09-15",
+   "tier": "T1",
+   "title": "Ultraviolette secures growth capital from Zoho and Lingotto (fetch: JUNK_CONTENT, snippet facts)",
+   "url": "http://ultraviolette.com/press-release/ultraviolette-secures-growth-capital-from-zoho-and-lingotto"
+  },
+  {
+   "fields_supported": [
+    "expansion",
+    "capacity"
+   ],
+   "publication_date": "2026-09-10",
+   "publisher": "Business Standard (Reuters)",
+   "retrieved_date": "2026-09-15",
+   "tier": "T3",
+   "title": "Ultraviolette plans Rs779 crore Tamil Nadu plant as EV demand surges",
+   "url": "https://www.business-standard.com/companies/start-ups/ultraviolette-plans-779-crore-tamil-nadu-plant-as-ev-demand-surges-126091000359_1.html"
+  },
+  {
+   "fields_supported": [
+    "expansion"
+   ],
+   "publication_date": "2026-09-10",
+   "publisher": "New Indian Express",
+   "retrieved_date": "2026-09-15",
+   "tier": "T3",
+   "title": "Ultraviolette to invest Rs 1,000 cr for new facility in Hosur",
+   "url": "https://www.newindianexpress.com/business/2026/Sep/10/ultraviolette-to-invest-rs-1000-cr-for-new-facility-in-hosur-ramp-up-capacity-in-bengaluru"
+  },
+  {
+   "fields_supported": [
+    "funding_rumor"
+   ],
+   "publication_date": "2026-09-11",
+   "publisher": "Mint",
+   "retrieved_date": "2026-09-15",
+   "tier": "T3",
+   "title": "Ultraviolette Auto eyes funding from Yali, Speciale and TDK as part of ongoing round",
+   "url": "https://www.livemint.com/companies/ultraviolette-automotive-ultraviolette-auto-electric-vehicles-ev-funding-yali-capital-speciale-invest-tdk-ventures-11789110678964.html"
+  },
+  {
+   "fields_supported": [
+    "founders"
+   ],
+   "publication_date": null,
+   "publisher": "Ultraviolette (company site)",
+   "retrieved_date": "2026-09-15",
+   "tier": "T1",
+   "title": "About Ultraviolette",
+   "url": "http://ultraviolette.com/about"
+  }
+ ],
+ "startup_id": "ultraviolette",
+ "traction": [
+  {
+   "as_of": "2026-09",
+   "company_reported": true,
+   "confidence": "MEDIUM",
+   "metric": "global sales H1 2026",
+   "source_url": "https://www.business-standard.com/companies/start-ups/ultraviolette-plans-779-crore-tamil-nadu-plant-as-ev-demand-surges-126091000359_1.html",
+   "value": "3,000+ electric motorcycles"
+  },
+  {
+   "as_of": "2026-09",
+   "company_reported": false,
+   "confidence": "MEDIUM",
+   "metric": "retail + global footprint",
+   "source_url": "https://www.livemint.com/companies/ultraviolette-automotive-ultraviolette-auto-electric-vehicles-ev-funding-yali-capital-speciale-invest-tdk-ventures/amp-11789110678964.html",
+   "value": "100+ Indian cities, 14 countries"
+  }
+ ],
+ "_merged_session2": true
+}

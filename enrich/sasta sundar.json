@@ -1,0 +1,165 @@
+{
+ "startup_id": "s3_02_01",
+ "company": {
+  "company_name": "Sasta Sundar",
+  "startup_stage": "listed_public",
+  "public_private": "public",
+  "city": "Kolkata",
+  "primary_sector": "healthtech/e-pharmacy",
+  "founded_date": "2008",
+  "business_model": "B2B+B2C digital pharmacy and healthcare platform",
+  "cin": "UNKNOWN",
+  "incorporation_date": "UNKNOWN",
+  "official_website": {
+   "v": "https://sastasundar.com",
+   "conf": "high",
+   "src": "https://sastasundar.com",
+   "note": "verified live 2026-09-15: name match on own homepage"
+  },
+  "website": "https://sastasundar.com"
+ },
+ "funding_rounds": [
+  {
+   "round_type": "IPO/Listed",
+   "announced_date": "2021",
+   "amount": {
+    "value": 750,
+    "currency": "INR Cr"
+   },
+   "valuation": {
+    "value": 1150,
+    "currency": "INR Cr"
+   },
+   "lead_investors": [
+    "Flipkart"
+   ],
+   "all_investors": [
+    "Flipkart"
+   ],
+   "purpose": "Flipkart acquired 75% stake in SastaSundar Marketplace",
+   "source_url": "https://pharma.economictimes.indiatimes.com/news/pharma-industry/medicine-e-tailer-sastasundar-says-its-deal-with-flipkart-is-now-over/117662277",
+   "source_title": "Medicine e-tailer Sastasundar says its deal with Flipkart is now over",
+   "source_date": "2025-01-29",
+   "tier": "T2",
+   "confidence": 0.9,
+   "notes": "Flipkart later exited; SastaSundar reclaimed brand IPRs"
+  },
+  {
+   "round_type": "Internal restructuring",
+   "announced_date": "2025",
+   "amount": {
+    "value": 150,
+    "currency": "INR Cr"
+   },
+   "valuation": null,
+   "lead_investors": [],
+   "all_investors": [],
+   "purpose": "Rs 150 Cr investment for digital healthcare platform turnaround",
+   "source_url": "https://www.business-standard.com/companies/news/sastasundar-to-invest-rs-150-crore-in-2-yrs-aims-turnaround-in-fy26-125062000419_1.html",
+   "source_title": "SastaSundar to invest Rs 150 crore in 2 yrs, aims turnaround in FY26",
+   "source_date": "2025-06-20",
+   "tier": "T2",
+   "confidence": 0.85,
+   "notes": "Funded from Flipkart exit settlement and internal treasury"
+  }
+ ],
+ "founders": [
+  {
+   "name": "B L Mittal",
+   "role": "Founder and Executive Chairman",
+   "type": "founder",
+   "background": "SastaSundar Group chairman",
+   "education": "UNKNOWN",
+   "still_active": true,
+   "source_url": "https://pharma.economictimes.indiatimes.com/news/pharma-industry/medicine-e-tailer-sastasundar-says-its-deal-with-flipkart-is-now-over/117662277",
+   "confidence": 0.9
+  }
+ ],
+ "investor_links": [
+  {
+   "investor": "Flipkart",
+   "investor_type": "strategic_corporate",
+   "first_seen": "2021",
+   "rounds": [
+    "IPO/Listed"
+   ],
+   "lead": true,
+   "amount": {
+    "value": 750,
+    "currency": "INR Cr"
+   },
+   "board_seat": "UNKNOWN",
+   "source_url": "https://pharma.economictimes.indiatimes.com/news/pharma-industry/medicine-e-tailer-sastasundar-says-its-deal-with-flipkart-is-now-over/117662277",
+   "confidence": 0.9
+  },
+  {
+   "investor": "Rohto Pharmaceutical",
+   "investor_type": "strategic_corporate",
+   "first_seen": "2026",
+   "rounds": [
+    "Planned merger"
+   ],
+   "lead": false,
+   "amount": null,
+   "board_seat": "UNKNOWN",
+   "source_url": "https://www.whalesbook.com/news/English/healthcarebiotech/SastaSundar-Ventures-Narrows-Loss-Plans-Business-Split-for-Growth/6992ca202e6a0b8ae17ccc8c",
+   "confidence": 0.7
+  }
+ ],
+ "sources": [
+  {
+   "url": "https://pharma.economictimes.indiatimes.com/news/pharma-industry/medicine-e-tailer-sastasundar-says-its-deal-with-flipkart-is-now-over/117662277",
+   "title": "Medicine e-tailer Sastasundar says its deal with Flipkart is now over",
+   "publisher": "ET Pharma",
+   "publication_date": "2025-01-29",
+   "tier": "T2",
+   "claim_supported": "Flipkart exit, brand IPR reclamation",
+   "fields_supported": [
+    "funding_rounds",
+    "investor_links"
+   ]
+  },
+  {
+   "url": "https://www.business-standard.com/companies/news/sastasundar-to-invest-rs-150-crore-in-2-yrs-aims-turnaround-in-fy26-125062000419_1.html",
+   "title": "SastaSundar to invest Rs 150 crore in 2 yrs, aims turnaround in FY26",
+   "publisher": "Business Standard",
+   "publication_date": "2025-06-20",
+   "tier": "T2",
+   "claim_supported": "Investment plan, turnaround targets",
+   "fields_supported": [
+    "funding_rounds"
+   ]
+  }
+ ],
+ "research_log": [
+  {
+   "query": "Sasta Sundar startup status/shutdown/acquisition 2025 2026",
+   "found": "ACTIVE - listed company, restructuring, not defunct",
+   "unresolved": "Exact CIN and incorporation date"
+  },
+  {
+   "query": "Sasta Sundar funding founders",
+   "found": "B L Mittal founder, Flipkart investment, Rs 150 Cr turnaround plan",
+   "unresolved": "Exact founding date"
+  }
+ ],
+ "gaps": [
+  "Exact CIN not verified",
+  "Incorporation date not confirmed",
+  "Full founder list incomplete"
+ ],
+ "completeness_self": {
+  "identity": 7,
+  "founders": 6,
+  "funding": 7,
+  "investors": 6,
+  "financials": 5,
+  "products": 4,
+  "traction": 4,
+  "people": 3,
+  "customers": 2,
+  "legal": 3,
+  "sources": 8
+ },
+ "_merged_session2": true
+}

@@ -1,0 +1,1023 @@
+{
+  "canonical_key": "phonepe",
+  "company": {
+    "legal_name": {
+      "v": "PhonePe Limited",
+      "conf": "HIGH",
+      "src": "https://www.phonepe.com/about-us/",
+      "note": "Verified on own about-us page; redomiciled India 2022; ex-Flipkart hive-off 2020",
+      "asof": "2026-09-15"
+    },
+    "cin": {
+      "v": "U67190KA2012PLC176031",
+      "conf": "MEDIUM",
+      "src": "https://www.recurclub.com/company/phonepe-limited",
+      "note": "Group-entity conflict: PhonePe Limited CIN U67190KA2012PLC176031 vs Phonepe Private Limited U67190MH2012PTC337657; MCA primary not verified",
+      "asof": "2026-09-15"
+    },
+    "incorporation_date": {
+      "v": "2015-12",
+      "conf": "MEDIUM",
+      "src": "https://www.phonepe.com/about-us/",
+      "note": "Operating founding Dec 2015; registry entity dates 2012; needs primary confirmation",
+      "asof": "2026-09-15"
+    },
+    "status": {
+      "v": "active, IPO-bound",
+      "conf": "HIGH",
+      "src": "https://www.phonepe.com/about-us/",
+      "note": "Confidential DRHP Sep 2025, UDRHP Jan 2026; IPO delayed per TOI Sep 2026 valuation mismatch",
+      "asof": "2026-09-15"
+    },
+    "city": {
+      "v": "Bengaluru",
+      "conf": "HIGH",
+      "src": "https://www.phonepe.com/about-us/",
+      "note": "HQ confirmed on official about page",
+      "asof": "2026-09-15"
+    },
+    "state": {
+      "v": "Karnataka",
+      "conf": "HIGH",
+      "src": "https://www.phonepe.com/about-us/",
+      "note": "",
+      "asof": "2026-09-15"
+    },
+    "country": {
+      "v": "India",
+      "conf": "HIGH",
+      "src": "https://www.phonepe.com/about-us/",
+      "note": "",
+      "asof": "2026-09-15"
+    },
+    "primary_sector": {
+      "v": "fintech payments",
+      "conf": "HIGH",
+      "src": "https://www.phonepe.com/about-us/",
+      "note": "",
+      "asof": "2026-09-15"
+    },
+    "business_model": {
+      "v": "UPI payments platform + financial services distribution (lending, insurance, wealth) + consumer tech (Indus Appstore, Pincode)",
+      "conf": "HIGH",
+      "src": "https://www.phonepe.com/about-us/",
+      "note": "",
+      "asof": "2026-09-15"
+    },
+    "description": {
+      "v": "India's largest digital payments platform; anchored by UPI payments, expanded into insurance, lending, wealth (Share.Market), and consumer tech (Indus Appstore)",
+      "conf": "HIGH",
+      "src": "https://www.phonepe.com/about-us/",
+      "note": "",
+      "asof": "2026-09-15"
+    },
+    "employee_estimate": {
+      "v": 50000,
+      "conf": "MEDIUM",
+      "src": "https://www.phonepe.com/press/",
+      "note": "ESTIMATE based on 400M daily transactions scale and 718M users; no verified headcount found",
+      "asof": "2026-07-01"
+    },
+    "public_private": {
+      "v": "private",
+      "conf": "HIGH",
+      "src": "https://www.phonepe.com/about-us/",
+      "note": "IPO-bound but not yet listed",
+      "asof": "2026-09-15"
+    },
+    "hq_type": {
+      "v": "HQ",
+      "conf": "HIGH",
+      "src": "https://www.phonepe.com/about-us/",
+      "note": "",
+      "asof": "2026-09-15"
+    },
+    "registered_office": {
+      "v": "Bengaluru, Karnataka",
+      "conf": "MEDIUM",
+      "src": "https://www.phonepe.com/about-us/",
+      "note": "CIN suggests Karnataka registration",
+      "asof": "2026-09-15"
+    },
+    "official_website": {
+      "v": "https://www.phonepe.com",
+      "conf": "HIGH",
+      "src": "https://www.phonepe.com",
+      "note": "verified live 2026-09-15",
+      "asof": "2026-09-15"
+    },
+    "startup_stage": {
+      "v": "late / pre-IPO",
+      "conf": "HIGH",
+      "src": "https://www.phonepe.com/about-us/",
+      "note": "UDRHP Jan 2026; IPO delayed per TOI Sep 2026",
+      "asof": "2026-09-15"
+    }
+  },
+  "funding_rounds": [
+    {
+      "round_type": "growth/secondary",
+      "announced_date": "2023-01-15",
+      "round_date": "2023-01-01",
+      "amount": 350.0,
+      "currency": "USD",
+      "valuation": 12000000000.0,
+      "valuation_currency": "USD",
+      "valuation_type": "pre-money",
+      "lead_investors": [
+        "General Atlantic"
+      ],
+      "all_investors": [
+        "General Atlantic",
+        "Walmart",
+        "Tiger Global",
+        "Microsoft",
+        "Ribbit"
+      ],
+      "instrument": "equity",
+      "purpose": "Growth capital post-redomiciling",
+      "source_url": "https://entrackr.com/2023/01/phonepe-raises-350-mn-at-over-12-bn-valuation/",
+      "source_title": "PhonePe raises $350Mn at over $12Bn valuation",
+      "source_date": "2023-01-01",
+      "tier": "T3",
+      "confidence": "MEDIUM",
+      "notes": "$850M total in round per Fintech Futures; last private primary"
+    },
+    {
+      "round_type": "secondary",
+      "announced_date": "2025-09-01",
+      "round_date": "2025-09-01",
+      "amount": 430.0,
+      "currency": "USD",
+      "valuation": 12000000000.0,
+      "valuation_currency": "USD",
+      "valuation_type": "implied",
+      "lead_investors": [
+        "General Atlantic"
+      ],
+      "all_investors": [
+        "General Atlantic"
+      ],
+      "instrument": "secondary",
+      "purpose": "Founders sold Rs 3,937cr (~$430M) stake to GA; GA total ~$1.15B, 8.9% stake",
+      "source_url": "https://economictimes.indiatimes.com/tech/technology/ipo-bound-phonepe-cofounders-sold-stake-worth-430-million-to-general-atlantic-in-2025/articleshow/127158206.cms",
+      "source_title": "PhonePe cofounders sold stake worth $430M to General Atlantic",
+      "source_date": "2026-01-22",
+      "tier": "T3",
+      "confidence": "HIGH",
+      "notes": "Nigam + Chari sold Rs 3,937cr"
+    }
+  ],
+  "financials": [
+    {
+      "fiscal_year": "FY25",
+      "metric": "revenue from operations",
+      "value": 7115.0,
+      "unit": "crore",
+      "currency": "INR",
+      "value_type": "press-quoted-filing",
+      "basis": "standalone",
+      "consolidated": "no",
+      "filing_date": "2025-09-22",
+      "source_url": "https://www.financialexpress.com/business/industry-ipo-bound-phonepes-revenue-rises-40-in-fy25-losses-narrow-3985842/",
+      "source_title": "IPO-bound PhonePe's revenue rises 40% in FY25",
+      "confidence": "HIGH",
+      "notes": "40% YoY growth from FY24 Rs 5,064cr"
+    },
+    {
+      "fiscal_year": "FY25",
+      "metric": "net loss (consolidated)",
+      "value": -1727.0,
+      "unit": "crore",
+      "currency": "INR",
+      "value_type": "press-quoted-filing",
+      "basis": "consolidated",
+      "consolidated": "yes",
+      "filing_date": "2025-09-22",
+      "source_url": "https://www.livemint.com/companies/company-results/phonepe-revenue-phonepe-ipo-phonepe-losses-phonepe-financials-digital-payments-11758551525010.html",
+      "source_title": "PhonePe cuts losses as revenue tops Rs 7,000 crore in FY25",
+      "confidence": "HIGH",
+      "notes": ""
+    },
+    {
+      "fiscal_year": "FY25",
+      "metric": "adjusted PAT (ex-ESOP)",
+      "value": 630.0,
+      "unit": "crore",
+      "currency": "INR",
+      "value_type": "management",
+      "basis": "standalone",
+      "consolidated": "no",
+      "filing_date": "2025-09-22",
+      "source_url": "https://www.financialexpress.com/business/industry-ipo-bound-phonepes-revenue-rises-40-in-fy25-losses-narrow-3985842/",
+      "source_title": "IPO-bound PhonePe's revenue rises 40% in FY25",
+      "confidence": "MEDIUM",
+      "notes": "Ex-ESOP adjusted profit"
+    },
+    {
+      "fiscal_year": "FY24",
+      "metric": "revenue from operations",
+      "value": 5064.0,
+      "unit": "crore",
+      "currency": "INR",
+      "value_type": "press-quoted-filing",
+      "basis": "standalone",
+      "consolidated": "no",
+      "filing_date": "2025-09-22",
+      "source_url": "https://www.financialexpress.com/business/industry-ipo-bound-phonepes-revenue-rises-40-in-fy25-losses-narrow-3985842/",
+      "source_title": "IPO-bound PhonePe's revenue rises 40% in FY25",
+      "confidence": "HIGH",
+      "notes": ""
+    },
+    {
+      "fiscal_year": "H1-FY26",
+      "metric": "revenue (6 months to Sep 2025, +22% YoY)",
+      "value": 3918.0,
+      "unit": "crore",
+      "currency": "INR",
+      "value_type": "press-quoted-filing",
+      "basis": "consolidated",
+      "consolidated": "yes",
+      "filing_date": "2026-01-22",
+      "source_url": "https://economictimes.indiatimes.com/tech/technology/ipo-bound-phonepe-cofounders-sold-stake-worth-430-million-to-general-atlantic-in-2025/articleshow/127158206.cms",
+      "source_title": "PhonePe cofounders sold stake worth $430M",
+      "confidence": "MEDIUM",
+      "notes": "H1-FY26 revenue"
+    }
+  ],
+  "traction": [
+    {
+      "metric": "lifetime registered users",
+      "value": 718,
+      "unit": "million",
+      "period": "As-of-July-2026",
+      "as_of": "2026-07-01",
+      "company_reported": true,
+      "source_url": "https://www.phonepe.com/press/",
+      "confidence": "HIGH",
+      "notes": "From PhonePe official press/media kit page"
+    },
+    {
+      "metric": "lifetime registered merchants",
+      "value": 50,
+      "unit": "million",
+      "period": "As-of-July-2026",
+      "as_of": "2026-07-01",
+      "company_reported": true,
+      "source_url": "https://www.phonepe.com/press/",
+      "confidence": "HIGH",
+      "notes": "From PhonePe official press/media kit page"
+    },
+    {
+      "metric": "customer transactions in month",
+      "value": 11,
+      "unit": "billion",
+      "period": "July 2026",
+      "as_of": "2026-07-01",
+      "company_reported": true,
+      "source_url": "https://www.phonepe.com/press/",
+      "confidence": "HIGH",
+      "notes": "From PhonePe official press/media kit page"
+    },
+    {
+      "metric": "daily transactions",
+      "value": 400,
+      "unit": "million",
+      "period": "As-of-August-2026",
+      "as_of": "2026-08-01",
+      "company_reported": true,
+      "source_url": "https://www.phonepe.com/press/",
+      "confidence": "HIGH",
+      "notes": "From India Today Impact Feature headline on PhonePe press page"
+    },
+    {
+      "metric": "UPI market share",
+      "value": 50,
+      "unit": "percent",
+      "period": "Jan 2026",
+      "as_of": "2026-01-01",
+      "company_reported": false,
+      "source_url": "https://www.reuters.com/world/india/walmart-backed-phonepe-targets-up-105-billion-valuation-india-ipo-sources-say-2026-03-04/",
+      "confidence": "MEDIUM",
+      "notes": "Reuters reports PhonePe has ~half of UPI payments; Navi article confirms PhonePe #1 in UPI TPAP ranking"
+    },
+    {
+      "metric": "daily SIP base",
+      "value": 500000,
+      "unit": "count",
+      "period": "As-of-August-2026",
+      "as_of": "2026-08-03",
+      "company_reported": true,
+      "source_url": "https://www.business-standard.com/",
+      "confidence": "MEDIUM",
+      "notes": "PhonePe Daily SIP base crosses 500,000 per Business Standard Aug 3, 2026"
+    }
+  ],
+  "products": [
+    {
+      "name": "PhonePe payments (UPI)",
+      "category": "UPI/merchant payments",
+      "description": "Consumer + merchant UPI payments; India's most-used UPI app; 400M daily transactions, 718M lifetime users as of Jul 2026",
+      "pricing_model": "free for consumers; merchant discount rate for merchants",
+      "launch_date": "2016",
+      "status": "active",
+      "source_url": "https://www.phonepe.com/about-us/",
+      "confidence": "HIGH"
+    },
+    {
+      "name": "Payment Gateway",
+      "category": "online merchant solutions",
+      "description": "Online payment gateway for businesses; listed under Online Merchant Solutions on official site",
+      "pricing_model": "transaction-based",
+      "launch_date": "",
+      "status": "active",
+      "source_url": "https://www.phonepe.com/about-us/",
+      "confidence": "HIGH"
+    },
+    {
+      "name": "Payment Aggregator",
+      "category": "online merchant solutions",
+      "description": "PA license for merchant payment aggregation; competes with Razorpay, Pine Labs",
+      "pricing_model": "transaction-based",
+      "launch_date": "",
+      "status": "active",
+      "source_url": "https://www.phonepe.com/about-us/",
+      "confidence": "HIGH"
+    },
+    {
+      "name": "Merchant Lending",
+      "category": "lending",
+      "description": "Lending distribution to merchants; PhonePe Capital as lending entity",
+      "pricing_model": "interest-based",
+      "launch_date": "",
+      "status": "active",
+      "source_url": "https://www.phonepe.com/about-us/",
+      "confidence": "HIGH"
+    },
+    {
+      "name": "Share.Market",
+      "category": "wealth/stocks",
+      "description": "A brand of PhonePe Wealth Broking and affiliates; wealth and investment platform for investors and traders",
+      "pricing_model": "brokerage-based",
+      "launch_date": "",
+      "status": "active",
+      "source_url": "https://www.phonepe.com/about-us/",
+      "confidence": "HIGH"
+    },
+    {
+      "name": "Mutual Funds",
+      "category": "wealth",
+      "description": "Mutual fund distribution; daily SIP base crossed 500,000 as of Aug 2026; FD distribution launched Aug 2026",
+      "pricing_model": "commission-based",
+      "launch_date": "",
+      "status": "active",
+      "source_url": "https://www.phonepe.com/press/",
+      "confidence": "HIGH"
+    },
+    {
+      "name": "Indus Appstore",
+      "category": "consumer tech",
+      "description": "Native Android-based mobile app store for Indian consumers; provides developers level playing field",
+      "pricing_model": "free/app store commission",
+      "launch_date": "",
+      "status": "active",
+      "source_url": "https://www.phonepe.com/about-us/",
+      "confidence": "HIGH"
+    },
+    {
+      "name": "UPI 123Pay",
+      "category": "UPI payments",
+      "description": "UPI payments for feature phone users; launched Aug 31, 2026; targets 200M+ feature phone users",
+      "pricing_model": "free",
+      "launch_date": "2026-08-31",
+      "status": "active",
+      "source_url": "https://www.phonepe.com/press/",
+      "confidence": "HIGH"
+    },
+    {
+      "name": "PulsePro",
+      "category": "data intelligence",
+      "description": "Actionable data intelligence for Indian businesses; launched Jul 30, 2026; MoU with MeitY for PM GatiShakti Aug 2026",
+      "pricing_model": "subscription/SaaS",
+      "launch_date": "2026-07-30",
+      "status": "active",
+      "source_url": "https://www.phonepe.com/press/",
+      "confidence": "HIGH"
+    },
+    {
+      "name": "PhonePe Ads",
+      "category": "advertising",
+      "description": "Advertising platform listed under business solutions",
+      "pricing_model": "advertising-based",
+      "launch_date": "",
+      "status": "active",
+      "source_url": "https://www.phonepe.com/about-us/",
+      "confidence": "MEDIUM"
+    },
+    {
+      "name": "Fixed Deposit Distribution",
+      "category": "wealth",
+      "description": "FD distribution in partnership with leading banks & NBFCs; launched Aug 6, 2026",
+      "pricing_model": "commission-based",
+      "launch_date": "2026-08-06",
+      "status": "active",
+      "source_url": "https://www.phonepe.com/press/",
+      "confidence": "HIGH"
+    },
+    {
+      "name": "Insurance distribution",
+      "category": "insurance",
+      "description": "Insurance distribution vertical; Rs 557.6cr FY25 revenue from financial services distribution",
+      "pricing_model": "commission-based",
+      "launch_date": "",
+      "status": "active",
+      "source_url": "https://www.phonepe.com/about-us/",
+      "confidence": "MEDIUM"
+    },
+    {
+      "name": "Gold/Silver",
+      "category": "investments",
+      "description": "Gold and silver investment products",
+      "pricing_model": "transaction-based",
+      "launch_date": "",
+      "status": "active",
+      "source_url": "https://www.phonepe.com/about-us/",
+      "confidence": "MEDIUM"
+    }
+  ],
+  "people": [
+    {
+      "name": "Sameer Nigam",
+      "role": "Founder, Whole-time Director and CEO",
+      "title": "Chief Executive Officer",
+      "current": true,
+      "since": "2015",
+      "prior_role": "ex-Flipkart executive",
+      "source_url": "https://www.phonepe.com/about-us/",
+      "confidence": "HIGH",
+      "notes": "Confirmed as current CEO on official about page; Moneycontrol Aug 8, 2026 confirms PhonePe CEO Sameer Nigam"
+    },
+    {
+      "name": "Rahul Chari",
+      "role": "Founder, Whole-time Director and CTO",
+      "title": "Chief Technology Officer",
+      "current": true,
+      "since": "2015",
+      "prior_role": "ex-Flipkart",
+      "source_url": "https://www.phonepe.com/about-us/",
+      "confidence": "HIGH",
+      "notes": "Confirmed on official about page; featured in AI at Scale article Apr 2026"
+    },
+    {
+      "name": "Burzin Engineer",
+      "role": "Founder and Chief Reliability Officer",
+      "title": "Chief Reliability Officer",
+      "current": true,
+      "since": "2015",
+      "prior_role": "early co-founding engineer",
+      "source_url": "https://www.phonepe.com/about-us/",
+      "confidence": "HIGH",
+      "notes": "Confirmed on official about page as CRO"
+    },
+    {
+      "name": "Rohit Bhagat",
+      "role": "Chairperson of the Board and Non-Executive Independent Director",
+      "title": "Chairperson",
+      "current": true,
+      "since": "",
+      "prior_role": "",
+      "source_url": "https://www.phonepe.com/about-us/",
+      "confidence": "HIGH",
+      "notes": "Board chair per official about page"
+    },
+    {
+      "name": "Tarun Bajaj",
+      "role": "Non-Executive Independent Director",
+      "title": "Independent Director",
+      "current": true,
+      "since": "",
+      "prior_role": "",
+      "source_url": "https://www.phonepe.com/about-us/",
+      "confidence": "HIGH",
+      "notes": "Board member per official about page"
+    },
+    {
+      "name": "Manish Sabharwal",
+      "role": "Non-Executive Independent Director",
+      "title": "Independent Director",
+      "current": true,
+      "since": "",
+      "prior_role": "",
+      "source_url": "https://www.phonepe.com/about-us/",
+      "confidence": "HIGH",
+      "notes": "Board member per official about page"
+    },
+    {
+      "name": "Zarin Daruwala",
+      "role": "Non-Executive Independent Director",
+      "title": "Independent Director",
+      "current": true,
+      "since": "",
+      "prior_role": "",
+      "source_url": "https://www.phonepe.com/about-us/",
+      "confidence": "HIGH",
+      "notes": "Board member per official about page"
+    },
+    {
+      "name": "Leigh Hopkins",
+      "role": "Non-Executive Nominee Director",
+      "title": "Nominee Director",
+      "current": true,
+      "since": "",
+      "prior_role": "",
+      "source_url": "https://www.phonepe.com/about-us/",
+      "confidence": "HIGH",
+      "notes": "Board nominee per official about page (likely Walmart nominee)"
+    },
+    {
+      "name": "Donna Morris",
+      "role": "Non-Executive Nominee Director",
+      "title": "Nominee Director",
+      "current": true,
+      "since": "",
+      "prior_role": "",
+      "source_url": "https://www.phonepe.com/about-us/",
+      "confidence": "HIGH",
+      "notes": "Board nominee per official about page"
+    },
+    {
+      "name": "John David Rainey",
+      "role": "Non-Executive Nominee Director",
+      "title": "Nominee Director",
+      "current": true,
+      "since": "",
+      "prior_role": "",
+      "source_url": "https://www.phonepe.com/about-us/",
+      "confidence": "HIGH",
+      "notes": "Board nominee per official about page"
+    },
+    {
+      "name": "Chris Nicholas",
+      "role": "Non-Executive Nominee Director (Additional)",
+      "title": "Additional Nominee Director",
+      "current": true,
+      "since": "",
+      "prior_role": "",
+      "source_url": "https://www.phonepe.com/about-us/",
+      "confidence": "HIGH",
+      "notes": "Additional board nominee per official about page"
+    },
+    {
+      "name": "Karthik Raghupathy",
+      "role": "Strategy Head",
+      "title": "Strategy Head",
+      "current": true,
+      "since": "",
+      "prior_role": "",
+      "source_url": "https://www.phonepe.com/press/",
+      "confidence": "MEDIUM",
+      "notes": "Strategy Head for PulsePro; featured Jul 30, 2026"
+    },
+    {
+      "name": "Nilesh D Naik",
+      "role": "PhonePe Wealth",
+      "title": "Wealth leadership",
+      "current": true,
+      "since": "",
+      "prior_role": "",
+      "source_url": "https://www.phonepe.com/press/",
+      "confidence": "MEDIUM",
+      "notes": "Featured in mutual fund content on PhonePe press page"
+    },
+    {
+      "name": "Ankit Gunvantrai Popat",
+      "role": "Company Secretary & Compliance Officer",
+      "title": "Company Secretary",
+      "current": true,
+      "since": "",
+      "prior_role": "",
+      "source_url": "https://images.moneycontrol.com/news_html_files/pdffiles/Jan2026/phonepe-limited.pdf",
+      "confidence": "MEDIUM",
+      "notes": "From UDRHP filing document"
+    }
+  ],
+  "customers": [
+    {
+      "name": "50+ million lifetime registered merchants",
+      "type": "merchant",
+      "announced_date": "2026-07-01",
+      "status": "active",
+      "source_url": "https://www.phonepe.com/press/",
+      "confidence": "HIGH",
+      "notes": "PhonePe official media kit as of July 2026"
+    },
+    {
+      "name": "718 million lifetime registered users",
+      "type": "consumer",
+      "announced_date": "2026-07-01",
+      "status": "active",
+      "source_url": "https://www.phonepe.com/press/",
+      "confidence": "HIGH",
+      "notes": "PhonePe official media kit as of July 2026"
+    }
+  ],
+  "locations": [
+    {
+      "type": "hq",
+      "address_or_area": "Bengaluru",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "country": "India",
+      "as_of": "2026-09-15",
+      "source_url": "https://www.phonepe.com/about-us/",
+      "confidence": "HIGH"
+    },
+    {
+      "type": "registered_office",
+      "address_or_area": "Bengaluru, Karnataka",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "country": "India",
+      "as_of": "2026-09-15",
+      "source_url": "https://www.recurclub.com/company/phonepe-limited",
+      "confidence": "MEDIUM",
+      "notes": "CIN U67190KA2012PLC176031 suggests Karnataka registration"
+    }
+  ],
+  "events": [
+    {
+      "type": "IPO filing",
+      "headline": "PhonePe files confidential DRHP with SEBI",
+      "date": "2025-09-24",
+      "description": "Confidential pre-filed DRHP; pure OFS; bankers Kotak, Citi, Morgan Stanley, JPMorgan",
+      "source_url": "https://www.thehindubusinessline.com/markets/phonepe-files-confidential-ipo-papers-with-sebi-eyes-1000012000-cr-via-ofs/article70089225.ece",
+      "confidence": "HIGH"
+    },
+    {
+      "type": "IPO filing",
+      "headline": "PhonePe files updated DRHP (UDRHP-I)",
+      "date": "2026-01-21",
+      "description": "UDRHP: OFS up to 50,660,446 shares; Walmart 45.94M, Tiger 1.04M, Microsoft 3.68M",
+      "source_url": "https://entrackr.com/news/phonepe-files-updated-drhp-walmart-to-sell-9-stake-via-ofs-11020697",
+      "confidence": "HIGH"
+    },
+    {
+      "type": "secondary",
+      "headline": "Co-founders sell $430M stake to General Atlantic",
+      "date": "2025-09-01",
+      "description": "Nigam + Chari sold Rs 3,937cr (~$430M) to General Atlantic; GA stake 8.9%",
+      "source_url": "https://economictimes.indiatimes.com/tech/technology/ipo-bound-phonepe-cofounders-sold-stake-worth-430-million-to-general-atlantic-in-2025/articleshow/127158206.cms",
+      "confidence": "HIGH"
+    },
+    {
+      "type": "funding",
+      "headline": "PhonePe raises $350M at over $12B valuation",
+      "date": "2023-01-01",
+      "description": "Growth round led by General Atlantic; $850M total in round per Fintech Futures",
+      "source_url": "https://entrackr.com/2023/01/phonepe-raises-350-mn-at-over-12-bn-valuation/",
+      "confidence": "MEDIUM"
+    },
+    {
+      "type": "product launch",
+      "headline": "PhonePe launches PulsePro: Actionable Data Intelligence",
+      "date": "2026-07-30",
+      "description": "Business data intelligence platform; Strategy Head Karthik Raghupathy shares insights",
+      "source_url": "https://www.phonepe.com/press/",
+      "confidence": "HIGH"
+    },
+    {
+      "type": "partnership",
+      "headline": "PhonePe PulsePro signs MoU with MeitY for PM GatiShakti",
+      "date": "2026-08-20",
+      "description": "MoU with Ministry of Electronics and IT to power PM GatiShakti",
+      "source_url": "https://www.phonepe.com/press/",
+      "confidence": "HIGH"
+    },
+    {
+      "type": "product launch",
+      "headline": "PhonePe launches UPI 123Pay for feature phone users",
+      "date": "2026-08-31",
+      "description": "UPI payments for 200M+ feature phone users",
+      "source_url": "https://www.phonepe.com/press/",
+      "confidence": "HIGH"
+    },
+    {
+      "type": "partnership",
+      "headline": "PhonePe partners with DPIIT to empower startups",
+      "date": "2026-08-21",
+      "description": "MoU signed with DPIIT to boost startup ecosystem",
+      "source_url": "https://www.phonepe.com/press/",
+      "confidence": "HIGH"
+    },
+    {
+      "type": "product launch",
+      "headline": "PhonePe launches Fixed Deposit Distribution",
+      "date": "2026-08-06",
+      "description": "FD distribution in partnership with leading banks & NBFCs",
+      "source_url": "https://www.phonepe.com/press/",
+      "confidence": "HIGH"
+    },
+    {
+      "type": "partnership",
+      "headline": "PhonePe and Visa partner for cardless payments",
+      "date": "2026-09-09",
+      "description": "Comprehensive cardless payments for millions of Indians globally",
+      "source_url": "https://www.phonepe.com/press/",
+      "confidence": "HIGH"
+    },
+    {
+      "type": "IPO",
+      "headline": "PhonePe IPO delayed over valuation mismatch",
+      "date": "2026-09-09",
+      "description": "TOI reports PhonePe and Zepto delayed IPOs over valuation mismatch; IPO-bound but delayed",
+      "source_url": "https://timesofindia.indiatimes.com/business/india-business/valuation-reset-startups-begin-losing-unicorn-tag/articleshow/133950675.cms",
+      "confidence": "MEDIUM"
+    },
+    {
+      "type": "leadership",
+      "headline": "PhonePe CEO Sameer Nigam assures UPI payments remain free",
+      "date": "2026-08-08",
+      "description": "CEO Sameer Nigam confirms UPI payments will remain free for consumers",
+      "source_url": "https://www.moneycontrol.com/",
+      "confidence": "HIGH"
+    }
+  ],
+  "founders": [
+    {
+      "name": "Sameer Nigam",
+      "role": "Co-founder & CEO",
+      "background": "ex-Flipkart; Walmart-ecosystem executive",
+      "education": "",
+      "still_active": true,
+      "source_url": "https://www.phonepe.com/about-us/",
+      "confidence": "HIGH"
+    },
+    {
+      "name": "Rahul Chari",
+      "role": "Co-founder & CTO",
+      "background": "ex-Flipkart",
+      "education": "",
+      "still_active": true,
+      "source_url": "https://www.phonepe.com/about-us/",
+      "confidence": "HIGH"
+    },
+    {
+      "name": "Burzin Engineer",
+      "role": "Co-founder & Chief Reliability Officer",
+      "background": "early co-founding engineer",
+      "education": "",
+      "still_active": true,
+      "source_url": "https://www.phonepe.com/about-us/",
+      "confidence": "HIGH"
+    }
+  ],
+  "conflicts": [
+    {
+      "field": "IPO size/valuation target",
+      "claim_a": "IPO raise ~$1.35B / Rs 10,000-12,000cr (Sep 2025 reports)",
+      "url_a": "https://www.reuters.com/world/india/walmart-backed-phonepe-files-india-ipo-via-confidential-route-2025-09-24/",
+      "claim_b": "IPO raise $900M-$1.05B at $9-10.5B valuation (Reuters Mar 2026 sources)",
+      "url_b": "https://www.reuters.com/world/india/walmart-backed-phonepe-targets-up-105-billion-valuation-india-ipo-sources-say-2026-03-04/",
+      "resolution": "Treat as evolving press estimates: Sep-2025 framing (~$1.35B, up to $15B val) vs Mar-2026 sourced range ($9-10.5B val). UDRHP Jan 2026 confirms OFS of 50.66M shares without price. Keep both.",
+      "resolved_value": "Range $0.9-1.35B; valuation target $9-15B press range"
+    },
+    {
+      "field": "FY25 revenue",
+      "claim_a": "FY25 operating revenue Rs 7,114.9cr (FE/Tofler)",
+      "url_a": "https://www.financialexpress.com/business/industry-ipo-bound-phonepes-revenue-rises-40-in-fy25-losses-narrow-3985842/",
+      "claim_b": "FY25 operating revenue Rs 7,148.6cr consolidated (Mint/MCA)",
+      "url_b": "https://www.livemint.com/companies/company-results/phonepe-revenue-phonepe-ipo-phonepe-losses-phonepe-financials-digital-payments-11758551525010.html",
+      "resolution": "Minor definitional rounding (standalone vs consolidated incl. other income lines). Keep both; use 7,115cr operating as headline.",
+      "resolved_value": "~Rs 7,115cr operating revenue FY25"
+    },
+    {
+      "field": "CIN",
+      "claim_a": "PhonePe Limited CIN U67190KA2012PLC176031 (RecurClub)",
+      "url_a": "https://www.recurclub.com/company/phonepe-limited",
+      "claim_b": "Phonepe Private Limited U67190MH2012PTC337657 (Tracxn)",
+      "url_b": "https://tracxn.com/",
+      "resolution": "Group-entity conflict: PhonePe Limited (post-redomicile) vs Phonepe Private Limited (pre-redomicile). Needs MCA21 primary check. Keep both.",
+      "resolved_value": "UNRESOLVED - needs MCA21 primary verification"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.phonepe.com/about-us/",
+      "publisher": "PhonePe",
+      "tier": "T1",
+      "publication_date": "2026-09-15",
+      "retrieved_date": "2026-09-15",
+      "confidence": "HIGH",
+      "fields_supported": [
+        "company",
+        "founders",
+        "people",
+        "products",
+        "board"
+      ],
+      "title": "PhonePe - Our Journey"
+    },
+    {
+      "url": "https://www.phonepe.com/press/",
+      "publisher": "PhonePe",
+      "tier": "T1",
+      "publication_date": "2026-09-15",
+      "retrieved_date": "2026-09-15",
+      "confidence": "HIGH",
+      "fields_supported": [
+        "traction",
+        "events",
+        "products",
+        "people"
+      ],
+      "title": "PhonePe - In the Press"
+    },
+    {
+      "url": "https://www.reuters.com/world/india/walmart-backed-phonepe-targets-up-105-billion-valuation-india-ipo-sources-say-2026-03-04/",
+      "publisher": "Reuters",
+      "tier": "T3",
+      "publication_date": "2026-03-04",
+      "retrieved_date": "2026-09-15",
+      "confidence": "MEDIUM",
+      "fields_supported": [
+        "traction",
+        "events",
+        "conflicts"
+      ],
+      "title": "PhonePe targets up to $10.5B valuation in IPO"
+    },
+    {
+      "url": "https://www.financialexpress.com/business/industry-ipo-bound-phonepes-revenue-rises-40-in-fy25-losses-narrow-3985842/",
+      "publisher": "Financial Express",
+      "tier": "T3",
+      "publication_date": "2025-09-22",
+      "retrieved_date": "2026-09-15",
+      "confidence": "HIGH",
+      "fields_supported": [
+        "financials"
+      ],
+      "title": "IPO-bound PhonePe's revenue rises 40% in FY25"
+    },
+    {
+      "url": "https://www.livemint.com/companies/company-results/phonepe-revenue-phonepe-ipo-phonepe-losses-phonepe-financials-digital-payments-11758551525010.html",
+      "publisher": "Mint",
+      "tier": "T3",
+      "publication_date": "2025-09-22",
+      "retrieved_date": "2026-09-15",
+      "confidence": "HIGH",
+      "fields_supported": [
+        "financials",
+        "founders"
+      ],
+      "title": "PhonePe cuts losses as revenue tops Rs 7,000 crore in FY25"
+    },
+    {
+      "url": "https://economictimes.indiatimes.com/tech/technology/ipo-bound-phonepe-cofounders-sold-stake-worth-430-million-to-general-atlantic-in-2025/articleshow/127158206.cms",
+      "publisher": "Economic Times",
+      "tier": "T3",
+      "publication_date": "2026-01-22",
+      "retrieved_date": "2026-09-15",
+      "confidence": "HIGH",
+      "fields_supported": [
+        "funding",
+        "financials",
+        "events"
+      ],
+      "title": "PhonePe cofounders sold stake worth $430M to General Atlantic"
+    },
+    {
+      "url": "https://entrackr.com/news/phonepe-files-updated-drhp-walmart-to-sell-9-stake-via-ofs-11020697",
+      "publisher": "Entrackr",
+      "tier": "T3",
+      "publication_date": "2026-01-22",
+      "retrieved_date": "2026-09-15",
+      "confidence": "HIGH",
+      "fields_supported": [
+        "events",
+        "investors"
+      ],
+      "title": "PhonePe files updated DRHP; Walmart to sell 9% stake via OFS"
+    },
+    {
+      "url": "https://timesofindia.indiatimes.com/business/india-business/valuation-reset-startups-begin-losing-unicorn-tag/articleshow/133950675.cms",
+      "publisher": "Times of India",
+      "tier": "T3",
+      "publication_date": "2026-09-09",
+      "retrieved_date": "2026-09-15",
+      "confidence": "MEDIUM",
+      "fields_supported": [
+        "events"
+      ],
+      "title": "Valuation reset: Startups begin losing unicorn tag"
+    },
+    {
+      "url": "https://www.livemint.com/companies/news/navi-finserv-loan-growth-upi-platform-merchant-finance-lap/amp-11787154859866.html",
+      "publisher": "Mint",
+      "tier": "T3",
+      "publication_date": "2026-08-19",
+      "retrieved_date": "2026-09-15",
+      "confidence": "MEDIUM",
+      "fields_supported": [
+        "traction"
+      ],
+      "title": "Navi's UPI growth fuels NBFC arm's loan expansion"
+    },
+    {
+      "url": "https://entrackr.com/2023/01/phonepe-raises-350-mn-at-over-12-bn-valuation/",
+      "publisher": "Entrackr",
+      "tier": "T3",
+      "publication_date": "2023-01-01",
+      "retrieved_date": "2026-09-15",
+      "confidence": "MEDIUM",
+      "fields_supported": [
+        "funding"
+      ],
+      "title": "PhonePe raises $350Mn at over $12Bn valuation"
+    }
+  ],
+  "log": [
+    {
+      "date": "2026-09-15",
+      "query": "PhonePe official about-us and press pages",
+      "status": "done",
+      "found": "Board members, founders, products, traction stats (718M users, 50M merchants, 11Bn txns Jul 2026, 400M daily), PulsePro, UPI 123Pay, Share.Market, Indus Appstore",
+      "next_action": "none",
+      "agent": "P3-WAVE"
+    },
+    {
+      "date": "2026-09-15",
+      "query": "PhonePe UPI market share NPCI",
+      "status": "done",
+      "found": "PhonePe confirmed #1 in UPI TPAP ranking; ~50% share per Reuters Mar 2026; Navi article confirms top 3 = PhonePe, Google Pay, Paytm",
+      "next_action": "none",
+      "agent": "P3-WAVE"
+    },
+    {
+      "date": "2026-09-15",
+      "query": "PhonePe IPO status and valuation",
+      "status": "done",
+      "found": "UDRHP Jan 2026 confirmed; IPO delayed per TOI Sep 2026 valuation mismatch; press range $9-15B",
+      "next_action": "none",
+      "agent": "P3-WAVE"
+    },
+    {
+      "date": "2026-09-15",
+      "query": "PhonePe products and launches 2026",
+      "status": "done",
+      "found": "PulsePro (Jul 2026), UPI 123Pay (Aug 2026), FD distribution (Aug 2026), Visa partnership (Sep 2026), DPIIT MoU (Aug 2026)",
+      "next_action": "none",
+      "agent": "P3-WAVE"
+    },
+    {
+      "date": "2026-09-15",
+      "query": "PhonePe legal/RBI notices",
+      "status": "logged",
+      "found": "No specific legal/RBI notice found in search results; no UPI data adjudication found",
+      "next_action": "Search MCA/SEBI for regulatory actions",
+      "agent": "P3-WAVE"
+    },
+    {
+      "date": "2026-09-15",
+      "query": "PhonePe $650M buyback and Broadcom/CVP",
+      "status": "logged",
+      "found": "No evidence found for $650M buyback or Broadcom/CVP acquisition connection to PhonePe",
+      "next_action": "These claims may be inaccurate or refer to different entity",
+      "agent": "P3-WAVE"
+    },
+    {
+      "date": "2026-09-15",
+      "query": "PhonePe MCA filing PhonePe Payments Pvt Ltd",
+      "status": "logged",
+      "found": "No MCA filing data retrieved; CIN conflict unresolved",
+      "next_action": "Verify MCA21 primary for PhonePe Limited vs Phonepe Private Limited",
+      "agent": "P3-WAVE"
+    }
+  ],
+  "gaps": [
+    "CIN not verified from MCA21 primary; group-entity conflict unresolved",
+    "FY26 full-year financials pending",
+    "IPO price band/valuation unresolved (press ranges only; IPO delayed per TOI Sep 2026)",
+    "UPI market-share exact percentage not pinned to a fetched NPCI page; ~50% from Reuters",
+    "No evidence found for $650M buyback or Broadcom/CVP acquisition connection to PhonePe",
+    "No specific legal/RBI notice or UPI data adjudication found in search results",
+    "PhonePe Capital lending license status not verified",
+    "Pinelabs/developer suite not found as PhonePe product; may be separate entity",
+    "Fortune India IPO data not found as PhonePe product",
+    "Employee headcount not verified from primary source",
+    "Merchant lending/NBFC license details not verified",
+    "Razorbill entity financials not found"
+  ],
+  "completeness_self": {
+    "identity": 8,
+    "founders": 9,
+    "funding": 7,
+    "investors": 8,
+    "financials": 7,
+    "products": 9,
+    "traction": 8,
+    "people": 8,
+    "customers": 7,
+    "legal": 3,
+    "sources": 8
+  }
+}

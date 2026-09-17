@@ -1,0 +1,923 @@
+{
+ "company": {
+  "business_model": "B2B SaaS, usage-linked + subscription",
+  "city": "Bengaluru",
+  "country": "India",
+  "customer_type": "B2B",
+  "founded_date": "2008",
+  "last_funding_date": "2026-01-21",
+  "last_funding_round": "IPO",
+  "last_known_valuation": "~$821M at listing (Jan 2026); $1.4B last private (Nov 2022)",
+  "legal_name": "Amagi Media Labs Limited",
+  "primary_sector": "media-tech SaaS",
+  "public_private": "public (listed Jan 2026; NSE: AMAGI, BSE: 544679)",
+  "secondary_sectors": [
+   "cloud broadcast",
+   "ad-tech",
+   "FAST/CTV"
+  ],
+  "startup_stage": "public",
+  "state": "Karnataka",
+  "status": "operating",
+  "cin": "L73100KA2008PLC045144",
+  "incorporation_date": "2008-02-01",
+  "official_website": {
+   "v": "https://www.amagi.com",
+   "conf": "high",
+   "src": "https://www.amagi.com",
+   "note": "verified live 2026-09-15: name match on own homepage"
+  },
+  "careers_website": {
+   "v": "https://www.amagi.com/careers",
+   "conf": "high",
+   "src": "https://www.amagi.com",
+   "note": "careers link found on official homepage, probed live"
+  },
+  "website": "https://www.amagi.com"
+ },
+ "completeness_self": {
+  "customers": 8,
+  "financials": 9,
+  "founders": 8,
+  "funding": 9,
+  "identity": 9,
+  "investors": 8,
+  "legal": 5,
+  "people": 5,
+  "products": 8,
+  "sources": 8,
+  "traction": 8
+ },
+ "conflicts": [
+  {
+   "claim_a": "IPO valuation ~$869M+ (price band, Reuters Jan 2026)",
+   "claim_b": "Listing-day market cap ~$821-826M (ET/TechCrunch Jan 2026)",
+   "field": "ipo_valuation",
+   "resolution": "Both consistent: band implied ~$869M at Rs 361; listing-day discount to ~$821M after 12% discount open. Use band as offer valuation, listing as market valuation.",
+   "url_a": "https://www.reuters.com/world/india/indias-amagi-media-labs-sets-price-band-ipo-2026-01-07/",
+   "url_b": "https://techcrunch.com/2026/01/20/amagi-slides-in-india-debut-as-cloud-tv-software-firm-tests-investor-appetite/"
+  }
+ ],
+ "customers": [
+  {
+   "name": "~45% of world's top 50 listed media & entertainment companies",
+   "source_url": "https://economictimes.indiatimes.com/tech/technology/amagis-muted-listing-cuts-valuation-41-to-821-million/articleshow/126972614.cms",
+   "type": "enterprise"
+  }
+ ],
+ "events": [
+  {
+   "announced_date": "2026-01-13",
+   "confidence": "HIGH",
+   "date": "2026-01-21",
+   "description": "IPO of Rs 1,789 cr (fresh Rs 816 cr + OFS Rs 973 cr); subscribed 30x; listed at Rs 317 (12% discount to Rs 361 issue price), recovered to ~Rs 348.",
+   "headline": "Amagi lists on NSE/BSE after Rs 1,789 cr IPO",
+   "source_url": "https://economictimes.indiatimes.com/tech/technology/amagis-muted-listing-cuts-valuation-41-to-821-million/articleshow/126972614.cms",
+   "type": "ipo"
+  }
+ ],
+ "financials": [
+  {
+   "confidence": "HIGH",
+   "currency": "INR",
+   "fiscal_year": "FY25",
+   "metric": "revenue_from_operations",
+   "source_date": "2026-01-13",
+   "source_title": "Amagi IPO analysis (Hindu BusinessLine)",
+   "source_url": "https://www.thehindubusinessline.com/portfolio/stock-fundamental-analysis-india/amagi-media-labs-ipo-is-the-valuation-running-ahead-of-profits-for-this-saas-play/article70503870.ece",
+   "unit": "crore",
+   "value": 1163,
+   "value_type": "press-quoted-filing"
+  },
+  {
+   "confidence": "HIGH",
+   "currency": "INR",
+   "fiscal_year": "FY25",
+   "metric": "PAT",
+   "source_url": "https://www.thehindubusinessline.com/portfolio/stock-fundamental-analysis-india/amagi-media-labs-ipo-is-the-valuation-running-ahead-of-profits-for-this-saas-play/article70503870.ece",
+   "unit": "crore",
+   "value": -69,
+   "value_type": "press-quoted-filing"
+  },
+  {
+   "confidence": "HIGH",
+   "currency": "INR",
+   "fiscal_year": "FY26",
+   "metric": "revenue_from_operations",
+   "source_date": "2026-05-20",
+   "source_title": "Amagi FY26 results press release",
+   "source_url": "https://www.amagi.com/hubfs/PressRelease%20(1).pdf",
+   "unit": "crore",
+   "value": 1506,
+   "value_type": "management"
+  },
+  {
+   "confidence": "HIGH",
+   "currency": "INR",
+   "fiscal_year": "FY26",
+   "metric": "PAT",
+   "source_url": "https://www.amagi.com/hubfs/PressRelease%20(1).pdf",
+   "unit": "crore",
+   "value": 72,
+   "value_type": "management"
+  },
+  {
+   "confidence": "MEDIUM",
+   "currency": "INR",
+   "fiscal_year": "FY24",
+   "metric": "revenue_from_operations",
+   "source_url": "https://www.thehindubusinessline.com/portfolio/stock-fundamental-analysis-india/amagi-media-labs-ipo-is-the-valuation-running-ahead-of-profits-for-this-saas-play/article70503870.ece",
+   "unit": "crore",
+   "value": 879,
+   "value_type": "press-quoted-filing"
+  }
+ ],
+ "founders": [
+  {
+   "background": "CEO; IIM-B alumni cohort with co-founders",
+   "confidence": "MEDIUM",
+   "name": "Baskar Subramanian",
+   "role": "Managing Director & CEO",
+   "source_url": "https://www.amagi.com/hubfs/PressRelease%20(1).pdf",
+   "still_active": true,
+   "type": "co-founder",
+   "active": "yes",
+   "location": "Bengaluru",
+   "linkedin": "https://linkedin.com/in/baskar-subramanian"
+  },
+  {
+   "confidence": "MEDIUM",
+   "name": "Srividhya Srinivasan",
+   "role": "Co-founder",
+   "source_url": "https://techcrunch.com/2026/01/20/amagi-slides-in-india-debut-as-cloud-tv-software-firm-tests-investor-appetite/",
+   "still_active": true,
+   "type": "co-founder",
+   "active": "yes",
+   "location": "Bengaluru"
+  },
+  {
+   "confidence": "MEDIUM",
+   "name": "Arunachalam Srinivasan Karapattu (Srinivasan KA)",
+   "role": "Co-founder",
+   "source_url": "https://techcrunch.com/2026/01/20/amagi-slides-in-india-debut-as-cloud-tv-software-firm-tests-investor-appetite/",
+   "still_active": true,
+   "type": "co-founder",
+   "active": "yes",
+   "location": "Bengaluru"
+  }
+ ],
+ "funding_rounds": [
+  {
+   "all_investors": [
+    "General Atlantic"
+   ],
+   "amount": 100000000,
+   "announced_date": "2022-11-01",
+   "confidence": "HIGH",
+   "currency": "USD",
+   "lead_investors": [
+    "General Atlantic"
+   ],
+   "round_type": "Series F-II",
+   "source_date": "2026-01-07",
+   "source_title": "Reuters: Amagi targets $869M valuation in IPO",
+   "source_url": "https://www.reuters.com/world/india/indias-amagi-media-labs-sets-price-band-ipo-2026-01-07/",
+   "tier": "T3",
+   "valuation": "$1.4B post-money",
+   "valuation_type": "post-money"
+  },
+  {
+   "amount": 195050000,
+   "announced_date": "2026-01-21",
+   "confidence": "HIGH",
+   "currency": "USD",
+   "purpose": "technology/cloud infra Rs 550 cr, acquisitions, general corporate",
+   "round_type": "IPO",
+   "source_date": "2026-01-21",
+   "source_title": "ET: Amagi muted listing",
+   "source_url": "https://economictimes.indiatimes.com/tech/technology/amagis-muted-listing-cuts-valuation-41-to-821-million/articleshow/126972614.cms",
+   "tier": "T3",
+   "valuation": "~$821M listing market cap",
+   "valuation_type": "market-cap"
+  }
+ ],
+ "gaps": [
+  "CIN / incorporation date not verified",
+  "Full round-by-round history (Series A-E amounts) not verified",
+  "ESOP/acquisition details (Telium Nov 2023, Argoid.AI 2024) only partially verified"
+ ],
+ "hiring": [
+  {
+   "as_of": "2026-03-31",
+   "fact_type": "headcount",
+   "source_url": "https://www.amagi.com/hubfs/Shareholderletter.pdf",
+   "value": 977
+  }
+ ],
+ "investor_links": [
+  {
+   "confidence": "HIGH",
+   "investor": "General Atlantic",
+   "investor_type": "PE",
+   "lead": true,
+   "rounds": [
+    "Series F-II"
+   ],
+   "source_url": "https://www.reuters.com/world/india/indias-amagi-media-labs-sets-price-band-ipo-2026-01-07/"
+  },
+  {
+   "confidence": "MEDIUM",
+   "investor": "Accel",
+   "investor_type": "VC",
+   "rounds": [
+    "early",
+    "IPO OFS seller"
+   ],
+   "source_url": "https://economictimes.indiatimes.com/tech/technology/amagis-muted-listing-cuts-valuation-41-to-821-million/articleshow/126972614.cms"
+  },
+  {
+   "confidence": "MEDIUM",
+   "investor": "Norwest Venture Partners",
+   "investor_type": "VC",
+   "rounds": [
+    "early",
+    "IPO OFS seller"
+   ],
+   "source_url": "https://economictimes.indiatimes.com/tech/technology/amagis-muted-listing-cuts-valuation-41-to-821-million/articleshow/126972614.cms"
+  },
+  {
+   "confidence": "MEDIUM",
+   "investor": "Premji Invest",
+   "investor_type": "family-office-VC",
+   "source_url": "https://economictimes.indiatimes.com/tech/technology/amagis-muted-listing-cuts-valuation-41-to-821-million/articleshow/126972614.cms"
+  }
+ ],
+ "locations": [
+  {
+   "as_of": "2026-01-01",
+   "city": "Bengaluru",
+   "confidence": "HIGH",
+   "source_url": "https://techcrunch.com/2026/01/20/amagi-slides-in-india-debut-as-cloud-tv-software-firm-tests-investor-appetite/",
+   "state": "Karnataka",
+   "type": "HQ"
+  }
+ ],
+ "products": [
+  {
+   "category": "SaaS platform",
+   "description": "Cloud broadcast, streaming unification, monetization/marketplace, cloud modernization; AI-enabled incl. NEWSPULSE",
+   "name": "Amagi cloud platform",
+   "status": "active"
+  }
+ ],
+ "research_log": [
+  {
+   "found": "IPO details, listing valuation, FY25/FY26 financials, founders, investors",
+   "next_action": "Verify CIN and early rounds via DRHP/MCA if needed",
+   "query": "Amagi funding valuation IPO founders revenue FY25 FY26",
+   "unresolved": "CIN; Series A-E amounts"
+  },
+  {
+   "date": "2026-09-14",
+   "found": "CIN now L73100KA2008PLC045144 (converted to public Ltd pre-IPO); incorp 01 Feb 2008; KA matches Bengaluru",
+   "query": "Amagi Media Labs Private Limited CIN incorporation",
+   "unresolved": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "3 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  }
+ ],
+ "sources": [
+  {
+   "claim_supported": "IPO band $199M raise, >$869M target valuation",
+   "fields_supported": [
+    "funding_rounds"
+   ],
+   "publication_date": "2026-01-07",
+   "publisher": "Reuters",
+   "retrieved_date": "2026-09-14",
+   "tier": "T3",
+   "title": "Amagi targets over $869M valuation in downsized IPO",
+   "url": "https://www.reuters.com/world/india/indias-amagi-media-labs-sets-price-band-ipo-2026-01-07/"
+  },
+  {
+   "claim_supported": "Listing at Rs 317, ~$821M mcap, Rs 1,789 cr raise, investors, founders stake",
+   "fields_supported": [
+    "funding_rounds",
+    "investor_links",
+    "traction"
+   ],
+   "publication_date": "2026-01-21",
+   "publisher": "Economic Times",
+   "retrieved_date": "2026-09-14",
+   "tier": "T3",
+   "title": "Amagi's muted listing cuts valuation 41% to $821M",
+   "url": "https://economictimes.indiatimes.com/tech/technology/amagis-muted-listing-cuts-valuation-41-to-821-million/articleshow/126972614.cms"
+  },
+  {
+   "claim_supported": "IPO proceeds use, listing price, $825M valuation",
+   "fields_supported": [
+    "funding_rounds"
+   ],
+   "publication_date": "2026-01-20",
+   "publisher": "TechCrunch",
+   "retrieved_date": "2026-09-14",
+   "tier": "T3",
+   "title": "Amagi slides in India debut",
+   "url": "https://techcrunch.com/2026/01/20/amagi-slides-in-india-debut-as-cloud-tv-software-firm-tests-investor-appetite/"
+  },
+  {
+   "claim_supported": "FY26 revenue Rs 1,506 cr, PAT Rs 72 cr",
+   "fields_supported": [
+    "financials"
+   ],
+   "publication_date": "2026-05-20",
+   "publisher": "Amagi (company)",
+   "retrieved_date": "2026-09-14",
+   "tier": "T1",
+   "title": "Amagi FY26 results press release",
+   "url": "https://www.amagi.com/hubfs/PressRelease%20(1).pdf"
+  },
+  {
+   "claim_supported": "FY25 revenue Rs 1,163 cr, loss Rs 69 cr; IPO structure",
+   "fields_supported": [
+    "financials",
+    "funding_rounds"
+   ],
+   "publication_date": "2026-01-13",
+   "publisher": "Hindu BusinessLine",
+   "retrieved_date": "2026-09-14",
+   "tier": "T3",
+   "title": "Amagi IPO: valuation vs profits",
+   "url": "https://www.thehindubusinessline.com/portfolio/stock-fundamental-analysis-india/amagi-media-labs-ipo-is-the-valuation-running-ahead-of-profits-for-this-saas-play/article70503870.ece"
+  },
+  {
+   "url": "https://www.zaubacorp.com/AMAGI-MEDIA-LABS-PRIVATE-LIMITED-U73100KA2008PTC045144",
+   "title": "AMAGI MEDIA LABS LIMITED - ZaubaCorp",
+   "fields": [
+    "cin",
+    "incorporation_date"
+   ],
+   "confidence": "high"
+  },
+  {
+   "url": "https://amagi.com/investors",
+   "title": "Amagi Investor Relations",
+   "tier": "T2",
+   "claim": "founder status Baskar Subramanian"
+  }
+ ],
+ "startup_id": "amagi",
+ "traction": [
+  {
+   "as_of": "2026-03-31",
+   "metric": "net_revenue_retention",
+   "source_url": "https://www.amagi.com/hubfs/PressRelease%20(1).pdf",
+   "value": "125.9%"
+  }
+ ],
+ "_merged_session2": true
+}

@@ -1,0 +1,960 @@
+{
+ "canonical_key": "bgauss",
+ "company": {
+  "business_model": "B2C/B2B2C — manufacture + sale of electric two-wheelers",
+  "city": "Mumbai",
+  "company_name": "BGauss",
+  "founded_date": "2020",
+  "primary_sector": "ev two-wheeler",
+  "public_private": "private",
+  "startup_stage": "Series D (late stage)",
+  "status": "active",
+  "official_website": {
+   "v": "https://www.bgauss.com",
+   "conf": "high",
+   "src": "https://www.bgauss.com",
+   "note": "verified live 2026-09-15: name match on own homepage"
+  },
+  "website": "https://www.bgauss.com",
+  "legal_name": {
+   "v": "BGAUSS AUTO PRIVATE LIMITED",
+   "conf": "HIGH",
+   "src": "https://www.zaubacorp.com/BGAUSS-AUTO-PRIVATE-LIMITED-U34300MH2020PTC343000",
+   "note": "MCA-registered legal name; confirmed via ZaubaCorp and Tracxn",
+   "asof": "2026-09-15"
+  },
+  "cin": {
+   "v": "U34300MH2020PTC343000",
+   "conf": "HIGH",
+   "src": "https://www.zaubacorp.com/BGAUSS-AUTO-PRIVATE-LIMITED-U34300MH2020PTC343000",
+   "note": "CIN from MCA21 registry; confirmed across ZaubaCorp, Tofler, Tracxn, InstaFinancials",
+   "asof": "2026-09-15"
+  },
+  "incorporation_date": {
+   "v": "2020-07-31",
+   "conf": "HIGH",
+   "src": "https://www.zaubacorp.com/BGAUSS-AUTO-PRIVATE-LIMITED-U34300MH2020PTC343000",
+   "note": "Incorporated 31 Jul 2020 per MCA registry",
+   "asof": "2026-09-15"
+  },
+  "state": {
+   "v": "Maharashtra",
+   "conf": "HIGH",
+   "src": "https://www.bgauss.com/contact/",
+   "note": "Registered office Worli Mumbai; factory Chakan Pune both in Maharashtra",
+   "asof": "2026-09-15"
+  },
+  "country": {
+   "v": "India",
+   "conf": "HIGH",
+   "src": "https://www.bgauss.com/",
+   "note": "Indian electric two-wheeler manufacturer",
+   "asof": "2026-09-15"
+  },
+  "description": {
+   "v": "Indian electric two-wheeler brand offering affordable and high-performance electric scooters; subsidiary of RR Global; manufactures at Chakan, Pune plant",
+   "conf": "HIGH",
+   "src": "https://www.bgauss.com/",
+   "note": "Company self-description; RR Global parent confirmed via multiple sources",
+   "asof": "2026-09-15"
+  },
+  "employee_estimate": {
+   "v": 633,
+   "conf": "MEDIUM",
+   "src": "https://tracxn.com/d/companies/bgauss/__kyHCJuUM7piH5bHB4RK_f5gy9mp3tf2U3ZF_7sQoUQE",
+   "note": "Tracxn reports 633 as of Jul 31, 2025; Inc42 says 525; LinkedIn says 201-500; conflicting data",
+   "asof": "2025-07-31"
+  },
+  "hq_type": {
+   "v": "registered_office",
+   "conf": "HIGH",
+   "src": "https://www.bgauss.com/contact/",
+   "note": "Registered office at Ram Ratna House, Victoria Mill Compound, Worli, Mumbai",
+   "asof": "2026-09-15"
+  },
+  "registered_office": {
+   "v": "Ram Ratna House, Victoria Mill Compound, Pandurang Budha Karm Marg, Worli, Mumbai, Maharashtra, India – 400013",
+   "conf": "HIGH",
+   "src": "https://www.bgauss.com/contact/",
+   "note": "Confirmed via company website contact page and ZaubaCorp",
+   "asof": "2026-09-15"
+  }
+ },
+ "completeness_self": {
+  "financials": 8,
+  "founders": 8,
+  "funding": 8,
+  "identity": 9,
+  "investors": 8,
+  "legal": 3,
+  "people": 4,
+  "products": 6,
+  "sources": 8,
+  "traction": 5
+ },
+ "conflicts": [
+  {
+   "field": "business_model",
+   "claim_a": "B2C/B2B2C — manufacture + sale of electric two-wheelers",
+   "url_a": "",
+   "claim_b": "B2C/B2B2C — manufacture + sale of electric two-wheelers; subsidiary of RR Global",
+   "url_b": "",
+   "resolution": "phase3 p3 payload disagrees with existing value; existing kept as preferred pending human review",
+   "resolved_value": "",
+   "reviewed": "p3-merge"
+  },
+  {
+   "field": "employee_count",
+   "claim_a": "633 (Tracxn, as of Jul 2025)",
+   "url_a": "https://tracxn.com/d/companies/bgauss/__kyHCJuUM7piH5bHB4RK_f5gy9mp3tf2U3ZF_7sQoUQE",
+   "claim_b": "525 (Inc42)",
+   "url_b": "https://inc42.com/company/bgauss/financials/",
+   "resolution": "Tracxn figure (633) is more recent and specific; Inc42 (525) may be from different date. Both are third-party estimates.",
+   "resolved_value": ""
+  },
+  {
+   "field": "employee_count",
+   "claim_a": "633 (Tracxn)",
+   "url_a": "https://tracxn.com/d/companies/bgauss/__kyHCJuUM7piH5bHB4RK_f5gy9mp3tf2U3ZF_7sQoUQE",
+   "claim_b": "201-500 (LinkedIn)",
+   "url_b": "https://www.linkedin.com/company/bgauss",
+   "resolution": "LinkedIn self-reported range is much lower than Tracxn. Likely LinkedIn shows India-only headcount while Tracxn may include all entities.",
+   "resolved_value": ""
+  },
+  {
+   "field": "funding_rounds",
+   "claim_a": "Series A (Apr 2022), Series B (Jan 2025), Series D (Aug 2026) — 3 named rounds",
+   "url_a": "https://entrackr.com/exclusive/exclusive-bgauss-raises-rs-110-cr-in-fresh-round-at-rs-1000-cr-valuation-12397665",
+   "claim_b": "4 rounds total (Tracxn); Dealroom shows Series A, OTHER/SECONDARY, EARLY VC, Series D",
+   "url_b": "https://dealroom.co",
+   "resolution": "An intermediate round between Series A and Series D exists but is not publicly named. May have been labeled differently (e.g., pre-Series B or bridge round).",
+   "resolved_value": ""
+  },
+  {
+   "field": "city",
+   "claim_a": "Mumbai (existing DB)",
+   "url_a": "https://inc42.com/company/bgauss/",
+   "claim_b": "Pune (Entrackr Jan 2025 article calls it 'Pune-based startup')",
+   "url_b": "https://entrackr.com/news/ev-two-wheeler-manufacturer-bgauss-raises-rs-161-cr-8620040",
+   "resolution": "Registered office is in Mumbai (Worli); manufacturing plant is in Chakan, Pune. Both cities are correct depending on context. Company is registered in Mumbai.",
+   "resolved_value": "Mumbai (registered office)"
+  },
+  {
+   "field": "annual_sales_FY26",
+   "claim_a": "1.64 lakh units (Instagram post)",
+   "url_a": "https://www.instagram.com/p/DcS7ztaEUQ8/",
+   "claim_b": "3.44 lakh units (prior year FY25)",
+   "url_b": "https://www.instagram.com/p/DcS7ztaEUQ8/",
+   "resolution": "Both from same source; FY26 sales declined significantly from FY25. This represents a notable downturn.",
+   "resolved_value": ""
+  }
+ ],
+ "events": [
+  {
+   "confidence": "high",
+   "date": "2026-08-20",
+   "description": "Allotted 17,26,846 Series D CCPS at Rs 637/share; founder Kabra Rs 50cr, BVF Rs 44cr, Adesh Realtor Rs 10cr, Maithan Alloys Rs 6cr; post-money ~Rs 1,000-1,100cr; possibly part of larger round",
+   "headline": "BGauss raises Rs 110cr Series D at ~Rs 1,000cr valuation",
+   "source_url": "https://entrackr.com/exclusive/exclusive-bgauss-raises-rs-110-cr-in-fresh-round-at-rs-1000-cr-valuation-12397665",
+   "type": "funding"
+  },
+  {
+   "confidence": "high",
+   "date": "2025-01",
+   "description": "$18.6M (~Rs 161cr) round from Bharat Value Fund",
+   "headline": "BVF round Jan 2025",
+   "source_url": "https://entrackr.com/exclusive/exclusive-bgauss-raises-rs-110-cr-in-fresh-round-at-rs-1000-cr-valuation-12397665",
+   "type": "funding"
+  },
+  {
+   "type": "funding",
+   "headline": "BGauss raises Rs 110 Cr Series D at ~Rs 1,000cr valuation",
+   "date": "2026-08-20",
+   "description": "Board approved allotment of 17,26,846 Series D CCPS at Rs 637/share. Founder Kabra invested Rs 50cr, BVF Rs 44cr, Adesh Realtor Rs 10cr, Maithan Alloys Rs 6cr. Post-money valuation ~Rs 1,000-1,100cr.",
+   "source_url": "https://entrackr.com/exclusive/exclusive-bgauss-raises-rs-110-cr-in-fresh-round-at-rs-1000-cr-valuation-12397665",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "funding",
+   "headline": "BGauss raises Rs 161 Cr from Bharat Value Fund",
+   "date": "2025-01-14",
+   "description": "$18.6M (~Rs 161cr) round from BVF (Pantomath Capital). Mix of primary and secondary capital. Plans to expand dealerships from 120 to 500, launch new products, capex, marketing, R&D.",
+   "source_url": "https://entrackr.com/news/ev-two-wheeler-manufacturer-bgauss-raises-rs-161-cr-8620040",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "launch",
+   "headline": "BGauss RUV 350 launched",
+   "date": "2024-06",
+   "description": "High-speed electric scooter with 3.5kW motor, 165 Nm peak torque, top speed 75 km/h. Backed by RR Global.",
+   "source_url": "https://www.business-standard.com/industry/news/rr-global-backed-bgauss-aims-for-major-ev-market-share-riding-on-ruv350-124062501120_1.html",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "launch",
+   "headline": "BGauss C12 MaxR launched",
+   "date": "2026-09-09",
+   "description": "New electric scooter with 178 km ARAI range, 3.8 kWh Battery, WSA platform with HyperZen integrated motor. Introductory price Rs 1,45,990.",
+   "source_url": "https://www.bgauss.com/",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "partnership",
+   "headline": "Bijliride partners BGauss for 7,000 electric scooters",
+   "date": "2025-12-18",
+   "description": "Bijliride EV rental platform partners BGauss to expand fleet, targeting 10,000-strong EV fleet by 2026.",
+   "source_url": "https://emobilityplus.com/2025/12/18/bijliride-partners-bgauss-to-add-7000-electric-scooters-targets-10000-strong-ev-fleet-by-2026/",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "milestone",
+   "headline": "BGauss completes 5 years",
+   "date": "2025-07-29",
+   "description": "BGauss electric celebrates 5 years since founding in 2020.",
+   "source_url": "https://www.instagram.com/reel/DMsW64qzoRo/",
+   "confidence": "MEDIUM"
+  },
+  {
+   "type": "funding",
+   "headline": "BGauss Series A raised Rs 52 Cr",
+   "date": "2022-04-16",
+   "description": "Rs 52 crore (~$6M) raised from group of investors led by Darshan Patel, founder of Vini Cosmetics Pvt. Ltd.",
+   "source_url": "https://entrackr.com/news/ev-two-wheeler-manufacturer-bgauss-raises-rs-161-cr-8620040",
+   "confidence": "HIGH"
+  }
+ ],
+ "financials": [
+  {
+   "confidence": "medium",
+   "currency": "INR",
+   "fiscal_year": "FY25",
+   "metric": "operating_revenue",
+   "source_title": "Funding, Revenue & Investors (2026) - Bgauss",
+   "source_url": "https://inc42.com/company/bgauss/",
+   "unit": "crore",
+   "value": 238.9,
+   "value_type": "press-quoted-filing"
+  },
+  {
+   "fiscal_year": "FY25",
+   "metric": "total_revenue",
+   "value": 238.9,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "press-quoted-filing",
+   "basis": "standalone",
+   "consolidated": "no",
+   "filing_date": "",
+   "source_url": "https://inc42.com/company/bgauss/financials/",
+   "source_title": "BGauss Financials 2026 – Revenue, P&L & Cash Flow",
+   "confidence": "HIGH",
+   "notes": "Revenue grew 33.9% YoY from Rs 178.4cr in FY24"
+  },
+  {
+   "fiscal_year": "FY25",
+   "metric": "net_profit",
+   "value": -68.3,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "press-quoted-filing",
+   "basis": "standalone",
+   "consolidated": "no",
+   "filing_date": "",
+   "source_url": "https://inc42.com/company/bgauss/financials/",
+   "source_title": "BGauss Financials 2026 – Revenue, P&L & Cash Flow",
+   "confidence": "HIGH",
+   "notes": "Net loss of Rs 68.3cr; not profitable in FY25"
+  },
+  {
+   "fiscal_year": "FY25",
+   "metric": "total_expenses",
+   "value": 307.2,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "press-quoted-filing",
+   "basis": "standalone",
+   "consolidated": "no",
+   "filing_date": "",
+   "source_url": "https://inc42.com/company/bgauss/financials/",
+   "source_title": "BGauss Financials 2026 – Revenue, P&L & Cash Flow",
+   "confidence": "MEDIUM",
+   "notes": "Total expenses Rs 307.2cr per Inc42 Datalabs"
+  },
+  {
+   "fiscal_year": "FY25",
+   "metric": "ebitda",
+   "value": -57.7,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "estimate",
+   "basis": "standalone",
+   "consolidated": "no",
+   "filing_date": "",
+   "source_url": "https://inc42.com/company/bgauss/financials/",
+   "source_title": "BGauss Financials 2026 – Revenue, P&L & Cash Flow",
+   "confidence": "MEDIUM",
+   "notes": "Estimated EBITDA derived from profit before tax, finance costs, and D&A"
+  },
+  {
+   "fiscal_year": "FY24",
+   "metric": "total_revenue",
+   "value": 177.0,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "press-quoted-filing",
+   "basis": "standalone",
+   "consolidated": "no",
+   "filing_date": "",
+   "source_url": "https://entrackr.com/news/ev-two-wheeler-manufacturer-bgauss-raises-rs-161-cr-8620040",
+   "source_title": "EV two-wheeler manufacturer BGauss raises Rs 161 Cr",
+   "confidence": "HIGH",
+   "notes": "Revenue from operations for FY ending March 2024"
+  },
+  {
+   "fiscal_year": "FY24",
+   "metric": "net_profit",
+   "value": -49.65,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "press-quoted-filing",
+   "basis": "standalone",
+   "consolidated": "no",
+   "filing_date": "",
+   "source_url": "https://entrackr.com/news/ev-two-wheeler-manufacturer-bgauss-raises-rs-161-cr-8620040",
+   "source_title": "EV two-wheeler manufacturer BGauss raises Rs 161 Cr",
+   "confidence": "HIGH",
+   "notes": "Loss nearly doubled from FY23"
+  },
+  {
+   "fiscal_year": "FY23",
+   "metric": "total_revenue",
+   "value": 110.0,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "press-quoted-filing",
+   "basis": "standalone",
+   "consolidated": "no",
+   "filing_date": "",
+   "source_url": "https://entrackr.com/news/ev-two-wheeler-manufacturer-bgauss-raises-rs-161-cr-8620040",
+   "source_title": "EV two-wheeler manufacturer BGauss raises Rs 161 Cr",
+   "confidence": "HIGH",
+   "notes": "Revenue from operations for FY ending March 2023"
+  },
+  {
+   "fiscal_year": "FY25",
+   "metric": "total_assets",
+   "value": 203.2,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "press-quoted-filing",
+   "basis": "standalone",
+   "consolidated": "no",
+   "filing_date": "",
+   "source_url": "https://inc42.com/company/bgauss/financials/",
+   "source_title": "BGauss Financials 2026 – Revenue, P&L & Cash Flow",
+   "confidence": "MEDIUM",
+   "notes": "Total assets per Inc42 Datalabs"
+  },
+  {
+   "fiscal_year": "FY25",
+   "metric": "net_profit_margin",
+   "value": -28.6,
+   "unit": "percent",
+   "currency": "INR",
+   "value_type": "estimate",
+   "basis": "standalone",
+   "consolidated": "no",
+   "filing_date": "",
+   "source_url": "https://inc42.com/company/bgauss/financials/",
+   "source_title": "BGauss Financials 2026 – Revenue, P&L & Cash Flow",
+   "confidence": "MEDIUM",
+   "notes": "Net profit margin -28.6%"
+  }
+ ],
+ "founders": [
+  {
+   "background": "Founder & MD, BGauss; angel investor",
+   "confidence": "high",
+   "name": "Hemant Kabra (Hemant Mahendrakumar Kabra)",
+   "role": "Founder & MD",
+   "source_url": "https://inc42.com/company/bgauss/people/",
+   "still_active": true,
+   "type": "founder"
+  },
+  {
+   "name": "Hemant Mahendrakumar Kabra",
+   "role": "Founder & MD",
+   "background": "Founder & MD of BGauss; Director of RR Global; angel investor background",
+   "education": "",
+   "still_active": true,
+   "source_url": "https://in.linkedin.com/in/hemant-kabra-52a528125",
+   "confidence": "HIGH"
+  }
+ ],
+ "funding_rounds": [
+  {
+   "all_investors": [
+    "Darshan Patel (Vini Cosmetics founder) + others"
+   ],
+   "amount": 52000000,
+   "announced_date": "2022-04",
+   "currency": "INR",
+   "lead_investors": [
+    "Darshan Patel"
+   ],
+   "round_type": "Series A",
+   "source_title": "Exclusive: BGauss raises Rs 110 Cr",
+   "source_url": "https://entrackr.com/exclusive/exclusive-bgauss-raises-rs-110-cr-in-fresh-round-at-rs-1000-cr-valuation-12397665",
+   "tier": "T2"
+  },
+  {
+   "all_investors": [
+    "Bharat Value Fund"
+   ],
+   "amount": 1610000000,
+   "announced_date": "2025-01",
+   "currency": "INR",
+   "lead_investors": [
+    "Bharat Value Fund"
+   ],
+   "round_type": "Series B",
+   "source_title": "Exclusive: BGauss raises Rs 110 Cr",
+   "source_url": "https://entrackr.com/exclusive/exclusive-bgauss-raises-rs-110-cr-in-fresh-round-at-rs-1000-cr-valuation-12397665",
+   "tier": "T2"
+  },
+  {
+   "all_investors": [
+    "Hemant Mahendrakumar Kabra",
+    "Bharat Value Fund",
+    "Adesh Realtor LLP",
+    "Maithan Alloys"
+   ],
+   "amount": 1100000000,
+   "announced_date": "2026-08-20",
+   "currency": "INR",
+   "lead_investors": [
+    "Hemant Mahendrakumar Kabra"
+   ],
+   "purpose": "Scale operations, strengthen product portfolio, expansion",
+   "round_type": "Series D",
+   "source_date": "2026-08-20",
+   "source_title": "Exclusive: BGauss raises Rs 110 Cr in fresh round",
+   "source_url": "https://entrackr.com/exclusive/exclusive-bgauss-raises-rs-110-cr-in-fresh-round-at-rs-1000-cr-valuation-12397665",
+   "tier": "T2",
+   "valuation": "Rs 1,000-1,100cr post-money",
+   "valuation_type": "post-money (press-reported)"
+  },
+  {
+   "round_type": "Series A",
+   "announced_date": "2022-04-16",
+   "round_date": "2022-04-16",
+   "amount": 52000000,
+   "currency": "INR",
+   "valuation": "",
+   "valuation_currency": "",
+   "valuation_type": "",
+   "lead_investors": [
+    "Darshan Patel (Vini Cosmetics founder)"
+   ],
+   "all_investors": [
+    "Darshan Patel",
+    "others"
+   ],
+   "instrument": "equity",
+   "purpose": "Scale operations, expand manufacturing",
+   "source_url": "https://entrackr.com/exclusive/exclusive-bgauss-raises-rs-110-cr-in-fresh-round-at-rs-1000-cr-valuation-12397665",
+   "source_title": "Exclusive: BGauss raises Rs 110 Cr in fresh round at Rs 1,000 Cr valuation",
+   "source_date": "2026-08-20",
+   "confidence": "HIGH"
+  },
+  {
+   "round_type": "Series B",
+   "announced_date": "2025-01-14",
+   "round_date": "2025-01-14",
+   "amount": 1610000000,
+   "currency": "INR",
+   "valuation": "",
+   "valuation_currency": "",
+   "valuation_type": "",
+   "lead_investors": [
+    "Bharat Value Fund (Pantomath Capital Management)"
+   ],
+   "all_investors": [
+    "Bharat Value Fund"
+   ],
+   "instrument": "primary + secondary",
+   "purpose": "Expand dealership network from 120 to 500, launch new products, capex, marketing, R&D",
+   "source_url": "https://entrackr.com/news/ev-two-wheeler-manufacturer-bgauss-raises-rs-161-cr-8620040",
+   "source_title": "EV two-wheeler manufacturer BGauss raises Rs 161 Cr",
+   "source_date": "2025-01-14",
+   "confidence": "HIGH"
+  },
+  {
+   "round_type": "Series D",
+   "announced_date": "2026-08-20",
+   "round_date": "2026-08-20",
+   "amount": 1100000000,
+   "currency": "INR",
+   "valuation": 1050000000,
+   "valuation_currency": "INR",
+   "valuation_type": "post-money (press-reported)",
+   "lead_investors": [
+    "Hemant Mahendrakumar Kabra"
+   ],
+   "all_investors": [
+    "Hemant Mahendrakumar Kabra (Rs 50cr)",
+    "Bharat Value Fund (Rs 44cr)",
+    "Adesh Realtor LLP (Rs 10cr)",
+    "Maithan Alloys (Rs 6cr)"
+   ],
+   "instrument": "CCPS (17,26,846 shares at Rs 637/share, face value Rs 10 + premium Rs 627)",
+   "purpose": "Scale operations, strengthen product portfolio, expansion",
+   "source_url": "https://entrackr.com/exclusive/exclusive-bgauss-raises-rs-110-cr-in-fresh-round-at-rs-1000-cr-valuation-12397665",
+   "source_title": "Exclusive: BGauss raises Rs 110 Cr in fresh round at Rs 1,000 Cr valuation",
+   "source_date": "2026-08-20",
+   "confidence": "HIGH"
+  },
+  {
+   "round_type": "Series C",
+   "announced_date": "",
+   "round_date": "",
+   "amount": "",
+   "currency": "",
+   "valuation": "",
+   "valuation_currency": "",
+   "valuation_type": "",
+   "lead_investors": [],
+   "all_investors": [],
+   "instrument": "",
+   "purpose": "",
+   "source_url": "",
+   "source_title": "",
+   "source_date": "",
+   "confidence": "LOW",
+   "notes": "No Series C found in any source. Tracxn reports 4 rounds total. Dealroom shows Series A (Apr 2022), then 'OTHER/SECONDARY' and 'EARLY VC' in Jan 2025, then Series D (Aug 2026). The jump from Series A to Series D naming is unexplained; an intermediate round may have been labeled differently or not publicly announced."
+  }
+ ],
+ "gaps": [
+  "CIN/incorporation date not captured — no registry page surfaced in results",
+  "FY25 profit/loss not captured",
+  "Headcount unverified",
+  "Series C details (if any) unverified — jump from Series B to Series D naming unexplained"
+ ],
+ "investor_links": [
+  {
+   "confidence": "high",
+   "first_seen": "2025-01",
+   "investor": "Bharat Value Fund (Pantomath)",
+   "investor_type": "VC",
+   "lead": false,
+   "rounds": [
+    "Series B (2025)",
+    "Series D (2026)"
+   ],
+   "source_url": "https://entrackr.com/exclusive/exclusive-bgauss-raises-rs-110-cr-in-fresh-round-at-rs-1000-cr-valuation-12397665"
+  },
+  {
+   "confidence": "medium",
+   "first_seen": "2022-04",
+   "investor": "Darshan Patel",
+   "investor_type": "angel",
+   "lead": true,
+   "rounds": [
+    "Series A"
+   ],
+   "source_url": "https://entrackr.com/exclusive/exclusive-bgauss-raises-rs-110-cr-in-fresh-round-at-rs-1000-cr-valuation-12397665"
+  }
+ ],
+ "research_log": [
+  {
+   "found": "Series D Rs 110cr Aug 2026 at Rs 1,000cr valuation; prior rounds; founder; FY25 rev Rs 238.9cr",
+   "query": "BGauss EV Series D August 2026 status",
+   "unresolved": "CIN, headcount, P&L"
+  },
+  {
+   "found": "FY25 revenue Rs 238.9cr +33.9%; founder Hemant Kabra 2020",
+   "query": "BGauss founders Hemant Kabra revenue FY25",
+   "unresolved": "CIN still missing"
+  }
+ ],
+ "sources": [
+  {
+   "claim_supported": "Series D Rs 110cr, investors, valuation, prior rounds",
+   "fields_supported": [
+    "funding_rounds",
+    "investor_links",
+    "events"
+   ],
+   "publication_date": "2026-08-20",
+   "publisher": "Entrackr",
+   "retrieved_date": "2026-09-15",
+   "tier": "T2",
+   "title": "Exclusive: BGauss raises Rs 110 Cr in fresh round",
+   "url": "https://entrackr.com/exclusive/exclusive-bgauss-raises-rs-110-cr-in-fresh-round-at-rs-1000-cr-valuation-12397665"
+  },
+  {
+   "claim_supported": "FY25 revenue Rs 238.9cr; founder 2020",
+   "fields_supported": [
+    "financials",
+    "founders"
+   ],
+   "publisher": "Inc42",
+   "retrieved_date": "2026-09-15",
+   "tier": "T3",
+   "title": "Funding, Revenue & Investors (2026) - Bgauss",
+   "url": "https://inc42.com/company/bgauss/"
+  },
+  {
+   "url": "https://in.linkedin.com/in/hemant-kabra-52a528125",
+   "title": "",
+   "fields": "PEOPLE",
+   "confidence": "HIGH"
+  },
+  {
+   "url": "https://www.zaubacorp.com/BGAUSS-AUTO-PRIVATE-LIMITED-U34300MH2020PTC343000",
+   "title": "",
+   "fields": "PEOPLE",
+   "confidence": "MEDIUM"
+  },
+  {
+   "url": "https://www.bgauss.com/",
+   "title": "",
+   "fields": "company",
+   "confidence": "HIGH"
+  },
+  {
+   "url": "https://www.bgauss.com/contact/",
+   "title": "",
+   "fields": "company",
+   "confidence": "HIGH"
+  },
+  {
+   "url": "https://entrackr.com/news/ev-two-wheeler-manufacturer-bgauss-raises-rs-161-cr-8620040",
+   "title": "",
+   "fields": "company",
+   "confidence": "HIGH"
+  },
+  {
+   "url": "https://inc42.com/company/bgauss/financials/",
+   "title": "",
+   "fields": "company",
+   "confidence": "MEDIUM"
+  },
+  {
+   "url": "https://www.business-standard.com/industry/news/rr-global-backed-bgauss-aims-for-major-ev-market-share-riding-on-ruv350-124062501120_1.html",
+   "title": "",
+   "fields": "company",
+   "confidence": "HIGH"
+  },
+  {
+   "url": "https://emobilityplus.com/2025/12/18/bijliride-partners-bgauss-to-add-7000-electric-scooters-targets-10000-strong-ev-fleet-by-2026/",
+   "title": "",
+   "fields": "company",
+   "confidence": "HIGH"
+  },
+  {
+   "url": "https://tracxn.com/d/legal-entities/india/bgauss-auto-private-limited/__9M9sq9_waOIxahKc8kk2ZNG3yNDLFKpQb0gXNsTA52M",
+   "title": "",
+   "fields": "company",
+   "confidence": "MEDIUM"
+  },
+  {
+   "url": "https://www.indianretailer.com/news/funding-alert-electric-scooter-maker-bgauss-secures-rs-110-cr-fresh-funding-round",
+   "title": "",
+   "fields": "company",
+   "confidence": "MEDIUM"
+  }
+ ],
+ "startup_id": "bgauss",
+ "_merged_session2": true,
+ "people": [
+  {
+   "name": "Hemant Mahendrakumar Kabra",
+   "role": "Founder & Managing Director",
+   "title": "Founder & MD, BGauss; Director, RR Global",
+   "current": true,
+   "since": "2020-07-31",
+   "prior_role": "Angel investor",
+   "source_url": "https://in.linkedin.com/in/hemant-kabra-52a528125",
+   "confidence": "HIGH",
+   "notes": "Led Series D with Rs 50cr investment; confirmed as Managing Director on MCA registry since incorporation"
+  },
+  {
+   "name": "Ankit Gaggar",
+   "role": "Director",
+   "title": "Director, BGAUSS AUTO PRIVATE LIMITED",
+   "current": true,
+   "since": "",
+   "prior_role": "",
+   "source_url": "https://www.zaubacorp.com/BGAUSS-AUTO-PRIVATE-LIMITED-U34300MH2020PTC343000",
+   "confidence": "MEDIUM",
+   "notes": "Listed as Director on ZaubaCorp MCA registry page"
+  },
+  {
+   "name": "Ashish Gupta",
+   "role": "",
+   "title": "",
+   "current": false,
+   "since": "",
+   "prior_role": "",
+   "source_url": "",
+   "confidence": "LOW",
+   "notes": "No evidence found of Ashish Gupta as BGauss founder, director, or executive. Not found in MCA registry, LinkedIn, or any news source. Possibly confused with another entity."
+  },
+  {
+   "name": "Kapil Garg",
+   "role": "",
+   "title": "",
+   "current": false,
+   "since": "",
+   "prior_role": "",
+   "source_url": "",
+   "confidence": "LOW",
+   "notes": "No evidence found of Kapil Garg as BGauss founder, director, or executive. Not found in MCA registry, LinkedIn, or any news source. Possibly confused with another entity."
+  }
+ ],
+ "traction": [
+  {
+   "metric": "retail_registrations",
+   "value": 5518,
+   "unit": "units",
+   "period": "Jul 2026",
+   "as_of": "2026-07-31",
+   "company_reported": false,
+   "source_url": "https://entrackr.com/exclusive/exclusive-bgauss-raises-rs-110-cr-in-fresh-round-at-rs-1000-cr-valuation-12397665",
+   "confidence": "HIGH",
+   "notes": "3X year-on-year growth; 0.3% share of India's EV two-wheeler market in July 2026"
+  },
+  {
+   "metric": "annual_sales",
+   "value": 164000,
+   "unit": "units",
+   "period": "FY26",
+   "as_of": "2026-08-20",
+   "company_reported": false,
+   "source_url": "https://www.instagram.com/p/DcS7ztaEUQ8/",
+   "confidence": "MEDIUM",
+   "notes": "FY26 sales 1.64 lakh units, down from 3.44 lakh in prior year; ~26,201 units, ~2% market share"
+  },
+  {
+   "metric": "annual_sales",
+   "value": 344000,
+   "unit": "units",
+   "period": "FY25",
+   "as_of": "2025-03-31",
+   "company_reported": false,
+   "source_url": "https://www.instagram.com/p/DcS7ztaEUQ8/",
+   "confidence": "MEDIUM",
+   "notes": "FY25 sales 3.44 lakh units (prior year comparison)"
+  },
+  {
+   "metric": "dealerships",
+   "value": 120,
+   "unit": "count",
+   "period": "early 2025",
+   "as_of": "2025-01-01",
+   "company_reported": true,
+   "source_url": "https://entrackr.com/news/ev-two-wheeler-manufacturer-bgauss-raises-rs-161-cr-8620040",
+   "confidence": "HIGH",
+   "notes": "Planned expansion to 500 dealerships and 1000+ touchpoints"
+  },
+  {
+   "metric": "dealerships",
+   "value": 200,
+   "unit": "count",
+   "period": "2026",
+   "as_of": "2026-09-15",
+   "company_reported": true,
+   "source_url": "https://www.bgauss.com/",
+   "confidence": "MEDIUM",
+   "notes": "BGauss website states 200+ dealerships across India"
+  },
+  {
+   "metric": "customers_served",
+   "value": 45000,
+   "unit": "count",
+   "period": "Jan 2025",
+   "as_of": "2025-01-14",
+   "company_reported": true,
+   "source_url": "https://entrackr.com/news/ev-two-wheeler-manufacturer-bgauss-raises-rs-161-cr-8620040",
+   "confidence": "HIGH",
+   "notes": "Pune-based startup claims to serve ~45,000 customers as of Jan 2025"
+  },
+  {
+   "metric": "manufacturing_capacity",
+   "value": 100000,
+   "unit": "units/year",
+   "period": "2025",
+   "as_of": "2025-01-14",
+   "company_reported": true,
+   "source_url": "https://entrackr.com/news/ev-two-wheeler-manufacturer-bgauss-raises-rs-161-cr-8620040",
+   "confidence": "HIGH",
+   "notes": "Manufacturing capacity at Chakan, Pune plant"
+  },
+  {
+   "metric": "brand_trust",
+   "value": 90000,
+   "unit": "families",
+   "period": "2026",
+   "as_of": "2026-09-15",
+   "company_reported": true,
+   "source_url": "https://www.bgauss.com/",
+   "confidence": "MEDIUM",
+   "notes": "BGauss website claims 'trust of 90,000+ Indian families'"
+  },
+  {
+   "metric": "market_share",
+   "value": 0.3,
+   "unit": "percent",
+   "period": "Jul 2026",
+   "as_of": "2026-07-31",
+   "company_reported": false,
+   "source_url": "https://entrackr.com/exclusive/exclusive-bgauss-raises-rs-110-cr-in-fresh-round-at-rs-1000-cr-valuation-12397665",
+   "confidence": "HIGH",
+   "notes": "0.3% share of India's electric two-wheeler market in July 2026"
+  }
+ ],
+ "products": [
+  {
+   "name": "BG C12 MaxR",
+   "category": "electric scooter",
+   "description": "178 km ARAI certified range, 3.8 kWh Battery, new WSA platform with HyperZen integrated motor. Introductory price Rs 1,45,990; ex-showroom Rs 1,59,990.",
+   "pricing_model": "ex-showroom Rs 1,59,990 (introductory Rs 1,45,990)",
+   "launch_date": "2026-09-09",
+   "status": "launched",
+   "source_url": "https://www.bgauss.com/",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "BG MAX C12 3.0",
+   "category": "electric scooter",
+   "description": "123 km ARAI certified range, 2.7 kWh removable battery. Ex-showroom Rs 1,34,990.",
+   "pricing_model": "ex-showroom Rs 1,34,990",
+   "launch_date": "2025",
+   "status": "available",
+   "source_url": "https://www.bgauss.com/",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "BG MAX C12i 2.0",
+   "category": "electric scooter",
+   "description": "123 km ARAI certified range, 2.7 kWh removable battery. Ex-showroom Rs 1,28,990.",
+   "pricing_model": "ex-showroom Rs 1,28,990",
+   "launch_date": "2025",
+   "status": "available",
+   "source_url": "https://www.bgauss.com/",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "BG C12i EX",
+   "category": "electric scooter",
+   "description": "85 km ARAI certified range, 2.0 kWh battery. Ex-showroom Rs 1,09,990.",
+   "pricing_model": "ex-showroom Rs 1,09,990",
+   "launch_date": "2025",
+   "status": "available",
+   "source_url": "https://www.bgauss.com/",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "BG OoWah MAX Plus",
+   "category": "electric scooter",
+   "description": "145 km ARAI certified range, 3.0 kWh removable battery. Ex-showroom Rs 1,22,990.",
+   "pricing_model": "ex-showroom Rs 1,22,990",
+   "launch_date": "2025",
+   "status": "available",
+   "source_url": "https://www.bgauss.com/",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "BG OoWah EX",
+   "category": "electric scooter",
+   "description": "105 km ARAI certified range, 2.3 kWh removable battery. Ex-showroom Rs 94,990.",
+   "pricing_model": "ex-showroom Rs 94,990",
+   "launch_date": "2025",
+   "status": "available",
+   "source_url": "https://www.bgauss.com/",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "BG RUV 350",
+   "category": "electric scooter (rugged hybrid)",
+   "description": "145 km ARAI certified range, 3 kWh non-removable battery, strong metal body, 16-inch alloy wheels. Ex-showroom Rs 1,43,990. Launched June 2024.",
+   "pricing_model": "ex-showroom Rs 1,43,990",
+   "launch_date": "2024-06",
+   "status": "available",
+   "source_url": "https://www.bgauss.com/",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "BG D15",
+   "category": "electric scooter (B2B)",
+   "description": "Mobile app-enabled IoT features, real-time ride statistics. Positioned for B2B commutes.",
+   "pricing_model": "",
+   "launch_date": "",
+   "status": "available",
+   "source_url": "https://www.bgauss.com/the-bg-d15-electric-scooter-the-perfect-choice-for-b2b-commutes/",
+   "confidence": "MEDIUM"
+  }
+ ],
+ "locations": [
+  {
+   "type": "registered_office",
+   "address_or_area": "Ram Ratna House, Victoria Mill Compound, Pandurang Budha Karm Marg, Worli",
+   "city": "Mumbai",
+   "state": "Maharashtra",
+   "country": "India",
+   "as_of": "2026-09-15",
+   "source_url": "https://www.bgauss.com/contact/",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "manufacturing",
+   "address_or_area": "Unit No. A, Building No. B 500, Plot Nos. D223/1, D223/2 and D223/3, IndoSpace Industrial Park, Chakan III, Chakan Industrial Area, Phase II, Village Bhamboli, Taluka Khed",
+   "city": "Pune",
+   "state": "Maharashtra",
+   "country": "India",
+   "as_of": "2026-09-15",
+   "source_url": "https://www.bgauss.com/contact/",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "HQ",
+   "address_or_area": "Ram Ratna House, Victoria Mill Compound, Worli",
+   "city": "Mumbai",
+   "state": "Maharashtra",
+   "country": "India",
+   "as_of": "2026-09-15",
+   "source_url": "https://www.bgauss.com/contact/",
+   "confidence": "HIGH"
+  }
+ ],
+ "customers": [
+  {
+   "name": "Bijliride",
+   "type": "B2B fleet partnership",
+   "announced_date": "2025-12-18",
+   "status": "active",
+   "source_url": "https://emobilityplus.com/2025/12/18/bijliride-partners-bgauss-to-add-7000-electric-scooters-targets-10000-strong-ev-fleet-by-2026/",
+   "confidence": "HIGH",
+   "notes": "Bijliride (EV rental platform) partnered with BGauss to add 7,000 electric scooters, targeting 10,000-strong EV fleet by 2026"
+  },
+  {
+   "name": "Fullfilly",
+   "type": "B2B fleet partnership",
+   "announced_date": "2023-08-09",
+   "status": "active",
+   "source_url": "https://www.youtube.com/watch?v=7sgXXrZSacc",
+   "confidence": "MEDIUM",
+   "notes": "Fleet partnership for 5,000 electric vehicles deployment"
+  },
+  {
+   "name": "ALT Mobility",
+   "type": "B2B fleet partnership",
+   "announced_date": "2023-08-09",
+   "status": "active",
+   "source_url": "https://www.youtube.com/watch?v=7sgXXrZSacc",
+   "confidence": "MEDIUM",
+   "notes": "Fleet partnership alongside Fullfilly for EV deployment"
+  }
+ ]
+}

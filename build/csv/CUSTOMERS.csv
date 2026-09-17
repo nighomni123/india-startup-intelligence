@@ -1,0 +1,518 @@
+customer_id,startup_id,name,type,geography,announced_date,status,source_id,confidence,notes
+CUS0001,S0001,Amazon,enterprise merchant,,unknown,active (as of 2025),SRC00025,MEDIUM,
+CUS0002,S0001,Airtel,enterprise merchant,,unknown,active (as of 2025),SRC00025,MEDIUM,
+CUS0003,S0001,HDFC,enterprise/bank partner,,unknown,active (as of 2025),SRC00025,MEDIUM,
+CUS0004,S0001,PhonePe,enterprise merchant (former partner),,2025-01,exited Juspay partnership early 2025; moved to direct merchant integration,SRC00026,HIGH,
+CUS0005,S0001,Swiggy,enterprise merchant,,unknown,active (as of 2025),SRC00025,MEDIUM,
+CUS0006,S0001,MakeMyTrip,enterprise merchant,,unknown,historical customer (2021 breach context),SRC00027,LOW,
+CUS0007,S0001,Flipkart,enterprise merchant,,unknown,historical customer (2021 breach context),SRC00027,LOW,
+CUS0008,S0001,Uber,enterprise merchant,,unknown,historical customer (2021 breach context),SRC00027,LOW,
+CUS0009,S0001,Gullak,merchant (HyperUPI),,2023-09,first merchant to integrate HyperUPI,SRC00028,HIGH,
+CUS0010,S0002,Salaried professionals,customer_segment,,,active,SRC00054,HIGH,"Primary customer segment; minimum Rs 10,000 monthly income; age 21-60"
+CUS0011,S0002,Self-employed individuals,customer_segment,,,active,SRC00054,HIGH,Secondary customer segment; new-to-credit population
+CUS0012,S0003,50+ million lifetime registered merchants,merchant,,2026-07-01,active,SRC00078,HIGH,PhonePe official media kit as of July 2026
+CUS0013,S0003,718 million lifetime registered users,consumer,,2026-07-01,active,SRC00078,HIGH,PhonePe official media kit as of July 2026
+CUS0014,S0005,households,end consumers,,,active,SRC00108,MEDIUM,Nearly 48 million annual transacting users as of Mar 2026; household count not separately disclosed
+CUS0015,S0006,Perplexity,AI company (in talks),,2026-02-17,in talks,SRC00123,LOW,
+CUS0016,S0006,OpenAI,AI company (in talks),,2026-02-17,in talks,SRC00123,LOW,
+CUS0017,S0006,Anthropic,AI company (in talks),,2026-02-17,in talks,SRC00123,LOW,
+CUS0018,S0007,~45% of world's top 50 listed media & entertainment companies,enterprise,,,,SRC00137,,
+CUS0019,S0008,1.5 cr+ members; 1.26 cr monthly transacting users (FY25),consumer,,,,SRC00147,,
+CUS0020,S0009,"1000+ enterprises, 4M+ employees across 130 countries (incl. Starbucks, Nivea, Cigna, WeWork, Crisil, Adidas)",enterprise,,,,SRC00157,,
+CUS0021,S0010,"SMBs, solo founders, creators; 70-80% non-coders",sme-consumer,,,,SRC00168,,
+CUS0022,S0012,HDFC Bank,enterprise,,,,SRC00233,MEDIUM,
+CUS0023,S0012,Flipkart,enterprise,,,,SRC00233,MEDIUM,
+CUS0024,S0012,Zomato,enterprise,,,,SRC00233,MEDIUM,
+CUS0025,S0012,Ola,enterprise,,,,SRC00233,MEDIUM,
+CUS0026,S0013,Ola Group companies,parent_ecosystem,,2025-05-22,active,SRC00241,HIGH,Ola group shifted entire workload to Krutrim Cloud; Azure spend now 0; 2500+ devs signed up
+CUS0027,S0013,25+ enterprise customers,external,,2026-05-04,active,SRC00241,MEDIUM,"Telecom, FS, consumer internet, healthcare, logistics; majority of GPU capacity committed"
+CUS0028,S0016,LTM (Larsen & Toubro Group),B2B Enterprise,,2026-04-06,Active,SRC00307,HIGH,
+CUS0029,S0016,HCLTech,B2B Enterprise,,2024-07-22,Active,SRC00323,HIGH,
+CUS0030,S0016,"3,000+ corporate partners",B2B Enterprise,,2026-04,Active,SRC00307,MEDIUM,
+CUS0031,S0016,10M+ individual learners,B2C,,2026-05,Active,SRC00305,MEDIUM,
+CUS0032,S0017,"Amazon / Microsoft / NVIDIA (incl. 50,000+ teams; 3M tests/day)",enterprise,,,,SRC00348,MEDIUM,
+CUS0033,S0017,Amazon,enterprise,,,Active,SRC00331,HIGH,
+CUS0034,S0017,Microsoft,enterprise,,,Active,SRC00331,HIGH,
+CUS0035,S0017,NVIDIA,enterprise,,,Active,SRC00331,HIGH,
+CUS0036,S0017,Meta,enterprise,,,Active,SRC00333,HIGH,
+CUS0037,S0017,Google,enterprise,,,Active,SRC00332,HIGH,
+CUS0038,S0017,Twitter/X,enterprise,,,Active,SRC00332,HIGH,
+CUS0039,S0017,Spotify,enterprise,,,Active,SRC00332,HIGH,
+CUS0040,S0017,Airbnb,enterprise,,,Active,SRC00333,HIGH,
+CUS0041,S0017,Ikea,enterprise,,,Active,SRC00332,HIGH,
+CUS0042,S0017,Tesco,enterprise,,,Active,SRC00332,HIGH,
+CUS0043,S0017,Expedia,enterprise,,,Active,SRC00332,HIGH,
+CUS0044,S0017,Walt Disney,enterprise,,,Active,SRC00333,MEDIUM,
+CUS0045,S0017,MongoDB,enterprise,,,Active,SRC00337,MEDIUM,
+CUS0046,S0017,Currys,enterprise,,,Active,SRC00346,MEDIUM,
+CUS0047,S0017,Škoda,enterprise,,,Active,SRC00346,MEDIUM,
+CUS0048,S0017,Ubisoft,enterprise,,,Active,SRC00346,MEDIUM,
+CUS0049,S0017,Elsevier,enterprise,,,Active,SRC00346,MEDIUM,
+CUS0050,S0017,Twin Health,enterprise,,,Active,SRC00346,MEDIUM,
+CUS0051,S0017,Clari,enterprise,,,Active,SRC00346,MEDIUM,
+CUS0052,S0017,TUI,enterprise,,,Active,SRC00346,MEDIUM,
+CUS0053,S0019,Cashfree Payments,partner/payment-settlement,,2022-08-23,active,SRC00396,HIGH,Payouts API integration for retail partner settlements
+CUS0054,S0019,SBI Health Assist,e-pharmacy vendor,,2024-06-14,discontinued,SRC00397,HIGH,PharmEasy withdrew from SBI e-pharmacy service Jun 2024; migrated to Medibuddy/Tata 1MG/Urlife
+CUS0055,S0019,Swiggy Instamart,partnership (rapid drug delivery),,2024-11-08,active,SRC00398,MEDIUM,10-minute medicine delivery via dark stores; opposed by AIOCD
+CUS0056,S0019,"80,000+ retail pharmacies",supply network,,2021,active,SRC00399,MEDIUM,"PharmEasy works with ~80,000 pharmacies; target to expand to 120,000 outlets"
+CUS0057,S0021,Retail traders/investors,B2C,,,active,SRC00436,HIGH,4th largest broker by NSE active clients; ~2.4M active clients
+CUS0058,S0029,BYJU's,EdTech,,2022-06-21,active_unverified,SRC00569,MEDIUM,
+CUS0059,S0029,Dunzo,Marketplace,,2022-06-21,active_unverified,SRC00569,MEDIUM,
+CUS0060,S0029,Aditya Birla Capital,Financial Services,,2022-06-21,active_unverified,SRC00570,MEDIUM,
+CUS0061,S0029,NIIT,Education,,2022-06-21,active_unverified,SRC00570,MEDIUM,
+CUS0062,S0029,Manipal University,Education,,2022-06-21,active_unverified,SRC00570,MEDIUM,
+CUS0063,S0029,Amity University,Education,,2022-06-21,active_unverified,SRC00570,MEDIUM,
+CUS0064,S0029,Olx,Marketplace,,2022-06-21,active_unverified,SRC00570,MEDIUM,
+CUS0065,S0029,Kotak Securities,BFSI,,2022-06-21,active_unverified,SRC00570,MEDIUM,
+CUS0066,S0029,Cars24,Marketplace,,2022-06-21,active_unverified,SRC00570,MEDIUM,
+CUS0067,S0029,Zoomcar,Marketplace,,2022-06-21,active_unverified,SRC00570,MEDIUM,
+CUS0068,S0029,Profectus Capital,Financial Services,,2022-06-21,active_unverified,SRC00570,MEDIUM,
+CUS0069,S0029,Pepper India Resolution,Debt Recovery,,2020-09-30,active_unverified,SRC00575,MEDIUM,
+CUS0070,S0029,Practo,Healthcare,,2022-06-21,active_unverified,SRC00569,MEDIUM,
+CUS0071,S0029,Poonawalla Fincorp,Financial Services,,2022-06-21,active_unverified,SRC00569,MEDIUM,
+CUS0072,S0029,Godrej Housing Finance,Financial Services,,2022-06-21,active_unverified,SRC00569,MEDIUM,
+CUS0073,S0029,Angel One,Stockbroking,,2022-06-21,active_unverified,SRC00569,MEDIUM,
+CUS0074,S0030,"Samsung, Deutsche Telekom (T-Mobile), Ally Financial, Nestle, Flipkart, Domino's, McAfee",enterprise,,,claimed,SRC00582,,
+CUS0075,S0031,"125.5M registered users, ~10M monetised; 42 bank/NBFC partners (Dec 2025)",consumer,,,active,,,
+CUS0076,S0032,Fortune 500 companies (unnamed),enterprise,,,active,SRC00599,MEDIUM,140+ Fortune 500 companies claimed on company website; no specific named customers with evidence
+CUS0077,S0032,Pharma client (unnamed),enterprise,,,active,SRC00599,LOW,"Customer testimonial on mu-sigma.com: VP Strategy and Insights, Pharma"
+CUS0078,S0032,Technology client (unnamed),enterprise,,,active,SRC00599,LOW,"Customer testimonial on mu-sigma.com: Head of Digital Marketing, Technology"
+CUS0079,S0032,CPG client (unnamed),enterprise,,,active,SRC00599,LOW,"Customer testimonial on mu-sigma.com: Director Procurement Transformation, CPG"
+CUS0080,S0033,"Amazon, Shell, Reliance Industries, Hindustan Unilever; 3000+ customers, 450K+ subscribers",enterprise,,,active,SRC00606,,
+CUS0081,S0034,"PayPal, Siemens, WhatsApp; 98% of Fortune 500; 500,000+ orgs",enterprise,,,company-reported,SRC00613,,
+CUS0082,S0034,PayPal,enterprise,,,company-reported,SRC00612,MEDIUM,
+CUS0083,S0034,Siemens,enterprise,,,company-reported,SRC00612,MEDIUM,
+CUS0084,S0034,Cisco Meraki,enterprise,,,company-reported,SRC00612,MEDIUM,
+CUS0085,S0034,Crédit Mutuel Arkéa,enterprise,,,company-reported,SRC00612,MEDIUM,95% of users save time every day with Postman
+CUS0086,S0034,98% of Fortune 500,enterprise,,2025-07-23,company-reported,SRC00613,HIGH,
+CUS0087,S0035,HDFC Bank,bank,,2024-08-26,active,SRC00628,HIGH,
+CUS0088,S0035,Kotak Mahindra Bank,bank,,,active,SRC00643,MEDIUM,
+CUS0089,S0035,Axis Bank,bank,,,active,SRC00643,MEDIUM,
+CUS0090,S0035,IndusInd Bank,bank,,,active,SRC00643,MEDIUM,
+CUS0091,S0035,Yes Bank,bank,,,active,SRC00643,MEDIUM,
+CUS0092,S0035,RBL Bank,bank,,,active,SRC00632,MEDIUM,
+CUS0093,S0035,SBM Bank India,bank,,,active,SRC00643,MEDIUM,
+CUS0094,S0035,Sodexo / Pluxee,enterprise,,,active,SRC00626,HIGH,
+CUS0095,S0035,Sparrow Financial,fintech,,2024-03-07,active,SRC00635,MEDIUM,
+CUS0096,S0035,IDFC First Bank,bank,,,active,SRC00632,MEDIUM,
+CUS0097,S0036,Flipkart marketplace consumers,consumer,,2007,active,SRC00651,MEDIUM,54M active users FY2018; India online shopper base 290-300M in 2025 (market-wide)
+CUS0098,S0037,1Point1 Solutions,enterprise client,,UNKNOWN,active,SRC00667,LOW,Mentioned as client in Livemint article
+CUS0099,S0037,MSMEs (2 million+),SME customers,,2025,active,SRC00661,HIGH,20 Lakh SME customers per Inc42
+CUS0100,S0038,Unacademy learners (test prep),consumer (students),,,active,SRC00288,HIGH,10M+ users across 150+ countries (Airlearn); UPSC/JEE/NEET/GATE aspirants
+CUS0101,S0038,Airlearn users,consumer (language learners),,,active,SRC00676,HIGH,"70K DAU, 300K MAU as of Apr 2025; 17.5K paid subscribers"
+CUS0102,S0040,Schneider Electric,enterprise,,,active,SRC00717,MEDIUM,
+CUS0103,S0040,Siemens,enterprise,,,active,SRC00717,MEDIUM,
+CUS0104,S0040,Indian Oil,enterprise,,,active,SRC00717,MEDIUM,
+CUS0105,S0040,Acer,enterprise,,,active,SRC00716,MEDIUM,
+CUS0106,S0040,Noise,enterprise,,,active,SRC00716,MEDIUM,
+CUS0107,S0040,CG Power Solutions,enterprise,,,active,SRC00716,MEDIUM,
+CUS0108,S0042,"Mastercard, Samsung, Vodafone, Ford, Kellogg's, L'Oreal Paris, Nokia, Kia, KFC, Dell, Coca-Cola (per TechCrunch Jul 2024)",enterprise,,,,SRC00754,MEDIUM,
+CUS0109,S0042,Mastercard,enterprise,,2024-07-17,active,SRC00760,MEDIUM,
+CUS0110,S0042,Samsung,enterprise,,2024-07-17,active,SRC00760,MEDIUM,
+CUS0111,S0042,Vodafone,enterprise,,2024-07-17,active,SRC00760,MEDIUM,
+CUS0112,S0042,Ford,enterprise,,2024-07-17,active,SRC00760,MEDIUM,
+CUS0113,S0042,Kellogg's,enterprise,,2024-07-17,active,SRC00760,MEDIUM,
+CUS0114,S0042,L'Oreal Paris,enterprise,,2024-07-17,active,SRC00760,MEDIUM,
+CUS0115,S0042,Nokia,enterprise,,2024-07-17,active,SRC00760,MEDIUM,
+CUS0116,S0042,Kia,enterprise,,2024-07-17,active,SRC00760,MEDIUM,
+CUS0117,S0042,KFC,enterprise,,2024-07-17,active,SRC00760,MEDIUM,
+CUS0118,S0042,Dell,enterprise,,2024-07-17,active,SRC00760,MEDIUM,
+CUS0119,S0042,Coca-Cola,enterprise,,2024-07-17,active,SRC00760,MEDIUM,
+CUS0120,S0042,Google,enterprise,,2026-05-07,active,SRC00759,MEDIUM,MobileAction client; also Glance backer
+CUS0121,S0042,Meta,enterprise,,2026-05-07,active,SRC00759,MEDIUM,MobileAction client
+CUS0122,S0044,Zomato,aggregator,,,active,SRC00789,MEDIUM,Rebel Foods derives revenue via food delivery aggregators
+CUS0123,S0044,Swiggy,aggregator,,,active,,MEDIUM,Standard aggregator partner for cloud kitchens
+CUS0124,S0044,Wendy's India,franchise partner,,,active,SRC00786,HIGH,Master franchise operator
+CUS0125,S0045,Pet parents (B2C consumers),B2C individual consumers,,,Active,SRC00808,HIGH,
+CUS0126,S0046,"~150 Fortune 500 incl. Google, Wells Fargo, Microsoft, Alphabet",enterprise,,,,SRC00824,HIGH,
+CUS0127,S0047,Kirana stores,B2B retailer,,,Active,SRC00835,HIGH,"500,000+ kirana stores served across 400+ cities"
+CUS0128,S0047,MSMEs,B2B business,,,Active,SRC00835,HIGH,MSMEs served alongside kiranas
+CUS0129,S0047,Brands and staples producers,B2B seller,,,Active,SRC00835,HIGH,"2,000+ brands partnered"
+CUS0130,S0048,Individual homeowners (B2C),consumer,,2014,Active,SRC00856,HIGH,"Primary customer segment; B2C homeowners across India, Singapore, Middle East"
+CUS0131,S0049,234.2M transacting users,B2C consumers,,,,SRC00888,HIGH,
+CUS0132,S0049,"706,471 annual transacting sellers",SMBs/manufacturers,,,,SRC00888,HIGH,
+CUS0133,S0049,1.04M annual transacting sellers,SMBs/manufacturers,,,,SRC00897,HIGH,
+CUS0134,S0051,Individual riders (B2C),Consumer,,,Active,SRC00946,HIGH,
+CUS0135,S0051,Ministry of Road Transport and Highways,Government partnership,,2026-06-08,Active,SRC00948,HIGH,
+CUS0136,S0051,National Restaurants Association of India (NRAI),Industry partnership,,2025-09,Active,SRC00949,MEDIUM,
+CUS0137,S0051,Swiggy (delivery partner),Business partnership,,2022,Ended (Swiggy exited Sep 2025),SRC00950,HIGH,
+CUS0138,S0052,Facebook/Meta,advertiser,,2019-2020,past,SRC00989,MEDIUM,Worked with ShareChat on regional campaigns
+CUS0139,S0052,Coca-Cola,advertiser,,2019-2020,past,SRC00989,MEDIUM,
+CUS0140,S0052,Airtel,advertiser,,2019-2020,past,SRC00989,MEDIUM,
+CUS0141,S0052,Pepsi,advertiser,,2019-2020,past,SRC00989,MEDIUM,
+CUS0142,S0052,OYO,advertiser,,2019-2020,past,SRC00989,MEDIUM,
+CUS0143,S0052,Snapdeal,advertiser,,2019-2020,past,SRC00989,MEDIUM,
+CUS0144,S0052,Future Group,advertiser,,2019-2020,past,SRC00989,MEDIUM,
+CUS0145,S0052,MTR,advertiser,,2019-2020,past,SRC00989,MEDIUM,
+CUS0146,S0052,Large FMCG firms and gaming companies,advertiser,,2024,current,SRC00983,MEDIUM,CEO Sachdeva stated attracting large FMCG firms and gaming companies as advertisers
+CUS0147,S0052,Real-money gaming companies,advertiser,,FY24,declined,SRC00987,HIGH,Ad revenue fell 8.1% due to GST increase on RMG and government ban on RMG
+CUS0148,S0053,Jio,enterprise,,,active,SRC00999,MEDIUM,
+CUS0149,S0053,Zomato,enterprise,,,active,SRC00999,MEDIUM,
+CUS0150,S0053,Swiggy,enterprise,,,active,SRC00999,MEDIUM,
+CUS0151,S0053,Urban Company,enterprise,,,active,SRC00999,MEDIUM,
+CUS0152,S0053,Flipkart,enterprise,,,active,SRC00999,MEDIUM,
+CUS0153,S0053,Tech Mahindra,enterprise,,,active,SRC00999,MEDIUM,
+CUS0154,S0053,AICTE,government,,2024-02-28,active,SRC01009,HIGH,
+CUS0155,S0053,Ministry of Labour,government,,2025-02-19,active,SRC00998,HIGH,MoU to bring 10 Lakh job opportunities annually to NCS portal
+CUS0156,S0054,"~13M merchants; 450M monthly UPI txns (Oct 2024, company-reported)",sme,,,company-reported,SRC01013,,
+CUS0157,S0055,BigBasket,e-commerce / hyperlocal delivery,,unknown,fleet customer (inferred),SRC01043,LOW,BigBasket mentioned in EV adoption context for last-mile delivery; direct Euler partnership not confirmed
+CUS0158,S0055,Logistics/fleet operators (unnamed),B2B fleet,,unknown,active customers,SRC01025,MEDIUM,"Euler Motors sells to logistics, e-commerce, hyperlocal delivery fleets; specific names not confirmed in sources"
+CUS0159,S0057,"Kaiser Permanente, Banner Health (also investors); 100+ US health systems (company-reported)",enterprise,,,company-reported,SRC01052,,
+CUS0160,S0058,NASA (Commercial Satellite Data Acquisition program),gov,,2024-09-09,contracted,SRC01070,HIGH,
+CUS0161,S0058,"US National Reconnaissance Office (NRO CSPO, SCE Phase)",gov,,2023-03-23,contracted,SRC01071,HIGH,
+CUS0162,S0063,Self-employed individuals and women borrowers,B2C,,UNKNOWN,active,SRC01175,HIGH,
+CUS0163,S0064,HDFC Bank,enterprise/banking,,2020-05-01,active,SRC01191,HIGH,PayZapp partnership for rent payment rewards
+CUS0164,S0064,Tata AIG,enterprise/insurance,,Unknown,active,SRC01190,HIGH,ConvoZen.AI client
+CUS0165,S0064,Cars24,enterprise/automotive,,Unknown,active,SRC01190,HIGH,ConvoZen.AI client
+CUS0166,S0064,Apollo,enterprise/healthcare,,Unknown,active,SRC01196,HIGH,ConvoZen.AI client
+CUS0167,S0065,Mixed domestic/international payloads for Vikram-1 maiden flight (EO sats + in-orbit modules),enterprise,,,announced,SRC01204,,
+CUS0168,S0066,US Space Command,government/defence,,2025-02-01,active,SRC01209,MEDIUM,Contracts for analytics as a service; Colorado Springs office opened Feb 2025 to serve US defense market
+CUS0169,S0066,Missile Defense Agency (MDA),government/defence,,2025-12-01,selected,SRC01209,MEDIUM,US entity selected for MDA's SHIELD contract vehicle supporting next-generation missile defense programs
+CUS0170,S0066,"Defence Science and Technology Agency (DSTA), Singapore",government/defence,,2026-02-03,active,SRC01221,HIGH,Partnership to co-develop tools for Space Situational Awareness; announced at Space Summit 2026
+CUS0171,S0066,Government of India (defence tenders),government/defence,,2025-12-01,selected,SRC01209,MEDIUM,Selected as winning bidder for government defense tenders in India; completing administrative formalities
+CUS0172,S0066,Indo-Australian Joint Mission,government/defence,,2024-05-01,active,SRC01227,MEDIUM,Selected for joint India-Australia space mission to manage debris in space
+CUS0173,S0068,Real estate developers,enterprise,,,active,SRC01256,MEDIUM,
+CUS0174,S0068,Contractors,enterprise,,,active,SRC01256,MEDIUM,
+CUS0175,S0068,Architects,enterprise,,,active,SRC01256,MEDIUM,
+CUS0176,S0068,Infrastructure companies,enterprise,,,active,SRC01259,MEDIUM,
+CUS0177,S0068,Industrial/Commercial projects,enterprise,,,active,SRC01259,MEDIUM,
+CUS0178,S0070,NBFC partners (co-lenders),institutional,,,active,SRC01304,MEDIUM,Navi Fintech acts as Lending Service Provider to Navi Finserv and co-lenders
+CUS0179,S0070,Insurance partners,institutional,,,active,SRC01301,LOW,Navi General Insurance offers health insurance; specific insurer partners not disclosed
+CUS0180,S0070,Individual consumers,consumer,,,active,SRC00082,HIGH,Hundreds of millions of users across India; ~100K new customers daily
+CUS0181,S0070,NBFC partners (co-lenders),institutional,,,active,SRC01304,MEDIUM,
+CUS0182,S0070,Insurance partners,institutional,,,active,SRC01301,LOW,
+CUS0183,S0070,Individual consumers,consumer,,,active,SRC00082,HIGH,
+CUS0184,S0071,Flipkart,e-commerce partner,,2021-12-13,active,SRC01314,HIGH,Flipkart Group CEO Kalyan Krishnamurthy quoted in Dec 2021 investment statement; Flipkart holds 12.7% stake
+CUS0185,S0071,Instamart (Swiggy),quick-commerce customer,,,active,SRC01315,MEDIUM,ET Oct 2023: 'Ninjacart is also associated with ecommerce companies like Flipkart and quick-commerce firms such as Instamart to supply fresh produce'
+CUS0186,S0071,IDFC First Bank,financing partner,,,active,SRC01315,MEDIUM,Financing marketplace partner for farmers/traders
+CUS0187,S0071,Mintifi Finserve,financing partner,,,active,SRC01315,MEDIUM,Financing marketplace partner
+CUS0188,S0071,Arado (Brazil),international partner,,,active,SRC01315,MEDIUM,Brazil-based agriculture marketplace; Ninjacart provides tech stack and picked up a stake
+CUS0189,S0071,Quick-commerce companies (unnamed),customer,,2026-07-02,active,SRC01308,MEDIUM,"BL Jul 2026: 'Ninjacart has quietly become one of the most important companies in the quick commerce space, being a multi-city strategic supplier for several of the biggies'"
+CUS0190,S0075,Verizon,retail partner,,2024-08-27,active,SRC01425,HIGH,
+CUS0191,S0075,UAE Team Emirates,sports team customer,,,active,SRC01413,MEDIUM,
+CUS0192,S0075,Team ADQ,sports team customer,,,active,SRC01413,MEDIUM,
+CUS0193,S0075,Mayo Clinic,research partner,,,active,SRC01405,MEDIUM,Ongoing GLP-1 clinical trial
+CUS0194,S0076,B2C consumers (cafe patrons),consumer,,,active,SRC01443,HIGH,Primary customer segment; cafe retail
+CUS0195,S0077,Zepto,enterprise,,,active,SRC01464,MEDIUM,
+CUS0196,S0077,Zomato / Blinkit,enterprise,,,active,SRC01464,MEDIUM,
+CUS0197,S0078,homebuyers,B2C,,,active,SRC01469,MEDIUM,
+CUS0198,S0078,real estate agents,B2B,,,active,SRC01469,MEDIUM,
+CUS0199,S0078,banks and NBFCs,B2B,,,active,SRC01468,MEDIUM,
+CUS0200,S0078,Grade-A developers,B2B,,,active,SRC01469,MEDIUM,
+CUS0201,S0085,L&T,Enterprise customer (steel supply),,,active,SRC01554,MEDIUM,
+CUS0202,S0085,Adani,Enterprise customer (steel supply),,,active,SRC01554,MEDIUM,
+CUS0203,S0085,"50,000+ SMEs",Active SME customers,,2026-04-01,active,SRC01531,MEDIUM,
+CUS0204,S0085,"100,000+ SMEs (Oxyzo)",SME lending customers,,2026-06-30,active,SRC01542,HIGH,
+CUS0205,S0085,"1,500,000+ businesses (BidAssist)",Tender discovery users,,2026-06-30,active,SRC01540,MEDIUM,
+CUS0206,S0090,Bombay International School,school,,,active,SRC01613,HIGH,
+CUS0207,S0090,Dhirubhai Ambani International School,school,,,active,SRC01613,HIGH,
+CUS0208,S0090,Canadian International School (Bengaluru),school,,,active,SRC01613,HIGH,
+CUS0209,S0090,Aspen School District,school district,,,active,SRC01615,HIGH,
+CUS0210,S0090,NYC Public Schools,school district,,,active,SRC01615,HIGH,
+CUS0211,S0090,Chicago Public Schools,school district,,,active,SRC01615,HIGH,
+CUS0212,S0090,"Nord Anglia International School, Dublin",school,,,active,SRC01615,HIGH,
+CUS0213,S0090,Western Academy of Beijing,school,,,active,SRC01615,HIGH,
+CUS0214,S0090,Dubai International Academy,school,,,active,SRC01615,HIGH,
+CUS0215,S0090,Silicon Valley International School,school,,,active,SRC01615,HIGH,
+CUS0216,S0090,The Mount Vernon School,school,,,active,SRC01615,HIGH,
+CUS0217,S0090,UWC Maastricht,school,,,active,SRC01615,HIGH,
+CUS0218,S0090,Daystar Academy,school,,,active,SRC01615,HIGH,
+CUS0219,S0090,International Charter School of Atlanta,school,,,active,SRC01615,HIGH,
+CUS0220,S0090,The Epstein School,school,,,active,SRC01615,HIGH,
+CUS0221,S0092,MakeMyTrip,OTA,,,active,SRC01661,HIGH,
+CUS0222,S0092,Cleartrip (Flipkart),OTA,,2023-03-09,active,SRC01662,HIGH,
+CUS0223,S0092,1150+ corporate partners,enterprise,,2025-08,active,SRC01663,MEDIUM,
+CUS0224,S0093,D2C consumers,consumer,,,active,SRC01680,HIGH,Primary customer segment; online food delivery via app/website
+CUS0225,S0093,Delivery platforms,partner,,,active,SRC01680,MEDIUM,Orders via Swiggy/Zomato and own app/website
+CUS0226,S0094,Fortune 500 companies (unnamed),enterprise,,,active,SRC01713,MEDIUM,A Fortune 500 company worked with Emeritus Enterprise to ensure leaders across various units developed skills to take full advantage of AI (Nov 2022)
+CUS0227,S0094,Government cohorts,government,,,active,SRC01699,MEDIUM,Enterprise and government cohorts mentioned in Series F funding purpose
+CUS0228,S0095,Direct-to-consumer (B2C),consumer,,,active,SRC01737,HIGH,"Primary customer segment; D2C via own website, app, e-commerce, quick commerce, offline retail"
+CUS0229,S0095,Amazon,e-commerce platform,,,active,SRC01735,MEDIUM,25% of business via e-commerce platforms including Amazon and Flipkart
+CUS0230,S0095,Flipkart,e-commerce platform,,,active,SRC01735,MEDIUM,25% of business via e-commerce platforms
+CUS0231,S0096,Colorado State University,educational institution,,2022-04-01,partnership,SRC01742,MEDIUM,HBL: April 2022 partnership for MCIS programme
+CUS0232,S0096,Duolingo,partnership,,2025-05-19,partnership,SRC01753,LOW,Tracxn news feed mentions Duolingo DET coaching partnership
+CUS0233,S0098,Ultra-High-Net-Worth Individuals (UHNIs),institutional,,2021,active,SRC01764,HIGH,
+CUS0234,S0098,Family Offices,institutional,,2021,active,SRC01764,HIGH,
+CUS0235,S0098,Institutions and Companies,institutional,,2021,active,SRC01765,MEDIUM,"Advises wealthy individuals, family offices, institutions and companies"
+CUS0236,S0100,Nykaa,retail partner,,,unverified,,LOW,No evidence found of Nykaa distribution partnership. Cannot confirm.
+CUS0237,S0100,ZMUM,retail partner,,,unverified,,LOW,No evidence found of ZMUM distribution partnership. Cannot confirm.
+CUS0238,S0100,"1,109 active designer brands",platform sellers,,2026-03-31,active,SRC01786,HIGH,Platform sellers/designers on PSL marketplace
+CUS0239,S0104,Indian Army,defence/government,,2022-08-14,active deployment,SRC01819,HIGH,
+CUS0240,S0104,Indian Navy,defence/government,,2023-01-01,active deployment,SRC01819,MEDIUM,
+CUS0241,S0104,Armed Forces (India),defence/government,,2021-01-01,active deployment,SRC01816,HIGH,
+CUS0242,S0104,Central Government of India,government,,,active deployment,SRC01821,MEDIUM,
+CUS0243,S0104,BFSI / Banking sector,enterprise,,,active deployment,SRC01819,MEDIUM,
+CUS0244,S0104,Telecom operators,enterprise,,,active deployment,SRC01821,MEDIUM,
+CUS0245,S0104,UrbanMatrix,enterprise/defence,,,partnership,SRC01824,MEDIUM,
+CUS0246,S0109,Elvish Yadav,brand ambassador,,2024-11-11,active,SRC01900,HIGH,
+CUS0247,S0109,Balaji Telefilms,content partner,,2025-08-06,active,SRC01891,HIGH,
+CUS0248,S0109,Slay Media,marketing agency partner,,2026-05-04,active,SRC01901,HIGH,
+CUS0249,S0110,Retail consumers (India),consumer,,,active,SRC01925,HIGH,Pan-India D2C customer base; 48 cities
+CUS0250,S0112,Hero MotoCorp,enterprise,,,,SRC01952,HIGH,
+CUS0251,S0112,Tata Steel,enterprise,,,,SRC01952,HIGH,
+CUS0252,S0112,Vedanta,enterprise,,,,SRC01952,HIGH,
+CUS0253,S0112,Unilever,enterprise,,,,SRC01952,MEDIUM,
+CUS0254,S0112,NTPC / Air India (PSUs),gov,,,,SRC01952,MEDIUM,
+CUS0255,S0118,Educational Institutions (1500+ globally),Education,,2025-12-02,Active,SRC02004,MEDIUM,1500+ educational institution partnerships per VCCircle; specific IIMs not named
+CUS0256,S0118,Individual Retail Investors (35M+),B2C,,2026-09-15,Active,SRC02006,HIGH,35M+ registered users
+CUS0257,S0119,Blinkit,Quick Commerce Platform,,,Active,SRC02021,HIGH,
+CUS0258,S0119,Zepto,Quick Commerce Platform,,,Active,SRC02031,HIGH,
+CUS0259,S0119,Swiggy Instamart,Quick Commerce Platform,,,Active,SRC02021,HIGH,
+CUS0260,S0119,Zomato / Eternal,Food Delivery Platform,,,Active,SRC02021,HIGH,
+CUS0261,S0119,BigBasket,Grocery Delivery,,,Active,SRC02023,MEDIUM,
+CUS0262,S0119,Amazon,E-commerce,,,Active,SRC02023,MEDIUM,
+CUS0263,S0119,Flipkart,E-commerce,,,Active,SRC02023,MEDIUM,
+CUS0264,S0119,Urban Company,Home Services Platform,,,Active,SRC02023,MEDIUM,
+CUS0265,S0119,Snabbit,Home Services Platform,,,Active,SRC02023,MEDIUM,
+CUS0266,S0119,Pronto,Home Services Platform,,,Active,SRC02023,MEDIUM,
+CUS0267,S0119,Tezz Mobility,Franchise Partner (Bhopal),,,Active,SRC02024,HIGH,
+CUS0268,S0120,European Wax Center,enterprise,,UNKNOWN,active,SRC02040,HIGH,
+CUS0269,S0120,TONI&GUY,enterprise,,2019,active,SRC02053,HIGH,
+CUS0270,S0120,Hand & Stone,enterprise,,UNKNOWN,active,SRC02040,HIGH,
+CUS0271,S0120,Massage Heights,enterprise,,UNKNOWN,active,SRC02056,HIGH,
+CUS0272,S0120,Gene Juarez,enterprise,,UNKNOWN,active,SRC02056,HIGH,
+CUS0273,S0120,Bluemercury,enterprise,,UNKNOWN,active,SRC02040,HIGH,
+CUS0274,S0120,Removery,enterprise,,UNKNOWN,active,SRC02040,HIGH,
+CUS0275,S0120,Sonobello,enterprise,,UNKNOWN,active,SRC02040,HIGH,
+CUS0276,S0120,Hammer & Nails,enterprise,,UNKNOWN,active,SRC02040,HIGH,
+CUS0277,S0120,Van Michael,enterprise,,UNKNOWN,active,SRC02040,HIGH,
+CUS0278,S0120,MiniLuxe,enterprise,,UNKNOWN,active,SRC02040,HIGH,
+CUS0279,S0120,Frenchies,enterprise,,UNKNOWN,active,SRC02040,HIGH,
+CUS0280,S0120,iCryo,enterprise,,UNKNOWN,active,SRC02040,HIGH,
+CUS0281,S0120,Birds Barbershop,enterprise,,UNKNOWN,active,SRC02040,HIGH,
+CUS0282,S0120,Douglas J Salon,enterprise,,UNKNOWN,active,SRC02040,HIGH,
+CUS0283,S0120,Regis Corporation,enterprise,,2022-06-09,active,SRC02057,HIGH,
+CUS0284,S0120,CorePower Yoga,enterprise,,UNKNOWN,active,SRC02058,MEDIUM,
+CUS0285,S0120,Hair Cuttery,enterprise,,UNKNOWN,active,SRC02058,MEDIUM,
+CUS0286,S0120,Profile by Sanford,enterprise,,UNKNOWN,active,SRC02058,MEDIUM,
+CUS0287,S0120,Rush Hair & Beauty,enterprise,,UNKNOWN,active,SRC02054,MEDIUM,
+CUS0288,S0123,D2C consumers (18-30 age group),B2C,,,active,SRC02083,HIGH,Target demographic: young consumers aged 18-30; 50% repeat purchase rate
+CUS0289,S0125,UNKNOWN,enterprise,,,unnamed,SRC02095,LOW,Mint article states company 'did not name its customers.' A case study references an automotive manufacturing company in Tamil Nadu that placed 200 women with HerSpace. No ISRO/DRDO/space company customers found.
+CUS0290,S0126,D2C customers (men's fashion),Direct consumers,,,active,SRC02106,MEDIUM,60% online revenue; repeat rate evidence not specifically disclosed; Shark Tank India Season 2 participant
+CUS0291,S0128,AU Small Finance Bank,bank,,2026-08-18,active,SRC02124,HIGH,
+CUS0292,S0128,ICICI Bank,bank,,2026-08-18,active,SRC02124,HIGH,
+CUS0293,S0128,Poonawalla Fincorp,nbfc,,2026-08-18,active,SRC02124,HIGH,
+CUS0294,S0128,Bajaj Auto Credit,nbfc,,2026-08-18,active,SRC02124,HIGH,
+CUS0295,S0128,Five-Star Business Finance,nbfc,,2026-08-18,active,SRC02124,HIGH,
+CUS0296,S0128,Muthoot Capital,nbfc,,2026-08-18,active,SRC02124,MEDIUM,
+CUS0297,S0128,Finova Capital,nbfc,,2026-08-18,active,SRC02124,MEDIUM,
+CUS0298,S0128,IndoStar,nbfc,,2026-08-18,active,SRC02124,MEDIUM,
+CUS0299,S0128,Protium,nbfc,,2026-08-18,active,SRC02124,MEDIUM,
+CUS0300,S0128,IIFL,nbfc,,2026-08-18,active,SRC02124,MEDIUM,
+CUS0301,S0128,Northern Arc,nbfc,,2026-08-18,active,SRC02124,MEDIUM,
+CUS0302,S0128,APAC Financial Services,nbfc,,2026-08-18,active,SRC02124,MEDIUM,
+CUS0303,S0128,Vridhi Home Finance,nbfc,,2026-08-18,active,SRC02124,MEDIUM,
+CUS0304,S0130,Bijliride,B2B fleet partnership,,2025-12-18,active,SRC02148,HIGH,"Bijliride (EV rental platform) partnered with BGauss to add 7,000 electric scooters, targeting 10,000-strong EV fleet by 2026"
+CUS0305,S0130,Fullfilly,B2B fleet partnership,,2023-08-09,active,SRC02153,MEDIUM,"Fleet partnership for 5,000 electric vehicles deployment"
+CUS0306,S0130,ALT Mobility,B2B fleet partnership,,2023-08-09,active,SRC02153,MEDIUM,Fleet partnership alongside Fullfilly for EV deployment
+CUS0307,S0134,Freshworks,Enterprise,,,Active,SRC02179,HIGH,
+CUS0308,S0134,Calendly,Enterprise,,,Active,SRC02199,HIGH,
+CUS0309,S0134,Okta,Enterprise,,,Active,SRC02200,HIGH,
+CUS0310,S0134,Doodle,Enterprise,,,Active,SRC02179,HIGH,
+CUS0311,S0134,Pret a Manger,Enterprise,,,Active,SRC02179,HIGH,
+CUS0312,S0134,Study.com,Enterprise,,,Active,SRC02200,HIGH,
+CUS0313,S0134,DeepL,Enterprise,,,Active,SRC02176,HIGH,
+CUS0314,S0134,Lambda,Enterprise,,,Active,SRC02176,HIGH,
+CUS0315,S0134,Gorgias,Enterprise,,,Active,SRC02176,HIGH,
+CUS0316,S0134,Condé Nast,Enterprise,,,Active,SRC02176,HIGH,
+CUS0317,S0134,Zapier,Enterprise,,,Active,SRC02176,HIGH,
+CUS0318,S0134,LegalZoom,Enterprise,,,Active,SRC02176,HIGH,
+CUS0319,S0134,Freepik,Enterprise,,,Active,SRC02176,HIGH,
+CUS0320,S0134,Agicap,Enterprise,,2026-03-26,Active,SRC02201,HIGH,
+CUS0321,S0134,Future,Enterprise,,2025-11-25,Active,SRC02202,HIGH,
+CUS0322,S0134,Wolfson Brands,Enterprise,,2025-09-03,Active,SRC02182,HIGH,
+CUS0323,S0134,Typeform,Enterprise,,,Active,SRC02203,HIGH,
+CUS0324,S0134,ChartMogul,Partner,,,Active,SRC02204,MEDIUM,
+CUS0325,S0135,Meesho,e-commerce marketplace,,,Active (indirect via Ecom Express),SRC02229,MEDIUM,
+CUS0326,S0135,Flipkart,e-commerce marketplace,,,Active,SRC02229,MEDIUM,
+CUS0327,S0135,Amazon,e-commerce marketplace,,,Active,SRC02229,MEDIUM,
+CUS0328,S0135,FirstCry,e-commerce marketplace,,,Active,SRC02229,MEDIUM,
+CUS0329,S0135,D2C brands,enterprise,,,Active,SRC02230,MEDIUM,
+CUS0330,S0138,Global guests,end_users,,,active,SRC02252,MEDIUM,100M+ customers across 35 countries (company claim)
+CUS0331,S0144,Krafton,game publisher,,2024-05-24,active,SRC02307,HIGH,
+CUS0332,S0144,Riot Games,game publisher,,2024-09-18,active,SRC02318,HIGH,
+CUS0333,S0144,Valorant,game title (Riot Games),,2024-05-24,active,SRC02307,HIGH,
+CUS0334,S0144,Playnance,Web3 gaming infrastructure,,2026-03-16,active,SRC02314,HIGH,
+CUS0335,S0144,Dino Tycoon,Telegram game,,2025-07-16,active,SRC02319,MEDIUM,
+CUS0336,S0144,Kroma,blockchain network,,2024-09-23,active,SRC02320,MEDIUM,
+CUS0337,S0144,Mira Network,AI verification platform,,2025-02-11,active,SRC02311,HIGH,
+CUS0338,S0145,Individual consumers (B2C),B2C paid subscribers,,,active,SRC02329,HIGH,4M+ paid subscribers; no B2B enterprise clients found
+CUS0339,S0148,D2C Website (myescplan.com),direct_to_consumer,,2025-05-01,active,SRC02378,HIGH,
+CUS0340,S0148,Amazon,marketplace,,,active,SRC02378,MEDIUM,Referenced on Escape Plan website as marketplace channel with pricing comparison
+CUS0341,S0148,Flipkart,marketplace,,,active,SRC02378,MEDIUM,Referenced on Escape Plan website as marketplace channel with pricing comparison
+CUS0342,S0148,Offline Retail Stores,physical_retail,,2025-05-01,active,SRC02373,HIGH,25+ offline stores as of Jan 2026; targeting 200+ by end 2026
+CUS0343,S0148,HRX (Hrithik Roshan),brand_partner,,2025-08-13,active,SRC02382,HIGH,
+CUS0344,S0148,Rare Rabbit (The House of Rare),brand_partner,,2026-05-21,active,SRC02377,HIGH,
+CUS0345,S0148,Snitch,brand_partner,,2026-08-15,active,SRC02376,HIGH,
+CUS0346,S0153,Audi,Automotive OEM,,2026-02-17,Active - 2-year pilot,SRC02429,HIGH,Two-year joint pilot integrating CyRo into Audi's vehicle prototyping production line in Germany
+CUS0347,S0153,Denso,Automotive Tier-1 Supplier,,2024-11-05,Active - pilot/exploration,SRC02427,MEDIUM,Nikhil Ramaswamy mentioned ongoing collaborations with Denso for managing demand variability through hot-swappable robot stations
+CUS0348,S0153,General Motors,Automotive OEM,,2024-11-05,Active - exploration,SRC02427,MEDIUM,"GM requires one standard robot platform to handle 22,000+ parts for vehicle assembly"
+CUS0349,S0153,Luxury automotive brands,Automotive OEM,,2026-02-13,Active - deployments,SRC02421,MEDIUM,CynLr counts leading luxury automotive brands among customers; deployments on assembly lines
+CUS0350,S0153,Semiconductor automation firms,Industrial,,2026-02-13,Active - deployments,SRC02421,MEDIUM,Deployments focused on semiconductor fab maintenance
+CUS0351,S0153,Ford Motor Company,Automotive OEM,,2023-10-10,Exploration,SRC02430,MEDIUM,Forbes India 2023 article lists Ford among partners/customers trying CynLr tech
+CUS0352,S0153,TVS Motors,Automotive OEM,,2023-10-10,Exploration,SRC02430,MEDIUM,Forbes India 2023 article lists TVS Motors among partners/customers
+CUS0353,S0153,Airbus,Aerospace,,2023-10-10,Exploration,SRC02430,MEDIUM,Forbes India 2023 article lists Airbus among partners/customers
+CUS0354,S0153,Flipkart,E-commerce/Logistics,,2023-10-10,Exploration,SRC02430,MEDIUM,Forbes India 2023 article lists Flipkart among partners/customers
+CUS0355,S0153,Wheels India,Automotive Component,,2023-10-10,Exploration,SRC02430,MEDIUM,Forbes India 2023 article
+CUS0356,S0153,Brakes India,Automotive Component,,2023-10-10,Exploration,SRC02430,MEDIUM,Forbes India 2023 article
+CUS0357,S0154,Intoglo,enterprise,,,partnership,SRC02458,LOW,Intoglo partnership referenced in search results but blog URL returned 404; could not verify from fetched source
+CUS0358,S0154,Veem,enterprise,,,partnership,SRC02458,LOW,Veem partnership referenced but could not verify from fetched source
+CUS0359,S0156,Identified Space customer,Space/Defence,,2026-02-18,Chip fabricated and undergoing customer evaluation,SRC00059,HIGH,Customer identity not disclosed; Data Acquisition avionic chip
+CUS0360,S0156,ISRO,Space,,,Referenced in UnlistedZone article,SRC02472,MEDIUM,UnlistedZone states 'built chips for the likes of ISRO' but no primary source confirmation
+CUS0361,S0156,Fan/Exhaust customers (BLDC),Industrial/Consumer,,2025-03-20,BLDC controller project awarded under MeitY C2S,SRC00059,HIGH,Customer identity not disclosed
+CUS0362,S0157,Hospitals and Paediatricians,B2B,,2026-08-19,active,SRC02481,MEDIUM,Plans to scale Get SET Early through hospitals and paediatricians; partnerships with hospitals and insurance companies
+CUS0363,S0157,Insurance Companies,B2B,,unknown,active,SRC02490,MEDIUM,IPO Platform mentions services to insurance companies
+CUS0364,S0157,Corporations,B2B,,unknown,active,SRC02490,MEDIUM,IPO Platform mentions services to corporations
+CUS0365,S0158,D2C consumers (India),consumer,,,active,SRC02499,HIGH,Primary customer base: Indian women seeking makeup and personal care products
+CUS0366,S0158,Retail partners,enterprise,,,active,SRC02498,MEDIUM,"Distribution through marketplaces and ~50,000 retail touchpoints across 50+ cities"
+CUS0367,S0159,Schneider Electric,Enterprise (Electrical/Industrial),,,Active,SRC02508,HIGH,
+CUS0368,S0159,DKSH,Enterprise (Distribution),,,Active,SRC02508,HIGH,
+CUS0369,S0159,Mars Wrigley,Enterprise (FMCG),,,Active,SRC02508,HIGH,
+CUS0370,S0159,Puma,Enterprise (Apparel/Sports),,,Active,SRC02508,HIGH,
+CUS0371,S0159,Victoria's Secret,Enterprise (Apparel/Retail),,,Active,SRC02508,HIGH,
+CUS0372,S0159,Unilever,Enterprise (FMCG),,,Active,SRC02508,HIGH,
+CUS0373,S0159,Canon,Enterprise (Electronics),,,Active,SRC02508,HIGH,
+CUS0374,S0159,PI Industries,Enterprise (Agrochemicals),,,Active,SRC02508,HIGH,
+CUS0375,S0159,Haleon,Enterprise (Consumer Health),,,Active,SRC02508,HIGH,
+CUS0376,S0159,David Jones,Retail (Multi-brand),,2026-08-12,Active,SRC02508,HIGH,
+CUS0377,S0159,Chemist Warehouse,Retail (Pharmacy),,2026-08-12,Active,SRC02508,HIGH,
+CUS0378,S0159,"Toys ""R"" Us",Retail (Toy),,2026-08-12,Active,SRC02508,HIGH,
+CUS0379,S0159,Mitre10,Retail (Hardware/Building),,2026-08-12,Active,SRC02508,HIGH,
+CUS0380,S0159,Omron,Enterprise (Industrial Automation),,,Active,SRC02509,MEDIUM,
+CUS0381,S0159,Paula's Choice,Enterprise (Beauty/Skincare),,,Active,SRC02509,MEDIUM,
+CUS0382,S0159,Bhavani Electricals,SMB (Electrical),,,Active,SRC02509,LOW,
+CUS0383,S0159,Di Star Traders,SMB (Retail),,,Active,SRC02509,LOW,
+CUS0384,S0163,Snapdeal,e-commerce,,,active,SRC02562,MEDIUM,
+CUS0385,S0163,Myntra,e-commerce,,,active,SRC02562,MEDIUM,
+CUS0386,S0163,Meesho,e-commerce,,,active,SRC02562,MEDIUM,
+CUS0387,S0163,Netmeds,pharma,,,active,SRC02562,MEDIUM,
+CUS0388,S0163,Bigbasket,e-commerce/grocery,,,active,SRC02562,MEDIUM,
+CUS0389,S0164,Pharma retailers and distributors,B2B,,,ACTIVE,SRC02573,HIGH,"4,100+ retailers and distributors across 24+ cities"
+CUS0390,S0165,Zepto,e-commerce,,,client,SRC02586,HIGH,
+CUS0391,S0165,Zoho,software services,,,client,SRC02586,HIGH,
+CUS0392,S0165,Motilal Oswal,financial services,,,client,SRC02586,HIGH,
+CUS0393,S0185,Alivaa Hotels & Resorts,strategic partnership,,2026-03-17,active,SRC02738,MEDIUM,Strategic sales and marketing alliance to expand distribution reach
+CUS0394,S0185,Akasa Air,partnership,,2025-07-16,active,SRC02729,MEDIUM,Partnership to redefine pet-friendly travel per Tracxn news section
+CUS0395,S0185,Aranayam,collaboration,,2025-08-14,active,SRC02729,MEDIUM,Collaboration to launch Amayah per Tracxn news section
+CUS0396,S0197,YES Bank,bank,,,active,SRC02794,HIGH,RuPay credit card partnership
+CUS0397,S0197,AU Small Finance Bank,bank,,,active,SRC02794,HIGH,RuPay credit card partnership
+CUS0398,S0197,Punjab National Bank,bank,,2026-04-23,active,SRC02798,HIGH,PNB Kiwi Credit Card on RuPay network for 180M users
+CUS0399,S0209,Women borrowers (JLG model),Individual - Women,,,Active,SRC02881,HIGH,"Saral loans target women in low-income areas, ages 18-55, joint liability group model"
+CUS0400,S0209,Small business owners (MEL),Individual - Male predominant,,,Active,SRC02882,HIGH,MEL targets male customers for small trading/micro-enterprise working capital
+CUS0401,S0209,Insurance partners,B2B,,,Active,SRC02884,HIGH,"Bajaj Life, HDFC Life, Kotak Mahindra Life insurance tie-ups"
+CUS0402,S0211,UHNI families and corporates,institutional,,2025-02,active,SRC02904,HIGH,"1,300+ client families; customers typically have at least Rs 10 crore in investable assets"
+CUS0403,S0213,Bajaj Finserv,enterprise,,2024-10-01,active,SRC02929,HIGH,Using Navana's voice tech for multilingual voicebot disbursing >₹150 Cr in personal loans monthly across 6 Indian languages since Oct 2024
+CUS0404,S0213,Ujjivan Small Finance Bank,enterprise,,2025-07-15,active,SRC02929,HIGH,"Partnership for 'Hello Ujjivan' multilingual voice-led banking app, live in 12 languages, 1M+ downloads"
+CUS0405,S0213,Protean,enterprise,,2026-09-07,active,SRC02924,MEDIUM,Named as BFSI customer in Series A announcement
+CUS0406,S0213,Jana Small Finance Bank,enterprise,,2026-09-07,active,SRC02924,MEDIUM,Named as BFSI customer in Series A announcement
+CUS0407,S0213,Grihum Housing Finance,enterprise,,2026-09-07,active,SRC02924,MEDIUM,Named as BFSI customer in Series A announcement
+CUS0408,S0213,IISc Bengaluru,research_partner,,,active,SRC02924,MEDIUM,Collaboration on speech models
+CUS0409,S0213,IIT Madras,research_partner,,,active,SRC02924,MEDIUM,Collaboration on speech models
+CUS0410,S0213,Microsoft Research,research_partner,,,active,SRC02924,MEDIUM,Collaboration on speech models
+CUS0411,S0213,Gates Foundation,research_partner,,,active,SRC02924,MEDIUM,Collaboration on speech models
+CUS0412,S0215,Canara Bank,financial partner,,2020-07,active,SRC02951,MEDIUM,
+CUS0413,S0215,ICICI Bank,financial partner,,2020-07,active,SRC02951,MEDIUM,
+CUS0414,S0215,Kogta Finance,financial partner,,2020-07,active,SRC02951,MEDIUM,
+CUS0415,S0215,Experian,credit analysis partner,,2020-07,active,SRC02951,MEDIUM,
+CUS0416,S0215,IFFCO Tokyo,insurance partner,,2020-07,active,SRC02951,MEDIUM,
+CUS0417,S0215,Cars24,sourcing partner,,2021-04,active,SRC02949,MEDIUM,
+CUS0418,S0215,OLX,sourcing partner,,2021-04,active,SRC02949,MEDIUM,
+CUS0419,S0215,Avis,sourcing partner,,2021-04,active,SRC02949,MEDIUM,
+CUS0420,S0215,LeasePlan,sourcing partner,,2021-04,active,SRC02949,MEDIUM,
+CUS0421,S0215,Renault Select,sourcing partner,,2021-04,active,SRC02949,MEDIUM,
+CUS0422,S0217,"3,500+ organizations",enterprise,,,reported company traction,SRC02974,MEDIUM,
+CUS0423,S0226,"Broadway (Ambience Mall, Delhi)",multi-brand_retail,,2025,active,SRC03021,MEDIUM,
+CUS0424,S0226,Dawntown (Mumbai),multi-brand_retail,,2025,active,SRC03021,MEDIUM,
+CUS0425,S0226,Streat Junkies (Bengaluru),multi-brand_retail,,2025,active,SRC03021,MEDIUM,
+CUS0426,S0226,Sarath City Capital Mall (Hyderabad),retail_store,,2026-04-17,active,SRC03027,HIGH,
+CUS0427,S0228,Vodafone,Telecom,,,active,SRC03044,HIGH,
+CUS0428,S0228,Axis Bank,Financial Services,,,active,SRC03037,HIGH,
+CUS0429,S0228,TD Bank,Financial Services,,,active,SRC03035,HIGH,
+CUS0430,S0228,Burger King,Food,,,active,SRC03036,HIGH,
+CUS0431,S0228,Paytm,Fintech,,,active,SRC03044,HIGH,
+CUS0432,S0228,Levi's,Retail,,,active,SRC03044,HIGH,
+CUS0433,S0228,IKEA,Retail,,,active,SRC03044,HIGH,
+CUS0434,S0228,Decathlon,Retail,,,active,SRC03037,HIGH,
+CUS0435,S0228,Domino's,Food,,,active,SRC03037,HIGH,
+CUS0436,S0228,Jio,Telecom,,,active,SRC03037,HIGH,
+CUS0437,S0228,Emirates NBD,Financial Services,,,active,SRC03037,HIGH,
+CUS0438,S0228,Zomato,Food,,,active,SRC03044,HIGH,
+CUS0439,S0228,DHL,Logistics,,,active,,LOW,User prompt mentions DHL as customer. NOT confirmed by any source found.
+CUS0440,S0228,Gojek,Ride-hailing,,,active,SRC03039,MEDIUM,"Entrackr 2022: including Gojek, ShopX, Canon, Mercedes Benz, Jio, Premier League, and Tesco"
+CUS0441,S0228,Tesco,Retail,,,active,SRC03036,HIGH,
+CUS0442,S0228,Electronic Arts,Gaming,,,active,SRC03036,HIGH,
+CUS0443,S0238,Farmers (India),consumer,,2013,Active,SRC03105,HIGH,
+CUS0444,S0238,Global retail chains (Kimaye),enterprise,,2022,Active,SRC03106,HIGH,
+CUS0445,S0238,Saathi Store partners,partner,,2021,Active,SRC03127,HIGH,
+CUS0446,S0241,Farmer Producer Organizations (FPOs),institutional,,As-of-2026-01,active,SRC03155,HIGH,
+CUS0447,S0241,Smallholder farmers,consumer,,As-of-2026-01,active,SRC03155,HIGH,
+CUS0448,S0246,10 BFSI customers (including publicly listed companies),enterprise,,2026-08-11,active,SRC03183,MEDIUM,
+CUS0449,S0248,Indian Army,military,,2023,active,SRC03203,HIGH,
+CUS0450,S0248,DRDO,government_defence_agency,,2023,active,SRC03203,HIGH,
+CUS0451,S0248,Indian Navy,military,,,active,SRC03200,MEDIUM,
+CUS0452,S0248,Army special forces,military,,,active,SRC03203,MEDIUM,
+CUS0453,S0248,Intelligence agencies,government,,,active,SRC03203,MEDIUM,
+CUS0454,S0255,DCB Bank,partner_bank,,2018,active,SRC03243,HIGH,Issues Niyo Global debit cards
+CUS0455,S0255,SBM Bank (India),partner_bank,,2021-11,active,SRC03244,HIGH,Issues Niyo Global credit cards; Visa partnership
+CUS0456,S0255,Equitas Small Finance Bank,partner_bank,,2023-05,active,SRC03247,HIGH,Niyo Global programme partner
+CUS0457,S0255,YES Bank,partner_bank,,2019,active,SRC03248,HIGH,Prepaid cards (Niyo Multi Pocket GPR/Gift/Meal)
+CUS0458,S0255,ICICI Bank,partner_bank,,2021-01,active,SRC03245,HIGH,ICICI Bank Niyo Bharat Payroll Card for MSMEs
+CUS0459,S0255,Vodafone Idea,customer_partner,,2025-12-19,active,SRC03249,HIGH,Vi partners with Niyo to offer zero-markup forex cards to Vi customers
+CUS0460,S0255,Federal Bank,partner_bank,,2023-09,planned,SRC03250,MEDIUM,Niyo planned to launch first unsecured credit card in partnership with Federal Bank in Oct 2023
+CUS0461,S0256,TransUnion CIBIL,enterprise,,2022-01-01,active,SRC03260,HIGH,
+CUS0462,S0256,Perfios,enterprise,,2025-08-26,active,SRC03263,HIGH,
+CUS0463,S0256,HDFC Bank,bank,,2023-02-01,active,SRC03260,HIGH,
+CUS0464,S0256,ICICI Bank,bank,,2023-02-01,active,SRC03260,HIGH,
+CUS0465,S0256,Kotak Mahindra Bank,bank,,2023-02-01,active,SRC03260,HIGH,
+CUS0466,S0256,Regrid,enterprise,,2022-05-01,active,SRC03268,MEDIUM,
+CUS0467,S0256,Geoscape Australia,enterprise,,2025-06-30,active,SRC03261,MEDIUM,
+CUS0468,S0256,KALRO,government,,2025-06-30,active,SRC03261,MEDIUM,
+CUS0469,S0256,NIC,government,,,active,SRC03261,LOW,
+CUS0470,S0258,Builder.ai,business client,,,,SRC03297,MEDIUM,Alleged round-tripping relationship; VerSe states USD 53M received from Builder.ai for advertising
+CUS0471,S0258,Advertising brands/agencies,enterprise,,,,SRC03296,MEDIUM,"Advertising contributed ~80% of FY25 operating revenue (Rs 1,548 Cr)"
+CUS0472,S0278,"Indian Armed Forces (Army, Navy, Air Force)",government,,,active,SRC03377,HIGH,
+CUS0473,S0278,DRDO,government,,,active,SRC03386,HIGH,
+CUS0474,S0278,Ministry of Defence (India),government,,,active,SRC03395,HIGH,
+CUS0475,S0278,Indian Navy,government,,2026-05-20,active,SRC03378,HIGH,
+CUS0476,S0278,"NATO allies (France, Germany, Poland, etc.)",government,,,active,SRC03377,HIGH,
+CUS0477,S0278,US Navy SEALs,government,,,active,SRC03382,MEDIUM,
+CUS0478,S0278,Israeli Defense Forces (IDF),government,,,active,SRC03396,MEDIUM,
+CUS0479,S0278,Ministry of Defence of Armenia,government,,,active,SRC03396,MEDIUM,
+CUS0480,S0278,BAE Systems,enterprise,,,active,SRC03395,MEDIUM,
+CUS0481,S0278,Bharat Dynamics Ltd (BDL),government,,2024-07,active,SRC03377,HIGH,
+CUS0482,S0278,Armenia,government,,2025-01-23,active,SRC03379,HIGH,
+CUS0483,S0280,Fleet Operators,B2B,,,Active,SRC03405,HIGH,
+CUS0484,S0280,OEM Partners,B2B,,,Active,SRC03405,HIGH,
+CUS0485,S0280,EV Two-Wheeler Users,B2C,,,Active,SRC03407,HIGH,
+CUS0486,S0280,EV Three-Wheeler Users,B2C,,,Active,SRC03407,HIGH,
+CUS0487,S0283,Myntra,enterprise,,unknown,active,SRC03425,MEDIUM,
+CUS0488,S0283,Zerodha,enterprise,,unknown,active,SRC03425,MEDIUM,
+CUS0489,S0283,Juspay,enterprise,,unknown,active,SRC03425,MEDIUM,
+CUS0490,S0283,NoBroker,enterprise,,unknown,active,SRC03425,MEDIUM,
+CUS0491,S0283,Redbus,enterprise,,unknown,active,SRC03425,MEDIUM,
+CUS0492,S0283,Siemens,enterprise,,unknown,active,SRC03422,MEDIUM,
+CUS0493,S0283,upGrad,enterprise,,unknown,active,SRC03425,MEDIUM,
+CUS0494,S0283,Perfios,enterprise,,unknown,active,SRC03422,MEDIUM,
+CUS0495,S0283,Moglix,enterprise,,unknown,active,SRC03425,MEDIUM,
+CUS0496,S0283,Ninjacart,enterprise,,unknown,active,SRC03425,MEDIUM,
+CUS0497,S0283,Narayana Health,enterprise,,unknown,active,SRC03422,MEDIUM,
+CUS0498,S0283,Enphase,enterprise,,unknown,active,SRC03422,MEDIUM,
+CUS0499,S0283,Allegis,enterprise,,unknown,active,SRC03422,MEDIUM,
+CUS0500,S0283,BlackRock,enterprise,,2025-09-15,active,SRC03419,MEDIUM,Leased Rs 410 Cr office space with IndiQube in Bengaluru
+CUS0501,S0283,Perforce,enterprise,,unknown,active,SRC03435,LOW,Client testimonial on MiQube platform
+CUS0502,S0290,"Small businesses (agencies, consultancies, cleaning businesses)",SMB,,,active,SRC03473,HIGH,"Most users are 2-person small businesses across US, UK, Japan, Brazil"
+CUS0503,S0296,West Elm,retail partner,,,unverified,,LOW,"No evidence found of West Elm partnership; West Elm operates in India via Reliance Brands, not Nestasia"
+CUS0504,S0296,Universal Studios,licensing partner,,2026-06-26,active,SRC03524,MEDIUM,Official Minions merchandise partnership
+CUS0505,S0307,Prama India Private Limited,enterprise,,2026-06-29,MoU signed,SRC03576,HIGH,
+CUS0506,S0309,Defence Space Agency (India),Government/Defence,,Unknown,Active contract,SRC03584,HIGH,
+CUS0507,S0309,ISRO,Government/Space Agency,,Unknown,Active partnership,SRC03583,HIGH,Kepler's mission operations platform acts as primary mission operator for several ISRO satellites; validated through missions with ISRO
+CUS0508,S0309,DRDO,Government/Defence,,Unknown,Active partnership,SRC03583,HIGH,Collaborated on projects; validated through missions with DRDO
+CUS0509,S0309,Nearly all Indian space companies,Commercial,,Unknown,Active service,SRC03585,MEDIUM,Mission Operations platform serves nearly all Indian space companies
+CUS0510,S0316,Amazon,E-commerce marketplace,,,Active,SRC03651,HIGH,
+CUS0511,S0316,Flipkart,E-commerce marketplace,,,Active,SRC03651,HIGH,
+CUS0512,S0316,FirstCry,E-commerce marketplace,,,Active,SRC03660,HIGH,R for Rabbit is a third-party seller on FirstCry marketplace
+CUS0513,S0316,Mothercare,Retail chain,,,Active,SRC03651,MEDIUM,
+CUS0514,S0320,Babylist,retail partner,,2023-01-01,active,SRC03675,MEDIUM,
+CUS0515,S0320,Love To Dream,partnership,,2026-09-04,active,SRC03688,MEDIUM,
+CUS0516,S0322,HDFC Life,insurance_partner,,,Active,SRC03714,MEDIUM,Partnership mentioned in context of awards
+CUS0517,S0322,LIC India,insurance_partner,,,Active,SRC03714,MEDIUM,Partnership mentioned in context of awards

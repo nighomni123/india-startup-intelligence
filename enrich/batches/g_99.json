@@ -1,0 +1,19 @@
+[
+ {
+  "canonical_key": "icertis",
+  "needs": [
+   "financials",
+   "round_dates",
+   "valuations"
+  ]
+ },
+ {
+  "canonical_key": "slice",
+  "needs": [
+   "financials",
+   "round_dates",
+   "cin",
+   "valuations"
+  ]
+ }
+]

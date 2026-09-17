@@ -1,0 +1,994 @@
+{
+ "company": {
+  "business_model": "B2B SaaS subscription",
+  "city": "Bengaluru",
+  "country": "India",
+  "customer_type": "B2B enterprise consumer brands",
+  "employee_estimate": 700,
+  "employee_estimate_date": "2025-12",
+  "founded_date": "2014",
+  "hq_type": "dual HQ San Francisco + Bengaluru",
+  "legal_name": "MoEngage Inc. / MoEngage India Pvt Ltd (UNVERIFIED exact legal)",
+  "notes": "Seed city verified Bengaluru; dual HQ San Francisco + Bengaluru. Not a unicorn: Dec 2025 Series F follow-on valued 'well over $900M' (TechCrunch), ~$100M ARR target; EBITDA-positive expected that quarter.",
+  "primary_sector": "SaaS / customer engagement",
+  "secondary_sectors": [
+   "marketing tech",
+   "AI agents (Merlin AI)"
+  ],
+  "startup_id": "moengage",
+  "startup_stage": "Late (Series F, pre-IPO)",
+  "status": "active",
+  "website": "https://moengage.com",
+  "cin": "U72200KA2014FTC077020",
+  "incorporation_date": "2014-10-30",
+  "official_website": {
+   "v": "https://www.moengage.com",
+   "conf": "high",
+   "src": "https://www.moengage.com",
+   "note": "verified live 2026-09-15: name match on own homepage"
+  },
+  "careers_website": {
+   "v": "https://www.moengage.com/careers/",
+   "conf": "high",
+   "src": "https://www.moengage.com",
+   "note": "careers link found on official homepage, probed live"
+  }
+ },
+ "completeness_self": {
+  "customers": 5,
+  "financials": 4,
+  "founders": 9,
+  "funding": 9,
+  "identity": 8,
+  "investors": 8,
+  "legal": 3,
+  "people": 6,
+  "products": 8,
+  "sources": 8,
+  "traction": 8
+ },
+ "conflicts": [
+  {
+   "claim_a": "$1.34B/post-money $1.43B figures on some aggregators",
+   "claim_b": "'well over $900M' post-money per person close to Dec 2025 deal (TechCrunch); Tracxn $850M",
+   "field": "valuation",
+   "resolution": "Use TechCrunch 'well over $900M' as most defensible; aggregator figures UNVERIFIED",
+   "resolved_value": "well over $900M post-money (Dec 2025)",
+   "url_a": "aggregator pages (Tracxn/Forge-style, low weight)",
+   "url_b": "https://techcrunch.com/2025/12/16/weeks-after-raising-100m-investors-pump-another-180m-into-hot-indian-startup-moengage"
+  },
+  {
+   "field": "quarantined-claim",
+   "claim_a": "Aggregator $1.34B/post-money $1.43B figures",
+   "claim_b": "'well over' $900M post-money (Dec 2025, TechCrunch); $700M at Nov 2025 $100M round (ET); $1.34B/$1.43B aggregator figure",
+   "url_a": "https://techcrunch.com/2025/12/16/weeks-after-raising-100m-investors-pump-another-180m-into-hot-indian-startup-moengage/",
+   "url_b": "https://techcrunch.com/2025/12/16/weeks-after-raising-100m-investors-pump-another-180m-into-hot-indian-startup-moengage/",
+   "resolution": "Q-wave source hunt: contradicted"
+  }
+ ],
+ "customers": [
+  {
+   "name": "Samsung, Deutsche Telekom (T-Mobile), Ally Financial, Nestle, Flipkart, Domino's, McAfee",
+   "source_url": "https://www.moengage.com/in-the-news/moengage-gets-100m-to-scale-marketing-ai-agents-and-accelerate-expansion-in-north-america",
+   "status": "claimed",
+   "type": "enterprise"
+  }
+ ],
+ "events": [
+  {
+   "announced_date": "2025-11-05",
+   "confidence": "HIGH",
+   "date": "2025-11-05",
+   "description": "$100M from Goldman Sachs Alternatives (existing) + A91 Partners (new); Merlin AI expansion, North America/EMEA GTM",
+   "headline": "MoEngage raises $100M Series F tranche",
+   "source_url": "https://www.moengage.com/in-the-news/moengage-gets-100m-to-scale-marketing-ai-agents-and-accelerate-expansion-in-north-america",
+   "type": "funding"
+  },
+  {
+   "announced_date": "2025-12-17",
+   "confidence": "HIGH",
+   "date": "2025-12-17",
+   "description": "$180M total ($57M primary + $123M secondary incl $15M employee tender for 259 staff); led ChrysCapital + Dragon Funds, Schroders Capital, TR Capital, B Capital; early sellers Eight Roads, Helion, Z47, Ventureast",
+   "headline": "MoEngage $180M Series F follow-on; total Series F $280M",
+   "source_url": "https://techcrunch.com/2025/12/16/weeks-after-raising-100m-investors-pump-another-180m-into-hot-indian-startup-moengage",
+   "type": "funding"
+  },
+  {
+   "announced_date": "2022-06-01",
+   "confidence": "HIGH",
+   "date": "2022-06-01",
+   "description": "$77M led Goldman Sachs Asset Management + B Capital; Steadview, Multiples, Eight Roads, Matrix India participated",
+   "headline": "MoEngage $77M Series E",
+   "source_url": "https://www.prnewswire.com/news-releases/moengage-raises-77-million-in-series-e-funding-led-by-goldman-sachs-asset-management-and-b-capital-301557902.html",
+   "type": "funding"
+  },
+  {
+   "confidence": "MEDIUM",
+   "date": "2026",
+   "description": "Company announcement: acquisition of Aampe establishing unified workflow + decisioning agents platform",
+   "headline": "MoEngage acquires Aampe",
+   "source_url": "http://moengage.com/about-us",
+   "type": "acquisition"
+  }
+ ],
+ "financials": [
+  {
+   "confidence": "MEDIUM",
+   "currency": "USD",
+   "fiscal_year": "FY25",
+   "metric": "ARR",
+   "source_title": "TechCrunch MoEngage Dec 2025",
+   "source_url": "https://techcrunch.com/2025/12/16/weeks-after-raising-100m-investors-pump-another-180m-into-hot-indian-startup-moengage",
+   "value": "~100M (target/tracking)",
+   "value_type": "management"
+  }
+ ],
+ "founders": [
+  {
+   "background": "IIT Kharagpur CSE 2006-10; ex-Deloitte? (UNVERIFIED); co-founded Delight Circle 2011",
+   "confidence": "HIGH",
+   "education": "IIT Kharagpur B.Tech CSE",
+   "name": "Raviteja Dodda",
+   "role": "CEO & Co-founder",
+   "source_url": "https://www.moengage.com/company",
+   "still_active": true,
+   "type": "co-founder",
+   "active": "yes — CEO and co-founder"
+  },
+  {
+   "background": "IIT Kharagpur CSE 2006-10; technology/product leader",
+   "confidence": "HIGH",
+   "education": "IIT Kharagpur B.Tech CSE",
+   "name": "Yashwanth Kumar (Kammara Yashwanth Kumar)",
+   "role": "CTO, CISO & Co-founder",
+   "source_url": "https://www.moengage.com/company",
+   "still_active": true,
+   "type": "co-founder",
+   "active": "yes — co-founder",
+   "location": "Bengaluru",
+   "linkedin": "https://in.linkedin.com/in/yakumar"
+  }
+ ],
+ "funding_rounds": [
+  {
+   "all_investors": [
+    "Goldman Sachs Alternatives",
+    "A91 Partners"
+   ],
+   "amount": 100000000,
+   "announced_date": "2025-11-05",
+   "confidence": "HIGH",
+   "currency": "USD",
+   "lead_investors": [
+    "Goldman Sachs Alternatives",
+    "A91 Partners"
+   ],
+   "purpose": "Merlin AI innovation, North America/EMEA GTM expansion",
+   "round_date": "2025-11-05",
+   "round_type": "Series F (tranche 1)",
+   "source_date": "2025-11-05",
+   "source_title": "MoEngage Raises $100M to Scale Marketing AI",
+   "source_url": "https://www.moengage.com/in-the-news/moengage-gets-100m-to-scale-marketing-ai-agents-and-accelerate-expansion-in-north-america",
+   "tier": "T1",
+   "valuation": "undisclosed"
+  },
+  {
+   "all_investors": [
+    "ChrysCapital",
+    "Dragon Funds",
+    "Schroders Capital",
+    "TR Capital",
+    "B Capital"
+   ],
+   "amount": 180000000,
+   "announced_date": "2025-12-17",
+   "confidence": "HIGH",
+   "currency": "USD",
+   "lead_investors": [
+    "ChrysCapital",
+    "Dragon Funds"
+   ],
+   "notes": "$57M primary + ~$123M secondary (incl $15M employee tender, 259 staff). Secondary sellers: Eight Roads, Helion, Z47, Ventureast (full exit, ~10x blended). Total Series F $280M. ~$307M primary raised to date.",
+   "purpose": "Merlin AI agents, North America/EMEA GTM, strategic acquisitions",
+   "round_date": "2025-12-17",
+   "round_type": "Series F (follow-on)",
+   "source_date": "2025-12-17",
+   "source_title": "Weeks after raising $100M, investors pump another $180M into hot Indian startup MoEngage",
+   "source_url": "https://techcrunch.com/2025/12/16/weeks-after-raising-100m-investors-pump-another-180m-into-hot-indian-startup-moengage",
+   "tier": "T3",
+   "valuation": "well over $900M post-money",
+   "valuation_type": "post-money (source-close person)"
+  },
+  {
+   "all_investors": [
+    "Goldman Sachs Asset Management",
+    "B Capital",
+    "Steadview Capital",
+    "Multiples Alternate Asset Management",
+    "Eight Roads Ventures",
+    "Matrix Partners India"
+   ],
+   "amount": 77000000,
+   "announced_date": "2022-06-01",
+   "confidence": "HIGH",
+   "currency": "USD",
+   "lead_investors": [
+    "Goldman Sachs Asset Management",
+    "B Capital"
+   ],
+   "purpose": "US/Europe/Asia/MEA footprint, LatAm/Australia expansion, acquisitions",
+   "round_date": "2022-06-01",
+   "round_type": "Series E",
+   "source_date": "2022-06-01",
+   "source_title": "MoEngage raises $77 Million in Series E funding led by Goldman Sachs Asset Management and B Capital",
+   "source_url": "https://www.prnewswire.com/news-releases/moengage-raises-77-million-in-series-e-funding-led-by-goldman-sachs-asset-management-and-b-capital-301557902.html",
+   "tier": "T1",
+   "valuation": "undisclosed"
+  }
+ ],
+ "gaps": [
+  "Exact legal entity name/CIN/MCA financials not verified",
+  "Early rounds ($32.5M Jul 2021, $30M Dec 2021) amounts only from PR snippet, not separately sourced",
+  "FY25 audited revenue/PAT unknown; ARR figures are management-quoted"
+ ],
+ "hiring": [
+  {
+   "as_of": "2025-12",
+   "confidence": "MEDIUM",
+   "fact_type": "headcount",
+   "source_url": "http://moengage.com/about-us",
+   "value": "700+"
+  }
+ ],
+ "investor_links": [
+  {
+   "confidence": "HIGH",
+   "first_seen": "2022",
+   "investor": "Goldman Sachs Alternatives",
+   "investor_type": "growth equity",
+   "lead": true,
+   "rounds": [
+    "Series E",
+    "Series F tranche 1"
+   ],
+   "source_url": "https://www.prnewswire.com/news-releases/moengage-raises-77-million-in-series-e-funding-led-by-goldman-sachs-asset-management-and-b-capital-301557902.html"
+  },
+  {
+   "confidence": "HIGH",
+   "first_seen": "2025",
+   "investor": "ChrysCapital",
+   "investor_type": "PE",
+   "lead": true,
+   "rounds": [
+    "Series F follow-on"
+   ],
+   "source_url": "https://techcrunch.com/2025/12/16/weeks-after-raising-100m-investors-pump-another-180m-into-hot-indian-startup-moengage"
+  },
+  {
+   "confidence": "HIGH",
+   "first_seen": "2025",
+   "investor": "A91 Partners",
+   "investor_type": "VC",
+   "lead": true,
+   "rounds": [
+    "Series F tranche 1"
+   ],
+   "source_url": "https://www.moengage.com/in-the-news/moengage-gets-100m-to-scale-marketing-ai-agents-and-accelerate-expansion-in-north-america"
+  },
+  {
+   "confidence": "MEDIUM",
+   "first_seen": "2022",
+   "investor": "B Capital",
+   "investor_type": "VC",
+   "lead": true,
+   "rounds": [
+    "Series E",
+    "Series F follow-on"
+   ],
+   "source_url": "https://techcrunch.com/2025/12/16/weeks-after-raising-100m-investors-pump-another-180m-into-hot-indian-startup-moengage"
+  }
+ ],
+ "investors_meta": [],
+ "locations": [
+  {
+   "address_or_area": "Koramangala, Salarpuria Tower II",
+   "as_of": "2025",
+   "city": "Bengaluru",
+   "confidence": "MEDIUM",
+   "source_url": "http://moengage.com/about-us",
+   "state": "Karnataka",
+   "type": "ops"
+  },
+  {
+   "address_or_area": "580 California St, Suite 1200",
+   "as_of": "2025",
+   "city": "San Francisco",
+   "confidence": "MEDIUM",
+   "source_url": "http://moengage.com/about-us",
+   "state": "California",
+   "type": "HQ"
+  }
+ ],
+ "people": [
+  {
+   "confidence": "MEDIUM",
+   "name": "Yashwanth Reddy",
+   "position": "Chief Revenue Officer",
+   "source_url": "http://moengage.com/about-us"
+  },
+  {
+   "confidence": "MEDIUM",
+   "name": "Narasimha Reddy",
+   "position": "CFO and Head - Strategic Initiatives",
+   "source_url": "http://moengage.com/about-us"
+  }
+ ],
+ "products": [
+  {
+   "category": "customer engagement platform",
+   "description": "Insights-led cross-channel engagement + Merlin AI agents (offer/campaign decisioning)",
+   "name": "MoEngage Platform + Merlin AI",
+   "source_url": "https://www.moengage.com/in-the-news/moengage-gets-100m-to-scale-marketing-ai-agents-and-accelerate-expansion-in-north-america",
+   "status": "active"
+  }
+ ],
+ "research_log": [
+  {
+   "found": "Series F $100M Nov 2025 + $180M Dec 2025; Series E $77M 2022; founders; HQ; traction",
+   "next_action": "MCA/Tofler for legal name + FY financials if needed",
+   "query": "MoEngage funding / founders / revenue",
+   "unresolved": "Legal entity exact name; audited financials"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "MoEngage valuation funding 2025",
+   "found": "TC Dec-2025 well over $900M; ET Nov-2025 $700M; aggregator $1.3B+ contradicted",
+   "unresolved": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "Q-wave claim source-hunt",
+   "found": "1 resolved",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "found": "CIN U72200KA2014FTC077020; incorp 30 Oct 2014; KA matches Bengaluru; subsidiary of foreign company",
+   "query": "MoEngage India Private Limited CIN incorporation",
+   "unresolved": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  }
+ ],
+ "sources": [
+  {
+   "fields_supported": [
+    "funding",
+    "valuation",
+    "traction"
+   ],
+   "publication_date": "2025-12-17",
+   "publisher": "TechCrunch",
+   "retrieved_date": "2026-09-14",
+   "tier": "T3",
+   "title": "Weeks after raising $100M, investors pump another $180M into hot Indian startup MoEngage",
+   "url": "https://techcrunch.com/2025/12/16/weeks-after-raising-100m-investors-pump-another-180m-into-hot-indian-startup-moengage"
+  },
+  {
+   "fields_supported": [
+    "funding",
+    "investors"
+   ],
+   "publication_date": "2022-06-01",
+   "publisher": "MoEngage via PR Newswire",
+   "retrieved_date": "2026-09-14",
+   "tier": "T1",
+   "title": "MoEngage raises $77 Million in Series E funding led by Goldman Sachs Asset Management and B Capital",
+   "url": "https://www.prnewswire.com/news-releases/moengage-raises-77-million-in-series-e-funding-led-by-goldman-sachs-asset-management-and-b-capital-301557902.html"
+  },
+  {
+   "claim_supported": "$100M Series F tranche 1, Merlin AI, North America largest revenue share",
+   "fields_supported": [
+    "funding",
+    "products"
+   ],
+   "publication_date": "2025-11-05",
+   "publisher": "MoEngage (company)",
+   "retrieved_date": "2026-09-14",
+   "tier": "T1",
+   "title": "MoEngage Raises $100M to Scale Marketing AI",
+   "url": "https://www.moengage.com/in-the-news/moengage-gets-100m-to-scale-marketing-ai-agents-and-accelerate-expansion-in-north-america"
+  },
+  {
+   "claim_supported": "founders, team size, offices, Aampe acquisition",
+   "fields_supported": [
+    "founders",
+    "identity"
+   ],
+   "publication_date": null,
+   "publisher": "MoEngage (company)",
+   "retrieved_date": "2026-09-14",
+   "tier": "T1",
+   "title": "About MoEngage",
+   "url": "http://moengage.com/about-us"
+  },
+  {
+   "url": "https://techcrunch.com/2025/12/16/weeks-after-raising-100m-investors-pump-another-180m-into-hot-indian-startup-moengage/",
+   "title": "Aggregator $1.34B/post-money $1.43B figures",
+   "fields": "quarantine-contradiction",
+   "confidence": "MEDIUM"
+  },
+  {
+   "url": "https://www.zaubacorp.com/MOENGAGE-INDIA-PRIVATE-LIMITED-U72200KA2014FTC077020",
+   "title": "MOENGAGE INDIA PRIVATE LIMITED - ZaubaCorp",
+   "fields": [
+    "cin",
+    "incorporation_date"
+   ],
+   "confidence": "high"
+  },
+  {
+   "url": "https://www.linkedin.com/posts/siddharthaahluwalia_raviteja-dodda-founder-of-moengage-joins-activity-7382633556717662208-yWQ9",
+   "title": "MoEngage founder Raviteja Dodda on building a global SaaS from ...",
+   "tier": "T2",
+   "claim": "founder status Raviteja Dodda"
+  },
+  {
+   "url": "https://in.linkedin.com/in/yakumar",
+   "title": "Yashwanth Kumar - MoEngage Inc. - LinkedIn",
+   "tier": "T2",
+   "claim": "founder status Yashwanth Kumar (Kammara Yashwanth Kumar)"
+  }
+ ],
+ "startup_id": "moengage",
+ "traction": [
+  {
+   "as_of": "2025",
+   "company_reported": true,
+   "confidence": "MEDIUM",
+   "metric": "enterprise customers",
+   "source_url": "http://moengage.com/about-us",
+   "value": "1350+ brands, 75 countries"
+  },
+  {
+   "as_of": "2025",
+   "company_reported": true,
+   "confidence": "MEDIUM",
+   "metric": "ARR",
+   "source_url": "https://techcrunch.com/2025/12/16/weeks-after-raising-100m-investors-pump-another-180m-into-hot-indian-startup-moengage",
+   "value": "tracking toward $100M"
+  }
+ ],
+ "_merged_session2": true
+}

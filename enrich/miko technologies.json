@@ -1,0 +1,567 @@
+{
+ "acquisitions": [],
+ "canonical_key": "miko technologies",
+ "company": {
+  "business_model": "Hardware sale (Miko 3/Mini/Chess Grand) + Max subscription + Mikonnect",
+  "city": "Mumbai",
+  "confidence": "HIGH",
+  "country": "India",
+  "customer_type": "B2C (kids 5-12 + parents)",
+  "founded_date": "2015",
+  "hq_type": "operating",
+  "legal_name": "RN Chidakashi Technologies Private Limited (brand: Miko)",
+  "primary_sector": "edtech robotics / consumer AI robots",
+  "primary_source_id": "et-iheart-nov2025",
+  "startup_id": "miko technologies",
+  "startup_stage": "Series D (soonicorn)",
+  "state": "Maharashtra",
+  "status": "active",
+  "website": "https://miko.ai",
+  "cin": {
+   "v": "U72900MH2015PTC261095",
+   "date": "2015-01-19",
+   "conf": "HIGH",
+   "src": "Tracxn/TheCompanyCheck/FalconeBiz registry aggregator pages"
+  },
+  "official_website": {
+   "v": "https://miko.ai",
+   "conf": "high",
+   "src": "https://miko.ai",
+   "note": "verified live 2026-09-15: name match on own homepage"
+  },
+  "careers_website": {
+   "v": "https://miko.ai/pages/careers",
+   "conf": "high",
+   "src": "official homepage nav",
+   "note": "verified 2026-09-15"
+  }
+ },
+ "competitors": [
+  {
+   "basis": "explicit",
+   "confidence": "MEDIUM",
+   "name": "Avishkaar"
+  },
+  {
+   "basis": "explicit",
+   "confidence": "MEDIUM",
+   "name": "PlayShifu"
+  },
+  {
+   "basis": "explicit",
+   "confidence": "MEDIUM",
+   "name": "SP Robotics"
+  }
+ ],
+ "completeness_self": {
+  "customers": 5,
+  "financials": 8,
+  "founders": 9,
+  "funding": 8,
+  "identity": 9,
+  "investors": 8,
+  "legal": 4,
+  "people": 5,
+  "products": 8,
+  "sources": 8,
+  "traction": 8
+ },
+ "conflicts": [
+  {
+   "claim_a": "FY24 revenue Rs 358cr (+58% YoY, Entrackr from RoC)",
+   "claim_b": "FY24 revenue Rs 367.1cr (+60.7% YoY, Inc42 company page)",
+   "field": "FY24 revenue",
+   "resolution": "Different cuts of same RoC filing (operating vs total); prefer Entrackr operating-revenue figure",
+   "resolved_value": "Rs 358cr operating revenue",
+   "url_a": "http://entrackr.com/fintrackr/miko-reports-rs-358-cr-revenue-in-fy24-income-from-subscription-biz-surges-29x-9152823",
+   "url_b": "https://inc42.com/company/miko/financials"
+  }
+ ],
+ "customers": [],
+ "events": [
+  {
+   "announced_date": "2024-10-28",
+   "confidence": "MEDIUM",
+   "date": "2024-10-28",
+   "description": "$15.8M Series D (IvyCap et al) per Head&Tale/Entrepreneur (Tracxn shows $15.55M same date)",
+   "headline": "$15.8M Series D",
+   "source_url": "https://india.entrepreneur.com/news-and-trends/robotics-startup-miko-raises-usd-105-mn-led-by-iheartmedia/499355",
+   "type": "funding"
+  },
+  {
+   "announced_date": "2025-08-25",
+   "confidence": "MEDIUM",
+   "date": "2025-08-25",
+   "description": "Board resolution to issue shares for Rs 1,325cr ($155M) from AMDG-PAX Foundation at ~$550M post-money; status pending/unconfirmed close",
+   "headline": "$155M Series D raise (pending)",
+   "source_url": "https://entrackr.com/exclusive/exclusive-robotic-maker-miko-to-raise-155-mn-at-550-mn-valuation-9731064",
+   "type": "funding"
+  },
+  {
+   "announced_date": "2025-11-07",
+   "confidence": "HIGH",
+   "date": "2025-11-07",
+   "description": "$10.5M (Rs 93.5cr) from iHeartMedia + audio-content partnership; Costco North America launch",
+   "headline": "$10.5M iHeartMedia round",
+   "source_url": "https://m.economictimes.com/tech/funding/robotics-startup-miko-raises-10-5-million-from-iheartmedia-to-integrate-us-firms-audio-content-in-devices/articleshow/125153879.cms",
+   "type": "funding"
+  }
+ ],
+ "financials": [
+  {
+   "confidence": "HIGH",
+   "currency": "INR",
+   "fiscal_year": "FY24",
+   "metric": "operating_revenue",
+   "source_title": "Miko reports Rs 358 Cr revenue in FY24",
+   "source_url": "http://entrackr.com/fintrackr/miko-reports-rs-358-cr-revenue-in-fy24-income-from-subscription-biz-surges-29x-9152823",
+   "value": "358 crore",
+   "value_type": "press-quoted-filing"
+  },
+  {
+   "confidence": "MEDIUM",
+   "currency": "INR",
+   "fiscal_year": "FY24",
+   "metric": "net_loss",
+   "source_title": "Miko Financials 2026",
+   "source_url": "https://inc42.com/company/miko/financials",
+   "value": "120.6 crore",
+   "value_type": "press-quoted-filing"
+  }
+ ],
+ "founders": [
+  {
+   "background": "IIT Bombay",
+   "confidence": "HIGH",
+   "name": "Sneh Vaswani",
+   "role": "Co-founder & CEO",
+   "source_url": "https://m.economictimes.com/tech/funding/robotics-startup-miko-raises-10-5-million-from-iheartmedia-to-integrate-us-firms-audio-content-in-devices/articleshow/125153879.cms",
+   "still_active": true,
+   "type": "co-founder"
+  },
+  {
+   "background": "IIT Bombay, MTech",
+   "confidence": "HIGH",
+   "name": "Prashant Iyengar",
+   "role": "Co-founder & CTO",
+   "source_url": "https://platform.tracxn.com/a/d/company/5ce7e4f0f036854742999113/miko%20technologies",
+   "still_active": true,
+   "type": "co-founder"
+  },
+  {
+   "confidence": "HIGH",
+   "name": "Chintan Raikar",
+   "role": "Co-founder & COO",
+   "source_url": "https://platform.tracxn.com/a/d/company/5ce7e4f0f036854742999113/miko%20technologies",
+   "still_active": true,
+   "type": "co-founder"
+  }
+ ],
+ "funding_rounds": [
+  {
+   "all_investors": [
+    "Chiratae Ventures",
+    "IvyCap Ventures",
+    "YourNest",
+    "Aroa Ventures",
+    "Ritesh Agarwal",
+    "IIFL"
+   ],
+   "amount": 29000000,
+   "announced_date": "2021-08-11",
+   "confidence": "MEDIUM",
+   "currency": "USD",
+   "lead_investors": [
+    "IvyCap Ventures"
+   ],
+   "round_type": "Series B",
+   "source_title": "Miko company info (Dealroom)",
+   "source_url": "https://app.dealroom.co/companies/miko",
+   "tier": "T2",
+   "valuation": "87M",
+   "valuation_type": "post-money"
+  },
+  {
+   "all_investors": [
+    "IvyCap Ventures",
+    "360 One",
+    "Chiratae Ventures"
+   ],
+   "amount": 15800000,
+   "announced_date": "2024-10-28",
+   "confidence": "MEDIUM",
+   "currency": "USD",
+   "lead_investors": [
+    "IvyCap Ventures"
+   ],
+   "round_type": "Series D",
+   "source_title": "Robotics Startup Miko Raises USD 10.5 Mn (history)",
+   "source_url": "https://india.entrepreneur.com/news-and-trends/robotics-startup-miko-raises-usd-105-mn-led-by-iheartmedia/499355",
+   "tier": "T3"
+  },
+  {
+   "all_investors": [
+    "AMDG-PAX Foundation"
+   ],
+   "amount": 155000000,
+   "announced_date": "2025-08-25",
+   "confidence": "MEDIUM",
+   "currency": "USD",
+   "lead_investors": [
+    "AMDG-PAX Foundation"
+   ],
+   "notes": "Board resolution reported; close unconfirmed",
+   "round_type": "Series D (pending)",
+   "source_title": "Robotics startup Miko to raise $155 Mn at $550 Mn valuation",
+   "source_url": "https://entrackr.com/exclusive/exclusive-robotic-maker-miko-to-raise-155-mn-at-550-mn-valuation-9731064",
+   "tier": "T3",
+   "valuation": "550M",
+   "valuation_type": "estimated post-money"
+  },
+  {
+   "all_investors": [
+    "iHeartMedia"
+   ],
+   "amount": 10500000,
+   "announced_date": "2025-11-07",
+   "confidence": "HIGH",
+   "currency": "USD",
+   "lead_investors": [
+    "iHeartMedia"
+   ],
+   "round_type": "Corporate Minority (Series D extension)",
+   "source_date": "2025-11-07",
+   "source_title": "Miko raises $10.5M from iHeartMedia",
+   "source_url": "https://m.economictimes.com/tech/funding/robotics-startup-miko-raises-10-5-million-from-iheartmedia-to-integrate-us-firms-audio-content-in-devices/articleshow/125153879.cms",
+   "tier": "T3"
+  },
+  {
+   "round_type": "Series D",
+   "amount": "",
+   "currency": "USD",
+   "round_date": "2025-08-25",
+   "valuation": "$550M",
+   "valuation_currency": "USD",
+   "valuation_type": "post-money",
+   "lead_investors": [],
+   "all_investors": [],
+   "new_or_existing": "new",
+   "purpose": "Business requirements and general corporate purposes; AMDG-PAX Foundation to hold 27.87% post-allotment",
+   "source_url": "https://medial.app/news/exclusive-robotics-startup-miko-to-raise-dollar155-mn-at-dollar550-mn-valuation-d35d55969015d",
+   "confidence": "MEDIUM",
+   "notes": "added session-2 gapfill",
+   "announcement_date": "2025-11-07"
+  },
+  {
+   "round_type": "Series C",
+   "amount": "",
+   "currency": "USD",
+   "round_date": "2024-08-22",
+   "valuation": "$207M",
+   "valuation_currency": "USD",
+   "valuation_type": "post-money",
+   "lead_investors": [],
+   "all_investors": [],
+   "new_or_existing": "new",
+   "purpose": "Angel investors and Moneycrew Fintech",
+   "source_url": "https://snapshot.one21.ai/organization/-miko-technologies",
+   "confidence": "MEDIUM",
+   "notes": "added session-2 gapfill"
+  },
+  {
+   "round_type": "Series C",
+   "amount": "",
+   "currency": "USD",
+   "round_date": "2023-03-30",
+   "valuation": "~$200M",
+   "valuation_currency": "USD",
+   "valuation_type": "post-money",
+   "lead_investors": [],
+   "all_investors": [],
+   "new_or_existing": "new",
+   "purpose": "IvyCap Ventures Trust Fund III CCPS issuance",
+   "source_url": "https://medial.app/news/exclusive-robotics-startup-miko-to-raise-dollar155-mn-at-dollar550-mn-valuation-d35d55969015d",
+   "confidence": "MEDIUM",
+   "notes": "added session-2 gapfill"
+  }
+ ],
+ "gaps": [
+  "$155M AMDG-PAX close unconfirmed",
+  "FY25 financials not filed at time of search",
+  "CIN U72900MH2015PTC261095 seen via Tracxn snippet only — needs MCA verification",
+  "Early rounds (Seed/Series A amounts) not individually verified",
+  "Exact post-money valuation for the Nov 2025 $10.54M round",
+  "FY25 annual report filing data (not yet filed as of search date)",
+  "Registered office address confirmation from primary MCA source"
+ ],
+ "hiring": [
+  {
+   "as_of": "2025",
+   "confidence": "MEDIUM",
+   "fact_type": "headcount",
+   "source_url": "http://miko.ai/pages/about-us",
+   "value": "300+ employees (company site)"
+  }
+ ],
+ "investor_links": [
+  {
+   "confidence": "HIGH",
+   "investor": "IvyCap Ventures",
+   "investor_type": "VC",
+   "lead": true,
+   "rounds": [
+    "Series B",
+    "Series D"
+   ],
+   "source_url": "https://india.entrepreneur.com/news-and-trends/robotics-startup-miko-raises-usd-105-mn-led-by-iheartmedia/499355"
+  },
+  {
+   "confidence": "HIGH",
+   "investor": "Chiratae Ventures",
+   "investor_type": "VC",
+   "rounds": [
+    "Series A",
+    "Series B"
+   ],
+   "source_url": "https://app.dealroom.co/companies/miko"
+  },
+  {
+   "confidence": "MEDIUM",
+   "investor": "YourNest",
+   "investor_type": "VC",
+   "rounds": [
+    "Seed",
+    "Series B"
+   ],
+   "source_url": "https://app.dealroom.co/companies/miko"
+  },
+  {
+   "confidence": "HIGH",
+   "investor": "iHeartMedia",
+   "investor_type": "corporate",
+   "lead": true,
+   "rounds": [
+    "Nov 2025"
+   ],
+   "source_url": "https://m.economictimes.com/tech/funding/robotics-startup-miko-raises-10-5-million-from-iheartmedia-to-integrate-us-firms-audio-content-in-devices/articleshow/125153879.cms"
+  },
+  {
+   "confidence": "MEDIUM",
+   "investor": "360 One",
+   "investor_type": "VC",
+   "rounds": [
+    "Series D"
+   ],
+   "source_url": "https://platform.tracxn.com/a/d/company/5ce7e4f0f036854742999113/miko%20technologies"
+  },
+  {
+   "confidence": "MEDIUM",
+   "investor": "Stride Ventures / Trifecta (debt)",
+   "investor_type": "debt",
+   "rounds": [
+    "venture debt"
+   ],
+   "source_url": "https://app.dealroom.co/companies/miko"
+  }
+ ],
+ "investors_meta": [
+  {
+   "investor": "AMDG-PAX Foundation",
+   "type": "Non-Profit Foundation",
+   "hq_geography": "Delaware, US",
+   "india_presence": "No India office; investor only",
+   "source_url": "https://medial.app/news/exclusive-robotics-startup-miko-to-raise-dollar155-mn-at-dollar550-mn-valuation-d35d55969015d"
+  },
+  {
+   "investor": "iHeartMedia",
+   "type": "Corporation",
+   "hq_geography": "Texas, US",
+   "india_presence": "No India office; investor only",
+   "source_url": "https://snapshot.one21.ai/organization/-miko-technologies"
+  },
+  {
+   "investor": "IvyCap Ventures",
+   "type": "Venture Capital",
+   "hq_geography": "India",
+   "india_presence": "India HQ",
+   "source_url": "https://medial.app/news/exclusive-robotics-startup-miko-to-raise-dollar155-mn-at-dollar550-mn-valuation-d35d55969015d"
+  },
+  {
+   "investor": "Chiratae Ventures",
+   "type": "Venture Capital",
+   "hq_geography": "India",
+   "india_presence": "India HQ",
+   "source_url": "https://medial.app/news/exclusive-robotics-startup-miko-to-raise-dollar155-mn-at-dollar550-mn-valuation-d35d55969015d"
+  },
+  {
+   "investor": "Moneycrew Fintech",
+   "type": "Fintech/Angel",
+   "hq_geography": "India",
+   "india_presence": "India",
+   "source_url": "https://snapshot.one21.ai/organization/-miko-technologies"
+  }
+ ],
+ "ip_tech_ai": {
+  "ai_notes": "AI-native robotics: generative content, sensors, long-term memory; emotionally intelligent kid-safe interactions",
+  "confidence": "MEDIUM",
+  "source_url": "https://m.economictimes.com/tech/funding/robotics-startup-miko-raises-10-5-million-from-iheartmedia-to-integrate-us-firms-audio-content-in-devices/articleshow/125153879.cms"
+ },
+ "legal": [],
+ "locations": [
+  {
+   "as_of": "2025-11",
+   "city": "Mumbai",
+   "confidence": "HIGH",
+   "source_url": "https://m.economictimes.com/tech/funding/robotics-startup-miko-raises-10-5-million-from-iheartmedia-to-integrate-us-firms-audio-content-in-devices/articleshow/125153879.cms",
+   "state": "Maharashtra",
+   "type": "HQ"
+  }
+ ],
+ "partnerships": [
+  {
+   "confidence": "HIGH",
+   "name": "iHeartMedia audio-content integration",
+   "source_url": "https://m.economictimes.com/tech/funding/robotics-startup-miko-raises-10-5-million-from-iheartmedia-to-integrate-us-firms-audio-content-in-devices/articleshow/125153879.cms"
+  },
+  {
+   "confidence": "MEDIUM",
+   "name": "Costco North America retail launch",
+   "source_url": "https://india.entrepreneur.com/news-and-trends/robotics-startup-miko-raises-usd-105-mn-led-by-iheartmedia/499355"
+  }
+ ],
+ "people": [],
+ "products": [
+  {
+   "category": "consumer robotics",
+   "confidence": "HIGH",
+   "name": "Miko 3, Miko Mini, Miko Chess Grand, Miko Max (subscription), Mikonnect (video calling)",
+   "source_url": "https://india.entrepreneur.com/news-and-trends/robotics-startup-miko-raises-usd-105-mn-led-by-iheartmedia/499355",
+   "status": "active"
+  }
+ ],
+ "research_log": [
+  {
+   "found": "Founders, Series B/D, iHeart $10.5M, $155M pending, FY24 revenue, products, Costco",
+   "next_action": "Confirm AMDG-PAX close + FY25 filing",
+   "query": "Miko funding founders revenue",
+   "unresolved": "$155M close; FY25; CIN verification"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "Miko Technologies Private Limited CIN incorporation date registry",
+   "found": "CIN U72900MH2015PTC261095, incorporated 19 January 2015",
+   "unresolved": ""
+  },
+  {
+   "date": "2026-09-14",
+   "query": "Miko Technologies valuation 2025 2026 funding round",
+   "found": "Series D $155M at $550M valuation (Aug 2025); $10.54M corporate minority (Nov 2025); valuation range $395-550M per CBInsights",
+   "unresolved": "Exact post-money valuation for Nov 2025 round not disclosed"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "Miko Technologies Series C valuation details",
+   "found": "Series C Aug 2024 at $207M post-money; Series C tranche Mar 2023 at ~$200M",
+   "unresolved": ""
+  }
+ ],
+ "sources": [
+  {
+   "publication_date": "2025-11-07",
+   "publisher": "Economic Times",
+   "retrieved_date": "2026-09-14",
+   "tier": "T3",
+   "title": "Miko raises $10.5M from iHeartMedia",
+   "url": "https://m.economictimes.com/tech/funding/robotics-startup-miko-raises-10-5-million-from-iheartmedia-to-integrate-us-firms-audio-content-in-devices/articleshow/125153879.cms"
+  },
+  {
+   "publication_date": "2025-08-25",
+   "publisher": "Entrackr",
+   "retrieved_date": "2026-09-14",
+   "tier": "T3",
+   "title": "Miko to raise $155 Mn at $550 Mn valuation",
+   "url": "https://entrackr.com/exclusive/exclusive-robotic-maker-miko-to-raise-155-mn-at-550-mn-valuation-9731064"
+  },
+  {
+   "claim_supported": "FY24 revenue Rs 358cr",
+   "publisher": "Entrackr",
+   "retrieved_date": "2026-09-14",
+   "tier": "T3",
+   "title": "Miko reports Rs 358 Cr revenue in FY24",
+   "url": "http://entrackr.com/fintrackr/miko-reports-rs-358-cr-revenue-in-fy24-income-from-subscription-biz-surges-29x-9152823"
+  },
+  {
+   "publication_date": "2025-11-08",
+   "publisher": "Entrepreneur India",
+   "retrieved_date": "2026-09-14",
+   "tier": "T3",
+   "title": "Miko Raises USD 10.5 Mn led by iHeartMedia",
+   "url": "https://india.entrepreneur.com/news-and-trends/robotics-startup-miko-raises-usd-105-mn-led-by-iheartmedia/499355"
+  },
+  {
+   "url": "https://medial.app/news/exclusive-robotics-startup-miko-to-raise-dollar155-mn-at-dollar550-mn-valuation-d35d55969015d",
+   "title": "",
+   "fields": "FUNDING",
+   "confidence": "MEDIUM"
+  },
+  {
+   "url": "https://snapshot.one21.ai/organization/-miko-technologies",
+   "title": "",
+   "fields": "FUNDING",
+   "confidence": "MEDIUM"
+  },
+  {
+   "url": "https://tracxn.com/d/legal-entities/india/rn-chidakashi-technologies-private-limited/__0QA3wGwMDZMO7CDhSDSFVtRHEuyzSN5uPWLf00UmZXs",
+   "title": "RN CHIDAKASHI TECHNOLOGIES PRIVATE LIMITED - Tracxn Legal Entity",
+   "fields": [
+    "cin",
+    "incorporation_date"
+   ],
+   "confidence": "HIGH"
+  },
+  {
+   "url": "https://www.thecompanycheck.com/company/rn-chidakashi-technologies-private-limited/U72900MH2015PTC261095",
+   "title": "Rn Chidakashi Technologies Private Limited - The Company Check",
+   "fields": [
+    "cin",
+    "incorporation_date"
+   ],
+   "confidence": "HIGH"
+  },
+  {
+   "url": "https://www.falconebiz.com/company/RN-CHIDAKASHI-TECHNOLOGIES-PRIVATE-LIMITED-U72900MH2015PTC261095",
+   "title": "RN CHIDAKASHI TECHNOLOGIES PRIVATE LIMITED - FalconEbiz",
+   "fields": [
+    "cin",
+    "incorporation_date"
+   ],
+   "confidence": "HIGH"
+  },
+  {
+   "url": "https://www.cbinsights.com/company/emotix/financials",
+   "title": "Miko Funding, Valuation & Revenue - CBInsights",
+   "fields": [
+    "valuation_range"
+   ],
+   "confidence": "MEDIUM"
+  }
+ ],
+ "startup_id": "miko technologies",
+ "traction": [
+  {
+   "as_of": "2025",
+   "confidence": "MEDIUM",
+   "metric": "units / interactions",
+   "source_url": "http://miko.ai/pages/about-us",
+   "value": "700K+ units sold; 500M+ interactions (company-reported)"
+  },
+  {
+   "as_of": "2025-11",
+   "confidence": "MEDIUM",
+   "metric": "geo reach",
+   "source_url": "https://m.economictimes.com/tech/funding/robotics-startup-miko-raises-10-5-million-from-iheartmedia-to-integrate-us-firms-audio-content-in-devices/articleshow/125153879.cms",
+   "value": "140+ countries (company-reported)"
+  }
+ ],
+ "_merged_session2": true
+}

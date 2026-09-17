@@ -1,0 +1,247 @@
+{
+ "canonical_key": "freshworks",
+ "company": {
+  "business_model": "B2B SaaS",
+  "city": "Chennai",
+  "company_name": "Freshworks",
+  "founded_date": "2010",
+  "primary_sector": "saas",
+  "public_private": "Public",
+  "startup_stage": "Listed (Nasdaq: FRSH, since Sep 2021)",
+  "status": "Active",
+  "official_website": {
+   "v": "https://www.freshworks.com/",
+   "conf": "HIGH",
+   "src": "https://www.freshworks.com/",
+   "note": "Verified through TinyFish render; Freshworks homepage rendered with company product description."
+  },
+  "careers_website": {
+   "v": "https://www.freshworks.com/company/careers/",
+   "conf": "HIGH",
+   "src": "https://www.freshworks.com/company/careers/",
+   "note": "Verified by hyperresearch fetch; official Freshworks Careers page rendered."
+  },
+  "website": "https://www.freshworks.com/"
+ },
+ "completeness_self": {
+  "financials": 9,
+  "founders": 9,
+  "funding": 9,
+  "identity": 10,
+  "investors": 8,
+  "legal": 4,
+  "people": 5,
+  "products": 7,
+  "sources": 9,
+  "traction": 8
+ },
+ "conflicts": [],
+ "events": [
+  {
+   "confidence": "high",
+   "date": "2021-09-22",
+   "description": "28.5M shares at $36; raised $1.03B at $10.13B valuation; traded on Nasdaq as FRSH.",
+   "headline": "Nasdaq IPO",
+   "source_url": "https://finance.yahoo.com/news/freshworks-valued-10-13-billion-014249866.html",
+   "type": "ipo"
+  },
+  {
+   "confidence": "high",
+   "date": "2026-02-10",
+   "description": "Q4 revenue $222.7M (+14% YoY); FY25 revenue $838.8M (+16%); EX ARR crossed $0.5B; Freddy AI ARR >$25M.",
+   "headline": "Q4 + Full Year 2025 results",
+   "source_url": "https://www.globenewswire.com/news-release/2026/02/10/3235792/0/en/freshworks-reports-fourth-quarter-and-full-year-2025-results.html",
+   "type": "earnings"
+  }
+ ],
+ "financials": [
+  {
+   "confidence": "high",
+   "currency": "USD",
+   "fiscal_year": "2025",
+   "metric": "revenue",
+   "source_title": "Freshworks Reports Fourth Quarter and Full Year 2025 Results",
+   "source_url": "https://www.globenewswire.com/news-release/2026/02/10/3235792/0/en/freshworks-reports-fourth-quarter-and-full-year-2025-results.html",
+   "unit": "USD M",
+   "value": "838.8",
+   "value_type": "audited"
+  },
+  {
+   "confidence": "high",
+   "currency": "USD",
+   "fiscal_year": "Q4 2025",
+   "metric": "revenue",
+   "source_title": "Freshworks Reports Fourth Quarter and Full Year 2025 Results",
+   "source_url": "https://www.globenewswire.com/news-release/2026/02/10/3235792/0/en/freshworks-reports-fourth-quarter-and-full-year-2025-results.html",
+   "unit": "USD M",
+   "value": "222.7",
+   "value_type": "audited"
+  }
+ ],
+ "founders": [
+  {
+   "background": "Ex-Zoho VP Product Management; Together Fund co-founder",
+   "confidence": "high",
+   "education": "MBA, University of Madras",
+   "name": "Girish Mathrubootham",
+   "role": "Founder (Executive Chairman; CEO until 2024)",
+   "source_url": "https://en.wikipedia.org/wiki/Freshworks",
+   "still_active": true,
+   "type": "founder"
+  },
+  {
+   "confidence": "high",
+   "name": "Shan Krishnasamy",
+   "role": "Co-founder (ex)",
+   "source_url": "https://platform.tracxn.com/a/d/company/58de3f23e4b01096689065a4/freshworks",
+   "still_active": false,
+   "type": "co-founder"
+  }
+ ],
+ "funding_rounds": [
+  {
+   "all_investors": [
+    "Sequoia Capital",
+    "CapitalG",
+    "Accel"
+   ],
+   "amount": "150M",
+   "announced_date": "2019-11-04",
+   "confidence": "high",
+   "currency": "USD",
+   "lead_investors": [
+    "Sequoia Capital",
+    "CapitalG",
+    "Accel"
+   ],
+   "round_type": "Series H",
+   "source_title": "Freshworks Nasdaq listing coverage (prior round context)",
+   "source_url": "https://m.economictimes.com/tech/startups/freshworks-lists-on-nasdaq-after-billion-dollar-ipo/articleshow/86428640.cms",
+   "tier": "T2",
+   "valuation": "3.5B",
+   "valuation_type": "post-money"
+  },
+  {
+   "amount": "1.03B",
+   "announced_date": "2021-09-22",
+   "confidence": "high",
+   "currency": "USD",
+   "lead_investors": [],
+   "round_type": "IPO",
+   "source_title": "Salesforce rival Freshworks raises $1.03 billion in U.S. IPO, valued at $10.13 billion",
+   "source_url": "https://finance.yahoo.com/news/freshworks-valued-10-13-billion-014249866.html",
+   "tier": "T1",
+   "valuation": "10.13B",
+   "valuation_type": "IPO valuation"
+  }
+ ],
+ "gaps": [
+  "CIN not surfaced (US-listed; Indian subsidiary CIN would need MCA lookup)",
+  "Full early round amounts not itemized in LITE budget"
+ ],
+ "investor_links": [
+  {
+   "confidence": "high",
+   "investor": "Accel",
+   "investor_type": "VC",
+   "lead": false,
+   "rounds": [
+    "Series A-H",
+    "IPO backer"
+   ],
+   "source_url": "https://m.economictimes.com/tech/startups/freshworks-lists-on-nasdaq-after-billion-dollar-ipo/articleshow/86428640.cms"
+  },
+  {
+   "confidence": "high",
+   "investor": "Sequoia Capital",
+   "investor_type": "VC",
+   "lead": false,
+   "rounds": [
+    "Series H",
+    "IPO backer"
+   ],
+   "source_url": "https://finance.yahoo.com/news/freshworks-valued-10-13-billion-014249866.html"
+  },
+  {
+   "confidence": "high",
+   "investor": "CapitalG (Google)",
+   "investor_type": "CVC",
+   "lead": false,
+   "rounds": [
+    "Series H"
+   ],
+   "source_url": "https://m.economictimes.com/tech/startups/freshworks-lists-on-nasdaq-after-billion-dollar-ipo/articleshow/86428640.cms"
+  },
+  {
+   "confidence": "medium",
+   "investor": "Tiger Global",
+   "investor_type": "VC",
+   "lead": false,
+   "rounds": [
+    "Series C-H"
+   ],
+   "source_url": "https://platform.tracxn.com/a/d/company/58de3f23e4b01096689065a4/freshworks"
+  }
+ ],
+ "research_log": [
+  {
+   "found": "Active, Nasdaq FRSH, Stage Public",
+   "query": "Freshworks status 2025 2026 Nasdaq"
+  },
+  {
+   "found": "FY25 rev $838.8M; founders Girish/Shan; Series H $150M",
+   "query": "Freshworks IPO valuation founders revenue FY25"
+  },
+  {
+   "found": "IPO $1.03B, $10.13B valuation, 28.5M shares at $36",
+   "query": "Freshworks IPO 2021 Nasdaq Accel Sequoia"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "Freshworks official website careers",
+   "found": "Official freshworks.com domain and first-party careers page verified; official SmartRecruiters listing also appeared in search.",
+   "unresolved": "Homepage returned HTTP 403 to hyperresearch, but TinyFish rendered the company page.",
+   "next_action": "None."
+  }
+ ],
+ "sources": [
+  {
+   "claim_supported": "Founders, IPO raise/valuation, Series H $150M at $3.5B",
+   "fields_supported": [
+    "founders",
+    "funding_rounds"
+   ],
+   "publication_date": "2021-09-23",
+   "publisher": "Economic Times",
+   "tier": "T2",
+   "title": "Freshworks lists on Nasdaq after billion-dollar IPO",
+   "url": "https://m.economictimes.com/tech/startups/freshworks-lists-on-nasdaq-after-billion-dollar-ipo/articleshow/86428640.cms"
+  },
+  {
+   "claim_supported": "IPO pricing, raise, valuation",
+   "fields_supported": [
+    "funding_rounds",
+    "events"
+   ],
+   "publication_date": "2021-09-22",
+   "publisher": "Reuters via Yahoo",
+   "tier": "T1",
+   "title": "Freshworks raises $1.03 billion in U.S. IPO, valued at $10.13 billion",
+   "url": "https://finance.yahoo.com/news/freshworks-valued-10-13-billion-014249866.html"
+  },
+  {
+   "claim_supported": "FY25/Q4 2025 revenue, ARR milestones",
+   "fields_supported": [
+    "financials",
+    "events"
+   ],
+   "publication_date": "2026-02-10",
+   "publisher": "Freshworks via GlobeNewswire",
+   "tier": "T1",
+   "title": "Freshworks Reports Fourth Quarter and Full Year 2025 Results",
+   "url": "https://www.globenewswire.com/news-release/2026/02/10/3235792/0/en/freshworks-reports-fourth-quarter-and-full-year-2025-results.html"
+  }
+ ],
+ "startup_id": "freshworks",
+ "_merged_session2": true
+}

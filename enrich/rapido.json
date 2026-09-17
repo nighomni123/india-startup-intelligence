@@ -1,0 +1,4020 @@
+{
+ "company": {
+  "business_model": "Ride-hailing marketplace (commission on bike taxis; subscription for auto/cab; delivery + ads)",
+  "city": "Bengaluru, Karnataka",
+  "customer_type": "B2C riders; driver-partners (captains); delivery/food adjacencies",
+  "dpiit": "DPIIT-registered (per Tracxn tag; primary cert unverified)",
+  "employee_estimate": "817 (Tracxn official)",
+  "founded_date": "2015 (as theKarrier; Rapido brand)",
+  "legal_name": "Roppen Transportation Services Private Limited (dba Rapido)",
+  "parent_subsidiary": "Independent; Swiggy exited ~12% stake Sep 2025 (sold to Prosus/WestBridge ~Rs 2399Cr)",
+  "primary_sector": "Mobility / road transport tech (bike taxi-led multimodal)",
+  "public_private": "Private",
+  "startup_stage": "Series F; $3B post-money (May 2026)",
+  "status": "Active",
+  "website": "https://rapido.bike",
+  "official_website": {
+   "v": "https://rapido.bike",
+   "conf": "high",
+   "src": "https://rapido.bike",
+   "note": "verified live 2026-09-15: name match on own homepage"
+  },
+  "careers_website": {
+   "v": "https://rapido.bike/Careers",
+   "conf": "high",
+   "src": "https://rapido.bike",
+   "note": "careers link found on official homepage, probed live"
+  },
+  "cin": {
+   "v": "U52210TG2015PTC097115",
+   "conf": "HIGH",
+   "src": "https://rapido.bike/Contact",
+   "note": "CIN from official website; confirmed by Tracxn and ZaubaCorp"
+  },
+  "incorporation_date": {
+   "v": "2015-01-05",
+   "conf": "HIGH",
+   "src": "https://tracxn.com/d/legal-entities/india/roppen-transportation-services-private-limited/__HUZ2wakxPnhZkeEpflU9cNcXb0lI5IllIrVKyQCIrm4",
+   "note": "Incorporated Jan 5, 2015 per MCA/Tracxn"
+  },
+  "state": {
+   "v": "Karnataka",
+   "conf": "HIGH",
+   "src": "https://rapido.bike",
+   "note": "Registered office in Hyderabad but HQ/corporate office in Bengaluru"
+  },
+  "country": {
+   "v": "India",
+   "conf": "HIGH",
+   "src": "https://rapido.bike",
+   "note": "India-only operations"
+  },
+  "description": {
+   "v": "India's largest ride-hailing platform operating bike taxis, autos, and cabs across 500+ cities. Also operates Ownly food delivery and Metro Ticket. Uses zero-commission SaaS subscription model for drivers.",
+   "conf": "HIGH",
+   "src": "https://rapido.bike",
+   "note": "From official website and multiple sources"
+  },
+  "hq_type": {
+   "v": "Corporate Office: Mantri Commercio - Spatium Tower A, Varthur Hobli, Bangalore East Taluk; City Office: HSR Layout, Bengaluru",
+   "conf": "HIGH",
+   "src": "https://rapido.bike/Contact",
+   "note": "Registered office in Hyderabad (Madhapur); operational HQ in Bengaluru"
+  },
+  "registered_office": {
+   "v": "3rd Floor, Sai Prithvi Arcade, Megha Hills, Sri Rama Colony, Madhapur, Hyderabad - 500081",
+   "conf": "HIGH",
+   "src": "https://rapido.bike/Contact",
+   "note": "Per official website; Tracxn confirms same"
+  }
+ },
+ "completeness_self": {
+  "financials": 8,
+  "founders": 8,
+  "funding": 8,
+  "identity": 8,
+  "investors": 7,
+  "overall": "medium-low; LITE core layer only"
+ },
+ "conflicts": [
+  {
+   "claim_a": "FY25 operating revenue Rs 934.44Cr (Tofler via BS/ET)",
+   "claim_b": "FY25 revenue Rs 1002.87Cr incl. other income (Tracxn via HinduBL)",
+   "field": "FY25 revenue",
+   "resolution": "Both consistent: 934Cr operating + ~68Cr other income = ~1003Cr total",
+   "url_a": "https://www.business-standard.com/companies/news/rapido-fy25-loss-narrows-to-rs-258-crore-revenue-rises-44-pc-126012201517_1.html",
+   "url_b": "https://www.thehindubusinessline.com/companies/ride-hailing-unicorn-rapidos-revenue-crosses-rs-1000-cr-for-fy25/article70534671.ece"
+  },
+  {
+   "field": "legal_name",
+   "claim_a": "Roppen Transportation Services Private Limited (dba Rapido)",
+   "url_a": "",
+   "claim_b": "Roppen Transportation Services Private Limited",
+   "url_b": "",
+   "resolution": "phase3 p3 payload disagrees with existing value; existing kept as preferred pending human review",
+   "resolved_value": "",
+   "reviewed": "p3-merge"
+  },
+  {
+   "field": "city",
+   "claim_a": "Bengaluru, Karnataka",
+   "url_a": "",
+   "claim_b": "Bengaluru",
+   "url_b": "",
+   "resolution": "phase3 p3 payload disagrees with existing value; existing kept as preferred pending human review",
+   "resolved_value": "",
+   "reviewed": "p3-merge"
+  },
+  {
+   "field": "primary_sector",
+   "claim_a": "Mobility / road transport tech (bike taxi-led multimodal)",
+   "url_a": "",
+   "claim_b": "Mobility / road transport tech (bike-taxi-led multimodal)",
+   "url_b": "",
+   "resolution": "phase3 p3 payload disagrees with existing value; existing kept as preferred pending human review",
+   "resolved_value": "",
+   "reviewed": "p3-merge"
+  },
+  {
+   "field": "business_model",
+   "claim_a": "Ride-hailing marketplace (commission on bike taxis; subscription for auto/cab; delivery + ads)",
+   "url_a": "",
+   "claim_b": "Ride-hailing marketplace (zero-commission SaaS subscription for drivers; commission-free food delivery via Ownly; ads)",
+   "url_b": "",
+   "resolution": "phase3 p3 payload disagrees with existing value; existing kept as preferred pending human review",
+   "resolved_value": "",
+   "reviewed": "p3-merge"
+  },
+  {
+   "field": "employee_estimate",
+   "claim_a": "817 (Tracxn official)",
+   "url_a": "",
+   "claim_b": "817",
+   "url_b": "",
+   "resolution": "phase3 p3 payload disagrees with existing value; existing kept as preferred pending human review",
+   "resolved_value": "",
+   "reviewed": "p3-merge"
+  },
+  {
+   "field": "FY25 revenue",
+   "claim_a": "FY25 operating revenue Rs 934.44Cr (BS via RoC filings)",
+   "url_a": "https://www.business-standard.com/companies/news/rapido-fy25-loss-narrows-to-rs-258-crore-revenue-rises-44-pc-126012201517_1.html",
+   "claim_b": "FY25 revenue Rs 1002.87Cr incl. other income (Tracxn via HinduBL)",
+   "url_b": "https://www.thehindubusinessline.com/companies/ride-hailing-unicorn-rapidos-revenue-crosses-rs-1000-cr-for-fy25/article70534671.ece",
+   "resolution": "Both consistent: 934.44Cr operating + ~68Cr other income = ~1003Cr total",
+   "resolved_value": "934.44Cr operating revenue; 1002.87Cr total revenue"
+  }
+ ],
+ "events": [
+  {
+   "date": "2024-07-29",
+   "headline": "$120M Series E led by WestBridge; unicorn ($1.1B)",
+   "source_url": "https://www.business-standard.com/companies/start-ups/rapido-enters-unicorn-club-with-120-million-round-led-by-westbridge-124072901384_1.html",
+   "type": "funding"
+  },
+  {
+   "date": "2026-05-15",
+   "headline": "$240M primary (part of $730M primary+secondary) led by Prosus at $3B post-money",
+   "source_url": "https://techcrunch.com/2026/05/15/indian-uber-rival-rapido-raises-240m-at-3b-valuation",
+   "type": "funding"
+  },
+  {
+   "type": "funding",
+   "headline": "Series A: $11.2M led by Nexus Venture Partners",
+   "date": "2019-01-10",
+   "description": "First institutional round",
+   "source_url": "https://www.vccircle.com/westbridge-leads-55-mn-series-b-round-in-rapido",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "funding",
+   "headline": "Series B: $54.6M led by WestBridge Capital",
+   "date": "2019-08-14",
+   "description": "WestBridge led Series B; Nexus, BAce, Shunwei participated",
+   "source_url": "https://www.vccircle.com/westbridge-leads-55-mn-series-b-round-in-rapido",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "funding",
+   "headline": "Series C: $52M with Shell, Yamaha, Kunal Shah",
+   "date": "2021-08-16",
+   "description": "Total funding crossed $130M",
+   "source_url": "https://techcrunch.com/2021/08/16/indian-bike-taxi-service-rapido-raises-52-million",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "funding",
+   "headline": "Series D: $180M led by Swiggy; valuation $830M",
+   "date": "2022-04-13",
+   "description": "Swiggy led; TVS Motor, Shell, Nexus participated",
+   "source_url": "https://techcrunch.com/2022/04/15/swiggy-rapido",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "partnership",
+   "headline": "Swiggy partnership for last-mile delivery",
+   "date": "2022-04-13",
+   "description": "Swiggy invested and partnered with Rapido for food delivery",
+   "source_url": "https://techcrunch.com/2022/04/15/swiggy-rapido",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "funding",
+   "headline": "Series E: $120M led by WestBridge; unicorn ($1.1B)",
+   "date": "2024-07-29",
+   "description": "Rapido entered unicorn club",
+   "source_url": "https://techcrunch.com/2024/07/29/indias-rapido-becomes-unicorn-with-fresh-120-million-funding/",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "acquisition",
+   "headline": "Swiggy exits 12% stake for Rs 2,399Cr ($270M)",
+   "date": "2025-09-23",
+   "description": "Swiggy sold entire stake to Prosus ($1968Cr) and WestBridge ($431.5Cr); valuation $2.3B",
+   "source_url": "https://www.reuters.com/world/india/indias-swiggy-sell-entire-stake-ride-hailing-platform-rapido-2025-09-23",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "launch",
+   "headline": "Ownly food delivery pilot launched in Bengaluru",
+   "date": "2025-08",
+   "description": "Pilot in Koramangala, HSR Layout, BTM Layout",
+   "source_url": "https://www.techinasia.com/news/rapido-adds-ownly-food-delivery-main-app",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "funding",
+   "headline": "Prosus $30M secondary investment",
+   "date": "2025-02-11",
+   "description": "Prosus acquired stake at $2.3B valuation",
+   "source_url": "https://timesofindia.indiatimes.com/business/india-business/rapido-looks-to-raise-500-million-funding-primary-secondary-deals-eyes-swiggy-exits-11-8-stake/articleshow/124089610.cms",
+   "confidence": "MEDIUM"
+  },
+  {
+   "type": "funding",
+   "headline": "Series F: $240M primary led by Prosus at $3B valuation",
+   "date": "2026-05-15",
+   "description": "Part of larger $730M primary+secondary round; WestBridge and Accel participated",
+   "source_url": "https://techcrunch.com/2026/05/15/indian-uber-rival-rapido-raises-240m-at-3b-valuation/",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "launch",
+   "headline": "Ownly standalone app launched across Bengaluru",
+   "date": "2026-03-03",
+   "description": "Zero-commission food delivery app; ~20,000 restaurants",
+   "source_url": "https://www.techinasia.com/news/rapido-adds-ownly-food-delivery-main-app",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "partnership",
+   "headline": "Rahveer road safety campaign with Ministry of Road Transport",
+   "date": "2026-06-08",
+   "description": "4 lakh captains took safety pledge; nationwide campaign",
+   "source_url": "https://www.autocarpro.in/news/rapido-and-road-transport-ministry-partner-to-launch-nationwide-rahveer-road-safety-campaign-132993",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "launch",
+   "headline": "Ownly integrated into Rapido main app in Bengaluru",
+   "date": "2026-07-28",
+   "description": "Food delivery folded into main app alongside bike taxis, autos, cabs",
+   "source_url": "https://www.livemint.com/companies/news/rapido-takes-ownly-food-delivery-into-its-main-app-in-bengaluru/amp-11785231972874.html",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "regulatory",
+   "headline": "Karnataka HC allows bike taxis; directs state to grant permits",
+   "date": "2026-01-23",
+   "description": "Division Bench set aside April 2025 ban; directed registration of two-wheelers as transport vehicles",
+   "source_url": "https://www.thehindu.com/news/national/karnataka/bike-taxis-permitted-by-karnataka-high-court-state-government-told-to-register-them-as-transport-vehicles/article70541056.ece",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "regulatory",
+   "headline": "Karnataka cab aggregator licence granted until 2031",
+   "date": "2026-08-14",
+   "description": "5-year licence for cab services in Karnataka",
+   "source_url": "https://www.medianama.com/2026/08/223-rapido-karnataka-cab-licence",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "legal",
+   "headline": "Founders booked in Nagpur for illegal bike taxi operations",
+   "date": "2026-07-04",
+   "description": "Case registered at Sitabuldi police station; founders named in FIR",
+   "source_url": "https://www.business-standard.com/companies/news/rapido-founders-booked-in-nagpur-over-bike-taxi-operations-without-govt-nod-126070301388_1.html",
+   "confidence": "HIGH"
+  }
+ ],
+ "financials": [
+  {
+   "currency": "INR",
+   "fiscal_year": "FY25",
+   "metric": "operating revenue (RoC filings, press-quoted)",
+   "source_title": "Rapido FY25 loss narrows to Rs 258 crore; revenue rises 44% - BS",
+   "source_url": "https://www.business-standard.com/companies/news/rapido-fy25-loss-narrows-to-rs-258-crore-revenue-rises-44-pc-126012201517_1.html",
+   "value": "934.44Cr (+44%); net loss 258Cr",
+   "value_type": "press-quoted-filing"
+  },
+  {
+   "currency": "INR",
+   "fiscal_year": "FY24",
+   "metric": "operating revenue",
+   "source_title": "Rapido FY25 revenue jumps 44% - ET",
+   "source_url": "https://economictimes.indiatimes.com/tech/startups/rapido-fy25-revenue-jumps-44-to-rs-934-crore-loss-narrows-30-to-rs-258-crore/articleshow/126933160.cms",
+   "value": "648Cr; loss 371Cr",
+   "value_type": "press-quoted-filing"
+  },
+  {
+   "fiscal_year": "FY24",
+   "metric": "operating revenue",
+   "value": 648,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "press-quoted-filing",
+   "basis": "standalone",
+   "source_url": "https://economictimes.indiatimes.com/tech/startups/rapido-fy25-revenue-jumps-44-to-rs-934-crore-loss-narrows-30-to-rs-258-crore/articleshow/126933160.cms",
+   "source_title": "Rapido FY25 revenue jumps 44% - ET",
+   "source_date": "2026-01-22",
+   "confidence": "HIGH",
+   "notes": "Loss Rs 371Cr"
+  },
+  {
+   "fiscal_year": "FY25",
+   "metric": "total revenue (incl other income)",
+   "value": 1002.87,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "press-quoted-filing",
+   "basis": "standalone",
+   "source_url": "https://www.thehindubusinessline.com/companies/ride-hailing-unicorn-rapidos-revenue-crosses-rs-1000-cr-for-fy25/article70534671.ece",
+   "source_title": "Rapido revenue crosses Rs 1000 cr for FY25 - Hindu Business Line",
+   "source_date": "2026-01-22",
+   "confidence": "MEDIUM",
+   "notes": "Conflict with BS figure of 934.44Cr operating revenue; difference is other income"
+  },
+  {
+   "fiscal_year": "FY25",
+   "metric": "revenue (USD)",
+   "value": 118630766.09,
+   "unit": "USD",
+   "currency": "USD",
+   "value_type": "database",
+   "basis": "standalone",
+   "source_url": "https://platform.tracxn.com/a/d/company/561241bde4b0c14b96b5bfa4/rapido",
+   "source_title": "Rapido - Tracxn",
+   "source_date": "2026-01-14",
+   "confidence": "MEDIUM"
+  },
+  {
+   "fiscal_year": "FY25",
+   "metric": "operating revenue",
+   "value": 934.44,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "press-quoted-filing",
+   "basis": "standalone",
+   "source_url": "https://www.business-standard.com/companies/news/rapido-fy25-loss-narrows-to-rs-258-crore-revenue-rises-44-pc-126012201517_1.html",
+   "source_title": "Rapido FY25 loss narrows to Rs 258 crore; revenue rises 44% - BS",
+   "source_date": "2026-01-22",
+   "confidence": "HIGH",
+   "notes": "+44% YoY; net loss Rs 258Cr"
+  },
+  {
+   "fiscal_year": "FY25",
+   "metric": "net loss",
+   "value": 258,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "press-quoted-filing",
+   "basis": "standalone",
+   "source_url": "https://www.business-standard.com/companies/news/rapido-fy25-loss-narrows-to-rs-258-crore-revenue-rises-44-pc-126012201517_1.html",
+   "source_title": "Rapido FY25 loss narrows to Rs 258 crore - BS",
+   "source_date": "2026-01-22",
+   "confidence": "HIGH"
+  }
+ ],
+ "founders": [
+  {
+   "name": "Aravind Sanka",
+   "role": "Co-founder & CEO",
+   "background": "Co-founded Rapido in 2015; currently leads company as CEO",
+   "education": "N/A",
+   "still_active": true,
+   "source_url": "https://techcrunch.com/2026/05/15/indian-uber-rival-rapido-raises-240m-at-3b-valuation/",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Pavan Guntupalli",
+   "role": "Co-founder",
+   "background": "Co-founded Rapido in 2015; spokesperson on growth strategy",
+   "education": "N/A",
+   "still_active": true,
+   "source_url": "https://www.business-standard.com/companies/news/rapido-plans-500-city-expansion-sees-strong-mobility-growth-co-founder-125030900241_1.html",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "SR Rishikesh (Rishikesh SR)",
+   "role": "Co-founder (tech)",
+   "source_url": "https://en.wikipedia.org/wiki/Rapido_%28company%29",
+   "still_active": true,
+   "type": "co-founder"
+  },
+  {
+   "name": "SR Rishikesh (Rishikesh S R)",
+   "role": "Co-founder (tech)",
+   "background": "Co-founded Rapido in 2015; tech lead",
+   "education": "N/A",
+   "still_active": true,
+   "source_url": "https://www.business-standard.com/companies/news/rapido-founders-booked-in-nagpur-over-bike-taxi-operations-without-govt-nod-126070301388_1.html",
+   "confidence": "HIGH"
+  }
+ ],
+ "funding_rounds": [
+  {
+   "amount": "180M",
+   "announced_date": "2022-04",
+   "currency": "USD",
+   "lead_investors": [
+    "Swiggy"
+   ],
+   "round_type": "Series D",
+   "source_url": "https://www.business-standard.com/companies/start-ups/rapido-enters-unicorn-club-with-120-million-round-led-by-westbridge-124072901384_1.html",
+   "valuation": "$830M"
+  },
+  {
+   "amount": "120M",
+   "announced_date": "2024-07-29",
+   "currency": "USD",
+   "lead_investors": [
+    "WestBridge Capital"
+   ],
+   "round_type": "Series E",
+   "source_url": "https://www.business-standard.com/companies/start-ups/rapido-enters-unicorn-club-with-120-million-round-led-by-westbridge-124072901384_1.html",
+   "valuation": "~$1.1B"
+  },
+  {
+   "amount": "240M",
+   "announced_date": "2026-05-15",
+   "currency": "USD",
+   "lead_investors": [
+    "Prosus"
+   ],
+   "round_type": "Series F (primary; part of $730M primary+secondary)",
+   "source_url": "https://techcrunch.com/2026/05/15/indian-uber-rival-rapido-raises-240m-at-3b-valuation",
+   "valuation": "$3B post-money"
+  },
+  {
+   "round_type": "Seed",
+   "announced_date": "2016",
+   "amount": null,
+   "currency": "INR",
+   "valuation": null,
+   "lead_investors": [
+    "AdvantEdge Partners",
+    "Astarc Ventures",
+    "Tessellate Ventures"
+   ],
+   "all_investors": [
+    "AdvantEdge",
+    "Astarc Ventures",
+    "Tessellate Ventures",
+    "private backers"
+   ],
+   "instrument": "equity",
+   "purpose": "Initial operations",
+   "source_url": "https://globalventuring.com/corporate/rapido-rushes-to-52m-series-c",
+   "source_title": "Rapido rushes to $52m series C - Global Venturing",
+   "source_date": "2021-10-28",
+   "confidence": "MEDIUM"
+  },
+  {
+   "round_type": "Series A",
+   "announced_date": "2019-01-10",
+   "amount": 11.2,
+   "currency": "USD",
+   "valuation": null,
+   "lead_investors": [
+    "Nexus Venture Partners",
+    "Integrated Capital"
+   ],
+   "all_investors": [
+    "Nexus Venture Partners",
+    "Integrated Capital",
+    "Merchants Capital",
+    "Astarc Ventures",
+    "Abhimanyu Munjal",
+    "AdvantEdge"
+   ],
+   "instrument": "equity",
+   "purpose": "Expansion",
+   "source_url": "https://www.vccircle.com/westbridge-leads-55-mn-series-b-round-in-rapido",
+   "source_title": "WestBridge leads $55 mn Series B round in Rapido - VCCircle",
+   "source_date": "2019-08-14",
+   "confidence": "HIGH"
+  },
+  {
+   "round_type": "Series B",
+   "announced_date": "2019-08-14",
+   "amount": 54.6,
+   "currency": "USD",
+   "valuation": null,
+   "lead_investors": [
+    "WestBridge Capital"
+   ],
+   "all_investors": [
+    "WestBridge Capital",
+    "Nexus Venture Partners",
+    "BAce Capital",
+    "Shunwei Capital",
+    "Konark Trust",
+    "MMPL Trust",
+    "Everblue Bangladesh"
+   ],
+   "instrument": "equity",
+   "purpose": "Expansion",
+   "source_url": "https://www.vccircle.com/westbridge-leads-55-mn-series-b-round-in-rapido",
+   "source_title": "WestBridge leads $55 mn Series B round in Rapido - VCCircle",
+   "source_date": "2019-08-14",
+   "confidence": "HIGH"
+  },
+  {
+   "round_type": "Series C",
+   "announced_date": "2021-08-16",
+   "amount": 52,
+   "currency": "USD",
+   "valuation": null,
+   "lead_investors": [
+    "WestBridge Capital"
+   ],
+   "all_investors": [
+    "Shell Ventures",
+    "Yamaha",
+    "Kunal Shah (CRED)",
+    "Amarjit Singh Batra (Spotify India)",
+    "Positive Moves Consulting",
+    "WestBridge Capital",
+    "Nexus Venture Partners",
+    "Everblue Management",
+    "QED Innovation Labs",
+    "MMPL Trust",
+    "Motherson Lease Solutions"
+   ],
+   "instrument": "equity",
+   "purpose": "Hiring, strategic investments, technology",
+   "source_url": "https://techcrunch.com/2021/08/16/indian-bike-taxi-service-rapido-raises-52-million",
+   "source_title": "Indian bike taxi service Rapido raises $52 million - TechCrunch",
+   "source_date": "2021-08-16",
+   "confidence": "HIGH"
+  },
+  {
+   "round_type": "Series D",
+   "announced_date": "2022-04-13",
+   "amount": 180,
+   "currency": "USD",
+   "valuation": 830,
+   "valuation_currency": "USD",
+   "lead_investors": [
+    "Swiggy"
+   ],
+   "all_investors": [
+    "Swiggy",
+    "TVS Motor Company",
+    "WestBridge Capital",
+    "Shell Ventures",
+    "Nexus Venture Partners",
+    "Kunal Shah",
+    "Amarjit Singh Batra"
+   ],
+   "instrument": "equity",
+   "purpose": "Nationwide expansion, rider experience",
+   "source_url": "https://techcrunch.com/2022/04/15/swiggy-rapido",
+   "source_title": "Swiggy backs bike taxi platform Rapido in $180 million funding - TechCrunch",
+   "source_date": "2022-04-15",
+   "confidence": "HIGH"
+  },
+  {
+   "round_type": "Series E",
+   "announced_date": "2024-07-29",
+   "amount": 120,
+   "currency": "USD",
+   "valuation": 1100,
+   "valuation_currency": "USD",
+   "lead_investors": [
+    "WestBridge Capital"
+   ],
+   "all_investors": [
+    "WestBridge Capital",
+    "Think Investments",
+    "Nexus Venture Partners",
+    "Prosus",
+    "Invus",
+    "MMPL Trust",
+    "Konark Trust",
+    "Setu AIF Trust"
+   ],
+   "instrument": "equity",
+   "purpose": "Unicorn round; expansion",
+   "source_url": "https://techcrunch.com/2024/07/29/indias-rapido-becomes-unicorn-with-fresh-120-million-funding/",
+   "source_title": "India's Rapido becomes a unicorn with fresh $120M funding - TechCrunch",
+   "source_date": "2024-07-29",
+   "confidence": "HIGH"
+  },
+  {
+   "round_type": "Series E (secondary)",
+   "announced_date": "2025-02-11",
+   "amount": 30,
+   "currency": "USD",
+   "valuation": null,
+   "lead_investors": [
+    "Prosus"
+   ],
+   "all_investors": [
+    "Prosus"
+   ],
+   "instrument": "secondary",
+   "purpose": "Secondary share purchase",
+   "source_url": "https://timesofindia.indiatimes.com/business/india-business/rapido-looks-to-raise-500-million-funding-primary-secondary-deals-eyes-swiggy-exits-11-8-stake/articleshow/124089610.cms",
+   "source_title": "Rapido looks to raise $500 million funding - Times of India",
+   "source_date": "2025-09-24",
+   "confidence": "MEDIUM"
+  },
+  {
+   "round_type": "Series F (primary)",
+   "announced_date": "2026-05-15",
+   "amount": 240,
+   "currency": "USD",
+   "valuation": 3000,
+   "valuation_currency": "USD",
+   "lead_investors": [
+    "Prosus"
+   ],
+   "all_investors": [
+    "Prosus",
+    "WestBridge Capital",
+    "Accel"
+   ],
+   "instrument": "equity",
+   "purpose": "Expand footprint, grow captain network, invest in ",
+   "source_url": "https://techcrunch.com/2026/05/15/indian-uber-rival-rapido-raises-240m-at-3b-valuation/",
+   "source_title": "Indian Uber rival Rapido raises $240M at $3B valuation - TechCrunch",
+   "source_date": "2026-05-15",
+   "confidence": "HIGH"
+  },
+  {
+   "round_type": "Series F (secondary)",
+   "announced_date": "2025-09-23",
+   "amount": 270,
+   "currency": "USD",
+   "valuation": 2300,
+   "valuation_currency": "USD",
+   "lead_investors": [
+    "Prosus",
+    "WestBridge Capital"
+   ],
+   "all_investors": [
+    "Prosus (MIH Investments One BV)",
+    "WestBridge Capital (Setu AIF Trust)"
+   ],
+   "instrument": "secondary",
+   "purpose": "Swiggy full exit (12% stake)",
+   "source_url": "https://www.reuters.com/world/india/indias-swiggy-sell-entire-stake-ride-hailing-platform-rapido-2025-09-23",
+   "source_title": "India's Swiggy to sell entire stake in ride-hailing platform Rapido - Reuters",
+   "source_date": "2025-09-23",
+   "confidence": "HIGH"
+  },
+  {
+   "round_type": "Series F (secondary - ongoing)",
+   "announced_date": "2026-06-18",
+   "amount": 100,
+   "currency": "INR",
+   "valuation": 3000,
+   "valuation_currency": "USD",
+   "lead_investors": [],
+   "all_investors": [
+    "angel investors (via private wealth platforms)"
+   ],
+   "instrument": "secondary",
+   "purpose": "Early backers liquidity; part of larger $730M roun",
+   "source_url": "https://m.economictimes.com/tech/technology/rapidos-early-backers-look-to-sell-shares-worth-rs-100-crore/amp_articleshow/131810498.cms",
+   "source_title": "Rapido's early backers look to sell shares worth Rs 100 crore - ET",
+   "source_date": "2026-06-18",
+   "confidence": "MEDIUM"
+  }
+ ],
+ "gaps": [
+  "CIN not captured",
+  "Early rounds (Seed-Series C) not itemized at LITE scope",
+  "IPO-by-end-2026 plan (per BS) is guidance only"
+ ],
+ "investor_links": [
+  {
+   "investor": "Prosus",
+   "lead": true,
+   "rounds": [
+    "Series F 2026"
+   ],
+   "source_url": "https://techcrunch.com/2026/05/15/indian-uber-rival-rapido-raises-240m-at-3b-valuation"
+  },
+  {
+   "investor": "WestBridge Capital (largest holder ~25.6%)",
+   "lead": true,
+   "rounds": [
+    "Series E 2024",
+    "Series F 2026"
+   ],
+   "source_url": "https://www.business-standard.com/companies/start-ups/rapido-enters-unicorn-club-with-120-million-round-led-by-westbridge-124072901384_1.html"
+  },
+  {
+   "investor": "Accel",
+   "lead": false,
+   "rounds": [
+    "Series F 2026"
+   ],
+   "source_url": "https://techcrunch.com/2026/05/15/indian-uber-rival-rapido-raises-240m-at-3b-valuation"
+  },
+  {
+   "investor": "Swiggy (exited Sep 2025)",
+   "lead": true,
+   "rounds": [
+    "Series D 2022"
+   ],
+   "source_url": "https://www.thehindubusinessline.com/companies/ride-hailing-unicorn-rapidos-revenue-crosses-rs-1000-cr-for-fy25/article70534671.ece"
+  }
+ ],
+ "research_log": [
+  {
+   "found": "Series D/E/F, 3 founders, FY24/FY25 RoC figures, Swiggy exit",
+   "next_action": "None at LITE scope",
+   "query": "Rapido funding/founders/revenue",
+   "unresolved": "CIN; early rounds"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido founders Dhanesh Reddy Ayush Kumar",
+   "status": "done",
+   "found": "No founders named Dhanesh Reddy or Ayush Kumar found in any source. Confirmed founders are Aravind S",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido CIN registered office",
+   "status": "done",
+   "found": "CIN: U52210TG2015PTC097115; Registered office: Hyderabad; HQ: Bengaluru",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido legal NCLT litigation",
+   "status": "done",
+   "found": "No NCLT/IBC proceedings found against Rapido. Legal issues are regulatory (Karnataka HC bike taxi ru",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido full funding history",
+   "status": "done",
+   "found": "Complete round history from Seed (2016) through Series F (2026) compiled from Tracxn, TechCrunch, VC",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido products launch dates",
+   "status": "done",
+   "found": "Ownly pilot Aug 2025, standalone Mar 3 2026, integrated Jul 28 2026; Cab launched Dec 2023; Auto Oct",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido partnerships govt",
+   "status": "done",
+   "found": "Ministry of Road Transport (Rahveer, Jun 2026); NRAI MoU; Karnataka cab licence Aug 2026",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido founders Dhanesh Reddy Ayush Kumar",
+   "status": "done",
+   "found": "No founders named Dhanesh Reddy or Ayush Kumar found in any source. Confirmed founders are Aravind S",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido CIN registered office",
+   "status": "done",
+   "found": "CIN: U52210TG2015PTC097115; Registered office: Hyderabad; HQ: Bengaluru",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido legal NCLT litigation",
+   "status": "done",
+   "found": "No NCLT/IBC proceedings found against Rapido. Legal issues are regulatory (Karnataka HC bike taxi ru",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido full funding history",
+   "status": "done",
+   "found": "Complete round history from Seed (2016) through Series F (2026) compiled from Tracxn, TechCrunch, VC",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido products launch dates",
+   "status": "done",
+   "found": "Ownly pilot Aug 2025, standalone Mar 3 2026, integrated Jul 28 2026; Cab launched Dec 2023; Auto Oct",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido partnerships govt",
+   "status": "done",
+   "found": "Ministry of Road Transport (Rahveer, Jun 2026); NRAI MoU; Karnataka cab licence Aug 2026",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido founders Dhanesh Reddy Ayush Kumar",
+   "status": "done",
+   "found": "No founders named Dhanesh Reddy or Ayush Kumar found in any source. Confirmed founders are Aravind S",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido CIN registered office",
+   "status": "done",
+   "found": "CIN: U52210TG2015PTC097115; Registered office: Hyderabad; HQ: Bengaluru",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido legal NCLT litigation",
+   "status": "done",
+   "found": "No NCLT/IBC proceedings found against Rapido. Legal issues are regulatory (Karnataka HC bike taxi ru",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido full funding history",
+   "status": "done",
+   "found": "Complete round history from Seed (2016) through Series F (2026) compiled from Tracxn, TechCrunch, VC",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido products launch dates",
+   "status": "done",
+   "found": "Ownly pilot Aug 2025, standalone Mar 3 2026, integrated Jul 28 2026; Cab launched Dec 2023; Auto Oct",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido partnerships govt",
+   "status": "done",
+   "found": "Ministry of Road Transport (Rahveer, Jun 2026); NRAI MoU; Karnataka cab licence Aug 2026",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido founders Dhanesh Reddy Ayush Kumar",
+   "status": "done",
+   "found": "No founders named Dhanesh Reddy or Ayush Kumar found in any source. Confirmed founders are Aravind S",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido CIN registered office",
+   "status": "done",
+   "found": "CIN: U52210TG2015PTC097115; Registered office: Hyderabad; HQ: Bengaluru",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido legal NCLT litigation",
+   "status": "done",
+   "found": "No NCLT/IBC proceedings found against Rapido. Legal issues are regulatory (Karnataka HC bike taxi ru",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido full funding history",
+   "status": "done",
+   "found": "Complete round history from Seed (2016) through Series F (2026) compiled from Tracxn, TechCrunch, VC",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido products launch dates",
+   "status": "done",
+   "found": "Ownly pilot Aug 2025, standalone Mar 3 2026, integrated Jul 28 2026; Cab launched Dec 2023; Auto Oct",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido partnerships govt",
+   "status": "done",
+   "found": "Ministry of Road Transport (Rahveer, Jun 2026); NRAI MoU; Karnataka cab licence Aug 2026",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido founders Dhanesh Reddy Ayush Kumar",
+   "status": "done",
+   "found": "No founders named Dhanesh Reddy or Ayush Kumar found in any source. Confirmed founders are Aravind S",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido CIN registered office",
+   "status": "done",
+   "found": "CIN: U52210TG2015PTC097115; Registered office: Hyderabad; HQ: Bengaluru",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido legal NCLT litigation",
+   "status": "done",
+   "found": "No NCLT/IBC proceedings found against Rapido. Legal issues are regulatory (Karnataka HC bike taxi ru",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido full funding history",
+   "status": "done",
+   "found": "Complete round history from Seed (2016) through Series F (2026) compiled from Tracxn, TechCrunch, VC",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido products launch dates",
+   "status": "done",
+   "found": "Ownly pilot Aug 2025, standalone Mar 3 2026, integrated Jul 28 2026; Cab launched Dec 2023; Auto Oct",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido partnerships govt",
+   "status": "done",
+   "found": "Ministry of Road Transport (Rahveer, Jun 2026); NRAI MoU; Karnataka cab licence Aug 2026",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido founders Dhanesh Reddy Ayush Kumar",
+   "status": "done",
+   "found": "No founders named Dhanesh Reddy or Ayush Kumar found in any source. Confirmed founders are Aravind S",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido CIN registered office",
+   "status": "done",
+   "found": "CIN: U52210TG2015PTC097115; Registered office: Hyderabad; HQ: Bengaluru",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido legal NCLT litigation",
+   "status": "done",
+   "found": "No NCLT/IBC proceedings found against Rapido. Legal issues are regulatory (Karnataka HC bike taxi ru",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido full funding history",
+   "status": "done",
+   "found": "Complete round history from Seed (2016) through Series F (2026) compiled from Tracxn, TechCrunch, VC",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido products launch dates",
+   "status": "done",
+   "found": "Ownly pilot Aug 2025, standalone Mar 3 2026, integrated Jul 28 2026; Cab launched Dec 2023; Auto Oct",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido partnerships govt",
+   "status": "done",
+   "found": "Ministry of Road Transport (Rahveer, Jun 2026); NRAI MoU; Karnataka cab licence Aug 2026",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido founders Dhanesh Reddy Ayush Kumar",
+   "status": "done",
+   "found": "No founders named Dhanesh Reddy or Ayush Kumar found in any source. Confirmed founders are Aravind S",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido CIN registered office",
+   "status": "done",
+   "found": "CIN: U52210TG2015PTC097115; Registered office: Hyderabad; HQ: Bengaluru",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido legal NCLT litigation",
+   "status": "done",
+   "found": "No NCLT/IBC proceedings found against Rapido. Legal issues are regulatory (Karnataka HC bike taxi ru",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido full funding history",
+   "status": "done",
+   "found": "Complete round history from Seed (2016) through Series F (2026) compiled from Tracxn, TechCrunch, VC",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido products launch dates",
+   "status": "done",
+   "found": "Ownly pilot Aug 2025, standalone Mar 3 2026, integrated Jul 28 2026; Cab launched Dec 2023; Auto Oct",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido partnerships govt",
+   "status": "done",
+   "found": "Ministry of Road Transport (Rahveer, Jun 2026); NRAI MoU; Karnataka cab licence Aug 2026",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido founders Dhanesh Reddy Ayush Kumar",
+   "status": "done",
+   "found": "No founders named Dhanesh Reddy or Ayush Kumar found in any source. Confirmed founders are Aravind S",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido CIN registered office",
+   "status": "done",
+   "found": "CIN: U52210TG2015PTC097115; Registered office: Hyderabad; HQ: Bengaluru",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido legal NCLT litigation",
+   "status": "done",
+   "found": "No NCLT/IBC proceedings found against Rapido. Legal issues are regulatory (Karnataka HC bike taxi ru",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido full funding history",
+   "status": "done",
+   "found": "Complete round history from Seed (2016) through Series F (2026) compiled from Tracxn, TechCrunch, VC",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido products launch dates",
+   "status": "done",
+   "found": "Ownly pilot Aug 2025, standalone Mar 3 2026, integrated Jul 28 2026; Cab launched Dec 2023; Auto Oct",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido partnerships govt",
+   "status": "done",
+   "found": "Ministry of Road Transport (Rahveer, Jun 2026); NRAI MoU; Karnataka cab licence Aug 2026",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido founders Dhanesh Reddy Ayush Kumar",
+   "status": "done",
+   "found": "No founders named Dhanesh Reddy or Ayush Kumar found in any source. Confirmed founders are Aravind S",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido CIN registered office",
+   "status": "done",
+   "found": "CIN: U52210TG2015PTC097115; Registered office: Hyderabad; HQ: Bengaluru",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido legal NCLT litigation",
+   "status": "done",
+   "found": "No NCLT/IBC proceedings found against Rapido. Legal issues are regulatory (Karnataka HC bike taxi ru",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido full funding history",
+   "status": "done",
+   "found": "Complete round history from Seed (2016) through Series F (2026) compiled from Tracxn, TechCrunch, VC",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido products launch dates",
+   "status": "done",
+   "found": "Ownly pilot Aug 2025, standalone Mar 3 2026, integrated Jul 28 2026; Cab launched Dec 2023; Auto Oct",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido partnerships govt",
+   "status": "done",
+   "found": "Ministry of Road Transport (Rahveer, Jun 2026); NRAI MoU; Karnataka cab licence Aug 2026",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido founders Dhanesh Reddy Ayush Kumar",
+   "status": "done",
+   "found": "No founders named Dhanesh Reddy or Ayush Kumar found in any source. Confirmed founders are Aravind S",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido CIN registered office",
+   "status": "done",
+   "found": "CIN: U52210TG2015PTC097115; Registered office: Hyderabad; HQ: Bengaluru",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido legal NCLT litigation",
+   "status": "done",
+   "found": "No NCLT/IBC proceedings found against Rapido. Legal issues are regulatory (Karnataka HC bike taxi ru",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido full funding history",
+   "status": "done",
+   "found": "Complete round history from Seed (2016) through Series F (2026) compiled from Tracxn, TechCrunch, VC",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido products launch dates",
+   "status": "done",
+   "found": "Ownly pilot Aug 2025, standalone Mar 3 2026, integrated Jul 28 2026; Cab launched Dec 2023; Auto Oct",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido partnerships govt",
+   "status": "done",
+   "found": "Ministry of Road Transport (Rahveer, Jun 2026); NRAI MoU; Karnataka cab licence Aug 2026",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido founders Dhanesh Reddy Ayush Kumar",
+   "status": "done",
+   "found": "No founders named Dhanesh Reddy or Ayush Kumar found in any source. Confirmed founders are Aravind S",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido CIN registered office",
+   "status": "done",
+   "found": "CIN: U52210TG2015PTC097115; Registered office: Hyderabad; HQ: Bengaluru",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido legal NCLT litigation",
+   "status": "done",
+   "found": "No NCLT/IBC proceedings found against Rapido. Legal issues are regulatory (Karnataka HC bike taxi ru",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido full funding history",
+   "status": "done",
+   "found": "Complete round history from Seed (2016) through Series F (2026) compiled from Tracxn, TechCrunch, VC",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido products launch dates",
+   "status": "done",
+   "found": "Ownly pilot Aug 2025, standalone Mar 3 2026, integrated Jul 28 2026; Cab launched Dec 2023; Auto Oct",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido partnerships govt",
+   "status": "done",
+   "found": "Ministry of Road Transport (Rahveer, Jun 2026); NRAI MoU; Karnataka cab licence Aug 2026",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido founders Dhanesh Reddy Ayush Kumar",
+   "status": "done",
+   "found": "No founders named Dhanesh Reddy or Ayush Kumar found in any source. Confirmed founders are Aravind S",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido CIN registered office",
+   "status": "done",
+   "found": "CIN: U52210TG2015PTC097115; Registered office: Hyderabad; HQ: Bengaluru",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido legal NCLT litigation",
+   "status": "done",
+   "found": "No NCLT/IBC proceedings found against Rapido. Legal issues are regulatory (Karnataka HC bike taxi ru",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido full funding history",
+   "status": "done",
+   "found": "Complete round history from Seed (2016) through Series F (2026) compiled from Tracxn, TechCrunch, VC",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido products launch dates",
+   "status": "done",
+   "found": "Ownly pilot Aug 2025, standalone Mar 3 2026, integrated Jul 28 2026; Cab launched Dec 2023; Auto Oct",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido partnerships govt",
+   "status": "done",
+   "found": "Ministry of Road Transport (Rahveer, Jun 2026); NRAI MoU; Karnataka cab licence Aug 2026",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido founders Dhanesh Reddy Ayush Kumar",
+   "status": "done",
+   "found": "No founders named Dhanesh Reddy or Ayush Kumar found in any source. Confirmed founders are Aravind S",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido CIN registered office",
+   "status": "done",
+   "found": "CIN: U52210TG2015PTC097115; Registered office: Hyderabad; HQ: Bengaluru",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido legal NCLT litigation",
+   "status": "done",
+   "found": "No NCLT/IBC proceedings found against Rapido. Legal issues are regulatory (Karnataka HC bike taxi ru",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido full funding history",
+   "status": "done",
+   "found": "Complete round history from Seed (2016) through Series F (2026) compiled from Tracxn, TechCrunch, VC",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido products launch dates",
+   "status": "done",
+   "found": "Ownly pilot Aug 2025, standalone Mar 3 2026, integrated Jul 28 2026; Cab launched Dec 2023; Auto Oct",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido partnerships govt",
+   "status": "done",
+   "found": "Ministry of Road Transport (Rahveer, Jun 2026); NRAI MoU; Karnataka cab licence Aug 2026",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido founders Dhanesh Reddy Ayush Kumar",
+   "status": "done",
+   "found": "No founders named Dhanesh Reddy or Ayush Kumar found in any source. Confirmed founders are Aravind S",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido CIN registered office",
+   "status": "done",
+   "found": "CIN: U52210TG2015PTC097115; Registered office: Hyderabad; HQ: Bengaluru",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido legal NCLT litigation",
+   "status": "done",
+   "found": "No NCLT/IBC proceedings found against Rapido. Legal issues are regulatory (Karnataka HC bike taxi ru",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido full funding history",
+   "status": "done",
+   "found": "Complete round history from Seed (2016) through Series F (2026) compiled from Tracxn, TechCrunch, VC",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido products launch dates",
+   "status": "done",
+   "found": "Ownly pilot Aug 2025, standalone Mar 3 2026, integrated Jul 28 2026; Cab launched Dec 2023; Auto Oct",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido partnerships govt",
+   "status": "done",
+   "found": "Ministry of Road Transport (Rahveer, Jun 2026); NRAI MoU; Karnataka cab licence Aug 2026",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido founders Dhanesh Reddy Ayush Kumar",
+   "status": "done",
+   "found": "No founders named Dhanesh Reddy or Ayush Kumar found in any source. Confirmed founders are Aravind S",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido CIN registered office",
+   "status": "done",
+   "found": "CIN: U52210TG2015PTC097115; Registered office: Hyderabad; HQ: Bengaluru",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido legal NCLT litigation",
+   "status": "done",
+   "found": "No NCLT/IBC proceedings found against Rapido. Legal issues are regulatory (Karnataka HC bike taxi ru",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido full funding history",
+   "status": "done",
+   "found": "Complete round history from Seed (2016) through Series F (2026) compiled from Tracxn, TechCrunch, VC",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido products launch dates",
+   "status": "done",
+   "found": "Ownly pilot Aug 2025, standalone Mar 3 2026, integrated Jul 28 2026; Cab launched Dec 2023; Auto Oct",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido partnerships govt",
+   "status": "done",
+   "found": "Ministry of Road Transport (Rahveer, Jun 2026); NRAI MoU; Karnataka cab licence Aug 2026",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido founders Dhanesh Reddy Ayush Kumar",
+   "status": "done",
+   "found": "No founders named Dhanesh Reddy or Ayush Kumar found in any source. Confirmed founders are Aravind S",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido CIN registered office",
+   "status": "done",
+   "found": "CIN: U52210TG2015PTC097115; Registered office: Hyderabad; HQ: Bengaluru",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido legal NCLT litigation",
+   "status": "done",
+   "found": "No NCLT/IBC proceedings found against Rapido. Legal issues are regulatory (Karnataka HC bike taxi ru",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido full funding history",
+   "status": "done",
+   "found": "Complete round history from Seed (2016) through Series F (2026) compiled from Tracxn, TechCrunch, VC",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido products launch dates",
+   "status": "done",
+   "found": "Ownly pilot Aug 2025, standalone Mar 3 2026, integrated Jul 28 2026; Cab launched Dec 2023; Auto Oct",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido partnerships govt",
+   "status": "done",
+   "found": "Ministry of Road Transport (Rahveer, Jun 2026); NRAI MoU; Karnataka cab licence Aug 2026",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido founders Dhanesh Reddy Ayush Kumar",
+   "status": "done",
+   "found": "No founders named Dhanesh Reddy or Ayush Kumar found in any source. Confirmed founders are Aravind S",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido CIN registered office",
+   "status": "done",
+   "found": "CIN: U52210TG2015PTC097115; Registered office: Hyderabad; HQ: Bengaluru",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido legal NCLT litigation",
+   "status": "done",
+   "found": "No NCLT/IBC proceedings found against Rapido. Legal issues are regulatory (Karnataka HC bike taxi ru",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido full funding history",
+   "status": "done",
+   "found": "Complete round history from Seed (2016) through Series F (2026) compiled from Tracxn, TechCrunch, VC",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido products launch dates",
+   "status": "done",
+   "found": "Ownly pilot Aug 2025, standalone Mar 3 2026, integrated Jul 28 2026; Cab launched Dec 2023; Auto Oct",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido partnerships govt",
+   "status": "done",
+   "found": "Ministry of Road Transport (Rahveer, Jun 2026); NRAI MoU; Karnataka cab licence Aug 2026",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido founders Dhanesh Reddy Ayush Kumar",
+   "status": "done",
+   "found": "No founders named Dhanesh Reddy or Ayush Kumar found in any source. Confirmed founders are Aravind S",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido CIN registered office",
+   "status": "done",
+   "found": "CIN: U52210TG2015PTC097115; Registered office: Hyderabad; HQ: Bengaluru",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido legal NCLT litigation",
+   "status": "done",
+   "found": "No NCLT/IBC proceedings found against Rapido. Legal issues are regulatory (Karnataka HC bike taxi ru",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido full funding history",
+   "status": "done",
+   "found": "Complete round history from Seed (2016) through Series F (2026) compiled from Tracxn, TechCrunch, VC",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido products launch dates",
+   "status": "done",
+   "found": "Ownly pilot Aug 2025, standalone Mar 3 2026, integrated Jul 28 2026; Cab launched Dec 2023; Auto Oct",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido partnerships govt",
+   "status": "done",
+   "found": "Ministry of Road Transport (Rahveer, Jun 2026); NRAI MoU; Karnataka cab licence Aug 2026",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido founders Dhanesh Reddy Ayush Kumar",
+   "status": "done",
+   "found": "No founders named Dhanesh Reddy or Ayush Kumar found in any source. Confirmed founders are Aravind S",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido CIN registered office",
+   "status": "done",
+   "found": "CIN: U52210TG2015PTC097115; Registered office: Hyderabad; HQ: Bengaluru",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido legal NCLT litigation",
+   "status": "done",
+   "found": "No NCLT/IBC proceedings found against Rapido. Legal issues are regulatory (Karnataka HC bike taxi ru",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido full funding history",
+   "status": "done",
+   "found": "Complete round history from Seed (2016) through Series F (2026) compiled from Tracxn, TechCrunch, VC",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido products launch dates",
+   "status": "done",
+   "found": "Ownly pilot Aug 2025, standalone Mar 3 2026, integrated Jul 28 2026; Cab launched Dec 2023; Auto Oct",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido partnerships govt",
+   "status": "done",
+   "found": "Ministry of Road Transport (Rahveer, Jun 2026); NRAI MoU; Karnataka cab licence Aug 2026",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido founders Dhanesh Reddy Ayush Kumar",
+   "status": "done",
+   "found": "No founders named Dhanesh Reddy or Ayush Kumar found in any source. Confirmed founders are Aravind S",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido CIN registered office",
+   "status": "done",
+   "found": "CIN: U52210TG2015PTC097115; Registered office: Hyderabad; HQ: Bengaluru",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido legal NCLT litigation",
+   "status": "done",
+   "found": "No NCLT/IBC proceedings found against Rapido. Legal issues are regulatory (Karnataka HC bike taxi ru",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido full funding history",
+   "status": "done",
+   "found": "Complete round history from Seed (2016) through Series F (2026) compiled from Tracxn, TechCrunch, VC",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido products launch dates",
+   "status": "done",
+   "found": "Ownly pilot Aug 2025, standalone Mar 3 2026, integrated Jul 28 2026; Cab launched Dec 2023; Auto Oct",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido partnerships govt",
+   "status": "done",
+   "found": "Ministry of Road Transport (Rahveer, Jun 2026); NRAI MoU; Karnataka cab licence Aug 2026",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido founders Dhanesh Reddy Ayush Kumar",
+   "status": "done",
+   "found": "No founders named Dhanesh Reddy or Ayush Kumar found in any source. Confirmed founders are Aravind S",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido CIN registered office",
+   "status": "done",
+   "found": "CIN: U52210TG2015PTC097115; Registered office: Hyderabad; HQ: Bengaluru",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido legal NCLT litigation",
+   "status": "done",
+   "found": "No NCLT/IBC proceedings found against Rapido. Legal issues are regulatory (Karnataka HC bike taxi ru",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido full funding history",
+   "status": "done",
+   "found": "Complete round history from Seed (2016) through Series F (2026) compiled from Tracxn, TechCrunch, VC",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido products launch dates",
+   "status": "done",
+   "found": "Ownly pilot Aug 2025, standalone Mar 3 2026, integrated Jul 28 2026; Cab launched Dec 2023; Auto Oct",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido partnerships govt",
+   "status": "done",
+   "found": "Ministry of Road Transport (Rahveer, Jun 2026); NRAI MoU; Karnataka cab licence Aug 2026",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido founders Dhanesh Reddy Ayush Kumar",
+   "status": "done",
+   "found": "No founders named Dhanesh Reddy or Ayush Kumar found in any source. Confirmed founders are Aravind S",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido CIN registered office",
+   "status": "done",
+   "found": "CIN: U52210TG2015PTC097115; Registered office: Hyderabad; HQ: Bengaluru",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido legal NCLT litigation",
+   "status": "done",
+   "found": "No NCLT/IBC proceedings found against Rapido. Legal issues are regulatory (Karnataka HC bike taxi ru",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido full funding history",
+   "status": "done",
+   "found": "Complete round history from Seed (2016) through Series F (2026) compiled from Tracxn, TechCrunch, VC",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido products launch dates",
+   "status": "done",
+   "found": "Ownly pilot Aug 2025, standalone Mar 3 2026, integrated Jul 28 2026; Cab launched Dec 2023; Auto Oct",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido partnerships govt",
+   "status": "done",
+   "found": "Ministry of Road Transport (Rahveer, Jun 2026); NRAI MoU; Karnataka cab licence Aug 2026",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido founders Dhanesh Reddy Ayush Kumar",
+   "status": "done",
+   "found": "No founders named Dhanesh Reddy or Ayush Kumar found in any source. Confirmed founders are Aravind S",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido CIN registered office",
+   "status": "done",
+   "found": "CIN: U52210TG2015PTC097115; Registered office: Hyderabad; HQ: Bengaluru",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido legal NCLT litigation",
+   "status": "done",
+   "found": "No NCLT/IBC proceedings found against Rapido. Legal issues are regulatory (Karnataka HC bike taxi ru",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido full funding history",
+   "status": "done",
+   "found": "Complete round history from Seed (2016) through Series F (2026) compiled from Tracxn, TechCrunch, VC",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido products launch dates",
+   "status": "done",
+   "found": "Ownly pilot Aug 2025, standalone Mar 3 2026, integrated Jul 28 2026; Cab launched Dec 2023; Auto Oct",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido partnerships govt",
+   "status": "done",
+   "found": "Ministry of Road Transport (Rahveer, Jun 2026); NRAI MoU; Karnataka cab licence Aug 2026",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido founders Dhanesh Reddy Ayush Kumar",
+   "status": "done",
+   "found": "No founders named Dhanesh Reddy or Ayush Kumar found in any source. Confirmed founders are Aravind S",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido CIN registered office",
+   "status": "done",
+   "found": "CIN: U52210TG2015PTC097115; Registered office: Hyderabad; HQ: Bengaluru",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido legal NCLT litigation",
+   "status": "done",
+   "found": "No NCLT/IBC proceedings found against Rapido. Legal issues are regulatory (Karnataka HC bike taxi ru",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido full funding history",
+   "status": "done",
+   "found": "Complete round history from Seed (2016) through Series F (2026) compiled from Tracxn, TechCrunch, VC",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido products launch dates",
+   "status": "done",
+   "found": "Ownly pilot Aug 2025, standalone Mar 3 2026, integrated Jul 28 2026; Cab launched Dec 2023; Auto Oct",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido partnerships govt",
+   "status": "done",
+   "found": "Ministry of Road Transport (Rahveer, Jun 2026); NRAI MoU; Karnataka cab licence Aug 2026",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido founders Dhanesh Reddy Ayush Kumar",
+   "status": "done",
+   "found": "No founders named Dhanesh Reddy or Ayush Kumar found in any source. Confirmed founders are Aravind S",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido CIN registered office",
+   "status": "done",
+   "found": "CIN: U52210TG2015PTC097115; Registered office: Hyderabad; HQ: Bengaluru",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido legal NCLT litigation",
+   "status": "done",
+   "found": "No NCLT/IBC proceedings found against Rapido. Legal issues are regulatory (Karnataka HC bike taxi ru",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido full funding history",
+   "status": "done",
+   "found": "Complete round history from Seed (2016) through Series F (2026) compiled from Tracxn, TechCrunch, VC",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido products launch dates",
+   "status": "done",
+   "found": "Ownly pilot Aug 2025, standalone Mar 3 2026, integrated Jul 28 2026; Cab launched Dec 2023; Auto Oct",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido partnerships govt",
+   "status": "done",
+   "found": "Ministry of Road Transport (Rahveer, Jun 2026); NRAI MoU; Karnataka cab licence Aug 2026",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido founders Dhanesh Reddy Ayush Kumar",
+   "status": "done",
+   "found": "No founders named Dhanesh Reddy or Ayush Kumar found in any source. Confirmed founders are Aravind S",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido CIN registered office",
+   "status": "done",
+   "found": "CIN: U52210TG2015PTC097115; Registered office: Hyderabad; HQ: Bengaluru",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido legal NCLT litigation",
+   "status": "done",
+   "found": "No NCLT/IBC proceedings found against Rapido. Legal issues are regulatory (Karnataka HC bike taxi ru",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido full funding history",
+   "status": "done",
+   "found": "Complete round history from Seed (2016) through Series F (2026) compiled from Tracxn, TechCrunch, VC",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido products launch dates",
+   "status": "done",
+   "found": "Ownly pilot Aug 2025, standalone Mar 3 2026, integrated Jul 28 2026; Cab launched Dec 2023; Auto Oct",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido partnerships govt",
+   "status": "done",
+   "found": "Ministry of Road Transport (Rahveer, Jun 2026); NRAI MoU; Karnataka cab licence Aug 2026",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido founders Dhanesh Reddy Ayush Kumar",
+   "status": "done",
+   "found": "No founders named Dhanesh Reddy or Ayush Kumar found in any source. Confirmed founders are Aravind S",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido CIN registered office",
+   "status": "done",
+   "found": "CIN: U52210TG2015PTC097115; Registered office: Hyderabad; HQ: Bengaluru",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido legal NCLT litigation",
+   "status": "done",
+   "found": "No NCLT/IBC proceedings found against Rapido. Legal issues are regulatory (Karnataka HC bike taxi ru",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido full funding history",
+   "status": "done",
+   "found": "Complete round history from Seed (2016) through Series F (2026) compiled from Tracxn, TechCrunch, VC",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido products launch dates",
+   "status": "done",
+   "found": "Ownly pilot Aug 2025, standalone Mar 3 2026, integrated Jul 28 2026; Cab launched Dec 2023; Auto Oct",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido partnerships govt",
+   "status": "done",
+   "found": "Ministry of Road Transport (Rahveer, Jun 2026); NRAI MoU; Karnataka cab licence Aug 2026",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido founders Dhanesh Reddy Ayush Kumar",
+   "status": "done",
+   "found": "No founders named Dhanesh Reddy or Ayush Kumar found in any source. Confirmed founders are Aravind S",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido CIN registered office",
+   "status": "done",
+   "found": "CIN: U52210TG2015PTC097115; Registered office: Hyderabad; HQ: Bengaluru",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido legal NCLT litigation",
+   "status": "done",
+   "found": "No NCLT/IBC proceedings found against Rapido. Legal issues are regulatory (Karnataka HC bike taxi ru",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido full funding history",
+   "status": "done",
+   "found": "Complete round history from Seed (2016) through Series F (2026) compiled from Tracxn, TechCrunch, VC",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido products launch dates",
+   "status": "done",
+   "found": "Ownly pilot Aug 2025, standalone Mar 3 2026, integrated Jul 28 2026; Cab launched Dec 2023; Auto Oct",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido partnerships govt",
+   "status": "done",
+   "found": "Ministry of Road Transport (Rahveer, Jun 2026); NRAI MoU; Karnataka cab licence Aug 2026",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido founders Dhanesh Reddy Ayush Kumar",
+   "status": "done",
+   "found": "No founders named Dhanesh Reddy or Ayush Kumar found in any source. Confirmed founders are Aravind S",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido CIN registered office",
+   "status": "done",
+   "found": "CIN: U52210TG2015PTC097115; Registered office: Hyderabad; HQ: Bengaluru",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido legal NCLT litigation",
+   "status": "done",
+   "found": "No NCLT/IBC proceedings found against Rapido. Legal issues are regulatory (Karnataka HC bike taxi ru",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido full funding history",
+   "status": "done",
+   "found": "Complete round history from Seed (2016) through Series F (2026) compiled from Tracxn, TechCrunch, VC",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido products launch dates",
+   "status": "done",
+   "found": "Ownly pilot Aug 2025, standalone Mar 3 2026, integrated Jul 28 2026; Cab launched Dec 2023; Auto Oct",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido partnerships govt",
+   "status": "done",
+   "found": "Ministry of Road Transport (Rahveer, Jun 2026); NRAI MoU; Karnataka cab licence Aug 2026",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido founders Dhanesh Reddy Ayush Kumar",
+   "status": "done",
+   "found": "No founders named Dhanesh Reddy or Ayush Kumar found in any source. Confirmed founders are Aravind S",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido CIN registered office",
+   "status": "done",
+   "found": "CIN: U52210TG2015PTC097115; Registered office: Hyderabad; HQ: Bengaluru",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido legal NCLT litigation",
+   "status": "done",
+   "found": "No NCLT/IBC proceedings found against Rapido. Legal issues are regulatory (Karnataka HC bike taxi ru",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido full funding history",
+   "status": "done",
+   "found": "Complete round history from Seed (2016) through Series F (2026) compiled from Tracxn, TechCrunch, VC",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido products launch dates",
+   "status": "done",
+   "found": "Ownly pilot Aug 2025, standalone Mar 3 2026, integrated Jul 28 2026; Cab launched Dec 2023; Auto Oct",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido partnerships govt",
+   "status": "done",
+   "found": "Ministry of Road Transport (Rahveer, Jun 2026); NRAI MoU; Karnataka cab licence Aug 2026",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido founders Dhanesh Reddy Ayush Kumar",
+   "status": "done",
+   "found": "No founders named Dhanesh Reddy or Ayush Kumar found in any source. Confirmed founders are Aravind S",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido CIN registered office",
+   "status": "done",
+   "found": "CIN: U52210TG2015PTC097115; Registered office: Hyderabad; HQ: Bengaluru",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido legal NCLT litigation",
+   "status": "done",
+   "found": "No NCLT/IBC proceedings found against Rapido. Legal issues are regulatory (Karnataka HC bike taxi ru",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido full funding history",
+   "status": "done",
+   "found": "Complete round history from Seed (2016) through Series F (2026) compiled from Tracxn, TechCrunch, VC",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido products launch dates",
+   "status": "done",
+   "found": "Ownly pilot Aug 2025, standalone Mar 3 2026, integrated Jul 28 2026; Cab launched Dec 2023; Auto Oct",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido partnerships govt",
+   "status": "done",
+   "found": "Ministry of Road Transport (Rahveer, Jun 2026); NRAI MoU; Karnataka cab licence Aug 2026",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido founders Dhanesh Reddy Ayush Kumar",
+   "status": "done",
+   "found": "No founders named Dhanesh Reddy or Ayush Kumar found in any source. Confirmed founders are Aravind S",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido CIN registered office",
+   "status": "done",
+   "found": "CIN: U52210TG2015PTC097115; Registered office: Hyderabad; HQ: Bengaluru",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido legal NCLT litigation",
+   "status": "done",
+   "found": "No NCLT/IBC proceedings found against Rapido. Legal issues are regulatory (Karnataka HC bike taxi ru",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido full funding history",
+   "status": "done",
+   "found": "Complete round history from Seed (2016) through Series F (2026) compiled from Tracxn, TechCrunch, VC",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido products launch dates",
+   "status": "done",
+   "found": "Ownly pilot Aug 2025, standalone Mar 3 2026, integrated Jul 28 2026; Cab launched Dec 2023; Auto Oct",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido partnerships govt",
+   "status": "done",
+   "found": "Ministry of Road Transport (Rahveer, Jun 2026); NRAI MoU; Karnataka cab licence Aug 2026",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido founders Dhanesh Reddy Ayush Kumar",
+   "status": "done",
+   "found": "No founders named Dhanesh Reddy or Ayush Kumar found in any source. Confirmed founders are Aravind S",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido CIN registered office",
+   "status": "done",
+   "found": "CIN: U52210TG2015PTC097115; Registered office: Hyderabad; HQ: Bengaluru",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido legal NCLT litigation",
+   "status": "done",
+   "found": "No NCLT/IBC proceedings found against Rapido. Legal issues are regulatory (Karnataka HC bike taxi ru",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido full funding history",
+   "status": "done",
+   "found": "Complete round history from Seed (2016) through Series F (2026) compiled from Tracxn, TechCrunch, VC",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido products launch dates",
+   "status": "done",
+   "found": "Ownly pilot Aug 2025, standalone Mar 3 2026, integrated Jul 28 2026; Cab launched Dec 2023; Auto Oct",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido partnerships govt",
+   "status": "done",
+   "found": "Ministry of Road Transport (Rahveer, Jun 2026); NRAI MoU; Karnataka cab licence Aug 2026",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido founders Dhanesh Reddy Ayush Kumar",
+   "status": "done",
+   "found": "No founders named Dhanesh Reddy or Ayush Kumar found in any source. Confirmed founders are Aravind S",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido CIN registered office",
+   "status": "done",
+   "found": "CIN: U52210TG2015PTC097115; Registered office: Hyderabad; HQ: Bengaluru",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido legal NCLT litigation",
+   "status": "done",
+   "found": "No NCLT/IBC proceedings found against Rapido. Legal issues are regulatory (Karnataka HC bike taxi ru",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido full funding history",
+   "status": "done",
+   "found": "Complete round history from Seed (2016) through Series F (2026) compiled from Tracxn, TechCrunch, VC",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido products launch dates",
+   "status": "done",
+   "found": "Ownly pilot Aug 2025, standalone Mar 3 2026, integrated Jul 28 2026; Cab launched Dec 2023; Auto Oct",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido partnerships govt",
+   "status": "done",
+   "found": "Ministry of Road Transport (Rahveer, Jun 2026); NRAI MoU; Karnataka cab licence Aug 2026",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido founders Dhanesh Reddy Ayush Kumar",
+   "status": "done",
+   "found": "No founders named Dhanesh Reddy or Ayush Kumar found in any source. Confirmed founders are Aravind S",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido CIN registered office",
+   "status": "done",
+   "found": "CIN: U52210TG2015PTC097115; Registered office: Hyderabad; HQ: Bengaluru",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido legal NCLT litigation",
+   "status": "done",
+   "found": "No NCLT/IBC proceedings found against Rapido. Legal issues are regulatory (Karnataka HC bike taxi ru",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido full funding history",
+   "status": "done",
+   "found": "Complete round history from Seed (2016) through Series F (2026) compiled from Tracxn, TechCrunch, VC",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido products launch dates",
+   "status": "done",
+   "found": "Ownly pilot Aug 2025, standalone Mar 3 2026, integrated Jul 28 2026; Cab launched Dec 2023; Auto Oct",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido partnerships govt",
+   "status": "done",
+   "found": "Ministry of Road Transport (Rahveer, Jun 2026); NRAI MoU; Karnataka cab licence Aug 2026",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido founders Dhanesh Reddy Ayush Kumar",
+   "status": "done",
+   "found": "No founders named Dhanesh Reddy or Ayush Kumar found in any source. Confirmed founders are Aravind S",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido CIN registered office",
+   "status": "done",
+   "found": "CIN: U52210TG2015PTC097115; Registered office: Hyderabad; HQ: Bengaluru",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido legal NCLT litigation",
+   "status": "done",
+   "found": "No NCLT/IBC proceedings found against Rapido. Legal issues are regulatory (Karnataka HC bike taxi ru",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido full funding history",
+   "status": "done",
+   "found": "Complete round history from Seed (2016) through Series F (2026) compiled from Tracxn, TechCrunch, VC",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido products launch dates",
+   "status": "done",
+   "found": "Ownly pilot Aug 2025, standalone Mar 3 2026, integrated Jul 28 2026; Cab launched Dec 2023; Auto Oct",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido partnerships govt",
+   "status": "done",
+   "found": "Ministry of Road Transport (Rahveer, Jun 2026); NRAI MoU; Karnataka cab licence Aug 2026",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido founders Dhanesh Reddy Ayush Kumar",
+   "status": "done",
+   "found": "No founders named Dhanesh Reddy or Ayush Kumar found in any source. Confirmed founders are Aravind S",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido CIN registered office",
+   "status": "done",
+   "found": "CIN: U52210TG2015PTC097115; Registered office: Hyderabad; HQ: Bengaluru",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido legal NCLT litigation",
+   "status": "done",
+   "found": "No NCLT/IBC proceedings found against Rapido. Legal issues are regulatory (Karnataka HC bike taxi ru",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido full funding history",
+   "status": "done",
+   "found": "Complete round history from Seed (2016) through Series F (2026) compiled from Tracxn, TechCrunch, VC",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido products launch dates",
+   "status": "done",
+   "found": "Ownly pilot Aug 2025, standalone Mar 3 2026, integrated Jul 28 2026; Cab launched Dec 2023; Auto Oct",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido partnerships govt",
+   "status": "done",
+   "found": "Ministry of Road Transport (Rahveer, Jun 2026); NRAI MoU; Karnataka cab licence Aug 2026",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido founders Dhanesh Reddy Ayush Kumar",
+   "status": "done",
+   "found": "No founders named Dhanesh Reddy or Ayush Kumar found in any source. Confirmed founders are Aravind S",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido CIN registered office",
+   "status": "done",
+   "found": "CIN: U52210TG2015PTC097115; Registered office: Hyderabad; HQ: Bengaluru",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido legal NCLT litigation",
+   "status": "done",
+   "found": "No NCLT/IBC proceedings found against Rapido. Legal issues are regulatory (Karnataka HC bike taxi ru",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido full funding history",
+   "status": "done",
+   "found": "Complete round history from Seed (2016) through Series F (2026) compiled from Tracxn, TechCrunch, VC",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido products launch dates",
+   "status": "done",
+   "found": "Ownly pilot Aug 2025, standalone Mar 3 2026, integrated Jul 28 2026; Cab launched Dec 2023; Auto Oct",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido partnerships govt",
+   "status": "done",
+   "found": "Ministry of Road Transport (Rahveer, Jun 2026); NRAI MoU; Karnataka cab licence Aug 2026",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido founders Dhanesh Reddy Ayush Kumar",
+   "status": "done",
+   "found": "No founders named Dhanesh Reddy or Ayush Kumar found in any source. Confirmed founders are Aravind S",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido CIN registered office",
+   "status": "done",
+   "found": "CIN: U52210TG2015PTC097115; Registered office: Hyderabad; HQ: Bengaluru",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido legal NCLT litigation",
+   "status": "done",
+   "found": "No NCLT/IBC proceedings found against Rapido. Legal issues are regulatory (Karnataka HC bike taxi ru",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido full funding history",
+   "status": "done",
+   "found": "Complete round history from Seed (2016) through Series F (2026) compiled from Tracxn, TechCrunch, VC",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido products launch dates",
+   "status": "done",
+   "found": "Ownly pilot Aug 2025, standalone Mar 3 2026, integrated Jul 28 2026; Cab launched Dec 2023; Auto Oct",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido partnerships govt",
+   "status": "done",
+   "found": "Ministry of Road Transport (Rahveer, Jun 2026); NRAI MoU; Karnataka cab licence Aug 2026",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido founders Dhanesh Reddy Ayush Kumar",
+   "status": "done",
+   "found": "No founders named Dhanesh Reddy or Ayush Kumar found in any source. Confirmed founders are Aravind S",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido CIN registered office",
+   "status": "done",
+   "found": "CIN: U52210TG2015PTC097115; Registered office: Hyderabad; HQ: Bengaluru",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido legal NCLT litigation",
+   "status": "done",
+   "found": "No NCLT/IBC proceedings found against Rapido. Legal issues are regulatory (Karnataka HC bike taxi ru",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido full funding history",
+   "status": "done",
+   "found": "Complete round history from Seed (2016) through Series F (2026) compiled from Tracxn, TechCrunch, VC",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido products launch dates",
+   "status": "done",
+   "found": "Ownly pilot Aug 2025, standalone Mar 3 2026, integrated Jul 28 2026; Cab launched Dec 2023; Auto Oct",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido partnerships govt",
+   "status": "done",
+   "found": "Ministry of Road Transport (Rahveer, Jun 2026); NRAI MoU; Karnataka cab licence Aug 2026",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido founders Dhanesh Reddy Ayush Kumar",
+   "status": "done",
+   "found": "No founders named Dhanesh Reddy or Ayush Kumar found in any source. Confirmed founders are Aravind S",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido CIN registered office",
+   "status": "done",
+   "found": "CIN: U52210TG2015PTC097115; Registered office: Hyderabad; HQ: Bengaluru",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido legal NCLT litigation",
+   "status": "done",
+   "found": "No NCLT/IBC proceedings found against Rapido. Legal issues are regulatory (Karnataka HC bike taxi ru",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido full funding history",
+   "status": "done",
+   "found": "Complete round history from Seed (2016) through Series F (2026) compiled from Tracxn, TechCrunch, VC",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido products launch dates",
+   "status": "done",
+   "found": "Ownly pilot Aug 2025, standalone Mar 3 2026, integrated Jul 28 2026; Cab launched Dec 2023; Auto Oct",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido partnerships govt",
+   "status": "done",
+   "found": "Ministry of Road Transport (Rahveer, Jun 2026); NRAI MoU; Karnataka cab licence Aug 2026",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido founders Dhanesh Reddy Ayush Kumar",
+   "status": "done",
+   "found": "No founders named Dhanesh Reddy or Ayush Kumar found in any source. Confirmed founders are Aravind S",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido CIN registered office",
+   "status": "done",
+   "found": "CIN: U52210TG2015PTC097115; Registered office: Hyderabad; HQ: Bengaluru",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido legal NCLT litigation",
+   "status": "done",
+   "found": "No NCLT/IBC proceedings found against Rapido. Legal issues are regulatory (Karnataka HC bike taxi ru",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido full funding history",
+   "status": "done",
+   "found": "Complete round history from Seed (2016) through Series F (2026) compiled from Tracxn, TechCrunch, VC",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido products launch dates",
+   "status": "done",
+   "found": "Ownly pilot Aug 2025, standalone Mar 3 2026, integrated Jul 28 2026; Cab launched Dec 2023; Auto Oct",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido partnerships govt",
+   "status": "done",
+   "found": "Ministry of Road Transport (Rahveer, Jun 2026); NRAI MoU; Karnataka cab licence Aug 2026",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido founders Dhanesh Reddy Ayush Kumar",
+   "status": "done",
+   "found": "No founders named Dhanesh Reddy or Ayush Kumar found in any source. Confirmed founders are Aravind S",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido CIN registered office",
+   "status": "done",
+   "found": "CIN: U52210TG2015PTC097115; Registered office: Hyderabad; HQ: Bengaluru",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido legal NCLT litigation",
+   "status": "done",
+   "found": "No NCLT/IBC proceedings found against Rapido. Legal issues are regulatory (Karnataka HC bike taxi ru",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido full funding history",
+   "status": "done",
+   "found": "Complete round history from Seed (2016) through Series F (2026) compiled from Tracxn, TechCrunch, VC",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido products launch dates",
+   "status": "done",
+   "found": "Ownly pilot Aug 2025, standalone Mar 3 2026, integrated Jul 28 2026; Cab launched Dec 2023; Auto Oct",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido partnerships govt",
+   "status": "done",
+   "found": "Ministry of Road Transport (Rahveer, Jun 2026); NRAI MoU; Karnataka cab licence Aug 2026",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido founders Dhanesh Reddy Ayush Kumar",
+   "status": "done",
+   "found": "No founders named Dhanesh Reddy or Ayush Kumar found in any source. Confirmed founders are Aravind S",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido CIN registered office",
+   "status": "done",
+   "found": "CIN: U52210TG2015PTC097115; Registered office: Hyderabad; HQ: Bengaluru",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido legal NCLT litigation",
+   "status": "done",
+   "found": "No NCLT/IBC proceedings found against Rapido. Legal issues are regulatory (Karnataka HC bike taxi ru",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido full funding history",
+   "status": "done",
+   "found": "Complete round history from Seed (2016) through Series F (2026) compiled from Tracxn, TechCrunch, VC",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido products launch dates",
+   "status": "done",
+   "found": "Ownly pilot Aug 2025, standalone Mar 3 2026, integrated Jul 28 2026; Cab launched Dec 2023; Auto Oct",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido partnerships govt",
+   "status": "done",
+   "found": "Ministry of Road Transport (Rahveer, Jun 2026); NRAI MoU; Karnataka cab licence Aug 2026",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido founders Dhanesh Reddy Ayush Kumar",
+   "status": "done",
+   "found": "No founders named Dhanesh Reddy or Ayush Kumar found in any source. Confirmed founders are Aravind S",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido CIN registered office",
+   "status": "done",
+   "found": "CIN: U52210TG2015PTC097115; Registered office: Hyderabad; HQ: Bengaluru",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido legal NCLT litigation",
+   "status": "done",
+   "found": "No NCLT/IBC proceedings found against Rapido. Legal issues are regulatory (Karnataka HC bike taxi ru",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido full funding history",
+   "status": "done",
+   "found": "Complete round history from Seed (2016) through Series F (2026) compiled from Tracxn, TechCrunch, VC",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido products launch dates",
+   "status": "done",
+   "found": "Ownly pilot Aug 2025, standalone Mar 3 2026, integrated Jul 28 2026; Cab launched Dec 2023; Auto Oct",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido partnerships govt",
+   "status": "done",
+   "found": "Ministry of Road Transport (Rahveer, Jun 2026); NRAI MoU; Karnataka cab licence Aug 2026",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido founders Dhanesh Reddy Ayush Kumar",
+   "status": "done",
+   "found": "No founders named Dhanesh Reddy or Ayush Kumar found in any source. Confirmed founders are Aravind S",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido CIN registered office",
+   "status": "done",
+   "found": "CIN: U52210TG2015PTC097115; Registered office: Hyderabad; HQ: Bengaluru",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido legal NCLT litigation",
+   "status": "done",
+   "found": "No NCLT/IBC proceedings found against Rapido. Legal issues are regulatory (Karnataka HC bike taxi ru",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido full funding history",
+   "status": "done",
+   "found": "Complete round history from Seed (2016) through Series F (2026) compiled from Tracxn, TechCrunch, VC",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido products launch dates",
+   "status": "done",
+   "found": "Ownly pilot Aug 2025, standalone Mar 3 2026, integrated Jul 28 2026; Cab launched Dec 2023; Auto Oct",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido partnerships govt",
+   "status": "done",
+   "found": "Ministry of Road Transport (Rahveer, Jun 2026); NRAI MoU; Karnataka cab licence Aug 2026",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido founders Dhanesh Reddy Ayush Kumar",
+   "status": "done",
+   "found": "No founders named Dhanesh Reddy or Ayush Kumar found in any source. Confirmed founders are Aravind S",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido CIN registered office",
+   "status": "done",
+   "found": "CIN: U52210TG2015PTC097115; Registered office: Hyderabad; HQ: Bengaluru",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido legal NCLT litigation",
+   "status": "done",
+   "found": "No NCLT/IBC proceedings found against Rapido. Legal issues are regulatory (Karnataka HC bike taxi ru",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido full funding history",
+   "status": "done",
+   "found": "Complete round history from Seed (2016) through Series F (2026) compiled from Tracxn, TechCrunch, VC",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido products launch dates",
+   "status": "done",
+   "found": "Ownly pilot Aug 2025, standalone Mar 3 2026, integrated Jul 28 2026; Cab launched Dec 2023; Auto Oct",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido partnerships govt",
+   "status": "done",
+   "found": "Ministry of Road Transport (Rahveer, Jun 2026); NRAI MoU; Karnataka cab licence Aug 2026",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido founders Dhanesh Reddy Ayush Kumar",
+   "status": "done",
+   "found": "No founders named Dhanesh Reddy or Ayush Kumar found in any source. Confirmed founders are Aravind S",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido CIN registered office",
+   "status": "done",
+   "found": "CIN: U52210TG2015PTC097115; Registered office: Hyderabad; HQ: Bengaluru",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido legal NCLT litigation",
+   "status": "done",
+   "found": "No NCLT/IBC proceedings found against Rapido. Legal issues are regulatory (Karnataka HC bike taxi ru",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido full funding history",
+   "status": "done",
+   "found": "Complete round history from Seed (2016) through Series F (2026) compiled from Tracxn, TechCrunch, VC",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido products launch dates",
+   "status": "done",
+   "found": "Ownly pilot Aug 2025, standalone Mar 3 2026, integrated Jul 28 2026; Cab launched Dec 2023; Auto Oct",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido partnerships govt",
+   "status": "done",
+   "found": "Ministry of Road Transport (Rahveer, Jun 2026); NRAI MoU; Karnataka cab licence Aug 2026",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido founders Dhanesh Reddy Ayush Kumar",
+   "status": "done",
+   "found": "No founders named Dhanesh Reddy or Ayush Kumar found in any source. Confirmed founders are Aravind S",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido CIN registered office",
+   "status": "done",
+   "found": "CIN: U52210TG2015PTC097115; Registered office: Hyderabad; HQ: Bengaluru",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido legal NCLT litigation",
+   "status": "done",
+   "found": "No NCLT/IBC proceedings found against Rapido. Legal issues are regulatory (Karnataka HC bike taxi ru",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido full funding history",
+   "status": "done",
+   "found": "Complete round history from Seed (2016) through Series F (2026) compiled from Tracxn, TechCrunch, VC",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido products launch dates",
+   "status": "done",
+   "found": "Ownly pilot Aug 2025, standalone Mar 3 2026, integrated Jul 28 2026; Cab launched Dec 2023; Auto Oct",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido partnerships govt",
+   "status": "done",
+   "found": "Ministry of Road Transport (Rahveer, Jun 2026); NRAI MoU; Karnataka cab licence Aug 2026",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido founders Dhanesh Reddy Ayush Kumar",
+   "status": "done",
+   "found": "No founders named Dhanesh Reddy or Ayush Kumar found in any source. Confirmed founders are Aravind S",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido CIN registered office",
+   "status": "done",
+   "found": "CIN: U52210TG2015PTC097115; Registered office: Hyderabad; HQ: Bengaluru",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido legal NCLT litigation",
+   "status": "done",
+   "found": "No NCLT/IBC proceedings found against Rapido. Legal issues are regulatory (Karnataka HC bike taxi ru",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido full funding history",
+   "status": "done",
+   "found": "Complete round history from Seed (2016) through Series F (2026) compiled from Tracxn, TechCrunch, VC",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido products launch dates",
+   "status": "done",
+   "found": "Ownly pilot Aug 2025, standalone Mar 3 2026, integrated Jul 28 2026; Cab launched Dec 2023; Auto Oct",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido partnerships govt",
+   "status": "done",
+   "found": "Ministry of Road Transport (Rahveer, Jun 2026); NRAI MoU; Karnataka cab licence Aug 2026",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido founders Dhanesh Reddy Ayush Kumar",
+   "status": "done",
+   "found": "No founders named Dhanesh Reddy or Ayush Kumar found in any source. Confirmed founders are Aravind S",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido CIN registered office",
+   "status": "done",
+   "found": "CIN: U52210TG2015PTC097115; Registered office: Hyderabad; HQ: Bengaluru",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido legal NCLT litigation",
+   "status": "done",
+   "found": "No NCLT/IBC proceedings found against Rapido. Legal issues are regulatory (Karnataka HC bike taxi ru",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido full funding history",
+   "status": "done",
+   "found": "Complete round history from Seed (2016) through Series F (2026) compiled from Tracxn, TechCrunch, VC",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido products launch dates",
+   "status": "done",
+   "found": "Ownly pilot Aug 2025, standalone Mar 3 2026, integrated Jul 28 2026; Cab launched Dec 2023; Auto Oct",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido partnerships govt",
+   "status": "done",
+   "found": "Ministry of Road Transport (Rahveer, Jun 2026); NRAI MoU; Karnataka cab licence Aug 2026",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido founders Dhanesh Reddy Ayush Kumar",
+   "status": "done",
+   "found": "No founders named Dhanesh Reddy or Ayush Kumar found in any source. Confirmed founders are Aravind S",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido CIN registered office",
+   "status": "done",
+   "found": "CIN: U52210TG2015PTC097115; Registered office: Hyderabad; HQ: Bengaluru",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido legal NCLT litigation",
+   "status": "done",
+   "found": "No NCLT/IBC proceedings found against Rapido. Legal issues are regulatory (Karnataka HC bike taxi ru",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido full funding history",
+   "status": "done",
+   "found": "Complete round history from Seed (2016) through Series F (2026) compiled from Tracxn, TechCrunch, VC",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido products launch dates",
+   "status": "done",
+   "found": "Ownly pilot Aug 2025, standalone Mar 3 2026, integrated Jul 28 2026; Cab launched Dec 2023; Auto Oct",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido partnerships govt",
+   "status": "done",
+   "found": "Ministry of Road Transport (Rahveer, Jun 2026); NRAI MoU; Karnataka cab licence Aug 2026",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido founders Dhanesh Reddy Ayush Kumar",
+   "status": "done",
+   "found": "No founders named Dhanesh Reddy or Ayush Kumar found in any source. Confirmed founders are Aravind S",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido CIN registered office",
+   "status": "done",
+   "found": "CIN: U52210TG2015PTC097115; Registered office: Hyderabad; HQ: Bengaluru",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido legal NCLT litigation",
+   "status": "done",
+   "found": "No NCLT/IBC proceedings found against Rapido. Legal issues are regulatory (Karnataka HC bike taxi ru",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido full funding history",
+   "status": "done",
+   "found": "Complete round history from Seed (2016) through Series F (2026) compiled from Tracxn, TechCrunch, VC",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido products launch dates",
+   "status": "done",
+   "found": "Ownly pilot Aug 2025, standalone Mar 3 2026, integrated Jul 28 2026; Cab launched Dec 2023; Auto Oct",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido partnerships govt",
+   "status": "done",
+   "found": "Ministry of Road Transport (Rahveer, Jun 2026); NRAI MoU; Karnataka cab licence Aug 2026",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido founders Dhanesh Reddy Ayush Kumar",
+   "status": "done",
+   "found": "No founders named Dhanesh Reddy or Ayush Kumar found in any source. Confirmed founders are Aravind S",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido CIN registered office",
+   "status": "done",
+   "found": "CIN: U52210TG2015PTC097115; Registered office: Hyderabad; HQ: Bengaluru",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido legal NCLT litigation",
+   "status": "done",
+   "found": "No NCLT/IBC proceedings found against Rapido. Legal issues are regulatory (Karnataka HC bike taxi ru",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido full funding history",
+   "status": "done",
+   "found": "Complete round history from Seed (2016) through Series F (2026) compiled from Tracxn, TechCrunch, VC",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido products launch dates",
+   "status": "done",
+   "found": "Ownly pilot Aug 2025, standalone Mar 3 2026, integrated Jul 28 2026; Cab launched Dec 2023; Auto Oct",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido partnerships govt",
+   "status": "done",
+   "found": "Ministry of Road Transport (Rahveer, Jun 2026); NRAI MoU; Karnataka cab licence Aug 2026",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido founders Dhanesh Reddy Ayush Kumar",
+   "status": "done",
+   "found": "No founders named Dhanesh Reddy or Ayush Kumar found in any source. Confirmed founders are Aravind S",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido CIN registered office",
+   "status": "done",
+   "found": "CIN: U52210TG2015PTC097115; Registered office: Hyderabad; HQ: Bengaluru",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido legal NCLT litigation",
+   "status": "done",
+   "found": "No NCLT/IBC proceedings found against Rapido. Legal issues are regulatory (Karnataka HC bike taxi ru",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido full funding history",
+   "status": "done",
+   "found": "Complete round history from Seed (2016) through Series F (2026) compiled from Tracxn, TechCrunch, VC",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido products launch dates",
+   "status": "done",
+   "found": "Ownly pilot Aug 2025, standalone Mar 3 2026, integrated Jul 28 2026; Cab launched Dec 2023; Auto Oct",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido partnerships govt",
+   "status": "done",
+   "found": "Ministry of Road Transport (Rahveer, Jun 2026); NRAI MoU; Karnataka cab licence Aug 2026",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido founders Dhanesh Reddy Ayush Kumar",
+   "status": "done",
+   "found": "No founders named Dhanesh Reddy or Ayush Kumar found in any source. Confirmed founders are Aravind S",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido CIN registered office",
+   "status": "done",
+   "found": "CIN: U52210TG2015PTC097115; Registered office: Hyderabad; HQ: Bengaluru",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido legal NCLT litigation",
+   "status": "done",
+   "found": "No NCLT/IBC proceedings found against Rapido. Legal issues are regulatory (Karnataka HC bike taxi ru",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido full funding history",
+   "status": "done",
+   "found": "Complete round history from Seed (2016) through Series F (2026) compiled from Tracxn, TechCrunch, VC",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido products launch dates",
+   "status": "done",
+   "found": "Ownly pilot Aug 2025, standalone Mar 3 2026, integrated Jul 28 2026; Cab launched Dec 2023; Auto Oct",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido partnerships govt",
+   "status": "done",
+   "found": "Ministry of Road Transport (Rahveer, Jun 2026); NRAI MoU; Karnataka cab licence Aug 2026",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido founders Dhanesh Reddy Ayush Kumar",
+   "status": "done",
+   "found": "No founders named Dhanesh Reddy or Ayush Kumar found in any source. Confirmed founders are Aravind S",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido CIN registered office",
+   "status": "done",
+   "found": "CIN: U52210TG2015PTC097115; Registered office: Hyderabad; HQ: Bengaluru",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido legal NCLT litigation",
+   "status": "done",
+   "found": "No NCLT/IBC proceedings found against Rapido. Legal issues are regulatory (Karnataka HC bike taxi ru",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido full funding history",
+   "status": "done",
+   "found": "Complete round history from Seed (2016) through Series F (2026) compiled from Tracxn, TechCrunch, VC",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido products launch dates",
+   "status": "done",
+   "found": "Ownly pilot Aug 2025, standalone Mar 3 2026, integrated Jul 28 2026; Cab launched Dec 2023; Auto Oct",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido partnerships govt",
+   "status": "done",
+   "found": "Ministry of Road Transport (Rahveer, Jun 2026); NRAI MoU; Karnataka cab licence Aug 2026",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido founders Dhanesh Reddy Ayush Kumar",
+   "status": "done",
+   "found": "No founders named Dhanesh Reddy or Ayush Kumar found in any source. Confirmed founders are Aravind S",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido CIN registered office",
+   "status": "done",
+   "found": "CIN: U52210TG2015PTC097115; Registered office: Hyderabad; HQ: Bengaluru",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido legal NCLT litigation",
+   "status": "done",
+   "found": "No NCLT/IBC proceedings found against Rapido. Legal issues are regulatory (Karnataka HC bike taxi ru",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido full funding history",
+   "status": "done",
+   "found": "Complete round history from Seed (2016) through Series F (2026) compiled from Tracxn, TechCrunch, VC",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido products launch dates",
+   "status": "done",
+   "found": "Ownly pilot Aug 2025, standalone Mar 3 2026, integrated Jul 28 2026; Cab launched Dec 2023; Auto Oct",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Rapido partnerships govt",
+   "status": "done",
+   "found": "Ministry of Road Transport (Rahveer, Jun 2026); NRAI MoU; Karnataka cab licence Aug 2026",
+   "next_action": "None",
+   "agent": "P3-WAVE"
+  }
+ ],
+ "sources": [
+  {
+   "publication_date": "2026-05-15",
+   "publisher": "TechCrunch",
+   "tier": "T3",
+   "title": "Indian Uber rival Rapido raises $240M at $3B valuation",
+   "url": "https://techcrunch.com/2026/05/15/indian-uber-rival-rapido-raises-240m-at-3b-valuation"
+  },
+  {
+   "publication_date": "2024-07-29",
+   "publisher": "Business Standard",
+   "tier": "T3",
+   "title": "Rapido enters unicorn club with $120 million round led by WestBridge",
+   "url": "https://www.business-standard.com/companies/start-ups/rapido-enters-unicorn-club-with-120-million-round-led-by-westbridge-124072901384_1.html"
+  },
+  {
+   "publication_date": "2026-01-22",
+   "publisher": "Business Standard",
+   "tier": "T3",
+   "title": "Rapido FY25 loss narrows to Rs 258 crore; revenue rises 44% to Rs 934 crore",
+   "url": "https://www.business-standard.com/companies/news/rapido-fy25-loss-narrows-to-rs-258-crore-revenue-rises-44-pc-126012201517_1.html"
+  },
+  {
+   "url": "https://techcrunch.com/2026/05/15/indian-uber-rival-rapido-raises-240m-at-3b-valuation/",
+   "title": "",
+   "fields": "PEOPLE",
+   "confidence": "HIGH"
+  },
+  {
+   "url": "https://www.business-standard.com/companies/news/rapido-plans-500-city-expansion-sees-strong-mobility-growth-co-founder-125030900241_1.html",
+   "title": "",
+   "fields": "PEOPLE",
+   "confidence": "HIGH"
+  },
+  {
+   "url": "https://platform.tracxn.com/a/d/company/561241bde4b0c14b96b5bfa4/rapido",
+   "title": "",
+   "fields": "PEOPLE",
+   "confidence": "MEDIUM"
+  },
+  {
+   "url": "https://www.livemint.com/companies/news/rapido-has-more-users-than-uber-and-ola-swiggy-zomato-zepto-blinkit-11783344546641.html",
+   "title": "",
+   "fields": "company",
+   "confidence": "HIGH"
+  },
+  {
+   "url": "https://rapido.bike/Contact",
+   "title": "",
+   "fields": "company",
+   "confidence": "HIGH"
+  },
+  {
+   "url": "https://www.thehindu.com/news/national/karnataka/bike-taxis-permitted-by-karnataka-high-court-state-government-told-to-register-them-as-transport-vehicles/article70541056.ece",
+   "title": "",
+   "fields": "company",
+   "confidence": "HIGH"
+  },
+  {
+   "url": "https://www.reuters.com/world/india/indias-swiggy-sell-entire-stake-ride-hailing-platform-rapido-2025-09-23",
+   "title": "",
+   "fields": "company",
+   "confidence": "HIGH"
+  },
+  {
+   "url": "https://www.thehindu.com/news/national/karnataka/bike-taxi-association-seeks-halt-to-crackdown-urges-clear-policy-framework/article71318369.ece",
+   "title": "",
+   "fields": "company",
+   "confidence": "MEDIUM"
+  },
+  {
+   "url": "https://www.medianama.com/2026/08/223-rapido-karnataka-cab-licence",
+   "title": "",
+   "fields": "company",
+   "confidence": "HIGH"
+  },
+  {
+   "url": "https://m.economictimes.com/tech/technology/rapidos-early-backers-look-to-sell-shares-worth-rs-100-crore/amp_articleshow/131810498.cms",
+   "title": "",
+   "fields": "company",
+   "confidence": "HIGH"
+  }
+ ],
+ "startup_id": "rapido",
+ "_merged_session2": true,
+ "people": [
+  {
+   "name": "Aravind Sanka",
+   "role": "Co-founder & CEO",
+   "title": "Founder and Chief Executive Officer",
+   "current": true,
+   "since": "2015",
+   "prior_role": "N/A",
+   "source_url": "https://techcrunch.com/2026/05/15/indian-uber-rival-rapido-raises-240m-at-3b-valuation/",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Pavan Guntupalli",
+   "role": "Co-founder",
+   "title": "Co-founder",
+   "current": true,
+   "since": "2015",
+   "prior_role": "N/A",
+   "source_url": "https://www.business-standard.com/companies/news/rapido-plans-500-city-expansion-sees-strong-mobility-growth-co-founder-125030900241_1.html",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Srivatsa Katta",
+   "role": "CTO",
+   "title": "Chief Technology Officer",
+   "current": true,
+   "since": "unknown",
+   "prior_role": "N/A",
+   "source_url": "https://platform.tracxn.com/a/d/company/561241bde4b0c14b96b5bfa4/rapido",
+   "confidence": "MEDIUM"
+  }
+ ],
+ "traction": [
+  {
+   "metric": "daily rides",
+   "value": 3300000,
+   "unit": "rides",
+   "period": "Mar 2025",
+   "as_of": "2025-03-09",
+   "company_reported": true,
+   "source_url": "https://www.business-standard.com/companies/news/rapido-plans-500-city-expansion-sees-strong-mobility-growth-co-founder-125030900241_1.html",
+   "confidence": "HIGH",
+   "notes": "33 lakh rides/day; 15 lakh bike, 13 lakh auto, 5 lakh cab"
+  },
+  {
+   "metric": "daily rides",
+   "value": 6500000,
+   "unit": "rides",
+   "period": "Mar 2026",
+   "as_of": "2026-07-08",
+   "company_reported": true,
+   "source_url": "https://www.livemint.com/companies/news/rapido-has-more-users-than-uber-and-ola-swiggy-zomato-zepto-blinkit-11783344546641.html",
+   "confidence": "HIGH",
+   "notes": "6.5M rides/day vs Uber 3.7M, Ola 1.5M"
+  },
+  {
+   "metric": "daily rides",
+   "value": 7000000,
+   "unit": "rides",
+   "period": "Jun 2026",
+   "as_of": "2026-06-18",
+   "company_reported": true,
+   "source_url": "https://m.economictimes.com/tech/technology/rapidos-early-backers-look-to-sell-shares-worth-rs-100-crore/amp_articleshow/131810498.cms",
+   "confidence": "MEDIUM",
+   "notes": "More than 7 million rides daily per ET sources"
+  },
+  {
+   "metric": "monthly active users",
+   "value": 36000000,
+   "unit": "users",
+   "period": "Jan-Mar 2026",
+   "as_of": "2026-07-08",
+   "company_reported": false,
+   "source_url": "https://www.livemint.com/companies/news/rapido-has-more-users-than-uber-and-ola-swiggy-zomato-zepto-blinkit-11783344546641.html",
+   "confidence": "HIGH",
+   "notes": "Sensor Tower data; MTUs ~36M"
+  },
+  {
+   "metric": "active captains (monthly)",
+   "value": 3000000,
+   "unit": "drivers",
+   "period": "Apr 2026",
+   "as_of": "2026-04-02",
+   "company_reported": true,
+   "source_url": "https://www.newindianexpress.com/business/2026/Apr/02/rapido-targets-50-lakh-active-drivers-by-fy27",
+   "confidence": "HIGH",
+   "notes": "30 lakh active captains; targeting 50 lakh by FY27"
+  },
+  {
+   "metric": "cities",
+   "value": 500,
+   "unit": "cities",
+   "period": "2026",
+   "as_of": "2026-09-15",
+   "company_reported": true,
+   "source_url": "https://rapido.bike",
+   "note": "500+ cities per official website; app store listing also says 500+",
+   "confidence": "HIGH"
+  },
+  {
+   "metric": "cab drivers onboarded",
+   "value": 500000,
+   "unit": "drivers",
+   "period": "Jun 2026",
+   "as_of": "2026-06-08",
+   "company_reported": true,
+   "source_url": "https://www.business-standard.com/companies/news/rapido-has-25-of-cab-drivers-35-40-of-market-co-founder-aravind-sanka-126060801066_1.html",
+   "confidence": "HIGH",
+   "notes": "25% of India's 2M cab drivers; 35-40% market share"
+  },
+  {
+   "metric": "bike taxi market share",
+   "value": 72,
+   "unit": "percent",
+   "period": "Jun 2026",
+   "as_of": "2026-06-18",
+   "company_reported": false,
+   "source_url": "https://m.economictimes.com/tech/technology/rapidos-early-backers-look-to-sell-shares-worth-rs-100-crore/amp_articleshow/131810498.cms",
+   "confidence": "MEDIUM",
+   "notes": "Per ET sources"
+  },
+  {
+   "metric": "total rides completed",
+   "value": 100000000,
+   "unit": "rides",
+   "period": "cumulative",
+   "as_of": "2026-09-15",
+   "company_reported": true,
+   "source_url": "https://rapido.bike",
+   "note": "100+ million safe rides completed per official website",
+   "confidence": "MEDIUM"
+  },
+  {
+   "metric": "monthly active users",
+   "value": 82000000,
+   "unit": "users",
+   "period": "Mar-May 2026",
+   "as_of": "2026-07-08",
+   "company_reported": false,
+   "source_url": "https://www.livemint.com/companies/news/rapido-has-more-users-than-uber-and-ola-swiggy-zomato-zepto-blinkit-11783344546641.html",
+   "confidence": "HIGH",
+   "notes": "Sensor Tower; 82M MAU avg, +67% YoY; ahead of Uber (39M), Ola (27M)"
+  },
+  {
+   "metric": "auto market share",
+   "value": 51,
+   "unit": "percent",
+   "period": "Jun 2026",
+   "as_of": "2026-06-18",
+   "company_reported": false,
+   "source_url": "https://m.economictimes.com/tech/technology/rapidos-early-backers-look-to-sell-shares-worth-rs-100-crore/amp_articleshow/131810498.cms",
+   "confidence": "MEDIUM",
+   "notes": "Per ET sources"
+  },
+  {
+   "metric": "cab market share",
+   "value": 31,
+   "unit": "percent",
+   "period": "Jun 2026",
+   "as_of": "2026-06-18",
+   "company_reported": false,
+   "source_url": "https://m.economictimes.com/tech/technology/rapidos-early-backers-look-to-sell-shares-worth-rs-100-crore/amp_articleshow/131810498.cms",
+   "confidence": "MEDIUM",
+   "notes": "Per ET sources"
+  },
+  {
+   "metric": "registered customers",
+   "value": 75000000,
+   "unit": "users",
+   "period": "2026",
+   "as_of": "2026-09-15",
+   "company_reported": true,
+   "source_url": "https://apps.apple.com/gm/app/rapido-bike-taxi-auto-cabs/id1198464606",
+   "note": "75+ million happy customers per App Store listing",
+   "confidence": "MEDIUM"
+  }
+ ],
+ "products": [
+  {
+   "name": "Bike Taxi",
+   "category": "Mobility - two-wheeler",
+   "description": "Intra-city bike taxi service; primary product since 2015",
+   "pricing_model": "Fixed fare; subscription model for drivers",
+   "launch_date": "2015",
+   "status": "Active (paused in Karnataka Jun 2025-Jan 2026; resumed after HC ruling)",
+   "source_url": "https://rapido.bike",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Auto Rickshaw",
+   "category": "Mobility - three-wheeler",
+   "description": "Auto booking service; launched Oct 2020",
+   "pricing_model": "Fixed fare; subscription model for drivers",
+   "launch_date": "2020-10",
+   "status": "Active",
+   "source_url": "https://en.wikipedia.org/wiki/Rapido_%28company%29",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Cab (Economy & Premium)",
+   "category": "Mobility - four-wheeler",
+   "description": "Cab hailing service; introduced Dec 2023; subscription model",
+   "pricing_model": "Fixed fare; subscription model for drivers",
+   "launch_date": "2023-12",
+   "status": "Active; Karnataka cab licence granted Aug 2026 (valid to 2031)",
+   "source_url": "https://www.medianama.com/2026/08/223-rapido-karnataka-cab-licence",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Auto Share",
+   "category": "Mobility - shared auto",
+   "description": "Shared auto-rickshaw service",
+   "pricing_model": "Shared fare",
+   "launch_date": "unknown",
+   "status": "Active",
+   "source_url": "https://rapido.bike",
+   "confidence": "LOW"
+  },
+  {
+   "name": "Parcel",
+   "category": "Logistics - delivery",
+   "description": "Peer-to-peer parcel delivery via Rapido Local; bike parcel service",
+   "pricing_model": "Delivery fee",
+   "launch_date": "unknown",
+   "status": "Active",
+   "source_url": "https://rapido.bike",
+   "confidence": "MEDIUM"
+  },
+  {
+   "name": "Metro Ticket",
+   "category": "Mobility - transit",
+   "description": "Metro ticket booking service",
+   "pricing_model": "Ticket purchase",
+   "launch_date": "unknown",
+   "status": "Active",
+   "source_url": "https://rapido.bike",
+   "confidence": "LOW"
+  },
+  {
+   "name": "Ownly (Food Delivery)",
+   "category": "Food delivery",
+   "description": "Zero-commission food delivery platform; pilot Aug 2025 in Koramangala/HSR/BTM; standalone app launched Mar 3, 2026; inte",
+   "pricing_model": "Zero commission; flat Rs 30 delivery fee",
+   "launch_date": "2025-08",
+   "status": "Active; integrated into main app Jul 2026",
+   "source_url": "https://www.techinasia.com/news/rapido-adds-ownly-food-delivery-main-app",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Rapido Ads",
+   "category": "Advertising",
+   "description": "In-app advertising platform",
+   "pricing_model": "Ad revenue",
+   "launch_date": "unknown",
+   "status": "Active",
+   "source_url": "https://rapido.bike",
+   "confidence": "LOW"
+  }
+ ],
+ "legal": [
+  {
+   "type": "regulatory",
+   "entity": "Karnataka High Court",
+   "date": "2025-04-02",
+   "status": "ruling",
+   "description": "Single judge directed Rapido, Ola, Uber to stop bike taxi services within 6 weeks unless state framed guidelines under Section 93 MV Act",
+   "source_url": "https://www.thehindu.com/news/national/karnataka/rapido-ola-and-uber-directed-to-stop-bike-taxi-services-within-six-weeks/article69404004.ece",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "regulatory",
+   "entity": "Karnataka High Court",
+   "date": "2025-04-30",
+   "status": "ruling",
+   "description": "Extended deadline to June 15, 2025 for bike taxi operators",
+   "source_url": "https://www.thehindu.com/news/cities/bangalore/karnataka-high-court-extends-deadline-for-rapido-ola-and-uber-to-stop-operation-of-their-bike-taxis-till-june-15/article69505866.ece",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "regulatory",
+   "entity": "Karnataka High Court",
+   "date": "2025-06-16",
+   "status": "confirmed-violation",
+   "description": "Bike taxi operations paused in Karnataka; Rapido notified customers of compliance with HC order",
+   "source_url": "https://indianexpress.com/article/cities/bangalore/rapido-bike-taxi-operations-karnataka-hc-order-10069511",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "regulatory",
+   "entity": "Karnataka High Court (Division Bench)",
+   "date": "2026-01-23",
+   "status": "ruling",
+   "description": "Set aside April 2025 single judge order; directed state to register two-wheelers as transport vehicles and grant contract carriage permits; ruled blanket ban violates Article 19(6)",
+   "source_url": "https://www.thehindu.com/news/national/karnataka/bike-taxis-permitted-by-karnataka-high-court-state-government-told-to-register-them-as-transport-vehicles/article70541056.ece",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "regulatory",
+   "entity": "Ministry of Road Transport and Highways (Centre)",
+   "date": "2025-07-03",
+   "status": "ruling",
+   "description": "Issued Motor Vehicles Aggregator Guidelines 2025 giving states legal footing to permit non-transport motorcycles for passenger journeys via aggregators",
+   "source_url": "https://indianexpress.com/article/business/centre-states-legal-footing-bike-taxis-uber-rapido-10101342",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "regulatory",
+   "entity": "Karnataka State Transport Authority",
+   "date": "2026-08-14",
+   "status": "licence",
+   "description": "Granted Rapido 5-year cab aggregator licence valid until August 2031 under Karnataka On-Demand Transportation Technology Aggregators Rules, 2016",
+   "source_url": "https://www.medianama.com/2026/08/223-rapido-karnataka-cab-licence",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "complaint",
+   "entity": "Nagpur RTO / Maharashtra Police",
+   "date": "2026-06-23",
+   "status": "allegation",
+   "description": "Founders (Rishikesh SR, Pavan Guntupalli, Aravind Sanka) booked at Sitabuldi police station for operating petrol-powered bike taxis without government permission; case under BNS, Motor Vehicles Act, I",
+   "source_url": "https://www.business-standard.com/companies/news/rapido-founders-booked-in-nagpur-over-bike-taxi-operations-without-govt-nod-126070301388_1.html",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "complaint",
+   "entity": "Namma Bike Taxi Association",
+   "date": "2026-08-08",
+   "status": "complaint",
+   "description": "Association urged Karnataka govt to halt enforcement against bike taxi riders, citing lack of compliance framework after HC ruling",
+   "source_url": "https://www.thehindu.com/news/national/karnataka/bike-taxi-association-seeks-halt-to-crackdown-urges-clear-policy-framework/article71318369.ece",
+   "confidence": "MEDIUM"
+  },
+  {
+   "type": "regulatory",
+   "entity": "Karnataka Government (Supreme Court)",
+   "date": "2026-08-11",
+   "status": "allegation",
+   "description": "Karnataka submitted in SC that bike taxis are not public transport vehicles; challenged HC ruling allowing bike taxis",
+   "source_url": "https://www.thehindu.com/news/national/karnataka/bike-taxis-are-not-public-transport-vehicles-karnataka-tells-supreme-court/article71331806.ece",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "regulatory",
+   "entity": "Karnataka Government",
+   "date": "2024-03-06",
+   "status": "ruling",
+   "description": "Discontinued Electric Bike Taxi Scheme 2021; Rapido claimed order limited to electric vehicles only",
+   "source_url": "https://www.hindustantimes.com/india-news/govt-halts-e-bike-taxi-services-rapido-says-operations-will-continue-101709924654502-amp.html",
+   "confidence": "HIGH"
+  }
+ ],
+ "locations": [
+  {
+   "type": "registered_office",
+   "address_or_area": "3rd Floor, Sai Prithvi Arcade, Megha Hills, Sri Rama Colony, Madhapur",
+   "city": "Hyderabad",
+   "state": "Telangana",
+   "country": "India",
+   "as_of": "2026-09-15",
+   "source_url": "https://rapido.bike/Contact",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "hq",
+   "address_or_area": "Mantri Commercio - Spatium Tower A, Devarabeesanahalli Village, Varthur Hobli, Bangalore East Taluk",
+   "city": "Bengaluru",
+   "state": "Karnataka",
+   "country": "India",
+   "as_of": "2026-09-15",
+   "source_url": "https://rapido.bike/Contact",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "office",
+   "address_or_area": "648, 1st Main Rd, Muneswara Nagar, Sector 6, HSR Layout",
+   "city": "Bengaluru",
+   "state": "Karnataka",
+   "country": "India",
+   "as_of": "2026-09-15",
+   "source_url": "https://rapido.bike/Contact",
+   "confidence": "HIGH"
+  }
+ ],
+ "customers": [
+  {
+   "name": "Individual riders (B2C)",
+   "type": "Consumer",
+   "announced_date": null,
+   "status": "Active",
+   "source_url": "https://rapido.bike",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Ministry of Road Transport and Highways",
+   "type": "Government partnership",
+   "announced_date": "2026-06-08",
+   "status": "Active",
+   "source_url": "https://www.autocarpro.in/news/rapido-and-road-transport-ministry-partner-to-launch-nationwide-rahveer-road-safety-campaign-132993",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "National Restaurants Association of India (NRAI)",
+   "type": "Industry partnership",
+   "announced_date": "2025-09",
+   "status": "Active",
+   "source_url": "https://www.business-standard.com/companies/news/swiggy-sells-rapido-stake-2400-crore-prosus-westbridge-125092301353_1.html",
+   "confidence": "MEDIUM"
+  },
+  {
+   "name": "Swiggy (delivery partner)",
+   "type": "Business partnership",
+   "announced_date": "2022",
+   "status": "Ended (Swiggy exited Sep 2025)",
+   "source_url": "https://techcrunch.com/2025/09/23/uber-rival-rapido-doubles-valuation-to-2-3b-following-swiggy-stake-sale",
+   "confidence": "HIGH"
+  }
+ ]
+}

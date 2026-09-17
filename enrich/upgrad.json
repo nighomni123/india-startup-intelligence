@@ -1,0 +1,4529 @@
+{
+ "acquisitions": [
+  {
+   "buyer": "upGrad",
+   "confidence": "HIGH",
+   "date": "2026-09-01",
+   "direction": "made",
+   "disclosed": true,
+   "rationale": "Entry into test-prep/K-12; consolidation; Unacademy brand retained; Munjal stays CEO.",
+   "source_url": "https://techcrunch.com/2026/09/01/indias-unacademy-sells-to-rival-upgrad-for-206m-about-94-less-than-its-peak-valuation/",
+   "target": "Unacademy Group (incl. PrepLadder, Graphy, Airlearn)",
+   "value": "~$206M (INR 1,955 cr) all-stock",
+   "type": "all-stock acquisition",
+   "counterparty": "Unacademy"
+  }
+ ],
+ "canonical_key": "upgrad",
+ "company": {
+  "business_model": "Higher-ed + skilling + enterprise + study-abroad marketplace/platform",
+  "city": "Mumbai",
+  "confidence": "HIGH",
+  "country": "India",
+  "customer_type": "B2C + B2B",
+  "founded_date": "2015",
+  "last_funding_date": "2024-10",
+  "last_funding_round": "Equity ($60M Temasek)",
+  "last_known_valuation": "$2.25B (Oct 2024, Temasek round); $1.7B fair value Feb 2026 per Incwert report (ET-cited, provisional)",
+  "primary_sector": "Edtech / skilling",
+  "secondary_sectors": [
+   "Higher education",
+   "Enterprise training",
+   "Study abroad"
+  ],
+  "startup_id": "upgrad",
+  "startup_stage": "Unicorn",
+  "state": "Maharashtra",
+  "status": "Active",
+  "total_funding_disclosed": "$320M+ (VFS) / $766M (Inc42 claim — CONFLICT, see conflicts)",
+  "website": "https://www.upgrad.com",
+  "cin": "U80902MH2012PTC258559",
+  "incorporation_date": "2012-12-11",
+  "legal_name": "UpGrad Education Private Limited",
+  "official_website": {
+   "v": "https://www.upgrad.com",
+   "conf": "high",
+   "src": "https://www.upgrad.com",
+   "note": "verified live 2026-09-15: name match on own homepage"
+  },
+  "careers_website": {
+   "v": "https://www.upgrad.com/careers",
+   "conf": "high",
+   "src": "official homepage nav",
+   "note": "verified 2026-09-15"
+  },
+  "description": {
+   "v": "India's largest higher-ed upskilling platform; 10M+ learners globally; offers degree programs, certifications, corporate training, and study-abroad pathways via university partnerships (IIIT-B, LJMU, Deakin, Amity). Acquired Unacademy (Sep 2026), Internshala (Feb 2026), KnowledgeHut (Aug 2021), Global Study Partners (2021).",
+   "conf": "MEDIUM",
+   "src": "https://www.upgrad.com/about/",
+   "note": "Company-claimed; 10M+ learners per May 2026 PR",
+   "asof": "2026-09-15"
+  },
+  "employee_estimate": {
+   "v": 11544,
+   "unit": "employees",
+   "conf": "MEDIUM",
+   "src": "https://www.reveliolabs.com/companies/upgrad-education/employees",
+   "note": "Revelio Labs workforce intelligence, March 2026",
+   "asof": "2026-03"
+  },
+  "public_private": {
+   "v": "Private",
+   "conf": "HIGH",
+   "src": "https://www.upgrad.com",
+   "note": "No DRHP filed as of Sep 2026; targeting 2027 IPO",
+   "asof": "2026-09-15"
+  },
+  "hq_type": {
+   "v": "HQ",
+   "conf": "HIGH",
+   "src": "https://dealroom.co/companies/upgrad/",
+   "note": "Mumbai HQ",
+   "asof": "2026-09-15"
+  },
+  "registered_office": {
+   "v": "Mumbai, Maharashtra",
+   "conf": "HIGH",
+   "src": "https://www.zaubacorp.com/UPGRAD-EDUCATION-PRIVATE-LIMITED-U80902MH2012PTC258559",
+   "note": "MCA registered office",
+   "asof": "2026-09-15"
+  }
+ },
+ "competitors": [
+  {
+   "basis": "explicit",
+   "confidence": "MEDIUM",
+   "name": "PhysicsWallah",
+   "source_url": "https://valueforstartups.in/30-upgrad"
+  },
+  {
+   "basis": "explicit",
+   "confidence": "MEDIUM",
+   "name": "Eruditus",
+   "source_url": "https://valueforstartups.in/30-upgrad"
+  },
+  {
+   "basis": "explicit",
+   "confidence": "MEDIUM",
+   "name": "Simplilearn",
+   "source_url": "https://valueforstartups.in/30-upgrad"
+  }
+ ],
+ "completeness_self": {
+  "customers": 4,
+  "financials": 8,
+  "founders": 8,
+  "funding": 7,
+  "identity": 9,
+  "investors": 7,
+  "legal": 4,
+  "people": 5,
+  "products": 6,
+  "sources": 8,
+  "traction": 7
+ },
+ "conflicts": [
+  {
+   "claim_a": "$320M+ total raised (VFS, May 2026)",
+   "claim_b": "$766M+ raised (Inc42, Dec 2025)",
+   "field": "total_funding",
+   "resolution": "Unresolved: VFS figure aligns with $185M (2021) + $60M Temasek (2024) + smaller rounds; $766M may include debt/secondary/group entities. Keep both; prefer VFS equity figure with flag.",
+   "resolved_value": "UNKNOWN — $320M+ equity vs $766M claimed",
+   "url_a": "https://valueforstartups.in/30-upgrad",
+   "url_b": "https://inc42.com/buzz/upgrad-halves-fy25-loss-to-inr-273-7-cr-revenue-up-6/"
+  },
+  {
+   "claim_a": "$2.25B valuation Oct 2024 (Temasek)",
+   "claim_b": "$1.7B fair value Feb 28 2026 (Incwert via ET)",
+   "field": "valuation",
+   "resolution": "Newer-for-current-state: $1.7B is provisional valuation-report figure, not a priced round; last priced round remains $2.25B. Report both.",
+   "resolved_value": "Last priced $2.25B; provisional fair value $1.7B",
+   "url_a": "https://valueforstartups.in/30-upgrad",
+   "url_b": "https://economictimes.indiatimes.com/tech/startups/upgrad-value-pegged-at-1-7-billion-as-unacademy-deal-awaits-cci-assent/articleshow/131207502.cms"
+  },
+  {
+   "claim_a": "Unacademy deal $206M (TechCrunch/Screwvala)",
+   "claim_b": "Rs 2,055 cr (~$218M) (ET)",
+   "field": "unacademy_deal_value",
+   "resolution": "Same deal, INR/USD rounding + reporting time; prefer $206M (INR 1,955 cr) closing disclosure.",
+   "resolved_value": "~$206M all-stock",
+   "url_a": "https://techcrunch.com/2026/09/01/indias-unacademy-sells-to-rival-upgrad-for-206m-about-94-less-than-its-peak-valuation/",
+   "url_b": "https://economictimes.indiatimes.com/tech/startups/upgrad-value-pegged-at-1-7-billion-as-unacademy-deal-awaits-cci-assent/articleshow/131207502.cms"
+  },
+  {
+   "field": "unacademy_deal_value",
+   "claim_a": "$206M (TechCrunch/Screwvala)",
+   "url_a": "https://techcrunch.com/2026/09/01/indias-unacademy-sells-to-rival-upgrad-for-206m-about-94-less-than-its-peak-valuation/",
+   "claim_b": "Rs 2,055 cr (~$218M) (ET)",
+   "url_b": "https://economictimes.indiatimes.com/tech/startups/upgrad-value-pegged-at-1-7-billion-as-unacademy-deal-awaits-cci-assent/articleshow/131207502.cms",
+   "resolution": "Same deal, INR/USD rounding + reporting time; prefer $206M (INR 1,955 cr) closing disclosure.",
+   "resolved_value": "~$206M all-stock"
+  }
+ ],
+ "customers": [
+  {
+   "name": "LTM (Larsen & Toubro Group)",
+   "type": "B2B Enterprise",
+   "announced_date": "2026-04-06",
+   "status": "Active",
+   "source_url": "https://www.businesswireindia.com/ltm-to-offer-mit-open-learning's-universal-ai-to-its-workforce-in-cooperation-with-upgrad-enterprise-99528.html",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "HCLTech",
+   "type": "B2B Enterprise",
+   "announced_date": "2024-07-22",
+   "status": "Active",
+   "source_url": "https://www.hcltech.com/en-us/newsfeed/hcltech-and-upgrad-enterprise-partner-offer-job-aligned-skilling-programs",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "3,000+ corporate partners",
+   "type": "B2B Enterprise",
+   "announced_date": "2026-04",
+   "status": "Active",
+   "source_url": "https://www.businesswireindia.com/ltm-to-offer-mit-open-learning's-universal-ai-to-its-workforce-in-cooperation-with-upgrad-enterprise-99528.html",
+   "confidence": "MEDIUM"
+  },
+  {
+   "name": "10M+ individual learners",
+   "type": "B2C",
+   "announced_date": "2026-05",
+   "status": "Active",
+   "source_url": "https://www.einpresswire.com/article/911012624/upgrad-continues-to-redefine-career-led-online-higher-education-for-over-10-million-learners-worldwide",
+   "confidence": "MEDIUM"
+  }
+ ],
+ "events": [
+  {
+   "announced_date": "2026-03",
+   "confidence": "HIGH",
+   "date": "2026-09-01",
+   "description": "All-stock (100% share swap) acquisition of Unacademy Group (PrepLadder, Graphy, Airlearn); CCI cleared July 2026; brand retained; Munjal continues CEO.",
+   "headline": "Completed all-stock acquisition of Unacademy (~$206M)",
+   "source_url": "https://techcrunch.com/2026/09/01/indias-unacademy-sells-to-rival-upgrad-for-206m-about-94-less-than-its-peak-valuation/",
+   "type": "acquisition"
+  },
+  {
+   "announced_date": "2025-03-25",
+   "confidence": "MEDIUM",
+   "date": "2025-03-25",
+   "description": "IPO expected in ~2 years (not a countdown); credibility motive; consumer ~80% revenue; AI push, Vietnam traction.",
+   "headline": "IPO horizon signal (Forbes India interview)",
+   "source_url": "https://www.forbesindia.com/article/take-one-big-story-of-the-day/upgrads-ipo-is-on-the-horizon-can-it-unlock-its-full-potential/95634/1",
+   "type": "ipo_signal"
+  },
+  {
+   "type": "acquisition",
+   "headline": "Acquired Internshala (90% stake, stock swap)",
+   "date": "2026-02-26",
+   "description": "90% stake in Internshala via stock deal; valued at ~Rs 100 crore; cross-selling internship platform with upGrad's educational offerings.",
+   "source_url": "https://m.economictimes.com/tech/technology/edtech-firm-upgrad-acquires-skilling-firm-internshala/articleshow/128793497.cms",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "partnership",
+   "headline": "LTM partnership for MIT Open Learning Universal AI",
+   "date": "2026-04-06",
+   "description": "LTM (L&T Group) partnered with upGrad Enterprise to deliver MIT Open Learning's Universal AI program to its workforce.",
+   "source_url": "https://www.businesswireindia.com/ltm-to-offer-mit-open-learning's-universal-ai-to-its-workforce-in-cooperation-with-upgrad-enterprise-99528.html",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "ipo_signal",
+   "headline": "IPO targeting 2027",
+   "date": "2025-12-09",
+   "description": "Chairman Ronnie Screwvala stated 'We are very clear about the year 2027 for us to list.' International expansion ahead of listing.",
+   "source_url": "https://www.livemint.com/companies/upgrad-global-expansion-2027-ipo-ronnie-screwvala-11765170156236.html",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "funding",
+   "headline": "Temasek $60M investment at $2.25B valuation",
+   "date": "2024-10-21",
+   "description": "Additional $60M from Temasek maintaining $2.25B valuation; Screwvala bought Bharti's 1% stake for $20M, now owning ~45%.",
+   "source_url": "https://m.economictimes.com/tech/startups/upgrad-secures-60-million-from-temasek-at-a-flat-valuation-of-2-25-billion/articleshow/114403482.cms",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "acquisition",
+   "headline": "Acquired KnowledgeHut",
+   "date": "2021-08-03",
+   "description": "Global edtech acquisition; access to 250,000+ learner pool; operations in GCC.",
+   "source_url": "https://www.businesswire.com/news/home/20210803005463/en/upGrad-Acquires-Global-EdTech-Co.-KnowledgeHut",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "acquisition",
+   "headline": "Acquired Global Study Partners (Australia)",
+   "date": "2021-11-30",
+   "description": "First overseas deal; largest study abroad company in Australia; formed upGrad GSP.",
+   "source_url": "https://brandequity.economictimes.indiatimes.com/news/business-of-brands/upgrad-makes-first-overseas-deal-acquires-australias-global-study-partners/88004380",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "acquisition",
+   "headline": "Acquired Work Better (soft skills)",
+   "date": "2022-01-12",
+   "description": "B2B strengthening; brought 300+ corporate clients and 250+ trainers to upGrad.",
+   "source_url": "https://www.edtechreview.in/news/upgrad-acquires-soft-skills-training-startup-work-better-to-strengthen-its-b2b-offerings/",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "acquisition",
+   "headline": "Acquired Impartus (rebranded upGrad Campus)",
+   "date": "2021-05",
+   "description": "Video-enabled learning solutions provider; rebranded to upGrad Campus for HEI solutions.",
+   "source_url": "https://www.ajuniorvc.com/upgrad-higher-education-unicorn-future-eruditus-case-study-startup-india-story",
+   "confidence": "MEDIUM"
+  }
+ ],
+ "financials": [
+  {
+   "confidence": "HIGH",
+   "currency": "INR",
+   "fiscal_year": "FY25",
+   "metric": "operating revenue",
+   "source_date": "2025-12-04",
+   "source_title": "upGrad Halves FY25 Loss To INR 273.7 Cr, Revenue Up 6%",
+   "source_url": "https://inc42.com/buzz/upgrad-halves-fy25-loss-to-inr-273-7-cr-revenue-up-6/",
+   "unit": "crore",
+   "value": 1569.3,
+   "value_type": "audited"
+  },
+  {
+   "confidence": "HIGH",
+   "currency": "INR",
+   "fiscal_year": "FY25",
+   "metric": "net loss (PAT)",
+   "source_date": "2025-12-04",
+   "source_title": "upGrad Halves FY25 Loss To INR 273.7 Cr, Revenue Up 6%",
+   "source_url": "https://inc42.com/buzz/upgrad-halves-fy25-loss-to-inr-273-7-cr-revenue-up-6/",
+   "unit": "crore",
+   "value": -273.7,
+   "value_type": "audited"
+  },
+  {
+   "confidence": "MEDIUM",
+   "currency": "INR",
+   "fiscal_year": "FY25",
+   "metric": "EBITDA (Ind-AS, incl. one-offs)",
+   "source_date": "2025-11-01",
+   "source_title": "upGrad turns EBITDA positive in FY25",
+   "source_url": "https://timesofindia.indiatimes.com/business/india-business/upgrad-turns-ebitda-positive-in-fy25-ai-led-expansion-fuels-global-growth-momentum/articleshow/125014900.cms",
+   "unit": "crore",
+   "value": 15,
+   "value_type": "management"
+  },
+  {
+   "confidence": "LOW",
+   "currency": "INR",
+   "fiscal_year": "FY26",
+   "metric": "revenue (11-mo provisional, unaudited)",
+   "source_date": "2026-05",
+   "source_title": "UpGrad value pegged at $1.7 billion as Unacademy deal awaits CCI assent",
+   "source_url": "https://economictimes.indiatimes.com/tech/startups/upgrad-value-pegged-at-1-7-billion-as-unacademy-deal-awaits-cci-assent/articleshow/131207502.cms",
+   "unit": "crore",
+   "value": 1532,
+   "value_type": "management"
+  },
+  {
+   "fiscal_year": "FY25",
+   "metric": "total_revenue",
+   "value": 1569.3,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "audited",
+   "basis": "standalone",
+   "consolidated": "no",
+   "filing_date": "2025-12-04",
+   "source_url": "https://inc42.com/buzz/upgrad-halves-fy25-loss-to-inr-273-7-cr-revenue-up-6/",
+   "source_title": "upGrad Halves FY25 Loss To INR 273.7 Cr, Revenue Up 6%",
+   "confidence": "HIGH",
+   "notes": "Operating revenue; +6% YoY"
+  },
+  {
+   "fiscal_year": "FY25",
+   "metric": "net_profit",
+   "value": -273.7,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "audited",
+   "basis": "standalone",
+   "consolidated": "no",
+   "filing_date": "2025-12-04",
+   "source_url": "https://inc42.com/buzz/upgrad-halves-fy25-loss-to-inr-273-7-cr-revenue-up-6/",
+   "source_title": "upGrad Halves FY25 Loss To INR 273.7 Cr, Revenue Up 6%",
+   "confidence": "HIGH",
+   "notes": "Net loss halved YoY"
+  },
+  {
+   "fiscal_year": "FY25",
+   "metric": "EBITDA",
+   "value": 15,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "management",
+   "basis": "standalone",
+   "consolidated": "no",
+   "filing_date": "2025-11-01",
+   "source_url": "https://timesofindia.indiatimes.com/business/india-business/upgrad-turns-ebitda-positive-in-fy25-ai-led-expansion-fuels-global-growth-momentum/articleshow/125014900.cms",
+   "source_title": "upGrad turns EBITDA positive in FY25",
+   "confidence": "MEDIUM",
+   "notes": "Ind-AS incl. one-offs; first EBITDA-positive year"
+  },
+  {
+   "fiscal_year": "FY25",
+   "metric": "gross_revenue",
+   "value": 1943,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "press-quoted-filing",
+   "basis": "standalone",
+   "consolidated": "no",
+   "filing_date": "2025-11-01",
+   "source_url": "https://timesofindia.indiatimes.com/business/india-business/upgrad-turns-ebitda-positive-in-fy25-ai-led-expansion-fuels-global-growth-momentum/articleshow/125014900.cms",
+   "source_title": "upGrad turns EBITDA positive in FY25",
+   "confidence": "MEDIUM",
+   "notes": "Gross revenue; INR 556 cr deferred"
+  },
+  {
+   "fiscal_year": "FY26",
+   "metric": "revenue_11mo_provisional",
+   "value": 1532,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "management",
+   "basis": "standalone",
+   "consolidated": "no",
+   "filing_date": "2026-05",
+   "source_url": "https://economictimes.indiatimes.com/tech/startups/upgrad-value-pegged-at-1-7-billion-as-unacademy-deal-awaits-cci-assent/articleshow/131207502.cms",
+   "source_title": "UpGrad value pegged at $1.7 billion as Unacademy deal awaits CCI assent",
+   "confidence": "LOW",
+   "notes": "11-month provisional unaudited; FY26 full-year not yet available"
+  },
+  {
+   "fiscal_year": "FY26",
+   "metric": "PAT_provisional",
+   "value": 38,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "management",
+   "basis": "standalone",
+   "consolidated": "no",
+   "filing_date": "2026-05",
+   "source_url": "https://economictimes.indiatimes.com/tech/startups/upgrad-value-pegged-at-1-7-billion-as-unacademy-deal-awaits-cci-assent/articleshow/131207502.cms",
+   "source_title": "UpGrad value pegged at $1.7 billion as Unacademy deal awaits CCI assent",
+   "confidence": "LOW",
+   "notes": "Provisional PAT per ET-cited report"
+  },
+  {
+   "fiscal_year": "FY25",
+   "metric": "deferred_revenue",
+   "value": 530,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "press-quoted-filing",
+   "basis": "standalone",
+   "consolidated": "no",
+   "filing_date": "2026-03",
+   "source_url": "https://www.instagram.com/reel/DV-qkTZiNnF/",
+   "source_title": "upGrad Instagram post citing financials",
+   "confidence": "LOW",
+   "notes": "Revenue yet to be recognised in subsequent years"
+  }
+ ],
+ "founders": [
+  {
+   "background": "UTV founder (sold to Disney 2012); Unilazer Ventures",
+   "confidence": "HIGH",
+   "name": "Ronnie Screwvala",
+   "role": "Co-founder & Chairperson",
+   "source_url": "https://valueforstartups.in/30-upgrad",
+   "still_active": true,
+   "type": "founder",
+   "active": "yes",
+   "location": "Mumbai",
+   "linkedin": "https://linkedin.com/in/ronniescrewvala"
+  },
+  {
+   "background": "Exited late 2024 to found BorderPlus",
+   "confidence": "MEDIUM",
+   "name": "Mayank Kumar",
+   "role": "Co-founder",
+   "source_url": "https://inc42.com/buzz/upgrad-halves-fy25-loss-to-inr-273-7-cr-revenue-up-6/",
+   "still_active": false,
+   "type": "co-founder",
+   "active": "yes",
+   "location": "Mumbai"
+  },
+  {
+   "confidence": "MEDIUM",
+   "name": "Phalgun Kompalli",
+   "role": "Co-founder",
+   "source_url": "https://inc42.com/buzz/upgrad-halves-fy25-loss-to-inr-273-7-cr-revenue-up-6/",
+   "still_active": true,
+   "type": "co-founder",
+   "active": "yes",
+   "location": "Mumbai"
+  },
+  {
+   "background": "Left earlier; joined Climb Credit (US) as CPO",
+   "confidence": "MEDIUM",
+   "name": "Ravijot Chugh",
+   "role": "Co-founder",
+   "source_url": "https://inc42.com/buzz/upgrad-halves-fy25-loss-to-inr-273-7-cr-revenue-up-6/",
+   "still_active": false,
+   "type": "co-founder",
+   "active": "no — ex-Co-Founder"
+  },
+  {
+   "name": "Ravijot Chugh",
+   "role": "Co-founder (former)",
+   "background": "CPO at Climb Credit (US); Product Manager at Housing; Forbes 30u30",
+   "education": "B.Tech, IIT Delhi",
+   "still_active": false,
+   "source_url": "https://uk.linkedin.com/in/rjchugh",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Mayank Kumar",
+   "role": "Co-founder (former)",
+   "background": "Exited Oct 2024 to found BorderPlus",
+   "education": "Not specified in sources",
+   "still_active": false,
+   "source_url": "https://thepienews.com/co-founder-mayank-kumar-exits-day-to-day-upgrad-operations/",
+   "confidence": "HIGH"
+  }
+ ],
+ "funding_rounds": [
+  {
+   "all_investors": [
+    "Temasek and others"
+   ],
+   "amount": 185000000,
+   "announced_date": "2021-08",
+   "confidence": "MEDIUM",
+   "currency": "USD",
+   "round_date": "2021-08",
+   "round_type": "Equity",
+   "source_date": "2026-05-14",
+   "source_title": "upGrad Investor Report 2026",
+   "source_url": "https://valueforstartups.in/30-upgrad",
+   "tier": "T5",
+   "valuation": "$1.2B",
+   "valuation_type": "priced round (secondary-reported)"
+  },
+  {
+   "all_investors": [
+    "Temasek"
+   ],
+   "amount": 60000000,
+   "announced_date": "2024-10",
+   "confidence": "MEDIUM",
+   "currency": "USD",
+   "round_date": "2024-10",
+   "round_type": "Equity",
+   "source_date": "2026-05-14",
+   "source_title": "upGrad Investor Report 2026",
+   "source_url": "https://valueforstartups.in/30-upgrad",
+   "tier": "T5",
+   "valuation": "$2.25B",
+   "valuation_type": "priced round (secondary-reported)"
+  },
+  {
+   "round_type": "Equity",
+   "announced_date": "2026-02",
+   "round_date": "2026-02",
+   "amount": null,
+   "currency": "USD",
+   "valuation": null,
+   "valuation_currency": "USD",
+   "valuation_type": "all-stock acquisition (Internshala 90%)",
+   "lead_investors": [],
+   "all_investors": [],
+   "instrument": "Stock swap",
+   "purpose": "Campus-to-corporate pipeline",
+   "source_url": "https://m.economictimes.com/tech/technology/edtech-firm-upgrad-acquires-skilling-firm-internshala/articleshow/128793497.cms",
+   "source_title": "Edtech firm Upgrad acquires skilling firm Internshala",
+   "source_date": "2026-02-26",
+   "confidence": "HIGH"
+  },
+  {
+   "round_type": "Equity",
+   "announced_date": "2026-09",
+   "round_date": "2026-09",
+   "amount": 206000000,
+   "currency": "USD",
+   "valuation": null,
+   "valuation_currency": "USD",
+   "valuation_type": "all-stock acquisition (Unacademy)",
+   "lead_investors": [],
+   "all_investors": [],
+   "instrument": "All-stock (100% share swap)",
+   "purpose": "Entry into test-prep/K-12; consolidation",
+   "source_url": "https://techcrunch.com/2026/09/01/indias-unacademy-sells-to-rival-upgrad-for-206m-about-94-less-than-its-peak-valuation/",
+   "source_title": "India's Unacademy sells to rival upGrad for $206M",
+   "source_date": "2026-09-01",
+   "confidence": "HIGH"
+  }
+ ],
+ "gaps": [
+  "No DRHP filed as of Sep 2026 — IPO is guidance only; DRHP status = NOT FILED.",
+  "Primary source for $185M/$60M rounds not fetched; figures rest on secondary (VFS/Inc42).",
+  "CIN / MCA entity (upGrad Education Pvt Ltd) not verified.",
+  "Total raised conflict ($320M vs $766M) unresolved.",
+  "FY25/FY26 filing financials",
+  "round dates/valuations beyond enrich file"
+ ],
+ "hiring": [],
+ "investor_links": [
+  {
+   "confidence": "MEDIUM",
+   "first_seen": "2024-10",
+   "investor": "Temasek",
+   "investor_type": "Sovereign wealth",
+   "lead": true,
+   "rounds": [
+    "2024 equity"
+   ],
+   "source_url": "https://valueforstartups.in/30-upgrad"
+  }
+ ],
+ "investors_meta": [
+  {
+   "hq": "Singapore",
+   "india_office": true,
+   "investor": "Temasek",
+   "notes": "Largest external holder ~20.5% per Dealroom/VFS.",
+   "type": "Sovereign"
+  }
+ ],
+ "ip_tech_ai": {
+  "ai_notes": "AI-led learning stack; Rs100 cr AI incubator (Feb 2025); AI/tech portfolio key growth engine.",
+  "confidence": "MEDIUM",
+  "source_url": "https://www.forbesindia.com/article/take-one-big-story-of-the-day/upgrads-ipo-is-on-the-horizon-can-it-unlock-its-full-potential/95634/1"
+ },
+ "legal": [
+  {
+   "confidence": "HIGH",
+   "dates": "Cleared July 2026",
+   "regulator": "CCI",
+   "status": "Approved",
+   "summary": "CCI approved acquisition of shareholding in Sorting Hat Technologies (Unacademy) and merger into upGrad Education.",
+   "source_url": "https://www.fortuneindia.com/business-news/unacademy-acquired-by-upgrad-for-just-over-200-million-munjal-says-we-raised-at-a-peak-but-sold-at-a-fraction/156831",
+   "type": "notice"
+  }
+ ],
+ "locations": [
+  {
+   "as_of": "2026",
+   "city": "Mumbai",
+   "confidence": "HIGH",
+   "country": "India",
+   "source_url": "https://dealroom.co/companies/upgrad/",
+   "state": "Maharashtra",
+   "type": "HQ"
+  },
+  {
+   "type": "hq",
+   "address_or_area": "Mumbai",
+   "city": "Mumbai",
+   "state": "Maharashtra",
+   "country": "India",
+   "as_of": "2026-09-15",
+   "source_url": "https://dealroom.co/companies/upgrad/",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "registered_office",
+   "address_or_area": "MCA registered office",
+   "city": "Mumbai",
+   "state": "Maharashtra",
+   "country": "India",
+   "as_of": "2026-09-15",
+   "source_url": "https://www.zaubacorp.com/UPGRAD-EDUCATION-PRIVATE-LIMITED-U80902MH2012PTC258559",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "office",
+   "address_or_area": "Global operations (85+ countries)",
+   "city": "Multiple",
+   "state": "Multiple",
+   "country": "Multiple",
+   "as_of": "2026-09-15",
+   "source_url": "https://www.upgrad.com",
+   "confidence": "MEDIUM"
+  }
+ ],
+ "partnerships": [],
+ "people": [
+  {
+   "name": "Ronnie Screwvala",
+   "role": "Co-founder & Chairman",
+   "title": "Chairperson",
+   "current": true,
+   "since": "2015",
+   "prior_role": "UTV founder (sold to Disney 2012); Unilazer Ventures",
+   "source_url": "https://valueforstartups.in/30-upgrad",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Phalgun Kompalli",
+   "role": "Co-founder",
+   "title": "Co-Founder",
+   "current": true,
+   "since": "2015",
+   "prior_role": "Business Analyst at Opera Solutions; Principal at The Parthenon Group",
+   "education": "B.Tech Civil Engineering, IIT Delhi (2007-2011)",
+   "source_url": "https://www.crazyengineers.com",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Ravijot Chugh",
+   "role": "Co-founder (former)",
+   "title": "Co-Founder & Head of Product",
+   "current": false,
+   "since": "2015",
+   "prior_role": "CPO at Climb Credit (US); Product Manager at Housing",
+   "education": "B.Tech, IIT Delhi",
+   "source_url": "https://uk.linkedin.com/in/rjchugh",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Mayank Kumar",
+   "role": "Co-founder (former)",
+   "title": "Co-founder & MD",
+   "current": false,
+   "since": "2015",
+   "prior_role": "Exited Oct 2024 to found BorderPlus",
+   "source_url": "https://thepienews.com/co-founder-mayank-kumar-exits-day-to-day-upgrad-operations/",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Arjun Mohan",
+   "role": "Former CEO",
+   "title": "CEO",
+   "current": false,
+   "since": null,
+   "end": "2023-01",
+   "prior_role": "upGrad CEO (resigned Jan 2023); later became Byju's India CEO",
+   "source_url": "https://www.moneycontrol.com/news/business/startup/ronnie-screwvala-led-upgrad-ceo-arjun-mohan-steps-down-9841941.html",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Mukesh Mundra",
+   "role": "CFO",
+   "title": "Chief Financial Officer",
+   "current": true,
+   "since": "2026-05",
+   "prior_role": "26 years finance experience",
+   "source_url": "https://www.exchange4media.com/people-movement-news/mukesh-mundra-appointed-chief-financial-officer-at-upgrad-154952.html",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Gaurav Munjal",
+   "role": "CEO (Unacademy post-acquisition)",
+   "title": "CEO of Unacademy (now under upGrad)",
+   "current": true,
+   "since": "2026-09",
+   "prior_role": "Unacademy co-founder & CEO",
+   "source_url": "https://www.exchange4media.com/announcements-news/upgrad-to-acquire-unacademy-gaurav-munjal-to-remain-ceo-152898.html",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Gaurav Kumar",
+   "role": "Former President Strategy",
+   "title": "President – Strategy, Corporate Development & M&A",
+   "current": false,
+   "since": null,
+   "end": "2024-11",
+   "prior_role": "upGrad",
+   "source_url": "https://m.economictimes.com/tech/technology/upgrads-president-gaurav-kumar-exits-amid-leadership-exodus-and-ipo-plans/articleshow/115654403.cms",
+   "confidence": "HIGH"
+  }
+ ],
+ "products": [
+  {
+   "name": "Degree Programs (Bachelor/Master)",
+   "category": "Higher Education",
+   "description": "Online bachelor's and master's degrees in partnership with universities (IIIT-Bangalore, Liverpool John Moores, Deakin, Amity). Includes BBA, BCA, B.Tech, MBA programs.",
+   "pricing_model": "Subscription/per-program fee (Rs 32,500-285,000 range)",
+   "launch_date": null,
+   "status": "Active",
+   "source_url": "https://www.upgrad.com/degree/",
+   "confidence": "MEDIUM"
+  },
+  {
+   "name": "upGrad Enterprise",
+   "category": "B2B Corporate Training",
+   "description": "Corporate learning and workforce development arm. 3,000+ corporate partners. Offers customizable employee training, MIT Open Learning Universal AI program delivery.",
+   "pricing_model": "Enterprise contract",
+   "launch_date": "2021",
+   "status": "Active",
+   "source_url": "https://www.upgrad-enterprise.com/about-us",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "upGrad Campus",
+   "category": "Higher Ed Infrastructure",
+   "description": "Vertical offering technology and learning solutions for Higher Education Institutions. Rebranded from Impartus (acquired May 2021).",
+   "pricing_model": "B2B institutional",
+   "launch_date": "2021",
+   "status": "Active",
+   "source_url": "https://college.upgradcampus.com/",
+   "confidence": "MEDIUM"
+  },
+  {
+   "name": "upGrad GSP (Global Study Partners)",
+   "category": "Study Abroad",
+   "description": "Global education marketplace providing access, expertise and services for international education. Acquired Global Study Partners (Australia, 2021).",
+   "pricing_model": "Service fee",
+   "launch_date": "2021",
+   "status": "Active",
+   "source_url": "https://upgradgsp.com/",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "upGrad Pathway",
+   "category": "Study Abroad",
+   "description": "Program allowing learners to start online in India and flexibly choose university or switch country for on-campus graduation.",
+   "pricing_model": "Program fee",
+   "launch_date": "2021",
+   "status": "Active",
+   "source_url": "https://www.upgrad.com/study-abroad/",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "upGrad KnowledgeHut",
+   "category": "Professional Training",
+   "description": "Professional bootcamps and certification courses; global learner pool of 250,000+; operations in GCC.",
+   "pricing_model": "Course fee",
+   "launch_date": "2021-08",
+   "status": "Active",
+   "source_url": "https://www.knowledgehut.com/",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "upGrad Internshala",
+   "category": "Internship/Placement",
+   "description": "World's largest early-talent internship marketplace; 90% stake acquired Feb 2026 via stock swap; valued at ~Rs 100 crore.",
+   "pricing_model": "Platform fee",
+   "launch_date": "2026-02",
+   "status": "Active",
+   "source_url": "https://m.economictimes.com/tech/technology/edtech-firm-upgrad-acquires-skilling-firm-internshala/articleshow/128793497.cms",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "upGrad Excel / Free Courses",
+   "category": "Free Learning",
+   "description": "Free courses including Excel for Data Analysis; part of broader free course catalog on upgrad.com.",
+   "pricing_model": "Free",
+   "launch_date": null,
+   "status": "Active",
+   "source_url": "https://www.upgrad.com/free-courses/data-science/excel-for-data-analysis-course-free/",
+   "confidence": "MEDIUM"
+  }
+ ],
+ "research_log": [
+  {
+   "found": "Unacademy close confirmed: ~$206M all-stock, Sep 1 2026, CCI July, brand retained, Munjal stays.",
+   "next_action": "Done.",
+   "query": "upGrad Unacademy acquisition $206M",
+   "status": "complete",
+   "unresolved": "None."
+  },
+  {
+   "found": "FY25: op revenue Rs1,569cr (+6%), net loss Rs274cr (halved), EBITDA +Rs15cr; FY26 provisional 11-mo Rs1,532cr rev/Rs38cr PAT; $1.7B fair value vs $2.25B priced.",
+   "next_action": "Done; DRHP confirmed NOT filed (no filing source found).",
+   "query": "upGrad funding valuation DRHP revenue FY25",
+   "status": "complete",
+   "unresolved": "Total-raised conflict; primary round docs."
+  },
+  {
+   "date": "2026-09-14",
+   "query": "upGrad Education Private Limited CIN incorporation",
+   "found": "CIN U80902MH2012PTC258559, incorporated 11 Dec 2012; triple-confirmed ZaubaCorp/Tofler/Tracxn",
+   "unresolved": ""
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad products degree programs upGrad Excel international division enterprise",
+   "status": "done",
+   "found": "upGrad Enterprise (3,000+ clients), upGrad GSP, upGrad Campus, upGrad Pathway, KnowledgeHut, Internshala, degree programs with IIIT-B/LJMU/Deakin/Amity, LTM partnership",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad founders Phalgun Kompalli Ravijot Chugh CEO change 2024 2025 2026",
+   "status": "done",
+   "found": "Phalgun Kompalli (IIT Delhi, still active co-founder), Ravijot Chugh (ex-co-founder, now Neels AI), Mayank Kumar (exited Oct 2024), Arjun Mohan (ex-CEO Jan 2023), Mukesh Mundra (CFO May 2026), Screwvala is Chairman not CEO",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad learners count B2B employers customers enterprise",
+   "status": "done",
+   "found": "10M+ learners globally (May 2026), 3,000+ corporate partners, 85+ countries, ~11,544 employees (Mar 2026)",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad MCA filing Phoearn International FY25 FY26 revenue profit",
+   "status": "done",
+   "found": "UpGrad Education Pvt Ltd (CIN U80902MH2012PTC258559) is the main MCA entity; FY25 audited revenue Rs1,569cr, loss Rs274cr; FY26 provisional Rs1,532cr rev/Rs38cr PAT; Upgrade International Learning Pvt Ltd incorporated Jun 2026 (separate entity)",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad Rocket Learning acquisition IIIT-B partnership IPO plans 2025 2026",
+   "status": "done",
+   "found": "No Rocket Learning acquisition found; IIIT-B partnership confirmed for Executive Diploma programs; IPO targeting 2027 per Screwvala; Internshala (Feb 2026) and Unacademy (Sep 2026) acquisitions confirmed",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad consumer ERA complaint legal matter",
+   "status": "done",
+   "found": "Delhi High Court restrained person from defaming upGrad on social media (Jul 2025, LawChakra); no consumer/ERA matters found",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad products degree programs upGrad Excel international division enterprise",
+   "status": "done",
+   "found": "upGrad Enterprise (3,000+ clients), upGrad GSP, upGrad Campus, upGrad Pathway, KnowledgeHut, Internshala, degree programs with IIIT-B/LJMU/Deakin/Amity, LTM partnership",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad founders Phalgun Kompalli Ravijot Chugh CEO change 2024 2025 2026",
+   "status": "done",
+   "found": "Phalgun Kompalli (IIT Delhi, still active co-founder), Ravijot Chugh (ex-co-founder, now Neels AI), Mayank Kumar (exited Oct 2024), Arjun Mohan (ex-CEO Jan 2023), Mukesh Mundra (CFO May 2026), Screwvala is Chairman not CEO",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad learners count B2B employers customers enterprise",
+   "status": "done",
+   "found": "10M+ learners globally (May 2026), 3,000+ corporate partners, 85+ countries, ~11,544 employees (Mar 2026)",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad MCA filing Phoearn International FY25 FY26 revenue profit",
+   "status": "done",
+   "found": "UpGrad Education Pvt Ltd (CIN U80902MH2012PTC258559) is the main MCA entity; FY25 audited revenue Rs1,569cr, loss Rs274cr; FY26 provisional Rs1,532cr rev/Rs38cr PAT; Upgrade International Learning Pvt Ltd incorporated Jun 2026 (separate entity)",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad Rocket Learning acquisition IIIT-B partnership IPO plans 2025 2026",
+   "status": "done",
+   "found": "No Rocket Learning acquisition found; IIIT-B partnership confirmed for Executive Diploma programs; IPO targeting 2027 per Screwvala; Internshala (Feb 2026) and Unacademy (Sep 2026) acquisitions confirmed",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad consumer ERA complaint legal matter",
+   "status": "done",
+   "found": "Delhi High Court restrained person from defaming upGrad on social media (Jul 2025, LawChakra); no consumer/ERA matters found",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad products degree programs upGrad Excel international division enterprise",
+   "status": "done",
+   "found": "upGrad Enterprise (3,000+ clients), upGrad GSP, upGrad Campus, upGrad Pathway, KnowledgeHut, Internshala, degree programs with IIIT-B/LJMU/Deakin/Amity, LTM partnership",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad founders Phalgun Kompalli Ravijot Chugh CEO change 2024 2025 2026",
+   "status": "done",
+   "found": "Phalgun Kompalli (IIT Delhi, still active co-founder), Ravijot Chugh (ex-co-founder, now Neels AI), Mayank Kumar (exited Oct 2024), Arjun Mohan (ex-CEO Jan 2023), Mukesh Mundra (CFO May 2026), Screwvala is Chairman not CEO",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad learners count B2B employers customers enterprise",
+   "status": "done",
+   "found": "10M+ learners globally (May 2026), 3,000+ corporate partners, 85+ countries, ~11,544 employees (Mar 2026)",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad MCA filing Phoearn International FY25 FY26 revenue profit",
+   "status": "done",
+   "found": "UpGrad Education Pvt Ltd (CIN U80902MH2012PTC258559) is the main MCA entity; FY25 audited revenue Rs1,569cr, loss Rs274cr; FY26 provisional Rs1,532cr rev/Rs38cr PAT; Upgrade International Learning Pvt Ltd incorporated Jun 2026 (separate entity)",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad Rocket Learning acquisition IIIT-B partnership IPO plans 2025 2026",
+   "status": "done",
+   "found": "No Rocket Learning acquisition found; IIIT-B partnership confirmed for Executive Diploma programs; IPO targeting 2027 per Screwvala; Internshala (Feb 2026) and Unacademy (Sep 2026) acquisitions confirmed",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad consumer ERA complaint legal matter",
+   "status": "done",
+   "found": "Delhi High Court restrained person from defaming upGrad on social media (Jul 2025, LawChakra); no consumer/ERA matters found",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad products degree programs upGrad Excel international division enterprise",
+   "status": "done",
+   "found": "upGrad Enterprise (3,000+ clients), upGrad GSP, upGrad Campus, upGrad Pathway, KnowledgeHut, Internshala, degree programs with IIIT-B/LJMU/Deakin/Amity, LTM partnership",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad founders Phalgun Kompalli Ravijot Chugh CEO change 2024 2025 2026",
+   "status": "done",
+   "found": "Phalgun Kompalli (IIT Delhi, still active co-founder), Ravijot Chugh (ex-co-founder, now Neels AI), Mayank Kumar (exited Oct 2024), Arjun Mohan (ex-CEO Jan 2023), Mukesh Mundra (CFO May 2026), Screwvala is Chairman not CEO",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad learners count B2B employers customers enterprise",
+   "status": "done",
+   "found": "10M+ learners globally (May 2026), 3,000+ corporate partners, 85+ countries, ~11,544 employees (Mar 2026)",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad MCA filing Phoearn International FY25 FY26 revenue profit",
+   "status": "done",
+   "found": "UpGrad Education Pvt Ltd (CIN U80902MH2012PTC258559) is the main MCA entity; FY25 audited revenue Rs1,569cr, loss Rs274cr; FY26 provisional Rs1,532cr rev/Rs38cr PAT; Upgrade International Learning Pvt Ltd incorporated Jun 2026 (separate entity)",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad Rocket Learning acquisition IIIT-B partnership IPO plans 2025 2026",
+   "status": "done",
+   "found": "No Rocket Learning acquisition found; IIIT-B partnership confirmed for Executive Diploma programs; IPO targeting 2027 per Screwvala; Internshala (Feb 2026) and Unacademy (Sep 2026) acquisitions confirmed",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad consumer ERA complaint legal matter",
+   "status": "done",
+   "found": "Delhi High Court restrained person from defaming upGrad on social media (Jul 2025, LawChakra); no consumer/ERA matters found",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad products degree programs upGrad Excel international division enterprise",
+   "status": "done",
+   "found": "upGrad Enterprise (3,000+ clients), upGrad GSP, upGrad Campus, upGrad Pathway, KnowledgeHut, Internshala, degree programs with IIIT-B/LJMU/Deakin/Amity, LTM partnership",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad founders Phalgun Kompalli Ravijot Chugh CEO change 2024 2025 2026",
+   "status": "done",
+   "found": "Phalgun Kompalli (IIT Delhi, still active co-founder), Ravijot Chugh (ex-co-founder, now Neels AI), Mayank Kumar (exited Oct 2024), Arjun Mohan (ex-CEO Jan 2023), Mukesh Mundra (CFO May 2026), Screwvala is Chairman not CEO",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad learners count B2B employers customers enterprise",
+   "status": "done",
+   "found": "10M+ learners globally (May 2026), 3,000+ corporate partners, 85+ countries, ~11,544 employees (Mar 2026)",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad MCA filing Phoearn International FY25 FY26 revenue profit",
+   "status": "done",
+   "found": "UpGrad Education Pvt Ltd (CIN U80902MH2012PTC258559) is the main MCA entity; FY25 audited revenue Rs1,569cr, loss Rs274cr; FY26 provisional Rs1,532cr rev/Rs38cr PAT; Upgrade International Learning Pvt Ltd incorporated Jun 2026 (separate entity)",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad Rocket Learning acquisition IIIT-B partnership IPO plans 2025 2026",
+   "status": "done",
+   "found": "No Rocket Learning acquisition found; IIIT-B partnership confirmed for Executive Diploma programs; IPO targeting 2027 per Screwvala; Internshala (Feb 2026) and Unacademy (Sep 2026) acquisitions confirmed",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad consumer ERA complaint legal matter",
+   "status": "done",
+   "found": "Delhi High Court restrained person from defaming upGrad on social media (Jul 2025, LawChakra); no consumer/ERA matters found",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad products degree programs upGrad Excel international division enterprise",
+   "status": "done",
+   "found": "upGrad Enterprise (3,000+ clients), upGrad GSP, upGrad Campus, upGrad Pathway, KnowledgeHut, Internshala, degree programs with IIIT-B/LJMU/Deakin/Amity, LTM partnership",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad founders Phalgun Kompalli Ravijot Chugh CEO change 2024 2025 2026",
+   "status": "done",
+   "found": "Phalgun Kompalli (IIT Delhi, still active co-founder), Ravijot Chugh (ex-co-founder, now Neels AI), Mayank Kumar (exited Oct 2024), Arjun Mohan (ex-CEO Jan 2023), Mukesh Mundra (CFO May 2026), Screwvala is Chairman not CEO",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad learners count B2B employers customers enterprise",
+   "status": "done",
+   "found": "10M+ learners globally (May 2026), 3,000+ corporate partners, 85+ countries, ~11,544 employees (Mar 2026)",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad MCA filing Phoearn International FY25 FY26 revenue profit",
+   "status": "done",
+   "found": "UpGrad Education Pvt Ltd (CIN U80902MH2012PTC258559) is the main MCA entity; FY25 audited revenue Rs1,569cr, loss Rs274cr; FY26 provisional Rs1,532cr rev/Rs38cr PAT; Upgrade International Learning Pvt Ltd incorporated Jun 2026 (separate entity)",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad Rocket Learning acquisition IIIT-B partnership IPO plans 2025 2026",
+   "status": "done",
+   "found": "No Rocket Learning acquisition found; IIIT-B partnership confirmed for Executive Diploma programs; IPO targeting 2027 per Screwvala; Internshala (Feb 2026) and Unacademy (Sep 2026) acquisitions confirmed",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad consumer ERA complaint legal matter",
+   "status": "done",
+   "found": "Delhi High Court restrained person from defaming upGrad on social media (Jul 2025, LawChakra); no consumer/ERA matters found",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad products degree programs upGrad Excel international division enterprise",
+   "status": "done",
+   "found": "upGrad Enterprise (3,000+ clients), upGrad GSP, upGrad Campus, upGrad Pathway, KnowledgeHut, Internshala, degree programs with IIIT-B/LJMU/Deakin/Amity, LTM partnership",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad founders Phalgun Kompalli Ravijot Chugh CEO change 2024 2025 2026",
+   "status": "done",
+   "found": "Phalgun Kompalli (IIT Delhi, still active co-founder), Ravijot Chugh (ex-co-founder, now Neels AI), Mayank Kumar (exited Oct 2024), Arjun Mohan (ex-CEO Jan 2023), Mukesh Mundra (CFO May 2026), Screwvala is Chairman not CEO",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad learners count B2B employers customers enterprise",
+   "status": "done",
+   "found": "10M+ learners globally (May 2026), 3,000+ corporate partners, 85+ countries, ~11,544 employees (Mar 2026)",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad MCA filing Phoearn International FY25 FY26 revenue profit",
+   "status": "done",
+   "found": "UpGrad Education Pvt Ltd (CIN U80902MH2012PTC258559) is the main MCA entity; FY25 audited revenue Rs1,569cr, loss Rs274cr; FY26 provisional Rs1,532cr rev/Rs38cr PAT; Upgrade International Learning Pvt Ltd incorporated Jun 2026 (separate entity)",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad Rocket Learning acquisition IIIT-B partnership IPO plans 2025 2026",
+   "status": "done",
+   "found": "No Rocket Learning acquisition found; IIIT-B partnership confirmed for Executive Diploma programs; IPO targeting 2027 per Screwvala; Internshala (Feb 2026) and Unacademy (Sep 2026) acquisitions confirmed",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad consumer ERA complaint legal matter",
+   "status": "done",
+   "found": "Delhi High Court restrained person from defaming upGrad on social media (Jul 2025, LawChakra); no consumer/ERA matters found",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad products degree programs upGrad Excel international division enterprise",
+   "status": "done",
+   "found": "upGrad Enterprise (3,000+ clients), upGrad GSP, upGrad Campus, upGrad Pathway, KnowledgeHut, Internshala, degree programs with IIIT-B/LJMU/Deakin/Amity, LTM partnership",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad founders Phalgun Kompalli Ravijot Chugh CEO change 2024 2025 2026",
+   "status": "done",
+   "found": "Phalgun Kompalli (IIT Delhi, still active co-founder), Ravijot Chugh (ex-co-founder, now Neels AI), Mayank Kumar (exited Oct 2024), Arjun Mohan (ex-CEO Jan 2023), Mukesh Mundra (CFO May 2026), Screwvala is Chairman not CEO",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad learners count B2B employers customers enterprise",
+   "status": "done",
+   "found": "10M+ learners globally (May 2026), 3,000+ corporate partners, 85+ countries, ~11,544 employees (Mar 2026)",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad MCA filing Phoearn International FY25 FY26 revenue profit",
+   "status": "done",
+   "found": "UpGrad Education Pvt Ltd (CIN U80902MH2012PTC258559) is the main MCA entity; FY25 audited revenue Rs1,569cr, loss Rs274cr; FY26 provisional Rs1,532cr rev/Rs38cr PAT; Upgrade International Learning Pvt Ltd incorporated Jun 2026 (separate entity)",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad Rocket Learning acquisition IIIT-B partnership IPO plans 2025 2026",
+   "status": "done",
+   "found": "No Rocket Learning acquisition found; IIIT-B partnership confirmed for Executive Diploma programs; IPO targeting 2027 per Screwvala; Internshala (Feb 2026) and Unacademy (Sep 2026) acquisitions confirmed",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad consumer ERA complaint legal matter",
+   "status": "done",
+   "found": "Delhi High Court restrained person from defaming upGrad on social media (Jul 2025, LawChakra); no consumer/ERA matters found",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad products degree programs upGrad Excel international division enterprise",
+   "status": "done",
+   "found": "upGrad Enterprise (3,000+ clients), upGrad GSP, upGrad Campus, upGrad Pathway, KnowledgeHut, Internshala, degree programs with IIIT-B/LJMU/Deakin/Amity, LTM partnership",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad founders Phalgun Kompalli Ravijot Chugh CEO change 2024 2025 2026",
+   "status": "done",
+   "found": "Phalgun Kompalli (IIT Delhi, still active co-founder), Ravijot Chugh (ex-co-founder, now Neels AI), Mayank Kumar (exited Oct 2024), Arjun Mohan (ex-CEO Jan 2023), Mukesh Mundra (CFO May 2026), Screwvala is Chairman not CEO",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad learners count B2B employers customers enterprise",
+   "status": "done",
+   "found": "10M+ learners globally (May 2026), 3,000+ corporate partners, 85+ countries, ~11,544 employees (Mar 2026)",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad MCA filing Phoearn International FY25 FY26 revenue profit",
+   "status": "done",
+   "found": "UpGrad Education Pvt Ltd (CIN U80902MH2012PTC258559) is the main MCA entity; FY25 audited revenue Rs1,569cr, loss Rs274cr; FY26 provisional Rs1,532cr rev/Rs38cr PAT; Upgrade International Learning Pvt Ltd incorporated Jun 2026 (separate entity)",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad Rocket Learning acquisition IIIT-B partnership IPO plans 2025 2026",
+   "status": "done",
+   "found": "No Rocket Learning acquisition found; IIIT-B partnership confirmed for Executive Diploma programs; IPO targeting 2027 per Screwvala; Internshala (Feb 2026) and Unacademy (Sep 2026) acquisitions confirmed",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad consumer ERA complaint legal matter",
+   "status": "done",
+   "found": "Delhi High Court restrained person from defaming upGrad on social media (Jul 2025, LawChakra); no consumer/ERA matters found",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad products degree programs upGrad Excel international division enterprise",
+   "status": "done",
+   "found": "upGrad Enterprise (3,000+ clients), upGrad GSP, upGrad Campus, upGrad Pathway, KnowledgeHut, Internshala, degree programs with IIIT-B/LJMU/Deakin/Amity, LTM partnership",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad founders Phalgun Kompalli Ravijot Chugh CEO change 2024 2025 2026",
+   "status": "done",
+   "found": "Phalgun Kompalli (IIT Delhi, still active co-founder), Ravijot Chugh (ex-co-founder, now Neels AI), Mayank Kumar (exited Oct 2024), Arjun Mohan (ex-CEO Jan 2023), Mukesh Mundra (CFO May 2026), Screwvala is Chairman not CEO",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad learners count B2B employers customers enterprise",
+   "status": "done",
+   "found": "10M+ learners globally (May 2026), 3,000+ corporate partners, 85+ countries, ~11,544 employees (Mar 2026)",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad MCA filing Phoearn International FY25 FY26 revenue profit",
+   "status": "done",
+   "found": "UpGrad Education Pvt Ltd (CIN U80902MH2012PTC258559) is the main MCA entity; FY25 audited revenue Rs1,569cr, loss Rs274cr; FY26 provisional Rs1,532cr rev/Rs38cr PAT; Upgrade International Learning Pvt Ltd incorporated Jun 2026 (separate entity)",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad Rocket Learning acquisition IIIT-B partnership IPO plans 2025 2026",
+   "status": "done",
+   "found": "No Rocket Learning acquisition found; IIIT-B partnership confirmed for Executive Diploma programs; IPO targeting 2027 per Screwvala; Internshala (Feb 2026) and Unacademy (Sep 2026) acquisitions confirmed",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad consumer ERA complaint legal matter",
+   "status": "done",
+   "found": "Delhi High Court restrained person from defaming upGrad on social media (Jul 2025, LawChakra); no consumer/ERA matters found",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad products degree programs upGrad Excel international division enterprise",
+   "status": "done",
+   "found": "upGrad Enterprise (3,000+ clients), upGrad GSP, upGrad Campus, upGrad Pathway, KnowledgeHut, Internshala, degree programs with IIIT-B/LJMU/Deakin/Amity, LTM partnership",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad founders Phalgun Kompalli Ravijot Chugh CEO change 2024 2025 2026",
+   "status": "done",
+   "found": "Phalgun Kompalli (IIT Delhi, still active co-founder), Ravijot Chugh (ex-co-founder, now Neels AI), Mayank Kumar (exited Oct 2024), Arjun Mohan (ex-CEO Jan 2023), Mukesh Mundra (CFO May 2026), Screwvala is Chairman not CEO",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad learners count B2B employers customers enterprise",
+   "status": "done",
+   "found": "10M+ learners globally (May 2026), 3,000+ corporate partners, 85+ countries, ~11,544 employees (Mar 2026)",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad MCA filing Phoearn International FY25 FY26 revenue profit",
+   "status": "done",
+   "found": "UpGrad Education Pvt Ltd (CIN U80902MH2012PTC258559) is the main MCA entity; FY25 audited revenue Rs1,569cr, loss Rs274cr; FY26 provisional Rs1,532cr rev/Rs38cr PAT; Upgrade International Learning Pvt Ltd incorporated Jun 2026 (separate entity)",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad Rocket Learning acquisition IIIT-B partnership IPO plans 2025 2026",
+   "status": "done",
+   "found": "No Rocket Learning acquisition found; IIIT-B partnership confirmed for Executive Diploma programs; IPO targeting 2027 per Screwvala; Internshala (Feb 2026) and Unacademy (Sep 2026) acquisitions confirmed",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad consumer ERA complaint legal matter",
+   "status": "done",
+   "found": "Delhi High Court restrained person from defaming upGrad on social media (Jul 2025, LawChakra); no consumer/ERA matters found",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad products degree programs upGrad Excel international division enterprise",
+   "status": "done",
+   "found": "upGrad Enterprise (3,000+ clients), upGrad GSP, upGrad Campus, upGrad Pathway, KnowledgeHut, Internshala, degree programs with IIIT-B/LJMU/Deakin/Amity, LTM partnership",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad founders Phalgun Kompalli Ravijot Chugh CEO change 2024 2025 2026",
+   "status": "done",
+   "found": "Phalgun Kompalli (IIT Delhi, still active co-founder), Ravijot Chugh (ex-co-founder, now Neels AI), Mayank Kumar (exited Oct 2024), Arjun Mohan (ex-CEO Jan 2023), Mukesh Mundra (CFO May 2026), Screwvala is Chairman not CEO",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad learners count B2B employers customers enterprise",
+   "status": "done",
+   "found": "10M+ learners globally (May 2026), 3,000+ corporate partners, 85+ countries, ~11,544 employees (Mar 2026)",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad MCA filing Phoearn International FY25 FY26 revenue profit",
+   "status": "done",
+   "found": "UpGrad Education Pvt Ltd (CIN U80902MH2012PTC258559) is the main MCA entity; FY25 audited revenue Rs1,569cr, loss Rs274cr; FY26 provisional Rs1,532cr rev/Rs38cr PAT; Upgrade International Learning Pvt Ltd incorporated Jun 2026 (separate entity)",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad Rocket Learning acquisition IIIT-B partnership IPO plans 2025 2026",
+   "status": "done",
+   "found": "No Rocket Learning acquisition found; IIIT-B partnership confirmed for Executive Diploma programs; IPO targeting 2027 per Screwvala; Internshala (Feb 2026) and Unacademy (Sep 2026) acquisitions confirmed",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad consumer ERA complaint legal matter",
+   "status": "done",
+   "found": "Delhi High Court restrained person from defaming upGrad on social media (Jul 2025, LawChakra); no consumer/ERA matters found",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad products degree programs upGrad Excel international division enterprise",
+   "status": "done",
+   "found": "upGrad Enterprise (3,000+ clients), upGrad GSP, upGrad Campus, upGrad Pathway, KnowledgeHut, Internshala, degree programs with IIIT-B/LJMU/Deakin/Amity, LTM partnership",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad founders Phalgun Kompalli Ravijot Chugh CEO change 2024 2025 2026",
+   "status": "done",
+   "found": "Phalgun Kompalli (IIT Delhi, still active co-founder), Ravijot Chugh (ex-co-founder, now Neels AI), Mayank Kumar (exited Oct 2024), Arjun Mohan (ex-CEO Jan 2023), Mukesh Mundra (CFO May 2026), Screwvala is Chairman not CEO",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad learners count B2B employers customers enterprise",
+   "status": "done",
+   "found": "10M+ learners globally (May 2026), 3,000+ corporate partners, 85+ countries, ~11,544 employees (Mar 2026)",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad MCA filing Phoearn International FY25 FY26 revenue profit",
+   "status": "done",
+   "found": "UpGrad Education Pvt Ltd (CIN U80902MH2012PTC258559) is the main MCA entity; FY25 audited revenue Rs1,569cr, loss Rs274cr; FY26 provisional Rs1,532cr rev/Rs38cr PAT; Upgrade International Learning Pvt Ltd incorporated Jun 2026 (separate entity)",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad Rocket Learning acquisition IIIT-B partnership IPO plans 2025 2026",
+   "status": "done",
+   "found": "No Rocket Learning acquisition found; IIIT-B partnership confirmed for Executive Diploma programs; IPO targeting 2027 per Screwvala; Internshala (Feb 2026) and Unacademy (Sep 2026) acquisitions confirmed",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad consumer ERA complaint legal matter",
+   "status": "done",
+   "found": "Delhi High Court restrained person from defaming upGrad on social media (Jul 2025, LawChakra); no consumer/ERA matters found",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad products degree programs upGrad Excel international division enterprise",
+   "status": "done",
+   "found": "upGrad Enterprise (3,000+ clients), upGrad GSP, upGrad Campus, upGrad Pathway, KnowledgeHut, Internshala, degree programs with IIIT-B/LJMU/Deakin/Amity, LTM partnership",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad founders Phalgun Kompalli Ravijot Chugh CEO change 2024 2025 2026",
+   "status": "done",
+   "found": "Phalgun Kompalli (IIT Delhi, still active co-founder), Ravijot Chugh (ex-co-founder, now Neels AI), Mayank Kumar (exited Oct 2024), Arjun Mohan (ex-CEO Jan 2023), Mukesh Mundra (CFO May 2026), Screwvala is Chairman not CEO",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad learners count B2B employers customers enterprise",
+   "status": "done",
+   "found": "10M+ learners globally (May 2026), 3,000+ corporate partners, 85+ countries, ~11,544 employees (Mar 2026)",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad MCA filing Phoearn International FY25 FY26 revenue profit",
+   "status": "done",
+   "found": "UpGrad Education Pvt Ltd (CIN U80902MH2012PTC258559) is the main MCA entity; FY25 audited revenue Rs1,569cr, loss Rs274cr; FY26 provisional Rs1,532cr rev/Rs38cr PAT; Upgrade International Learning Pvt Ltd incorporated Jun 2026 (separate entity)",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad Rocket Learning acquisition IIIT-B partnership IPO plans 2025 2026",
+   "status": "done",
+   "found": "No Rocket Learning acquisition found; IIIT-B partnership confirmed for Executive Diploma programs; IPO targeting 2027 per Screwvala; Internshala (Feb 2026) and Unacademy (Sep 2026) acquisitions confirmed",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad consumer ERA complaint legal matter",
+   "status": "done",
+   "found": "Delhi High Court restrained person from defaming upGrad on social media (Jul 2025, LawChakra); no consumer/ERA matters found",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad products degree programs upGrad Excel international division enterprise",
+   "status": "done",
+   "found": "upGrad Enterprise (3,000+ clients), upGrad GSP, upGrad Campus, upGrad Pathway, KnowledgeHut, Internshala, degree programs with IIIT-B/LJMU/Deakin/Amity, LTM partnership",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad founders Phalgun Kompalli Ravijot Chugh CEO change 2024 2025 2026",
+   "status": "done",
+   "found": "Phalgun Kompalli (IIT Delhi, still active co-founder), Ravijot Chugh (ex-co-founder, now Neels AI), Mayank Kumar (exited Oct 2024), Arjun Mohan (ex-CEO Jan 2023), Mukesh Mundra (CFO May 2026), Screwvala is Chairman not CEO",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad learners count B2B employers customers enterprise",
+   "status": "done",
+   "found": "10M+ learners globally (May 2026), 3,000+ corporate partners, 85+ countries, ~11,544 employees (Mar 2026)",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad MCA filing Phoearn International FY25 FY26 revenue profit",
+   "status": "done",
+   "found": "UpGrad Education Pvt Ltd (CIN U80902MH2012PTC258559) is the main MCA entity; FY25 audited revenue Rs1,569cr, loss Rs274cr; FY26 provisional Rs1,532cr rev/Rs38cr PAT; Upgrade International Learning Pvt Ltd incorporated Jun 2026 (separate entity)",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad Rocket Learning acquisition IIIT-B partnership IPO plans 2025 2026",
+   "status": "done",
+   "found": "No Rocket Learning acquisition found; IIIT-B partnership confirmed for Executive Diploma programs; IPO targeting 2027 per Screwvala; Internshala (Feb 2026) and Unacademy (Sep 2026) acquisitions confirmed",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad consumer ERA complaint legal matter",
+   "status": "done",
+   "found": "Delhi High Court restrained person from defaming upGrad on social media (Jul 2025, LawChakra); no consumer/ERA matters found",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad products degree programs upGrad Excel international division enterprise",
+   "status": "done",
+   "found": "upGrad Enterprise (3,000+ clients), upGrad GSP, upGrad Campus, upGrad Pathway, KnowledgeHut, Internshala, degree programs with IIIT-B/LJMU/Deakin/Amity, LTM partnership",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad founders Phalgun Kompalli Ravijot Chugh CEO change 2024 2025 2026",
+   "status": "done",
+   "found": "Phalgun Kompalli (IIT Delhi, still active co-founder), Ravijot Chugh (ex-co-founder, now Neels AI), Mayank Kumar (exited Oct 2024), Arjun Mohan (ex-CEO Jan 2023), Mukesh Mundra (CFO May 2026), Screwvala is Chairman not CEO",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad learners count B2B employers customers enterprise",
+   "status": "done",
+   "found": "10M+ learners globally (May 2026), 3,000+ corporate partners, 85+ countries, ~11,544 employees (Mar 2026)",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad MCA filing Phoearn International FY25 FY26 revenue profit",
+   "status": "done",
+   "found": "UpGrad Education Pvt Ltd (CIN U80902MH2012PTC258559) is the main MCA entity; FY25 audited revenue Rs1,569cr, loss Rs274cr; FY26 provisional Rs1,532cr rev/Rs38cr PAT; Upgrade International Learning Pvt Ltd incorporated Jun 2026 (separate entity)",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad Rocket Learning acquisition IIIT-B partnership IPO plans 2025 2026",
+   "status": "done",
+   "found": "No Rocket Learning acquisition found; IIIT-B partnership confirmed for Executive Diploma programs; IPO targeting 2027 per Screwvala; Internshala (Feb 2026) and Unacademy (Sep 2026) acquisitions confirmed",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad consumer ERA complaint legal matter",
+   "status": "done",
+   "found": "Delhi High Court restrained person from defaming upGrad on social media (Jul 2025, LawChakra); no consumer/ERA matters found",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad products degree programs upGrad Excel international division enterprise",
+   "status": "done",
+   "found": "upGrad Enterprise (3,000+ clients), upGrad GSP, upGrad Campus, upGrad Pathway, KnowledgeHut, Internshala, degree programs with IIIT-B/LJMU/Deakin/Amity, LTM partnership",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad founders Phalgun Kompalli Ravijot Chugh CEO change 2024 2025 2026",
+   "status": "done",
+   "found": "Phalgun Kompalli (IIT Delhi, still active co-founder), Ravijot Chugh (ex-co-founder, now Neels AI), Mayank Kumar (exited Oct 2024), Arjun Mohan (ex-CEO Jan 2023), Mukesh Mundra (CFO May 2026), Screwvala is Chairman not CEO",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad learners count B2B employers customers enterprise",
+   "status": "done",
+   "found": "10M+ learners globally (May 2026), 3,000+ corporate partners, 85+ countries, ~11,544 employees (Mar 2026)",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad MCA filing Phoearn International FY25 FY26 revenue profit",
+   "status": "done",
+   "found": "UpGrad Education Pvt Ltd (CIN U80902MH2012PTC258559) is the main MCA entity; FY25 audited revenue Rs1,569cr, loss Rs274cr; FY26 provisional Rs1,532cr rev/Rs38cr PAT; Upgrade International Learning Pvt Ltd incorporated Jun 2026 (separate entity)",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad Rocket Learning acquisition IIIT-B partnership IPO plans 2025 2026",
+   "status": "done",
+   "found": "No Rocket Learning acquisition found; IIIT-B partnership confirmed for Executive Diploma programs; IPO targeting 2027 per Screwvala; Internshala (Feb 2026) and Unacademy (Sep 2026) acquisitions confirmed",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad consumer ERA complaint legal matter",
+   "status": "done",
+   "found": "Delhi High Court restrained person from defaming upGrad on social media (Jul 2025, LawChakra); no consumer/ERA matters found",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad products degree programs upGrad Excel international division enterprise",
+   "status": "done",
+   "found": "upGrad Enterprise (3,000+ clients), upGrad GSP, upGrad Campus, upGrad Pathway, KnowledgeHut, Internshala, degree programs with IIIT-B/LJMU/Deakin/Amity, LTM partnership",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad founders Phalgun Kompalli Ravijot Chugh CEO change 2024 2025 2026",
+   "status": "done",
+   "found": "Phalgun Kompalli (IIT Delhi, still active co-founder), Ravijot Chugh (ex-co-founder, now Neels AI), Mayank Kumar (exited Oct 2024), Arjun Mohan (ex-CEO Jan 2023), Mukesh Mundra (CFO May 2026), Screwvala is Chairman not CEO",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad learners count B2B employers customers enterprise",
+   "status": "done",
+   "found": "10M+ learners globally (May 2026), 3,000+ corporate partners, 85+ countries, ~11,544 employees (Mar 2026)",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad MCA filing Phoearn International FY25 FY26 revenue profit",
+   "status": "done",
+   "found": "UpGrad Education Pvt Ltd (CIN U80902MH2012PTC258559) is the main MCA entity; FY25 audited revenue Rs1,569cr, loss Rs274cr; FY26 provisional Rs1,532cr rev/Rs38cr PAT; Upgrade International Learning Pvt Ltd incorporated Jun 2026 (separate entity)",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad Rocket Learning acquisition IIIT-B partnership IPO plans 2025 2026",
+   "status": "done",
+   "found": "No Rocket Learning acquisition found; IIIT-B partnership confirmed for Executive Diploma programs; IPO targeting 2027 per Screwvala; Internshala (Feb 2026) and Unacademy (Sep 2026) acquisitions confirmed",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad consumer ERA complaint legal matter",
+   "status": "done",
+   "found": "Delhi High Court restrained person from defaming upGrad on social media (Jul 2025, LawChakra); no consumer/ERA matters found",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad products degree programs upGrad Excel international division enterprise",
+   "status": "done",
+   "found": "upGrad Enterprise (3,000+ clients), upGrad GSP, upGrad Campus, upGrad Pathway, KnowledgeHut, Internshala, degree programs with IIIT-B/LJMU/Deakin/Amity, LTM partnership",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad founders Phalgun Kompalli Ravijot Chugh CEO change 2024 2025 2026",
+   "status": "done",
+   "found": "Phalgun Kompalli (IIT Delhi, still active co-founder), Ravijot Chugh (ex-co-founder, now Neels AI), Mayank Kumar (exited Oct 2024), Arjun Mohan (ex-CEO Jan 2023), Mukesh Mundra (CFO May 2026), Screwvala is Chairman not CEO",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad learners count B2B employers customers enterprise",
+   "status": "done",
+   "found": "10M+ learners globally (May 2026), 3,000+ corporate partners, 85+ countries, ~11,544 employees (Mar 2026)",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad MCA filing Phoearn International FY25 FY26 revenue profit",
+   "status": "done",
+   "found": "UpGrad Education Pvt Ltd (CIN U80902MH2012PTC258559) is the main MCA entity; FY25 audited revenue Rs1,569cr, loss Rs274cr; FY26 provisional Rs1,532cr rev/Rs38cr PAT; Upgrade International Learning Pvt Ltd incorporated Jun 2026 (separate entity)",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad Rocket Learning acquisition IIIT-B partnership IPO plans 2025 2026",
+   "status": "done",
+   "found": "No Rocket Learning acquisition found; IIIT-B partnership confirmed for Executive Diploma programs; IPO targeting 2027 per Screwvala; Internshala (Feb 2026) and Unacademy (Sep 2026) acquisitions confirmed",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad consumer ERA complaint legal matter",
+   "status": "done",
+   "found": "Delhi High Court restrained person from defaming upGrad on social media (Jul 2025, LawChakra); no consumer/ERA matters found",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad products degree programs upGrad Excel international division enterprise",
+   "status": "done",
+   "found": "upGrad Enterprise (3,000+ clients), upGrad GSP, upGrad Campus, upGrad Pathway, KnowledgeHut, Internshala, degree programs with IIIT-B/LJMU/Deakin/Amity, LTM partnership",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad founders Phalgun Kompalli Ravijot Chugh CEO change 2024 2025 2026",
+   "status": "done",
+   "found": "Phalgun Kompalli (IIT Delhi, still active co-founder), Ravijot Chugh (ex-co-founder, now Neels AI), Mayank Kumar (exited Oct 2024), Arjun Mohan (ex-CEO Jan 2023), Mukesh Mundra (CFO May 2026), Screwvala is Chairman not CEO",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad learners count B2B employers customers enterprise",
+   "status": "done",
+   "found": "10M+ learners globally (May 2026), 3,000+ corporate partners, 85+ countries, ~11,544 employees (Mar 2026)",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad MCA filing Phoearn International FY25 FY26 revenue profit",
+   "status": "done",
+   "found": "UpGrad Education Pvt Ltd (CIN U80902MH2012PTC258559) is the main MCA entity; FY25 audited revenue Rs1,569cr, loss Rs274cr; FY26 provisional Rs1,532cr rev/Rs38cr PAT; Upgrade International Learning Pvt Ltd incorporated Jun 2026 (separate entity)",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad Rocket Learning acquisition IIIT-B partnership IPO plans 2025 2026",
+   "status": "done",
+   "found": "No Rocket Learning acquisition found; IIIT-B partnership confirmed for Executive Diploma programs; IPO targeting 2027 per Screwvala; Internshala (Feb 2026) and Unacademy (Sep 2026) acquisitions confirmed",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad consumer ERA complaint legal matter",
+   "status": "done",
+   "found": "Delhi High Court restrained person from defaming upGrad on social media (Jul 2025, LawChakra); no consumer/ERA matters found",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad products degree programs upGrad Excel international division enterprise",
+   "status": "done",
+   "found": "upGrad Enterprise (3,000+ clients), upGrad GSP, upGrad Campus, upGrad Pathway, KnowledgeHut, Internshala, degree programs with IIIT-B/LJMU/Deakin/Amity, LTM partnership",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad founders Phalgun Kompalli Ravijot Chugh CEO change 2024 2025 2026",
+   "status": "done",
+   "found": "Phalgun Kompalli (IIT Delhi, still active co-founder), Ravijot Chugh (ex-co-founder, now Neels AI), Mayank Kumar (exited Oct 2024), Arjun Mohan (ex-CEO Jan 2023), Mukesh Mundra (CFO May 2026), Screwvala is Chairman not CEO",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad learners count B2B employers customers enterprise",
+   "status": "done",
+   "found": "10M+ learners globally (May 2026), 3,000+ corporate partners, 85+ countries, ~11,544 employees (Mar 2026)",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad MCA filing Phoearn International FY25 FY26 revenue profit",
+   "status": "done",
+   "found": "UpGrad Education Pvt Ltd (CIN U80902MH2012PTC258559) is the main MCA entity; FY25 audited revenue Rs1,569cr, loss Rs274cr; FY26 provisional Rs1,532cr rev/Rs38cr PAT; Upgrade International Learning Pvt Ltd incorporated Jun 2026 (separate entity)",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad Rocket Learning acquisition IIIT-B partnership IPO plans 2025 2026",
+   "status": "done",
+   "found": "No Rocket Learning acquisition found; IIIT-B partnership confirmed for Executive Diploma programs; IPO targeting 2027 per Screwvala; Internshala (Feb 2026) and Unacademy (Sep 2026) acquisitions confirmed",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad consumer ERA complaint legal matter",
+   "status": "done",
+   "found": "Delhi High Court restrained person from defaming upGrad on social media (Jul 2025, LawChakra); no consumer/ERA matters found",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad products degree programs upGrad Excel international division enterprise",
+   "status": "done",
+   "found": "upGrad Enterprise (3,000+ clients), upGrad GSP, upGrad Campus, upGrad Pathway, KnowledgeHut, Internshala, degree programs with IIIT-B/LJMU/Deakin/Amity, LTM partnership",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad founders Phalgun Kompalli Ravijot Chugh CEO change 2024 2025 2026",
+   "status": "done",
+   "found": "Phalgun Kompalli (IIT Delhi, still active co-founder), Ravijot Chugh (ex-co-founder, now Neels AI), Mayank Kumar (exited Oct 2024), Arjun Mohan (ex-CEO Jan 2023), Mukesh Mundra (CFO May 2026), Screwvala is Chairman not CEO",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad learners count B2B employers customers enterprise",
+   "status": "done",
+   "found": "10M+ learners globally (May 2026), 3,000+ corporate partners, 85+ countries, ~11,544 employees (Mar 2026)",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad MCA filing Phoearn International FY25 FY26 revenue profit",
+   "status": "done",
+   "found": "UpGrad Education Pvt Ltd (CIN U80902MH2012PTC258559) is the main MCA entity; FY25 audited revenue Rs1,569cr, loss Rs274cr; FY26 provisional Rs1,532cr rev/Rs38cr PAT; Upgrade International Learning Pvt Ltd incorporated Jun 2026 (separate entity)",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad Rocket Learning acquisition IIIT-B partnership IPO plans 2025 2026",
+   "status": "done",
+   "found": "No Rocket Learning acquisition found; IIIT-B partnership confirmed for Executive Diploma programs; IPO targeting 2027 per Screwvala; Internshala (Feb 2026) and Unacademy (Sep 2026) acquisitions confirmed",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad consumer ERA complaint legal matter",
+   "status": "done",
+   "found": "Delhi High Court restrained person from defaming upGrad on social media (Jul 2025, LawChakra); no consumer/ERA matters found",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad products degree programs upGrad Excel international division enterprise",
+   "status": "done",
+   "found": "upGrad Enterprise (3,000+ clients), upGrad GSP, upGrad Campus, upGrad Pathway, KnowledgeHut, Internshala, degree programs with IIIT-B/LJMU/Deakin/Amity, LTM partnership",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad founders Phalgun Kompalli Ravijot Chugh CEO change 2024 2025 2026",
+   "status": "done",
+   "found": "Phalgun Kompalli (IIT Delhi, still active co-founder), Ravijot Chugh (ex-co-founder, now Neels AI), Mayank Kumar (exited Oct 2024), Arjun Mohan (ex-CEO Jan 2023), Mukesh Mundra (CFO May 2026), Screwvala is Chairman not CEO",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad learners count B2B employers customers enterprise",
+   "status": "done",
+   "found": "10M+ learners globally (May 2026), 3,000+ corporate partners, 85+ countries, ~11,544 employees (Mar 2026)",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad MCA filing Phoearn International FY25 FY26 revenue profit",
+   "status": "done",
+   "found": "UpGrad Education Pvt Ltd (CIN U80902MH2012PTC258559) is the main MCA entity; FY25 audited revenue Rs1,569cr, loss Rs274cr; FY26 provisional Rs1,532cr rev/Rs38cr PAT; Upgrade International Learning Pvt Ltd incorporated Jun 2026 (separate entity)",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad Rocket Learning acquisition IIIT-B partnership IPO plans 2025 2026",
+   "status": "done",
+   "found": "No Rocket Learning acquisition found; IIIT-B partnership confirmed for Executive Diploma programs; IPO targeting 2027 per Screwvala; Internshala (Feb 2026) and Unacademy (Sep 2026) acquisitions confirmed",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad consumer ERA complaint legal matter",
+   "status": "done",
+   "found": "Delhi High Court restrained person from defaming upGrad on social media (Jul 2025, LawChakra); no consumer/ERA matters found",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad products degree programs upGrad Excel international division enterprise",
+   "status": "done",
+   "found": "upGrad Enterprise (3,000+ clients), upGrad GSP, upGrad Campus, upGrad Pathway, KnowledgeHut, Internshala, degree programs with IIIT-B/LJMU/Deakin/Amity, LTM partnership",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad founders Phalgun Kompalli Ravijot Chugh CEO change 2024 2025 2026",
+   "status": "done",
+   "found": "Phalgun Kompalli (IIT Delhi, still active co-founder), Ravijot Chugh (ex-co-founder, now Neels AI), Mayank Kumar (exited Oct 2024), Arjun Mohan (ex-CEO Jan 2023), Mukesh Mundra (CFO May 2026), Screwvala is Chairman not CEO",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad learners count B2B employers customers enterprise",
+   "status": "done",
+   "found": "10M+ learners globally (May 2026), 3,000+ corporate partners, 85+ countries, ~11,544 employees (Mar 2026)",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad MCA filing Phoearn International FY25 FY26 revenue profit",
+   "status": "done",
+   "found": "UpGrad Education Pvt Ltd (CIN U80902MH2012PTC258559) is the main MCA entity; FY25 audited revenue Rs1,569cr, loss Rs274cr; FY26 provisional Rs1,532cr rev/Rs38cr PAT; Upgrade International Learning Pvt Ltd incorporated Jun 2026 (separate entity)",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad Rocket Learning acquisition IIIT-B partnership IPO plans 2025 2026",
+   "status": "done",
+   "found": "No Rocket Learning acquisition found; IIIT-B partnership confirmed for Executive Diploma programs; IPO targeting 2027 per Screwvala; Internshala (Feb 2026) and Unacademy (Sep 2026) acquisitions confirmed",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad consumer ERA complaint legal matter",
+   "status": "done",
+   "found": "Delhi High Court restrained person from defaming upGrad on social media (Jul 2025, LawChakra); no consumer/ERA matters found",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad products degree programs upGrad Excel international division enterprise",
+   "status": "done",
+   "found": "upGrad Enterprise (3,000+ clients), upGrad GSP, upGrad Campus, upGrad Pathway, KnowledgeHut, Internshala, degree programs with IIIT-B/LJMU/Deakin/Amity, LTM partnership",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad founders Phalgun Kompalli Ravijot Chugh CEO change 2024 2025 2026",
+   "status": "done",
+   "found": "Phalgun Kompalli (IIT Delhi, still active co-founder), Ravijot Chugh (ex-co-founder, now Neels AI), Mayank Kumar (exited Oct 2024), Arjun Mohan (ex-CEO Jan 2023), Mukesh Mundra (CFO May 2026), Screwvala is Chairman not CEO",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad learners count B2B employers customers enterprise",
+   "status": "done",
+   "found": "10M+ learners globally (May 2026), 3,000+ corporate partners, 85+ countries, ~11,544 employees (Mar 2026)",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad MCA filing Phoearn International FY25 FY26 revenue profit",
+   "status": "done",
+   "found": "UpGrad Education Pvt Ltd (CIN U80902MH2012PTC258559) is the main MCA entity; FY25 audited revenue Rs1,569cr, loss Rs274cr; FY26 provisional Rs1,532cr rev/Rs38cr PAT; Upgrade International Learning Pvt Ltd incorporated Jun 2026 (separate entity)",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad Rocket Learning acquisition IIIT-B partnership IPO plans 2025 2026",
+   "status": "done",
+   "found": "No Rocket Learning acquisition found; IIIT-B partnership confirmed for Executive Diploma programs; IPO targeting 2027 per Screwvala; Internshala (Feb 2026) and Unacademy (Sep 2026) acquisitions confirmed",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad consumer ERA complaint legal matter",
+   "status": "done",
+   "found": "Delhi High Court restrained person from defaming upGrad on social media (Jul 2025, LawChakra); no consumer/ERA matters found",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad products degree programs upGrad Excel international division enterprise",
+   "status": "done",
+   "found": "upGrad Enterprise (3,000+ clients), upGrad GSP, upGrad Campus, upGrad Pathway, KnowledgeHut, Internshala, degree programs with IIIT-B/LJMU/Deakin/Amity, LTM partnership",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad founders Phalgun Kompalli Ravijot Chugh CEO change 2024 2025 2026",
+   "status": "done",
+   "found": "Phalgun Kompalli (IIT Delhi, still active co-founder), Ravijot Chugh (ex-co-founder, now Neels AI), Mayank Kumar (exited Oct 2024), Arjun Mohan (ex-CEO Jan 2023), Mukesh Mundra (CFO May 2026), Screwvala is Chairman not CEO",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad learners count B2B employers customers enterprise",
+   "status": "done",
+   "found": "10M+ learners globally (May 2026), 3,000+ corporate partners, 85+ countries, ~11,544 employees (Mar 2026)",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad MCA filing Phoearn International FY25 FY26 revenue profit",
+   "status": "done",
+   "found": "UpGrad Education Pvt Ltd (CIN U80902MH2012PTC258559) is the main MCA entity; FY25 audited revenue Rs1,569cr, loss Rs274cr; FY26 provisional Rs1,532cr rev/Rs38cr PAT; Upgrade International Learning Pvt Ltd incorporated Jun 2026 (separate entity)",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad Rocket Learning acquisition IIIT-B partnership IPO plans 2025 2026",
+   "status": "done",
+   "found": "No Rocket Learning acquisition found; IIIT-B partnership confirmed for Executive Diploma programs; IPO targeting 2027 per Screwvala; Internshala (Feb 2026) and Unacademy (Sep 2026) acquisitions confirmed",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad consumer ERA complaint legal matter",
+   "status": "done",
+   "found": "Delhi High Court restrained person from defaming upGrad on social media (Jul 2025, LawChakra); no consumer/ERA matters found",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad products degree programs upGrad Excel international division enterprise",
+   "status": "done",
+   "found": "upGrad Enterprise (3,000+ clients), upGrad GSP, upGrad Campus, upGrad Pathway, KnowledgeHut, Internshala, degree programs with IIIT-B/LJMU/Deakin/Amity, LTM partnership",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad founders Phalgun Kompalli Ravijot Chugh CEO change 2024 2025 2026",
+   "status": "done",
+   "found": "Phalgun Kompalli (IIT Delhi, still active co-founder), Ravijot Chugh (ex-co-founder, now Neels AI), Mayank Kumar (exited Oct 2024), Arjun Mohan (ex-CEO Jan 2023), Mukesh Mundra (CFO May 2026), Screwvala is Chairman not CEO",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad learners count B2B employers customers enterprise",
+   "status": "done",
+   "found": "10M+ learners globally (May 2026), 3,000+ corporate partners, 85+ countries, ~11,544 employees (Mar 2026)",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad MCA filing Phoearn International FY25 FY26 revenue profit",
+   "status": "done",
+   "found": "UpGrad Education Pvt Ltd (CIN U80902MH2012PTC258559) is the main MCA entity; FY25 audited revenue Rs1,569cr, loss Rs274cr; FY26 provisional Rs1,532cr rev/Rs38cr PAT; Upgrade International Learning Pvt Ltd incorporated Jun 2026 (separate entity)",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad Rocket Learning acquisition IIIT-B partnership IPO plans 2025 2026",
+   "status": "done",
+   "found": "No Rocket Learning acquisition found; IIIT-B partnership confirmed for Executive Diploma programs; IPO targeting 2027 per Screwvala; Internshala (Feb 2026) and Unacademy (Sep 2026) acquisitions confirmed",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad consumer ERA complaint legal matter",
+   "status": "done",
+   "found": "Delhi High Court restrained person from defaming upGrad on social media (Jul 2025, LawChakra); no consumer/ERA matters found",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad products degree programs upGrad Excel international division enterprise",
+   "status": "done",
+   "found": "upGrad Enterprise (3,000+ clients), upGrad GSP, upGrad Campus, upGrad Pathway, KnowledgeHut, Internshala, degree programs with IIIT-B/LJMU/Deakin/Amity, LTM partnership",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad founders Phalgun Kompalli Ravijot Chugh CEO change 2024 2025 2026",
+   "status": "done",
+   "found": "Phalgun Kompalli (IIT Delhi, still active co-founder), Ravijot Chugh (ex-co-founder, now Neels AI), Mayank Kumar (exited Oct 2024), Arjun Mohan (ex-CEO Jan 2023), Mukesh Mundra (CFO May 2026), Screwvala is Chairman not CEO",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad learners count B2B employers customers enterprise",
+   "status": "done",
+   "found": "10M+ learners globally (May 2026), 3,000+ corporate partners, 85+ countries, ~11,544 employees (Mar 2026)",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad MCA filing Phoearn International FY25 FY26 revenue profit",
+   "status": "done",
+   "found": "UpGrad Education Pvt Ltd (CIN U80902MH2012PTC258559) is the main MCA entity; FY25 audited revenue Rs1,569cr, loss Rs274cr; FY26 provisional Rs1,532cr rev/Rs38cr PAT; Upgrade International Learning Pvt Ltd incorporated Jun 2026 (separate entity)",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad Rocket Learning acquisition IIIT-B partnership IPO plans 2025 2026",
+   "status": "done",
+   "found": "No Rocket Learning acquisition found; IIIT-B partnership confirmed for Executive Diploma programs; IPO targeting 2027 per Screwvala; Internshala (Feb 2026) and Unacademy (Sep 2026) acquisitions confirmed",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad consumer ERA complaint legal matter",
+   "status": "done",
+   "found": "Delhi High Court restrained person from defaming upGrad on social media (Jul 2025, LawChakra); no consumer/ERA matters found",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad products degree programs upGrad Excel international division enterprise",
+   "status": "done",
+   "found": "upGrad Enterprise (3,000+ clients), upGrad GSP, upGrad Campus, upGrad Pathway, KnowledgeHut, Internshala, degree programs with IIIT-B/LJMU/Deakin/Amity, LTM partnership",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad founders Phalgun Kompalli Ravijot Chugh CEO change 2024 2025 2026",
+   "status": "done",
+   "found": "Phalgun Kompalli (IIT Delhi, still active co-founder), Ravijot Chugh (ex-co-founder, now Neels AI), Mayank Kumar (exited Oct 2024), Arjun Mohan (ex-CEO Jan 2023), Mukesh Mundra (CFO May 2026), Screwvala is Chairman not CEO",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad learners count B2B employers customers enterprise",
+   "status": "done",
+   "found": "10M+ learners globally (May 2026), 3,000+ corporate partners, 85+ countries, ~11,544 employees (Mar 2026)",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad MCA filing Phoearn International FY25 FY26 revenue profit",
+   "status": "done",
+   "found": "UpGrad Education Pvt Ltd (CIN U80902MH2012PTC258559) is the main MCA entity; FY25 audited revenue Rs1,569cr, loss Rs274cr; FY26 provisional Rs1,532cr rev/Rs38cr PAT; Upgrade International Learning Pvt Ltd incorporated Jun 2026 (separate entity)",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad Rocket Learning acquisition IIIT-B partnership IPO plans 2025 2026",
+   "status": "done",
+   "found": "No Rocket Learning acquisition found; IIIT-B partnership confirmed for Executive Diploma programs; IPO targeting 2027 per Screwvala; Internshala (Feb 2026) and Unacademy (Sep 2026) acquisitions confirmed",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad consumer ERA complaint legal matter",
+   "status": "done",
+   "found": "Delhi High Court restrained person from defaming upGrad on social media (Jul 2025, LawChakra); no consumer/ERA matters found",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad products degree programs upGrad Excel international division enterprise",
+   "status": "done",
+   "found": "upGrad Enterprise (3,000+ clients), upGrad GSP, upGrad Campus, upGrad Pathway, KnowledgeHut, Internshala, degree programs with IIIT-B/LJMU/Deakin/Amity, LTM partnership",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad founders Phalgun Kompalli Ravijot Chugh CEO change 2024 2025 2026",
+   "status": "done",
+   "found": "Phalgun Kompalli (IIT Delhi, still active co-founder), Ravijot Chugh (ex-co-founder, now Neels AI), Mayank Kumar (exited Oct 2024), Arjun Mohan (ex-CEO Jan 2023), Mukesh Mundra (CFO May 2026), Screwvala is Chairman not CEO",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad learners count B2B employers customers enterprise",
+   "status": "done",
+   "found": "10M+ learners globally (May 2026), 3,000+ corporate partners, 85+ countries, ~11,544 employees (Mar 2026)",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad MCA filing Phoearn International FY25 FY26 revenue profit",
+   "status": "done",
+   "found": "UpGrad Education Pvt Ltd (CIN U80902MH2012PTC258559) is the main MCA entity; FY25 audited revenue Rs1,569cr, loss Rs274cr; FY26 provisional Rs1,532cr rev/Rs38cr PAT; Upgrade International Learning Pvt Ltd incorporated Jun 2026 (separate entity)",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad Rocket Learning acquisition IIIT-B partnership IPO plans 2025 2026",
+   "status": "done",
+   "found": "No Rocket Learning acquisition found; IIIT-B partnership confirmed for Executive Diploma programs; IPO targeting 2027 per Screwvala; Internshala (Feb 2026) and Unacademy (Sep 2026) acquisitions confirmed",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad consumer ERA complaint legal matter",
+   "status": "done",
+   "found": "Delhi High Court restrained person from defaming upGrad on social media (Jul 2025, LawChakra); no consumer/ERA matters found",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad products degree programs upGrad Excel international division enterprise",
+   "status": "done",
+   "found": "upGrad Enterprise (3,000+ clients), upGrad GSP, upGrad Campus, upGrad Pathway, KnowledgeHut, Internshala, degree programs with IIIT-B/LJMU/Deakin/Amity, LTM partnership",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad founders Phalgun Kompalli Ravijot Chugh CEO change 2024 2025 2026",
+   "status": "done",
+   "found": "Phalgun Kompalli (IIT Delhi, still active co-founder), Ravijot Chugh (ex-co-founder, now Neels AI), Mayank Kumar (exited Oct 2024), Arjun Mohan (ex-CEO Jan 2023), Mukesh Mundra (CFO May 2026), Screwvala is Chairman not CEO",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad learners count B2B employers customers enterprise",
+   "status": "done",
+   "found": "10M+ learners globally (May 2026), 3,000+ corporate partners, 85+ countries, ~11,544 employees (Mar 2026)",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad MCA filing Phoearn International FY25 FY26 revenue profit",
+   "status": "done",
+   "found": "UpGrad Education Pvt Ltd (CIN U80902MH2012PTC258559) is the main MCA entity; FY25 audited revenue Rs1,569cr, loss Rs274cr; FY26 provisional Rs1,532cr rev/Rs38cr PAT; Upgrade International Learning Pvt Ltd incorporated Jun 2026 (separate entity)",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad Rocket Learning acquisition IIIT-B partnership IPO plans 2025 2026",
+   "status": "done",
+   "found": "No Rocket Learning acquisition found; IIIT-B partnership confirmed for Executive Diploma programs; IPO targeting 2027 per Screwvala; Internshala (Feb 2026) and Unacademy (Sep 2026) acquisitions confirmed",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad consumer ERA complaint legal matter",
+   "status": "done",
+   "found": "Delhi High Court restrained person from defaming upGrad on social media (Jul 2025, LawChakra); no consumer/ERA matters found",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad products degree programs upGrad Excel international division enterprise",
+   "status": "done",
+   "found": "upGrad Enterprise (3,000+ clients), upGrad GSP, upGrad Campus, upGrad Pathway, KnowledgeHut, Internshala, degree programs with IIIT-B/LJMU/Deakin/Amity, LTM partnership",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad founders Phalgun Kompalli Ravijot Chugh CEO change 2024 2025 2026",
+   "status": "done",
+   "found": "Phalgun Kompalli (IIT Delhi, still active co-founder), Ravijot Chugh (ex-co-founder, now Neels AI), Mayank Kumar (exited Oct 2024), Arjun Mohan (ex-CEO Jan 2023), Mukesh Mundra (CFO May 2026), Screwvala is Chairman not CEO",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad learners count B2B employers customers enterprise",
+   "status": "done",
+   "found": "10M+ learners globally (May 2026), 3,000+ corporate partners, 85+ countries, ~11,544 employees (Mar 2026)",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad MCA filing Phoearn International FY25 FY26 revenue profit",
+   "status": "done",
+   "found": "UpGrad Education Pvt Ltd (CIN U80902MH2012PTC258559) is the main MCA entity; FY25 audited revenue Rs1,569cr, loss Rs274cr; FY26 provisional Rs1,532cr rev/Rs38cr PAT; Upgrade International Learning Pvt Ltd incorporated Jun 2026 (separate entity)",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad Rocket Learning acquisition IIIT-B partnership IPO plans 2025 2026",
+   "status": "done",
+   "found": "No Rocket Learning acquisition found; IIIT-B partnership confirmed for Executive Diploma programs; IPO targeting 2027 per Screwvala; Internshala (Feb 2026) and Unacademy (Sep 2026) acquisitions confirmed",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad consumer ERA complaint legal matter",
+   "status": "done",
+   "found": "Delhi High Court restrained person from defaming upGrad on social media (Jul 2025, LawChakra); no consumer/ERA matters found",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad products degree programs upGrad Excel international division enterprise",
+   "status": "done",
+   "found": "upGrad Enterprise (3,000+ clients), upGrad GSP, upGrad Campus, upGrad Pathway, KnowledgeHut, Internshala, degree programs with IIIT-B/LJMU/Deakin/Amity, LTM partnership",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad founders Phalgun Kompalli Ravijot Chugh CEO change 2024 2025 2026",
+   "status": "done",
+   "found": "Phalgun Kompalli (IIT Delhi, still active co-founder), Ravijot Chugh (ex-co-founder, now Neels AI), Mayank Kumar (exited Oct 2024), Arjun Mohan (ex-CEO Jan 2023), Mukesh Mundra (CFO May 2026), Screwvala is Chairman not CEO",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad learners count B2B employers customers enterprise",
+   "status": "done",
+   "found": "10M+ learners globally (May 2026), 3,000+ corporate partners, 85+ countries, ~11,544 employees (Mar 2026)",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad MCA filing Phoearn International FY25 FY26 revenue profit",
+   "status": "done",
+   "found": "UpGrad Education Pvt Ltd (CIN U80902MH2012PTC258559) is the main MCA entity; FY25 audited revenue Rs1,569cr, loss Rs274cr; FY26 provisional Rs1,532cr rev/Rs38cr PAT; Upgrade International Learning Pvt Ltd incorporated Jun 2026 (separate entity)",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad Rocket Learning acquisition IIIT-B partnership IPO plans 2025 2026",
+   "status": "done",
+   "found": "No Rocket Learning acquisition found; IIIT-B partnership confirmed for Executive Diploma programs; IPO targeting 2027 per Screwvala; Internshala (Feb 2026) and Unacademy (Sep 2026) acquisitions confirmed",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad consumer ERA complaint legal matter",
+   "status": "done",
+   "found": "Delhi High Court restrained person from defaming upGrad on social media (Jul 2025, LawChakra); no consumer/ERA matters found",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad products degree programs upGrad Excel international division enterprise",
+   "status": "done",
+   "found": "upGrad Enterprise (3,000+ clients), upGrad GSP, upGrad Campus, upGrad Pathway, KnowledgeHut, Internshala, degree programs with IIIT-B/LJMU/Deakin/Amity, LTM partnership",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad founders Phalgun Kompalli Ravijot Chugh CEO change 2024 2025 2026",
+   "status": "done",
+   "found": "Phalgun Kompalli (IIT Delhi, still active co-founder), Ravijot Chugh (ex-co-founder, now Neels AI), Mayank Kumar (exited Oct 2024), Arjun Mohan (ex-CEO Jan 2023), Mukesh Mundra (CFO May 2026), Screwvala is Chairman not CEO",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad learners count B2B employers customers enterprise",
+   "status": "done",
+   "found": "10M+ learners globally (May 2026), 3,000+ corporate partners, 85+ countries, ~11,544 employees (Mar 2026)",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad MCA filing Phoearn International FY25 FY26 revenue profit",
+   "status": "done",
+   "found": "UpGrad Education Pvt Ltd (CIN U80902MH2012PTC258559) is the main MCA entity; FY25 audited revenue Rs1,569cr, loss Rs274cr; FY26 provisional Rs1,532cr rev/Rs38cr PAT; Upgrade International Learning Pvt Ltd incorporated Jun 2026 (separate entity)",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad Rocket Learning acquisition IIIT-B partnership IPO plans 2025 2026",
+   "status": "done",
+   "found": "No Rocket Learning acquisition found; IIIT-B partnership confirmed for Executive Diploma programs; IPO targeting 2027 per Screwvala; Internshala (Feb 2026) and Unacademy (Sep 2026) acquisitions confirmed",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad consumer ERA complaint legal matter",
+   "status": "done",
+   "found": "Delhi High Court restrained person from defaming upGrad on social media (Jul 2025, LawChakra); no consumer/ERA matters found",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad products degree programs upGrad Excel international division enterprise",
+   "status": "done",
+   "found": "upGrad Enterprise (3,000+ clients), upGrad GSP, upGrad Campus, upGrad Pathway, KnowledgeHut, Internshala, degree programs with IIIT-B/LJMU/Deakin/Amity, LTM partnership",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad founders Phalgun Kompalli Ravijot Chugh CEO change 2024 2025 2026",
+   "status": "done",
+   "found": "Phalgun Kompalli (IIT Delhi, still active co-founder), Ravijot Chugh (ex-co-founder, now Neels AI), Mayank Kumar (exited Oct 2024), Arjun Mohan (ex-CEO Jan 2023), Mukesh Mundra (CFO May 2026), Screwvala is Chairman not CEO",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad learners count B2B employers customers enterprise",
+   "status": "done",
+   "found": "10M+ learners globally (May 2026), 3,000+ corporate partners, 85+ countries, ~11,544 employees (Mar 2026)",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad MCA filing Phoearn International FY25 FY26 revenue profit",
+   "status": "done",
+   "found": "UpGrad Education Pvt Ltd (CIN U80902MH2012PTC258559) is the main MCA entity; FY25 audited revenue Rs1,569cr, loss Rs274cr; FY26 provisional Rs1,532cr rev/Rs38cr PAT; Upgrade International Learning Pvt Ltd incorporated Jun 2026 (separate entity)",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad Rocket Learning acquisition IIIT-B partnership IPO plans 2025 2026",
+   "status": "done",
+   "found": "No Rocket Learning acquisition found; IIIT-B partnership confirmed for Executive Diploma programs; IPO targeting 2027 per Screwvala; Internshala (Feb 2026) and Unacademy (Sep 2026) acquisitions confirmed",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad consumer ERA complaint legal matter",
+   "status": "done",
+   "found": "Delhi High Court restrained person from defaming upGrad on social media (Jul 2025, LawChakra); no consumer/ERA matters found",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad products degree programs upGrad Excel international division enterprise",
+   "status": "done",
+   "found": "upGrad Enterprise (3,000+ clients), upGrad GSP, upGrad Campus, upGrad Pathway, KnowledgeHut, Internshala, degree programs with IIIT-B/LJMU/Deakin/Amity, LTM partnership",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad founders Phalgun Kompalli Ravijot Chugh CEO change 2024 2025 2026",
+   "status": "done",
+   "found": "Phalgun Kompalli (IIT Delhi, still active co-founder), Ravijot Chugh (ex-co-founder, now Neels AI), Mayank Kumar (exited Oct 2024), Arjun Mohan (ex-CEO Jan 2023), Mukesh Mundra (CFO May 2026), Screwvala is Chairman not CEO",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad learners count B2B employers customers enterprise",
+   "status": "done",
+   "found": "10M+ learners globally (May 2026), 3,000+ corporate partners, 85+ countries, ~11,544 employees (Mar 2026)",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad MCA filing Phoearn International FY25 FY26 revenue profit",
+   "status": "done",
+   "found": "UpGrad Education Pvt Ltd (CIN U80902MH2012PTC258559) is the main MCA entity; FY25 audited revenue Rs1,569cr, loss Rs274cr; FY26 provisional Rs1,532cr rev/Rs38cr PAT; Upgrade International Learning Pvt Ltd incorporated Jun 2026 (separate entity)",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad Rocket Learning acquisition IIIT-B partnership IPO plans 2025 2026",
+   "status": "done",
+   "found": "No Rocket Learning acquisition found; IIIT-B partnership confirmed for Executive Diploma programs; IPO targeting 2027 per Screwvala; Internshala (Feb 2026) and Unacademy (Sep 2026) acquisitions confirmed",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad consumer ERA complaint legal matter",
+   "status": "done",
+   "found": "Delhi High Court restrained person from defaming upGrad on social media (Jul 2025, LawChakra); no consumer/ERA matters found",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad products degree programs upGrad Excel international division enterprise",
+   "status": "done",
+   "found": "upGrad Enterprise (3,000+ clients), upGrad GSP, upGrad Campus, upGrad Pathway, KnowledgeHut, Internshala, degree programs with IIIT-B/LJMU/Deakin/Amity, LTM partnership",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad founders Phalgun Kompalli Ravijot Chugh CEO change 2024 2025 2026",
+   "status": "done",
+   "found": "Phalgun Kompalli (IIT Delhi, still active co-founder), Ravijot Chugh (ex-co-founder, now Neels AI), Mayank Kumar (exited Oct 2024), Arjun Mohan (ex-CEO Jan 2023), Mukesh Mundra (CFO May 2026), Screwvala is Chairman not CEO",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad learners count B2B employers customers enterprise",
+   "status": "done",
+   "found": "10M+ learners globally (May 2026), 3,000+ corporate partners, 85+ countries, ~11,544 employees (Mar 2026)",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad MCA filing Phoearn International FY25 FY26 revenue profit",
+   "status": "done",
+   "found": "UpGrad Education Pvt Ltd (CIN U80902MH2012PTC258559) is the main MCA entity; FY25 audited revenue Rs1,569cr, loss Rs274cr; FY26 provisional Rs1,532cr rev/Rs38cr PAT; Upgrade International Learning Pvt Ltd incorporated Jun 2026 (separate entity)",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad Rocket Learning acquisition IIIT-B partnership IPO plans 2025 2026",
+   "status": "done",
+   "found": "No Rocket Learning acquisition found; IIIT-B partnership confirmed for Executive Diploma programs; IPO targeting 2027 per Screwvala; Internshala (Feb 2026) and Unacademy (Sep 2026) acquisitions confirmed",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad consumer ERA complaint legal matter",
+   "status": "done",
+   "found": "Delhi High Court restrained person from defaming upGrad on social media (Jul 2025, LawChakra); no consumer/ERA matters found",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad products degree programs upGrad Excel international division enterprise",
+   "status": "done",
+   "found": "upGrad Enterprise (3,000+ clients), upGrad GSP, upGrad Campus, upGrad Pathway, KnowledgeHut, Internshala, degree programs with IIIT-B/LJMU/Deakin/Amity, LTM partnership",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad founders Phalgun Kompalli Ravijot Chugh CEO change 2024 2025 2026",
+   "status": "done",
+   "found": "Phalgun Kompalli (IIT Delhi, still active co-founder), Ravijot Chugh (ex-co-founder, now Neels AI), Mayank Kumar (exited Oct 2024), Arjun Mohan (ex-CEO Jan 2023), Mukesh Mundra (CFO May 2026), Screwvala is Chairman not CEO",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad learners count B2B employers customers enterprise",
+   "status": "done",
+   "found": "10M+ learners globally (May 2026), 3,000+ corporate partners, 85+ countries, ~11,544 employees (Mar 2026)",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad MCA filing Phoearn International FY25 FY26 revenue profit",
+   "status": "done",
+   "found": "UpGrad Education Pvt Ltd (CIN U80902MH2012PTC258559) is the main MCA entity; FY25 audited revenue Rs1,569cr, loss Rs274cr; FY26 provisional Rs1,532cr rev/Rs38cr PAT; Upgrade International Learning Pvt Ltd incorporated Jun 2026 (separate entity)",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad Rocket Learning acquisition IIIT-B partnership IPO plans 2025 2026",
+   "status": "done",
+   "found": "No Rocket Learning acquisition found; IIIT-B partnership confirmed for Executive Diploma programs; IPO targeting 2027 per Screwvala; Internshala (Feb 2026) and Unacademy (Sep 2026) acquisitions confirmed",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad consumer ERA complaint legal matter",
+   "status": "done",
+   "found": "Delhi High Court restrained person from defaming upGrad on social media (Jul 2025, LawChakra); no consumer/ERA matters found",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad products degree programs upGrad Excel international division enterprise",
+   "status": "done",
+   "found": "upGrad Enterprise (3,000+ clients), upGrad GSP, upGrad Campus, upGrad Pathway, KnowledgeHut, Internshala, degree programs with IIIT-B/LJMU/Deakin/Amity, LTM partnership",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad founders Phalgun Kompalli Ravijot Chugh CEO change 2024 2025 2026",
+   "status": "done",
+   "found": "Phalgun Kompalli (IIT Delhi, still active co-founder), Ravijot Chugh (ex-co-founder, now Neels AI), Mayank Kumar (exited Oct 2024), Arjun Mohan (ex-CEO Jan 2023), Mukesh Mundra (CFO May 2026), Screwvala is Chairman not CEO",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad learners count B2B employers customers enterprise",
+   "status": "done",
+   "found": "10M+ learners globally (May 2026), 3,000+ corporate partners, 85+ countries, ~11,544 employees (Mar 2026)",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad MCA filing Phoearn International FY25 FY26 revenue profit",
+   "status": "done",
+   "found": "UpGrad Education Pvt Ltd (CIN U80902MH2012PTC258559) is the main MCA entity; FY25 audited revenue Rs1,569cr, loss Rs274cr; FY26 provisional Rs1,532cr rev/Rs38cr PAT; Upgrade International Learning Pvt Ltd incorporated Jun 2026 (separate entity)",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad Rocket Learning acquisition IIIT-B partnership IPO plans 2025 2026",
+   "status": "done",
+   "found": "No Rocket Learning acquisition found; IIIT-B partnership confirmed for Executive Diploma programs; IPO targeting 2027 per Screwvala; Internshala (Feb 2026) and Unacademy (Sep 2026) acquisitions confirmed",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad consumer ERA complaint legal matter",
+   "status": "done",
+   "found": "Delhi High Court restrained person from defaming upGrad on social media (Jul 2025, LawChakra); no consumer/ERA matters found",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad products degree programs upGrad Excel international division enterprise",
+   "status": "done",
+   "found": "upGrad Enterprise (3,000+ clients), upGrad GSP, upGrad Campus, upGrad Pathway, KnowledgeHut, Internshala, degree programs with IIIT-B/LJMU/Deakin/Amity, LTM partnership",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad founders Phalgun Kompalli Ravijot Chugh CEO change 2024 2025 2026",
+   "status": "done",
+   "found": "Phalgun Kompalli (IIT Delhi, still active co-founder), Ravijot Chugh (ex-co-founder, now Neels AI), Mayank Kumar (exited Oct 2024), Arjun Mohan (ex-CEO Jan 2023), Mukesh Mundra (CFO May 2026), Screwvala is Chairman not CEO",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad learners count B2B employers customers enterprise",
+   "status": "done",
+   "found": "10M+ learners globally (May 2026), 3,000+ corporate partners, 85+ countries, ~11,544 employees (Mar 2026)",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad MCA filing Phoearn International FY25 FY26 revenue profit",
+   "status": "done",
+   "found": "UpGrad Education Pvt Ltd (CIN U80902MH2012PTC258559) is the main MCA entity; FY25 audited revenue Rs1,569cr, loss Rs274cr; FY26 provisional Rs1,532cr rev/Rs38cr PAT; Upgrade International Learning Pvt Ltd incorporated Jun 2026 (separate entity)",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad Rocket Learning acquisition IIIT-B partnership IPO plans 2025 2026",
+   "status": "done",
+   "found": "No Rocket Learning acquisition found; IIIT-B partnership confirmed for Executive Diploma programs; IPO targeting 2027 per Screwvala; Internshala (Feb 2026) and Unacademy (Sep 2026) acquisitions confirmed",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad consumer ERA complaint legal matter",
+   "status": "done",
+   "found": "Delhi High Court restrained person from defaming upGrad on social media (Jul 2025, LawChakra); no consumer/ERA matters found",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad products degree programs upGrad Excel international division enterprise",
+   "status": "done",
+   "found": "upGrad Enterprise (3,000+ clients), upGrad GSP, upGrad Campus, upGrad Pathway, KnowledgeHut, Internshala, degree programs with IIIT-B/LJMU/Deakin/Amity, LTM partnership",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad founders Phalgun Kompalli Ravijot Chugh CEO change 2024 2025 2026",
+   "status": "done",
+   "found": "Phalgun Kompalli (IIT Delhi, still active co-founder), Ravijot Chugh (ex-co-founder, now Neels AI), Mayank Kumar (exited Oct 2024), Arjun Mohan (ex-CEO Jan 2023), Mukesh Mundra (CFO May 2026), Screwvala is Chairman not CEO",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad learners count B2B employers customers enterprise",
+   "status": "done",
+   "found": "10M+ learners globally (May 2026), 3,000+ corporate partners, 85+ countries, ~11,544 employees (Mar 2026)",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad MCA filing Phoearn International FY25 FY26 revenue profit",
+   "status": "done",
+   "found": "UpGrad Education Pvt Ltd (CIN U80902MH2012PTC258559) is the main MCA entity; FY25 audited revenue Rs1,569cr, loss Rs274cr; FY26 provisional Rs1,532cr rev/Rs38cr PAT; Upgrade International Learning Pvt Ltd incorporated Jun 2026 (separate entity)",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad Rocket Learning acquisition IIIT-B partnership IPO plans 2025 2026",
+   "status": "done",
+   "found": "No Rocket Learning acquisition found; IIIT-B partnership confirmed for Executive Diploma programs; IPO targeting 2027 per Screwvala; Internshala (Feb 2026) and Unacademy (Sep 2026) acquisitions confirmed",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad consumer ERA complaint legal matter",
+   "status": "done",
+   "found": "Delhi High Court restrained person from defaming upGrad on social media (Jul 2025, LawChakra); no consumer/ERA matters found",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad products degree programs upGrad Excel international division enterprise",
+   "status": "done",
+   "found": "upGrad Enterprise (3,000+ clients), upGrad GSP, upGrad Campus, upGrad Pathway, KnowledgeHut, Internshala, degree programs with IIIT-B/LJMU/Deakin/Amity, LTM partnership",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad founders Phalgun Kompalli Ravijot Chugh CEO change 2024 2025 2026",
+   "status": "done",
+   "found": "Phalgun Kompalli (IIT Delhi, still active co-founder), Ravijot Chugh (ex-co-founder, now Neels AI), Mayank Kumar (exited Oct 2024), Arjun Mohan (ex-CEO Jan 2023), Mukesh Mundra (CFO May 2026), Screwvala is Chairman not CEO",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad learners count B2B employers customers enterprise",
+   "status": "done",
+   "found": "10M+ learners globally (May 2026), 3,000+ corporate partners, 85+ countries, ~11,544 employees (Mar 2026)",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad MCA filing Phoearn International FY25 FY26 revenue profit",
+   "status": "done",
+   "found": "UpGrad Education Pvt Ltd (CIN U80902MH2012PTC258559) is the main MCA entity; FY25 audited revenue Rs1,569cr, loss Rs274cr; FY26 provisional Rs1,532cr rev/Rs38cr PAT; Upgrade International Learning Pvt Ltd incorporated Jun 2026 (separate entity)",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad Rocket Learning acquisition IIIT-B partnership IPO plans 2025 2026",
+   "status": "done",
+   "found": "No Rocket Learning acquisition found; IIIT-B partnership confirmed for Executive Diploma programs; IPO targeting 2027 per Screwvala; Internshala (Feb 2026) and Unacademy (Sep 2026) acquisitions confirmed",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad consumer ERA complaint legal matter",
+   "status": "done",
+   "found": "Delhi High Court restrained person from defaming upGrad on social media (Jul 2025, LawChakra); no consumer/ERA matters found",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad products degree programs upGrad Excel international division enterprise",
+   "status": "done",
+   "found": "upGrad Enterprise (3,000+ clients), upGrad GSP, upGrad Campus, upGrad Pathway, KnowledgeHut, Internshala, degree programs with IIIT-B/LJMU/Deakin/Amity, LTM partnership",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad founders Phalgun Kompalli Ravijot Chugh CEO change 2024 2025 2026",
+   "status": "done",
+   "found": "Phalgun Kompalli (IIT Delhi, still active co-founder), Ravijot Chugh (ex-co-founder, now Neels AI), Mayank Kumar (exited Oct 2024), Arjun Mohan (ex-CEO Jan 2023), Mukesh Mundra (CFO May 2026), Screwvala is Chairman not CEO",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad learners count B2B employers customers enterprise",
+   "status": "done",
+   "found": "10M+ learners globally (May 2026), 3,000+ corporate partners, 85+ countries, ~11,544 employees (Mar 2026)",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad MCA filing Phoearn International FY25 FY26 revenue profit",
+   "status": "done",
+   "found": "UpGrad Education Pvt Ltd (CIN U80902MH2012PTC258559) is the main MCA entity; FY25 audited revenue Rs1,569cr, loss Rs274cr; FY26 provisional Rs1,532cr rev/Rs38cr PAT; Upgrade International Learning Pvt Ltd incorporated Jun 2026 (separate entity)",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad Rocket Learning acquisition IIIT-B partnership IPO plans 2025 2026",
+   "status": "done",
+   "found": "No Rocket Learning acquisition found; IIIT-B partnership confirmed for Executive Diploma programs; IPO targeting 2027 per Screwvala; Internshala (Feb 2026) and Unacademy (Sep 2026) acquisitions confirmed",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad consumer ERA complaint legal matter",
+   "status": "done",
+   "found": "Delhi High Court restrained person from defaming upGrad on social media (Jul 2025, LawChakra); no consumer/ERA matters found",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad products degree programs upGrad Excel international division enterprise",
+   "status": "done",
+   "found": "upGrad Enterprise (3,000+ clients), upGrad GSP, upGrad Campus, upGrad Pathway, KnowledgeHut, Internshala, degree programs with IIIT-B/LJMU/Deakin/Amity, LTM partnership",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad founders Phalgun Kompalli Ravijot Chugh CEO change 2024 2025 2026",
+   "status": "done",
+   "found": "Phalgun Kompalli (IIT Delhi, still active co-founder), Ravijot Chugh (ex-co-founder, now Neels AI), Mayank Kumar (exited Oct 2024), Arjun Mohan (ex-CEO Jan 2023), Mukesh Mundra (CFO May 2026), Screwvala is Chairman not CEO",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad learners count B2B employers customers enterprise",
+   "status": "done",
+   "found": "10M+ learners globally (May 2026), 3,000+ corporate partners, 85+ countries, ~11,544 employees (Mar 2026)",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad MCA filing Phoearn International FY25 FY26 revenue profit",
+   "status": "done",
+   "found": "UpGrad Education Pvt Ltd (CIN U80902MH2012PTC258559) is the main MCA entity; FY25 audited revenue Rs1,569cr, loss Rs274cr; FY26 provisional Rs1,532cr rev/Rs38cr PAT; Upgrade International Learning Pvt Ltd incorporated Jun 2026 (separate entity)",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad Rocket Learning acquisition IIIT-B partnership IPO plans 2025 2026",
+   "status": "done",
+   "found": "No Rocket Learning acquisition found; IIIT-B partnership confirmed for Executive Diploma programs; IPO targeting 2027 per Screwvala; Internshala (Feb 2026) and Unacademy (Sep 2026) acquisitions confirmed",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad consumer ERA complaint legal matter",
+   "status": "done",
+   "found": "Delhi High Court restrained person from defaming upGrad on social media (Jul 2025, LawChakra); no consumer/ERA matters found",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad products degree programs upGrad Excel international division enterprise",
+   "status": "done",
+   "found": "upGrad Enterprise (3,000+ clients), upGrad GSP, upGrad Campus, upGrad Pathway, KnowledgeHut, Internshala, degree programs with IIIT-B/LJMU/Deakin/Amity, LTM partnership",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad founders Phalgun Kompalli Ravijot Chugh CEO change 2024 2025 2026",
+   "status": "done",
+   "found": "Phalgun Kompalli (IIT Delhi, still active co-founder), Ravijot Chugh (ex-co-founder, now Neels AI), Mayank Kumar (exited Oct 2024), Arjun Mohan (ex-CEO Jan 2023), Mukesh Mundra (CFO May 2026), Screwvala is Chairman not CEO",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad learners count B2B employers customers enterprise",
+   "status": "done",
+   "found": "10M+ learners globally (May 2026), 3,000+ corporate partners, 85+ countries, ~11,544 employees (Mar 2026)",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad MCA filing Phoearn International FY25 FY26 revenue profit",
+   "status": "done",
+   "found": "UpGrad Education Pvt Ltd (CIN U80902MH2012PTC258559) is the main MCA entity; FY25 audited revenue Rs1,569cr, loss Rs274cr; FY26 provisional Rs1,532cr rev/Rs38cr PAT; Upgrade International Learning Pvt Ltd incorporated Jun 2026 (separate entity)",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad Rocket Learning acquisition IIIT-B partnership IPO plans 2025 2026",
+   "status": "done",
+   "found": "No Rocket Learning acquisition found; IIIT-B partnership confirmed for Executive Diploma programs; IPO targeting 2027 per Screwvala; Internshala (Feb 2026) and Unacademy (Sep 2026) acquisitions confirmed",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad consumer ERA complaint legal matter",
+   "status": "done",
+   "found": "Delhi High Court restrained person from defaming upGrad on social media (Jul 2025, LawChakra); no consumer/ERA matters found",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad products degree programs upGrad Excel international division enterprise",
+   "status": "done",
+   "found": "upGrad Enterprise (3,000+ clients), upGrad GSP, upGrad Campus, upGrad Pathway, KnowledgeHut, Internshala, degree programs with IIIT-B/LJMU/Deakin/Amity, LTM partnership",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad founders Phalgun Kompalli Ravijot Chugh CEO change 2024 2025 2026",
+   "status": "done",
+   "found": "Phalgun Kompalli (IIT Delhi, still active co-founder), Ravijot Chugh (ex-co-founder, now Neels AI), Mayank Kumar (exited Oct 2024), Arjun Mohan (ex-CEO Jan 2023), Mukesh Mundra (CFO May 2026), Screwvala is Chairman not CEO",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad learners count B2B employers customers enterprise",
+   "status": "done",
+   "found": "10M+ learners globally (May 2026), 3,000+ corporate partners, 85+ countries, ~11,544 employees (Mar 2026)",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad MCA filing Phoearn International FY25 FY26 revenue profit",
+   "status": "done",
+   "found": "UpGrad Education Pvt Ltd (CIN U80902MH2012PTC258559) is the main MCA entity; FY25 audited revenue Rs1,569cr, loss Rs274cr; FY26 provisional Rs1,532cr rev/Rs38cr PAT; Upgrade International Learning Pvt Ltd incorporated Jun 2026 (separate entity)",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad Rocket Learning acquisition IIIT-B partnership IPO plans 2025 2026",
+   "status": "done",
+   "found": "No Rocket Learning acquisition found; IIIT-B partnership confirmed for Executive Diploma programs; IPO targeting 2027 per Screwvala; Internshala (Feb 2026) and Unacademy (Sep 2026) acquisitions confirmed",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad consumer ERA complaint legal matter",
+   "status": "done",
+   "found": "Delhi High Court restrained person from defaming upGrad on social media (Jul 2025, LawChakra); no consumer/ERA matters found",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad products degree programs upGrad Excel international division enterprise",
+   "status": "done",
+   "found": "upGrad Enterprise (3,000+ clients), upGrad GSP, upGrad Campus, upGrad Pathway, KnowledgeHut, Internshala, degree programs with IIIT-B/LJMU/Deakin/Amity, LTM partnership",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad founders Phalgun Kompalli Ravijot Chugh CEO change 2024 2025 2026",
+   "status": "done",
+   "found": "Phalgun Kompalli (IIT Delhi, still active co-founder), Ravijot Chugh (ex-co-founder, now Neels AI), Mayank Kumar (exited Oct 2024), Arjun Mohan (ex-CEO Jan 2023), Mukesh Mundra (CFO May 2026), Screwvala is Chairman not CEO",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad learners count B2B employers customers enterprise",
+   "status": "done",
+   "found": "10M+ learners globally (May 2026), 3,000+ corporate partners, 85+ countries, ~11,544 employees (Mar 2026)",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad MCA filing Phoearn International FY25 FY26 revenue profit",
+   "status": "done",
+   "found": "UpGrad Education Pvt Ltd (CIN U80902MH2012PTC258559) is the main MCA entity; FY25 audited revenue Rs1,569cr, loss Rs274cr; FY26 provisional Rs1,532cr rev/Rs38cr PAT; Upgrade International Learning Pvt Ltd incorporated Jun 2026 (separate entity)",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad Rocket Learning acquisition IIIT-B partnership IPO plans 2025 2026",
+   "status": "done",
+   "found": "No Rocket Learning acquisition found; IIIT-B partnership confirmed for Executive Diploma programs; IPO targeting 2027 per Screwvala; Internshala (Feb 2026) and Unacademy (Sep 2026) acquisitions confirmed",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad consumer ERA complaint legal matter",
+   "status": "done",
+   "found": "Delhi High Court restrained person from defaming upGrad on social media (Jul 2025, LawChakra); no consumer/ERA matters found",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad products degree programs upGrad Excel international division enterprise",
+   "status": "done",
+   "found": "upGrad Enterprise (3,000+ clients), upGrad GSP, upGrad Campus, upGrad Pathway, KnowledgeHut, Internshala, degree programs with IIIT-B/LJMU/Deakin/Amity, LTM partnership",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad founders Phalgun Kompalli Ravijot Chugh CEO change 2024 2025 2026",
+   "status": "done",
+   "found": "Phalgun Kompalli (IIT Delhi, still active co-founder), Ravijot Chugh (ex-co-founder, now Neels AI), Mayank Kumar (exited Oct 2024), Arjun Mohan (ex-CEO Jan 2023), Mukesh Mundra (CFO May 2026), Screwvala is Chairman not CEO",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad learners count B2B employers customers enterprise",
+   "status": "done",
+   "found": "10M+ learners globally (May 2026), 3,000+ corporate partners, 85+ countries, ~11,544 employees (Mar 2026)",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad MCA filing Phoearn International FY25 FY26 revenue profit",
+   "status": "done",
+   "found": "UpGrad Education Pvt Ltd (CIN U80902MH2012PTC258559) is the main MCA entity; FY25 audited revenue Rs1,569cr, loss Rs274cr; FY26 provisional Rs1,532cr rev/Rs38cr PAT; Upgrade International Learning Pvt Ltd incorporated Jun 2026 (separate entity)",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad Rocket Learning acquisition IIIT-B partnership IPO plans 2025 2026",
+   "status": "done",
+   "found": "No Rocket Learning acquisition found; IIIT-B partnership confirmed for Executive Diploma programs; IPO targeting 2027 per Screwvala; Internshala (Feb 2026) and Unacademy (Sep 2026) acquisitions confirmed",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad consumer ERA complaint legal matter",
+   "status": "done",
+   "found": "Delhi High Court restrained person from defaming upGrad on social media (Jul 2025, LawChakra); no consumer/ERA matters found",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad products degree programs upGrad Excel international division enterprise",
+   "status": "done",
+   "found": "upGrad Enterprise (3,000+ clients), upGrad GSP, upGrad Campus, upGrad Pathway, KnowledgeHut, Internshala, degree programs with IIIT-B/LJMU/Deakin/Amity, LTM partnership",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad founders Phalgun Kompalli Ravijot Chugh CEO change 2024 2025 2026",
+   "status": "done",
+   "found": "Phalgun Kompalli (IIT Delhi, still active co-founder), Ravijot Chugh (ex-co-founder, now Neels AI), Mayank Kumar (exited Oct 2024), Arjun Mohan (ex-CEO Jan 2023), Mukesh Mundra (CFO May 2026), Screwvala is Chairman not CEO",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad learners count B2B employers customers enterprise",
+   "status": "done",
+   "found": "10M+ learners globally (May 2026), 3,000+ corporate partners, 85+ countries, ~11,544 employees (Mar 2026)",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad MCA filing Phoearn International FY25 FY26 revenue profit",
+   "status": "done",
+   "found": "UpGrad Education Pvt Ltd (CIN U80902MH2012PTC258559) is the main MCA entity; FY25 audited revenue Rs1,569cr, loss Rs274cr; FY26 provisional Rs1,532cr rev/Rs38cr PAT; Upgrade International Learning Pvt Ltd incorporated Jun 2026 (separate entity)",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad Rocket Learning acquisition IIIT-B partnership IPO plans 2025 2026",
+   "status": "done",
+   "found": "No Rocket Learning acquisition found; IIIT-B partnership confirmed for Executive Diploma programs; IPO targeting 2027 per Screwvala; Internshala (Feb 2026) and Unacademy (Sep 2026) acquisitions confirmed",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad consumer ERA complaint legal matter",
+   "status": "done",
+   "found": "Delhi High Court restrained person from defaming upGrad on social media (Jul 2025, LawChakra); no consumer/ERA matters found",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "4 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad products degree programs upGrad Excel international division enterprise",
+   "status": "done",
+   "found": "upGrad Enterprise (3,000+ clients), upGrad GSP, upGrad Campus, upGrad Pathway, KnowledgeHut, Internshala, degree programs with IIIT-B/LJMU/Deakin/Amity, LTM partnership",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad founders Phalgun Kompalli Ravijot Chugh CEO change 2024 2025 2026",
+   "status": "done",
+   "found": "Phalgun Kompalli (IIT Delhi, still active co-founder), Ravijot Chugh (ex-co-founder, now Neels AI), Mayank Kumar (exited Oct 2024), Arjun Mohan (ex-CEO Jan 2023), Mukesh Mundra (CFO May 2026), Screwvala is Chairman not CEO",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad learners count B2B employers customers enterprise",
+   "status": "done",
+   "found": "10M+ learners globally (May 2026), 3,000+ corporate partners, 85+ countries, ~11,544 employees (Mar 2026)",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad MCA filing Phoearn International FY25 FY26 revenue profit",
+   "status": "done",
+   "found": "UpGrad Education Pvt Ltd (CIN U80902MH2012PTC258559) is the main MCA entity; FY25 audited revenue Rs1,569cr, loss Rs274cr; FY26 provisional Rs1,532cr rev/Rs38cr PAT; Upgrade International Learning Pvt Ltd incorporated Jun 2026 (separate entity)",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad Rocket Learning acquisition IIIT-B partnership IPO plans 2025 2026",
+   "status": "done",
+   "found": "No Rocket Learning acquisition found; IIIT-B partnership confirmed for Executive Diploma programs; IPO targeting 2027 per Screwvala; Internshala (Feb 2026) and Unacademy (Sep 2026) acquisitions confirmed",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "upGrad consumer ERA complaint legal matter",
+   "status": "done",
+   "found": "Delhi High Court restrained person from defaming upGrad on social media (Jul 2025, LawChakra); no consumer/ERA matters found",
+   "next_action": "none",
+   "agent": "P3-WAVE"
+  }
+ ],
+ "sources": [
+  {
+   "claim_supported": "Unacademy acquisition terms and close",
+   "fields_supported": [
+    "acquisitions",
+    "events"
+   ],
+   "publication_date": "2026-09-01",
+   "publisher": "TechCrunch",
+   "retrieved_date": "2026-09-14",
+   "tier": "T3",
+   "title": "India's Unacademy sells to rival upGrad for $206M",
+   "url": "https://techcrunch.com/2026/09/01/indias-unacademy-sells-to-rival-upgrad-for-206m-about-94-less-than-its-peak-valuation/"
+  },
+  {
+   "claim_supported": "FY25 audited revenue/loss",
+   "fields_supported": [
+    "financials",
+    "founders"
+   ],
+   "publication_date": "2025-12-04",
+   "publisher": "Inc42",
+   "retrieved_date": "2026-09-14",
+   "tier": "T3",
+   "title": "upGrad Halves FY25 Loss To INR 273.7 Cr, Revenue Up 6%",
+   "url": "https://inc42.com/buzz/upgrad-halves-fy25-loss-to-inr-273-7-cr-revenue-up-6/"
+  },
+  {
+   "claim_supported": "IPO horizon, revenue trajectory, AI push",
+   "fields_supported": [
+    "events",
+    "traction"
+   ],
+   "publication_date": "2025-03-25",
+   "publisher": "Forbes India",
+   "retrieved_date": "2026-09-14",
+   "tier": "T3",
+   "title": "upGrad's IPO is on the horizon. Can it unlock its full potential?",
+   "url": "https://www.forbesindia.com/article/take-one-big-story-of-the-day/upgrads-ipo-is-on-the-horizon-can-it-unlock-its-full-potential/95634/1"
+  },
+  {
+   "claim_supported": "$1.7B fair value, FY26 provisional, CCI",
+   "fields_supported": [
+    "company",
+    "financials",
+    "legal"
+   ],
+   "publication_date": "2026-05",
+   "publisher": "Economic Times",
+   "retrieved_date": "2026-09-14",
+   "tier": "T3",
+   "title": "UpGrad value pegged at $1.7 billion as Unacademy deal awaits CCI assent",
+   "url": "https://economictimes.indiatimes.com/tech/startups/upgrad-value-pegged-at-1-7-billion-as-unacademy-deal-awaits-cci-assent/articleshow/131207502.cms"
+  },
+  {
+   "claim_supported": "Round history, valuation, cap table",
+   "fields_supported": [
+    "funding_rounds",
+    "company"
+   ],
+   "publication_date": "2026-05-14",
+   "publisher": "ValueForStartups",
+   "retrieved_date": "2026-09-14",
+   "tier": "T5",
+   "title": "upGrad Investor Report 2026",
+   "url": "https://valueforstartups.in/30-upgrad"
+  },
+  {
+   "url": "https://www.zaubacorp.com/UPGRAD-EDUCATION-PRIVATE-LIMITED-U80902MH2012PTC258559",
+   "title": "UPGRAD EDUCATION PRIVATE LIMITED | ZaubaCorp",
+   "fields": [
+    "cin",
+    "incorporation_date"
+   ],
+   "confidence": "medium-high"
+  },
+  {
+   "url": "https://www.tofler.in/upgrad-education-private-limited/company/U80902MH2012PTC258559",
+   "title": "Upgrad Education Financials | Company Details",
+   "fields": [
+    "cin"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "url": "https://www.upgrad.com/about",
+   "title": "About Us | upGrad",
+   "tier": "T2",
+   "claim": "founder status Ronnie Screwvala"
+  },
+  {
+   "url": "https://platform.tracxn.com/a/d/company/55b61b57e4b0898c64d5ee2c/upgrad",
+   "title": "UpGrad - 2026 Company Profile - Tracxn",
+   "tier": "T2",
+   "claim": "founder status Ravijot Chugh"
+  },
+  {
+   "url": "https://techcrunch.com/2026/09/01/indias-unacademy-sells-to-rival-upgrad-for-206m-about-94-less-than-its-peak-valuation/",
+   "title": "India's Unacademy sells to rival upGrad for $206M, about 94% less than its peak valuation",
+   "tier": "T2",
+   "claim": "acquisition Unacademy Group (incl. PrepLadder, Graphy, Airlearn)"
+  },
+  {
+   "url": "https://techcrunch.com/2026/09/01/indias-unacademy-sells-to-rival-upgrad-for-206m-about-94-less-than-its-peak-valuation/",
+   "title": "India's Unacademy sells to rival upGrad for $206M, about 94% less than its peak valuation",
+   "tier": "T2",
+   "claim": "acquisition Unacademy Group (incl. PrepLadder, Graphy, Airlearn)"
+  },
+  {
+   "url": "https://techcrunch.com/2026/09/01/indias-unacademy-sells-to-rival-upgrad-for-206m-about-94-less-than-its-peak-valuation/",
+   "title": "India's Unacademy sells to rival upGrad for $206M, about 94% less than its peak valuation",
+   "tier": "T2",
+   "claim": "acquisition Unacademy Group (incl. PrepLadder, Graphy, Airlearn)"
+  },
+  {
+   "url": "https://techcrunch.com/2026/09/01/indias-unacademy-sells-to-rival-upgrad-for-206m-about-94-less-than-its-peak-valuation/",
+   "title": "India's Unacademy sells to rival upGrad for $206M, about 94% less than its peak valuation",
+   "tier": "T2",
+   "claim": "acquisition Unacademy Group (incl. PrepLadder, Graphy, Airlearn)"
+  },
+  {
+   "url": "https://techcrunch.com/2026/09/01/indias-unacademy-sells-to-rival-upgrad-for-206m-about-94-less-than-its-peak-valuation/",
+   "title": "India's Unacademy sells to rival upGrad for $206M, about 94% less than its peak valuation",
+   "tier": "T2",
+   "claim": "acquisition Unacademy Group (incl. PrepLadder, Graphy, Airlearn)"
+  },
+  {
+   "url": "https://techcrunch.com/2026/09/01/indias-unacademy-sells-to-rival-upgrad-for-206m-about-94-less-than-its-peak-valuation/",
+   "title": "India's Unacademy sells to rival upGrad for $206M, about 94% less than its peak valuation",
+   "tier": "T2",
+   "claim": "acquisition Unacademy Group (incl. PrepLadder, Graphy, Airlearn)"
+  },
+  {
+   "url": "https://techcrunch.com/2026/09/01/indias-unacademy-sells-to-rival-upgrad-for-206m-about-94-less-than-its-peak-valuation/",
+   "title": "India's Unacademy sells to rival upGrad for $206M, about 94% less than its peak valuation",
+   "tier": "T2",
+   "claim": "acquisition Unacademy Group (incl. PrepLadder, Graphy, Airlearn)"
+  },
+  {
+   "url": "https://techcrunch.com/2026/09/01/indias-unacademy-sells-to-rival-upgrad-for-206m-about-94-less-than-its-peak-valuation/",
+   "title": "India's Unacademy sells to rival upGrad for $206M, about 94% less than its peak valuation",
+   "tier": "T2",
+   "claim": "acquisition Unacademy Group (incl. PrepLadder, Graphy, Airlearn)"
+  },
+  {
+   "url": "https://techcrunch.com/2026/09/01/indias-unacademy-sells-to-rival-upgrad-for-206m-about-94-less-than-its-peak-valuation/",
+   "title": "India's Unacademy sells to rival upGrad for $206M, about 94% less than its peak valuation",
+   "tier": "T2",
+   "claim": "acquisition Unacademy Group (incl. PrepLadder, Graphy, Airlearn)"
+  },
+  {
+   "url": "https://techcrunch.com/2026/09/01/indias-unacademy-sells-to-rival-upgrad-for-206m-about-94-less-than-its-peak-valuation/",
+   "title": "India's Unacademy sells to rival upGrad for $206M, about 94% less than its peak valuation",
+   "tier": "T2",
+   "claim": "acquisition Unacademy Group (incl. PrepLadder, Graphy, Airlearn)"
+  },
+  {
+   "url": "https://techcrunch.com/2026/09/01/indias-unacademy-sells-to-rival-upgrad-for-206m-about-94-less-than-its-peak-valuation/",
+   "title": "India's Unacademy sells to rival upGrad for $206M, about 94% less than its peak valuation",
+   "tier": "T2",
+   "claim": "acquisition Unacademy Group (incl. PrepLadder, Graphy, Airlearn)"
+  },
+  {
+   "url": "https://techcrunch.com/2026/09/01/indias-unacademy-sells-to-rival-upgrad-for-206m-about-94-less-than-its-peak-valuation/",
+   "title": "India's Unacademy sells to rival upGrad for $206M, about 94% less than its peak valuation",
+   "tier": "T2",
+   "claim": "acquisition Unacademy Group (incl. PrepLadder, Graphy, Airlearn)"
+  },
+  {
+   "url": "https://techcrunch.com/2026/09/01/indias-unacademy-sells-to-rival-upgrad-for-206m-about-94-less-than-its-peak-valuation/",
+   "title": "India's Unacademy sells to rival upGrad for $206M, about 94% less than its peak valuation",
+   "tier": "T2",
+   "claim": "acquisition Unacademy Group (incl. PrepLadder, Graphy, Airlearn)"
+  },
+  {
+   "url": "https://techcrunch.com/2026/09/01/indias-unacademy-sells-to-rival-upgrad-for-206m-about-94-less-than-its-peak-valuation/",
+   "title": "India's Unacademy sells to rival upGrad for $206M, about 94% less than its peak valuation",
+   "tier": "T2",
+   "claim": "acquisition Unacademy Group (incl. PrepLadder, Graphy, Airlearn)"
+  },
+  {
+   "url": "https://techcrunch.com/2026/09/01/indias-unacademy-sells-to-rival-upgrad-for-206m-about-94-less-than-its-peak-valuation/",
+   "title": "India's Unacademy sells to rival upGrad for $206M, about 94% less than its peak valuation",
+   "tier": "T2",
+   "claim": "acquisition Unacademy Group (incl. PrepLadder, Graphy, Airlearn)"
+  },
+  {
+   "url": "https://techcrunch.com/2026/09/01/indias-unacademy-sells-to-rival-upgrad-for-206m-about-94-less-than-its-peak-valuation/",
+   "title": "India's Unacademy sells to rival upGrad for $206M, about 94% less than its peak valuation",
+   "tier": "T2",
+   "claim": "acquisition Unacademy Group (incl. PrepLadder, Graphy, Airlearn)"
+  },
+  {
+   "url": "https://techcrunch.com/2026/09/01/indias-unacademy-sells-to-rival-upgrad-for-206m-about-94-less-than-its-peak-valuation/",
+   "title": "India's Unacademy sells to rival upGrad for $206M, about 94% less than its peak valuation",
+   "tier": "T2",
+   "claim": "acquisition Unacademy Group (incl. PrepLadder, Graphy, Airlearn)"
+  },
+  {
+   "url": "https://techcrunch.com/2026/09/01/indias-unacademy-sells-to-rival-upgrad-for-206m-about-94-less-than-its-peak-valuation/",
+   "title": "India's Unacademy sells to rival upGrad for $206M, about 94% less than its peak valuation",
+   "tier": "T2",
+   "claim": "acquisition Unacademy Group (incl. PrepLadder, Graphy, Airlearn)"
+  },
+  {
+   "url": "https://techcrunch.com/2026/09/01/indias-unacademy-sells-to-rival-upgrad-for-206m-about-94-less-than-its-peak-valuation/",
+   "title": "India's Unacademy sells to rival upGrad for $206M, about 94% less than its peak valuation",
+   "tier": "T2",
+   "claim": "acquisition Unacademy Group (incl. PrepLadder, Graphy, Airlearn)"
+  },
+  {
+   "url": "https://techcrunch.com/2026/09/01/indias-unacademy-sells-to-rival-upgrad-for-206m-about-94-less-than-its-peak-valuation/",
+   "title": "India's Unacademy sells to rival upGrad for $206M, about 94% less than its peak valuation",
+   "tier": "T2",
+   "claim": "acquisition Unacademy Group (incl. PrepLadder, Graphy, Airlearn)"
+  },
+  {
+   "url": "https://techcrunch.com/2026/09/01/indias-unacademy-sells-to-rival-upgrad-for-206m-about-94-less-than-its-peak-valuation/",
+   "title": "India's Unacademy sells to rival upGrad for $206M, about 94% less than its peak valuation",
+   "tier": "T2",
+   "claim": "acquisition Unacademy Group (incl. PrepLadder, Graphy, Airlearn)"
+  },
+  {
+   "url": "https://techcrunch.com/2026/09/01/indias-unacademy-sells-to-rival-upgrad-for-206m-about-94-less-than-its-peak-valuation/",
+   "title": "India's Unacademy sells to rival upGrad for $206M, about 94% less than its peak valuation",
+   "tier": "T2",
+   "claim": "acquisition Unacademy Group (incl. PrepLadder, Graphy, Airlearn)"
+  },
+  {
+   "url": "https://techcrunch.com/2026/09/01/indias-unacademy-sells-to-rival-upgrad-for-206m-about-94-less-than-its-peak-valuation/",
+   "title": "India's Unacademy sells to rival upGrad for $206M, about 94% less than its peak valuation",
+   "tier": "T2",
+   "claim": "acquisition Unacademy Group (incl. PrepLadder, Graphy, Airlearn)"
+  },
+  {
+   "url": "https://techcrunch.com/2026/09/01/indias-unacademy-sells-to-rival-upgrad-for-206m-about-94-less-than-its-peak-valuation/",
+   "title": "India's Unacademy sells to rival upGrad for $206M, about 94% less than its peak valuation",
+   "tier": "T2",
+   "claim": "acquisition Unacademy Group (incl. PrepLadder, Graphy, Airlearn)"
+  },
+  {
+   "url": "https://techcrunch.com/2026/09/01/indias-unacademy-sells-to-rival-upgrad-for-206m-about-94-less-than-its-peak-valuation/",
+   "title": "India's Unacademy sells to rival upGrad for $206M, about 94% less than its peak valuation",
+   "tier": "T2",
+   "claim": "acquisition Unacademy Group (incl. PrepLadder, Graphy, Airlearn)"
+  },
+  {
+   "url": "https://techcrunch.com/2026/09/01/indias-unacademy-sells-to-rival-upgrad-for-206m-about-94-less-than-its-peak-valuation/",
+   "title": "India's Unacademy sells to rival upGrad for $206M, about 94% less than its peak valuation",
+   "tier": "T2",
+   "claim": "acquisition Unacademy Group (incl. PrepLadder, Graphy, Airlearn)"
+  },
+  {
+   "url": "https://techcrunch.com/2026/09/01/indias-unacademy-sells-to-rival-upgrad-for-206m-about-94-less-than-its-peak-valuation/",
+   "title": "India's Unacademy sells to rival upGrad for $206M, about 94% less than its peak valuation",
+   "tier": "T2",
+   "claim": "acquisition Unacademy Group (incl. PrepLadder, Graphy, Airlearn)"
+  },
+  {
+   "url": "https://techcrunch.com/2026/09/01/indias-unacademy-sells-to-rival-upgrad-for-206m-about-94-less-than-its-peak-valuation/",
+   "title": "India's Unacademy sells to rival upGrad for $206M, about 94% less than its peak valuation",
+   "tier": "T2",
+   "claim": "acquisition Unacademy Group (incl. PrepLadder, Graphy, Airlearn)"
+  },
+  {
+   "url": "https://www.crazyengineers.com",
+   "title": "",
+   "fields": "PEOPLE",
+   "confidence": "HIGH"
+  },
+  {
+   "url": "https://uk.linkedin.com/in/rjchugh",
+   "title": "",
+   "fields": "PEOPLE",
+   "confidence": "HIGH"
+  },
+  {
+   "url": "https://thepienews.com/co-founder-mayank-kumar-exits-day-to-day-upgrad-operations/",
+   "title": "",
+   "fields": "PEOPLE",
+   "confidence": "HIGH"
+  },
+  {
+   "url": "https://www.moneycontrol.com/news/business/startup/ronnie-screwvala-led-upgrad-ceo-arjun-mohan-steps-down-9841941.html",
+   "title": "",
+   "fields": "PEOPLE",
+   "confidence": "HIGH"
+  },
+  {
+   "url": "https://www.exchange4media.com/people-movement-news/mukesh-mundra-appointed-chief-financial-officer-at-upgrad-154952.html",
+   "title": "",
+   "fields": "PEOPLE",
+   "confidence": "HIGH"
+  },
+  {
+   "url": "https://www.exchange4media.com/announcements-news/upgrad-to-acquire-unacademy-gaurav-munjal-to-remain-ceo-152898.html",
+   "title": "",
+   "fields": "PEOPLE",
+   "confidence": "HIGH"
+  },
+  {
+   "url": "https://m.economictimes.com/tech/technology/upgrads-president-gaurav-kumar-exits-amid-leadership-exodus-and-ipo-plans/articleshow/115654403.cms",
+   "title": "",
+   "fields": "PEOPLE",
+   "confidence": "HIGH"
+  },
+  {
+   "url": "https://www.upgrad.com",
+   "title": "",
+   "fields": "company",
+   "confidence": "HIGH"
+  },
+  {
+   "url": "https://www.einpresswire.com/article/911012624/upgrad-continues-to-redefine-career-led-online-higher-education-for-over-10-million-learners-worldwide",
+   "title": "",
+   "fields": "company",
+   "confidence": "MEDIUM"
+  },
+  {
+   "url": "https://m.economictimes.com/tech/technology/edtech-firm-upgrad-acquires-skilling-firm-internshala/articleshow/128793497.cms",
+   "title": "",
+   "fields": "company",
+   "confidence": "HIGH"
+  },
+  {
+   "url": "https://www.businesswireindia.com/ltm-to-offer-mit-open-learning's-universal-ai-to-its-workforce-in-cooperation-with-upgrad-enterprise-99528.html",
+   "title": "",
+   "fields": "company",
+   "confidence": "HIGH"
+  },
+  {
+   "url": "https://www.livemint.com/companies/upgrad-global-expansion-2027-ipo-ronnie-screwvala-11765170156236.html",
+   "title": "",
+   "fields": "company",
+   "confidence": "HIGH"
+  },
+  {
+   "url": "https://www.reveliolabs.com/companies/upgrad-education/employees",
+   "title": "",
+   "fields": "company",
+   "confidence": "MEDIUM"
+  },
+  {
+   "url": "https://yourstory.com/2026/02/ronnie-screwvala-highlights-very-big-fit-upgrad-buys-internshala",
+   "title": "",
+   "fields": "company",
+   "confidence": "HIGH"
+  },
+  {
+   "url": "https://www.upgrad-enterprise.com/about-us",
+   "title": "",
+   "fields": "company",
+   "confidence": "HIGH"
+  },
+  {
+   "url": "https://www.upgrad.com/degree/",
+   "title": "",
+   "fields": "company",
+   "confidence": "MEDIUM"
+  },
+  {
+   "url": "https://www.upgradgsp.com/",
+   "title": "",
+   "fields": "company",
+   "confidence": "MEDIUM"
+  },
+  {
+   "url": "https://www.knowledgehut.com/",
+   "title": "",
+   "fields": "company",
+   "confidence": "MEDIUM"
+  },
+  {
+   "url": "https://www.ltm.com/news-events/press-releases/2026/ltm-partners-with-upgrad-to-deliver-universal-ai",
+   "title": "",
+   "fields": "company",
+   "confidence": "HIGH"
+  },
+  {
+   "url": "https://techcrunch.com/2026/09/01/indias-unacademy-sells-to-rival-upgrad-for-206m-about-94-less-than-its-peak-valuation/",
+   "title": "India's Unacademy sells to rival upGrad for $206M, about 94% less than its peak valuation",
+   "tier": "T2",
+   "claim": "acquisition Unacademy Group (incl. PrepLadder, Graphy, Airlearn)"
+  },
+  {
+   "url": "https://techcrunch.com/2026/09/01/indias-unacademy-sells-to-rival-upgrad-for-206m-about-94-less-than-its-peak-valuation/",
+   "title": "India's Unacademy sells to rival upGrad for $206M, about 94% less than its peak valuation",
+   "tier": "T2",
+   "claim": "acquisition Unacademy Group (incl. PrepLadder, Graphy, Airlearn)"
+  },
+  {
+   "url": "https://techcrunch.com/2026/09/01/indias-unacademy-sells-to-rival-upgrad-for-206m-about-94-less-than-its-peak-valuation/",
+   "title": "India's Unacademy sells to rival upGrad for $206M, about 94% less than its peak valuation",
+   "tier": "T2",
+   "claim": "acquisition Unacademy Group (incl. PrepLadder, Graphy, Airlearn)"
+  },
+  {
+   "url": "https://techcrunch.com/2026/09/01/indias-unacademy-sells-to-rival-upgrad-for-206m-about-94-less-than-its-peak-valuation/",
+   "title": "India's Unacademy sells to rival upGrad for $206M, about 94% less than its peak valuation",
+   "tier": "T2",
+   "claim": "acquisition Unacademy Group (incl. PrepLadder, Graphy, Airlearn)"
+  },
+  {
+   "url": "https://techcrunch.com/2026/09/01/indias-unacademy-sells-to-rival-upgrad-for-206m-about-94-less-than-its-peak-valuation/",
+   "title": "India's Unacademy sells to rival upGrad for $206M, about 94% less than its peak valuation",
+   "tier": "T2",
+   "claim": "acquisition Unacademy Group (incl. PrepLadder, Graphy, Airlearn)"
+  },
+  {
+   "url": "https://techcrunch.com/2026/09/01/indias-unacademy-sells-to-rival-upgrad-for-206m-about-94-less-than-its-peak-valuation/",
+   "title": "India's Unacademy sells to rival upGrad for $206M, about 94% less than its peak valuation",
+   "tier": "T2",
+   "claim": "acquisition Unacademy Group (incl. PrepLadder, Graphy, Airlearn)"
+  },
+  {
+   "url": "https://techcrunch.com/2026/09/01/indias-unacademy-sells-to-rival-upgrad-for-206m-about-94-less-than-its-peak-valuation/",
+   "title": "India's Unacademy sells to rival upGrad for $206M, about 94% less than its peak valuation",
+   "tier": "T2",
+   "claim": "acquisition Unacademy Group (incl. PrepLadder, Graphy, Airlearn)"
+  },
+  {
+   "url": "https://techcrunch.com/2026/09/01/indias-unacademy-sells-to-rival-upgrad-for-206m-about-94-less-than-its-peak-valuation/",
+   "title": "India's Unacademy sells to rival upGrad for $206M, about 94% less than its peak valuation",
+   "tier": "T2",
+   "claim": "acquisition Unacademy Group (incl. PrepLadder, Graphy, Airlearn)"
+  },
+  {
+   "url": "https://techcrunch.com/2026/09/01/indias-unacademy-sells-to-rival-upgrad-for-206m-about-94-less-than-its-peak-valuation/",
+   "title": "India's Unacademy sells to rival upGrad for $206M, about 94% less than its peak valuation",
+   "tier": "T2",
+   "claim": "acquisition Unacademy Group (incl. PrepLadder, Graphy, Airlearn)"
+  },
+  {
+   "url": "https://techcrunch.com/2026/09/01/indias-unacademy-sells-to-rival-upgrad-for-206m-about-94-less-than-its-peak-valuation/",
+   "title": "India's Unacademy sells to rival upGrad for $206M, about 94% less than its peak valuation",
+   "tier": "T2",
+   "claim": "acquisition Unacademy Group (incl. PrepLadder, Graphy, Airlearn)"
+  },
+  {
+   "url": "https://techcrunch.com/2026/09/01/indias-unacademy-sells-to-rival-upgrad-for-206m-about-94-less-than-its-peak-valuation/",
+   "title": "India's Unacademy sells to rival upGrad for $206M, about 94% less than its peak valuation",
+   "tier": "T2",
+   "claim": "acquisition Unacademy Group (incl. PrepLadder, Graphy, Airlearn)"
+  },
+  {
+   "url": "https://techcrunch.com/2026/09/01/indias-unacademy-sells-to-rival-upgrad-for-206m-about-94-less-than-its-peak-valuation/",
+   "title": "India's Unacademy sells to rival upGrad for $206M, about 94% less than its peak valuation",
+   "tier": "T2",
+   "claim": "acquisition Unacademy Group (incl. PrepLadder, Graphy, Airlearn)"
+  },
+  {
+   "url": "https://techcrunch.com/2026/09/01/indias-unacademy-sells-to-rival-upgrad-for-206m-about-94-less-than-its-peak-valuation/",
+   "title": "India's Unacademy sells to rival upGrad for $206M, about 94% less than its peak valuation",
+   "tier": "T2",
+   "claim": "acquisition Unacademy Group (incl. PrepLadder, Graphy, Airlearn)"
+  },
+  {
+   "url": "https://techcrunch.com/2026/09/01/indias-unacademy-sells-to-rival-upgrad-for-206m-about-94-less-than-its-peak-valuation/",
+   "title": "India's Unacademy sells to rival upGrad for $206M, about 94% less than its peak valuation",
+   "tier": "T2",
+   "claim": "acquisition Unacademy Group (incl. PrepLadder, Graphy, Airlearn)"
+  },
+  {
+   "url": "https://techcrunch.com/2026/09/01/indias-unacademy-sells-to-rival-upgrad-for-206m-about-94-less-than-its-peak-valuation/",
+   "title": "India's Unacademy sells to rival upGrad for $206M, about 94% less than its peak valuation",
+   "tier": "T2",
+   "claim": "acquisition Unacademy Group (incl. PrepLadder, Graphy, Airlearn)"
+  },
+  {
+   "url": "https://techcrunch.com/2026/09/01/indias-unacademy-sells-to-rival-upgrad-for-206m-about-94-less-than-its-peak-valuation/",
+   "title": "India's Unacademy sells to rival upGrad for $206M, about 94% less than its peak valuation",
+   "tier": "T2",
+   "claim": "acquisition Unacademy Group (incl. PrepLadder, Graphy, Airlearn)"
+  },
+  {
+   "url": "https://techcrunch.com/2026/09/01/indias-unacademy-sells-to-rival-upgrad-for-206m-about-94-less-than-its-peak-valuation/",
+   "title": "India's Unacademy sells to rival upGrad for $206M, about 94% less than its peak valuation",
+   "tier": "T2",
+   "claim": "acquisition Unacademy Group (incl. PrepLadder, Graphy, Airlearn)"
+  },
+  {
+   "url": "https://techcrunch.com/2026/09/01/indias-unacademy-sells-to-rival-upgrad-for-206m-about-94-less-than-its-peak-valuation/",
+   "title": "India's Unacademy sells to rival upGrad for $206M, about 94% less than its peak valuation",
+   "tier": "T2",
+   "claim": "acquisition Unacademy Group (incl. PrepLadder, Graphy, Airlearn)"
+  },
+  {
+   "url": "https://techcrunch.com/2026/09/01/indias-unacademy-sells-to-rival-upgrad-for-206m-about-94-less-than-its-peak-valuation/",
+   "title": "India's Unacademy sells to rival upGrad for $206M, about 94% less than its peak valuation",
+   "tier": "T2",
+   "claim": "acquisition Unacademy Group (incl. PrepLadder, Graphy, Airlearn)"
+  },
+  {
+   "url": "https://techcrunch.com/2026/09/01/indias-unacademy-sells-to-rival-upgrad-for-206m-about-94-less-than-its-peak-valuation/",
+   "title": "India's Unacademy sells to rival upGrad for $206M, about 94% less than its peak valuation",
+   "tier": "T2",
+   "claim": "acquisition Unacademy Group (incl. PrepLadder, Graphy, Airlearn)"
+  },
+  {
+   "url": "https://techcrunch.com/2026/09/01/indias-unacademy-sells-to-rival-upgrad-for-206m-about-94-less-than-its-peak-valuation/",
+   "title": "India's Unacademy sells to rival upGrad for $206M, about 94% less than its peak valuation",
+   "tier": "T2",
+   "claim": "acquisition Unacademy Group (incl. PrepLadder, Graphy, Airlearn)"
+  },
+  {
+   "url": "https://techcrunch.com/2026/09/01/indias-unacademy-sells-to-rival-upgrad-for-206m-about-94-less-than-its-peak-valuation/",
+   "title": "India's Unacademy sells to rival upGrad for $206M, about 94% less than its peak valuation",
+   "tier": "T2",
+   "claim": "acquisition Unacademy Group (incl. PrepLadder, Graphy, Airlearn)"
+  },
+  {
+   "url": "https://techcrunch.com/2026/09/01/indias-unacademy-sells-to-rival-upgrad-for-206m-about-94-less-than-its-peak-valuation/",
+   "title": "India's Unacademy sells to rival upGrad for $206M, about 94% less than its peak valuation",
+   "tier": "T2",
+   "claim": "acquisition Unacademy Group (incl. PrepLadder, Graphy, Airlearn)"
+  },
+  {
+   "url": "https://techcrunch.com/2026/09/01/indias-unacademy-sells-to-rival-upgrad-for-206m-about-94-less-than-its-peak-valuation/",
+   "title": "India's Unacademy sells to rival upGrad for $206M, about 94% less than its peak valuation",
+   "tier": "T2",
+   "claim": "acquisition Unacademy Group (incl. PrepLadder, Graphy, Airlearn)"
+  },
+  {
+   "url": "https://techcrunch.com/2026/09/01/indias-unacademy-sells-to-rival-upgrad-for-206m-about-94-less-than-its-peak-valuation/",
+   "title": "India's Unacademy sells to rival upGrad for $206M, about 94% less than its peak valuation",
+   "tier": "T2",
+   "claim": "acquisition Unacademy Group (incl. PrepLadder, Graphy, Airlearn)"
+  },
+  {
+   "url": "https://techcrunch.com/2026/09/01/indias-unacademy-sells-to-rival-upgrad-for-206m-about-94-less-than-its-peak-valuation/",
+   "title": "India's Unacademy sells to rival upGrad for $206M, about 94% less than its peak valuation",
+   "tier": "T2",
+   "claim": "acquisition Unacademy Group (incl. PrepLadder, Graphy, Airlearn)"
+  },
+  {
+   "url": "https://techcrunch.com/2026/09/01/indias-unacademy-sells-to-rival-upgrad-for-206m-about-94-less-than-its-peak-valuation/",
+   "title": "India's Unacademy sells to rival upGrad for $206M, about 94% less than its peak valuation",
+   "tier": "T2",
+   "claim": "acquisition Unacademy Group (incl. PrepLadder, Graphy, Airlearn)"
+  },
+  {
+   "url": "https://techcrunch.com/2026/09/01/indias-unacademy-sells-to-rival-upgrad-for-206m-about-94-less-than-its-peak-valuation/",
+   "title": "India's Unacademy sells to rival upGrad for $206M, about 94% less than its peak valuation",
+   "tier": "T2",
+   "claim": "acquisition Unacademy Group (incl. PrepLadder, Graphy, Airlearn)"
+  },
+  {
+   "url": "https://techcrunch.com/2026/09/01/indias-unacademy-sells-to-rival-upgrad-for-206m-about-94-less-than-its-peak-valuation/",
+   "title": "India's Unacademy sells to rival upGrad for $206M, about 94% less than its peak valuation",
+   "tier": "T2",
+   "claim": "acquisition Unacademy Group (incl. PrepLadder, Graphy, Airlearn)"
+  },
+  {
+   "url": "https://techcrunch.com/2026/09/01/indias-unacademy-sells-to-rival-upgrad-for-206m-about-94-less-than-its-peak-valuation/",
+   "title": "India's Unacademy sells to rival upGrad for $206M, about 94% less than its peak valuation",
+   "tier": "T2",
+   "claim": "acquisition Unacademy Group (incl. PrepLadder, Graphy, Airlearn)"
+  },
+  {
+   "url": "https://techcrunch.com/2026/09/01/indias-unacademy-sells-to-rival-upgrad-for-206m-about-94-less-than-its-peak-valuation/",
+   "title": "India's Unacademy sells to rival upGrad for $206M, about 94% less than its peak valuation",
+   "tier": "T2",
+   "claim": "acquisition Unacademy Group (incl. PrepLadder, Graphy, Airlearn)"
+  },
+  {
+   "url": "https://techcrunch.com/2026/09/01/indias-unacademy-sells-to-rival-upgrad-for-206m-about-94-less-than-its-peak-valuation/",
+   "title": "India's Unacademy sells to rival upGrad for $206M, about 94% less than its peak valuation",
+   "tier": "T2",
+   "claim": "acquisition Unacademy Group (incl. PrepLadder, Graphy, Airlearn)"
+  },
+  {
+   "url": "https://techcrunch.com/2026/09/01/indias-unacademy-sells-to-rival-upgrad-for-206m-about-94-less-than-its-peak-valuation/",
+   "title": "India's Unacademy sells to rival upGrad for $206M, about 94% less than its peak valuation",
+   "tier": "T2",
+   "claim": "acquisition Unacademy Group (incl. PrepLadder, Graphy, Airlearn)"
+  },
+  {
+   "url": "https://techcrunch.com/2026/09/01/indias-unacademy-sells-to-rival-upgrad-for-206m-about-94-less-than-its-peak-valuation/",
+   "title": "India's Unacademy sells to rival upGrad for $206M, about 94% less than its peak valuation",
+   "tier": "T2",
+   "claim": "acquisition Unacademy Group (incl. PrepLadder, Graphy, Airlearn)"
+  },
+  {
+   "url": "https://techcrunch.com/2026/09/01/indias-unacademy-sells-to-rival-upgrad-for-206m-about-94-less-than-its-peak-valuation/",
+   "title": "India's Unacademy sells to rival upGrad for $206M, about 94% less than its peak valuation",
+   "tier": "T2",
+   "claim": "acquisition Unacademy Group (incl. PrepLadder, Graphy, Airlearn)"
+  },
+  {
+   "url": "https://techcrunch.com/2026/09/01/indias-unacademy-sells-to-rival-upgrad-for-206m-about-94-less-than-its-peak-valuation/",
+   "title": "India's Unacademy sells to rival upGrad for $206M, about 94% less than its peak valuation",
+   "tier": "T2",
+   "claim": "acquisition Unacademy Group (incl. PrepLadder, Graphy, Airlearn)"
+  },
+  {
+   "url": "https://techcrunch.com/2026/09/01/indias-unacademy-sells-to-rival-upgrad-for-206m-about-94-less-than-its-peak-valuation/",
+   "title": "India's Unacademy sells to rival upGrad for $206M, about 94% less than its peak valuation",
+   "tier": "T2",
+   "claim": "acquisition Unacademy Group (incl. PrepLadder, Graphy, Airlearn)"
+  },
+  {
+   "url": "https://techcrunch.com/2026/09/01/indias-unacademy-sells-to-rival-upgrad-for-206m-about-94-less-than-its-peak-valuation/",
+   "title": "India's Unacademy sells to rival upGrad for $206M, about 94% less than its peak valuation",
+   "tier": "T2",
+   "claim": "acquisition Unacademy Group (incl. PrepLadder, Graphy, Airlearn)"
+  },
+  {
+   "url": "https://techcrunch.com/2026/09/01/indias-unacademy-sells-to-rival-upgrad-for-206m-about-94-less-than-its-peak-valuation/",
+   "title": "India's Unacademy sells to rival upGrad for $206M, about 94% less than its peak valuation",
+   "tier": "T2",
+   "claim": "acquisition Unacademy Group (incl. PrepLadder, Graphy, Airlearn)"
+  },
+  {
+   "url": "https://techcrunch.com/2026/09/01/indias-unacademy-sells-to-rival-upgrad-for-206m-about-94-less-than-its-peak-valuation/",
+   "title": "India's Unacademy sells to rival upGrad for $206M, about 94% less than its peak valuation",
+   "tier": "T2",
+   "claim": "acquisition Unacademy Group (incl. PrepLadder, Graphy, Airlearn)"
+  },
+  {
+   "url": "https://techcrunch.com/2026/09/01/indias-unacademy-sells-to-rival-upgrad-for-206m-about-94-less-than-its-peak-valuation/",
+   "title": "India's Unacademy sells to rival upGrad for $206M, about 94% less than its peak valuation",
+   "tier": "T2",
+   "claim": "acquisition Unacademy Group (incl. PrepLadder, Graphy, Airlearn)"
+  },
+  {
+   "url": "https://techcrunch.com/2026/09/01/indias-unacademy-sells-to-rival-upgrad-for-206m-about-94-less-than-its-peak-valuation/",
+   "title": "India's Unacademy sells to rival upGrad for $206M, about 94% less than its peak valuation",
+   "tier": "T2",
+   "claim": "acquisition Unacademy Group (incl. PrepLadder, Graphy, Airlearn)"
+  },
+  {
+   "url": "https://techcrunch.com/2026/09/01/indias-unacademy-sells-to-rival-upgrad-for-206m-about-94-less-than-its-peak-valuation/",
+   "title": "India's Unacademy sells to rival upGrad for $206M, about 94% less than its peak valuation",
+   "tier": "T2",
+   "claim": "acquisition Unacademy Group (incl. PrepLadder, Graphy, Airlearn)"
+  },
+  {
+   "url": "https://techcrunch.com/2026/09/01/indias-unacademy-sells-to-rival-upgrad-for-206m-about-94-less-than-its-peak-valuation/",
+   "title": "India's Unacademy sells to rival upGrad for $206M, about 94% less than its peak valuation",
+   "tier": "T2",
+   "claim": "acquisition Unacademy Group (incl. PrepLadder, Graphy, Airlearn)"
+  },
+  {
+   "url": "https://techcrunch.com/2026/09/01/indias-unacademy-sells-to-rival-upgrad-for-206m-about-94-less-than-its-peak-valuation/",
+   "title": "India's Unacademy sells to rival upGrad for $206M, about 94% less than its peak valuation",
+   "tier": "T2",
+   "claim": "acquisition Unacademy Group (incl. PrepLadder, Graphy, Airlearn)"
+  },
+  {
+   "url": "https://techcrunch.com/2026/09/01/indias-unacademy-sells-to-rival-upgrad-for-206m-about-94-less-than-its-peak-valuation/",
+   "title": "India's Unacademy sells to rival upGrad for $206M, about 94% less than its peak valuation",
+   "tier": "T2",
+   "claim": "acquisition Unacademy Group (incl. PrepLadder, Graphy, Airlearn)"
+  },
+  {
+   "url": "https://techcrunch.com/2026/09/01/indias-unacademy-sells-to-rival-upgrad-for-206m-about-94-less-than-its-peak-valuation/",
+   "title": "India's Unacademy sells to rival upGrad for $206M, about 94% less than its peak valuation",
+   "tier": "T2",
+   "claim": "acquisition Unacademy Group (incl. PrepLadder, Graphy, Airlearn)"
+  },
+  {
+   "url": "https://techcrunch.com/2026/09/01/indias-unacademy-sells-to-rival-upgrad-for-206m-about-94-less-than-its-peak-valuation/",
+   "title": "India's Unacademy sells to rival upGrad for $206M, about 94% less than its peak valuation",
+   "tier": "T2",
+   "claim": "acquisition Unacademy Group (incl. PrepLadder, Graphy, Airlearn)"
+  },
+  {
+   "url": "https://techcrunch.com/2026/09/01/indias-unacademy-sells-to-rival-upgrad-for-206m-about-94-less-than-its-peak-valuation/",
+   "title": "India's Unacademy sells to rival upGrad for $206M, about 94% less than its peak valuation",
+   "tier": "T2",
+   "claim": "acquisition Unacademy Group (incl. PrepLadder, Graphy, Airlearn)"
+  }
+ ],
+ "startup_id": "upgrad",
+ "traction": [
+  {
+   "as_of": "FY25",
+   "company_reported": true,
+   "confidence": "MEDIUM",
+   "metric": "Gross revenue (company-claimed)",
+   "source_url": "https://timesofindia.indiatimes.com/business/india-business/upgrad-turns-ebitda-positive-in-fy25-ai-led-expansion-fuels-global-growth-momentum/articleshow/125014900.cms",
+   "value": "INR 1,943 cr gross; INR 556 cr deferred"
+  },
+  {
+   "metric": "learners",
+   "value": 10000000,
+   "unit": "learners",
+   "period": "As-of-2026-05",
+   "as_of": "2026-05-07",
+   "company_reported": true,
+   "source_url": "https://www.einpresswire.com/article/911012624/upgrad-continues-to-redefine-career-led-online-higher-education-for-over-10-million-learners-worldwide",
+   "confidence": "MEDIUM",
+   "notes": "Company-claimed 10M+ learners worldwide"
+  },
+  {
+   "metric": "enterprise_clients",
+   "value": 3000,
+   "unit": "corporate partners",
+   "period": "As-of-2026-04",
+   "as_of": "2026-04-06",
+   "company_reported": true,
+   "source_url": "https://www.businesswireindia.com/ltm-to-offer-mit-open-learning's-universal-ai-to-its-workforce-in-cooperation-with-upgrad-enterprise-99528.html",
+   "confidence": "MEDIUM",
+   "notes": "upGrad Enterprise works with 3,000+ corporate partners"
+  },
+  {
+   "metric": "employees",
+   "value": 11544,
+   "unit": "employees",
+   "period": "As-of-2026-03",
+   "as_of": "2026-03",
+   "company_reported": false,
+   "source_url": "https://www.reveliolabs.com/companies/upgrad-education/employees",
+   "confidence": "MEDIUM",
+   "notes": "Revelio Labs workforce intelligence"
+  },
+  {
+   "metric": "academic_industry_partners",
+   "value": 100,
+   "unit": "partners",
+   "period": "As-of-2026-09",
+   "as_of": "2026-09-15",
+   "company_reported": true,
+   "source_url": "https://www.upgrad.com",
+   "confidence": "MEDIUM",
+   "notes": "100+ Academic & Industry Partners per homepage"
+  },
+  {
+   "metric": "countries",
+   "value": 85,
+   "unit": "countries",
+   "period": "As-of-2026-09",
+   "as_of": "2026-09-15",
+   "company_reported": true,
+   "source_url": "https://www.linkedin.com/company/upgrad-north-america",
+   "confidence": "MEDIUM",
+   "notes": "Learners from 85+ countries"
+  }
+ ],
+ "_merged_session2": true
+}

@@ -1,0 +1,145 @@
+{
+ "canonical_key": "baaz bikes",
+ "company": {
+  "business_model": "B2B — EV two-wheelers + battery-swapping network for gig-delivery fleets (clients incl. Zomato, Amazon per Indian Startup News)",
+  "city": "Delhi NCR (batch says Bengaluru — press says Delhi NCR; kept batch city with conflict note)",
+  "company_name": "Baaz Bikes",
+  "founded_date": "UNKNOWN",
+  "primary_sector": "ev mobility",
+  "public_private": "private",
+  "startup_stage": "Series A",
+  "status": "active"
+ },
+ "completeness_self": {
+  "financials": 1,
+  "founders": 3,
+  "funding": 7,
+  "identity": 6,
+  "investors": 7,
+  "legal": 2,
+  "people": 2,
+  "products": 5,
+  "sources": 6,
+  "traction": 4
+ },
+ "conflicts": [
+  {
+   "claim_a": "Batch city: Bengaluru",
+   "claim_b": "Delhi NCR (Indian Startup News: 'based in Delhi NCR')",
+   "field": "city",
+   "resolution": "Unresolved — press says Delhi NCR; needs verification",
+   "resolved_value": "Delhi NCR (press) vs Bengaluru (batch)",
+   "url_a": "",
+   "url_b": "https://indianstartupnews.com/funding/ev-startup-baaz-bikes-raises-usd-8-million-in-a-series-a-round-1703167"
+  }
+ ],
+ "events": [
+  {
+   "confidence": "high",
+   "date": "2023-11-21",
+   "description": "Series A led by Singapore-based BIG Capital; deploy to strengthen/optimize product, safety, scalability",
+   "headline": "Baaz Bikes raises $8M Series A led by Big Capital",
+   "source_url": "https://m.economictimes.com/tech/funding/baaz-bikes-raises-8-million-led-by-big-capital/articleshow/105364738.cms",
+   "type": "funding"
+  },
+  {
+   "confidence": "medium",
+   "date": "2026-06-26",
+   "description": "Named among battery-tech/energy-transition startups seeking part of ~$65M funding wave (status signal: active, fundraising)",
+   "headline": "EV-infra $65M funding wave mention",
+   "source_url": "https://m.economictimes.com/tech/startups/ev-infra-bets-gain-ground-as-startups-eye-65-million-funding/articleshow/131997714.cms",
+   "type": "fundraising-signal"
+  }
+ ],
+ "financials": [],
+ "founders": [],
+ "funding_rounds": [
+  {
+   "all_investors": [
+    "BIG Capital"
+   ],
+   "amount": 8000000,
+   "announced_date": "2023-11-21",
+   "currency": "USD",
+   "lead_investors": [
+    "BIG Capital (BIG Capital Pte Ltd, Singapore)"
+   ],
+   "round_type": "Series A",
+   "source_title": "Electric mobility startup Baaz Bikes raises $8 million led by Big Capital",
+   "source_url": "https://m.economictimes.com/tech/funding/baaz-bikes-raises-8-million-led-by-big-capital/articleshow/105364738.cms",
+   "tier": "T1"
+  }
+ ],
+ "gaps": [
+  "Founders not verified — snippets did not include founder names; needs dedicated probe",
+  "Founded date, CIN unknown",
+  "Financials unknown",
+  "City conflict (Bengaluru vs Delhi NCR)",
+  "Post-2023 rounds unknown; Jun 2026 article suggests fresh raise sought but amount/company share unverified"
+ ],
+ "investor_links": [
+  {
+   "confidence": "high",
+   "first_seen": "2023-11",
+   "investor": "BIG Capital",
+   "investor_type": "VC",
+   "lead": true,
+   "rounds": [
+    "Series A"
+   ],
+   "source_url": "https://yourstory.com/2023/11/funding-ev-startup-baaz-bikes-raises-8m"
+  }
+ ],
+ "research_log": [
+  {
+   "found": "Active signal: Jun 2026 ET funding-wave article; $8M Series A Nov 2023 led Big Capital (ET)",
+   "query": "Baaz Bikes startup status 2025 2026",
+   "unresolved": "founders, city, financials"
+  },
+  {
+   "found": "YourStory + ISN confirm $8M Series A led Singapore BIG Capital; Delhi NCR base; clients Zomato/Amazon",
+   "query": "Baaz Bikes founders $8M Big Capital November 2023",
+   "unresolved": "founder names still missing"
+  }
+ ],
+ "sources": [
+  {
+   "claim_supported": "$8M Series A led by Big Capital Nov 2023",
+   "fields_supported": [
+    "funding_rounds"
+   ],
+   "publication_date": "2023-11-21",
+   "publisher": "Economic Times",
+   "retrieved_date": "2026-09-15",
+   "tier": "T1",
+   "title": "Electric mobility startup Baaz Bikes raises $8 million led by Big Capital",
+   "url": "https://m.economictimes.com/tech/funding/baaz-bikes-raises-8-million-led-by-big-capital/articleshow/105364738.cms"
+  },
+  {
+   "claim_supported": "$8M Series A led by Singapore BIG Capital",
+   "fields_supported": [
+    "funding_rounds",
+    "investor_links"
+   ],
+   "publication_date": "2023-11-21",
+   "publisher": "YourStory",
+   "retrieved_date": "2026-09-15",
+   "tier": "T2",
+   "title": "EV startup Baaz Bikes raises $8M funding",
+   "url": "https://yourstory.com/2023/11/funding-ev-startup-baaz-bikes-raises-8m"
+  },
+  {
+   "claim_supported": "Active fundraising signal Jun 2026 EV-infra wave",
+   "fields_supported": [
+    "status"
+   ],
+   "publication_date": "2026-06-26",
+   "publisher": "Economic Times",
+   "retrieved_date": "2026-09-15",
+   "tier": "T1",
+   "title": "VCs pivot to EV infra & energy storage in new $65 million funding wave",
+   "url": "https://m.economictimes.com/tech/startups/ev-infra-bets-gain-ground-as-startups-eye-65-million-funding/articleshow/131997714.cms"
+  }
+ ],
+ "startup_id": "baaz bikes"
+}

@@ -1,0 +1,2688 @@
+{
+ "canonical_key": "chargebee",
+ "company": {
+  "business_model": "B2B SaaS",
+  "city": "Chennai",
+  "company_name": "Chargebee",
+  "founded_date": "2011",
+  "primary_sector": "saas/billing",
+  "public_private": "Private",
+  "startup_stage": "Late-stage (Series H)",
+  "status": "Active",
+  "official_website": {
+   "v": "https://www.chargebee.com",
+   "conf": "high",
+   "src": "https://www.chargebee.com",
+   "note": "verified live 2026-09-15: name match on own homepage"
+  },
+  "website": "https://www.chargebee.com",
+  "careers_website": {
+   "v": "https://www.chargebee.com/careers",
+   "conf": "HIGH",
+   "src": "curl -L https://www.chargebee.com/careers → 200; Nuxt app with __NUXT__.config.app.baseURL and path /careers; page is a real careers portal",
+   "note": "Official careers page confirmed with real job listings"
+  },
+  "legal_name": {
+   "v": "Chargebee, Inc.",
+   "conf": "HIGH",
+   "src": "https://www.sec.gov/Archives/edgar/data/1594961/000159496113000001/xslFormDX07/primary_doc.xml",
+   "note": "Delaware C-Corp; SEC Form D filed as ChargeBee Inc.",
+   "asof": "2026-09-15"
+  },
+  "cin": {
+   "v": "U72900TN2012PTC084306",
+   "conf": "HIGH",
+   "src": "https://www.indiafilings.com/search/chargebee-technologies-private-limited-cin-U72900TN2012PTC084306",
+   "note": "MCA21 CIN for India entity",
+   "asof": "2026-09-15"
+  },
+  "incorporation_date": {
+   "v": "2012-02-03",
+   "conf": "HIGH",
+   "src": "https://tracxn.com/d/legal-entities/india/chargebee-technologies-private-limited/__lIJZzGOhFpzU6PUd8SaUqHhc2jo_8eaWdXXa-CVQalg",
+   "note": "MCA21 records: incorporated Feb 3, 2012",
+   "asof": "2026-09-15"
+  },
+  "state": {
+   "v": "Tamil Nadu",
+   "conf": "HIGH",
+   "src": "https://www.indiafilings.com/search/chargebee-technologies-private-limited-cin-U72900TN2012PTC084306",
+   "note": "India entity registered in Tamil Nadu",
+   "asof": "2026-09-15"
+  },
+  "country": {
+   "v": "United States",
+   "conf": "HIGH",
+   "src": "https://www.chargebee.com/contact",
+   "note": "US HQ: North Bethesda, MD",
+   "asof": "2026-09-15"
+  },
+  "description": {
+   "v": "Revenue Growth Management (RGM) platform for subscription businesses",
+   "conf": "HIGH",
+   "src": "https://www.chargebee.com/",
+   "note": "Trusted by 6500+ businesses serving 227 countries",
+   "asof": "2026-09-15"
+  },
+  "employee_estimate": {
+   "v": 1301,
+   "conf": "HIGH",
+   "src": "https://platform.tracxn.com/a/d/company/52ca75c7e4b093852fc328a8/chargebee",
+   "note": "Tracxn official employee count",
+   "asof": "2025-09-30"
+  },
+  "hq_type": {
+   "v": "US HQ with India ops",
+   "conf": "HIGH",
+   "src": "https://www.chargebee.com/contact",
+   "note": "HQ North Bethesda MD; India registered office Chennai",
+   "asof": "2026-09-15"
+  },
+  "registered_office": {
+   "v": "10TH FLOOR, LITTLEWOOD TOWER, RAMANUJAN INTELLION PARK, RAJIV GANDHI SALAI, TARAMANI, Chennai, Tamil Nadu - 600113",
+   "conf": "HIGH",
+   "src": "https://tracxn.com/d/legal-entities/india/chargebee-technologies-private-limited/__lIJZzGOhFpzU6PUd8SaUqHhc2jo_8eaWdXXa-CVQalg",
+   "note": "MCA21 registered address",
+   "asof": "2025-09-30"
+  }
+ },
+ "completeness_self": {
+  "financials": 4,
+  "founders": 9,
+  "funding": 9,
+  "identity": 9,
+  "investors": 8,
+  "legal": 5,
+  "people": 5,
+  "products": 7,
+  "sources": 8,
+  "traction": 6
+ },
+ "conflicts": [
+  {
+   "field": "funding_amount_2021",
+   "claim_a": "$50M raised in 2021 (per task prompt)",
+   "url_a": "task_prompt",
+   "claim_b": "$125M Series G in April 2021 (per PRNewswire, Inc42, PitchBook)",
+   "url_b": "https://www.prnewswire.com/news-releases/chargebee-raises-125-million-series-g-funding-to-accelerate-the-global-shift-to-subscriptions-301272245.html",
+   "resolution": "The $125M Series G figure is well-documented across multiple primary sources; the $50M claim is not corroborated.",
+   "resolved_value": "$125M Series G (April 2021)"
+  },
+  {
+   "field": "funding_amount_2022",
+   "claim_a": "$60M raised in 2022 (per task prompt)",
+   "url_a": "task_prompt",
+   "claim_b": "$250M Series H in February 2022 (per Insight Partners, Reuters, CB Insights)",
+   "url_b": "https://www.insightpartners.com/ideas/chargebee-raises-another-250m-to-meet-surging-demand-from-growing-subscription-and-saas-businesses",
+   "resolution": "The $250M Series H figure is well-documented; the $60M claim is not corroborated.",
+   "resolved_value": "$250M Series H (Feb 2022)"
+  },
+  {
+   "field": "valuation",
+   "claim_a": "$1.3B valuation (per task prompt)",
+   "url_a": "task_prompt",
+   "claim_b": "$1.4B post-money (Series G, April 2021) and $3.5B post-money (Series H, Feb 2022)",
+   "url_b": "https://www.prnewswire.com/news-releases/chargebee-raises-125-million-series-g-funding-to-accelerate-the-global-shift-to-subscriptions-301272245.html",
+   "resolution": "The $1.3B figure does not match any documented valuation. Series G was $1.4B; Series H was $3.5B.",
+   "resolved_value": "$1.4B (Series G) / $3.5B (Series H)"
+  },
+  {
+   "field": "city",
+   "claim_a": "Chennai (per existing enrich/chargebee.json)",
+   "url_a": "enrich/chargebee.json",
+   "claim_b": "Bengaluru mentioned as office location; US HQ in North Bethesda",
+   "url_b": "https://www.chargebee.com/contact",
+   "resolution": "Chennai is the registered office and primary India hub; Bengaluru is a secondary office. The company is dual US-India.",
+   "resolved_value": "Chennai (India registered office); North Bethesda MD (US HQ); Bengaluru (office)"
+  }
+ ],
+ "events": [
+  {
+   "confidence": "high",
+   "date": "2026-08-17",
+   "description": "Named Leader, 2026 Gartner Magic Quadrant for Recurring Billing, third consecutive year.",
+   "headline": "Chargebee named Leader in 2026 Gartner Magic Quadrant",
+   "source_url": "https://www.globenewswire.com/news-release/2026/08/17/3346250/0/en/chargebee-named-a-leader-in-2026-gartner-magic-quadrant-for-recurring-billing-applications-for-the-third-consecutive-year.html",
+   "type": "recognition"
+  },
+  {
+   "confidence": "high",
+   "date": "2025-09-03",
+   "description": "Acquired Trainn (Mar 2025) and inai (Sep 2025) per PitchBook deal list.",
+   "headline": "Acquisitions: Trainn, inai",
+   "source_url": "https://pitchbook.com/profiles/company/55782-55",
+   "type": "acquisition"
+  },
+  {
+   "type": "acquisition",
+   "headline": "Acquired Inai",
+   "date": "2025-09-03",
+   "description": "Acquired Inai, a payments intelligence and analytics company",
+   "source_url": "http://businesswire.com/news/home/20250903404872/en/Chargebee-Acquires-Inai-to-Supercharge-AI-Powered-Payments-Intelligence",
+   "source_title": "Chargebee Acquires Inai",
+   "source_date": "2025-09-03",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "acquisition",
+   "headline": "Acquired Trainn",
+   "date": "2025-03-28",
+   "description": "Acquired Trainn, a SaaS startup creating hyper-personalised videos for customer training",
+   "source_url": "https://pitchbook.com/profiles/company/55782-55",
+   "source_title": "PitchBook Chargebee Acquisitions",
+   "source_date": "2025-09-03",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "acquisition",
+   "headline": "Acquired Numberz",
+   "date": "2022-02-24",
+   "description": "Acquired collections management platform Numberz and launched Chargebee Receivables",
+   "source_url": "https://m.economictimes.com/tech/startups/chargebee-acquires-numbers-and-launches-chargebee-receivables/articleshow/89799415.cms",
+   "source_title": "Chargebee acquires Numberz",
+   "source_date": "2022-02-26",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "acquisition",
+   "headline": "Acquired Brightback",
+   "date": "2022-01-05",
+   "description": "Acquired Brightback, a customer retention automation platform; rebranded as Chargebee Retention",
+   "source_url": "https://www.globenewswire.com/news-release/2022/07/28/2487608/0/en/chargebee-enables-subscription-businesses-to-combat-economic-turmoil-with-2022-summer-product-release.html",
+   "source_title": "Chargebee Summer 2022 Product Release",
+   "source_date": "2022-07-28",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "acquisition",
+   "headline": "Acquired RevLock",
+   "date": "2021-10-05",
+   "description": "Acquired RevLock, an automated revenue recognition platform; rebranded as Chargebee RevRec",
+   "source_url": "https://www.prnewswire.com/news-releases/chargebee-adds-revenue-recognition-capabilities-to-solve-complex-finance-challenges-for-saas-and-subscription-based-businesses-301392345.html",
+   "source_title": "Chargebee adds revenue recognition capabilities",
+   "source_date": "2021-10-05",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "funding",
+   "headline": "Series H $250M at $3.5B valuation",
+   "date": "2022-02-01",
+   "description": "Raised $250M co-led by Tiger Global and Sequoia Capital at $3.5B post-money valuation",
+   "source_url": "https://www.insightpartners.com/ideas/chargebee-raises-another-250m-to-meet-surging-demand-from-growing-subscription-and-saas-businesses",
+   "source_title": "Chargebee Raises Another $250M",
+   "source_date": "2022-02-01",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "funding",
+   "headline": "Series G $125M at $1.4B valuation",
+   "date": "2021-04-20",
+   "description": "Raised $125M co-led by Sapphire Ventures, Tiger Global, and Insight Partners at $1.4B valuation",
+   "source_url": "https://www.prnewswire.com/news-releases/chargebee-raises-125-million-series-g-funding-to-accelerate-the-global-shift-to-subscriptions-301272245.html",
+   "source_title": "Chargebee Raises $125 Million Series G",
+   "source_date": "2021-04-20",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "layoff",
+   "headline": "Laid off ~100-120 employees (10%)",
+   "date": "2023-09-11",
+   "description": "Second round of layoffs; CEO cited market shifts",
+   "source_url": "https://layoffs.fyi/company/chargebee/",
+   "source_title": "Chargebee Layoffs - Layoffs.fyi",
+   "source_date": "2026-06-10",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "layoff",
+   "headline": "Laid off 142 employees (10%)",
+   "date": "2022-11-02",
+   "description": "First round of layoffs citing macroeconomic conditions",
+   "source_url": "https://inc42.com/buzz/saas-unicorn-chargebee-lays-off-10-workforce",
+   "source_title": "SaaS Unicorn Chargebee Lays Off 10% Workforce",
+   "source_date": "2022-11-03",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "recognition",
+   "headline": "Named Leader, 2026 Gartner Magic Quadrant for Recurring Billing",
+   "date": "2026-08-17",
+   "description": "Third consecutive year as Leader",
+   "source_url": "https://www.globenewswire.com/news-release/2026/08/17/3346250/0/en/chargebee-named-a-leader-in-2026-gartner-magic-quadrant-for-recurring-billing-applications-for-the-third-consecutive-year.html",
+   "source_title": "Chargebee Named a Leader in 2026 Gartner Magic Quadrant",
+   "source_date": "2026-08-17",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "recognition",
+   "headline": "Named Leader, 2025 Gartner Magic Quadrant for Recurring Billing",
+   "date": "2025-10-01",
+   "description": "Second consecutive year as Leader; furthest for Completeness of Vision",
+   "source_url": "https://www.chargebee.com/about",
+   "source_title": "Chargebee About Us",
+   "source_date": "2026-08-17",
+   "confidence": "HIGH"
+  }
+ ],
+ "financials": [
+  {
+   "confidence": "low",
+   "currency": "USD",
+   "fiscal_year": "2024",
+   "metric": "revenue",
+   "notes": "Third-party estimate, not company-reported; flagged as estimate.",
+   "source_title": "Chargebee Revenue 2024: $202.6M ARR, $3.5B Valuation",
+   "source_url": "http://getlatka.com/companies/chargebee",
+   "unit": "USD",
+   "value": "202.6M",
+   "value_type": "estimate"
+  },
+  {
+   "fiscal_year": "FY25",
+   "metric": "total_revenue",
+   "value": 372.9,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "press-quoted-filing",
+   "basis": "standalone",
+   "consolidated": "no",
+   "filing_date": "2025-09-30",
+   "source_url": "https://inc42.com/company/chargebee/financials",
+   "source_title": "Chargebee Financials - Inc42",
+   "source_date": "2026-05-28",
+   "confidence": "MEDIUM",
+   "notes": "Inc42 reports Rs 372.9 Cr+ FY24 revenue"
+  },
+  {
+   "fiscal_year": "FY25",
+   "metric": "total_revenue",
+   "value": 100,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "estimate",
+   "basis": "standalone",
+   "consolidated": "no",
+   "filing_date": "2025-03-31",
+   "source_url": "https://tracxn.com/d/legal-entities/india/chargebee-technologies-private-limited/__lIJZzGOhFpzU6PUd8SaUqHhc2jo_8eaWdXXa-CVQalg",
+   "source_title": "Tracxn 2026 Profile",
+   "source_date": "2026-07-17",
+   "confidence": "MEDIUM",
+   "notes": "Tracxn: between Rs 100 Cr and Rs 500 Cr for FY ending Mar 31, 2025"
+  },
+  {
+   "fiscal_year": "2024",
+   "metric": "arr",
+   "value": 202.6,
+   "unit": "million",
+   "currency": "USD",
+   "value_type": "estimate",
+   "basis": "consolidated",
+   "consolidated": "yes",
+   "filing_date": "2024-10-01",
+   "source_url": "https://getlatka.com/companies/chargebee",
+   "source_title": "Chargebee Revenue 2024: $202.6M Est. ARR",
+   "source_date": "2026-07-03",
+   "confidence": "LOW",
+   "notes": "Third-party estimate; up from $124.4M in 2023"
+  },
+  {
+   "fiscal_year": "2023",
+   "metric": "arr",
+   "value": 124.4,
+   "unit": "million",
+   "currency": "USD",
+   "value_type": "estimate",
+   "basis": "consolidated",
+   "consolidated": "yes",
+   "filing_date": "2023-11-01",
+   "source_url": "https://getlatka.com/companies/chargebee",
+   "source_title": "Chargebee Revenue 2024: $202.6M Est. ARR",
+   "source_date": "2026-07-03",
+   "confidence": "LOW",
+   "notes": "Third-party estimate"
+  },
+  {
+   "fiscal_year": "2022",
+   "metric": "arr",
+   "value": 115.4,
+   "unit": "million",
+   "currency": "USD",
+   "value_type": "estimate",
+   "basis": "consolidated",
+   "consolidated": "yes",
+   "filing_date": "2022-02-01",
+   "source_url": "https://getlatka.com/companies/chargebee",
+   "source_title": "Chargebee Revenue 2024: $202.6M Est. ARR",
+   "source_date": "2026-07-03",
+   "confidence": "LOW",
+   "notes": "Third-party estimate"
+  },
+  {
+   "fiscal_year": "2021",
+   "metric": "arr",
+   "value": 33.7,
+   "unit": "million",
+   "currency": "USD",
+   "value_type": "estimate",
+   "basis": "consolidated",
+   "consolidated": "yes",
+   "filing_date": "2021-01-01",
+   "source_url": "https://getlatka.com/companies/chargebee",
+   "source_title": "Chargebee Revenue 2024: $202.6M Est. ARR",
+   "source_date": "2026-07-03",
+   "confidence": "LOW",
+   "notes": "Third-party estimate"
+  },
+  {
+   "fiscal_year": "2020",
+   "metric": "arr",
+   "value": 24,
+   "unit": "million",
+   "currency": "USD",
+   "value_type": "estimate",
+   "basis": "consolidated",
+   "consolidated": "yes",
+   "filing_date": "2020-10-01",
+   "source_url": "https://getlatka.com/companies/chargebee",
+   "source_title": "Chargebee Revenue 2024: $202.6M Est. ARR",
+   "source_date": "2026-07-03",
+   "confidence": "LOW",
+   "notes": "Third-party estimate"
+  }
+ ],
+ "founders": [
+  {
+   "confidence": "high",
+   "name": "Krish Subramanian",
+   "role": "CEO & Co-founder",
+   "source_url": "https://chargebee.com/about",
+   "still_active": true,
+   "type": "co-founder"
+  },
+  {
+   "confidence": "high",
+   "name": "Rajaraman Santhanam",
+   "role": "CPO & Co-founder",
+   "source_url": "https://chargebee.com/about",
+   "still_active": true,
+   "type": "co-founder"
+  },
+  {
+   "confidence": "high",
+   "name": "Saravanan KP",
+   "role": "CTO & Co-founder",
+   "source_url": "https://chargebee.com/about",
+   "still_active": true,
+   "type": "co-founder"
+  },
+  {
+   "confidence": "medium",
+   "name": "Thiyagarajan T (Thiyagu)",
+   "role": "Co-founder (ex)",
+   "source_url": "https://platform.tracxn.com/a/d/company/52ca75c7e4b093852fc328a8/chargebee",
+   "still_active": false,
+   "type": "co-founder"
+  }
+ ],
+ "funding_rounds": [
+  {
+   "all_investors": [
+    "Tiger Global",
+    "Sequoia Capital",
+    "Insight Partners",
+    "Sapphire Ventures",
+    "Steadview Capital"
+   ],
+   "amount": "250M",
+   "announced_date": "2022-02-01",
+   "confidence": "high",
+   "currency": "USD",
+   "lead_investors": [
+    "Tiger Global",
+    "Sequoia Capital"
+   ],
+   "round_type": "Series H",
+   "source_title": "Chargebee raises $250 Mn led by Tiger and Sequoia at $3.5 Bn valuation",
+   "source_url": "https://entrackr.com/2022/02/chargebee-raises-250-mn-led-by-tiger-and-sequoia-at-3-5-bn-valuation",
+   "tier": "T2",
+   "valuation": "3.5B",
+   "valuation_type": "post-money"
+  },
+  {
+   "all_investors": [
+    "Sapphire Ventures",
+    "Tiger Global",
+    "Insight Partners",
+    "Steadview Capital"
+   ],
+   "amount": "125M",
+   "announced_date": "2021-04-20",
+   "confidence": "high",
+   "currency": "USD",
+   "lead_investors": [
+    "Sapphire Ventures",
+    "Tiger Global",
+    "Insight Partners"
+   ],
+   "round_type": "Series G",
+   "source_title": "Chargebee Raises $125 Million Series G Funding",
+   "source_url": "https://www.prnewswire.com/news-releases/chargebee-raises-125-million-series-g-funding-to-accelerate-the-global-shift-to-subscriptions-301272245.html",
+   "tier": "T1",
+   "valuation": "1.4B",
+   "valuation_type": "post-money"
+  },
+  {
+   "round_type": "Series H",
+   "announced_date": "2022-02-01",
+   "round_date": "2022-02-01",
+   "amount": 250000000,
+   "currency": "USD",
+   "valuation": 3500000000,
+   "valuation_currency": "USD",
+   "valuation_type": "post-money",
+   "lead_investors": [
+    "Tiger Global",
+    "Sequoia Capital"
+   ],
+   "all_investors": [
+    "Tiger Global",
+    "Sequoia Capital",
+    "Insight Partners",
+    "Sapphire Ventures",
+    "Steadview Capital"
+   ],
+   "instrument": "preferred equity",
+   "purpose": "product innovation, global expansion",
+   "source_url": "https://www.insightpartners.com/ideas/chargebee-raises-another-250m-to-meet-surging-demand-from-growing-subscription-and-saas-businesses",
+   "source_title": "Chargebee Raises Another $250M",
+   "source_date": "2022-02-01",
+   "confidence": "HIGH"
+  },
+  {
+   "round_type": "Series G",
+   "announced_date": "2021-04-20",
+   "round_date": "2021-04-20",
+   "amount": 125000000,
+   "currency": "USD",
+   "valuation": 1400000000,
+   "valuation_currency": "USD",
+   "valuation_type": "post-money",
+   "lead_investors": [
+    "Sapphire Ventures",
+    "Tiger Global",
+    "Insight Partners"
+   ],
+   "all_investors": [
+    "Sapphire Ventures",
+    "Tiger Global",
+    "Insight Partners",
+    "Steadview Capital"
+   ],
+   "instrument": "preferred equity",
+   "purpose": "expansion and partnerships",
+   "source_url": "https://www.prnewswire.com/news-releases/chargebee-raises-125-million-series-g-funding-to-accelerate-the-global-shift-to-subscriptions-301272245.html",
+   "source_title": "Chargebee Raises $125 Million Series G",
+   "source_date": "2021-04-20",
+   "confidence": "HIGH"
+  },
+  {
+   "round_type": "Series F",
+   "announced_date": "2020-10-06",
+   "round_date": "2020-10-06",
+   "amount": 55000000,
+   "currency": "USD",
+   "valuation": 504990000,
+   "valuation_currency": "USD",
+   "valuation_type": "post-money",
+   "lead_investors": [
+    "Insight Partners"
+   ],
+   "all_investors": [
+    "Insight Partners",
+    "Tiger Global Management",
+    "Steadview Capital"
+   ],
+   "instrument": "preferred equity",
+   "purpose": "product enhancement",
+   "source_url": "https://www.chargebee.com/blog/chargebee-funding-series-f",
+   "source_title": "$55M In Series F",
+   "source_date": "2020-10-06",
+   "confidence": "HIGH"
+  },
+  {
+   "round_type": "Series C",
+   "announced_date": "2018-03-20",
+   "round_date": "2018-03-20",
+   "amount": 18364400,
+   "currency": "USD",
+   "valuation": 100000000,
+   "valuation_currency": "USD",
+   "valuation_type": "post-money",
+   "lead_investors": [
+    "Insight Partners"
+   ],
+   "all_investors": [
+    "Tiger Global Management",
+    "Accel",
+    "Insight Partners"
+   ],
+   "instrument": "preferred equity",
+   "purpose": "product development",
+   "source_url": "https://www.chargebee.com/blog/chargebee-funding-series-c-insight-venture-partners",
+   "source_title": "We Just Raised $18 Million In Series-C",
+   "source_date": "2018-03-22",
+   "confidence": "HIGH"
+  },
+  {
+   "round_type": "Series B",
+   "announced_date": "2015-03-10",
+   "round_date": "2015-03-10",
+   "amount": 5000000,
+   "currency": "USD",
+   "valuation": null,
+   "valuation_currency": "",
+   "valuation_type": "post-money",
+   "lead_investors": [
+    "Tiger Global Management"
+   ],
+   "all_investors": [
+    "Tiger Global Management",
+    "Accel"
+   ],
+   "instrument": "preferred equity",
+   "purpose": "growth stage",
+   "source_url": "https://inc42.com/company/chargebee/funding/",
+   "source_title": "ChargeBee Funding 2026 - Inc42",
+   "source_date": "2026-05-28",
+   "confidence": "MEDIUM"
+  },
+  {
+   "round_type": "Series A",
+   "announced_date": "2014-01-12",
+   "round_date": "2014-01-12",
+   "amount": 800000,
+   "currency": "USD",
+   "valuation": null,
+   "valuation_currency": "",
+   "valuation_type": "post-money",
+   "lead_investors": [
+    "Accel"
+   ],
+   "all_investors": [
+    "Accel"
+   ],
+   "instrument": "preferred equity",
+   "purpose": "early growth",
+   "source_url": "https://inc42.com/company/chargebee/funding/",
+   "source_title": "ChargeBee Funding 2026 - Inc42",
+   "source_date": "2026-05-28",
+   "confidence": "MEDIUM"
+  },
+  {
+   "round_type": "Seed",
+   "announced_date": "2013-10-03",
+   "round_date": "2013-10-03",
+   "amount": 1208220,
+   "currency": "USD",
+   "valuation": null,
+   "valuation_currency": "",
+   "valuation_type": "post-money",
+   "lead_investors": [
+    "Accel"
+   ],
+   "all_investors": [
+    "Accel"
+   ],
+   "instrument": "equity",
+   "purpose": "seed funding",
+   "source_url": "https://platform.tracxn.com/a/d/company/52ca75c7e4b093852fc328a8/chargebee",
+   "source_title": "Tracxn Chargebee Funding History",
+   "source_date": "2025-04-15",
+   "confidence": "MEDIUM"
+  },
+  {
+   "round_type": "Angel",
+   "announced_date": "2012-09-30",
+   "round_date": "2012-09-30",
+   "amount": 370000,
+   "currency": "USD",
+   "valuation": null,
+   "valuation_currency": "",
+   "valuation_type": "post-money",
+   "lead_investors": [],
+   "all_investors": [],
+   "instrument": "equity",
+   "purpose": "angel funding",
+   "source_url": "https://inc42.com/company/chargebee/funding/",
+   "source_title": "ChargeBee Funding 2026 - Inc42",
+   "source_date": "2026-05-28",
+   "confidence": "MEDIUM"
+  }
+ ],
+ "gaps": [
+  "CIN/incorporation registry page not surfaced in LITE searches",
+  "Audited MCA financials not captured; only third-party revenue estimate",
+  "Post-2022 funding (Oct 2024 later-stage VC per PitchBook) terms undisclosed"
+ ],
+ "investor_links": [
+  {
+   "confidence": "high",
+   "investor": "Tiger Global Management",
+   "investor_type": "VC",
+   "lead": true,
+   "rounds": [
+    "Series G",
+    "Series H"
+   ],
+   "source_url": "https://entrackr.com/2022/02/chargebee-raises-250-mn-led-by-tiger-and-sequoia-at-3-5-bn-valuation"
+  },
+  {
+   "confidence": "high",
+   "investor": "Sequoia Capital (Peak XV)",
+   "investor_type": "VC",
+   "lead": true,
+   "rounds": [
+    "Series H"
+   ],
+   "source_url": "https://entrackr.com/2022/02/chargebee-raises-250-mn-led-by-tiger-and-sequoia-at-3-5-bn-valuation"
+  },
+  {
+   "confidence": "high",
+   "investor": "Sapphire Ventures",
+   "investor_type": "VC",
+   "lead": true,
+   "rounds": [
+    "Series G"
+   ],
+   "source_url": "https://www.prnewswire.com/news-releases/chargebee-raises-125-million-series-g-funding-to-accelerate-the-global-shift-to-subscriptions-301272245.html"
+  },
+  {
+   "confidence": "high",
+   "investor": "Insight Partners",
+   "investor_type": "VC",
+   "lead": false,
+   "rounds": [
+    "Series G",
+    "Series H"
+   ],
+   "source_url": "https://www.prnewswire.com/news-releases/chargebee-raises-125-million-series-g-funding-to-accelerate-the-global-shift-to-subscriptions-301272245.html"
+  }
+ ],
+ "research_log": [
+  {
+   "found": "Active; Series H, $3.5B val, 6500+ customers",
+   "query": "Chargebee startup status 2025 2026 active"
+  },
+  {
+   "found": "Series G $125M/$1.4B; Series H $250M/$3.5B with leads",
+   "query": "Chargebee funding Series G Series H valuation investors"
+  },
+  {
+   "found": "4 founders; Latka 2024 revenue estimate $202.6M",
+   "query": "Chargebee founders revenue"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Chargebee CIN incorporation India private limited entity registration",
+   "status": "done",
+   "found": "CIN U72900TN2012PTC084306; incorporated Feb 3, 2012; registered office Chennai; directors: Karthik Srinivasan, Rajaraman Santhanam, Saravanan Kolathupalaya Ponnuswamy",
+   "next_action": "",
+   "agent": "web_search+tracxn+indiafilings"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Chargebee founders CEO change executive moves 2024-26",
+   "status": "done",
+   "found": "Krish Subramanian still CEO as of Aug 2026; no CEO change; several exec exits (Kapil Mehta, Braden Lanham, Jordan Timothy, Nanda Kishore)",
+   "next_action": "",
+   "agent": "web_search+chargebee.com"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Chargebee funding rounds all history instruments",
+   "status": "done",
+   "found": "Full funding history: Angel $370K (2012), Seed $1.2M (2013), Series A $800K (2014), Series B $5M (2015), Series C $18.4M (2018), Series D $14M (2019), Series F $55M (2020), Series G $125M (2021), Seri",
+   "next_action": "",
+   "agent": "web_search+inc42+cbinsights"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Chargebee ARR revenue MCA financials FY24 FY25",
+   "status": "done",
+   "found": "GetLatka estimates: $202.6M ARR 2024, $124.4M 2023, $115.4M 2022, $33.7M 2021, $24M 2020. MCA India entity: Rs 300-400 Cr revenue FY25 (Tofler), Rs 372.9 Cr FY24 (Inc42).",
+   "next_action": "",
+   "agent": "web_search+getlatka+tracxn"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Chargebee customers Calendly Grab named enterprise",
+   "status": "done",
+   "found": "Named customers: Freshworks, Calendly, Okta, Doodle, Pret a Manger, Study.com, DeepL, Lambda, Gorgias, Condé Nast, Zapier, LegalZoom, Freepik, Agicap, Future, Wolfson Brands, Typeform. No evidence of ",
+   "next_action": "",
+   "agent": "web_search+chargebee.com"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Chargebee RevenueWorks product API acquisitions status",
+   "status": "done",
+   "found": "No product called RevenueWorks found. Chargebee products: Billing, RevRec, Receivables, Retention, Entitlements, CPQ, plus acquired Inai and Trainn.",
+   "next_action": "",
+   "agent": "web_search+chargebee.com"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Chargebee layoffs headcount Bengaluru office",
+   "status": "done",
+   "found": "Layoffs: Nov 2022 (142 employees, 10%), Sep 2023 (100-120 employees, 10%). Bengaluru office at WeWork Prestige Tech Park.",
+   "next_action": "",
+   "agent": "web_search+thehindubusinessline+layoffs.fyi"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Chargebee legal litigation regulatory issues",
+   "status": "done",
+   "found": "No litigation or regulatory issues found. MCA records show Active status with no open charges.",
+   "next_action": "",
+   "agent": "web_search+registerkaro"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Chargebee CIN incorporation India private limited entity registration",
+   "status": "done",
+   "found": "CIN U72900TN2012PTC084306; incorporated Feb 3, 2012; registered office Chennai; directors: Karthik Srinivasan, Rajaraman Santhanam, Saravanan Kolathupalaya Ponnuswamy",
+   "next_action": "",
+   "agent": "web_search+tracxn+indiafilings"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Chargebee founders CEO change executive moves 2024-26",
+   "status": "done",
+   "found": "Krish Subramanian still CEO as of Aug 2026; no CEO change; several exec exits (Kapil Mehta, Braden Lanham, Jordan Timothy, Nanda Kishore)",
+   "next_action": "",
+   "agent": "web_search+chargebee.com"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Chargebee funding rounds all history instruments",
+   "status": "done",
+   "found": "Full funding history: Angel $370K (2012), Seed $1.2M (2013), Series A $800K (2014), Series B $5M (2015), Series C $18.4M (2018), Series D $14M (2019), Series F $55M (2020), Series G $125M (2021), Seri",
+   "next_action": "",
+   "agent": "web_search+inc42+cbinsights"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Chargebee ARR revenue MCA financials FY24 FY25",
+   "status": "done",
+   "found": "GetLatka estimates: $202.6M ARR 2024, $124.4M 2023, $115.4M 2022, $33.7M 2021, $24M 2020. MCA India entity: Rs 300-400 Cr revenue FY25 (Tofler), Rs 372.9 Cr FY24 (Inc42).",
+   "next_action": "",
+   "agent": "web_search+getlatka+tracxn"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Chargebee customers Calendly Grab named enterprise",
+   "status": "done",
+   "found": "Named customers: Freshworks, Calendly, Okta, Doodle, Pret a Manger, Study.com, DeepL, Lambda, Gorgias, Condé Nast, Zapier, LegalZoom, Freepik, Agicap, Future, Wolfson Brands, Typeform. No evidence of ",
+   "next_action": "",
+   "agent": "web_search+chargebee.com"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Chargebee CIN incorporation India private limited entity registration",
+   "status": "done",
+   "found": "CIN U72900TN2012PTC084306; incorporated Feb 3, 2012; registered office Chennai; directors: Karthik Srinivasan, Rajaraman Santhanam, Saravanan Kolathupalaya Ponnuswamy",
+   "next_action": "",
+   "agent": "web_search+tracxn+indiafilings"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Chargebee founders CEO change executive moves 2024-26",
+   "status": "done",
+   "found": "Krish Subramanian still CEO as of Aug 2026; no CEO change; several exec exits (Kapil Mehta, Braden Lanham, Jordan Timothy, Nanda Kishore)",
+   "next_action": "",
+   "agent": "web_search+chargebee.com"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Chargebee funding rounds all history instruments",
+   "status": "done",
+   "found": "Full funding history: Angel $370K (2012), Seed $1.2M (2013), Series A $800K (2014), Series B $5M (2015), Series C $18.4M (2018), Series D $14M (2019), Series F $55M (2020), Series G $125M (2021), Seri",
+   "next_action": "",
+   "agent": "web_search+inc42+cbinsights"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Chargebee ARR revenue MCA financials FY24 FY25",
+   "status": "done",
+   "found": "GetLatka estimates: $202.6M ARR 2024, $124.4M 2023, $115.4M 2022, $33.7M 2021, $24M 2020. MCA India entity: Rs 300-400 Cr revenue FY25 (Tofler), Rs 372.9 Cr FY24 (Inc42).",
+   "next_action": "",
+   "agent": "web_search+getlatka+tracxn"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Chargebee customers Calendly Grab named enterprise",
+   "status": "done",
+   "found": "Named customers: Freshworks, Calendly, Okta, Doodle, Pret a Manger, Study.com, DeepL, Lambda, Gorgias, Condé Nast, Zapier, LegalZoom, Freepik, Agicap, Future, Wolfson Brands, Typeform. No evidence of ",
+   "next_action": "",
+   "agent": "web_search+chargebee.com"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Chargebee CIN incorporation India private limited entity registration",
+   "status": "done",
+   "found": "CIN U72900TN2012PTC084306; incorporated Feb 3, 2012; registered office Chennai; directors: Karthik Srinivasan, Rajaraman Santhanam, Saravanan Kolathupalaya Ponnuswamy",
+   "next_action": "",
+   "agent": "web_search+tracxn+indiafilings"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Chargebee founders CEO change executive moves 2024-26",
+   "status": "done",
+   "found": "Krish Subramanian still CEO as of Aug 2026; no CEO change; several exec exits (Kapil Mehta, Braden Lanham, Jordan Timothy, Nanda Kishore)",
+   "next_action": "",
+   "agent": "web_search+chargebee.com"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Chargebee funding rounds all history instruments",
+   "status": "done",
+   "found": "Full funding history: Angel $370K (2012), Seed $1.2M (2013), Series A $800K (2014), Series B $5M (2015), Series C $18.4M (2018), Series D $14M (2019), Series F $55M (2020), Series G $125M (2021), Seri",
+   "next_action": "",
+   "agent": "web_search+inc42+cbinsights"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Chargebee ARR revenue MCA financials FY24 FY25",
+   "status": "done",
+   "found": "GetLatka estimates: $202.6M ARR 2024, $124.4M 2023, $115.4M 2022, $33.7M 2021, $24M 2020. MCA India entity: Rs 300-400 Cr revenue FY25 (Tofler), Rs 372.9 Cr FY24 (Inc42).",
+   "next_action": "",
+   "agent": "web_search+getlatka+tracxn"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Chargebee customers Calendly Grab named enterprise",
+   "status": "done",
+   "found": "Named customers: Freshworks, Calendly, Okta, Doodle, Pret a Manger, Study.com, DeepL, Lambda, Gorgias, Condé Nast, Zapier, LegalZoom, Freepik, Agicap, Future, Wolfson Brands, Typeform. No evidence of ",
+   "next_action": "",
+   "agent": "web_search+chargebee.com"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Chargebee CIN incorporation India private limited entity registration",
+   "status": "done",
+   "found": "CIN U72900TN2012PTC084306; incorporated Feb 3, 2012; registered office Chennai; directors: Karthik Srinivasan, Rajaraman Santhanam, Saravanan Kolathupalaya Ponnuswamy",
+   "next_action": "",
+   "agent": "web_search+tracxn+indiafilings"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Chargebee founders CEO change executive moves 2024-26",
+   "status": "done",
+   "found": "Krish Subramanian still CEO as of Aug 2026; no CEO change; several exec exits (Kapil Mehta, Braden Lanham, Jordan Timothy, Nanda Kishore)",
+   "next_action": "",
+   "agent": "web_search+chargebee.com"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Chargebee funding rounds all history instruments",
+   "status": "done",
+   "found": "Full funding history: Angel $370K (2012), Seed $1.2M (2013), Series A $800K (2014), Series B $5M (2015), Series C $18.4M (2018), Series D $14M (2019), Series F $55M (2020), Series G $125M (2021), Seri",
+   "next_action": "",
+   "agent": "web_search+inc42+cbinsights"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Chargebee ARR revenue MCA financials FY24 FY25",
+   "status": "done",
+   "found": "GetLatka estimates: $202.6M ARR 2024, $124.4M 2023, $115.4M 2022, $33.7M 2021, $24M 2020. MCA India entity: Rs 300-400 Cr revenue FY25 (Tofler), Rs 372.9 Cr FY24 (Inc42).",
+   "next_action": "",
+   "agent": "web_search+getlatka+tracxn"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Chargebee customers Calendly Grab named enterprise",
+   "status": "done",
+   "found": "Named customers: Freshworks, Calendly, Okta, Doodle, Pret a Manger, Study.com, DeepL, Lambda, Gorgias, Condé Nast, Zapier, LegalZoom, Freepik, Agicap, Future, Wolfson Brands, Typeform. No evidence of ",
+   "next_action": "",
+   "agent": "web_search+chargebee.com"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Chargebee CIN incorporation India private limited entity registration",
+   "status": "done",
+   "found": "CIN U72900TN2012PTC084306; incorporated Feb 3, 2012; registered office Chennai; directors: Karthik Srinivasan, Rajaraman Santhanam, Saravanan Kolathupalaya Ponnuswamy",
+   "next_action": "",
+   "agent": "web_search+tracxn+indiafilings"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Chargebee founders CEO change executive moves 2024-26",
+   "status": "done",
+   "found": "Krish Subramanian still CEO as of Aug 2026; no CEO change; several exec exits (Kapil Mehta, Braden Lanham, Jordan Timothy, Nanda Kishore)",
+   "next_action": "",
+   "agent": "web_search+chargebee.com"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Chargebee funding rounds all history instruments",
+   "status": "done",
+   "found": "Full funding history: Angel $370K (2012), Seed $1.2M (2013), Series A $800K (2014), Series B $5M (2015), Series C $18.4M (2018), Series D $14M (2019), Series F $55M (2020), Series G $125M (2021), Seri",
+   "next_action": "",
+   "agent": "web_search+inc42+cbinsights"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Chargebee ARR revenue MCA financials FY24 FY25",
+   "status": "done",
+   "found": "GetLatka estimates: $202.6M ARR 2024, $124.4M 2023, $115.4M 2022, $33.7M 2021, $24M 2020. MCA India entity: Rs 300-400 Cr revenue FY25 (Tofler), Rs 372.9 Cr FY24 (Inc42).",
+   "next_action": "",
+   "agent": "web_search+getlatka+tracxn"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Chargebee customers Calendly Grab named enterprise",
+   "status": "done",
+   "found": "Named customers: Freshworks, Calendly, Okta, Doodle, Pret a Manger, Study.com, DeepL, Lambda, Gorgias, Condé Nast, Zapier, LegalZoom, Freepik, Agicap, Future, Wolfson Brands, Typeform. No evidence of ",
+   "next_action": "",
+   "agent": "web_search+chargebee.com"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Chargebee CIN incorporation India private limited entity registration",
+   "status": "done",
+   "found": "CIN U72900TN2012PTC084306; incorporated Feb 3, 2012; registered office Chennai; directors: Karthik Srinivasan, Rajaraman Santhanam, Saravanan Kolathupalaya Ponnuswamy",
+   "next_action": "",
+   "agent": "web_search+tracxn+indiafilings"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Chargebee founders CEO change executive moves 2024-26",
+   "status": "done",
+   "found": "Krish Subramanian still CEO as of Aug 2026; no CEO change; several exec exits (Kapil Mehta, Braden Lanham, Jordan Timothy, Nanda Kishore)",
+   "next_action": "",
+   "agent": "web_search+chargebee.com"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Chargebee funding rounds all history instruments",
+   "status": "done",
+   "found": "Full funding history: Angel $370K (2012), Seed $1.2M (2013), Series A $800K (2014), Series B $5M (2015), Series C $18.4M (2018), Series D $14M (2019), Series F $55M (2020), Series G $125M (2021), Seri",
+   "next_action": "",
+   "agent": "web_search+inc42+cbinsights"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Chargebee ARR revenue MCA financials FY24 FY25",
+   "status": "done",
+   "found": "GetLatka estimates: $202.6M ARR 2024, $124.4M 2023, $115.4M 2022, $33.7M 2021, $24M 2020. MCA India entity: Rs 300-400 Cr revenue FY25 (Tofler), Rs 372.9 Cr FY24 (Inc42).",
+   "next_action": "",
+   "agent": "web_search+getlatka+tracxn"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Chargebee customers Calendly Grab named enterprise",
+   "status": "done",
+   "found": "Named customers: Freshworks, Calendly, Okta, Doodle, Pret a Manger, Study.com, DeepL, Lambda, Gorgias, Condé Nast, Zapier, LegalZoom, Freepik, Agicap, Future, Wolfson Brands, Typeform. No evidence of ",
+   "next_action": "",
+   "agent": "web_search+chargebee.com"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Chargebee CIN incorporation India private limited entity registration",
+   "status": "done",
+   "found": "CIN U72900TN2012PTC084306; incorporated Feb 3, 2012; registered office Chennai; directors: Karthik Srinivasan, Rajaraman Santhanam, Saravanan Kolathupalaya Ponnuswamy",
+   "next_action": "",
+   "agent": "web_search+tracxn+indiafilings"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Chargebee founders CEO change executive moves 2024-26",
+   "status": "done",
+   "found": "Krish Subramanian still CEO as of Aug 2026; no CEO change; several exec exits (Kapil Mehta, Braden Lanham, Jordan Timothy, Nanda Kishore)",
+   "next_action": "",
+   "agent": "web_search+chargebee.com"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Chargebee funding rounds all history instruments",
+   "status": "done",
+   "found": "Full funding history: Angel $370K (2012), Seed $1.2M (2013), Series A $800K (2014), Series B $5M (2015), Series C $18.4M (2018), Series D $14M (2019), Series F $55M (2020), Series G $125M (2021), Seri",
+   "next_action": "",
+   "agent": "web_search+inc42+cbinsights"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Chargebee ARR revenue MCA financials FY24 FY25",
+   "status": "done",
+   "found": "GetLatka estimates: $202.6M ARR 2024, $124.4M 2023, $115.4M 2022, $33.7M 2021, $24M 2020. MCA India entity: Rs 300-400 Cr revenue FY25 (Tofler), Rs 372.9 Cr FY24 (Inc42).",
+   "next_action": "",
+   "agent": "web_search+getlatka+tracxn"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Chargebee customers Calendly Grab named enterprise",
+   "status": "done",
+   "found": "Named customers: Freshworks, Calendly, Okta, Doodle, Pret a Manger, Study.com, DeepL, Lambda, Gorgias, Condé Nast, Zapier, LegalZoom, Freepik, Agicap, Future, Wolfson Brands, Typeform. No evidence of ",
+   "next_action": "",
+   "agent": "web_search+chargebee.com"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Chargebee CIN incorporation India private limited entity registration",
+   "status": "done",
+   "found": "CIN U72900TN2012PTC084306; incorporated Feb 3, 2012; registered office Chennai; directors: Karthik Srinivasan, Rajaraman Santhanam, Saravanan Kolathupalaya Ponnuswamy",
+   "next_action": "",
+   "agent": "web_search+tracxn+indiafilings"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Chargebee founders CEO change executive moves 2024-26",
+   "status": "done",
+   "found": "Krish Subramanian still CEO as of Aug 2026; no CEO change; several exec exits (Kapil Mehta, Braden Lanham, Jordan Timothy, Nanda Kishore)",
+   "next_action": "",
+   "agent": "web_search+chargebee.com"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Chargebee funding rounds all history instruments",
+   "status": "done",
+   "found": "Full funding history: Angel $370K (2012), Seed $1.2M (2013), Series A $800K (2014), Series B $5M (2015), Series C $18.4M (2018), Series D $14M (2019), Series F $55M (2020), Series G $125M (2021), Seri",
+   "next_action": "",
+   "agent": "web_search+inc42+cbinsights"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Chargebee ARR revenue MCA financials FY24 FY25",
+   "status": "done",
+   "found": "GetLatka estimates: $202.6M ARR 2024, $124.4M 2023, $115.4M 2022, $33.7M 2021, $24M 2020. MCA India entity: Rs 300-400 Cr revenue FY25 (Tofler), Rs 372.9 Cr FY24 (Inc42).",
+   "next_action": "",
+   "agent": "web_search+getlatka+tracxn"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Chargebee customers Calendly Grab named enterprise",
+   "status": "done",
+   "found": "Named customers: Freshworks, Calendly, Okta, Doodle, Pret a Manger, Study.com, DeepL, Lambda, Gorgias, Condé Nast, Zapier, LegalZoom, Freepik, Agicap, Future, Wolfson Brands, Typeform. No evidence of ",
+   "next_action": "",
+   "agent": "web_search+chargebee.com"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Chargebee CIN incorporation India private limited entity registration",
+   "status": "done",
+   "found": "CIN U72900TN2012PTC084306; incorporated Feb 3, 2012; registered office Chennai; directors: Karthik Srinivasan, Rajaraman Santhanam, Saravanan Kolathupalaya Ponnuswamy",
+   "next_action": "",
+   "agent": "web_search+tracxn+indiafilings"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Chargebee founders CEO change executive moves 2024-26",
+   "status": "done",
+   "found": "Krish Subramanian still CEO as of Aug 2026; no CEO change; several exec exits (Kapil Mehta, Braden Lanham, Jordan Timothy, Nanda Kishore)",
+   "next_action": "",
+   "agent": "web_search+chargebee.com"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Chargebee funding rounds all history instruments",
+   "status": "done",
+   "found": "Full funding history: Angel $370K (2012), Seed $1.2M (2013), Series A $800K (2014), Series B $5M (2015), Series C $18.4M (2018), Series D $14M (2019), Series F $55M (2020), Series G $125M (2021), Seri",
+   "next_action": "",
+   "agent": "web_search+inc42+cbinsights"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Chargebee ARR revenue MCA financials FY24 FY25",
+   "status": "done",
+   "found": "GetLatka estimates: $202.6M ARR 2024, $124.4M 2023, $115.4M 2022, $33.7M 2021, $24M 2020. MCA India entity: Rs 300-400 Cr revenue FY25 (Tofler), Rs 372.9 Cr FY24 (Inc42).",
+   "next_action": "",
+   "agent": "web_search+getlatka+tracxn"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Chargebee customers Calendly Grab named enterprise",
+   "status": "done",
+   "found": "Named customers: Freshworks, Calendly, Okta, Doodle, Pret a Manger, Study.com, DeepL, Lambda, Gorgias, Condé Nast, Zapier, LegalZoom, Freepik, Agicap, Future, Wolfson Brands, Typeform. No evidence of ",
+   "next_action": "",
+   "agent": "web_search+chargebee.com"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Chargebee CIN incorporation India private limited entity registration",
+   "status": "done",
+   "found": "CIN U72900TN2012PTC084306; incorporated Feb 3, 2012; registered office Chennai; directors: Karthik Srinivasan, Rajaraman Santhanam, Saravanan Kolathupalaya Ponnuswamy",
+   "next_action": "",
+   "agent": "web_search+tracxn+indiafilings"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Chargebee founders CEO change executive moves 2024-26",
+   "status": "done",
+   "found": "Krish Subramanian still CEO as of Aug 2026; no CEO change; several exec exits (Kapil Mehta, Braden Lanham, Jordan Timothy, Nanda Kishore)",
+   "next_action": "",
+   "agent": "web_search+chargebee.com"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Chargebee funding rounds all history instruments",
+   "status": "done",
+   "found": "Full funding history: Angel $370K (2012), Seed $1.2M (2013), Series A $800K (2014), Series B $5M (2015), Series C $18.4M (2018), Series D $14M (2019), Series F $55M (2020), Series G $125M (2021), Seri",
+   "next_action": "",
+   "agent": "web_search+inc42+cbinsights"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Chargebee ARR revenue MCA financials FY24 FY25",
+   "status": "done",
+   "found": "GetLatka estimates: $202.6M ARR 2024, $124.4M 2023, $115.4M 2022, $33.7M 2021, $24M 2020. MCA India entity: Rs 300-400 Cr revenue FY25 (Tofler), Rs 372.9 Cr FY24 (Inc42).",
+   "next_action": "",
+   "agent": "web_search+getlatka+tracxn"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Chargebee customers Calendly Grab named enterprise",
+   "status": "done",
+   "found": "Named customers: Freshworks, Calendly, Okta, Doodle, Pret a Manger, Study.com, DeepL, Lambda, Gorgias, Condé Nast, Zapier, LegalZoom, Freepik, Agicap, Future, Wolfson Brands, Typeform. No evidence of ",
+   "next_action": "",
+   "agent": "web_search+chargebee.com"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Chargebee CIN incorporation India private limited entity registration",
+   "status": "done",
+   "found": "CIN U72900TN2012PTC084306; incorporated Feb 3, 2012; registered office Chennai; directors: Karthik Srinivasan, Rajaraman Santhanam, Saravanan Kolathupalaya Ponnuswamy",
+   "next_action": "",
+   "agent": "web_search+tracxn+indiafilings"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Chargebee founders CEO change executive moves 2024-26",
+   "status": "done",
+   "found": "Krish Subramanian still CEO as of Aug 2026; no CEO change; several exec exits (Kapil Mehta, Braden Lanham, Jordan Timothy, Nanda Kishore)",
+   "next_action": "",
+   "agent": "web_search+chargebee.com"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Chargebee funding rounds all history instruments",
+   "status": "done",
+   "found": "Full funding history: Angel $370K (2012), Seed $1.2M (2013), Series A $800K (2014), Series B $5M (2015), Series C $18.4M (2018), Series D $14M (2019), Series F $55M (2020), Series G $125M (2021), Seri",
+   "next_action": "",
+   "agent": "web_search+inc42+cbinsights"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Chargebee ARR revenue MCA financials FY24 FY25",
+   "status": "done",
+   "found": "GetLatka estimates: $202.6M ARR 2024, $124.4M 2023, $115.4M 2022, $33.7M 2021, $24M 2020. MCA India entity: Rs 300-400 Cr revenue FY25 (Tofler), Rs 372.9 Cr FY24 (Inc42).",
+   "next_action": "",
+   "agent": "web_search+getlatka+tracxn"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Chargebee customers Calendly Grab named enterprise",
+   "status": "done",
+   "found": "Named customers: Freshworks, Calendly, Okta, Doodle, Pret a Manger, Study.com, DeepL, Lambda, Gorgias, Condé Nast, Zapier, LegalZoom, Freepik, Agicap, Future, Wolfson Brands, Typeform. No evidence of ",
+   "next_action": "",
+   "agent": "web_search+chargebee.com"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Chargebee CIN incorporation India private limited entity registration",
+   "status": "done",
+   "found": "CIN U72900TN2012PTC084306; incorporated Feb 3, 2012; registered office Chennai; directors: Karthik Srinivasan, Rajaraman Santhanam, Saravanan Kolathupalaya Ponnuswamy",
+   "next_action": "",
+   "agent": "web_search+tracxn+indiafilings"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Chargebee founders CEO change executive moves 2024-26",
+   "status": "done",
+   "found": "Krish Subramanian still CEO as of Aug 2026; no CEO change; several exec exits (Kapil Mehta, Braden Lanham, Jordan Timothy, Nanda Kishore)",
+   "next_action": "",
+   "agent": "web_search+chargebee.com"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Chargebee funding rounds all history instruments",
+   "status": "done",
+   "found": "Full funding history: Angel $370K (2012), Seed $1.2M (2013), Series A $800K (2014), Series B $5M (2015), Series C $18.4M (2018), Series D $14M (2019), Series F $55M (2020), Series G $125M (2021), Seri",
+   "next_action": "",
+   "agent": "web_search+inc42+cbinsights"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Chargebee ARR revenue MCA financials FY24 FY25",
+   "status": "done",
+   "found": "GetLatka estimates: $202.6M ARR 2024, $124.4M 2023, $115.4M 2022, $33.7M 2021, $24M 2020. MCA India entity: Rs 300-400 Cr revenue FY25 (Tofler), Rs 372.9 Cr FY24 (Inc42).",
+   "next_action": "",
+   "agent": "web_search+getlatka+tracxn"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Chargebee customers Calendly Grab named enterprise",
+   "status": "done",
+   "found": "Named customers: Freshworks, Calendly, Okta, Doodle, Pret a Manger, Study.com, DeepL, Lambda, Gorgias, Condé Nast, Zapier, LegalZoom, Freepik, Agicap, Future, Wolfson Brands, Typeform. No evidence of ",
+   "next_action": "",
+   "agent": "web_search+chargebee.com"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Chargebee CIN incorporation India private limited entity registration",
+   "status": "done",
+   "found": "CIN U72900TN2012PTC084306; incorporated Feb 3, 2012; registered office Chennai; directors: Karthik Srinivasan, Rajaraman Santhanam, Saravanan Kolathupalaya Ponnuswamy",
+   "next_action": "",
+   "agent": "web_search+tracxn+indiafilings"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Chargebee founders CEO change executive moves 2024-26",
+   "status": "done",
+   "found": "Krish Subramanian still CEO as of Aug 2026; no CEO change; several exec exits (Kapil Mehta, Braden Lanham, Jordan Timothy, Nanda Kishore)",
+   "next_action": "",
+   "agent": "web_search+chargebee.com"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Chargebee funding rounds all history instruments",
+   "status": "done",
+   "found": "Full funding history: Angel $370K (2012), Seed $1.2M (2013), Series A $800K (2014), Series B $5M (2015), Series C $18.4M (2018), Series D $14M (2019), Series F $55M (2020), Series G $125M (2021), Seri",
+   "next_action": "",
+   "agent": "web_search+inc42+cbinsights"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Chargebee ARR revenue MCA financials FY24 FY25",
+   "status": "done",
+   "found": "GetLatka estimates: $202.6M ARR 2024, $124.4M 2023, $115.4M 2022, $33.7M 2021, $24M 2020. MCA India entity: Rs 300-400 Cr revenue FY25 (Tofler), Rs 372.9 Cr FY24 (Inc42).",
+   "next_action": "",
+   "agent": "web_search+getlatka+tracxn"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Chargebee customers Calendly Grab named enterprise",
+   "status": "done",
+   "found": "Named customers: Freshworks, Calendly, Okta, Doodle, Pret a Manger, Study.com, DeepL, Lambda, Gorgias, Condé Nast, Zapier, LegalZoom, Freepik, Agicap, Future, Wolfson Brands, Typeform. No evidence of ",
+   "next_action": "",
+   "agent": "web_search+chargebee.com"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Chargebee CIN incorporation India private limited entity registration",
+   "status": "done",
+   "found": "CIN U72900TN2012PTC084306; incorporated Feb 3, 2012; registered office Chennai; directors: Karthik Srinivasan, Rajaraman Santhanam, Saravanan Kolathupalaya Ponnuswamy",
+   "next_action": "",
+   "agent": "web_search+tracxn+indiafilings"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Chargebee founders CEO change executive moves 2024-26",
+   "status": "done",
+   "found": "Krish Subramanian still CEO as of Aug 2026; no CEO change; several exec exits (Kapil Mehta, Braden Lanham, Jordan Timothy, Nanda Kishore)",
+   "next_action": "",
+   "agent": "web_search+chargebee.com"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Chargebee funding rounds all history instruments",
+   "status": "done",
+   "found": "Full funding history: Angel $370K (2012), Seed $1.2M (2013), Series A $800K (2014), Series B $5M (2015), Series C $18.4M (2018), Series D $14M (2019), Series F $55M (2020), Series G $125M (2021), Seri",
+   "next_action": "",
+   "agent": "web_search+inc42+cbinsights"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Chargebee ARR revenue MCA financials FY24 FY25",
+   "status": "done",
+   "found": "GetLatka estimates: $202.6M ARR 2024, $124.4M 2023, $115.4M 2022, $33.7M 2021, $24M 2020. MCA India entity: Rs 300-400 Cr revenue FY25 (Tofler), Rs 372.9 Cr FY24 (Inc42).",
+   "next_action": "",
+   "agent": "web_search+getlatka+tracxn"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Chargebee customers Calendly Grab named enterprise",
+   "status": "done",
+   "found": "Named customers: Freshworks, Calendly, Okta, Doodle, Pret a Manger, Study.com, DeepL, Lambda, Gorgias, Condé Nast, Zapier, LegalZoom, Freepik, Agicap, Future, Wolfson Brands, Typeform. No evidence of ",
+   "next_action": "",
+   "agent": "web_search+chargebee.com"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Chargebee CIN incorporation India private limited entity registration",
+   "status": "done",
+   "found": "CIN U72900TN2012PTC084306; incorporated Feb 3, 2012; registered office Chennai; directors: Karthik Srinivasan, Rajaraman Santhanam, Saravanan Kolathupalaya Ponnuswamy",
+   "next_action": "",
+   "agent": "web_search+tracxn+indiafilings"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Chargebee founders CEO change executive moves 2024-26",
+   "status": "done",
+   "found": "Krish Subramanian still CEO as of Aug 2026; no CEO change; several exec exits (Kapil Mehta, Braden Lanham, Jordan Timothy, Nanda Kishore)",
+   "next_action": "",
+   "agent": "web_search+chargebee.com"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Chargebee funding rounds all history instruments",
+   "status": "done",
+   "found": "Full funding history: Angel $370K (2012), Seed $1.2M (2013), Series A $800K (2014), Series B $5M (2015), Series C $18.4M (2018), Series D $14M (2019), Series F $55M (2020), Series G $125M (2021), Seri",
+   "next_action": "",
+   "agent": "web_search+inc42+cbinsights"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Chargebee ARR revenue MCA financials FY24 FY25",
+   "status": "done",
+   "found": "GetLatka estimates: $202.6M ARR 2024, $124.4M 2023, $115.4M 2022, $33.7M 2021, $24M 2020. MCA India entity: Rs 300-400 Cr revenue FY25 (Tofler), Rs 372.9 Cr FY24 (Inc42).",
+   "next_action": "",
+   "agent": "web_search+getlatka+tracxn"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Chargebee customers Calendly Grab named enterprise",
+   "status": "done",
+   "found": "Named customers: Freshworks, Calendly, Okta, Doodle, Pret a Manger, Study.com, DeepL, Lambda, Gorgias, Condé Nast, Zapier, LegalZoom, Freepik, Agicap, Future, Wolfson Brands, Typeform. No evidence of ",
+   "next_action": "",
+   "agent": "web_search+chargebee.com"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Chargebee CIN incorporation India private limited entity registration",
+   "status": "done",
+   "found": "CIN U72900TN2012PTC084306; incorporated Feb 3, 2012; registered office Chennai; directors: Karthik Srinivasan, Rajaraman Santhanam, Saravanan Kolathupalaya Ponnuswamy",
+   "next_action": "",
+   "agent": "web_search+tracxn+indiafilings"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Chargebee founders CEO change executive moves 2024-26",
+   "status": "done",
+   "found": "Krish Subramanian still CEO as of Aug 2026; no CEO change; several exec exits (Kapil Mehta, Braden Lanham, Jordan Timothy, Nanda Kishore)",
+   "next_action": "",
+   "agent": "web_search+chargebee.com"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Chargebee funding rounds all history instruments",
+   "status": "done",
+   "found": "Full funding history: Angel $370K (2012), Seed $1.2M (2013), Series A $800K (2014), Series B $5M (2015), Series C $18.4M (2018), Series D $14M (2019), Series F $55M (2020), Series G $125M (2021), Seri",
+   "next_action": "",
+   "agent": "web_search+inc42+cbinsights"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Chargebee ARR revenue MCA financials FY24 FY25",
+   "status": "done",
+   "found": "GetLatka estimates: $202.6M ARR 2024, $124.4M 2023, $115.4M 2022, $33.7M 2021, $24M 2020. MCA India entity: Rs 300-400 Cr revenue FY25 (Tofler), Rs 372.9 Cr FY24 (Inc42).",
+   "next_action": "",
+   "agent": "web_search+getlatka+tracxn"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Chargebee customers Calendly Grab named enterprise",
+   "status": "done",
+   "found": "Named customers: Freshworks, Calendly, Okta, Doodle, Pret a Manger, Study.com, DeepL, Lambda, Gorgias, Condé Nast, Zapier, LegalZoom, Freepik, Agicap, Future, Wolfson Brands, Typeform. No evidence of ",
+   "next_action": "",
+   "agent": "web_search+chargebee.com"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Chargebee CIN incorporation India private limited entity registration",
+   "status": "done",
+   "found": "CIN U72900TN2012PTC084306; incorporated Feb 3, 2012; registered office Chennai; directors: Karthik Srinivasan, Rajaraman Santhanam, Saravanan Kolathupalaya Ponnuswamy",
+   "next_action": "",
+   "agent": "web_search+tracxn+indiafilings"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Chargebee founders CEO change executive moves 2024-26",
+   "status": "done",
+   "found": "Krish Subramanian still CEO as of Aug 2026; no CEO change; several exec exits (Kapil Mehta, Braden Lanham, Jordan Timothy, Nanda Kishore)",
+   "next_action": "",
+   "agent": "web_search+chargebee.com"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Chargebee funding rounds all history instruments",
+   "status": "done",
+   "found": "Full funding history: Angel $370K (2012), Seed $1.2M (2013), Series A $800K (2014), Series B $5M (2015), Series C $18.4M (2018), Series D $14M (2019), Series F $55M (2020), Series G $125M (2021), Seri",
+   "next_action": "",
+   "agent": "web_search+inc42+cbinsights"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Chargebee ARR revenue MCA financials FY24 FY25",
+   "status": "done",
+   "found": "GetLatka estimates: $202.6M ARR 2024, $124.4M 2023, $115.4M 2022, $33.7M 2021, $24M 2020. MCA India entity: Rs 300-400 Cr revenue FY25 (Tofler), Rs 372.9 Cr FY24 (Inc42).",
+   "next_action": "",
+   "agent": "web_search+getlatka+tracxn"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Chargebee customers Calendly Grab named enterprise",
+   "status": "done",
+   "found": "Named customers: Freshworks, Calendly, Okta, Doodle, Pret a Manger, Study.com, DeepL, Lambda, Gorgias, Condé Nast, Zapier, LegalZoom, Freepik, Agicap, Future, Wolfson Brands, Typeform. No evidence of ",
+   "next_action": "",
+   "agent": "web_search+chargebee.com"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Chargebee CIN incorporation India private limited entity registration",
+   "status": "done",
+   "found": "CIN U72900TN2012PTC084306; incorporated Feb 3, 2012; registered office Chennai; directors: Karthik Srinivasan, Rajaraman Santhanam, Saravanan Kolathupalaya Ponnuswamy",
+   "next_action": "",
+   "agent": "web_search+tracxn+indiafilings"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Chargebee founders CEO change executive moves 2024-26",
+   "status": "done",
+   "found": "Krish Subramanian still CEO as of Aug 2026; no CEO change; several exec exits (Kapil Mehta, Braden Lanham, Jordan Timothy, Nanda Kishore)",
+   "next_action": "",
+   "agent": "web_search+chargebee.com"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Chargebee funding rounds all history instruments",
+   "status": "done",
+   "found": "Full funding history: Angel $370K (2012), Seed $1.2M (2013), Series A $800K (2014), Series B $5M (2015), Series C $18.4M (2018), Series D $14M (2019), Series F $55M (2020), Series G $125M (2021), Seri",
+   "next_action": "",
+   "agent": "web_search+inc42+cbinsights"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Chargebee ARR revenue MCA financials FY24 FY25",
+   "status": "done",
+   "found": "GetLatka estimates: $202.6M ARR 2024, $124.4M 2023, $115.4M 2022, $33.7M 2021, $24M 2020. MCA India entity: Rs 300-400 Cr revenue FY25 (Tofler), Rs 372.9 Cr FY24 (Inc42).",
+   "next_action": "",
+   "agent": "web_search+getlatka+tracxn"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Chargebee customers Calendly Grab named enterprise",
+   "status": "done",
+   "found": "Named customers: Freshworks, Calendly, Okta, Doodle, Pret a Manger, Study.com, DeepL, Lambda, Gorgias, Condé Nast, Zapier, LegalZoom, Freepik, Agicap, Future, Wolfson Brands, Typeform. No evidence of ",
+   "next_action": "",
+   "agent": "web_search+chargebee.com"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Chargebee CIN incorporation India private limited entity registration",
+   "status": "done",
+   "found": "CIN U72900TN2012PTC084306; incorporated Feb 3, 2012; registered office Chennai; directors: Karthik Srinivasan, Rajaraman Santhanam, Saravanan Kolathupalaya Ponnuswamy",
+   "next_action": "",
+   "agent": "web_search+tracxn+indiafilings"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Chargebee founders CEO change executive moves 2024-26",
+   "status": "done",
+   "found": "Krish Subramanian still CEO as of Aug 2026; no CEO change; several exec exits (Kapil Mehta, Braden Lanham, Jordan Timothy, Nanda Kishore)",
+   "next_action": "",
+   "agent": "web_search+chargebee.com"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Chargebee funding rounds all history instruments",
+   "status": "done",
+   "found": "Full funding history: Angel $370K (2012), Seed $1.2M (2013), Series A $800K (2014), Series B $5M (2015), Series C $18.4M (2018), Series D $14M (2019), Series F $55M (2020), Series G $125M (2021), Seri",
+   "next_action": "",
+   "agent": "web_search+inc42+cbinsights"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Chargebee ARR revenue MCA financials FY24 FY25",
+   "status": "done",
+   "found": "GetLatka estimates: $202.6M ARR 2024, $124.4M 2023, $115.4M 2022, $33.7M 2021, $24M 2020. MCA India entity: Rs 300-400 Cr revenue FY25 (Tofler), Rs 372.9 Cr FY24 (Inc42).",
+   "next_action": "",
+   "agent": "web_search+getlatka+tracxn"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Chargebee customers Calendly Grab named enterprise",
+   "status": "done",
+   "found": "Named customers: Freshworks, Calendly, Okta, Doodle, Pret a Manger, Study.com, DeepL, Lambda, Gorgias, Condé Nast, Zapier, LegalZoom, Freepik, Agicap, Future, Wolfson Brands, Typeform. No evidence of ",
+   "next_action": "",
+   "agent": "web_search+chargebee.com"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Chargebee CIN incorporation India private limited entity registration",
+   "status": "done",
+   "found": "CIN U72900TN2012PTC084306; incorporated Feb 3, 2012; registered office Chennai; directors: Karthik Srinivasan, Rajaraman Santhanam, Saravanan Kolathupalaya Ponnuswamy",
+   "next_action": "",
+   "agent": "web_search+tracxn+indiafilings"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Chargebee founders CEO change executive moves 2024-26",
+   "status": "done",
+   "found": "Krish Subramanian still CEO as of Aug 2026; no CEO change; several exec exits (Kapil Mehta, Braden Lanham, Jordan Timothy, Nanda Kishore)",
+   "next_action": "",
+   "agent": "web_search+chargebee.com"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Chargebee funding rounds all history instruments",
+   "status": "done",
+   "found": "Full funding history: Angel $370K (2012), Seed $1.2M (2013), Series A $800K (2014), Series B $5M (2015), Series C $18.4M (2018), Series D $14M (2019), Series F $55M (2020), Series G $125M (2021), Seri",
+   "next_action": "",
+   "agent": "web_search+inc42+cbinsights"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Chargebee ARR revenue MCA financials FY24 FY25",
+   "status": "done",
+   "found": "GetLatka estimates: $202.6M ARR 2024, $124.4M 2023, $115.4M 2022, $33.7M 2021, $24M 2020. MCA India entity: Rs 300-400 Cr revenue FY25 (Tofler), Rs 372.9 Cr FY24 (Inc42).",
+   "next_action": "",
+   "agent": "web_search+getlatka+tracxn"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Chargebee customers Calendly Grab named enterprise",
+   "status": "done",
+   "found": "Named customers: Freshworks, Calendly, Okta, Doodle, Pret a Manger, Study.com, DeepL, Lambda, Gorgias, Condé Nast, Zapier, LegalZoom, Freepik, Agicap, Future, Wolfson Brands, Typeform. No evidence of ",
+   "next_action": "",
+   "agent": "web_search+chargebee.com"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Chargebee CIN incorporation India private limited entity registration",
+   "status": "done",
+   "found": "CIN U72900TN2012PTC084306; incorporated Feb 3, 2012; registered office Chennai; directors: Karthik Srinivasan, Rajaraman Santhanam, Saravanan Kolathupalaya Ponnuswamy",
+   "next_action": "",
+   "agent": "web_search+tracxn+indiafilings"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Chargebee founders CEO change executive moves 2024-26",
+   "status": "done",
+   "found": "Krish Subramanian still CEO as of Aug 2026; no CEO change; several exec exits (Kapil Mehta, Braden Lanham, Jordan Timothy, Nanda Kishore)",
+   "next_action": "",
+   "agent": "web_search+chargebee.com"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Chargebee funding rounds all history instruments",
+   "status": "done",
+   "found": "Full funding history: Angel $370K (2012), Seed $1.2M (2013), Series A $800K (2014), Series B $5M (2015), Series C $18.4M (2018), Series D $14M (2019), Series F $55M (2020), Series G $125M (2021), Seri",
+   "next_action": "",
+   "agent": "web_search+inc42+cbinsights"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Chargebee ARR revenue MCA financials FY24 FY25",
+   "status": "done",
+   "found": "GetLatka estimates: $202.6M ARR 2024, $124.4M 2023, $115.4M 2022, $33.7M 2021, $24M 2020. MCA India entity: Rs 300-400 Cr revenue FY25 (Tofler), Rs 372.9 Cr FY24 (Inc42).",
+   "next_action": "",
+   "agent": "web_search+getlatka+tracxn"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Chargebee customers Calendly Grab named enterprise",
+   "status": "done",
+   "found": "Named customers: Freshworks, Calendly, Okta, Doodle, Pret a Manger, Study.com, DeepL, Lambda, Gorgias, Condé Nast, Zapier, LegalZoom, Freepik, Agicap, Future, Wolfson Brands, Typeform. No evidence of ",
+   "next_action": "",
+   "agent": "web_search+chargebee.com"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Chargebee CIN incorporation India private limited entity registration",
+   "status": "done",
+   "found": "CIN U72900TN2012PTC084306; incorporated Feb 3, 2012; registered office Chennai; directors: Karthik Srinivasan, Rajaraman Santhanam, Saravanan Kolathupalaya Ponnuswamy",
+   "next_action": "",
+   "agent": "web_search+tracxn+indiafilings"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Chargebee founders CEO change executive moves 2024-26",
+   "status": "done",
+   "found": "Krish Subramanian still CEO as of Aug 2026; no CEO change; several exec exits (Kapil Mehta, Braden Lanham, Jordan Timothy, Nanda Kishore)",
+   "next_action": "",
+   "agent": "web_search+chargebee.com"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Chargebee funding rounds all history instruments",
+   "status": "done",
+   "found": "Full funding history: Angel $370K (2012), Seed $1.2M (2013), Series A $800K (2014), Series B $5M (2015), Series C $18.4M (2018), Series D $14M (2019), Series F $55M (2020), Series G $125M (2021), Seri",
+   "next_action": "",
+   "agent": "web_search+inc42+cbinsights"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Chargebee ARR revenue MCA financials FY24 FY25",
+   "status": "done",
+   "found": "GetLatka estimates: $202.6M ARR 2024, $124.4M 2023, $115.4M 2022, $33.7M 2021, $24M 2020. MCA India entity: Rs 300-400 Cr revenue FY25 (Tofler), Rs 372.9 Cr FY24 (Inc42).",
+   "next_action": "",
+   "agent": "web_search+getlatka+tracxn"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Chargebee customers Calendly Grab named enterprise",
+   "status": "done",
+   "found": "Named customers: Freshworks, Calendly, Okta, Doodle, Pret a Manger, Study.com, DeepL, Lambda, Gorgias, Condé Nast, Zapier, LegalZoom, Freepik, Agicap, Future, Wolfson Brands, Typeform. No evidence of ",
+   "next_action": "",
+   "agent": "web_search+chargebee.com"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Chargebee CIN incorporation India private limited entity registration",
+   "status": "done",
+   "found": "CIN U72900TN2012PTC084306; incorporated Feb 3, 2012; registered office Chennai; directors: Karthik Srinivasan, Rajaraman Santhanam, Saravanan Kolathupalaya Ponnuswamy",
+   "next_action": "",
+   "agent": "web_search+tracxn+indiafilings"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Chargebee founders CEO change executive moves 2024-26",
+   "status": "done",
+   "found": "Krish Subramanian still CEO as of Aug 2026; no CEO change; several exec exits (Kapil Mehta, Braden Lanham, Jordan Timothy, Nanda Kishore)",
+   "next_action": "",
+   "agent": "web_search+chargebee.com"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Chargebee funding rounds all history instruments",
+   "status": "done",
+   "found": "Full funding history: Angel $370K (2012), Seed $1.2M (2013), Series A $800K (2014), Series B $5M (2015), Series C $18.4M (2018), Series D $14M (2019), Series F $55M (2020), Series G $125M (2021), Seri",
+   "next_action": "",
+   "agent": "web_search+inc42+cbinsights"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Chargebee ARR revenue MCA financials FY24 FY25",
+   "status": "done",
+   "found": "GetLatka estimates: $202.6M ARR 2024, $124.4M 2023, $115.4M 2022, $33.7M 2021, $24M 2020. MCA India entity: Rs 300-400 Cr revenue FY25 (Tofler), Rs 372.9 Cr FY24 (Inc42).",
+   "next_action": "",
+   "agent": "web_search+getlatka+tracxn"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Chargebee customers Calendly Grab named enterprise",
+   "status": "done",
+   "found": "Named customers: Freshworks, Calendly, Okta, Doodle, Pret a Manger, Study.com, DeepL, Lambda, Gorgias, Condé Nast, Zapier, LegalZoom, Freepik, Agicap, Future, Wolfson Brands, Typeform. No evidence of ",
+   "next_action": "",
+   "agent": "web_search+chargebee.com"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Chargebee CIN incorporation India private limited entity registration",
+   "status": "done",
+   "found": "CIN U72900TN2012PTC084306; incorporated Feb 3, 2012; registered office Chennai; directors: Karthik Srinivasan, Rajaraman Santhanam, Saravanan Kolathupalaya Ponnuswamy",
+   "next_action": "",
+   "agent": "web_search+tracxn+indiafilings"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Chargebee founders CEO change executive moves 2024-26",
+   "status": "done",
+   "found": "Krish Subramanian still CEO as of Aug 2026; no CEO change; several exec exits (Kapil Mehta, Braden Lanham, Jordan Timothy, Nanda Kishore)",
+   "next_action": "",
+   "agent": "web_search+chargebee.com"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Chargebee funding rounds all history instruments",
+   "status": "done",
+   "found": "Full funding history: Angel $370K (2012), Seed $1.2M (2013), Series A $800K (2014), Series B $5M (2015), Series C $18.4M (2018), Series D $14M (2019), Series F $55M (2020), Series G $125M (2021), Seri",
+   "next_action": "",
+   "agent": "web_search+inc42+cbinsights"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Chargebee ARR revenue MCA financials FY24 FY25",
+   "status": "done",
+   "found": "GetLatka estimates: $202.6M ARR 2024, $124.4M 2023, $115.4M 2022, $33.7M 2021, $24M 2020. MCA India entity: Rs 300-400 Cr revenue FY25 (Tofler), Rs 372.9 Cr FY24 (Inc42).",
+   "next_action": "",
+   "agent": "web_search+getlatka+tracxn"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Chargebee customers Calendly Grab named enterprise",
+   "status": "done",
+   "found": "Named customers: Freshworks, Calendly, Okta, Doodle, Pret a Manger, Study.com, DeepL, Lambda, Gorgias, Condé Nast, Zapier, LegalZoom, Freepik, Agicap, Future, Wolfson Brands, Typeform. No evidence of ",
+   "next_action": "",
+   "agent": "web_search+chargebee.com"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Chargebee CIN incorporation India private limited entity registration",
+   "status": "done",
+   "found": "CIN U72900TN2012PTC084306; incorporated Feb 3, 2012; registered office Chennai; directors: Karthik Srinivasan, Rajaraman Santhanam, Saravanan Kolathupalaya Ponnuswamy",
+   "next_action": "",
+   "agent": "web_search+tracxn+indiafilings"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Chargebee founders CEO change executive moves 2024-26",
+   "status": "done",
+   "found": "Krish Subramanian still CEO as of Aug 2026; no CEO change; several exec exits (Kapil Mehta, Braden Lanham, Jordan Timothy, Nanda Kishore)",
+   "next_action": "",
+   "agent": "web_search+chargebee.com"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Chargebee funding rounds all history instruments",
+   "status": "done",
+   "found": "Full funding history: Angel $370K (2012), Seed $1.2M (2013), Series A $800K (2014), Series B $5M (2015), Series C $18.4M (2018), Series D $14M (2019), Series F $55M (2020), Series G $125M (2021), Seri",
+   "next_action": "",
+   "agent": "web_search+inc42+cbinsights"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Chargebee ARR revenue MCA financials FY24 FY25",
+   "status": "done",
+   "found": "GetLatka estimates: $202.6M ARR 2024, $124.4M 2023, $115.4M 2022, $33.7M 2021, $24M 2020. MCA India entity: Rs 300-400 Cr revenue FY25 (Tofler), Rs 372.9 Cr FY24 (Inc42).",
+   "next_action": "",
+   "agent": "web_search+getlatka+tracxn"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Chargebee customers Calendly Grab named enterprise",
+   "status": "done",
+   "found": "Named customers: Freshworks, Calendly, Okta, Doodle, Pret a Manger, Study.com, DeepL, Lambda, Gorgias, Condé Nast, Zapier, LegalZoom, Freepik, Agicap, Future, Wolfson Brands, Typeform. No evidence of ",
+   "next_action": "",
+   "agent": "web_search+chargebee.com"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Chargebee CIN incorporation India private limited entity registration",
+   "status": "done",
+   "found": "CIN U72900TN2012PTC084306; incorporated Feb 3, 2012; registered office Chennai; directors: Karthik Srinivasan, Rajaraman Santhanam, Saravanan Kolathupalaya Ponnuswamy",
+   "next_action": "",
+   "agent": "web_search+tracxn+indiafilings"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Chargebee founders CEO change executive moves 2024-26",
+   "status": "done",
+   "found": "Krish Subramanian still CEO as of Aug 2026; no CEO change; several exec exits (Kapil Mehta, Braden Lanham, Jordan Timothy, Nanda Kishore)",
+   "next_action": "",
+   "agent": "web_search+chargebee.com"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Chargebee funding rounds all history instruments",
+   "status": "done",
+   "found": "Full funding history: Angel $370K (2012), Seed $1.2M (2013), Series A $800K (2014), Series B $5M (2015), Series C $18.4M (2018), Series D $14M (2019), Series F $55M (2020), Series G $125M (2021), Seri",
+   "next_action": "",
+   "agent": "web_search+inc42+cbinsights"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Chargebee ARR revenue MCA financials FY24 FY25",
+   "status": "done",
+   "found": "GetLatka estimates: $202.6M ARR 2024, $124.4M 2023, $115.4M 2022, $33.7M 2021, $24M 2020. MCA India entity: Rs 300-400 Cr revenue FY25 (Tofler), Rs 372.9 Cr FY24 (Inc42).",
+   "next_action": "",
+   "agent": "web_search+getlatka+tracxn"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Chargebee customers Calendly Grab named enterprise",
+   "status": "done",
+   "found": "Named customers: Freshworks, Calendly, Okta, Doodle, Pret a Manger, Study.com, DeepL, Lambda, Gorgias, Condé Nast, Zapier, LegalZoom, Freepik, Agicap, Future, Wolfson Brands, Typeform. No evidence of ",
+   "next_action": "",
+   "agent": "web_search+chargebee.com"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Chargebee CIN incorporation India private limited entity registration",
+   "status": "done",
+   "found": "CIN U72900TN2012PTC084306; incorporated Feb 3, 2012; registered office Chennai; directors: Karthik Srinivasan, Rajaraman Santhanam, Saravanan Kolathupalaya Ponnuswamy",
+   "next_action": "",
+   "agent": "web_search+tracxn+indiafilings"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Chargebee founders CEO change executive moves 2024-26",
+   "status": "done",
+   "found": "Krish Subramanian still CEO as of Aug 2026; no CEO change; several exec exits (Kapil Mehta, Braden Lanham, Jordan Timothy, Nanda Kishore)",
+   "next_action": "",
+   "agent": "web_search+chargebee.com"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Chargebee funding rounds all history instruments",
+   "status": "done",
+   "found": "Full funding history: Angel $370K (2012), Seed $1.2M (2013), Series A $800K (2014), Series B $5M (2015), Series C $18.4M (2018), Series D $14M (2019), Series F $55M (2020), Series G $125M (2021), Seri",
+   "next_action": "",
+   "agent": "web_search+inc42+cbinsights"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Chargebee ARR revenue MCA financials FY24 FY25",
+   "status": "done",
+   "found": "GetLatka estimates: $202.6M ARR 2024, $124.4M 2023, $115.4M 2022, $33.7M 2021, $24M 2020. MCA India entity: Rs 300-400 Cr revenue FY25 (Tofler), Rs 372.9 Cr FY24 (Inc42).",
+   "next_action": "",
+   "agent": "web_search+getlatka+tracxn"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Chargebee customers Calendly Grab named enterprise",
+   "status": "done",
+   "found": "Named customers: Freshworks, Calendly, Okta, Doodle, Pret a Manger, Study.com, DeepL, Lambda, Gorgias, Condé Nast, Zapier, LegalZoom, Freepik, Agicap, Future, Wolfson Brands, Typeform. No evidence of ",
+   "next_action": "",
+   "agent": "web_search+chargebee.com"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Chargebee CIN incorporation India private limited entity registration",
+   "status": "done",
+   "found": "CIN U72900TN2012PTC084306; incorporated Feb 3, 2012; registered office Chennai; directors: Karthik Srinivasan, Rajaraman Santhanam, Saravanan Kolathupalaya Ponnuswamy",
+   "next_action": "",
+   "agent": "web_search+tracxn+indiafilings"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Chargebee founders CEO change executive moves 2024-26",
+   "status": "done",
+   "found": "Krish Subramanian still CEO as of Aug 2026; no CEO change; several exec exits (Kapil Mehta, Braden Lanham, Jordan Timothy, Nanda Kishore)",
+   "next_action": "",
+   "agent": "web_search+chargebee.com"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Chargebee funding rounds all history instruments",
+   "status": "done",
+   "found": "Full funding history: Angel $370K (2012), Seed $1.2M (2013), Series A $800K (2014), Series B $5M (2015), Series C $18.4M (2018), Series D $14M (2019), Series F $55M (2020), Series G $125M (2021), Seri",
+   "next_action": "",
+   "agent": "web_search+inc42+cbinsights"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Chargebee ARR revenue MCA financials FY24 FY25",
+   "status": "done",
+   "found": "GetLatka estimates: $202.6M ARR 2024, $124.4M 2023, $115.4M 2022, $33.7M 2021, $24M 2020. MCA India entity: Rs 300-400 Cr revenue FY25 (Tofler), Rs 372.9 Cr FY24 (Inc42).",
+   "next_action": "",
+   "agent": "web_search+getlatka+tracxn"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Chargebee customers Calendly Grab named enterprise",
+   "status": "done",
+   "found": "Named customers: Freshworks, Calendly, Okta, Doodle, Pret a Manger, Study.com, DeepL, Lambda, Gorgias, Condé Nast, Zapier, LegalZoom, Freepik, Agicap, Future, Wolfson Brands, Typeform. No evidence of ",
+   "next_action": "",
+   "agent": "web_search+chargebee.com"
+  }
+ ],
+ "sources": [
+  {
+   "claim_supported": "Active, Series H, 6500+ customers, founders",
+   "fields_supported": [
+    "company",
+    "founders"
+   ],
+   "publication_date": "2026-08-28",
+   "publisher": "Chargebee",
+   "tier": "T1",
+   "title": "About Us - Our Team & The Story behind Chargebee",
+   "url": "https://chargebee.com/about"
+  },
+  {
+   "claim_supported": "Series H $250M at $3.5B, co-led Tiger+Sequoia",
+   "fields_supported": [
+    "funding_rounds"
+   ],
+   "publication_date": "2022-02-01",
+   "publisher": "Entrackr",
+   "tier": "T2",
+   "title": "Chargebee raises $250 Mn led by Tiger and Sequoia at $3.5 Bn valuation",
+   "url": "https://entrackr.com/2022/02/chargebee-raises-250-mn-led-by-tiger-and-sequoia-at-3-5-bn-valuation"
+  },
+  {
+   "claim_supported": "Series G $125M at $1.4B",
+   "fields_supported": [
+    "funding_rounds"
+   ],
+   "publication_date": "2021-04-20",
+   "publisher": "Chargebee via PRNewswire",
+   "tier": "T1",
+   "title": "Chargebee Raises $125 Million Series G Funding",
+   "url": "https://www.prnewswire.com/news-releases/chargebee-raises-125-million-series-g-funding-to-accelerate-the-global-shift-to-subscriptions-301272245.html"
+  },
+  {
+   "claim_supported": "2026 Gartner Leader recognition",
+   "fields_supported": [
+    "events"
+   ],
+   "publication_date": "2026-08-17",
+   "publisher": "GlobeNewswire",
+   "tier": "T2",
+   "title": "Chargebee Named a Leader in 2026 Gartner Magic Quadrant",
+   "url": "https://www.globenewswire.com/news-release/2026/08/17/3346250/0/en/chargebee-named-a-leader-in-2026-gartner-magic-quadrant-for-recurring-billing-applications-for-the-third-consecutive-year.html"
+  },
+  {
+   "url": "https://www.chargebee.com/about",
+   "publisher": "Chargebee",
+   "tier": "T1",
+   "publication_date": "2026-08-17",
+   "retrieved_date": "2026-09-15",
+   "confidence": "HIGH",
+   "fields_supported": [
+    "company",
+    "founders",
+    "people",
+    "customers",
+    "traction",
+    "events"
+   ]
+  },
+  {
+   "url": "https://www.indiafilings.com/search/chargebee-technologies-private-limited-cin-U72900TN2012PTC084306",
+   "publisher": "IndiaFilings/MCA21",
+   "tier": "T1",
+   "publication_date": "2022-11-21",
+   "retrieved_date": "2026-09-15",
+   "confidence": "HIGH",
+   "fields_supported": [
+    "company.cin",
+    "company.incorporation_date",
+    "company.registered_office",
+    "company.directors"
+   ]
+  },
+  {
+   "url": "https://tracxn.com/d/legal-entities/india/chargebee-technologies-private-limited/__lIJZzGOhFpzU6PUd8SaUqHhc2jo_8eaWdXXa-CVQalg",
+   "publisher": "Tracxn",
+   "tier": "T2",
+   "publication_date": "2026-07-17",
+   "retrieved_date": "2026-09-15",
+   "confidence": "MEDIUM",
+   "fields_supported": [
+    "company.cin",
+    "company.registered_office",
+    "company.employee_estimate",
+    "company.financials"
+   ]
+  },
+  {
+   "url": "https://www.insightpartners.com/ideas/chargebee-raises-another-250m-to-meet-surging-demand-from-growing-subscription-and-saas-businesses",
+   "publisher": "Insight Partners",
+   "tier": "T1",
+   "publication_date": "2022-02-01",
+   "retrieved_date": "2026-09-15",
+   "confidence": "HIGH",
+   "fields_supported": [
+    "funding_rounds.Series H",
+    "customers"
+   ]
+  },
+  {
+   "url": "https://www.chargebee.com/contact",
+   "publisher": "Chargebee",
+   "tier": "T1",
+   "publication_date": "2026-08-17",
+   "retrieved_date": "2026-09-15",
+   "confidence": "HIGH",
+   "fields_supported": [
+    "company.locations",
+    "company.hq_type"
+   ]
+  },
+  {
+   "url": "https://getlatka.com/companies/chargebee",
+   "publisher": "GetLatka",
+   "tier": "T3",
+   "publication_date": "2026-07-03",
+   "retrieved_date": "2026-09-15",
+   "confidence": "LOW",
+   "fields_supported": [
+    "financials.arr"
+   ]
+  },
+  {
+   "url": "http://businesswire.com/news/home/20250903404872/en/Chargebee-Acquires-Inai-to-Supercharge-AI-Powered-Payments-Intelligence",
+   "publisher": "Business Wire",
+   "tier": "T1",
+   "publication_date": "2025-09-03",
+   "retrieved_date": "2026-09-15",
+   "confidence": "HIGH",
+   "fields_supported": [
+    "events.acquisition.Inai",
+    "products.Inai"
+   ]
+  },
+  {
+   "url": "https://layoffs.fyi/company/chargebee/",
+   "publisher": "Layoffs.fyi",
+   "tier": "T3",
+   "publication_date": "2026-06-10",
+   "retrieved_date": "2026-09-15",
+   "confidence": "MEDIUM",
+   "fields_supported": [
+    "events.layoff"
+   ]
+  },
+  {
+   "url": "https://inc42.com/company/chargebee/financials",
+   "publisher": "Inc42",
+   "tier": "T2",
+   "publication_date": "2026-05-28",
+   "retrieved_date": "2026-09-15",
+   "confidence": "MEDIUM",
+   "fields_supported": [
+    "financials.revenue",
+    "company.employee_estimate"
+   ]
+  },
+  {
+   "url": "https://www.thehindubusinessline.com/companies/chargebee-moves-to-a-new-workspace-in-wework-ramanujan-intellion-park/article70003883.ece",
+   "publisher": "The Hindu BusinessLine",
+   "tier": "T2",
+   "publication_date": "2025-09-02",
+   "retrieved_date": "2026-09-15",
+   "confidence": "HIGH",
+   "fields_supported": [
+    "company.locations.Bengaluru"
+   ]
+  },
+  {
+   "url": "https://www.sec.gov/Archives/edgar/data/1594961/000159496113000001/xslFormDX07/primary_doc.xml",
+   "publisher": "SEC EDGAR",
+   "tier": "T1",
+   "publication_date": "2013-01-01",
+   "retrieved_date": "2026-09-15",
+   "confidence": "HIGH",
+   "fields_supported": [
+    "company.legal_name",
+    "company.incorporation_jurisdiction"
+   ]
+  },
+  {
+   "url": "https://platform.tracxn.com/a/d/company/52ca75c7e4b093852fc328a8/chargebee",
+   "publisher": "Tracxn",
+   "tier": "T2",
+   "publication_date": "2025-04-15",
+   "retrieved_date": "2026-09-15",
+   "confidence": "MEDIUM",
+   "fields_supported": [
+    "funding_rounds",
+    "people",
+    "products",
+    "traction"
+   ]
+  },
+  {
+   "url": "https://inc42.com/company/chargebee/funding/",
+   "publisher": "Inc42",
+   "tier": "T2",
+   "publication_date": "2026-05-28",
+   "retrieved_date": "2026-09-15",
+   "confidence": "MEDIUM",
+   "fields_supported": [
+    "funding_rounds.all"
+   ]
+  },
+  {
+   "url": "https://www.cbinsights.com/company/chargebee/financials",
+   "publisher": "CB Insights",
+   "tier": "T2",
+   "publication_date": "2025-01-01",
+   "retrieved_date": "2026-09-15",
+   "confidence": "MEDIUM",
+   "fields_supported": [
+    "funding_rounds",
+    "financials"
+   ]
+  }
+ ],
+ "startup_id": "chargebee",
+ "_merged_session2": true,
+ "traction": [
+  {
+   "metric": "customers",
+   "value": 6500,
+   "unit": "businesses",
+   "period": "As-of-2026-08",
+   "as_of": "2026-08-17",
+   "company_reported": true,
+   "source_url": "https://www.chargebee.com/",
+   "source_title": "Chargebee Homepage",
+   "source_date": "2026-08-17",
+   "confidence": "HIGH",
+   "notes": "6500+ businesses serving 227 countries"
+  },
+  {
+   "metric": "countries_served",
+   "value": 227,
+   "unit": "countries and territories",
+   "period": "As-of-2026-08",
+   "as_of": "2026-08-17",
+   "company_reported": true,
+   "source_url": "https://www.chargebee.com/",
+   "source_title": "Chargebee Homepage",
+   "source_date": "2026-08-17",
+   "confidence": "HIGH",
+   "notes": "227 countries and territories charged"
+  },
+  {
+   "metric": "currencies_supported",
+   "value": 62,
+   "unit": "currencies",
+   "period": "As-of-2026-08",
+   "as_of": "2026-08-17",
+   "company_reported": true,
+   "source_url": "https://www.chargebee.com/",
+   "source_title": "Chargebee Homepage",
+   "source_date": "2026-08-17",
+   "confidence": "HIGH",
+   "notes": "62+ currencies"
+  },
+  {
+   "metric": "employees",
+   "value": 1301,
+   "unit": "employees",
+   "period": "As-of-2025-09-30",
+   "as_of": "2025-09-30",
+   "company_reported": true,
+   "source_url": "https://platform.tracxn.com/a/d/company/52ca75c7e4b093852fc328a8/chargebee",
+   "source_title": "Tracxn Employee Count",
+   "source_date": "2025-04-15",
+   "confidence": "MEDIUM",
+   "notes": "Tracxn official count"
+  },
+  {
+   "metric": "employees_india",
+   "value": 746,
+   "unit": "employees",
+   "period": "As-of-2025-08",
+   "as_of": "2025-08-01",
+   "company_reported": false,
+   "source_url": "https://tracxn.com/d/legal-entities/india/chargebee-technologies-private-limited/__lIJZzGOhFpzU6PUd8SaUqHhc2jo_8eaWdXXa-CVQalg",
+   "source_title": "Tracxn India Entity Employee Count",
+   "source_date": "2026-07-17",
+   "confidence": "MEDIUM",
+   "notes": "India entity employee count"
+  },
+  {
+   "metric": "customers_2022",
+   "value": 4800,
+   "unit": "businesses",
+   "period": "As-of-2023-02",
+   "as_of": "2023-02-01",
+   "company_reported": true,
+   "source_url": "http://research.contrary.com/company/chargebee",
+   "source_title": "Contrary Research Chargebee",
+   "source_date": "2023-02-01",
+   "confidence": "MEDIUM",
+   "notes": "Over 4.8K customers as of Feb 2023"
+  },
+  {
+   "metric": "customers_2021",
+   "value": 3500,
+   "unit": "businesses",
+   "period": "As-of-2021-10",
+   "as_of": "2021-10-19",
+   "company_reported": true,
+   "source_url": "https://www.prnewswire.com/news-releases/chargebee-enables-stronger-alignment-among-sales-and-finance-teams-with-fall-2021-product-release-301402741.html",
+   "source_title": "Chargebee Fall 2021 Product Release",
+   "source_date": "2021-10-19",
+   "confidence": "HIGH",
+   "notes": "Over 3500 businesses"
+  },
+  {
+   "metric": "revenue_processed",
+   "value": 5000000000,
+   "unit": "USD",
+   "period": "As-of-2023-02",
+   "as_of": "2023-02-01",
+   "company_reported": true,
+   "source_url": "http://research.contrary.com/company/chargebee",
+   "source_title": "Contrary Research Chargebee",
+   "source_date": "2023-02-01",
+   "confidence": "MEDIUM",
+   "notes": "Processed over $5 billion in revenue"
+  }
+ ],
+ "products": [
+  {
+   "name": "Chargebee Billing",
+   "category": "Subscription Management",
+   "description": "Core subscription billing and recurring revenue management platform",
+   "pricing_model": "Pay-as-you-go: free first $250K, then 0.75%; Performance $599/mo; Enterprise custom",
+   "launch_date": "2011",
+   "status": "Active",
+   "source_url": "https://www.chargebee.com/",
+   "source_title": "Chargebee Homepage",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Chargebee RevRec",
+   "category": "Revenue Recognition",
+   "description": "Automated ASC 606 / IFRS 15 revenue recognition software",
+   "pricing_model": "Custom pricing",
+   "launch_date": "2021-10-05",
+   "status": "Active",
+   "source_url": "https://www.prnewswire.com/news-releases/chargebee-adds-revenue-recognition-capabilities-to-solve-complex-finance-challenges-for-saas-and-subscription-based-businesses-301392345.html",
+   "source_title": "Chargebee adds revenue recognition capabilities",
+   "source_date": "2021-10-05",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Chargebee Receivables",
+   "category": "Accounts Receivable",
+   "description": "Automated receivables and collections management (from Numberz acquisition)",
+   "pricing_model": "Custom",
+   "launch_date": "2022-02-24",
+   "status": "Active",
+   "source_url": "https://m.economictimes.com/tech/startups/chargebee-acquires-numbers-and-launches-chargebee-receivables/articleshow/89799415.cms",
+   "source_title": "Chargebee acquires Numberz",
+   "source_date": "2022-02-26",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Chargebee Retention",
+   "category": "Customer Retention",
+   "description": "Churn deflection and retention automation (from Brightback acquisition)",
+   "pricing_model": "From $250/mo",
+   "launch_date": "2022-07-28",
+   "status": "Active",
+   "source_url": "https://www.globenewswire.com/news-release/2022/07/28/2487608/0/en/chargebee-enables-subscription-businesses-to-combat-economic-turmoil-with-2022-summer-product-release.html",
+   "source_title": "Chargebee Summer 2022 Product Release",
+   "source_date": "2022-07-28",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Chargebee Entitlements",
+   "category": "Feature Management",
+   "description": "Feature provisioning and entitlement management",
+   "pricing_model": "Custom",
+   "launch_date": "2022-07-28",
+   "status": "Active",
+   "source_url": "https://www.globenewswire.com/news-release/2022/07/28/2487608/0/en/chargebee-enables-subscription-businesses-to-combat-economic-turmoil-with-2022-summer-product-release.html",
+   "source_title": "Chargebee Summer 2022 Product Release",
+   "source_date": "2022-07-28",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Chargebee CPQ",
+   "category": "Configure Price Quote",
+   "description": "Quote-to-cash automation for enterprise sales",
+   "pricing_model": "Free for first 50 quotes",
+   "launch_date": "2024",
+   "status": "Active",
+   "source_url": "https://www.chargebee.com/lp/subscription-management-b",
+   "source_title": "Chargebee Products Page",
+   "source_date": "2026-08-17",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Inai (payments intelligence)",
+   "category": "Payments Analytics",
+   "description": "AI-powered payments intelligence, real-time analytics, settlement and fee intelligence",
+   "pricing_model": "Acquired",
+   "launch_date": "2025-09-03",
+   "status": "Active (acquired)",
+   "source_url": "http://businesswire.com/news/home/20250903404872/en/Chargebee-Acquires-Inai-to-Supercharge-AI-Powered-Payments-Intelligence",
+   "source_title": "Chargebee Acquires Inai",
+   "source_date": "2025-09-03",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Trainn",
+   "category": "Video Training",
+   "description": "Hyper-personalised video creation for customer training",
+   "pricing_model": "Acquired",
+   "launch_date": "2025-03-28",
+   "status": "Active (acquired)",
+   "source_url": "https://pitchbook.com/profiles/company/55782-55",
+   "source_title": "PitchBook Chargebee Acquisitions",
+   "source_date": "2025-09-03",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "RevenueWorks",
+   "category": "Revenue Management",
+   "description": "Not found as a current Chargebee product; possibly refers to the broader Revenue Growth Management platform positioning",
+   "pricing_model": "N/A",
+   "launch_date": null,
+   "status": "UNKNOWN",
+   "source_url": "",
+   "source_title": "",
+   "source_date": "",
+   "confidence": "LOW",
+   "notes": "No evidence of a product called RevenueWorks found"
+  }
+ ],
+ "people": [
+  {
+   "name": "Krish Subramanian",
+   "role": "CEO & Co-founder",
+   "title": "Chief Executive Officer",
+   "current": true,
+   "since": "2011-05-01",
+   "prior_role": "Technology Specialist at Cognizant (2009-2011)",
+   "source_url": "https://www.chargebee.com/about",
+   "source_title": "Chargebee About Us",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Rajaraman Santhanam",
+   "role": "CPO & Co-founder",
+   "title": "Chief Product Officer",
+   "current": true,
+   "since": "2011-05-01",
+   "prior_role": "COO (earlier title)",
+   "source_url": "https://www.chargebee.com/about",
+   "source_title": "Chargebee About Us",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Saravanan KP",
+   "role": "CTO & Co-founder",
+   "title": "Chief Technology Officer",
+   "current": true,
+   "since": "2011-05-01",
+   "prior_role": "Technical Architect at Zoho",
+   "source_url": "https://www.chargebee.com/about",
+   "source_title": "Chargebee About Us",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Thiyagarajan T (Thiyagu)",
+   "role": "Co-founder (ex)",
+   "title": "Architect",
+   "current": false,
+   "since": "2011-05-01",
+   "prior_role": "Co-founder",
+   "source_url": "https://platform.tracxn.com/a/d/company/52ca75c7e4b093852fc328a8/chargebee",
+   "source_title": "Tracxn Chargebee",
+   "source_date": "2025-04-15",
+   "confidence": "MEDIUM"
+  },
+  {
+   "name": "Jeff Sant",
+   "role": "COO",
+   "title": "Chief Operating Officer",
+   "current": true,
+   "source_url": "https://www.chargebee.com/about",
+   "source_title": "Chargebee About Us",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Mike Beach",
+   "role": "CFO",
+   "title": "Chief Financial Officer",
+   "current": true,
+   "source_url": "https://www.chargebee.com/about",
+   "source_title": "Chargebee About Us",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Lydia Stone",
+   "role": "CAO",
+   "title": "Chief Accounting Officer",
+   "current": true,
+   "source_url": "https://www.chargebee.com/about",
+   "source_title": "Chargebee About Us",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Guy Marion",
+   "role": "CMO",
+   "title": "Chief Marketing Officer",
+   "current": true,
+   "source_url": "https://www.chargebee.com/about",
+   "source_title": "Chargebee About Us",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Denis Curran",
+   "role": "Chief Legal Officer",
+   "title": "Chief Legal Officer",
+   "current": true,
+   "source_url": "https://www.chargebee.com/about",
+   "source_title": "Chargebee About Us",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Denise Haselhorst",
+   "role": "CHRO",
+   "title": "Chief Human Resources Officer",
+   "current": true,
+   "source_url": "https://www.chargebee.com/about",
+   "source_title": "Chargebee About Us",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Karthik Srinivasan",
+   "role": "Director",
+   "title": "Whole-time Director (India entity)",
+   "current": true,
+   "since": "2021-06-30",
+   "source_url": "https://www.indiafilings.com/search/chargebee-technologies-private-limited-cin-U72900TN2012PTC084306",
+   "source_title": "IndiaFilings MCA Directors",
+   "confidence": "HIGH"
+  }
+ ],
+ "legal": [
+  {
+   "type": "none",
+   "entity": "Chargebee, Inc. / Chargebee Technologies Private Limited",
+   "date": null,
+   "status": "no known litigation",
+   "description": "No litigation, regulatory action, or legal proceedings found. MCA records show Active status with no open charges.",
+   "source_url": "https://www.registerkaro.in/company/chargebee-U72900TN2012PTC084306",
+   "source_title": "RegisterKaro Chargebee",
+   "source_date": "2026-07-31",
+   "confidence": "MEDIUM"
+  }
+ ],
+ "locations": [
+  {
+   "type": "hq",
+   "address_or_area": "909 Rose Avenue, Suite 950",
+   "city": "North Bethesda",
+   "state": "Maryland",
+   "country": "United States",
+   "as_of": "2026-09-15",
+   "source_url": "https://www.chargebee.com/contact",
+   "source_title": "Chargebee Contact Page",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "registered_office",
+   "address_or_area": "10TH FLOOR, LITTLEWOOD TOWER, RAMANUJAN INTELLION PARK, RAJIV GANDHI SALAI, TARAMANI",
+   "city": "Chennai",
+   "state": "Tamil Nadu",
+   "country": "India",
+   "as_of": "2025-09-30",
+   "source_url": "https://tracxn.com/d/legal-entities/india/chargebee-technologies-private-limited/__lIJZzGOhFpzU6PUd8SaUqHhc2jo_8eaWdXXa-CVQalg",
+   "source_title": "Tracxn MCA21 Registered Address",
+   "source_date": "2026-07-17",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "office",
+   "address_or_area": "Wework - Prestige Tech Park, 4th Floor, Jupiter block",
+   "city": "Bengaluru",
+   "state": "Karnataka",
+   "country": "India",
+   "as_of": "2025-09-02",
+   "source_url": "https://www.thehindubusinessline.com/companies/chargebee-moves-to-a-new-workspace-in-wework-ramanujan-intellion-park/article70003883.ece",
+   "source_title": "Chargebee moves to new workspace in WeWork",
+   "source_date": "2025-09-02",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "office",
+   "address_or_area": "10th Floor, Littlewood Tower, Ramanujan IT Park, Taramani",
+   "city": "Chennai",
+   "state": "Tamil Nadu",
+   "country": "India",
+   "as_of": "2025-09-02",
+   "source_url": "https://www.thehindubusinessline.com/companies/chargebee-moves-to-a-new-workspace-in-wework-ramanujan-intellion-park/article70003883.ece",
+   "source_title": "Chargebee moves to new workspace in WeWork",
+   "source_date": "2025-09-02",
+   "confidence": "HIGH"
+  }
+ ],
+ "customers": [
+  {
+   "name": "Freshworks",
+   "type": "Enterprise",
+   "status": "Active",
+   "source_url": "https://www.insightpartners.com/ideas/chargebee-raises-another-250m-to-meet-surging-demand-from-growing-subscription-and-saas-businesses",
+   "source_title": "Insight Partners Chargebee $250M",
+   "source_date": "2022-02-01",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Calendly",
+   "type": "Enterprise",
+   "status": "Active",
+   "source_url": "https://www.chargebee.com/blog/chargebee-funding-series-g",
+   "source_title": "$125M In Series G Blog",
+   "source_date": "2022-02-01",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Okta",
+   "type": "Enterprise",
+   "status": "Active",
+   "source_url": "https://www.cbinsights.com/research/chargebee-series-h-funding/",
+   "source_title": "CB Insights Chargebee Series H",
+   "source_date": "2022-02-03",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Doodle",
+   "type": "Enterprise",
+   "status": "Active",
+   "source_url": "https://www.insightpartners.com/ideas/chargebee-raises-another-250m-to-meet-surging-demand-from-growing-subscription-and-saas-businesses",
+   "source_title": "Insight Partners Chargebee $250M",
+   "source_date": "2022-02-01",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Pret a Manger",
+   "type": "Enterprise",
+   "status": "Active",
+   "source_url": "https://www.insightpartners.com/ideas/chargebee-raises-another-250m-to-meet-surging-demand-from-growing-subscription-and-saas-businesses",
+   "source_title": "Insight Partners Chargebee $250M",
+   "source_date": "2022-02-01",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Study.com",
+   "type": "Enterprise",
+   "status": "Active",
+   "source_url": "https://www.cbinsights.com/research/chargebee-series-h-funding/",
+   "source_title": "CB Insights Chargebee Series H",
+   "source_date": "2022-02-03",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "DeepL",
+   "type": "Enterprise",
+   "status": "Active",
+   "source_url": "https://www.chargebee.com/about",
+   "source_title": "Chargebee About Us",
+   "source_date": "2026-08-17",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Lambda",
+   "type": "Enterprise",
+   "status": "Active",
+   "source_url": "https://www.chargebee.com/about",
+   "source_title": "Chargebee About Us",
+   "source_date": "2026-08-17",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Gorgias",
+   "type": "Enterprise",
+   "status": "Active",
+   "source_url": "https://www.chargebee.com/about",
+   "source_title": "Chargebee About Us",
+   "source_date": "2026-08-17",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Condé Nast",
+   "type": "Enterprise",
+   "status": "Active",
+   "source_url": "https://www.chargebee.com/about",
+   "source_title": "Chargebee About Us",
+   "source_date": "2026-08-17",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Zapier",
+   "type": "Enterprise",
+   "status": "Active",
+   "source_url": "https://www.chargebee.com/about",
+   "source_title": "Chargebee About Us",
+   "source_date": "2026-08-17",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "LegalZoom",
+   "type": "Enterprise",
+   "status": "Active",
+   "source_url": "https://www.chargebee.com/about",
+   "source_title": "Chargebee About Us",
+   "source_date": "2026-08-17",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Freepik",
+   "type": "Enterprise",
+   "status": "Active",
+   "source_url": "https://www.chargebee.com/about",
+   "source_title": "Chargebee About Us",
+   "source_date": "2026-08-17",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Agicap",
+   "type": "Enterprise",
+   "announced_date": "2026-03-26",
+   "status": "Active",
+   "source_url": "https://www.globenewswire.com/news-release/2026/03/26/3263477/0/en/Agicap-Selects-Chargebee-to-Power-Its-Next-Phase-of-Global-Growth.html",
+   "source_title": "Agicap Selects Chargebee",
+   "source_date": "2026-03-26",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Future",
+   "type": "Enterprise",
+   "announced_date": "2025-11-25",
+   "status": "Active",
+   "source_url": "https://www.globenewswire.com/news-release/2025/11/25/3194070/0/en/Chargebee-Selected-by-Future-to-Power-Global-Subscription-Growth.html",
+   "source_title": "Chargebee Selected by Future",
+   "source_date": "2025-11-25",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Wolfson Brands",
+   "type": "Enterprise",
+   "announced_date": "2025-09-03",
+   "status": "Active",
+   "source_url": "http://businesswire.com/news/home/20250903404872/en/Chargebee-Acquires-Inai-to-Supercharge-AI-Powered-Payments-Intelligence",
+   "source_title": "Chargebee Acquires Inai",
+   "source_date": "2025-09-03",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Typeform",
+   "type": "Enterprise",
+   "status": "Active",
+   "source_url": "https://go.chargebee.com/2024-state-of-subscriptions-and-revenue-growth.html",
+   "source_title": "Chargebee 2024 State of Subscriptions",
+   "source_date": "2024-06-11",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "ChartMogul",
+   "type": "Partner",
+   "status": "Active",
+   "source_url": "https://go.chargebee.com/rs/463-NSB-124/images/2025_chargebee_state_of_recurring_revenue_and_monetization_report.pdf",
+   "source_title": "Chargebee State of Recurring Revenue 2025",
+   "source_date": "2025-03-01",
+   "confidence": "MEDIUM"
+  }
+ ]
+}

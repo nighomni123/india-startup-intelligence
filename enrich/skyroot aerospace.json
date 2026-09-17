@@ -1,0 +1,405 @@
+{
+ "company": {
+  "business_model": "B2B launch services (small-sat rockets)",
+  "city": "Hyderabad",
+  "country": "India",
+  "founded_date": "2018",
+  "hq_type": "HQ",
+  "primary_sector": "spacetech launch",
+  "startup_id": "skyroot aerospace",
+  "startup_stage": "Unicorn",
+  "status": "active",
+  "website": "https://skyroot.in",
+  "cin": "U74999TG2018PTC125073",
+  "incorporation_date": "2018-06-12",
+  "legal_name": "Skyroot Aerospace Private Limited",
+  "official_website": {
+   "v": "https://www.skyroot.in",
+   "conf": "high",
+   "src": "https://www.skyroot.in",
+   "note": "verified live 2026-09-15: name match on own homepage"
+  },
+  "careers_website": {
+   "v": "https://www.skyroot.in/careers",
+   "conf": "high",
+   "src": "https://www.skyroot.in",
+   "note": "careers link found on official homepage, probed live"
+  }
+ },
+ "completeness_self": {
+  "customers": 5,
+  "financials": 3,
+  "founders": 8,
+  "funding": 9,
+  "identity": 9,
+  "investors": 9,
+  "legal": 3,
+  "people": 5,
+  "products": 8,
+  "sources": 9,
+  "traction": 7
+ },
+ "conflicts": [
+  {
+   "claim_a": "Total raised ~$160M incl latest (TOI)",
+   "claim_b": "Total raised close to $100M (BS/VCCircle statements)",
+   "field": "total_funding",
+   "resolution": "TOI $160M likely cumulative incl $60M; BS/VCC 'close to $100M' likely pre-round base. Use $160M post-round.",
+   "resolved_value": "~$160M post-round",
+   "url_a": "https://timesofindia.indiatimes.com/city/hyderabad/hyds-skyroot-aerospace-becomes-indias-first-spacetech-unicorn/articleshow/130920667.cms",
+   "url_b": "https://www.business-standard.com/companies/news/skyroot-aerospace-raises-60-mn-becomes-a-unicorn-valued-at-1-1-bn-126050700238_1.html"
+  }
+ ],
+ "customers": [
+  {
+   "name": "Mixed domestic/international payloads for Vikram-1 maiden flight (EO sats + in-orbit modules)",
+   "source_url": "https://economictimes.indiatimes.com/tech/funding/ram-shrirams-sherpalo-ventures-to-lead-60-million-funding-round-in-skyroot/articleshow/130875605.cms",
+   "status": "announced",
+   "type": "enterprise"
+  }
+ ],
+ "events": [
+  {
+   "announced_date": "2026-05-07",
+   "confidence": "HIGH",
+   "date": "2026-05-07",
+   "description": "~$60M ($50M equity + ~$10M BlackRock debt) at $1.1B pre-money; co-led Sherpalo + GIC; Ram Shriram joins board; India's first spacetech unicorn.",
+   "headline": "$60M round at $1.1B; first spacetech unicorn",
+   "source_url": "https://techcrunch.com/2026/05/07/indias-first-space-tech-unicorn-emerges-as-skyroot-gears-up-for-orbital-launch/",
+   "type": "funding"
+  },
+  {
+   "announced_date": "2026-04",
+   "confidence": "HIGH",
+   "date": "2026-06",
+   "description": "Vikram-1 flagged off to Sriharikota; maiden orbital launch targeted June 2026.",
+   "headline": "Vikram-1 orbital launch campaign",
+   "source_url": "https://techcrunch.com/2026/05/07/indias-first-space-tech-unicorn-emerges-as-skyroot-gears-up-for-orbital-launch/",
+   "type": "product"
+  },
+  {
+   "announced_date": "2022-11",
+   "confidence": "HIGH",
+   "date": "2022-11",
+   "description": "Vikram-S suborbital success; first Indian private rocket to space.",
+   "headline": "Vikram-S launch (background)",
+   "source_url": "https://timesofindia.indiatimes.com/city/hyderabad/hyds-skyroot-aerospace-becomes-indias-first-spacetech-unicorn/articleshow/130920667.cms",
+   "type": "product"
+  }
+ ],
+ "financials": [],
+ "founders": [
+  {
+   "background": "ISRO scientist; LVM3/Chandrayaan-3 production oversight; IIT graduate",
+   "confidence": "HIGH",
+   "name": "Pawan Kumar Chandana (Chandana)",
+   "role": "Co-founder & CEO",
+   "source_url": "https://economictimes.indiatimes.com/tech/funding/ram-shrirams-sherpalo-ventures-to-lead-60-million-funding-round-in-skyroot/articleshow/130875605.cms",
+   "still_active": true,
+   "type": "co-founder"
+  },
+  {
+   "background": "ISRO scientist; IIT graduate",
+   "confidence": "HIGH",
+   "name": "Naga Bharath Daka",
+   "role": "Co-founder & CTO",
+   "source_url": "https://economictimes.indiatimes.com/tech/funding/ram-shrirams-sherpalo-ventures-to-lead-60-million-funding-round-in-skyroot/articleshow/130875605.cms",
+   "still_active": true,
+   "type": "co-founder"
+  }
+ ],
+ "funding_rounds": [
+  {
+   "all_investors": [
+    "Sherpalo Ventures",
+    "GIC",
+    "BlackRock (debt)",
+    "Playbook Partners",
+    "Shanghvi Family Office",
+    "Greenko founders",
+    "Arkam Ventures"
+   ],
+   "amount": "60M",
+   "announced_date": "2026-05-07",
+   "confidence": "HIGH",
+   "currency": "USD",
+   "lead_investors": [
+    "Sherpalo Ventures",
+    "GIC"
+   ],
+   "round_type": "pre-Series C (second)",
+   "source_date": "2026-05-07",
+   "source_title": "India's first space tech unicorn emerges as Skyroot gears up for orbital launch",
+   "source_url": "https://techcrunch.com/2026/05/07/indias-first-space-tech-unicorn-emerges-as-skyroot-gears-up-for-orbital-launch/",
+   "tier": "T3",
+   "valuation": "1.1B",
+   "valuation_type": "pre-money"
+  },
+  {
+   "amount": "27.5M",
+   "announced_date": "2023-11",
+   "confidence": "HIGH",
+   "currency": "USD",
+   "lead_investors": [
+    "Temasek"
+   ],
+   "round_type": "pre-Series C (first)",
+   "source_title": "Hyd's Skyroot Aerospace becomes India's first spacetech unicorn (TOI)",
+   "source_url": "https://timesofindia.indiatimes.com/city/hyderabad/hyds-skyroot-aerospace-becomes-indias-first-spacetech-unicorn/articleshow/130920667.cms",
+   "tier": "T3",
+   "valuation": "550M",
+   "valuation_type": "post-money (reported)"
+  },
+  {
+   "amount": "51M",
+   "announced_date": "2022-09",
+   "confidence": "HIGH",
+   "currency": "USD",
+   "round_type": "Series B",
+   "source_title": "Skyroot turns unicorn with $60 mn round (VCCircle)",
+   "source_url": "https://www.vccircle.com/skyrootaerospace-turns-unicorn-with-60-mn-round-led-by-sherpalo-ventures-gic",
+   "tier": "T3"
+  },
+  {
+   "amount": "4.5M",
+   "announced_date": "2022-01",
+   "confidence": "MEDIUM",
+   "currency": "USD",
+   "round_type": "Series B (early tranche; Sherpalo participated)",
+   "source_title": "Ram Shriram's Sherpalo to lead $60M (ET)",
+   "source_url": "https://economictimes.indiatimes.com/tech/funding/ram-shrirams-sherpalo-ventures-to-lead-60-million-funding-round-in-skyroot/articleshow/130875605.cms",
+   "tier": "T3"
+  }
+ ],
+ "gaps": [
+  "No revenue/financials disclosed (pre-commercial; contract book post-launch)",
+  "Exact equity/debt split ($50M/$10M per TC) single-sourced",
+  "Prior round dates/amounts partially reconstructed from secondary reporting",
+  "financials: no audited or press-quoted FY24/FY25 revenue/loss figures verified (YourStory FY24 piece qualitative only, fetch blocked)",
+  "valuations: per-round valuations not verified from seen sources"
+ ],
+ "investor_links": [
+  {
+   "confidence": "HIGH",
+   "investor": "Sherpalo Ventures",
+   "investor_type": "VC",
+   "lead": true,
+   "rounds": [
+    "Series B",
+    "2026 $60M"
+   ],
+   "source_url": "https://techcrunch.com/2026/05/07/indias-first-space-tech-unicorn-emerges-as-skyroot-gears-up-for-orbital-launch/"
+  },
+  {
+   "confidence": "HIGH",
+   "investor": "GIC",
+   "investor_type": "sovereign",
+   "lead": true,
+   "rounds": [
+    "Series B",
+    "2026 $60M"
+   ],
+   "source_url": "https://techcrunch.com/2026/05/07/indias-first-space-tech-unicorn-emerges-as-skyroot-gears-up-for-orbital-launch/"
+  },
+  {
+   "confidence": "HIGH",
+   "investor": "BlackRock (managed funds)",
+   "investor_type": "debt/asset-manager",
+   "rounds": [
+    "2026 $60M (structured debt)"
+   ],
+   "source_url": "https://techcrunch.com/2026/05/07/indias-first-space-tech-unicorn-emerges-as-skyroot-gears-up-for-orbital-launch/"
+  },
+  {
+   "confidence": "MEDIUM",
+   "investor": "Temasek",
+   "investor_type": "sovereign",
+   "rounds": [
+    "Series B 2022",
+    "pre-Series C 2023"
+   ],
+   "source_url": "https://timesofindia.indiatimes.com/city/hyderabad/hyds-skyroot-aerospace-becomes-indias-first-spacetech-unicorn/articleshow/130920667.cms"
+  },
+  {
+   "confidence": "MEDIUM",
+   "investor": "Arkam Ventures",
+   "investor_type": "VC",
+   "rounds": [
+    "2026 $60M"
+   ],
+   "source_url": "https://www.business-standard.com/companies/news/skyroot-aerospace-raises-60-mn-becomes-a-unicorn-valued-at-1-1-bn-126050700238_1.html"
+  },
+  {
+   "confidence": "MEDIUM",
+   "investor": "Greenko Group founders",
+   "investor_type": "angel/family",
+   "rounds": [
+    "2026 $60M"
+   ],
+   "source_url": "https://www.business-standard.com/companies/news/skyroot-aerospace-raises-60-mn-becomes-a-unicorn-valued-at-1-1-bn-126050700238_1.html"
+  },
+  {
+   "confidence": "MEDIUM",
+   "investor": "Playbook Partners",
+   "investor_type": "VC",
+   "rounds": [
+    "2026 $60M"
+   ],
+   "source_url": "https://www.business-standard.com/companies/news/skyroot-aerospace-raises-60-mn-becomes-a-unicorn-valued-at-1-1-bn-126050700238_1.html"
+  },
+  {
+   "confidence": "MEDIUM",
+   "investor": "Shanghvi Family Office",
+   "investor_type": "family-office",
+   "rounds": [
+    "2026 $60M"
+   ],
+   "source_url": "https://www.business-standard.com/companies/news/skyroot-aerospace-raises-60-mn-becomes-a-unicorn-valued-at-1-1-bn-126050700238_1.html"
+  }
+ ],
+ "investors_meta": [],
+ "locations": [
+  {
+   "city": "Hyderabad",
+   "confidence": "HIGH",
+   "source_url": "https://timesofindia.indiatimes.com/city/hyderabad/hyds-skyroot-aerospace-becomes-indias-first-spacetech-unicorn/articleshow/130920667.cms",
+   "state": "Telangana",
+   "type": "HQ"
+  }
+ ],
+ "people": [
+  {
+   "confidence": "MEDIUM",
+   "name": "Ram Shriram",
+   "position": "Board member (joined May 2026)",
+   "source_url": "https://www.business-standard.com/companies/news/skyroot-aerospace-raises-60-mn-becomes-a-unicorn-valued-at-1-1-bn-126050700238_1.html"
+  }
+ ],
+ "products": [
+  {
+   "category": "orbital launch vehicle",
+   "description": "Vikram-1: maiden orbital rocket; flagged off to Sriharikota Apr 2026; launch targeted June 2026",
+   "name": "Vikram-1",
+   "status": "pre-launch"
+  },
+  {
+   "category": "launch vehicle",
+   "description": "1-tonne class with cryogenic upper stage; in development",
+   "name": "Vikram-2",
+   "status": "development"
+  }
+ ],
+ "research_log": [
+  {
+   "found": "$60M/$1.1B round, leads, founders, Vikram-1 timeline, prior rounds",
+   "next_action": "Done; financials N/A pre-revenue",
+   "query": "Skyroot Aerospace unicorn $60 million May 2026",
+   "unresolved": "Revenue/contract book; equity-debt split single-sourced"
+  },
+  {
+   "date": "2026-09-14",
+   "found": "CIN U74999TG2018PTC125073, incorporated 12 Jun 2018, RoC Hyderabad via ZaubaCorp/IndiaFilings snippets",
+   "query": "Skyroot Aerospace Private Limited CIN incorporation date",
+   "unresolved": "FY25 figures not surfaced; FY24 filing write-up exists (YourStory Oct 2024, ~2x revenue growth, widening losses) but page fetch 403 and snippet carries no hard numbers"
+  },
+  {
+   "date": "2026-09-14",
+   "found": "none with figures",
+   "query": "Skyroot Aerospace FY25 revenue loss MCA filing",
+   "unresolved": "audited or press-quoted FY25/FY24 revenue/loss figures still missing"
+  }
+ ],
+ "sources": [
+  {
+   "claim_supported": "$60M, $1.1B pre-money, $50M equity + $10M debt, leads",
+   "fields_supported": [
+    "funding",
+    "investors"
+   ],
+   "publication_date": "2026-05-07",
+   "publisher": "TechCrunch",
+   "retrieved_date": "2026-09-14",
+   "tier": "T3",
+   "title": "India's first space tech unicorn emerges as Skyroot gears up for orbital launch",
+   "url": "https://techcrunch.com/2026/05/07/indias-first-space-tech-unicorn-emerges-as-skyroot-gears-up-for-orbital-launch/"
+  },
+  {
+   "claim_supported": "$60M, $1.1B, investors, Ram Shriram board",
+   "fields_supported": [
+    "funding",
+    "investors"
+   ],
+   "publication_date": "2026-05-07",
+   "publisher": "Business Standard",
+   "retrieved_date": "2026-09-14",
+   "tier": "T3",
+   "title": "Skyroot Aerospace raises $60 mn, becomes a unicorn valued at $1.1 bn",
+   "url": "https://www.business-standard.com/companies/news/skyroot-aerospace-raises-60-mn-becomes-a-unicorn-valued-at-1-1-bn-126050700238_1.html"
+  },
+  {
+   "claim_supported": "Founders ISRO/IIT, Vikram-1 June, $27.5M 2023, $51M 2022",
+   "fields_supported": [
+    "founders",
+    "funding",
+    "products"
+   ],
+   "publication_date": "2026-05-07",
+   "publisher": "Times of India",
+   "retrieved_date": "2026-09-14",
+   "tier": "T3",
+   "title": "Hyderabad's Skyroot Aerospace becomes India's 1st spacetech unicorn",
+   "url": "https://timesofindia.indiatimes.com/city/hyderabad/hyds-skyroot-aerospace-becomes-indias-first-spacetech-unicorn/articleshow/130920667.cms"
+  },
+  {
+   "claim_supported": "$60M round details, valuation double",
+   "fields_supported": [
+    "funding"
+   ],
+   "publication_date": "2026-05-07",
+   "publisher": "Entrackr",
+   "retrieved_date": "2026-09-14",
+   "tier": "T3",
+   "title": "Skyroot becomes India's first spacetech unicorn after $60 Mn funding round",
+   "url": "https://entrackr.com/news/skyroot-becomes-indias-first-spacetech-unicorn-after-60-mn-funding-round-11808488"
+  },
+  {
+   "claim_supported": "Background, Temasek non-participation, customer demand",
+   "fields_supported": [
+    "funding",
+    "traction"
+   ],
+   "publisher": "Economic Times",
+   "retrieved_date": "2026-09-14",
+   "tier": "T3",
+   "title": "Ram Shriram's Sherpalo Ventures to lead $60 million funding round in Skyroot",
+   "url": "https://economictimes.indiatimes.com/tech/funding/ram-shrirams-sherpalo-ventures-to-lead-60-million-funding-round-in-skyroot/articleshow/130875605.cms"
+  },
+  {
+   "url": "https://www.zaubacorp.com/SKYROOT-AEROSPACE-PRIVATE-LIMITED-U74999TG2018PTC125073",
+   "title": "SKYROOT AEROSPACE PRIVATE LIMITED | ZaubaCorp",
+   "fields": [
+    "updates.company.cin",
+    "updates.company.incorporation_date"
+   ],
+   "confidence": "high"
+  },
+  {
+   "url": "https://yourstory.com/2024/10/temasek-backed-spacetech-skyroot-2x-revenue-growth-fy24",
+   "title": "Temasek-backed spacetech Skyroot sees 2X revenue growth in FY24 amid widening losses",
+   "fields": "company",
+   "confidence": "medium"
+  }
+ ],
+ "startup_id": "skyroot aerospace",
+ "traction": [
+  {
+   "as_of": "2026-05",
+   "company_reported": true,
+   "confidence": "MEDIUM",
+   "metric": "launch readiness",
+   "source_url": "https://techcrunch.com/2026/05/07/indias-first-space-tech-unicorn-emerges-as-skyroot-gears-up-for-orbital-launch/",
+   "value": "Vikram-1 at Sriharikota; Infinity campus targets 1 rocket/month"
+  }
+ ],
+ "_merged_session2": true
+}

@@ -1,0 +1,110 @@
+{
+ "canonical_key": "big mishra",
+ "startup_id": null,
+ "company": {
+  "company_name": "Big Mishra",
+  "legal_name": "Big Mishra Pedha (ethnic sweets brand)",
+  "city": "UNKNOWN",
+  "state": "UNKNOWN",
+  "primary_sector": "food / ethnic sweets",
+  "founded_date": "UNKNOWN",
+  "business_model": "ethnic sweets (Dharwad Pedha)",
+  "status": "Active (private) — Bharat Value Fund Rs 300 cr investment, Aug 2026",
+  "startup_stage": "growth",
+  "public_private": "private",
+  "official_website": {
+   "v": "https://bigmishra.com/",
+   "conf": "HIGH",
+   "src": "https://bigmishra.com/",
+   "note": "Fetched successfully; page identifies Big Mishra Dharwad Pedha."
+  },
+  "website": "https://bigmishra.com/"
+ },
+ "funding_rounds": [
+  {
+   "round_type": "private equity (minority, undisclosed stake)",
+   "announced_date": "2026-08-01",
+   "amount": 300,
+   "currency": "INR",
+   "amount_unit": "crore (~$31.3M)",
+   "lead_investors": [
+    "Bharat Value Fund (The Wealth Company)"
+   ],
+   "purpose": "growth (unstated)",
+   "source_url": "https://www.thehindubusinessline.com/markets/bharat-value-fund-bets-300-crore-for-undisclosed-stake-in-big-mishra-pedha/article71363394.ece",
+   "tier": "T2",
+   "confidence": "medium"
+  }
+ ],
+ "founders": [],
+ "financials": [
+  {
+   "fiscal_year": "FY26",
+   "metric": "revenue",
+   "value": 300,
+   "unit": "crore INR",
+   "currency": "INR",
+   "value_type": "management",
+   "source_url": "https://www.thehindubusinessline.com/markets/bharat-value-fund-bets-300-crore-for-undisclosed-stake-in-big-mishra-pedha/article71363394.ece",
+   "confidence": "low"
+  },
+  {
+   "fiscal_year": "FY22",
+   "metric": "revenue",
+   "value": 142,
+   "unit": "crore INR",
+   "currency": "INR",
+   "value_type": "management",
+   "source_url": "https://www.thehindubusinessline.com/markets/bharat-value-fund-bets-300-crore-for-undisclosed-stake-in-big-mishra-pedha/article71363394.ece",
+   "confidence": "low"
+  }
+ ],
+ "events": [],
+ "conflicts": [],
+ "sources": [
+  {
+   "url": "https://www.vccircle.com/bharat-value-fund-invests-in-ethnic-sweets-brand-dharwad-pedha",
+   "title": "Bharat Value Fund invests in ethnic sweets brand Dharwad Pedha",
+   "publisher": "VCCircle",
+   "retrieved_date": "2026-09-15",
+   "tier": "T2",
+   "claim_supported": "Rs 300 cr deal corroboration",
+   "fields_supported": [
+    "funding_rounds"
+   ]
+  }
+ ],
+ "research_log": [
+  {
+   "query": "Big Mishra food startup funding 2026",
+   "found": "Rs 300 cr Bharat Value Fund deal; FY22-FY26 revenue trajectory per statement",
+   "unresolved": "city, founders, Series C framing from discovery",
+   "next_action": "verify Series C vs PE-minority framing"
+  },
+  {
+   "date": "2026-09-14",
+   "url": "https://bigmishra.com/",
+   "result": "verified by hyperresearch fetch; note the-best-dharwad-pedha-from-the-house-of-big-mishra"
+  },
+  {
+   "date": "2026-09-14",
+   "url": "https://www.bigmishra.com/",
+   "result": "verified by hyperresearch fetch; same company site"
+  },
+  {
+   "date": "2026-09-14",
+   "result": "No company-owned careers page found in search or verified fetch; omitted."
+  }
+ ],
+ "gaps": [
+  "City unverified (left UNKNOWN, not inferred); discovery Series C $31.3M framing looks like this PE deal, round-type unconfirmed; founders, CIN unverified; financials are management-quoted via press."
+ ],
+ "completeness_self": {
+  "identity": 5,
+  "founders": 0,
+  "funding": 6,
+  "financials": 3,
+  "sources": 6
+ },
+ "_merged_session2": true
+}

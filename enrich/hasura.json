@@ -1,0 +1,943 @@
+{
+ "company": {
+  "business_model": "B2B SaaS / open-source GraphQL engine + Hasura Cloud",
+  "city": "Bengaluru (India ops) / San Francisco (HQ)",
+  "confidence": "HIGH",
+  "country": "India + US",
+  "customer_type": "B2B developers/enterprises",
+  "employee_estimate": 126,
+  "employee_estimate_date": "2026-03",
+  "hq_type": "HQ San Francisco; Bengaluru development office",
+  "legal_name": "Hasura Inc.",
+  "notes": "Seed city Bengaluru partially correct — dual SF/Bengaluru. Founded-year conflict 2013 vs 2017 (see conflicts). Unicorn since Feb 2022 Series C.",
+  "primary_sector": "SaaS / API platform (GraphQL)",
+  "startup_id": "hasura",
+  "startup_stage": "Unicorn (Series C)",
+  "status": "Active",
+  "website": "https://hasura.io",
+  "cin": "U72900KA2017PTC104083",
+  "incorporation_date": "2017-06-22",
+  "official_website": {
+   "v": "https://hasura.io",
+   "conf": "high",
+   "src": "https://hasura.io",
+   "note": "verified live 2026-09-15: name match on own homepage"
+  },
+  "careers_website": {
+   "v": "https://hasura.io/careers",
+   "conf": "high",
+   "src": "https://hasura.io",
+   "note": "careers link found on official homepage, probed live"
+  }
+ },
+ "competitors": [
+  {
+   "basis": "explicit",
+   "confidence": "MEDIUM",
+   "name": "Stellate"
+  },
+  {
+   "basis": "explicit",
+   "confidence": "MEDIUM",
+   "name": "Strapi"
+  },
+  {
+   "basis": "explicit",
+   "confidence": "MEDIUM",
+   "name": "ZettaBlock"
+  }
+ ],
+ "conflicts": [
+  {
+   "claim_a": "Founded 2017 (most profiles)",
+   "claim_b": "Founded 2013 (Tracxn variant)",
+   "field": "founded_date",
+   "resolution": "Use 2017 (company/Crunchbase/PitchBook majority); 2013 likely predecessor-entity date.",
+   "resolved_value": "2017",
+   "url_a": "https://www.crunchbase.com/organization/hasura",
+   "url_b": "http://tracxn.com/d/companies/hasura/__SMK3S7BMgtsGtSv97RLd1UJUbyheNG10g9USc7rNJ4A"
+  },
+  {
+   "claim_a": "Total $136.5M (company/PR, Inc42, CBInsights)",
+   "claim_b": "Total $239M (Tracxn, 6 rounds)",
+   "field": "total_funding",
+   "resolution": "Prefer company-disclosed $136.5M; Tracxn counts extra/duplicate rounds.",
+   "resolved_value": "$136.5M",
+   "url_a": "https://m.economictimes.com/tech/funding/hasura-raises-100-million-becomes-tenth-startup-unicorn-of-2022/articleshow/89754612.cms",
+   "url_b": "https://tracxn.com/d/companies/hasura/__SMK3S7BMgtsGtSv97RLd1UJUbyheNG10g9USc7rNJ4A/funding-and-investors"
+  }
+ ],
+ "customers": [],
+ "events": [
+  {
+   "announced_date": "2022-02-22",
+   "confidence": "HIGH",
+   "date": "2022-02-22",
+   "description": "$100M round led by Greenoaks; total $136.5M; 10th Indian unicorn of 2022.",
+   "headline": "Hasura raises $100M Series C at $1B valuation",
+   "source_url": "https://www.thehindubusinessline.com/companies/hasura-raises-100-m-in-series-c-funding-at-1-b-valuation/article65074669.ece",
+   "type": "funding"
+  },
+  {
+   "confidence": "MEDIUM",
+   "date": "2024-09",
+   "description": "Suku Krishnaraj named COO/President GTM (per Tracxn news feed).",
+   "headline": "New COO appointment",
+   "source_url": "https://platform.tracxn.com/a/d/company/54e49bcce4b09c3be254fb2d/hasura",
+   "type": "leadership"
+  }
+ ],
+ "financials": [],
+ "founders": [
+  {
+   "background": "IIT Madras; ex-Microsoft/Polaris; co-founded Owlink",
+   "confidence": "HIGH",
+   "name": "Tanmai Gopal",
+   "role": "Co-founder & CEO",
+   "source_url": "https://www.cbinsights.com/company/hasura/people",
+   "still_active": true,
+   "type": "co-founder",
+   "active": "yes — co-founder and CEO of PromptQL / Hasura"
+  },
+  {
+   "background": "NUS; co-founded Owlink",
+   "confidence": "HIGH",
+   "name": "Rajoshi Ghosh",
+   "role": "Co-founder & COO",
+   "source_url": "https://platform.tracxn.com/a/d/company/54e49bcce4b09c3be254fb2d/hasura",
+   "still_active": true,
+   "type": "co-founder",
+   "active": "yes — co-founder of PromptQL / Hasura",
+   "location": "San Francisco",
+   "linkedin": "https://www.linkedin.com/in/rajoshighosh"
+  }
+ ],
+ "funding_rounds": [
+  {
+   "all_investors": [
+    "STRIVE",
+    "ATI Investments"
+   ],
+   "amount": "1.6M",
+   "announced_date": "2017-08-02",
+   "confidence": "MEDIUM",
+   "currency": "USD",
+   "lead_investors": [
+    "Nexus Venture Partners"
+   ],
+   "round_date": "2017-08-02",
+   "round_type": "Seed",
+   "source_title": "Inc42 Hasura funding",
+   "source_url": "https://inc42.com/company/hasura/funding/",
+   "tier": "T2"
+  },
+  {
+   "all_investors": [
+    "Nexus",
+    "Vertex",
+    "STRIVE",
+    "SAP.iO",
+    " angels"
+   ],
+   "amount": "9.9M",
+   "announced_date": "2020-02-26",
+   "confidence": "HIGH",
+   "currency": "USD",
+   "lead_investors": [],
+   "round_date": "2020-02-26",
+   "round_type": "Series A",
+   "source_title": "Inc42 Hasura funding",
+   "source_url": "https://inc42.com/company/hasura/funding/",
+   "tier": "T2"
+  },
+  {
+   "all_investors": [
+    "Nexus",
+    "Vertex",
+    "STRIVE",
+    "SAP.iO"
+   ],
+   "amount": "25M",
+   "announced_date": "2020-09-08",
+   "confidence": "HIGH",
+   "currency": "USD",
+   "lead_investors": [
+    "Lightspeed Venture Partners"
+   ],
+   "round_date": "2020-09-08",
+   "round_type": "Series B",
+   "source_title": "ETtech Hasura unicorn",
+   "source_url": "https://m.economictimes.com/tech/funding/hasura-raises-100-million-becomes-tenth-startup-unicorn-of-2022/articleshow/89754612.cms",
+   "tier": "T3"
+  },
+  {
+   "all_investors": [
+    "Nexus Venture Partners",
+    "Lightspeed Venture Partners",
+    "Vertex Ventures"
+   ],
+   "amount": "100M",
+   "announced_date": "2022-02-22",
+   "confidence": "HIGH",
+   "currency": "USD",
+   "lead_investors": [
+    "Greenoaks"
+   ],
+   "purpose": "R&D + global GTM for GraphQL Engine/Hasura Cloud",
+   "round_date": "2022-02-22",
+   "round_type": "Series C",
+   "source_date": "2022-02-22",
+   "source_title": "Hasura raises $100M Series C at $1B (Hindu BusinessLine)",
+   "source_url": "https://www.thehindubusinessline.com/companies/hasura-raises-100-m-in-series-c-funding-at-1-b-valuation/article65074669.ece",
+   "tier": "T3",
+   "valuation": "1B",
+   "valuation_type": "post-money",
+   "announcement_date": "2022-02-22",
+   "valuation_currency": "USD"
+  }
+ ],
+ "gaps": [
+  "No FY24/FY25 revenue or MCA financials verified",
+  "Layoffs unverified",
+  "Customer names unverified",
+  "Post-2022 funding (none found) — confirm",
+  "financials: no audited or press-quoted FY25/FY26 revenue/profit for Indian entity surfaced",
+  "incorporation_date: day-level 22 Jun 2017 from aggregator snippet only; MCA primary record not viewed"
+ ],
+ "investor_links": [
+  {
+   "confidence": "HIGH",
+   "first_seen": "2017",
+   "investor": "Nexus Venture Partners",
+   "investor_type": "VC",
+   "lead": true,
+   "rounds": [
+    "Seed",
+    "Series A",
+    "Series B",
+    "Series C"
+   ],
+   "source_url": "https://www.thehindubusinessline.com/companies/hasura-raises-100-m-in-series-c-funding-at-1-b-valuation/article65074669.ece"
+  },
+  {
+   "confidence": "HIGH",
+   "first_seen": "2022",
+   "investor": "Greenoaks",
+   "investor_type": "VC",
+   "lead": true,
+   "rounds": [
+    "Series C"
+   ],
+   "source_url": "https://m.economictimes.com/tech/funding/hasura-raises-100-million-becomes-tenth-startup-unicorn-of-2022/articleshow/89754612.cms"
+  },
+  {
+   "confidence": "HIGH",
+   "first_seen": "2020",
+   "investor": "Lightspeed Venture Partners",
+   "investor_type": "VC",
+   "lead": true,
+   "rounds": [
+    "Series B",
+    "Series C"
+   ],
+   "source_url": "https://m.economictimes.com/tech/funding/hasura-raises-100-million-becomes-tenth-startup-unicorn-of-2022/articleshow/89754612.cms"
+  },
+  {
+   "confidence": "HIGH",
+   "first_seen": "2019",
+   "investor": "Vertex Ventures",
+   "investor_type": "VC",
+   "lead": false,
+   "rounds": [
+    "Series A",
+    "Series B",
+    "Series C"
+   ],
+   "source_url": "https://www.thehindubusinessline.com/companies/hasura-raises-100-m-in-series-c-funding-at-1-b-valuation/article65074669.ece"
+  }
+ ],
+ "legal": [],
+ "locations": [
+  {
+   "address_or_area": "576 Folsom St Fl 3",
+   "as_of": "2024",
+   "city": "San Francisco",
+   "confidence": "MEDIUM",
+   "source_url": "https://pitchbook.com/profiles/company/174523-69",
+   "state": "California",
+   "type": "HQ"
+  },
+  {
+   "address_or_area": "Novel Tech Park / Salarpuria Triton, Bellandur",
+   "as_of": "2025",
+   "city": "Bengaluru",
+   "confidence": "MEDIUM",
+   "source_url": "http://tracxn.com/d/companies/hasura/__SMK3S7BMgtsGtSv97RLd1UJUbyheNG10g9USc7rNJ4A",
+   "state": "Karnataka",
+   "type": "ops"
+  }
+ ],
+ "people": [
+  {
+   "confidence": "MEDIUM",
+   "name": "Suku Krishnaraj",
+   "position": "COO / President GTM (from ~Sep 2024)",
+   "source_url": "https://platform.tracxn.com/a/d/company/54e49bcce4b09c3be254fb2d/hasura"
+  }
+ ],
+ "products": [
+  {
+   "confidence": "HIGH",
+   "name": "Hasura GraphQL Engine + Hasura Cloud (instant GraphQL APIs over Postgres/existing DBs)"
+  }
+ ],
+ "research_log": [
+  {
+   "found": "Series C $100M/$1B; founders; investors; HQ dual",
+   "next_action": "done",
+   "query": "Hasura funding valuation 2025 2026",
+   "unresolved": "FY financials"
+  },
+  {
+   "found": "founders education; COO hire; employee counts",
+   "next_action": "done",
+   "query": "Hasura founders layoffs revenue FY24 FY25",
+   "unresolved": "revenue/layoffs"
+  },
+  {
+   "found": "2 fetches ok (HBL, ET)",
+   "next_action": "done",
+   "query": "fetch load-bearing pages",
+   "unresolved": null
+  },
+  {
+   "date": "2026-09-14",
+   "found": "CIN U72900KA2017PTC104083, incorporated 22 Jun 2017, RoC Bangalore via ZaubaCorp snippet; corroborated by Tofler/FileSure/TheCompanyCheck snippets",
+   "query": "Hasura Technologies Private Limited CIN incorporation",
+   "unresolved": "Audited FY25/FY26 Indian-entity financial figures not surfaced"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "Q-wave claim source-hunt",
+   "found": "1 resolved",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  }
+ ],
+ "sources": [
+  {
+   "claim_supported": "$100M Series C at $1B; use of funds",
+   "fields_supported": [
+    "funding_rounds",
+    "valuation"
+   ],
+   "publication_date": "2022-02-22",
+   "publisher": "Hindu BusinessLine",
+   "retrieved_date": "2026-09-14",
+   "tier": "T3",
+   "title": "Hasura raises $100M in Series C Funding at a $1B valuation",
+   "url": "https://www.thehindubusinessline.com/companies/hasura-raises-100-m-in-series-c-funding-at-1-b-valuation/article65074669.ece"
+  },
+  {
+   "claim_supported": "unicorn; investors; SF+Bengaluru base",
+   "fields_supported": [
+    "funding_rounds",
+    "locations"
+   ],
+   "publication_date": "2022-02-24",
+   "publisher": "Economic Times",
+   "retrieved_date": "2026-09-14",
+   "tier": "T3",
+   "title": "Hasura raises $100 million, becomes tenth startup unicorn of 2022",
+   "url": "https://m.economictimes.com/tech/funding/hasura-raises-100-million-becomes-tenth-startup-unicorn-of-2022/articleshow/89754612.cms"
+  },
+  {
+   "claim_supported": "round-by-round amounts",
+   "fields_supported": [
+    "funding_rounds"
+   ],
+   "publication_date": "2026-05-29",
+   "publisher": "Inc42",
+   "retrieved_date": "2026-09-14",
+   "tier": "T3",
+   "title": "Hasura Funding 2026",
+   "url": "https://inc42.com/company/hasura/funding/"
+  },
+  {
+   "url": "https://www.businesswire.com/news/home/20220222005420/en/Hasura-Announces-%24100M-in-Series-C-Funding-at-a-%241B-Valuation-to-Make-GraphQL-Available-to-Everyone",
+   "title": "",
+   "fields": "FUNDING",
+   "confidence": "high"
+  },
+  {
+   "url": "https://www.zaubacorp.com/HASURA-TECHNOLOGIES-PRIVATE-LIMITED-U72900KA2017PTC104083",
+   "title": "HASURA TECHNOLOGIES PRIVATE LIMITED | ZaubaCorp",
+   "fields": [
+    "updates.company.cin",
+    "updates.company.incorporation_date"
+   ],
+   "confidence": "high"
+  },
+  {
+   "url": "https://yourstory.com/2022/02/-funding-alert-hasura-raises-100m-series-c-fund",
+   "title": "[Funding alert] GraphQL developer Hasura turns unicorn, secures $100M in Series C funding",
+   "fields": [
+    "round_supplements"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "url": "https://hasura.io/docs/latest/graphql/core/index",
+   "title": "Hasura GraphQL Engine + Hasura Cloud (instant GraphQL APIs over Postgres/existing DBs)",
+   "fields": "quarantine-resolved",
+   "confidence": "HIGH"
+  },
+  {
+   "url": "https://www.linkedin.com/posts/tanmaig_hasura-design-philosophy-activity-6925716321523441664-Zq42",
+   "title": "Tanmai Gopal - Hasura Design Philosophy - LinkedIn",
+   "tier": "T2",
+   "claim": "founder status Tanmai Gopal"
+  },
+  {
+   "url": "https://www.linkedin.com/in/rajoshighosh",
+   "title": "Rajoshi Ghosh - PromptQL - LinkedIn",
+   "tier": "T2",
+   "claim": "founder status Rajoshi Ghosh"
+  }
+ ],
+ "startup_id": "hasura",
+ "traction": [],
+ "_merged_session2": true
+}

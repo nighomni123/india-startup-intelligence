@@ -1,0 +1,198 @@
+{
+ "canonical_key": "erisha e mobility",
+ "company": {
+  "business_model": "B2B/B2C EV manufacturing",
+  "cin": "U34300DL2022PTC396742",
+  "city": "Delhi NCR",
+  "company_name": "Erisha E Mobility",
+  "founded_date": "2022-04-18",
+  "incorporation_date": "2022-04-18",
+  "primary_sector": "auto/ev",
+  "public_private": "Private",
+  "startup_stage": "Series D",
+  "status": "Active",
+  "official_website": {
+   "v": "https://www.erishaev.com/",
+   "conf": "HIGH",
+   "src": "https://www.erishaev.com/",
+   "note": "Verified by hyperresearch fetch; Erisha E Mobility company page rendered."
+  },
+  "careers_website": {
+   "v": "https://www.erishaev.com/career",
+   "conf": "HIGH",
+   "src": "https://www.erishaev.com/career",
+   "note": "Verified by hyperresearch fetch; official Career page rendered with a current hiring notice."
+  },
+  "website": "https://www.erishaev.com/"
+ },
+ "completeness_self": {
+  "financials": 6,
+  "founders": 8,
+  "funding": 8,
+  "identity": 9,
+  "investors": 5,
+  "legal": 3,
+  "people": 5,
+  "products": 7,
+  "sources": 8,
+  "traction": 5
+ },
+ "conflicts": [
+  {
+   "claim_a": "Tracxn legal-entity page: Series D stage label on associated brand",
+   "claim_b": "Tracxn company page (parallel): Unfunded stage",
+   "field": "stage",
+   "resolution": "Resolved to Series D: dated Series D funding (Mar 17 2025, $1B) corroborated by multiple press reports; Unfunded label treated as stale record.",
+   "resolved_value": "Series D",
+   "url_a": "https://tracxn.com/d/legal-entities/india/erisha-e-mobility-private-limited/__-uPqBYtfA4IY2tz2qlz4E-VW7jc5sLETsjri3y4vNf8",
+   "url_b": "https://platform.tracxn.com/a/d/company/69cbb2914451041bf6a846fa/erisha%20e%20mobility"
+  }
+ ],
+ "events": [
+  {
+   "confidence": "high",
+   "date": "2025-03-17",
+   "description": "$1B investment from unnamed UAE-based industrial investor for smart manufacturing hubs across UAE/KSA/USA/Europe/Africa + India; EPC partner CCEED (China State Construction subsidiary).",
+   "headline": "$1B investment from UAE investor announced",
+   "source_url": "https://www.autocarpro.in/news/erisha-e-mobility-secures-$1-billion-investment-from-uae-investor-125427",
+   "type": "funding"
+  }
+ ],
+ "financials": [
+  {
+   "confidence": "medium",
+   "currency": "INR",
+   "fiscal_year": "FY23",
+   "metric": "revenue",
+   "source_title": "ERISHA E MOBILITY PRIVATE LIMITED - Company Profile & Financials",
+   "source_url": "https://tracxn.com/d/legal-entities/india/erisha-e-mobility-private-limited/__-uPqBYtfA4IY2tz2qlz4E-VW7jc5sLETsjri3y4vNf8",
+   "unit": "INR Cr",
+   "value": "4.73",
+   "value_type": "press-quoted-filing"
+  }
+ ],
+ "founders": [
+  {
+   "confidence": "high",
+   "name": "Darshan Singh Rana",
+   "role": "Managing Director, Chairman & Founder",
+   "source_url": "https://www.crunchbase.com/organization/erisha-e-mobility",
+   "still_active": true,
+   "type": "founder"
+  },
+  {
+   "confidence": "high",
+   "name": "Sudhir Rana",
+   "role": "Co-founder / Director",
+   "source_url": "https://tracxn.com/d/legal-entities/india/erisha-e-mobility-private-limited/__-uPqBYtfA4IY2tz2qlz4E-VW7jc5sLETsjri3y4vNf8",
+   "still_active": true,
+   "type": "co-founder"
+  }
+ ],
+ "funding_rounds": [
+  {
+   "all_investors": [
+    "Undisclosed UAE-based industrial investor"
+   ],
+   "amount": "1B",
+   "announced_date": "2025-03-17",
+   "confidence": "high",
+   "currency": "USD",
+   "lead_investors": [
+    "Undisclosed UAE-based industrial investor"
+   ],
+   "notes": "Investor name not disclosed in press; EPC partner CCEED named separately (not investor).",
+   "round_type": "Series D",
+   "source_title": "Erisha E Mobility Secures $1 Billion Investment from UAE Investor",
+   "source_url": "https://www.autocarpro.in/news/erisha-e-mobility-secures-$1-billion-investment-from-uae-investor-125427",
+   "tier": "T2"
+  }
+ ],
+ "gaps": [
+  "UAE investor identity undisclosed — cannot populate investor_links precisely",
+  "Valuation for Series D not reported",
+  "CIN captured from aggregator (Tracxn legal-entity page citing MCA), not MCA directly",
+  "FY24/FY25 financials not found in LITE budget",
+  "Employee count: 28 (Jan 2024, MCA-derived) vs 51-100 band (Crunchbase) — minor conflict, kept both contexts"
+ ],
+ "investor_links": [
+  {
+   "confidence": "low",
+   "investor": "Undisclosed UAE-based industrial investor",
+   "investor_type": "Corporate/strategic (undisclosed)",
+   "lead": true,
+   "notes": "Named only as UAE industrial company with construction/heavy-machinery experience",
+   "rounds": [
+    "Series D"
+   ],
+   "source_url": "https://www.autocarpro.in/news/erisha-e-mobility-secures-$1-billion-investment-from-uae-investor-125427"
+  }
+ ],
+ "research_log": [
+  {
+   "found": "Active; CIN U34300DL2022PTC396742; inc. Apr 18 2022; FY23 rev Rs 4.73 Cr",
+   "query": "Erisha E Mobility status shutdown 2025 2026"
+  },
+  {
+   "found": "$1B Series D Mar 17 2025, UAE investor, CCEED EPC; founders Darshan/Sudhir Rana",
+   "query": "Erisha E Mobility Series D funding founders"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "Erisha E Mobility official website careers",
+   "found": "Official erishaev.com domain and first-party /career page verified.",
+   "unresolved": "None.",
+   "next_action": "None."
+  }
+ ],
+ "sources": [
+  {
+   "claim_supported": "CIN, incorporation, directors, FY23 revenue, employee count",
+   "fields_supported": [
+    "company",
+    "financials"
+   ],
+   "publication_date": "2025-11-08",
+   "publisher": "Tracxn (MCA-derived)",
+   "tier": "T4",
+   "title": "ERISHA E MOBILITY PRIVATE LIMITED - Company Profile & Financials",
+   "url": "https://tracxn.com/d/legal-entities/india/erisha-e-mobility-private-limited/__-uPqBYtfA4IY2tz2qlz4E-VW7jc5sLETsjri3y4vNf8"
+  },
+  {
+   "claim_supported": "$1B Series D, UAE investor, CCEED partnership, expansion markets",
+   "fields_supported": [
+    "funding_rounds",
+    "events"
+   ],
+   "publication_date": "2025-03-17",
+   "publisher": "Autocar Professional",
+   "tier": "T2",
+   "title": "Erisha E Mobility Secures $1 Billion Investment from UAE Investor",
+   "url": "https://www.autocarpro.in/news/erisha-e-mobility-secures-$1-billion-investment-from-uae-investor-125427"
+  },
+  {
+   "claim_supported": "$1B investment corroboration",
+   "fields_supported": [
+    "funding_rounds"
+   ],
+   "publication_date": "2025-03-18",
+   "publisher": "ETAuto",
+   "tier": "T2",
+   "title": "Erisha E Mobility secures $1 billion investment for global expansion",
+   "url": "https://auto.economictimes.indiatimes.com/news/commercial-vehicle/erisha-e-mobility-secures-1-billion-investment-for-global-expansion/119157299"
+  },
+  {
+   "claim_supported": "Founders, HQ, operating status Active",
+   "fields_supported": [
+    "founders",
+    "company"
+   ],
+   "publisher": "Crunchbase",
+   "tier": "T4",
+   "title": "Erisha E Mobility - Crunchbase Company Profile & Funding",
+   "url": "https://www.crunchbase.com/organization/erisha-e-mobility"
+  }
+ ],
+ "startup_id": "erisha e mobility",
+ "_merged_session2": true
+}

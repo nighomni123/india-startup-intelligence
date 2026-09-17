@@ -1,0 +1,42 @@
+{
+ "canonical_key": "cred",
+ "updates": {
+  "company": {
+   "cin": "U93090MH2018PTC308253",
+   "incorporation_date": "2018-04-19",
+   "legal_name": "Dreamplug Technologies Private Limited (brand: CRED)"
+  }
+ },
+ "sources": [
+  {
+   "url": "https://www.zaubacorp.com/DREAMPLUG-TECHNOLOGIES-PRIVATE-LIMITED-U93090MH2018PTC308253",
+   "title": "DREAMPLUG TECHNOLOGIES PRIVATE LIMITED | ZaubaCorp",
+   "publication_date": "n.d.",
+   "fields": [
+    "cin",
+    "incorporation_date"
+   ],
+   "confidence": "medium-high"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Cred_(company)",
+   "title": "Cred (company) - Wikipedia",
+   "publication_date": "n.d.",
+   "fields": [
+    "legal_name"
+   ],
+   "confidence": "medium"
+  }
+ ],
+ "log": [
+  {
+   "query": "Dreamplug Technologies Private Limited ZaubaCorp CIN incorporated",
+   "found": "CIN U93090MH2018PTC308253, incorporated 19 Apr 2018; legal-name link via Wikipedia",
+   "unresolved": ""
+  }
+ ],
+ "still_missing": [
+  "FY25/FY26 filing financials",
+  "round dates/valuations beyond enrich file"
+ ]
+}

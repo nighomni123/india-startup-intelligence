@@ -1,0 +1,4101 @@
+{
+ "acquisitions": [
+  {
+   "buyer": "BrowserStack",
+   "confidence": "MEDIUM",
+   "date": "2020-07",
+   "direction": "made",
+   "source_url": "https://www.prnewswire.com/news-releases/browserstack-acquires-percy-to-add-visual-testing-to-their-platform-301090792.html",
+   "target": "Percy (visual testing, SF)",
+   "type": "product acquisition",
+   "counterparty": "Percy",
+   "value": "undisclosed",
+   "rationale": "Visual testing capability for developers; add visual testing to BrowserStack platform"
+  },
+  {
+   "buyer": "BrowserStack",
+   "confidence": "MEDIUM",
+   "date": "2025-2026",
+   "direction": "made",
+   "source_url": "https://www.moneycontrol.com/news/business/startup/saas-firm-browserstack-acquires-europe-based-bug-detection-platform-bird-eats-bug-commits-investment-of-20-mn-12808204.html",
+   "target": "Requestly; Bird Eats Bug",
+   "type": "product acquisition",
+   "counterparty": "Requestly",
+   "value": "undisclosed",
+   "rationale": "Open-source HTTP interception and API mocking tool; expand developer tools stack",
+   "disclosed": true
+  }
+ ],
+ "canonical_key": "browserstack",
+ "company": {
+  "business_model": "SaaS subscription — cloud testing infrastructure/platform (manual + automated + visual + accessibility + test management)",
+  "city": "Mumbai (India HQ / ops); corporate HQ Dublin, Ireland",
+  "confidence": "HIGH",
+  "country": "India-ops (Irish-domiciled)",
+  "customer_type": "B2B",
+  "founded_date": "2011",
+  "hq_type": "India-ops: Mumbai HQ-country + Dublin corporate HQ; SF/NYC offices. Classify India-ops, NOT India-registered.",
+  "last_funding_date": "2021-06-16",
+  "last_funding_round": "Series B",
+  "last_known_valuation": "$4B (Jun 2021); $4.08B per Tracxn May-2026 reference (secondary)",
+  "primary_sector": "SaaS / dev testing",
+  "secondary_sectors": [
+   "Cloud testing",
+   "Developer tools"
+  ],
+  "startup_id": "browserstack",
+  "startup_stage": "Unicorn",
+  "state": "Maharashtra (ops)",
+  "status": "Active",
+  "total_funding_disclosed": "$250M ($50M Series A 2018 + $200M Series B 2021)",
+  "website": "https://www.browserstack.com",
+  "cin": "U74120MH2015PTC264476",
+  "incorporation_date": "2015-05-14",
+  "legal_name": "BrowserStack Software Private Limited",
+  "official_website": {
+   "v": "https://www.browserstack.com",
+   "conf": "high",
+   "src": "https://www.browserstack.com",
+   "note": "verified live 2026-09-15: name match on own homepage"
+  },
+  "careers_website": {
+   "v": "https://www.browserstack.com/careers",
+   "conf": "high",
+   "src": "official homepage nav",
+   "note": "verified 2026-09-15"
+  },
+  "description": {
+   "v": "Cloud-based software testing platform founded 2011 by IIT-Bombay graduates; powers 3M+ tests/day across 50K+ customers in 135+ countries; 21 global data centers, 3500+ real devices",
+   "conf": "HIGH",
+   "src": "https://www.browserstack.com/press/browserstack-announces-125-million-esop-and-share-buyback-program-creating-wealth-for-over-500-employees",
+   "note": "From official press release Jan 2026",
+   "asof": "2026-09-15"
+  },
+  "employee_estimate": {
+   "v": 1797,
+   "conf": "MEDIUM",
+   "src": "https://platform.tracxn.com/a/d/company/52c2636de4b0dafe9baa6048/browserstack",
+   "note": "Tracxn official count; ~1200+ per Wikipedia 2024; crossed 1000 in 2022",
+   "asof": "2026-09-15"
+  },
+  "public_private": {
+   "v": "Private",
+   "conf": "HIGH",
+   "src": "https://techcrunch.com/2021/06/16/bonds-200-million-led-investment-values-software-testing-platform-browserstack-at-4-billion/",
+   "note": "Privately held; no IPO; profitable; bootstrapped until 2018",
+   "asof": "2026-09-15"
+  },
+  "registered_office": {
+   "v": "BrowserStack Software Private Limited, Maharashtra, India",
+   "conf": "MEDIUM",
+   "src": "https://www.zaubacorp.com/company/BROWSERSTACK-SOFTWARE-PRIVATE-LIMITED/U74120MH2015PTC264476",
+   "note": "Indian entity registered office in Maharashtra",
+   "asof": "2026-09-15"
+  }
+ },
+ "competitors": [
+  {
+   "basis": "explicit",
+   "confidence": "MEDIUM",
+   "name": "Tricentis / SmartBear / Cypress",
+   "source_url": "https://tracxn.com/d/companies/browserstack/__D8HrmxNe4vnJscJsUqnGKhH61Pk58v_vEq4lD2_1S7Q"
+  }
+ ],
+ "completeness_self": {
+  "customers": 6,
+  "financials": 6,
+  "founders": 9,
+  "funding": 9,
+  "identity": 8,
+  "investors": 8,
+  "legal": 2,
+  "people": 5,
+  "products": 7,
+  "sources": 8,
+  "traction": 8
+ },
+ "conflicts": [
+  {
+   "claim_a": "HQ Mumbai, India (Wikipedia/Forbes)",
+   "claim_b": "HQ Dublin, Ireland (CB Insights/Craft/Latka)",
+   "field": "headquarters",
+   "resolution": "Both partially true: corporate domicile Dublin; largest ops/product-eng Mumbai. Record hq_type India-ops with dual HQ note.",
+   "resolved_value": "Dublin corporate HQ + Mumbai India HQ/ops",
+   "url_a": "https://en.wikipedia.org/wiki/BrowserStack",
+   "url_b": "https://www.cbinsights.com/company/browserstack"
+  },
+  {
+   "claim_a": "Revenue $225M 2025 (Wikipedia)",
+   "claim_b": "$235M 2025 (Sacra); $300M+ expected CY2026 (company via ET)",
+   "field": "revenue",
+   "resolution": "Different vintages/sources; audited consolidated not public (Irish-domiciled). Use Indian-entity audited Rs771cr FY25 + company-guided $300M CY26 as ESTIMATE.",
+   "resolved_value": "Indian entity Rs771cr FY25; group ~$225-235M 2025 (secondary)",
+   "url_a": "https://en.wikipedia.org/wiki/BrowserStack",
+   "url_b": "https://sacra.com/c/browserstack/"
+  },
+  {
+   "field": "city",
+   "claim_a": "Mumbai (India HQ / ops); corporate HQ Dublin, Ireland",
+   "url_a": "",
+   "claim_b": "Mumbai",
+   "url_b": "",
+   "resolution": "phase3 p3 payload disagrees with existing value; existing kept as preferred pending human review",
+   "resolved_value": "",
+   "reviewed": "p3-merge"
+  },
+  {
+   "field": "state",
+   "claim_a": "Maharashtra (ops)",
+   "url_a": "",
+   "claim_b": "Maharashtra",
+   "url_b": "",
+   "resolution": "phase3 p3 payload disagrees with existing value; existing kept as preferred pending human review",
+   "resolved_value": "",
+   "reviewed": "p3-merge"
+  },
+  {
+   "field": "business_model",
+   "claim_a": "SaaS subscription — cloud testing infrastructure/platform (manual + automated + visual + accessibility + test management)",
+   "url_a": "",
+   "claim_b": "SaaS subscription — cloud testing infrastructure (manual + automated + visual + accessibility + test management)",
+   "url_b": "",
+   "resolution": "phase3 p3 payload disagrees with existing value; existing kept as preferred pending human review",
+   "resolved_value": "",
+   "reviewed": "p3-merge"
+  },
+  {
+   "field": "hq_type",
+   "claim_a": "India-ops: Mumbai HQ-country + Dublin corporate HQ; SF/NYC offices. Classify India-ops, NOT India-registered.",
+   "url_a": "",
+   "claim_b": "India-ops HQ: Mumbai; Corporate domicile: Dublin, Ireland; Offices: SF, NYC",
+   "url_b": "",
+   "resolution": "phase3 p3 payload disagrees with existing value; existing kept as preferred pending human review",
+   "resolved_value": "",
+   "reviewed": "p3-merge"
+  },
+  {
+   "field": "headquarters",
+   "claim_a": "HQ Mumbai, India (Wikipedia/Forbes India)",
+   "url_a": "https://en.wikipedia.org/wiki/BrowserStack",
+   "claim_b": "HQ Dublin, Ireland (CB Insights/Crunchbase/PitchBook)",
+   "url_b": "https://www.cbinsights.com/company/browserstack",
+   "resolution": "Both partially true: corporate domicile Dublin; largest ops/product-eng Mumbai. Record hq_type India-ops with dual HQ note.",
+   "resolved_value": "Dublin corporate HQ + Mumbai India HQ/ops"
+  },
+  {
+   "field": "funding_rounds",
+   "claim_a": "Series A $7.5M, Series B $67M, Series C $220M @ $1.4B (prompt claim)",
+   "url_a": "prompt specification",
+   "claim_b": "Series A $50M (Jan 2018, Accel), Series B $200M (Jun 2021, BOND) at $4B; NO Series C",
+   "url_b": "https://techcrunch.com/2021/06/16/bonds-200-million-led-investment-values-software-testing-platform-browserstack-at-4-billion/",
+   "resolution": "Prompt claims are incorrect. Only 2 funding rounds exist. Series A was $50M not $7.5M; Series B was $200M not $67M; no Series C at $1.4B exists.",
+   "resolved_value": "Series A $50M (2018), Series B $200M at $4B (2021); total $250M; no Series C"
+  },
+  {
+   "field": "founders",
+   "claim_a": "Founders include Jahangir (prompt claim)",
+   "url_a": "prompt specification",
+   "claim_b": "Founders are Ritesh Arora + Nakul Aggarwal (IIT Bombay)",
+   "url_b": "https://en.wikipedia.org/wiki/BrowserStack",
+   "resolution": "No founder named Jahangir found in any source. Both Wikipedia, TechCrunch, Forbes India, ET, and official BrowserStack PR confirm Ritesh Arora and Nakul Aggarwal as co-founders.",
+   "resolved_value": "Ritesh Arora + Nakul Aggarwal; no Jahangir"
+  }
+ ],
+ "customers": [
+  {
+   "confidence": "MEDIUM",
+   "name": "Amazon / Microsoft / NVIDIA (incl. 50,000+ teams; 3M tests/day)",
+   "source_url": "https://www.browserstack.com/blog/browserstack-announces-125m-esop-and-share-buyback/",
+   "type": "enterprise"
+  },
+  {
+   "name": "Amazon",
+   "type": "enterprise",
+   "announced_date": "",
+   "status": "Active",
+   "source_url": "https://www.browserstack.com/press/browserstack-announces-125-million-esop-and-share-buyback-program-creating-wealth-for-over-500-employees",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Microsoft",
+   "type": "enterprise",
+   "announced_date": "",
+   "status": "Active",
+   "source_url": "https://www.browserstack.com/press/browserstack-announces-125-million-esop-and-share-buyback-program-creating-wealth-for-over-500-employees",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "NVIDIA",
+   "type": "enterprise",
+   "announced_date": "",
+   "status": "Active",
+   "source_url": "https://www.browserstack.com/press/browserstack-announces-125-million-esop-and-share-buyback-program-creating-wealth-for-over-500-employees",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Meta",
+   "type": "enterprise",
+   "announced_date": "",
+   "status": "Active",
+   "source_url": "https://www.forbesindia.com/article/leadership/forbes-india-outstanding-startup-browserstack-is-building-a-global-software-leader-from-india/95499/1",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Google",
+   "type": "enterprise",
+   "announced_date": "",
+   "status": "Active",
+   "source_url": "https://techcrunch.com/2021/06/16/bonds-200-million-led-investment-values-software-testing-platform-browserstack-at-4-billion/",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Twitter/X",
+   "type": "enterprise",
+   "announced_date": "",
+   "status": "Active",
+   "source_url": "https://techcrunch.com/2021/06/16/bonds-200-million-led-investment-values-software-testing-platform-browserstack-at-4-billion/",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Spotify",
+   "type": "enterprise",
+   "announced_date": "",
+   "status": "Active",
+   "source_url": "https://techcrunch.com/2021/06/16/bonds-200-million-led-investment-values-software-testing-platform-browserstack-at-4-billion/",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Airbnb",
+   "type": "enterprise",
+   "announced_date": "",
+   "status": "Active",
+   "source_url": "https://www.forbesindia.com/article/leadership/forbes-india-outstanding-startup-browserstack-is-building-a-global-software-leader-from-india/95499/1",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Ikea",
+   "type": "enterprise",
+   "announced_date": "",
+   "status": "Active",
+   "source_url": "https://techcrunch.com/2021/06/16/bonds-200-million-led-investment-values-software-testing-platform-browserstack-at-4-billion/",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Tesco",
+   "type": "enterprise",
+   "announced_date": "",
+   "status": "Active",
+   "source_url": "https://techcrunch.com/2021/06/16/bonds-200-million-led-investment-values-software-testing-platform-browserstack-at-4-billion/",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Expedia",
+   "type": "enterprise",
+   "announced_date": "",
+   "status": "Active",
+   "source_url": "https://techcrunch.com/2021/06/16/bonds-200-million-led-investment-values-software-testing-platform-browserstack-at-4-billion/",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Walt Disney",
+   "type": "enterprise",
+   "announced_date": "",
+   "status": "Active",
+   "source_url": "https://www.forbesindia.com/article/leadership/forbes-india-outstanding-startup-browserstack-is-building-a-global-software-leader-from-india/95499/1",
+   "confidence": "MEDIUM"
+  },
+  {
+   "name": "MongoDB",
+   "type": "enterprise",
+   "announced_date": "",
+   "status": "Active",
+   "source_url": "https://www.prnewswire.com/in/news-releases/browserstack-acquires-requestly-a-ycombinator-startup-for-http-interception-mocking--debugging-network-requests-302447048.html",
+   "confidence": "MEDIUM"
+  },
+  {
+   "name": "Currys",
+   "type": "enterprise",
+   "announced_date": "",
+   "status": "Active",
+   "source_url": "https://www.browserstack.com/customers",
+   "confidence": "MEDIUM"
+  },
+  {
+   "name": "Škoda",
+   "type": "enterprise",
+   "announced_date": "",
+   "status": "Active",
+   "source_url": "https://www.browserstack.com/customers",
+   "confidence": "MEDIUM"
+  },
+  {
+   "name": "Ubisoft",
+   "type": "enterprise",
+   "announced_date": "",
+   "status": "Active",
+   "source_url": "https://www.browserstack.com/customers",
+   "confidence": "MEDIUM"
+  },
+  {
+   "name": "Elsevier",
+   "type": "enterprise",
+   "announced_date": "",
+   "status": "Active",
+   "source_url": "https://www.browserstack.com/customers",
+   "confidence": "MEDIUM"
+  },
+  {
+   "name": "Twin Health",
+   "type": "enterprise",
+   "announced_date": "",
+   "status": "Active",
+   "source_url": "https://www.browserstack.com/customers",
+   "confidence": "MEDIUM"
+  },
+  {
+   "name": "Clari",
+   "type": "enterprise",
+   "announced_date": "",
+   "status": "Active",
+   "source_url": "https://www.browserstack.com/customers",
+   "confidence": "MEDIUM"
+  },
+  {
+   "name": "TUI",
+   "type": "enterprise",
+   "announced_date": "",
+   "status": "Active",
+   "source_url": "https://www.browserstack.com/customers",
+   "confidence": "MEDIUM"
+  }
+ ],
+ "events": [
+  {
+   "announced_date": "2026-01-12",
+   "confidence": "HIGH",
+   "date": "2026-01-12",
+   "description": "$125M ESOP/share buyback for 500+ staff + early investors (Accel-led); cumulative $275M across 3 programs; funded from profits.",
+   "headline": "$125M ESOP + share buyback (3rd program)",
+   "source_url": "https://www.browserstack.com/press/browserstack-announces-125-million-esop-and-share-buyback-program-creating-wealth-for-over-500-employees",
+   "type": "buyback"
+  },
+  {
+   "announced_date": "2021-06-16",
+   "confidence": "HIGH",
+   "date": "2021-06-16",
+   "description": "$200M Series B led by BOND at $4B; Insight + Accel participated.",
+   "headline": "$200M Series B at $4B",
+   "source_url": "https://techcrunch.com/2021/06/16/bonds-200-million-led-investment-values-software-testing-platform-browserstack-at-4-billion/",
+   "type": "funding"
+  },
+  {
+   "announced_date": "2018-01",
+   "confidence": "HIGH",
+   "date": "2018-01",
+   "description": "$50M Series A from Accel at ~$500M valuation; first external capital after bootstrapping.",
+   "headline": "$50M Series A",
+   "source_url": "https://indianstartupnews.com/news/browserstack-announces-125-million-share-buyback-programme-says-we-want-our-team-to-feel-the-same-ownership-10991068",
+   "type": "funding"
+  },
+  {
+   "type": "funding",
+   "headline": "$50M Series A from Accel at ~$500M valuation",
+   "date": "2018-01-29",
+   "description": "First external capital after 6 years of bootstrapping; Accel led; angels incl. Bessemer/Steve Blank participated",
+   "source_url": "https://techcrunch.com/2021/06/16/bonds-200-million-led-investment-values-software-testing-platform-browserstack-at-4-billion/",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "acquisition",
+   "headline": "Acquired Percy (visual testing)",
+   "date": "2020-07",
+   "description": "San Francisco-based visual testing and review platform; undisclosed value",
+   "source_url": "https://www.prnewswire.com/news-releases/browserstack-acquires-percy-to-add-visual-testing-to-their-platform-301090792.html",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "funding",
+   "headline": "$200M Series B at $4B valuation led by BOND",
+   "date": "2021-06-16",
+   "description": "Insight Partners and Accel participated; valued at $4B; briefly highest-valued Indian SaaS startup",
+   "source_url": "https://techcrunch.com/2021/06/16/bonds-200-million-led-investment-values-software-testing-platform-browserstack-at-4-billion/",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "acquisition",
+   "headline": "Acquired Nightwatch.js (open-source test automation)",
+   "date": "2021-12",
+   "description": "Open-source test automation framework; undisclosed value",
+   "source_url": "http://browserstack.com/company",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "acquisition",
+   "headline": "Acquired Bird Eats Bug (bug detection)",
+   "date": "2024-08",
+   "description": "Europe-based (Berlin) bug detection platform; $20M investment committed",
+   "source_url": "https://www.moneycontrol.com/news/business/startup/saas-firm-browserstack-acquires-europe-based-bug-detection-platform-bird-eats-bug-commits-investment-of-20-mn-12808204.html",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "acquisition",
+   "headline": "Acquired Requestly (HTTP interception)",
+   "date": "2025-05-06",
+   "description": "YC-backed open-source HTTP interception and API mocking tool; 200K+ developers, 10K+ companies",
+   "source_url": "https://www.prnewswire.com/in/news-releases/browserstack-acquires-requestly-a-ycombinator-startup-for-http-interception-mocking--debugging-network-requests-302447048.html",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "buyback",
+   "headline": "$125M ESOP/share buyback (3rd program)",
+   "date": "2026-01-12",
+   "description": "500+ employees and early investors; cumulative $275M across 3 programs; funded from profits",
+   "source_url": "https://www.browserstack.com/press/browserstack-announces-125-million-esop-and-share-buyback-program-creating-wealth-for-over-500-employees",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "partnership",
+   "headline": "Microsoft partnership for testing infrastructure",
+   "date": "2017",
+   "description": "Microsoft partnered with BrowserStack replacing internal testing infrastructure",
+   "source_url": "https://sacra.com/c/browserstack/",
+   "confidence": "MEDIUM"
+  }
+ ],
+ "financials": [
+  {
+   "confidence": "HIGH",
+   "currency": "INR",
+   "fiscal_year": "FY25",
+   "metric": "Indian entity standalone revenue",
+   "source_date": "2026-01-12",
+   "source_title": "BrowserStack's $125M buyback (ET)",
+   "source_url": "https://economictimes.indiatimes.com/tech/technology/browserstack-to-buy-back-125-million-shares-from-employees-early-investors/articleshow/126470170.cms",
+   "unit": "crore",
+   "value": 771,
+   "value_type": "press-quoted-filing"
+  },
+  {
+   "confidence": "MEDIUM",
+   "currency": "INR",
+   "fiscal_year": "FY24",
+   "metric": "Indian entity revenue / PAT",
+   "source_date": "2025-03-07",
+   "source_title": "Forbes India Outstanding Startup",
+   "source_url": "https://www.forbesindia.com/article/leadership/forbes-india-outstanding-startup-browserstack-is-building-a-global-software-leader-from-india/95499/1",
+   "unit": "crore",
+   "value": "682 revenue / 129 PAT",
+   "value_type": "press-quoted-filing"
+  },
+  {
+   "confidence": "MEDIUM",
+   "currency": "USD",
+   "fiscal_year": "FY23",
+   "metric": "Ireland-filings PAT on turnover ~$170M",
+   "source_date": "2025-03-07",
+   "source_title": "Forbes India Outstanding Startup",
+   "source_url": "https://www.forbesindia.com/article/leadership/forbes-india-outstanding-startup-browserstack-is-building-a-global-software-leader-from-india/95499/1",
+   "unit": "million",
+   "value": "125 PAT on ~170 turnover",
+   "value_type": "press-quoted-filing"
+  },
+  {
+   "fiscal_year": "FY25",
+   "metric": "Indian entity standalone revenue",
+   "value": 771,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "press-quoted-filing",
+   "basis": "standalone",
+   "consolidated": "no",
+   "filing_date": "2026-01-12",
+   "source_url": "https://economictimes.indiatimes.com/tech/technology/browserstack-to-buy-back-125-million-shares-from-employees-early-investors/articleshow/126470170.cms",
+   "source_title": "BrowserStack's $125M buyback (ET)",
+   "confidence": "HIGH",
+   "notes": "13% YoY growth; bulk of revenue booked in US/Ireland"
+  },
+  {
+   "fiscal_year": "FY24",
+   "metric": "Indian entity revenue",
+   "value": 682,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "press-quoted-filing",
+   "basis": "standalone",
+   "consolidated": "no",
+   "filing_date": "2025-03-07",
+   "source_url": "https://www.forbesindia.com/article/leadership/forbes-india-outstanding-startup-browserstack-is-building-a-global-software-leader-from-india/95499/1",
+   "source_title": "Forbes India Outstanding Startup",
+   "confidence": "MEDIUM",
+   "notes": "Rs682cr revenue; Rs129cr PAT"
+  },
+  {
+   "fiscal_year": "FY24",
+   "metric": "Indian entity PAT",
+   "value": 129,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "press-quoted-filing",
+   "basis": "standalone",
+   "consolidated": "no",
+   "filing_date": "2025-03-07",
+   "source_url": "https://www.forbesindia.com/article/leadership/forbes-india-outstanding-startup-browserstack-is-building-a-global-software-leader-from-india/95499/1",
+   "source_title": "Forbes India Outstanding Startup",
+   "confidence": "MEDIUM",
+   "notes": "~US$15.4M"
+  },
+  {
+   "fiscal_year": "FY23",
+   "metric": "Ireland-filings PAT on turnover",
+   "value": 125,
+   "unit": "million",
+   "currency": "USD",
+   "value_type": "press-quoted-filing",
+   "basis": "consolidated",
+   "consolidated": "yes",
+   "filing_date": "2025-03-07",
+   "source_url": "https://www.forbesindia.com/article/leadership/forbes-india-outstanding-startup-browserstack-is-building-a-global-software-leader-from-india/95499/1",
+   "source_title": "Forbes India Outstanding Startup",
+   "confidence": "MEDIUM",
+   "notes": "Turnover ~$170M; PAT >$125M per Ireland filings"
+  },
+  {
+   "fiscal_year": "CY2025",
+   "metric": "Group revenue (estimated)",
+   "value": 235,
+   "unit": "million",
+   "currency": "USD",
+   "value_type": "estimate",
+   "basis": "consolidated",
+   "consolidated": "yes",
+   "filing_date": "2026-09-15",
+   "source_url": "https://sacra.com/c/browserstack/",
+   "source_title": "Sacra BrowserStack analysis",
+   "confidence": "MEDIUM",
+   "notes": "Sacra estimate; 19% YoY from $197M in 2024"
+  },
+  {
+   "fiscal_year": "CY2026",
+   "metric": "Revenue guidance",
+   "value": 300,
+   "unit": "million",
+   "currency": "USD",
+   "value_type": "management",
+   "basis": "consolidated",
+   "consolidated": "yes",
+   "filing_date": "2026-01-12",
+   "source_url": "https://economictimes.indiatimes.com/tech/technology/browserstack-to-buy-back-125-million-shares-from-employees-early-investors/articleshow/126470170.cms",
+   "source_title": "BrowserStack's $125M buyback (ET)",
+   "confidence": "MEDIUM",
+   "notes": "CEO Ritesh Arora via ET; company expected to cross $300M"
+  }
+ ],
+ "founders": [
+  {
+   "background": "IIT Bombay; ex-Downcase/consulting",
+   "confidence": "HIGH",
+   "name": "Ritesh Arora",
+   "role": "Co-founder & CEO",
+   "source_url": "https://en.wikipedia.org/wiki/BrowserStack",
+   "still_active": true,
+   "type": "co-founder",
+   "active": "yes",
+   "linkedin": "https://in.linkedin.com/in/ritesh-arora-browserstack"
+  },
+  {
+   "background": "IIT Bombay; ex-Downcase/consulting",
+   "confidence": "HIGH",
+   "name": "Nakul Aggarwal",
+   "role": "Co-founder & CTO",
+   "source_url": "https://en.wikipedia.org/wiki/BrowserStack",
+   "still_active": true,
+   "type": "co-founder",
+   "active": "yes",
+   "linkedin": "https://in.linkedin.com/in/nakulaggarwal"
+  }
+ ],
+ "funding_rounds": [
+  {
+   "all_investors": [
+    "Accel",
+    "angels incl. Bessemer/Steve Blank per CB Insights"
+   ],
+   "amount": 50000000,
+   "announced_date": "2018-01",
+   "confidence": "HIGH",
+   "currency": "USD",
+   "lead_investors": [
+    "Accel"
+   ],
+   "round_date": "2018-01",
+   "round_type": "Series A",
+   "source_date": "2026-01-12",
+   "source_title": "BrowserStack announces $125M buyback (IndianStartupNews)",
+   "source_url": "https://indianstartupnews.com/news/browserstack-announces-125-million-share-buyback-programme-says-we-want-our-team-to-feel-the-same-ownership-10991068",
+   "tier": "T3",
+   "valuation": "~$500M",
+   "valuation_type": "press-reported"
+  },
+  {
+   "all_investors": [
+    "BOND",
+    "Insight Partners",
+    "Accel"
+   ],
+   "amount": 200000000,
+   "announced_date": "2021-06-16",
+   "confidence": "HIGH",
+   "currency": "USD",
+   "lead_investors": [
+    "BOND"
+   ],
+   "round_date": "2021-06-16",
+   "round_type": "Series B",
+   "source_date": "2021-06-16",
+   "source_title": "BrowserStack valued at $4 billion in $200 million BOND-led funding",
+   "source_url": "https://techcrunch.com/2021/06/16/bonds-200-million-led-investment-values-software-testing-platform-browserstack-at-4-billion/",
+   "tier": "T3",
+   "valuation": "$4B",
+   "valuation_type": "priced round"
+  },
+  {
+   "round_type": "Series A",
+   "announced_date": "2018-01-29",
+   "round_date": "2018-01-29",
+   "amount": 50000000,
+   "currency": "USD",
+   "valuation": 500000000,
+   "valuation_currency": "USD",
+   "valuation_type": "press-reported",
+   "lead_investors": [
+    "Accel"
+   ],
+   "all_investors": [
+    "Accel",
+    "angels incl. Bessemer/Steve Blank per CB Insights"
+   ],
+   "instrument": "equity",
+   "purpose": "First external capital after 6 years of bootstrapping; scale globally",
+   "source_url": "https://techcrunch.com/2021/06/16/bonds-200-million-led-investment-values-software-testing-platform-browserstack-at-4-billion/",
+   "source_title": "BrowserStack valued at $4 billion in $200 million BOND-led funding",
+   "source_date": "2021-06-16",
+   "confidence": "HIGH"
+  }
+ ],
+ "gaps": [
+  "Consolidated group financials not public (Irish domicile); group revenue rests on secondary/company guidance.",
+  "Redomiciling-to-India decision explicitly 'far away' per CEO (Forbes Mar 2025) — no filing.",
+  "Exact ESOP buyback valuation undisclosed.",
+  "CIN for BrowserStack Software Pvt Ltd not verified.",
+  "FY25/FY26 filing financials",
+  "round dates/valuations beyond enrich file"
+ ],
+ "hiring": [
+  {
+   "as_of": "2025-03",
+   "confidence": "MEDIUM",
+   "fact_type": "headcount",
+   "source_url": "https://en.wikipedia.org/wiki/BrowserStack",
+   "value": "1200+"
+  }
+ ],
+ "investor_links": [
+  {
+   "confidence": "HIGH",
+   "first_seen": "2018-01",
+   "investor": "Accel",
+   "investor_type": "VC",
+   "lead": true,
+   "rounds": [
+    "Series A",
+    "Series B"
+   ],
+   "source_url": "https://techcrunch.com/2021/06/16/bonds-200-million-led-investment-values-software-testing-platform-browserstack-at-4-billion/"
+  },
+  {
+   "confidence": "HIGH",
+   "first_seen": "2021-06",
+   "investor": "BOND",
+   "investor_type": "VC",
+   "lead": true,
+   "rounds": [
+    "Series B"
+   ],
+   "source_url": "https://techcrunch.com/2021/06/16/bonds-200-million-led-investment-values-software-testing-platform-browserstack-at-4-billion/"
+  },
+  {
+   "confidence": "HIGH",
+   "first_seen": "2021-06",
+   "investor": "Insight Partners",
+   "investor_type": "PE/VC",
+   "lead": false,
+   "rounds": [
+    "Series B"
+   ],
+   "source_url": "https://techcrunch.com/2021/06/16/bonds-200-million-led-investment-values-software-testing-platform-browserstack-at-4-billion/"
+  }
+ ],
+ "investors_meta": [],
+ "ip_tech_ai": {
+  "ai_notes": "Portfolio expanded 5 to 21 products (functional, accessibility, visual, test mgmt, debugging); AI-driven testing expansion per CEO.",
+  "confidence": "MEDIUM",
+  "source_url": "https://economictimes.indiatimes.com/tech/technology/browserstack-to-buy-back-125-million-shares-from-employees-early-investors/articleshow/126470170.cms"
+ },
+ "legal": [],
+ "locations": [
+  {
+   "as_of": "2026",
+   "city": "Dublin",
+   "confidence": "HIGH",
+   "country": "Ireland",
+   "source_url": "https://www.cbinsights.com/company/browserstack",
+   "type": "registered"
+  },
+  {
+   "as_of": "2026",
+   "city": "Mumbai",
+   "confidence": "HIGH",
+   "country": "India",
+   "source_url": "https://www.forbesindia.com/article/leadership/forbes-india-outstanding-startup-browserstack-is-building-a-global-software-leader-from-india/95499/1",
+   "state": "Maharashtra",
+   "type": "HQ"
+  },
+  {
+   "as_of": "2021",
+   "city": "San Francisco",
+   "confidence": "MEDIUM",
+   "source_url": "https://techcrunch.com/2021/06/16/bonds-200-million-led-investment-values-software-testing-platform-browserstack-at-4-billion/",
+   "type": "office"
+  },
+  {
+   "as_of": "2021",
+   "city": "New York",
+   "confidence": "MEDIUM",
+   "source_url": "https://en.wikipedia.org/wiki/BrowserStack",
+   "type": "office"
+  },
+  {
+   "type": "hq",
+   "address_or_area": "Mumbai, Maharashtra",
+   "city": "Mumbai",
+   "state": "Maharashtra",
+   "country": "India",
+   "as_of": "2026",
+   "source_url": "https://en.wikipedia.org/wiki/BrowserStack",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "registered_office",
+   "address_or_area": "BrowserStack Software Private Limited, MH",
+   "city": "Mumbai",
+   "state": "Maharashtra",
+   "country": "India",
+   "as_of": "2026",
+   "source_url": "https://www.zaubacorp.com/company/BROWSERSTACK-SOFTWARE-PRIVATE-LIMITED/U74120MH2015PTC264476",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "hq",
+   "address_or_area": "Dublin, Ireland (corporate domicile)",
+   "city": "Dublin",
+   "state": "",
+   "country": "Ireland",
+   "as_of": "2026",
+   "source_url": "https://www.cbinsights.com/company/browserstack",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "office",
+   "address_or_area": "San Francisco",
+   "city": "San Francisco",
+   "state": "California",
+   "country": "US",
+   "as_of": "2021",
+   "source_url": "https://techcrunch.com/2021/06/16/bonds-200-million-led-investment-values-software-testing-platform-browserstack-at-4-billion/",
+   "confidence": "MEDIUM"
+  },
+  {
+   "type": "office",
+   "address_or_area": "New York",
+   "city": "New York",
+   "state": "New York",
+   "country": "US",
+   "as_of": "2021",
+   "source_url": "https://en.wikipedia.org/wiki/BrowserStack",
+   "confidence": "MEDIUM"
+  }
+ ],
+ "partnerships": [],
+ "people": [
+  {
+   "name": "Ritesh Arora",
+   "role": "Co-founder & CEO",
+   "title": "Chief Executive Officer",
+   "current": true,
+   "since": "2011",
+   "prior_role": "Co-founded Downcase (consulting); IIT Bombay alum",
+   "source_url": "https://en.wikipedia.org/wiki/BrowserStack",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Nakul Aggarwal",
+   "role": "Co-founder & CTO",
+   "title": "Chief Technology Officer",
+   "current": true,
+   "since": "2011",
+   "prior_role": "Co-founded Downcase (consulting); IIT Bombay alum",
+   "source_url": "https://en.wikipedia.org/wiki/BrowserStack",
+   "confidence": "HIGH"
+  }
+ ],
+ "products": [
+  {
+   "category": "Cloud testing platform",
+   "confidence": "HIGH",
+   "name": "BrowserStack testing platform (21 products)",
+   "source_url": "https://economictimes.indiatimes.com/tech/technology/browserstack-to-buy-back-125-million-shares-from-employees-early-investors/articleshow/126470170.cms",
+   "status": "Active"
+  },
+  {
+   "name": "Live",
+   "category": "Cloud testing",
+   "description": "Manual cross-browser testing on real browsers",
+   "pricing_model": "Per-seat subscription",
+   "launch_date": "2011",
+   "status": "Active",
+   "source_url": "http://browserstack.com/company",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Automate",
+   "category": "Cloud testing",
+   "description": "Browser automation grid for running automated website/web app tests",
+   "pricing_model": "Per-seat subscription",
+   "launch_date": "2013",
+   "status": "Active",
+   "source_url": "http://browserstack.com/company",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "App Live",
+   "category": "Mobile testing",
+   "description": "Manual real-device mobile app testing",
+   "pricing_model": "Per-seat subscription",
+   "launch_date": "2017",
+   "status": "Active",
+   "source_url": "http://browserstack.com/company",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "App Automate",
+   "category": "Mobile testing",
+   "description": "Real device automation cloud for mobile apps",
+   "pricing_model": "Per-seat subscription",
+   "launch_date": "2017",
+   "status": "Active",
+   "source_url": "http://browserstack.com/company",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Percy",
+   "category": "Visual testing",
+   "description": "Automated visual testing and review platform",
+   "pricing_model": "Per-seat subscription",
+   "launch_date": "2020-07",
+   "status": "Active (acquired)",
+   "source_url": "https://www.prnewswire.com/news-releases/browserstack-acquires-percy-to-add-visual-testing-to-their-platform-301090792.html",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Nightwatch.js",
+   "category": "Test automation framework",
+   "description": "Open-source test automation framework",
+   "pricing_model": "Open-source",
+   "launch_date": "2021-12",
+   "status": "Active (acquired)",
+   "source_url": "http://browserstack.com/company",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Bird Eats Bug / Bug Capture",
+   "category": "Bug detection",
+   "description": "Bug reporting and debugging platform",
+   "pricing_model": "SaaS",
+   "launch_date": "2024-08",
+   "status": "Active (acquired)",
+   "source_url": "https://www.moneycontrol.com/news/business/startup/saas-firm-browserstack-acquires-europe-based-bug-detection-platform-bird-eats-bug-commits-investment-of-20-mn-12808204.html",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Requestly",
+   "category": "HTTP interception/mocking",
+   "description": "Open-source HTTP interception and API mocking tool",
+   "pricing_model": "Open-source + enterprise",
+   "launch_date": "2025-05",
+   "status": "Active (acquired)",
+   "source_url": "https://www.prnewswire.com/in/news-releases/browserstack-acquires-requestly-a-ycombinator-startup-for-http-interception-mocking--debugging-network-requests-302447048.html",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Low Code Automation",
+   "category": "Test management",
+   "description": "Automation without coding",
+   "pricing_model": "Per-seat subscription",
+   "launch_date": "2024",
+   "status": "Active",
+   "source_url": "http://browserstack.com/company",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Test Management",
+   "category": "Test management",
+   "description": "Unify and track all test cases",
+   "pricing_model": "Per-seat subscription",
+   "launch_date": "2024",
+   "status": "Active",
+   "source_url": "http://browserstack.com/company",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Accessibility Testing",
+   "category": "Accessibility",
+   "description": "WCAG & ADA compliance testing",
+   "pricing_model": "Per-seat subscription",
+   "launch_date": "2024",
+   "status": "Active",
+   "source_url": "http://browserstack.com/company",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "BrowserStack AI",
+   "category": "AI testing",
+   "description": "Suite of AI agents for test creation, execution, self-healing",
+   "pricing_model": "Per-seat subscription",
+   "launch_date": "2025-06",
+   "status": "Active",
+   "source_url": "http://browserstack.com/company",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Test Companion",
+   "category": "AI testing",
+   "description": "Agentic AI for test automation built into IDE",
+   "pricing_model": "Per-seat subscription",
+   "launch_date": "2025",
+   "status": "Active",
+   "source_url": "https://www.prnewswire.com/in/news-releases/browserstack-acquires-requestly-a-ycombinator-startup-for-http-interception-mocking--debugging-network-requests-302447048.html",
+   "confidence": "MEDIUM"
+  },
+  {
+   "name": "Website Scanner",
+   "category": "Testing toolkit",
+   "description": "All-in-one website checker",
+   "pricing_model": "Per-seat subscription",
+   "launch_date": "2025",
+   "status": "Active",
+   "source_url": "http://browserstack.com/company",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Testing Toolkit",
+   "category": "Testing toolkit",
+   "description": "Essential manual testing tools",
+   "pricing_model": "Per-seat subscription",
+   "launch_date": "2025",
+   "status": "Active",
+   "source_url": "http://browserstack.com/company",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Custom Device Lab",
+   "category": "Testing infrastructure",
+   "description": "Tailored test environments",
+   "pricing_model": "Enterprise",
+   "launch_date": "2025",
+   "status": "Active",
+   "source_url": "http://browserstack.com/company",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Load Testing",
+   "category": "Testing",
+   "description": "Browser & API load testing",
+   "pricing_model": "Per-seat subscription",
+   "launch_date": "2025",
+   "status": "Active",
+   "source_url": "http://browserstack.com/company",
+   "confidence": "HIGH"
+  }
+ ],
+ "research_log": [
+  {
+   "found": "Dual-HQ clarified: Dublin corporate domicile + Mumbai ops; $50M A + $200M B at $4B; founders IIT-B 2011.",
+   "next_action": "Done.",
+   "query": "BrowserStack founders HQ Dublin Mumbai valuation funding",
+   "status": "complete",
+   "unresolved": "Consolidated financials; redomicile."
+  },
+  {
+   "found": "$125M 3rd buyback Jan 2026, $275M cumulative, profits-funded; Rs771cr FY25 India rev; $300M CY26 guide; Requestly/Bird Eats Bug acquisitions.",
+   "next_action": "Done.",
+   "query": "BrowserStack ESOP buyback 2026 revenue",
+   "status": "complete",
+   "unresolved": "Buyback valuation undisclosed."
+  },
+  {
+   "date": "2026-09-14",
+   "query": "BrowserStack India Private Limited CIN",
+   "found": "CIN U74120MH2015PTC264476; legal name is BrowserStack Software Pvt Ltd (MH RoC), incorporated 14 May 2015 per Tracxn",
+   "unresolved": ""
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "BrowserStack founders verification",
+   "status": "done",
+   "found": "Ritesh Arora + Nakul Aggarwal confirmed as founders across all sources. No Jahangir found.",
+   "next_action": "none",
+   "agent": "web_search+hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "BrowserStack funding rounds verification",
+   "status": "done",
+   "found": "Only 2 rounds: Series A $50M (Jan 2018, Accel), Series B $200M (Jun 2021, BOND). NO Series C. Prompt claims of $7.5M/$67M/$220M are incorrect.",
+   "next_action": "none",
+   "agent": "web_search+hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "BrowserStack revenue/ARR verification",
+   "status": "done",
+   "found": "Rs771cr FY25 Indian entity; ~$225-235M group 2025; $300M CY2026 guide; $100M ARR milestone 2022. No $350M ARR found.",
+   "next_action": "none",
+   "agent": "web_search+hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "BrowserStack location verification",
+   "status": "done",
+   "found": "Founded and HQ'd in Mumbai (not Pune). Corporate domicile Dublin. SF/NYC offices.",
+   "next_action": "none",
+   "agent": "web_search+hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "BrowserStack acquisitions verification",
+   "status": "done",
+   "found": "Percy (2020), Nightwatch.js (2021), Bird Eats Bug (2024, $20M), Requestly (2025). No EndPoint or ACME acquisitions found.",
+   "next_action": "none",
+   "agent": "web_search+hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "BrowserStack 66.7% figure verification",
+   "status": "done",
+   "found": "No evidence of 66.7% market share figure anywhere.",
+   "next_action": "none",
+   "agent": "web_search"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "BrowserStack founders verification",
+   "status": "done",
+   "found": "Ritesh Arora + Nakul Aggarwal confirmed as founders across all sources. No Jahangir found.",
+   "next_action": "none",
+   "agent": "web_search+hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "BrowserStack funding rounds verification",
+   "status": "done",
+   "found": "Only 2 rounds: Series A $50M (Jan 2018, Accel), Series B $200M (Jun 2021, BOND). NO Series C. Prompt claims of $7.5M/$67M/$220M are incorrect.",
+   "next_action": "none",
+   "agent": "web_search+hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "BrowserStack revenue/ARR verification",
+   "status": "done",
+   "found": "Rs771cr FY25 Indian entity; ~$225-235M group 2025; $300M CY2026 guide; $100M ARR milestone 2022. No $350M ARR found.",
+   "next_action": "none",
+   "agent": "web_search+hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "BrowserStack location verification",
+   "status": "done",
+   "found": "Founded and HQ'd in Mumbai (not Pune). Corporate domicile Dublin. SF/NYC offices.",
+   "next_action": "none",
+   "agent": "web_search+hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "BrowserStack acquisitions verification",
+   "status": "done",
+   "found": "Percy (2020), Nightwatch.js (2021), Bird Eats Bug (2024, $20M), Requestly (2025). No EndPoint or ACME acquisitions found.",
+   "next_action": "none",
+   "agent": "web_search+hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "BrowserStack 66.7% figure verification",
+   "status": "done",
+   "found": "No evidence of 66.7% market share figure anywhere.",
+   "next_action": "none",
+   "agent": "web_search"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "BrowserStack founders verification",
+   "status": "done",
+   "found": "Ritesh Arora + Nakul Aggarwal confirmed as founders across all sources. No Jahangir found.",
+   "next_action": "none",
+   "agent": "web_search+hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "BrowserStack funding rounds verification",
+   "status": "done",
+   "found": "Only 2 rounds: Series A $50M (Jan 2018, Accel), Series B $200M (Jun 2021, BOND). NO Series C. Prompt claims of $7.5M/$67M/$220M are incorrect.",
+   "next_action": "none",
+   "agent": "web_search+hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "BrowserStack revenue/ARR verification",
+   "status": "done",
+   "found": "Rs771cr FY25 Indian entity; ~$225-235M group 2025; $300M CY2026 guide; $100M ARR milestone 2022. No $350M ARR found.",
+   "next_action": "none",
+   "agent": "web_search+hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "BrowserStack location verification",
+   "status": "done",
+   "found": "Founded and HQ'd in Mumbai (not Pune). Corporate domicile Dublin. SF/NYC offices.",
+   "next_action": "none",
+   "agent": "web_search+hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "BrowserStack acquisitions verification",
+   "status": "done",
+   "found": "Percy (2020), Nightwatch.js (2021), Bird Eats Bug (2024, $20M), Requestly (2025). No EndPoint or ACME acquisitions found.",
+   "next_action": "none",
+   "agent": "web_search+hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "BrowserStack 66.7% figure verification",
+   "status": "done",
+   "found": "No evidence of 66.7% market share figure anywhere.",
+   "next_action": "none",
+   "agent": "web_search"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "BrowserStack founders verification",
+   "status": "done",
+   "found": "Ritesh Arora + Nakul Aggarwal confirmed as founders across all sources. No Jahangir found.",
+   "next_action": "none",
+   "agent": "web_search+hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "BrowserStack funding rounds verification",
+   "status": "done",
+   "found": "Only 2 rounds: Series A $50M (Jan 2018, Accel), Series B $200M (Jun 2021, BOND). NO Series C. Prompt claims of $7.5M/$67M/$220M are incorrect.",
+   "next_action": "none",
+   "agent": "web_search+hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "BrowserStack revenue/ARR verification",
+   "status": "done",
+   "found": "Rs771cr FY25 Indian entity; ~$225-235M group 2025; $300M CY2026 guide; $100M ARR milestone 2022. No $350M ARR found.",
+   "next_action": "none",
+   "agent": "web_search+hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "BrowserStack location verification",
+   "status": "done",
+   "found": "Founded and HQ'd in Mumbai (not Pune). Corporate domicile Dublin. SF/NYC offices.",
+   "next_action": "none",
+   "agent": "web_search+hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "BrowserStack acquisitions verification",
+   "status": "done",
+   "found": "Percy (2020), Nightwatch.js (2021), Bird Eats Bug (2024, $20M), Requestly (2025). No EndPoint or ACME acquisitions found.",
+   "next_action": "none",
+   "agent": "web_search+hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "BrowserStack 66.7% figure verification",
+   "status": "done",
+   "found": "No evidence of 66.7% market share figure anywhere.",
+   "next_action": "none",
+   "agent": "web_search"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "BrowserStack founders verification",
+   "status": "done",
+   "found": "Ritesh Arora + Nakul Aggarwal confirmed as founders across all sources. No Jahangir found.",
+   "next_action": "none",
+   "agent": "web_search+hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "BrowserStack funding rounds verification",
+   "status": "done",
+   "found": "Only 2 rounds: Series A $50M (Jan 2018, Accel), Series B $200M (Jun 2021, BOND). NO Series C. Prompt claims of $7.5M/$67M/$220M are incorrect.",
+   "next_action": "none",
+   "agent": "web_search+hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "BrowserStack revenue/ARR verification",
+   "status": "done",
+   "found": "Rs771cr FY25 Indian entity; ~$225-235M group 2025; $300M CY2026 guide; $100M ARR milestone 2022. No $350M ARR found.",
+   "next_action": "none",
+   "agent": "web_search+hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "BrowserStack location verification",
+   "status": "done",
+   "found": "Founded and HQ'd in Mumbai (not Pune). Corporate domicile Dublin. SF/NYC offices.",
+   "next_action": "none",
+   "agent": "web_search+hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "BrowserStack acquisitions verification",
+   "status": "done",
+   "found": "Percy (2020), Nightwatch.js (2021), Bird Eats Bug (2024, $20M), Requestly (2025). No EndPoint or ACME acquisitions found.",
+   "next_action": "none",
+   "agent": "web_search+hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "BrowserStack 66.7% figure verification",
+   "status": "done",
+   "found": "No evidence of 66.7% market share figure anywhere.",
+   "next_action": "none",
+   "agent": "web_search"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "BrowserStack founders verification",
+   "status": "done",
+   "found": "Ritesh Arora + Nakul Aggarwal confirmed as founders across all sources. No Jahangir found.",
+   "next_action": "none",
+   "agent": "web_search+hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "BrowserStack funding rounds verification",
+   "status": "done",
+   "found": "Only 2 rounds: Series A $50M (Jan 2018, Accel), Series B $200M (Jun 2021, BOND). NO Series C. Prompt claims of $7.5M/$67M/$220M are incorrect.",
+   "next_action": "none",
+   "agent": "web_search+hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "BrowserStack revenue/ARR verification",
+   "status": "done",
+   "found": "Rs771cr FY25 Indian entity; ~$225-235M group 2025; $300M CY2026 guide; $100M ARR milestone 2022. No $350M ARR found.",
+   "next_action": "none",
+   "agent": "web_search+hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "BrowserStack location verification",
+   "status": "done",
+   "found": "Founded and HQ'd in Mumbai (not Pune). Corporate domicile Dublin. SF/NYC offices.",
+   "next_action": "none",
+   "agent": "web_search+hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "BrowserStack acquisitions verification",
+   "status": "done",
+   "found": "Percy (2020), Nightwatch.js (2021), Bird Eats Bug (2024, $20M), Requestly (2025). No EndPoint or ACME acquisitions found.",
+   "next_action": "none",
+   "agent": "web_search+hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "BrowserStack 66.7% figure verification",
+   "status": "done",
+   "found": "No evidence of 66.7% market share figure anywhere.",
+   "next_action": "none",
+   "agent": "web_search"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "BrowserStack founders verification",
+   "status": "done",
+   "found": "Ritesh Arora + Nakul Aggarwal confirmed as founders across all sources. No Jahangir found.",
+   "next_action": "none",
+   "agent": "web_search+hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "BrowserStack funding rounds verification",
+   "status": "done",
+   "found": "Only 2 rounds: Series A $50M (Jan 2018, Accel), Series B $200M (Jun 2021, BOND). NO Series C. Prompt claims of $7.5M/$67M/$220M are incorrect.",
+   "next_action": "none",
+   "agent": "web_search+hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "BrowserStack revenue/ARR verification",
+   "status": "done",
+   "found": "Rs771cr FY25 Indian entity; ~$225-235M group 2025; $300M CY2026 guide; $100M ARR milestone 2022. No $350M ARR found.",
+   "next_action": "none",
+   "agent": "web_search+hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "BrowserStack location verification",
+   "status": "done",
+   "found": "Founded and HQ'd in Mumbai (not Pune). Corporate domicile Dublin. SF/NYC offices.",
+   "next_action": "none",
+   "agent": "web_search+hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "BrowserStack acquisitions verification",
+   "status": "done",
+   "found": "Percy (2020), Nightwatch.js (2021), Bird Eats Bug (2024, $20M), Requestly (2025). No EndPoint or ACME acquisitions found.",
+   "next_action": "none",
+   "agent": "web_search+hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "BrowserStack 66.7% figure verification",
+   "status": "done",
+   "found": "No evidence of 66.7% market share figure anywhere.",
+   "next_action": "none",
+   "agent": "web_search"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "BrowserStack founders verification",
+   "status": "done",
+   "found": "Ritesh Arora + Nakul Aggarwal confirmed as founders across all sources. No Jahangir found.",
+   "next_action": "none",
+   "agent": "web_search+hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "BrowserStack funding rounds verification",
+   "status": "done",
+   "found": "Only 2 rounds: Series A $50M (Jan 2018, Accel), Series B $200M (Jun 2021, BOND). NO Series C. Prompt claims of $7.5M/$67M/$220M are incorrect.",
+   "next_action": "none",
+   "agent": "web_search+hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "BrowserStack revenue/ARR verification",
+   "status": "done",
+   "found": "Rs771cr FY25 Indian entity; ~$225-235M group 2025; $300M CY2026 guide; $100M ARR milestone 2022. No $350M ARR found.",
+   "next_action": "none",
+   "agent": "web_search+hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "BrowserStack location verification",
+   "status": "done",
+   "found": "Founded and HQ'd in Mumbai (not Pune). Corporate domicile Dublin. SF/NYC offices.",
+   "next_action": "none",
+   "agent": "web_search+hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "BrowserStack acquisitions verification",
+   "status": "done",
+   "found": "Percy (2020), Nightwatch.js (2021), Bird Eats Bug (2024, $20M), Requestly (2025). No EndPoint or ACME acquisitions found.",
+   "next_action": "none",
+   "agent": "web_search+hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "BrowserStack 66.7% figure verification",
+   "status": "done",
+   "found": "No evidence of 66.7% market share figure anywhere.",
+   "next_action": "none",
+   "agent": "web_search"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "BrowserStack founders verification",
+   "status": "done",
+   "found": "Ritesh Arora + Nakul Aggarwal confirmed as founders across all sources. No Jahangir found.",
+   "next_action": "none",
+   "agent": "web_search+hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "BrowserStack funding rounds verification",
+   "status": "done",
+   "found": "Only 2 rounds: Series A $50M (Jan 2018, Accel), Series B $200M (Jun 2021, BOND). NO Series C. Prompt claims of $7.5M/$67M/$220M are incorrect.",
+   "next_action": "none",
+   "agent": "web_search+hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "BrowserStack revenue/ARR verification",
+   "status": "done",
+   "found": "Rs771cr FY25 Indian entity; ~$225-235M group 2025; $300M CY2026 guide; $100M ARR milestone 2022. No $350M ARR found.",
+   "next_action": "none",
+   "agent": "web_search+hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "BrowserStack location verification",
+   "status": "done",
+   "found": "Founded and HQ'd in Mumbai (not Pune). Corporate domicile Dublin. SF/NYC offices.",
+   "next_action": "none",
+   "agent": "web_search+hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "BrowserStack acquisitions verification",
+   "status": "done",
+   "found": "Percy (2020), Nightwatch.js (2021), Bird Eats Bug (2024, $20M), Requestly (2025). No EndPoint or ACME acquisitions found.",
+   "next_action": "none",
+   "agent": "web_search+hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "BrowserStack 66.7% figure verification",
+   "status": "done",
+   "found": "No evidence of 66.7% market share figure anywhere.",
+   "next_action": "none",
+   "agent": "web_search"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "BrowserStack founders verification",
+   "status": "done",
+   "found": "Ritesh Arora + Nakul Aggarwal confirmed as founders across all sources. No Jahangir found.",
+   "next_action": "none",
+   "agent": "web_search+hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "BrowserStack funding rounds verification",
+   "status": "done",
+   "found": "Only 2 rounds: Series A $50M (Jan 2018, Accel), Series B $200M (Jun 2021, BOND). NO Series C. Prompt claims of $7.5M/$67M/$220M are incorrect.",
+   "next_action": "none",
+   "agent": "web_search+hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "BrowserStack revenue/ARR verification",
+   "status": "done",
+   "found": "Rs771cr FY25 Indian entity; ~$225-235M group 2025; $300M CY2026 guide; $100M ARR milestone 2022. No $350M ARR found.",
+   "next_action": "none",
+   "agent": "web_search+hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "BrowserStack location verification",
+   "status": "done",
+   "found": "Founded and HQ'd in Mumbai (not Pune). Corporate domicile Dublin. SF/NYC offices.",
+   "next_action": "none",
+   "agent": "web_search+hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "BrowserStack acquisitions verification",
+   "status": "done",
+   "found": "Percy (2020), Nightwatch.js (2021), Bird Eats Bug (2024, $20M), Requestly (2025). No EndPoint or ACME acquisitions found.",
+   "next_action": "none",
+   "agent": "web_search+hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "BrowserStack 66.7% figure verification",
+   "status": "done",
+   "found": "No evidence of 66.7% market share figure anywhere.",
+   "next_action": "none",
+   "agent": "web_search"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "BrowserStack founders verification",
+   "status": "done",
+   "found": "Ritesh Arora + Nakul Aggarwal confirmed as founders across all sources. No Jahangir found.",
+   "next_action": "none",
+   "agent": "web_search+hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "BrowserStack funding rounds verification",
+   "status": "done",
+   "found": "Only 2 rounds: Series A $50M (Jan 2018, Accel), Series B $200M (Jun 2021, BOND). NO Series C. Prompt claims of $7.5M/$67M/$220M are incorrect.",
+   "next_action": "none",
+   "agent": "web_search+hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "BrowserStack revenue/ARR verification",
+   "status": "done",
+   "found": "Rs771cr FY25 Indian entity; ~$225-235M group 2025; $300M CY2026 guide; $100M ARR milestone 2022. No $350M ARR found.",
+   "next_action": "none",
+   "agent": "web_search+hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "BrowserStack location verification",
+   "status": "done",
+   "found": "Founded and HQ'd in Mumbai (not Pune). Corporate domicile Dublin. SF/NYC offices.",
+   "next_action": "none",
+   "agent": "web_search+hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "BrowserStack acquisitions verification",
+   "status": "done",
+   "found": "Percy (2020), Nightwatch.js (2021), Bird Eats Bug (2024, $20M), Requestly (2025). No EndPoint or ACME acquisitions found.",
+   "next_action": "none",
+   "agent": "web_search+hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "BrowserStack 66.7% figure verification",
+   "status": "done",
+   "found": "No evidence of 66.7% market share figure anywhere.",
+   "next_action": "none",
+   "agent": "web_search"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "BrowserStack founders verification",
+   "status": "done",
+   "found": "Ritesh Arora + Nakul Aggarwal confirmed as founders across all sources. No Jahangir found.",
+   "next_action": "none",
+   "agent": "web_search+hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "BrowserStack funding rounds verification",
+   "status": "done",
+   "found": "Only 2 rounds: Series A $50M (Jan 2018, Accel), Series B $200M (Jun 2021, BOND). NO Series C. Prompt claims of $7.5M/$67M/$220M are incorrect.",
+   "next_action": "none",
+   "agent": "web_search+hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "BrowserStack revenue/ARR verification",
+   "status": "done",
+   "found": "Rs771cr FY25 Indian entity; ~$225-235M group 2025; $300M CY2026 guide; $100M ARR milestone 2022. No $350M ARR found.",
+   "next_action": "none",
+   "agent": "web_search+hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "BrowserStack location verification",
+   "status": "done",
+   "found": "Founded and HQ'd in Mumbai (not Pune). Corporate domicile Dublin. SF/NYC offices.",
+   "next_action": "none",
+   "agent": "web_search+hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "BrowserStack acquisitions verification",
+   "status": "done",
+   "found": "Percy (2020), Nightwatch.js (2021), Bird Eats Bug (2024, $20M), Requestly (2025). No EndPoint or ACME acquisitions found.",
+   "next_action": "none",
+   "agent": "web_search+hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "BrowserStack 66.7% figure verification",
+   "status": "done",
+   "found": "No evidence of 66.7% market share figure anywhere.",
+   "next_action": "none",
+   "agent": "web_search"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "BrowserStack founders verification",
+   "status": "done",
+   "found": "Ritesh Arora + Nakul Aggarwal confirmed as founders across all sources. No Jahangir found.",
+   "next_action": "none",
+   "agent": "web_search+hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "BrowserStack funding rounds verification",
+   "status": "done",
+   "found": "Only 2 rounds: Series A $50M (Jan 2018, Accel), Series B $200M (Jun 2021, BOND). NO Series C. Prompt claims of $7.5M/$67M/$220M are incorrect.",
+   "next_action": "none",
+   "agent": "web_search+hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "BrowserStack revenue/ARR verification",
+   "status": "done",
+   "found": "Rs771cr FY25 Indian entity; ~$225-235M group 2025; $300M CY2026 guide; $100M ARR milestone 2022. No $350M ARR found.",
+   "next_action": "none",
+   "agent": "web_search+hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "BrowserStack location verification",
+   "status": "done",
+   "found": "Founded and HQ'd in Mumbai (not Pune). Corporate domicile Dublin. SF/NYC offices.",
+   "next_action": "none",
+   "agent": "web_search+hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "BrowserStack acquisitions verification",
+   "status": "done",
+   "found": "Percy (2020), Nightwatch.js (2021), Bird Eats Bug (2024, $20M), Requestly (2025). No EndPoint or ACME acquisitions found.",
+   "next_action": "none",
+   "agent": "web_search+hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "BrowserStack 66.7% figure verification",
+   "status": "done",
+   "found": "No evidence of 66.7% market share figure anywhere.",
+   "next_action": "none",
+   "agent": "web_search"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "BrowserStack founders verification",
+   "status": "done",
+   "found": "Ritesh Arora + Nakul Aggarwal confirmed as founders across all sources. No Jahangir found.",
+   "next_action": "none",
+   "agent": "web_search+hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "BrowserStack funding rounds verification",
+   "status": "done",
+   "found": "Only 2 rounds: Series A $50M (Jan 2018, Accel), Series B $200M (Jun 2021, BOND). NO Series C. Prompt claims of $7.5M/$67M/$220M are incorrect.",
+   "next_action": "none",
+   "agent": "web_search+hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "BrowserStack revenue/ARR verification",
+   "status": "done",
+   "found": "Rs771cr FY25 Indian entity; ~$225-235M group 2025; $300M CY2026 guide; $100M ARR milestone 2022. No $350M ARR found.",
+   "next_action": "none",
+   "agent": "web_search+hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "BrowserStack location verification",
+   "status": "done",
+   "found": "Founded and HQ'd in Mumbai (not Pune). Corporate domicile Dublin. SF/NYC offices.",
+   "next_action": "none",
+   "agent": "web_search+hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "BrowserStack acquisitions verification",
+   "status": "done",
+   "found": "Percy (2020), Nightwatch.js (2021), Bird Eats Bug (2024, $20M), Requestly (2025). No EndPoint or ACME acquisitions found.",
+   "next_action": "none",
+   "agent": "web_search+hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "BrowserStack 66.7% figure verification",
+   "status": "done",
+   "found": "No evidence of 66.7% market share figure anywhere.",
+   "next_action": "none",
+   "agent": "web_search"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "BrowserStack founders verification",
+   "status": "done",
+   "found": "Ritesh Arora + Nakul Aggarwal confirmed as founders across all sources. No Jahangir found.",
+   "next_action": "none",
+   "agent": "web_search+hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "BrowserStack funding rounds verification",
+   "status": "done",
+   "found": "Only 2 rounds: Series A $50M (Jan 2018, Accel), Series B $200M (Jun 2021, BOND). NO Series C. Prompt claims of $7.5M/$67M/$220M are incorrect.",
+   "next_action": "none",
+   "agent": "web_search+hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "BrowserStack revenue/ARR verification",
+   "status": "done",
+   "found": "Rs771cr FY25 Indian entity; ~$225-235M group 2025; $300M CY2026 guide; $100M ARR milestone 2022. No $350M ARR found.",
+   "next_action": "none",
+   "agent": "web_search+hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "BrowserStack location verification",
+   "status": "done",
+   "found": "Founded and HQ'd in Mumbai (not Pune). Corporate domicile Dublin. SF/NYC offices.",
+   "next_action": "none",
+   "agent": "web_search+hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "BrowserStack acquisitions verification",
+   "status": "done",
+   "found": "Percy (2020), Nightwatch.js (2021), Bird Eats Bug (2024, $20M), Requestly (2025). No EndPoint or ACME acquisitions found.",
+   "next_action": "none",
+   "agent": "web_search+hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "BrowserStack 66.7% figure verification",
+   "status": "done",
+   "found": "No evidence of 66.7% market share figure anywhere.",
+   "next_action": "none",
+   "agent": "web_search"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "BrowserStack founders verification",
+   "status": "done",
+   "found": "Ritesh Arora + Nakul Aggarwal confirmed as founders across all sources. No Jahangir found.",
+   "next_action": "none",
+   "agent": "web_search+hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "BrowserStack funding rounds verification",
+   "status": "done",
+   "found": "Only 2 rounds: Series A $50M (Jan 2018, Accel), Series B $200M (Jun 2021, BOND). NO Series C. Prompt claims of $7.5M/$67M/$220M are incorrect.",
+   "next_action": "none",
+   "agent": "web_search+hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "BrowserStack revenue/ARR verification",
+   "status": "done",
+   "found": "Rs771cr FY25 Indian entity; ~$225-235M group 2025; $300M CY2026 guide; $100M ARR milestone 2022. No $350M ARR found.",
+   "next_action": "none",
+   "agent": "web_search+hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "BrowserStack location verification",
+   "status": "done",
+   "found": "Founded and HQ'd in Mumbai (not Pune). Corporate domicile Dublin. SF/NYC offices.",
+   "next_action": "none",
+   "agent": "web_search+hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "BrowserStack acquisitions verification",
+   "status": "done",
+   "found": "Percy (2020), Nightwatch.js (2021), Bird Eats Bug (2024, $20M), Requestly (2025). No EndPoint or ACME acquisitions found.",
+   "next_action": "none",
+   "agent": "web_search+hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "BrowserStack 66.7% figure verification",
+   "status": "done",
+   "found": "No evidence of 66.7% market share figure anywhere.",
+   "next_action": "none",
+   "agent": "web_search"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "BrowserStack founders verification",
+   "status": "done",
+   "found": "Ritesh Arora + Nakul Aggarwal confirmed as founders across all sources. No Jahangir found.",
+   "next_action": "none",
+   "agent": "web_search+hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "BrowserStack funding rounds verification",
+   "status": "done",
+   "found": "Only 2 rounds: Series A $50M (Jan 2018, Accel), Series B $200M (Jun 2021, BOND). NO Series C. Prompt claims of $7.5M/$67M/$220M are incorrect.",
+   "next_action": "none",
+   "agent": "web_search+hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "BrowserStack revenue/ARR verification",
+   "status": "done",
+   "found": "Rs771cr FY25 Indian entity; ~$225-235M group 2025; $300M CY2026 guide; $100M ARR milestone 2022. No $350M ARR found.",
+   "next_action": "none",
+   "agent": "web_search+hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "BrowserStack location verification",
+   "status": "done",
+   "found": "Founded and HQ'd in Mumbai (not Pune). Corporate domicile Dublin. SF/NYC offices.",
+   "next_action": "none",
+   "agent": "web_search+hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "BrowserStack acquisitions verification",
+   "status": "done",
+   "found": "Percy (2020), Nightwatch.js (2021), Bird Eats Bug (2024, $20M), Requestly (2025). No EndPoint or ACME acquisitions found.",
+   "next_action": "none",
+   "agent": "web_search+hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "BrowserStack 66.7% figure verification",
+   "status": "done",
+   "found": "No evidence of 66.7% market share figure anywhere.",
+   "next_action": "none",
+   "agent": "web_search"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "BrowserStack founders verification",
+   "status": "done",
+   "found": "Ritesh Arora + Nakul Aggarwal confirmed as founders across all sources. No Jahangir found.",
+   "next_action": "none",
+   "agent": "web_search+hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "BrowserStack funding rounds verification",
+   "status": "done",
+   "found": "Only 2 rounds: Series A $50M (Jan 2018, Accel), Series B $200M (Jun 2021, BOND). NO Series C. Prompt claims of $7.5M/$67M/$220M are incorrect.",
+   "next_action": "none",
+   "agent": "web_search+hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "BrowserStack revenue/ARR verification",
+   "status": "done",
+   "found": "Rs771cr FY25 Indian entity; ~$225-235M group 2025; $300M CY2026 guide; $100M ARR milestone 2022. No $350M ARR found.",
+   "next_action": "none",
+   "agent": "web_search+hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "BrowserStack location verification",
+   "status": "done",
+   "found": "Founded and HQ'd in Mumbai (not Pune). Corporate domicile Dublin. SF/NYC offices.",
+   "next_action": "none",
+   "agent": "web_search+hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "BrowserStack acquisitions verification",
+   "status": "done",
+   "found": "Percy (2020), Nightwatch.js (2021), Bird Eats Bug (2024, $20M), Requestly (2025). No EndPoint or ACME acquisitions found.",
+   "next_action": "none",
+   "agent": "web_search+hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "BrowserStack 66.7% figure verification",
+   "status": "done",
+   "found": "No evidence of 66.7% market share figure anywhere.",
+   "next_action": "none",
+   "agent": "web_search"
+  },
+  {
+   "date": "2026-09-14",
+   "query": "FS-wave founder status",
+   "found": "2 founders updated",
+   "unresolved": "",
+   "next_action": "none"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "BrowserStack founders verification",
+   "status": "done",
+   "found": "Ritesh Arora + Nakul Aggarwal confirmed as founders across all sources. No Jahangir found.",
+   "next_action": "none",
+   "agent": "web_search+hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "BrowserStack funding rounds verification",
+   "status": "done",
+   "found": "Only 2 rounds: Series A $50M (Jan 2018, Accel), Series B $200M (Jun 2021, BOND). NO Series C. Prompt claims of $7.5M/$67M/$220M are incorrect.",
+   "next_action": "none",
+   "agent": "web_search+hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "BrowserStack revenue/ARR verification",
+   "status": "done",
+   "found": "Rs771cr FY25 Indian entity; ~$225-235M group 2025; $300M CY2026 guide; $100M ARR milestone 2022. No $350M ARR found.",
+   "next_action": "none",
+   "agent": "web_search+hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "BrowserStack location verification",
+   "status": "done",
+   "found": "Founded and HQ'd in Mumbai (not Pune). Corporate domicile Dublin. SF/NYC offices.",
+   "next_action": "none",
+   "agent": "web_search+hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "BrowserStack acquisitions verification",
+   "status": "done",
+   "found": "Percy (2020), Nightwatch.js (2021), Bird Eats Bug (2024, $20M), Requestly (2025). No EndPoint or ACME acquisitions found.",
+   "next_action": "none",
+   "agent": "web_search+hyperresearch"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "BrowserStack 66.7% figure verification",
+   "status": "done",
+   "found": "No evidence of 66.7% market share figure anywhere.",
+   "next_action": "none",
+   "agent": "web_search"
+  }
+ ],
+ "sources": [
+  {
+   "claim_supported": "$125M buyback, 500+ beneficiaries, $275M cumulative, profits-funded",
+   "fields_supported": [
+    "events"
+   ],
+   "publication_date": "2026-01-12",
+   "publisher": "BrowserStack",
+   "retrieved_date": "2026-09-14",
+   "tier": "T1",
+   "title": "BrowserStack Announces $125 Million ESOP and Share Buyback Program",
+   "url": "https://www.browserstack.com/press/browserstack-announces-125-million-esop-and-share-buyback-program-creating-wealth-for-over-500-employees"
+  },
+  {
+   "claim_supported": "Series B $200M at $4B, BOND/Insight/Accel, Percy acquisition",
+   "fields_supported": [
+    "funding_rounds",
+    "acquisitions"
+   ],
+   "publication_date": "2021-06-16",
+   "publisher": "TechCrunch",
+   "retrieved_date": "2026-09-14",
+   "tier": "T3",
+   "title": "BrowserStack valued at $4 billion in $200 million BOND-led funding",
+   "url": "https://techcrunch.com/2021/06/16/bonds-200-million-led-investment-values-software-testing-platform-browserstack-at-4-billion/"
+  },
+  {
+   "claim_supported": "Ireland filings profit, India entity FY24, redomicile stance",
+   "fields_supported": [
+    "financials",
+    "locations"
+   ],
+   "publication_date": "2025-03-07",
+   "publisher": "Forbes India",
+   "retrieved_date": "2026-09-14",
+   "tier": "T3",
+   "title": "Forbes India Outstanding Startup: BrowserStack",
+   "url": "https://www.forbesindia.com/article/leadership/forbes-india-outstanding-startup-browserstack-is-building-a-global-software-leader-from-india/95499/1"
+  },
+  {
+   "claim_supported": "Buyback detail, revenue guide, acquisitions, cap table",
+   "fields_supported": [
+    "events",
+    "financials",
+    "traction"
+   ],
+   "publication_date": "2026-01-12",
+   "publisher": "Economic Times",
+   "retrieved_date": "2026-09-14",
+   "tier": "T3",
+   "title": "BrowserStack's $125 million share buyback",
+   "url": "https://economictimes.indiatimes.com/tech/technology/browserstack-to-buy-back-125-million-shares-from-employees-early-investors/articleshow/126470170.cms"
+  },
+  {
+   "url": "https://www.zaubacorp.com/company/BROWSERSTACK-SOFTWARE-PRIVATE-LIMITED/U74120MH2015PTC264476",
+   "title": "BROWSERSTACK SOFTWARE PRIVATE LIMITED | ZaubaCorp",
+   "fields": [
+    "cin",
+    "incorporation_date"
+   ],
+   "confidence": "medium-high"
+  },
+  {
+   "url": "https://www.prnewswire.com/news-releases/browserstack-acquires-percy-to-add-visual-testing-to-their-platform-301090792.html",
+   "title": "BrowserStack Acquires Percy to Add Visual Testing to Their Platform",
+   "tier": "T2",
+   "claim": "acquisition Percy (visual testing, SF)"
+  },
+  {
+   "url": "https://www.prnewswire.com/in/news-releases/browserstack-acquires-requestly-a-ycombinator-startup-for-http-interception-mocking--debugging-network-requests-302447048.html",
+   "title": "BrowserStack Acquires Requestly, a YCombinator Startup",
+   "tier": "T2",
+   "claim": "acquisition Requestly"
+  },
+  {
+   "url": "https://www.moneycontrol.com/news/business/startup/saas-firm-browserstack-acquires-europe-based-bug-detection-platform-bird-eats-bug-commits-investment-of-20-mn-12808204.html",
+   "title": "SaaS firm Browserstack acquires Europe-based bug detection platform Bird Eats Bug",
+   "tier": "T2",
+   "claim": "acquisition Bird Eats Bug"
+  },
+  {
+   "url": "https://in.linkedin.com/in/ritesh-arora-browserstack",
+   "title": "Ritesh Arora - Co-founder and CEO at BrowserStack | LinkedIn",
+   "tier": "T2",
+   "claim": "founder status Ritesh Arora"
+  },
+  {
+   "url": "https://in.linkedin.com/in/nakulaggarwal",
+   "title": "Nakul Aggarwal - Co-founder at BrowserStack - We are hiring",
+   "tier": "T2",
+   "claim": "founder status Nakul Aggarwal"
+  },
+  {
+   "url": "https://www.prnewswire.com/news-releases/browserstack-acquires-percy-to-add-visual-testing-to-their-platform-301090792.html",
+   "title": "BrowserStack Acquires Percy to Add Visual Testing to Their Platform",
+   "tier": "T2",
+   "claim": "acquisition Percy (visual testing, SF)"
+  },
+  {
+   "url": "https://www.prnewswire.com/in/news-releases/browserstack-acquires-requestly-a-ycombinator-startup-for-http-interception-mocking--debugging-network-requests-302447048.html",
+   "title": "BrowserStack Acquires Requestly, a YCombinator Startup",
+   "tier": "T2",
+   "claim": "acquisition Requestly"
+  },
+  {
+   "url": "https://www.moneycontrol.com/news/business/startup/saas-firm-browserstack-acquires-europe-based-bug-detection-platform-bird-eats-bug-commits-investment-of-20-mn-12808204.html",
+   "title": "SaaS firm Browserstack acquires Europe-based bug detection platform Bird Eats Bug",
+   "tier": "T2",
+   "claim": "acquisition Bird Eats Bug"
+  },
+  {
+   "url": "https://www.prnewswire.com/news-releases/browserstack-acquires-percy-to-add-visual-testing-to-their-platform-301090792.html",
+   "title": "BrowserStack Acquires Percy to Add Visual Testing to Their Platform",
+   "tier": "T2",
+   "claim": "acquisition Percy (visual testing, SF)"
+  },
+  {
+   "url": "https://www.prnewswire.com/in/news-releases/browserstack-acquires-requestly-a-ycombinator-startup-for-http-interception-mocking--debugging-network-requests-302447048.html",
+   "title": "BrowserStack Acquires Requestly, a YCombinator Startup",
+   "tier": "T2",
+   "claim": "acquisition Requestly"
+  },
+  {
+   "url": "https://www.moneycontrol.com/news/business/startup/saas-firm-browserstack-acquires-europe-based-bug-detection-platform-bird-eats-bug-commits-investment-of-20-mn-12808204.html",
+   "title": "SaaS firm Browserstack acquires Europe-based bug detection platform Bird Eats Bug",
+   "tier": "T2",
+   "claim": "acquisition Bird Eats Bug"
+  },
+  {
+   "url": "https://www.prnewswire.com/news-releases/browserstack-acquires-percy-to-add-visual-testing-to-their-platform-301090792.html",
+   "title": "BrowserStack Acquires Percy to Add Visual Testing to Their Platform",
+   "tier": "T2",
+   "claim": "acquisition Percy (visual testing, SF)"
+  },
+  {
+   "url": "https://www.prnewswire.com/in/news-releases/browserstack-acquires-requestly-a-ycombinator-startup-for-http-interception-mocking--debugging-network-requests-302447048.html",
+   "title": "BrowserStack Acquires Requestly, a YCombinator Startup",
+   "tier": "T2",
+   "claim": "acquisition Requestly"
+  },
+  {
+   "url": "https://www.moneycontrol.com/news/business/startup/saas-firm-browserstack-acquires-europe-based-bug-detection-platform-bird-eats-bug-commits-investment-of-20-mn-12808204.html",
+   "title": "SaaS firm Browserstack acquires Europe-based bug detection platform Bird Eats Bug",
+   "tier": "T2",
+   "claim": "acquisition Bird Eats Bug"
+  },
+  {
+   "url": "https://www.prnewswire.com/news-releases/browserstack-acquires-percy-to-add-visual-testing-to-their-platform-301090792.html",
+   "title": "BrowserStack Acquires Percy to Add Visual Testing to Their Platform",
+   "tier": "T2",
+   "claim": "acquisition Percy (visual testing, SF)"
+  },
+  {
+   "url": "https://www.prnewswire.com/in/news-releases/browserstack-acquires-requestly-a-ycombinator-startup-for-http-interception-mocking--debugging-network-requests-302447048.html",
+   "title": "BrowserStack Acquires Requestly, a YCombinator Startup",
+   "tier": "T2",
+   "claim": "acquisition Requestly"
+  },
+  {
+   "url": "https://www.moneycontrol.com/news/business/startup/saas-firm-browserstack-acquires-europe-based-bug-detection-platform-bird-eats-bug-commits-investment-of-20-mn-12808204.html",
+   "title": "SaaS firm Browserstack acquires Europe-based bug detection platform Bird Eats Bug",
+   "tier": "T2",
+   "claim": "acquisition Bird Eats Bug"
+  },
+  {
+   "url": "https://www.prnewswire.com/news-releases/browserstack-acquires-percy-to-add-visual-testing-to-their-platform-301090792.html",
+   "title": "BrowserStack Acquires Percy to Add Visual Testing to Their Platform",
+   "tier": "T2",
+   "claim": "acquisition Percy (visual testing, SF)"
+  },
+  {
+   "url": "https://www.prnewswire.com/in/news-releases/browserstack-acquires-requestly-a-ycombinator-startup-for-http-interception-mocking--debugging-network-requests-302447048.html",
+   "title": "BrowserStack Acquires Requestly, a YCombinator Startup",
+   "tier": "T2",
+   "claim": "acquisition Requestly"
+  },
+  {
+   "url": "https://www.moneycontrol.com/news/business/startup/saas-firm-browserstack-acquires-europe-based-bug-detection-platform-bird-eats-bug-commits-investment-of-20-mn-12808204.html",
+   "title": "SaaS firm Browserstack acquires Europe-based bug detection platform Bird Eats Bug",
+   "tier": "T2",
+   "claim": "acquisition Bird Eats Bug"
+  },
+  {
+   "url": "https://www.prnewswire.com/news-releases/browserstack-acquires-percy-to-add-visual-testing-to-their-platform-301090792.html",
+   "title": "BrowserStack Acquires Percy to Add Visual Testing to Their Platform",
+   "tier": "T2",
+   "claim": "acquisition Percy (visual testing, SF)"
+  },
+  {
+   "url": "https://www.prnewswire.com/in/news-releases/browserstack-acquires-requestly-a-ycombinator-startup-for-http-interception-mocking--debugging-network-requests-302447048.html",
+   "title": "BrowserStack Acquires Requestly, a YCombinator Startup",
+   "tier": "T2",
+   "claim": "acquisition Requestly"
+  },
+  {
+   "url": "https://www.moneycontrol.com/news/business/startup/saas-firm-browserstack-acquires-europe-based-bug-detection-platform-bird-eats-bug-commits-investment-of-20-mn-12808204.html",
+   "title": "SaaS firm Browserstack acquires Europe-based bug detection platform Bird Eats Bug",
+   "tier": "T2",
+   "claim": "acquisition Bird Eats Bug"
+  },
+  {
+   "url": "https://www.prnewswire.com/news-releases/browserstack-acquires-percy-to-add-visual-testing-to-their-platform-301090792.html",
+   "title": "BrowserStack Acquires Percy to Add Visual Testing to Their Platform",
+   "tier": "T2",
+   "claim": "acquisition Percy (visual testing, SF)"
+  },
+  {
+   "url": "https://www.prnewswire.com/in/news-releases/browserstack-acquires-requestly-a-ycombinator-startup-for-http-interception-mocking--debugging-network-requests-302447048.html",
+   "title": "BrowserStack Acquires Requestly, a YCombinator Startup",
+   "tier": "T2",
+   "claim": "acquisition Requestly"
+  },
+  {
+   "url": "https://www.moneycontrol.com/news/business/startup/saas-firm-browserstack-acquires-europe-based-bug-detection-platform-bird-eats-bug-commits-investment-of-20-mn-12808204.html",
+   "title": "SaaS firm Browserstack acquires Europe-based bug detection platform Bird Eats Bug",
+   "tier": "T2",
+   "claim": "acquisition Bird Eats Bug"
+  },
+  {
+   "url": "https://www.prnewswire.com/news-releases/browserstack-acquires-percy-to-add-visual-testing-to-their-platform-301090792.html",
+   "title": "BrowserStack Acquires Percy to Add Visual Testing to Their Platform",
+   "tier": "T2",
+   "claim": "acquisition Percy (visual testing, SF)"
+  },
+  {
+   "url": "https://www.prnewswire.com/in/news-releases/browserstack-acquires-requestly-a-ycombinator-startup-for-http-interception-mocking--debugging-network-requests-302447048.html",
+   "title": "BrowserStack Acquires Requestly, a YCombinator Startup",
+   "tier": "T2",
+   "claim": "acquisition Requestly"
+  },
+  {
+   "url": "https://www.moneycontrol.com/news/business/startup/saas-firm-browserstack-acquires-europe-based-bug-detection-platform-bird-eats-bug-commits-investment-of-20-mn-12808204.html",
+   "title": "SaaS firm Browserstack acquires Europe-based bug detection platform Bird Eats Bug",
+   "tier": "T2",
+   "claim": "acquisition Bird Eats Bug"
+  },
+  {
+   "url": "https://www.prnewswire.com/news-releases/browserstack-acquires-percy-to-add-visual-testing-to-their-platform-301090792.html",
+   "title": "BrowserStack Acquires Percy to Add Visual Testing to Their Platform",
+   "tier": "T2",
+   "claim": "acquisition Percy (visual testing, SF)"
+  },
+  {
+   "url": "https://www.prnewswire.com/in/news-releases/browserstack-acquires-requestly-a-ycombinator-startup-for-http-interception-mocking--debugging-network-requests-302447048.html",
+   "title": "BrowserStack Acquires Requestly, a YCombinator Startup",
+   "tier": "T2",
+   "claim": "acquisition Requestly"
+  },
+  {
+   "url": "https://www.moneycontrol.com/news/business/startup/saas-firm-browserstack-acquires-europe-based-bug-detection-platform-bird-eats-bug-commits-investment-of-20-mn-12808204.html",
+   "title": "SaaS firm Browserstack acquires Europe-based bug detection platform Bird Eats Bug",
+   "tier": "T2",
+   "claim": "acquisition Bird Eats Bug"
+  },
+  {
+   "url": "https://www.prnewswire.com/news-releases/browserstack-acquires-percy-to-add-visual-testing-to-their-platform-301090792.html",
+   "title": "BrowserStack Acquires Percy to Add Visual Testing to Their Platform",
+   "tier": "T2",
+   "claim": "acquisition Percy (visual testing, SF)"
+  },
+  {
+   "url": "https://www.prnewswire.com/in/news-releases/browserstack-acquires-requestly-a-ycombinator-startup-for-http-interception-mocking--debugging-network-requests-302447048.html",
+   "title": "BrowserStack Acquires Requestly, a YCombinator Startup",
+   "tier": "T2",
+   "claim": "acquisition Requestly"
+  },
+  {
+   "url": "https://www.moneycontrol.com/news/business/startup/saas-firm-browserstack-acquires-europe-based-bug-detection-platform-bird-eats-bug-commits-investment-of-20-mn-12808204.html",
+   "title": "SaaS firm Browserstack acquires Europe-based bug detection platform Bird Eats Bug",
+   "tier": "T2",
+   "claim": "acquisition Bird Eats Bug"
+  },
+  {
+   "url": "https://www.prnewswire.com/news-releases/browserstack-acquires-percy-to-add-visual-testing-to-their-platform-301090792.html",
+   "title": "BrowserStack Acquires Percy to Add Visual Testing to Their Platform",
+   "tier": "T2",
+   "claim": "acquisition Percy (visual testing, SF)"
+  },
+  {
+   "url": "https://www.prnewswire.com/in/news-releases/browserstack-acquires-requestly-a-ycombinator-startup-for-http-interception-mocking--debugging-network-requests-302447048.html",
+   "title": "BrowserStack Acquires Requestly, a YCombinator Startup",
+   "tier": "T2",
+   "claim": "acquisition Requestly"
+  },
+  {
+   "url": "https://www.moneycontrol.com/news/business/startup/saas-firm-browserstack-acquires-europe-based-bug-detection-platform-bird-eats-bug-commits-investment-of-20-mn-12808204.html",
+   "title": "SaaS firm Browserstack acquires Europe-based bug detection platform Bird Eats Bug",
+   "tier": "T2",
+   "claim": "acquisition Bird Eats Bug"
+  },
+  {
+   "url": "https://www.prnewswire.com/news-releases/browserstack-acquires-percy-to-add-visual-testing-to-their-platform-301090792.html",
+   "title": "BrowserStack Acquires Percy to Add Visual Testing to Their Platform",
+   "tier": "T2",
+   "claim": "acquisition Percy (visual testing, SF)"
+  },
+  {
+   "url": "https://www.prnewswire.com/in/news-releases/browserstack-acquires-requestly-a-ycombinator-startup-for-http-interception-mocking--debugging-network-requests-302447048.html",
+   "title": "BrowserStack Acquires Requestly, a YCombinator Startup",
+   "tier": "T2",
+   "claim": "acquisition Requestly"
+  },
+  {
+   "url": "https://www.moneycontrol.com/news/business/startup/saas-firm-browserstack-acquires-europe-based-bug-detection-platform-bird-eats-bug-commits-investment-of-20-mn-12808204.html",
+   "title": "SaaS firm Browserstack acquires Europe-based bug detection platform Bird Eats Bug",
+   "tier": "T2",
+   "claim": "acquisition Bird Eats Bug"
+  },
+  {
+   "url": "https://www.prnewswire.com/news-releases/browserstack-acquires-percy-to-add-visual-testing-to-their-platform-301090792.html",
+   "title": "BrowserStack Acquires Percy to Add Visual Testing to Their Platform",
+   "tier": "T2",
+   "claim": "acquisition Percy (visual testing, SF)"
+  },
+  {
+   "url": "https://www.prnewswire.com/in/news-releases/browserstack-acquires-requestly-a-ycombinator-startup-for-http-interception-mocking--debugging-network-requests-302447048.html",
+   "title": "BrowserStack Acquires Requestly, a YCombinator Startup",
+   "tier": "T2",
+   "claim": "acquisition Requestly"
+  },
+  {
+   "url": "https://www.moneycontrol.com/news/business/startup/saas-firm-browserstack-acquires-europe-based-bug-detection-platform-bird-eats-bug-commits-investment-of-20-mn-12808204.html",
+   "title": "SaaS firm Browserstack acquires Europe-based bug detection platform Bird Eats Bug",
+   "tier": "T2",
+   "claim": "acquisition Bird Eats Bug"
+  },
+  {
+   "url": "https://www.prnewswire.com/news-releases/browserstack-acquires-percy-to-add-visual-testing-to-their-platform-301090792.html",
+   "title": "BrowserStack Acquires Percy to Add Visual Testing to Their Platform",
+   "tier": "T2",
+   "claim": "acquisition Percy (visual testing, SF)"
+  },
+  {
+   "url": "https://www.prnewswire.com/in/news-releases/browserstack-acquires-requestly-a-ycombinator-startup-for-http-interception-mocking--debugging-network-requests-302447048.html",
+   "title": "BrowserStack Acquires Requestly, a YCombinator Startup",
+   "tier": "T2",
+   "claim": "acquisition Requestly"
+  },
+  {
+   "url": "https://www.moneycontrol.com/news/business/startup/saas-firm-browserstack-acquires-europe-based-bug-detection-platform-bird-eats-bug-commits-investment-of-20-mn-12808204.html",
+   "title": "SaaS firm Browserstack acquires Europe-based bug detection platform Bird Eats Bug",
+   "tier": "T2",
+   "claim": "acquisition Bird Eats Bug"
+  },
+  {
+   "url": "https://www.prnewswire.com/news-releases/browserstack-acquires-percy-to-add-visual-testing-to-their-platform-301090792.html",
+   "title": "BrowserStack Acquires Percy to Add Visual Testing to Their Platform",
+   "tier": "T2",
+   "claim": "acquisition Percy (visual testing, SF)"
+  },
+  {
+   "url": "https://www.prnewswire.com/in/news-releases/browserstack-acquires-requestly-a-ycombinator-startup-for-http-interception-mocking--debugging-network-requests-302447048.html",
+   "title": "BrowserStack Acquires Requestly, a YCombinator Startup",
+   "tier": "T2",
+   "claim": "acquisition Requestly"
+  },
+  {
+   "url": "https://www.moneycontrol.com/news/business/startup/saas-firm-browserstack-acquires-europe-based-bug-detection-platform-bird-eats-bug-commits-investment-of-20-mn-12808204.html",
+   "title": "SaaS firm Browserstack acquires Europe-based bug detection platform Bird Eats Bug",
+   "tier": "T2",
+   "claim": "acquisition Bird Eats Bug"
+  },
+  {
+   "url": "https://www.prnewswire.com/news-releases/browserstack-acquires-percy-to-add-visual-testing-to-their-platform-301090792.html",
+   "title": "BrowserStack Acquires Percy to Add Visual Testing to Their Platform",
+   "tier": "T2",
+   "claim": "acquisition Percy (visual testing, SF)"
+  },
+  {
+   "url": "https://www.prnewswire.com/in/news-releases/browserstack-acquires-requestly-a-ycombinator-startup-for-http-interception-mocking--debugging-network-requests-302447048.html",
+   "title": "BrowserStack Acquires Requestly, a YCombinator Startup",
+   "tier": "T2",
+   "claim": "acquisition Requestly"
+  },
+  {
+   "url": "https://www.moneycontrol.com/news/business/startup/saas-firm-browserstack-acquires-europe-based-bug-detection-platform-bird-eats-bug-commits-investment-of-20-mn-12808204.html",
+   "title": "SaaS firm Browserstack acquires Europe-based bug detection platform Bird Eats Bug",
+   "tier": "T2",
+   "claim": "acquisition Bird Eats Bug"
+  },
+  {
+   "url": "https://www.prnewswire.com/news-releases/browserstack-acquires-percy-to-add-visual-testing-to-their-platform-301090792.html",
+   "title": "BrowserStack Acquires Percy to Add Visual Testing to Their Platform",
+   "tier": "T2",
+   "claim": "acquisition Percy (visual testing, SF)"
+  },
+  {
+   "url": "https://www.prnewswire.com/in/news-releases/browserstack-acquires-requestly-a-ycombinator-startup-for-http-interception-mocking--debugging-network-requests-302447048.html",
+   "title": "BrowserStack Acquires Requestly, a YCombinator Startup",
+   "tier": "T2",
+   "claim": "acquisition Requestly"
+  },
+  {
+   "url": "https://www.moneycontrol.com/news/business/startup/saas-firm-browserstack-acquires-europe-based-bug-detection-platform-bird-eats-bug-commits-investment-of-20-mn-12808204.html",
+   "title": "SaaS firm Browserstack acquires Europe-based bug detection platform Bird Eats Bug",
+   "tier": "T2",
+   "claim": "acquisition Bird Eats Bug"
+  },
+  {
+   "url": "https://www.prnewswire.com/news-releases/browserstack-acquires-percy-to-add-visual-testing-to-their-platform-301090792.html",
+   "title": "BrowserStack Acquires Percy to Add Visual Testing to Their Platform",
+   "tier": "T2",
+   "claim": "acquisition Percy (visual testing, SF)"
+  },
+  {
+   "url": "https://www.prnewswire.com/in/news-releases/browserstack-acquires-requestly-a-ycombinator-startup-for-http-interception-mocking--debugging-network-requests-302447048.html",
+   "title": "BrowserStack Acquires Requestly, a YCombinator Startup",
+   "tier": "T2",
+   "claim": "acquisition Requestly"
+  },
+  {
+   "url": "https://www.moneycontrol.com/news/business/startup/saas-firm-browserstack-acquires-europe-based-bug-detection-platform-bird-eats-bug-commits-investment-of-20-mn-12808204.html",
+   "title": "SaaS firm Browserstack acquires Europe-based bug detection platform Bird Eats Bug",
+   "tier": "T2",
+   "claim": "acquisition Bird Eats Bug"
+  },
+  {
+   "url": "https://www.prnewswire.com/news-releases/browserstack-acquires-percy-to-add-visual-testing-to-their-platform-301090792.html",
+   "title": "BrowserStack Acquires Percy to Add Visual Testing to Their Platform",
+   "tier": "T2",
+   "claim": "acquisition Percy (visual testing, SF)"
+  },
+  {
+   "url": "https://www.prnewswire.com/in/news-releases/browserstack-acquires-requestly-a-ycombinator-startup-for-http-interception-mocking--debugging-network-requests-302447048.html",
+   "title": "BrowserStack Acquires Requestly, a YCombinator Startup",
+   "tier": "T2",
+   "claim": "acquisition Requestly"
+  },
+  {
+   "url": "https://www.moneycontrol.com/news/business/startup/saas-firm-browserstack-acquires-europe-based-bug-detection-platform-bird-eats-bug-commits-investment-of-20-mn-12808204.html",
+   "title": "SaaS firm Browserstack acquires Europe-based bug detection platform Bird Eats Bug",
+   "tier": "T2",
+   "claim": "acquisition Bird Eats Bug"
+  },
+  {
+   "url": "https://www.prnewswire.com/news-releases/browserstack-acquires-percy-to-add-visual-testing-to-their-platform-301090792.html",
+   "title": "BrowserStack Acquires Percy to Add Visual Testing to Their Platform",
+   "tier": "T2",
+   "claim": "acquisition Percy (visual testing, SF)"
+  },
+  {
+   "url": "https://www.prnewswire.com/in/news-releases/browserstack-acquires-requestly-a-ycombinator-startup-for-http-interception-mocking--debugging-network-requests-302447048.html",
+   "title": "BrowserStack Acquires Requestly, a YCombinator Startup",
+   "tier": "T2",
+   "claim": "acquisition Requestly"
+  },
+  {
+   "url": "https://www.moneycontrol.com/news/business/startup/saas-firm-browserstack-acquires-europe-based-bug-detection-platform-bird-eats-bug-commits-investment-of-20-mn-12808204.html",
+   "title": "SaaS firm Browserstack acquires Europe-based bug detection platform Bird Eats Bug",
+   "tier": "T2",
+   "claim": "acquisition Bird Eats Bug"
+  },
+  {
+   "url": "https://www.prnewswire.com/news-releases/browserstack-acquires-percy-to-add-visual-testing-to-their-platform-301090792.html",
+   "title": "BrowserStack Acquires Percy to Add Visual Testing to Their Platform",
+   "tier": "T2",
+   "claim": "acquisition Percy (visual testing, SF)"
+  },
+  {
+   "url": "https://www.prnewswire.com/in/news-releases/browserstack-acquires-requestly-a-ycombinator-startup-for-http-interception-mocking--debugging-network-requests-302447048.html",
+   "title": "BrowserStack Acquires Requestly, a YCombinator Startup",
+   "tier": "T2",
+   "claim": "acquisition Requestly"
+  },
+  {
+   "url": "https://www.moneycontrol.com/news/business/startup/saas-firm-browserstack-acquires-europe-based-bug-detection-platform-bird-eats-bug-commits-investment-of-20-mn-12808204.html",
+   "title": "SaaS firm Browserstack acquires Europe-based bug detection platform Bird Eats Bug",
+   "tier": "T2",
+   "claim": "acquisition Bird Eats Bug"
+  },
+  {
+   "url": "https://www.prnewswire.com/news-releases/browserstack-acquires-percy-to-add-visual-testing-to-their-platform-301090792.html",
+   "title": "BrowserStack Acquires Percy to Add Visual Testing to Their Platform",
+   "tier": "T2",
+   "claim": "acquisition Percy (visual testing, SF)"
+  },
+  {
+   "url": "https://www.prnewswire.com/in/news-releases/browserstack-acquires-requestly-a-ycombinator-startup-for-http-interception-mocking--debugging-network-requests-302447048.html",
+   "title": "BrowserStack Acquires Requestly, a YCombinator Startup",
+   "tier": "T2",
+   "claim": "acquisition Requestly"
+  },
+  {
+   "url": "https://www.moneycontrol.com/news/business/startup/saas-firm-browserstack-acquires-europe-based-bug-detection-platform-bird-eats-bug-commits-investment-of-20-mn-12808204.html",
+   "title": "SaaS firm Browserstack acquires Europe-based bug detection platform Bird Eats Bug",
+   "tier": "T2",
+   "claim": "acquisition Bird Eats Bug"
+  },
+  {
+   "url": "https://www.prnewswire.com/news-releases/browserstack-acquires-percy-to-add-visual-testing-to-their-platform-301090792.html",
+   "title": "BrowserStack Acquires Percy to Add Visual Testing to Their Platform",
+   "tier": "T2",
+   "claim": "acquisition Percy (visual testing, SF)"
+  },
+  {
+   "url": "https://www.prnewswire.com/in/news-releases/browserstack-acquires-requestly-a-ycombinator-startup-for-http-interception-mocking--debugging-network-requests-302447048.html",
+   "title": "BrowserStack Acquires Requestly, a YCombinator Startup",
+   "tier": "T2",
+   "claim": "acquisition Requestly"
+  },
+  {
+   "url": "https://www.moneycontrol.com/news/business/startup/saas-firm-browserstack-acquires-europe-based-bug-detection-platform-bird-eats-bug-commits-investment-of-20-mn-12808204.html",
+   "title": "SaaS firm Browserstack acquires Europe-based bug detection platform Bird Eats Bug",
+   "tier": "T2",
+   "claim": "acquisition Bird Eats Bug"
+  },
+  {
+   "url": "https://www.prnewswire.com/news-releases/browserstack-acquires-percy-to-add-visual-testing-to-their-platform-301090792.html",
+   "title": "BrowserStack Acquires Percy to Add Visual Testing to Their Platform",
+   "tier": "T2",
+   "claim": "acquisition Percy (visual testing, SF)"
+  },
+  {
+   "url": "https://www.prnewswire.com/in/news-releases/browserstack-acquires-requestly-a-ycombinator-startup-for-http-interception-mocking--debugging-network-requests-302447048.html",
+   "title": "BrowserStack Acquires Requestly, a YCombinator Startup",
+   "tier": "T2",
+   "claim": "acquisition Requestly"
+  },
+  {
+   "url": "https://www.moneycontrol.com/news/business/startup/saas-firm-browserstack-acquires-europe-based-bug-detection-platform-bird-eats-bug-commits-investment-of-20-mn-12808204.html",
+   "title": "SaaS firm Browserstack acquires Europe-based bug detection platform Bird Eats Bug",
+   "tier": "T2",
+   "claim": "acquisition Bird Eats Bug"
+  },
+  {
+   "url": "https://www.prnewswire.com/news-releases/browserstack-acquires-percy-to-add-visual-testing-to-their-platform-301090792.html",
+   "title": "BrowserStack Acquires Percy to Add Visual Testing to Their Platform",
+   "tier": "T2",
+   "claim": "acquisition Percy (visual testing, SF)"
+  },
+  {
+   "url": "https://www.prnewswire.com/in/news-releases/browserstack-acquires-requestly-a-ycombinator-startup-for-http-interception-mocking--debugging-network-requests-302447048.html",
+   "title": "BrowserStack Acquires Requestly, a YCombinator Startup",
+   "tier": "T2",
+   "claim": "acquisition Requestly"
+  },
+  {
+   "url": "https://www.moneycontrol.com/news/business/startup/saas-firm-browserstack-acquires-europe-based-bug-detection-platform-bird-eats-bug-commits-investment-of-20-mn-12808204.html",
+   "title": "SaaS firm Browserstack acquires Europe-based bug detection platform Bird Eats Bug",
+   "tier": "T2",
+   "claim": "acquisition Bird Eats Bug"
+  },
+  {
+   "url": "https://www.prnewswire.com/news-releases/browserstack-acquires-percy-to-add-visual-testing-to-their-platform-301090792.html",
+   "title": "BrowserStack Acquires Percy to Add Visual Testing to Their Platform",
+   "tier": "T2",
+   "claim": "acquisition Percy (visual testing, SF)"
+  },
+  {
+   "url": "https://www.prnewswire.com/in/news-releases/browserstack-acquires-requestly-a-ycombinator-startup-for-http-interception-mocking--debugging-network-requests-302447048.html",
+   "title": "BrowserStack Acquires Requestly, a YCombinator Startup",
+   "tier": "T2",
+   "claim": "acquisition Requestly"
+  },
+  {
+   "url": "https://www.moneycontrol.com/news/business/startup/saas-firm-browserstack-acquires-europe-based-bug-detection-platform-bird-eats-bug-commits-investment-of-20-mn-12808204.html",
+   "title": "SaaS firm Browserstack acquires Europe-based bug detection platform Bird Eats Bug",
+   "tier": "T2",
+   "claim": "acquisition Bird Eats Bug"
+  },
+  {
+   "url": "https://www.prnewswire.com/news-releases/browserstack-acquires-percy-to-add-visual-testing-to-their-platform-301090792.html",
+   "title": "BrowserStack Acquires Percy to Add Visual Testing to Their Platform",
+   "tier": "T2",
+   "claim": "acquisition Percy (visual testing, SF)"
+  },
+  {
+   "url": "https://www.prnewswire.com/in/news-releases/browserstack-acquires-requestly-a-ycombinator-startup-for-http-interception-mocking--debugging-network-requests-302447048.html",
+   "title": "BrowserStack Acquires Requestly, a YCombinator Startup",
+   "tier": "T2",
+   "claim": "acquisition Requestly"
+  },
+  {
+   "url": "https://www.moneycontrol.com/news/business/startup/saas-firm-browserstack-acquires-europe-based-bug-detection-platform-bird-eats-bug-commits-investment-of-20-mn-12808204.html",
+   "title": "SaaS firm Browserstack acquires Europe-based bug detection platform Bird Eats Bug",
+   "tier": "T2",
+   "claim": "acquisition Bird Eats Bug"
+  },
+  {
+   "url": "https://www.prnewswire.com/news-releases/browserstack-acquires-percy-to-add-visual-testing-to-their-platform-301090792.html",
+   "title": "BrowserStack Acquires Percy to Add Visual Testing to Their Platform",
+   "tier": "T2",
+   "claim": "acquisition Percy (visual testing, SF)"
+  },
+  {
+   "url": "https://www.prnewswire.com/in/news-releases/browserstack-acquires-requestly-a-ycombinator-startup-for-http-interception-mocking--debugging-network-requests-302447048.html",
+   "title": "BrowserStack Acquires Requestly, a YCombinator Startup",
+   "tier": "T2",
+   "claim": "acquisition Requestly"
+  },
+  {
+   "url": "https://www.moneycontrol.com/news/business/startup/saas-firm-browserstack-acquires-europe-based-bug-detection-platform-bird-eats-bug-commits-investment-of-20-mn-12808204.html",
+   "title": "SaaS firm Browserstack acquires Europe-based bug detection platform Bird Eats Bug",
+   "tier": "T2",
+   "claim": "acquisition Bird Eats Bug"
+  },
+  {
+   "url": "https://www.prnewswire.com/news-releases/browserstack-acquires-percy-to-add-visual-testing-to-their-platform-301090792.html",
+   "title": "BrowserStack Acquires Percy to Add Visual Testing to Their Platform",
+   "tier": "T2",
+   "claim": "acquisition Percy (visual testing, SF)"
+  },
+  {
+   "url": "https://www.prnewswire.com/in/news-releases/browserstack-acquires-requestly-a-ycombinator-startup-for-http-interception-mocking--debugging-network-requests-302447048.html",
+   "title": "BrowserStack Acquires Requestly, a YCombinator Startup",
+   "tier": "T2",
+   "claim": "acquisition Requestly"
+  },
+  {
+   "url": "https://www.moneycontrol.com/news/business/startup/saas-firm-browserstack-acquires-europe-based-bug-detection-platform-bird-eats-bug-commits-investment-of-20-mn-12808204.html",
+   "title": "SaaS firm Browserstack acquires Europe-based bug detection platform Bird Eats Bug",
+   "tier": "T2",
+   "claim": "acquisition Bird Eats Bug"
+  },
+  {
+   "url": "https://www.prnewswire.com/news-releases/browserstack-acquires-percy-to-add-visual-testing-to-their-platform-301090792.html",
+   "title": "BrowserStack Acquires Percy to Add Visual Testing to Their Platform",
+   "tier": "T2",
+   "claim": "acquisition Percy (visual testing, SF)"
+  },
+  {
+   "url": "https://www.prnewswire.com/in/news-releases/browserstack-acquires-requestly-a-ycombinator-startup-for-http-interception-mocking--debugging-network-requests-302447048.html",
+   "title": "BrowserStack Acquires Requestly, a YCombinator Startup",
+   "tier": "T2",
+   "claim": "acquisition Requestly"
+  },
+  {
+   "url": "https://www.moneycontrol.com/news/business/startup/saas-firm-browserstack-acquires-europe-based-bug-detection-platform-bird-eats-bug-commits-investment-of-20-mn-12808204.html",
+   "title": "SaaS firm Browserstack acquires Europe-based bug detection platform Bird Eats Bug",
+   "tier": "T2",
+   "claim": "acquisition Bird Eats Bug"
+  },
+  {
+   "url": "https://www.prnewswire.com/news-releases/browserstack-acquires-percy-to-add-visual-testing-to-their-platform-301090792.html",
+   "title": "BrowserStack Acquires Percy to Add Visual Testing to Their Platform",
+   "tier": "T2",
+   "claim": "acquisition Percy (visual testing, SF)"
+  },
+  {
+   "url": "https://www.prnewswire.com/in/news-releases/browserstack-acquires-requestly-a-ycombinator-startup-for-http-interception-mocking--debugging-network-requests-302447048.html",
+   "title": "BrowserStack Acquires Requestly, a YCombinator Startup",
+   "tier": "T2",
+   "claim": "acquisition Requestly"
+  },
+  {
+   "url": "https://www.moneycontrol.com/news/business/startup/saas-firm-browserstack-acquires-europe-based-bug-detection-platform-bird-eats-bug-commits-investment-of-20-mn-12808204.html",
+   "title": "SaaS firm Browserstack acquires Europe-based bug detection platform Bird Eats Bug",
+   "tier": "T2",
+   "claim": "acquisition Bird Eats Bug"
+  },
+  {
+   "url": "https://www.prnewswire.com/news-releases/browserstack-acquires-percy-to-add-visual-testing-to-their-platform-301090792.html",
+   "title": "BrowserStack Acquires Percy to Add Visual Testing to Their Platform",
+   "tier": "T2",
+   "claim": "acquisition Percy (visual testing, SF)"
+  },
+  {
+   "url": "https://www.prnewswire.com/in/news-releases/browserstack-acquires-requestly-a-ycombinator-startup-for-http-interception-mocking--debugging-network-requests-302447048.html",
+   "title": "BrowserStack Acquires Requestly, a YCombinator Startup",
+   "tier": "T2",
+   "claim": "acquisition Requestly"
+  },
+  {
+   "url": "https://www.moneycontrol.com/news/business/startup/saas-firm-browserstack-acquires-europe-based-bug-detection-platform-bird-eats-bug-commits-investment-of-20-mn-12808204.html",
+   "title": "SaaS firm Browserstack acquires Europe-based bug detection platform Bird Eats Bug",
+   "tier": "T2",
+   "claim": "acquisition Bird Eats Bug"
+  },
+  {
+   "url": "https://www.prnewswire.com/news-releases/browserstack-acquires-percy-to-add-visual-testing-to-their-platform-301090792.html",
+   "title": "BrowserStack Acquires Percy to Add Visual Testing to Their Platform",
+   "tier": "T2",
+   "claim": "acquisition Percy (visual testing, SF)"
+  },
+  {
+   "url": "https://www.prnewswire.com/in/news-releases/browserstack-acquires-requestly-a-ycombinator-startup-for-http-interception-mocking--debugging-network-requests-302447048.html",
+   "title": "BrowserStack Acquires Requestly, a YCombinator Startup",
+   "tier": "T2",
+   "claim": "acquisition Requestly"
+  },
+  {
+   "url": "https://www.moneycontrol.com/news/business/startup/saas-firm-browserstack-acquires-europe-based-bug-detection-platform-bird-eats-bug-commits-investment-of-20-mn-12808204.html",
+   "title": "SaaS firm Browserstack acquires Europe-based bug detection platform Bird Eats Bug",
+   "tier": "T2",
+   "claim": "acquisition Bird Eats Bug"
+  },
+  {
+   "url": "https://www.prnewswire.com/news-releases/browserstack-acquires-percy-to-add-visual-testing-to-their-platform-301090792.html",
+   "title": "BrowserStack Acquires Percy to Add Visual Testing to Their Platform",
+   "tier": "T2",
+   "claim": "acquisition Percy (visual testing, SF)"
+  },
+  {
+   "url": "https://www.prnewswire.com/in/news-releases/browserstack-acquires-requestly-a-ycombinator-startup-for-http-interception-mocking--debugging-network-requests-302447048.html",
+   "title": "BrowserStack Acquires Requestly, a YCombinator Startup",
+   "tier": "T2",
+   "claim": "acquisition Requestly"
+  },
+  {
+   "url": "https://www.moneycontrol.com/news/business/startup/saas-firm-browserstack-acquires-europe-based-bug-detection-platform-bird-eats-bug-commits-investment-of-20-mn-12808204.html",
+   "title": "SaaS firm Browserstack acquires Europe-based bug detection platform Bird Eats Bug",
+   "tier": "T2",
+   "claim": "acquisition Bird Eats Bug"
+  },
+  {
+   "url": "https://www.prnewswire.com/news-releases/browserstack-acquires-percy-to-add-visual-testing-to-their-platform-301090792.html",
+   "title": "BrowserStack Acquires Percy to Add Visual Testing to Their Platform",
+   "tier": "T2",
+   "claim": "acquisition Percy (visual testing, SF)"
+  },
+  {
+   "url": "https://www.prnewswire.com/in/news-releases/browserstack-acquires-requestly-a-ycombinator-startup-for-http-interception-mocking--debugging-network-requests-302447048.html",
+   "title": "BrowserStack Acquires Requestly, a YCombinator Startup",
+   "tier": "T2",
+   "claim": "acquisition Requestly"
+  },
+  {
+   "url": "https://www.moneycontrol.com/news/business/startup/saas-firm-browserstack-acquires-europe-based-bug-detection-platform-bird-eats-bug-commits-investment-of-20-mn-12808204.html",
+   "title": "SaaS firm Browserstack acquires Europe-based bug detection platform Bird Eats Bug",
+   "tier": "T2",
+   "claim": "acquisition Bird Eats Bug"
+  },
+  {
+   "url": "https://www.prnewswire.com/news-releases/browserstack-acquires-percy-to-add-visual-testing-to-their-platform-301090792.html",
+   "title": "BrowserStack Acquires Percy to Add Visual Testing to Their Platform",
+   "tier": "T2",
+   "claim": "acquisition Percy (visual testing, SF)"
+  },
+  {
+   "url": "https://www.prnewswire.com/in/news-releases/browserstack-acquires-requestly-a-ycombinator-startup-for-http-interception-mocking--debugging-network-requests-302447048.html",
+   "title": "BrowserStack Acquires Requestly, a YCombinator Startup",
+   "tier": "T2",
+   "claim": "acquisition Requestly"
+  },
+  {
+   "url": "https://www.moneycontrol.com/news/business/startup/saas-firm-browserstack-acquires-europe-based-bug-detection-platform-bird-eats-bug-commits-investment-of-20-mn-12808204.html",
+   "title": "SaaS firm Browserstack acquires Europe-based bug detection platform Bird Eats Bug",
+   "tier": "T2",
+   "claim": "acquisition Bird Eats Bug"
+  },
+  {
+   "url": "https://www.prnewswire.com/news-releases/browserstack-acquires-percy-to-add-visual-testing-to-their-platform-301090792.html",
+   "title": "BrowserStack Acquires Percy to Add Visual Testing to Their Platform",
+   "tier": "T2",
+   "claim": "acquisition Percy (visual testing, SF)"
+  },
+  {
+   "url": "https://www.prnewswire.com/in/news-releases/browserstack-acquires-requestly-a-ycombinator-startup-for-http-interception-mocking--debugging-network-requests-302447048.html",
+   "title": "BrowserStack Acquires Requestly, a YCombinator Startup",
+   "tier": "T2",
+   "claim": "acquisition Requestly"
+  },
+  {
+   "url": "https://www.moneycontrol.com/news/business/startup/saas-firm-browserstack-acquires-europe-based-bug-detection-platform-bird-eats-bug-commits-investment-of-20-mn-12808204.html",
+   "title": "SaaS firm Browserstack acquires Europe-based bug detection platform Bird Eats Bug",
+   "tier": "T2",
+   "claim": "acquisition Bird Eats Bug"
+  },
+  {
+   "url": "https://www.prnewswire.com/news-releases/browserstack-acquires-percy-to-add-visual-testing-to-their-platform-301090792.html",
+   "title": "BrowserStack Acquires Percy to Add Visual Testing to Their Platform",
+   "tier": "T2",
+   "claim": "acquisition Percy (visual testing, SF)"
+  },
+  {
+   "url": "https://www.prnewswire.com/in/news-releases/browserstack-acquires-requestly-a-ycombinator-startup-for-http-interception-mocking--debugging-network-requests-302447048.html",
+   "title": "BrowserStack Acquires Requestly, a YCombinator Startup",
+   "tier": "T2",
+   "claim": "acquisition Requestly"
+  },
+  {
+   "url": "https://www.moneycontrol.com/news/business/startup/saas-firm-browserstack-acquires-europe-based-bug-detection-platform-bird-eats-bug-commits-investment-of-20-mn-12808204.html",
+   "title": "SaaS firm Browserstack acquires Europe-based bug detection platform Bird Eats Bug",
+   "tier": "T2",
+   "claim": "acquisition Bird Eats Bug"
+  },
+  {
+   "url": "https://www.prnewswire.com/news-releases/browserstack-acquires-percy-to-add-visual-testing-to-their-platform-301090792.html",
+   "title": "BrowserStack Acquires Percy to Add Visual Testing to Their Platform",
+   "tier": "T2",
+   "claim": "acquisition Percy (visual testing, SF)"
+  },
+  {
+   "url": "https://www.prnewswire.com/in/news-releases/browserstack-acquires-requestly-a-ycombinator-startup-for-http-interception-mocking--debugging-network-requests-302447048.html",
+   "title": "BrowserStack Acquires Requestly, a YCombinator Startup",
+   "tier": "T2",
+   "claim": "acquisition Requestly"
+  },
+  {
+   "url": "https://www.moneycontrol.com/news/business/startup/saas-firm-browserstack-acquires-europe-based-bug-detection-platform-bird-eats-bug-commits-investment-of-20-mn-12808204.html",
+   "title": "SaaS firm Browserstack acquires Europe-based bug detection platform Bird Eats Bug",
+   "tier": "T2",
+   "claim": "acquisition Bird Eats Bug"
+  },
+  {
+   "url": "https://www.prnewswire.com/news-releases/browserstack-acquires-percy-to-add-visual-testing-to-their-platform-301090792.html",
+   "title": "BrowserStack Acquires Percy to Add Visual Testing to Their Platform",
+   "tier": "T2",
+   "claim": "acquisition Percy (visual testing, SF)"
+  },
+  {
+   "url": "https://www.prnewswire.com/in/news-releases/browserstack-acquires-requestly-a-ycombinator-startup-for-http-interception-mocking--debugging-network-requests-302447048.html",
+   "title": "BrowserStack Acquires Requestly, a YCombinator Startup",
+   "tier": "T2",
+   "claim": "acquisition Requestly"
+  },
+  {
+   "url": "https://www.moneycontrol.com/news/business/startup/saas-firm-browserstack-acquires-europe-based-bug-detection-platform-bird-eats-bug-commits-investment-of-20-mn-12808204.html",
+   "title": "SaaS firm Browserstack acquires Europe-based bug detection platform Bird Eats Bug",
+   "tier": "T2",
+   "claim": "acquisition Bird Eats Bug"
+  },
+  {
+   "url": "https://www.prnewswire.com/news-releases/browserstack-acquires-percy-to-add-visual-testing-to-their-platform-301090792.html",
+   "title": "BrowserStack Acquires Percy to Add Visual Testing to Their Platform",
+   "tier": "T2",
+   "claim": "acquisition Percy (visual testing, SF)"
+  },
+  {
+   "url": "https://www.prnewswire.com/in/news-releases/browserstack-acquires-requestly-a-ycombinator-startup-for-http-interception-mocking--debugging-network-requests-302447048.html",
+   "title": "BrowserStack Acquires Requestly, a YCombinator Startup",
+   "tier": "T2",
+   "claim": "acquisition Requestly"
+  },
+  {
+   "url": "https://www.moneycontrol.com/news/business/startup/saas-firm-browserstack-acquires-europe-based-bug-detection-platform-bird-eats-bug-commits-investment-of-20-mn-12808204.html",
+   "title": "SaaS firm Browserstack acquires Europe-based bug detection platform Bird Eats Bug",
+   "tier": "T2",
+   "claim": "acquisition Bird Eats Bug"
+  },
+  {
+   "url": "https://www.prnewswire.com/news-releases/browserstack-acquires-percy-to-add-visual-testing-to-their-platform-301090792.html",
+   "title": "BrowserStack Acquires Percy to Add Visual Testing to Their Platform",
+   "tier": "T2",
+   "claim": "acquisition Percy (visual testing, SF)"
+  },
+  {
+   "url": "https://www.prnewswire.com/in/news-releases/browserstack-acquires-requestly-a-ycombinator-startup-for-http-interception-mocking--debugging-network-requests-302447048.html",
+   "title": "BrowserStack Acquires Requestly, a YCombinator Startup",
+   "tier": "T2",
+   "claim": "acquisition Requestly"
+  },
+  {
+   "url": "https://www.moneycontrol.com/news/business/startup/saas-firm-browserstack-acquires-europe-based-bug-detection-platform-bird-eats-bug-commits-investment-of-20-mn-12808204.html",
+   "title": "SaaS firm Browserstack acquires Europe-based bug detection platform Bird Eats Bug",
+   "tier": "T2",
+   "claim": "acquisition Bird Eats Bug"
+  },
+  {
+   "url": "https://www.prnewswire.com/news-releases/browserstack-acquires-percy-to-add-visual-testing-to-their-platform-301090792.html",
+   "title": "BrowserStack Acquires Percy to Add Visual Testing to Their Platform",
+   "tier": "T2",
+   "claim": "acquisition Percy (visual testing, SF)"
+  },
+  {
+   "url": "https://www.prnewswire.com/in/news-releases/browserstack-acquires-requestly-a-ycombinator-startup-for-http-interception-mocking--debugging-network-requests-302447048.html",
+   "title": "BrowserStack Acquires Requestly, a YCombinator Startup",
+   "tier": "T2",
+   "claim": "acquisition Requestly"
+  },
+  {
+   "url": "https://www.moneycontrol.com/news/business/startup/saas-firm-browserstack-acquires-europe-based-bug-detection-platform-bird-eats-bug-commits-investment-of-20-mn-12808204.html",
+   "title": "SaaS firm Browserstack acquires Europe-based bug detection platform Bird Eats Bug",
+   "tier": "T2",
+   "claim": "acquisition Bird Eats Bug"
+  },
+  {
+   "url": "https://www.prnewswire.com/news-releases/browserstack-acquires-percy-to-add-visual-testing-to-their-platform-301090792.html",
+   "title": "BrowserStack Acquires Percy to Add Visual Testing to Their Platform",
+   "tier": "T2",
+   "claim": "acquisition Percy (visual testing, SF)"
+  },
+  {
+   "url": "https://www.prnewswire.com/in/news-releases/browserstack-acquires-requestly-a-ycombinator-startup-for-http-interception-mocking--debugging-network-requests-302447048.html",
+   "title": "BrowserStack Acquires Requestly, a YCombinator Startup",
+   "tier": "T2",
+   "claim": "acquisition Requestly"
+  },
+  {
+   "url": "https://www.moneycontrol.com/news/business/startup/saas-firm-browserstack-acquires-europe-based-bug-detection-platform-bird-eats-bug-commits-investment-of-20-mn-12808204.html",
+   "title": "SaaS firm Browserstack acquires Europe-based bug detection platform Bird Eats Bug",
+   "tier": "T2",
+   "claim": "acquisition Bird Eats Bug"
+  },
+  {
+   "url": "https://www.prnewswire.com/news-releases/browserstack-acquires-percy-to-add-visual-testing-to-their-platform-301090792.html",
+   "title": "BrowserStack Acquires Percy to Add Visual Testing to Their Platform",
+   "tier": "T2",
+   "claim": "acquisition Percy (visual testing, SF)"
+  },
+  {
+   "url": "https://www.prnewswire.com/in/news-releases/browserstack-acquires-requestly-a-ycombinator-startup-for-http-interception-mocking--debugging-network-requests-302447048.html",
+   "title": "BrowserStack Acquires Requestly, a YCombinator Startup",
+   "tier": "T2",
+   "claim": "acquisition Requestly"
+  },
+  {
+   "url": "https://www.moneycontrol.com/news/business/startup/saas-firm-browserstack-acquires-europe-based-bug-detection-platform-bird-eats-bug-commits-investment-of-20-mn-12808204.html",
+   "title": "SaaS firm Browserstack acquires Europe-based bug detection platform Bird Eats Bug",
+   "tier": "T2",
+   "claim": "acquisition Bird Eats Bug"
+  },
+  {
+   "url": "https://www.prnewswire.com/news-releases/browserstack-acquires-percy-to-add-visual-testing-to-their-platform-301090792.html",
+   "title": "BrowserStack Acquires Percy to Add Visual Testing to Their Platform",
+   "tier": "T2",
+   "claim": "acquisition Percy (visual testing, SF)"
+  },
+  {
+   "url": "https://www.prnewswire.com/in/news-releases/browserstack-acquires-requestly-a-ycombinator-startup-for-http-interception-mocking--debugging-network-requests-302447048.html",
+   "title": "BrowserStack Acquires Requestly, a YCombinator Startup",
+   "tier": "T2",
+   "claim": "acquisition Requestly"
+  },
+  {
+   "url": "https://www.moneycontrol.com/news/business/startup/saas-firm-browserstack-acquires-europe-based-bug-detection-platform-bird-eats-bug-commits-investment-of-20-mn-12808204.html",
+   "title": "SaaS firm Browserstack acquires Europe-based bug detection platform Bird Eats Bug",
+   "tier": "T2",
+   "claim": "acquisition Bird Eats Bug"
+  },
+  {
+   "url": "https://www.prnewswire.com/news-releases/browserstack-acquires-percy-to-add-visual-testing-to-their-platform-301090792.html",
+   "title": "BrowserStack Acquires Percy to Add Visual Testing to Their Platform",
+   "tier": "T2",
+   "claim": "acquisition Percy (visual testing, SF)"
+  },
+  {
+   "url": "https://www.prnewswire.com/in/news-releases/browserstack-acquires-requestly-a-ycombinator-startup-for-http-interception-mocking--debugging-network-requests-302447048.html",
+   "title": "BrowserStack Acquires Requestly, a YCombinator Startup",
+   "tier": "T2",
+   "claim": "acquisition Requestly"
+  },
+  {
+   "url": "https://www.moneycontrol.com/news/business/startup/saas-firm-browserstack-acquires-europe-based-bug-detection-platform-bird-eats-bug-commits-investment-of-20-mn-12808204.html",
+   "title": "SaaS firm Browserstack acquires Europe-based bug detection platform Bird Eats Bug",
+   "tier": "T2",
+   "claim": "acquisition Bird Eats Bug"
+  },
+  {
+   "url": "https://www.prnewswire.com/news-releases/browserstack-acquires-percy-to-add-visual-testing-to-their-platform-301090792.html",
+   "title": "BrowserStack Acquires Percy to Add Visual Testing to Their Platform",
+   "tier": "T2",
+   "claim": "acquisition Percy (visual testing, SF)"
+  },
+  {
+   "url": "https://www.prnewswire.com/in/news-releases/browserstack-acquires-requestly-a-ycombinator-startup-for-http-interception-mocking--debugging-network-requests-302447048.html",
+   "title": "BrowserStack Acquires Requestly, a YCombinator Startup",
+   "tier": "T2",
+   "claim": "acquisition Requestly"
+  },
+  {
+   "url": "https://www.moneycontrol.com/news/business/startup/saas-firm-browserstack-acquires-europe-based-bug-detection-platform-bird-eats-bug-commits-investment-of-20-mn-12808204.html",
+   "title": "SaaS firm Browserstack acquires Europe-based bug detection platform Bird Eats Bug",
+   "tier": "T2",
+   "claim": "acquisition Bird Eats Bug"
+  },
+  {
+   "url": "https://www.prnewswire.com/news-releases/browserstack-acquires-percy-to-add-visual-testing-to-their-platform-301090792.html",
+   "title": "BrowserStack Acquires Percy to Add Visual Testing to Their Platform",
+   "tier": "T2",
+   "claim": "acquisition Percy (visual testing, SF)"
+  },
+  {
+   "url": "https://www.prnewswire.com/in/news-releases/browserstack-acquires-requestly-a-ycombinator-startup-for-http-interception-mocking--debugging-network-requests-302447048.html",
+   "title": "BrowserStack Acquires Requestly, a YCombinator Startup",
+   "tier": "T2",
+   "claim": "acquisition Requestly"
+  },
+  {
+   "url": "https://www.moneycontrol.com/news/business/startup/saas-firm-browserstack-acquires-europe-based-bug-detection-platform-bird-eats-bug-commits-investment-of-20-mn-12808204.html",
+   "title": "SaaS firm Browserstack acquires Europe-based bug detection platform Bird Eats Bug",
+   "tier": "T2",
+   "claim": "acquisition Bird Eats Bug"
+  },
+  {
+   "url": "https://www.prnewswire.com/news-releases/browserstack-acquires-percy-to-add-visual-testing-to-their-platform-301090792.html",
+   "title": "BrowserStack Acquires Percy to Add Visual Testing to Their Platform",
+   "tier": "T2",
+   "claim": "acquisition Percy (visual testing, SF)"
+  },
+  {
+   "url": "https://www.prnewswire.com/in/news-releases/browserstack-acquires-requestly-a-ycombinator-startup-for-http-interception-mocking--debugging-network-requests-302447048.html",
+   "title": "BrowserStack Acquires Requestly, a YCombinator Startup",
+   "tier": "T2",
+   "claim": "acquisition Requestly"
+  },
+  {
+   "url": "https://www.moneycontrol.com/news/business/startup/saas-firm-browserstack-acquires-europe-based-bug-detection-platform-bird-eats-bug-commits-investment-of-20-mn-12808204.html",
+   "title": "SaaS firm Browserstack acquires Europe-based bug detection platform Bird Eats Bug",
+   "tier": "T2",
+   "claim": "acquisition Bird Eats Bug"
+  },
+  {
+   "url": "https://www.prnewswire.com/news-releases/browserstack-acquires-percy-to-add-visual-testing-to-their-platform-301090792.html",
+   "title": "BrowserStack Acquires Percy to Add Visual Testing to Their Platform",
+   "tier": "T2",
+   "claim": "acquisition Percy (visual testing, SF)"
+  },
+  {
+   "url": "https://www.prnewswire.com/in/news-releases/browserstack-acquires-requestly-a-ycombinator-startup-for-http-interception-mocking--debugging-network-requests-302447048.html",
+   "title": "BrowserStack Acquires Requestly, a YCombinator Startup",
+   "tier": "T2",
+   "claim": "acquisition Requestly"
+  },
+  {
+   "url": "https://www.moneycontrol.com/news/business/startup/saas-firm-browserstack-acquires-europe-based-bug-detection-platform-bird-eats-bug-commits-investment-of-20-mn-12808204.html",
+   "title": "SaaS firm Browserstack acquires Europe-based bug detection platform Bird Eats Bug",
+   "tier": "T2",
+   "claim": "acquisition Bird Eats Bug"
+  },
+  {
+   "url": "https://www.prnewswire.com/news-releases/browserstack-acquires-percy-to-add-visual-testing-to-their-platform-301090792.html",
+   "title": "BrowserStack Acquires Percy to Add Visual Testing to Their Platform",
+   "tier": "T2",
+   "claim": "acquisition Percy (visual testing, SF)"
+  },
+  {
+   "url": "https://www.prnewswire.com/in/news-releases/browserstack-acquires-requestly-a-ycombinator-startup-for-http-interception-mocking--debugging-network-requests-302447048.html",
+   "title": "BrowserStack Acquires Requestly, a YCombinator Startup",
+   "tier": "T2",
+   "claim": "acquisition Requestly"
+  },
+  {
+   "url": "https://www.moneycontrol.com/news/business/startup/saas-firm-browserstack-acquires-europe-based-bug-detection-platform-bird-eats-bug-commits-investment-of-20-mn-12808204.html",
+   "title": "SaaS firm Browserstack acquires Europe-based bug detection platform Bird Eats Bug",
+   "tier": "T2",
+   "claim": "acquisition Bird Eats Bug"
+  },
+  {
+   "url": "https://www.prnewswire.com/news-releases/browserstack-acquires-percy-to-add-visual-testing-to-their-platform-301090792.html",
+   "title": "BrowserStack Acquires Percy to Add Visual Testing to Their Platform",
+   "tier": "T2",
+   "claim": "acquisition Percy (visual testing, SF)"
+  },
+  {
+   "url": "https://www.prnewswire.com/in/news-releases/browserstack-acquires-requestly-a-ycombinator-startup-for-http-interception-mocking--debugging-network-requests-302447048.html",
+   "title": "BrowserStack Acquires Requestly, a YCombinator Startup",
+   "tier": "T2",
+   "claim": "acquisition Requestly"
+  },
+  {
+   "url": "https://www.moneycontrol.com/news/business/startup/saas-firm-browserstack-acquires-europe-based-bug-detection-platform-bird-eats-bug-commits-investment-of-20-mn-12808204.html",
+   "title": "SaaS firm Browserstack acquires Europe-based bug detection platform Bird Eats Bug",
+   "tier": "T2",
+   "claim": "acquisition Bird Eats Bug"
+  },
+  {
+   "url": "https://www.prnewswire.com/news-releases/browserstack-acquires-percy-to-add-visual-testing-to-their-platform-301090792.html",
+   "title": "BrowserStack Acquires Percy to Add Visual Testing to Their Platform",
+   "tier": "T2",
+   "claim": "acquisition Percy (visual testing, SF)"
+  },
+  {
+   "url": "https://www.prnewswire.com/in/news-releases/browserstack-acquires-requestly-a-ycombinator-startup-for-http-interception-mocking--debugging-network-requests-302447048.html",
+   "title": "BrowserStack Acquires Requestly, a YCombinator Startup",
+   "tier": "T2",
+   "claim": "acquisition Requestly"
+  },
+  {
+   "url": "https://www.moneycontrol.com/news/business/startup/saas-firm-browserstack-acquires-europe-based-bug-detection-platform-bird-eats-bug-commits-investment-of-20-mn-12808204.html",
+   "title": "SaaS firm Browserstack acquires Europe-based bug detection platform Bird Eats Bug",
+   "tier": "T2",
+   "claim": "acquisition Bird Eats Bug"
+  },
+  {
+   "url": "https://www.prnewswire.com/news-releases/browserstack-acquires-percy-to-add-visual-testing-to-their-platform-301090792.html",
+   "title": "BrowserStack Acquires Percy to Add Visual Testing to Their Platform",
+   "tier": "T2",
+   "claim": "acquisition Percy (visual testing, SF)"
+  },
+  {
+   "url": "https://www.prnewswire.com/in/news-releases/browserstack-acquires-requestly-a-ycombinator-startup-for-http-interception-mocking--debugging-network-requests-302447048.html",
+   "title": "BrowserStack Acquires Requestly, a YCombinator Startup",
+   "tier": "T2",
+   "claim": "acquisition Requestly"
+  },
+  {
+   "url": "https://www.moneycontrol.com/news/business/startup/saas-firm-browserstack-acquires-europe-based-bug-detection-platform-bird-eats-bug-commits-investment-of-20-mn-12808204.html",
+   "title": "SaaS firm Browserstack acquires Europe-based bug detection platform Bird Eats Bug",
+   "tier": "T2",
+   "claim": "acquisition Bird Eats Bug"
+  },
+  {
+   "url": "https://www.prnewswire.com/news-releases/browserstack-acquires-percy-to-add-visual-testing-to-their-platform-301090792.html",
+   "title": "BrowserStack Acquires Percy to Add Visual Testing to Their Platform",
+   "tier": "T2",
+   "claim": "acquisition Percy (visual testing, SF)"
+  },
+  {
+   "url": "https://www.prnewswire.com/in/news-releases/browserstack-acquires-requestly-a-ycombinator-startup-for-http-interception-mocking--debugging-network-requests-302447048.html",
+   "title": "BrowserStack Acquires Requestly, a YCombinator Startup",
+   "tier": "T2",
+   "claim": "acquisition Requestly"
+  },
+  {
+   "url": "https://www.moneycontrol.com/news/business/startup/saas-firm-browserstack-acquires-europe-based-bug-detection-platform-bird-eats-bug-commits-investment-of-20-mn-12808204.html",
+   "title": "SaaS firm Browserstack acquires Europe-based bug detection platform Bird Eats Bug",
+   "tier": "T2",
+   "claim": "acquisition Bird Eats Bug"
+  },
+  {
+   "url": "https://www.prnewswire.com/news-releases/browserstack-acquires-percy-to-add-visual-testing-to-their-platform-301090792.html",
+   "title": "BrowserStack Acquires Percy to Add Visual Testing to Their Platform",
+   "tier": "T2",
+   "claim": "acquisition Percy (visual testing, SF)"
+  },
+  {
+   "url": "https://www.prnewswire.com/in/news-releases/browserstack-acquires-requestly-a-ycombinator-startup-for-http-interception-mocking--debugging-network-requests-302447048.html",
+   "title": "BrowserStack Acquires Requestly, a YCombinator Startup",
+   "tier": "T2",
+   "claim": "acquisition Requestly"
+  },
+  {
+   "url": "https://www.moneycontrol.com/news/business/startup/saas-firm-browserstack-acquires-europe-based-bug-detection-platform-bird-eats-bug-commits-investment-of-20-mn-12808204.html",
+   "title": "SaaS firm Browserstack acquires Europe-based bug detection platform Bird Eats Bug",
+   "tier": "T2",
+   "claim": "acquisition Bird Eats Bug"
+  },
+  {
+   "url": "https://www.prnewswire.com/news-releases/browserstack-acquires-percy-to-add-visual-testing-to-their-platform-301090792.html",
+   "title": "BrowserStack Acquires Percy to Add Visual Testing to Their Platform",
+   "tier": "T2",
+   "claim": "acquisition Percy (visual testing, SF)"
+  },
+  {
+   "url": "https://www.prnewswire.com/in/news-releases/browserstack-acquires-requestly-a-ycombinator-startup-for-http-interception-mocking--debugging-network-requests-302447048.html",
+   "title": "BrowserStack Acquires Requestly, a YCombinator Startup",
+   "tier": "T2",
+   "claim": "acquisition Requestly"
+  },
+  {
+   "url": "https://www.moneycontrol.com/news/business/startup/saas-firm-browserstack-acquires-europe-based-bug-detection-platform-bird-eats-bug-commits-investment-of-20-mn-12808204.html",
+   "title": "SaaS firm Browserstack acquires Europe-based bug detection platform Bird Eats Bug",
+   "tier": "T2",
+   "claim": "acquisition Bird Eats Bug"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/BrowserStack",
+   "title": "",
+   "fields": "PEOPLE",
+   "confidence": "HIGH"
+  },
+  {
+   "url": "https://sacra.com/c/browserstack/",
+   "title": "",
+   "fields": "company",
+   "confidence": "MEDIUM"
+  },
+  {
+   "url": "https://platform.tracxn.com/a/d/company/52c2636de4b0dafe9baa6048/browserstack",
+   "title": "",
+   "fields": "company",
+   "confidence": "MEDIUM"
+  },
+  {
+   "url": "https://inc42.com/company/browserstack",
+   "title": "",
+   "fields": "company",
+   "confidence": "MEDIUM"
+  },
+  {
+   "url": "http://browserstack.com/company",
+   "title": "",
+   "fields": "company",
+   "confidence": "HIGH"
+  },
+  {
+   "url": "https://www.browserstack.com/customers",
+   "title": "",
+   "fields": "company",
+   "confidence": "HIGH"
+  },
+  {
+   "url": "https://www.prnewswire.com/news-releases/browserstack-acquires-percy-to-add-visual-testing-to-their-platform-301090792.html",
+   "title": "BrowserStack Acquires Percy to Add Visual Testing to Their Platform",
+   "tier": "T2",
+   "claim": "acquisition Percy (visual testing, SF)"
+  },
+  {
+   "url": "https://www.prnewswire.com/in/news-releases/browserstack-acquires-requestly-a-ycombinator-startup-for-http-interception-mocking--debugging-network-requests-302447048.html",
+   "title": "BrowserStack Acquires Requestly, a YCombinator Startup",
+   "tier": "T2",
+   "claim": "acquisition Requestly"
+  },
+  {
+   "url": "https://www.moneycontrol.com/news/business/startup/saas-firm-browserstack-acquires-europe-based-bug-detection-platform-bird-eats-bug-commits-investment-of-20-mn-12808204.html",
+   "title": "SaaS firm Browserstack acquires Europe-based bug detection platform Bird Eats Bug",
+   "tier": "T2",
+   "claim": "acquisition Bird Eats Bug"
+  },
+  {
+   "url": "https://www.prnewswire.com/news-releases/browserstack-acquires-percy-to-add-visual-testing-to-their-platform-301090792.html",
+   "title": "BrowserStack Acquires Percy to Add Visual Testing to Their Platform",
+   "tier": "T2",
+   "claim": "acquisition Percy (visual testing, SF)"
+  },
+  {
+   "url": "https://www.prnewswire.com/in/news-releases/browserstack-acquires-requestly-a-ycombinator-startup-for-http-interception-mocking--debugging-network-requests-302447048.html",
+   "title": "BrowserStack Acquires Requestly, a YCombinator Startup",
+   "tier": "T2",
+   "claim": "acquisition Requestly"
+  },
+  {
+   "url": "https://www.moneycontrol.com/news/business/startup/saas-firm-browserstack-acquires-europe-based-bug-detection-platform-bird-eats-bug-commits-investment-of-20-mn-12808204.html",
+   "title": "SaaS firm Browserstack acquires Europe-based bug detection platform Bird Eats Bug",
+   "tier": "T2",
+   "claim": "acquisition Bird Eats Bug"
+  },
+  {
+   "url": "https://www.prnewswire.com/news-releases/browserstack-acquires-percy-to-add-visual-testing-to-their-platform-301090792.html",
+   "title": "BrowserStack Acquires Percy to Add Visual Testing to Their Platform",
+   "tier": "T2",
+   "claim": "acquisition Percy (visual testing, SF)"
+  },
+  {
+   "url": "https://www.prnewswire.com/in/news-releases/browserstack-acquires-requestly-a-ycombinator-startup-for-http-interception-mocking--debugging-network-requests-302447048.html",
+   "title": "BrowserStack Acquires Requestly, a YCombinator Startup",
+   "tier": "T2",
+   "claim": "acquisition Requestly"
+  },
+  {
+   "url": "https://www.moneycontrol.com/news/business/startup/saas-firm-browserstack-acquires-europe-based-bug-detection-platform-bird-eats-bug-commits-investment-of-20-mn-12808204.html",
+   "title": "SaaS firm Browserstack acquires Europe-based bug detection platform Bird Eats Bug",
+   "tier": "T2",
+   "claim": "acquisition Bird Eats Bug"
+  },
+  {
+   "url": "https://www.prnewswire.com/news-releases/browserstack-acquires-percy-to-add-visual-testing-to-their-platform-301090792.html",
+   "title": "BrowserStack Acquires Percy to Add Visual Testing to Their Platform",
+   "tier": "T2",
+   "claim": "acquisition Percy (visual testing, SF)"
+  },
+  {
+   "url": "https://www.prnewswire.com/in/news-releases/browserstack-acquires-requestly-a-ycombinator-startup-for-http-interception-mocking--debugging-network-requests-302447048.html",
+   "title": "BrowserStack Acquires Requestly, a YCombinator Startup",
+   "tier": "T2",
+   "claim": "acquisition Requestly"
+  },
+  {
+   "url": "https://www.moneycontrol.com/news/business/startup/saas-firm-browserstack-acquires-europe-based-bug-detection-platform-bird-eats-bug-commits-investment-of-20-mn-12808204.html",
+   "title": "SaaS firm Browserstack acquires Europe-based bug detection platform Bird Eats Bug",
+   "tier": "T2",
+   "claim": "acquisition Bird Eats Bug"
+  },
+  {
+   "url": "https://www.prnewswire.com/news-releases/browserstack-acquires-percy-to-add-visual-testing-to-their-platform-301090792.html",
+   "title": "BrowserStack Acquires Percy to Add Visual Testing to Their Platform",
+   "tier": "T2",
+   "claim": "acquisition Percy (visual testing, SF)"
+  },
+  {
+   "url": "https://www.prnewswire.com/in/news-releases/browserstack-acquires-requestly-a-ycombinator-startup-for-http-interception-mocking--debugging-network-requests-302447048.html",
+   "title": "BrowserStack Acquires Requestly, a YCombinator Startup",
+   "tier": "T2",
+   "claim": "acquisition Requestly"
+  },
+  {
+   "url": "https://www.moneycontrol.com/news/business/startup/saas-firm-browserstack-acquires-europe-based-bug-detection-platform-bird-eats-bug-commits-investment-of-20-mn-12808204.html",
+   "title": "SaaS firm Browserstack acquires Europe-based bug detection platform Bird Eats Bug",
+   "tier": "T2",
+   "claim": "acquisition Bird Eats Bug"
+  },
+  {
+   "url": "https://www.prnewswire.com/news-releases/browserstack-acquires-percy-to-add-visual-testing-to-their-platform-301090792.html",
+   "title": "BrowserStack Acquires Percy to Add Visual Testing to Their Platform",
+   "tier": "T2",
+   "claim": "acquisition Percy (visual testing, SF)"
+  },
+  {
+   "url": "https://www.prnewswire.com/in/news-releases/browserstack-acquires-requestly-a-ycombinator-startup-for-http-interception-mocking--debugging-network-requests-302447048.html",
+   "title": "BrowserStack Acquires Requestly, a YCombinator Startup",
+   "tier": "T2",
+   "claim": "acquisition Requestly"
+  },
+  {
+   "url": "https://www.moneycontrol.com/news/business/startup/saas-firm-browserstack-acquires-europe-based-bug-detection-platform-bird-eats-bug-commits-investment-of-20-mn-12808204.html",
+   "title": "SaaS firm Browserstack acquires Europe-based bug detection platform Bird Eats Bug",
+   "tier": "T2",
+   "claim": "acquisition Bird Eats Bug"
+  },
+  {
+   "url": "https://www.prnewswire.com/news-releases/browserstack-acquires-percy-to-add-visual-testing-to-their-platform-301090792.html",
+   "title": "BrowserStack Acquires Percy to Add Visual Testing to Their Platform",
+   "tier": "T2",
+   "claim": "acquisition Percy (visual testing, SF)"
+  },
+  {
+   "url": "https://www.prnewswire.com/in/news-releases/browserstack-acquires-requestly-a-ycombinator-startup-for-http-interception-mocking--debugging-network-requests-302447048.html",
+   "title": "BrowserStack Acquires Requestly, a YCombinator Startup",
+   "tier": "T2",
+   "claim": "acquisition Requestly"
+  },
+  {
+   "url": "https://www.moneycontrol.com/news/business/startup/saas-firm-browserstack-acquires-europe-based-bug-detection-platform-bird-eats-bug-commits-investment-of-20-mn-12808204.html",
+   "title": "SaaS firm Browserstack acquires Europe-based bug detection platform Bird Eats Bug",
+   "tier": "T2",
+   "claim": "acquisition Bird Eats Bug"
+  },
+  {
+   "url": "https://www.prnewswire.com/news-releases/browserstack-acquires-percy-to-add-visual-testing-to-their-platform-301090792.html",
+   "title": "BrowserStack Acquires Percy to Add Visual Testing to Their Platform",
+   "tier": "T2",
+   "claim": "acquisition Percy (visual testing, SF)"
+  },
+  {
+   "url": "https://www.prnewswire.com/in/news-releases/browserstack-acquires-requestly-a-ycombinator-startup-for-http-interception-mocking--debugging-network-requests-302447048.html",
+   "title": "BrowserStack Acquires Requestly, a YCombinator Startup",
+   "tier": "T2",
+   "claim": "acquisition Requestly"
+  },
+  {
+   "url": "https://www.moneycontrol.com/news/business/startup/saas-firm-browserstack-acquires-europe-based-bug-detection-platform-bird-eats-bug-commits-investment-of-20-mn-12808204.html",
+   "title": "SaaS firm Browserstack acquires Europe-based bug detection platform Bird Eats Bug",
+   "tier": "T2",
+   "claim": "acquisition Bird Eats Bug"
+  },
+  {
+   "url": "https://www.prnewswire.com/news-releases/browserstack-acquires-percy-to-add-visual-testing-to-their-platform-301090792.html",
+   "title": "BrowserStack Acquires Percy to Add Visual Testing to Their Platform",
+   "tier": "T2",
+   "claim": "acquisition Percy (visual testing, SF)"
+  },
+  {
+   "url": "https://www.prnewswire.com/in/news-releases/browserstack-acquires-requestly-a-ycombinator-startup-for-http-interception-mocking--debugging-network-requests-302447048.html",
+   "title": "BrowserStack Acquires Requestly, a YCombinator Startup",
+   "tier": "T2",
+   "claim": "acquisition Requestly"
+  },
+  {
+   "url": "https://www.moneycontrol.com/news/business/startup/saas-firm-browserstack-acquires-europe-based-bug-detection-platform-bird-eats-bug-commits-investment-of-20-mn-12808204.html",
+   "title": "SaaS firm Browserstack acquires Europe-based bug detection platform Bird Eats Bug",
+   "tier": "T2",
+   "claim": "acquisition Bird Eats Bug"
+  },
+  {
+   "url": "https://www.prnewswire.com/news-releases/browserstack-acquires-percy-to-add-visual-testing-to-their-platform-301090792.html",
+   "title": "BrowserStack Acquires Percy to Add Visual Testing to Their Platform",
+   "tier": "T2",
+   "claim": "acquisition Percy (visual testing, SF)"
+  },
+  {
+   "url": "https://www.prnewswire.com/in/news-releases/browserstack-acquires-requestly-a-ycombinator-startup-for-http-interception-mocking--debugging-network-requests-302447048.html",
+   "title": "BrowserStack Acquires Requestly, a YCombinator Startup",
+   "tier": "T2",
+   "claim": "acquisition Requestly"
+  },
+  {
+   "url": "https://www.moneycontrol.com/news/business/startup/saas-firm-browserstack-acquires-europe-based-bug-detection-platform-bird-eats-bug-commits-investment-of-20-mn-12808204.html",
+   "title": "SaaS firm Browserstack acquires Europe-based bug detection platform Bird Eats Bug",
+   "tier": "T2",
+   "claim": "acquisition Bird Eats Bug"
+  },
+  {
+   "url": "https://www.prnewswire.com/news-releases/browserstack-acquires-percy-to-add-visual-testing-to-their-platform-301090792.html",
+   "title": "BrowserStack Acquires Percy to Add Visual Testing to Their Platform",
+   "tier": "T2",
+   "claim": "acquisition Percy (visual testing, SF)"
+  },
+  {
+   "url": "https://www.prnewswire.com/in/news-releases/browserstack-acquires-requestly-a-ycombinator-startup-for-http-interception-mocking--debugging-network-requests-302447048.html",
+   "title": "BrowserStack Acquires Requestly, a YCombinator Startup",
+   "tier": "T2",
+   "claim": "acquisition Requestly"
+  },
+  {
+   "url": "https://www.moneycontrol.com/news/business/startup/saas-firm-browserstack-acquires-europe-based-bug-detection-platform-bird-eats-bug-commits-investment-of-20-mn-12808204.html",
+   "title": "SaaS firm Browserstack acquires Europe-based bug detection platform Bird Eats Bug",
+   "tier": "T2",
+   "claim": "acquisition Bird Eats Bug"
+  },
+  {
+   "url": "https://www.prnewswire.com/news-releases/browserstack-acquires-percy-to-add-visual-testing-to-their-platform-301090792.html",
+   "title": "BrowserStack Acquires Percy to Add Visual Testing to Their Platform",
+   "tier": "T2",
+   "claim": "acquisition Percy (visual testing, SF)"
+  },
+  {
+   "url": "https://www.prnewswire.com/in/news-releases/browserstack-acquires-requestly-a-ycombinator-startup-for-http-interception-mocking--debugging-network-requests-302447048.html",
+   "title": "BrowserStack Acquires Requestly, a YCombinator Startup",
+   "tier": "T2",
+   "claim": "acquisition Requestly"
+  },
+  {
+   "url": "https://www.moneycontrol.com/news/business/startup/saas-firm-browserstack-acquires-europe-based-bug-detection-platform-bird-eats-bug-commits-investment-of-20-mn-12808204.html",
+   "title": "SaaS firm Browserstack acquires Europe-based bug detection platform Bird Eats Bug",
+   "tier": "T2",
+   "claim": "acquisition Bird Eats Bug"
+  },
+  {
+   "url": "https://www.prnewswire.com/news-releases/browserstack-acquires-percy-to-add-visual-testing-to-their-platform-301090792.html",
+   "title": "BrowserStack Acquires Percy to Add Visual Testing to Their Platform",
+   "tier": "T2",
+   "claim": "acquisition Percy (visual testing, SF)"
+  },
+  {
+   "url": "https://www.prnewswire.com/in/news-releases/browserstack-acquires-requestly-a-ycombinator-startup-for-http-interception-mocking--debugging-network-requests-302447048.html",
+   "title": "BrowserStack Acquires Requestly, a YCombinator Startup",
+   "tier": "T2",
+   "claim": "acquisition Requestly"
+  },
+  {
+   "url": "https://www.moneycontrol.com/news/business/startup/saas-firm-browserstack-acquires-europe-based-bug-detection-platform-bird-eats-bug-commits-investment-of-20-mn-12808204.html",
+   "title": "SaaS firm Browserstack acquires Europe-based bug detection platform Bird Eats Bug",
+   "tier": "T2",
+   "claim": "acquisition Bird Eats Bug"
+  },
+  {
+   "url": "https://www.prnewswire.com/news-releases/browserstack-acquires-percy-to-add-visual-testing-to-their-platform-301090792.html",
+   "title": "BrowserStack Acquires Percy to Add Visual Testing to Their Platform",
+   "tier": "T2",
+   "claim": "acquisition Percy (visual testing, SF)"
+  },
+  {
+   "url": "https://www.prnewswire.com/in/news-releases/browserstack-acquires-requestly-a-ycombinator-startup-for-http-interception-mocking--debugging-network-requests-302447048.html",
+   "title": "BrowserStack Acquires Requestly, a YCombinator Startup",
+   "tier": "T2",
+   "claim": "acquisition Requestly"
+  },
+  {
+   "url": "https://www.moneycontrol.com/news/business/startup/saas-firm-browserstack-acquires-europe-based-bug-detection-platform-bird-eats-bug-commits-investment-of-20-mn-12808204.html",
+   "title": "SaaS firm Browserstack acquires Europe-based bug detection platform Bird Eats Bug",
+   "tier": "T2",
+   "claim": "acquisition Bird Eats Bug"
+  },
+  {
+   "url": "https://www.prnewswire.com/news-releases/browserstack-acquires-percy-to-add-visual-testing-to-their-platform-301090792.html",
+   "title": "BrowserStack Acquires Percy to Add Visual Testing to Their Platform",
+   "tier": "T2",
+   "claim": "acquisition Percy (visual testing, SF)"
+  },
+  {
+   "url": "https://www.prnewswire.com/in/news-releases/browserstack-acquires-requestly-a-ycombinator-startup-for-http-interception-mocking--debugging-network-requests-302447048.html",
+   "title": "BrowserStack Acquires Requestly, a YCombinator Startup",
+   "tier": "T2",
+   "claim": "acquisition Requestly"
+  },
+  {
+   "url": "https://www.moneycontrol.com/news/business/startup/saas-firm-browserstack-acquires-europe-based-bug-detection-platform-bird-eats-bug-commits-investment-of-20-mn-12808204.html",
+   "title": "SaaS firm Browserstack acquires Europe-based bug detection platform Bird Eats Bug",
+   "tier": "T2",
+   "claim": "acquisition Bird Eats Bug"
+  },
+  {
+   "url": "https://www.prnewswire.com/news-releases/browserstack-acquires-percy-to-add-visual-testing-to-their-platform-301090792.html",
+   "title": "BrowserStack Acquires Percy to Add Visual Testing to Their Platform",
+   "tier": "T2",
+   "claim": "acquisition Percy (visual testing, SF)"
+  },
+  {
+   "url": "https://www.prnewswire.com/in/news-releases/browserstack-acquires-requestly-a-ycombinator-startup-for-http-interception-mocking--debugging-network-requests-302447048.html",
+   "title": "BrowserStack Acquires Requestly, a YCombinator Startup",
+   "tier": "T2",
+   "claim": "acquisition Requestly"
+  },
+  {
+   "url": "https://www.moneycontrol.com/news/business/startup/saas-firm-browserstack-acquires-europe-based-bug-detection-platform-bird-eats-bug-commits-investment-of-20-mn-12808204.html",
+   "title": "SaaS firm Browserstack acquires Europe-based bug detection platform Bird Eats Bug",
+   "tier": "T2",
+   "claim": "acquisition Bird Eats Bug"
+  },
+  {
+   "url": "https://www.prnewswire.com/news-releases/browserstack-acquires-percy-to-add-visual-testing-to-their-platform-301090792.html",
+   "title": "BrowserStack Acquires Percy to Add Visual Testing to Their Platform",
+   "tier": "T2",
+   "claim": "acquisition Percy (visual testing, SF)"
+  },
+  {
+   "url": "https://www.prnewswire.com/in/news-releases/browserstack-acquires-requestly-a-ycombinator-startup-for-http-interception-mocking--debugging-network-requests-302447048.html",
+   "title": "BrowserStack Acquires Requestly, a YCombinator Startup",
+   "tier": "T2",
+   "claim": "acquisition Requestly"
+  },
+  {
+   "url": "https://www.moneycontrol.com/news/business/startup/saas-firm-browserstack-acquires-europe-based-bug-detection-platform-bird-eats-bug-commits-investment-of-20-mn-12808204.html",
+   "title": "SaaS firm Browserstack acquires Europe-based bug detection platform Bird Eats Bug",
+   "tier": "T2",
+   "claim": "acquisition Bird Eats Bug"
+  },
+  {
+   "url": "https://www.prnewswire.com/news-releases/browserstack-acquires-percy-to-add-visual-testing-to-their-platform-301090792.html",
+   "title": "BrowserStack Acquires Percy to Add Visual Testing to Their Platform",
+   "tier": "T2",
+   "claim": "acquisition Percy (visual testing, SF)"
+  },
+  {
+   "url": "https://www.prnewswire.com/in/news-releases/browserstack-acquires-requestly-a-ycombinator-startup-for-http-interception-mocking--debugging-network-requests-302447048.html",
+   "title": "BrowserStack Acquires Requestly, a YCombinator Startup",
+   "tier": "T2",
+   "claim": "acquisition Requestly"
+  },
+  {
+   "url": "https://www.moneycontrol.com/news/business/startup/saas-firm-browserstack-acquires-europe-based-bug-detection-platform-bird-eats-bug-commits-investment-of-20-mn-12808204.html",
+   "title": "SaaS firm Browserstack acquires Europe-based bug detection platform Bird Eats Bug",
+   "tier": "T2",
+   "claim": "acquisition Bird Eats Bug"
+  }
+ ],
+ "startup_id": "browserstack",
+ "traction": [
+  {
+   "as_of": "2026-01",
+   "company_reported": true,
+   "confidence": "MEDIUM",
+   "metric": "Revenue guidance CY2026",
+   "source_url": "https://economictimes.indiatimes.com/tech/technology/browserstack-to-buy-back-125-million-shares-from-employees-early-investors/articleshow/126470170.cms",
+   "value": "Cross $300M"
+  },
+  {
+   "as_of": "2026-01",
+   "company_reported": true,
+   "confidence": "MEDIUM",
+   "metric": "Tests/customers",
+   "source_url": "https://www.browserstack.com/blog/browserstack-announces-125m-esop-and-share-buyback/",
+   "value": "3M tests/day; 50,000+ teams"
+  },
+  {
+   "metric": "customers",
+   "value": 50000,
+   "unit": "teams",
+   "period": "As-of-2026-01",
+   "as_of": "2026-01-12",
+   "company_reported": true,
+   "source_url": "https://www.browserstack.com/press/browserstack-announces-125-million-esop-and-share-buyback-program-creating-wealth-for-over-500-employees",
+   "confidence": "HIGH",
+   "notes": "50,000+ customers across 135+ countries"
+  },
+  {
+   "metric": "developer signups",
+   "value": 7000000,
+   "unit": "developers",
+   "period": "As-of-2026-01",
+   "as_of": "2026-01-12",
+   "company_reported": true,
+   "source_url": "https://www.browserstack.com",
+   "confidence": "HIGH",
+   "notes": "7M+ developer signups"
+  },
+  {
+   "metric": "tests per day",
+   "value": 3000000,
+   "unit": "tests/day",
+   "period": "As-of-2026-01",
+   "as_of": "2026-01-12",
+   "company_reported": true,
+   "source_url": "https://www.browserstack.com/press/browserstack-announces-125-million-esop-and-share-buyback-program-creating-wealth-for-over-500-employees",
+   "confidence": "HIGH",
+   "notes": "3M+ tests daily"
+  },
+  {
+   "metric": "tests per year",
+   "value": 1000000000,
+   "unit": "tests/year",
+   "period": "As-of-2026-01",
+   "as_of": "2026-01-12",
+   "company_reported": true,
+   "source_url": "https://www.browserstack.com",
+   "confidence": "HIGH",
+   "notes": "1B tests per year"
+  },
+  {
+   "metric": "data centers",
+   "value": 21,
+   "unit": "data centers",
+   "period": "As-of-2026-01",
+   "as_of": "2026-01-12",
+   "company_reported": true,
+   "source_url": "https://www.browserstack.com",
+   "confidence": "HIGH",
+   "notes": "21 global data centers"
+  },
+  {
+   "metric": "real devices",
+   "value": 3500,
+   "unit": "devices",
+   "period": "As-of-2026-01",
+   "as_of": "2026-01-12",
+   "company_reported": true,
+   "source_url": "https://www.browserstack.com",
+   "confidence": "HIGH",
+   "notes": "3500+ real devices and browsers"
+  },
+  {
+   "metric": "ARR milestone",
+   "value": 100,
+   "unit": "million USD",
+   "period": "FY2022",
+   "as_of": "2022-12-31",
+   "company_reported": true,
+   "source_url": "http://browserstack.com/company",
+   "confidence": "HIGH",
+   "notes": "Named Centaur (SaaS business hitting $100M ARR) in 2022"
+  },
+  {
+   "metric": "revenue growth",
+   "value": 19.3,
+   "unit": "percent",
+   "period": "CY2025 y/y",
+   "as_of": "2025-12-31",
+   "company_reported": false,
+   "source_url": "https://sacra.com/c/browserstack/",
+   "confidence": "MEDIUM",
+   "notes": "Sacra estimate 19.3% YoY"
+  }
+ ],
+ "_merged_session2": true
+}

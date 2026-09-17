@@ -1,0 +1,1456 @@
+{
+ "canonical_key": "kepler aerospace",
+ "company": {
+  "business_model": "Space infra + mission ops; autonomous swarming satellites for surveillance",
+  "city": "Bengaluru",
+  "company_name": "Kepler Aerospace",
+  "founded_date": "2018",
+  "primary_sector": "spacetech",
+  "public_private": "private",
+  "startup_stage": "Seed",
+  "official_website": {
+   "v": "https://kepleraero.com/",
+   "conf": "high",
+   "src": "https://kepleraero.com/",
+   "note": "playwright render-verified 2026-09-15"
+  },
+  "careers_website": {
+   "v": "https://kepleraero.com/careers.html",
+   "conf": "high",
+   "src": "https://kepleraero.com/",
+   "note": "found in rendered nav, playwright 2026-09-15"
+  },
+  "website": "https://kepleraerospace.com",
+  "legal_name": {
+   "v": "KEPLER AEROSPACE PRIVATE LIMITED",
+   "conf": "HIGH",
+   "src": "https://tracxn.com/d/companies/kepler-aerospace/__yafESg4NGvJ-7X9m7TyeILjjO1oagIvfpLZmR7IP8e4",
+   "note": "CIN U74999KA2018PTC114706, verified via Tracxn/MCA registry aggregators",
+   "asof": "2026-09-15"
+  },
+  "cin": {
+   "v": "U74999KA2018PTC114706",
+   "conf": "HIGH",
+   "src": "https://www.thecompanycheck.com",
+   "note": "CIN from registry aggregators (Tracxn, ZaubaCorp, InstaFinancials, CompanyCheck)",
+   "asof": "2026-09-15"
+  },
+  "incorporation_date": {
+   "v": "2018-07-11",
+   "conf": "HIGH",
+   "src": "https://tracxn.com/d/companies/kepler-aerospace/__yafESg4NGvJ-7X9m7TyeILjjO1oagIvfpLZmR7IP8e4",
+   "note": "Date of incorporation per MCA records via Tracxn",
+   "asof": "2026-09-15"
+  },
+  "status": {
+   "v": "Active",
+   "conf": "HIGH",
+   "src": "https://tracxn.com/d/companies/kepler-aerospace/__yafESg4NGvJ-7X9m7TyeILjjO1oagIvfpLZmR7IP8e4",
+   "note": "MCA status: Active, Non-government company, Company limited by shares",
+   "asof": "2026-09-15"
+  },
+  "state": {
+   "v": "Karnataka",
+   "conf": "HIGH",
+   "src": "https://tracxn.com/d/companies/kepler-aerospace/__yafESg4NGvJ-7X9m7TyeILjjO1oagIvfpLZmR7IP8e4",
+   "note": "ROC Bangalore, Karnataka",
+   "asof": "2026-09-15"
+  },
+  "country": {
+   "v": "India",
+   "conf": "HIGH",
+   "src": "https://kepleraero.com",
+   "note": "Primary operations in India; no US entity found for kepleraero.com (kepleraerospace.com is a separate Texas-based company)",
+   "asof": "2026-09-15"
+  },
+  "description": {
+   "v": "Kepler Aerospace operates sovereign space infrastructure stack — from flight-proven satellite subsystem and global ground station network to real-time multi-sensor intelligence delivered as a service. Builds autonomous swarming ISR satellites for India's defence space ecosystem under iDEX prime contracts.",
+   "conf": "HIGH",
+   "src": "https://kepleraero.com",
+   "note": "Company website + multiple funding articles",
+   "asof": "2026-09-15"
+  },
+  "employee_estimate": {
+   "v": 9,
+   "conf": "MEDIUM",
+   "src": "https://tracxn.com/d/companies/kepler-aerospace/__yafESg4NGvJ-7X9m7TyeILjjO1oagIvfpLZmR7IP8e4",
+   "note": "Tracxn reports 9 employees as of Jul 31, 2026; LinkedIn shows 11 employees; plans to add 40 post-funding",
+   "asof": "2026-07-31"
+  },
+  "hq_type": {
+   "v": "HQ",
+   "conf": "HIGH",
+   "src": "https://kepleraero.com",
+   "note": "Bengaluru HQ with operations across 6 continents via 70+ ground stations",
+   "asof": "2026-09-15"
+  },
+  "registered_office": {
+   "v": "NO.7, PARIJATHA GROUND FLOOR, SURYODAYA LAYOUT, DR. SHIVARAMA KARANTHA NAGAR, Bangalore, BENGALURU, Karnataka, India, 560077",
+   "conf": "HIGH",
+   "src": "https://tracxn.com/d/companies/kepler-aerospace/__yafESg4NGvJ-7X9m7TyeILjjO1oagIvfpLZmR7IP8e4",
+   "note": "Registered address per MCA/Tracxn",
+   "asof": "2026-09-15"
+  }
+ },
+ "completeness_self": {
+  "founders": 7,
+  "funding": 9,
+  "identity": 8
+ },
+ "conflicts": [
+  {
+   "field": "business_model",
+   "claim_a": "Space infra + mission ops; autonomous swarming satellites for surveillance",
+   "url_a": "",
+   "claim_b": "Space infra + mission ops; autonomous swarming satellites for ISR; GSaaS, Avionics-as-a-Service, Mission-Ops-as-a-Service",
+   "url_b": "",
+   "resolution": "phase3 p3 payload disagrees with existing value; existing kept as preferred pending human review",
+   "resolved_value": "",
+   "reviewed": "p3-merge"
+  },
+  {
+   "field": "employee_count",
+   "claim_a": "9 employees (Tracxn, Jul 2026)",
+   "url_a": "https://tracxn.com/d/companies/kepler-aerospace/__yafESg4NGvJ-7X9m7TyeILjjO1oagIvfpLZmR7IP8e4",
+   "claim_b": "11 employees (LinkedIn)",
+   "url_b": "https://in.linkedin.com/company/kepleraero",
+   "resolution": "Tracxn is registry-sourced; LinkedIn may include contractors. Use 9 as of Jul 2026.",
+   "resolved_value": "9 (as of Jul 2026)"
+  },
+  {
+   "field": "ground_station_count",
+   "claim_a": "50+ ground stations (kepleraero.com)",
+   "url_a": "https://kepleraero.com",
+   "claim_b": "70+ ground stations (Fortune India, ET Entrepreneur)",
+   "url_b": "https://www.fortuneindia.com/startups-news/kepler-aerospace-raises-8-million-seed-round-to-build-autonomous-swarming-satellite-constellation/156784",
+   "resolution": "Company website may be outdated; funding articles (Sep 2026) report 70+. Use 70+.",
+   "resolved_value": "70+ (as of Sep 2026)"
+  }
+ ],
+ "events": [
+  {
+   "announced_date": "2026-09",
+   "confidence": "high",
+   "description": "$8M seed led by Blue Ashva Capital, co-led by Finvolve; six autonomous swarm satellites for military surveillance.",
+   "headline": "$8M seed led by Blue Ashva Capital",
+   "source_url": "https://m.economictimes.com/tech/funding/kepler-aerospace-raises-8-million-in-seed-round-led-by-blue-ashva-capital/articleshow/133679542.cms",
+   "type": "funding"
+  },
+  {
+   "type": "funding",
+   "headline": "$8M Seed Round Led by Blue Ashva Capital",
+   "date": "2026-09-01",
+   "description": "Kepler Aerospace raised $8M in seed funding led by Blue Ashva Capital, co-led by Finvolve India Accelerator and India Accelerator. First external funding since 2018 founding. Two iDEX prime contracts secured with ~$4M in grants.",
+   "source_url": "https://m.economictimes.com/tech/funding/kepler-aerospace-raises-8-million-in-seed-round-led-by-blue-ashva-capital/articleshow/133679542.cms",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "launch",
+   "headline": "WhiteWolf Payload Announcement at Bengaluru Space Expo 2026",
+   "date": "2026-09",
+   "description": "Kepler co-developed WhiteWolf payload with Kawa Space, set to launch with TakeMe2Space aboard MOI 1B. MOU signed at Bengaluru Space Expo (BSX) 2026.",
+   "source_url": "https://in.linkedin.com/company/kepleraero",
+   "confidence": "MEDIUM"
+  },
+  {
+   "type": "partnership",
+   "headline": "Bharat Space Collective Formation",
+   "date": "2024-02-09",
+   "description": "Kepler Aerospace among four space giants forming Bharat Space Collective (with Dfy Graviti, Kawa Space, Azista).",
+   "source_url": "https://tracxn.com/d/companies/kepler-aerospace/__yafESg4NGvJ-7X9m7TyeILjjO1oagIvfpLZmR7IP8e4",
+   "confidence": "MEDIUM"
+  },
+  {
+   "type": "event",
+   "headline": "TechGALA Japan Selection",
+   "date": "2026-09",
+   "description": "Kepler Aerospace selected among Top 5 Indian startups for TechGALA Japan in Nagoya. India Accelerator and 01Booster Inc. facilitated.",
+   "source_url": "https://in.linkedin.com/company/kepleraero",
+   "confidence": "MEDIUM"
+  },
+  {
+   "type": "event",
+   "headline": "IN-SPACe Chairman Visit at BSX 2026",
+   "date": "2026-09",
+   "description": "Pawan Goenka, Chairman of IN-SPACe, visited Kepler Aerospace at Bengaluru Space Expo 2026.",
+   "source_url": "https://in.linkedin.com/company/kepleraero",
+   "confidence": "MEDIUM"
+  }
+ ],
+ "founders": [
+  {
+   "confidence": "medium",
+   "name": "Navneet Singh",
+   "role": "Founder & CEO",
+   "source_url": "https://kepleraero.com"
+  },
+  {
+   "confidence": "medium",
+   "name": "Kiran V. Sharma",
+   "role": "Chief Strategy Officer",
+   "source_url": "https://indianstartupnews.com"
+  }
+ ],
+ "funding_rounds": [
+  {
+   "all_investors": [
+    "Blue Ashva Capital",
+    "Finvolve"
+   ],
+   "amount": 8,
+   "announced_date": "2026-09",
+   "confidence": "high",
+   "currency": "USD Mn",
+   "lead_investors": [
+    "Blue Ashva Capital"
+   ],
+   "round_type": "Seed",
+   "source_title": "Kepler Aerospace raises $8 million in seed round (ET)",
+   "source_url": "https://m.economictimes.com/tech/funding/kepler-aerospace-raises-8-million-in-seed-round-led-by-blue-ashva-capital/articleshow/133679542.cms",
+   "tier": "T2"
+  },
+  {
+   "round_type": "Seed",
+   "announced_date": "2026-09-01",
+   "round_date": "2026-09-01",
+   "amount": 8000000,
+   "currency": "USD",
+   "valuation": 3764225,
+   "valuation_currency": "USD",
+   "valuation_type": "post-money",
+   "lead_investors": [
+    "Blue Ashva Capital"
+   ],
+   "all_investors": [
+    "Blue Ashva Capital",
+    "Finvolve India Accelerator",
+    "India Accelerator"
+   ],
+   "instrument": "equity",
+   "purpose": "Deploy first six swarming ISR satellites under iDEX prime contracts; scale Mission Operations as a Service and Avionics as a Service; expand engineering team",
+   "source_url": "https://m.economictimes.com/tech/funding/kepler-aerospace-raises-8-million-in-seed-round-led-by-blue-ashva-capital/articleshow/133679542.cms",
+   "source_title": "Kepler Aerospace raises $8 million in seed round led by Blue Ashva Capital - The Economic Times",
+   "source_date": "2026-09-01",
+   "confidence": "HIGH",
+   "notes": "First external funding since 2018 founding. iDEX grants ~$4M also secured. Tracxn reports $9,646,798 raised, post-money valuation $3,764,225."
+  }
+ ],
+ "gaps": [
+  "Founder details from company site + press snippet; needs stronger citation.",
+  "CIN/incorporation date not verified.",
+  "No financials found."
+ ],
+ "research_log": [
+  {
+   "found": "$8M seed Sep 2026 Blue Ashva-led, Bengaluru",
+   "query": "Kepler Aerospace seed Blue Ashva Capital September 2026"
+  },
+  {
+   "found": "Founded 2018, Navneet Singh CEO, Kiran V. Sharma CSO",
+   "query": "Kepler Aerospace founders Bengaluru"
+  },
+  {
+   "date": "2026-09-14",
+   "url": "https://kepleraero.com/",
+   "result": "verified by hyperresearch fetch; note kepler-aerospace"
+  },
+  {
+   "date": "2026-09-14",
+   "url": "https://kepleraero.com/careers.html",
+   "result": "verified by hyperresearch fetch; note careers-kepler-aerospace"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Kepler Aerospace CIN incorporation date MCA filing",
+   "status": "done",
+   "found": "CIN U74999KA2018PTC114706, incorporated Jul 11, 2018, registered at Suryodaya Layout, Bengaluru",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Kepler Aerospace DISRUPTOR satellite name launch",
+   "status": "logged",
+   "found": "No specific satellite constellation name found in public sources; referred to as 'six swarming ISR satellites' or 'first constellation'",
+   "next_action": "Verify if DISRUPTOR is internal codename not publicly disclosed"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Kepler Aerospace founders Pragyan background",
+   "status": "done",
+   "found": "Founders are Navneet Singh (CEO) and Kiran V. Sharma (CSO); both ex-ISRO. No 'Pragyan' found as founder; Pragyan is Chandrayaan-3 rover name",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Kepler Aerospace optical inter-satellite links",
+   "status": "logged",
+   "found": "No specific mention of optical inter-satellite links in sources; company describes autonomous satellite-to-satellite communication but does not specify optical",
+   "next_action": "Verify technology details from company PR or technical papers"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Kepler Aerospace US entity",
+   "status": "done",
+   "found": "kepleraerospace.com is a separate Texas-based company (Kepler Aerospace Ltd, Midland TX) with plasma propulsion tech. Bengaluru company (kepleraero.com) has no US entity found.",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Kepler Aerospace iDEX contracts and WhiteWolf payload",
+   "status": "done",
+   "found": "Two iDEX prime contracts confirmed; WhiteWolf payload co-developed with Kawa Space for MOI 1B launch",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Kepler Aerospace CIN incorporation date MCA filing",
+   "status": "done",
+   "found": "CIN U74999KA2018PTC114706, incorporated Jul 11, 2018, registered at Suryodaya Layout, Bengaluru",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Kepler Aerospace DISRUPTOR satellite name launch",
+   "status": "logged",
+   "found": "No specific satellite constellation name found in public sources; referred to as 'six swarming ISR satellites' or 'first constellation'",
+   "next_action": "Verify if DISRUPTOR is internal codename not publicly disclosed"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Kepler Aerospace founders Pragyan background",
+   "status": "done",
+   "found": "Founders are Navneet Singh (CEO) and Kiran V. Sharma (CSO); both ex-ISRO. No 'Pragyan' found as founder; Pragyan is Chandrayaan-3 rover name",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Kepler Aerospace optical inter-satellite links",
+   "status": "logged",
+   "found": "No specific mention of optical inter-satellite links in sources; company describes autonomous satellite-to-satellite communication but does not specify optical",
+   "next_action": "Verify technology details from company PR or technical papers"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Kepler Aerospace US entity",
+   "status": "done",
+   "found": "kepleraerospace.com is a separate Texas-based company (Kepler Aerospace Ltd, Midland TX) with plasma propulsion tech. Bengaluru company (kepleraero.com) has no US entity found.",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Kepler Aerospace iDEX contracts and WhiteWolf payload",
+   "status": "done",
+   "found": "Two iDEX prime contracts confirmed; WhiteWolf payload co-developed with Kawa Space for MOI 1B launch",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Kepler Aerospace CIN incorporation date MCA filing",
+   "status": "done",
+   "found": "CIN U74999KA2018PTC114706, incorporated Jul 11, 2018, registered at Suryodaya Layout, Bengaluru",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Kepler Aerospace DISRUPTOR satellite name launch",
+   "status": "logged",
+   "found": "No specific satellite constellation name found in public sources; referred to as 'six swarming ISR satellites' or 'first constellation'",
+   "next_action": "Verify if DISRUPTOR is internal codename not publicly disclosed"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Kepler Aerospace founders Pragyan background",
+   "status": "done",
+   "found": "Founders are Navneet Singh (CEO) and Kiran V. Sharma (CSO); both ex-ISRO. No 'Pragyan' found as founder; Pragyan is Chandrayaan-3 rover name",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Kepler Aerospace optical inter-satellite links",
+   "status": "logged",
+   "found": "No specific mention of optical inter-satellite links in sources; company describes autonomous satellite-to-satellite communication but does not specify optical",
+   "next_action": "Verify technology details from company PR or technical papers"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Kepler Aerospace US entity",
+   "status": "done",
+   "found": "kepleraerospace.com is a separate Texas-based company (Kepler Aerospace Ltd, Midland TX) with plasma propulsion tech. Bengaluru company (kepleraero.com) has no US entity found.",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Kepler Aerospace iDEX contracts and WhiteWolf payload",
+   "status": "done",
+   "found": "Two iDEX prime contracts confirmed; WhiteWolf payload co-developed with Kawa Space for MOI 1B launch",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Kepler Aerospace CIN incorporation date MCA filing",
+   "status": "done",
+   "found": "CIN U74999KA2018PTC114706, incorporated Jul 11, 2018, registered at Suryodaya Layout, Bengaluru",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Kepler Aerospace DISRUPTOR satellite name launch",
+   "status": "logged",
+   "found": "No specific satellite constellation name found in public sources; referred to as 'six swarming ISR satellites' or 'first constellation'",
+   "next_action": "Verify if DISRUPTOR is internal codename not publicly disclosed"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Kepler Aerospace founders Pragyan background",
+   "status": "done",
+   "found": "Founders are Navneet Singh (CEO) and Kiran V. Sharma (CSO); both ex-ISRO. No 'Pragyan' found as founder; Pragyan is Chandrayaan-3 rover name",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Kepler Aerospace optical inter-satellite links",
+   "status": "logged",
+   "found": "No specific mention of optical inter-satellite links in sources; company describes autonomous satellite-to-satellite communication but does not specify optical",
+   "next_action": "Verify technology details from company PR or technical papers"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Kepler Aerospace US entity",
+   "status": "done",
+   "found": "kepleraerospace.com is a separate Texas-based company (Kepler Aerospace Ltd, Midland TX) with plasma propulsion tech. Bengaluru company (kepleraero.com) has no US entity found.",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Kepler Aerospace iDEX contracts and WhiteWolf payload",
+   "status": "done",
+   "found": "Two iDEX prime contracts confirmed; WhiteWolf payload co-developed with Kawa Space for MOI 1B launch",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Kepler Aerospace CIN incorporation date MCA filing",
+   "status": "done",
+   "found": "CIN U74999KA2018PTC114706, incorporated Jul 11, 2018, registered at Suryodaya Layout, Bengaluru",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Kepler Aerospace DISRUPTOR satellite name launch",
+   "status": "logged",
+   "found": "No specific satellite constellation name found in public sources; referred to as 'six swarming ISR satellites' or 'first constellation'",
+   "next_action": "Verify if DISRUPTOR is internal codename not publicly disclosed"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Kepler Aerospace founders Pragyan background",
+   "status": "done",
+   "found": "Founders are Navneet Singh (CEO) and Kiran V. Sharma (CSO); both ex-ISRO. No 'Pragyan' found as founder; Pragyan is Chandrayaan-3 rover name",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Kepler Aerospace optical inter-satellite links",
+   "status": "logged",
+   "found": "No specific mention of optical inter-satellite links in sources; company describes autonomous satellite-to-satellite communication but does not specify optical",
+   "next_action": "Verify technology details from company PR or technical papers"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Kepler Aerospace US entity",
+   "status": "done",
+   "found": "kepleraerospace.com is a separate Texas-based company (Kepler Aerospace Ltd, Midland TX) with plasma propulsion tech. Bengaluru company (kepleraero.com) has no US entity found.",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Kepler Aerospace iDEX contracts and WhiteWolf payload",
+   "status": "done",
+   "found": "Two iDEX prime contracts confirmed; WhiteWolf payload co-developed with Kawa Space for MOI 1B launch",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Kepler Aerospace CIN incorporation date MCA filing",
+   "status": "done",
+   "found": "CIN U74999KA2018PTC114706, incorporated Jul 11, 2018, registered at Suryodaya Layout, Bengaluru",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Kepler Aerospace DISRUPTOR satellite name launch",
+   "status": "logged",
+   "found": "No specific satellite constellation name found in public sources; referred to as 'six swarming ISR satellites' or 'first constellation'",
+   "next_action": "Verify if DISRUPTOR is internal codename not publicly disclosed"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Kepler Aerospace founders Pragyan background",
+   "status": "done",
+   "found": "Founders are Navneet Singh (CEO) and Kiran V. Sharma (CSO); both ex-ISRO. No 'Pragyan' found as founder; Pragyan is Chandrayaan-3 rover name",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Kepler Aerospace optical inter-satellite links",
+   "status": "logged",
+   "found": "No specific mention of optical inter-satellite links in sources; company describes autonomous satellite-to-satellite communication but does not specify optical",
+   "next_action": "Verify technology details from company PR or technical papers"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Kepler Aerospace US entity",
+   "status": "done",
+   "found": "kepleraerospace.com is a separate Texas-based company (Kepler Aerospace Ltd, Midland TX) with plasma propulsion tech. Bengaluru company (kepleraero.com) has no US entity found.",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Kepler Aerospace iDEX contracts and WhiteWolf payload",
+   "status": "done",
+   "found": "Two iDEX prime contracts confirmed; WhiteWolf payload co-developed with Kawa Space for MOI 1B launch",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Kepler Aerospace CIN incorporation date MCA filing",
+   "status": "done",
+   "found": "CIN U74999KA2018PTC114706, incorporated Jul 11, 2018, registered at Suryodaya Layout, Bengaluru",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Kepler Aerospace DISRUPTOR satellite name launch",
+   "status": "logged",
+   "found": "No specific satellite constellation name found in public sources; referred to as 'six swarming ISR satellites' or 'first constellation'",
+   "next_action": "Verify if DISRUPTOR is internal codename not publicly disclosed"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Kepler Aerospace founders Pragyan background",
+   "status": "done",
+   "found": "Founders are Navneet Singh (CEO) and Kiran V. Sharma (CSO); both ex-ISRO. No 'Pragyan' found as founder; Pragyan is Chandrayaan-3 rover name",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Kepler Aerospace optical inter-satellite links",
+   "status": "logged",
+   "found": "No specific mention of optical inter-satellite links in sources; company describes autonomous satellite-to-satellite communication but does not specify optical",
+   "next_action": "Verify technology details from company PR or technical papers"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Kepler Aerospace US entity",
+   "status": "done",
+   "found": "kepleraerospace.com is a separate Texas-based company (Kepler Aerospace Ltd, Midland TX) with plasma propulsion tech. Bengaluru company (kepleraero.com) has no US entity found.",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Kepler Aerospace iDEX contracts and WhiteWolf payload",
+   "status": "done",
+   "found": "Two iDEX prime contracts confirmed; WhiteWolf payload co-developed with Kawa Space for MOI 1B launch",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Kepler Aerospace CIN incorporation date MCA filing",
+   "status": "done",
+   "found": "CIN U74999KA2018PTC114706, incorporated Jul 11, 2018, registered at Suryodaya Layout, Bengaluru",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Kepler Aerospace DISRUPTOR satellite name launch",
+   "status": "logged",
+   "found": "No specific satellite constellation name found in public sources; referred to as 'six swarming ISR satellites' or 'first constellation'",
+   "next_action": "Verify if DISRUPTOR is internal codename not publicly disclosed"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Kepler Aerospace founders Pragyan background",
+   "status": "done",
+   "found": "Founders are Navneet Singh (CEO) and Kiran V. Sharma (CSO); both ex-ISRO. No 'Pragyan' found as founder; Pragyan is Chandrayaan-3 rover name",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Kepler Aerospace optical inter-satellite links",
+   "status": "logged",
+   "found": "No specific mention of optical inter-satellite links in sources; company describes autonomous satellite-to-satellite communication but does not specify optical",
+   "next_action": "Verify technology details from company PR or technical papers"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Kepler Aerospace US entity",
+   "status": "done",
+   "found": "kepleraerospace.com is a separate Texas-based company (Kepler Aerospace Ltd, Midland TX) with plasma propulsion tech. Bengaluru company (kepleraero.com) has no US entity found.",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Kepler Aerospace iDEX contracts and WhiteWolf payload",
+   "status": "done",
+   "found": "Two iDEX prime contracts confirmed; WhiteWolf payload co-developed with Kawa Space for MOI 1B launch",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Kepler Aerospace CIN incorporation date MCA filing",
+   "status": "done",
+   "found": "CIN U74999KA2018PTC114706, incorporated Jul 11, 2018, registered at Suryodaya Layout, Bengaluru",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Kepler Aerospace DISRUPTOR satellite name launch",
+   "status": "logged",
+   "found": "No specific satellite constellation name found in public sources; referred to as 'six swarming ISR satellites' or 'first constellation'",
+   "next_action": "Verify if DISRUPTOR is internal codename not publicly disclosed"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Kepler Aerospace founders Pragyan background",
+   "status": "done",
+   "found": "Founders are Navneet Singh (CEO) and Kiran V. Sharma (CSO); both ex-ISRO. No 'Pragyan' found as founder; Pragyan is Chandrayaan-3 rover name",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Kepler Aerospace optical inter-satellite links",
+   "status": "logged",
+   "found": "No specific mention of optical inter-satellite links in sources; company describes autonomous satellite-to-satellite communication but does not specify optical",
+   "next_action": "Verify technology details from company PR or technical papers"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Kepler Aerospace US entity",
+   "status": "done",
+   "found": "kepleraerospace.com is a separate Texas-based company (Kepler Aerospace Ltd, Midland TX) with plasma propulsion tech. Bengaluru company (kepleraero.com) has no US entity found.",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Kepler Aerospace iDEX contracts and WhiteWolf payload",
+   "status": "done",
+   "found": "Two iDEX prime contracts confirmed; WhiteWolf payload co-developed with Kawa Space for MOI 1B launch",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Kepler Aerospace CIN incorporation date MCA filing",
+   "status": "done",
+   "found": "CIN U74999KA2018PTC114706, incorporated Jul 11, 2018, registered at Suryodaya Layout, Bengaluru",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Kepler Aerospace DISRUPTOR satellite name launch",
+   "status": "logged",
+   "found": "No specific satellite constellation name found in public sources; referred to as 'six swarming ISR satellites' or 'first constellation'",
+   "next_action": "Verify if DISRUPTOR is internal codename not publicly disclosed"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Kepler Aerospace founders Pragyan background",
+   "status": "done",
+   "found": "Founders are Navneet Singh (CEO) and Kiran V. Sharma (CSO); both ex-ISRO. No 'Pragyan' found as founder; Pragyan is Chandrayaan-3 rover name",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Kepler Aerospace optical inter-satellite links",
+   "status": "logged",
+   "found": "No specific mention of optical inter-satellite links in sources; company describes autonomous satellite-to-satellite communication but does not specify optical",
+   "next_action": "Verify technology details from company PR or technical papers"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Kepler Aerospace US entity",
+   "status": "done",
+   "found": "kepleraerospace.com is a separate Texas-based company (Kepler Aerospace Ltd, Midland TX) with plasma propulsion tech. Bengaluru company (kepleraero.com) has no US entity found.",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Kepler Aerospace iDEX contracts and WhiteWolf payload",
+   "status": "done",
+   "found": "Two iDEX prime contracts confirmed; WhiteWolf payload co-developed with Kawa Space for MOI 1B launch",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Kepler Aerospace CIN incorporation date MCA filing",
+   "status": "done",
+   "found": "CIN U74999KA2018PTC114706, incorporated Jul 11, 2018, registered at Suryodaya Layout, Bengaluru",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Kepler Aerospace DISRUPTOR satellite name launch",
+   "status": "logged",
+   "found": "No specific satellite constellation name found in public sources; referred to as 'six swarming ISR satellites' or 'first constellation'",
+   "next_action": "Verify if DISRUPTOR is internal codename not publicly disclosed"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Kepler Aerospace founders Pragyan background",
+   "status": "done",
+   "found": "Founders are Navneet Singh (CEO) and Kiran V. Sharma (CSO); both ex-ISRO. No 'Pragyan' found as founder; Pragyan is Chandrayaan-3 rover name",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Kepler Aerospace optical inter-satellite links",
+   "status": "logged",
+   "found": "No specific mention of optical inter-satellite links in sources; company describes autonomous satellite-to-satellite communication but does not specify optical",
+   "next_action": "Verify technology details from company PR or technical papers"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Kepler Aerospace US entity",
+   "status": "done",
+   "found": "kepleraerospace.com is a separate Texas-based company (Kepler Aerospace Ltd, Midland TX) with plasma propulsion tech. Bengaluru company (kepleraero.com) has no US entity found.",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Kepler Aerospace iDEX contracts and WhiteWolf payload",
+   "status": "done",
+   "found": "Two iDEX prime contracts confirmed; WhiteWolf payload co-developed with Kawa Space for MOI 1B launch",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Kepler Aerospace CIN incorporation date MCA filing",
+   "status": "done",
+   "found": "CIN U74999KA2018PTC114706, incorporated Jul 11, 2018, registered at Suryodaya Layout, Bengaluru",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Kepler Aerospace DISRUPTOR satellite name launch",
+   "status": "logged",
+   "found": "No specific satellite constellation name found in public sources; referred to as 'six swarming ISR satellites' or 'first constellation'",
+   "next_action": "Verify if DISRUPTOR is internal codename not publicly disclosed"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Kepler Aerospace founders Pragyan background",
+   "status": "done",
+   "found": "Founders are Navneet Singh (CEO) and Kiran V. Sharma (CSO); both ex-ISRO. No 'Pragyan' found as founder; Pragyan is Chandrayaan-3 rover name",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Kepler Aerospace optical inter-satellite links",
+   "status": "logged",
+   "found": "No specific mention of optical inter-satellite links in sources; company describes autonomous satellite-to-satellite communication but does not specify optical",
+   "next_action": "Verify technology details from company PR or technical papers"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Kepler Aerospace US entity",
+   "status": "done",
+   "found": "kepleraerospace.com is a separate Texas-based company (Kepler Aerospace Ltd, Midland TX) with plasma propulsion tech. Bengaluru company (kepleraero.com) has no US entity found.",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Kepler Aerospace iDEX contracts and WhiteWolf payload",
+   "status": "done",
+   "found": "Two iDEX prime contracts confirmed; WhiteWolf payload co-developed with Kawa Space for MOI 1B launch",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Kepler Aerospace CIN incorporation date MCA filing",
+   "status": "done",
+   "found": "CIN U74999KA2018PTC114706, incorporated Jul 11, 2018, registered at Suryodaya Layout, Bengaluru",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Kepler Aerospace DISRUPTOR satellite name launch",
+   "status": "logged",
+   "found": "No specific satellite constellation name found in public sources; referred to as 'six swarming ISR satellites' or 'first constellation'",
+   "next_action": "Verify if DISRUPTOR is internal codename not publicly disclosed"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Kepler Aerospace founders Pragyan background",
+   "status": "done",
+   "found": "Founders are Navneet Singh (CEO) and Kiran V. Sharma (CSO); both ex-ISRO. No 'Pragyan' found as founder; Pragyan is Chandrayaan-3 rover name",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Kepler Aerospace optical inter-satellite links",
+   "status": "logged",
+   "found": "No specific mention of optical inter-satellite links in sources; company describes autonomous satellite-to-satellite communication but does not specify optical",
+   "next_action": "Verify technology details from company PR or technical papers"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Kepler Aerospace US entity",
+   "status": "done",
+   "found": "kepleraerospace.com is a separate Texas-based company (Kepler Aerospace Ltd, Midland TX) with plasma propulsion tech. Bengaluru company (kepleraero.com) has no US entity found.",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Kepler Aerospace iDEX contracts and WhiteWolf payload",
+   "status": "done",
+   "found": "Two iDEX prime contracts confirmed; WhiteWolf payload co-developed with Kawa Space for MOI 1B launch",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Kepler Aerospace CIN incorporation date MCA filing",
+   "status": "done",
+   "found": "CIN U74999KA2018PTC114706, incorporated Jul 11, 2018, registered at Suryodaya Layout, Bengaluru",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Kepler Aerospace DISRUPTOR satellite name launch",
+   "status": "logged",
+   "found": "No specific satellite constellation name found in public sources; referred to as 'six swarming ISR satellites' or 'first constellation'",
+   "next_action": "Verify if DISRUPTOR is internal codename not publicly disclosed"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Kepler Aerospace founders Pragyan background",
+   "status": "done",
+   "found": "Founders are Navneet Singh (CEO) and Kiran V. Sharma (CSO); both ex-ISRO. No 'Pragyan' found as founder; Pragyan is Chandrayaan-3 rover name",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Kepler Aerospace optical inter-satellite links",
+   "status": "logged",
+   "found": "No specific mention of optical inter-satellite links in sources; company describes autonomous satellite-to-satellite communication but does not specify optical",
+   "next_action": "Verify technology details from company PR or technical papers"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Kepler Aerospace US entity",
+   "status": "done",
+   "found": "kepleraerospace.com is a separate Texas-based company (Kepler Aerospace Ltd, Midland TX) with plasma propulsion tech. Bengaluru company (kepleraero.com) has no US entity found.",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Kepler Aerospace iDEX contracts and WhiteWolf payload",
+   "status": "done",
+   "found": "Two iDEX prime contracts confirmed; WhiteWolf payload co-developed with Kawa Space for MOI 1B launch",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Kepler Aerospace CIN incorporation date MCA filing",
+   "status": "done",
+   "found": "CIN U74999KA2018PTC114706, incorporated Jul 11, 2018, registered at Suryodaya Layout, Bengaluru",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Kepler Aerospace DISRUPTOR satellite name launch",
+   "status": "logged",
+   "found": "No specific satellite constellation name found in public sources; referred to as 'six swarming ISR satellites' or 'first constellation'",
+   "next_action": "Verify if DISRUPTOR is internal codename not publicly disclosed"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Kepler Aerospace founders Pragyan background",
+   "status": "done",
+   "found": "Founders are Navneet Singh (CEO) and Kiran V. Sharma (CSO); both ex-ISRO. No 'Pragyan' found as founder; Pragyan is Chandrayaan-3 rover name",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Kepler Aerospace optical inter-satellite links",
+   "status": "logged",
+   "found": "No specific mention of optical inter-satellite links in sources; company describes autonomous satellite-to-satellite communication but does not specify optical",
+   "next_action": "Verify technology details from company PR or technical papers"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Kepler Aerospace US entity",
+   "status": "done",
+   "found": "kepleraerospace.com is a separate Texas-based company (Kepler Aerospace Ltd, Midland TX) with plasma propulsion tech. Bengaluru company (kepleraero.com) has no US entity found.",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Kepler Aerospace iDEX contracts and WhiteWolf payload",
+   "status": "done",
+   "found": "Two iDEX prime contracts confirmed; WhiteWolf payload co-developed with Kawa Space for MOI 1B launch",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Kepler Aerospace CIN incorporation date MCA filing",
+   "status": "done",
+   "found": "CIN U74999KA2018PTC114706, incorporated Jul 11, 2018, registered at Suryodaya Layout, Bengaluru",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Kepler Aerospace DISRUPTOR satellite name launch",
+   "status": "logged",
+   "found": "No specific satellite constellation name found in public sources; referred to as 'six swarming ISR satellites' or 'first constellation'",
+   "next_action": "Verify if DISRUPTOR is internal codename not publicly disclosed"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Kepler Aerospace founders Pragyan background",
+   "status": "done",
+   "found": "Founders are Navneet Singh (CEO) and Kiran V. Sharma (CSO); both ex-ISRO. No 'Pragyan' found as founder; Pragyan is Chandrayaan-3 rover name",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Kepler Aerospace optical inter-satellite links",
+   "status": "logged",
+   "found": "No specific mention of optical inter-satellite links in sources; company describes autonomous satellite-to-satellite communication but does not specify optical",
+   "next_action": "Verify technology details from company PR or technical papers"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Kepler Aerospace US entity",
+   "status": "done",
+   "found": "kepleraerospace.com is a separate Texas-based company (Kepler Aerospace Ltd, Midland TX) with plasma propulsion tech. Bengaluru company (kepleraero.com) has no US entity found.",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Kepler Aerospace iDEX contracts and WhiteWolf payload",
+   "status": "done",
+   "found": "Two iDEX prime contracts confirmed; WhiteWolf payload co-developed with Kawa Space for MOI 1B launch",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Kepler Aerospace CIN incorporation date MCA filing",
+   "status": "done",
+   "found": "CIN U74999KA2018PTC114706, incorporated Jul 11, 2018, registered at Suryodaya Layout, Bengaluru",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Kepler Aerospace DISRUPTOR satellite name launch",
+   "status": "logged",
+   "found": "No specific satellite constellation name found in public sources; referred to as 'six swarming ISR satellites' or 'first constellation'",
+   "next_action": "Verify if DISRUPTOR is internal codename not publicly disclosed"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Kepler Aerospace founders Pragyan background",
+   "status": "done",
+   "found": "Founders are Navneet Singh (CEO) and Kiran V. Sharma (CSO); both ex-ISRO. No 'Pragyan' found as founder; Pragyan is Chandrayaan-3 rover name",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Kepler Aerospace optical inter-satellite links",
+   "status": "logged",
+   "found": "No specific mention of optical inter-satellite links in sources; company describes autonomous satellite-to-satellite communication but does not specify optical",
+   "next_action": "Verify technology details from company PR or technical papers"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Kepler Aerospace US entity",
+   "status": "done",
+   "found": "kepleraerospace.com is a separate Texas-based company (Kepler Aerospace Ltd, Midland TX) with plasma propulsion tech. Bengaluru company (kepleraero.com) has no US entity found.",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Kepler Aerospace iDEX contracts and WhiteWolf payload",
+   "status": "done",
+   "found": "Two iDEX prime contracts confirmed; WhiteWolf payload co-developed with Kawa Space for MOI 1B launch",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Kepler Aerospace CIN incorporation date MCA filing",
+   "status": "done",
+   "found": "CIN U74999KA2018PTC114706, incorporated Jul 11, 2018, registered at Suryodaya Layout, Bengaluru",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Kepler Aerospace DISRUPTOR satellite name launch",
+   "status": "logged",
+   "found": "No specific satellite constellation name found in public sources; referred to as 'six swarming ISR satellites' or 'first constellation'",
+   "next_action": "Verify if DISRUPTOR is internal codename not publicly disclosed"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Kepler Aerospace founders Pragyan background",
+   "status": "done",
+   "found": "Founders are Navneet Singh (CEO) and Kiran V. Sharma (CSO); both ex-ISRO. No 'Pragyan' found as founder; Pragyan is Chandrayaan-3 rover name",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Kepler Aerospace optical inter-satellite links",
+   "status": "logged",
+   "found": "No specific mention of optical inter-satellite links in sources; company describes autonomous satellite-to-satellite communication but does not specify optical",
+   "next_action": "Verify technology details from company PR or technical papers"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Kepler Aerospace US entity",
+   "status": "done",
+   "found": "kepleraerospace.com is a separate Texas-based company (Kepler Aerospace Ltd, Midland TX) with plasma propulsion tech. Bengaluru company (kepleraero.com) has no US entity found.",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Kepler Aerospace iDEX contracts and WhiteWolf payload",
+   "status": "done",
+   "found": "Two iDEX prime contracts confirmed; WhiteWolf payload co-developed with Kawa Space for MOI 1B launch",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Kepler Aerospace CIN incorporation date MCA filing",
+   "status": "done",
+   "found": "CIN U74999KA2018PTC114706, incorporated Jul 11, 2018, registered at Suryodaya Layout, Bengaluru",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Kepler Aerospace DISRUPTOR satellite name launch",
+   "status": "logged",
+   "found": "No specific satellite constellation name found in public sources; referred to as 'six swarming ISR satellites' or 'first constellation'",
+   "next_action": "Verify if DISRUPTOR is internal codename not publicly disclosed"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Kepler Aerospace founders Pragyan background",
+   "status": "done",
+   "found": "Founders are Navneet Singh (CEO) and Kiran V. Sharma (CSO); both ex-ISRO. No 'Pragyan' found as founder; Pragyan is Chandrayaan-3 rover name",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Kepler Aerospace optical inter-satellite links",
+   "status": "logged",
+   "found": "No specific mention of optical inter-satellite links in sources; company describes autonomous satellite-to-satellite communication but does not specify optical",
+   "next_action": "Verify technology details from company PR or technical papers"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Kepler Aerospace US entity",
+   "status": "done",
+   "found": "kepleraerospace.com is a separate Texas-based company (Kepler Aerospace Ltd, Midland TX) with plasma propulsion tech. Bengaluru company (kepleraero.com) has no US entity found.",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Kepler Aerospace iDEX contracts and WhiteWolf payload",
+   "status": "done",
+   "found": "Two iDEX prime contracts confirmed; WhiteWolf payload co-developed with Kawa Space for MOI 1B launch",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Kepler Aerospace CIN incorporation date MCA filing",
+   "status": "done",
+   "found": "CIN U74999KA2018PTC114706, incorporated Jul 11, 2018, registered at Suryodaya Layout, Bengaluru",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Kepler Aerospace DISRUPTOR satellite name launch",
+   "status": "logged",
+   "found": "No specific satellite constellation name found in public sources; referred to as 'six swarming ISR satellites' or 'first constellation'",
+   "next_action": "Verify if DISRUPTOR is internal codename not publicly disclosed"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Kepler Aerospace founders Pragyan background",
+   "status": "done",
+   "found": "Founders are Navneet Singh (CEO) and Kiran V. Sharma (CSO); both ex-ISRO. No 'Pragyan' found as founder; Pragyan is Chandrayaan-3 rover name",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Kepler Aerospace optical inter-satellite links",
+   "status": "logged",
+   "found": "No specific mention of optical inter-satellite links in sources; company describes autonomous satellite-to-satellite communication but does not specify optical",
+   "next_action": "Verify technology details from company PR or technical papers"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Kepler Aerospace US entity",
+   "status": "done",
+   "found": "kepleraerospace.com is a separate Texas-based company (Kepler Aerospace Ltd, Midland TX) with plasma propulsion tech. Bengaluru company (kepleraero.com) has no US entity found.",
+   "next_action": "None"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Kepler Aerospace iDEX contracts and WhiteWolf payload",
+   "status": "done",
+   "found": "Two iDEX prime contracts confirmed; WhiteWolf payload co-developed with Kawa Space for MOI 1B launch",
+   "next_action": "None"
+  }
+ ],
+ "sources": [
+  {
+   "fields_supported": [
+    "funding"
+   ],
+   "publication_date": "2026-09",
+   "publisher": "Economic Times",
+   "title": "Kepler Aerospace raises $8 million in seed round led by Blue Ashva Capital",
+   "url": "https://m.economictimes.com/tech/funding/kepler-aerospace-raises-8-million-in-seed-round-led-by-blue-ashva-capital/articleshow/133679542.cms"
+  },
+  {
+   "fields_supported": [
+    "founders",
+    "identity"
+   ],
+   "publisher": "Kepler Aerospace",
+   "title": "About Us",
+   "url": "https://kepleraero.com"
+  },
+  {
+   "url": "https://indianstartupnews.com/funding/bengaluru-based-spacetech-startup-kepler-aerospace-raises-8-million-led-by-blue-ashva-capital-others-12479724",
+   "publisher": "Indian Startup News",
+   "tier": "T2",
+   "publication_date": "2026-09-01",
+   "retrieved_date": "2026-09-15",
+   "confidence": "HIGH",
+   "fields_supported": [
+    "founders",
+    "funding",
+    "traction",
+    "products"
+   ]
+  },
+  {
+   "url": "https://www.fortuneindia.com/startups-news/kepler-aerospace-raises-8-million-seed-round-to-build-autonomous-swarming-satellite-constellation/156784",
+   "publisher": "Fortune India",
+   "tier": "T2",
+   "publication_date": "2026-09-01",
+   "retrieved_date": "2026-09-15",
+   "confidence": "HIGH",
+   "fields_supported": [
+    "funding",
+    "traction",
+    "products",
+    "people",
+    "events"
+   ]
+  },
+  {
+   "url": "https://tracxn.com/d/companies/kepler-aerospace/__yafESg4NGvJ-7X9m7TyeILjjO1oagIvfpLZmR7IP8e4",
+   "publisher": "Tracxn",
+   "tier": "T3",
+   "publication_date": "2026-09-03",
+   "retrieved_date": "2026-09-15",
+   "confidence": "MEDIUM",
+   "fields_supported": [
+    "company",
+    "cin",
+    "incorporation_date",
+    "financials",
+    "employees",
+    "competitors"
+   ]
+  },
+  {
+   "url": "https://foundermagazine.in/navneet-singh-founder-ceo-of-kepler-aerospace/",
+   "publisher": "Founder Magazine",
+   "tier": "T3",
+   "publication_date": "2026-09",
+   "retrieved_date": "2026-09-15",
+   "confidence": "MEDIUM",
+   "fields_supported": [
+    "founders",
+    "background"
+   ]
+  },
+  {
+   "url": "https://in.linkedin.com/company/kepleraero",
+   "publisher": "LinkedIn",
+   "tier": "T2",
+   "publication_date": "2026-09-15",
+   "retrieved_date": "2026-09-15",
+   "confidence": "MEDIUM",
+   "fields_supported": [
+    "people",
+    "locations",
+    "traction",
+    "events",
+    "partnerships"
+   ]
+  },
+  {
+   "url": "https://entrepreneur.economictimes.indiatimes.com/news/funding/kepler-aerospace-raises-8-mn-seed-round-led-by-blue-ashva-finvolve/133669323",
+   "publisher": "ETEntrepreneur",
+   "tier": "T2",
+   "publication_date": "2026-09-01",
+   "retrieved_date": "2026-09-15",
+   "confidence": "HIGH",
+   "fields_supported": [
+    "funding",
+    "founders",
+    "traction"
+   ]
+  },
+  {
+   "url": "https://evertiq.com/news/2026-09-03-indian-firm-kepler-raises-8-million-to-build-swarm-satellites",
+   "publisher": "Evertiq",
+   "tier": "T3",
+   "publication_date": "2026-09-03",
+   "retrieved_date": "2026-09-15",
+   "confidence": "MEDIUM",
+   "fields_supported": [
+    "funding",
+    "traction"
+   ]
+  },
+  {
+   "url": "https://inc42.com/startups/to-infinity-beyond-indian-spacetech-startups-winning-space-race/",
+   "publisher": "Inc42",
+   "tier": "T2",
+   "publication_date": "2025-03-21",
+   "retrieved_date": "2026-09-15",
+   "confidence": "MEDIUM",
+   "fields_supported": [
+    "company",
+    "products",
+    "funding"
+   ]
+  }
+ ],
+ "startup_id": "kepler aerospace",
+ "_merged_session2": true,
+ "financials": [
+  {
+   "fiscal_year": "FY25",
+   "metric": "total_revenue",
+   "value": 10,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "estimate",
+   "basis": "standalone",
+   "consolidated": "no",
+   "filing_date": "2025-03-31",
+   "source_url": "https://tracxn.com/d/companies/kepler-aerospace/__yafESg4NGvJ-7X9m7TyeILjjO1oagIvfpLZmR7IP8e4",
+   "source_title": "Tracxn Company Profile",
+   "confidence": "LOW",
+   "notes": "Tracxn reports revenue 0 - ₹10 Cr as on Mar 31, 2025; exact figure not publicly disclosed"
+  }
+ ],
+ "traction": [
+  {
+   "metric": "iDEX prime contracts",
+   "value": 2,
+   "unit": "contracts",
+   "period": "As-of-2026-09",
+   "as_of": "2026-09-01",
+   "company_reported": true,
+   "source_url": "https://indianstartupnews.com/funding/bengaluru-based-spacetech-startup-kepler-aerospace-raises-8-million-led-by-blue-ashva-capital-others-12479724",
+   "confidence": "HIGH",
+   "notes": "Two IDEX prime contracts for swarming ISR constellations; ~$4M in IDEX grants"
+  },
+  {
+   "metric": "ground stations",
+   "value": 70,
+   "unit": "stations",
+   "period": "As-of-2026-09",
+   "as_of": "2026-09-01",
+   "company_reported": true,
+   "source_url": "https://www.fortuneindia.com/startups-news/kepler-aerospace-raises-8-million-seed-round-to-build-autonomous-swarming-satellite-constellation/156784",
+   "confidence": "HIGH",
+   "notes": "Global network of 70+ ground stations across 6 continents"
+  },
+  {
+   "metric": "employees planned addition",
+   "value": 40,
+   "unit": "employees",
+   "period": "Next 12-24 months",
+   "as_of": "2026-09-01",
+   "company_reported": true,
+   "source_url": "https://www.fortuneindia.com/startups-news/kepler-aerospace-raises-8-million-seed-round-to-build-autonomous-swarming-satellite-constellation/156784",
+   "confidence": "MEDIUM",
+   "notes": "Plans to add 40 employees; moving into new facility"
+  },
+  {
+   "metric": "satellites planned for deployment",
+   "value": 6,
+   "unit": "satellites",
+   "period": "Next 12-24 months",
+   "as_of": "2026-09-01",
+   "company_reported": true,
+   "source_url": "https://www.fortuneindia.com/startups-news/kepler-aerospace-raises-8-million-seed-round-to-build-autonomous-swarming-satellite-constellation/156784",
+   "confidence": "HIGH",
+   "notes": "First six swarming ISR satellites under iDEX programmes; maiden orbital deployment targeted Dec 2027"
+  },
+  {
+   "metric": "WhiteWolf payload",
+   "value": 1,
+   "unit": "payload",
+   "period": "As-of-2026-09",
+   "as_of": "2026-09-15",
+   "company_reported": true,
+   "source_url": "https://in.linkedin.com/company/kepleraero",
+   "confidence": "MEDIUM",
+   "notes": "WhiteWolf payload co-developed with Kawa Space, set to launch with TakeMe2Space aboard MOI 1B"
+  }
+ ],
+ "products": [
+  {
+   "name": "Swarming ISR Satellite Constellation",
+   "category": "Satellite Systems",
+   "description": "Autonomous swarming satellite architecture where satellites communicate, task each other, and act in orbit without waiting for ground station. Six satellites equipped with electro-optical, thermal, and electronic-warfare sensors.",
+   "pricing_model": "Government contract (iDEX)",
+   "launch_date": "2027-12",
+   "status": "In development",
+   "source_url": "https://indianstartupnews.com/funding/bengaluru-based-spacetech-startup-kepler-aerospace-raises-8-million-led-by-blue-ashva-capital-others-12479724",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Ground Station as a Service (GSaaS)",
+   "category": "Ground Infrastructure",
+   "description": "Global network of 70+ hardened ground stations across 6 continents, available as a service. All major frequency bands (S, X, UHF, VHF). Ultra low latency mission operations.",
+   "pricing_model": "Service subscription / build-up or lease",
+   "launch_date": "Unknown",
+   "status": "Operational",
+   "source_url": "https://kepleraero.com",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Mission Operations as a Service",
+   "category": "Mission Operations",
+   "description": "Primary mission operator for several ISRO satellites; serves nearly all Indian space companies. Fleet-level scheduling, virtualized modems, machine-to-machine operations.",
+   "pricing_model": "Service subscription",
+   "launch_date": "Unknown",
+   "status": "Operational",
+   "source_url": "https://www.fortuneindia.com/startups-news/kepler-aerospace-raises-8-million-seed-round-to-build-autonomous-swarming-satellite-constellation/156784",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Avionics as a Service",
+   "category": "Satellite Subsystems",
+   "description": "Flight-proven satellite subsystems including onboard computers, power systems, RF payloads, communication and navigation modules. Validated through missions with ISRO and national defence agencies.",
+   "pricing_model": "Service / product sale",
+   "launch_date": "Unknown",
+   "status": "Operational",
+   "source_url": "https://kepleraero.com",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Onboard Computers & Satellite Positioning Sensors",
+   "category": "Satellite Electronics",
+   "description": "Products include onboard computers, satellite positioning sensors, solar panels, magnetic torquers, power modules, S-Band TxRx systems, proof of life transmitters, MEMS IMU systems, reaction wheels.",
+   "pricing_model": "Product sale",
+   "launch_date": "Unknown",
+   "status": "Operational",
+   "source_url": "https://tracxn.com/d/companies/kepler-aerospace/__yafESg4NGvJ-7X9m7TyeILjjO1oagIvfpLZmR7IP8e4",
+   "confidence": "HIGH"
+  }
+ ],
+ "people": [
+  {
+   "name": "Navneet Singh",
+   "role": "Founder & CEO",
+   "title": "Chief Executive Officer",
+   "current": true,
+   "since": "2018",
+   "prior_role": "Systems Engineer at ISRO (small-satellite development)",
+   "source_url": "https://foundermagazine.in/navneet-singh-founder-ceo-of-kepler-aerospace/",
+   "confidence": "HIGH",
+   "education": "Embry-Riddle Aeronautical University (aerospace engineering)",
+   "background": "Aerospace engineering professional; experience spans spacecraft systems engineering, mission integration, satellite systems, and ground-segment operations. Board member."
+  },
+  {
+   "name": "Kiran V. Sharma",
+   "role": "Co-Founder & Chief Strategy Officer",
+   "title": "Chief Strategy Officer",
+   "current": true,
+   "since": "2018",
+   "prior_role": "Met Navneet Singh at ISRO",
+   "source_url": "https://indianstartupnews.com/funding/bengaluru-based-spacetech-startup-kepler-aerospace-raises-8-million-led-by-blue-ashva-capital-others-12479724",
+   "confidence": "HIGH",
+   "background": "Co-founded Kepler Aerospace with Navneet Singh; first met at ISRO. Engineering heritage spans small satellites, aerospace systems, electronic warfare and defence systems."
+  }
+ ],
+ "locations": [
+  {
+   "type": "hq",
+   "address_or_area": "NO.7, PARIJATHA GROUND FLOOR, SURYODAYA LAYOUT, DR. SHIVARAMA KARANTHA NAGAR",
+   "city": "Bengaluru",
+   "state": "Karnataka",
+   "country": "India",
+   "as_of": "2026-09-15",
+   "source_url": "https://tracxn.com/d/companies/kepler-aerospace/__yafESg4NGvJ-7X9m7TyeILjjO1oagIvfpLZmR7IP8e4",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "registered_office",
+   "address_or_area": "NO.7, PARIJATHA GROUND FLOOR, SURYODAYA LAYOUT, DR. SHIVARAMA KARANTHA NAGAR",
+   "city": "Bengaluru",
+   "state": "Karnataka",
+   "country": "India",
+   "as_of": "2026-09-15",
+   "source_url": "https://tracxn.com/d/companies/kepler-aerospace/__yafESg4NGvJ-7X9m7TyeILjjO1oagIvfpLZmR7IP8e4",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "office",
+   "address_or_area": "Delft",
+   "city": "Delft",
+   "state": "South Holland",
+   "country": "Netherlands",
+   "as_of": "2026-09-15",
+   "source_url": "https://in.linkedin.com/company/kepleraero",
+   "confidence": "MEDIUM",
+   "notes": "LinkedIn shows Delft, NL as a secondary location"
+  }
+ ],
+ "customers": [
+  {
+   "name": "Defence Space Agency (India)",
+   "type": "Government/Defence",
+   "announced_date": "Unknown",
+   "status": "Active contract",
+   "source_url": "https://indianstartupnews.com/funding/bengaluru-based-spacetech-startup-kepler-aerospace-raises-8-million-led-by-blue-ashva-capital-others-12479724",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "ISRO",
+   "type": "Government/Space Agency",
+   "announced_date": "Unknown",
+   "status": "Active partnership",
+   "source_url": "https://kepleraero.com",
+   "confidence": "HIGH",
+   "notes": "Kepler's mission operations platform acts as primary mission operator for several ISRO satellites; validated through missions with ISRO"
+  },
+  {
+   "name": "DRDO",
+   "type": "Government/Defence",
+   "announced_date": "Unknown",
+   "status": "Active partnership",
+   "source_url": "https://kepleraero.com",
+   "confidence": "HIGH",
+   "notes": "Collaborated on projects; validated through missions with DRDO"
+  },
+  {
+   "name": "Nearly all Indian space companies",
+   "type": "Commercial",
+   "announced_date": "Unknown",
+   "status": "Active service",
+   "source_url": "https://www.fortuneindia.com/startups-news/kepler-aerospace-raises-8-million-seed-round-to-build-autonomous-swarming-satellite-constellation/156784",
+   "confidence": "MEDIUM",
+   "notes": "Mission Operations platform serves nearly all Indian space companies"
+  }
+ ]
+}

@@ -1,0 +1,1842 @@
+{
+ "company": {
+  "business_model": "B2B/B2G quantum-safe security products (QKD, QRNG, PQC, QVPN)",
+  "cin": "U72900KA2016PTC096629",
+  "city": "Bengaluru",
+  "company_name": "QNu Labs",
+  "country": "India",
+  "founded_date": "2016",
+  "incorporation_date": "2016-09-21",
+  "legal_name": "QuNu Labs Private Limited",
+  "primary_sector": "cybersecurity / quantum",
+  "public_private": "private",
+  "secondary_sectors": [
+   "deeptech"
+  ],
+  "startup_stage": "Series A",
+  "state": "Karnataka",
+  "status": "active",
+  "website": "https://www.qnulabs.com/",
+  "official_website": {
+   "v": "https://www.qnulabs.com",
+   "conf": "high",
+   "src": "https://www.qnulabs.com",
+   "note": "verified live 2026-09-15: name match on own homepage"
+  },
+  "careers_website": {
+   "v": "https://www.qnulabs.com/careers",
+   "conf": "HIGH",
+   "src": "curl -L https://www.qnulabs.com/careers → 200; title 'Careers at QNu Labs - Explore Our Current Job Openings'; meta description confirms job openings in quantum cryptography, R&D, cybersecurity",
+   "note": "Official careers page confirmed with real job listings"
+  },
+  "description": {
+   "v": "India's first and only full-stack quantum cybersecurity company; builds QKD hardware (Armos), QRNG (Tropos), PQC (Hodos), and the QShield platform; incubated at IIT Madras Research Park",
+   "conf": "HIGH",
+   "src": "http://qnulabs.com/about-us",
+   "note": "Company self-description; verified via multiple sources",
+   "asof": "2026-09-15"
+  },
+  "employee_estimate": {
+   "v": 118,
+   "conf": "MEDIUM",
+   "src": "https://tracxn.com/d/companies/qnulabs/__CVjvJs07CMMa8dnfqIu1BCiXpSL0XG8e-ftYHLJ4K74",
+   "note": "Tracxn 118 as of Aug 2025; LinkedIn 176; company claims 160 engineers — unresolved",
+   "asof": "2025-08-31"
+  },
+  "hq_type": {
+   "v": "HQ",
+   "conf": "HIGH",
+   "src": "http://qnulabs.com/about-us",
+   "note": "Registered office and HQ in Bengaluru",
+   "asof": "2026-09-15"
+  },
+  "registered_office": {
+   "v": "Centenary Building, 2nd Floor, East Wing, 28 M.G. Road, Bengaluru, Karnataka - 560025",
+   "conf": "HIGH",
+   "src": "http://qnulabs.com/about-us",
+   "note": "Verified registered office address",
+   "asof": "2026-09-15"
+  }
+ },
+ "completeness_self": {
+  "financials": 6,
+  "founders": 8,
+  "funding": 9,
+  "identity": 9,
+  "investors": 8,
+  "legal": 5,
+  "people": 4,
+  "products": 8,
+  "sources": 8,
+  "traction": 5
+ },
+ "conflicts": [
+  {
+   "claim_a": "Total raised Rs 375 Cr incl. round (company PR via Quantum Insider/Communications Today, Sep 2026)",
+   "claim_b": "Tracxn shows $22.3M across 14 rounds (pre-Sep-2026 snapshot)",
+   "field": "total_funding",
+   "resolution": "Company-reported Rs 375 Cr is newer (Sep 2026) and takes precedence for current state; Tracxn figure is older snapshot",
+   "resolved_value": "Rs 375 Cr total (company-reported, Sep 2026)",
+   "url_a": "https://thequantuminsider.com/2026/09/09/qnu-labs-raises-%E2%82%B9200-crore-25-million-usd-led-by-national-quantum-mission-and-speciale-invest",
+   "url_b": "https://tracxn.com/d/companies/qnu-labs/__CVjvJs07CMMa8dnfqIu1BCiXpSL0XG8e-ftYHLJ4K74"
+  },
+  {
+   "claim_a": "Founders Sunil Gupta + Srinivasa Rao Aluri (company site, ISN, Wikipedia + Mathias/Prabhakar)",
+   "claim_b": "Tracxn lists Aluri + Pravin Kini as co-founders",
+   "field": "founders",
+   "resolution": "Company site names Gupta (CEO) + Aluri (Chairman) as co-founders; Wikipedia adds Mathias + Prabhakar as founders; Kini appears as early team/board. All claims preserved.",
+   "resolved_value": "Sunil Gupta, Srinivasa Rao Aluri (+ Mark Mathias, Anil Prabhakar per Wikipedia)",
+   "url_a": "http://qnulabs.com/about-us",
+   "url_b": "https://platform.tracxn.com/a/d/company/5c657bee8f08f827f572538d/qnu%20labs?utm_source=parallel&utm_medium=ai#a:about"
+  },
+  {
+   "field": "startup_stage",
+   "claim_a": "Series A",
+   "url_a": "",
+   "claim_b": "Series A1",
+   "url_b": "",
+   "resolution": "phase3 p3 payload disagrees with existing value; existing kept as preferred pending human review",
+   "resolved_value": "",
+   "reviewed": "p3-merge"
+  },
+  {
+   "field": "founders",
+   "claim_a": "Sunil Gupta + Srinivasa Rao Aluri as co-founders (company site, Better India)",
+   "url_a": "http://qnulabs.com/about-us",
+   "claim_b": "Srinivasa Rao Aluri + Pravin Kini as co-founders (Tracxn)",
+   "url_b": "https://tracxn.com/d/companies/qnulabs/__CVjvJs07CMMa8dnfqIu1BCiXpSL0XG8e-ftYHLJ4K74",
+   "resolution": "Company site names Gupta (CEO) + Aluri (Chairman) as co-founders; Tracxn lists Aluri + Kini. Wikipedia adds Mathias + Prabhakar as founders. All claims preserved; Gupta and Aluri are the primary verified co-founders per company's own site.",
+   "resolved_value": "Sunil Gupta, Srinivasa Rao Aluri (primary co-founders); Mark Mathias, Anil Prabhakar (founding team per company site); Pravin Kini (Tracxn-listed co-founder)"
+  },
+  {
+   "field": "total_funding",
+   "claim_a": "Total raised Rs 375 Cr incl. Series A1 (company PR via Quantum Insider/Communications Today, Sep 2026)",
+   "url_a": "https://thequantuminsider.com/2026/09/09/qnu-labs-raises-%E2%82%B9200-crore-25-million-usd-led-by-national-quantum-mission-and-speciale-invest",
+   "url_b": "https://tracxn.com/d/companies/qnulabs/__CVjvJs07CMMa8dnfqIu1BCiXpSL0XG8e-ftYHLJ4K74",
+   "resolution": "Company-reported Rs 375 Cr is newer (Sep 2026) and takes precedence for current state; Tracxn figure is older snapshot",
+   "resolved_value": "Rs 375 Cr total (company-reported, Sep 2026); plus Rs 150 Cr convertible debt under RDI fund"
+  }
+ ],
+ "customers": [
+  {
+   "name": "Indian Army",
+   "type": "defence/government",
+   "announced_date": "2022-08-14",
+   "status": "active deployment",
+   "source_url": "https://thebetterindia.com/technology/qnulabs-quantum-safe-network-bengaluru-india-defence-banking-data-security-12164679",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Indian Navy",
+   "type": "defence/government",
+   "announced_date": "2023-01-01",
+   "status": "active deployment",
+   "source_url": "https://thebetterindia.com/technology/qnulabs-quantum-safe-network-bengaluru-india-defence-banking-data-security-12164679",
+   "confidence": "MEDIUM"
+  },
+  {
+   "name": "Armed Forces (India)",
+   "type": "defence/government",
+   "announced_date": "2021-01-01",
+   "status": "active deployment",
+   "source_url": "http://qnulabs.com/about-us",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Central Government of India",
+   "type": "government",
+   "announced_date": "",
+   "status": "active deployment",
+   "source_url": "https://www.qnulabs.com/products",
+   "confidence": "MEDIUM"
+  },
+  {
+   "name": "BFSI / Banking sector",
+   "type": "enterprise",
+   "announced_date": "",
+   "status": "active deployment",
+   "source_url": "https://thebetterindia.com/technology/qnulabs-quantum-safe-network-bengaluru-india-defence-banking-data-security-12164679",
+   "confidence": "MEDIUM"
+  },
+  {
+   "name": "Telecom operators",
+   "type": "enterprise",
+   "announced_date": "",
+   "status": "active deployment",
+   "source_url": "https://www.qnulabs.com/products",
+   "confidence": "MEDIUM"
+  },
+  {
+   "name": "UrbanMatrix",
+   "type": "enterprise/defence",
+   "announced_date": "",
+   "status": "partnership",
+   "source_url": "https://www.qnulabs.com/partners",
+   "confidence": "MEDIUM"
+  }
+ ],
+ "events": [
+  {
+   "announced_date": "2026-09-09",
+   "confidence": "HIGH",
+   "date": "2026-09-09",
+   "description": "Rs 200 Cr Series A1 co-led by National Quantum Mission (via IITM C-DOT Samgnya) and Speciale Invest; Sony Innovation Fund, Gaja Capital, Artha Ventures participated; total raised Rs 375 Cr; plus Rs 150 Cr convertible debt under RDI fund (per GKToday).",
+   "headline": "QNu Labs raises Rs 200 Cr Series A1",
+   "source_url": "https://www.communicationstoday.co.in/qnu-labs-raises-%E2%82%B9200-crore-in-series-a1-round",
+   "type": "funding"
+  },
+  {
+   "announced_date": "2025-04-24",
+   "confidence": "MEDIUM",
+   "date": "2025-04-24",
+   "description": "Series A (Tracxn-recorded; press details not verified in this run).",
+   "headline": "Series A (Tracxn record)",
+   "source_url": "https://platform.tracxn.com/a/d/company/5c657bee8f08f827f572538d/qnu%20labs?utm_source=parallel&utm_medium=ai#a:about",
+   "type": "funding"
+  },
+  {
+   "type": "funding",
+   "headline": "QNu Labs raises ₹200 Crore Series A1",
+   "date": "2026-09-09",
+   "description": "Series A1 led by National Quantum Mission (via IITM C-DOT Samgnya) and Speciale Invest; Sony Innovation Fund, Gaja Capital, Artha Ventures participated; total raised Rs 375 Cr; plus Rs 150 Cr convertible debt under RDI fund",
+   "source_url": "https://thequantuminsider.com/2026/09/09/qnu-labs-raises-%E2%82%B9200-crore-25-million-usd-led-by-national-quantum-mission-and-speciale-invest",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "funding",
+   "headline": "Series A round recorded",
+   "date": "2025-04-24",
+   "description": "Tracxn-recorded Series A round",
+   "source_url": "https://tracxn.com/d/companies/qnulabs/__CVjvJs07CMMa8dnfqIu1BCiXpSL0XG8e-ftYHLJ4K74",
+   "confidence": "MEDIUM"
+  },
+  {
+   "type": "partnership",
+   "headline": "BISAG-N and QNu Labs strategic partnership",
+   "date": "2026-01-28",
+   "description": "BISAG-N and QNu Labs forge strategic partnership for indigenous cybersecurity",
+   "source_url": "https://tracxn.com/d/companies/qnulabs/__CVjvJs07CMMa8dnfqIu1BCiXpSL0XG8e-ftYHLJ4K74",
+   "confidence": "MEDIUM"
+  },
+  {
+   "type": "partnership",
+   "headline": "VIAVI and QNu Labs partnership",
+   "date": "2025-12-04",
+   "description": "VIAVI and QNu Labs partner to accelerate quantum-safe network security; MAP-300 validation",
+   "source_url": "https://tracxn.com/d/companies/qnulabs/__CVjvJs07CMMa8dnfqIu1BCiXpSL0XG8e-ftYHLJ4K74",
+   "confidence": "MEDIUM"
+  },
+  {
+   "type": "partnership",
+   "headline": "QNu Labs signs deals with TU/e & SAGAIT Brief UK",
+   "date": "2026-06-18",
+   "description": "International partnerships for quantum security",
+   "source_url": "https://tracxn.com/d/companies/qnulabs/__CVjvJs07CMMa8dnfqIu1BCiXpSL0XG8e-ftYHLJ4K74",
+   "confidence": "MEDIUM"
+  },
+  {
+   "type": "launch",
+   "headline": "India's first 1,000 km QKD network established",
+   "date": "2026-04-01",
+   "description": "India's first 1,000 km QKD network over existing telecom fibre; 99.3% uptime over 15 days; validated by VIAVI Solutions",
+   "source_url": "https://thebetterindia.com/technology/qnulabs-quantum-safe-network-bengaluru-india-defence-banking-data-security-12164679",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "launch",
+   "headline": "QShield platform launched",
+   "date": "2024-01-01",
+   "description": "Full-stack hybrid quantum-safe platform launched",
+   "source_url": "http://qnulabs.com/about-us",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "award",
+   "headline": "TEC Type Approval for Armos QKD System",
+   "date": "2024-01-01",
+   "description": "Telecommunication Engineering Centre (TEC), DoT, Government of India granted type approval",
+   "source_url": "https://www.qnulabs.com/awards",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "award",
+   "headline": "National Quantum Mission recognition",
+   "date": "2024-01-01",
+   "description": "Recognition under the National Quantum Mission by Government of India",
+   "source_url": "https://www.qnulabs.com/awards",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "award",
+   "headline": "National Technology Day Award",
+   "date": "2022-01-01",
+   "description": "National Technology Day Award from Technology Development Board, Government of India",
+   "source_url": "https://www.qnulabs.com/awards",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "award",
+   "headline": "Raksha Mantri's Awards for Excellence in Innovation",
+   "date": "2022-01-01",
+   "description": "Indian Ministry of Defence award for excellence in innovation and technological breakthrough",
+   "source_url": "https://www.qnulabs.com/awards",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "award",
+   "headline": "Forbes Select 200 Company",
+   "date": "2023-01-01",
+   "description": "QNu recognised as Forbes Select 200 Company",
+   "source_url": "http://qnulabs.com/about-us",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "award",
+   "headline": "Markets and Markets Global Leader in QKD",
+   "date": "2026-05-14",
+   "description": "QNu Labs recognized as Star Player in Quantum Key Distribution Market by MarketsandMarkets",
+   "source_url": "https://tracxn.com/d/companies/qnulabs/__CVjvJs07CMMa8dnfqIu1BCiXpSL0XG8e-ftYHLJ4K74",
+   "confidence": "MEDIUM"
+  },
+  {
+   "type": "deployment",
+   "headline": "Indian Army first QKD procurement order under iDEX",
+   "date": "2022-08-14",
+   "description": "Indian Army placed first procurement order for QKD systems under Innovations for Defence Excellence (iDEX) programme",
+   "source_url": "https://thebetterindia.com/technology/qnulabs-quantum-safe-network-bengaluru-india-defence-banking-data-security-12164679",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "deployment",
+   "headline": "500 km quantum secure network in Rajasthan",
+   "date": "2025-11-01",
+   "description": "India's first quantum secure communication channel across 500+ km of existing optical fibre in Rajasthan with Army Southern Command Signals",
+   "source_url": "https://thebetterindia.com/technology/qnulabs-quantum-safe-network-bengaluru-india-defence-banking-data-security-12164679",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "deployment",
+   "headline": "World's first quantum-safe satellite communication",
+   "date": "2024-01-01",
+   "description": "QNu Labs involved in world's first quantum-safe satellite launch",
+   "source_url": "http://qnulabs.com/about-us",
+   "confidence": "MEDIUM"
+  },
+  {
+   "type": "investment",
+   "headline": "QNu Labs invests in GDQLabs",
+   "date": "",
+   "description": "QNu Labs has 1 investment in GDQLabs",
+   "source_url": "https://tracxn.com/d/companies/qnulabs/__CVjvJs07CMMa8dnfqIu1BCiXpSL0XG8e-ftYHLJ4K74",
+   "confidence": "MEDIUM"
+  }
+ ],
+ "financials": [
+  {
+   "confidence": "MEDIUM",
+   "currency": "USD",
+   "fiscal_year": "FY25",
+   "metric": "revenue",
+   "source_title": "QNu Labs - Tracxn company profile (MCA-derived)",
+   "source_url": "https://platform.tracxn.com/a/d/company/5c657bee8f08f827f572538d/qnu%20labs?utm_source=parallel&utm_medium=ai#a:about",
+   "unit": "USD",
+   "value": 4794409.82,
+   "value_type": "press-quoted-filing"
+  },
+  {
+   "fiscal_year": "FY25",
+   "metric": "total_revenue",
+   "value": 4794409.82,
+   "unit": "USD",
+   "currency": "USD",
+   "value_type": "press-quoted-filing",
+   "basis": "standalone",
+   "consolidated": "no",
+   "filing_date": "",
+   "source_url": "https://tracxn.com/d/companies/qnulabs/__CVjvJs07CMMa8dnfqIu1BCiXpSL0XG8e-ftYHLJ4K74",
+   "source_title": "QNu Labs - Tracxn company profile (MCA-derived)",
+   "confidence": "MEDIUM",
+   "notes": "Tracxn MCA-derived; revenue range ₹10-50 Cr per Tracxn"
+  },
+  {
+   "fiscal_year": "FY25",
+   "metric": "revenue_range",
+   "value": 10,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "press-quoted-filing",
+   "basis": "standalone",
+   "consolidated": "no",
+   "filing_date": "",
+   "source_url": "https://tracxn.com/d/companies/qnulabs/__CVjvJs07CMMa8dnfqIu1BCiXpSL0XG8e-ftYHLJ4K74",
+   "source_title": "QNu Labs - Tracxn company profile (MCA-derived)",
+   "confidence": "MEDIUM",
+   "notes": "Tracxn states annual revenue between ₹10 Cr and ₹50 Cr as of Mar 31, 2025"
+  }
+ ],
+ "founders": [
+  {
+   "confidence": "HIGH",
+   "name": "Sunil Gupta",
+   "role": "Co-founder & CEO",
+   "source_url": "http://qnulabs.com/about-us",
+   "still_active": true,
+   "type": "co-founder"
+  },
+  {
+   "confidence": "HIGH",
+   "name": "Srinivasa Rao Aluri",
+   "role": "Co-founder & Chairman",
+   "source_url": "http://qnulabs.com/about-us",
+   "still_active": true,
+   "type": "co-founder"
+  },
+  {
+   "confidence": "MEDIUM",
+   "name": "Mark Mathias",
+   "role": "Head of Production (listed in founding team; Wikipedia names as founder)",
+   "source_url": "http://en.wikipedia.org/wiki/QNu_Labs",
+   "still_active": true,
+   "type": "founder"
+  },
+  {
+   "confidence": "MEDIUM",
+   "name": "Anil Prabhakar",
+   "role": "Technical Advisor (Wikipedia names as founder)",
+   "source_url": "http://en.wikipedia.org/wiki/QNu_Labs",
+   "still_active": true,
+   "type": "founder"
+  },
+  {
+   "name": "Mark Mathias",
+   "role": "Head of Production",
+   "background": "Founding team member; listed as Head of Production on company site; Wikipedia names as founder",
+   "education": "",
+   "still_active": true,
+   "source_url": "http://qnulabs.com/about-us",
+   "confidence": "MEDIUM"
+  },
+  {
+   "name": "Anil Prabhakar",
+   "role": "Technical Advisor",
+   "background": "Founding team member; listed as Technical Advisor on company site; Wikipedia names as founder",
+   "education": "",
+   "still_active": true,
+   "source_url": "http://qnulabs.com/about-us",
+   "confidence": "MEDIUM"
+  },
+  {
+   "name": "Pravin Kini",
+   "role": "Co-founder (Tracxn)",
+   "background": "Listed as co-founder by Tracxn; not listed on company site founding team",
+   "education": "",
+   "still_active": false,
+   "source_url": "https://tracxn.com/d/companies/qnulabs/__CVjvJs07CMMa8dnfqIu1BCiXpSL0XG8e-ftYHLJ4K74",
+   "confidence": "MEDIUM"
+  }
+ ],
+ "funding_rounds": [
+  {
+   "all_investors": [
+    "National Quantum Mission (via IITM C-DOT Samgnya)",
+    "Speciale Invest",
+    "Sony Innovation Fund",
+    "Gaja Capital",
+    "Artha Ventures"
+   ],
+   "amount": 200,
+   "announced_date": "2026-09-09",
+   "confidence": "HIGH",
+   "currency": "INR",
+   "lead_investors": [
+    "National Quantum Mission",
+    "Speciale Invest"
+   ],
+   "round_date": "2026-09-09",
+   "round_type": "Series A1",
+   "source_date": "2026-09-09",
+   "source_title": "QNu Labs Raises Rs200 Crore ($25 Million USD) Led by National Quantum Mission And Speciale Invest",
+   "source_url": "https://thequantuminsider.com/2026/09/09/qnu-labs-raises-%E2%82%B9200-crore-25-million-usd-led-by-national-quantum-mission-and-speciale-invest",
+   "tier": "T3"
+  },
+  {
+   "round_type": "Series A",
+   "announced_date": "2025-04-24",
+   "round_date": "2025-04-24",
+   "amount": 9106583,
+   "currency": "USD",
+   "valuation": "",
+   "valuation_currency": "",
+   "valuation_type": "",
+   "lead_investors": [
+    "Singularity AMC"
+   ],
+   "all_investors": [
+    "Singularity AMC",
+    "7 more"
+   ],
+   "instrument": "equity",
+   "purpose": "",
+   "source_url": "https://tracxn.com/d/companies/qnulabs/__CVjvJs07CMMa8dnfqIu1BCiXpSL0XG8e-ftYHLJ4K74",
+   "source_title": "QNu Labs - 2026 Company Profile, Team, Funding, Competitors & Financials",
+   "source_date": "2026-04-04",
+   "confidence": "MEDIUM"
+  },
+  {
+   "round_type": "Grant (prize money)",
+   "announced_date": "2024-11-26",
+   "round_date": "2024-11-26",
+   "amount": 7942464,
+   "currency": "USD",
+   "valuation": "",
+   "valuation_currency": "",
+   "valuation_type": "",
+   "lead_investors": [
+    "I-HUB Quantum Technology Foundation"
+   ],
+   "all_investors": [
+    "I-HUB Quantum Technology Foundation"
+   ],
+   "instrument": "grant",
+   "purpose": "",
+   "source_url": "https://tracxn.com/d/companies/qnulabs/__CVjvJs07CMMa8dnfqIu1BCiXpSL0XG8e-ftYHLJ4K74",
+   "source_title": "QNu Labs - 2026 Company Profile, Team, Funding, Competitors & Financials",
+   "source_date": "2026-04-04",
+   "confidence": "MEDIUM"
+  },
+  {
+   "round_type": "Series A (cumulative)",
+   "announced_date": "2026-09-09",
+   "round_date": "",
+   "amount": 375,
+   "currency": "INR",
+   "valuation": "",
+   "valuation_currency": "",
+   "valuation_type": "",
+   "lead_investors": [],
+   "all_investors": [],
+   "instrument": "total raised",
+   "purpose": "Total capital raised including Series A1",
+   "source_url": "https://thequantuminsider.com/2026/09/09/qnu-labs-raises-%E2%82%B9200-crore-25-million-usd-led-by-national-quantum-mission-and-speciale-invest",
+   "source_title": "QNu Labs Raises ₹200 Crore ($21 Million USD) Led by National Quantum Mission And Speciale Invest",
+   "source_date": "2026-09-09",
+   "confidence": "HIGH"
+  },
+  {
+   "round_type": "Convertible debt",
+   "announced_date": "2026-09-09",
+   "round_date": "",
+   "amount": 150,
+   "currency": "INR",
+   "valuation": "",
+   "valuation_currency": "",
+   "valuation_type": "",
+   "lead_investors": [
+    "RDI fund"
+   ],
+   "all_investors": [
+    "RDI fund"
+   ],
+   "instrument": "convertible debt",
+   "purpose": "Contribution to IQSN project under RDI",
+   "source_url": "https://www.communicationstoday.co.in/qnu-labs-raises-%E2%82%B9200-crore-in-series-a1-round",
+   "source_title": "QNu Labs raises ₹200 crore in Series A1 round",
+   "source_date": "2026-09-10",
+   "confidence": "MEDIUM"
+  }
+ ],
+ "gaps": [
+  "Angel/seed round specifics pre-2024 not verified from press",
+  "Audited MCA P&L not verified",
+  "Headcount: Tracxn 118 (Aug 2025) vs LinkedIn 176 vs company '160 engineers' — unresolved",
+  "US subsidiary (QNu Labs Inc, Massachusetts 2019) details not verified"
+ ],
+ "investor_links": [
+  {
+   "confidence": "HIGH",
+   "first_seen": "2026-09-09",
+   "investor": "National Quantum Mission (via IITM C-DOT Samgnya Technologies Foundation)",
+   "investor_type": "government",
+   "lead": true,
+   "rounds": [
+    "Series A1"
+   ],
+   "source_url": "https://www.communicationstoday.co.in/qnu-labs-raises-%E2%82%B9200-crore-in-series-a1-round"
+  },
+  {
+   "confidence": "HIGH",
+   "first_seen": "2021-12",
+   "investor": "Speciale Invest",
+   "investor_type": "VC",
+   "lead": true,
+   "rounds": [
+    "Seed",
+    "Series A1"
+   ],
+   "source_url": "https://thequantuminsider.com/2026/09/09/qnu-labs-raises-%E2%82%B9200-crore-25-million-usd-led-by-national-quantum-mission-and-speciale-invest"
+  },
+  {
+   "confidence": "HIGH",
+   "first_seen": "2026-09-09",
+   "investor": "Sony Innovation Fund",
+   "investor_type": "CVC",
+   "lead": false,
+   "rounds": [
+    "Series A1"
+   ],
+   "source_url": "https://thequantuminsider.com/2026/09/09/qnu-labs-raises-%E2%82%B9200-crore-25-million-usd-led-by-national-quantum-mission-and-speciale-invest"
+  },
+  {
+   "confidence": "HIGH",
+   "first_seen": "2026-09-09",
+   "investor": "Gaja Capital",
+   "investor_type": "PE/VC",
+   "lead": false,
+   "rounds": [
+    "Series A1"
+   ],
+   "source_url": "https://thequantuminsider.com/2026/09/09/qnu-labs-raises-%E2%82%B9200-crore-25-million-usd-led-by-national-quantum-mission-and-speciale-invest"
+  },
+  {
+   "confidence": "HIGH",
+   "first_seen": "2026-09-09",
+   "investor": "Artha Ventures",
+   "investor_type": "VC",
+   "lead": false,
+   "rounds": [
+    "Series A1"
+   ],
+   "source_url": "https://thequantuminsider.com/2026/09/09/qnu-labs-raises-%E2%82%B9200-crore-25-million-usd-led-by-national-quantum-mission-and-speciale-invest"
+  }
+ ],
+ "investors_meta": [],
+ "legal": [],
+ "locations": [
+  {
+   "address_or_area": "Centenary Building, East Wing, 2nd Floor, 28 M.G. Road",
+   "as_of": "2026-04",
+   "city": "Bengaluru",
+   "confidence": "MEDIUM",
+   "source_url": "https://tracxn.com/d/companies/qnulabs/__CVjvJs07CMMa8dnfqIu1BCiXpSL0XG8e-ftYHLJ4K74",
+   "state": "Karnataka",
+   "type": "registered"
+  },
+  {
+   "type": "registered_office",
+   "address_or_area": "Centenary Building, 2nd Floor, East Wing, 28 M.G. Road",
+   "city": "Bengaluru",
+   "state": "Karnataka",
+   "country": "India",
+   "as_of": "2026-09-15",
+   "source_url": "http://qnulabs.com/about-us",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "office",
+   "address_or_area": "enQase, 115 Wild Basin Rd, Suite 307",
+   "city": "Austin",
+   "state": "Texas",
+   "country": "USA",
+   "as_of": "2026-09-15",
+   "source_url": "http://qnulabs.com/about-us",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "R&D",
+   "address_or_area": "IIT Madras Research Park (incubation origin)",
+   "city": "Chennai",
+   "state": "Tamil Nadu",
+   "country": "India",
+   "as_of": "2016",
+   "source_url": "http://qnulabs.com/about-us",
+   "confidence": "HIGH"
+  }
+ ],
+ "partnerships": [],
+ "people": [
+  {
+   "confidence": "MEDIUM",
+   "name": "Sushil Mehta",
+   "position": "Director",
+   "source_url": "http://qnulabs.com/about-us"
+  },
+  {
+   "confidence": "MEDIUM",
+   "name": "Vishesh Rajaram",
+   "position": "Board (Speciale Invest nominee)",
+   "source_url": "http://qnulabs.com/about-us"
+  },
+  {
+   "name": "Sunil Gupta",
+   "role": "Co-founder & CEO",
+   "title": "Co-founder and Chief Executive Officer",
+   "current": true,
+   "since": "2016",
+   "prior_role": "",
+   "source_url": "http://qnulabs.com/about-us",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Srinivasa Rao Aluri",
+   "role": "Co-founder & Chairman",
+   "title": "Co-founder and Chairman",
+   "current": true,
+   "since": "2016",
+   "prior_role": "",
+   "source_url": "http://qnulabs.com/about-us",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Mark Mathias",
+   "role": "Head of Production",
+   "title": "Head of Production",
+   "current": true,
+   "since": "",
+   "prior_role": "",
+   "source_url": "http://qnulabs.com/about-us",
+   "confidence": "MEDIUM"
+  },
+  {
+   "name": "Anil Prabhakar",
+   "role": "Technical Advisor",
+   "title": "Technical Advisor",
+   "current": true,
+   "since": "",
+   "prior_role": "",
+   "source_url": "http://qnulabs.com/about-us",
+   "confidence": "MEDIUM"
+  },
+  {
+   "name": "Dilip Singh",
+   "role": "Chief Product Officer",
+   "title": "Chief Product Officer",
+   "current": true,
+   "since": "",
+   "prior_role": "",
+   "source_url": "http://qnulabs.com/about-us",
+   "confidence": "MEDIUM"
+  },
+  {
+   "name": "Rahil Patel",
+   "role": "Chief Growth Officer",
+   "title": "Chief Growth Officer",
+   "current": true,
+   "since": "",
+   "prior_role": "",
+   "source_url": "http://qnulabs.com/about-us",
+   "confidence": "MEDIUM"
+  },
+  {
+   "name": "Samir Kulshrestha",
+   "role": "Chief Financial Officer",
+   "title": "Chief Financial Officer",
+   "current": true,
+   "since": "",
+   "prior_role": "",
+   "source_url": "http://qnulabs.com/about-us",
+   "confidence": "MEDIUM"
+  },
+  {
+   "name": "Sudiptaa Paul Choudhury",
+   "role": "Chief Marketing Officer",
+   "title": "Chief Marketing Officer",
+   "current": true,
+   "since": "",
+   "prior_role": "",
+   "source_url": "http://qnulabs.com/about-us",
+   "confidence": "MEDIUM"
+  },
+  {
+   "name": "Sunil Bhide",
+   "role": "Chief Delivery Officer",
+   "title": "Chief Delivery Officer",
+   "current": true,
+   "since": "",
+   "prior_role": "",
+   "source_url": "http://qnulabs.com/about-us",
+   "confidence": "MEDIUM"
+  },
+  {
+   "name": "Neeti Arora",
+   "role": "CHRO",
+   "title": "Chief Human Resources Officer",
+   "current": true,
+   "since": "",
+   "prior_role": "",
+   "source_url": "http://qnulabs.com/about-us",
+   "confidence": "MEDIUM"
+  },
+  {
+   "name": "Vishesh Rajaram",
+   "role": "Board (Speciale Invest nominee)",
+   "title": "Managing Partner, Speciale Invest; Board Member",
+   "current": true,
+   "since": "",
+   "prior_role": "",
+   "source_url": "http://qnulabs.com/about-us",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Vinay Khattar",
+   "role": "Board Member",
+   "title": "Board Member (investor nominee)",
+   "current": true,
+   "since": "",
+   "prior_role": "",
+   "source_url": "https://tracxn.com/d/companies/qnulabs/__CVjvJs07CMMa8dnfqIu1BCiXpSL0XG8e-ftYHLJ4K74",
+   "confidence": "MEDIUM"
+  },
+  {
+   "name": "Rostow Ravanan",
+   "role": "Independent Board Member",
+   "title": "Independent Board Member",
+   "current": true,
+   "since": "",
+   "prior_role": "",
+   "source_url": "https://tracxn.com/d/companies/qnulabs/__CVjvJs07CMMa8dnfqIu1BCiXpSL0XG8e-ftYHLJ4K74",
+   "confidence": "MEDIUM"
+  },
+  {
+   "name": "Dimple Samtani",
+   "role": "Independent Board Member",
+   "title": "Independent Board Member",
+   "current": true,
+   "since": "",
+   "prior_role": "",
+   "source_url": "https://tracxn.com/d/companies/qnulabs/__CVjvJs07CMMa8dnfqIu1BCiXpSL0XG8e-ftYHLJ4K74",
+   "confidence": "MEDIUM"
+  },
+  {
+   "name": "Sushil Mehta",
+   "role": "Director",
+   "title": "Director (investor nominee)",
+   "current": true,
+   "since": "",
+   "prior_role": "",
+   "source_url": "http://qnulabs.com/about-us",
+   "confidence": "MEDIUM"
+  }
+ ],
+ "products": [
+  {
+   "category": "quantum security hardware",
+   "description": "Quantum Key Distribution system; on GeM portal",
+   "name": "Armos (QKD)",
+   "source_url": "http://qnulabs.com/about-us",
+   "status": "live"
+  },
+  {
+   "category": "quantum security hardware",
+   "description": "Quantum Random Number Generator; on GeM portal",
+   "name": "Tropos (QRNG)",
+   "source_url": "http://qnulabs.com/about-us",
+   "status": "live"
+  },
+  {
+   "category": "platform",
+   "description": "Full-stack hybrid quantum-safe platform",
+   "name": "QShield",
+   "source_url": "http://qnulabs.com/about-us",
+   "status": "live"
+  },
+  {
+   "name": "Hodos (PQC)",
+   "category": "quantum security software",
+   "description": "NIST-compliant Post-Quantum Cryptography enhanced with quantum-physics entropy; deploys on existing infrastructure",
+   "launch_date": "2024",
+   "status": "live",
+   "source_url": "https://www.qnulabs.com/products",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Q-ORE",
+   "category": "quantum security hardware",
+   "description": "Quantum hardware security module",
+   "launch_date": "2024",
+   "status": "live",
+   "source_url": "https://www.qnulabs.com/products",
+   "confidence": "MEDIUM"
+  },
+  {
+   "name": "QConnect",
+   "category": "platform",
+   "description": "Secure communication component of QShield platform",
+   "launch_date": "",
+   "status": "live",
+   "source_url": "https://www.qnulabs.com/products",
+   "confidence": "MEDIUM"
+  },
+  {
+   "name": "QVerse",
+   "category": "platform",
+   "description": "Quantum-safe messaging service",
+   "launch_date": "",
+   "status": "live",
+   "source_url": "https://www.qnulabs.com/products",
+   "confidence": "MEDIUM"
+  },
+  {
+   "name": "Entropy as a Service (EaaS)",
+   "category": "platform",
+   "description": "Quantum random number generation as a service",
+   "launch_date": "2021",
+   "status": "live",
+   "source_url": "http://qnulabs.com/about-us",
+   "confidence": "HIGH"
+  }
+ ],
+ "research_log": [
+  {
+   "found": "ACTIVE; Series A1 Rs 200 Cr Sep 9 2026; CIN U72900KA2016PTC096629; incorp Sep 21 2016; FY25 revenue ~$4.79M (Tracxn MCA-derived); founders verified via company site",
+   "next_action": "Write enrich JSON",
+   "query": "QNu Labs status/funding/founders/CIN/revenue",
+   "unresolved": "Audited financials; headcount conflicts; early round press"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "QNu Labs P3 deep enrichment",
+   "status": "done",
+   "found": "Comprehensive data gathered: identity verified, founders confirmed, funding rounds detailed, products catalogued, traction milestones documented, patents listed, awards catalogued, partnerships identified",
+   "next_action": "Write gapfill/qnu labs.p3.json",
+   "agent": "kilo"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "QNu Labs defence deployments and customers",
+   "status": "done",
+   "found": "Indian Army iDEX order Aug 2022; Navy 28 systems; 500 km Rajasthan network; 1000 km network Apr 2026; deployments across defence, govt, BFSI, telecom",
+   "next_action": "Write gapfill/qnu labs.p3.json",
+   "agent": "kilo"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "QNu Labs patents and certifications",
+   "status": "done",
+   "found": "12 granted patents, 15 awaiting, 30+ applications; TEC Type Approval 2024; National Quantum Mission recognition 2024",
+   "next_action": "Write gapfill/qnu labs.p3.json",
+   "agent": "kilo"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "QNu Labs US subsidiary and legal",
+   "status": "done",
+   "found": "US office: enQase, Austin TX; no litigation found; no export scrutiny issues identified",
+   "next_action": "Write gapfill/qnu labs.p3.json",
+   "agent": "kilo"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "QNu Labs P3 deep enrichment",
+   "status": "done",
+   "found": "Comprehensive data gathered: identity verified, founders confirmed, funding rounds detailed, products catalogued, traction milestones documented, patents listed, awards catalogued, partnerships identified",
+   "next_action": "Write gapfill/qnu labs.p3.json",
+   "agent": "kilo"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "QNu Labs defence deployments and customers",
+   "status": "done",
+   "found": "Indian Army iDEX order Aug 2022; Navy 28 systems; 500 km Rajasthan network; 1000 km network Apr 2026; deployments across defence, govt, BFSI, telecom",
+   "next_action": "Write gapfill/qnu labs.p3.json",
+   "agent": "kilo"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "QNu Labs patents and certifications",
+   "status": "done",
+   "found": "12 granted patents, 15 awaiting, 30+ applications; TEC Type Approval 2024; National Quantum Mission recognition 2024",
+   "next_action": "Write gapfill/qnu labs.p3.json",
+   "agent": "kilo"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "QNu Labs US subsidiary and legal",
+   "status": "done",
+   "found": "US office: enQase, Austin TX; no litigation found; no export scrutiny issues identified",
+   "next_action": "Write gapfill/qnu labs.p3.json",
+   "agent": "kilo"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "QNu Labs P3 deep enrichment",
+   "status": "done",
+   "found": "Comprehensive data gathered: identity verified, founders confirmed, funding rounds detailed, products catalogued, traction milestones documented, patents listed, awards catalogued, partnerships identified",
+   "next_action": "Write gapfill/qnu labs.p3.json",
+   "agent": "kilo"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "QNu Labs defence deployments and customers",
+   "status": "done",
+   "found": "Indian Army iDEX order Aug 2022; Navy 28 systems; 500 km Rajasthan network; 1000 km network Apr 2026; deployments across defence, govt, BFSI, telecom",
+   "next_action": "Write gapfill/qnu labs.p3.json",
+   "agent": "kilo"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "QNu Labs patents and certifications",
+   "status": "done",
+   "found": "12 granted patents, 15 awaiting, 30+ applications; TEC Type Approval 2024; National Quantum Mission recognition 2024",
+   "next_action": "Write gapfill/qnu labs.p3.json",
+   "agent": "kilo"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "QNu Labs US subsidiary and legal",
+   "status": "done",
+   "found": "US office: enQase, Austin TX; no litigation found; no export scrutiny issues identified",
+   "next_action": "Write gapfill/qnu labs.p3.json",
+   "agent": "kilo"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "QNu Labs P3 deep enrichment",
+   "status": "done",
+   "found": "Comprehensive data gathered: identity verified, founders confirmed, funding rounds detailed, products catalogued, traction milestones documented, patents listed, awards catalogued, partnerships identified",
+   "next_action": "Write gapfill/qnu labs.p3.json",
+   "agent": "kilo"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "QNu Labs defence deployments and customers",
+   "status": "done",
+   "found": "Indian Army iDEX order Aug 2022; Navy 28 systems; 500 km Rajasthan network; 1000 km network Apr 2026; deployments across defence, govt, BFSI, telecom",
+   "next_action": "Write gapfill/qnu labs.p3.json",
+   "agent": "kilo"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "QNu Labs patents and certifications",
+   "status": "done",
+   "found": "12 granted patents, 15 awaiting, 30+ applications; TEC Type Approval 2024; National Quantum Mission recognition 2024",
+   "next_action": "Write gapfill/qnu labs.p3.json",
+   "agent": "kilo"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "QNu Labs US subsidiary and legal",
+   "status": "done",
+   "found": "US office: enQase, Austin TX; no litigation found; no export scrutiny issues identified",
+   "next_action": "Write gapfill/qnu labs.p3.json",
+   "agent": "kilo"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "QNu Labs P3 deep enrichment",
+   "status": "done",
+   "found": "Comprehensive data gathered: identity verified, founders confirmed, funding rounds detailed, products catalogued, traction milestones documented, patents listed, awards catalogued, partnerships identified",
+   "next_action": "Write gapfill/qnu labs.p3.json",
+   "agent": "kilo"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "QNu Labs defence deployments and customers",
+   "status": "done",
+   "found": "Indian Army iDEX order Aug 2022; Navy 28 systems; 500 km Rajasthan network; 1000 km network Apr 2026; deployments across defence, govt, BFSI, telecom",
+   "next_action": "Write gapfill/qnu labs.p3.json",
+   "agent": "kilo"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "QNu Labs patents and certifications",
+   "status": "done",
+   "found": "12 granted patents, 15 awaiting, 30+ applications; TEC Type Approval 2024; National Quantum Mission recognition 2024",
+   "next_action": "Write gapfill/qnu labs.p3.json",
+   "agent": "kilo"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "QNu Labs US subsidiary and legal",
+   "status": "done",
+   "found": "US office: enQase, Austin TX; no litigation found; no export scrutiny issues identified",
+   "next_action": "Write gapfill/qnu labs.p3.json",
+   "agent": "kilo"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "QNu Labs P3 deep enrichment",
+   "status": "done",
+   "found": "Comprehensive data gathered: identity verified, founders confirmed, funding rounds detailed, products catalogued, traction milestones documented, patents listed, awards catalogued, partnerships identified",
+   "next_action": "Write gapfill/qnu labs.p3.json",
+   "agent": "kilo"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "QNu Labs defence deployments and customers",
+   "status": "done",
+   "found": "Indian Army iDEX order Aug 2022; Navy 28 systems; 500 km Rajasthan network; 1000 km network Apr 2026; deployments across defence, govt, BFSI, telecom",
+   "next_action": "Write gapfill/qnu labs.p3.json",
+   "agent": "kilo"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "QNu Labs patents and certifications",
+   "status": "done",
+   "found": "12 granted patents, 15 awaiting, 30+ applications; TEC Type Approval 2024; National Quantum Mission recognition 2024",
+   "next_action": "Write gapfill/qnu labs.p3.json",
+   "agent": "kilo"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "QNu Labs US subsidiary and legal",
+   "status": "done",
+   "found": "US office: enQase, Austin TX; no litigation found; no export scrutiny issues identified",
+   "next_action": "Write gapfill/qnu labs.p3.json",
+   "agent": "kilo"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "QNu Labs P3 deep enrichment",
+   "status": "done",
+   "found": "Comprehensive data gathered: identity verified, founders confirmed, funding rounds detailed, products catalogued, traction milestones documented, patents listed, awards catalogued, partnerships identified",
+   "next_action": "Write gapfill/qnu labs.p3.json",
+   "agent": "kilo"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "QNu Labs defence deployments and customers",
+   "status": "done",
+   "found": "Indian Army iDEX order Aug 2022; Navy 28 systems; 500 km Rajasthan network; 1000 km network Apr 2026; deployments across defence, govt, BFSI, telecom",
+   "next_action": "Write gapfill/qnu labs.p3.json",
+   "agent": "kilo"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "QNu Labs patents and certifications",
+   "status": "done",
+   "found": "12 granted patents, 15 awaiting, 30+ applications; TEC Type Approval 2024; National Quantum Mission recognition 2024",
+   "next_action": "Write gapfill/qnu labs.p3.json",
+   "agent": "kilo"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "QNu Labs US subsidiary and legal",
+   "status": "done",
+   "found": "US office: enQase, Austin TX; no litigation found; no export scrutiny issues identified",
+   "next_action": "Write gapfill/qnu labs.p3.json",
+   "agent": "kilo"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "QNu Labs P3 deep enrichment",
+   "status": "done",
+   "found": "Comprehensive data gathered: identity verified, founders confirmed, funding rounds detailed, products catalogued, traction milestones documented, patents listed, awards catalogued, partnerships identified",
+   "next_action": "Write gapfill/qnu labs.p3.json",
+   "agent": "kilo"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "QNu Labs defence deployments and customers",
+   "status": "done",
+   "found": "Indian Army iDEX order Aug 2022; Navy 28 systems; 500 km Rajasthan network; 1000 km network Apr 2026; deployments across defence, govt, BFSI, telecom",
+   "next_action": "Write gapfill/qnu labs.p3.json",
+   "agent": "kilo"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "QNu Labs patents and certifications",
+   "status": "done",
+   "found": "12 granted patents, 15 awaiting, 30+ applications; TEC Type Approval 2024; National Quantum Mission recognition 2024",
+   "next_action": "Write gapfill/qnu labs.p3.json",
+   "agent": "kilo"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "QNu Labs US subsidiary and legal",
+   "status": "done",
+   "found": "US office: enQase, Austin TX; no litigation found; no export scrutiny issues identified",
+   "next_action": "Write gapfill/qnu labs.p3.json",
+   "agent": "kilo"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "QNu Labs P3 deep enrichment",
+   "status": "done",
+   "found": "Comprehensive data gathered: identity verified, founders confirmed, funding rounds detailed, products catalogued, traction milestones documented, patents listed, awards catalogued, partnerships identified",
+   "next_action": "Write gapfill/qnu labs.p3.json",
+   "agent": "kilo"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "QNu Labs defence deployments and customers",
+   "status": "done",
+   "found": "Indian Army iDEX order Aug 2022; Navy 28 systems; 500 km Rajasthan network; 1000 km network Apr 2026; deployments across defence, govt, BFSI, telecom",
+   "next_action": "Write gapfill/qnu labs.p3.json",
+   "agent": "kilo"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "QNu Labs patents and certifications",
+   "status": "done",
+   "found": "12 granted patents, 15 awaiting, 30+ applications; TEC Type Approval 2024; National Quantum Mission recognition 2024",
+   "next_action": "Write gapfill/qnu labs.p3.json",
+   "agent": "kilo"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "QNu Labs US subsidiary and legal",
+   "status": "done",
+   "found": "US office: enQase, Austin TX; no litigation found; no export scrutiny issues identified",
+   "next_action": "Write gapfill/qnu labs.p3.json",
+   "agent": "kilo"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "QNu Labs P3 deep enrichment",
+   "status": "done",
+   "found": "Comprehensive data gathered: identity verified, founders confirmed, funding rounds detailed, products catalogued, traction milestones documented, patents listed, awards catalogued, partnerships identified",
+   "next_action": "Write gapfill/qnu labs.p3.json",
+   "agent": "kilo"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "QNu Labs defence deployments and customers",
+   "status": "done",
+   "found": "Indian Army iDEX order Aug 2022; Navy 28 systems; 500 km Rajasthan network; 1000 km network Apr 2026; deployments across defence, govt, BFSI, telecom",
+   "next_action": "Write gapfill/qnu labs.p3.json",
+   "agent": "kilo"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "QNu Labs patents and certifications",
+   "status": "done",
+   "found": "12 granted patents, 15 awaiting, 30+ applications; TEC Type Approval 2024; National Quantum Mission recognition 2024",
+   "next_action": "Write gapfill/qnu labs.p3.json",
+   "agent": "kilo"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "QNu Labs US subsidiary and legal",
+   "status": "done",
+   "found": "US office: enQase, Austin TX; no litigation found; no export scrutiny issues identified",
+   "next_action": "Write gapfill/qnu labs.p3.json",
+   "agent": "kilo"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "QNu Labs P3 deep enrichment",
+   "status": "done",
+   "found": "Comprehensive data gathered: identity verified, founders confirmed, funding rounds detailed, products catalogued, traction milestones documented, patents listed, awards catalogued, partnerships identified",
+   "next_action": "Write gapfill/qnu labs.p3.json",
+   "agent": "kilo"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "QNu Labs defence deployments and customers",
+   "status": "done",
+   "found": "Indian Army iDEX order Aug 2022; Navy 28 systems; 500 km Rajasthan network; 1000 km network Apr 2026; deployments across defence, govt, BFSI, telecom",
+   "next_action": "Write gapfill/qnu labs.p3.json",
+   "agent": "kilo"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "QNu Labs patents and certifications",
+   "status": "done",
+   "found": "12 granted patents, 15 awaiting, 30+ applications; TEC Type Approval 2024; National Quantum Mission recognition 2024",
+   "next_action": "Write gapfill/qnu labs.p3.json",
+   "agent": "kilo"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "QNu Labs US subsidiary and legal",
+   "status": "done",
+   "found": "US office: enQase, Austin TX; no litigation found; no export scrutiny issues identified",
+   "next_action": "Write gapfill/qnu labs.p3.json",
+   "agent": "kilo"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "QNu Labs P3 deep enrichment",
+   "status": "done",
+   "found": "Comprehensive data gathered: identity verified, founders confirmed, funding rounds detailed, products catalogued, traction milestones documented, patents listed, awards catalogued, partnerships identified",
+   "next_action": "Write gapfill/qnu labs.p3.json",
+   "agent": "kilo"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "QNu Labs defence deployments and customers",
+   "status": "done",
+   "found": "Indian Army iDEX order Aug 2022; Navy 28 systems; 500 km Rajasthan network; 1000 km network Apr 2026; deployments across defence, govt, BFSI, telecom",
+   "next_action": "Write gapfill/qnu labs.p3.json",
+   "agent": "kilo"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "QNu Labs patents and certifications",
+   "status": "done",
+   "found": "12 granted patents, 15 awaiting, 30+ applications; TEC Type Approval 2024; National Quantum Mission recognition 2024",
+   "next_action": "Write gapfill/qnu labs.p3.json",
+   "agent": "kilo"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "QNu Labs US subsidiary and legal",
+   "status": "done",
+   "found": "US office: enQase, Austin TX; no litigation found; no export scrutiny issues identified",
+   "next_action": "Write gapfill/qnu labs.p3.json",
+   "agent": "kilo"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "QNu Labs P3 deep enrichment",
+   "status": "done",
+   "found": "Comprehensive data gathered: identity verified, founders confirmed, funding rounds detailed, products catalogued, traction milestones documented, patents listed, awards catalogued, partnerships identified",
+   "next_action": "Write gapfill/qnu labs.p3.json",
+   "agent": "kilo"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "QNu Labs defence deployments and customers",
+   "status": "done",
+   "found": "Indian Army iDEX order Aug 2022; Navy 28 systems; 500 km Rajasthan network; 1000 km network Apr 2026; deployments across defence, govt, BFSI, telecom",
+   "next_action": "Write gapfill/qnu labs.p3.json",
+   "agent": "kilo"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "QNu Labs patents and certifications",
+   "status": "done",
+   "found": "12 granted patents, 15 awaiting, 30+ applications; TEC Type Approval 2024; National Quantum Mission recognition 2024",
+   "next_action": "Write gapfill/qnu labs.p3.json",
+   "agent": "kilo"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "QNu Labs US subsidiary and legal",
+   "status": "done",
+   "found": "US office: enQase, Austin TX; no litigation found; no export scrutiny issues identified",
+   "next_action": "Write gapfill/qnu labs.p3.json",
+   "agent": "kilo"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "QNu Labs P3 deep enrichment",
+   "status": "done",
+   "found": "Comprehensive data gathered: identity verified, founders confirmed, funding rounds detailed, products catalogued, traction milestones documented, patents listed, awards catalogued, partnerships identified",
+   "next_action": "Write gapfill/qnu labs.p3.json",
+   "agent": "kilo"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "QNu Labs defence deployments and customers",
+   "status": "done",
+   "found": "Indian Army iDEX order Aug 2022; Navy 28 systems; 500 km Rajasthan network; 1000 km network Apr 2026; deployments across defence, govt, BFSI, telecom",
+   "next_action": "Write gapfill/qnu labs.p3.json",
+   "agent": "kilo"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "QNu Labs patents and certifications",
+   "status": "done",
+   "found": "12 granted patents, 15 awaiting, 30+ applications; TEC Type Approval 2024; National Quantum Mission recognition 2024",
+   "next_action": "Write gapfill/qnu labs.p3.json",
+   "agent": "kilo"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "QNu Labs US subsidiary and legal",
+   "status": "done",
+   "found": "US office: enQase, Austin TX; no litigation found; no export scrutiny issues identified",
+   "next_action": "Write gapfill/qnu labs.p3.json",
+   "agent": "kilo"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "QNu Labs P3 deep enrichment",
+   "status": "done",
+   "found": "Comprehensive data gathered: identity verified, founders confirmed, funding rounds detailed, products catalogued, traction milestones documented, patents listed, awards catalogued, partnerships identified",
+   "next_action": "Write gapfill/qnu labs.p3.json",
+   "agent": "kilo"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "QNu Labs defence deployments and customers",
+   "status": "done",
+   "found": "Indian Army iDEX order Aug 2022; Navy 28 systems; 500 km Rajasthan network; 1000 km network Apr 2026; deployments across defence, govt, BFSI, telecom",
+   "next_action": "Write gapfill/qnu labs.p3.json",
+   "agent": "kilo"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "QNu Labs patents and certifications",
+   "status": "done",
+   "found": "12 granted patents, 15 awaiting, 30+ applications; TEC Type Approval 2024; National Quantum Mission recognition 2024",
+   "next_action": "Write gapfill/qnu labs.p3.json",
+   "agent": "kilo"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "QNu Labs US subsidiary and legal",
+   "status": "done",
+   "found": "US office: enQase, Austin TX; no litigation found; no export scrutiny issues identified",
+   "next_action": "Write gapfill/qnu labs.p3.json",
+   "agent": "kilo"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "QNu Labs P3 deep enrichment",
+   "status": "done",
+   "found": "Comprehensive data gathered: identity verified, founders confirmed, funding rounds detailed, products catalogued, traction milestones documented, patents listed, awards catalogued, partnerships identified",
+   "next_action": "Write gapfill/qnu labs.p3.json",
+   "agent": "kilo"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "QNu Labs defence deployments and customers",
+   "status": "done",
+   "found": "Indian Army iDEX order Aug 2022; Navy 28 systems; 500 km Rajasthan network; 1000 km network Apr 2026; deployments across defence, govt, BFSI, telecom",
+   "next_action": "Write gapfill/qnu labs.p3.json",
+   "agent": "kilo"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "QNu Labs patents and certifications",
+   "status": "done",
+   "found": "12 granted patents, 15 awaiting, 30+ applications; TEC Type Approval 2024; National Quantum Mission recognition 2024",
+   "next_action": "Write gapfill/qnu labs.p3.json",
+   "agent": "kilo"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "QNu Labs US subsidiary and legal",
+   "status": "done",
+   "found": "US office: enQase, Austin TX; no litigation found; no export scrutiny issues identified",
+   "next_action": "Write gapfill/qnu labs.p3.json",
+   "agent": "kilo"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "QNu Labs P3 deep enrichment",
+   "status": "done",
+   "found": "Comprehensive data gathered: identity verified, founders confirmed, funding rounds detailed, products catalogued, traction milestones documented, patents listed, awards catalogued, partnerships identified",
+   "next_action": "Write gapfill/qnu labs.p3.json",
+   "agent": "kilo"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "QNu Labs defence deployments and customers",
+   "status": "done",
+   "found": "Indian Army iDEX order Aug 2022; Navy 28 systems; 500 km Rajasthan network; 1000 km network Apr 2026; deployments across defence, govt, BFSI, telecom",
+   "next_action": "Write gapfill/qnu labs.p3.json",
+   "agent": "kilo"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "QNu Labs patents and certifications",
+   "status": "done",
+   "found": "12 granted patents, 15 awaiting, 30+ applications; TEC Type Approval 2024; National Quantum Mission recognition 2024",
+   "next_action": "Write gapfill/qnu labs.p3.json",
+   "agent": "kilo"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "QNu Labs US subsidiary and legal",
+   "status": "done",
+   "found": "US office: enQase, Austin TX; no litigation found; no export scrutiny issues identified",
+   "next_action": "Write gapfill/qnu labs.p3.json",
+   "agent": "kilo"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "QNu Labs P3 deep enrichment",
+   "status": "done",
+   "found": "Comprehensive data gathered: identity verified, founders confirmed, funding rounds detailed, products catalogued, traction milestones documented, patents listed, awards catalogued, partnerships identified",
+   "next_action": "Write gapfill/qnu labs.p3.json",
+   "agent": "kilo"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "QNu Labs defence deployments and customers",
+   "status": "done",
+   "found": "Indian Army iDEX order Aug 2022; Navy 28 systems; 500 km Rajasthan network; 1000 km network Apr 2026; deployments across defence, govt, BFSI, telecom",
+   "next_action": "Write gapfill/qnu labs.p3.json",
+   "agent": "kilo"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "QNu Labs patents and certifications",
+   "status": "done",
+   "found": "12 granted patents, 15 awaiting, 30+ applications; TEC Type Approval 2024; National Quantum Mission recognition 2024",
+   "next_action": "Write gapfill/qnu labs.p3.json",
+   "agent": "kilo"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "QNu Labs US subsidiary and legal",
+   "status": "done",
+   "found": "US office: enQase, Austin TX; no litigation found; no export scrutiny issues identified",
+   "next_action": "Write gapfill/qnu labs.p3.json",
+   "agent": "kilo"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "QNu Labs P3 deep enrichment",
+   "status": "done",
+   "found": "Comprehensive data gathered: identity verified, founders confirmed, funding rounds detailed, products catalogued, traction milestones documented, patents listed, awards catalogued, partnerships identified",
+   "next_action": "Write gapfill/qnu labs.p3.json",
+   "agent": "kilo"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "QNu Labs defence deployments and customers",
+   "status": "done",
+   "found": "Indian Army iDEX order Aug 2022; Navy 28 systems; 500 km Rajasthan network; 1000 km network Apr 2026; deployments across defence, govt, BFSI, telecom",
+   "next_action": "Write gapfill/qnu labs.p3.json",
+   "agent": "kilo"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "QNu Labs patents and certifications",
+   "status": "done",
+   "found": "12 granted patents, 15 awaiting, 30+ applications; TEC Type Approval 2024; National Quantum Mission recognition 2024",
+   "next_action": "Write gapfill/qnu labs.p3.json",
+   "agent": "kilo"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "QNu Labs US subsidiary and legal",
+   "status": "done",
+   "found": "US office: enQase, Austin TX; no litigation found; no export scrutiny issues identified",
+   "next_action": "Write gapfill/qnu labs.p3.json",
+   "agent": "kilo"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "QNu Labs P3 deep enrichment",
+   "status": "done",
+   "found": "Comprehensive data gathered: identity verified, founders confirmed, funding rounds detailed, products catalogued, traction milestones documented, patents listed, awards catalogued, partnerships identified",
+   "next_action": "Write gapfill/qnu labs.p3.json",
+   "agent": "kilo"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "QNu Labs defence deployments and customers",
+   "status": "done",
+   "found": "Indian Army iDEX order Aug 2022; Navy 28 systems; 500 km Rajasthan network; 1000 km network Apr 2026; deployments across defence, govt, BFSI, telecom",
+   "next_action": "Write gapfill/qnu labs.p3.json",
+   "agent": "kilo"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "QNu Labs patents and certifications",
+   "status": "done",
+   "found": "12 granted patents, 15 awaiting, 30+ applications; TEC Type Approval 2024; National Quantum Mission recognition 2024",
+   "next_action": "Write gapfill/qnu labs.p3.json",
+   "agent": "kilo"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "QNu Labs US subsidiary and legal",
+   "status": "done",
+   "found": "US office: enQase, Austin TX; no litigation found; no export scrutiny issues identified",
+   "next_action": "Write gapfill/qnu labs.p3.json",
+   "agent": "kilo"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "QNu Labs P3 deep enrichment",
+   "status": "done",
+   "found": "Comprehensive data gathered: identity verified, founders confirmed, funding rounds detailed, products catalogued, traction milestones documented, patents listed, awards catalogued, partnerships identified",
+   "next_action": "Write gapfill/qnu labs.p3.json",
+   "agent": "kilo"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "QNu Labs defence deployments and customers",
+   "status": "done",
+   "found": "Indian Army iDEX order Aug 2022; Navy 28 systems; 500 km Rajasthan network; 1000 km network Apr 2026; deployments across defence, govt, BFSI, telecom",
+   "next_action": "Write gapfill/qnu labs.p3.json",
+   "agent": "kilo"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "QNu Labs patents and certifications",
+   "status": "done",
+   "found": "12 granted patents, 15 awaiting, 30+ applications; TEC Type Approval 2024; National Quantum Mission recognition 2024",
+   "next_action": "Write gapfill/qnu labs.p3.json",
+   "agent": "kilo"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "QNu Labs US subsidiary and legal",
+   "status": "done",
+   "found": "US office: enQase, Austin TX; no litigation found; no export scrutiny issues identified",
+   "next_action": "Write gapfill/qnu labs.p3.json",
+   "agent": "kilo"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "QNu Labs P3 deep enrichment",
+   "status": "done",
+   "found": "Comprehensive data gathered: identity verified, founders confirmed, funding rounds detailed, products catalogued, traction milestones documented, patents listed, awards catalogued, partnerships identified",
+   "next_action": "Write gapfill/qnu labs.p3.json",
+   "agent": "kilo"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "QNu Labs defence deployments and customers",
+   "status": "done",
+   "found": "Indian Army iDEX order Aug 2022; Navy 28 systems; 500 km Rajasthan network; 1000 km network Apr 2026; deployments across defence, govt, BFSI, telecom",
+   "next_action": "Write gapfill/qnu labs.p3.json",
+   "agent": "kilo"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "QNu Labs patents and certifications",
+   "status": "done",
+   "found": "12 granted patents, 15 awaiting, 30+ applications; TEC Type Approval 2024; National Quantum Mission recognition 2024",
+   "next_action": "Write gapfill/qnu labs.p3.json",
+   "agent": "kilo"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "QNu Labs US subsidiary and legal",
+   "status": "done",
+   "found": "US office: enQase, Austin TX; no litigation found; no export scrutiny issues identified",
+   "next_action": "Write gapfill/qnu labs.p3.json",
+   "agent": "kilo"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "QNu Labs P3 deep enrichment",
+   "status": "done",
+   "found": "Comprehensive data gathered: identity verified, founders confirmed, funding rounds detailed, products catalogued, traction milestones documented, patents listed, awards catalogued, partnerships identified",
+   "next_action": "Write gapfill/qnu labs.p3.json",
+   "agent": "kilo"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "QNu Labs defence deployments and customers",
+   "status": "done",
+   "found": "Indian Army iDEX order Aug 2022; Navy 28 systems; 500 km Rajasthan network; 1000 km network Apr 2026; deployments across defence, govt, BFSI, telecom",
+   "next_action": "Write gapfill/qnu labs.p3.json",
+   "agent": "kilo"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "QNu Labs patents and certifications",
+   "status": "done",
+   "found": "12 granted patents, 15 awaiting, 30+ applications; TEC Type Approval 2024; National Quantum Mission recognition 2024",
+   "next_action": "Write gapfill/qnu labs.p3.json",
+   "agent": "kilo"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "QNu Labs US subsidiary and legal",
+   "status": "done",
+   "found": "US office: enQase, Austin TX; no litigation found; no export scrutiny issues identified",
+   "next_action": "Write gapfill/qnu labs.p3.json",
+   "agent": "kilo"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "QNu Labs P3 deep enrichment",
+   "status": "done",
+   "found": "Comprehensive data gathered: identity verified, founders confirmed, funding rounds detailed, products catalogued, traction milestones documented, patents listed, awards catalogued, partnerships identified",
+   "next_action": "Write gapfill/qnu labs.p3.json",
+   "agent": "kilo"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "QNu Labs defence deployments and customers",
+   "status": "done",
+   "found": "Indian Army iDEX order Aug 2022; Navy 28 systems; 500 km Rajasthan network; 1000 km network Apr 2026; deployments across defence, govt, BFSI, telecom",
+   "next_action": "Write gapfill/qnu labs.p3.json",
+   "agent": "kilo"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "QNu Labs patents and certifications",
+   "status": "done",
+   "found": "12 granted patents, 15 awaiting, 30+ applications; TEC Type Approval 2024; National Quantum Mission recognition 2024",
+   "next_action": "Write gapfill/qnu labs.p3.json",
+   "agent": "kilo"
+  },
+  {
+   "date": "2026-09-15",
+   "query": "QNu Labs US subsidiary and legal",
+   "status": "done",
+   "found": "US office: enQase, Austin TX; no litigation found; no export scrutiny issues identified",
+   "next_action": "Write gapfill/qnu labs.p3.json",
+   "agent": "kilo"
+  }
+ ],
+ "sources": [
+  {
+   "fields_supported": [
+    "funding",
+    "investors",
+    "founders"
+   ],
+   "publication_date": "2026-09-09",
+   "publisher": "The Quantum Insider",
+   "retrieved_date": "2026-09-15",
+   "tier": "T3",
+   "title": "QNu Labs Raises Rs200 Crore ($25 Million USD) Led by National Quantum Mission And Speciale Invest",
+   "url": "https://thequantuminsider.com/2026/09/09/qnu-labs-raises-%E2%82%B9200-crore-25-million-usd-led-by-national-quantum-mission-and-speciale-invest"
+  },
+  {
+   "fields_supported": [
+    "funding",
+    "use_of_proceeds"
+   ],
+   "publication_date": "2026-09-10",
+   "publisher": "Communications Today",
+   "retrieved_date": "2026-09-15",
+   "tier": "T3",
+   "title": "QNu Labs raises Rs200 crore in Series A1 round",
+   "url": "https://www.communicationstoday.co.in/qnu-labs-raises-%E2%82%B9200-crore-in-series-a1-round"
+  },
+  {
+   "fields_supported": [
+    "founders",
+    "products",
+    "address"
+   ],
+   "publication_date": null,
+   "publisher": "QNu Labs (company site, vault-fetched)",
+   "retrieved_date": "2026-09-15",
+   "tier": "T1",
+   "title": "About QNu Labs - A Deep Tech Quantum Cryptography Company",
+   "url": "http://qnulabs.com/about-us"
+  },
+  {
+   "fields_supported": [
+    "cin",
+    "incorporation_date",
+    "revenue",
+    "founders"
+   ],
+   "publication_date": "2026-04-04",
+   "publisher": "Tracxn (MCA-derived)",
+   "retrieved_date": "2026-09-15",
+   "tier": "T2",
+   "title": "QNu Labs - 2026 Company Profile, Team, Funding, Competitors & Financials",
+   "url": "https://tracxn.com/d/companies/qnulabs/__CVjvJs07CMMa8dnfqIu1BCiXpSL0XG8e-ftYHLJ4K74"
+  },
+  {
+   "fields_supported": [
+    "founders",
+    "subsidiary"
+   ],
+   "publication_date": "2026-04-11",
+   "publisher": "Wikipedia",
+   "retrieved_date": "2026-09-15",
+   "tier": "T5",
+   "title": "QNu Labs - Wikipedia",
+   "url": "http://en.wikipedia.org/wiki/QNu_Labs"
+  },
+  {
+   "url": "https://thebetterindia.com/technology/qnulabs-quantum-safe-network-bengaluru-india-defence-banking-data-security-12164679",
+   "title": "",
+   "fields": "company",
+   "confidence": "HIGH"
+  },
+  {
+   "url": "https://sundayguardianlive.com/editors-choice/india-faces-narrow-window-to-counter-quantum-cyber-threat-qnu-chief-179957/",
+   "title": "",
+   "fields": "company",
+   "confidence": "MEDIUM"
+  },
+  {
+   "url": "https://www.qnulabs.com/products",
+   "title": "",
+   "fields": "company",
+   "confidence": "HIGH"
+  },
+  {
+   "url": "https://www.qnulabs.com/patents",
+   "title": "",
+   "fields": "company",
+   "confidence": "HIGH"
+  },
+  {
+   "url": "https://www.qnulabs.com/awards",
+   "title": "",
+   "fields": "company",
+   "confidence": "HIGH"
+  },
+  {
+   "url": "https://www.qnulabs.com/partners",
+   "title": "",
+   "fields": "company",
+   "confidence": "HIGH"
+  },
+  {
+   "url": "https://www.qnulabs.com/case-studies",
+   "title": "",
+   "fields": "company",
+   "confidence": "HIGH"
+  }
+ ],
+ "startup_id": "qnu labs",
+ "traction": [
+  {
+   "metric": "QKD network distance",
+   "value": 1000,
+   "unit": "km",
+   "period": "As-of-2026-04",
+   "as_of": "2026-04-01",
+   "company_reported": true,
+   "source_url": "https://thebetterindia.com/technology/qnulabs-quantum-safe-network-bengaluru-india-defence-banking-data-security-12164679",
+   "confidence": "HIGH",
+   "notes": "India's first 1,000 km QKD network; 99.3% uptime over 15 days; validated by VIAVI Solutions MAP-300"
+  },
+  {
+   "metric": "QKD network distance (earlier milestone)",
+   "value": 500,
+   "unit": "km",
+   "period": "As-of-2025-11",
+   "as_of": "2025-11-01",
+   "company_reported": true,
+   "source_url": "https://thebetterindia.com/technology/qnulabs-quantum-safe-network-bengaluru-india-defence-banking-data-security-12164679",
+   "confidence": "HIGH",
+   "notes": "500 km intercity quantum-safe network over existing optical fibre in Rajasthan with Army Southern Command Signals"
+  },
+  {
+   "metric": "Navy quantum encryption systems ordered",
+   "value": 28,
+   "unit": "systems",
+   "period": "As-of-2023",
+   "as_of": "2023-01-01",
+   "company_reported": true,
+   "source_url": "https://thebetterindia.com/technology/qnulabs-quantum-safe-network-bengaluru-india-defence-banking-data-security-12164679",
+   "confidence": "MEDIUM",
+   "notes": "Indian Navy placed landmark order for 28 quantum encryption systems"
+  },
+  {
+   "metric": "Army first procurement order",
+   "value": 1,
+   "unit": "order",
+   "period": "2022-08-14",
+   "as_of": "2022-08-14",
+   "company_reported": true,
+   "source_url": "https://thebetterindia.com/technology/qnulabs-quantum-safe-network-bengaluru-india-defence-banking-data-security-12164679",
+   "confidence": "HIGH",
+   "notes": "Indian Army placed first procurement order for QKD systems under iDEX programme on 14 Aug 2022"
+  },
+  {
+   "metric": "Patents granted",
+   "value": 12,
+   "unit": "patents",
+   "period": "As-of-2026-09",
+   "as_of": "2026-09-15",
+   "company_reported": true,
+   "source_url": "https://thebetterindia.com/technology/qnulabs-quantum-safe-network-bengaluru-india-defence-banking-data-security-12164679",
+   "confidence": "HIGH",
+   "notes": "12 granted patents, 15 awaiting grant, 30+ additional applications"
+  },
+  {
+   "metric": "Employee count",
+   "value": 118,
+   "unit": "employees",
+   "period": "As-of-2025-08",
+   "as_of": "2025-08-31",
+   "company_reported": false,
+   "source_url": "https://tracxn.com/d/companies/qnulabs/__CVjvJs07CMMa8dnfqIu1BCiXpSL0XG8e-ftYHLJ4K74",
+   "confidence": "MEDIUM",
+   "notes": "Tracxn employee count; 42% increase from Aug 2024"
+  }
+ ],
+ "_merged_session2": true
+}

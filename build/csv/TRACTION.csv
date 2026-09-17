@@ -1,0 +1,1012 @@
+metric_id,startup_id,metric,value,unit,period,as_of,company_reported,source_id,confidence,notes
+MET00001,S0001,payment volume,$1Tn annualised TPV; ~300Mn txns/day; 500+ enterprises,,annualised,2025-11,True,SRC00003,MEDIUM,
+MET00002,S0001,daily_transactions,300,million,FY25,2025-11-12,True,SRC00009,HIGH,grew from 175M to 300M+ daily in FY25
+MET00003,S0001,annualised_tpv,1000,billion,FY25,2025-11-12,True,SRC00009,HIGH,$1 trillion annualised TPV; surged from $400B
+MET00004,S0001,enterprise_count,500,count,FY25,2025-11-12,True,SRC00019,HIGH,500+ enterprises
+MET00005,S0001,daily_transactions_historical,125,million,FY24,2024-08,True,SRC00029,MEDIUM,125M daily transactions as of Aug 2024
+MET00006,S0001,daily_transactions_historical,175,million,FY25 start,2024-04,True,SRC00009,HIGH,175M daily transactions at start of FY25
+MET00007,S0002,app downloads,230M+,,cumulative,Mar 2026,True,SRC00031,HIGH,
+MET00008,S0002,AUM,"$1.5B / Rs 15,000cr",,point-in-time,Mar 2026,True,SRC00031,HIGH,
+MET00009,S0002,unique loan customers,18M+,,cumulative,Mar 2026,True,SRC00031,MEDIUM,
+MET00010,S0002,AUM,13141.0,crore,As-of-2025-12-31,2025-12-31,True,SRC00038,HIGH,"CARE Ratings: AUM Rs 13,141 crore as on Dec 31, 2025"
+MET00011,S0002,AUM,10102.0,crore,FY25 (As-of-2025-03-31),2025-03-31,True,SRC00039,HIGH,"AUM grew ~32% in FY25 from Rs 7,644 crore FY24; CAGR 73% since FY22"
+MET00012,S0002,AUM,15000.0,crore,FY26 (As-of-2026-03-31),2026-03-31,True,SRC00031,MEDIUM,Company-reported at Series E announcement; ~$1.5B
+MET00013,S0002,total_disbursals,30000.0,crore,FY26 (Apr-2025..Mar-2026),2026-03-31,True,SRC00032,HIGH,"Kreditbee closed 2025-26 with total disbursals of Rs 30,000 crore"
+MET00014,S0002,total_disbursals,24647.0,crore,FY25,2025-03-31,True,SRC00039,HIGH,Disbursements grew ~19% in FY25; CAGR ~62% since FY22
+MET00015,S0002,unique_loan_customers,18000000,count,cumulative,2026-03-31,True,SRC00031,HIGH,18M+ unique loan customers; over 60M loans facilitated
+MET00016,S0002,app_downloads,230000000,count,cumulative,2026-03-31,True,SRC00031,HIGH,230M+ app downloads
+MET00017,S0002,registered_customers,80000000,count,cumulative,2026-04-08,True,SRC00065,MEDIUM,80M+ registered customers; 180M+ individuals served
+MET00018,S0002,co_lending_book_share,42.0,percent,FY25 (As-of-2025-03-31),2025-03-31,True,SRC00039,HIGH,"Co-lending book constituted ~42% of overall AUM as on Mar 31, 2025"
+MET00019,S0002,non_metro_customer_share,77.0,percent,point-in-time,2026-04-08,True,SRC00066,MEDIUM,Over 77% of customer base resides in non-metro cities
+MET00020,S0002,repeat_borrower_share,80.0,percent,point-in-time,2025-07-14,True,SRC00039,HIGH,Over 80% of disbursements to repeat borrowers
+MET00021,S0002,cibil_above_700_share,90.0,percent,Since-Apr-2022,2025-07-14,True,SRC00039,HIGH,Over 90% of disbursements since Apr 2022 towards borrowers with CIBIL > 700
+MET00022,S0003,UPI market share,~half of UPI payments,,Jan 2026,2026-03-01,False,SRC00070,MEDIUM,
+MET00023,S0003,lifetime registered users,718,million,As-of-July-2026,2026-07-01,True,SRC00078,HIGH,From PhonePe official press/media kit page
+MET00024,S0003,lifetime registered merchants,50,million,As-of-July-2026,2026-07-01,True,SRC00078,HIGH,From PhonePe official press/media kit page
+MET00025,S0003,customer transactions in month,11,billion,July 2026,2026-07-01,True,SRC00078,HIGH,From PhonePe official press/media kit page
+MET00026,S0003,daily transactions,400,million,As-of-August-2026,2026-08-01,True,SRC00078,HIGH,From India Today Impact Feature headline on PhonePe press page
+MET00027,S0003,UPI market share,50,percent,Jan 2026,2026-01-01,False,SRC00070,MEDIUM,Reuters reports PhonePe has ~half of UPI payments; Navi article confirms PhonePe #1 in UPI TPAP ranking
+MET00028,S0003,daily SIP base,500000,count,As-of-August-2026,2026-08-03,True,SRC00087,MEDIUM,"PhonePe Daily SIP base crosses 500,000 per Business Standard Aug 3, 2026"
+MET00029,S0004,merchants served,8M+,,point-in-time,2025-01-01,True,SRC00100,MEDIUM,
+MET00030,S0004,quarterly TPV,~$45B / ~1B txns,,quarterly,2025-01-01,True,SRC00100,MEDIUM,
+MET00031,S0005,daily orders,1.6-1.7M/day (from 0.5M 5 quarters prior),,point-in-time,2025-10-16,True,SRC00104,HIGH,
+MET00032,S0005,dark stores,"~1,000",,point-in-time,2025-10-16,True,SRC00104,HIGH,
+MET00033,S0005,ad vertical ARR,"Rs 2,000cr",,annualised,2025-10-16,True,SRC00110,MEDIUM,
+MET00034,S0005,daily_orders,2330000,orders/day,As-of-2026-03,2026-03-31,True,SRC00108,HIGH,2.33 million daily orders per Forbes India
+MET00035,S0005,annual_transacting_users,48000000,users,FY26,2026-03-31,True,SRC00108,HIGH,Nearly 48 million annual transacting users
+MET00036,S0005,dark_stores,1139,stores,FY26,2026-03-31,True,SRC00108,HIGH,"1,139 dark stores across 66 cities"
+MET00037,S0005,dark_stores_added_net,110,stores,FY26,2026-03-31,True,SRC00108,HIGH,Net 110 stores added in FY26 vs 692 in FY25
+MET00038,S0005,daily_orders,1600000,orders/day,point-in-time,2025-10-16,True,SRC00104,HIGH,1.6-1.7M orders/day; grew from 0.5M five quarters prior
+MET00039,S0005,dark_stores,1000,stores,point-in-time,2025-10-16,True,SRC00104,HIGH,"~1,000 dark stores"
+MET00040,S0005,cities,80,cities,point-in-time,2025-10-16,True,SRC00110,MEDIUM,Over 80 cities per J.P. Morgan note cited by TechCrunch
+MET00041,S0005,cities,66,cities,FY26,2026-03-31,True,SRC00108,HIGH,66 cities per UDRHP
+MET00042,S0005,ad_vertical_arr,2000.0,crore,annualised,2025-10-16,True,SRC00110,MEDIUM,"Rs 2,000 crore annualised run rate"
+MET00043,S0005,order_volume_cagr,119.5,percent,FY24-FY26,2026-08-03,True,SRC00108,HIGH,119.5% CAGR over two-year stretch
+MET00044,S0005,market_share_orders,35.0,percent,FY26,2026-08-03,True,SRC00108,HIGH,Share of orders among scaled quick-commerce players rose from 26% to 35%
+MET00045,S0005,mature_store_ebitda_margin,6.5,percent,point-in-time,2025-09-01,True,SRC00108,MEDIUM,6-7% EBITDA margins at mature dark stores per CEO
+MET00046,S0006,GPUs live,"~1,200 live; target 20,000+",,2026-02,2026-02,True,SRC00115,MEDIUM,
+MET00047,S0006,GPUs live,1200,GPUs,As-of-2026-02,2026-02-15,True,SRC00115,MEDIUM,"~1,200 live GPUs at time of Blackstone announcement"
+MET00048,S0006,GPU deployment target,20000,GPUs,FY27 target,2026-02-16,True,SRC00114,HIGH,"Target to scale to 20,000+ GPUs across India"
+MET00049,S0006,Hyderabad data center cluster,400,MW,Announced Apr 2025,2025-04-18,True,SRC00124,HIGH,"NTT Data + Neysa + Telangana govt MoU for 400MW AI data center cluster worth Rs 10,500 crore"
+MET00050,S0006,Revenue growth expectation,3,x,FY27,2026-02-17,True,SRC00132,MEDIUM,Revenue expected to more than triple; GPUs scaling from 1200 to 20000
+MET00051,S0007,net_revenue_retention,125.9%,,2026-03-31,2026-03-31,,SRC00139,,
+MET00052,S0008,total_payment_value,Rs 8.5 lakh cr (+23% YoY),,FY25,FY25,,SRC00147,,
+MET00053,S0008,lending_AUM,"Rs 22,000 cr",,FY25,FY25,,SRC00147,,
+MET00054,S0009,enterprise_customers,"1000+ enterprises, 4M+ employees, 130 countries",,2025-08-01,2025-08-01,,SRC00157,,
+MET00055,S0010,apps_built,12M+,,2026-07-01,2026-07-01,True,SRC00168,,
+MET00056,S0010,ARR_run_rate,$100M (8 months post-launch),,2026-02-01,2026-02-01,True,SRC00173,,
+MET00057,S0011,active clients,12.9M (from 9.5M Mar 2024); 26%+ market share; 34 lakh new accounts in FY25,,Mar 2025,Mar 2025,True,SRC00176,MEDIUM,
+MET00058,S0011,total_transacting_users,23.2,million,As of Sep 2026,2026-09-16,True,SRC00191,HIGH,
+MET00059,S0011,total_transacting_users,21.6,million,FY25-26 (as of Mar 2026),2026-03-31,True,SRC00196,HIGH,
+MET00060,S0011,active_users,16.7,million,FY25-26 (as of Mar 2026),2026-03-31,True,SRC00196,HIGH,
+MET00061,S0011,active_users,18,million,As of Jun 2025,2025-06-30,True,SRC00215,HIGH,
+MET00062,S0011,total_customer_assets,3.67,trillion,As of Sep 2026,2026-09-16,True,SRC00191,HIGH,
+MET00063,S0011,total_customer_assets,2.96,trillion,FY25-26 (as of Mar 2026),2026-03-31,True,SRC00196,HIGH,
+MET00064,S0011,mf_assets_on_platform,157000,crore,FY25-26 (as of Mar 2026),2026-03-31,True,SRC00196,HIGH,
+MET00065,S0011,mf_assets_on_platform,191329.94,crore,Q1 FY27 (as of Jun 2026),2026-06-30,True,SRC00201,HIGH,
+MET00066,S0011,groww_amc_aum,5491,crore,Q1 FY27 (as of Jun 2026),2026-06-30,True,SRC00201,HIGH,
+MET00067,S0011,groww_amc_aum,5996.87,crore,As of latest quarter,2026-06-30,True,SRC00207,HIGH,
+MET00068,S0011,sip_inflows,121.11,billion,As of Sep 2026,2026-09-16,True,SRC00191,HIGH,
+MET00069,S0011,sip_inflows,46624,crore,FY25-26,2026-03-31,True,SRC00196,HIGH,
+MET00070,S0011,mtf_net_book,42.07,billion,As of Sep 2026,2026-09-16,True,SRC00191,HIGH,
+MET00071,S0011,registered_users,18,million,As of Nov 2025,2025-11-03,True,SRC00215,HIGH,
+MET00072,S0011,nse_active_clients,11.9,million,Q2 FY26 (Sep 2025),2025-09-30,True,SRC00195,HIGH,
+MET00073,S0011,first_time_investors,15.8,million,FY25-26,2026-03-31,True,SRC00196,HIGH,
+MET00074,S0011,student_demat_accounts,8.4,million,Since inception,2026-03-31,True,SRC00196,HIGH,
+MET00075,S0012,messages processed,"120B+ messages/year; thousands of enterprises; 50,000+ customers (company site)",,annual,2025,True,SRC00217,MEDIUM,
+MET00076,S0013,enterprise customers,"25+ large enterprises across telecom, FS, consumer internet, healthcare, logistics",,May 2026,2026-05,True,SRC00241,MEDIUM,
+MET00077,S0013,enterprise customers,25,count,As-of-2026-05,2026-05-04,True,SRC00241,MEDIUM,"25+ large enterprises across telecom, FS, consumer internet, healthcare, logistics"
+MET00078,S0013,Kruti app downloads,207000,count,As-of-2025-09,2025-09-02,False,SRC00250,MEDIUM,SensorTower data; app pulled from stores April 2026
+MET00079,S0013,revenue from Ola Group,90.0,percent,FY25,2026-05-05,False,SRC00251,MEDIUM,~90% of FY25 revenue from group companies; external demand remains question
+MET00080,S0013,GPU compute capacity committed,0,percent,As-of-2026-05,2026-05-04,True,SRC00241,MEDIUM,Majority of GPU capacity committed to external enterprise workloads
+MET00081,S0014,enterprise deployment,"Large fintech using agentic AI for 350,000+ sales force (unnamed); banking/insurance/gov/defense deployments",,2026,2026-06,True,SRC00263,MEDIUM,
+MET00082,S0015,loan book,"Rs 5,098cr (+55% YoY)",,Q1 FY27,2026-06,True,SRC00285,MEDIUM,
+MET00083,S0015,deposits,"Rs 5,765cr",,Q1 FY27,2026-06,True,SRC00285,MEDIUM,
+MET00084,S0015,registered users,20M+,,2026,2026,True,SRC00277,MEDIUM,
+MET00085,S0016,Gross revenue (company-claimed),"INR 1,943 cr gross; INR 556 cr deferred",,FY25,FY25,True,SRC00317,MEDIUM,
+MET00086,S0016,learners,10000000,learners,As-of-2026-05,2026-05-07,True,SRC00305,MEDIUM,Company-claimed 10M+ learners worldwide
+MET00087,S0016,enterprise_clients,3000,corporate partners,As-of-2026-04,2026-04-06,True,SRC00307,MEDIUM,"upGrad Enterprise works with 3,000+ corporate partners"
+MET00088,S0016,employees,11544,employees,As-of-2026-03,2026-03,False,SRC00309,MEDIUM,Revelio Labs workforce intelligence
+MET00089,S0016,academic_industry_partners,100,partners,As-of-2026-09,2026-09-15,True,SRC00304,MEDIUM,100+ Academic & Industry Partners per homepage
+MET00090,S0016,countries,85,countries,As-of-2026-09,2026-09-15,True,SRC00330,MEDIUM,Learners from 85+ countries
+MET00091,S0017,Revenue guidance CY2026,Cross $300M,,2026-01,2026-01,True,SRC00334,MEDIUM,
+MET00092,S0017,Tests/customers,"3M tests/day; 50,000+ teams",,2026-01,2026-01,True,SRC00348,MEDIUM,
+MET00093,S0017,customers,50000,teams,As-of-2026-01,2026-01-12,True,SRC00331,HIGH,"50,000+ customers across 135+ countries"
+MET00094,S0017,developer signups,7000000,developers,As-of-2026-01,2026-01-12,True,SRC00351,HIGH,7M+ developer signups
+MET00095,S0017,tests per day,3000000,tests/day,As-of-2026-01,2026-01-12,True,SRC00331,HIGH,3M+ tests daily
+MET00096,S0017,tests per year,1000000000,tests/year,As-of-2026-01,2026-01-12,True,SRC00351,HIGH,1B tests per year
+MET00097,S0017,data centers,21,data centers,As-of-2026-01,2026-01-12,True,SRC00351,HIGH,21 global data centers
+MET00098,S0017,real devices,3500,devices,As-of-2026-01,2026-01-12,True,SRC00351,HIGH,3500+ real devices and browsers
+MET00099,S0017,ARR milestone,100,million USD,FY2022,2022-12-31,True,SRC00345,HIGH,Named Centaur (SaaS business hitting $100M ARR) in 2022
+MET00100,S0017,revenue growth,19.3,percent,CY2025 y/y,2025-12-31,False,SRC00342,MEDIUM,Sacra estimate 19.3% YoY
+MET00101,S0018,clients,crossed 1 mn,,FY26,2026,True,SRC00367,MEDIUM,
+MET00102,S0018,active_traders,984242,count,As-of-2025-12,2025-12-31,False,SRC00353,HIGH,
+MET00103,S0018,clients,1000000,count,As-of-2026-02,2026-02-01,True,SRC00355,HIGH,
+MET00104,S0018,market_share,2.3,percent,As-of-2026-03,2026-03-31,False,SRC00355,HIGH,
+MET00105,S0018,app_downloads,10000000,count,As-of-2026-09,2026-09-15,True,SRC00360,HIGH,
+MET00106,S0018,derivatives_trading_volume,1187000,crore,FY26,2026-03-31,False,SRC00355,HIGH,
+MET00107,S0018,commodity_trading_volume,343000,crore,FY26,2026-03-31,False,SRC00355,HIGH,
+MET00108,S0018,mtf_book,505,crore,FY26,2026-03-31,False,SRC00355,HIGH,
+MET00109,S0018,active_users_seed,300000,count,As-of-2023-12,2023-12-05,True,SRC00366,HIGH,
+MET00110,S0019,registered_users,25000000,count,"FY21 (as of Jun 30, 2021)",2021-06-30,True,SRC00389,MEDIUM,Company website 'About Us' page; may be outdated
+MET00111,S0019,pharmeasy_orders,8800000,count,FY21,2021-03-31,True,SRC00389,MEDIUM,Company website 'About Us' page
+MET00112,S0019,total_registrations,39000000,count,FY23 (as of Mar 2023),2023-03-31,True,SRC00390,MEDIUM,From API Holdings corporate presentation Dec 2023
+MET00113,S0019,pharmeasy_revenue_fy26,1334,crore,FY26,2026-03-31,False,SRC00386,MEDIUM,PharmEasy consumer segment revenue; ~19% of group revenue
+MET00114,S0019,monthly_break_even,1,boolean,Mar 2025,2025-03-31,True,SRC00392,MEDIUM,PharmEasy broke even in March 2025 per CEO Rahul Guha interview
+MET00115,S0019,transacting_customers,2400000,count,FY21,2021-03-31,True,SRC00389,MEDIUM,Company website 'About Us' page
+MET00116,S0019,pin_codes_serviced,19000,count,FY23 (as of Mar 2023),2023-03-31,True,SRC00390,MEDIUM,From API Holdings corporate presentation
+MET00117,S0019,repeat_user_gmv_share,77,percent,FY23,2023-03-31,True,SRC00390,MEDIUM,"64% FY21, 71% FY22, 77% FY23"
+MET00118,S0019,average_order_value,2421,INR,FY23 (Mar 2023),2023-03-31,True,SRC00390,MEDIUM,"AOV trend: 1,489 (Mar'21), 1,822 (Mar'22), 2,421 (Mar'23)"
+MET00119,S0019,gmv_per_customer,5868,INR,FY23 (Mar 2023),2023-03-31,True,SRC00390,MEDIUM,"GMV per customer trend: 3,789 (FY21), 4,897 (FY22), 5,868 (FY23)"
+MET00120,S0019,active_pharmacies_retailio,30000,count,FY23 (Mar 2023),2023-03-31,True,SRC00390,MEDIUM,B2B Retailio platform
+MET00121,S0020,monthly_active_users,7M+,,Oct 2025,2025-10-31,True,SRC00408,MEDIUM,
+MET00122,S0020,purchases_financed_per_month,1.5M+,,Oct 2025,2025-10-31,True,SRC00407,MEDIUM,
+MET00123,S0020,pincode_coverage,"23,000",,Oct 2025,2025-10-31,True,SRC00407,MEDIUM,
+MET00124,S0021,customers,7M+,,Nov 2021,2021-11,True,SRC00441,MEDIUM,
+MET00125,S0021,nse_active_client_market_share,4.35,percent,FY26 (March 2026),2026-03-31,False,SRC00436,HIGH,Down from 5.58% in FY25; sharpest drop among major brokers
+MET00126,S0021,active_clients_estimate,2400000,clients,2026,2026-02-03,False,SRC00438,MEDIUM,~2.4 million active clients per Inventiva
+MET00127,S0021,arpu_growth,40,percent,FY26,2026-02-09,True,SRC00431,HIGH,ARPU up over 40% per CEO Ravi Kumar
+MET00128,S0021,high_value_trader_retention,90,percent,FY26,2026-02-09,True,SRC00431,MEDIUM,Industry-leading retention among high-value traders per CEO
+MET00129,S0021,nse_active_clients_total,4.57,crore,FY26 (March 2026),2026-03-31,False,SRC00436,HIGH,Total NSE active retail clients; fell from 4.92 crore in March 2025
+MET00130,S0021,commodities_daily_turnover_growth,2,x,FY26,2026-02-09,True,SRC00431,MEDIUM,Average daily turnover in commodities up over 2x
+MET00131,S0021,commodities_revenue_growth,100,percent,FY26,2026-02-09,True,SRC00431,MEDIUM,Commodities revenue grew almost 100%
+MET00132,S0021,sip_platform_volume_growth,35,percent,FY26,2026-02-09,True,SRC00431,MEDIUM,SIP platform volume grew over 35% in past year
+MET00133,S0021,margin_trade_facility_turnover_growth,2,x,FY26,2026-02-09,True,SRC00431,MEDIUM,Margin trade facility turnover up over 2x YoY
+MET00134,S0022,eB2B market share claim,~70%,,2025,2025,True,SRC00452,MEDIUM,
+MET00135,S0022,orders shipped CY23,23M+ orders / 2.25B products,,CY23,2023,True,SRC00454,MEDIUM,
+MET00136,S0023,customers served (company claim via Caproasia),75M+ customers; ~900M policies (company-claimed),,cumulative,2026,True,SRC00470,LOW,
+MET00137,S0024,registered users,2 crore+,,2024,2024-03,True,SRC00488,MEDIUM,
+MET00138,S0025,fitness centres,"708 centres, 77 cities",,FY26,2026-03-31,True,SRC00490,HIGH,
+MET00139,S0025,paid fitness members FY26,~9.9 lakh,,FY26,2026-03-31,True,SRC00490,HIGH,
+MET00140,S0026,users/orgs,20M+ users; 500k+ orgs; 2B meeting minutes; 75% Fortune 500,,2025-06,2025-06,True,SRC00514,MEDIUM,
+MET00141,S0028,contracts managed / Fortune 100,10M+ contracts; 30%+ Fortune 100 clients,,2025,2025,True,SRC00547,MEDIUM,
+MET00142,S0029,customers,2000+ customers (company claim),,2022-06,2022-06,True,SRC00558,MEDIUM,
+MET00143,S0029,customers,2000,count,2022-06,2022-06-21,True,SRC00558,MEDIUM,"Company claimed 2000+ customers at Series C; includes edtech, higher ed, financial services, healthcare, marketplaces"
+MET00144,S0029,customers,1800,count,FY25,2025-03-31,True,SRC00571,MEDIUM,Inc42 reports 1800+ clients across industries and geographies; India and US strongest markets
+MET00145,S0029,customers,1000,count,2024,2024-12-31,False,SRC00574,LOW,GetLatka estimates 1K customers; likely different counting methodology
+MET00146,S0029,countries,6,count,2022-06,2022-06-21,True,SRC00570,HIGH,"India, US, Philippines, South Africa, Australia, Indonesia"
+MET00147,S0029,revenue_from_india,90,percent,FY22,2022-03-31,True,SRC00569,MEDIUM,90% of revenue from India even in FY22
+MET00148,S0029,employee_count,1200,count,2022-06,2022-06-21,True,SRC00570,MEDIUM,"Team of over 1,200 employees at Series C"
+MET00149,S0029,employee_count,1300,count,2024-12,2024-12-31,False,SRC00574,LOW,GetLatka reports 1.3K employees Dec 2024
+MET00150,S0029,employee_count,1063,count,2026-06,2026-06-30,False,SRC00573,MEDIUM,"Inc42 reports 1,063 employees, down 3.36% in last 90 days"
+MET00151,S0030,enterprise customers,"1350+ brands, 75 countries",,2025,2025,True,SRC00583,MEDIUM,
+MET00152,S0030,ARR,tracking toward $100M,,2025,2025,True,SRC00580,MEDIUM,
+MET00153,S0031,registered users,125.5M (79% tier-2+),,2025-12-31,2025-12-31,True,SRC00592,MEDIUM,
+MET00154,S0031,digital unsecured PL share,~11% of sanctions,,FY25,FY25,True,SRC00592,MEDIUM,
+MET00155,S0032,enterprise clients,140+ Fortune 500,,2025,2025,True,SRC00599,MEDIUM,
+MET00156,S0032,fortune_500_clients,140,companies,As-of-2026-09,2026-09-15,True,SRC00599,MEDIUM,Company website claims 140+ Fortune 500 companies globally
+MET00157,S0032,industries_served,12,industries,As-of-2026-09,2026-09-15,True,SRC00599,MEDIUM,Company website claims 12+ industries served
+MET00158,S0032,years_in_operation,20,years,As-of-2026-09,2026-09-15,True,SRC00599,HIGH,Company website: 20+ years - The OG of Decision Sciences
+MET00159,S0032,employees_linkedin,3684,employees,As-of-2026-09,2026-09-15,False,SRC00603,MEDIUM,LinkedIn visible employee count
+MET00160,S0032,total_funding_raised,210.01,million,As-of-2026-09,2026-09-15,False,SRC00604,MEDIUM,CB Insights: Total raised $210.01M over 8 rounds
+MET00161,S0032,eco_vadis_bronze,1,award,2025,2025-12-31,True,SRC00599,MEDIUM,"EcoVadis 2025 Bronze Medal, top 35% of companies for sustainability"
+MET00162,S0033,customers / subscribers,"3000+ customers, 450K+ active subscribers",,2025-01,2025-01,True,SRC00605,HIGH,
+MET00163,S0033,driving data,20B+ miles processed; 65% growth,,2025,2025,True,SRC00607,MEDIUM,
+MET00164,S0034,developers,40M+ users; 500K+ orgs; 98% Fortune 500,,2025-07,2025-07,True,SRC00613,HIGH,
+MET00165,S0034,developers,40000000,users,As-of-2025-07,2025-07-23,True,SRC00613,HIGH,40M+ developers worldwide use Postman
+MET00166,S0034,organizations,500000,orgs,As-of-2025-07,2025-07-23,True,SRC00613,HIGH,500K+ organizations use Postman
+MET00167,S0034,fortune_500_adoption,98,percent,As-of-2025-07,2025-07-23,True,SRC00612,HIGH,98% of Fortune 500 companies use Postman
+MET00168,S0034,web_traffic,2660000,visits,Last 30d,2026-09-14,False,SRC00616,MEDIUM,2.66 Mn monthly web traffic per Inc42
+MET00169,S0035,cards_issued_globally,25000000,cards,As-of-2026-09-15,2026-09-15,True,SRC00626,HIGH,"Company website: Globally, customers have issued 25M+ cards on Zeta's platform"
+MET00170,S0035,employees,1700,employees,As-of-2026-09-15,2026-09-15,True,SRC00626,MEDIUM,1700+ employees per company website; Tracxn says 2220 as of Jul 2026
+MET00171,S0035,daily_transactions,2000000,transactions/day,As-of-2024-10,2024-10-08,True,SRC00645,MEDIUM,Moneycontrol Oct 2024: Zeta processing around 2 mn transactions a day
+MET00172,S0035,payzapp_cardholders,12000000,cardholders,As-of-2025-10,2025-10-09,True,SRC00626,HIGH,HDFC Bank PayZapp: 12+ Mn cardholders live on Zeta-powered solution
+MET00173,S0035,arr_global,100,million USD,FY26E,2025-10-09,True,SRC00628,MEDIUM,Ramki Gaddipati (APAC CEO) told Mint: expects to touch $100M ARR globally in FY26
+MET00174,S0035,bank_customers,10,banks,As-of-2026-09-15,2026-09-15,True,SRC00643,MEDIUM,"Zeta internal page: over 10 Banks and 25 Fintechs, across 8 countries"
+MET00175,S0035,fintech_customers,25,fintechs,As-of-2026-09-15,2026-09-15,True,SRC00643,MEDIUM,Zeta internal page
+MET00176,S0035,countries_operating,7,countries,As-of-2026-09-15,2026-09-15,True,SRC00626,HIGH,Company website: 7 countries
+MET00177,S0036,India e-retail GMV (market),65,billion USD,FY2025,2025-12-31,False,SRC00653,MEDIUM,"Bain & Company X Flipkart report: India e-retail GMV ~$65-66Bn in 2025, 19-21% YoY growth"
+MET00178,S0036,India online shoppers,290,million,FY2025,2025-12-31,False,SRC00653,MEDIUM,Bain/Flipkart report: 290-300M online shoppers in 2025; doubled over 5 years
+MET00179,S0036,India e-retail GMV projection 2030,170,billion USD,FY2030,2026-04-09,False,SRC00653,MEDIUM,Bain/Flipkart report projection: $170-180Bn by 2030
+MET00180,S0036,Quick commerce GMV (market),10.5,billion USD,FY2025,2025-12-31,False,SRC00653,MEDIUM,Bain/Flipkart report: q-commerce $10-11Bn GMV in 2025
+MET00181,S0036,Flipkart FY18 GMV (historical),7.5,billion USD,FY2018,2018-03-31,True,SRC00651,HIGH,Per Walmart press release at time of acquisition; net sales $4.6Bn FY18
+MET00182,S0036,Flipkart active users (historical),54,million,FY2018,2018-03-31,True,SRC00651,HIGH,Per Walmart press release at acquisition; 443M millennials in India
+MET00183,S0037,driver_partners,300000,count,As-of-2025,2025-11-04,True,SRC00661,HIGH,3 Lakh driver partners per Inc42; porter.in claims 15 Lakh+ (likely includes part-time/registered)
+MET00184,S0037,driver_partners,1500000,count,As-of-2026,2026-09-15,True,SRC00659,MEDIUM,15 Lakh+ driver partners per porter.in homepage; may include registered vs active
+MET00185,S0037,employees,2600,count,As-of-2023,2023-08-02,True,SRC00664,HIGH,"2,600 employees as of Aug 2023"
+MET00186,S0037,revenue_growth,58,percent,FY25,2025-11-04,False,SRC00661,HIGH,Revenue surged nearly 58% YoY
+MET00187,S0037,customers,10000000,count,As-of-2026,2026-09-15,True,SRC00659,MEDIUM,1 Crore+ customers per porter.in
+MET00188,S0037,customers,2000000,count,As-of-2025,2025-11-04,True,SRC00661,HIGH,20 Lakh SME customers per Inc42
+MET00189,S0037,trips,100000000,count,As-of-2026,2026-09-15,True,SRC00659,MEDIUM,10 Crore+ trips per porter.in
+MET00190,S0037,cities,22,count,As-of-2025,2025-11-04,True,SRC00659,HIGH,22 Indian cities per porter.in
+MET00191,S0037,countries,3,count,As-of-2026,2026-09-15,True,SRC00659,MEDIUM,3 countries including India and Dubai
+MET00192,S0037,customers_historical,13000000,count,As-of-2023,2023-08-02,True,SRC00664,HIGH,1.3 crore customers as of Aug 2023
+MET00193,S0037,cities_historical,19,count,As-of-2023,2023-08-02,True,SRC00664,HIGH,19 cities as of Aug 2023
+MET00194,S0038,Airlearn daily_active_users,70000,users,As-of-2025-04,2025-04-11,True,SRC00676,HIGH,"Majority users from US, UK, Germany"
+MET00195,S0038,Airlearn_monthly_active_users,300000,users,As-of-2025-04,2025-04-11,True,SRC00676,HIGH,Nearly 300K MAU
+MET00196,S0038,Airlearn_paid_subscribers,17500,subscribers,As-of-2025-04,2025-04-11,True,SRC00676,HIGH,"13 courses offered; English-Spanish, English-French, English-Korean most popular"
+MET00197,S0038,Airlearn_bookings_run_rate,2,million USD,As-of-2025-04,2025-04-11,True,SRC00676,HIGH,$2M bookings run rate; monetization started 6 months prior
+MET00198,S0038,Airlearn_lessons_completed,20000000,lessons,past year (as-of-2025-04),2025-04-11,True,SRC00676,HIGH,20 million lessons completed over past year
+MET00199,S0038,Unacademy_youtube_views,10000000000,views,cumulative,2026-09-01,True,SRC00288,HIGH,Videos by educators on platform crossed 10 billion views
+MET00200,S0038,Unacademy_total_users,10000000,users,cumulative,2026-09-01,True,SRC00288,HIGH,10 million users across over 150 countries (Airlearn platform)
+MET00201,S0038,cash_burn,200,crore INR,CY2025 target,2025-04-21,True,SRC00677,HIGH,Down from Rs 1000 Cr in 2021; Munjal declared 'default alive'
+MET00202,S0038,offline_centres_profitable,70,percent,CY2025 target,2025-04-21,True,SRC00677,MEDIUM,70% of offline centres expected to turn profitable at centre level
+MET00203,S0040,manufacturing_order_book,12370,Rs crore,FY26,2026-03-31,True,SRC00719,HIGH,
+MET00204,S0040,owned_manufacturing_facilities,26,count,FY26,2026-08-14,True,SRC00718,HIGH,
+MET00205,S0040,third_party_suppliers,6979,count,FY26,2026-08-14,True,SRC00718,HIGH,
+MET00206,S0040,customer_count,1100,count,FY26,2026-08-14,True,SRC00717,HIGH,
+MET00207,S0040,countries_served,19,count,FY26,2026-08-14,True,SRC00716,HIGH,
+MET00208,S0040,international_revenue_share,30,percent,FY26,2026-08-14,True,SRC00718,HIGH,
+MET00209,S0040,top10_customer_concentration,35.9,percent,FY26,2026-03-31,True,SRC00719,HIGH,
+MET00210,S0041,registered users,280M+,,cumulative,2025-08,False,SRC00748,MEDIUM,
+MET00211,S0041,"FY24 revenue (pre-ban, paid contests)","Rs 9,600cr+",,FY24,2024,False,SRC00748,MEDIUM,
+MET00212,S0042,platform reach (company claim),30k+ brands; 2B+ users; 150+ countries; Glance 370M+ users,,current,2025,True,SRC00772,MEDIUM,
+MET00213,S0042,platform reach (company claim),30000,brands,current,2026-09-15,True,SRC00770,MEDIUM,InMobi Advertising serves 30k+ brands
+MET00214,S0042,platform reach (company claim),2000000000,users,current,2026-09-15,True,SRC00770,MEDIUM,2B+ users reach claimed
+MET00215,S0042,platform reach (company claim),150,countries,current,2026-09-15,True,SRC00770,MEDIUM,150+ countries
+MET00216,S0042,Glance smartphone installs,450000000,smartphones,2024,2024-07-17,True,SRC00760,MEDIUM,450M+ installs; ~300M active
+MET00217,S0042,Glance revenue growth,90,percent YoY,FY24,2025-01-22,True,SRC00753,MEDIUM,$73.1M FY24 from $38.7M FY23
+MET00218,S0042,North America revenue share,75,percent,FY25 target,2025-01-22,False,SRC00753,MEDIUM,70-80% of total revenue
+MET00219,S0042,InMobi Advertising exchange rank,2,rank,2022,2022,True,SRC00766,MEDIUM,InMobi Exchange = 2nd largest in-app exchange; 39% YoY growth in 2022
+MET00220,S0043,consolidated GMV,"Rs 5,590cr (+34% YoY)",,quarterly,Q1 FY27,True,SRC00779,HIGH,
+MET00221,S0043,cumulative customers; stores,40M customers; 221 stores,,cumulative,Q3 FY25,True,SRC00783,MEDIUM,
+MET00222,S0044,cloud kitchens,"450 kitchens across 75 cities (India, MENA, UK)",,2024-12,2024-12,,SRC00786,HIGH,
+MET00223,S0044,cloud_kitchens,450,kitchens,As-of-2024-12,2024-12-12,True,SRC00786,HIGH,"450 dark kitchens across 75 cities in India, MENA, UK"
+MET00224,S0044,cities,75,cities,As-of-2024-12,2024-12-12,True,SRC00786,HIGH,"India, UAE, UK"
+MET00225,S0044,kitchens_target_2029,800,kitchens,By-2029,2024-12-12,True,SRC00786,HIGH,CFO Piyush Kakkad stated target
+MET00226,S0044,cities_target_2029,200,cities,By-2029,2024-12-12,True,SRC00786,HIGH,CFO Piyush Kakkad stated target
+MET00227,S0044,wendy_stores,160,stores,As-of-2024-12,2024-12-12,True,SRC00786,HIGH,Wendy's India master franchise
+MET00228,S0044,revenue_growth_yoy,14,percent,FY25,2025-12-05,False,SRC00788,HIGH,Revenue grew 14% YoY in FY25
+MET00229,S0044,revenue_growth_yoy,21,percent,FY26,2026-09-15,False,SRC00792,MEDIUM,From Inc42 headline; full article behind paywall
+MET00230,S0044,orders_per_day,,,,,False,,LOW,Not found in sources
+MET00231,S0045,market_share,38,percent,FY23,2023-06-20,True,SRC00797,MEDIUM,38% market share in Indian pet food market
+MET00232,S0045,retail_outlets,34000,count,FY23,2023-06-20,True,SRC00797,MEDIUM,"34,000+ points of sale across India"
+MET00233,S0045,countries_exported,22,count,FY23,2023-06-20,True,SRC00797,MEDIUM,"Exports to 22 countries including Australia, Israel, UAE"
+MET00234,S0045,unicorn_valuation,1000000000,USD,FY25,2025-05-26,True,SRC00803,MEDIUM,Company-claimed unicorn status after Nestle investment; $1B post-money
+MET00235,S0046,NRR / NPS,"NRR 114%, NPS 77 (Q3 FY26)",,2026-03,2026-03,,SRC00827,MEDIUM,
+MET00236,S0047,kirana_stores_served,500000,stores,As-of-2025-06-30,2025-06-30,True,SRC00835,HIGH,"500,000+ kiranas and MSMEs across 400+ cities"
+MET00237,S0047,cities_served,400,cities,As-of-2025-06-30,2025-06-30,True,SRC00835,HIGH,400+ cities and towns
+MET00238,S0047,brands_partnered,2000,brands,As-of-2025-06-30,2025-06-30,True,SRC00835,HIGH,"2,000+ brands growing with Jumbotail"
+MET00239,S0047,kirana_stores_served,250000,stores,FY23,2024-05,True,SRC00843,HIGH,"250,000+ kirana stores across 50+ cities"
+MET00240,S0047,kirana_stores_served,250000,stores,As-of-2026-03,2026-03-03,True,SRC00836,HIGH,"250,000+ Kirana stores in India"
+MET00241,S0047,gmv,1100,crore,FY22,2023-05,True,SRC00844,HIGH,"GMV past Rs 1,100 crore in FY22"
+MET00242,S0047,j24_stores_peak,100,stores,Peak,2024-07,False,SRC00838,MEDIUM,J24 stores scaled down from peak of 100 to ~17 as of mid-2024
+MET00243,S0047,cities_operating,21,cities,As-of-2024-07,2024-07,False,SRC00838,MEDIUM,Scaled down to 21 cities per Morning Context report July 2024
+MET00244,S0048,experience_centres,123,count,As-of-2026,2026-07-24,True,SRC00883,MEDIUM,123 centres across 95+ cities; plans to expand to 200+ stores in 100+ cities
+MET00245,S0048,cities_operational,95,count,As-of-2026,2026-07-24,True,SRC00883,MEDIUM,Operational in 95+ cities across India
+MET00246,S0048,homes_delivered,50000,count,As-of-2026,2026-07-24,True,SRC00885,MEDIUM,"50,000+ homes delivered; earlier claims of 100,000+ rooms (2022) and 1.2Lakh rooms designed"
+MET00247,S0048,designers,3500,count,As-of-2026,2026-07-24,True,SRC00885,MEDIUM,
+MET00248,S0048,countries_operational,4,count,As-of-2026,2026-07-24,True,SRC00885,MEDIUM,"India, Singapore, Malaysia, Middle East"
+MET00249,S0048,gmv_runrate,350,million,FY22 Q1 (Apr 2022),2022-02-08,True,SRC00886,MEDIUM,CEO claimed GMV runrate $350-400M from April 2022; expected to double in 12 months
+MET00250,S0048,cities_FY23,45,count,FY23 (as of Mar 2023),2023-09-15,True,SRC00865,HIGH,Expanded from 6-7 cities by end of March 2021 to 45-50 cities by end of FY23
+MET00251,S0048,stores_FY25,150,count,FY25 (as of Oct 2025),2025-10-13,True,SRC00866,HIGH,Plans to expand retail network from 150+ stores in 90 cities to 200+ in 100+ cities
+MET00252,S0049,transacting_users,234.2,million,LTM as of Nov 2025,2025-11-28,True,SRC00888,HIGH,
+MET00253,S0049,annual_transacting_sellers,706471,count,LTM as of Nov 2025,2025-11-28,True,SRC00888,HIGH,
+MET00254,S0049,active_content_creators,50000,count,LTM as of Nov 2025,2025-11-28,True,SRC00888,HIGH,
+MET00255,S0049,annual_transacting_users,187,million,"As of Dec 31, 2024",2024-12-31,True,SRC00890,HIGH,
+MET00256,S0049,annual_transacting_sellers,1040000,count,Q1 FY27 (Jun 2026),2026-06-30,True,SRC00897,HIGH,
+MET00257,S0049,orders,725,million,Q1 FY27 (Jun 2026),2026-06-30,True,SRC00897,HIGH,
+MET00258,S0049,active_sellers,575000,count,Pre-IPO,2025-10-28,True,SRC00898,HIGH,
+MET00259,S0049,pin_codes_served,26000,count,As of Apr 2023,2023-04-12,True,SRC00901,HIGH,
+MET00260,S0049,entrepreneurs_registered,13000000,count,As of Apr 2023,2023-04-12,True,SRC00901,HIGH,
+MET00261,S0049,average_order_value,260,INR,Pre-IPO,2025-10-28,True,SRC00898,MEDIUM,
+MET00262,S0051,daily rides,3300000,rides,Mar 2025,2025-03-09,True,SRC00928,HIGH,"33 lakh rides/day; 15 lakh bike, 13 lakh auto, 5 lakh cab"
+MET00263,S0051,daily rides,6500000,rides,Mar 2026,2026-07-08,True,SRC00930,HIGH,"6.5M rides/day vs Uber 3.7M, Ola 1.5M"
+MET00264,S0051,daily rides,7000000,rides,Jun 2026,2026-06-18,True,SRC00936,MEDIUM,More than 7 million rides daily per ET sources
+MET00265,S0051,monthly active users,36000000,users,Jan-Mar 2026,2026-07-08,False,SRC00930,HIGH,Sensor Tower data; MTUs ~36M
+MET00266,S0051,active captains (monthly),3000000,drivers,Apr 2026,2026-04-02,True,SRC00960,HIGH,30 lakh active captains; targeting 50 lakh by FY27
+MET00267,S0051,cities,500,cities,2026,2026-09-15,True,SRC00946,HIGH,
+MET00268,S0051,cab drivers onboarded,500000,drivers,Jun 2026,2026-06-08,True,SRC00961,HIGH,25% of India's 2M cab drivers; 35-40% market share
+MET00269,S0051,bike taxi market share,72,percent,Jun 2026,2026-06-18,False,SRC00936,MEDIUM,Per ET sources
+MET00270,S0051,total rides completed,100000000,rides,cumulative,2026-09-15,True,SRC00946,MEDIUM,
+MET00271,S0051,monthly active users,82000000,users,Mar-May 2026,2026-07-08,False,SRC00930,HIGH,"Sensor Tower; 82M MAU avg, +67% YoY; ahead of Uber (39M), Ola (27M)"
+MET00272,S0051,auto market share,51,percent,Jun 2026,2026-06-18,False,SRC00936,MEDIUM,Per ET sources
+MET00273,S0051,cab market share,31,percent,Jun 2026,2026-06-18,False,SRC00936,MEDIUM,Per ET sources
+MET00274,S0051,registered customers,75000000,users,2026,2026-09-15,True,SRC00962,MEDIUM,
+MET00275,S0052,MAU_all_platforms,325,million,As-of-2026-08,2026-08-12,True,SRC00974,HIGH,Company self-reported; includes ShareChat + Moj + QuickTV
+MET00276,S0052,MAU_all_platforms,325,million,FY23,2023-12-31,True,SRC00974,HIGH,ShareChat app 180 MAU + Moj 160 MAU
+MET00277,S0052,MAU_all_platforms,200,million,FY25,2025-10-17,True,SRC00975,HIGH,Monetizable users across platforms
+MET00278,S0052,monthly_active_users_historical,140,million,FY20,2020-08,True,SRC00976,HIGH,
+MET00279,S0052,monthly_active_users_historical,160,million,FY20,2020-11,True,SRC00994,HIGH,
+MET00280,S0052,employee_count,2800,count,FY22,2022-01-01,False,SRC00973,MEDIUM,"CEO stated 'around 2,800 a few years ago'; now north of 500"
+MET00281,S0052,employee_count,500,count,FY25,2025-05-07,True,SRC00973,HIGH,CEO stated 'north of 500 employees'
+MET00282,S0052,MAU_sharechat_app,110,million,As-of-2026-08,2026-08-12,True,SRC00974,HIGH,ShareChat app standalone MAU
+MET00283,S0052,MAU_moj,100,million,As-of-2026-08,2026-08-12,True,SRC00974,HIGH,Moj standalone MAU
+MET00284,S0052,daily_video_plays,1100,million,As-of-2026-08,2026-08-12,True,SRC00974,HIGH,
+MET00285,S0052,daily_video_plays_moj,1300,million,As-of-2026-08,2026-08-12,True,SRC00974,HIGH,
+MET00286,S0052,creator_community_sharechat,1500,thousand,As-of-2026-08,2026-08-12,True,SRC00974,HIGH,
+MET00287,S0052,creator_community_moj,550,thousand,As-of-2026-08,2026-08-12,True,SRC00974,HIGH,
+MET00288,S0052,quicktv_downloads,50,million,As-of-2026-08,2026-08-12,True,SRC00974,HIGH,QuickTV micro-drama app downloads
+MET00289,S0052,quicktv_subscribers,73,million,As-of-2026-08,2026-08-12,True,SRC00974,HIGH,
+MET00290,S0052,quicktv_downloads,15,million,As-of-2025-09,2025-10-17,True,SRC00975,HIGH,Crossed 15Mn downloads within 4 months of May 2025 launch
+MET00291,S0052,micro_drama_monthly_users,35,million,FY25,2025-10-17,True,SRC00975,HIGH,Users consuming micro-dramas monthly on ShareChat + Moj
+MET00292,S0052,content_shared_per_month,165,million,As-of-2026-08,2026-08-12,True,SRC00995,HIGH,
+MET00293,S0052,video_views_per_month,280,billion,As-of-2026-08,2026-08-12,True,SRC00995,HIGH,
+MET00294,S0052,average_daily_time_spent,34,minutes,As-of-2026-08,2026-08-12,True,SRC00995,HIGH,
+MET00295,S0052,languages_supported,15,count,As-of-2026-08,2026-08-12,True,SRC00056,HIGH,"Hindi, Tamil, Telugu, Marathi, Bengali, Gujarati, Kannada, Punjabi, Malayalam, Odia, Assamese, Bhojpuri and more"
+MET00296,S0053,registered_job_seekers,50000000,count,As-of-2026-09-15,2026-09-15,True,SRC01008,HIGH,Apna.co homepage states 5 crore+ job seekers
+MET00297,S0053,registered_employers_msmes,700000,count,As-of-2026-09-15,2026-09-15,True,SRC01008,HIGH,Apna.co homepage states 7 lakh+ MSMEs and 1000+ enterprises
+MET00298,S0053,career_opportunities_listed,5000000,count,As-of-2026-09-15,2026-09-15,True,SRC01008,HIGH,Apna.co homepage states 50 lakh+ career opportunities
+MET00299,S0053,job_applications,18100000,count,Q1-2025,2025-03-31,True,SRC00999,HIGH,30% YoY jump in Q1 2025
+MET00300,S0053,app_downloads,50000000,count,As-of-2026-09-15,2026-09-15,True,SRC01008,HIGH,5cr+ downloads per Apna.co homepage
+MET00301,S0053,employee_count,745,count,As-of-2025-08-31,2025-08-31,False,SRC00998,MEDIUM,Tracxn employee count
+MET00302,S0053,enterprise_ai_contracts,6000000,USD,45-days-from-Oct-2025,2025-11-28,True,SRC01006,MEDIUM,BlueMachines.ai signed $6M in enterprise contracts within 45 days
+MET00303,S0053,core_business_growth,52,percent,2025,2025-12-31,True,SRC01006,MEDIUM,52% YoY growth in core business in 2025
+MET00304,S0053,recruiters_verified_ai,146000,count,Aug-Sep 2025,2025-09-30,True,SRC01006,MEDIUM,Apna Safety AI verification; 45% reduction in fraud exposure
+MET00305,S0053,ai_interviews_completed,3900000,minutes,As-of-Jun-2025,2025-06-12,True,SRC00998,MEDIUM,39 lakh minutes across 7.6 lakh AI interviews
+MET00306,S0054,revenue mix,Lending 57% of revenue; FY25 revenue ~1500-1667 Cr,,2025,2025,False,SRC01012,MEDIUM,
+MET00307,S0055,vehicles_sold,3050,vehicles,FY25,2025-03-31,True,SRC01025,HIGH,Largely driven by three-wheelers; capacity utilisation ~50% single shift
+MET00308,S0055,vehicles_sold,6528,vehicles,FY26,2026-03-31,False,SRC01039,HIGH,Vahan portal data; 87% YoY growth
+MET00309,S0055,vehicles_sold,5318,vehicles,H1-FY27 (Apr-Jul 2026),2026-07-31,False,SRC01039,HIGH,First four months of FY27 per Vahan portal
+MET00310,S0055,market_share_3w_cargo,10,percent,FY26,2026-03-31,True,SRC01025,MEDIUM,Pan-India 3W cargo segment share; 20-22% in operating cities
+MET00311,S0055,market_share_4w_cargo,20,percent,FY26,2026-03-31,True,SRC01025,MEDIUM,4W cargo EV segment share per Saurav Kumar
+MET00312,S0055,cities_operating,112,cities,FY26,2026-08-31,True,SRC01039,HIGH,Expanded from 30-35 cities after Hero entry
+MET00313,S0055,production_capacity,36000,vehicles/year,As-of 2024,2024-08-14,True,SRC01032,HIGH,"Palwal facility 3W capacity; 500,000 sq ft"
+MET00314,S0055,monthly_production,1000,vehicles/month,FY26,2026-03-31,True,SRC01025,MEDIUM,"Plans to double to 2,000/month with third unit"
+MET00315,S0055,backorder,9000,vehicles,As-of Oct 2022,2022-10-03,True,SRC01031,MEDIUM,Back-order at time of Series C
+MET00316,S0055,showrooms,100,showrooms,FY26,2025-09-30,True,SRC01040,MEDIUM,Operates in 60 cities with 100+ showrooms
+MET00317,S0057,growth,40%+ revenue growth; cash-in > burn; ~1700 employees (GetLatka),,2025,2025,True,SRC01053,MEDIUM,
+MET00318,S0058,customer base growth,5x YoY (company-reported via SpaceNews),,2023-2024,2024-06,True,SRC01059,MEDIUM,
+MET00319,S0058,constellation deployed,6+ Firefly hyperspectral satellites in orbit,,2025-2026,2026-09,True,SRC01086,MEDIUM,
+MET00320,S0059,customers / footprint,"130,000+ customers; 26 states, 500+ cities",,2026-03,2026-03,,SRC01101,HIGH,
+MET00321,S0060,units / interactions,700K+ units sold; 500M+ interactions (company-reported),,2025,2025,,SRC01116,MEDIUM,
+MET00322,S0060,geo reach,140+ countries (company-reported),,2025-11,2025-11,,SRC01103,MEDIUM,
+MET00323,S0061,women/girls reached per month,3M+,,2026-09-07,2026-09-07,True,SRC01118,LOW,
+MET00324,S0061,annualised revenue run rate,Rs 500 Cr (from Rs 100 Cr in 24 months),,2026-09-07,2026-09-07,True,SRC01132,LOW,
+MET00325,S0061,women/girls reached per month,3000000,count,As-of-2026-09-07,2026-09-07,True,SRC01124,LOW,Company claim; '3M+ women and girls every month'
+MET00326,S0061,annualised revenue run rate,500,crore,FY26-run-rate,2026-09-07,True,SRC01124,LOW,Grew from Rs 100 Cr in 24 months; management claim
+MET00327,S0061,EBITDA positive,1,boolean,Q2 FY25,2025-09,True,SRC01126,MEDIUM,MarkHub24: became EBITDA positive in Q2 FY25
+MET00328,S0061,customer retention beyond 12 months,50,percent,As-of-2022,2022-09,True,SRC01128,MEDIUM,ETBrandEquity 2022: >50% retention beyond 12 months via subscription
+MET00329,S0062,monthly customers / total customers,500K avg/month; 3M total,,2025-08,2025-08,True,SRC01138,MEDIUM,
+MET00330,S0062, pincodes served; tier-2+ share,"20,000+ pincodes; 75%+ tier-2+ ",,2025-08,2025-08,True,SRC01138,MEDIUM,
+MET00331,S0062,monthly_orders,600000,orders,FY25,2025-08-11,True,SRC01146,MEDIUM,"ET: 'Monthly orders processed by the platform have grown by more than 100% year-on-year to close to 600,000 each month'"
+MET00332,S0062,mobile_app_installs,7000000,installs,As-of-2026-09-15,2026-09-15,True,SRC01145,MEDIUM,Company website: '70 lakh+ mobile app installs'
+MET00333,S0062,unique_users,1000000,users,As-of-2026-09-15,2026-09-15,True,SRC01145,MEDIUM,Company website: '10 lakh+ unique users'
+MET00334,S0062,total_savings,150,crore,As-of-2026-09-15,2026-09-15,True,SRC01145,MEDIUM,Company website: '150Cr+ savings'
+MET00335,S0062,products_listed,180000,products,As-of-2026-09-15,2026-09-15,True,SRC01145,MEDIUM,Company website: '1.8L+ products'
+MET00336,S0062,doctor_consultations,3000000,consultations,As-of-2026-09-15,2026-09-15,True,SRC01145,MEDIUM,Company website: '30 lakh+ doctor consultations'
+MET00337,S0062,doctors_active,600,doctors,As-of-2026-09-15,2026-09-15,True,SRC01145,MEDIUM,Company website: '600+ doctors'
+MET00338,S0062,pharmacists,100,pharmacists,As-of-2026-09-15,2026-09-15,True,SRC01145,MEDIUM,Company website: '100+ pharmacists'
+MET00339,S0062,pincodes_served,20000,pincodes,As-of-2026-09-15,2026-09-15,True,SRC01145,MEDIUM,"Company website: '20K+ pincodes'; also '19,000+ pin codes' on homepage"
+MET00340,S0062,fulfillment_centers,19,centers,FY25,2025-08-11,True,SRC01146,HIGH,ET: '19 fulfillment centres and plans to take it to 50 in the next 12 months'
+MET00341,S0062,monthly_customers_avg,500000,customers,FY25,2025-08,True,SRC01138,MEDIUM,TechCrunch: '500K avg/month; 3M total' customers
+MET00342,S0063,combined AUM post acquisitions,">Rs 2,000 Cr; 100+ branches; 18,000+ customers (CHFL base)",,2026-03-18,2026-03-18,False,SRC01165,MEDIUM,
+MET00343,S0063,combined AUM post acquisitions,2000,crore,As-of-2026-03-18,2026-03-18,False,SRC01165,MEDIUM,"Combined AUM >Rs 2,000 Cr after Centrum HFL acquisition; 100+ branches"
+MET00344,S0063,customers (CHFL base),18000,count,As-of-2026-03-18,2026-03-18,False,SRC01165,MEDIUM,"18,000+ customers from Centrum Housing Finance base"
+MET00345,S0063,branches,100,count,As-of-2026-03-18,2026-03-18,False,SRC01165,MEDIUM,100+ branches combined post-acquisition
+MET00346,S0063,total funding raised,326,million,Cumulative through 2026-03,2026-03-18,False,SRC01169,MEDIUM,"Tracxn lists total funding $326M; includes $170M Aug 2025 + Rs 1,450 Cr Mar 2026"
+MET00347,S0063,acquisition spend (CIHL),267,crore,2025-08,2025-08-12,True,SRC01164,HIGH,Rs 267 Cr for 100% acquisition of Capital India Home Loans
+MET00348,S0064,registered_users,40000000,count,As-of-2026-07,2026-07-08,True,SRC01189,MEDIUM,Per company PR; 'over 40 million registered users'
+MET00349,S0064,cities_operating,6,count,As-of-2026-09,2026-09-06,True,SRC01188,HIGH,"Bengaluru, Mumbai, Pune, Hyderabad, Chennai, Delhi-NCR"
+MET00350,S0064,NoBrokerHood_cities,11,count,As-of-2026-09,2026-09-06,True,SRC01188,HIGH,
+MET00351,S0064,NoBrokerHood_societies,25000,count,As-of-2026-09,2026-09-06,True,SRC01188,HIGH,
+MET00352,S0064,NoBrokerHood_families,4800000,count,As-of-2026-09,2026-09-06,True,SRC01188,HIGH,
+MET00353,S0065,launch readiness,Vikram-1 at Sriharikota; Infinity campus targets 1 rocket/month,,2026-05,2026-05,True,SRC01200,MEDIUM,
+MET00354,S0066,contracts_closed_value,25000000,USD,As-of-2025-12-16,2025-12-16,True,SRC01209,MEDIUM,Combined value of closed contracts; includes US Space Command analytics-as-a-service
+MET00355,S0066,satellites_deployed,1,count,As-of-2025-01-14,2025-01-14,True,SRC01226,HIGH,"SCOT (Space Camera for Object Tracking) launched Jan 14, 2025 on SpaceX Transporter-12 from Vandenberg"
+MET00356,S0066,satellites_planned,15,count,2026-2027,2025-12-16,True,SRC01209,MEDIUM,15 space surveillance satellites + 2 missile-tracking birds planned for 2026-27
+MET00357,S0066,revenue_growth,10,x,2023-2025,2025-12-16,True,SRC01209,MEDIUM,Revenues grew more than tenfold over past two years
+MET00358,S0066,revenue_target,25000000,USD,By end CY2026,2025-12-16,True,SRC01217,MEDIUM,Targeting $25-30M annual revenue by end of CY2026
+MET00359,S0066,manufacturing_capacity,30,satellites/year,As-of-2026,2026-09-15,True,SRC01217,MEDIUM,Bengaluru facility expanding to 30 small satellites/year (<50kg); Colorado Springs facility for 100-150kg platforms
+MET00360,S0066,mosaic_sensor_nodes,5,count,As-of-2026-08-18,2026-08-18,True,SRC01218,HIGH,MOSAIC AI-powered Wide Area Sensing Architecture; initial deployment of 5 interconnected sensor nodes
+MET00361,S0067,registered users,100M+,,2022-03,2022-03,True,SRC01229,MEDIUM,
+MET00362,S0067,registered_users,100,million,As-of-2022-03,2022-03-30,True,SRC01237,MEDIUM,Company claim at unicorn round; post-ban traction unknown
+MET00363,S0067,ipl_partnership,625,crore,FY25-FY29 (5 years),2024-03,True,SRC01238,MEDIUM,My11Circle outbid Dream11 for IPL associate partner rights; Tata IPL
+MET00364,S0067,employee_count,777,count,As-of-2025-07,2025-07-31,False,SRC01240,MEDIUM,Down from ~951 pre-layoffs; 5% lower than Jul 2024
+MET00365,S0067,revenue_usd,264514128.78,USD,FY25,2025-03-31,False,SRC01241,LOW,Tracxn latest revenue USD figure
+MET00366,S0068,revenue scale,"Rs 18,472 Cr ops revenue, 27% YoY",,FY25,FY25,False,SRC01256,MEDIUM,
+MET00367,S0068,revenue_scale,18472,crore,FY25,2026-01-12,True,SRC01256,HIGH,Consolidated revenue from operations; 27% YoY growth
+MET00368,S0068,revenue_scale,20000,crore,FY26,2026-09-15,False,SRC01260,MEDIUM,7% YoY growth; industry sources
+MET00369,S0068,rmc_market_position,2,rank,FY25,2026-09-15,False,SRC01258,MEDIUM,Second-largest player by revenue in India's ready-mix concrete segment
+MET00370,S0068,manufacturing_units,250,count,FY25,2026-09-15,False,SRC01258,MEDIUM,250+ manufacturing units
+MET00371,S0068,retail_touchpoints,10000,count,FY25,2026-09-15,False,SRC01258,MEDIUM,"10,000 retail touchpoints"
+MET00372,S0068,rmc_plants,100,count,FY25,2026-09-15,False,SRC01272,MEDIUM,100+ RMC plants across 13 states
+MET00373,S0068,employee_count,5929,count,March 2026,2026-03,False,SRC01264,MEDIUM,Revelio Labs; down 946 (-2.4%) YoY
+MET00374,S0068,total_funding_raised,740.44,million,cumulative,2026-09-15,False,SRC01263,HIGH,Across 18 funding rounds per Inc42 Datalabs
+MET00375,S0070,loan_book_outstanding,13000,crore,FY26,2026-03-31,True,SRC00082,HIGH,Outstanding loans as of 31 March 2026
+MET00376,S0070,new_customers_per_day,100000,count,FY26,2026-08-19,True,SRC00082,HIGH,"Platform sees ~100,000 new customers daily"
+MET00377,S0070,UPI_transactions,947000000,count,July 2026,2026-07-31,True,SRC01286,HIGH,947M UPI transactions in July 2026 per NPCI data
+MET00378,S0070,loan_book_outstanding,13000,crore,FY26,2026-03-31,True,SRC00082,HIGH,
+MET00379,S0070,total_disbursements,23287,crore,FY26,2026-03-31,True,SRC00082,HIGH,
+MET00380,S0070,gross_NPA_ratio,1.3,percent,FY26,2026-03-31,True,SRC00082,HIGH,
+MET00381,S0070,net_NPA_ratio,0.3,percent,FY26,2026-03-31,True,SRC00082,HIGH,
+MET00382,S0070,new_customers_per_day,100000,count,FY26,2026-08-19,True,SRC00082,HIGH,
+MET00383,S0070,loan_approval_rate,5-50,percent,FY26,2026-08-19,True,SRC00082,HIGH,
+MET00384,S0070,repeat_customer_share,75,percent,FY26,2026-03-31,True,SRC00082,HIGH,
+MET00385,S0070,new_to_credit_share,1,percent,FY26,2026-03-31,True,SRC00082,HIGH,
+MET00386,S0070,UPI_transactions,947000000,count,July 2026,2026-07-31,True,SRC01286,HIGH,
+MET00387,S0070,UPI_transactions_value,483180000000,INR,July 2026,2026-07-31,True,SRC01286,HIGH,
+MET00388,S0070,UPI_rank,4,rank,Ongoing,2026-08-19,True,SRC00082,HIGH,
+MET00389,S0070,collection_touchpoints,90,count,FY26,2026-08-19,True,SRC00082,HIGH,
+MET00390,S0070,inhouse_collections_share,50,percent,FY26,2026-08-19,True,SRC00082,HIGH,
+MET00391,S0070,RoA,2.2,percent,FY26,2026-03-31,True,SRC00082,HIGH,
+MET00392,S0070,NIM,13,percent,FY26,2026-03-31,True,SRC00082,HIGH,
+MET00393,S0070,average_yield,20,percent,FY26,2026-03-31,True,SRC00082,HIGH,
+MET00394,S0070,cost_of_borrowing,10.5,percent,FY26,2026-03-31,True,SRC00082,HIGH,
+MET00395,S0070,personal_loan_avg_ticket,140000,INR,FY26,2026-03-31,True,SRC00082,HIGH,
+MET00396,S0070,LAP_avg_ticket,3000000,INR,FY26,2026-03-31,True,SRC00082,HIGH,
+MET00397,S0070,personal_loan_share_of_book,90,percent,FY26,2026-03-31,True,SRC00082,HIGH,
+MET00398,S0071,farmers_linked,150000,count,As-of-2026-07,2026-07-02,True,SRC01309,HIGH,"Company statement: works with over 1,50,000 farmers"
+MET00399,S0071,retailers_served,30000,count,As-of-2026-07,2026-07-02,True,SRC01309,HIGH,"Company statement: 30,000 retailers"
+MET00400,S0071,resellers_served,5000,count,As-of-2026-07,2026-07-02,True,SRC01309,HIGH,"Company statement: 5,000 resellers"
+MET00401,S0071,daily_produce_volume,1500,tonnes,As-of-2026-07,2026-07-02,True,SRC01309,HIGH,"Moves over 1,500 tonnes of fresh produce a day"
+MET00402,S0071,cities_served,40,count,As-of-2026-07,2026-07-02,True,SRC01308,HIGH,Footprint in over 40 cities
+MET00403,S0071,product_categories,150,count,As-of-2026-07,2026-07-02,True,SRC01308,HIGH,"Diverse portfolio of over 150 products; market share in onions, potatoes, tomatoes, blueberries, avocados, apples"
+MET00404,S0071,ebitda_profitability,1,boolean,As-of-2026-07,2026-07-02,True,SRC01308,HIGH,Company claims it has turned EBITDA-profitable
+MET00405,S0071,core_business_growth,3,x,FY25-FY26,2026-07-02,True,SRC01308,MEDIUM,Three-fold growth in core businesses in the last year
+MET00406,S0071,locations_presence,70,count,Oct-2023,2023-10-11,True,SRC01315,MEDIUM,Present in 70 locations as of Oct 2023; intended to scale to 200 cities
+MET00407,S0071,farmers_helped_historical,100000,count,As-of-2022-01,2022-01-24,True,SRC01311,MEDIUM,"Helped over 1,00,000 farmers across 150 villages as of Jan 2022"
+MET00408,S0072,merchants_served,500000,count,As-of-2025,2025-06-01,,SRC01357,MEDIUM,
+MET00409,S0072,merchants_served,140000,count,As-of-2020,2020-01-01,,SRC01335,MEDIUM,
+MET00410,S0072,pos_terminals,330000,count,As-of-2020,2020-01-01,,SRC01358,MEDIUM,
+MET00411,S0072,annualized_payment_volume,30000000000,USD,As-of-2020,2020-01-01,,SRC01335,MEDIUM,
+MET00412,S0072,annualized_gtv_gift_cards,1500000000,USD,As-of-2019,2019-03-19,,SRC01359,MEDIUM,
+MET00413,S0072,digital_checkout_points,1270000,count,FY24,2025-06-01,,SRC01360,MEDIUM,
+MET00414,S0072,annualized_payment_volume,100000000000,USD,FY26,2026-02-01,,SRC01331,MEDIUM,
+MET00415,S0072,online_payments_revenue_growth,50,percent,Q3 FY26 YoY,2026-02-01,,SRC01351,MEDIUM,
+MET00416,S0072,gtv,51000000000,USD,Q3 FY26,2026-02-01,,SRC01361,MEDIUM,
+MET00417,S0075,daily_active_users,700000,count,As-of-2026-03,2026-03-24,True,SRC01434,MEDIUM,US accounts for ~45% of DAU
+MET00418,S0075,market_share_smart_rings,25,percent,Q3 2025,2026-02-27,False,SRC01434,MEDIUM,Per IDC data cited in TechCrunch; global shipments ~1M units Q3 2025
+MET00419,S0075,retail_outlets,150,count,As-of-2024-04,2024-04-25,True,SRC01435,HIGH,"Including Selfridges London, Changi Airport Singapore, Virgin Dubai"
+MET00420,S0075,manufacturing_capacity_texas,500000,units/year,Target 2025,2025-05-08,True,SRC01409,HIGH,UltraFactory in Plano TX via SVTronics partnership; currently ~400 units/day
+MET00421,S0075,ring_air_units_sold,,count,cumulative,,False,,LOW,150k units claim not verified in sources; omitting
+MET00422,S0075,countries_served,10,count,As-of-2024-12,2024-12,True,SRC01410,MEDIUM,Expanded from 2 countries in 2023 to 10+ by end 2024
+MET00423,S0075,blood_vision_states,48,count,As-of-2025-07,2025-07-15,True,SRC01423,HIGH,"US states; later expanded to India 60 cities, Saudi Arabia, UAE"
+MET00424,S0076,cafe count,~240 outlets; 80-100 new stores/year; 320 target by FY27-end,,Aug 2026,2026-08,True,SRC01438,MEDIUM,
+MET00425,S0076,cafe count,240,outlets,Aug 2026,2026-08-24,True,SRC01438,HIGH,"~240 outlets; adding 80-100/year; targeting 320 by FY27-end, 400-500 eventually"
+MET00426,S0076,cafe count by city,23,Bengaluru locations,As of 2026-09,2026-09-15,True,SRC01442,MEDIUM,"Website lists 23 Bengaluru locations; 2 Mumbai, 1 Pune, 1 Chandigarh, 9 Delhi NCR, 1 Coonoor, 3 Gurugram, 4 Hyderabad"
+MET00427,S0076,cafe count by city,9,Delhi NCR locations,As of 2026-09,2026-09-15,True,SRC01442,MEDIUM,Website lists 9 Delhi NCR locations
+MET00428,S0076,cafe count by city,4,Hyderabad locations,As of 2026-09,2026-09-15,True,SRC01442,MEDIUM,Website lists 4 Hyderabad locations
+MET00429,S0076,cafe count by city,3,Gurugram locations,As of 2026-09,2026-09-15,True,SRC01442,MEDIUM,Website lists 3 Gurugram locations
+MET00430,S0076,revenue growth,30,percent,FY26 vs FY25,2026-08-24,True,SRC01438,HIGH,Revenue grew 30% to ~Rs 337cr in FY26
+MET00431,S0076,annual store additions,80,stores/year,Ongoing,2026-08-24,True,SRC01438,HIGH,Adding roughly 80-100 stores per year
+MET00432,S0076,cafe_count,240,cafes,As-of-2026-08,2026-08-24,True,SRC01449,HIGH,CEO Rajat Luthra: 'We currently operate more than 240 cafés across India'
+MET00433,S0076,cafe_count_website,204,cafes,As-of-2026-09,2026-09-15,True,SRC01450,HIGH,Company website Our Story page: '204 cafes in 13+ cities'
+MET00434,S0076,revenue_growth,30,percent,FY26 vs FY25,2026-08-24,True,SRC01438,MEDIUM,Revenue grew ~30% to ~Rs 337cr in FY26
+MET00435,S0076,employee_count,2116,employees,As-of-2026-05-01,2026-05-01,False,SRC01446,MEDIUM,Tracxn/MCA-based data
+MET00436,S0077,network scale,"600+ cities, 150+ cold storage points, 4000+ reefers; target 1000 cities end-2025",,2025-05,2025-05,True,SRC01458,MEDIUM,
+MET00437,S0077,revenue growth,2.5x YoY topline growth claimed; Rs 300 Cr ARR track,,FY25,2025-05,True,SRC01458,MEDIUM,
+MET00438,S0078,GTV,"Rs 59,093 cr, 186,108 transactions",,FY25,FY25,True,SRC01473,MEDIUM,
+MET00439,S0078,GTV,59093,crore,FY25,2025-03-31,True,SRC01473,MEDIUM,"45% YoY growth from Rs 40,825 cr in FY24"
+MET00440,S0078,transactions,186108,count,FY25,2025-03-31,True,SRC01473,MEDIUM,13% YoY growth
+MET00441,S0078,loan_disbursal,87831,crore,FY26,2026-03-31,True,SRC01468,MEDIUM,Urban Money platform
+MET00442,S0078,loan_disbursal,61000,crore,FY25,2025-03-31,True,SRC01469,MEDIUM,Urban Money platform
+MET00443,S0078,properties_listed,1000000,count,FY25,2025-03-31,True,SRC01469,MEDIUM,"1M+ properties, 100K+ projects from 2,000+ developers"
+MET00444,S0078,homebuyers_served,8000000,count,cumulative,FY25,True,SRC01469,MEDIUM,8M+ homebuyers on platform
+MET00445,S0078,agents_on_platform,80000,count,cumulative,FY25,True,SRC01469,MEDIUM,"80,000+ real estate and mortgage agents"
+MET00446,S0078,countries_operating,9,count,FY25,FY25,True,SRC01469,MEDIUM,"India, UAE, Canada, Australia, and others"
+MET00447,S0078,cities_operating,100,count,FY25,FY25,True,SRC01469,MEDIUM,100+ cities across 9 countries
+MET00448,S0079,investments facilitated + investors,"Rs 8,000 Cr+ facilitated; ~3 lakh investors",,lifetime to Jan 2026,2026-01,True,SRC01479,MEDIUM,
+MET00449,S0079,revenue run-rate,"~$10Mn annualised, 80% from repeat users",,Jan 2026,2026-01,True,SRC01479,MEDIUM,
+MET00450,S0080,autonomous test flights,"1,000+ autonomous flights, zero mission failures (with Narayana Health)",,to Aug 2026,2026-08,True,SRC01486,MEDIUM,
+MET00451,S0081,fleet distance + deployments,"500,000+ km logged across 50+ factories; order book tripled Q4 2024",,to Jan 2025,2025-01,True,SRC01491,MEDIUM,
+MET00452,S0083,market share branded personal audio India,26% value / 34% volume (Redseer via DRHP),,FY25,FY25,True,SRC01512,MEDIUM,
+MET00453,S0084,Payments GMV,Rs 1.16 lakh cr (+203%),,FY25,FY25,True,SRC01515,HIGH,
+MET00454,S0084,Registered users,176.4M (+20.5M new),,FY25,FY25,True,SRC01516,HIGH,
+MET00455,S0084,PPI wallet share,21% by value; #1 wallet,,Mar 2025,Mar 2025,True,SRC01515,MEDIUM,
+MET00456,S0085,consolidated_revenue,"Rs 20,645 cr",,FY26,FY26,True,SRC01530,HIGH,
+MET00457,S0085,oxyzo_aum,"Rs 10,000 cr+ (assets Rs 11,822 cr)",,FY26,FY26,True,SRC01530,HIGH,
+MET00458,S0085,consolidated_revenue,20645,crore,FY26,2026-07-29,True,SRC01530,HIGH,
+MET00459,S0085,oxyzo_aum,11000,crore,As-of-2026,2026-06-30,True,SRC01542,HIGH,"Oxyzo homepage states 11,000+ Cr AUM"
+MET00460,S0085,oxyzo_total_disbursed,77000,crore,Cumulative,2026-06-30,True,SRC01542,HIGH,"Rs 77,000+ Cr total disbursed"
+MET00461,S0085,oxyzo_sme_customers,100000,count,As-of-2026,2026-06-30,True,SRC01542,HIGH,1 Lakh+ SMEs served
+MET00462,S0085,ofbusiness_sme_customers,50000,count,FY25,2026-04-01,True,SRC01531,MEDIUM,50K+ active SME clients
+MET00463,S0085,consignments_delivered,170000,count,FY2024,2025-02-01,True,SRC01554,MEDIUM,"26 States + 7 UTs, 500+ cities, 15 foreign countries"
+MET00464,S0085,oxyzo_loan_book,6850,crore,Q2 FY25,2024-09-30,True,SRC01559,HIGH,
+MET00465,S0085,bidAssist_businesses,1500000,count,As-of-2026,2026-06-30,True,SRC01540,MEDIUM,1.5 million businesses use BidAssist
+MET00466,S0085,nexizo_data_points,25000000,count,Annual,2025-02-01,True,SRC01554,MEDIUM,Nexizo.AI processes 25M data points annually for 50M+ govt tenders
+MET00467,S0085,oxyzo_gross_npa,1.0,percent,FY24,2024-03-31,True,SRC01531,HIGH,
+MET00468,S0085,oxyzo_states_covered,20,count,As-of-2025,2025-09-25,True,SRC01550,HIGH,70+ industrial clusters across 20+ states
+MET00469,S0085,ofbusiness_employee_count,30000,count,FY26,2026-01-01,True,SRC01567,MEDIUM,"LinkedIn: 30,000+ group employees; Tracxn: 1,385 official"
+MET00470,S0085,ofbusiness_revenue_usd,2500,million,FY25,2025-02-01,True,SRC01554,MEDIUM,USD 2.5 billion in revenues
+MET00471,S0086,owned_hospitals,"8 owned hospitals, ~450 beds, ~200k sq ft",,2025-07,2025-07,True,SRC01572,MEDIUM,
+MET00472,S0087,daily orders,"20,000+ people order daily",,Mar 2026,2026-03,True,SRC01582,MEDIUM,
+MET00473,S0087,monthly_orders,1000000,orders,As-of-2026-09,2026-09-10,True,SRC01587,HIGH,"Company blog Sep 10, 2026: monthly orders tripled since March 2026, crossing 1 million per month. Only ~50 pincodes covered."
+MET00474,S0087,daily_orders,20000,orders,Mar 2026,2026-03-24,True,SRC01582,MEDIUM,"Company blog Series B announcement: 20,000+ people order daily"
+MET00475,S0087,monthly_order_growth,3,x,Mar-2026 to Sep-2026,2026-09-10,True,SRC01587,HIGH,Monthly orders tripled since March 2026
+MET00476,S0087,on_time_delivery_rate,80,percent,As-of-2026-09,2026-09-10,True,SRC01587,HIGH,Over 80% of orders delivered under 15 minutes
+MET00477,S0087,average_preparation_time,4,minutes,As-of-2026-09,2026-09-10,True,SRC01587,HIGH,Robotic kitchen equipment; average preparation under 4 minutes
+MET00478,S0087,kitchen_count,50,pincodes,As-of-2026-09,2026-09-10,True,SRC01587,MEDIUM,Company states 'barely covering 50 pincodes today'; not exact kitchen count but indicates network scale
+MET00479,S0087,skus,250,SKUs,As-of-2026-09,2026-09-10,True,SRC01587,HIGH,Menu has grown to more than 250 SKUs across over 20 food categories
+MET00480,S0087,employee_count,697,employees,Aug 2025,2025-08-31,False,SRC01596,MEDIUM,Tracxn official employee count. LinkedIn shows 354; ZoomInfo 51-200. Significant discrepancy.
+MET00481,S0090,schools,2500,schools,As-of-2026-09,2026-09-15,True,SRC01615,HIGH,"2,500+ schools and districts worldwide"
+MET00482,S0090,educators,250000,educators,As-of-2026-09,2026-09-15,True,SRC01615,HIGH,"250,000+ educators community"
+MET00483,S0090,countries,17,countries,As-of-2026-09,2026-09-15,True,SRC01621,HIGH,400+ employees in 17 countries
+MET00484,S0090,ib_schools_pct,20,percent,As-of-2023-01,2023-01-10,True,SRC01613,HIGH,More than 20% of IB schools globally use Toddle
+MET00485,S0090,arr,25,million,FY25/As-of-2026-06,2026-06-25,False,SRC01612,MEDIUM,ARR ~$25 million; near-breakeven status
+MET00486,S0090,revenue_from_us,33.3,percent,FY25,2026-06-25,False,SRC01612,MEDIUM,More than a third of revenue from US
+MET00487,S0090,revenue_from_india,6.5,percent,As-of-2023-01,2023-01-10,True,SRC01613,HIGH,Only 6-7% of revenue from India
+MET00488,S0092,fleet_size,40,aircraft,As-of-2026-07,2026-07-04,True,SRC01671,HIGH,40 Boeing 737 MAX aircraft; 9 inducted in CY2026 alone
+MET00489,S0092,passengers_flown_cumulative,28,million,Since-launch-Aug-2022,2026-09-15,True,SRC01672,HIGH,Over 28 million passengers since launch; ~29M per Aug 2026 CNBC-TV18
+MET00490,S0092,domestic_destinations,28,cities,As-of-2026-07,2026-07-04,True,SRC01643,HIGH,28 domestic destinations
+MET00491,S0092,international_destinations,7,cities,As-of-2026-07,2026-07-04,True,SRC01643,HIGH,"7 international: Doha, Jeddah, Riyadh, Abu Dhabi, Kuwait, Phuket, Hanoi"
+MET00492,S0092,boeing_firm_order,226,aircraft,Order-book,2026-09-15,True,SRC01642,HIGH,226 Boeing 737 MAX firm order; 186-189 remaining for delivery over next 6 years
+MET00493,S0092,weekly_departures,1000,flights,FY25,2025-08,True,SRC01638,MEDIUM,1000+ weekly departures targeted by festive season 2025
+MET00494,S0092,market_share,5.1,percent,2026-Q2,2026-04,False,SRC01657,LOW,Domestic market share ~5.1% per HappyFares; growing ~0.4pp quarterly
+MET00495,S0093,meals_per_month,1.5M+,,2025-07,2025-07,True,SRC01677,MEDIUM,
+MET00496,S0093,outlets,300,count,As-of-2026,2026-09-15,True,SRC01680,MEDIUM,Company website claims 300+ outlets across 7 cities
+MET00497,S0093,cities,7,count,As-of-2026,2026-09-15,True,SRC01680,MEDIUM,"Mumbai, Delhi NCR, Bangalore, Hyderabad, Pune, Chennai, Kolkata"
+MET00498,S0093,meals_per_day,22000,count,As-of-2026,2026-09-15,True,SRC01680,MEDIUM,"Company website claims 22,000+ meals daily"
+MET00499,S0093,brands,16,count,As-of-2025,2025-07-25,True,SRC01683,HIGH,Indian Retailer: 16 brands under EatClub umbrella
+MET00500,S0093,meals_per_month,1500000,count,FY22,2021-11-30,True,SRC01677,MEDIUM,BS article at Dec 2021: 1.5M meals/month; likely outdated given 300+ outlets now
+MET00501,S0093,kitchens,150,count,FY22,2021-11-30,True,SRC01677,MEDIUM,BS article Dec 2021: 150+ kitchens across 5 cities
+MET00502,S0093,revenue_growth_yoy,45.4,percent,FY25,2026-09-15,False,SRC01679,MEDIUM,Inc42: revenue grew 45.4% YoY from FY24 to FY25
+MET00503,S0093,revenue_growth_yoy,60,percent,FY24,2025-07-25,False,SRC01682,MEDIUM,ET: FY24 revenue up almost 60% from year before
+MET00504,S0094,learners,1M+ across 80+ countries,,2025-09,2025-09,True,SRC01689,MEDIUM,
+MET00505,S0094,learners,350000,count,As-of-2026-09,2026-09-15,True,SRC01699,HIGH,"350,000+ learners from 80+ countries per eruditus.com"
+MET00506,S0094,university_partners,80,count,As-of-2026-09,2026-09-15,True,SRC01699,HIGH,"80+ university partners including Columbia, Harvard, MIT Sloan, INSEAD, Wharton, Kellogg Northwestern, Cambridge, UC Berkeley, IIT, IIM, NUS"
+MET00507,S0094,revenue_growth_FY24,12.4,percent,FY24,2025-04-02,True,SRC01716,HIGH,12.4% YoY revenue growth in FY24
+MET00508,S0094,EBITDA_loss_reduction,83.5,percent,FY24,2025-04-02,True,SRC01717,HIGH,EBITDA loss narrowed by 83.5% in FY24
+MET00509,S0094,enterprise_L&D_revenue_share,20,percent,FY25,2025,False,SRC01709,MEDIUM,Enterprise L&D at 20% of revenue growing 45% annually per investor report
+MET00510,S0094,India_revenue_share,28,percent,FY25,2025,False,SRC01708,MEDIUM,"India currently 28% of revenue (~$125M); targeting 50% share per co-founder Chaitanya Kalipatnapu (Business Standard, Jun 2025)"
+MET00511,S0095,revenue_growth_yoy,182,percent,FY25,2025-12-17,True,SRC01722,HIGH,Revenue from Rs 106.8cr FY24 to Rs 301.4cr FY25
+MET00512,S0095,revenue_from_operations,299,crore,FY25,2025-12-17,True,SRC01729,HIGH,"97.5% from product sales (Rs 291.5cr), 2.5% from shipping receipts"
+MET00513,S0095,employee_count,233,count,as of May 2026,2026-05-28,False,SRC01732,MEDIUM,Inc42 reports 233 employees; +19.49% in last 90 days
+MET00514,S0095,app_downloads,10000000,count,as of 2026,2026-09-15,False,SRC00056,LOW,10L+ downloads on Google Play
+MET00515,S0095,app_rating,4.6,stars,as of 2026,2026-09-15,False,SRC00056,LOW,"4.6 stars, 32.5K reviews"
+MET00516,S0095,channel_mix_own_website,25,percent,2025,2025-07-25,True,SRC01735,MEDIUM,"25% own website, 25% e-commerce (Amazon/Flipkart), rest quick commerce + offline"
+MET00517,S0096,students_served,1M+; 1000+ university partners,,2025-01,2025-01,True,SRC01749,MEDIUM,
+MET00518,S0096,students_served,1000000,count,As-of-2025-01,2025-01-29,True,SRC01740,MEDIUM,BS: helped more than a million students
+MET00519,S0096,university_partners,1000,count,As-of-2025-01,2025-01-29,True,SRC01740,MEDIUM,"BS: partnered with over 1,000 educational institutions globally"
+MET00520,S0096,students_served,2000000,count,As-of-2022-06,2022-06-22,True,SRC01742,MEDIUM,HBL: online community of over two million students
+MET00521,S0096,students_traveled_abroad,60000,count,FY22,2022-06-22,True,SRC01742,MEDIUM,"HBL: more than 60,000 students travelled abroad"
+MET00522,S0096,students_expected_abroad,175000,count,FY23,2022-06-22,True,SRC01742,MEDIUM,"HBL: nearly 175,000 students expected to study abroad"
+MET00523,S0096,community_members,500000,count,As-of-2021-03,2021-03-16,True,SRC01748,MEDIUM,"PIE: community of 500,000 members at Series B"
+MET00524,S0096,monthly_active_users,200000,count,As-of-2021-02,2021-02-01,True,SRC01748,MEDIUM,"PIE: 200,000 MAU, 9M chat messages in Feb 2021"
+MET00525,S0096,countries_operating,11,count,As-of-2025-01,2025-01-29,True,SRC01741,HIGH,ET: present in 11 countries
+MET00526,S0096,revenue_from_india,80,percent,As-of-2025-01,2025-01-29,True,SRC01741,HIGH,ET: over 80% of revenue from India
+MET00527,S0096,employee_count,848,count,As-of-2025-08,2025-08-31,False,SRC01747,MEDIUM,Tracxn: 848 employees
+MET00528,S0096,offline_centres_planned,15,count,FY2026,2026-03-23,True,SRC01752,LOW,Tribune headline per Tracxn news feed
+MET00529,S0098,total_client_assets,130000,crore,As-of-2026-06-30,2026-06-30,True,SRC01765,MEDIUM,Rs 1.3 lakh crore; up from ~Rs 1 lakh crore in Mar 2026
+MET00530,S0098,ARR_AUM,50000,crore,As-of-2026-06-30,2026-06-30,True,SRC01765,MEDIUM,"Rs 50,000 crore ARR AUM"
+MET00531,S0098,senior_wealth_advisors,150,count,As-of-2026-07-17,2026-07-17,True,SRC01765,MEDIUM,150+ senior wealth advisors
+MET00532,S0098,cities_operating,30,count,As-of-2026-07-17,2026-07-17,True,SRC01765,MEDIUM,Operates in 30+ cities across India + US presence
+MET00533,S0098,total_employees,850,count,As-of-2026-07-17,2026-07-17,True,SRC01765,MEDIUM,850+ professionals including 150+ senior wealth advisors
+MET00534,S0098,assets_under_advice,3000,crore,As-of-2023-10,2023-10-18,True,SRC01770,MEDIUM,"Oct 2023: ~$3Bn (Rs 25,000cr) AUA, $360M (Rs 3,000cr) AUM"
+MET00535,S0098,private_credit_fund_first_close,2000,crore,As-of-2025-11,2025-11-25,True,SRC01769,MEDIUM,"Neo Assets first close of second private credit fund at Rs 2,000 crore; SEBI-registered"
+MET00536,S0100,active_designer_brands,1109,brands,As-of-2026-03-31,2026-03-31,True,SRC01786,HIGH,"Platform featured products from 1,109 active designer brands as of March 31, 2026"
+MET00537,S0100,experience_centres,15,centres,As-of-2025-03,2025-03-13,True,SRC01783,HIGH,Over 15 Pernia's Pop-Up Shop experience centres globally as of Mar 2025
+MET00538,S0100,gross_sales_run_rate,100,million USD,FY23,2023-11-20,True,SRC01784,MEDIUM,Founder stated current gross sales run rate ~$100M at time of Series D (Nov 2023)
+MET00539,S0100,cagr_fy21_to_fy24,100,percent,FY21-FY24,2025-03-13,True,SRC01783,MEDIUM,Company claimed over 100% CAGR between FY21-FY24
+MET00540,S0100,ipo_subscription_total,1.29,x,Aug 31-Sep 2 2026,2026-09-02,False,SRC01786,HIGH,"IPO subscribed 1.29x overall; QIB 1.43x, NII 0.84x, RII 1.58x"
+MET00541,S0100,ipo_listing_discount,6.96,percent,Sep 7 2026,2026-09-07,False,SRC01786,HIGH,Listed at Rs 535 on NSE vs issue price Rs 575 (6.96% discount)
+MET00542,S0103,signed launch MoUs,$130M,,2026-01,2026-01,True,SRC01811,MEDIUM,
+MET00543,S0104,QKD network distance,1000,km,As-of-2026-04,2026-04-01,True,SRC01819,HIGH,"India's first 1,000 km QKD network; 99.3% uptime over 15 days; validated by VIAVI Solutions MAP-300"
+MET00544,S0104,QKD network distance (earlier milestone),500,km,As-of-2025-11,2025-11-01,True,SRC01819,HIGH,500 km intercity quantum-safe network over existing optical fibre in Rajasthan with Army Southern Command Signals
+MET00545,S0104,Navy quantum encryption systems ordered,28,systems,As-of-2023,2023-01-01,True,SRC01819,MEDIUM,Indian Navy placed landmark order for 28 quantum encryption systems
+MET00546,S0104,Army first procurement order,1,order,2022-08-14,2022-08-14,True,SRC01819,HIGH,Indian Army placed first procurement order for QKD systems under iDEX programme on 14 Aug 2022
+MET00547,S0104,Patents granted,12,patents,As-of-2026-09,2026-09-15,True,SRC01819,HIGH,"12 granted patents, 15 awaiting grant, 30+ additional applications"
+MET00548,S0104,Employee count,118,employees,As-of-2025-08,2025-08-31,False,SRC01817,MEDIUM,Tracxn employee count; 42% increase from Aug 2024
+MET00549,S0105,global sales H1 2026,"3,000+ electric motorcycles",,2026-09,2026-09,True,SRC01831,MEDIUM,
+MET00550,S0105,retail + global footprint,"100+ Indian cities, 14 countries",,2026-09,2026-09,False,SRC01835,MEDIUM,
+MET00551,S0106,service locations at DRHP,502 across 70+ cities,,2025-06,2025-06,False,SRC01840,MEDIUM,
+MET00552,S0106,service locations,502,locations,As-of-2025-03,2025-03,True,SRC01837,HIGH,
+MET00553,S0106,cloud kitchens,281,kitchens,As-of-2026-09,2026-09-15,True,SRC01841,MEDIUM,
+MET00554,S0106,kiosks,99,kiosks,As-of-2026-09,2026-09-15,True,SRC01841,MEDIUM,
+MET00555,S0106,cities,40,cities,As-of-2026-09,2026-09-15,True,SRC01841,MEDIUM,
+MET00556,S0106,brands crossing ₹100Cr ARR,4,brands,As-of-2025-06,2025-06,True,SRC01837,HIGH,
+MET00557,S0106,employees,3254,employees,As-of-2026,2026,False,SRC01847,MEDIUM,
+MET00558,S0107,AUM,"Rs 14,000 Cr+ across PMS/AIF/distribution",,2025-10,2025-10,True,SRC01862,HIGH,
+MET00559,S0107,app tracking scale,5L+ investors tracking Rs 2L Cr+,,2025-10,2025-10,True,SRC01862,MEDIUM,
+MET00560,S0108,on_chain_verifications,100000,count,As-of-2026-03,2026-03-24,True,SRC01873,MEDIUM,"Ascendants article: Edubuk completed more than 100,000 on-chain verifications"
+MET00561,S0108,employee_count,17,count,As-of-2026-08,2026-08-31,False,SRC01872,MEDIUM,Tracxn employee count trend
+MET00562,S0108,global_profiles_affected,500000000,count,As-of-2026-03,2026-03-24,True,SRC01873,LOW,"Ascendants: startup addressing fake credentials affecting over 500 million profiles globally — company claim, not independently verified"
+MET00563,S0109,monthly_active_users,27,million,As-of-2026-01,2026-01-31,True,SRC01877,MEDIUM,Pitch-deck claim; 27M MAUs across all apps
+MET00564,S0109,minutes_per_month,2,billion,As-of-2026-01,2026-01-31,True,SRC01877,MEDIUM,Pitch-deck claim
+MET00565,S0109,paying_users,1.5,million,As-of-2025-04,2025-04-10,True,SRC01879,MEDIUM,At Series B announcement
+MET00566,S0109,arr,23,million,FY25,2025-04-10,True,SRC01879,MEDIUM,ARR at Series B announcement
+MET00567,S0109,downloads_story_tv,9,crore,As-of-2026-05,2026-05-21,True,SRC01902,MEDIUM,Story TV claims 9 crore downloads; launched 2025
+MET00568,S0109,downloads_eloelo_app,100,million,As-of-2026-09,2026-09-15,True,SRC01895,MEDIUM,Eloelo app 100M+ downloads per company website
+MET00569,S0109,users_total,1,million,As-of-2021-12,2021-12-11,True,SRC01903,MEDIUM,Crossed 2M users by Dec 2021 (animationxpress)
+MET00570,S0109,market,India,country,As-of-2026-09,2026-09-15,True,SRC01895,HIGH,Primary market
+MET00571,S0109,market,Southeast Asia,country,As-of-2025-04,2025-04-10,True,SRC01879,MEDIUM,International expansion target (diaspora) per Series B purpose
+MET00572,S0109,market,Latin America,country,As-of-2025-04,2025-04-10,True,SRC01879,MEDIUM,International expansion target per Series B purpose
+MET00573,S0110,store_count,300,stores,As-of-2026-04,2026-04-14,True,SRC01934,HIGH,"300th store in South Extension, New Delhi"
+MET00574,S0110,store_count,280,stores,As-of-2025-11,2025-11-23,True,SRC01917,HIGH,"280 stores across 48 cities; Bengaluru 47, Delhi-NCR 72"
+MET00575,S0110,store_count_target,340,stores,FY26 target,2025-11-23,True,SRC01917,HIGH,Target 340 by March 2026
+MET00576,S0110,store_count_target,1000,stores,By 2028,2025-11-23,True,SRC01917,MEDIUM,Long-term target 800-1000 stores
+MET00577,S0110,online_offline_split,50,percent,FY25,2026-02-13,True,SRC01930,HIGH,Roughly equal online and offline revenue contribution
+MET00578,S0110,revenue_run_rate,8500000000,INR,FY26E,2025-05-08,True,SRC01919,MEDIUM,Founder expects ~Rs 850 Cr FY26 topline with positive EBITDA
+MET00579,S0110,same_store_sales_growth,65,percent,FY25,2025-05-08,True,SRC01919,HIGH,Same-store sales growth >65% in FY25
+MET00580,S0110,app_downloads,8000000,downloads,As-of-2026,2026-09-15,True,SRC01937,HIGH,"8M+ downloads, 4.4 rating"
+MET00581,S0110,international_revenue,1070000000,INR,FY25,2026-02-13,True,SRC01938,HIGH,Sri Lanka store contributed Rs 10.7 Cr in FY25
+MET00582,S0112,SKUs,"700,000+",,2022-01,2022-01,True,SRC01944,MEDIUM,
+MET00583,S0112,SMEs served,"500,000+",,2022-01,2022-01,True,SRC01946,MEDIUM,
+MET00584,S0112,large manufacturers,"1,000+",,2022-01,2022-01,True,SRC01946,MEDIUM,
+MET00585,S0112,supplier network / warehouses,"16,000+ suppliers, 40+ warehouses",,2022-01,2022-01,True,SRC01944,MEDIUM,
+MET00586,S0118,registered_users,35000000,users,As-of-2026-09-15,2026-09-15,True,SRC02004,HIGH,35M+ users per VCCircle Dec 2025; also confirmed on LinkedIn and StockGro homepage
+MET00587,S0118,registered_users,10000000,users,Jan 2022,2022-01-20,True,SRC02003,HIGH,"10M users as of Jan 2022, doubled from 5M in Oct 2021"
+MET00588,S0118,registered_users,1000000,users,Aug 2021,2021-08-04,True,SRC02008,HIGH,1M+ users with 80% MoM retention as of Aug 2021
+MET00589,S0118,educational_institution_partnerships,1500,institutions,As-of-2025-12-02,2025-12-02,True,SRC02004,HIGH,1500+ educational institutions globally per VCCircle
+MET00590,S0118,sebi_registered_analysts,150,analysts,As-of-2026-09-15,2026-09-15,True,SRC02006,HIGH,150+ SEBI-registered research analysts per StockGro homepage
+MET00591,S0118,employee_count,211,employees,As-of-2026-09-15,2026-09-15,True,SRC02007,MEDIUM,LinkedIn shows 211 employees; 51-200 range per LinkedIn company page
+MET00592,S0119,Fleet size,48000,EVs,As-of-2026-07,2026-07-16,,SRC02023,HIGH,
+MET00593,S0119,Cumulative distance,2000000000,km,As-of-2026-03,2026-03-30,,SRC02033,HIGH,
+MET00594,S0119,Daily doorstep deliveries,750000,deliveries/day,As-of-2026-08,2026-08-12,,SRC02019,HIGH,
+MET00595,S0119,Zero-emission km logged daily,2500000,km/day,As-of-2026-08,2026-08-12,,SRC02019,HIGH,
+MET00596,S0119,Total users since inception,4000000,users,As-of-2026-08,2026-08-12,,SRC02012,HIGH,
+MET00597,S0119,Market share of quick-commerce deliveries,15,%,As-of-2026-08,2026-08-12,,SRC02019,HIGH,
+MET00598,S0119,Fleet size,45000,EVs,As-of-2025-05,2025-05-27,,SRC02021,HIGH,
+MET00599,S0119,Fleet size,18000,EVs,As-of-2024-12,2024-12-05,,SRC02022,HIGH,
+MET00600,S0119,Cities of operation,10,cities,As-of-2026-07,2026-07-16,,SRC02023,HIGH,
+MET00601,S0119,Battery swapping stations,300,stations,As-of-2025-05,2025-05-27,,SRC02021,HIGH,
+MET00602,S0119,Women service professionals,12000,users,As-of-2026-07,2026-07-16,,SRC02023,HIGH,
+MET00603,S0119,EBITDA positive months,11,months,FY25,2026-07-16,,SRC02023,HIGH,
+MET00604,S0119,CO2 abated monthly,2000000,kg,As-of-2026-08,2026-08-12,,SRC02019,MEDIUM,
+MET00605,S0120,customers,30000,businesses,As-of-2026-01,2026-01-01,True,SRC02040,HIGH,"30,000+ salon, spa, medspa, fitness businesses across 50+ countries"
+MET00606,S0120,locations_managed,15000,businesses,Post-SuperSalon acquisition,2021-09-14,True,SRC02052,HIGH,"Combined entity powers 15,000+ spas and salons after SuperSalon acquisition"
+MET00607,S0120,countries_served,50,countries,As-of-2026-01,2026-01-01,True,SRC02040,HIGH,50+ countries
+MET00608,S0120,employee_count,862,employees,As-of-2025-08-31,2025-08-31,True,SRC02036,MEDIUM,Tracxn official count
+MET00609,S0120,revenue_growth_2020,100,percent,FY2020,2020-12-31,True,SRC02046,HIGH,100% year-over-year growth in 2020
+MET00610,S0123,GMV,700,crore,FY25/FY26,2026-05-12,True,SRC02083,HIGH,Current GMV approximately ₹700 crore as of May 2026
+MET00611,S0123,repeat_purchase_rate,50,percent,FY25,2025-12-26,True,SRC02082,HIGH,Nearly 50% of purchases from repeat customers
+MET00612,S0123,online_revenue_share,95,percent,FY25,2026-05-12,True,SRC02083,HIGH,~95% revenue from online channels
+MET00613,S0123,own_website_revenue_share,50,percent,FY25,2026-05-12,True,SRC02083,HIGH,Own website contributes ~50% of total sales
+MET00614,S0123,marketplace_revenue_share,40,percent,FY25,2026-05-12,True,SRC02083,MEDIUM,Marketplaces like Nykaa and Amazon contribute ~40% (implied from 95% online minus 50% own website)
+MET00615,S0123,offline_revenue_share,10,percent,FY25,2026-05-12,True,SRC02083,HIGH,"Offline retail ~10%, growing in double digits"
+MET00616,S0123,SKU_count,20,count,As-of 2026,2026-05-12,True,SRC02083,HIGH,Tightly curated portfolio of just over 20 SKUs
+MET00617,S0123,ARR_GMV_target,700,crore,FY25,2025-12-26,True,SRC02082,MEDIUM,Company claimed on track to close year with ARR over ₹700 Cr GMV
+MET00618,S0123,revenue_growth_yoy,150,percent,FY25,2025-01-15,True,SRC02081,HIGH,"150% growth in FY25, more than doubling last year's revenue"
+MET00619,S0123,founder_stake,33.65,percent,As-of 2026,2026-09-15,False,SRC02084,HIGH,Founder holds 33.65% per Tracxn cap table
+MET00620,S0125,modular beds delivered and operating,950+,,Sep 2026,Sep 2026,True,SRC02102,MEDIUM,
+MET00621,S0125,modular beds operating,950,beds,Sep 2026,2026-09-07,True,SRC02095,HIGH,Company reported 950+ modular beds in operation.
+MET00622,S0125,beds in pipeline,10000,beds,Sep 2026,2026-09-07,True,SRC02095,HIGH,"Pipeline exceeding 10,000 beds. No timeline disclosed."
+MET00623,S0125,beds deployed single site case study,432,beds,Q1 2026,2026-09-07,True,SRC02097,MEDIUM,Case study: 432 workers moved into HerSpace housing in 6 weeks; 12% fewer missed shifts in Q1. Automotive manufacturing site in Tamil Nadu.
+MET00624,S0126,store_count,131,stores,As-of-2026-08,2026-08-24,True,SRC02112,MEDIUM,"131 stores as of Aug 2026 after 5 new launches (Kolkata, Pune, Nashik, Patiala, Noida); 100 stores milestone around Dec 2025"
+MET00625,S0126,online_offline_mix,60,percent_online,FY26,2026-04-11,True,SRC02106,HIGH,"60% online, 40% offline; offline growing ~75% YoY"
+MET00626,S0126,quick_commerce_revenue_share,10,percent_online_revenue,FY26,2026-04-11,True,SRC02106,MEDIUM,"Snitch Quick launched Oct 2025; 60-min delivery in Bengaluru, Delhi, Gurugram, Ahmedabad"
+MET00627,S0126,revenue_run_rate,900,crore,FY26,2026-04-11,True,SRC02106,MEDIUM,"FY26 operating revenue Rs 900 Cr; FY27 target Rs 1,400 Cr"
+MET00628,S0126,total_funding_raised,53,million,cumulative,2026-04-11,True,SRC02106,HIGH,~$53M total funding to date
+MET00629,S0128,banks_and_nbfcs_partnered,22,count,As-of-2026-08,2026-08-18,True,SRC02124,HIGH,"Company claims 22+ banks and NBFCs including AU Small Finance Bank, ICICI Bank, Poonawalla Fincorp, Bajaj Auto Credit, Five-Star Business Finance, Muthoot Capital, Finova Capital, IndoStar, Protium, IIFL, Northern Arc, APAC Financial Services, Vridhi Home Finance"
+MET00630,S0128,borrower_conversations_minutes_per_month,6500000,minutes,As-of-2026-08,2026-08-18,True,SRC02124,HIGH,6.5 million minutes of borrower conversations every month
+MET00631,S0128,loan_accounts_managed,12000000,accounts,As-of-2026-08,2026-08-18,True,SRC02124,HIGH,PAN-India collections across more than 12 million loan accounts
+MET00632,S0128,bounce_resolution_rate_improvement,35,percent,As-of-2026-08,2026-08-18,True,SRC02123,HIGH,Strategy Builder delivered 35% improvement in bounce and resolution rates
+MET00633,S0128,employee_count,78,employees,As-of-2026-05,2026-05-31,False,SRC02128,MEDIUM,Tracxn: 78 employees as of May 2026; 189% growth from May 2025
+MET00634,S0130,retail_registrations,5518,units,Jul 2026,2026-07-31,False,SRC02139,HIGH,3X year-on-year growth; 0.3% share of India's EV two-wheeler market in July 2026
+MET00635,S0130,annual_sales,164000,units,FY26,2026-08-20,False,SRC02155,MEDIUM,"FY26 sales 1.64 lakh units, down from 3.44 lakh in prior year; ~26,201 units, ~2% market share"
+MET00636,S0130,annual_sales,344000,units,FY25,2025-03-31,False,SRC02155,MEDIUM,FY25 sales 3.44 lakh units (prior year comparison)
+MET00637,S0130,dealerships,120,count,early 2025,2025-01-01,True,SRC02145,HIGH,Planned expansion to 500 dealerships and 1000+ touchpoints
+MET00638,S0130,dealerships,200,count,2026,2026-09-15,True,SRC02143,MEDIUM,BGauss website states 200+ dealerships across India
+MET00639,S0130,customers_served,45000,count,Jan 2025,2025-01-14,True,SRC02145,HIGH,"Pune-based startup claims to serve ~45,000 customers as of Jan 2025"
+MET00640,S0130,manufacturing_capacity,100000,units/year,2025,2025-01-14,True,SRC02145,HIGH,"Manufacturing capacity at Chakan, Pune plant"
+MET00641,S0130,brand_trust,90000,families,2026,2026-09-15,True,SRC02143,MEDIUM,"BGauss website claims 'trust of 90,000+ Indian families'"
+MET00642,S0130,market_share,0.3,percent,Jul 2026,2026-07-31,False,SRC02139,HIGH,0.3% share of India's electric two-wheeler market in July 2026
+MET00643,S0134,customers,6500,businesses,As-of-2026-08,2026-08-17,True,SRC02193,HIGH,6500+ businesses serving 227 countries
+MET00644,S0134,countries_served,227,countries and territories,As-of-2026-08,2026-08-17,True,SRC02193,HIGH,227 countries and territories charged
+MET00645,S0134,currencies_supported,62,currencies,As-of-2026-08,2026-08-17,True,SRC02193,HIGH,62+ currencies
+MET00646,S0134,employees,1301,employees,As-of-2025-09-30,2025-09-30,True,SRC02187,MEDIUM,Tracxn official count
+MET00647,S0134,employees_india,746,employees,As-of-2025-08,2025-08-01,False,SRC02178,MEDIUM,India entity employee count
+MET00648,S0134,customers_2022,4800,businesses,As-of-2023-02,2023-02-01,True,SRC02207,MEDIUM,Over 4.8K customers as of Feb 2023
+MET00649,S0134,customers_2021,3500,businesses,As-of-2021-10,2021-10-19,True,SRC02208,HIGH,Over 3500 businesses
+MET00650,S0134,revenue_processed,5000000000,USD,As-of-2023-02,2023-02-01,True,SRC02207,MEDIUM,Processed over $5 billion in revenue
+MET00651,S0135,ecommerce_shipments,105,crore,FY26,2026-05-05,True,SRC02214,HIGH,
+MET00652,S0135,ptl_freight,20,lakh tonnes,FY26,2026-05-05,True,SRC02214,HIGH,
+MET00653,S0135,infrastructure_sqft,2.3,crore sqft,FY26,2026-05-05,True,SRC02214,HIGH,
+MET00654,S0135,express_shipments_q4fy26,306,million,Q4 FY26,2026-05-05,True,SRC02214,HIGH,
+MET00655,S0135,express_shipments_fy25,752,million,FY25,2025-05-16,True,SRC02212,HIGH,
+MET00656,S0135,express_shipments_q4fy25,177,million,Q4 FY25,2025-05-16,True,SRC02212,HIGH,
+MET00657,S0135,ptl_freight_q2fy26,477000,metric tonnes,Q2 FY26,2025-11-05,True,SRC02222,HIGH,
+MET00658,S0135,net_worth,9687,crore,Mar 2026,2026-05-05,True,SRC02214,HIGH,
+MET00659,S0135,cash_equivalents,4555,crore,Mar 2026,2026-05-05,True,SRC02214,HIGH,
+MET00660,S0138,global_hotels,21000,hotels,FY25 (as of 2025-03-31),2025-03-31,True,SRC02251,HIGH,Per FY25 annual report
+MET00661,S0138,global_homes,120000,homes,FY25 (as of 2025-03-31),2025-03-31,True,SRC02251,HIGH,Per FY25 annual report
+MET00662,S0138,countries,35,countries,FY25,2025-03-31,True,SRC02251,HIGH,Across 35+ countries
+MET00663,S0138,customers,100,million,FY25,2025-12-16,True,SRC02252,MEDIUM,Prism claims 100M+ customers across 35 countries
+MET00664,S0138,india_GBV_share,11.9,percent,FY26 (9M),2026-07,True,SRC02258,HIGH,India <12% of global GBV
+MET00665,S0138,us_GBV_share,52,percent,FY26 (9M),2026-07,True,SRC02258,HIGH,US >52% of global GBV
+MET00666,S0138,europe_GBV_share,18,percent,FY26 (9M),2026-07,True,SRC02258,HIGH,Europe ~18% of global GBV
+MET00667,S0138,india_revenue_share,30,percent,FY25,2025-12,True,SRC02256,MEDIUM,India contributed 30% of overall topline
+MET00668,S0138,us_revenue_share,30,percent,FY25,2025-12,True,SRC02256,MEDIUM,US had similar contribution as India (~30%)
+MET00669,S0138,premium_hotel_partners_upgraded,1300,hotel_partners,FY25,2025-12,True,SRC02256,MEDIUM,"Serviced 1,300 hotel partners in India for sub-premium/premium upgrade"
+MET00670,S0144,verified users,38.9M,,Sep 2025,Sep 2025,,SRC02306,,
+MET00671,S0144,monthly active users,6.14M,,Sep 2025,Sep 2025,,SRC02306,,
+MET00672,S0144,verified_users,3.6,million,May 2024,2024-05-24,True,SRC02307,HIGH,Accel investment page; 24% monthly growth rate
+MET00673,S0144,verified_users,10.8,million,Oct 2024,2024-10-06,True,SRC02321,MEDIUM,Foundit job listing; 3.3M UAW (30d) gas as of Oct 2024
+MET00674,S0144,verified_users,38.9,million,Sep 2025,2025-09-30,True,SRC02306,HIGH,BeInCrypto/Yahoo at Sep 2025
+MET00675,S0144,verified_users,53,million,Mar 2026,2026-03-15,True,SRC02322,MEDIUM,Playnance partnership article Mar 2026
+MET00676,S0144,verified_users,61.9,million,Jun 2026,2026-06-05,True,SRC02310,HIGH,GlobeNewswire Jun 2026; 61.9M users across 60+ countries
+MET00677,S0144,monthly_active_users,6.14,million,Sep 2025,2025-09-30,True,SRC02306,MEDIUM,BeInCrypto/Yahoo at Sep 2025
+MET00678,S0144,annualized_revenue,85.8,million,FY26,2026-03-31,True,SRC02310,HIGH,Platform revenue; trajectory to $150M by Dec 2027
+MET00679,S0144,gamer_attributes_collected,67,million,May 2024,2024-05-24,True,SRC02307,HIGH,Accel investment page
+MET00680,S0145,monthly active users,25M,,Sep 2025,Sep 2025,,SRC02326,,
+MET00681,S0145,monthly_active_users,25000000,count,As-of-2025-09,2025-09-03,True,SRC02330,HIGH,25M+ MAU per Bessemer and Elevation Capital
+MET00682,S0145,paid_subscribers,4000000,count,As-of-2025-09,2025-09-03,True,SRC02329,HIGH,4M paid subscribers per Seekho team page; also confirmed by Instagram/LinkedIn
+MET00683,S0145,paid_subscribers,1000000,count,FY24,2024-12-01,True,SRC02329,HIGH,Hit 1M paid users before Series A (per team timeline)
+MET00684,S0145,video_courses,10000,count,As-of-2026-09,2026-09-15,True,SRC00056,HIGH,"10,000+ video courses on Google Play"
+MET00685,S0145,languages_supported,4,count,As-of-2025-11,2025-11-13,True,SRC02336,MEDIUM,"Hindi, English, Tamil, Telugu (Tamil/Telugu added Nov 2025)"
+MET00686,S0145,subscription_revenue_pool_india,2500000000,count,FY25,2025-09-03,False,SRC02330,LOW,Bessemer cites $2.5B India subscription pool; not Seekho-specific
+MET00687,S0146,Publications,2,count,As-of-2026-09-15,2026-09-15,True,SRC02350,HIGH,Peer-reviewed publications: Molecules 2022 (AVA-ADR-001) and Frontiers in Immunology 2024 (small molecule innate immune modulators)
+MET00688,S0146,Patents filed,,count,As-of-2026-09-15,2026-09-15,True,SRC02349,MEDIUM,"Several international patents filed in nucleic acid delivery, Niemann-Pick Type C therapeutics, drug discovery"
+MET00689,S0146,Partnerships,3,count,As-of-2026-09-15,2026-09-15,True,SRC02346,HIGH,"Research collaborations with UCSF, Oxford University, University of Queensland"
+MET00690,S0147,surgeries facilitated cumulative,"30,000",,Apr 2025,Apr 2025,,SRC02363,,
+MET00691,S0148,offline stores,25+,,Jan 2026,Jan 2026,,SRC02373,,
+MET00692,S0148,annualized_revenue_run_rate,300,crore INR,As-of-2026-01,2026-01-22,True,SRC02373,MEDIUM,Management-stated ARR
+MET00693,S0148,annualized_revenue_run_rate,400,crore INR,As-of-2026-06,2026-06-10,True,SRC02374,MEDIUM,Management-stated target/run rate
+MET00694,S0148,offline_stores,25,count,As-of-2026-01,2026-01-22,True,SRC02373,HIGH,25+ offline stores at Series A
+MET00695,S0148,customers_served,650000,count,As-of-2026-01,2026-01-22,True,SRC02373,MEDIUM,6-7 lakh customers served
+MET00696,S0148,monthly_luggage_shipments,200000,pieces,As-of-2026-01,2026-01-22,True,SRC02373,MEDIUM,~2 lakh pieces of luggage shipped per month
+MET00697,S0148,revenue,175,crore INR,FY26 (end of first full year),2026-06-10,True,SRC02374,MEDIUM,Roughly Rs 175Cr revenue by end of first full year
+MET00698,S0153,robot_systems_in_lab,25,count,FY2024,2024-11-05,True,SRC02427,HIGH,"13,000 sq ft Bengaluru lab hosts 25 robot systems; plans to expand to 50+ by 2026"
+MET00699,S0153,target_robots_per_day,1,count/day,FY2028,2026-02-17,True,SRC02422,HIGH,Target deploying 300 robotic systems annually by 2028
+MET00700,S0153,target_revenue_by_2027,22000000,USD,FY2027,2024-11-05,True,SRC02432,HIGH,Company stated $22M revenue milestone by 2027
+MET00701,S0153,target_revenue_break_even,45000000,USD,FY2028,2026-02-17,True,SRC02422,HIGH,Target $45-50M revenue to reach break-even at ~60% gross margins
+MET00702,S0153,supply_chain_parts,400,count,As-of-2024-11-05,2024-11-05,True,SRC02432,HIGH,400+ parts sourced across 14 countries
+MET00703,S0153,learning_time_unknown_object,15,seconds,As-of-2026-02-13,2026-02-13,True,SRC02421,HIGH,Robots learn to manipulate unknown objects within 10-15 seconds without pre-training
+MET00704,S0153,task_configuration_time,1,hours,As-of-2026-02-13,2026-02-13,True,SRC02421,HIGH,Configuring new tasks within same setup takes ~1 hour; creating new task from scratch takes 1 week to 3 months
+MET00705,S0153,system_price_range,165000,USD,As-of-2026-02-13,2026-02-13,True,SRC02421,HIGH,"Systems priced between $150,000 and $180,000 plus annual maintenance and development fees"
+MET00706,S0153,runway_months,16,months,As-of-2026-02-17,2026-02-17,True,SRC02422,HIGH,16-18 months runway as of Feb 2026
+MET00707,S0154,annualised_payment_volume,1000000000,USD,As-of-2026-08,2026-08-13,True,SRC02451,HIGH,Crossed $1B annualised payment volume
+MET00708,S0154,businesses_served,50000,count,As-of-2026-08,2026-08-13,True,SRC02451,HIGH,"50,000+ businesses served"
+MET00709,S0154,indian_exporters_served,40000,count,As-of-2026,2026-09-15,True,SRC02457,HIGH,"40,000+ Indian exporters on platform"
+MET00710,S0154,payments_processed_annually,200000,count,Annual,2026-09-15,True,SRC02457,HIGH,"200,000+ payments annually"
+MET00711,S0154,countries_served,150,count,As-of-2026,2026-09-15,True,SRC02457,HIGH,150+ countries
+MET00712,S0156,IP portfolio size,140,IP blocks,As-of-2026-02,2026-02-18,True,SRC00059,HIGH,PIB press release states 140+ semiconductor IPs
+MET00713,S0156,Chip variants,25,IC products,As-of-2026-02,2026-02-18,True,SRC00059,HIGH,25 chip variants/IC products
+MET00714,S0156,Granted patents,10,patents,As-of-2026-02,2026-02-18,True,SRC00059,HIGH,10 granted patents
+MET00715,S0156,Trade secrets,5,trade secrets,As-of-2026-02,2026-02-18,True,SRC00059,HIGH,5 trade secrets
+MET00716,S0156,DLI scheme selection,24,companies,As-of-2026-02,2026-02-18,True,SRC00059,HIGH,Vervesemi is the first company approved under India's DLI Scheme; 24 total projects approved
+MET00717,S0156,Semiconductor startups raised in India,92,million USD,Jan-May 2026,2026-06-02,False,SRC02478,HIGH,VerveSemi among 4 companies raising >$10M each in Jan-May 2026 per ET/Venture Intelligence
+MET00718,S0156,Foundry tape-outs completed,5,chip designs,As-of-2026-02,2026-02-18,True,SRC00059,HIGH,"All 5 chips fabricated; status varies: some in customer evaluation, some in testing"
+MET00719,S0156,Customer: Space sector,1,identified customer,As-of-2026-02,2026-02-18,True,SRC00059,HIGH,Identified Space customer for Data Acquisition avionic chip; chip fabricated and undergoing customer evaluation
+MET00720,S0156,BLDC motor controller project award,1,government project,2025-03-20,2025-03-20,True,SRC00059,HIGH,Awarded by Minister Ashwini Vaishnaw under MeitY C2S programme for Fan/Exhaust BLDC controller
+MET00721,S0157,centres,90,count,As-of-2026-08,2026-08-19,True,SRC02482,HIGH,90+ centres across 22+ cities as of Aug 2026
+MET00722,S0157,cities,22,count,As-of-2026-08,2026-08-19,True,SRC02482,HIGH,22+ cities across India
+MET00723,S0157,therapists,350,count,As-of-2026-08,2026-08-19,True,SRC02483,HIGH,350+ therapists per Inc42; at Series A (Apr 2024) was 250+
+MET00724,S0157,families_served,2000,count,As-of-2024-04,2024-04-11,True,SRC02488,MEDIUM,"~2,000 families at Series A; current number likely higher"
+MET00725,S0157,bhcoe_accreditation,1,boolean,As-of-2026-08,2026-08-19,True,SRC02482,HIGH,Asia's only BHCOE-accredited therapist training institute
+MET00726,S0157,target_centres,300,count,2-3 years from Aug 2026,2026-08-19,True,SRC02491,MEDIUM,Plans to expand to 300 centres within 2-3 years
+MET00727,S0158,exclusive_outlets,200,stores,As-of-2026-09,2026-09-15,True,SRC02498,HIGH,More than 200 exclusive outlets across 50 cities; 30-40% of stores reportedly closed due to poor per-store economics
+MET00728,S0158,retail_touchpoints,50000,touchpoints,As-of-2026-09,2026-09-15,True,SRC02498,MEDIUM,"Around 50,000 retail touchpoints; previously reached 550 cities"
+MET00729,S0158,revenue_yoy_change,-20,percent,FY25 vs FY24,2026-09-08,True,SRC02495,HIGH,Revenue declined ~20% from ₹505 Cr (FY24) to ₹404 Cr (FY25)
+MET00730,S0158,store_closure_rate,35,percent,2024-2026,2026-09-04,False,SRC02498,MEDIUM,30-40% of stores reportedly closed; per-store economics did not work; not company-confirmed
+MET00731,S0158,d2c_share,UNKNOWN,percent,FY25,2026-09-15,False,,LOW,"D2C share not explicitly reported; company sells via own platform, marketplaces, and offline retail"
+MET00732,S0159,brands_served,2000,count,As-of-2026-08,2026-08-12,True,SRC02508,HIGH,"2,000+ brands across India and Southeast Asia"
+MET00733,S0159,revenue_arr,31,million USD,FY25,2025-12-31,False,SRC02518,MEDIUM,GetLatka estimated ARR; not company-confirmed
+MET00734,S0159,data_points_processed_daily,100,million,As-of-2026-09,2026-09-15,True,SRC02509,HIGH,100M+ data points processed daily per Graas about page
+MET00735,S0159,employees,263,count,As-of-2026-07,2026-07-31,True,SRC02505,MEDIUM,Tracxn official employee count
+MET00736,S0159,gmv_processed,1000,million USD,As-of-2026-08,2026-08-12,True,SRC02508,HIGH,Over $1 billion in live commerce transactions
+MET00737,S0159,revenue_growth_yoy,50,percent,FY25-FY26,2026-08-12,True,SRC02517,HIGH,Revenue growing more than 50% year on year per Dealroom/DealStreetAsia
+MET00738,S0159,b2b_agentic_growth_yoy,100,percent,FY25-FY26,2026-08-12,True,SRC02517,HIGH,B2B agentic business growing over 100% each year
+MET00739,S0159,skus_tracked_daily,10,million,As-of-2026-09,2026-09-15,True,SRC02526,HIGH,10M+ SKUs tracked daily
+MET00740,S0159,connected_channels,100,count,As-of-2026-09,2026-09-15,True,SRC02526,HIGH,100+ connected channels
+MET00741,S0161,employee_count,56,employees,As-of-2026-07,2026-07-31,False,SRC02536,MEDIUM,Tracxn reports 56; conflicting with LinkedIn (11-50) and PitchBook (31)
+MET00742,S0161,funding_raised,8000000,USD,FY26,2025-06-03,True,SRC02529,HIGH,Seed funding of $8M raised
+MET00743,S0162,annual_revenue_gmv,25000000,USD,FY25,2025-03-31,False,SRC02554,MEDIUM,ECDB GMV estimate US$25m for 2025
+MET00744,S0162,operating_revenue,2301500000,INR,FY25,2025-03-31,True,SRC02551,HIGH,97% YoY growth from Rs 117.44 Cr in FY24
+MET00745,S0162,d2c_website_revenue_share,65,percent,FY25,2025-12-01,True,SRC02560,MEDIUM,"65% revenue from D2C website, rest from marketplaces"
+MET00746,S0162,store_count,52,count,As-of-2026-09,2026-09-15,True,SRC02548,HIGH,52 stores across India per official store locator
+MET00747,S0162,revenue_target,5000000000,INR,FY26-FY27,2026-02-02,True,SRC02555,MEDIUM,Company eyes Rs 500 Cr revenue by FY26-FY27
+MET00748,S0162,employee_count,236,count,As-of-2025-08,2025-08-31,False,SRC02561,MEDIUM,Tracxn employee count; 88% YoY growth
+MET00749,S0162,international_expansion,1,count,As-of-2025-02,2025-02-01,True,SRC02547,HIGH,"First international store at BurJuman Mall, Dubai, Feb 2025"
+MET00750,S0163,daily_shipments,2000000,shipments,As-of-2020-11-22,2020-11-22,True,SRC02564,MEDIUM,"Per Investcorp PR dated Nov 22, 2020; 'handles over 2 million shipments daily'"
+MET00751,S0163,towns_cities_presence,2000,towns_and_cities,As-of-2020-11-22,2020-11-22,True,SRC02564,MEDIUM,"Per Investcorp PR: presence across 2,000+ towns and cities"
+MET00752,S0163,customers,1000,customers,As-of-2020-11-22,2020-11-22,True,SRC02564,MEDIUM,"Per Investcorp PR: 1,000+ customers across e-commerce, pharma, FMCG, retail, manufacturing"
+MET00753,S0163,employee_count,8641,employees,As-of-2026-08-31,2026-08-31,True,SRC02565,HIGH,"Tracxn employee count as of Aug 31, 2026"
+MET00754,S0164,retailers_served,4100,count,As-of-2026-09,2026-09-08,True,SRC02573,HIGH,"Company claims 4,100+ retailers & distributors across 24+ cities and 600+ PIN codes"
+MET00755,S0164,cities_operating,24,count,As-of-2026-09,2026-09-08,True,SRC02573,HIGH,
+MET00756,S0164,pin_codes_covered,600,count,As-of-2026-09,2026-09-08,True,SRC02573,HIGH,
+MET00757,S0164,total_funds_disbursed,1093,crore,Since-inception-2021,2026-09-08,True,SRC02573,HIGH,"Disbursed funds worth more than Rs 1,093Cr since inception"
+MET00758,S0164,pune_pilot_retailers,3000,count,As-of-2026-09,2026-09-08,True,SRC02571,HIGH,"Pune pilot covering ~3,000 retailers for payments/settlement infrastructure"
+MET00759,S0164,total_funding_raised,7.5,million,Since-inception,2026-09-08,False,SRC02576,MEDIUM,Tracxn: $7.5M across 6 rounds
+MET00760,S0165,organisations served,800+,,Jun 2026,Jun 2026,True,SRC02587,,
+MET00761,S0165,organisations served,800,count,As-of-2026-06,2026-06-23,True,SRC02588,HIGH,800+ organisations across 22 sectors
+MET00762,S0165,security incidents triaged,1000000,count,last 12 months,2026-06-23,True,SRC02588,HIGH,1M+ security incidents triaged through AI-powered SOC
+MET00763,S0165,year-on-year growth,12,x,FY25-FY26,2026-06-23,True,SRC02588,HIGH,12x YoY growth claimed by company
+MET00764,S0165,clients,500,count,As-of-2025-08,2025-08-04,True,SRC02591,HIGH,500+ enterprises across 25+ industries at Series A
+MET00765,S0165,sectors served,22,count,As-of-2026-06,2026-06-23,True,SRC02587,HIGH,22 sectors; BFSI and healthcare most prominent
+MET00766,S0167,live_subscribers,220000,count,FY25,2025-12-31,True,SRC02606,HIGH,Over 2.2 lakh live subscribers per Entrackr
+MET00767,S0167,live_subscribers,227000,count,As-of-2026-01,2026-01-31,True,SRC02608,HIGH,Over 2.27 lakh subscribers per DRHP/Storyboard18
+MET00768,S0167,rental_items,770000,count,FY25,2025-12-31,True,SRC02606,HIGH,More than 7.7 lakh rental items managed
+MET00769,S0167,live_products,720000,count,As-of-2026-01,2026-01-31,True,SRC02608,HIGH,Over 7.2 lakh live products per DRHP
+MET00770,S0167,cities,23,count,FY25,2025-12-31,True,SRC02606,HIGH,Operates across 23 cities per Entrackr
+MET00771,S0167,cities,22,count,As-of-2026-01,2026-01-31,True,SRC02608,HIGH,22 cities per DRHP/Storyboard18
+MET00772,S0167,experience_stores,71,count,FY25,2025-12-31,True,SRC02606,HIGH,71 experience stores per Entrackr
+MET00773,S0167,experience_stores,67,count,As-of-2026-01,2026-01-31,True,SRC02608,HIGH,67 experience stores per DRHP
+MET00774,S0167,warehouses,21,count,As-of-2026-01,2026-01-31,True,SRC02608,HIGH,21 warehouses per DRHP
+MET00775,S0167,market_share_organised_rental,42,percent,FY25,2025-12-31,True,SRC02608,MEDIUM,Estimated 42-47% share in organised online rental segment based on subscription revenue
+MET00776,S0167,occupancy_rate,80,percent,As-of-2026-01,2026-01-31,True,SRC02608,MEDIUM,Occupancy levels above 80% per DRHP
+MET00777,S0167,net_rental_revenue_CAGR,48.24,percent,FY23-FY25,2025-12-31,True,SRC02606,HIGH,Net rental revenue CAGR between FY23 and FY25
+MET00778,S0168,net order value growth,+19.1% QoQ,,Q1 FY27,Q1 FY27,False,SRC02618,,
+MET00779,S0173,Development Time Reduction,4-5 years to 11-12 months,,Current,2025-11,True,SRC02644,HIGH,
+MET00780,S0173,Global mAb Market Context,$226.63B (2023) projected to $729.43B by 2033,,Market data,2025,False,SRC02644,MEDIUM,
+MET00781,S0179,GMV,"{'v': 'Rs 300 crore+ sold', 'as_of': '2026-01', 'source_url': 'https://economictimes.indiatimes.com/tech/funding/proptech-startup-truva-raises-9-million-from-stellaris-and-orios-venture-partners/articleshow/126533381.cms', 'company_reported': True, 'confidence': 0.8}",,,,,,,
+MET00782,S0179,homes_sold,"{'v': '150+', 'as_of': '2026-08', 'source_url': 'https://www.linkedin.com/company/truvahomes', 'company_reported': True, 'confidence': 0.75}",,,,,,,
+MET00783,S0180,pre_orders,"{'v': '$100 million+', 'as_of': '2025-11', 'source_url': 'https://www.reuters.com/technology/tsavorite-secures-more-than-100-million-pre-orders-ai-chips-scale-workflows-2025-11-10/', 'company_reported': True, 'confidence': 0.95}",,,,,,,
+MET00784,S0180,employees,"{'v': '96 (+37.1% YoY)', 'as_of': '2026', 'source_url': 'https://www.linkedin.com/company/tsavorite-scalable-intelligence', 'confidence': 0.85}",,,,,,,
+MET00785,S0181,acquisitions,"{'v': 'Rs 25,000 crore in 9 months', 'as_of': '2026-05', 'source_url': 'https://economictimes.indiatimes.com/industry/renewables/inox-clean-energy-powers-into-top-three-with-rs-25k-cr-buys-says-company-official/articleshow/131184869.cms', 'company_reported': True, 'confidence': 0.9}",,,,,,,
+MET00786,S0181,operational_capacity,"{'v': '4 GW', 'as_of': '2026-08', 'source_url': 'https://www.outlookbusiness.com/corporate/inox-clean-energy-completes-6000-cr-vena-energy-india-buyout', 'company_reported': True, 'confidence': 0.85}",,,,,,,
+MET00787,S0181,valuation,"{'v': 'Rs 70,000 crore', 'as_of': '2026-07', 'source_url': 'https://www.cnbctv18.com/market/inox-clean-refile-ipo-700-crore-fundraise-70000-crore-valuation-inoxgfl-adar-poonawalla-family-office-rj-corp-hero-dlf-enam-19938088.htm', 'company_reported': True, 'confidence': 0.9}",,,,,,,
+MET00788,S0182,drones_sold,"{'v': '300+', 'as_of': '2025', 'source_url': 'https://techcrunch.com/2025/06/25/indian-drone-startup-raphe-mphibr-raises-100m-as-military-uav-demand-soars/', 'company_reported': True, 'confidence': 0.85}",,,,,,,
+MET00789,S0182,employees,"{'v': '1,000', 'as_of': '2026-08', 'source_url': 'https://inc42.com/startups/after-eight-years-of-building-quietly-can-raphe-mphibr-conquer-the-skies-with-its-long-endurance-uavs/', 'confidence': 0.9}",,,,,,,
+MET00790,S0182,manufacturing_campus,"{'v': '7 lakh sq ft', 'as_of': '2026', 'source_url': 'https://inc42.com/startups/after-eight-years-of-building-quietly-can-raphe-mphibr-conquer-the-skies-with-its-long-endurance-uavs/', 'confidence': 0.9}",,,,,,,
+MET00791,S0183,swapping_stations,"{'v': '1,500+', 'as_of': '2026-08', 'source_url': 'https://www.freepressjournal.in/business/battery-smart-gears-up-for-ipo-as-ev-battery-swapping-network-targets-market-debut', 'company_reported': True, 'confidence': 0.85}",,,,,,,
+MET00792,S0183,cities,"{'v': '75+', 'as_of': '2026-08', 'source_url': 'https://www.freepressjournal.in/business/battery-smart-gears-up-for-ipo-as-ev-battery-swapping-network-targets-market-debut', 'company_reported': True, 'confidence': 0.85}",,,,,,,
+MET00793,S0183,swaps,"{'v': '90 million+', 'as_of': '2026', 'source_url': 'https://www.linkedin.com/company/batterysmart', 'company_reported': True, 'confidence': 0.8}",,,,,,,
+MET00794,S0183,annual_revenue,"{'v': '$65M', 'as_of': '2026', 'source_url': 'https://www.linkedin.com/company/batterysmart', 'confidence': 0.8}",,,,,,,
+MET00795,S0183,employees,"{'v': '1,111', 'as_of': '2026-06', 'source_url': 'https://www.linkedin.com/company/batterysmart', 'confidence': 0.85}",,,,,,,
+MET00796,S0184,fleet size,"5,000+ vehicles; 18,000 drivers",,Sep 2026,Sep 2026,True,SRC02723,MEDIUM,
+MET00797,S0185,villa count target,"1,200 villas",,2026 target,Jun 2026,True,SRC02728,MEDIUM,
+MET00798,S0185,villas_under_management,670,villas,As of Jun 2026,2026-06-12,True,SRC02728,HIGH,Founder-stated current villa count
+MET00799,S0185,villas_under_management,720,villas,As of Jul 2026,2026-07-30,True,SRC02731,HIGH,Per ETHospitalityWorld interview with CEO
+MET00800,S0185,villas_under_management,620,villas,As of Feb 2026,2026-02-04,True,SRC02729,MEDIUM,Per Tracxn news section; Indiatimes article
+MET00801,S0185,villas_under_management_target,1200,villas,End of 2026,2026-06-12,True,SRC02728,HIGH,Founder target for end of calendar year 2026
+MET00802,S0185,properties,510,properties,As of Aug 2025,2025-08-12,True,SRC02726,HIGH,Across 30 locations in 8 states
+MET00803,S0185,guests_served,150000,guests,Cumulative to date,2025-08-12,True,SRC02726,MEDIUM,Per founder CEO Ritwik Khare
+MET00804,S0185,properties,140,properties,As of Sep 2024,2024-09-23,True,SRC02725,HIGH,14 months after founding
+MET00805,S0185,properties,3,villas,At founding,2023-01-02,True,SRC02732,HIGH,Started with 3 villas per Vertex Ventures podcast
+MET00806,S0191,10-km ground link test,Successfully tested optical communications over 10-km ground link,,2026-06-29,2026-06-29,True,SRC02759,HIGH,
+MET00807,S0192,Employee count,78,,May 2025,2025-05-31,,SRC02764,MEDIUM,
+MET00808,S0192,Annual Revenue,0 - ₹10 Cr,,FY25,2025-03-31,,SRC02764,MEDIUM,
+MET00809,S0193,Bank integrations,40+ banks integrated,,2025-08-28,2025-08-28,True,SRC02768,HIGH,
+MET00810,S0193,Client count,220+ clients,,2025-08-28,2025-08-28,True,SRC02768,HIGH,
+MET00811,S0193,API calls,"Nearly 1,500 APIs monthly",,2025-08-28,2025-08-28,True,SRC02768,HIGH,
+MET00812,S0194,Seed funding raised,3000000,,2025,2025-08,True,SRC02772,HIGH,
+MET00813,S0196,Manufacturing capacity,15.2,,2025,2025,True,SRC02790,MEDIUM,
+MET00814,S0196,Pre-IPO funding raised,14220000000,,2025,2025-10,True,SRC02787,HIGH,
+MET00815,S0197,rupay_cards_issued,200000,cards,As-of-2026-03,2026-03-25,True,SRC02799,HIGH,More than two lakh credit cards issued through platform in partnership with lenders
+MET00816,S0197,monthly_transactions,5000000,transactions,As-of-2025-08,2025-08-28,True,SRC02802,MEDIUM,More than 5 million merchant transactions monthly across 600 cities
+MET00817,S0197,cities_served,600,cities,As-of-2025-08,2025-08-28,True,SRC02802,MEDIUM,Nationwide coverage
+MET00818,S0197,target_cards_2yr,1000000,cards,FY25-FY27,2025-10-03,True,SRC02801,MEDIUM,Plans to issue one million credit cards over next two years
+MET00819,S0200,Revenue run rate,INR 460 crore,,Jan 2026,,,SRC02830,MEDIUM,
+MET00820,S0200,Profitability,Turned profitable in FY26,,FY26,,,SRC02826,HIGH,
+MET00821,S0201,India headcount growth,15% since C1 round (Aug 2024),,Jun 2025,,,SRC02835,HIGH,
+MET00822,S0202,Fulfilment centres,50+ across India,,,,,SRC02846,HIGH,
+MET00823,S0202,Brands served,120+,,,,,SRC02843,HIGH,
+MET00824,S0202,FY27 revenue target,Rs 400-450 crore,,,,,SRC02845,MEDIUM,
+MET00825,S0209,AUM,6308,crore INR,As-of-2025-12,2025-12-31,True,SRC02874,HIGH,Per DRHP filed May 2026
+MET00826,S0209,Branches,1073,count,As-of-2025-12,2025-12-31,True,SRC02874,HIGH,Across 17 states per DRHP
+MET00827,S0209,Households served,2400000,count,As-of-2026-09,2026-09-15,True,SRC02876,HIGH,Loans for 2.4 mn households per Arohan website homepage
+MET00828,S0209,Under-served clients,2210000,count,As-of-2020-09,2020-09-30,True,SRC02880,MEDIUM,Aavishkaar Group website; older data from 2020
+MET00829,S0209,Branches,720,count,As-of-2020-09,2020-09-30,True,SRC02880,MEDIUM,Aavishkaar Group website; older data
+MET00830,S0209,Branches,835,count,As-of-2023-03,2023-03-31,True,SRC02877,MEDIUM,Across 15 states per ET article Apr 2023
+MET00831,S0209,Employees,10585,count,As-of-2025-04,2025-04-30,False,SRC02875,MEDIUM,Tracxn estimate
+MET00832,S0209,Employees,9862,count,As-of-2026-05,2026-05-01,False,SRC02875,MEDIUM,Tracxn estimate; 46% lower than Apr 2024
+MET00833,S0211,aum,3000000000,USD,As-of-2026-08,2026-08-25,True,SRC02904,MEDIUM,$3B AUM in 18 months since Feb 2025 launch
+MET00834,S0211,clients,1300,families,As-of-2026-08,2026-08-25,True,SRC02904,MEDIUM,"1,300+ client families"
+MET00835,S0211,senior_bankers,95,count,As-of-2026-08,2026-08-25,True,SRC02904,MEDIUM,95+ senior bankers onboarded; 50-60 more expected in 2026
+MET00836,S0211,aum,2000000000,USD,As-of-2026-01,2026-01-27,True,SRC02916,MEDIUM,$2B AUM in 12 months since launch
+MET00837,S0211,aum,2400000000,USD,As-of-2026-06,2026-06-11,True,SRC02911,MEDIUM,$2.4B AUM as of Jun 2026
+MET00838,S0211,ownership_participants,150,senior leaders,As-of-2026-08,2026-08-25,True,SRC02904,MEDIUM,Over 150 senior leaders invested own capital to become owners
+MET00839,S0211,locations,11,cities,As-of-2026-08,2026-08-25,True,SRC02904,MEDIUM,Operating in 11-12 cities; plans to add 10 more by end of 2026
+MET00840,S0213,voice_ai_minutes_processed,100000000,minutes,FY25,2026-03-31,True,SRC02931,MEDIUM,Navana processes ~100 million calls annually per ET/Maveric article (Mar 2026)
+MET00841,S0213,enterprise_clients,40,clients,mid-2025,2025-06-30,True,SRC02929,HIGH,40+ clients as of mid-2025 per company PR
+MET00842,S0213,languages_supported,12,languages,2026,2026-09-15,True,SRC02930,HIGH,Proprietary speech models in 12 Indian languages and 40+ dialects
+MET00843,S0213,hello_ujjivan_downloads,1000000,downloads,2025,2025-07-15,True,SRC02929,HIGH,Hello Ujjivan app crossed 1 million downloads
+MET00844,S0213,ba_jaj_finserv_monthly_disbursement,150000000,INR,monthly,2025-07-15,True,SRC02929,HIGH,Bajaj Finserv voicebot disburses over ₹150 Cr in personal loans monthly since Oct 2024
+MET00845,S0213,bodhi_benchmark_accuracy,85,percent,2024,2024-03-08,True,SRC02933,MEDIUM,Bodhi ASR claims above 85% accuracy
+MET00846,S0215,aum,100,crore,As-of-2026-01,2026-01-12,True,SRC02956,MEDIUM,Assets Under Management crossed Rs 100 crore
+MET00847,S0215,vehicles_managed,1000,vehicles,As-of-2026-01,2026-01-12,True,SRC02956,MEDIUM,"Over 1,000 vehicles managed"
+MET00848,S0215,revenue_growth_yoy,70,percent,FY26,2026-01-12,True,SRC02956,MEDIUM,70% YoY growth claimed
+MET00849,S0215,aum_target_3yr,1000,crore,FY29 target,2026-01-12,True,SRC02953,MEDIUM,"Target of Rs 1,000 crore AUM within 3 years"
+MET00850,S0222,funding raised,$7.4M total,,2025-2026,2026-05-20,True,SRC03001,HIGH,
+MET00851,S0223,enterprise teams,100+,,2026-08,2026-08-04,True,SRC03012,MEDIUM,
+MET00852,S0226,monthly_revenue,4500000,crore,FY25,2025-03-31,True,SRC03021,MEDIUM,Inc42 reports monthly revenue ~INR 4-5 Cr
+MET00853,S0226,monthly_customers,12000,customers,FY25,2025-03-31,True,SRC03021,MEDIUM,"Inc42 reports 12,000+ monthly customers"
+MET00854,S0226,instagram_followers,160000,followers,FY25,2025-03-31,True,SRC03021,MEDIUM,1.6 Lakh+ Instagram followers
+MET00855,S0226,revenue_growth_yoy,303.6,percent,FY25,2025-03-31,False,SRC03022,HIGH,303% YoY revenue growth FY24 to FY25
+MET00856,S0226,retail_stores,10,stores,Sep 2026,2026-09-15,True,SRC03019,MEDIUM,"Expected to reach 10 retail stores by Sep 2026; 3 brand-owned stores (Bengaluru, Delhi, Hyderabad) + 9 multi-brand partners"
+MET00857,S0226,skus,15,SKUs,FY25,2025-03-31,True,SRC03023,MEDIUM,15+ sneaker styles; 4 models currently; plans to expand to 8 by end of next year
+MET00858,S0226,price_per_pair,4299,INR,FY25,2025-03-31,True,SRC03028,HIGH,"Price point Rs 4,299/pair; premium segment"
+MET00859,S0228,customers,2000,brands,As-of-2026-09-15,2026-09-15,True,SRC03035,HIGH,Gartner MQ 2026 PR and clevertap.com both state 2000+ brands
+MET00860,S0228,customers_2022,1200,customers,FY22,2022-08-10,True,SRC03039,MEDIUM,"Entrackr: more than 1,200 customers in 60 countries and over 10,000 apps"
+MET00861,S0228,employee_count,651,count,As-of-2026-09-15,2026-09-15,False,SRC03042,MEDIUM,"Inc42 reports 651 employees, -0.91% last 90d"
+MET00862,S0237,schools served,"5,600",,2022,2022-06-27,False,SRC00693,MEDIUM,
+MET00863,S0238,farmers_served,10000000,count,As-of-2025-11,2025-11-20,True,SRC03106,HIGH,"Via omnichannel network of 10,000+ retail stores and direct-to-farmer digital platform"
+MET00864,S0238,farmers_served,9000000,count,As-of-2025-08,2025-08-11,True,SRC03105,HIGH,"9M+ Indian farmers empowered; earlier figures cited 5M+ (2021), 7.5M users (2023)"
+MET00865,S0238,advisory_interactions,15000000,count,Till-date,2026-08-11,True,SRC03113,HIGH,15 Million agronomy queries resolved; 400M views on agronomy videos; 11 local languages
+MET00866,S0238,retail_stores,10000,count,As-of-2025-11,2025-11-20,True,SRC03105,HIGH,"10,000+ retail stores via Saathi Stores model; 400+ last-mile delivery partners"
+MET00867,S0238,agronomists,500,count,As-of-2026,2026-08-11,True,SRC03113,HIGH,"500+ BSc Agronomists consulting with 25,000 farmers every day"
+MET00868,S0238,output_FV_processed,100000,MT,Annually,2026-08-11,True,SRC03105,HIGH,"100,000+ MT of F&V processed annually under Kimaye brand; exports to 25+ countries"
+MET00869,S0238,agri_input_products,200,count,As-of-2026,2026-08-11,True,SRC03114,HIGH,"200+ agri-input products across seeds, crop protection, crop nutrition, farm implements"
+MET00870,S0238,states_operating,12,count,As-of-2025-11,2025-11-20,True,SRC03105,HIGH,"12 states as of Nov 2025; earlier operated in 5 states (Gujarat, Maharashtra, Rajasthan, MP, UP) as of 2022"
+MET00871,S0238,farmer_NPS,50,score,As-of-2025,2025-11-20,True,SRC03105,HIGH,Farmer NPS of 50 reported alongside $30M funding
+MET00872,S0238,yield_increase,81,percent,FY25,2025,True,SRC03115,HIGH,81% of farmers report increase in farm yield; 41% achieving gains exceeding 25%
+MET00873,S0238,income_increase,70,percent,FY25,2025,True,SRC03115,HIGH,70% of farmers experienced significant income growth; 41% seeing increases above 25%
+MET00874,S0238,co2e_abatement,120000,MT,FY25,2025,True,SRC03115,HIGH,"120,000 MT CO2e abated in FY25; 470K MT cumulative GHG abatement"
+MET00875,S0238,water_saved,276,billion_litres,FY25,2025,True,SRC03106,HIGH,276 billion litres of water saved in FY25 due to improved soil health and water retention
+MET00876,S0239,annualised gross booking value run-rate,INR 200 crore,,2026,,True,SRC03141,MEDIUM,
+MET00877,S0241,agri_warehouses,12000,count,As-of-2026-01,2026-01-02,True,SRC03155,HIGH,
+MET00878,S0241,grain_aggregated_stored_annually,3000,million,FY25,2026-01-02,True,SRC03155,HIGH,
+MET00879,S0241,loans_disbursed_annually,1500,million,FY25,2026-01-02,True,SRC03155,HIGH,
+MET00880,S0241,farmers_served,850000,count,As-of-2026-01,2026-01-02,True,SRC03150,HIGH,
+MET00881,S0241,fpos_served,3000,count,As-of-2026-03,2026-03-09,True,SRC03155,HIGH,
+MET00882,S0241,states_covered,21,count,As-of-2026-01,2026-01-02,True,SRC03155,HIGH,
+MET00883,S0241,districts_covered_pct,60,percent,As-of-2026-01,2026-01-02,True,SRC03155,HIGH,
+MET00884,S0241,commodities_under_management,4,million,As-of-2025-03-31,2025-03-31,True,SRC03153,HIGH,
+MET00885,S0241,warehouses_managed,3500,count,As-of-2025-03-31,2025-03-31,True,SRC03153,HIGH,
+MET00886,S0241,gross_npa,0.5,percent,FY25,2025-03-31,True,SRC03150,HIGH,
+MET00887,S0246,customers,10,count,As-of-2026-08,2026-08-11,True,SRC03183,MEDIUM,Company claims 10 customers including several publicly listed companies; unverified independently
+MET00888,S0246,production_deployments,10,count,As-of-2026-08,2026-08-11,True,SRC03186,MEDIUM,AI solutions running in live production environments at customers
+MET00889,S0248,order_book,15,crore,As-of-2026-07,2026-07-09,True,SRC03199,HIGH,Order book of ₹15 crore as reported by founder Priyanka Singhal to The Hindu BusinessLine
+MET00890,S0248,fuses_supplied,155,pieces,FY24,2024-09-29,True,SRC03203,MEDIUM,Supplied 155 fuses to Indian Army per CEO interview in Sep 2024
+MET00891,S0248,products_manufactured,7,count,As-of-2024-09,2024-09-29,True,SRC03203,MEDIUM,"Company manufactures 7-8 defence products; 4 systems delivered for land warfare, 9 under development"
+MET00892,S0248,first_major_order,,,2023,2024-09-29,True,SRC03203,MEDIUM,First major order secured in 2023 from defence agencies including DRDO
+MET00893,S0255,customers,4000000,count,FY22,2022-02-23,True,SRC03232,HIGH,4 million customers across banking and wealth management
+MET00894,S0255,users,6000000,count,As-of-2026-07,2026-07-20,True,SRC03238,MEDIUM,LinkedIn profile states 6M+ users as of Jul 2026
+MET00895,S0255,employees,427,count,As-of-2025-08,2025-08-31,True,SRC03231,MEDIUM,Official employee count; LinkedIn shows 633-636 in 2026
+MET00896,S0255,branch_network,40,count,As-of-2026-09,2026-09-01,True,SRC03233,HIGH,Post-RemitX acquisition; 32 RemitX branches + existing = 40+
+MET00897,S0255,annualized_transactions,3000000000,USD,FY22,2022-02-23,True,SRC03237,HIGH,Processing over $3B of transactions annually
+MET00898,S0256,IN-SPACe Technology Adoption Fund selectee,1,count,2026,2026-06-11,True,SRC03257,HIGH,Selected among 3 startups for ₹24.6 crore grant
+MET00899,S0256,Gartner Emerging Tech Impact Radar recognition,1,count,2024,2024-01-01,True,SRC03261,HIGH,Recognized in 2024 Gartner Emerging Tech Impact Radar: AI report
+MET00900,S0256,India AI Impact Summit 2026 Top 10 Global Innovator,1,count,2026,2026-01-01,True,SRC03261,HIGH,Selected among top 10 global innovators at India AI Impact Summit 2026
+MET00901,S0256,Countries of operation,5,count,2026,2026-09-15,True,SRC03261,MEDIUM,"Operations across India, US (via Regrid), Australia (Geoscape), Kenya (KALRO), a"
+MET00902,S0258,Dailyhunt MAU,350,million,As-of 2025,2025-06-01,True,,MEDIUM,Company claims 350M+ users; press release and official site
+MET00903,S0258,Josh MAU,179,million,FY24 (Oct 2024),2024-10-16,True,,MEDIUM,"Josh spokesperson stated 179M MAU, 91M DAU; earlier claims of 150M MAU in 2022"
+MET00904,S0258,Josh MAU (peak claim),150,million,Apr 2022,2022-04-06,True,,MEDIUM,"Avendus PR: Josh 150M MAU, 49% DAU/MAU ratio; Dailyhunt 350M+ users"
+MET00905,S0258,Dailyhunt Premium subscribers (Magzter),1.1,million,As-of 2024,2024-04-18,True,,MEDIUM,Magzter: 1.1M active paying subscribers from India; 87M global users
+MET00906,S0258,Employee count,437,employees,As-of May 2026,2026-05-31,False,,MEDIUM,Tracxn/MCA data; down from 763 in Apr 2025 after 350 layoffs May 2025
+MET00907,S0258,Valueleaf ARR at acquisition,732,crore,Jun 2024,2024-08-28,True,,MEDIUM,Umang Bedi stated Valueleaf exited June 2024 at Rs 732 Cr ARR
+MET00908,S0258,Josh DAU,91,million,FY24 (Oct 2024),2024-10-16,True,,MEDIUM,Josh spokesperson stated 91M DAU
+MET00909,S0258,Dailyhunt MAU,350,million,2025-06-01,2025-06-01,,SRC03295,MEDIUM,Company claims 350M+ users
+MET00910,S0258,Josh MAU,179,million,2024-10-16,2024-10-16,,SRC03291,MEDIUM,"Josh spokesperson stated 179M MAU, 91M DAU"
+MET00911,S0258,Josh DAU,91,million,2024-10-16,2024-10-16,,SRC03291,MEDIUM,Josh spokesperson stated 91M DAU
+MET00912,S0258,Dailyhunt Premium subscribers (Magzter),1.1,million,2024-04-18,2024-04-18,,SRC03292,MEDIUM,Magzter: 1.1M active paying subscribers
+MET00913,S0258,Valueleaf ARR at acquisition,732,crore,2024-08-28,2024-08-28,,SRC03292,MEDIUM,Umang Bedi stated Valueleaf exited June 2024 at Rs 732 Cr ARR
+MET00914,S0258,Employee count,437,employees,2026-05-31,2026-05-31,,SRC03285,MEDIUM,Tracxn/MCA data; down from 763 in Apr 2025 after 350 layoffs
+MET00915,S0278,systems deployed,20000,systems,As-of-2025-09-30,2025-09-30,True,SRC03375,HIGH,
+MET00916,S0278,countries served,24,countries,FY25,2025-12-23,True,SRC03383,HIGH,
+MET00917,S0278,order book,266.57,crore,As-of-2025-09-30,2025-09-30,True,SRC03375,HIGH,
+MET00918,S0278,additional orders received,71.68,crore,Oct-Nov 2025,2025-11-30,True,SRC03375,HIGH,
+MET00919,S0278,export share of revenue,65,percent,FY25,2025-12-23,True,SRC03377,HIGH,
+MET00920,S0278,Indian armed forces revenue share,33,percent,FY25,2025-12-23,True,SRC03377,HIGH,
+MET00921,S0278,European NATO allies revenue share,65,percent,FY25,2025-12-23,True,SRC03377,HIGH,
+MET00922,S0278,European export orders,453,crore,2024,2024-12-31,True,SRC03377,MEDIUM,
+MET00923,S0278,export orders from Israel and Philippines,30,crore,2024,2024-12-31,True,SRC03377,MEDIUM,
+MET00924,S0278,India thermal imaging export share,93,percent,FY25,2025-12-23,True,SRC03370,HIGH,
+MET00925,S0280,total_battery_swaps,60000000,swaps,As-of-2026-09-01,2026-09-01,True,SRC03405,HIGH,Crossed 60 million battery swaps
+MET00926,S0280,daily_swaps,50000,swaps/day,As-of-2026-09-15,2026-09-15,True,SRC03407,HIGH,50K+ daily swaps per website
+MET00927,S0280,monthly_swaps,1500000,swaps/month,As-of-2026-09-15,2026-09-15,True,SRC03407,HIGH,1500K+ swaps per month
+MET00928,S0280,green_kms,1500000000,kms,As-of-2026-09-15,2026-09-15,True,SRC03407,HIGH,1.5B+ green kms
+MET00929,S0280,cities_operating,17,cities,As-of-2026-09-15,2026-09-15,True,SRC03407,HIGH,17 cities in India
+MET00930,S0280,batteries_on_ground,100000,batteries,As-of-2026-09-01,2026-09-01,True,SRC03405,HIGH,"Over 100,000 batteries"
+MET00931,S0280,charging_units,2500,units,As-of-2026-09-01,2026-09-01,True,SRC03405,HIGH,"More than 2,500 charging units"
+MET00932,S0280,touch_points,400,touch_points,As-of-2026-09-01,2026-09-01,True,SRC03405,HIGH,400-plus touch points across 18 cities
+MET00933,S0280,uptime,99.8,percent,As-of-2026-09-15,2026-09-15,True,SRC03407,HIGH,99.8% uptime
+MET00934,S0280,monthly_swaps_milestone,1000000,swaps/month,2024,2024-12-31,True,SRC03407,HIGH,Reached 1 million monthly battery swaps milestone in 2024
+MET00935,S0283,clients_served,848,count,FY26,2026-05-20,True,SRC03421,HIGH,Annual Report FY26: 848 clients
+MET00936,S0283,gcc_client_revenue_share,56,percent,FY26,2026-05-20,True,SRC03421,HIGH,56% revenue from GCC clients (FY26 AR)
+MET00937,S0283,multi_centre_client_revenue_share,44,percent,FY26,2026-05-20,True,SRC03421,HIGH,44% revenue from multi-centre clients
+MET00938,S0283,area_under_management,9.66,million_sqft,FY26,2026-05-20,True,SRC03420,HIGH,"9.66 Mn sq ft across 17 cities, 130 properties"
+MET00939,S0283,properties,130,count,FY26,2026-05-20,True,SRC03420,HIGH,130 properties across 17 cities
+MET00940,S0283,occupancy_rate,88,percent,FY26,2026-05-20,True,SRC03420,HIGH,Steady state occupancy 88%
+MET00941,S0283,miqube_app_downloads,119000,count,FY26,2026-05-20,True,SRC03421,HIGH,119K+ MiQube app downloads
+MET00942,S0283,client_lock_in_months,34,months,FY26,2026-05-20,True,SRC03421,HIGH,Average client lock-in 34 months
+MET00943,S0283,value_added_services_revenue_share,15,percent,FY26,2026-05-20,True,SRC03420,HIGH,Value Added Services 15% of revenue
+MET00944,S0283,seats_added_fy26,28000,count,FY26,2026-05-20,True,SRC03420,HIGH,"28,000 seats added in FY26"
+MET00945,S0288,Monthly shipments,4.5 lakh,,2026,2026-01-01,True,SRC03462,HIGH,
+MET00946,S0288,Enterprise customers,Across 12 countries,,2026,2026-01-01,True,SRC03462,HIGH,
+MET00947,S0289,Fleet size,50+ vehicles,,2026,2026-06-12,True,SRC03467,HIGH,
+MET00948,S0289,Repeat user rate,70%+,,2026,2026-06-12,True,SRC03467,HIGH,
+MET00949,S0290,registered_users,1700000,users,As-of-2026-08,2026-08-26,True,SRC03472,HIGH,"Largest markets: US, UK, Japan; also Brazil; mostly 2-person small businesses"
+MET00950,S0290,annualized_revenue_run_rate,2000000,USD,FY26,2026-06,True,SRC03472,HIGH,$2M ARR reached 3 weeks after payments launched in March 2026
+MET00951,S0290,team_size,15,employees,As-of-2026-08,2026-08-26,True,SRC03472,HIGH,"15-person team; plans to hire across engineering, ML, product, growth, support"
+MET00952,S0290,paying_customer_token_share,65,percent,Last 90 days as-of 2026-08,2026-08-26,True,SRC03472,MEDIUM,60-70% of 1T+ token usage from paying customers
+MET00953,S0291,Current fleet,"1,000 LNG- and EV-powered trucks",,2026,2026-05-22,True,SRC03490,HIGH,
+MET00954,S0291,LNG stations,7 operational,,2026,2026-05-22,True,SRC03490,HIGH,
+MET00955,S0292,Annual verifications,500 million+,,2026,2026-02-13,True,SRC03498,HIGH,
+MET00956,S0292,Enterprise clients,500+,,2026,2026-02-13,True,SRC03498,HIGH,
+MET00957,S0293,Employees,100+ (+400% YoY),,2026,2026-06-19,True,SRC03505,HIGH,
+MET00958,S0293,Total Funding,$111.2M,,2025-2026,2026-06-19,True,SRC03505,HIGH,
+MET00959,S0296,total_orders,1000000,orders,cumulative,2024-09-10,True,SRC03513,MEDIUM,Over 1 million orders processed to date as of Sep 2024
+MET00960,S0296,exclusive_stores,14,stores,As-of-2026-07,2026-07-14,True,SRC03514,MEDIUM,14 exclusive brand outlets across multiple cities as of Jul 2026
+MET00961,S0296,skus,8500,SKUs,As-of-2026-06,2026-06-17,True,SRC03518,MEDIUM,8500+ products across 8 key categories
+MET00962,S0296,web_traffic,1910000,visitors,monthly,2026-09-15,False,SRC03517,LOW,1.91 Mn monthly web traffic per Inc42
+MET00963,S0296,employee_count,194,employees,As-of-2026-05,2026-05-01,False,SRC03516,MEDIUM,194 employees per Tracxn legal entity page
+MET00964,S0296,revenue_growth_yoy,83.1,percent,FY24-FY25,2026-09-15,True,SRC03517,MEDIUM,Revenue grew 83.1% YoY from Rs 62.8 Cr to Rs 115 Cr
+MET00965,S0296,cookware_growth,9,x,FY25-26,2026-05-16,True,SRC03516,LOW,9x growth in cookware category per Business Line May 2026
+MET00966,S0304,AUM,₹15000 crore,,2026,2026-04,True,SRC03555,HIGH,
+MET00967,S0305,modules_launched,2,count,As-of-2026-09,2026-09-10,True,SRC03557,HIGH,/intake and /nucleus modules live; /report launching Sep 2026; /signal in design partnership
+MET00968,S0305,case_processing_time_reduction,90,percent,As-of-2026-09,2026-09-10,True,SRC03557,MEDIUM,Reduced from >3 hours to <10 minutes
+MET00969,S0305,operating_cost_reduction,66,percent,As-of-2026-09,2026-09-10,True,SRC03557,MEDIUM,
+MET00970,S0307,Secure IoT SoC launched,1,product,FY25,2024-05-01,True,SRC03567,HIGH,
+MET00971,S0307,DLI scheme approval,15,crore INR,FY25,2024-12-22,True,SRC03567,HIGH,
+MET00972,S0307,MoU signed with Prama India,1,partnership,FY26,2026-06-29,True,SRC03576,HIGH,
+MET00973,S0309,iDEX prime contracts,2,contracts,As-of-2026-09,2026-09-01,True,SRC03584,HIGH,Two IDEX prime contracts for swarming ISR constellations; ~$4M in IDEX grants
+MET00974,S0309,ground stations,70,stations,As-of-2026-09,2026-09-01,True,SRC03585,HIGH,Global network of 70+ ground stations across 6 continents
+MET00975,S0309,employees planned addition,40,employees,Next 12-24 months,2026-09-01,True,SRC03585,MEDIUM,Plans to add 40 employees; moving into new facility
+MET00976,S0309,satellites planned for deployment,6,satellites,Next 12-24 months,2026-09-01,True,SRC03585,HIGH,First six swarming ISR satellites under iDEX programmes; maiden orbital deployment targeted Dec 2027
+MET00977,S0309,WhiteWolf payload,1,payload,As-of-2026-09,2026-09-15,True,SRC03588,MEDIUM,"WhiteWolf payload co-developed with Kawa Space, set to launch with TakeMe2Space aboard MOI 1B"
+MET00978,S0310,cars_transacted_annually,200000,cars,FY24,2024-11-26,True,SRC03604,HIGH,Highest annual sales in company history per CFO Ruchit Agarwal
+MET00979,S0310,monthly_users,11000000,users,As of Jan 2026,2026-01-15,True,SRC03596,HIGH,More than 11 million users visit platform monthly
+MET00980,S0310,employee_count,4585,count,"As of Mar 31, 2026",2026-03-31,True,SRC03612,HIGH,Official employee count per Tracxn
+MET00981,S0316,offline_channel_partners,2000,count,FY25,2025-08-19,True,SRC03648,HIGH,"More than 2,000 offline channel partners"
+MET00982,S0316,customer_base,5000000,count,FY25,2025-08-19,True,SRC03648,HIGH,More than 5 million parents as customers
+MET00983,S0316,organic_traffic_percentage,45,percent,FY25,2025-08-19,True,SRC03651,MEDIUM,Nearly 45% of sales through organic traffic
+MET00984,S0316,social_reach,10000000,count,FY25,2025-08-19,True,SRC03651,MEDIUM,10 million reach through social channels
+MET00985,S0320,sleep_data_hours_processed,75000000,hours,As-of-2026-09,2026-09-03,True,SRC03671,MEDIUM,Company claims 75M hours of sleep data processed
+MET00986,S0320,units_sold,,,FY25,2026-09-15,False,,LOW,Forbes India (Oct 2023) states 'thousands of units sold in US'; exact count not disclosed
+MET00987,S0320,retail_partnership,Babylist,retailer,2023,2023-01-01,True,SRC03675,HIGH,First retail partnership with Babylist Beverly Hills store
+MET00988,S0320,retail_partnership,Love To Dream,partnership,2026,2026-09-04,True,SRC03688,MEDIUM,Partnership announced around Sep 2026
+MET00989,S0320,subscription_model_launch,May 2025,date,2025-05,2026-09-04,True,SRC03681,MEDIUM,Moved from one-time pricing to subscription plans
+MET00990,S0322,customers_served,10200000,count,FY25,2025-03-04,True,SRC03699,MEDIUM,Over 1.02 crore customers nationwide as of Mar 2025
+MET00991,S0322,agent_partners,220000,count,FY24,2024-12-31,True,SRC03702,HIGH,2.2 lakh agents as of Dec 2024; 92% YoY growth; 86% in Tier 2/3 cities
+MET00992,S0322,,,,,,,,,
+MET00993,S0322,insurance_plans,720,count,FY24,2025-02-24,True,SRC03702,MEDIUM,720+ plans from 49 insurers
+MET00994,S0322,pin_code_coverage,99,percent,FY24,2025-02-24,True,SRC03702,HIGH,99% of India's pin codes covered
+MET00995,S0322,policies_per_minute,21,count,FY25,2025-03-04,True,SRC03699,MEDIUM,21 new policies issued every minute
+MET00996,S0322,cities_presence,1500,count,FY24,2025-02-24,True,SRC03705,MEDIUM,"Presence in 1,500+ cities"
+MET00997,S0322,premium_run_rate,3300,crore,FY24,2024-03-31,True,SRC03702,MEDIUM,Annual premium run rate as of March 2024
+MET00998,S0332,Indian Navy contract,INR 47 Cr,,2025,2025-10-30,True,SRC03748,HIGH,
+MET00999,S0339,EV Fleet Expansion,200 EVs ordered,,2025,2025-09,True,SRC03769,MEDIUM,
+MET01000,S0340,Retailers on platform,12000,,2019,2019,True,SRC03777,MEDIUM,
+MET01001,S0349,Government orders,Rs 155 crore,,2025-2026,2025-11,True,SRC03820,HIGH,
+MET01002,S0367,"{'v': 'Users', 'value': '8+ crore', 'period': '2024', 'as_of': '2024', 'source_url': 'https://www.etnownews.com/success-stories/meet-iitian-behind-600-million-gaming-platform-know-companys-link-to-mukesh-ambanis-reliance-jio-article-115536487', 'company_reported': True, 'confidence': 0.7}",,,,,,,,
+MET01003,S0367,registered_users,100000000,users,FY24,2024-04-22,True,SRC03936,HIGH,Over 100 million registered users by end of FY24
+MET01004,S0367,registered_users,150000000,users,As-of-2025-08,2025-08-21,True,SRC03933,HIGH,150+ million users as of Aug 2025
+MET01005,S0367,registered_users,200000000,users,As-of-2026-01,2026-01-30,True,SRC03934,HIGH,Over 200 million registered users as of Jan 2026
+MET01006,S0367,daily_ludo_gameplays,7000000,gameplays,2024,2024-11-21,True,SRC03930,HIGH,7 million daily Ludo gameplays
+MET01007,S0367,cities_available,4000,cities,FY24,2025-04-22,True,SRC03936,HIGH,"Available in over 4,000 cities"
+MET01008,S0367,employee_count,466,employees,As-of-2025-05,2025-05-01,True,SRC03933,HIGH,466 employees as of May 2025
+MET01009,S0367,downloads,70000000,downloads,As-of-2022-01,2022-01-05,True,SRC03935,HIGH,Over 70 million downloads as of Jan 2022
+MET01010,S0368,Crowd Supply funding,"$2,838 (101% of $2,800 goal)",,2025,2025-03-27,True,SRC03951,HIGH,
+MET01011,S0368,DPIIT Recognition,Recognized Startup,,2024,2024-06-25,False,SRC03955,HIGH,

@@ -1,0 +1,220 @@
+{
+ "startup_id": "ola electric",
+ "company": {
+  "company_name": {
+   "v": "Ola Electric"
+  },
+  "city": {
+   "v": "Bengaluru"
+  },
+  "primary_sector": {
+   "v": "ev (listed)"
+  },
+  "startup_stage": {
+   "v": "Listed"
+  },
+  "public_private": {
+   "v": "Public (Listed)"
+  },
+  "founded_date": {
+   "v": ""
+  },
+  "business_model": {
+   "v": "Electric vehicle manufacturer (scooters)"
+  },
+  "status": {
+   "v": "ACTIVE (Listed)"
+  },
+  "description": {
+   "v": "Bengaluru-based electric vehicle firm founded by Bhavish Aggarwal, listed on stock exchanges"
+  },
+  "official_website": {
+   "v": "https://www.olaelectric.com",
+   "conf": "high",
+   "src": "https://www.olaelectric.com",
+   "note": "verified live 2026-09-15: name match on own homepage"
+  },
+  "website": "https://www.olaelectric.com",
+  "careers_website": {
+   "v": "https://www.olaelectric.com/careers",
+   "conf": "high",
+   "src": "https://www.olaelectric.com",
+   "note": "playwright render 2026-09-15"
+  }
+ },
+ "funding_rounds": [
+  {
+   "round_type": "IPO",
+   "announced_date": {
+    "v": "2024"
+   },
+   "amount": {
+    "v": "",
+    "currency": "",
+    "unit": ""
+   },
+   "valuation": {
+    "v": ""
+   },
+   "lead_investors": [],
+   "all_investors": [],
+   "purpose": "Public listing",
+   "source_url": "",
+   "source_title": "",
+   "source_date": "",
+   "tier": "T1",
+   "confidence": 0.9,
+   "notes": "Listed company; SoftBank-backed pre-IPO"
+  }
+ ],
+ "founders": [],
+ "people": [],
+ "investor_links": [
+  {
+   "investor": "SoftBank",
+   "investor_type": "PE",
+   "first_seen": "",
+   "rounds": [],
+   "lead": true,
+   "amount": {},
+   "board_seat": "",
+   "source_url": "",
+   "confidence": 0.7
+  }
+ ],
+ "investors_meta": [],
+ "financials": [],
+ "products": [],
+ "traction": [],
+ "customers": [],
+ "partnerships": [],
+ "competitors": [],
+ "acquisitions": [],
+ "locations": [
+  {
+   "type": "HQ",
+   "address_or_area": "Bengaluru",
+   "city": "Bengaluru",
+   "state": "Karnataka",
+   "as_of": "2025-03",
+   "source_url": "https://www.thehindu.com/business/Industry/ola-electric-to-lay-off-5-of-its-workforce/article70570552.ece",
+   "confidence": 0.95
+  }
+ ],
+ "hiring": [
+  {
+   "fact_type": "layoffs",
+   "value": "1000 (~25%) cut Mar 2025",
+   "as_of": "2025-03-03",
+   "source_url": "https://www.ndtv.com/india-news/bhavish-aggarwals-ola-to-cut-1-000-jobs-500-were-laid-off-in-november-7835210",
+   "confidence": 0.9
+  },
+  {
+   "fact_type": "layoffs",
+   "value": "5% workforce cut Jan 2026",
+   "as_of": "2026-01-30",
+   "source_url": "https://www.reuters.com/business/world-at-work/indian-electric-scooter-firm-ola-electric-says-it-will-lay-off-5-workforce-2026-01-30/",
+   "confidence": 0.9
+  }
+ ],
+ "legal": [],
+ "events": [
+  {
+   "date": "2025-03-03",
+   "announced_date": "2025-03-03",
+   "type": "layoff",
+   "headline": "Ola Electric to cut 1000 jobs",
+   "description": "Second round of layoffs; over 1000 jobs cut amid rising losses",
+   "source_url": "https://www.ndtv.com/india-news/bhavish-aggarwals-ola-to-cut-1-000-jobs-500-were-laid-off-in-november-7835210",
+   "confidence": 0.9
+  },
+  {
+   "date": "2026-01-30",
+   "announced_date": "2026-01-30",
+   "type": "layoff",
+   "headline": "Ola Electric to lay off 5% of workforce",
+   "description": "Restructuring aimed at improving profitability through automation",
+   "source_url": "https://www.reuters.com/business/world-at-work/indian-electric-scooter-firm-ola-electric-says-it-will-lay-off-5-workforce-2026-01-30/",
+   "confidence": 0.9
+  }
+ ],
+ "ip_tech_ai": {
+  "stack": "EV manufacturing, battery technology",
+  "patents": [],
+  "trademarks": [],
+  "ai_notes": "",
+  "source_url": "",
+  "confidence": 0.5
+ },
+ "conflicts": [],
+ "sources": [
+  {
+   "url": "https://www.ndtv.com/india-news/bhavish-aggarwals-ola-to-cut-1-000-jobs-500-were-laid-off-in-november-7835210",
+   "title": "Bhavish Aggarwal's Ola To Cut 1,000 Jobs",
+   "publisher": "NDTV",
+   "publication_date": "2025-03-03",
+   "tier": "T2",
+   "claim_supported": "hiring, events",
+   "fields_supported": [
+    "hiring",
+    "events"
+   ]
+  },
+  {
+   "url": "https://www.reuters.com/business/world-at-work/indian-electric-scooter-firm-ola-electric-says-it-will-lay-off-5-workforce-2026-01-30/",
+   "title": "Indian e-scooter firm Ola Electric to lay off 5% of workforce amid profitability push",
+   "publisher": "Reuters",
+   "publication_date": "2026-01-30",
+   "tier": "T1",
+   "claim_supported": "hiring, events",
+   "fields_supported": [
+    "hiring",
+    "events"
+   ]
+  },
+  {
+   "url": "https://www.thehindu.com/business/Industry/ola-electric-to-lay-off-5-of-its-workforce/article70570552.ece",
+   "title": "Ola Electric to lay off 5% of its workforce",
+   "publisher": "The Hindu",
+   "publication_date": "2026-01-30",
+   "tier": "T1",
+   "claim_supported": "city",
+   "fields_supported": [
+    "city"
+   ]
+  }
+ ],
+ "research_log": [
+  {
+   "query": "Ola Electric layoffs March 2025 India EV listed",
+   "found": "Bengaluru-based, listed EV maker, layoffs Mar 2025 and Jan 2026",
+   "unresolved": "Founded date, founders, full funding history"
+  },
+  {
+   "query": "Ola Electric Bengaluru headquarters founded city",
+   "found": "Confirmed Bengaluru-based",
+   "unresolved": "Founded date not found"
+  }
+ ],
+ "gaps": [
+  "Founded date not verified",
+  "Founders not identified (Bhavish Aggarwal known but not confirmed from sources)",
+  "Full funding history incomplete",
+  "CIN not found",
+  "Financials not included"
+ ],
+ "completeness_self": {
+  "identity": 6,
+  "founders": 3,
+  "funding": 4,
+  "investors": 3,
+  "financials": 1,
+  "products": 2,
+  "traction": 2,
+  "people": 2,
+  "customers": 1,
+  "legal": 1,
+  "sources": 6
+ },
+ "_merged_session2": true
+}

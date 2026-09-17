@@ -1,0 +1,238 @@
+{
+ "canonical_key": "justai",
+ "company": {
+  "business_model": "B2B SaaS — agentic AI marketing platform (4 coordinated agents automating personalization/experimentation/decisioning)",
+  "city": "San Francisco",
+  "company_name": "JustAI",
+  "founded_date": "2024 (as Just Words; rebranded JustAI late 2025)",
+  "primary_sector": "ai marketing saas",
+  "public_private": "private",
+  "startup_stage": "Series A",
+  "status": "active",
+  "notes": "ENTITY-MATCH RISK: coverage describes SF-headquartered AI SaaS; India discovery seed may refer to a different listed entity (\"JustAi Enterprises\"). Kept as single row pending manual de-dupe.",
+  "official_website": {
+   "v": "https://justai.in",
+   "conf": "high",
+   "src": "https://justai.in",
+   "note": "verified live 2026-09-15: name match on own homepage"
+  },
+  "careers_website": {
+   "v": "https://justai.in/ai-governance-jobs/",
+   "conf": "high",
+   "src": "https://justai.in",
+   "note": "careers link found on official homepage, probed live"
+  },
+  "website": "https://justai.in"
+ },
+ "completeness_self": {
+  "financials": 2,
+  "founders": 9,
+  "funding": 8,
+  "identity": 8,
+  "investors": 8,
+  "legal": 3,
+  "people": 4,
+  "products": 7,
+  "sources": 8,
+  "traction": 6
+ },
+ "conflicts": [
+  {
+   "claim_a": "$17.5M Series A (LinkedIn company post)",
+   "claim_b": "$17M / over $17M Series A (ET/Inc42/press)",
+   "field": "series_a_amount",
+   "resolution": "Use $17M (press consensus); note company post says $17.5M",
+   "resolved_value": "$17M",
+   "url_a": "https://www.linkedin.com/posts/getjustai_justai-raises-17m-series-a-to-build-an-agentic-activity-7475258812883488768-D2Z4",
+   "url_b": "https://economictimes.indiatimes.com/tech/funding/marketing-platform-justai-raises-17-million-led-base10/articleshow/131968605.cms"
+  },
+  {
+   "claim_a": "$2.2M seed (YesPress founder profile)",
+   "claim_b": "$1.7M seed Aug 2024 (Inc42/ET/LinkedIn)",
+   "field": "seed_amount",
+   "resolution": "Use $1.7M (multiple press + company LinkedIn funding table); YesPress ~$2.2M may include earlier $125K tranche",
+   "resolved_value": "$1.7M",
+   "url_a": "https://yespress.io/neha-mittal",
+   "url_b": "https://inc42.com/buzz/justai-bags-17-mn-to-scale-its-agentic-martech-stack/"
+  }
+ ],
+ "events": [
+  {
+   "confidence": "high",
+   "date": "2026-06-24",
+   "description": "Series A led by Base10 with YC + Peak XV participating; scale eng/GTM, agentic AI infra, ecommerce+B2B expansion, India hiring/opportunities",
+   "headline": "JustAI raises $17M Series A led by Base10",
+   "source_url": "https://inc42.com/buzz/justai-bags-17-mn-to-scale-its-agentic-martech-stack/",
+   "type": "funding"
+  },
+  {
+   "confidence": "medium",
+   "date": "late 2025",
+   "description": "Rebrand from Just Words to JustAI",
+   "headline": "Rebrand Just Words → JustAI",
+   "source_url": "https://inc42.com/buzz/justai-bags-17-mn-to-scale-its-agentic-martech-stack/",
+   "type": "rebrand"
+  }
+ ],
+ "financials": [],
+ "founders": [
+  {
+   "background": "ex-head of product Retention & Growth at Pinterest and Twitter; co-founded CityStructure; founding engineer Sensorflow; ex-CZI, Goldman Sachs",
+   "confidence": "high",
+   "name": "Neha Mittal",
+   "role": "CEO & Co-founder",
+   "source_url": "https://www.ycombinator.com/companies/justai",
+   "still_active": true,
+   "type": "co-founder"
+  },
+  {
+   "background": "ML/recommendation systems (per YesPress profile)",
+   "confidence": "medium",
+   "name": "Jeff Hara",
+   "role": "Co-founder & CTO",
+   "source_url": "https://inc42.com/buzz/justai-bags-17-mn-to-scale-its-agentic-martech-stack/",
+   "still_active": true,
+   "type": "co-founder"
+  }
+ ],
+ "funding_rounds": [
+  {
+   "all_investors": [
+    "Peak XV Partners",
+    "Y Combinator"
+   ],
+   "amount": 1700000,
+   "announced_date": "2024-08",
+   "currency": "USD",
+   "lead_investors": [
+    "Peak XV Partners",
+    "Y Combinator"
+   ],
+   "round_type": "Seed",
+   "source_date": "2026-06-25",
+   "source_title": "JustAI Bags $17 Mn To Scale Its Agentic Martech Stack",
+   "source_url": "https://inc42.com/buzz/justai-bags-17-mn-to-scale-its-agentic-martech-stack/",
+   "tier": "T2",
+   "valuation": null
+  },
+  {
+   "all_investors": [
+    "Base10",
+    "Y Combinator",
+    "Peak XV Partners",
+    "operators incl. growth leaders from Anthropic and Chime, HubSpot CTO, founders of Eppo and Vapi"
+   ],
+   "amount": 17000000,
+   "announced_date": "2026-06-24",
+   "currency": "USD",
+   "lead_investors": [
+    "Base10"
+   ],
+   "purpose": "Scale engineering and GTM teams, strengthen agentic AI infra, expand to ecommerce/B2B, India hiring/opportunities",
+   "round_type": "Series A",
+   "source_date": "2026-06-24",
+   "source_title": "Marketing platform JustAI raises $17 million led by Base10",
+   "source_url": "https://economictimes.indiatimes.com/tech/funding/marketing-platform-justai-raises-17-million-led-base10/articleshow/131968605.cms",
+   "tier": "T1",
+   "valuation": null
+  }
+ ],
+ "gaps": [
+  "Valuation undisclosed",
+  "Revenue/ARR figures unverified (YesPress mentions 5x ARR growth — not independently verified)",
+  "CIN/incorporation date: US HQ company; no MCA record surfaced",
+  "Employee count unverified (one profile says 5 employees — dated Mar 2026 article, low confidence)"
+ ],
+ "investor_links": [
+  {
+   "confidence": "high",
+   "first_seen": "2024-08",
+   "investor": "Peak XV Partners",
+   "investor_type": "VC",
+   "lead": true,
+   "rounds": [
+    "Seed",
+    "Series A (participating)"
+   ],
+   "source_url": "https://inc42.com/buzz/justai-bags-17-mn-to-scale-its-agentic-martech-stack/"
+  },
+  {
+   "confidence": "high",
+   "first_seen": "2024-08",
+   "investor": "Y Combinator",
+   "investor_type": "accelerator",
+   "lead": true,
+   "rounds": [
+    "Seed",
+    "Series A (participating)"
+   ],
+   "source_url": "https://inc42.com/buzz/justai-bags-17-mn-to-scale-its-agentic-martech-stack/"
+  },
+  {
+   "confidence": "high",
+   "first_seen": "2026-06",
+   "investor": "Base10",
+   "investor_type": "VC",
+   "lead": true,
+   "rounds": [
+    "Series A"
+   ],
+   "source_url": "https://economictimes.indiatimes.com/tech/funding/marketing-platform-justai-raises-17-million-led-base10/articleshow/131968605.cms"
+  }
+ ],
+ "research_log": [
+  {
+   "found": "Series A $17M led Base10 (Jun 2026); founders Neha Mittal + Jeff Hara; seed $1.7M Aug 2024; YC W24; rebrand Just Words→JustAI",
+   "query": "JustAI startup Bengaluru status 2025 2026",
+   "unresolved": "valuation, revenue, headcount"
+  },
+  {
+   "found": "YC profile confirms founder backgrounds; seed investor list",
+   "query": "JustAI founders Neha Mittal valuation seed",
+   "unresolved": "HQ is SF not Bengaluru — batch city guess wrong; India is expansion market"
+  }
+ ],
+ "sources": [
+  {
+   "claim_supported": "Series A $17M led Base10, YC + Peak XV participating; founders; SF HQ",
+   "fields_supported": [
+    "funding_rounds",
+    "founders",
+    "investor_links"
+   ],
+   "publication_date": "2026-06-24",
+   "publisher": "Economic Times",
+   "retrieved_date": "2026-09-15",
+   "tier": "T1",
+   "title": "Marketing platform JustAI raises $17 million led by Base10",
+   "url": "https://economictimes.indiatimes.com/tech/funding/marketing-platform-justai-raises-17-million-led-base10/articleshow/131968605.cms"
+  },
+  {
+   "claim_supported": "Series A $17M; rebrand Just Words→JustAI late 2025; seed $1.7M; customers Coursera/ClickUp/Figma/Pinterest/Etsy",
+   "fields_supported": [
+    "funding_rounds",
+    "events"
+   ],
+   "publication_date": "2026-06-25",
+   "publisher": "Inc42",
+   "retrieved_date": "2026-09-15",
+   "tier": "T2",
+   "title": "JustAI Bags $17 Mn To Scale Its Agentic Martech Stack",
+   "url": "https://inc42.com/buzz/justai-bags-17-mn-to-scale-its-agentic-martech-stack/"
+  },
+  {
+   "claim_supported": "Founder backgrounds; YC W24; founded 2024",
+   "fields_supported": [
+    "founders"
+   ],
+   "publication_date": "2024-04-04",
+   "publisher": "Y Combinator",
+   "retrieved_date": "2026-09-15",
+   "tier": "T1",
+   "title": "JustAI: Agentic Marketing Platform",
+   "url": "https://www.ycombinator.com/companies/justai"
+  }
+ ],
+ "startup_id": "justai",
+ "_merged_session2": true
+}

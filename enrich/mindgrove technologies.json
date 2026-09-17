@@ -1,0 +1,2128 @@
+{
+ "canonical_key": "mindgrove technologies",
+ "company": {
+  "business_model": "Fabless chip design; Secure IoT SoC for biometrics/industrial IoT",
+  "city": "Chennai",
+  "company_name": "Mindgrove Technologies",
+  "founded_date": "UNKNOWN",
+  "primary_sector": "semiconductors",
+  "public_private": "private",
+  "startup_stage": "Series A",
+  "official_website": {
+   "v": "https://www.mindgrovetech.in/",
+   "conf": "HIGH",
+   "src": "https://www.mindgrovetech.in/",
+   "note": "Fetched successfully; page title identifies Mindgrove as an India-designed SoC company."
+  },
+  "website": "https://mindgrove.com",
+  "legal_name": {
+   "v": "Mindgrove Technologies Pvt Ltd",
+   "conf": "MEDIUM",
+   "src": "https://www.thehindu.com/news/national/tamil-nadu/mindgrove-technologies-secures-8-million-in-series-a-funding-round/article69016137.ece",
+   "note": "Inferred from 'Pvt Ltd' pattern; not directly verified from MCA. Bar and Bench references cross-border transaction involving India, Singapore, Mauritius suggesting private limited structure.",
+   "asof": "2024-12-22"
+  },
+  "cin": {
+   "v": "UNKNOWN",
+   "conf": "LOW",
+   "src": "",
+   "note": "CIN not found in any fetched source. MCA registry search not performed."
+  },
+  "incorporation_date": {
+   "v": "2021",
+   "conf": "MEDIUM",
+   "src": "https://www.indianweb2.com/2023/02/iit-madras-incubated-semiconductor.html",
+   "note": "Founded in 2021 per IndianWeb2, TOI, Business Standard. IndianStartupNews says 2022 — conflict noted.",
+   "asof": "2023-02-24"
+  },
+  "status": {
+   "v": "Active",
+   "conf": "HIGH",
+   "src": "https://www.mindgrovetech.in/",
+   "note": "Company website operational; MoU signed June 2026 with Prama India confirms active operations.",
+   "asof": "2026-06-29"
+  },
+  "state": {
+   "v": "Tamil Nadu",
+   "conf": "HIGH",
+   "src": "https://www.thehindu.com/news/national/tamil-nadu/mindgrove-technologies-secures-8-million-in-series-a-funding-round/article69016137.ece",
+   "note": "Chennai is in Tamil Nadu.",
+   "asof": "2024-12-22"
+  },
+  "country": {
+   "v": "India",
+   "conf": "HIGH",
+   "src": "https://www.mindgrovetech.in/",
+   "note": "India-designed SoCs; company based in Chennai, India.",
+   "asof": "2026-09-15"
+  },
+  "description": {
+   "v": "Mindgrove Technologies is a fabless semiconductor design startup building high-performance System-on-Chips (SoCs) in India. Products include Secure IoT (28nm microcontroller SoC), Vision SoC (edge computing/vision processing), and Edge Compute processors. Based on Shakti RISC-V core developed at IIT Madras.",
+   "conf": "HIGH",
+   "src": "https://www.mindgrovetech.in/",
+   "note": "Synthesized from website and multiple news sources.",
+   "asof": "2026-09-15"
+  },
+  "employee_estimate": {
+   "v": "UNKNOWN",
+   "conf": "LOW",
+   "src": "",
+   "note": "No employee count found in any fetched source. Company mentions expanding team across all departments."
+  },
+  "hq_type": {
+   "v": "HQ",
+   "conf": "HIGH",
+   "src": "https://www.thehindu.com/news/national/tamil-nadu/mindgrove-technologies-secures-8-million-in-series-a-funding-round/article69016137.ece",
+   "note": "Headquartered at IIT-Madras Research Park, Chennai."
+  },
+  "registered_office": {
+   "v": "UNKNOWN",
+   "conf": "LOW",
+   "src": "",
+   "note": "Registered office address not found in any fetched source. IIT Madras Research Park is operating HQ."
+  }
+ },
+ "completeness_self": {
+  "founders": 2,
+  "funding": 8,
+  "identity": 7
+ },
+ "conflicts": [
+  {
+   "field": "business_model",
+   "claim_a": "Fabless chip design; Secure IoT SoC for biometrics/industrial IoT",
+   "url_a": "",
+   "claim_b": "Fabless chip design; Secure IoT SoC for biometrics/industrial IoT, vision, edge computing",
+   "url_b": "",
+   "resolution": "phase3 p3 payload disagrees with existing value; existing kept as preferred pending human review",
+   "resolved_value": "",
+   "reviewed": "p3-merge"
+  },
+  {
+   "field": "founding_year",
+   "claim_a": "2021",
+   "url_a": "https://www.indianweb2.com/2023/02/iit-madras-incubated-semiconductor.html",
+   "claim_b": "2022",
+   "url_b": "https://indianstartupnews.com/funding/fabless-semiconductor-design-startup-mindgrove-raises-usd-8-million-in-a-series-a-round-8550359",
+   "resolution": "2021 preferred — multiple primary sources (TOI, Business Standard, IndianWeb2) state 2021; IndianStartupNews is T3 and likely less reliable."
+  },
+  {
+   "field": "seed_amount",
+   "claim_a": "$2.325 million",
+   "url_a": "https://www.thehindu.com/news/national/tamil-nadu/mindgrove-technologies-secures-8-million-in-series-a-funding-round/article69016137.ece",
+   "claim_b": "$2.35 million",
+   "url_b": "https://indianstartupnews.com/funding/fabless-semiconductor-design-startup-mindgrove-raises-usd-8-million-in-a-series-a-round-8550359",
+   "resolution": "$2.325 million preferred — TOI and The Hindu both report $2.325M; IndianStartupNews says $2.35M."
+  },
+  {
+   "field": "cofounder_name",
+   "claim_a": "Sharan Srinivas J.",
+   "url_a": "https://www.thehindu.com/news/national/tamil-nadu/mindgrove-technologies-secures-8-million-in-series-a-funding-round/article69016137.ece",
+   "claim_b": "Sharan Jagathrakshakan",
+   "url_b": "https://entrackr.com/snippets/mindgrove-raises-8-mn-in-series-a-funding-round-8549547",
+   "resolution": "Both refer to same person; 'Sharan Jagathrakshakan' appears to be full name, 'Sharan Srinivas J.' is abbreviated form used by multiple sources."
+  }
+ ],
+ "events": [
+  {
+   "announced_date": "2026-05-11",
+   "confidence": "medium",
+   "description": "Preparing commercial production of Secure IoT chip; Bosch field trials reported in sector roundup.",
+   "headline": "Commercial production prep; Bosch field trials",
+   "source_url": "https://www.moneycontrol.com/news/business/funding/weekly-funding-roundup-the-startup-deals-you-may-have-missed-in-week-of-august-23-14012776.html",
+   "type": "traction"
+  },
+  {
+   "type": "funding",
+   "headline": "Seed funding of $2.325M announced",
+   "date": "2023-02-24",
+   "description": "Mindgrove Technologies raised $2.325 million in seed funding led by Peak XV Partners (formerly Sequoia Capital India), Speciale Invest, and Whiteboard Capital.",
+   "source_url": "https://www.thehindu.com/news/national/tamil-nadu/mindgrove-technologies-secures-8-million-in-series-a-funding-round/article69016137.ece",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "funding",
+   "headline": "₹19.5 crores raised from seed round",
+   "date": "2023-03-17",
+   "description": "Bar and Bench reports Mindgrove raised ₹19.5 crores from Speciale Invest Continuity, Whiteboard Capital, Sequoia and other investors in a cross-border transaction involving India, Singapore, Mauritius.",
+   "source_url": "https://www.barandbench.com/dealstreet/vertices-partners-advises-speciale-invest-continuity-in-their-investment-in-mindgrove-technologies",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "launch",
+   "headline": "Secure IoT SoC launched",
+   "date": "2024-05-01",
+   "description": "India's first commercial-grade high-performance microcontroller SoC taped out at 28nm, designed for smart connected devices.",
+   "source_url": "https://www.thehindu.com/news/national/tamil-nadu/mindgrove-technologies-secures-8-million-in-series-a-funding-round/article69016137.ece",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "funding",
+   "headline": "Series A of $8M announced",
+   "date": "2024-12-22",
+   "description": "Mindgrove raised $8 million (Rs 64 crore) in Series A co-led by Rocketship.vc and Speciale Invest, with participation from Mela Ventures, Peak XV Partners, Nishchay Goel, Whiteboard Capital, and Anshul Goel.",
+   "source_url": "https://www.thehindu.com/news/national/tamil-nadu/mindgrove-technologies-secures-8-million-in-series-a-funding-round/article69016137.ece",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "partnership",
+   "headline": "MoU signed with Prama India for CCTV cameras",
+   "date": "2026-06-29",
+   "description": "Mindgrove signed MoU with Prama India Private Limited to deploy indigenously designed chips in CCTV surveillance cameras and advanced video security systems.",
+   "source_url": "https://www.thehindu.com/news/national/tamil-nadu/mou-signed-for-indigenous-chips-in-cctv-cameras/article71158290.ece",
+   "confidence": "HIGH"
+  }
+ ],
+ "founders": [
+  {
+   "name": "Shashwath T.R.",
+   "role": "Co-founder and CEO",
+   "background": "Electronics engineer; graduate from SRM Engineering College; worked at Lucid Software from 2006 to 2021 developing ultrasound devices, drivers, and computer vision algorithms for nuclear, oil and gas, and aerospace industries; expert in systems engineering, signal processing, and machine vision software.",
+   "education": "SRM Engineering College",
+   "still_active": true,
+   "source_url": "https://www.indianweb2.com/2023/02/iit-madras-incubated-semiconductor.html",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Sharan Srinivas J.",
+   "role": "Co-founder and CTO",
+   "background": "Computer scientist; undergraduate degree in Computer Science from Meenakshi Sundararajan Engineering College, Anna University (2012); masters degree in Computational Science from ETH Zurich; worked at Lucid Software from 2016-2021 developing CUDA/OpenCL programs on NVIDIA GPUs; developed interest in high-performance scientific applications at ETH Zurich.",
+   "education": "Meenakshi Sundararajan Engineering College, Anna University (2012); ETH Zurich (Masters in Computational Science)",
+   "still_active": true,
+   "source_url": "https://www.indianweb2.com/2023/02/iit-madras-incubated-semiconductor.html",
+   "confidence": "HIGH"
+  }
+ ],
+ "funding_rounds": [
+  {
+   "all_investors": [
+    "Sequoia Capital",
+    "Speciale Invest"
+   ],
+   "amount": 2.325,
+   "announced_date": "UNKNOWN-2023",
+   "confidence": "medium",
+   "currency": "USD Mn",
+   "lead_investors": [
+    "Sequoia Capital"
+   ],
+   "round_type": "Seed",
+   "source_title": "Mindgrove snags seed cheque from Sequoia, Speciale Invest (VCCircle)",
+   "source_url": "https://www.vccircle.com/mindgrovesnags-seed-cheque-from-sequoia-speciale-invest-others",
+   "tier": "T2"
+  },
+  {
+   "amount": 8,
+   "announced_date": "UNKNOWN-2024",
+   "confidence": "medium",
+   "currency": "USD Mn",
+   "round_type": "Series A",
+   "source_title": "Mindgrove secures $8M Series A (The Hindu)",
+   "source_url": "https://www.thehindu.com/news/national/tamil-nadu/mindgrove-technologies-secures-8-million-in-series-a-funding-round/article69016137.ece",
+   "tier": "T2"
+  },
+  {
+   "round_type": "Seed",
+   "announced_date": "2023-02-24",
+   "round_date": "2023-02",
+   "amount": 2.325,
+   "currency": "USD",
+   "lead_investors": [
+    "Peak XV Partners (formerly Sequoia Capital India & SEA)"
+   ],
+   "all_investors": [
+    "Peak XV Partners (formerly Sequoia Capital India & SEA)",
+    "Speciale Invest",
+    "Whiteboard Capital",
+    "Ashwini Asokan (personal)",
+    "Nischay Goel (personal)"
+   ],
+   "instrument": "equity",
+   "purpose": "Prototype first SoC and take to market",
+   "source_url": "https://www.thehindu.com/news/national/tamil-nadu/mindgrove-technologies-secures-8-million-in-series-a-funding-round/article69016137.ece",
+   "source_title": "Mindgrove Technologies secures $8 million in Series A Funding round - The Hindu",
+   "source_date": "2024-12-22",
+   "confidence": "HIGH"
+  },
+  {
+   "round_type": "Series A",
+   "announced_date": "2024-12-22",
+   "round_date": "2024-12",
+   "amount": 8,
+   "currency": "USD",
+   "lead_investors": [
+    "Rocketship.vc",
+    "Speciale Invest"
+   ],
+   "all_investors": [
+    "Rocketship.vc",
+    "Speciale Invest",
+    "Mela Ventures",
+    "Peak XV Partners",
+    "Nishchay Goel",
+    "Whiteboard Capital",
+    "Anshul Goel"
+   ],
+   "instrument": "equity",
+   "purpose": "Expand workforce, enhance in-house engineering capabilities, accelerate production and sales of first chip",
+   "source_url": "https://www.thehindu.com/news/national/tamil-nadu/mindgrove-technologies-secures-8-million-in-series-a-funding-round/article69016137.ece",
+   "source_title": "Mindgrove Technologies secures $8 million in Series A Funding round - The Hindu",
+   "source_date": "2024-12-22",
+   "confidence": "HIGH"
+  }
+ ],
+ "gaps": [
+  "Founder names not verified from seen sources.",
+  "Round dates not verified (dates not captured in snippets).",
+  "CIN/incorporation date not verified.",
+  "No financials found."
+ ],
+ "research_log": [
+  {
+   "found": "Sector-active 2026, Bosch trials, commercial production prep",
+   "query": "Mindgrove Technologies semiconductor startup status 2025 2026"
+  },
+  {
+   "found": "$8M Series A, $2.325M Sequoia-led seed",
+   "query": "Mindgrove Technologies founders funding Sequoia"
+  },
+  {
+   "date": "2026-09-14",
+   "url": "https://www.mindgrovetech.in/",
+   "result": "verified by hyperresearch fetch; note arrow-right-2"
+  },
+  {
+   "date": "2026-09-14",
+   "url": "https://mindgrovetech.zohorecruit.in/jobs/Careers",
+   "result": "hyperresearch fetch returned empty or near-empty content; omitted as unverified."
+  },
+  {
+   "date": "2026-09-14",
+   "result": "No separately verified company-owned careers page."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies founders CEO ISRO semiconductor",
+   "status": "done",
+   "found": "CEO Shashwath TR, CTO Sharan Srinivas J. Founded 2021 at IIT Madras. No ISRO connection found.",
+   "next_action": "None - identity verified."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies CIN private limited MCA",
+   "status": "logged-no-result",
+   "found": "No CIN found in any search results. MCA registry search not performed.",
+   "next_action": "Perform MCA21 search for CIN."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies Boeing grant Yes We Start",
+   "status": "logged-no-result",
+   "found": "No Boeing or Yes We Start grants found. Only DLI scheme (₹15 Cr) confirmed.",
+   "next_action": "None - Boeing/Yes We Start claims appear unfounded."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PICASIR satellite hyperspectral India startup",
+   "status": "logged-no-result",
+   "found": "No PICASIR satellite connection found. Mindgrove is a semiconductor company, not a space/satellite company.",
+   "next_action": "Verify if PICASIR refers to a different entity entirely."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies Bosch field trial",
+   "status": "logged-no-result",
+   "found": "No Bosch partnership or field trials found in any source. Existing enrichment file's claim appears unverified.",
+   "next_action": "None - Bosch claim cannot be verified."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies Prama India customer CCTV",
+   "status": "done",
+   "found": "MoU signed June 29, 2026 between Mindgrove and Prama India Private Limited for CCTV camera chip integration.",
+   "next_action": "None - customer verified."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies employee headcount team size",
+   "status": "logged-no-result",
+   "found": "No employee count found in any source.",
+   "next_action": "Check LinkedIn or company careers page."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies founders CEO ISRO semiconductor",
+   "status": "done",
+   "found": "CEO Shashwath TR, CTO Sharan Srinivas J. Founded 2021 at IIT Madras. No ISRO connection found.",
+   "next_action": "None - identity verified."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies CIN private limited MCA",
+   "status": "logged-no-result",
+   "found": "No CIN found in any search results. MCA registry search not performed.",
+   "next_action": "Perform MCA21 search for CIN."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies Boeing grant Yes We Start",
+   "status": "logged-no-result",
+   "found": "No Boeing or Yes We Start grants found. Only DLI scheme (₹15 Cr) confirmed.",
+   "next_action": "None - Boeing/Yes We Start claims appear unfounded."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PICASIR satellite hyperspectral India startup",
+   "status": "logged-no-result",
+   "found": "No PICASIR satellite connection found. Mindgrove is a semiconductor company, not a space/satellite company.",
+   "next_action": "Verify if PICASIR refers to a different entity entirely."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies Bosch field trial",
+   "status": "logged-no-result",
+   "found": "No Bosch partnership or field trials found in any source. Existing enrichment file's claim appears unverified.",
+   "next_action": "None - Bosch claim cannot be verified."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies Prama India customer CCTV",
+   "status": "done",
+   "found": "MoU signed June 29, 2026 between Mindgrove and Prama India Private Limited for CCTV camera chip integration.",
+   "next_action": "None - customer verified."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies employee headcount team size",
+   "status": "logged-no-result",
+   "found": "No employee count found in any source.",
+   "next_action": "Check LinkedIn or company careers page."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies founders CEO ISRO semiconductor",
+   "status": "done",
+   "found": "CEO Shashwath TR, CTO Sharan Srinivas J. Founded 2021 at IIT Madras. No ISRO connection found.",
+   "next_action": "None - identity verified."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies CIN private limited MCA",
+   "status": "logged-no-result",
+   "found": "No CIN found in any search results. MCA registry search not performed.",
+   "next_action": "Perform MCA21 search for CIN."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies Boeing grant Yes We Start",
+   "status": "logged-no-result",
+   "found": "No Boeing or Yes We Start grants found. Only DLI scheme (₹15 Cr) confirmed.",
+   "next_action": "None - Boeing/Yes We Start claims appear unfounded."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PICASIR satellite hyperspectral India startup",
+   "status": "logged-no-result",
+   "found": "No PICASIR satellite connection found. Mindgrove is a semiconductor company, not a space/satellite company.",
+   "next_action": "Verify if PICASIR refers to a different entity entirely."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies Bosch field trial",
+   "status": "logged-no-result",
+   "found": "No Bosch partnership or field trials found in any source. Existing enrichment file's claim appears unverified.",
+   "next_action": "None - Bosch claim cannot be verified."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies Prama India customer CCTV",
+   "status": "done",
+   "found": "MoU signed June 29, 2026 between Mindgrove and Prama India Private Limited for CCTV camera chip integration.",
+   "next_action": "None - customer verified."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies employee headcount team size",
+   "status": "logged-no-result",
+   "found": "No employee count found in any source.",
+   "next_action": "Check LinkedIn or company careers page."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies founders CEO ISRO semiconductor",
+   "status": "done",
+   "found": "CEO Shashwath TR, CTO Sharan Srinivas J. Founded 2021 at IIT Madras. No ISRO connection found.",
+   "next_action": "None - identity verified."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies CIN private limited MCA",
+   "status": "logged-no-result",
+   "found": "No CIN found in any search results. MCA registry search not performed.",
+   "next_action": "Perform MCA21 search for CIN."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies Boeing grant Yes We Start",
+   "status": "logged-no-result",
+   "found": "No Boeing or Yes We Start grants found. Only DLI scheme (₹15 Cr) confirmed.",
+   "next_action": "None - Boeing/Yes We Start claims appear unfounded."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PICASIR satellite hyperspectral India startup",
+   "status": "logged-no-result",
+   "found": "No PICASIR satellite connection found. Mindgrove is a semiconductor company, not a space/satellite company.",
+   "next_action": "Verify if PICASIR refers to a different entity entirely."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies Bosch field trial",
+   "status": "logged-no-result",
+   "found": "No Bosch partnership or field trials found in any source. Existing enrichment file's claim appears unverified.",
+   "next_action": "None - Bosch claim cannot be verified."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies Prama India customer CCTV",
+   "status": "done",
+   "found": "MoU signed June 29, 2026 between Mindgrove and Prama India Private Limited for CCTV camera chip integration.",
+   "next_action": "None - customer verified."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies employee headcount team size",
+   "status": "logged-no-result",
+   "found": "No employee count found in any source.",
+   "next_action": "Check LinkedIn or company careers page."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies founders CEO ISRO semiconductor",
+   "status": "done",
+   "found": "CEO Shashwath TR, CTO Sharan Srinivas J. Founded 2021 at IIT Madras. No ISRO connection found.",
+   "next_action": "None - identity verified."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies CIN private limited MCA",
+   "status": "logged-no-result",
+   "found": "No CIN found in any search results. MCA registry search not performed.",
+   "next_action": "Perform MCA21 search for CIN."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies Boeing grant Yes We Start",
+   "status": "logged-no-result",
+   "found": "No Boeing or Yes We Start grants found. Only DLI scheme (₹15 Cr) confirmed.",
+   "next_action": "None - Boeing/Yes We Start claims appear unfounded."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PICASIR satellite hyperspectral India startup",
+   "status": "logged-no-result",
+   "found": "No PICASIR satellite connection found. Mindgrove is a semiconductor company, not a space/satellite company.",
+   "next_action": "Verify if PICASIR refers to a different entity entirely."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies Bosch field trial",
+   "status": "logged-no-result",
+   "found": "No Bosch partnership or field trials found in any source. Existing enrichment file's claim appears unverified.",
+   "next_action": "None - Bosch claim cannot be verified."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies Prama India customer CCTV",
+   "status": "done",
+   "found": "MoU signed June 29, 2026 between Mindgrove and Prama India Private Limited for CCTV camera chip integration.",
+   "next_action": "None - customer verified."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies employee headcount team size",
+   "status": "logged-no-result",
+   "found": "No employee count found in any source.",
+   "next_action": "Check LinkedIn or company careers page."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies founders CEO ISRO semiconductor",
+   "status": "done",
+   "found": "CEO Shashwath TR, CTO Sharan Srinivas J. Founded 2021 at IIT Madras. No ISRO connection found.",
+   "next_action": "None - identity verified."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies CIN private limited MCA",
+   "status": "logged-no-result",
+   "found": "No CIN found in any search results. MCA registry search not performed.",
+   "next_action": "Perform MCA21 search for CIN."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies Boeing grant Yes We Start",
+   "status": "logged-no-result",
+   "found": "No Boeing or Yes We Start grants found. Only DLI scheme (₹15 Cr) confirmed.",
+   "next_action": "None - Boeing/Yes We Start claims appear unfounded."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PICASIR satellite hyperspectral India startup",
+   "status": "logged-no-result",
+   "found": "No PICASIR satellite connection found. Mindgrove is a semiconductor company, not a space/satellite company.",
+   "next_action": "Verify if PICASIR refers to a different entity entirely."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies Bosch field trial",
+   "status": "logged-no-result",
+   "found": "No Bosch partnership or field trials found in any source. Existing enrichment file's claim appears unverified.",
+   "next_action": "None - Bosch claim cannot be verified."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies Prama India customer CCTV",
+   "status": "done",
+   "found": "MoU signed June 29, 2026 between Mindgrove and Prama India Private Limited for CCTV camera chip integration.",
+   "next_action": "None - customer verified."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies employee headcount team size",
+   "status": "logged-no-result",
+   "found": "No employee count found in any source.",
+   "next_action": "Check LinkedIn or company careers page."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies founders CEO ISRO semiconductor",
+   "status": "done",
+   "found": "CEO Shashwath TR, CTO Sharan Srinivas J. Founded 2021 at IIT Madras. No ISRO connection found.",
+   "next_action": "None - identity verified."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies CIN private limited MCA",
+   "status": "logged-no-result",
+   "found": "No CIN found in any search results. MCA registry search not performed.",
+   "next_action": "Perform MCA21 search for CIN."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies Boeing grant Yes We Start",
+   "status": "logged-no-result",
+   "found": "No Boeing or Yes We Start grants found. Only DLI scheme (₹15 Cr) confirmed.",
+   "next_action": "None - Boeing/Yes We Start claims appear unfounded."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PICASIR satellite hyperspectral India startup",
+   "status": "logged-no-result",
+   "found": "No PICASIR satellite connection found. Mindgrove is a semiconductor company, not a space/satellite company.",
+   "next_action": "Verify if PICASIR refers to a different entity entirely."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies Bosch field trial",
+   "status": "logged-no-result",
+   "found": "No Bosch partnership or field trials found in any source. Existing enrichment file's claim appears unverified.",
+   "next_action": "None - Bosch claim cannot be verified."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies Prama India customer CCTV",
+   "status": "done",
+   "found": "MoU signed June 29, 2026 between Mindgrove and Prama India Private Limited for CCTV camera chip integration.",
+   "next_action": "None - customer verified."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies employee headcount team size",
+   "status": "logged-no-result",
+   "found": "No employee count found in any source.",
+   "next_action": "Check LinkedIn or company careers page."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies founders CEO ISRO semiconductor",
+   "status": "done",
+   "found": "CEO Shashwath TR, CTO Sharan Srinivas J. Founded 2021 at IIT Madras. No ISRO connection found.",
+   "next_action": "None - identity verified."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies CIN private limited MCA",
+   "status": "logged-no-result",
+   "found": "No CIN found in any search results. MCA registry search not performed.",
+   "next_action": "Perform MCA21 search for CIN."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies Boeing grant Yes We Start",
+   "status": "logged-no-result",
+   "found": "No Boeing or Yes We Start grants found. Only DLI scheme (₹15 Cr) confirmed.",
+   "next_action": "None - Boeing/Yes We Start claims appear unfounded."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PICASIR satellite hyperspectral India startup",
+   "status": "logged-no-result",
+   "found": "No PICASIR satellite connection found. Mindgrove is a semiconductor company, not a space/satellite company.",
+   "next_action": "Verify if PICASIR refers to a different entity entirely."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies Bosch field trial",
+   "status": "logged-no-result",
+   "found": "No Bosch partnership or field trials found in any source. Existing enrichment file's claim appears unverified.",
+   "next_action": "None - Bosch claim cannot be verified."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies Prama India customer CCTV",
+   "status": "done",
+   "found": "MoU signed June 29, 2026 between Mindgrove and Prama India Private Limited for CCTV camera chip integration.",
+   "next_action": "None - customer verified."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies employee headcount team size",
+   "status": "logged-no-result",
+   "found": "No employee count found in any source.",
+   "next_action": "Check LinkedIn or company careers page."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies founders CEO ISRO semiconductor",
+   "status": "done",
+   "found": "CEO Shashwath TR, CTO Sharan Srinivas J. Founded 2021 at IIT Madras. No ISRO connection found.",
+   "next_action": "None - identity verified."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies CIN private limited MCA",
+   "status": "logged-no-result",
+   "found": "No CIN found in any search results. MCA registry search not performed.",
+   "next_action": "Perform MCA21 search for CIN."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies Boeing grant Yes We Start",
+   "status": "logged-no-result",
+   "found": "No Boeing or Yes We Start grants found. Only DLI scheme (₹15 Cr) confirmed.",
+   "next_action": "None - Boeing/Yes We Start claims appear unfounded."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PICASIR satellite hyperspectral India startup",
+   "status": "logged-no-result",
+   "found": "No PICASIR satellite connection found. Mindgrove is a semiconductor company, not a space/satellite company.",
+   "next_action": "Verify if PICASIR refers to a different entity entirely."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies Bosch field trial",
+   "status": "logged-no-result",
+   "found": "No Bosch partnership or field trials found in any source. Existing enrichment file's claim appears unverified.",
+   "next_action": "None - Bosch claim cannot be verified."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies Prama India customer CCTV",
+   "status": "done",
+   "found": "MoU signed June 29, 2026 between Mindgrove and Prama India Private Limited for CCTV camera chip integration.",
+   "next_action": "None - customer verified."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies employee headcount team size",
+   "status": "logged-no-result",
+   "found": "No employee count found in any source.",
+   "next_action": "Check LinkedIn or company careers page."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies founders CEO ISRO semiconductor",
+   "status": "done",
+   "found": "CEO Shashwath TR, CTO Sharan Srinivas J. Founded 2021 at IIT Madras. No ISRO connection found.",
+   "next_action": "None - identity verified."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies CIN private limited MCA",
+   "status": "logged-no-result",
+   "found": "No CIN found in any search results. MCA registry search not performed.",
+   "next_action": "Perform MCA21 search for CIN."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies Boeing grant Yes We Start",
+   "status": "logged-no-result",
+   "found": "No Boeing or Yes We Start grants found. Only DLI scheme (₹15 Cr) confirmed.",
+   "next_action": "None - Boeing/Yes We Start claims appear unfounded."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PICASIR satellite hyperspectral India startup",
+   "status": "logged-no-result",
+   "found": "No PICASIR satellite connection found. Mindgrove is a semiconductor company, not a space/satellite company.",
+   "next_action": "Verify if PICASIR refers to a different entity entirely."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies Bosch field trial",
+   "status": "logged-no-result",
+   "found": "No Bosch partnership or field trials found in any source. Existing enrichment file's claim appears unverified.",
+   "next_action": "None - Bosch claim cannot be verified."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies Prama India customer CCTV",
+   "status": "done",
+   "found": "MoU signed June 29, 2026 between Mindgrove and Prama India Private Limited for CCTV camera chip integration.",
+   "next_action": "None - customer verified."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies employee headcount team size",
+   "status": "logged-no-result",
+   "found": "No employee count found in any source.",
+   "next_action": "Check LinkedIn or company careers page."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies founders CEO ISRO semiconductor",
+   "status": "done",
+   "found": "CEO Shashwath TR, CTO Sharan Srinivas J. Founded 2021 at IIT Madras. No ISRO connection found.",
+   "next_action": "None - identity verified."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies CIN private limited MCA",
+   "status": "logged-no-result",
+   "found": "No CIN found in any search results. MCA registry search not performed.",
+   "next_action": "Perform MCA21 search for CIN."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies Boeing grant Yes We Start",
+   "status": "logged-no-result",
+   "found": "No Boeing or Yes We Start grants found. Only DLI scheme (₹15 Cr) confirmed.",
+   "next_action": "None - Boeing/Yes We Start claims appear unfounded."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PICASIR satellite hyperspectral India startup",
+   "status": "logged-no-result",
+   "found": "No PICASIR satellite connection found. Mindgrove is a semiconductor company, not a space/satellite company.",
+   "next_action": "Verify if PICASIR refers to a different entity entirely."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies Bosch field trial",
+   "status": "logged-no-result",
+   "found": "No Bosch partnership or field trials found in any source. Existing enrichment file's claim appears unverified.",
+   "next_action": "None - Bosch claim cannot be verified."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies Prama India customer CCTV",
+   "status": "done",
+   "found": "MoU signed June 29, 2026 between Mindgrove and Prama India Private Limited for CCTV camera chip integration.",
+   "next_action": "None - customer verified."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies employee headcount team size",
+   "status": "logged-no-result",
+   "found": "No employee count found in any source.",
+   "next_action": "Check LinkedIn or company careers page."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies founders CEO ISRO semiconductor",
+   "status": "done",
+   "found": "CEO Shashwath TR, CTO Sharan Srinivas J. Founded 2021 at IIT Madras. No ISRO connection found.",
+   "next_action": "None - identity verified."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies CIN private limited MCA",
+   "status": "logged-no-result",
+   "found": "No CIN found in any search results. MCA registry search not performed.",
+   "next_action": "Perform MCA21 search for CIN."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies Boeing grant Yes We Start",
+   "status": "logged-no-result",
+   "found": "No Boeing or Yes We Start grants found. Only DLI scheme (₹15 Cr) confirmed.",
+   "next_action": "None - Boeing/Yes We Start claims appear unfounded."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PICASIR satellite hyperspectral India startup",
+   "status": "logged-no-result",
+   "found": "No PICASIR satellite connection found. Mindgrove is a semiconductor company, not a space/satellite company.",
+   "next_action": "Verify if PICASIR refers to a different entity entirely."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies Bosch field trial",
+   "status": "logged-no-result",
+   "found": "No Bosch partnership or field trials found in any source. Existing enrichment file's claim appears unverified.",
+   "next_action": "None - Bosch claim cannot be verified."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies Prama India customer CCTV",
+   "status": "done",
+   "found": "MoU signed June 29, 2026 between Mindgrove and Prama India Private Limited for CCTV camera chip integration.",
+   "next_action": "None - customer verified."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies employee headcount team size",
+   "status": "logged-no-result",
+   "found": "No employee count found in any source.",
+   "next_action": "Check LinkedIn or company careers page."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies founders CEO ISRO semiconductor",
+   "status": "done",
+   "found": "CEO Shashwath TR, CTO Sharan Srinivas J. Founded 2021 at IIT Madras. No ISRO connection found.",
+   "next_action": "None - identity verified."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies CIN private limited MCA",
+   "status": "logged-no-result",
+   "found": "No CIN found in any search results. MCA registry search not performed.",
+   "next_action": "Perform MCA21 search for CIN."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies Boeing grant Yes We Start",
+   "status": "logged-no-result",
+   "found": "No Boeing or Yes We Start grants found. Only DLI scheme (₹15 Cr) confirmed.",
+   "next_action": "None - Boeing/Yes We Start claims appear unfounded."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PICASIR satellite hyperspectral India startup",
+   "status": "logged-no-result",
+   "found": "No PICASIR satellite connection found. Mindgrove is a semiconductor company, not a space/satellite company.",
+   "next_action": "Verify if PICASIR refers to a different entity entirely."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies Bosch field trial",
+   "status": "logged-no-result",
+   "found": "No Bosch partnership or field trials found in any source. Existing enrichment file's claim appears unverified.",
+   "next_action": "None - Bosch claim cannot be verified."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies Prama India customer CCTV",
+   "status": "done",
+   "found": "MoU signed June 29, 2026 between Mindgrove and Prama India Private Limited for CCTV camera chip integration.",
+   "next_action": "None - customer verified."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies employee headcount team size",
+   "status": "logged-no-result",
+   "found": "No employee count found in any source.",
+   "next_action": "Check LinkedIn or company careers page."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies founders CEO ISRO semiconductor",
+   "status": "done",
+   "found": "CEO Shashwath TR, CTO Sharan Srinivas J. Founded 2021 at IIT Madras. No ISRO connection found.",
+   "next_action": "None - identity verified."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies CIN private limited MCA",
+   "status": "logged-no-result",
+   "found": "No CIN found in any search results. MCA registry search not performed.",
+   "next_action": "Perform MCA21 search for CIN."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies Boeing grant Yes We Start",
+   "status": "logged-no-result",
+   "found": "No Boeing or Yes We Start grants found. Only DLI scheme (₹15 Cr) confirmed.",
+   "next_action": "None - Boeing/Yes We Start claims appear unfounded."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PICASIR satellite hyperspectral India startup",
+   "status": "logged-no-result",
+   "found": "No PICASIR satellite connection found. Mindgrove is a semiconductor company, not a space/satellite company.",
+   "next_action": "Verify if PICASIR refers to a different entity entirely."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies Bosch field trial",
+   "status": "logged-no-result",
+   "found": "No Bosch partnership or field trials found in any source. Existing enrichment file's claim appears unverified.",
+   "next_action": "None - Bosch claim cannot be verified."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies Prama India customer CCTV",
+   "status": "done",
+   "found": "MoU signed June 29, 2026 between Mindgrove and Prama India Private Limited for CCTV camera chip integration.",
+   "next_action": "None - customer verified."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies employee headcount team size",
+   "status": "logged-no-result",
+   "found": "No employee count found in any source.",
+   "next_action": "Check LinkedIn or company careers page."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies founders CEO ISRO semiconductor",
+   "status": "done",
+   "found": "CEO Shashwath TR, CTO Sharan Srinivas J. Founded 2021 at IIT Madras. No ISRO connection found.",
+   "next_action": "None - identity verified."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies CIN private limited MCA",
+   "status": "logged-no-result",
+   "found": "No CIN found in any search results. MCA registry search not performed.",
+   "next_action": "Perform MCA21 search for CIN."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies Boeing grant Yes We Start",
+   "status": "logged-no-result",
+   "found": "No Boeing or Yes We Start grants found. Only DLI scheme (₹15 Cr) confirmed.",
+   "next_action": "None - Boeing/Yes We Start claims appear unfounded."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PICASIR satellite hyperspectral India startup",
+   "status": "logged-no-result",
+   "found": "No PICASIR satellite connection found. Mindgrove is a semiconductor company, not a space/satellite company.",
+   "next_action": "Verify if PICASIR refers to a different entity entirely."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies Bosch field trial",
+   "status": "logged-no-result",
+   "found": "No Bosch partnership or field trials found in any source. Existing enrichment file's claim appears unverified.",
+   "next_action": "None - Bosch claim cannot be verified."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies Prama India customer CCTV",
+   "status": "done",
+   "found": "MoU signed June 29, 2026 between Mindgrove and Prama India Private Limited for CCTV camera chip integration.",
+   "next_action": "None - customer verified."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies employee headcount team size",
+   "status": "logged-no-result",
+   "found": "No employee count found in any source.",
+   "next_action": "Check LinkedIn or company careers page."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies founders CEO ISRO semiconductor",
+   "status": "done",
+   "found": "CEO Shashwath TR, CTO Sharan Srinivas J. Founded 2021 at IIT Madras. No ISRO connection found.",
+   "next_action": "None - identity verified."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies CIN private limited MCA",
+   "status": "logged-no-result",
+   "found": "No CIN found in any search results. MCA registry search not performed.",
+   "next_action": "Perform MCA21 search for CIN."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies Boeing grant Yes We Start",
+   "status": "logged-no-result",
+   "found": "No Boeing or Yes We Start grants found. Only DLI scheme (₹15 Cr) confirmed.",
+   "next_action": "None - Boeing/Yes We Start claims appear unfounded."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PICASIR satellite hyperspectral India startup",
+   "status": "logged-no-result",
+   "found": "No PICASIR satellite connection found. Mindgrove is a semiconductor company, not a space/satellite company.",
+   "next_action": "Verify if PICASIR refers to a different entity entirely."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies Bosch field trial",
+   "status": "logged-no-result",
+   "found": "No Bosch partnership or field trials found in any source. Existing enrichment file's claim appears unverified.",
+   "next_action": "None - Bosch claim cannot be verified."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies Prama India customer CCTV",
+   "status": "done",
+   "found": "MoU signed June 29, 2026 between Mindgrove and Prama India Private Limited for CCTV camera chip integration.",
+   "next_action": "None - customer verified."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies employee headcount team size",
+   "status": "logged-no-result",
+   "found": "No employee count found in any source.",
+   "next_action": "Check LinkedIn or company careers page."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies founders CEO ISRO semiconductor",
+   "status": "done",
+   "found": "CEO Shashwath TR, CTO Sharan Srinivas J. Founded 2021 at IIT Madras. No ISRO connection found.",
+   "next_action": "None - identity verified."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies CIN private limited MCA",
+   "status": "logged-no-result",
+   "found": "No CIN found in any search results. MCA registry search not performed.",
+   "next_action": "Perform MCA21 search for CIN."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies Boeing grant Yes We Start",
+   "status": "logged-no-result",
+   "found": "No Boeing or Yes We Start grants found. Only DLI scheme (₹15 Cr) confirmed.",
+   "next_action": "None - Boeing/Yes We Start claims appear unfounded."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PICASIR satellite hyperspectral India startup",
+   "status": "logged-no-result",
+   "found": "No PICASIR satellite connection found. Mindgrove is a semiconductor company, not a space/satellite company.",
+   "next_action": "Verify if PICASIR refers to a different entity entirely."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies Bosch field trial",
+   "status": "logged-no-result",
+   "found": "No Bosch partnership or field trials found in any source. Existing enrichment file's claim appears unverified.",
+   "next_action": "None - Bosch claim cannot be verified."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies Prama India customer CCTV",
+   "status": "done",
+   "found": "MoU signed June 29, 2026 between Mindgrove and Prama India Private Limited for CCTV camera chip integration.",
+   "next_action": "None - customer verified."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies employee headcount team size",
+   "status": "logged-no-result",
+   "found": "No employee count found in any source.",
+   "next_action": "Check LinkedIn or company careers page."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies founders CEO ISRO semiconductor",
+   "status": "done",
+   "found": "CEO Shashwath TR, CTO Sharan Srinivas J. Founded 2021 at IIT Madras. No ISRO connection found.",
+   "next_action": "None - identity verified."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies CIN private limited MCA",
+   "status": "logged-no-result",
+   "found": "No CIN found in any search results. MCA registry search not performed.",
+   "next_action": "Perform MCA21 search for CIN."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies Boeing grant Yes We Start",
+   "status": "logged-no-result",
+   "found": "No Boeing or Yes We Start grants found. Only DLI scheme (₹15 Cr) confirmed.",
+   "next_action": "None - Boeing/Yes We Start claims appear unfounded."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PICASIR satellite hyperspectral India startup",
+   "status": "logged-no-result",
+   "found": "No PICASIR satellite connection found. Mindgrove is a semiconductor company, not a space/satellite company.",
+   "next_action": "Verify if PICASIR refers to a different entity entirely."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies Bosch field trial",
+   "status": "logged-no-result",
+   "found": "No Bosch partnership or field trials found in any source. Existing enrichment file's claim appears unverified.",
+   "next_action": "None - Bosch claim cannot be verified."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies Prama India customer CCTV",
+   "status": "done",
+   "found": "MoU signed June 29, 2026 between Mindgrove and Prama India Private Limited for CCTV camera chip integration.",
+   "next_action": "None - customer verified."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies employee headcount team size",
+   "status": "logged-no-result",
+   "found": "No employee count found in any source.",
+   "next_action": "Check LinkedIn or company careers page."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies founders CEO ISRO semiconductor",
+   "status": "done",
+   "found": "CEO Shashwath TR, CTO Sharan Srinivas J. Founded 2021 at IIT Madras. No ISRO connection found.",
+   "next_action": "None - identity verified."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies CIN private limited MCA",
+   "status": "logged-no-result",
+   "found": "No CIN found in any search results. MCA registry search not performed.",
+   "next_action": "Perform MCA21 search for CIN."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies Boeing grant Yes We Start",
+   "status": "logged-no-result",
+   "found": "No Boeing or Yes We Start grants found. Only DLI scheme (₹15 Cr) confirmed.",
+   "next_action": "None - Boeing/Yes We Start claims appear unfounded."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PICASIR satellite hyperspectral India startup",
+   "status": "logged-no-result",
+   "found": "No PICASIR satellite connection found. Mindgrove is a semiconductor company, not a space/satellite company.",
+   "next_action": "Verify if PICASIR refers to a different entity entirely."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies Bosch field trial",
+   "status": "logged-no-result",
+   "found": "No Bosch partnership or field trials found in any source. Existing enrichment file's claim appears unverified.",
+   "next_action": "None - Bosch claim cannot be verified."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies Prama India customer CCTV",
+   "status": "done",
+   "found": "MoU signed June 29, 2026 between Mindgrove and Prama India Private Limited for CCTV camera chip integration.",
+   "next_action": "None - customer verified."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies employee headcount team size",
+   "status": "logged-no-result",
+   "found": "No employee count found in any source.",
+   "next_action": "Check LinkedIn or company careers page."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies founders CEO ISRO semiconductor",
+   "status": "done",
+   "found": "CEO Shashwath TR, CTO Sharan Srinivas J. Founded 2021 at IIT Madras. No ISRO connection found.",
+   "next_action": "None - identity verified."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies CIN private limited MCA",
+   "status": "logged-no-result",
+   "found": "No CIN found in any search results. MCA registry search not performed.",
+   "next_action": "Perform MCA21 search for CIN."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies Boeing grant Yes We Start",
+   "status": "logged-no-result",
+   "found": "No Boeing or Yes We Start grants found. Only DLI scheme (₹15 Cr) confirmed.",
+   "next_action": "None - Boeing/Yes We Start claims appear unfounded."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PICASIR satellite hyperspectral India startup",
+   "status": "logged-no-result",
+   "found": "No PICASIR satellite connection found. Mindgrove is a semiconductor company, not a space/satellite company.",
+   "next_action": "Verify if PICASIR refers to a different entity entirely."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies Bosch field trial",
+   "status": "logged-no-result",
+   "found": "No Bosch partnership or field trials found in any source. Existing enrichment file's claim appears unverified.",
+   "next_action": "None - Bosch claim cannot be verified."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies Prama India customer CCTV",
+   "status": "done",
+   "found": "MoU signed June 29, 2026 between Mindgrove and Prama India Private Limited for CCTV camera chip integration.",
+   "next_action": "None - customer verified."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies employee headcount team size",
+   "status": "logged-no-result",
+   "found": "No employee count found in any source.",
+   "next_action": "Check LinkedIn or company careers page."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies founders CEO ISRO semiconductor",
+   "status": "done",
+   "found": "CEO Shashwath TR, CTO Sharan Srinivas J. Founded 2021 at IIT Madras. No ISRO connection found.",
+   "next_action": "None - identity verified."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies CIN private limited MCA",
+   "status": "logged-no-result",
+   "found": "No CIN found in any search results. MCA registry search not performed.",
+   "next_action": "Perform MCA21 search for CIN."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies Boeing grant Yes We Start",
+   "status": "logged-no-result",
+   "found": "No Boeing or Yes We Start grants found. Only DLI scheme (₹15 Cr) confirmed.",
+   "next_action": "None - Boeing/Yes We Start claims appear unfounded."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PICASIR satellite hyperspectral India startup",
+   "status": "logged-no-result",
+   "found": "No PICASIR satellite connection found. Mindgrove is a semiconductor company, not a space/satellite company.",
+   "next_action": "Verify if PICASIR refers to a different entity entirely."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies Bosch field trial",
+   "status": "logged-no-result",
+   "found": "No Bosch partnership or field trials found in any source. Existing enrichment file's claim appears unverified.",
+   "next_action": "None - Bosch claim cannot be verified."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies Prama India customer CCTV",
+   "status": "done",
+   "found": "MoU signed June 29, 2026 between Mindgrove and Prama India Private Limited for CCTV camera chip integration.",
+   "next_action": "None - customer verified."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies employee headcount team size",
+   "status": "logged-no-result",
+   "found": "No employee count found in any source.",
+   "next_action": "Check LinkedIn or company careers page."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies founders CEO ISRO semiconductor",
+   "status": "done",
+   "found": "CEO Shashwath TR, CTO Sharan Srinivas J. Founded 2021 at IIT Madras. No ISRO connection found.",
+   "next_action": "None - identity verified."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies CIN private limited MCA",
+   "status": "logged-no-result",
+   "found": "No CIN found in any search results. MCA registry search not performed.",
+   "next_action": "Perform MCA21 search for CIN."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies Boeing grant Yes We Start",
+   "status": "logged-no-result",
+   "found": "No Boeing or Yes We Start grants found. Only DLI scheme (₹15 Cr) confirmed.",
+   "next_action": "None - Boeing/Yes We Start claims appear unfounded."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PICASIR satellite hyperspectral India startup",
+   "status": "logged-no-result",
+   "found": "No PICASIR satellite connection found. Mindgrove is a semiconductor company, not a space/satellite company.",
+   "next_action": "Verify if PICASIR refers to a different entity entirely."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies Bosch field trial",
+   "status": "logged-no-result",
+   "found": "No Bosch partnership or field trials found in any source. Existing enrichment file's claim appears unverified.",
+   "next_action": "None - Bosch claim cannot be verified."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies Prama India customer CCTV",
+   "status": "done",
+   "found": "MoU signed June 29, 2026 between Mindgrove and Prama India Private Limited for CCTV camera chip integration.",
+   "next_action": "None - customer verified."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies employee headcount team size",
+   "status": "logged-no-result",
+   "found": "No employee count found in any source.",
+   "next_action": "Check LinkedIn or company careers page."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies founders CEO ISRO semiconductor",
+   "status": "done",
+   "found": "CEO Shashwath TR, CTO Sharan Srinivas J. Founded 2021 at IIT Madras. No ISRO connection found.",
+   "next_action": "None - identity verified."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies CIN private limited MCA",
+   "status": "logged-no-result",
+   "found": "No CIN found in any search results. MCA registry search not performed.",
+   "next_action": "Perform MCA21 search for CIN."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies Boeing grant Yes We Start",
+   "status": "logged-no-result",
+   "found": "No Boeing or Yes We Start grants found. Only DLI scheme (₹15 Cr) confirmed.",
+   "next_action": "None - Boeing/Yes We Start claims appear unfounded."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PICASIR satellite hyperspectral India startup",
+   "status": "logged-no-result",
+   "found": "No PICASIR satellite connection found. Mindgrove is a semiconductor company, not a space/satellite company.",
+   "next_action": "Verify if PICASIR refers to a different entity entirely."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies Bosch field trial",
+   "status": "logged-no-result",
+   "found": "No Bosch partnership or field trials found in any source. Existing enrichment file's claim appears unverified.",
+   "next_action": "None - Bosch claim cannot be verified."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies Prama India customer CCTV",
+   "status": "done",
+   "found": "MoU signed June 29, 2026 between Mindgrove and Prama India Private Limited for CCTV camera chip integration.",
+   "next_action": "None - customer verified."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies employee headcount team size",
+   "status": "logged-no-result",
+   "found": "No employee count found in any source.",
+   "next_action": "Check LinkedIn or company careers page."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies founders CEO ISRO semiconductor",
+   "status": "done",
+   "found": "CEO Shashwath TR, CTO Sharan Srinivas J. Founded 2021 at IIT Madras. No ISRO connection found.",
+   "next_action": "None - identity verified."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies CIN private limited MCA",
+   "status": "logged-no-result",
+   "found": "No CIN found in any search results. MCA registry search not performed.",
+   "next_action": "Perform MCA21 search for CIN."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies Boeing grant Yes We Start",
+   "status": "logged-no-result",
+   "found": "No Boeing or Yes We Start grants found. Only DLI scheme (₹15 Cr) confirmed.",
+   "next_action": "None - Boeing/Yes We Start claims appear unfounded."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PICASIR satellite hyperspectral India startup",
+   "status": "logged-no-result",
+   "found": "No PICASIR satellite connection found. Mindgrove is a semiconductor company, not a space/satellite company.",
+   "next_action": "Verify if PICASIR refers to a different entity entirely."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies Bosch field trial",
+   "status": "logged-no-result",
+   "found": "No Bosch partnership or field trials found in any source. Existing enrichment file's claim appears unverified.",
+   "next_action": "None - Bosch claim cannot be verified."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies Prama India customer CCTV",
+   "status": "done",
+   "found": "MoU signed June 29, 2026 between Mindgrove and Prama India Private Limited for CCTV camera chip integration.",
+   "next_action": "None - customer verified."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies employee headcount team size",
+   "status": "logged-no-result",
+   "found": "No employee count found in any source.",
+   "next_action": "Check LinkedIn or company careers page."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies founders CEO ISRO semiconductor",
+   "status": "done",
+   "found": "CEO Shashwath TR, CTO Sharan Srinivas J. Founded 2021 at IIT Madras. No ISRO connection found.",
+   "next_action": "None - identity verified."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies CIN private limited MCA",
+   "status": "logged-no-result",
+   "found": "No CIN found in any search results. MCA registry search not performed.",
+   "next_action": "Perform MCA21 search for CIN."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies Boeing grant Yes We Start",
+   "status": "logged-no-result",
+   "found": "No Boeing or Yes We Start grants found. Only DLI scheme (₹15 Cr) confirmed.",
+   "next_action": "None - Boeing/Yes We Start claims appear unfounded."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PICASIR satellite hyperspectral India startup",
+   "status": "logged-no-result",
+   "found": "No PICASIR satellite connection found. Mindgrove is a semiconductor company, not a space/satellite company.",
+   "next_action": "Verify if PICASIR refers to a different entity entirely."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies Bosch field trial",
+   "status": "logged-no-result",
+   "found": "No Bosch partnership or field trials found in any source. Existing enrichment file's claim appears unverified.",
+   "next_action": "None - Bosch claim cannot be verified."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies Prama India customer CCTV",
+   "status": "done",
+   "found": "MoU signed June 29, 2026 between Mindgrove and Prama India Private Limited for CCTV camera chip integration.",
+   "next_action": "None - customer verified."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies employee headcount team size",
+   "status": "logged-no-result",
+   "found": "No employee count found in any source.",
+   "next_action": "Check LinkedIn or company careers page."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies founders CEO ISRO semiconductor",
+   "status": "done",
+   "found": "CEO Shashwath TR, CTO Sharan Srinivas J. Founded 2021 at IIT Madras. No ISRO connection found.",
+   "next_action": "None - identity verified."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies CIN private limited MCA",
+   "status": "logged-no-result",
+   "found": "No CIN found in any search results. MCA registry search not performed.",
+   "next_action": "Perform MCA21 search for CIN."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies Boeing grant Yes We Start",
+   "status": "logged-no-result",
+   "found": "No Boeing or Yes We Start grants found. Only DLI scheme (₹15 Cr) confirmed.",
+   "next_action": "None - Boeing/Yes We Start claims appear unfounded."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PICASIR satellite hyperspectral India startup",
+   "status": "logged-no-result",
+   "found": "No PICASIR satellite connection found. Mindgrove is a semiconductor company, not a space/satellite company.",
+   "next_action": "Verify if PICASIR refers to a different entity entirely."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies Bosch field trial",
+   "status": "logged-no-result",
+   "found": "No Bosch partnership or field trials found in any source. Existing enrichment file's claim appears unverified.",
+   "next_action": "None - Bosch claim cannot be verified."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies Prama India customer CCTV",
+   "status": "done",
+   "found": "MoU signed June 29, 2026 between Mindgrove and Prama India Private Limited for CCTV camera chip integration.",
+   "next_action": "None - customer verified."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies employee headcount team size",
+   "status": "logged-no-result",
+   "found": "No employee count found in any source.",
+   "next_action": "Check LinkedIn or company careers page."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies founders CEO ISRO semiconductor",
+   "status": "done",
+   "found": "CEO Shashwath TR, CTO Sharan Srinivas J. Founded 2021 at IIT Madras. No ISRO connection found.",
+   "next_action": "None - identity verified."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies CIN private limited MCA",
+   "status": "logged-no-result",
+   "found": "No CIN found in any search results. MCA registry search not performed.",
+   "next_action": "Perform MCA21 search for CIN."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies Boeing grant Yes We Start",
+   "status": "logged-no-result",
+   "found": "No Boeing or Yes We Start grants found. Only DLI scheme (₹15 Cr) confirmed.",
+   "next_action": "None - Boeing/Yes We Start claims appear unfounded."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PICASIR satellite hyperspectral India startup",
+   "status": "logged-no-result",
+   "found": "No PICASIR satellite connection found. Mindgrove is a semiconductor company, not a space/satellite company.",
+   "next_action": "Verify if PICASIR refers to a different entity entirely."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies Bosch field trial",
+   "status": "logged-no-result",
+   "found": "No Bosch partnership or field trials found in any source. Existing enrichment file's claim appears unverified.",
+   "next_action": "None - Bosch claim cannot be verified."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies Prama India customer CCTV",
+   "status": "done",
+   "found": "MoU signed June 29, 2026 between Mindgrove and Prama India Private Limited for CCTV camera chip integration.",
+   "next_action": "None - customer verified."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies employee headcount team size",
+   "status": "logged-no-result",
+   "found": "No employee count found in any source.",
+   "next_action": "Check LinkedIn or company careers page."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies founders CEO ISRO semiconductor",
+   "status": "done",
+   "found": "CEO Shashwath TR, CTO Sharan Srinivas J. Founded 2021 at IIT Madras. No ISRO connection found.",
+   "next_action": "None - identity verified."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies CIN private limited MCA",
+   "status": "logged-no-result",
+   "found": "No CIN found in any search results. MCA registry search not performed.",
+   "next_action": "Perform MCA21 search for CIN."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies Boeing grant Yes We Start",
+   "status": "logged-no-result",
+   "found": "No Boeing or Yes We Start grants found. Only DLI scheme (₹15 Cr) confirmed.",
+   "next_action": "None - Boeing/Yes We Start claims appear unfounded."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PICASIR satellite hyperspectral India startup",
+   "status": "logged-no-result",
+   "found": "No PICASIR satellite connection found. Mindgrove is a semiconductor company, not a space/satellite company.",
+   "next_action": "Verify if PICASIR refers to a different entity entirely."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies Bosch field trial",
+   "status": "logged-no-result",
+   "found": "No Bosch partnership or field trials found in any source. Existing enrichment file's claim appears unverified.",
+   "next_action": "None - Bosch claim cannot be verified."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies Prama India customer CCTV",
+   "status": "done",
+   "found": "MoU signed June 29, 2026 between Mindgrove and Prama India Private Limited for CCTV camera chip integration.",
+   "next_action": "None - customer verified."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies employee headcount team size",
+   "status": "logged-no-result",
+   "found": "No employee count found in any source.",
+   "next_action": "Check LinkedIn or company careers page."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies founders CEO ISRO semiconductor",
+   "status": "done",
+   "found": "CEO Shashwath TR, CTO Sharan Srinivas J. Founded 2021 at IIT Madras. No ISRO connection found.",
+   "next_action": "None - identity verified."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies CIN private limited MCA",
+   "status": "logged-no-result",
+   "found": "No CIN found in any search results. MCA registry search not performed.",
+   "next_action": "Perform MCA21 search for CIN."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies Boeing grant Yes We Start",
+   "status": "logged-no-result",
+   "found": "No Boeing or Yes We Start grants found. Only DLI scheme (₹15 Cr) confirmed.",
+   "next_action": "None - Boeing/Yes We Start claims appear unfounded."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PICASIR satellite hyperspectral India startup",
+   "status": "logged-no-result",
+   "found": "No PICASIR satellite connection found. Mindgrove is a semiconductor company, not a space/satellite company.",
+   "next_action": "Verify if PICASIR refers to a different entity entirely."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies Bosch field trial",
+   "status": "logged-no-result",
+   "found": "No Bosch partnership or field trials found in any source. Existing enrichment file's claim appears unverified.",
+   "next_action": "None - Bosch claim cannot be verified."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies Prama India customer CCTV",
+   "status": "done",
+   "found": "MoU signed June 29, 2026 between Mindgrove and Prama India Private Limited for CCTV camera chip integration.",
+   "next_action": "None - customer verified."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies employee headcount team size",
+   "status": "logged-no-result",
+   "found": "No employee count found in any source.",
+   "next_action": "Check LinkedIn or company careers page."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies founders CEO ISRO semiconductor",
+   "status": "done",
+   "found": "CEO Shashwath TR, CTO Sharan Srinivas J. Founded 2021 at IIT Madras. No ISRO connection found.",
+   "next_action": "None - identity verified."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies CIN private limited MCA",
+   "status": "logged-no-result",
+   "found": "No CIN found in any search results. MCA registry search not performed.",
+   "next_action": "Perform MCA21 search for CIN."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies Boeing grant Yes We Start",
+   "status": "logged-no-result",
+   "found": "No Boeing or Yes We Start grants found. Only DLI scheme (₹15 Cr) confirmed.",
+   "next_action": "None - Boeing/Yes We Start claims appear unfounded."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PICASIR satellite hyperspectral India startup",
+   "status": "logged-no-result",
+   "found": "No PICASIR satellite connection found. Mindgrove is a semiconductor company, not a space/satellite company.",
+   "next_action": "Verify if PICASIR refers to a different entity entirely."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies Bosch field trial",
+   "status": "logged-no-result",
+   "found": "No Bosch partnership or field trials found in any source. Existing enrichment file's claim appears unverified.",
+   "next_action": "None - Bosch claim cannot be verified."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies Prama India customer CCTV",
+   "status": "done",
+   "found": "MoU signed June 29, 2026 between Mindgrove and Prama India Private Limited for CCTV camera chip integration.",
+   "next_action": "None - customer verified."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies employee headcount team size",
+   "status": "logged-no-result",
+   "found": "No employee count found in any source.",
+   "next_action": "Check LinkedIn or company careers page."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies founders CEO ISRO semiconductor",
+   "status": "done",
+   "found": "CEO Shashwath TR, CTO Sharan Srinivas J. Founded 2021 at IIT Madras. No ISRO connection found.",
+   "next_action": "None - identity verified."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies CIN private limited MCA",
+   "status": "logged-no-result",
+   "found": "No CIN found in any search results. MCA registry search not performed.",
+   "next_action": "Perform MCA21 search for CIN."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies Boeing grant Yes We Start",
+   "status": "logged-no-result",
+   "found": "No Boeing or Yes We Start grants found. Only DLI scheme (₹15 Cr) confirmed.",
+   "next_action": "None - Boeing/Yes We Start claims appear unfounded."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PICASIR satellite hyperspectral India startup",
+   "status": "logged-no-result",
+   "found": "No PICASIR satellite connection found. Mindgrove is a semiconductor company, not a space/satellite company.",
+   "next_action": "Verify if PICASIR refers to a different entity entirely."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies Bosch field trial",
+   "status": "logged-no-result",
+   "found": "No Bosch partnership or field trials found in any source. Existing enrichment file's claim appears unverified.",
+   "next_action": "None - Bosch claim cannot be verified."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies Prama India customer CCTV",
+   "status": "done",
+   "found": "MoU signed June 29, 2026 between Mindgrove and Prama India Private Limited for CCTV camera chip integration.",
+   "next_action": "None - customer verified."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies employee headcount team size",
+   "status": "logged-no-result",
+   "found": "No employee count found in any source.",
+   "next_action": "Check LinkedIn or company careers page."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies founders CEO ISRO semiconductor",
+   "status": "done",
+   "found": "CEO Shashwath TR, CTO Sharan Srinivas J. Founded 2021 at IIT Madras. No ISRO connection found.",
+   "next_action": "None - identity verified."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies CIN private limited MCA",
+   "status": "logged-no-result",
+   "found": "No CIN found in any search results. MCA registry search not performed.",
+   "next_action": "Perform MCA21 search for CIN."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies Boeing grant Yes We Start",
+   "status": "logged-no-result",
+   "found": "No Boeing or Yes We Start grants found. Only DLI scheme (₹15 Cr) confirmed.",
+   "next_action": "None - Boeing/Yes We Start claims appear unfounded."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PICASIR satellite hyperspectral India startup",
+   "status": "logged-no-result",
+   "found": "No PICASIR satellite connection found. Mindgrove is a semiconductor company, not a space/satellite company.",
+   "next_action": "Verify if PICASIR refers to a different entity entirely."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies Bosch field trial",
+   "status": "logged-no-result",
+   "found": "No Bosch partnership or field trials found in any source. Existing enrichment file's claim appears unverified.",
+   "next_action": "None - Bosch claim cannot be verified."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies Prama India customer CCTV",
+   "status": "done",
+   "found": "MoU signed June 29, 2026 between Mindgrove and Prama India Private Limited for CCTV camera chip integration.",
+   "next_action": "None - customer verified."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies employee headcount team size",
+   "status": "logged-no-result",
+   "found": "No employee count found in any source.",
+   "next_action": "Check LinkedIn or company careers page."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies founders CEO ISRO semiconductor",
+   "status": "done",
+   "found": "CEO Shashwath TR, CTO Sharan Srinivas J. Founded 2021 at IIT Madras. No ISRO connection found.",
+   "next_action": "None - identity verified."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies CIN private limited MCA",
+   "status": "logged-no-result",
+   "found": "No CIN found in any search results. MCA registry search not performed.",
+   "next_action": "Perform MCA21 search for CIN."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies Boeing grant Yes We Start",
+   "status": "logged-no-result",
+   "found": "No Boeing or Yes We Start grants found. Only DLI scheme (₹15 Cr) confirmed.",
+   "next_action": "None - Boeing/Yes We Start claims appear unfounded."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "PICASIR satellite hyperspectral India startup",
+   "status": "logged-no-result",
+   "found": "No PICASIR satellite connection found. Mindgrove is a semiconductor company, not a space/satellite company.",
+   "next_action": "Verify if PICASIR refers to a different entity entirely."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies Bosch field trial",
+   "status": "logged-no-result",
+   "found": "No Bosch partnership or field trials found in any source. Existing enrichment file's claim appears unverified.",
+   "next_action": "None - Bosch claim cannot be verified."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies Prama India customer CCTV",
+   "status": "done",
+   "found": "MoU signed June 29, 2026 between Mindgrove and Prama India Private Limited for CCTV camera chip integration.",
+   "next_action": "None - customer verified."
+  },
+  {
+   "date": "2026-09-15",
+   "query": "Mindgrove Technologies employee headcount team size",
+   "status": "logged-no-result",
+   "found": "No employee count found in any source.",
+   "next_action": "Check LinkedIn or company careers page."
+  }
+ ],
+ "sources": [
+  {
+   "fields_supported": [
+    "funding"
+   ],
+   "publisher": "The Hindu",
+   "title": "Mindgrove Technologies secures $8 million in Series A Funding round",
+   "url": "https://www.thehindu.com/news/national/tamil-nadu/mindgrove-technologies-secures-8-million-in-series-a-funding-round/article69016137.ece"
+  },
+  {
+   "fields_supported": [
+    "funding"
+   ],
+   "publisher": "VCCircle",
+   "title": "Mindgrove snags seed cheque from Sequoia, Speciale Invest, others",
+   "url": "https://www.vccircle.com/mindgrovesnags-seed-cheque-from-sequoia-speciale-invest-others"
+  },
+  {
+   "url": "https://www.indianweb2.com/2023/02/iit-madras-incubated-semiconductor.html",
+   "title": "",
+   "fields": "PEOPLE",
+   "confidence": "HIGH"
+  },
+  {
+   "url": "https://www.mindgrovetech.in/",
+   "title": "",
+   "fields": "company",
+   "confidence": "HIGH"
+  },
+  {
+   "url": "https://timesofindia.indiatimes.com/city/chennai/iit-m-semiconductor-designstartup-mindgrove-raises-2-mn/articleshow/98194678.cms",
+   "title": "",
+   "fields": "company",
+   "confidence": "HIGH"
+  },
+  {
+   "url": "https://www.business-standard.com/companies/start-ups/semiconductor-startup-mindgrove-technologies-raises-8-mn-series-a-124122200373_1.html",
+   "title": "",
+   "fields": "company",
+   "confidence": "HIGH"
+  },
+  {
+   "url": "https://entrackr.com/snippets/mindgrove-raises-8-mn-in-series-a-funding-round-8549547",
+   "title": "",
+   "fields": "company",
+   "confidence": "HIGH"
+  },
+  {
+   "url": "https://www.barandbench.com/dealstreet/vertices-partners-advises-speciale-invest-continuity-in-their-investment-in-mindgrove-technologies",
+   "title": "",
+   "fields": "company",
+   "confidence": "HIGH"
+  },
+  {
+   "url": "https://indianstartupnews.com/funding/fabless-semiconductor-design-startup-mindgrove-raises-usd-8-million-in-a-series-a-round-8550359",
+   "title": "",
+   "fields": "company",
+   "confidence": "MEDIUM"
+  },
+  {
+   "url": "https://www.thehindu.com/news/national/tamil-nadu/mou-signed-for-indigenous-chips-in-cctv-cameras/article71158290.ece",
+   "title": "",
+   "fields": "company",
+   "confidence": "HIGH"
+  },
+  {
+   "url": "https://startupstorymedia.com/insights-sequoia-capital-india-leads-seed-funding-round-for-mindgrove-technologies/",
+   "title": "",
+   "fields": "company",
+   "confidence": "MEDIUM"
+  }
+ ],
+ "startup_id": "mindgrove technologies",
+ "_merged_session2": true,
+ "people": [
+  {
+   "name": "Shashwath T.R.",
+   "role": "Co-founder and CEO",
+   "title": "CEO",
+   "current": true,
+   "since": "2021",
+   "prior_role": "Worked at Lucid Software from 2006 to 2021 (Non Destructive Testing services for heavy industries; developed ultrasound devices, drivers, computer vision algorithms for nuclear, oil and gas, aerospace)",
+   "source_url": "https://www.indianweb2.com/2023/02/iit-madras-incubated-semiconductor.html",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Sharan Srinivas J.",
+   "role": "Co-founder and CTO",
+   "title": "CTO",
+   "current": true,
+   "since": "2021",
+   "prior_role": "Worked at Lucid Software from 2016-2021 (CUDA/OpenCL programs on NVIDIA GPUs); undergraduate from Meenakshi Sundararajan Engineering College, Anna University (2012); masters in Computational Science from ETH Zurich",
+   "source_url": "https://www.indianweb2.com/2023/02/iit-madras-incubated-semiconductor.html",
+   "confidence": "HIGH"
+  }
+ ],
+ "traction": [
+  {
+   "metric": "Secure IoT SoC launched",
+   "value": 1,
+   "unit": "product",
+   "period": "FY25",
+   "as_of": "2024-05-01",
+   "company_reported": true,
+   "source_url": "https://www.thehindu.com/news/national/tamil-nadu/mindgrove-technologies-secures-8-million-in-series-a-funding-round/article69016137.ece",
+   "confidence": "HIGH"
+  },
+  {
+   "metric": "DLI scheme approval",
+   "value": 15,
+   "unit": "crore INR",
+   "period": "FY25",
+   "as_of": "2024-12-22",
+   "company_reported": true,
+   "source_url": "https://www.thehindu.com/news/national/tamil-nadu/mindgrove-technologies-secures-8-million-in-series-a-funding-round/article69016137.ece",
+   "confidence": "HIGH"
+  },
+  {
+   "metric": "MoU signed with Prama India",
+   "value": 1,
+   "unit": "partnership",
+   "period": "FY26",
+   "as_of": "2026-06-29",
+   "company_reported": true,
+   "source_url": "https://www.thehindu.com/news/national/tamil-nadu/mou-signed-for-indigenous-chips-in-cctv-cameras/article71158290.ece",
+   "confidence": "HIGH"
+  }
+ ],
+ "products": [
+  {
+   "name": "Secure IoT",
+   "category": "SoC",
+   "description": "India's first commercial-grade high-performance microcontroller SoC taped out at 28nm. 28nm, 700 MHz low power SoC for IoT and embedded devices with security baked into the silicon.",
+   "launch_date": "2024-05-01",
+   "status": "Launched (market by mid-2025)",
+   "source_url": "https://www.mindgrovetech.in/",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Vision SoC",
+   "category": "SoC",
+   "description": "High-performance edge computing and vision processing SoC for CCTV cameras, dashcams, video recorders, ADAS, smart TVs. Funded under MeitY DLI scheme (₹15 Cr).",
+   "launch_date": "UNKNOWN",
+   "status": "In development",
+   "source_url": "https://www.thehindu.com/news/national/tamil-nadu/mindgrove-technologies-secures-8-million-in-series-a-funding-round/article69016137.ece",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Edge Compute",
+   "category": "Processor",
+   "description": "Advanced edge inference processors designed for AI-driven workloads.",
+   "launch_date": "UNKNOWN",
+   "status": "Coming Soon",
+   "source_url": "https://www.mindgrovetech.in/",
+   "confidence": "MEDIUM"
+  },
+  {
+   "name": "V2600",
+   "category": "SoC",
+   "description": "Product listed on company website under Products section.",
+   "launch_date": "UNKNOWN",
+   "status": "UNKNOWN",
+   "source_url": "https://www.mindgrovetech.in/",
+   "confidence": "LOW"
+  },
+  {
+   "name": "V2601",
+   "category": "SoC",
+   "description": "Product listed on company website under Products section.",
+   "launch_date": "UNKNOWN",
+   "status": "UNKNOWN",
+   "source_url": "https://www.mindgrovetech.in/",
+   "confidence": "LOW"
+  }
+ ],
+ "locations": [
+  {
+   "type": "hq",
+   "address_or_area": "IIT Madras Research Park",
+   "city": "Chennai",
+   "state": "Tamil Nadu",
+   "country": "India",
+   "as_of": "2024-12-22",
+   "source_url": "https://www.thehindu.com/news/national/tamil-nadu/mindgrove-technologies-secures-8-million-in-series-a-funding-round/article69016137.ece",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "registered_office",
+   "address_or_area": "UNKNOWN",
+   "city": "UNKNOWN",
+   "state": "UNKNOWN",
+   "country": "India",
+   "as_of": "2026-09-15",
+   "source_url": "",
+   "confidence": "LOW"
+  }
+ ],
+ "customers": [
+  {
+   "name": "Prama India Private Limited",
+   "type": "enterprise",
+   "announced_date": "2026-06-29",
+   "status": "MoU signed",
+   "source_url": "https://www.thehindu.com/news/national/tamil-nadu/mou-signed-for-indigenous-chips-in-cctv-cameras/article71158290.ece",
+   "confidence": "HIGH"
+  }
+ ]
+}

@@ -1,0 +1,94 @@
+{
+ "canonical_key": "atlan",
+ "startup_id": null,
+ "company": {
+  "company_name": "Atlan",
+  "city": "New Delhi",
+  "state": "Delhi",
+  "primary_sector": "SaaS / data collaboration & governance",
+  "founded_date": "UNKNOWN",
+  "business_model": "data control plane / governance SaaS",
+  "status": "Active (private)",
+  "startup_stage": "late",
+  "public_private": "private",
+  "official_website": {
+   "v": "https://atlan.com",
+   "conf": "high",
+   "src": "https://atlan.com",
+   "note": "verified live 2026-09-15: name match on own homepage"
+  },
+  "careers_website": {
+   "v": "https://atlan.com/careers/",
+   "conf": "high",
+   "src": "https://atlan.com",
+   "note": "careers link found on official homepage, probed live"
+  },
+  "website": "https://atlan.com"
+ },
+ "funding_rounds": [
+  {
+   "round_type": "Series C",
+   "announced_date": "2024-05-08",
+   "amount": 105,
+   "currency": "USD",
+   "amount_unit": "million",
+   "lead_investors": [],
+   "purpose": "data control plane; LLM-era data importance",
+   "source_url": "https://techcrunch.com/2024/05/08/atlan-scores-105m-for-data-control-plane-just-as-llms-increase-importance-of-data/",
+   "source_title": "Atlan scores $105M for its data control plane",
+   "tier": "T1",
+   "confidence": "medium"
+  }
+ ],
+ "founders": [
+  {
+   "name": "Prukalpa Sankar",
+   "role": "co-founder & CEO",
+   "source_url": "https://m.economictimes.com/tech/startups/prukalpa-sankar-ceo-atlan-wins-et-startup-2025-woman-ahead-award/videoshow/124999095.cms",
+   "confidence": "medium"
+  }
+ ],
+ "financials": [],
+ "events": [
+  {
+   "date": "2025-10-31",
+   "type": "award",
+   "headline": "Prukalpa Sankar wins ET Startup 2025 Woman Ahead Award",
+   "source_url": "https://m.economictimes.com/tech/startups/prukalpa-sankar-ceo-atlan-wins-et-startup-2025-woman-ahead-award/videoshow/124999095.cms",
+   "confidence": "medium"
+  }
+ ],
+ "conflicts": [],
+ "sources": [
+  {
+   "url": "https://m.economictimes.com/tech/artificial-intelligence/atlan-is-building-a-bridge-to-bring-ai-pilots-to-real-world/articleshow/124726957.cms",
+   "title": "ET Startup Awards 2025: Atlan is building a bridge to bring AI pilots to real world",
+   "publisher": "ET",
+   "publication_date": "2025-10-22",
+   "retrieved_date": "2026-09-15",
+   "tier": "T2",
+   "claim_supported": "AI positioning, active 2025",
+   "fields_supported": [
+    "company.status"
+   ]
+  }
+ ],
+ "research_log": [
+  {
+   "query": "Atlan data startup funding valuation 2025 2026",
+   "found": "$105M Series C (May 2024, TechCrunch); ET Awards 2025 coverage",
+   "unresolved": "lead investors, valuation, second co-founder, 2026 rounds",
+   "next_action": "Series C lead/valuation search"
+  }
+ ],
+ "gaps": [
+  "Series C lead + valuation unverified; second co-founder unverified; no 2025-26 rounds found; no financials; CIN unverified."
+ ],
+ "completeness_self": {
+  "identity": 6,
+  "founders": 4,
+  "funding": 5,
+  "financials": 0,
+  "sources": 5
+ }
+}

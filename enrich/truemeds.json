@@ -1,0 +1,1225 @@
+{
+ "acquisitions": [],
+ "canonical_key": "truemeds",
+ "company": {
+  "business_model": "e-pharmacy marketplace + telehealth; proprietary generic-substitution algorithm; pan-India delivery",
+  "city": "Mumbai",
+  "confidence": "HIGH",
+  "country": "India",
+  "customer_type": "B2C (chronic-care patients)",
+  "founded_date": "2019",
+  "legal_name": "Intellihealth Solutions Private Limited (alias per LinkedIn)",
+  "primary_sector": "healthtech pharmacy",
+  "secondary_sectors": [
+   "telehealth",
+   "generics",
+   "chronic care"
+  ],
+  "startup_id": "truemeds",
+  "startup_stage": "Series C",
+  "state": "Maharashtra",
+  "status": "active",
+  "website": "https://truemeds.in",
+  "cin": "U85320MH2019PTC320566",
+  "incorporation_date": "2019",
+  "official_website": {
+   "v": "https://www.truemeds.in",
+   "conf": "high",
+   "src": "https://www.truemeds.in",
+   "note": "verified live 2026-09-15: name match on own homepage"
+  },
+  "careers_website": {
+   "v": "https://www.truemeds.in/categories/health-conditions/bone-and-joint-care-138",
+   "conf": "high",
+   "src": "https://www.truemeds.in",
+   "note": "playwright render 2026-09-15"
+  },
+  "description": {
+   "v": "Technology-driven e-pharmacy and telehealth platform recommending clinically equivalent generic substitutes for branded prescriptions, focused on chronic-care patients (diabetes, hypertension, cardiovascular disease)",
+   "conf": "HIGH",
+   "src": "https://techcrunch.com/2025/08/10/truemeds-challenged-how-indians-buy-medicine-and-saw-a-3-6x-jump-in-valuation/",
+   "note": "",
+   "asof": "2026-09-15"
+  },
+  "employee_estimate": {
+   "v": 318,
+   "conf": "MEDIUM",
+   "src": "https://platform.tracxn.com/a/d/company/5cf4eb82f036855e46f84eb3/truemeds",
+   "note": "Tracxn official employee count (Feb 2026); conflicts with ~3000 (VCCircle/Moneycontrol Aug 2025) and 1381 (Inc42). Likely headcount includes fulfillment staff; 318 may be corporate-only.",
+   "asof": "2026-02-01"
+  },
+  "public_private": {
+   "v": "private",
+   "conf": "HIGH",
+   "src": "https://www.crunchbase.com/organization/truemeds",
+   "note": "Unlisted private company per MCA/Tofler",
+   "asof": "2026-09-15"
+  },
+  "hq_type": {
+   "v": "registered_office",
+   "conf": "HIGH",
+   "src": "https://www.truemeds.in/about-us",
+   "note": "Unit-301 & 304, Lightbridge Tunga Village, Saki Vihar Rd, Chandivali, Powai, Mumbai, Maharashtra, 400072",
+   "asof": "2026-09-15"
+  },
+  "registered_office": {
+   "v": "Unit-301 & 304, Lightbridge Tunga Village, Saki Vihar Rd, Chandivali, Powai, Mumbai, Maharashtra, India, 400072",
+   "conf": "HIGH",
+   "src": "https://www.truemeds.in/about-us",
+   "note": "",
+   "asof": "2026-09-15"
+  },
+  "dpiit_recognized": {
+   "v": true,
+   "conf": "MEDIUM",
+   "src": "https://platform.tracxn.com/a/d/company/5cf4eb82f036855e46f84eb3/truemeds",
+   "note": "Tracxn tags include 'DPIIT Registered'; not independently verified on startupindia.gov.in",
+   "asof": "2026-09-15"
+  }
+ },
+ "competitors": [
+  {
+   "basis": "explicit",
+   "confidence": "MEDIUM",
+   "name": "PharmEasy"
+  },
+  {
+   "basis": "explicit",
+   "confidence": "MEDIUM",
+   "name": "Tata 1mg"
+  }
+ ],
+ "completeness_self": {
+  "customers": 6,
+  "financials": 7,
+  "founders": 8,
+  "funding": 9,
+  "identity": 8,
+  "investors": 9,
+  "legal": 3,
+  "people": 4,
+  "products": 7,
+  "sources": 9,
+  "traction": 7
+ },
+ "conflicts": [
+  {
+   "claim_a": "Pre-Series C total ~$50M, 30-35% still in bank (founder to TechCrunch, Aug 2025)",
+   "claim_b": "Total ~$91M per Inc42 Datalabs (Aug 2025)",
+   "field": "total_funding",
+   "resolution": "Founder figure likely counts primary only; Datalabs cumulative incl. tranches; keep both, use $85M Series C as anchor",
+   "resolved_value": "Series C $85M; cumulative $50-91M range disputed",
+   "url_a": "https://techcrunch.com/2025/08/10/truemeds-challenged-how-indians-buy-medicine-and-saw-a-3-6x-jump-in-valuation/",
+   "url_b": "https://inc42.com/buzz/truemeds-closes-85-mn-series-c-funding-round/"
+  },
+  {
+   "claim_a": "Valuation >$400M (TechCrunch, Aug 2025)",
+   "claim_b": "Post-money ~$340M C1 tranche, $410M C2 tranche (Entrackr RoC estimates)",
+   "field": "valuation",
+   "resolution": "Entrackr RoC-based tranche estimates more granular; TechCrunch >$400M consistent with C2 $410M; adopt ~$410M post C2",
+   "resolved_value": "~$410M post-money (C2, July 2025, Entrackr estimate)",
+   "url_a": "https://techcrunch.com/2025/08/10/truemeds-challenged-how-indians-buy-medicine-and-saw-a-3-6x-jump-in-valuation/",
+   "url_b": "https://medial.app/news/exclusive-peak-xv-joins-truemeds-series-c-round-with-dollar20-mn-81406ad395e47"
+  },
+  {
+   "claim_a": "FY24 revenue Rs 315 Cr, loss Rs 61 Cr (Entrackr RoC)",
+   "claim_b": "Inc42 FY25 page shows revenue Rs 8.3 Cr, loss Rs 120 Cr (likely partial/wrong entity mapping)",
+   "field": "financials",
+   "resolution": "Prefer Entrackr RoC-based FY24; flag Inc42 FY25 page as suspect entity mismatch, do not use as audited fact",
+   "resolved_value": "FY24: rev Rs 315 Cr, loss Rs 61 Cr",
+   "url_a": "https://entrackr.com/fintrackr/info-edge-backed-truemeds-gross-revenue-crosses-rs-300-cr-in-fy24-8719850",
+   "url_b": "https://inc42.com/company/truemeds/financials/"
+  },
+  {
+   "field": "legal_name",
+   "claim_a": "Intellihealth Solutions Private Limited (alias per LinkedIn)",
+   "url_a": "",
+   "claim_b": "Intellihealth Solutions Private Limited",
+   "url_b": "",
+   "resolution": "phase3 p3 payload disagrees with existing value; existing kept as preferred pending human review",
+   "resolved_value": "",
+   "reviewed": "p3-merge"
+  },
+  {
+   "field": "cin",
+   "claim_a": "U85320MH2019PTC320566",
+   "url_a": "",
+   "claim_b": "U62099MH2019PTC320566",
+   "url_b": "",
+   "resolution": "phase3 p3 payload disagrees with existing value; existing kept as preferred pending human review",
+   "resolved_value": "",
+   "reviewed": "p3-merge"
+  },
+  {
+   "field": "incorporation_date",
+   "claim_a": "2019",
+   "url_a": "",
+   "claim_b": "2019-02-01",
+   "url_b": "",
+   "resolution": "phase3 p3 payload disagrees with existing value; existing kept as preferred pending human review",
+   "resolved_value": "",
+   "reviewed": "p3-merge"
+  },
+  {
+   "field": "total_funding",
+   "claim_a": "Pre-Series C total ~$50M (founder to TechCrunch, Aug 2025)",
+   "url_a": "https://techcrunch.com/2025/08/10/truemeds-challenged-how-indians-buy-medicine-and-saw-a-3-6x-jump-in-valuation/",
+   "claim_b": "Total ~$91M per Inc42 Datalabs (Aug 2025); $114M per Tracxn; $135M per ET",
+   "url_b": "https://inc42.com/buzz/truemeds-closes-85-mn-series-c-funding-round/",
+   "resolution": "Founder figure likely counts primary only; Datalabs/Tracxn cumulative incl. tranches; ET says $135M to date. Use $85M Series C as anchor; cumulative range $114-135M",
+   "resolved_value": "Series C $85M; cumulative $114-135M disputed"
+  },
+  {
+   "field": "valuation",
+   "claim_a": "Valuation >$400M (TechCrunch, Aug 2025)",
+   "url_a": "https://techcrunch.com/2025/08/10/truemeds-challenged-how-indians-buy-medicine-and-saw-a-3-6x-jump-in-valuation/",
+   "claim_b": "Post-money ~$340M C1, $410M C2 (Entrackr RoC estimates); $407M (Tracxn)",
+   "url_b": "https://medial.app/news/exclusive-peak-xv-joins-truemeds-series-c-round-with-dollar20-mn-81406ad395e47",
+   "resolution": "Entrackr RoC-based tranche estimates more granular; TechCrunch >$400M consistent with C2 $410M; adopt ~$410M post C2",
+   "resolved_value": "~$410M post-money (C2, Jul 2025)"
+  },
+  {
+   "field": "employee_count",
+   "claim_a": "2,800 (founder, Aug 2025)",
+   "claim_b": "1,365 LinkedIn / 1,381 Inc42 / 318 Tracxn official",
+   "url_a": "https://techcrunch.com/2025/08/10/truemeds-challenged-how-indians-buy-medicine-and-saw-a-3-6x-jump-in-valuation/",
+   "url_b": "https://platform.tracxn.com/a/d/company/5cf4eb82f036855e46f84eb3/truemeds",
+   "resolution": "2,800 likely includes fulfillment center staff; 318 may be corporate-only; 1,381 may be a mid-point. Keep all as conflicting data points",
+   "resolved_value": "Employee count unresolved; range 318-2800 depending on methodology"
+  },
+  {
+   "field": "cin",
+   "claim_a": "U85320MH2019PTC320566 (existing JSON, ZaubaCorp page)",
+   "claim_b": "U62099MH2019PTC320566 (Truemeds own website, Tofler, Tracxn)",
+   "url_a": "https://www.zaubacorp.com/INTELLIHEALTH-SOLUTIONS-PRIVATE-LIMITED-U85320MH2019PTC320566",
+   "url_b": "https://www.truemeds.in/about-us",
+   "resolution": "Company's own website and Tofler confirm U62099MH2019PTC320566; ZaubaCorp page shows U85320 which may be an older/incorrect listing. Adopt U62099MH2019PTC320566",
+   "resolved_value": "U62099MH2019PTC320566"
+  }
+ ],
+ "customers": [],
+ "events": [
+  {
+   "announced_date": "2025-08-11",
+   "confidence": "HIGH",
+   "date": "2025-08-11",
+   "description": "$85M Series C closed in two tranches: $44M led by Accel, $40M led by Peak XV (incl. $20M secondary with early Series A exits).",
+   "headline": "Truemeds closes $85M Series C",
+   "source_url": "https://inc42.com/buzz/truemeds-closes-85-mn-series-c-funding-round/",
+   "type": "funding"
+  },
+  {
+   "type": "funding",
+   "headline": "Accel leads $44M Series C tranche",
+   "date": "2025-03-07",
+   "description": "Series C1 tranche of $44M led by Accel India; valuation ~$340M post-money (Entrackr estimate)",
+   "source_url": "https://entrackr.com/exclusive/exclusive-truemeds-to-raise-44-mn-led-by-accel-india-8823054",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "funding",
+   "headline": "Peak XV joins Series C with $20M",
+   "date": "2025-07-16",
+   "description": "Series C2 tranche of $20M led by Peak XV Partners; 19,737 Series C2 CCPS at Rs 88,331; valuation ~$410M",
+   "source_url": "https://entrackr.com/exclusive/exclusive-peak-xv-joins-truemeds-series-c-round-with-20-mn-9500136",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "partnership",
+   "headline": "Bengaluru technology hub planned",
+   "date": "2025-08-11",
+   "description": "Company plans to establish technology hub in Bengaluru to tap India's software talent; dedicate at least 20% of capital to engineering and product development",
+   "source_url": "https://techcrunch.com/2025/08/10/truemeds-challenged-how-indians-buy-medicine-and-saw-a-3-6x-jump-in-valuation/",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "launch",
+   "headline": "iOS app launched",
+   "date": "2025-08-11",
+   "description": "Truemeds recently launched its iOS app (per Moneycontrol)",
+   "source_url": "https://www.moneycontrol.com/news/business/funding/e-pharmacy-truemeds-raises-85-million-in-funding-led-by-accel-peak-xv-13434374.html",
+   "confidence": "MEDIUM"
+  },
+  {
+   "type": "acquisition",
+   "headline": "Truemeds in advanced talks to acquire DealShare",
+   "date": "2026-08-31",
+   "description": "Share-swap deal valuing DealShare at ~$90M (its cash balance); Truemeds issuing shares at ~$600M valuation; WestBridge Capital investor in both companies; deal not yet confirmed",
+   "source_url": "https://m.economictimes.com/tech/technology/dealshare-once-valued-at-1-7-billion-may-sell-to-truemeds-for-little-over-90-million/articleshow/133636495.cms",
+   "confidence": "MEDIUM"
+  },
+  {
+   "type": "launch",
+   "headline": "Diagnostics pilot planned",
+   "date": "2025-08-11",
+   "description": "Plans to pilot affordable diagnostics in four tier-2 cities through partnerships with national pathology labs within 2-4 quarters",
+   "source_url": "https://techcrunch.com/2025/08/10/truemeds-challenged-how-indians-buy-medicine-and-saw-a-3-6x-jump-in-valuation/",
+   "confidence": "MEDIUM"
+  },
+  {
+   "type": "funding",
+   "headline": "Series B $22M led by WestBridge Capital",
+   "date": "2022-04-26",
+   "description": "Series B round of $22M led by WestBridge Capital with participation from existing investors",
+   "source_url": "https://www.vccircle.com/accelpeak-xv-lead-truemeds-85-mn-series-c-round",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "funding",
+   "headline": "Series A $5M",
+   "date": "2021-06-08",
+   "description": "Series A of $5M led by InfoEdge Ventures, Asha Impact, and Indian Angel Network Fund",
+   "source_url": "https://indianstartupnews.com/news/telemedicine-startup-truemeds-raises-5-million-to-expand-operations",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "funding",
+   "headline": "Seed round Rs 3.7Cr from InfoEdge",
+   "date": "2020-05-16",
+   "description": "IE Venture Fund I invested Rs 3.7Cr ($487K) for 17.80% stake via 24,980 seed CCP shares",
+   "source_url": "https://www.vccircle.com/info-edge-fund-bets-on-e-sports-platform-fanclash-telehealth-firm-truemeds",
+   "confidence": "HIGH"
+  }
+ ],
+ "financials": [
+  {
+   "confidence": "HIGH",
+   "currency": "INR",
+   "fiscal_year": "FY24",
+   "metric": "operating_revenue",
+   "source_date": "2025-02-14",
+   "source_title": "Truemeds gross revenue crosses Rs 300 Cr in FY24",
+   "source_url": "https://entrackr.com/fintrackr/info-edge-backed-truemeds-gross-revenue-crosses-rs-300-cr-in-fy24-8719850",
+   "unit": "Cr",
+   "value": 315,
+   "value_type": "press-quoted-filing"
+  },
+  {
+   "confidence": "HIGH",
+   "currency": "INR",
+   "fiscal_year": "FY24",
+   "metric": "net_loss",
+   "source_url": "https://entrackr.com/fintrackr/info-edge-backed-truemeds-gross-revenue-crosses-rs-300-cr-in-fy24-8719850",
+   "unit": "Cr",
+   "value": 61,
+   "value_type": "press-quoted-filing"
+  },
+  {
+   "confidence": "LOW",
+   "currency": "INR",
+   "fiscal_year": "FY25",
+   "metric": "revenue_management_claim",
+   "source_url": "https://techcrunch.com/2025/08/10/truemeds-challenged-how-indians-buy-medicine-and-saw-a-3-6x-jump-in-valuation/",
+   "unit": "Cr",
+   "value": 500,
+   "value_type": "management"
+  },
+  {
+   "fiscal_year": "FY24",
+   "metric": "gross_revenue",
+   "value": 315,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "press-quoted-filing",
+   "basis": "standalone",
+   "consolidated": "no",
+   "filing_date": "2025-02-14",
+   "source_url": "https://entrackr.com/fintrackr/info-edge-backed-truemeds-gross-revenue-crosses-rs-300-cr-in-fy24-8719850",
+   "source_title": "Info Edge-backed Truemeds' gross revenue crosses Rs 300 Cr in FY24",
+   "confidence": "HIGH",
+   "notes": "RoC filing; gross revenue surged 2X from Rs 154 Cr in FY23; medicine/device sales = 98.4% of operating income"
+  },
+  {
+   "fiscal_year": "FY24",
+   "metric": "net_loss",
+   "value": 61,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "press-quoted-filing",
+   "basis": "standalone",
+   "consolidated": "no",
+   "filing_date": "2025-02-14",
+   "source_url": "https://entrackr.com/fintrackr/info-edge-backed-truemeds-gross-revenue-crosses-rs-300-cr-in-fy24-8719850",
+   "source_title": "Info Edge-backed Truemeds' gross revenue crosses Rs 300 Cr in FY24",
+   "confidence": "HIGH",
+   "notes": "Loss reduced 9% from Rs 67 Cr in FY23"
+  },
+  {
+   "fiscal_year": "FY24",
+   "metric": "operating_revenue",
+   "value": 310,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "press-quoted-filing",
+   "basis": "standalone",
+   "consolidated": "no",
+   "filing_date": "2025-02-14",
+   "source_url": "https://entrackr.com/fintrackr/info-edge-backed-truemeds-gross-revenue-crosses-rs-300-cr-in-fy24-8719850",
+   "source_title": "Info Edge-backed Truemeds' gross revenue crosses Rs 300 Cr in FY24",
+   "confidence": "HIGH",
+   "notes": "Revenue from medicine and medical device sales"
+  },
+  {
+   "fiscal_year": "FY25",
+   "metric": "net_revenue",
+   "value": 510,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "press-quoted-filing",
+   "basis": "standalone",
+   "consolidated": "no",
+   "filing_date": "2025-08-11",
+   "source_url": "https://m.economictimes.com/tech/funding/truemeds-closes-85-million-funding-led-by-accel-and-peak-xv-partners/articleshow/123221428.cms",
+   "source_title": "Truemeds closes $85 million funding led by Accel and Peak XV Partners",
+   "confidence": "MEDIUM",
+   "notes": "ET article states 'Truemeds closed FY25 with about Rs 510 crore in net revenue'; conflicts with Inc42 FY25 page showing Rs 8.3 Cr (likely entity mismatch with ANKW subsidiary)"
+  },
+  {
+   "fiscal_year": "FY25",
+   "metric": "revenue_management_claim",
+   "value": 500,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "management",
+   "basis": "standalone",
+   "consolidated": "no",
+   "filing_date": "",
+   "source_url": "https://techcrunch.com/2025/08/10/truemeds-challenged-how-indians-buy-medicine-and-saw-a-3-6x-jump-in-valuation/",
+   "source_title": "Why investors just bet $85M on this Indian company's generic drug strategy",
+   "confidence": "LOW",
+   "notes": "TechCrunch quotes founder claim of Rs 500 Cr revenue; management claim only"
+  },
+  {
+   "fiscal_year": "FY25",
+   "metric": "net_loss",
+   "value": 120,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "press-quoted-filing",
+   "basis": "standalone",
+   "consolidated": "no",
+   "filing_date": "2026-05-28",
+   "source_url": "https://inc42.com/company/truemeds/financials/",
+   "source_title": "Truemeds Financials 2026",
+   "confidence": "LOW",
+   "notes": "Inc42 shows FY25 net loss Rs 120 Cr on revenue Rs 8.3 Cr — likely entity mismatch (ANKW subsidiary); do not use as audited fact without verification"
+  },
+  {
+   "fiscal_year": "FY23",
+   "metric": "gross_revenue",
+   "value": 154,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "press-quoted-filing",
+   "basis": "standalone",
+   "consolidated": "no",
+   "filing_date": "2025-02-14",
+   "source_url": "https://entrackr.com/fintrackr/info-edge-backed-truemeds-gross-revenue-crosses-rs-300-cr-in-fy24-8719850",
+   "source_title": "Info Edge-backed Truemeds' gross revenue crosses Rs 300 Cr in FY24",
+   "confidence": "HIGH",
+   "notes": "FY23 baseline; revenue doubled to Rs 315 Cr in FY24"
+  },
+  {
+   "fiscal_year": "FY23",
+   "metric": "net_loss",
+   "value": 67,
+   "unit": "crore",
+   "currency": "INR",
+   "value_type": "press-quoted-filing",
+   "basis": "standalone",
+   "consolidated": "no",
+   "filing_date": "2025-02-14",
+   "source_url": "https://entrackr.com/fintrackr/info-edge-backed-truemeds-gross-revenue-crosses-rs-300-cr-in-fy24-8719850",
+   "source_title": "Info Edge-backed Truemeds' gross revenue crosses Rs 300 Cr in FY24",
+   "confidence": "HIGH",
+   "notes": "FY23 loss; reduced 9% to Rs 61 Cr in FY24"
+  }
+ ],
+ "founders": [
+  {
+   "background": "CEO; telehealth/generics thesis",
+   "confidence": "HIGH",
+   "name": "Akshat Nayyar",
+   "role": "Co-founder & CEO",
+   "source_url": "https://techcrunch.com/2025/08/10/truemeds-challenged-how-indians-buy-medicine-and-saw-a-3-6x-jump-in-valuation/",
+   "still_active": true,
+   "type": "co-founder"
+  },
+  {
+   "background": "Medical doctor",
+   "confidence": "HIGH",
+   "name": "Dr Kunal Wani",
+   "role": "Co-founder",
+   "source_url": "https://www.vccircle.com/accelpeak-xv-lead-truemeds-85-mn-series-c-round",
+   "still_active": true,
+   "type": "co-founder"
+  }
+ ],
+ "funding_rounds": [
+  {
+   "amount": 22.0,
+   "announced_date": "2022-04",
+   "confidence": "MEDIUM",
+   "currency": "USD",
+   "lead_investors": [
+    "WestBridge Capital"
+   ],
+   "round_date": "2022-04",
+   "round_type": "Series B",
+   "source_title": "Accel, Peak XV lead Truemeds' $85 mn Series C round",
+   "source_url": "https://www.vccircle.com/accelpeak-xv-lead-truemeds-85-mn-series-c-round",
+   "tier": "T3"
+  },
+  {
+   "amount": 44.0,
+   "announced_date": "2025-03",
+   "confidence": "HIGH",
+   "currency": "USD",
+   "lead_investors": [
+    "Accel"
+   ],
+   "notes": "C1 tranche; Accel India Rs 285.4 Cr per RoC; valuation ~$340M post-money (Entrackr est).",
+   "round_date": "2025-03",
+   "round_type": "Series C (tranche 1)",
+   "source_date": "2025-03-06",
+   "source_title": "Exclusive: Truemeds to raise $44 Mn led by Accel India",
+   "source_url": "https://entrackr.com/exclusive/exclusive-truemeds-to-raise-44-mn-led-by-accel-india-8823054",
+   "tier": "T3"
+  },
+  {
+   "amount": 20.0,
+   "announced_date": "2025-07-16",
+   "confidence": "HIGH",
+   "currency": "USD",
+   "lead_investors": [
+    "Peak XV Partners"
+   ],
+   "notes": "C2 tranche; 19,737 Series C2 CCPS at Rs 88,331; valuation ~$410M (Entrackr est).",
+   "round_date": "2025-07",
+   "round_type": "Series C (tranche 2)",
+   "source_date": "2025-07-16",
+   "source_title": "Exclusive: Peak XV joins Truemeds' Series C round with $20 Mn",
+   "source_url": "https://entrackr.com/exclusive/exclusive-peak-xv-joins-truemeds-series-c-round-with-20-mn-9500136",
+   "tier": "T3"
+  },
+  {
+   "all_investors": [
+    "Accel",
+    "Peak XV Partners",
+    "WestBridge Capital",
+    "Info Edge Ventures"
+   ],
+   "amount": 85.0,
+   "announced_date": "2025-08-11",
+   "confidence": "HIGH",
+   "currency": "USD",
+   "lead_investors": [
+    "Accel",
+    "Peak XV Partners"
+   ],
+   "notes": "$65M primary + $20M secondary; valuation >$400M (TechCrunch). Two closes: $44M Accel-led, $40M Peak XV-led.",
+   "round_date": "2025-08-11",
+   "round_type": "Series C (total)",
+   "source_date": "2025-08-11",
+   "source_title": "Truemeds Closes $85 Mn Series C Funding Round",
+   "source_url": "https://inc42.com/buzz/truemeds-closes-85-mn-series-c-funding-round/",
+   "tier": "T3"
+  },
+  {
+   "round_type": "Series C",
+   "amount": "",
+   "currency": "USD",
+   "round_date": "",
+   "valuation": "330000000",
+   "valuation_currency": "USD",
+   "valuation_type": "reported_pre-round",
+   "lead_investors": [],
+   "all_investors": [],
+   "new_or_existing": "",
+   "purpose": "",
+   "source_url": "https://techcrunch.com/2024/10/16/accel-eyes-stake-in-truemeds-at-330-million-valuation/",
+   "confidence": "medium",
+   "notes": "added session-2 gapfill"
+  },
+  {
+   "round_type": "Seed",
+   "announced_date": "2020-05-16",
+   "round_date": "2020-05-16",
+   "amount": 497776,
+   "currency": "USD",
+   "valuation": "",
+   "valuation_currency": "",
+   "valuation_type": "",
+   "lead_investors": [
+    "Info Edge Ventures (IE Venture Fund I)"
+   ],
+   "all_investors": [
+    "Info Edge Ventures"
+   ],
+   "instrument": "Series Seed CCPS",
+   "purpose": "Business operations expansion",
+   "source_url": "https://www.vccircle.com/info-edge-fund-bets-on-e-sports-platform-fanclash-telehealth-firm-truemeds",
+   "source_title": "Info Edge fund bets on e-sports platform Fanclash, telehealth firm Truemeds",
+   "source_date": "2020-05-22",
+   "confidence": "HIGH",
+   "notes": "Rs 3.7 Cr per InfoEdge NSE filing; 24,980 seed CCP shares; 17.80% stake"
+  },
+  {
+   "round_type": "Series A",
+   "announced_date": "2021-06-08",
+   "round_date": "2021-06-08",
+   "amount": 5000000,
+   "currency": "USD",
+   "valuation": "",
+   "valuation_currency": "",
+   "valuation_type": "",
+   "lead_investors": [
+    "InfoEdge Ventures"
+   ],
+   "all_investors": [
+    "InfoEdge Ventures",
+    "Asha Impact",
+    "Indian Angel Network Fund"
+   ],
+   "instrument": "",
+   "purpose": "Expand to three new cities; product/technology; supply chain",
+   "source_url": "https://indianstartupnews.com/news/telemedicine-startup-truemeds-raises-5-million-to-expand-operations",
+   "source_title": "Telemedicine startup Truemeds raises $5 million to expand operations",
+   "source_date": "2021-06-07",
+   "confidence": "HIGH",
+   "notes": "Rs 36 crore per IndianStartupNews"
+  },
+  {
+   "round_type": "Series B",
+   "announced_date": "2022-04-26",
+   "round_date": "2022-04-26",
+   "amount": 22000000,
+   "currency": "USD",
+   "valuation": 110000000,
+   "valuation_currency": "USD",
+   "valuation_type": "reported_pre-round",
+   "lead_investors": [
+    "WestBridge Capital"
+   ],
+   "all_investors": [
+    "WestBridge Capital",
+    "Info Edge Ventures",
+    "Asha Impact",
+    "IAN Fund"
+   ],
+   "instrument": "",
+   "purpose": "",
+   "source_url": "https://www.vccircle.com/accelpeak-xv-lead-truemeds-85-mn-series-c-round",
+   "source_title": "Accel, Peak XV lead Truemeds' $85 mn Series C round",
+   "source_date": "2025-08-11",
+   "confidence": "HIGH",
+   "notes": "Per VCCircle; Dealroom lists valuation $110M at Series B"
+  },
+  {
+   "round_type": "Series C (tranche 1)",
+   "announced_date": "2025-03-06",
+   "round_date": "2025-03-07",
+   "amount": 44000000,
+   "currency": "USD",
+   "valuation": 340000000,
+   "valuation_currency": "USD",
+   "valuation_type": "reported_post-money",
+   "lead_investors": [
+    "Accel"
+   ],
+   "all_investors": [
+    "Accel",
+    "WestBridge Capital",
+    "Info Edge Ventures",
+    "Konark Trust",
+    "MMPL Trust"
+   ],
+   "instrument": "CCPS",
+   "purpose": "Fulfillment center expansion; engineering; product development",
+   "source_url": "https://entrackr.com/exclusive/exclusive-truemeds-to-raise-44-mn-led-by-accel-india-8823054",
+   "source_title": "Exclusive: Truemeds to raise $44 Mn led by Accel India",
+   "source_date": "2025-03-06",
+   "confidence": "HIGH",
+   "notes": "C1 tranche; Entrackr RoC-based estimate ~$340M post-money"
+  },
+  {
+   "round_type": "Series C (tranche 2)",
+   "announced_date": "2025-07-16",
+   "round_date": "2025-07-16",
+   "amount": 20000000,
+   "currency": "USD",
+   "valuation": 410000000,
+   "valuation_currency": "USD",
+   "valuation_type": "reported_post-money",
+   "lead_investors": [
+    "Peak XV Partners"
+   ],
+   "all_investors": [
+    "Peak XV Partners"
+   ],
+   "instrument": "CCPS (19,737 Series C2 CCPS at Rs 88,331)",
+   "purpose": "",
+   "source_url": "https://entrackr.com/exclusive/exclusive-peak-xv-joins-truemeds-series-c-round-with-20-mn-9500136",
+   "source_title": "Exclusive: Peak XV joins Truemeds' Series C round with $20 Mn",
+   "source_date": "2025-07-16",
+   "confidence": "HIGH",
+   "notes": "C2 tranche; Entrackr RoC-based estimate ~$410M post-money"
+  },
+  {
+   "round_type": "Series C (total)",
+   "announced_date": "2025-08-11",
+   "round_date": "2025-08-11",
+   "amount": 85000000,
+   "currency": "USD",
+   "valuation": 410000000,
+   "valuation_currency": "USD",
+   "valuation_type": "reported_post-money",
+   "lead_investors": [
+    "Accel",
+    "Peak XV Partners"
+   ],
+   "all_investors": [
+    "Accel",
+    "Peak XV Partners",
+    "WestBridge Capital",
+    "Info Edge Ventures"
+   ],
+   "instrument": "$65M primary + $20M secondary",
+   "purpose": "Triple national footprint; fulfillment centers; Bengaluru tech hub; team expansion",
+   "source_url": "https://inc42.com/buzz/truemeds-closes-85-mn-series-c-funding-round/",
+   "source_title": "Truemeds Closes $85 Mn Series C Funding Round",
+   "source_date": "2025-08-11",
+   "confidence": "HIGH",
+   "notes": "Two closes: $44M Accel-led (C1), $40M Peak XV-led (C2); $20M secondary with early Series A exits"
+  }
+ ],
+ "gaps": [
+  "Audited FY25 revenue not verified (Inc42 FY25 page looks mismatched; TechCrunch quotes Rs 500 Cr management claim only)",
+  "CIN not verified",
+  "DPIIT status unknown",
+  "Headcount: 2,800 (founder, Aug 2025) vs 1,365 LinkedIn — unresolved timing/method gap",
+  "Seed/Series A details not traced",
+  "exact incorporation day-month (2019 confirmed)",
+  "FY25 filing financials"
+ ],
+ "hiring": [
+  {
+   "confidence": "MEDIUM",
+   "fact_type": "headcount",
+   "source_url": "https://techcrunch.com/2025/08/10/truemeds-challenged-how-indians-buy-medicine-and-saw-a-3-6x-jump-in-valuation/",
+   "value": 2800
+  }
+ ],
+ "investor_links": [
+  {
+   "confidence": "HIGH",
+   "first_seen": "2025-03",
+   "investor": "Accel",
+   "investor_type": "VC",
+   "lead": true,
+   "rounds": [
+    "Series C"
+   ],
+   "source_url": "https://inc42.com/buzz/truemeds-closes-85-mn-series-c-funding-round/"
+  },
+  {
+   "confidence": "HIGH",
+   "first_seen": "2025-07",
+   "investor": "Peak XV Partners",
+   "investor_type": "VC",
+   "lead": true,
+   "rounds": [
+    "Series C"
+   ],
+   "source_url": "https://inc42.com/buzz/truemeds-closes-85-mn-series-c-funding-round/"
+  },
+  {
+   "confidence": "HIGH",
+   "first_seen": "2022-04",
+   "investor": "WestBridge Capital",
+   "investor_type": "PE",
+   "lead": true,
+   "notes": "Largest shareholder ~28.6% post C1",
+   "rounds": [
+    "Series B",
+    "Series C"
+   ],
+   "source_url": "https://www.bwhealthcareworld.com/article/truemeds-raises-rs-375-cr-in-series-c-funding-eyes-market-expansion-550088"
+  },
+  {
+   "confidence": "HIGH",
+   "first_seen": "2022 or earlier",
+   "investor": "Info Edge Ventures",
+   "investor_type": "VC",
+   "lead": false,
+   "rounds": [
+    "Series C"
+   ],
+   "source_url": "https://inc42.com/buzz/truemeds-closes-85-mn-series-c-funding-round/"
+  }
+ ],
+ "investors_meta": [],
+ "ip_tech_ai": {
+  "ai_notes": "Proprietary recommendation algorithm for generic substitution (company-claimed)",
+  "confidence": "MEDIUM",
+  "source_url": "https://www.vccircle.com/accelpeak-xv-lead-truemeds-85-mn-series-c-round"
+ },
+ "legal": [
+  {
+   "type": "licence",
+   "entity": "ANKW Pharma Retail Private Limited",
+   "date": "2024-11-05",
+   "status": "confirmed",
+   "description": "ANKW Pharma Retail Private Limited (CIN U47720MH2024PTC434474) is the licensed operator of truemeds.in platform; has procured licenses under Drugs and Cosmetics Act 1940 and Food Safety and Standards Act 2006",
+   "source_url": "https://www.truemeds.in/legal/ankw/terms-and-conditions",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "regulatory",
+   "entity": "Intellihealth Solutions Private Limited",
+   "date": "",
+   "status": "operating under existing framework",
+   "description": "Operates under Drugs and Cosmetics Act 1940 and rules; facilitates online sale of products excluding Schedule X drugs; requires valid prescription; registered pharmacists supervise dispensing; no specific e-pharmacy law exists in India yet",
+   "source_url": "https://www.truemeds.in/legal/ispl/terms-and-conditions",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "regulatory",
+   "entity": "Truemeds",
+   "date": "",
+   "status": "no litigation found",
+   "description": "No specific litigation, RBI notice, or regulatory action found in search results; company states it has procured applicable licenses",
+   "source_url": "https://www.truemeds.in/legal/ankw/terms-and-conditions",
+   "confidence": "MEDIUM"
+  }
+ ],
+ "locations": [
+  {
+   "city": "Mumbai",
+   "confidence": "HIGH",
+   "source_url": "https://techcrunch.com/2025/08/10/truemeds-challenged-how-indians-buy-medicine-and-saw-a-3-6x-jump-in-valuation/",
+   "state": "Maharashtra",
+   "type": "HQ"
+  },
+  {
+   "type": "hq",
+   "address_or_area": "Unit-301 & 304, Lightbridge Tunga Village, Saki Vihar Rd, Chandivali, Powai",
+   "city": "Mumbai",
+   "state": "Maharashtra",
+   "country": "India",
+   "as_of": "2026-09-15",
+   "source_url": "https://www.truemeds.in/about-us",
+   "confidence": "HIGH"
+  },
+  {
+   "type": "office",
+   "address_or_area": "B-11, Floor-3, Alice Court, New Mogal Lane, Mahim",
+   "city": "Mumbai",
+   "state": "Maharashtra",
+   "country": "India",
+   "as_of": "2024-11-05",
+   "source_url": "https://www.truemeds.in/legal/ankw/terms-and-conditions",
+   "confidence": "HIGH",
+   "notes": "ANKW Pharma Retail registered address (Mahim, Mumbai)"
+  },
+  {
+   "type": "office",
+   "address_or_area": "Vikhroli (W)-Mumbai",
+   "city": "Mumbai",
+   "state": "Maharashtra",
+   "country": "India",
+   "as_of": "",
+   "source_url": "https://www.truemeds.in/legal/ispl/terms-and-conditions",
+   "confidence": "MEDIUM",
+   "notes": "ISPL licensed premises mentioned in T&C"
+  },
+  {
+   "type": "office",
+   "address_or_area": "Kolkata, West Bengal",
+   "city": "Kolkata",
+   "state": "West Bengal",
+   "country": "India",
+   "as_of": "",
+   "source_url": "https://www.truemeds.in/legal/ispl/terms-and-conditions",
+   "confidence": "MEDIUM",
+   "notes": "ISPL licensed premises mentioned in T&C"
+  }
+ ],
+ "partnerships": [],
+ "people": [
+  {
+   "name": "Akshat Nayyar",
+   "role": "Co-founder & CEO",
+   "title": "Chief Executive Officer",
+   "current": true,
+   "since": "2019",
+   "prior_role": "Head, Project Management Office at Morgan Corp (2012-2015); Abbott (2015-2019)",
+   "source_url": "https://techcrunch.com/2025/08/10/truemeds-challenged-how-indians-buy-medicine-and-saw-a-3-6x-jump-in-valuation/",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Dr. Kunal Wani",
+   "role": "Co-founder",
+   "title": "Co-founder & Medical Reviewer",
+   "current": true,
+   "since": "2019",
+   "prior_role": "Senior Manager - Digital Innovation at Abbott (2017-2019); Chief Manager - Digital Initiatives at Abbott (2015-2017); Medical Science Liaison at Boehringer Ingelheim; roles at UCB and Panacea Biotec",
+   "source_url": "https://www.truemeds.in/authors-profile/dr-kunal-wani-53",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Kishor Kumar",
+   "role": "Grievance Officer",
+   "title": "Grievance Officer",
+   "current": true,
+   "since": "",
+   "prior_role": "",
+   "source_url": "https://www.truemeds.in/about-us",
+   "confidence": "MEDIUM"
+  }
+ ],
+ "products": [
+  {
+   "category": "e-pharmacy",
+   "description": "Generic alternatives for branded prescriptions; chronic-care focus (diabetes, hypertension, cardio); devices (BP monitors, nebulisers)",
+   "name": "Truemeds online pharmacy",
+   "source_url": "https://inc42.com/buzz/truemeds-closes-85-mn-series-c-funding-round/"
+  },
+  {
+   "name": "Truemeds online pharmacy",
+   "category": "e-pharmacy",
+   "description": "Generic alternatives for branded prescriptions; chronic-care focus (diabetes, hypertension, cardiovascular disease); devices (BP monitors, nebulisers); 1.8L+ products",
+   "pricing_model": "marketplace (commission-based); proprietary algorithm recommends cost-effective substitutes saving up to 51%",
+   "launch_date": "2019",
+   "status": "active",
+   "source_url": "https://www.truemeds.in/about-us",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Truemeds telehealth",
+   "category": "telehealth",
+   "description": "Online doctor consultations; teleconsultation with 600+ doctors; prescription-based medicine recommendations",
+   "pricing_model": "free consultation (bundled with medicine purchase)",
+   "launch_date": "2019",
+   "status": "active",
+   "source_url": "https://www.truemeds.in/about-us",
+   "confidence": "HIGH"
+  },
+  {
+   "name": "Truemeds iOS app",
+   "category": "mobile app",
+   "description": "iOS application launched recently (per Moneycontrol Aug 2025)",
+   "pricing_model": "free",
+   "launch_date": "2025",
+   "status": "active",
+   "source_url": "https://www.moneycontrol.com/news/business/funding/e-pharmacy-truemeds-raises-85-million-in-funding-led-by-accel-peak-xv-13434374.html",
+   "confidence": "MEDIUM",
+   "notes": "Moneycontrol: 'Truemeds also recently launched its iOS app'"
+  },
+  {
+   "name": "Planned diagnostics",
+   "category": "diagnostics",
+   "description": "Pilot lab testing services in tier-2 cities through partnerships with national pathology labs",
+   "pricing_model": "",
+   "launch_date": "",
+   "status": "planned",
+   "source_url": "https://techcrunch.com/2025/08/10/truemeds-challenged-how-indians-buy-medicine-and-saw-a-3-6x-jump-in-valuation/",
+   "confidence": "MEDIUM",
+   "notes": "TechCrunch: 'plotting to enter diagnostics through partnerships with national pathology labs, planning to pilot lab testing services in some tier-2 cities in the next three to four months'"
+  }
+ ],
+ "research_log": [
+  {
+   "found": "$85M Series C two tranches; founders; valuation >$400M; headcount 2800",
+   "next_action": "done",
+   "query": "Truemeds funding Series C valuation founders",
+   "unresolved": "none major"
+  },
+  {
+   "found": "FY24 rev 315 Cr loss 61 Cr; C1/C2 RoC details; $410M C2 valuation",
+   "next_action": "done",
+   "query": "Truemeds revenue FY25 FY24",
+   "unresolved": "FY25 audited"
+  },
+  {
+   "date": "2026-09-14",
+   "found": "CIN U85320MH2019PTC320566 (ZaubaCorp) vs U62099MH2019PTC320566 (Tracxn/Insta); same reg 320566, MH matches Mumbai; industry-code differs",
+   "query": "Intellihealth Solutions Truemeds CIN Tofler ZaubaCorp",
+   "unresolved": "industry-code discrepancy (U85320 vs U62099)"
+  },
+  {
+   "date": "2026-09-14",
+   "found": "TechCrunch Oct 2024: Accel round at $330M valuation; Series C closed $85M Aug 2025 (Inc42, Moneycontrol)",
+   "query": "Truemeds Series C valuation 2025",
+   "unresolved": "none"
+  }
+ ],
+ "sources": [
+  {
+   "claim_supported": "$85M Series C, valuation >$400M, founders, headcount",
+   "fields_supported": [
+    "funding_rounds",
+    "investor_links",
+    "traction"
+   ],
+   "publication_date": "2025-08-10",
+   "publisher": "TechCrunch",
+   "retrieved_date": "2026-09-14",
+   "tier": "T3",
+   "title": "Why investors just bet $85M on this Indian company's generic drug strategy",
+   "url": "https://techcrunch.com/2025/08/10/truemeds-challenged-how-indians-buy-medicine-and-saw-a-3-6x-jump-in-valuation/"
+  },
+  {
+   "claim_supported": "$85M Series C two tranches",
+   "fields_supported": [
+    "funding_rounds"
+   ],
+   "publication_date": "2025-08-11",
+   "publisher": "Inc42",
+   "retrieved_date": "2026-09-14",
+   "tier": "T3",
+   "title": "Truemeds Closes $85 Mn Series C Funding Round",
+   "url": "https://inc42.com/buzz/truemeds-closes-85-mn-series-c-funding-round/"
+  },
+  {
+   "claim_supported": "FY24 revenue 315 Cr, loss 61 Cr",
+   "fields_supported": [
+    "financials"
+   ],
+   "publication_date": "2025-02-14",
+   "publisher": "Entrackr",
+   "retrieved_date": "2026-09-14",
+   "tier": "T3",
+   "title": "Truemeds gross revenue crosses Rs 300 Cr in FY24",
+   "url": "https://entrackr.com/fintrackr/info-edge-backed-truemeds-gross-revenue-crosses-rs-300-cr-in-fy24-8719850"
+  },
+  {
+   "claim_supported": "$20M Peak XV C2 tranche terms",
+   "fields_supported": [
+    "funding_rounds"
+   ],
+   "publication_date": "2025-07-16",
+   "publisher": "Entrackr",
+   "retrieved_date": "2026-09-14",
+   "tier": "T3",
+   "title": "Exclusive: Peak XV joins Truemeds' Series C round with $20 Mn",
+   "url": "https://entrackr.com/exclusive/exclusive-peak-xv-joins-truemeds-series-c-round-with-20-mn-9500136"
+  },
+  {
+   "url": "https://techcrunch.com/2024/10/16/accel-eyes-stake-in-truemeds-at-330-million-valuation/",
+   "title": "",
+   "fields": "FUNDING",
+   "confidence": "medium"
+  },
+  {
+   "url": "https://www.zaubacorp.com/INTELLIHEALTH-SOLUTIONS-PRIVATE-LIMITED-U85320MH2019PTC320566",
+   "title": "INTELLIHEALTH SOLUTIONS PRIVATE LIMITED | ZaubaCorp",
+   "fields": [
+    "cin"
+   ],
+   "confidence": "high"
+  },
+  {
+   "url": "https://www.truemeds.in/authors-profile/dr-kunal-wani-53",
+   "title": "",
+   "fields": "PEOPLE",
+   "confidence": "HIGH"
+  },
+  {
+   "url": "https://www.truemeds.in/about-us",
+   "title": "",
+   "fields": "PEOPLE",
+   "confidence": "MEDIUM"
+  },
+  {
+   "url": "https://m.economictimes.com/tech/funding/truemeds-closes-85-million-funding-led-by-accel-and-peak-xv-partners/articleshow/123221428.cms",
+   "title": "Truemeds closes $85 million funding led by Accel and Peak XV Partners",
+   "fields": "company",
+   "confidence": "HIGH"
+  },
+  {
+   "url": "https://www.vccircle.com/accelpeak-xv-lead-truemeds-85-mn-series-c-round",
+   "title": "Accel, Peak XV lead Truemeds' $85 mn Series C round",
+   "fields": "company",
+   "confidence": "HIGH"
+  },
+  {
+   "url": "https://www.tofler.in/intellihealth-solutions-private-limited/company/U62099MH2019PTC320566",
+   "title": "Intellihealth Solutions Financials | Company Details",
+   "fields": "company",
+   "confidence": "HIGH"
+  },
+  {
+   "url": "https://www.truemeds.in/legal/ankw/terms-and-conditions",
+   "title": "Terms and Conditions | Truemeds (ANKW)",
+   "fields": "company",
+   "confidence": "HIGH"
+  },
+  {
+   "url": "https://www.moneycontrol.com/news/business/funding/e-pharmacy-truemeds-raises-85-million-in-funding-led-by-accel-peak-xv-13434374.html",
+   "title": "E-pharmacy Truemeds raises $85 million in funding led by Accel, Peak XV",
+   "fields": "company",
+   "confidence": "HIGH"
+  },
+  {
+   "url": "https://m.economictimes.com/tech/technology/dealshare-once-valued-at-1-7-billion-may-sell-to-truemeds-for-little-over-90-million/articleshow/133636495.cms",
+   "title": "DealShare, once valued at $1.7 billion, may sell to Truemeds for little over $90 million",
+   "fields": "company",
+   "confidence": "MEDIUM"
+  },
+  {
+   "url": "https://platform.tracxn.com/a/d/company/5cf4eb82f036855e46f84eb3/truemeds",
+   "title": "Truemeds - 2026 Company Profile, Team, Funding, Competitors & Financials",
+   "fields": "company",
+   "confidence": "MEDIUM"
+  },
+  {
+   "url": "https://www.infoedge.in/announcements/IEILReg30Truemeds21052020.pdf",
+   "title": "IE Venture Fund investment in Truemeds (NSE filing)",
+   "fields": "company",
+   "confidence": "HIGH"
+  }
+ ],
+ "startup_id": "truemeds",
+ "traction": [
+  {
+   "as_of": "2025-08",
+   "company_reported": true,
+   "confidence": "MEDIUM",
+   "metric": "monthly customers / total customers",
+   "source_url": "https://techcrunch.com/2025/08/10/truemeds-challenged-how-indians-buy-medicine-and-saw-a-3-6x-jump-in-valuation/",
+   "value": "500K avg/month; 3M total"
+  },
+  {
+   "as_of": "2025-08",
+   "company_reported": true,
+   "confidence": "MEDIUM",
+   "metric": " pincodes served; tier-2+ share",
+   "source_url": "https://techcrunch.com/2025/08/10/truemeds-challenged-how-indians-buy-medicine-and-saw-a-3-6x-jump-in-valuation/",
+   "value": "20,000+ pincodes; 75%+ tier-2+ "
+  },
+  {
+   "metric": "monthly_orders",
+   "value": 600000,
+   "unit": "orders",
+   "period": "FY25",
+   "as_of": "2025-08-11",
+   "company_reported": true,
+   "source_url": "https://m.economictimes.com/tech/funding/truemeds-closes-85-million-funding-led-by-accel-and-peak-xv-partners/articleshow/123221428.cms",
+   "confidence": "MEDIUM",
+   "notes": "ET: 'Monthly orders processed by the platform have grown by more than 100% year-on-year to close to 600,000 each month'"
+  },
+  {
+   "metric": "mobile_app_installs",
+   "value": 7000000,
+   "unit": "installs",
+   "period": "As-of-2026-09-15",
+   "as_of": "2026-09-15",
+   "company_reported": true,
+   "source_url": "https://www.truemeds.in/about-us",
+   "confidence": "MEDIUM",
+   "notes": "Company website: '70 lakh+ mobile app installs'"
+  },
+  {
+   "metric": "unique_users",
+   "value": 1000000,
+   "unit": "users",
+   "period": "As-of-2026-09-15",
+   "as_of": "2026-09-15",
+   "company_reported": true,
+   "source_url": "https://www.truemeds.in/about-us",
+   "confidence": "MEDIUM",
+   "notes": "Company website: '10 lakh+ unique users'"
+  },
+  {
+   "metric": "total_savings",
+   "value": 150,
+   "unit": "crore",
+   "currency": "INR",
+   "period": "As-of-2026-09-15",
+   "as_of": "2026-09-15",
+   "company_reported": true,
+   "source_url": "https://www.truemeds.in/about-us",
+   "confidence": "MEDIUM",
+   "notes": "Company website: '150Cr+ savings'"
+  },
+  {
+   "metric": "products_listed",
+   "value": 180000,
+   "unit": "products",
+   "period": "As-of-2026-09-15",
+   "as_of": "2026-09-15",
+   "company_reported": true,
+   "source_url": "https://www.truemeds.in/about-us",
+   "confidence": "MEDIUM",
+   "notes": "Company website: '1.8L+ products'"
+  },
+  {
+   "metric": "doctor_consultations",
+   "value": 3000000,
+   "unit": "consultations",
+   "period": "As-of-2026-09-15",
+   "as_of": "2026-09-15",
+   "company_reported": true,
+   "source_url": "https://www.truemeds.in/about-us",
+   "confidence": "MEDIUM",
+   "notes": "Company website: '30 lakh+ doctor consultations'"
+  },
+  {
+   "metric": "doctors_active",
+   "value": 600,
+   "unit": "doctors",
+   "period": "As-of-2026-09-15",
+   "as_of": "2026-09-15",
+   "company_reported": true,
+   "source_url": "https://www.truemeds.in/about-us",
+   "confidence": "MEDIUM",
+   "notes": "Company website: '600+ doctors'"
+  },
+  {
+   "metric": "pharmacists",
+   "value": 100,
+   "unit": "pharmacists",
+   "period": "As-of-2026-09-15",
+   "as_of": "2026-09-15",
+   "company_reported": true,
+   "source_url": "https://www.truemeds.in/about-us",
+   "confidence": "MEDIUM",
+   "notes": "Company website: '100+ pharmacists'"
+  },
+  {
+   "metric": "pincodes_served",
+   "value": 20000,
+   "unit": "pincodes",
+   "period": "As-of-2026-09-15",
+   "as_of": "2026-09-15",
+   "company_reported": true,
+   "source_url": "https://www.truemeds.in/about-us",
+   "confidence": "MEDIUM",
+   "notes": "Company website: '20K+ pincodes'; also '19,000+ pin codes' on homepage"
+  },
+  {
+   "metric": "fulfillment_centers",
+   "value": 19,
+   "unit": "centers",
+   "period": "FY25",
+   "as_of": "2025-08-11",
+   "company_reported": true,
+   "source_url": "https://m.economictimes.com/tech/funding/truemeds-closes-85-million-funding-led-by-accel-and-peak-xv-partners/articleshow/123221428.cms",
+   "confidence": "HIGH",
+   "notes": "ET: '19 fulfillment centres and plans to take it to 50 in the next 12 months'"
+  },
+  {
+   "metric": "monthly_customers_avg",
+   "value": 500000,
+   "unit": "customers",
+   "period": "FY25",
+   "as_of": "2025-08",
+   "company_reported": true,
+   "source_url": "https://techcrunch.com/2025/08/10/truemeds-challenged-how-indians-buy-medicine-and-saw-a-3-6x-jump-in-valuation/",
+   "confidence": "MEDIUM",
+   "notes": "TechCrunch: '500K avg/month; 3M total' customers"
+  }
+ ],
+ "_merged_session2": true
+}
